@@ -1,17 +1,36 @@
+from collections import defaultdict
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
+import json
 
 driver = webdriver.Chrome()
-driver.set_page_load_timeout(5)
+driver.set_page_load_timeout(2)
 try:
-  driver.get("https://www.tudogostoso.com.br/receita/316950-cupcake-de-batata.html")
+  driver.get("https://www.tudogostoso.com.br/receita/316996-pudim-fit.html")
 except:
   pass
-elementos = driver.find_elements(By.XPATH,'//div[@class="col-lg-8 ingredients-card"]/ul/li')
+elementos = driver.find_elements(By.XPATH,'//div[@class="col-lg-8 ingredients-card"]//*')
+ingredientes = defaultdict(list)
+actual = ''
 for e in elementos:
-  print(e.text)
+  if e.tag_name == 'h3':
+    actual = e.text
+  if actual != '' and e.tag_name == 'li':
+    ingredientes[actual].append(e.text)
 
-time.sleep(3)
+elementos = driver.find_elements(By.XPATH,'//div[@class="directions-info col-lg-8 directions-card"]//*')
+preparo = defaultdict(list)
+actual = ''
+for e in elementos:
+  if e.tag_name == 'h3':
+    actual = e.text
+  if actual != '' and e.tag_name == 'li':
+    preparo[actual].append(e.text)
+
+## time.sleep(3)
 driver.close()
+
+print(json.dumps(ingredientes,indent=2))
+print(json.dumps(preparo,indent=2))
