@@ -6,27 +6,27 @@ import time
 import json
 
 driver = webdriver.Chrome()
-driver.set_page_load_timeout(2)
+driver.set_page_load_timeout(3)
 try:
   driver.get("https://www.tudogostoso.com.br/receita/316996-pudim-fit.html")
 except:
   pass
 elementos = driver.find_elements(By.XPATH,'//div[@class="col-lg-8 ingredients-card"]//*')
 ingredientes = defaultdict(list)
-actual = ''
+actual = 'DEFAULT'
 for e in elementos:
   if e.tag_name == 'h3':
     actual = e.text
-  if actual != '' and e.tag_name == 'li':
+  if e.tag_name == 'li':
     ingredientes[actual].append(e.text)
 
 elementos = driver.find_elements(By.XPATH,'//div[@class="directions-info col-lg-8 directions-card"]//*')
 preparo = defaultdict(list)
-actual = ''
+actual = 'DEFAULT'
 for e in elementos:
   if e.tag_name == 'h3':
     actual = e.text
-  if actual != '' and e.tag_name == 'li':
+  if e.tag_name == 'li':
     preparo[actual].append(e.text)
 
 ## time.sleep(3)
