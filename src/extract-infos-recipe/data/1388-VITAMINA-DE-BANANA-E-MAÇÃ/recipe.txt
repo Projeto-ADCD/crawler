@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE BANANA E MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1/2 maçã",
+      "500 ml de leite",
+      "20 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite no liquidificador ",
+      "Depois corte a banana (em rodelas ) e a maçã",
+      "Coloque o açúcar",
+      "E por último bata tudo."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ARAUJOLORENAGUEDES11@GMAIL.COM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308588-vitamina-de-banana-e-maca.html"
+}

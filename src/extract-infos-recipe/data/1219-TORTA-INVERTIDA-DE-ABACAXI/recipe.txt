@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA INVERTIDA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "1 xícara (chá) de açúcar",
+      "1 abacaxi em rodelas",
+      "Massa",
+      "100 g de manteiga",
+      "1 caixinha de creme de leite ",
+      "3 ovos",
+      "2 xícaras (chá) de açúcar",
+      "1 e 1/2 xícara (chá) de leite ",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Em uma panela de fundo largo, derreta o açúcar até ficar dourado. Junte meia xícara (chá) de água quente e mexa com uma colher de cabo longo.",
+      "Deixe ferver até dissolver os torrões de açúcar e a calda engrossar. Em duas formas de bolo inglês (11 x 28 x 8 cm) untadas com manteiga, despeje a calda e distribua as rodelas de abacaxi. Reserve.",
+      "Massa",
+      "Em uma batedeira, bata a manteiga com o creme de leite, os ovos e o açúcar até obter um creme.",
+      "Desligue a batedeira, acrescente o leite, a farinha peneirada e o fermento em pó e misture até ficar homogêneo.",
+      "Despeje a massa sobre o abacaxi e leve ao forno médio-alto (200° C), preaquecido, por cerca de 30 minutos ou até dourar. Deixe amornar e desenforme.",
+      "Espere esfriar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "ANNA PAULA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309329-torta-invertida-de-abacaxi.html"
+}

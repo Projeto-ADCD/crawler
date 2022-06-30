@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CALDO DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 dentes de alho picado",
+      "1 cebola grande picada",
+      "1 tomate grande picado",
+      "cheiro-verde a gosto",
+      "bacon a gosto",
+      "2 calabresa picada",
+      "200 g de carne de primeira picada",
+      "2 tabletes de caldo ",
+      "4 mandiocas descascada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a mandioca para cozinhar de preferência na panela de pressão (cozinha mais rápido por 15 minutos)",
+      "Amasse ela com um garfo deixando alguns pedacinhos.",
+      "Retire duas xicaras de água e reserve.",
+      "Em uma frigedeira frite a carne, bacon e a calabresa",
+      "Em uma panela funda refogue alho cebola ate dourar e em seguida coloque o tomate e os 2 caldos, carne o bacon e a calabresa.",
+      "Depois misture todos os engredietes.",
+      "Com a mandioca e coloque as duas xícaras de água.",
+      "Deixe o caldo engrossar e coloque o cheiro-verde.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MAYRLA MENDONÇA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306041-caldo-de-mandioca.html"
+}

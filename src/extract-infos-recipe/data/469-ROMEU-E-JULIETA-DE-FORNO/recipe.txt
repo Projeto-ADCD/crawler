@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ROMEU E JULIETA DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de goiabada cortada em cubos",
+      "100 g de queijo minas em cubos pequenos",
+      "50 g de queijo provolone em cubos",
+      "8 tabletes de polenguinho",
+      "1 lata de leite condensado",
+      "Queijo parmesão ralado grosso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o polenguinho com leite condensado no liquidificador por alguns minutos e reserve",
+      "Misture os queijos e a goiabada e disponha numa forma de tamanho suficiente para uma camada grossa",
+      "Despeje o creme batido sobre a mistura",
+      "Coloque o parmesão por cima",
+      "Leve ao forno pré aquecido a 170° por 20 min ou até que esteja dourado",
+      "Sirva quente com sorvete"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KATIA INOCENTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312751-romeu-e-julieta-de-forno.html"
+}

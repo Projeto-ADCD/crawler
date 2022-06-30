@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ALFAÍCHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 folhas de alface",
+      "2 fatias de queijo",
+      "1 peito de frango ou salame italiano",
+      "1 ovo (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave, abra e junte duas folhas de alface.",
+      "Coloque o queijo e em cima o peito de frango.",
+      "Enrole como uma panqueca e leve à frigideira com tampa por 3 minutos.",
+      "Sirva e coma.",
+      "(Opcional: Você pode deixar a sua \"panqueca\" aberta e colocar um ovo batido na frigideira, enrolando depois de pronto)"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MATEUS ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313172-alfaiche.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BANOFE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250g biscoito maisena",
+      "1 colher (sopa) de manteiga",
+      "1/2 lata de doce de leite",
+      "2 bananas",
+      "200 ml de chantili"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o forno preaquecido em 120° C",
+      "Quebre toda a bolacha (até virar farelo)",
+      "Mistura o farelo com a manteiga",
+      "Bota essa massa em um tabuleiro pequeno e redondo",
+      "Deixe no forno por 10 minutos",
+      "Depois de tirar a massa bota doce de leite por cima",
+      "Adicione a banana picada",
+      "Logo depois adicione o chantili"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "ATENÇÃO: (aconselho a deixar pelo menos uma hora na geladeira só para engrossar)"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROMARIO LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306321-banofe.html"
+}

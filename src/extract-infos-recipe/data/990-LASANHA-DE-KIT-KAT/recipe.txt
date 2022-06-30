@@ -1,0 +1,53 @@
+{
+  "nome_receita": "LASANHA DE KIT KAT",
+  "ingredientes": {
+    "PARA O CREME BRANCO": [
+      "1/2 xícara (chá) de leite",
+      "100 g de creme de leite",
+      "1 colheres (sopa) de amido de milho",
+      "100 g de leite condensado",
+      "1 xícara de chocolate branco picado"
+    ],
+    "PARA O CREME DE CHOCOLATE MEIO AMARGO": [
+      "1/2 xicara (chá) de leite",
+      "100 g de creme de leite",
+      "1 colheres (sopa) de amido de milho",
+      "100 g de leite condensado",
+      "1 xícara de chocolate meio amargo picado"
+    ],
+    "PARA A COBERTURA": [
+      "100 g de creme de leite",
+      "1/2 colheres (sopa) de chocolate em pó",
+      "4 barras de chocolate Kit Kat",
+      "barras de Kit Kat a gosto para a montagem"
+    ]
+  },
+  "passos": {
+    "PARA O CREME BRANCO": [
+      "Misture todos os ingredientes em uma panela, espere criar uma mistura bem homogênea ",
+      "Desligue o fogo e reserve"
+    ],
+    "PARA O CREME DE CHOCOLATE MEIO AMARGO": [
+      "Misture todos os ingredientes em uma panela, espere criar uma mistura bem homogênea ",
+      "Desligue o fogo e reserve",
+      "Coloque as duas coberturas em dois recipientes separados e cobertas com plástico filme",
+      "Deixe esfriar"
+    ],
+    "PARA A COBERTURA ": [
+      "Junte os ingredientes em uma panela no fogo (menos o kit kat)",
+      "Misture bem e, quando ferver, junte o kit kat picado",
+      "Misture bem e reserve"
+    ],
+    "PARA A MONTAGEM": [
+      "Em um recipiente, forre o fundo com um pouco do creme branco",
+      "Por cima, distribua algumas barras de kit kat",
+      "Depois, despeje a cobertura de chocolate meio amargo, mais barras de kit kat e o creme branco de novo",
+      "Por cima de tudo, coloque a cobertura e finalize com mais barras de kit kat",
+      "Leve à geladeira e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310606-lasanha-de-kit-kat.html"
+}

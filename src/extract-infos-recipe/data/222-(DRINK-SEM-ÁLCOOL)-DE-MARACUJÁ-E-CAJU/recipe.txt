@@ -1,0 +1,24 @@
+{
+  "nome_receita": "(DRINK SEM ÁLCOOL) DE MARACUJÁ E CAJU",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de suco de maracujá",
+      "100 ml de suco de caju",
+      "200 ml de água (gelada de preferência)",
+      "4 colheres (sopa) de açúcar cristal",
+      "2 colheres (sobremesa) de essência de baunilha",
+      "8 (cubinhos) de maçã",
+      "2 cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o suco de maracujá, suco de caju, água, açúcar, essência de baunilha, maçã e os cubos de gelo em um liquidificador ",
+      "Bata por 3 minutos depois é só servir"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ISAQUE GREGÓRIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313885-drink-sem-alcool-de-maracuja-e-caju.html"
+}

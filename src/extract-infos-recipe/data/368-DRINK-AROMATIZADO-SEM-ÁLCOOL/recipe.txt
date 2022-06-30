@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DRINK AROMATIZADO SEM ÁLCOOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 de Melancia Baby",
+      "200 ml de água tônica",
+      "1 rodela de gengibre",
+      "3 folhas de hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o auxílio de um boleador de frutas, faça bolinhas com a polpa da melancia.",
+      "Depois, acrescente o gengibre fatiado, as folhas de hortelã e de 2 a 3 bolinhas de melancia em uma taça com a tônica.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARA CONTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313077-drink-aromatizado-sem-alcool.html"
+}

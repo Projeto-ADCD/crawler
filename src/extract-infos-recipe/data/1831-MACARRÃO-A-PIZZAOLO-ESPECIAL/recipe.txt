@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO A PIZZAOLO ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "750 g de macarrão espaguete",
+      "300 g de palmito picado",
+      "300 g de azeitona picada sem caroço",
+      "500 g de maionese",
+      "400 g de mussarela ralada",
+      "tempero pronto de massas a gosto",
+      "8 tomates maduros sem pele picados",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em uma panela com água e um fio de oléo com uma pitada de sal",
+      "Tire assim que ficar al dente e o reserve",
+      "Em um recipiente, misture o tomate, azeitona, palmito, o tempero e no fim acrescente a maionese até formar um molho",
+      "Em uma travessa, unte com a manteiga (ou margarina) e acrescente uma camada de macarrão, uma de molho (da maionese) e uma camada de queijo, repita até acabar os ingredientes.",
+      "Coloque no forno a 200° C em torno de 15 minutos para derreter e gratinar o queijo.",
+      "Sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não é necessário colocar sal\nDe 6 a 8 tomates, coloque quanto você achar necessário."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SAMANTHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306680-macarrao-a-pizzaolo-especial.html"
+}

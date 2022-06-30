@@ -1,0 +1,40 @@
+{
+  "nome_receita": "MACARRÃO CREMOSO DE PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de Macarrao penne",
+      "1 L de agua",
+      "300g de mussarela",
+      "300 g de presunto",
+      "1 pacote de extrato de tomate",
+      "1 caixa de creme de leite",
+      "100 g de azeitona sem caroço",
+      "1 copo de requeijão cremoso",
+      "100 g de bacon picado",
+      "100 g de linguiça defumada",
+      "Sal e temperos a gosto",
+      "Salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o macarrão para cozinhas seguindo as instruções da embalagem",
+      "Utilize 800 ml para o cozimento",
+      "Enquanto cozinha pique o bacon e a linguiça defumada, reserve.",
+      "Retire um pouco do oleo que fica na panela e refogue a cebola e o alho",
+      "Adicione sal",
+      "Coloque temperos a gosto",
+      "Após refogar a cebola e o alho nos temperos, adicione a azeitona e o baco e a linguiça defumada",
+      "Após isso adicionar o presunto picado",
+      "Mexer por 1minuto",
+      "Adicionar o extrato de tomate",
+      "Adicionar 200 mls de agua e mexer por 3 minutos",
+      "Adicionar a mussarela e o requeijão mexer por mais 4 ou 5 minutos",
+      "Desligar o fogo e acrescentar o creme de leite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GEISSA TAINARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306662-macarrao-cremoso-de-presunto-e-queijo.html"
+}

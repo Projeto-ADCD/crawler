@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE VEGETAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "1/2 xícara (chá) de queijo prato ralado ou muçarela",
+      "3 ovos",
+      "1 xícara (chá) de leite",
+      "1 pacote de de sopa de cebola em pó",
+      "3 tomates médios em cubos (sem a pele)",
+      "1 cenoura cozida picada em cubinhos",
+      "1 abobrinha italiana pequena ralada",
+      "1 pimentão amarelo, sem pele, cortado em cubinhos",
+      "1 colher (opa) de manjericão picado",
+      "1 colher (sopa) de cebolinha picada.",
+      "1 colher (sopa) de salsinha picada",
+      "1 colher (chá) de fermento em pó",
+      "2 ovos cozidos",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "sal e pimenta a gosto",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador, os ovos, o leite, a sopa de cebola em pó, o queijo ralado o manjericão e a farinha de trigo.",
+      "Bata tudo até obter uma mistura homogênea.",
+      "Transfira para uma vasilha funda e acrescente os tomates picados, o pimentão, a abobrinha ralada, a cenoura picada, a salsinha, a cebolinha e o fermento.",
+      "Misture tudo muito bem.",
+      "Tempere com sal e pimenta a gosto.",
+      "Em um refratário untado, distribua a metade da mistura.",
+      "Cubra com os ovos fatiados.",
+      "Cubra com o restante da massa e polvilhe com o queijo parmesão ralado.",
+      "Leve ao forno médio, preaquecido por uns 40 minutos ou até dourar.",
+      "Retire e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306406-torta-de-vegetais.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BATIDA DE CAJU",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de cachaça",
+      "200 ml de suco de caju concentrado ",
+      "100 ml de água",
+      "2 colheres de açúcar",
+      "1/2 caixinha de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador com gelo",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309254-batida-de-caju.html"
+}

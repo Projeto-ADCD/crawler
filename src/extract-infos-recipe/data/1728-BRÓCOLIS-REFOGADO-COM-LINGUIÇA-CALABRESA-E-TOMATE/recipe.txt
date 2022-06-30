@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BRÓCOLIS REFOGADO COM LINGUIÇA CALABRESA E TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 brócolis grande ou médio",
+      "1 linguiça calabresa",
+      "1 tomate",
+      "2 colheres (sopa) de manteiga",
+      "orégano",
+      "pimenta-do-reino em pó",
+      "sachê de tempero para arroz",
+      "sal a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o brócolis em banho-maria em um recipiente com furos em baixo, permitindo que a água escorra.",
+      "Após 40 minutos retire-o do recipiente e deixe esfriar um pouco. Corte os talos grandes e reserve o brócolis.",
+      "Para cortar tanto a linguiça calabresa quanto o tomate utilize a tábua para carne, corte 7 (Sete) fatias de linguiça e corte em cubinhos. Corte o tomate em rodelas e corte-os em cubos pequenos.",
+      "Em uma panela acrescente duas colheres sopa de manteiga, coloque a linguiça e o tomate.",
+      "Mexa até dourar a linguiça. Fogo baixo.",
+      "Coloque o brócolis, orégano, pimenta-do-reino, sachê ou sal e mexa tudo.",
+      "Se optar por colocar apenas o sal ponha à gosto. Se usou o sachê acrescentar sal não será necessário, pois o mesmo já tem uma quantia considerável de sal. Fica a seu critério.",
+      "Desligue o fogo. Deixe esfriar. Está pronto para servir no almoço ou jantar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRESSA VANNUCCINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306985-brocolis-refogado-com-linguica-calabresa-e-tomate.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO DE COLHER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 1/2 colher de pau de manteiga",
+      "1 1/2 caixa de leite condensado",
+      "2 colheres de achocolatado",
+      "1 1/2 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma panela, coloque-a no fogão, adicione a manteiga e espere derreter.",
+      "Quando derreter, coloque o leite condensado e mexa.",
+      "Depois coloque o achocolatado, mexa, e adicione o creme de leite.",
+      "Espere desgrudar da panela e guarde em um pote.",
+      "Se quiser, pode decorar."
+    ]
+  },
+  "tempo_de_preparo": "0 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DUDINHA PEQUENO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313131-brigadeiro-de-colher.html"
+}

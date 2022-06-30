@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CREME QUENTE DE CEBOLAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de cream cheese original Philadelphia",
+      "1 caixa de creme de leite",
+      "2 colheres (sopa) de maionese",
+      "1 pimenta malagueta picada sem sementes",
+      "1 dente de alho em pasta",
+      "2 cebolas roxas em fatias bem finas",
+      "100 g de mussarela ralada",
+      "2 colheres (sopa) de azeite",
+      "tomilho e orégano a gosto",
+      "pimenta branca a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro refogue as cebolas, o alho e a pimenta no azeite. Deixe dourar e então incorpore o cream cheese original Philadelphia com a maionese, o creme de leite, e metade da mussarela.",
+      "Acrescente tomilho, orégano e pimenta branca a gosto.",
+      "Cubra com a mussarela restante e leve para gratinar ao forno por aproximadamente 15 minutos. Servir quente com torradas.",
+      "Sugestão para servir: cortar a tampa de um pão italiano grande, retirar o miolo, colocar o creme já cozido dentro, cobrir com mussarela e levar para o forno para gratinar por 5 minutos.Primeiro refogue as cebolas, o alho e a pimenta no azeite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309366-creme-quente-de-cebolas.html"
+}

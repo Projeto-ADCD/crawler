@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ROCAMBOLE DE SORVETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "2 colheres (sopa) de manteiga",
+      "9 colheres (sopa) de achocolatado",
+      "100 g de coco ralado",
+      "1 colher (sopa) de fermento e m pó",
+      "calda de chocolate a gosto",
+      "1 pote de sorvete de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque 6 ovos, 2 colheres de manteiga, 9 colheres de achocolatado e 100 g de coco ralado e bata bem até formar uma mistura homogênea.",
+      "Desligue o liquidificador, transfira a mistura para uma tigela, adicione 1 colher de fermento em pó e misture.",
+      "Coloque a massa de chocolate feita acima em uma assadeira forrada com papel manteiga e untada com manteiga e leve ao forno médio preaquecido a 180° C por cerca de 15 minutos.",
+      "Retire a massa do forno e deixe esfriar. Desenforme a massa em uma superfície lisa forrada com um plástico e passe o rolo para deixar a massa um pouco mais fina.",
+      "Com uma faca, corte a massa de chocolate em 4 retângulos de 15 centímetros por 20 centímetros.",
+      "Coloque cada retângulo sobre um pedaço de papel alumínio, espalhe uma porção de calda de chocolate, coloque uma camada de sorvete no sentido do comprimento e enrole a massa, apertando bem e tomando o cuidado de não vazar o recheio pela lateral.",
+      "Repita o mesmo procedimento com os outros retângulos de massa. Leve os rolos para o freezer por 30 minutos.",
+      "Ao servir, cubra com calda chocolate ou mel e polvilhe confetes chocolate ou de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310575-rocambole-de-sorvete.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CAMARÃO RECHEADO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 camarões grandes ",
+      "150 g queijo gouda",
+      "3 ovos",
+      "3 xícaras de farinha de rosca",
+      "2 xícaras de trigo",
+      "1 limão a gosto para temperar",
+      "sal",
+      "pimenta do reino",
+      "óleo de soja para fritar",
+      "palitos de dentes para montagem."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe os camarões removendo as cascas e deixando a calda, não esquecer de remover o fio escuro acima dele com uma faca afiada. Este fio fica perto da superfície, faça um corte bem delicado e puxe.",
+      "Tempere os camarões com limão, sal e pimenta do reino.",
+      "Deixe marinar por no minimo 20 minutos na geladeira.",
+      "Enquanto isso prepare o queijo gouda cortando em quadrados de mais ou menos 1 cm.",
+      "Tempere a farinha de trigo com sal e pimenta e faça o mesmo com a farinha de rosca e ovos (bate-los á mão), os três ingredientes serão usados para empanar os camarões.",
+      "Retire os camarões da geladeira e um a um numa taboa coloque um camarão e no meio deste um quadrado do queijo gouda e passe o palito entre a calda e o inicio do camarão para fixar o queijo.",
+      "Montados os camarões, empane-os de forma generosa na farinha de trigo, ovos e farinha de rosca.",
+      "Frite-os em óleo de soja temperatura média até estarem dourados.",
+      "Antes de servir remova os palitos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Se os Camarões estiverem congelados não os descongele fora da geladeira, é uma carne delicada e muito perecível.\nVocê pode variar o queijo por qualquer um que possa ser cortado, fica perfeito com catupiry."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NATÁLIA SANCHEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313189-camarao-recheado-com-queijo.html"
+}

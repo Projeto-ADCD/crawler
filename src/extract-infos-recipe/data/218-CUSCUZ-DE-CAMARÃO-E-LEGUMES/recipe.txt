@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CUSCUZ DE CAMARÃO E LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de camarões limpos",
+      "sal, coentro, salsinha, cebolinha e pimenta a gosto",
+      "2 colheres (sopa) de azeitonas picadas",
+      "1 sachê de molho de tomate (340 g)",
+      "2 ovos cozidos",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "6 colheres grandes de farinha de milho",
+      "800 ml de água",
+      "1 lata de seleta de legumes",
+      "1 colher (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, aqueça o óleo e doure o alho e a cebola.",
+      "Junte os camarões, o sal, qapimenta, o coentro, o molho de tomate, um ovo picado, seleta de legumes (reservar um pouquinho para decorar) e a água.",
+      "Deixe ferver por uns 10 minutos.",
+      "Acrescente a farinha de milho e mexa em fogo baixo por uns 5 minutos.",
+      "Coloque em uma forma decorada com o ovo restante e a seleta de legumes reservada.",
+      "Espere amornar e desenforme"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313893-cuscuz-de-camarao-e-legumes.html"
+}

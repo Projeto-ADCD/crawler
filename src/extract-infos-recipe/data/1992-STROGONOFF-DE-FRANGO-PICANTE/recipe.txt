@@ -1,0 +1,39 @@
+{
+  "nome_receita": "STROGONOFF DE FRANGO PICANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "1/2 caixa de creme de leite",
+      "1 cebola grande",
+      "2 colheres (sopa) de azeite de oliva extra virgem",
+      "1/2 colher (sopa) de cominho",
+      "1 colher (chá) de açafrão",
+      "1/2 colher (chá) de curry",
+      "1/2 colher (chá) de folha de louro em pó",
+      "1 colher (chá) de pimenta calabresa",
+      "1/2 colher (sopa) de tempero pronto",
+      "1 colher (chá) de salsinha desidratada",
+      "1 colher (chá) de oregano",
+      "1/2 colher (sopa) de corante",
+      "4 dentes de alho grande",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Machuque os dentes de alho e misture com o caminho e o corante e sal e deixe na geladeira por 3 horas para apurar o tempero.",
+      "Em uma panela coloque o azeite de oliva com a cebola para dourar",
+      "Adicionou o frango temperado com fogo baixo e deixe que a água do frango vá secando",
+      "Quando tiver quase seco, acrescente um pouco de água e vá mexendo para que o cozimento seja uniforme",
+      "Acrescente a pimenta calabresa, o açafrão, o curry e a folha de louro e mexa",
+      "Caso seque, vá acrescentando água aos poucos para que se mantenha o cozimento",
+      "Acrescente o tempero, a salsinha e o orégano e mexa",
+      "Quando estiver quase cozido, acrescente o creme de leite e vá dosando o sal",
+      "Sirva com arroz branco e purê de batata."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SIMONE DE JESUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306241-strogonoff-de-frango-picante.html"
+}

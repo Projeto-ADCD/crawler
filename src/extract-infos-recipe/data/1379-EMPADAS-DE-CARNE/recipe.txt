@@ -1,0 +1,33 @@
+{
+  "nome_receita": "EMPADAS DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas médias",
+      "1/2 pimentão vermelho",
+      "2 talos de cebolinha",
+      "1 colher (sopa) de azeite de oliva",
+      "400 g de carne de boi magra moída",
+      "1/2 colher (sobremesa) de páprica doce",
+      "1 colher (sobremesa) de chili em pó",
+      "12 discos de massa para empadas",
+      "1 ovo batido",
+      "sal e pimenta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebolas corte o pimentão em cubinhos corte a cebola em rodelas.",
+      "Aqueca uma frigideira e verta o azeite de oliva, quando o azeite estiver quente, acrescente a cebola,o pimentão e a cebolinha e refogue por 2 minutos. A seguir, tempere com sal e pimenta.",
+      "Junte a carne, a páprica e o chili em pó e cozinhe tudo por cerca de 10 minutos, até que a carne fique marrom.",
+      "Coloque o recheio refogado e em uma vasilha reserve.",
+      "Quando o recheio estiver frio, pegue uma porção com uma colher e coloque-a perto de uma das bordas da massa de empanada. Coloque um pouco de água em uma xícara, molhe a ponta dos dedos indicador é médico e passe-as por cima das bordas da massa.",
+      "A seguir, dobre-a ao meio, cole as bordas uma na outra e pressione-as com um garfo para selá-las.",
+      "Pincele as empanadas fechadas em uma assadeira forrada com papel manteiga.",
+      "Pincele as empanadas com o ovo batido e asse-as em forno preaquecido a temperatura alta (200° C) até que dourem, entre 20 e 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ISADORA PALILIUNAS COPPA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308636-empadas-de-carne.html"
+}

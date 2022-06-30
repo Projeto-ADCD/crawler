@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE ERVILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacon ",
+      "2 linguiças calabresa",
+      "500 g de ervilha",
+      "3 caixas de creme de leite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a ervilha em um escorredor, coloque na mesma hora em uma panela de pressão com sal e água até cobrir, deixar por 8 min após dá pressão",
+      "Em uma panela frite o bacon, quando estiver soltado uma boa quantidade de gordura coloque a linguiça calabresa picada deixe fritar e reserve",
+      "Retire a ervilha e bata no liquidificador, coloque um pouco de água para ajudar a bater",
+      "Volte o bacon e a linguiça para o fogo e coloque 3 colheres (sopa) de água para dissolver o torrado que ficou no fundo da panela",
+      "Coloque a ervilha já batida no liquidificador, (como se trata de creme a ervilha não pode está rala, só coloque água se estiver muito denso), deixar ferver e coloque as três caixas de creme de leite e está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ALESSA BUENO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311700-creme-de-ervilha.html"
+}

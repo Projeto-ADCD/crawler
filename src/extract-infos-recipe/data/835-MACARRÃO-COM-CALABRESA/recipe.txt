@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MACARRÃO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão de sua preferência",
+      "2 calabresa defumada sadia ou perdigão fatias",
+      "10 colheres (sopa) de óleo",
+      "5 dentes alho grande picado",
+      "1 tomate maduro fatias",
+      "1/2 pimentão grande fatias",
+      "1/2 cebola grande picada",
+      "1 colher (sopa) rasa de colorau",
+      "2 tabletes de carne",
+      "1 sachê de molho pomarola",
+      "1 colher (sopa) de ketchup",
+      "100 ml de água",
+      "1 colher (sopa) rasa sal",
+      "mussarela picada a gosto",
+      "azeitonas a gosto",
+      "azeite para finalizar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque óleo na panela e frite alho até começar amarelar, adicione a lingüiça e o caldo dissolva, adicione coloral e as linguiças e da uma leve refogada.",
+      "Em seguida adicione as verduras e deixe refogar, adicione o molho pomarola e o ketchup, refogue e coloque 100 ml água para cozinhar os legumes em fogo baixo.",
+      "Molho pronto!",
+      "Cozinhe o macarrão, depois cozido, junte ao molho pronto, e adicione a mussarela picada as azeitonas e azeite a gosto e misture, verifique o sal. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "XANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311372-macarrao-com-calabresa.html"
+}

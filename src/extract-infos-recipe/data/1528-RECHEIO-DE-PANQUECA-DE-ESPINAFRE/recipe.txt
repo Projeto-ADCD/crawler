@@ -1,0 +1,24 @@
+{
+  "nome_receita": "RECHEIO DE PANQUECA DE ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de espinafre",
+      "1 colher (sopa) de óleo",
+      "1 colher de sopa de manteiga",
+      "1/2 cebola média",
+      "2 colheres (chá) de tempero em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o espinafre, lave-o e deixe escorrer.",
+      "Esquente o óleo junto com a manteiga e refogue a cebola ralada.",
+      "Ponha o espinafre sobre a cebola refogada, polvilhe o tempero em pó, mexa bem, tampe a panela e deixe cozinhar, em fogo baixo, no próprio suco por 10 minutos.",
+      "Recheie as panquecas com esta mistura e sirva bem quente."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307865-recheio-de-panqueca-de-espinafre.html"
+}

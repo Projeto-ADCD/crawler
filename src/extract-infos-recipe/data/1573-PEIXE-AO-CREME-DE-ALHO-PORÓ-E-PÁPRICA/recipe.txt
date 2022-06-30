@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PEIXE AO CREME DE ALHO PORÓ E PÁPRICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de merluza ",
+      "1 xícara de farinha de trigo (150 g)",
+      "100 ml de leite,",
+      "1 caixinha de creme de leite",
+      "1 talo de alho poró",
+      "1 colher (sopa) de páprica doce ou picante",
+      "1 fio de azeite",
+      "1 cebola média",
+      "salsinha a gosto",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os filés de merluza ao meio, tempere com sal e pimenta",
+      "Passe na farinha de trigo e frite-os em frigideira aquecida com azeite.",
+      "Reserve-os.",
+      "Molho",
+      "Refogue a cebola à julienne (cortes tirinhas finas no sentido comprido da cebola), em seguida misture o alho poró, cortado em rodelas finas, ao refogado.",
+      "Adicione o leite, engrosse com farinha de trigo,mexendo em fogo médio/ baixo, até formar um creme pouco espesso",
+      "Por último, adicione o creme de leite, a páprica,a salsinha picada a gosto, tempere com sal e pimenta a gosto.",
+      "Tire do fogo.",
+      "Montagem",
+      "Despeje numa travessa refratária o pouco do molho e intercale com o peixe e molho"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se preferir coloque queijo parmesão ralado e gratine no forno quente por aproximadamente 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MOISÉS COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307566-peixe-ao-creme-de-alho-poro-e-paprica.html"
+}

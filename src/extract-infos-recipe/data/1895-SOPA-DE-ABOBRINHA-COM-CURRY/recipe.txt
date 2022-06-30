@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOPA DE ABOBRINHA COM CURRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "azeite",
+      "1 cebola ",
+      "1 colher (sopa) de curry em pó",
+      "sal a gosto",
+      "2 abobrinhas grandes ",
+      "1 litro de caldo de galinha",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola cortada em cubos no azeite, acrescente o curry e o sal",
+      "Adicione a abobrinha cortada em cubos e deixe cozinhar até ficar macia",
+      "Acrescente o caldo de galinha e deixe cozinhar por 20 minutos em fogo baixo",
+      "Bata tudo no liquidificador ou mix",
+      "Bata os ovos inteiros e acrescente à sopa, mexendo sempre ",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANIELA AZEVEDO DE ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306500-sopa-de-abobrinha-com-curry.html"
+}

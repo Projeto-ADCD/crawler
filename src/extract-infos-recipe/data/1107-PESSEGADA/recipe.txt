@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PESSEGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de pêssegos verdes",
+      "1,5 kg de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e ferva os pêssegos.",
+      "Escorra e água e deixe esfriar.",
+      "Retire os caroços e bata os pêssegos no liquidificador.",
+      "Leve o açúcar ao fogo com seis xícaras de água e deixe ferver até dar o ponto de bala mole.",
+      "Junte a massa de pêssego e mexa até soltar do fundo da panela.",
+      "Coloque em compotas ou em pirex."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309843-pessegada.html"
+}

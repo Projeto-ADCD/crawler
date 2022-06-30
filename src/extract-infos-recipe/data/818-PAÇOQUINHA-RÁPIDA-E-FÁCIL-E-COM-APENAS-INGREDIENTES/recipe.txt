@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PAÇOQUINHA RÁPIDA E FÁCIL E COM APENAS 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha maria",
+      "1 pacote de farinha de amendoim",
+      "1 lata/caixinha de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture tudo no liquidificador e junte aos outros ingredientes, espalhe a massa em uma forma e deixe descansar e depois sirva suas paçoquinhas.",
+      "Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rendimento: 30 a 40 minutos de descanso\nNotícia boa é que não prescisa de forno ou geladeira!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MANUELA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311439-pacoquinha-rapida-e-facil-e-com-apenas-3-ingredientes.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ABÓBORA JACK COM CREME DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 abóboras Jack",
+      "200 g de camarão limpo (sem cabeça, casca)",
+      "2 colheres de azeite",
+      "1 cebola pequena cortada bem pequena",
+      "1 dente de alho picadinho",
+      "2 colheres (sopa) de creme de leite",
+      "50 ml de leite",
+      "1 colher (sobremesa) de amido de milho",
+      "2 colheres (sopa) de queijo cheddar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o camarão numa frigideira e um pouco de água. Tempere com sal e pimenta",
+      "Quando a água secar, coloque o azeite, cebola e alho refogue.",
+      "Acrescente o leite e o amido de milho mexa até engrossar.",
+      "Coloque o creme de leite e o queijo cheddar.",
+      "Recheie as abóboras",
+      "Está pronto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VANESSA FERNANDES ALVES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309593-abobora-jack-com-creme-de-camarao.html"
+}

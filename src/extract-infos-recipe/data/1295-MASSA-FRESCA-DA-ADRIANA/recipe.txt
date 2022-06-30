@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MASSA FRESCA DA ADRIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3 xicaras de farinha de trigo",
+      "1 colher (sobremesa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha com o sal dentro e adicione a água.",
+      "Numa batedeira planetária com o gancho, bata até a massa ficar macia, lisa e homogênea na em velocidade baixa.",
+      "Para dar o ponto talvez seja necessário adicionar um pouco de água ou farinha.",
+      "Se não houver liga, adicione um pouco de água, caso sejo o oposto, adicione um pouco de farinha.",
+      "Quando fizer esses acertos adicione um pouco do ingrediente, bata, verifique se deu o ponto e se necessário, continue adicionando-o.",
+      "Após dar o ponto, deixar a massa descansar por 30 minutos coberta em filme plástico",
+      "Abra, corte em espaguete e cozinhe em água fervente até ficar al dente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309024-massa-fresca-da-adriana.html"
+}

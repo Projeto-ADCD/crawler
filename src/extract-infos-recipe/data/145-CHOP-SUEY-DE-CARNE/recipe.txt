@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CHOP SUEY DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne cortada em cubos (maminha, alcatra, patinho...)",
+      "1 cenoura cortada em tiras finas",
+      "1 pimentão verde cortado em tiras",
+      "1 pimentão amarelo cortado em tiras",
+      "1 pimentão vermelho cortado em tiras",
+      "1 cebola cortada em cubos médios",
+      "1/2 couve flor",
+      "1/2 brócolis",
+      "1/4 de xícara de amendoim sem casca e sem sal (opcional)",
+      "1 xícara de shoyu",
+      "1 xícara de água",
+      "2 colheres de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente 1 litro de água e passe o brócolis e a couve-flor por 1 minuto",
+      "Logo depois coloque em uma vasilha com água e gelo por alguns segundos e reserve",
+      "Tempere a carne com sal e pimenta-do-reino e frite até dourar",
+      "Coloque a cebola, cenoura e o pimentão e doure por 2 minutos",
+      "Coloque a couve-flor e o brócolis",
+      "Misture em um recipiente a água, o shoyu e o amido, em seguida coloque na panela com os legumes e a carne e deixe cozinhar por 5 min em fogo baixo e sempre misturando devagar",
+      "Se desejar coloque o amendoim e deixe cozinhar mais 5 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314202-chop-suey-de-carne.html"
+}

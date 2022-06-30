@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIE DE BANANA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cacho de banana madura (variedade opcional)",
+      "2 ovos",
+      "1/2 xícara de farinha de aveia",
+      "1 xícara de aveia em flocos",
+      "1 colher (sopa) de mel",
+      "chocolate 60% cacau a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as bananas e coloque-as em um recipiente, amasse-as até ficar um “purê”",
+      "Adicione 2 ovos e o mel e misture bem.",
+      "Coloque a farinha de aveia, e em seguida a aveia em flocos, misture até ficar uma massa homogênea.",
+      "Pique o chocolate em pedaços e em seguida coloque-os misturando assim, juntos com a massa.",
+      "Aqueça o forno em 220° C",
+      "Utilize uma forma com pape manteiga ou uma forma de silicone untada com manteiga.",
+      "Asse por 20 minutos ou até dourar!",
+      "Espere esfriar e aproveite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "LUIZA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309219-cookie-de-banana-fit.html"
+}

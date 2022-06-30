@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TORRESMO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 kg de barriga de porco ",
+      "sal a gosto",
+      "2 xícaras de óleo de soja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a barriga em cubos de mais ou menos 3 cm",
+      "Tempere com o sal",
+      "Em uma panela de pressão, coloque o óleo de soja",
+      "Adicione os cubos da barriga, feche a panela de pressão sem borracha com a tampa e válvula.",
+      "Frite por 10 minutos.",
+      "Abra, mexa e coloque para fritar mais 10 minutos.",
+      "Repita umas 3 veze até que você veja que o torresmo já está frito.",
+      "Retire e sirva com um pouquinho de sal salpicado e limão."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALESSANDRA CALZOLARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307658-torresmo-na-panela-de-pressao.html"
+}

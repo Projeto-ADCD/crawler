@@ -1,0 +1,24 @@
+{
+  "nome_receita": "REQUEIJÃO SEM VERGONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite integral",
+      "2 colheres (sobremesa) de farinha de trigo",
+      "2 colheres (sobremesa) de queijo ralado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a farinha no leite ainda frio",
+      "Misture com o queijo ralado e corrija o sal",
+      "Comece a cozinhar em fogo baixo, mexendo sempre",
+      "Assim que começar a aparecer o fundo da panela desligue o fogo e deixe esfriar",
+      "Essa receita cabe exatamente em um copo de requeijão de 200 g, tampe e deixe na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DANIEL TAVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309962-requeijao-sem-vergonha.html"
+}

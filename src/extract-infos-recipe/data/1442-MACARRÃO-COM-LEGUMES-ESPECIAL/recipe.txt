@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO COM LEGUMES ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de acarrão",
+      "2 cenouras médias",
+      "200 g de vagem",
+      "1/2 brócolis",
+      "1/2 xícara de azeite",
+      "1 sachêcde tempero sabor alecrim",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique em pedacinhos pequenos todos os legumes",
+      "Em uma panela adicione aproximadamente 4 Litros de água e coloque para ferver.",
+      "Quando iniciar e fervura, adicione a cenoura e a vagem, quando estiverem quase cozidos adicione o brócolis e deixe por mais 2 min aprox.",
+      "Escorra os legumes sem desprezar a água do cozimento",
+      "Em seguida coloque o macarrão na mesma água dos legumes junto com o sal, até o ponto al dente",
+      "Em outra panela aqueça o azeite e adicione os legumes junto com o tempero sabor alecrim e sal a gosto",
+      "Com o macarrão escorrido misture os legumes refogados e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALEXANDRE RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308325-macarrao-com-legumes-especial.html"
+}

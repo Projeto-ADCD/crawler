@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ALMÔNDEGAS VEGETARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de soja em flocos",
+      "1 ovo",
+      "1 cebola pequena",
+      "1 e 1/2 xícara (chá) de água",
+      "3 colheres rasas (sopa) aproximadamente de farinha de trigo",
+      "sal a gosto",
+      "orégano, cominho moído (ou temperos de sua preferência)",
+      "molho de tomate",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água e coloque sobre a soja em um recipiente (somente até cobrir por completo)",
+      "Deixe descansar por 20 minutos.",
+      "Depois de descansar, bata no liquidificador ou processador (se náo quiser muito pastoso não bata muito)",
+      "Bata todos os ingredientes juntos, exceto a farinha de trigo.",
+      "Despeje em um recipiente e vá adicionando a farinha de trigo aos poucos somente até poder modelar (não ponha muita farinha)",
+      "Frite em óleo quente e coloque no molho e deixe ferver por 1 minuto e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "PAULA SANTUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310791-almondegas-vegetariana.html"
+}

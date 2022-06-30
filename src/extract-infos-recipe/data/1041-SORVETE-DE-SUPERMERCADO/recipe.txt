@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SORVETE DE SUPERMERCADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Primeira etapa",
+      "1 litro de leite integral",
+      "1 copo de 200ml de açúcar",
+      "1 colher (sopa) de liga neutra",
+      "Segunda etapa",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 colheres (sopa) de emulsificante",
+      "2 colheres de pó para sabor de sorvete da sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeira etapa",
+      "Misture tudo no copo do liquidificador bata por 2 minutos e leve ao congelador ou freezer por 6 horas",
+      "Segunda etapa",
+      "Misture os ingredientes da (1 etapa depois de 6 horas no freezer ou congelador) com os ingredientes da segunda etapa na batedeira em velocidade alta por 10 minutos",
+      "Rende muito, leve esse creme ao freezer até ficar como sorvete, mais ou menos 15 horas",
+      "Pode acrescentar coco ralado e frutas secas"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Emulsificante, liga neutra e o pó para sorvete você encontra em supermercados ou lojas com itens para confeitaria"
+    ]
+  },
+  "tempo_de_preparo": "1440 MIN",
+  "rendimento": "2000 PORÇÕES",
+  "autor": "JOANA V.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310275-sorvete-de-supermercado.html"
+}

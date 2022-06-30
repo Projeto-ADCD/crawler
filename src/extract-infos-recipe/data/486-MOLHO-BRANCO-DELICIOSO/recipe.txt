@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOLHO BRANCO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picada",
+      "1 colher de manteiga",
+      "1 litro de leite",
+      "2 colheres de amido de milho",
+      "1/2 creme de leite",
+      "50 g de queijo ralado",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola com a manteiga, até que a cebola murche.",
+      "Acrescente quase todo o leite (reserve um pouco). Mexendo até ferver.",
+      "Adicione 2 colheres de amido de milho no leite que sobrou para dissolver, e coloque na panela junto ao leite que está fervendo.",
+      "Acrescente o queijo ralado, sal e pimenta. Mexendo sempre.",
+      "Quando engrossar e estiver bem cozido, acrescente metade do creme de leite e acerte o sal se for preciso. Se a consistência estiver boa, está pronto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(Se ainda não estiver com consistência de creme, dissolva mais 1 colher de amido de milho em um pouquinho de leite e deixe cozinhar mais alguns minutos. Certamente vai engrossar!)"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "BIA COLINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312702-molho-branco-delicioso.html"
+}

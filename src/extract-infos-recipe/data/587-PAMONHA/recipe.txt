@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PAMONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Folhas novas de milho",
+      "5 litros de água",
+      "3 xícaras (chá) de milho fresco ralado",
+      "3 xícaras (chá) de coco ralado",
+      "1 pacote de 450 g de MISTURA PARA BOLO DONA BENTA LINHA SÃO JOÃO MILHO",
+      "sal a gosto",
+      "4 colheres (sopa) de margarina amolecida",
+      "6 colheres (sopa) de açúcar",
+      "2 xícaras (chá) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as folhas de milho.",
+      "Afervente-as para amolecer e reserve.",
+      "Em uma panela, ferva a água.",
+      "Em uma vasilha, misture o milho, o coco, a MISTURA PARA BOLO DONA BENTA LINHA SÃO JOÃO MILHO, o sal, a margarina e o açúcar.",
+      "Adicione o leite e misture até obter uma massa pastosa.",
+      "Entre duas folhas de milho sobrepostas e abertas, coloque de 2 a 4 colheres (sopa) da massa e dobre as laterais no sentido do comprimento para o centro.",
+      "Em seguida, junte as pontas e amarre-as com uma tira da própria folha ou uma linha grossa, formando uma trouxinha.",
+      "Repita esse processo até terminarem os ingredientes.",
+      "Distribua as pamonhas dentro de uma panela com água fervente e cozinhe por cerca de 20 minutos.",
+      "Escorra e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312434-pamonha.html"
+}

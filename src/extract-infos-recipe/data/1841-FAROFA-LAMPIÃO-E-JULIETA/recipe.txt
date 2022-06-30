@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA LAMPIÃO E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 calabresa picada em cubos",
+      "bacon a gosto picado em cubos",
+      "100 g de presunto picado",
+      "1/2 cebola picada",
+      "pimentão a gosto picado",
+      "4 ovos",
+      "100 g de mussarela picada",
+      "150 g de goiabada picada",
+      "Farinha de mandioca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, frite o bacon e a calabresa",
+      "Adicione o presunto, misture e deixe dourar",
+      "Adicione a cebola e o pimentão, misture e deixe fritar um pouco, enquanto mexe",
+      "Adicione os 4 ovos e misture até os ovos começarem a ficar firmes",
+      "Adicione a mussarela e a goiabada e mexa até a goiabada começar a derreter",
+      "Adicione a farinha e misture"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JOSENALDO DE OLIVEIRA MATOS FILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306649-farofa-lampiao-e-julieta.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "AMBROSIA DO RAPHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de açúcar",
+      "6 ovos inteiros (clara e gema)",
+      "1 litro de leite",
+      "2 limões médios ou 1/2 xícara (chá) do suco dos limões",
+      "cravo e canela em pau a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um pote a clara e a gema e reserve.",
+      "Retire os sucos dos limões ou das laranjas e reserve.",
+      "Em uma panela grande, adicione metade da quantidade de açúcar (250 g), o cravo e a canela em pau e leve ao fogo até formar um caramelo. Cuidado para não queimar! Mexa o açúcar com uma colher para que caramelize uniformemente.",
+      "Depois de formado o caramelo, adicione todo o leite e não mexa ate ferver. Neste momento, o caramelo irá endurecer, então é preciso que ele se dissolva um pouco para que possamos fazer os próximos passos. Com uma colher verifique as vezes se o caramelo está se soltando do fundo da panela, mas com muito cuidado, não faça força. O leite ganhará aos poucos um tom amarronzado, conforme o caramelo vai derretendo no leite quente.",
+      "Após o leite fervido e com o caramelo já derretido, adicione o suco dos limões e os ovos e mexa, só ate misturar com o leite. Esta é a parte mais importante. Se misturar demais vira doce de leite! Por isso, umas 5 ou seis voltas com a colher já é suficiente para misturar o conteúdo dos ovos e limões ao leite.",
+      "Após isso, NÃO MEXA MAIS, e deixe ferver em fogo alto. Não tampe a panela, pois os líquidos precisam evaporar.",
+      "Para que não queime dos lados, passe a colher algumas vezes apenas nas bordas da panela, sem mexer no meio!",
+      "Irá ferver por aproximadamente 1 a 1 hora e 20 minutos Quando o líquido estiver mais ralo, é hora de desligar e deixar a ambrosia esfriar para que possa colocar em algum recipiente. Leve à geladeira e prontinho, é só se deliciar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(pode usar laranja também [3 laranjas ou 1 xícara de chá do suco])"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "RAPHAEL LOMPA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307171-ambrosia-do-rapha.html"
+}

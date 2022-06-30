@@ -1,0 +1,45 @@
+{
+  "nome_receita": "ESCONDISANHA",
+  "ingredientes": {
+    "RECHEIO": [
+      "1 kg de peito de frango cozido desfiado ",
+      "1 xícara de extrato de tomate"
+    ],
+    "CREME DE MILHO ": [
+      "250 ml de água do cozimento do frango",
+      "1 caixa de creme de leite",
+      "1 lata de milho",
+      "1 copo de requeijão (ou queijo, se não tiver pode substituir por farinha de trigo para engrossar)",
+      "1 pitada de sal"
+    ],
+    "PURÊ DE BATATA": [
+      "3 batatas cozidas e espremidas",
+      "1 xícara leite",
+      "sal a gosto",
+      "1 pacote de massa de lasanha ou massa de panqueca",
+      "1/2 xícara de queijo",
+      "sal e especiarias a gosto"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Faça o creme de milho batendo a água do cozimento frango, o milho, o creme de leite, o requeijão e uma pitada de sal, após reserve.",
+      "Refogue o frango desfiado em temperos de sua escolha (ex. cebola, alho, pimentão....)",
+      "Com o frango refogado, coloque o extrato de tomate.",
+      "Após, coloque o creme de milho no frango refogado, misture e reserve."
+    ],
+    "PURÊ DE BATATA": [
+      "Com as batatas cozidas, e insira o leite e o sal, e reserve."
+    ],
+    "MONTAGEM": [
+      "Em uma forma grande, faça camadas intercaladas, com recheio e purê de batata, recheio e massa de lasanha (ou massa de panqueca), a ultima camada deve ficar o recheio por cima.",
+      "Coloque o queijo e batata palha por toda a Escondisanha",
+      "Deixe assando no forno em fogo médio por aproximadamente 30 minutos.",
+      "Sirva com arroz branquinho."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "THIAGO DOS ANJOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311233-escondisanha.html"
+}

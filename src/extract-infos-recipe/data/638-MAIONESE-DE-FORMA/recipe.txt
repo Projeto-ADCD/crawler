@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MAIONESE DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas cozidas e picadas em cubos",
+      "2 cenouras cozidas e picadas em cubos",
+      "1 lata de ervilha",
+      "3 colheres (sopa) de creme de leite",
+      "6 colheres (sopa) de maionese",
+      "tempero a gosto",
+      "cheiro-verde a gosto",
+      "1 xícara de água fervente",
+      "1 cubo de tempero ou 1 sachê",
+      "1 pacote de gelatina sem sabor",
+      "6 ovos ou 12 ovinhos de codorna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha misture as batatas, as cenouras e a ervilha",
+      "Coloque o creme de leite, a maionese, os temperos e o cheiro verde, e misture bem.",
+      "Em outra vasilha, misture a água e o cubo ou sachê de tempero, até dissolver o tempero.",
+      "Dissolva a gelatina na água com tempero, e após esfriar, coloque na maionese.",
+      "Em uma forma de pão, forre com papel-filme e despeje a metade da maionese.",
+      "Coloque os ovos ou os ovinhos e despeje o restante da maionese.",
+      "Cubra e leve à geladeira por no mínimo 4 horas",
+      "Depois de bem durinha, desenforme a maionese e decore a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312211-maionese-de-forma.html"
+}

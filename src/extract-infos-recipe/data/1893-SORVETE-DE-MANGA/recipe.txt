@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE DE MANGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 manga grande",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a manga, o leite condensado e o creme de leite",
+      "Passa pela peneira o creme e coloque em um refratário",
+      "Leve ao congelador por 1 hora e 30 minutos "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ZAHRA FAYOLA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306507-sorvete-de-manga.html"
+}

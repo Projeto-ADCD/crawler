@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAÇOCA GELADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixinhas de creme de leite",
+      "1 pote de paçoquinha rolha YOKI",
+      "1 colher (sobremesa) de margarina sem sal",
+      "1 pacote de Chantili Yoki",
+      "2 xícaras (chá) de leite",
+      "2 pacotes de biscoito champanhe"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esmague bem as paçocas.",
+      "Em uma panela, misture o leite condensado, a paçoquinha e a margarina e ferva até engrossar.",
+      "Atente para a consistência: quando ao mexer for possível ver o fundo da panela o creme estará pronto.",
+      "Desligue o fogo e acrescente o creme de leite. Sua paçoquinha de colher está quase pronta!",
+      "Forre um refratário com biscoitos champagne levemente umedecidos com leite.",
+      "Em seguida, despeje o creme da paçoca e faça camadas intercalando as bolachas com o creme.",
+      "Para finalizar, acrescente o chantili batido conforme instruções da embalagem.",
+      "Decore com paçoquinhas esfareladas e/ou inteiras.",
+      "Leve sua receita de paçoca de colher para gelar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "YOKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307181-pacoca-gelada.html"
+}

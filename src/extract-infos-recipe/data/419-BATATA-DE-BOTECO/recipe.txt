@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BATATA DE BOTECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Ondulada 9x18 com casca Bem Brasil",
+      "2 dentes de alho ",
+      "100 g de tomate-cereja ",
+      "3 colheres de azeite ",
+      "200 g de bacon ou panceta",
+      "200 g de linguicinha ",
+      "50 ml de cachaça ",
+      "70 g de pimenta biquinho ",
+      "200 g de queijo minas ",
+      "5 ramos de cebolinha ",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o alho em lâminas e o tomate-cereja em quatro e reserve",
+      "Leve uma panela ao fogo e adicione o azeite, o bacon e a linguicinha, e deixe fritar",
+      "Adicione o alho e salteie",
+      "Adicione a cachaça e flambe",
+      "Em seguida, adicione o tomate e a pimenta biquinho e reserve",
+      "Frite a Batata 9x18 com casca Bem Brasil até ficar crocante por fora e macia por dentro",
+      "Escorra em papel-toalha e reserve",
+      "Adicione o queijo minas em cubos e a cebolinha fatiada",
+      "Salteie tudo junto",
+      "Sirva com a batata frita. "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312865-batata-de-boteco.html"
+}

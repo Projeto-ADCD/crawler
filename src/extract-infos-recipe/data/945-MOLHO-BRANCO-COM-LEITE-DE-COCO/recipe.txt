@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO BRANCO COM LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas médias",
+      "4 dentes de alho",
+      "3 colheres (sopa) de azeite",
+      "1 xícara de água",
+      "1 garrafa pequena de leite de coco (200ml)",
+      "2 colheres (sopa) de amido de milho",
+      "1 colher (sopa) de cúrcuma",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as cebolas e alho no liquidificador. Refogue com o azeite até dourar.",
+      "Misture o amido de milho na água fria e acrescente ao refogado e misture em fogo baixo até reduzir a água. Acrescente o leite de coco e continue misturando até ganhar consistência.",
+      "Desligue o fogo e acrescente a cúrcuma e o sal.",
+      "Sirva em seguida!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LÚCIA HELENA XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310790-molho-branco-com-leite-de-coco.html"
+}

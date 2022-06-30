@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE AMENDOIM COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pitada de sal",
+      "1 colher (chá) de canela em pó",
+      "1 ovo pequeno",
+      "2 colheres (sopa) de água gelada ",
+      "1/2 xícara de açúcar branco ou mascavo",
+      "1 colher (sopa) de farinha de trigo",
+      "60 g de margarina tablete derretida",
+      "1 colher (chá) de essência de rum ou baunilha ",
+      "150 g de amendoim torrado com pele e moído grosseiramente",
+      "2 ovos ligeiramente batidos",
+      "150 g de doce de leite",
+      "açúcar de confeiteiro a gosto para polvilhar (opcional) ",
+      "2 xícaras de farinha de trigo",
+      "2 olheres (sopa) de açúcar ",
+      "1 Primor Forno e Fogão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture com um garfo a farinha com o açúcar, o sal, a canela e a margarina, até obter uma farofa grossa.",
+      "Junte o ovo e a água e amasse, sem sovar.",
+      "Forre o fundo e a lateral das forminhas com a massa e depois preencha com o recheio até 3/4 da capacidade.",
+      "Coloque 1 colher (chá) do doce de leite no centro de cada uma delas",
+      "Asse no forno preaquecido na temperatura moderada (180º C) por 30 minutos ou até dourar.",
+      "Sirva em temperatura ambiente. Se preferir, complete com doce de leite o centro das tortinhas, depois que saírem do forno. "
+    ],
+    "RECHEIO": [
+      "Reserve o doce de leite e misture todos os ingredientes: o açúcar branco ou mascavo, farinha de trigo, margarina tablete derretida, essência de rum ou baunilha, amendoim torrado com pele e moído grosseiramente, ovo e o doce de leite"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Recomenda-se o uso de forminhas redondas e caneladas, de 9 x 2 cm."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312022-torta-de-amendoim-com-doce-de-leite.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "GROSELITAS (WHISKY COM GROSELHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de whisky com mel (medida da lata de leite condensado)",
+      "1/2 lata de groselha (medida da lata de leite condensado)",
+      "cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma jarra coloque o leite condensado, o whisky e a groselha.",
+      "Misture bem todos os ingredientes com uma colher ou mixer e sirva em taças com 2 ou 3 cubos de gelo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "THIAGO GIANELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309299-groselitas-whisky-com-groselha.html"
+}

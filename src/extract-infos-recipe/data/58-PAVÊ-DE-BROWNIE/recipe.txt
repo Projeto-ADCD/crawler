@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PAVÊ DE BROWNIE",
+  "ingredientes": {
+    "MASSA ": [
+      "140 g de açúcar ",
+      "40 g de farinha de trigo ",
+      "118 g de chocolate em pó",
+      "120 g de manteiga ",
+      "2 ovos "
+    ],
+    "RECHEIO": [
+      "396 g de leite condensado ",
+      "15 g de manteiga ",
+      "150 g de coco ralado ",
+      "nozes a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa ",
+      "Misture todos os ingredientes em um recipiente ",
+      "Quando formar uma massa cremosa, leve para uma forma untada e enfarinhada",
+      "Acomode a massa e leve para assar a 180° C por 20 minutos ",
+      "Reserve"
+    ],
+    "RECHEIO ": [
+      "Em uma panela, misture todos os ingredientes menos as nozes",
+      "Quando a mistura atingir o ponto de brigadeiro mole, desligue o fogo "
+    ],
+    "FINALIZAÇÃO": [
+      "Corte o brownie em pequenos pedaços ",
+      "Coloque dentro de um copo ou taça",
+      "Por cima, coloque o recheio de coco",
+      "Intercale as camadas",
+      "Finalize com as nozes e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314643-pave-de-brownie.html"
+}

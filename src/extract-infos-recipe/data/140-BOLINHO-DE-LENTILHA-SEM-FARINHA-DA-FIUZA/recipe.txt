@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE LENTILHA SEM FARINHA DA FIUZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de lentilha cozida (pode ser sobra)",
+      "1 xícara de aveia em flocos",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) de cebola picada",
+      "1 colher (sopa) de salsinha",
+      "calabresa e bacon a gosto (para vegetariano, pode excluir da receita)",
+      "Especiarias a gosto. Sugestão: 3 pitadas cada: noz-moscada, pimenta do reino e páprica defumada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a aveia em flocos no liquidificador, até obter a consistência de farinha. Reserve.",
+      "Com o auxílio de uma peneira, retire o caldo da lentilha.",
+      "Junte a aveia e a lentilha, com os outros ingredientes.",
+      "Misture tudo, amassando-os com o auxílio de uma colher, até obter uma massa.",
+      "Faça os bolinhos e colocar na forma untada com azeite.",
+      "Leve ao forno 180º C, com papel-alumínio por 20 minutos e após, retire o papel-alumínio e deixe por mais 10 minutos para dourar.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "AMANDA FIUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314259-bolinho-de-lentilha-sem-farinha-da-fiuza.html"
+}

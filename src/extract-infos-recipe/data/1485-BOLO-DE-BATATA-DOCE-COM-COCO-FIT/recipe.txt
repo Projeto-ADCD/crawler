@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BATATA-DOCE COM COCO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "100 ml de leite",
+      "1 colher (sopa) vinagre de maçã",
+      "1 pitada de sal",
+      "1 colher (chá) de canela",
+      "3/4 xícara de açúcar demerara",
+      "100 g de batata-doce ralada crua",
+      "100 g de coco ralado sem açúcar(fresco)",
+      "1 xícara de farinha de aveia",
+      "1/2 xícara de amido de milho",
+      "2 colheres (sopa) de semente de chia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os igredientes líquidos no liquidificador ",
+      "Bata por 2 minutos, em seguida acrescente a farinha de aveia, o açúcar, a batata-doce, o coco ralado, a pitada de sal, a canela e o amido de milho.",
+      "Bata novamente.",
+      "Coloque a semente de chia após finalizar e mexer com uma colher",
+      "Adicione o fermento em pó, mexa e coloque na forma.",
+      "Leve ao forno preaquecido em 180° C por 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DENISE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308074-bolo-de-batata-doce-com-coco-fit.html"
+}

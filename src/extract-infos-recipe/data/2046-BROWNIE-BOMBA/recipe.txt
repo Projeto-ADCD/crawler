@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BROWNIE BOMBA",
+  "ingredientes": {
+    "DEFAULT": [
+      "220 g de farinha de trigo ",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (sopa) de fermento em pó",
+      "80 ml de óleo vegetal",
+      "55 g de manteiga derretida",
+      "150g de açúcar",
+      "60 g de cacau em pó",
+      "1 ovo",
+      "1 colher (chá) extrato de baunilha",
+      "6 trufas de chocolate ao leite",
+      "açúcar de confeiteiro para decorar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um bowl, a farinha de trigo, o sal e o fermento em pó.",
+      "Reserve.",
+      "Em outro bowl, misture o óleo vegetal, a manteiga derretida, açúcar, o cacau em pó e o extrato de baunilha com auxílio de um fouet.",
+      "Em seguida, adicione o ovo e misture um pouco mais",
+      "Adicione a mistura de farinha de trigo e mexa delicadamente até ficar em ponto de enrolar",
+      "Faça bolinhas de aproximadamente 60 g",
+      "No meio das bolinhas, coloque as trufas de chocolate",
+      "Enrole bem, coloque numa forma forrada com papel-manteiga e leve ao forno a 190º C, por aproximadamente 10 minutos. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306125-brownie-bomba.html"
+}

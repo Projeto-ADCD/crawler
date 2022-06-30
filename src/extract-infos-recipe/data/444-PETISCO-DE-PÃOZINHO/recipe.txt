@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PETISCO DE PÃOZINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 fatias de pão de forma sem casca",
+      "1 tomate picado bem pequeno",
+      "1/4 de cebola picada bem pequena",
+      "1 dente de alho",
+      "pimenta calabresa ou preta",
+      "orégano",
+      "azeite para regar",
+      "queijo ralado de preferência (usei provolone)",
+      "1 colher (sopa) de maionese",
+      "raspinha de limão",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os pãezinhos em quadradinhos sem a casca. Reserve.",
+      "Pique o tomate, a cebola e rale o alho.",
+      "Misture com a maionese, o sal, a raspinha de limão e a pimenta.",
+      "Coloque por cima dos pãezinhos, rale o queijo de sua preferência,",
+      "Polvilhe orégano e regue o azeite.",
+      "Coloque no forninho elétrico pre aquecido por quinze minutos. (Ou forno pre aquecido por 10 min a 180 graus)",
+      "Sirva a seguir com um bom vinho e frios."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VÂNIA DO VALE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312819-petisco-de-paozinho.html"
+}

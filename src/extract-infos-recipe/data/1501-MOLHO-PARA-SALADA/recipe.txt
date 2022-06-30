@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO PARA SALADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de iogurte natural",
+      "3 colheres (sopa) de azeite",
+      "1 colher (sopa) de iogurte",
+      "1 pitada de pimenta-do-reino",
+      "1 limão",
+      "3 dentes de alhos",
+      "2 colheres (sopa) de ketchup"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro corte o alho o mais fino e pequeno possível",
+      "Depois esprema o limão em um pote",
+      "Segundo coloque o limão o alho e o iogurte no pote e misture muito muito bem, é importante misturar muito bem",
+      "Terceiro depois de misturar os três coloque o azeite o catchup e a pimenta,misture muito bem",
+      "Por fim deixe no congelador por uns 5 minutos",
+      "Daí é só colocar na sua salada de preferência, ela dá um sabor especial para a salada fica muito bem temperada!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VITORIA BANDEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308004-molho-para-salada.html"
+}

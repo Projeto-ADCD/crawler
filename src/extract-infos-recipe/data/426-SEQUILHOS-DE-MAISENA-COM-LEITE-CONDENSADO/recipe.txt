@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SEQUILHOS DE MAISENA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amido de milho",
+      "1 caixa de leite condensado 395 g",
+      "200 g de margarina ou manteiga",
+      "4 colheres (sopa) de leite em pó (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o amido de milho em uma bacia (reserve um pouco de amido).",
+      "Acrescente o leite condensado e a margarina e por último coloque o leite em pó.",
+      "Amasse bem até desgrudar das mãos.",
+      "Faça bolinhas e coloque em uma forma.",
+      "Leve ao forno preaquecido por 15 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "obs: assa muito rápido"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "DAIANE FAUSTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312857-sequilhos-de-maisena-com-leite-condensado.html"
+}

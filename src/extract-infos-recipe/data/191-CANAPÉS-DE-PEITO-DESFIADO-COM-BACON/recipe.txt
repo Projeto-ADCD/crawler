@@ -1,0 +1,52 @@
+{
+  "nome_receita": "CANAPÉS DE PEITO DESFIADO COM BACON",
+  "ingredientes": {
+    "PARA AS CESTINHAS": [
+      "12 unidades de massa de pastel",
+      "2 colheres (sopa) de óleo para untar a forma"
+    ],
+    "PARA OS CANAPÉS": [
+      "400 g de Peito Desfiado Copacol",
+      "200 g de bacon em cubos",
+      "2 cenoura média",
+      "50 g de cranberry",
+      "50 g de nozes",
+      "1/2 xícara de salsinha (folhas inteiras)",
+      "1 xícara de ervilha"
+    ],
+    "PARA O MOLHO": [
+      "200 g de iogurte natural sem açúcar",
+      "1 dente de alho pequeno",
+      "1 limão siciliano",
+      "1 colher (chá) de pimenta-preta",
+      "1/2 xícara de queijo parmesão",
+      "2 colheres (sopa) de azeite de oliva",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 160º C"
+    ],
+    "PARA AS CESTINHAS": [
+      "Unte uma forma de cupcake com o óleo, em seguida disponha as massas de pastel em cada compartimento da forma, empurrando o fundo para que se moldem bem.",
+      "Deixe as pontas que sobrarem para fora. Leve ao forno para assar a 160º C por 12 a 15 minutos. Após, retire e deixe esfriar."
+    ],
+    "PARA OS CANAPÉS": [
+      "Em uma panela coloque o bacon para fritar. Quando estiver bem dourado, desligue o fogo e adicione o Peito de Frango Desfiado Copacol, a cenoura ralada, o cranberry, as nozes e as ervilhas.",
+      "Mexa bem para misturar os sabores. Deixe esfriar. Adicione as folhas de salsinha e reserve."
+    ],
+    "PARA O MOLHO": [
+      "Em um pequeno pote adicione o iogurte, o alho triturado e as raspas de limão siciliano.",
+      "Adicione uma colher (sopa) do suco do limão, o queijo parmesão ralado, a pimenta preta moída, mexa tudo, prove e corrija o sal. Ao final adicione o azeite de oliva, mexendo levemente."
+    ],
+    "MONTAGEM": [
+      "Encha cada uma das cestinhas com a mistura de peito desfiado, regue com o molho de iogurte. Sirva imediatamente.",
+      "Bom Apetite!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "COPACOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314031-canapes-de-peito-desfiado-com-bacon.html"
+}

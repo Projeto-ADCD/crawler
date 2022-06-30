@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FEIJÃO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão",
+      "500 g de calabresa",
+      "3 colheres de óleo",
+      "3 dentes de alho",
+      "1 cebola pequena picada",
+      "1 tablete de caldo de feijão",
+      "2 folhas de louro",
+      "2 litros de água",
+      "salsinha/coentro/cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão já lavado e catado para cozinhar na pressão por 30 minutos, corte a calabresa em rodelas finas e a cebola em pedaços bem pequenos",
+      "Bata 3 dentes de alho, em uma panela aqueça o óleo e coloque a cebola e o alho quando estiver quase dourando adicione a calabresa e deixe dar uma leve fritada",
+      "Após o feijão cozido pegue uma concha apenas dos grãos de feijão e coloque na panela e amasse",
+      "Em seguida pode colocar a quantidade para uso de 1 porção nessa mesma panela, tampe para dar uma fervura e engrosar o caldo ",
+      "Sirva com salsa, cheiro-verde ou cebolinha a gosto",
+      "Rende até 3 porções "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "FELIPE VITORINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309703-feijao-com-calabresa.html"
+}

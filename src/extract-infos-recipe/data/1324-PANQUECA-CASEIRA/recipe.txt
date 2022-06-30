@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PANQUECA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo ",
+      "2 xícaras de leite ",
+      "3 ovos ",
+      "pimenta-do-reio a gosto",
+      "sal a gosto",
+      "Recheio",
+      "500 g de frango desfiado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "alecrim a gosto",
+      "orégano a gosto",
+      "200 g de requeijão",
+      "100 g de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a frigideira para esquentar ",
+      "Junte os ingredientes em um liquidificador ",
+      "Bata tudo muito bem ",
+      "Junte 1 fio de óleo no fundo da frigideira ",
+      "Coloque uma concha de massa na frigideira",
+      "Mexa a panela até que a massa cubra todo o fundo da panela ",
+      "Doure os dois lados e retire ",
+      "Repita o processo até o final da massa",
+      "Misture todo o recheio em um recipiente ",
+      "Recheie as massas de panqueca com cuidado e finalize "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: faça uma manteiga com 3 colheres e algumas folhas de sálvia \nJunte tudo em uma panela, esquente e coloque por cima das panquecas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308875-panqueca-caseira.html"
+}

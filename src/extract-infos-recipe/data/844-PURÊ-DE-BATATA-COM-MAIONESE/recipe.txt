@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PURÊ DE BATATA COM MAIONESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas grandes",
+      "2 ovos cozidos",
+      "2 colheres de leite em pó",
+      "1 sachê de maionese "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão cozinhe as batatas por 15 minutos",
+      "Cozinhe os ovos",
+      "Em um refratário amasse as batatas e os ovos até que fique homogêneo",
+      "Em seguida adicione a maionese e o leite",
+      "Misture bem e está pronto",
+      "Não é necessário ir ao fogo"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LETICIA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311326-pure-de-batata-com-maionese.html"
+}

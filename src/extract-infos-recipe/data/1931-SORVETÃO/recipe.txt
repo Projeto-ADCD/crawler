@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SORVETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 e 1/2 lata de leite (use a lata do leite condensado para medir)",
+      "100 g de coco ralado (da fruta)",
+      "1 colher (sopa) de essência de baunilha",
+      "3 ovos",
+      "6 colheres (sopa) de açúcar",
+      "1 lata de creme de leite (sem o soro)",
+      "8 colheres (sopa) de chocolate em pó",
+      "8 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma panela o leite condensado, o leite, o coco, a essência de baunilha e as gemas.",
+      "Mexa bem e leve ao fogo baixo, mexendo sempre.",
+      "Assim que começar a levantar fervura, desligue.",
+      "Deixe esfriar.",
+      "Bata as claras em neve, vá adicionando o açúcar aos poucos, continue batendo, quando estiver bem misturado adicione o creme de leite sem o soro.",
+      "Junte àquele creme, (não pode estar quente), e mexa bem levemente.",
+      "Leve ao fogo o chocolate em pó e a água, ferva bem.",
+      "Deixe esfriar.",
+      "Coloque em forma redonda (de pudim), primeiro o chocolate fervido, espalhe bem, e depois o creme.",
+      "Leve ao freezer de um dia para o outro."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANI ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306381-sorvetao.html"
+}

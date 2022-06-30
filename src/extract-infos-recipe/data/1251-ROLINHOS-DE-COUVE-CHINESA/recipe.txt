@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ROLINHOS DE COUVE-CHINESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 folhas de couve-chinesa lavadas",
+      "6 fatias de queijo prato",
+      "1 tomate médio sem pele picado",
+      "1 cenoura média ralada",
+      "1 colher (sopa) de ervas frescas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as folhas de couve-chinesa ao meio, no sentido da largura, descartando a parte mas grossa da folha. Reserve.",
+      "Tempere, separadamente, o tomate e a cenoura com sal, pimenta, azeite e vinagre ou limão se preferir. Reserve.",
+      "Sobre cada folha de couve-chinesa coloque uma fatia de queijo prato, um pouco do tomate picado, um pouco do de ervas frescas e um pouco da cenoura ralada.",
+      "Enrole delicadamente, formando um rolinho.",
+      "Coloque sobre uma travessa e tempere com sal, azeite, vinagre e pimenta.",
+      "Se preferir pode temperar com maionese misturada com creme de leite e suco de limão.",
+      "Sirva como entrada ou como acompanhamento do prato principal."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309231-rolinhos-de-couve-chinesa.html"
+}

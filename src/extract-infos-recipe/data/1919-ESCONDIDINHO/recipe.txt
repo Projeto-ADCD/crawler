@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ESCONDIDINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca cozida",
+      "1 litro de leite",
+      "200 g creme de ricota",
+      "200 g requeijão cremoso",
+      "1 colher de manteiga",
+      "1/2 kg de carne-seca frita",
+      "1 cebola média picadinha",
+      "alho frito granulado a gosto",
+      "pimenta-de-cheiro a gosto",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esprema a mandioca ainda quente junto com leite, creme de ricota e requeijão cremoso. Esprema até dissolver toda mandioca.",
+      "Refogue a cebola e o alho e uma colher de manteiga.",
+      "Acrescente a carne-seca e deixe fritar um pouco. Acrescente a pimenta de cheiro",
+      "Em um refratário, coloque uma camada do purê de mandioca, a carne seca e termine com o restante do purê.",
+      "Polvilhe com queijo parmesão ralado e leve ao forno pra gratinar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ERIVAN MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306438-escondidinho.html"
+}

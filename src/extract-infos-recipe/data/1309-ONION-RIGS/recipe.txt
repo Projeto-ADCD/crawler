@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ONION RIGS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média",
+      "1 xícara de leite",
+      "farinha de rosca",
+      "farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola em aneis, depois disse deixe a cebola de molho na água para tirar a acidez.",
+      "Depois de 1 hORA em molho, molhe os aneis de cebola no leite, depois na farinha de trigo, molhe novamente no leite, e agora passe na farinha de rosca.",
+      "Faça isso em todos os aneis.",
+      "Logo após disso, coloque o óleo para esquentar, quando estiver quente coloque os anéis no óleo.",
+      "Depois de assar todas as cebolas seque elas e coma! Pronto! Gostaram? Se sim avaliem a receita.",
+      "obs: o leite pode ser substituído por ovo."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LETÍCIA T.T",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308967-onion-rigs.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOLHO DE CHAMPIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "100 g de champignon picado",
+      "1/2 caixa de creme de leita",
+      "1 dente de alho",
+      "1/2 tablete de caldo de carne",
+      "1 colher (sobremesa) de amido de milho",
+      "1 colher (sobremesa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela e adicione a manteiga, após a manteiga derreter adicione o dente de alho picado e refogue",
+      "Mexa bem a adicione 100ml do leite à panela",
+      "Espere ferver, enquanto isso misture o amido de milho em um copo com o restante do leite e misture bem",
+      "Adicione a mistura na panela e mexa bem até engrossar o molho",
+      "Adicione o caldo de carne e misture",
+      "Adicione o champignon",
+      "Desligue o fogo e adicione o creme de leite para finalizar",
+      "Sirva como acompanhamento para carne de frango e outras aves"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LETÍCIA NAÚS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314377-molho-de-champignon.html"
+}

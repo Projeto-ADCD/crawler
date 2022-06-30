@@ -1,0 +1,32 @@
+{
+  "nome_receita": "POLENTA SUPER-RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de fubá",
+      "3 xícaras de água",
+      "1 dente de alho",
+      "1/2 copo de água",
+      "1 cebola pequena",
+      "2 colheres de óleo",
+      "1 pitada de sal a gosto",
+      "400 g de acém ou costela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num recipiente (refratário ou pote) coloque as duas xícaras de trigo",
+      "E as 3 xícaras de água, misture bem de modo a hidratar todo o trigo, depois reserve e deixe descansar.",
+      "Enquanto isso, numa panela com óleo quente doure uma cebola e o alho, após acrescente 1/2 copo de água",
+      "Tampe e deixe a água levantar fervura, após a ebulição acrescente o fubá o sal a gosto e misture em fogo baixo até engrossar um pouco e e cozinhar o fubá",
+      "Pode acrescentar mais água se a mistura ficar muito seca. Depois sirva.",
+      "Carne",
+      "Corte em cubos qualquer corte de carne, frite com azeite , cebola e alho e acrescente um sachê de molho de tomate ou ketchup.",
+      "Sirva junto com a polenta.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROBERT WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308811-polenta-super-rapida.html"
+}

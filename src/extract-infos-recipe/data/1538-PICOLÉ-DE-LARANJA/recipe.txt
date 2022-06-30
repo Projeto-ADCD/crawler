@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PICOLÉ DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 latas de suco de laranja puro (medida da lata de leite condensado)",
+      "4 colheres (sopa) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador e bata por alguns minutos ",
+      "Depois coloque em formas de picolé",
+      "Leve ao congelador até endurecer",
+      "Sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "De 3 a 4 colheres de creme de leite, fica a seu critério "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307782-picole-de-laranja.html"
+}

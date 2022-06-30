@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO BRANCO E CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão tipo espaguete",
+      "2 caixas de creme de leite",
+      "2 linguiças calabresa",
+      "1/4 de caldo Knnor de carne",
+      "1/2 cebola picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em água com sal.",
+      "Frite a calabresa. Acrescente a cebola, o creme de leite e o caldo de carne. Cozinhe até ficar do seu gosto.",
+      "Misture o macarrão com o molho e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA CLARA COMOTTI DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313156-macarrao-com-molho-branco-e-calabresa.html"
+}

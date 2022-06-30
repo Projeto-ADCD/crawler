@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SUCO DE COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 folhas de couve",
+      "1 maçã ",
+      "4 folhas de hortelã",
+      "2 colheres (sopa) de mel",
+      "suco de 1/2 limão",
+      "600 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata todos os ingredientes.",
+      "Veja se todos os ingredientes estão bem misturados.",
+      "Sirva em um copo.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Corte a maçã em cubinhos para facilitar"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "BRUNART",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312784-suco-de-couve.html"
+}

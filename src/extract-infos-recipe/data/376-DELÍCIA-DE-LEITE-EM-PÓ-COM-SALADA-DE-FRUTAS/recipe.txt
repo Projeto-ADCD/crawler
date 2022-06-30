@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DELÍCIA DE LEITE EM PÓ COM SALADA DE FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "1 cx de creme de leite",
+      "1 cx de leite condensado",
+      "1 xícara de leite em pó",
+      "1 pacote de gelatina sem sabor",
+      "1 manga",
+      "1 kiwi",
+      "1 maçã",
+      "3 bananas",
+      "1 cx de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todas as frutas",
+      "Unte uma forma com óleo",
+      "Coloque as frutas na forma",
+      "Bata no liquidificador, o leite, o creme de leite, o leite condensado, o leite em pó e a gelatina já hidratada e derretida",
+      "Jogue essa mistura por cima das frutas e mexa pra que a mistura vá até o fundo",
+      "Leve à geladeira por aproximadamente 4 hrs",
+      "Desinforme e sirva essa delícia!",
+      "Você pode fazer com as frutas que preferir!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313039-delicia-de-leite-em-po-com-salada-de-frutas.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA SALATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara (chá) de açúcar refinado",
+      "1 colher (sopa) de manteiga",
+      "1 ovo",
+      "Recheio:",
+      "250 g de frango refogado e desfiado",
+      "50 g de azeitonas pretas picadas",
+      "300 g de palmito picado",
+      "250 g de champignons picados",
+      "125 g de requeijão cremoso",
+      "1 caixinha de creme de leite",
+      "1 xícara (chá) de salsinha picada",
+      "1 pimentão pequeno sem pele e sem sementes picado",
+      "Pimenta preta moída a gosto",
+      "Noz moscada moída a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Em uma tigela funda, bata a manteiga, o ovo e o açúcar, até formar um creme leve.",
+      "Adicione a farinha de trigo e bata até obter uma massa homogênea.",
+      "Em seguida forre, com a massa, uma fôrma de fundo falso, inclusive as laterais.",
+      "Reserve.",
+      "Recheio:",
+      "Um uma tigela misture todos os ingredientes do recheio e coloque na fôrma forrada com a massa.",
+      "Leve a fôrma ao forno pré-aquecido a 180°C e deixe cozinhar por uns 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314082-torta-salata.html"
+}

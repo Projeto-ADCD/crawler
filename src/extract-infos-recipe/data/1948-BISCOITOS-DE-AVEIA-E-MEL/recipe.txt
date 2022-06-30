@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITOS DE AVEIA E MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de aveia em flocos grandes",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de canela em pó",
+      "1 xícara (chá) de adoçante em pó culinário (ou a mesma medida de açúcar refinado ou de açúcar demerara)",
+      "1 ovo",
+      "100 g de manteiga (ou margarina) ",
+      "2 colheres (sopa) de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes secos.",
+      "Junte o ovo, a manteiga levemente derretida e o mel e amasse bem até obter uma massa homogênea.",
+      "Preaqueça o forno por 10 minutos.",
+      "Enquanto isso, faça bolinhas com mais ou menos 1 colher (chá) de massa.",
+      "Achate as bolinhas com o dedo para formar as bolachinhas e coloque em uma assadeira untada e enfarinhada com distância de 2 a 3 cm entre um biscoitinho",
+      "Asse em forno a 210° C a 180° C por 15 minutos ou até que os biscoitinhos fiquem dourados por baixo.",
+      "Depois de frios, guarde em embalagem bem fechada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "DENISE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306349-biscoitos-de-aveia-e-mel.html"
+}

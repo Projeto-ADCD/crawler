@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ARROZ DO PAPAI NOEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de bacon picado ",
+      "100 g de linguiça calabresa defumada cozida e picada em cubos pequenos ",
+      "1 cebola pequena picada ",
+      "1 e 1/2 xícaras (chá) de arroz cozido ",
+      "100 g de uvas passas ",
+      "2 colheres (sopa) de cheiro-verde picado ",
+      "1/2 xícaras (chá) de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela em que você fará o arroz, coloque um fio de azeite, o bacon, a calabresa e cebola frite em fogo baixo até dourar. Retire e reserve.",
+      "Ainda na mesma panela, aqueça a manteiga e refogue a cebola até ficar transparente.",
+      "Acrescente o arroz, frite e deixe cozinhar. O bacon e a linguiça continuam reservados.",
+      "Depois que o arroz estiver cozido, junte o bacon, a calabresa, adicione as uvas passas e o  cheiro-verde. Finalize decorando ou adicionando a batata palha."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314103-arroz-do-papai-noel.html"
+}

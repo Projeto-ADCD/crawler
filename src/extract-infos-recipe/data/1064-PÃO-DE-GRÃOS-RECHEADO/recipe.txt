@@ -1,0 +1,44 @@
+{
+  "nome_receita": "PÃO DE GRÃOS RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Pão",
+      "1 pacote de mistura para pão Do Seu Forno Grãos Ancestrais Wickbold",
+      "2 colheres (sopa) de água ",
+      "2 colheres (sopa) de óleo vegetal ",
+      "1 xícara de água ",
+      "Recheio ",
+      "2 tomates picados",
+      "50 g de azeitonas picadas ",
+      "100 g de queijo prato picado ",
+      "100 g de presunto picado ",
+      "1 cebola picada ",
+      "orégano a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro abra a caixa e separe os ingredientes ",
+      "Coloque os grãos para hidratar em um recipiente com as 2 colheres de água e deixe por duas horas ",
+      "Enquanto isso misture o saquinho da mistura do pão com o saquinho do fermento ",
+      "Junte os grão já hidratados e misture ",
+      "Junte a água aos poucos e o óleo ",
+      "Misture bem até formar uma massa homogênea",
+      "Depois coloque ela em uma superfície limpa e comece a sovar ",
+      "Sove a massa por 10 minutos, cubra e deixe descansando por mais 10 minutos ",
+      "Enquanto isso, prepare o recheio",
+      "Em um recipiente, junte todos os ingredientes (menos o queijo e o presunto) e misture bem",
+      "Depois divida a massa em duas e abra como se fosse uma massa de pizza",
+      "Recheie começando com o queijo e o presunto, depois coloque o resto dos ingredientes ",
+      "Enrole como um rocambole e divida em alguns pedaços",
+      "Agora deixe a massa descansar em um lugar mais aquecido por 50 minutos ",
+      "Preaqueça o forno a 190° C por 10 minutos e leve os pães em uma forma ",
+      "Deixe no forno por pelo menos 30 minutos e não abra a porta nos primeiros 15 minutos de jeito nenhum",
+      "Depois é só servir"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310153-pao-de-graos-recheado.html"
+}

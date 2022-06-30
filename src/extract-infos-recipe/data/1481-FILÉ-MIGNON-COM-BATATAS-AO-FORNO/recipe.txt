@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FILÉ MIGNON COM BATATAS AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de filé mignon",
+      "6 batatas inglesas médias",
+      "4 tomates",
+      "2 cebolas grandes",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 pimentão vermelho",
+      "1 pitada de pimenta-do-reino",
+      "2 colheres de vinagre balsâmico ou molho shoyu",
+      "1 limão",
+      "1 laranja",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a peça de filé mignon divida em duas partes, dentro de um saco plástico",
+      "Coloque dentro do mesmo saco: suco do limão, suco da laranja, vinagre balsâmico, pimenta-do-reino e  sal a gosto",
+      "Deixe de um dia para o outro na geladeira.",
+      "Forre uma forma quadrada com o papel-alumínio, do fundo até as bordas.",
+      "Coloque as peças de filé mignon",
+      "Coloque em volta das peças de filémignon, as batatas, cebolas, pimentões e tomates.",
+      "Aqueça o forno a 280º C por 15 minutos",
+      "Coloque a forma com a carne e os acompanhamentos cobertos com mais um pedaço de papel alumínio.",
+      "Deixe por 30 minutos em 280º C",
+      "Após esse tempo, tire o papel alumínio que recobre a forma e deixe por mais 30 minutos até dourar a carne e acompanhamentos.",
+      "Observação: esta receita não leva azeite ou qualquer outro tipo de óleo vegetal. Assim, torna-se uma ótima aliada a quem deseja uma refeição sem gorduras."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use 1 saco plástico grande (daqueles que usamos para verduras em feiras e supermercados)\npapel alumínio"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUIZ CLÁUDO DO NASCIMENTO CAVALCANTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308094-file-mignon-com-batatas-ao-forno.html"
+}

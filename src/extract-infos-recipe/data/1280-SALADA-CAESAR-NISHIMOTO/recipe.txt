@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SALADA CAESAR NISHIMOTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de alface americana",
+      "100 g de queijo parmesão ralado grosso",
+      "100 g de torradinhas",
+      "200 g de maionese",
+      "1 limão",
+      "3 dentes de alho",
+      "azeite de oliva a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O primeiro passo é bater a maionese, o alho, o suco de um limão e azeite de oliva para preparar o molho.",
+      "Pique a alface em pedaços grosseiros.",
+      "Forre um prato para salada com uma camada da alface picada e derrame o molho preparado por cima.",
+      "Finalize colocando as torradinhas e salpicando com o queijo parmesão."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ISABELLA NISHIMOTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309103-salada-caesar-nishimoto.html"
+}

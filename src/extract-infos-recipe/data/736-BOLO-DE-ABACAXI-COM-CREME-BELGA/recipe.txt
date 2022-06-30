@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO DE ABACAXI COM CREME BELGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 Ovos Grandes ou Médios",
+      "1 e 1/2 xícara de farinha de trigo (210 g)",
+      "1 xícara de açúcar refinado (160 g)",
+      "150 ml de leite em temperatura ambiente",
+      "1/2 colher (sopa) de fermento ou g",
+      "1 colher (sopa) de essência de baunilha",
+      "450 g de abacaxi picados sem miolo",
+      "120 ml de água",
+      "1/2 xícara de açúcar refinado",
+      "1 lata/caixa de leite condensado (equivalente a 395 g)",
+      "100 g de creme de leite de caixinha",
+      "3 colheres (sopa) de amido de milho",
+      "2 gemas peneiradas",
+      "500 ml de leite",
+      "100 g de nata"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Acrescente os 4 ovos na batedeira e bata até dobra de volume, depois de ter dobrado acrescente o açúcar e bata até ficar um creme esbranquiçado e fofo, aos poucos vá acrescentando a farinha de trigo peneirada e vá intercalando com leite, mexa com uma espátula ou fouet",
+      "Adicione a essência de baunilha misture, por fim adicione o fermento e misture com leveza e cuidado.",
+      "Leve ao forno preaquecido a 180° C. Essa quantidade de massa equivale a uma forma 30x20 por 6 cm de altura, para maior quantidade de massa dobre os ingredientes.",
+      "Abacaxi",
+      "Adicione em uma panela 450 g de abacaxi picado sem miolo, 120 ml de água e meia xícara de açúcar refinado, dependendo de como seu abacaxi estiver adicione uma xícara de açúcar refinado",
+      "Se necessário, misture e leve ao fogo, deixe ferver este abacaxi até começar a caramelizar retire do fogo e separe a calda do abacaxi para molharmos o bolo.",
+      "Creme Belga",
+      "Em uma outra panela adicione o leite com o amido de milho e dissolva, adicione as gemas peneiradas, adicione o leite condensado e leve ao fogo até engrossar, retire do fogo e adicione o creme de leite com o fogo desligado.",
+      "Pronto espere esfriar e comece a montar, finalize como quiser nós recomendamos chantilly ou o próprio creme branco. Importante ressaltar não force a gema a passa fúria e deixe passar o que sobra na peneira descarte."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "MATHEUS RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311823-bolo-de-abacaxi-com-creme-belga.html"
+}

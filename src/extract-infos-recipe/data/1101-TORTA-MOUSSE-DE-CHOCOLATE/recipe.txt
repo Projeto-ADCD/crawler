@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA MOUSSE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "250 gramas de açúcar cristal",
+      "250 gramas de chocolate em pó",
+      "250 gramas de margarina."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata 3 claras em neve e reserve na geladeira.",
+      "Bata por 10 minutos as outras 3 claras com as gemas e adicione metade do açúcar (125 gramas). Leve essa mistura para o fogo em banho-maria por aproximadamente 10 minutos e deixe esfriar.",
+      "Bata na batedeira o restante do açúcar (125 gramas) com a manteiga, por 10 minutos.",
+      "Bata as duas misturas juntas por mais 10 minutos e leve o resultado à geladeira por 10 minutos.",
+      "Preaqueça o fogo em fogo médio, unte a forma de bolo e despeje metade da massa em uma forma, deixe no forno por 15 minutos.",
+      "Preencha com o restante da massa e espalhe por cima as claras em neve que estavam na geladeira.",
+      "Coloque tudo na geladeira por no mínimo 8 horas.",
+      "Sirva a vontade."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TIA RUTH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309884-torta-mousse-de-chocolate.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE ESCAROLA COM SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "500g de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1 ovo",
+      "200 g de manteiga ou margarina",
+      "1/2 xícara de (chá) de água",
+      "Recheio",
+      "2 maços de escarola",
+      "1 tomate cortado em cubos",
+      "1 lata de sardinha sem óleo",
+      "200 ml de leite",
+      "1 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque em uma tigela todos os ingredientes e vai colocando a água aos poucos até a massa obter uma textura homogênea, sem grudar nas mãos.",
+      "Faça uma bolinha com a massa, tampe ou cubra com um pano e deixe descansar por cerca de 30 minutos",
+      "Recheio",
+      "Em uma panela refogue a escarola com alho, cebola e sal a gosto.",
+      "Em seguida acrescente o tomate cortado e a sardinha esfarelada, deixe refogar por cerca de 1 minuto.",
+      "Num copo separado, misture o amido de milho e o leite e vai acrescentando aos poucos no recheio, mexendo sempre até engrossar. Após desligue o fogo e espere que o recheio esfrie.",
+      "Voltamos para a massa, com um rolo estique a massa para que fique em uma textura média (fina o recheio pode vazar/grossa a massa fica crua). Divida a massa em duas partes, com uma parte cubra a forma no fundo e nas laterais e acrescente o recheio frio. Em seguida cubra com a outra parte o recheio, apertando as bordas para que a massa se une.",
+      "Faça cortes levemente e pincele com uma gema de ovo.",
+      "Leve ao forno por cerca de 30/40 minutos, até que a massa fique amarelinha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "ALINE CAZAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306335-torta-de-escarola-com-sardinha.html"
+}

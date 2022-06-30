@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BEBIDA DE MORANGO DO STARBUKS",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 morangos lavados",
+      "200 ml de leite",
+      " 3 ou 2 colheres (chá) de açúcar",
+      "gelo",
+      "chantili de preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue os morangos e retire a cabecinha de folha dele",
+      "Coloque no liquidificador junto com o leite, açúcar e gelo",
+      "Depois de bater, coloque em um copo, junte o chantili se quiser e mais gelo",
+      "É só beber e aproveitar"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUIZA DOWNS DE FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312715-bebida-de-morango-do-starbuks.html"
+}

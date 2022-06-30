@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO DE QUEIJO COM GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de óleo",
+      "300 ml de leite",
+      "300 g de polvilho doce",
+      "100 g de polvilho azedo",
+      "1 colher (sobremesa) de sal",
+      "100 g de queijo parmesão ralado",
+      "350 g de queijo mussarela ralado",
+      "2 ovos",
+      "150 g de goiabada",
+      "150 g de cream cheese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o óleo e o leite em uma panela no fogo",
+      "Misture bem e espere ferver",
+      "Em um recipiente, junte o polvilho azedo, o doce, o sal e a mistura de leite ainda quente",
+      "Misture tudo muito bem e junte o parmesão e a mussarela",
+      "Coloque os ovos e, com as mãos, misture tudo ",
+      "Abra essa massa em uma tábua e recheie com a goiabada e o cream cheese",
+      "Dica: deixe o cream cheese por pelo menos uns 30 minutos no freezer para ajudar a rechear",
+      "Feche as bolinhas e modele a gosto ",
+      "Coloque em uma forma e leve para assar por 25 minutos a 230° C"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314791-pao-de-queijo-com-goiabada.html"
+}

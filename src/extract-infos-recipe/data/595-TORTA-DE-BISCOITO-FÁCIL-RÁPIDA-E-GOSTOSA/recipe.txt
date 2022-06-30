@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DE BISCOITO FÁCIL, RÁPIDA E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito maisena chocolate ou tradicional (fica sua escolha)",
+      "1 lata de leite condensado",
+      "2 latas de creme de leite",
+      "1 barra de chocolate preto amargo ou tradicional ",
+      "1 pote de nata comprado (ou caseiro)",
+      "1 copo de leite pra molhar os biscoitos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador ou na batedeira ou a mão mesmo. A nata, 1 creme de leite e o leite condensado. Até ficar consistente.",
+      "Molho o biscoito no leite e vá colocando na travessa intercalando o creme batido com biscoito.",
+      "Por fim",
+      "Derreta a barra pequena de chocolate em banho Maria. Depois misture ela com o creme de leite. Forre por cima da torta. Leva pra geladeira por no mínimo 4 horas.",
+      "Essa receita fica muito parecida com a torta holandesa onde se gasta bastante ingredientes caros.",
+      "Dica: se quiser opcional derreta uma barra pequena bem pequena de chocolate branco e coloque no creme depois de batido antes de coloca na forma com o biscoito."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "CARLAIARA CAMPOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312424-torta-de-biscoito-facil-rapida-e-gostosa.html"
+}

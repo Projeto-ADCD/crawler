@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO CRUZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "900 ml de água",
+      "5 blocos de gelo",
+      "1 folha de couve",
+      "2 limões",
+      "4 laranjas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a couve e a água",
+      "Depois esprema os limões e as laranjas",
+      "Bata por 10 minutos e adicione o gelo.",
+      "Depois é só beber."
+    ]
+  },
+  "tempo_de_preparo": "11 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "PEROLA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311436-suco-cruz.html"
+}

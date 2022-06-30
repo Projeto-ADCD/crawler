@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RABANADA SALGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão de forma ",
+      "1 ovo",
+      "sal e pimenta-do-reino a gosto",
+      "2 colheres (sopa) de requeijão ",
+      "manteiga ",
+      "tomilho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe a gema da clara do ovo",
+      "Tome cuidado, coloque as duas em recipientes separados, sem estourar a gema",
+      "Tempere a clara com sal e pimenta (você também pode usar diversos outros tipos de temperos)",
+      "Junte o requeijão e bata tudo muito bem ",
+      "Acenda o fogo alto e coloque a frigideira para esquentar bem ",
+      "Aperte bem o centro do pão, formando um espaço para colocar a gema posteriormente ",
+      "Coloque o pão na mistura das claras e molhe bem ",
+      "Coloque manteiga na frigideira ",
+      "Coloque o pão na frigideira e deixe dourar dos dois lados",
+      "Com uma colher, reforce o espaço no meio do pão",
+      "Coloque a gema dentro do pão ",
+      "Coloque pimenta e tomilho por cima de tudo",
+      "Aumente o fogo, coloque um pouco de água na panela e tampa",
+      "Deixe o tempo da gema cozinhar (vai do seu gosto)",
+      "Depois é só servir "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308897-rabanada-salgada.html"
+}

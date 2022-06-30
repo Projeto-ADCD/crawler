@@ -1,0 +1,35 @@
+{
+  "nome_receita": "STROGONOFF DE ACÉM",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de acém",
+      "1/2 lata de cerveja Malzbier (aprox. 175 ml)",
+      "1/2 sachê de cogumelos champignon (aprox. 50 g)",
+      "1 lata de milho e ervilha (Dueto)",
+      "2 caixas de creme de leite",
+      "1 cebola pequena",
+      "2 dentes de alho",
+      "1 tomate pequeno",
+      "1 pimentão pequeno",
+      "Corante",
+      "Cominho",
+      "Realçador de sabor (Aji-no-moto)",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, corte o acém em cubos. Em seguida, pique a cebola, o alho, o tomate e o pimentão.",
+      "Coloque em uma panela de pressão: a carne, a cebola, o alho, metade do tomate picado, metade do pimentão picado, corante, cominho, sal, realçador de sabor a gosto e a cerveja. ",
+      "Feche a panela e aguarde pegar pressão. Depois, conte mais 20 minutos de cozimento.",
+      "Enquanto a panela está no fogo, fatie o cogumelo e escoe o milho e a ervilha da conserva.",
+      "Depois de cozido, tire a pressão da panela e transfira a carne com o caldo para uma caçarola em fogo baixo.",
+      "Acrescente as duas caixas de creme de leite e aguarde levantar fervura. Em seguida, acrescente os cogumelos, milho e ervilha. Mexa bem e aumente o fogo para o caldo \"secar\" um pouco. Acrescente a mostarda.",
+      "Deixe cozinhar por mais 10 minutos e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAREN GABRIELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313149-strogonoff-de-acem.html"
+}

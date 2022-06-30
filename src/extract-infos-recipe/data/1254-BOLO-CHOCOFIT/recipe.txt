@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO CHOCOFIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de açúcar demerara ou mascavo",
+      "1/4 óleo de coco",
+      "1/2 cacau em pó",
+      "1 xícara de farinha de amêndoas (pode substituir por farinha de coco ou farinha de aveia)",
+      "1 xícara de aveia",
+      "1 xícara de água quente",
+      "1 colher de fermento",
+      "1 colher de linhaça (opcional)",
+      "1 colher de chia (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela despeje os ovos e o açúcar, bata até que fique esbranquiçados.",
+      "Depois acrescente o óleo e penere o cacau em pó, mexa até virar uma massa homogênea, após isso acrescente a farinha penerada.",
+      "Acrescente metade da aveia e metade da água, quando estiver tudo misturado acrescente o resto.",
+      "Coloque a chia, linhaça e o fermento.",
+      "Leve ao forno pré aquecido a 180° C por 30/35 minutos (faça o teste do palito)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Deixem nos comentários se ficou bom, aqui em casa faço essa receita a anos!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MELL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309222-bolo-chocofit.html"
+}

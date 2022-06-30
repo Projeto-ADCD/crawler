@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SUFLÊ DE SIRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne congelada de siri",
+      "4 tomates picados ",
+      "1 pimentão vermelho ",
+      "1 cebola grande",
+      "2 dentes de alho ",
+      "2 colheres (sopa) de manteiga",
+      "4 colheres (sopa) de azeite",
+      "1/2 litro de leite",
+      "5 ovos",
+      "3 colheres (sopa) bem cheias de farinha de trigo",
+      "8 colheres (sopa) de queijo ralado",
+      "sal a gosto",
+      "pimenta-do-reino e malagueta a gosto",
+      "salsa e coentro a gosto",
+      "limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descongele o siri, escalde em água fervente e escorra bem.",
+      "Faça um bom refogado com o azeite, uma colher (sopa) de manteiga, o alho amassado, a cebola picada, o pimentão picado e os tomates sem peles e sementes.",
+      "Adicione o siri e tempere com sal, gotinhas de limão e pimenta à gosto. Refogue por uns cinco minutos, junte boa porção de cheiro-verde picadinho e retire do fogo.",
+      "Misture o leite com a farinha e as gemas, passe pela peneira, adicione uma colher de manteiga e leve ao fogo. Mexa sempre até engrossar e cozinhar.",
+      "Pronto o creme, misture com o refogado de siri. Retire do fogo e, sempre mexendo cuidadosamente, acrescente seis colheres de queijo e as claras em neve.",
+      "Coloque em um peixe untado com manteiga num pirex alto.",
+      "Polvilhe com duas colheres de sopa de queijo e leve ao forno quente para assar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308180-sufle-de-siri.html"
+}

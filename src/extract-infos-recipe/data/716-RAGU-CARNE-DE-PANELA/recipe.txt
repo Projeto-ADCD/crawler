@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RAGU - CARNE DE PANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne de agulha ou paleta (deve ser mais consistente) picada em cubos médios",
+      "1 cebola grande",
+      "3 dentes de alho",
+      "1 long neck de cerveja preta",
+      "2 colheres (sopa) extrato de tomate",
+      "água ",
+      "azeite de oliva",
+      "salsinha picada",
+      "sal",
+      "mix de pimentas para moer"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a panela de pressão, regue com azeite de oliva e frite a carne.",
+      "Junte a cebola, o alho e refogue adicionando um pouco de agua, apenas o suficiente.",
+      "Tempere com sal e pimenta.",
+      "Adicione a cerveja preta inteira e deixe ferver por alguns minutos para o alcool evaporar.",
+      "Adicione o extrato de tomate e agua o suficiente para subir ao nível do conteúdo da panela.",
+      "Tampe a panela e deixe cozinhar por aproximadamente 30 minutos na pressão, depois disso, abra e verifique o ponto da carne, caso ainda não estiver desmanchando, adicione um pouco mais de agua e volte com ela na pressão.",
+      "Quando estiver pronto, basta adicionar a salsinha.",
+      "Um prato quente ótimo para ser consumido em dias frios, combina muito bem com mandioca, massa caseira ou os dois ao mesmo tempo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCOS VINICIUS KRAULICH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311953-ragu-carne-de-panela.html"
+}

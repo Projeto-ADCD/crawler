@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ARROZ DE CARNE - FALSO CARRETEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bifes macios ",
+      "1/2 cebola média ",
+      "pimentão vermelho a gosto",
+      "1/2 tomate cortado ",
+      "2 dentes de alho",
+      "1/2 xícara de ervilhas frescas",
+      "1 xícara de arroz",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "1/2 cubo de caldo de carne",
+      "2 xícaras de água",
+      "1 colher (sopa) de massa de tomates",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a manteiga",
+      "Coloque a carne cortada em cubos pequenos e mexa ate dourar",
+      "Acrescente o alho, a cebola picada e o pimentão.",
+      "Enquanto isso ferva a água com o caldo de carne",
+      "Coloque na mistura o arroz e deixe fritando até o ponto de grudar no fundo da panela.",
+      "Acrescente então o tomate em cubos.",
+      "Mexa mais um pouco e coloque a água fervente com o caldo de carne.",
+      "Corrija o sal e a pimenta.",
+      "Acrescente a ervilha e a massa de tomates",
+      "Deixe cozinhar e quando estiver em ponto de arroz, diminua o fogo e tampe a panela.",
+      "Quando estiver no ponto, sirva quente com o acompanhamento que quiser"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIA LUCIA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309699-arroz-de-carne-falso-carreteiro.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLINHO DE CARNE-SECA",
+  "ingredientes": {
+    "MASSA": [
+      "800 g de mandioca cozida",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) de salsa picada",
+      "2 gemas",
+      "1 colher (sopa) de Margarina Coamo Premium",
+      "½ xícara (chá) de Farinha de Trigo Coamo Tradicional"
+    ],
+    "RECHEIO": [
+      "2 colheres (sopa) de Margarina Coamo Premium",
+      "1 cebola",
+      "2 dentes de alho",
+      "400 g de carne-seca cozida e desfiada"
+    ],
+    "FINALIZAÇÃO": [
+      "2 claras",
+      "2 xícaras (chá) de farinha de rosca",
+      "Óleo de Soja Refinado Coamo"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Amasse a mandioca com um garfo e coloque-a em uma tigela grande. Junte as gemas, a margarina e o sal e misture bem. Junte a farinha de trigo e a salsa e continue misturando até incorporá-los. Deixe esfriar."
+    ],
+    "RECHEIO": [
+      "Pique finamente a cebola e o alho. Aqueça a margarina em uma frigideira, junte a cebola e o alho e deixe alourar. Junte a carne-seca e refogue tudo até obter um recheio uniforme e úmido. Reserve."
+    ],
+    "MONTAGEM": [
+      "Pegue uma porção de massa com uma colher de sopa, abra-a na mão como um disco e coloque uma colherada de carne-seca no centro. Feche a massa e enrole-a entre as palmas das mãos. Se a massa estiver grudando muito, basta untar as mãos com uma gota de óleo de soja.",
+      "Depois de moldar todos os bolinhos, passe-os um a um nas claras de ovos e depois na farinha de rosca. Aqueça o óleo de soja em uma frigideira funda e frite os bolinhos por imersão até que estejam dourados. Tire-os com uma escumadeira e deixe-os escorrer sobre uma grade para retirar o excesso de gordura. Sirva-os acompanhados de molho de pimenta."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "COAMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316907-bolinho-de-carne-seca.html"
+}

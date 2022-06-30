@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRANGO ASSADO COM FAROFA PANKO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 frango Natalliz"
+    ],
+    "FAROFA PANKO": [
+      "3 xícaras (chá) de farinha panko",
+      "3 colheres (sopa) de manteiga ",
+      "2 colheres (sopa) de óleo ",
+      "2 dentes de alho ",
+      "1/2 xícara (chá) de castanha-de-caju ",
+      "1 cebola ",
+      "cheiro verde a gosto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe e quantifique todos os ingredientes e utensílios. ",
+      "Retire a ave Natalliz da embalagem, remova o pacote de miúdos do interior e coloque a ave em uma assadeira. Leve ao forno preaquecido a 180º C por aproximadamente 50 minutos para assar. ",
+      "Enquanto o frango assa, corte a cebola e o alho em cubos pequenos, quebre grosseiramente as castanhas e reserve. ",
+      "Em uma panela, adicione o óleo, leve ao fogo, bote a cebola para dar uma leve dourada. Em seguida, adicione o alho e mexa mais um pouco.  ",
+      "Adicione a manteiga à panela e deixe derreter. Coloque a farinha panko e mexa até dourar. ",
+      "Finalize com sal, pimenta, cheiro verde e a castanha de caju. ",
+      "Sirva a ave natalliz com a farofa crocante de panko."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314106-frango-assado-com-farofa-panko.html"
+}

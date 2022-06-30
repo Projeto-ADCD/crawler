@@ -1,0 +1,30 @@
+{
+  "nome_receita": "RABANADA DE NOZES COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de margarina Primor",
+      "2 colheres (sopa) de açúcar",
+      "1 e 1/2 xícara de leite",
+      "2 ovos",
+      "1 colher (chá) de essência de baunilha",
+      "3 pães franceses (ou pão de rabanada) amanhecidos",
+      "1/2 xícara de nozes finamente trituradas",
+      "1 xícara de doce de leite pronto",
+      "1/2 xícara de nozes em pedaços"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o açúcar, o leite, os ovos, a essência de baunilha e 1 colher de margarina Primor derretida. Reserve. ",
+      "Corte os pães em fatias com aproximadamente 2 dedos de espessura. Com cuidado, corte cada fatia ao meio, sem chegar até o final, formando uma espécie de bolso para o recheio. ",
+      "Misture o doce de leite com as nozes em pedaços. ",
+      "Recheie os pães com uma colher pequena do recheio de doce de leite com nozes. Não  encha demais para que não abram quando estiverem fritando. ",
+      "Mergulhe cada uma das fatias recheadas na mistura de leite e ovos. Deixe por cerca de 30 segundos de cada lado, o suficiente para que absorva o leite, sem ficarem encharcadas. Reserve. ",
+      "Em uma frigideira, aqueça o restante da margarina. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314074-rabanada-de-nozes-com-doce-de-leite.html"
+}

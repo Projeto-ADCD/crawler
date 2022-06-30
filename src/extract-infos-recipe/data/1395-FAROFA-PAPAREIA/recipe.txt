@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA PAPAREIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande ",
+      "2 tomates médios",
+      "1/2 pimentão verde",
+      "1 pacote de farofa pronta temperada",
+      "salsinha e cebolinha a gosto",
+      "1 colher (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em cubos corte o pimentão e o tomate.",
+      "Corte a cebola em cubos e coloque em uma frigideira com óleo, o suficiente que cubra o fundo",
+      "Depois de 2 minutos fritando adicione uma colher de açúcar (normal ou mascavo) e caramelize a cebola.",
+      "Pronta e ainda quente, adicione junto ao tomate e o pimentao na tijela e misture antes que a cebola esfrie e fique dura",
+      "Misture tudo e adicione a farofa, salsinha e a cebolinha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "1 cebola grande ou 2 pequenas"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAOLA ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308557-farofa-papareia.html"
+}

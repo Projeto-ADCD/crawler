@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO SALGADO COM FARINHA DE AVEIA",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "1/2 xícara de leite",
+      "1 e 1/4 de xícara de farinha de trigo",
+      "1 e 1/4 de xícara de farinha de aveia",
+      "1 colher de sal (ou a gosto)",
+      "1 colher (sopa) de fermento"
+    ],
+    "RECHEIO": [
+      "500 g de frango desfiado",
+      "1 cenoura média picada",
+      "coentro a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve, depois junte as gemas, ainda com a batedeira ligada acrescente o leite, o sal e as farinha aos poucos.",
+      "Desligue a batedeira e acrescente o fermento e mexa delicadamente.",
+      "Despeje a metade da massa numa forma untada com manteiga.",
+      "Misture o frango com a cenoura picada e já pré-cozida e também o coentro e coloque sobre a massa, depois despeje o restante da massa.",
+      "Leve pra assar em forno preaquecido a 180° C por 40 minutos ou até que a massa cozinhe.",
+      "Dica use um palito para verificar se a massa está cozida, se o palito sair limpo está pronto"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "MIIH LUDUVICE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311090-bolo-salgado-com-farinha-de-aveia.html"
+}

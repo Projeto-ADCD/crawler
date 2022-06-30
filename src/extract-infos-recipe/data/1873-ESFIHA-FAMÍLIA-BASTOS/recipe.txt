@@ -1,0 +1,44 @@
+{
+  "nome_receita": "ESFIHA FAMÍLIA BASTOS",
+  "ingredientes": {
+    "MASSA": [
+      "250 ml de leite morno",
+      "2 colheres (sopa) de margarina bem cheia",
+      "1/2 colher (sopa) de sal",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de fermento granulado (tipo para pão)",
+      "2 xícaras de fubá",
+      " "
+    ],
+    "RECHEIO": [
+      "500 g de queijo mussarela triturado",
+      "1 caixa de creme de leite sem soro",
+      "1 xícara de salsinha picada verde e fresca"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Coloque em uma vasilha e mexa até dissolver tudo.",
+      "Adicione a farinha aos poucos até obter consistência, mexa até a massa ficar bem firme e deixe descansar por 20 minutos",
+      "Com a massa descansada, faça as bolhinhas com as mãos e coloque em uma forma untada com óleo e com a farinha de fubá.",
+      "Depois de todas as bolinhas colocadas na forma, jogue o fubá sobre elas.",
+      "Deixe as bolhinhas descansarem mais 20 a 30min, até crescer mais um pouco",
+      "Depois que as bolinhas estiverem descansadas, com os dedos você irá para modelar as esfihas.",
+      "Depois de modelada, coloque o recheio e deixe descansar mais 5 minutos.",
+      "Asse em forno preaquecido a 250 graus, acompanhando até as esfihas chegarem no ponto desejado.",
+      "Servir quente.",
+      " "
+    ],
+    "RECHEIO": [
+      "Coloque tudo em uma vasilha e mexa até virar uma pasta.",
+      "Dissolva 2 pitadas de sal na massa, se achar necessário."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo de descanso das bolinhas denpenderá do clima frio ou quente.\nO ponto desejado fica a critério de quem está preparando, apenas observe se a massa não está crua."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARCOS BASTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306570-esfiha-familia-bastos.html"
+}

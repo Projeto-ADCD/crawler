@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SOPA DE ERVILHA COM LINGUIÇA TOSCANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "390 g de Ervilha seca",
+      "2 gomos de linguiça toscana desfiada (sem pele)",
+      "200 g cenoura picadinha",
+      "150 g vagem picadinha",
+      "1/2 cebola picadinha (a gosto)",
+      "2 dentes de alho",
+      "900 ml de água",
+      "2 colher (sopa) chimichurri",
+      "1 colher (sopa) pimenta-do-reino",
+      "1 colher (sopa) páprica picante",
+      "1 colher (sopa) lemon pepper",
+      "1 colher (sopa) sal",
+      "1/2 colher (sopa) cominho em pó",
+      "1 folha de louro",
+      "1 pitada manjericão (opicional)",
+      "2 pitadas cheiro verde (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fritar a linguiça com todos os temperos.",
+      "Ferver a água",
+      "Quando a linguiça estiver dourada, acrescente a água fervente",
+      "Colocar todos os itens na panela de pressão e deixar por 10 minutos",
+      "Obs.: o caldo fica um pouco grosso. Se preferir um caldo mais fino, deixar a sopa na pressão por 7 min",
+      "Incluir pão torradinho para decorar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KELLY MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312015-sopa-de-ervilha-com-linguica-toscana.html"
+}

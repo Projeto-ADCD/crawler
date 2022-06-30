@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE MILHARINA COM GOIABADA E QUEIJO (COBERTURA DE FALSA DE GOIABADA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 pacote de milharina",
+      "4 ovos",
+      "4 colheres de margarina",
+      "500 ml de leite",
+      "1 pacote de coco ralado",
+      "5 colheres (sopa) de açúcar",
+      "pitada de sal",
+      "250 g de queijo (mussarela ou branco)",
+      "250 g de goiabada",
+      "Cobertura",
+      "250 g de goiabada",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a Milharina com o leite e deixe hidratar por 15 minutos, após isso misture os demais ingredientes (menos o queijo e a goiabada)",
+      "Unte uma forma e despeje metade da massa com cuidado utilize uma concha para auxiliar , coloque os pedaços de queijo e goiabada no meio da forma mantenha uma distância das bordas para não ter problema para desinformar",
+      "Após isso complete com o restante da massa e coloque no forno pré aquecido à 180° C e deixe por 30 minutos ou até você ver que a massa está douradinha e soltando da forma ",
+      "Calda de goiabada",
+      "Derreta a goiabada na água , em banho-maria até ficar brilhante e lisa",
+      "Desinforme o bolo e cubra com a calda.",
+      "Sirva quente e aproveite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LUDMILLA FREIRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306426-bolo-de-milharina-com-goiabada-e-queijo-cobertura-de-falsa-de-goiabada.html"
+}

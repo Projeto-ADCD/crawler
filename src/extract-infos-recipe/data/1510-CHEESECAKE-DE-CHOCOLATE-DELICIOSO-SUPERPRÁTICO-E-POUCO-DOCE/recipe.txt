@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CHEESECAKE DE CHOCOLATE DELICIOSO SUPERPRÁTICO E POUCO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito de maisena",
+      "100 g de manteiga",
+      "300 g de cream cheese",
+      "1 lata (ou pacote) leite condensado",
+      "1 barra de chocolate meio amargo",
+      "1/2 lata de creme de leite",
+      "3 colheres chocolate em pó (50% cacau para ficar menos doce)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer a massa",
+      "Preaqueça o forno",
+      "Triture o biscoito de maisena no liquidificador (a quantidade vai conforme o tamanho da forma, pode ter uns pedaços grandes, fica maneiro também)",
+      "Depois coloque 100 g de manteiga derretido (ou o suficiente para deixar o biscoito triturado molhadinho)",
+      "Escolha uma forma com alguma profundidade e espalhe o biscoito de maisea triturado com a manteiga",
+      "Leve ao forno por 5 minutos na temperatura máxima",
+      "Para fazer o recheio",
+      "Bata no liquidificador até ficar homogênio",
+      "3 colher de chocolate em pó (50% cacau)",
+      "1 caixa de leite condensado",
+      "300 g de cream cheese",
+      "Leve na panela no fogo baixo até engrosssar (ou até quando começar a borbulhar)",
+      "Para fazer o ganache",
+      "Derreta no micro-ondas o chocote meio amargo",
+      "De 30 em 30 segundos tire e misture até ficar derretido",
+      "Misture o chocolate derretido com meia caixa de creme de leite",
+      "Finalizando",
+      "Coloque o recheio por cima da massa",
+      "Coloque o ganache por cima do recheio",
+      "Leve à geladeira ou no freeze até gelar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FABRICIO BELLESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307960-cheesecake-de-chocolate-delicioso-superpratico-e-pouco-doce.html"
+}

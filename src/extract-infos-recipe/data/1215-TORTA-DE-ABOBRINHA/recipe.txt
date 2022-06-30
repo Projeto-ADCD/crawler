@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE ABOBRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha verde média picada em cubos",
+      "1 cebola picada",
+      "1/2 xícara de parmesão ralado",
+      "2 colheres (sopa) cheia de farinha de aveia (ou farelo de aveia)",
+      "1 colher (sopa) cheia de goma de tapioca (ou polvilho doce)",
+      "3 ovos",
+      "1 dente de alho",
+      "1 colher (sopa) de azeite",
+      "1 colher (chá) de fermento químico",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro bata os ovos",
+      "Depois junte os demais ingredientes com exceção do fermento e misture até incorporar bem",
+      "Por fim adicione o fermento e misture delicadamente até incorporar",
+      "Despeje em forma untada (o tamanho ideal de forma é a de pão) e asse em forno médio por cerca de 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ISABEL RUBIK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309341-torta-de-abobrinha.html"
+}

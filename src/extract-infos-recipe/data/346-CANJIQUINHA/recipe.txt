@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJIQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pedaço de bacon",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 caldo de carne (ou da sua preferência)",
+      "1 maço de salsinha e coentro",
+      "1 pitada de sal",
+      "1 sachê de Sazón de carne",
+      "1 colher de azeite",
+      "1 gomo de linguiça calabresa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque 1 colher de azeite na panela de pressão, em seguida jogue as cebolas picadas e alho. Deixe dourar.",
+      "Depois coloque 1 caldo de carne, o bacon picado e a linguiça calabresa até que fique dourado. Quando ficar no ponto, coloque a canjiquinha.",
+      "Depois coloque duas colheres de sal, não muito cheias, e água até cobrir todos os ingredientes. Por último coloque a salsinha e o coentro e tampe. Deixe cozinhar de 15 a 20 minutos e pronto. Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANNA CLAUDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313127-canjiquinha.html"
+}

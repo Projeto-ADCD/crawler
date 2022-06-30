@@ -1,0 +1,34 @@
+{
+  "nome_receita": "RÃ À PROVENÇAL COM MOLHO DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 rãs",
+      "2 xícaras de farinha de trigo",
+      "1/2 caixa de creme de leite",
+      "4 colheres (sopa) de manteiga",
+      "1/2 xícara de azeite",
+      "1/2 maço de salsinhas",
+      "6 dentes de alho",
+      "2 limões",
+      "pimenta a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça uma mini marinada das rãs com um limão e meio, sal e pimenta.",
+      "Deixe marinar no mínimo cinco minutos – o ideal é mais tempo para apurar bem o sabor.",
+      "Empane as rãs na farinha de trigo.",
+      "Dê uma selada inicial em uma frigideira com uma colher de manteiga e meia xícara de azeite.",
+      "Em outra frigideira, coloque duas colheres de manteiga e o alho fatiado finamente e espere dar uma leve dourada.",
+      "Acrescente as rãs para continuar fritando de ambos os lados e coloque bastante salsinha, mas reserve uma punhado separado para usar no molho de limão. Quando as rãs estiverem douradas, retire e seque no papel toalha.",
+      "Pegue a primeira frigideira e deglaceie com suco de meio limão.",
+      "Acrescente o creme de leite, uma colher de manteiga, o restante da salsinha e faça um molho.",
+      "Sirva à parte."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MAÍRA GEANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306436-ra-a-provencal-com-molho-de-limao.html"
+}

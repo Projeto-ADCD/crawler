@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PUDIM ESPELHADO DE PÊSSEGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pacotinhos de gelatina sabor pêssego",
+      "1 lata de pêssegos em calda",
+      "150 ml de água fervente",
+      "150 ml de água fria",
+      "2 xícaras de leite integral (200ml cada) ",
+      "1 caixinha de leite condensado",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1º passo",
+      "Unte a forma com um pouco de óleo",
+      "Dissolva 1 pacotinho da gelatina em 150 ml de água fervente e 150 ml de água fria",
+      "Coloque a gelatina dissolvida na forma untada",
+      "Corte os pêssegos em pedaços menores e posicione-os na forma, junto com a gelatina dissolvida",
+      "Leve no congelador por uns 30/40minutos para firmar a gelatina e o pêssego, e conseguirmos colocar o outro creme por cima",
+      "2º passo",
+      "Coloque 2 xícaras de leite pra esquentar (não precisa ferver) e dissolva os outros 2 pacotinhos de gelatina, mexendo bem pra dissolver",
+      "Bata no liquidificador essa gelatina dissolvida no leite, junto com o leite condensado e o creme de leite",
+      "Coloque esse creme na forma, em cima da gelatina com pêssegos que vc deixou gelando. Coloque com cuidado e com auxílio de uma colher",
+      "Coloque na geladeira pra gelar de um dia pro outro",
+      "E depois é só desenformar!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "@CANTINHOTAMI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306866-pudim-espelhado-de-pessego.html"
+}

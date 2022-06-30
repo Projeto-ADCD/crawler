@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CEBOLA EMPANADA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande",
+      "1 xícara de farinha de trigo",
+      "1 copo de leite",
+      "1 xícara de farinha de rosca (ou panko)",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola em rodelas, coloque-as na água gelada por uns 15 minutos.",
+      "Retire da agua e seque-as bem",
+      "Passe a cebola na farinha temperada",
+      "Logo em seguida passe no leite, depois passe na farinha de rosca e volte para o leite",
+      "Depois passe na farinha de rosca novamente.",
+      "Frite-as como preferir (recomendo no óleo para que fique crocante)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIANA HOLANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309628-cebola-empanada-facil.html"
+}

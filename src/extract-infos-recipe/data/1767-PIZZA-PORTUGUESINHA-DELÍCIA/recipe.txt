@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PIZZA PORTUGUESINHA DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "3 colheres de sopa de leite em pó",
+      "1 colher (chá) de fermento em pó",
+      "1 colheres (sopa) de margarina",
+      "1 colheres (chá) de mel",
+      "1 xícara (chá) de água",
+      "2 colheres (sopa) de azeite de oliva",
+      "sal",
+      "300 g de queijo colonial",
+      "200 g de presunto fatiado",
+      "1 cebola pequena",
+      "1/2 pimentão verde",
+      "1 dente de alho",
+      "3 colheres (sopa) de milho em conserva",
+      "200 g de molho de tomate",
+      "1 tomate",
+      "1 linguiça calabresa fina",
+      "orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela a farinha de trigo.Em outra tigela, coloque 1 xícara de água morna. Na água morna, dissolva o leite em pó, o fermento, a margarina, o mel e uma pitada de sal.",
+      "Abra uma cova no meio da farinha e adicione os ingredientes dissolvidos na água morna. Com uma colher vá mexendo até a água desaparecer, então comece a amassar com as mãos.",
+      "Quando a massa estiver já firme e aderido todo o sólido contido na tigela, leve-a a uma mesa. Comece a sová-la e vá acrescentando as 2 colheres de azeite de oliva aos poucos.",
+      "Quando a massa estiver bem compatctada e homogeneizada, coloque-a novamente numa tigela, cubra-a com um pano e deixe repousar por 1 hora (o aconselhável por grandes pizzaiolos, é que a massa repouse por 24 a 48 horas, mas deixemos o mínimo aceitável, 1 hora).",
+      "Passada 1 hora, unte uma forma com azeite ou margarina, e espalhe a massa manualmente apalpando-a.",
+      "Em seguida, no forno pré-aquecido à 200° C, coloque a forma com a massa para pré-cozer. Deixe no forno por no máximo 5 minutos.",
+      "Após pré-cozimento, coloque uma camada de queijo, 1 de presunto, o molho de tomate (pode ser substituído por guisado de molho de tomate com carne), a cebola picada em rodelas, o alho picado, o pimentão e a calabresinha picada.",
+      "Em seguida coloque o tomate picado, o milho em conserva, e salpique orégano à gosto.",
+      "Após recheada, leve a pizza a assar. Deixe no forno por 25 minutos.",
+      "Sirva com azeite de oliva e maionese caseira."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "FLAVIO NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306863-pizza-portuguesinha-delicia.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE MILHO DE LATINHA COM COCO NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde sem água",
+      "1 garrafa de 200ml de leite de coco ou 1 copo de 200 ml de leite com 3 colheres de coco ralado sem açúcar",
+      "3 ovos",
+      "3 colheres (sopa) de farinha de trigo",
+      "3/4 de xícara de açúcar",
+      "1 colher (sopa) de óleo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, com exceção do fermento.",
+      "Passa a massa para uma vasilha e acrescente o fermento.",
+      "A forma deve ser untada e polvilhada com farinha de trigo.",
+      "Leve ao forno preaquecido a 180° C a 200° C.",
+      "Deixe assar por 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CARITAS ROLIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307137-bolo-de-milho-de-latinha-com-coco-no-liquidificador.html"
+}

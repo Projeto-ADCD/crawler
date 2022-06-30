@@ -1,0 +1,26 @@
+{
+  "nome_receita": "RATATOUILLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha",
+      "1 berinjela",
+      "1 pimentão amarelo",
+      "3 tomates grandes",
+      "1 colherzinha de sal",
+      "1 colher (sopa) de azeite",
+      "1 copo de molho de sua preferencia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corta a berinjela e abobrinha em rodelas na medida de um dedo aproximadamente",
+      "Salpique o sal e deixe descansar por 30 minutos",
+      "Depois escorra o líquido e grelha, arruma todo intercalando um a um e colocando numa refratária redonda",
+      "Coloque bastante molho de tomate por cima e leve ao forno por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RECEITAS DA MAMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307552-ratatouille.html"
+}

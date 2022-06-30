@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ARROZ DE LEITE À MODA DO SERTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de arroz branco ou arbóreo",
+      "1 litro de água",
+      "1 colher (sopa) de sal",
+      "200 ml de leite integral",
+      "2 colheres (sopa) de manteiga de garrafa",
+      "1 xícara (240 ml) de queijo coalho",
+      "coentro a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a água, o sal, o arroz e uma colher (sopa) da manteiga.",
+      "Cozinhe este arroz, até que ele esteja mole, mas sem grudar no fundo da panela.",
+      "Se necessário acrescente um pouco de água",
+      "Dica: evite lavar o arroz, pois tudo que saí dele ao ser lavado é amido, que é extremamente importante, para que seu arroz fique cremoso, ao ponto de rizoto.",
+      "Agora, acrescente o queijo, o leite e o restante da manteiga.",
+      "Mexa sempre até que ele ganhe consistência.",
+      "Agora, desligue o fogo e acrescente o coentro ou outra erva de sua preferência, misture bem e sirva.",
+      "Sugestão de acompanhamento: carnes em geral, cozidas ou assadas."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BÉNISSON SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312205-arroz-de-leite-a-moda-do-sertao.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PIMENTÕES RECHEADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pimentões vermelhos",
+      "4 linguiças de porco",
+      "200 g ou 4/5 xícara (chá) de arroz cozido e frio",
+      "3 colheres (sopa) de azeitonas pretas sem caroço picadas",
+      "250 g de mussarela em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C ",
+      "Corte a parte superior dos pimentões, onde fica o cabo, e retire as sementes e o miolo",
+      "Retire a pele da linguiças ",
+      "Coloque-as em uma tigela, desmanche-as com um garfo e misture o arroz, as azeitonas e a mussarela em cubos.",
+      "Tempere com pimenta-do-reino a gosto",
+      "Recheie os pimentões com a mistura de arroz e coloque de volta a parte superior do pimentão, tampando ",
+      "Coloque em uma assadeira",
+      "Asse os pimentões por 1 hora ou até que estejam bem quentes"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310162-pimentoes-recheados.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PICOLÉ DE KIWI COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 kiwis",
+      "12 colheres (sopa) de leite condensado",
+      "500 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes no liquidificador",
+      "Separe em recipiente e leve para o freezer por 3 horas"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Eu coloquei em uma forminha própria conforme a foto "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DENIS OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310337-picole-de-kiwi-com-leite-condensado.html"
+}

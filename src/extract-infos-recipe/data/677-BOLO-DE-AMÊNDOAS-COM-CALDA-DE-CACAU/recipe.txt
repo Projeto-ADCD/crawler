@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE AMÊNDOAS COM CALDA DE CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de amêndoas inteiras picadas",
+      "1 xícara de açúcar",
+      "1/2 xícara de Becel Amanteigado",
+      "2 ovos",
+      "2 colheres (chá) de raspas de limão siciliano",
+      "4 colheres (sopa) de suco de limão siciliano",
+      "1 xícara de semolina",
+      "1 colher (sopa) de fermento em pó",
+      "1 xícara de água",
+      "3 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de cacau em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno em temperatura média (180°C).",
+      "Unte uma assadeira redonda média (25 cm de diâmetro) e reserve.",
+      "Triture metade das amêndoas, até transformar em farinha, e reserve.",
+      "Coloque na batedeira o açúcar, Becel Amanteigado e os ovos. Bata por 5 minutos ou até formar uma mistura cremosa.",
+      "Retire da batedeira e junte a amêndoa triturada, a amêndoa picada, as raspas de limão, o suco de limão, a semolina, o fermento e misture delicadamente.",
+      "Coloque a massa na assadeira reservada e leve ao forno por aproximadamente 30 minutos ou até que um palito, depois de espetado na massa, saia limpo.",
+      "Retire do forno e deixe esfriar.",
+      "Em uma panela pequena, junte a água, o açúcar, o cacau em pó e Becel Amanteigado e cozinhe em fogo médio, mexendo sempre até começar a ferver.",
+      "Cozinhe em fogo baixo, mexendo ás vezes, por mais 5 minutos ou até formar uma calda espessa.",
+      "Retire do fogo.",
+      "Desenforme o bolo em um prato grande e cubra com a calda.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312052-bolo-de-amendoas-com-calda-de-cacau.html"
+}

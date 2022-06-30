@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CALDINHO DE INHAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de inhame",
+      "2 batas médias cortadas em cubo",
+      "1 linguiça calabresa",
+      "2 dentes de alho amassados",
+      "1 cebola média ralada",
+      "Sal e pimenta do reino a gosto",
+      "1 colher de sopa de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o inhame cortado em pedaços com água o suficiente para cobrir, coloque o sal e a pimenta do reino e deixe cozinhar bem.",
+      "Após cozido bata tudo no e reserve.",
+      "Escaldar a linguiça calabresa, retire a pele e corte em cubos.",
+      "Em uma panela coloque a linguiça calabresa cortada em cubos, o alho, a cebola e a margarina, refogue bem em fogo médio. Adicione a batata (crua) e misture bem.",
+      "Em seguida adicione o inhame batido, tampe a panela e deixe ferver até que a batata esteja cozida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BRUNA LENIZIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306666-caldinho-de-inhame.html"
+}

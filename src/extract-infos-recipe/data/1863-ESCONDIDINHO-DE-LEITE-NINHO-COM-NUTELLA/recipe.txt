@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ESCONDIDINHO DE LEITE NINHO COM NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "3 colheres (sopa) de leite ninho",
+      "1 colher de manteiga sem sal",
+      "1 pote de creme de avelã (350 g)",
+      "leite em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer o brigadeiro de leite ninho coloque em uma panela as 2 latas de leite condensado, as 3 colheres (sopa) de sopa de leite em pó e a manteiga",
+      "Mexa até ficar no ponto de brigadeiro.",
+      "Após isso retire do fogo e deixe esfriar",
+      "Em uma travessa espalhe 1 colher cheia de nutela por todo o fundo da travessa",
+      "Coloque o brigadeiro de leite ninho e depois colheres rasas de nutella",
+      "Apos montar o escondidinho pouvilhe leite em pó em cima do doce e leve à geladeira.",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "EDUARDA PICARELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306596-escondidinho-de-leite-ninho-com-nutella.html"
+}

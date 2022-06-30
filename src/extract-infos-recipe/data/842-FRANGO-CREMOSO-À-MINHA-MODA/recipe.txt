@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FRANGO CREMOSO À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de frango",
+      "1 pacote de creme de cebola",
+      "1 caixinha de creme de leite",
+      "1 copo de requeijão",
+      "1 copo de leite",
+      "1 lata de milho escorrido",
+      "1 cebola grande cortada em fatias finas",
+      "1 pimentão amarelo, sem pele, cortado em tiras",
+      "1 limão seciliano ou galego",
+      "1/2 xícara de salsinha picada",
+      "50 g de parmesão ralado",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os files de frango em bifes finos e pequenos.",
+      "Tempere-os com sal pimenta e limão e deixe marinar de um dia para o outro.",
+      "Bata no liquidificador o creme de leite, o requeijão, o leite e o milho até formar um creme homogênio.",
+      "Misture ao creme a salsinha picada.",
+      "Em uma frigideira com óleo, refogue a cebola cortada em rodelas finas.",
+      "Descasque o pimentão e corte-o em tiras e tempere com sal pimenta e azeite e reserve.",
+      "Empane os filés de frango com o creme de cebola.",
+      "Em um refratário untado com manteiga, distribua os filés de frango empanados.",
+      "Cubra com a cebola refogada e o pimentão em tiras.",
+      "Cubra tudo com o creme de milho e polvilhe com queijo parmesão ralado.",
+      "Cubra o refratário com papel alumínio.",
+      "Leve ao forno pré-aquecido a 200° por cerca de 30 a 35 minutos.",
+      "Retire o papel alumínio e deixe gratinar até dourar",
+      "Sirva com um arroz branco e salada verde."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311329-frango-cremoso-a-minha-moda.html"
+}

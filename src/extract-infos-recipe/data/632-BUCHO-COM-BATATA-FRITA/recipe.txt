@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BUCHO COM BATATA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de bucho",
+      "batata frita a gosto",
+      "2 linguiças calabresa",
+      "2 dentes de alho",
+      "1 limão",
+      "1 tempero sabor nordeste",
+      "1 pimentão",
+      "1 cebola",
+      "sal a gosto",
+      "1 tomate sem demente",
+      "1 cheiro-verde",
+      "150 g de azeitona verde",
+      "queijo ralado ou mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o bucho, coloque na panela de pressão com limão por mais ou menos 50min. Após o cozimento picar os dois dentes de alho na panela e jogar a calabresa cortada e deixar fritar.",
+      "Após jogar o bucho, o tempero sabor nordeste,o pimentão cortado, e a cebola. Após refogar colocar a cebola cortada e deixar refogar. Por fim acrescentar o tomate, e a azeitona e deixar cozinhando um pouco mais por 3 min. Se quiser colocar um pouco de massa de tomate fica a critério e o sal. Após desligar o fogo acrescentar o cheiro verde.",
+      "Em um refratário ou tabuleiro coloque uma camada de batata frita, depois uma camada do bucho e assim até terminar a batata. Coloque encima a mussarela ralada e leve ao forno apenas para gratinar o queijo."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SILVI BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312238-bucho-com-batata-frita.html"
+}

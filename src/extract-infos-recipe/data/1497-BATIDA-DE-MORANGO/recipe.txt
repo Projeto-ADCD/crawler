@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BATIDA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 morangos congelados",
+      "3 colheres de leite condensado",
+      "2 colheres de açúcar",
+      "100 ml de vodka",
+      "2 copos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo muito bem no liquidificador",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308017-batida-de-morango.html"
+}

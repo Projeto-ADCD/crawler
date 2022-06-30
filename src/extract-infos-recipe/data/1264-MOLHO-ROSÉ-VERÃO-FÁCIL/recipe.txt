@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MOLHO ROSÉ VERÃO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de creme de leite",
+      "4 sachês de ketchup",
+      "2 sachês de mostarda",
+      "2 e 1/2 colheres (sopa) de shoyu",
+      "3 raminhos de salsa picados, folhas e caules",
+      "1 dente de alho",
+      "2 rodelas de cebola grandes",
+      "2 a 5 gotas de molho de pimenta",
+      "azeite ",
+      "sal a gosto",
+      "1 colher (sopa) de maionese (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, refogue o alho e a cebola picados, no azeite, até dourar",
+      "Enquanto isso, pique a salsa (folhas e caules)",
+      "Adicione todos os ingredientes em um recipiente (vidro, inox, cerâmica)",
+      "Misture muito bem com uma colher",
+      "Pronto!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Vai bem com:\nSaladas, peixes, frango, sanduíches, massas\nCozidos: ovo, batata\nFritos: batata, frango, croquete, coxinha\nOpcional: adicionar 2 ou 3 folhinhas de salsa em cima, para decoração\n(Consumir em até 24h, manter na geladeira)"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ALEXANDRE RUGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309208-molho-rose-verao-facil.html"
+}

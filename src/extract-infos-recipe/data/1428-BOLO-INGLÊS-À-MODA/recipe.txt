@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO INGLÊS À MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de açúcar",
+      "250 g de manteiga",
+      "250 g de farinha de trigo",
+      "6 ovos inteiros",
+      "1 cálice grande de vinho do porto",
+      "200 g de uvas-passa sem sementes",
+      "200 g de frutas cristalizadas ",
+      "canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Obs: Uma hora antes de iniciar o preparo do bolo, ponha as passas de molho no vinho.",
+      "Bata muito bem o açúcar com a manteiga, junte as gemas, uma de cada vez, e bata até obter claras em neve.",
+      "Continuando a bater, adicionando a farinha, as claras em neve e, por último, as frutas cristalizadas picadas e as passas picadas com vinho.",
+      "Quando a massa estiver abrindo bolhas, despeje em uma forma própria para bolo inglês, de bom tamanho, forrada com papel grosso, untado com manteiga e ligeiramente polvilhado com farinha de trigo e com canela em pó.",
+      "Asse em forno quente (250º C) nos dez primeiros minutos e termine de assar em forno moderado (180º C).",
+      "Depois de assado e frio, desenforme o bolo em um prato e polvilhe a superfície com açúcar de confeiteiro e canela em pó.",
+      "Corte, de preferência, no dia seguinte."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308373-bolo-ingles-a-moda.html"
+}

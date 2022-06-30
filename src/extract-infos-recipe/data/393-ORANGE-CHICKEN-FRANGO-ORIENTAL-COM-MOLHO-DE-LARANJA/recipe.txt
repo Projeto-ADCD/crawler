@@ -1,0 +1,61 @@
+{
+  "nome_receita": "ORANGE CHICKEN - FRANGO ORIENTAL COM MOLHO DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de frango limpo (peito ou sobrecoxa)",
+      "óleo (para fritar o frango por imersão)"
+    ],
+    "MASSA": [
+      "1 colher (sopa) de sal",
+      "1 colher(chá) de pimenta branca em pó",
+      "1 xícara de maisena",
+      "3 xícaras de farinha",
+      "1 ovo",
+      "2 colheres de sopa de óleo",
+      "2 e 1/2  xícaras de agua"
+    ],
+    "MOLHO": [
+      "2 colheres (chá) de óleo",
+      "2 colheres de pimenta vermelha bem picada (sem semente)",
+      "1/2 colher (sopa) de gengibre bem picado",
+      "2 colheres (sopa) de alho picado",
+      "1/2 xícara de açúcar refinado",
+      "1/2 xícara de açúcar mascavo",
+      "1 xícara de suco de laranja",
+      "1/4 xícara de shoyu",
+      "1/4 xícara de maisena ",
+      "1/4 xícara de água",
+      "1/2 xícara de vinagre de arroz",
+      "2 colheres (chá) de óleo de gergelim"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o frango em cubos de 2cm aprox (muito grande você pode ficar com o frango cru, muito pequeno pode ficar seco) ecoloque sal e pimenta a gosto."
+    ],
+    "MASSA": [
+      "Coloque o sal, a pimenta, a maisena e a farinha em um bow e misture bem. Adicione o ovo, o oleo e vá adicionando a agua e misturando até chegar no ponto desejado (O ponto tem deixar fácil de retirar o frango dessa massa, mas se colocar muita agua, a massa vai escorrer e seu frango vai ficar sem a crosta de massa na hora de fritar).",
+      "Com a massa pronta, mergulhe todo o frango dentro da massa e coloque isso tudo para descansar por pelo menos 30min na geladeira.",
+      "Esse passo ajuda seu frango a ficar mais saboroso pois o tempo entra no frango e a massa gruda mais no frango também, auxiliando ao fritar. Se você quiser pode fazer e deixar o frango pronto na geladeira no dia anterior, ai no dia seguinte você só precisa fritar e fazer o molho.",
+      "Depois de descansado, você vai fritar o frango por imersão.",
+      "Remova cubo por cubo da massa e coloque no oleo já quente.",
+      "Tire o frango quando ele estiver um tom a menos do que você deseja, pois a massa escurece um pouco mais depois de tirar do óleo.",
+      "São cerca de 2min por frango. Lembrando que muito tempo no óleo só vai deixar seu frango seco.",
+      "Reserve o frango secando em papel toalha.",
+      "Molho",
+      "Ligue em fogo medio/alto e vá adicionando os itens em sequencia: óleo, pimenta vermelha, gengibre, alho.",
+      "Deixe fritar um pouquinho, suba a temperatura e coloque os dois açucares e vá misturando.",
+      "Adicione o suco de laranja, o shoyu misture tudo e espere ferver.",
+      "Quando estiver fervendo adicione o vinagre de arroz, assim que voltar a ferver a mistura adicione a maisena já misturada com a agua e espere engrossar.",
+      "Agora adicione seu frango no molho e misture.",
+      "Então desligue o fogo e adicione o óleo de gergelim e dê uma ultima misturada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Aproveite uma refeição com MUITO SABOR. Não esqueça de fazer um arroz bem grudadinho pra colocar esse frango delicia em cima. Nem precisa temperar o arroz, o frango ja faz isso.\nO frango da pra 6 pessoas com muita fome e ainda sobra um pouco, pode acreditas haha.\nENJOY!"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "AMANDHA ADULIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312956-orange-chicken-frango-oriental-com-molho-de-laranja.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ANTEPASTO DE BERINJELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 berinjelas grandes",
+      "3 colheres (chá) de sal",
+      "4 dentes de alho ",
+      "1 xícara (chá) de vinagre",
+      "2 xícaras (chá) de azeite",
+      "1/2 xícara (chá) de azeitonas verdes ",
+      "1 folha de louro",
+      "1 pote de vidro (capacidade para 750 ml)",
+      "pimenta-do-reino a gosto",
+      "pimenta dedo-de-moça se desejar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as berinjelas cruas e corte-as em fatias finas no sentido do comprimento, em seguida cada fatia corte em tiras bem finas também no sentido do comprimento.",
+      "Salpique-as com o sal e, com as mãos, envolva-as bem.",
+      "Deixe descansar por 6 horas (pode deixar de uma noite pro outro dia)",
+      "Após esse período, escorra bem o líquido.",
+      "Esprema bem as berinjelas, de modo que retire toda a sua água (Eu espremo num pano de prato limpo para ficarem bemmmm secas)",
+      "Depois de bem secas/espremidas, coloque berinjela em uma panela com fogo super baixo e acrescente o vinagre. (Apenas para “mornar”, não cozinhe).",
+      "No vidro coloque a berinjela, o azeite, o alho, a folha de louro, as azeitonas picadas, pimenta do reino a gosto.",
+      "Adicione o azeite até cobri-las totalmente.",
+      "Passe o plástico-filme na borda do vidro e tampe, deixando curtir por uma semana.",
+      "Não esqueça de esterilizar o pote (lave com água bem quente)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "azeitonas verdes sem caroço picadas\nalho em lâminas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ROSI NUNES BANZATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306388-antepasto-de-berinjela.html"
+}

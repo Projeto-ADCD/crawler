@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FALSA MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "200 g de amido de milho",
+      "200 g de manteiga com sal (margarina não serve)",
+      "150 g de queijo mussarela picado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande, adicione o leite, a manteiga em temperatura ambiente, o sal e o queijo ",
+      "Misture bem antes de levar ao fogo.",
+      "Após o amido estar totalmente dissolvido, leve ao fogo médio, mexendo sempre com uma colher de pau.",
+      "Quando desgrudar do fundo, desligue o fogo.",
+      "Utilize 1 pote com tampa (tipo as de sorvete) para transferir a massa",
+      "Deixe esfriar sem tampar.",
+      "Quando estiver frio, tampe e leve à geladeira por 6 horas.",
+      "Após isso, pode servir ou utilizar em outra receita.",
+      "É recomendável que utilize em 1 semana.",
+      "Conserve na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANDRÉA GUAYANAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307104-falsa-mussarela.html"
+}

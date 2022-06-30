@@ -1,0 +1,39 @@
+{
+  "nome_receita": "COCADA DE FORNO",
+  "ingredientes": {
+    "COCADA": [
+      "1 lata de leite condensado",
+      "200 ml de leite de coco",
+      "1/2 xícara de leite",
+      "3 ovos",
+      "1 xícara de coco ralado"
+    ],
+    "CALDA": [
+      "1/2  xícara de açúcar",
+      "1/2 xícara de suco concentrado de manga",
+      "1/2 xícara de manga cortada em cubos pequenos",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "COCADA": [
+      "Em um recipiente, junte todos os ingredientes, menos o coco ralado. ",
+      "Misture bem com o auxílio de uma colher. ",
+      "Junte o coco e misture novamente. ",
+      "Reserve",
+      "Unte e enfarinha uma forma. ",
+      "Despeje o conteúdo da massa da cocada.",
+      "Leve para assar por 35 minutos a 180° C."
+    ],
+    "CALDA": [
+      "Enquanto isso, prepare a calda de manga ",
+      "Junte todos os ingredientes em uma panela e leve ao fogo. ",
+      "Misture bem e deixe ferver.",
+      "Desenforme a cocada e sirva com a calda por cima. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310915-cocada-de-forno.html"
+}

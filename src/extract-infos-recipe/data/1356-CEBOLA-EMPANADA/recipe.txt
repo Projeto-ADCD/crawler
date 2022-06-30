@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CEBOLA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas médias",
+      "1/2 xícara (chá) de farinha de rosca",
+      "1/2 xícara (chá) de trigo sem fermento",
+      "1 sachê de tempero de sua preferência",
+      "1/2 xícara de leite",
+      "óleo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as cebolas em rodelas finas e lave bem",
+      "Misture o sachê com o trigo, depois passe a cebola no leite em seguida no trigo",
+      "Depois volta para o leite, passe no trigo novamente e por fim passa na farinha de rosca.",
+      "Frite no óleo e bom apetite",
+      "Obs: você passa 2 vezes para engrossar o empanado."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CECÍLIA GOMES REBELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308750-cebola-empanada.html"
+}

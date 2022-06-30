@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COMPOTA DE GOIABA ESPECIAL Á LORRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de goiaba",
+      "300 g açúcar",
+      "2 unidades de pau de canela",
+      "400 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as goiabas com cuidado. Retire as sementes e a polpa deixando bem limpa",
+      "Coloque as metades da goiaba na panela e coloque 200 ml de água. Cozinhe tampada.",
+      "Em outra panela coloque o açúcar e caramelize com a canela. Quando estiver dourado coloque 100 ml de água e faça a calda misturar está calda na goiaba cozida. Destampe.",
+      "Coloque a polpa e semente no liquidificador e bata com 100 ml de água. Peneire bem e coloque na panela do cozimento. Deixe reduzir o volume",
+      "Coloque numa travessa e leve para gelar"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LAURA DE CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311143-compota-de-goiaba-especial-a-lorra.html"
+}

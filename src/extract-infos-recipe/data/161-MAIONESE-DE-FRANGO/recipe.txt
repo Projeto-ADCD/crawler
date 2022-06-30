@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MAIONESE DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de batata portuguesa ",
+      "150 g de cenoura",
+      "150 g de peito de frango Alliz",
+      "100 g de ervilha verde",
+      "100 g de maionese",
+      "200 g de creme de leite",
+      "100 g de azeitona",
+      "30 g de orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e cenouras, corte em quadradinhos e leve para cozinhar por aproximadamente 15 minutos.",
+      "Corte o peito de frango em cubos e refogue com azeite, pimenta e sal. ",
+      "Misture a maionese com o creme de leite e o orégano até homogeneizar o creme. ",
+      "Adicione todos os ingredientes ao creme misturando delicadamente. "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314105-maionese-de-frango.html"
+}

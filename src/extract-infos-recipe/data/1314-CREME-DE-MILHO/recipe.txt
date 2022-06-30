@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho",
+      "1 caixinha de creme de leite",
+      "1 xícara de leite",
+      "sal e pimenta a gosto",
+      "1 colher (sopa) de trigo",
+      "1 colher de manteiga",
+      "1/4 de uma cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho (com a água do milho) com o leite",
+      "Enquanto esta batendo as coisas liquidificador, dore a cebola na manteiga, quando ela já estiver dourada adicione o trigo e não deixe queimar (é bem fácil de queimar o trigo)",
+      "Adicione o leite batido com o milho na cebola",
+      "Mexa até virar uma mistura cremosa",
+      "Adicione o creme de leite inteiro, o sal e a pimenta",
+      "Continue mexendo até ficar homogêneo e cremoso, e está pronto",
+      "Sirva morno",
+      "obs: (fica muito gosto com macarrão a alho e óleo)"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "YOUR MY SUNSHINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308939-creme-de-milho.html"
+}

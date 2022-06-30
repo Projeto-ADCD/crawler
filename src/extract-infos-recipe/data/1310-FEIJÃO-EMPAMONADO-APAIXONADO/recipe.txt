@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FEIJÃO EMPAMONADO/APAIXONADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão bem cozido",
+      "1 calabresa",
+      "150 g de bacon ",
+      "1 cebola grande ",
+      "5 dentes de alho ",
+      "1/2 pimentão (amarelo ou vermelho) ",
+      "3 pimentas de cheiros ",
+      "3 colheres cheias de farinha de mandioca",
+      "300 ml de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça bem uma panela.",
+      "Frite nela o bacon picado no seu próprio óleo (se necessário pingue água).",
+      "Bacon bem fritinho acrescente a calabresa e frite também.",
+      "Acrescente o alho picado e doure bem.",
+      "Acrescente a cebola e o pimentão picados e refogue.",
+      "Adicione o feijão e a água quente (se o feijão estiver bem caldoso não é necessário muita água quente).",
+      "Deixe ferver por uns 8 minutos.",
+      "Acerte o sal.",
+      "A parte, dilua a farinha de mandioca em água na temperatura ambiente.",
+      "Adicione essa mistura ao feijão.",
+      "Mexa bem por uns 4 minutos.",
+      "A consistência ideal é que ele fique mais ralo que o tutu de feijão.",
+      "Desligue.",
+      "Acrescente a pimenta-de-cheiro e cheiro-verde.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALESSANDRA MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308964-feijao-empamonado-barra-apaixonado.html"
+}

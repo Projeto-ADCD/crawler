@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE MORANGO COM RASPAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "2 caixas de creme de leite",
+      "1 caixa de gelatina sabor morango",
+      "2 caixas de morango frescos",
+      "1 tablete de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os morangos no liqüidificador e acrescente aos poucos o leite condensado e o creme de leite.",
+      "Prepare a gelatina conforme as instruções do fabricante e acrescente a mistura ao liquidificador.",
+      "Bata os ingredientes juntos por 2 minutos",
+      "Despeje o creme em uma travessa de vidro e leve à geladeira por 2 a 3 horas.",
+      "Ao retirar da geladeira, decore a mousse com a outra caixa de morango e as raspas do chocolate, e leve à geladeira até o momento de servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "EDUARDO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306146-mousse-de-morango-com-raspas-de-chocolate.html"
+}

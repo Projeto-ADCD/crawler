@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SORVETE DE MORANGO (GELATINA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 envelope de gelatina (sabor opcional)",
+      "250ml de água fria",
+      "250 ml de água morna",
+      "1 caixinha de creme de leite",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a gelatina no liquidificador com a água fria por minuto",
+      "Depois acrescente a água fria e bata mais um minuto",
+      "Acrescente o leite condensado e o creme de leite e bata por três minutos",
+      "Coloque em um recepiente com tampa e leve ao freezer por três horas",
+      "Após esse tempo, bata na batedeira de 15 a 20 minutos",
+      "Leve ao freezer por 8 horas e estará pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LUCILENE AMORIM LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306780-sorvete-de-morango-gelatina.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MOQUÉCA DE PEIXE BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de tilápia em postas",
+      "2 colheres (sopa) de colorau",
+      "2 colheres (sopa) de páprica",
+      "1 colher (sopa) de sal",
+      "1 limão",
+      "6 cebolas",
+      "6 tomates",
+      "4 pimentões vermelhos",
+      "2 colheres (sopa) de salsa",
+      "200 ml de leite de coco",
+      "20 ml de azeite ou dendê",
+      "1 xícara de farinha de mandioca (para o pirão no final)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com o colorau, a páprica o sal e o limão (também pode ser temperado a sua maneira) e reserve",
+      "Em uma panela funda, faça uma camada de cebola cortadas em rodelas médias, uma camada de tomates cortados em rodelas médias e uma camada de pimentão vermelho cortado em rodelas médias, adicione uma pitada de salsa (a gosto) e cubra com uma camada de peixe",
+      "Repita os mesmos passos até acabar o peixe",
+      "Ao final adicione o leite de côco e o azeite [pelo menos duas colheres (sopa)] que também pode ser trocado pelo azeite de dendê",
+      "Tampe a panela e deixe cozinhar por aproximadamente 10 minutos",
+      "Em seguida retire tudo para um outro recipiente mantendo o caldo na panela",
+      "No caldo que ficou na panela, adicione 1 xícara de farinha de mandioca e mexa bem até engrossar",
+      "A consistência do pirão fica a critério de cada um, se fino ou grosso, deve ajustando com água até chegar no ponto desejado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311676-moqueca-de-peixe-by-cristiano-grillo.html"
+}

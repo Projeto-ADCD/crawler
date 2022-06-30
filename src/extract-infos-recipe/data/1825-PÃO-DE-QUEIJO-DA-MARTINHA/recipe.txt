@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DA MARTINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de polvilho doce",
+      "1 colher de sal (ou à gosto)",
+      "1 xícara de leite",
+      "1 xícara de água",
+      "1/2 xícara de óleo",
+      "1 xícara de queijo ralado",
+      "4 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o polvilho numa vasilha, adicione o sal e reserve.",
+      "Numa panela, coloque o leite, a água e o óleo e leve ao fogo.",
+      "Quando estiver fervendo, adicione ao polvilho e misture em com uma colher até esfriar.",
+      "Amasse um pouco e adicione os ovos.",
+      "Amasse bem. A mistura deve ficar o mais uniforme possível (sem pedaços).",
+      "Coloque o queijo ralado e amasse um pouco mais.",
+      "Unte as mãos com um pouco de óleo, enrole e distribua-os em uma forma, deixando um espaço entre eles.",
+      "Level para assar em forno pré-aquecido à 180 oC, até que fiquem dourados.",
+      "Rendimendo de 2 formas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CHEF JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306692-pao-de-queijo-da-martinha.html"
+}

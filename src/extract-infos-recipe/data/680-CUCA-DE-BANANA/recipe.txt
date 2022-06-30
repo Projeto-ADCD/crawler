@@ -1,0 +1,47 @@
+{
+  "nome_receita": "CUCA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de Becel Amanteigado",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "1 colher (chá) de canela em pó",
+      "2 gemas",
+      "1/2 xícara de vinho branco",
+      "1/2 xícara de amido de milho",
+      "1/2 colher (chá) de sal",
+      "1 colher (chá) de raspas de limão",
+      "1 colher (sopa) de fermento químico em pó",
+      "2 claras em neve",
+      "6 bananas-nanica cortadas em fatias finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture Becel Amanteigado, a farinha, o açúcar e a canela até obter uma farofa.",
+      "Reserve.",
+      "Coloque metade da massa na fôrma reservada e distribua metade das bananas.",
+      "Cubra com o restante da massa e distribua o restante das bananas.",
+      "Espalhe a farofa sobre as bananas e leve ao forno por 45 minutos ou até dourar a superfície e a cobertura ficar crocante.",
+      "Retire do forno e deixe esfriar.",
+      "Sirva em seguida.",
+      "Unte uma fôrma desmontável média (25 cm de diâmetro) e reserve.",
+      "Preaqueça o forno em temperatura média (180º C).",
+      "Bata na batedeira Becel Amanteigado, o açúcar e as gemas até obter um creme claro.",
+      "Adicione o vinho aos poucos, intercalando com a farinha e o amido de milho, batendo sempre até obter uma massa pastosa.",
+      "Junte o sal e as raspas de limão e bata por mais 2 minutos.",
+      "Pare de bater, acrescente o fermento e misture.",
+      "Adicione as claras e misture delicadamente.",
+      "Em uma tigela, misture Becel Amanteigado, a farinha, o açúcar e a canela até obter uma farofa.",
+      "Reserve.",
+      "Coloque metade da massa na fôrma reservada e distribua metade das bananas. Cubra com o restante da massa e distribua o restante das bananas.",
+      "Espalhe a farofa sobre as bananas e leve ao forno por 45 minutos ou até dourar a superfície e a cobertura ficar crocante.",
+      "Retire do forno e deixe esfriar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312049-cuca-de-banana.html"
+}

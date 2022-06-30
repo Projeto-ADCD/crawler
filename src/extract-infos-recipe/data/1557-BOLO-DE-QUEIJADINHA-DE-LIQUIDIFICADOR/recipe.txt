@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE QUEIJADINHA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "200 ml de leite",
+      "200 ml de leite de coco",
+      "2 colheres (sopa) de manteiga",
+      "2 xícaras (chá) de açúcar",
+      "50 g de queijo parmesão ralado",
+      "50 g de coco ralado",
+      "1 xícara (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador adicione os ovos, leite, manteiga, leite de coco e o açúcar e deixe bater bem",
+      "Então adicione o coco ralado e o queijo parmesão (se o seu liquidificador for potente pode fazer tudo de uma vez)",
+      "Por fim adicione o fermento e misture com uma colher",
+      "Prepare uma forma untando com óleo ou margarina",
+      "Polvilhe a forma com farinha de trigo",
+      "Coloque a massa sobre a forma e leve ao forno",
+      "Lembre-se de que o forno já deve estar preaquecido a temperatura de 180° C graus",
+      "Verifique se a massa já está assada, espetando com um palito",
+      "Aguarde esfriar, então faça o corte de sua preferência e sirva."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LEANDRO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307663-bolo-de-queijadinha-de-liquidificador.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "RISOTO NUTRITIVO DE BERINJELA E TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela grande cortada em cubos",
+      "1 colher (chá) de sal",
+      "4 colheres (sopa) de Becel Amanteigado",
+      "2 dente de alho",
+      "1 xícara de arroz arbório",
+      "3 xícaras de água",
+      "2 tomate grandes sem semente cortado em cubos",
+      "2 colheres (chá) de manjericão fresco picado",
+      "1 colher (chá) de cheiro-verde picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque a berinjela e o sal. Reserve por 15 minutos.",
+      "Em uma panela grande aqueça 2 colheres (sopa) de Becel Amanteigado e doure o alho.",
+      "Junte a berinjela e refogue por 3 minutos. Adicione o arroz e refogue por mais 3 minutos.",
+      "Adicione aproximadamente uma xícara (chá) de água fervente e cozinhe em fogo baixo até secar. Repita a operação até terminar o líquido e o arroz estar cozido, porém firme.",
+      "Acrescente o restante de Becel Amanteigado, o tomate e o manjericão. Misture delicadamente até os ingredientes estarem bem envolvidos. Tampe a panela e reserve por 5 minutos.",
+      "Passe para uma travessa, salpique o cheiro-verde e sirva em seguida.",
+      "Se preferir, substitua o arroz arbóreo por arroz comum."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312047-risoto-nutritivo-de-berinjela-e-tomate.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BABA DE MOÇA SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 gemas",
+      "1 xícara de açúcar",
+      "1 vidrinho de leite de coco",
+      "500 ml de leite de soja",
+      "1 colher (sopa) de amido de milho",
+      "essência de baunilha (opcional)",
+      "1 pacote de gelatina sem sabor",
+      "1 lata de ameixa em calda",
+      "merengue para decorar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte: as gemas peneiradas, o açúcar, o leite de coco, o leite de soja, o amido e a essência.",
+      "Mexa bem no fogo baixo até engrossar, deixe ferver um pouco e não pare de mexer.",
+      "Após desligar o fogo, acrescente a gelatina dissolvida (de acordo com as especificações da embalagem).",
+      "Coloque no refratário de vidro e cubra com papel filme, encostando na mistura, até esfriar.",
+      "Após isso leve a geladeira por 2 horas.",
+      "Depois de gelado, acrescente as ameixas e o merengue (opcional)."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IVANNA RAYSSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307010-baba-de-moca-sem-lactose.html"
+}

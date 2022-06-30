@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MACARRÃO GRATINADO COM CHEDDAR E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de Delícia Cremosa ",
+      "1 pacote de macarrão ",
+      "30 g de farinha de trigo ",
+      "500 ml de leite semidesnatado ",
+      "250 ml de queijo tipo cheddar ",
+      "15 ml de mostarda escura ",
+      "1,5 g de noz-moscada ",
+      "250 g de bacon picado ",
+      "125 g de parmesão ralado grosso ",
+      "45 g de salsinha picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, leve o bacon picado para fritar até que doure e seque bem.",
+      "Escorra o excesso de gordura e reserve.",
+      "Em uma panela leve 3 litros de água para ferver.",
+      "Adicione sal, o macarrão e cozinhe até ponto de aldente, escorra e reserve.",
+      "Em outra panela derreta Delícia Cremosa, junte a farinha de trigo e aqueça, misturando sempre, até dourar.",
+      "Acrescente o leite, o queijo cheddar, a mostarda, a noz-moscada e cozinhe até formar um molho não muito espesso.",
+      "Em um refratário coloque o macarrão, o molho, o bacon frito e misture bem.",
+      "Cubra com o queijo parmesão e leve ao forno, previamente aquecido à temperatura de 200º C, para gratinar por 15 minutos.",
+      "Retire do forno, polvilhe salsinha picada e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312582-macarrao-gratinado-com-cheddar-e-bacon.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GELEIA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de morango",
+      "1 xícara (chá) de água",
+      "suco de 1/2 limão",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os morangos e junte com os outros ingredientes",
+      "Deixe cozinhar em fogo baixo até reduzir (20 a 30 minutos)",
+      "Após esfriar guarde em um pote de vidro na geladeira.",
+      "Consumir em até 5 dias"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309203-geleia-de-morango.html"
+}

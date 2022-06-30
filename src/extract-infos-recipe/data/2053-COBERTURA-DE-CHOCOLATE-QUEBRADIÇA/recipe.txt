@@ -1,0 +1,25 @@
+{
+  "nome_receita": "COBERTURA DE CHOCOLATE QUEBRADIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 colher (sopa) de leite",
+      "10 colher (sopa) de açúcar",
+      "6 colher (sopa) de margarina",
+      "6 colher (sopa) de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma caneca",
+      "leve ao fogo médio até engrossar",
+      "mexendo de vez em quando",
+      "Retire do fogo e mexa por mais uns 3 minutos",
+      "Despeje sobre o bolo e espere esfriar para ficar quebradiça.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SILVANIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306113-cobertura-de-chocolate-quebradica.html"
+}

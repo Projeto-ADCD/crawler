@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO GELADO DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "4 ovos",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícaras (chá) de açúcar",
+      "1 e 1/2 de leite integral",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de fermento em pó",
+      "RECHEIO E COBERTURA",
+      "1 litro de leite",
+      "4 colheres (sopa) de amido de milho",
+      "1 leite condensado",
+      "1 creme de leite",
+      "500 g da fruta de sua preferência",
+      "CALDA",
+      "500 ml de leite integral",
+      "50 ml de leite de coco",
+      "4 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece separando os ovos e batendo as claras em neve, em seguida junte o açúcar as claras e bata bem coloque as gemas, manteiga e bata até a mistura ficar homogênea, junte a farinha e o leite bata em velocidade miníma por 3 minutos .",
+      "Unte uma forma de 30 cm, ou use o papel-manteiga e ligue o forno em 180° C para preaquecer, coloque o fermento em pó e misture, despeje tudo na assadeira e coloque no forno cerca de 30 a 40 minutos.",
+      "Para o em uma panela grossa coloque o leite, amido de milho e o leite condensado. Leve ao fogo médio sempre misturando até engrossar, depois desligue o fogo e deixe esfriar um pouco adicione a lata de creme de leite e bata na batedeira para o creme ficar bem lisinho. Para fazer a calda junte todos os ingredientes e reserve.",
+      "Depois de assar o bolo deixe esfriar por 30 minutos. Enquanto o bolo esfria pique as frutar que escolheu para coloca-las no recheio. corte o bolo em três partes molhe com a calda recheie e coloque as frutas em cima do recheio em cada camada.",
+      "Cubra o bolo e enfeite com as mesmas frutas que usou no recheio. Leve para geladeira e deixe gelar de um dia para o outro.",
+      "Agora é só servir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "CINTIACRISTINA GUERZONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308957-bolo-gelado-da-vovo.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SMOOTHIE DE MORANGO NATURAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "180 ml de leite",
+      "1 xícara de morangos congelados",
+      "120 ml de iogurte natural",
+      "2 colheres (sopa) de aveia em flocos finos",
+      "1 colher (chá) de mel ou açúcar mascável",
+      "1 colher de leite ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes até ficar tudo homogêneo",
+      "Se ficar muito cremoso adicione mais leite"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CRYSTAL?",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312585-smoothie-de-morango-natural.html"
+}

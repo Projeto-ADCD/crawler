@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO GELADO PULLMAN",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite integral",
+      "400 ml de leite condensado",
+      "400 ml de creme de leite",
+      "2 colheres de amido de milho",
+      "200 g de coco ralado",
+      "3 bolos pullman sabor opcional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite e o leite condensado, misture.",
+      "Dissolva o amido em um copo com um pouco de leite e acrescente na panela. Ligue o fogo baixo e mexa tudo até virar um mingau.",
+      "Deixe esfriar e acrescente o creme de leite.",
+      "Em um refratário de vidro faça camadas do bolo fatiado e do creme intercalando, até terminar com o creme.",
+      "Coloque o coco ralado por cima, leve à geladeira até gelar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JUCELIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311608-bolo-gelado-pullman.html"
+}

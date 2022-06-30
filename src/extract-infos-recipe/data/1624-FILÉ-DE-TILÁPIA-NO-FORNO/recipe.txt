@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FILÉ DE TILÁPIA NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de tilápia",
+      "800 g de batata",
+      "1 cabeça de alho",
+      "1 limão",
+      "3 colheres (sopa) de vinagre",
+      "sal a gosto",
+      "2 tomates",
+      "1/2 pimentão verde",
+      "1/2 pimentão vermelho",
+      "1/2 pimentão amarelo",
+      "1/2 cebola roxa",
+      "1/2 cebola branca",
+      "100 g de azeitona",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe utilizando o alho socado, o suco do limão, sal a gosto e as 3 colheres de vinagre.",
+      "Descasque as batatas, corte em rodelas e leve ao fogo por 5 minutos.( pode colocar sal a gosto na água)",
+      "Corte os tomates, os pimentões e as cebolas em rodelas.",
+      "Unte o tabuleiro com fio de azeite, forre com as batatas pré cozidas, coloque o tomates por cima das batatas em seguida a cebola Branca.",
+      "Em seguida coloque o peixe ,os pimentões, as cebolas, a azeitona e fios de azeite.",
+      "Após todos os ingredientes no tabuleiro cubra com papel alumínio.",
+      "Leve ao forno pré aquecido em 200° por 30 minutos. Após os 30 minutos retire o papel alumínio e leve ao forno por 15 minutos para finalizar o cozimento e retirar o excesso de água.",
+      "Pronto!",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "EVERTON ABRAÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307346-file-de-tilapia-no-forno.html"
+}

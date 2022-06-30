@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO ROSÉ DA SARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de maionese",
+      "2 colheres (sopa) de ketchup",
+      "1 colher (sopa) mostarda",
+      "2 colheres (sopa) de Shoyu",
+      "1 limão",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes",
+      "Acrescente uma pitada de pimenta-do-reino."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SARA LUIZ MARCELINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306479-molho-rose-da-sara.html"
+}

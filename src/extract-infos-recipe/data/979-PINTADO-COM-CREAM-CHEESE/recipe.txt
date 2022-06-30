@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PINTADO COM CREAM CHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 kg de postas de pintado",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 cebola grande",
+      "3 tomates",
+      "cheiro-verde a gosto",
+      "sal a gosto, pimenta-do-reino e limão para temperar",
+      "1 vidro de leite de coco",
+      "100 ml de azeite",
+      "300 g de cream cheese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere bem as postas do peixe com sal, limão e pimenta-do-reino.",
+      "Deixe pegar gosto por uma hora pelo menos.",
+      "Em uma grande panela de ferro ou barro, arrume da seguinte maneira: uma camada de tomates cortados, as postas do peixe, pimentões em rodela, e por último a cebola em rodela.",
+      "Coloque todo o azeite, tampe a panela.",
+      "Leve ao fogo alto por uma hora.",
+      "Retire do fogo, abra e coloque todo o leite de coco.",
+      "Por cima salpique o cheiro-verde.",
+      "Volte ao forno por mais dez minutos, depois despeje o cream cheasee e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANTONIO FERNANDO DE CARVALHO FILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310644-pintado-com-cream-cheese.html"
+}

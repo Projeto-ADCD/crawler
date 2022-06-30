@@ -1,0 +1,21 @@
+{
+  "nome_receita": "LIMONADA DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 limões",
+      "250 ml de água gelada",
+      "1 colher de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esprema os limões na água.",
+      "Depois coloque o açúcar, e misture bem!",
+      "Se refresque com essa limonaa"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SARA ROSSINI PERRIELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307603-limonada-deliciosa.html"
+}

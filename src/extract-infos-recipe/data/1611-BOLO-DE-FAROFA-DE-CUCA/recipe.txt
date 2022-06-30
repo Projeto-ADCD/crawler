@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE FAROFA DE CUCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme",
+      "1 leite condensado (395 g)",
+      "300 ml de leite",
+      "1 colher (sopa) de farinha trigo ou amido de milho",
+      "1 gema",
+      "1 colher (sopa) de manteiga",
+      "1 creme de leite (200 g)",
+      "Farofa",
+      "260 g de farinha trigo",
+      "160 g de açúcar",
+      "1 ovo",
+      "85 g de manteiga",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Numa panela coloque o leite condensado, dissolva a colher de farinha ou amido de milho no leite",
+      "Junte a mistura na panela, acrescente a gema e a manteiga.",
+      "Misture tudo e leve ao fogo até engrossar na consistência de mingau.",
+      "Desligue o fogo e acrescente o creme de leite. Reserve.",
+      "Farofa",
+      "Misture todos ingredientes com a ponta dos dedos até ficar uma farofa.",
+      "Numa forma de fundo removível, coloque metade da farofa, o creme e a outra metade da farofa.",
+      "Leve ao forno em 180° C por mais ou menos 40 minutos ou até ficar dourada."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NICOLE ACOSTA - CHEF PATISSERIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307393-bolo-de-farofa-de-cuca.html"
+}

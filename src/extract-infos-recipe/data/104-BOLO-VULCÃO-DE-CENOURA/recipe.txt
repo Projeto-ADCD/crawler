@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO VULCÃO DE CENOURA",
+  "ingredientes": {
+    "MASSA ": [
+      "3 ovos ",
+      "1 xícara de suco de laranja ",
+      "1 xícara de óleo ",
+      "1 e 1/4 de xícara de cenoura em rodelas e descascadas",
+      "2 xícaras de açúcar ",
+      "340 g de farinha de trigo",
+      "22 g de fermento em pó"
+    ],
+    "RECHEIO ": [
+      "300 ml de creme de leite ",
+      "150 g de gotas de chocolate ",
+      "raspas de laranja a gosto "
+    ]
+  },
+  "passos": {
+    "MASSA ": [
+      "Misture os ovos, o suco, o óleo, a cenoura e o açúcar em um liquidificador ",
+      "Bata até criar uma massa homogênea ",
+      "Junte a mistura em um recipiente e coloque a farinha as poucos",
+      "Mexa e coloque o fermento",
+      "Mexa delicadamente ",
+      "Leve a massa para uma forma untada e enfarinhada com um furo no meio",
+      "Asse a 180° C por 40 minutos ",
+      "Recheio",
+      "Em uma panela no fogo, junte o creme de leite e o chocolate ",
+      "Quando estiver quase em ponto de brigadeiro desligue ",
+      "Recheie o bolo e finalize com as raspas de laranja a gosto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314438-bolo-vulcao-de-cenoura.html"
+}

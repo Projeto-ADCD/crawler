@@ -1,0 +1,47 @@
+{
+  "nome_receita": "FILÉ DE PEIXE AO MOLHO DE NATA À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de tilápia ou do peixe de sua preferência",
+      "2 limões",
+      "1 colher (sopa) de alecrim desidratado ou natural",
+      "3 dentes de alho bem picados",
+      "1 cebola grande picada",
+      "1 copo de leite",
+      "300 g de nata fresca ou 1,5 caixa de creme de leite",
+      "1 colher (sopa) de maizena",
+      "1 xícara (chá) de queijo parmesão ralado",
+      "3 colheres (sopa) de azeite",
+      "1/2 xícara (chá) de cebolinha e salsinha picadas",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "De véspera, coloque o peixe em uma vasilha com tampa e cubra com leite.",
+      "Leve o peixe ao refrigerador até o dia seguinte.",
+      "No dia seguinte, retire o peixe do refrigerador e lave-o bem em água corrente.",
+      "Reserve o leite usado no peixe, você poderá usar ele na receita.",
+      "Tempere os filés de peixe com sal, pimenta, alecrim e o suco dos limões.",
+      "Deixe marinar por umas 2 hora.",
+      "Em uma frigideira grande refogue a cebola picada e o alho com o azeite.",
+      "Escorra os filés de peixe da marinada e coloque na frigideira, um a um, para dourarem.",
+      "Não há necessidade de deixar o peixe cozinhar na frigideira, pois ele ira cozinhar no molhos depois.",
+      "Vá retirando os filés conforme ficarem douradinhos.",
+      "Reserve.",
+      "Depois de dourar os filés, acrescente o copo de leite (pode ser o leite que foi usado para o peixe anteriormente) e a nata as cebolas na frigideira e deixe ferver um pouco.",
+      "Acrescente a cebolinha e salsinha picada e mexa bem.",
+      "Dissolva a maizena em um pouco de leite e acrescente ao molho.",
+      "Se ficar muito espesso, acrescente um pouco mais de leite.",
+      "O molho deve ficar encorpado.",
+      "Em um refratário, distribua os filés de peixe, polvilhe com um pouco do queijo ralado.",
+      "Cubra com o molho de nata e polvilhe com o restante do queijo parmesão ralado.",
+      "Leve ao forno pré-aquecido por uns 30 minutos ou até dourar.",
+      "Sirva com arroz branco e batatas cozidas salteadas em azeite."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314369-file-de-peixe-ao-molho-de-nata-a-minha-moda.html"
+}

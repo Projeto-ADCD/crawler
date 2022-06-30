@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CAFÉ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de açúcar cristal",
+      "1 sachê de café solúvel extra forte",
+      "1 xícara de água quente (assim que ferver coloque)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na batedeira o açúcar, café e assim que ferver a água.",
+      "Assim que começar a bater ficará bem aguado, parece que não vai dar certo, mas continue batendo, pois o café vai ganhando a consistência de um merengue.",
+      "Assim que ficar consistente e cremoso, você pode colocar em uma vasilha e colocar no congelador.",
+      "Ele não congela, se mantém firme e cremoso."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende em torno de 1 litro e meio, você pode vender.\nSugestão de consumo, 1 colher (sopa) de café cremoso para 200 ml de água.\nJá demorei pra consumir em um mês, mas dura bastante, nunca demora pra acabar!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CLAUDIAHANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306347-cafe-cremoso.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO PARISIENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de fettuccine ",
+      "1 colher (sopa) de manteiga",
+      "100 g de linguiça calabresa",
+      "200 g de ervilhas",
+      "1 cebola roxa picada",
+      "2 dentes de alho",
+      "50 g de champignon fatiado",
+      "1 xícara (chá) de presunto fatiado picado",
+      "1 colher (chá) de sal",
+      "1 pitada de pimenta-do-reino",
+      "300 g de creme de leite",
+      "3 colheres (sopa) de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, cozinhe o macarrão em água fervente com sal até que fique al dente.",
+      "Escorra bem e reserve.",
+      "Em uma frigideira, derreta a manteiga, adicione a cebola e o alho.",
+      "Depois adicione a linguiça calabresa e refogue tudo.",
+      "Adicione o presunto e junte a ervilha, o champignon o sal e a pimenta ",
+      "Misture tudo novamente, muito bem",
+      "Acrescente o creme de leite, mexa sem parar",
+      "Adicione o macarrão cozido e reservado",
+      "Misture delicadamente.",
+      "Sirva com o queijo parmesão ralado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311106-macarrao-parisiense.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA DE PEPINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pepinos ",
+      "1 cebola",
+      "6 rabanetes cortados ",
+      "1 pimentão verde cortado ",
+      "2 colheres (sopa) de suco de limão",
+      "azeite",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o pepino sem casca e em cubos, a cebola picada, o rabanete em cubos e o pimentão  em cubos numa tigela.",
+      "Tempere com limão, azeite e sal a gosto.",
+      "Leve à geladeira até servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307652-salada-de-pepino.html"
+}

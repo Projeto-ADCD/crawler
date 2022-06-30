@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLINHO HOLLEBEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de atum em pasta",
+      "2 colher (sobremesa) chimichurri",
+      "2 ovos",
+      "1 cebola (processada ou batida no liquidificador)",
+      "sal a gosto",
+      "1 xicara de farelo de aveia (aprox. 100 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque os ovos, cebola, chimichurri, sal, misture até ficar homogênea",
+      "No mesmo recipiente Colocar o atum e misture até ficar homogênea.",
+      "No mesmo recipiente colocar o farelo de aveia e misture até ficar homogênea",
+      "Enrole em forma de bolinha",
+      "Empanar com farofa (pode ser farofa pronta)",
+      "Em uma forma colocar por 20 minutos no congelador",
+      "Aquecer o óleo em um panela",
+      "na fritadeira sem óleo frita a 200 ºC por aproximadamente 20 min",
+      "Após o óleo aquecido comece a fritar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PROF ANDRÉ COSTA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312802-bolinho-holleben.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO CASEIRO SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "sal a gosto",
+      "2 colheres (sopa) de goma de tapioca",
+      "2 colheres (chá) de farinha de linhaça marrom",
+      "queijo da canastra ralado ou outro (quantidade a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratario, bata o ovo com sal.",
+      "Depois, acrescente a goma de tapioca misture.",
+      "Logo, misture a farinha de linhaça marrom.",
+      "Por último, o queijo.",
+      "Corrija o sal.",
+      "Em uma figideira pre- aquecida, coloque a mistura e cozinhe dos dois lados."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CARLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310950-pao-caseiro-saudavel.html"
+}

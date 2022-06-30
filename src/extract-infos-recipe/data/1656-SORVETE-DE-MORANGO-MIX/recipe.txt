@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE MORANGO MIX",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml chantili gelado",
+      "1 caixa de morango",
+      "1 leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o chantili até ele ficar em ponto de neve e bote na geladeira",
+      "Bata o leite condensado com o morango",
+      "Misture o chantili com o creme de morango",
+      "Agora só e botar na geladeira até ficar em ponto de sorvete"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOJO BABI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307257-sorvete-de-morango-mix.html"
+}

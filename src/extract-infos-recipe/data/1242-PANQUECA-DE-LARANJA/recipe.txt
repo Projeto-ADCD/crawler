@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PANQUECA DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de óleo",
+      "suco de 1 laranja",
+      "1 colher (sobremesa) de essência de baunilha (opcional)",
+      "8 colheres (sopa) de farinha de trigo",
+      "1 colher (sobremesa) de fermento",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes líquidos primeiro (ovo, essência, óleo, suco de laranja) e em outro recipiente misture os ingredientes secos(farinha, açúcar..).",
+      "Depois mistures os ingredientes secos e molhados até que fique bem homogêneo e com a consistência de uma massa de bolo.",
+      "Aqueça a panela, se a panela não for antiaderente acrescente um pouco de manteiga ou óleo depois que a panela estiver quente, e acrescente a massa de pouco em pouco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Eu uso um antigo pote de Ketchup para fazer as panquecas com formatos. É só passar a massa para o pote limpo e despejar na panela desenhando o formato."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DUDA NA ÁREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309255-panqueca-de-laranja.html"
+}

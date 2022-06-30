@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE LIMÃO COM COCO (VEGANO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "1 xícara de açúcar",
+      "1/2 xícara de coco ralado",
+      "1/4 de xícara de limão espremido",
+      "1 xícara de água",
+      "1/2 xícara de leite de coco",
+      "1/4 de xícara de óleo",
+      "1 pitada de bicarbonato de sódio",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C",
+      "Misture a farinha, o açúcar, o bicarbonato e o coco ralado.",
+      "Adicione o restante dos ingredientes, menos o fermento, e mexa até formar uma massa homogênea.",
+      "Misture o fermento à massa lentamente",
+      "Unte a forma com óleo e espalhe farinha por ela",
+      "Coloque a massa na forma e asse por 30 a 40 minutos",
+      "Observações: eu uso açúcar cristal, mas pode ser usado qualquer um.",
+      "O ponto certo da massa é quando você pega com a colher e deixa escorrer, e a massa cai de forma contínua. Se estiver muito dura adicione mais água, se estiver muito mole, coloque um pouco mais de farinha. Faça essa correção antes de colocar o fermento."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308073-bolo-de-limao-com-coco-vegano.html"
+}

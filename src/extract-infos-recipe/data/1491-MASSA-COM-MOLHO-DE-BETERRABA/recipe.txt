@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MASSA COM MOLHO DE BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de massa de sua preferência",
+      "10 nozes",
+      "2 colheres (sopa) de vinagre balsâmico",
+      "2 beterrabas",
+      "1 pimenta vermelha",
+      "1 dente de alho",
+      "queijo",
+      "azeite",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água para esquentar em uma panela.",
+      "Descasque as beterrabas e corte-as em cubos.",
+      "Coloque as beterrabas, o vinagre balsâmico, as nozes, o sal (a gosto), a pimenta-do-reino (a gosto), a pimenta vermelha congelada e o azeite no liquidificador.",
+      "Bata aos poucos e vá parando para acrescentar o azeite.",
+      "Acrescente o dente de alho descascado e mais azeite. Bata novamente.",
+      "Experimente o molho para avaliar o sal.",
+      "Despeje o molho em uma panela.",
+      "Acrescente sal na água que está fervendo na panela e cozinhe o macarrão. O fetuccine é uma ótima opção para esta receita.",
+      "Rale o queijo e coloque em algum recipiente.",
+      "Quando estiver pronto, coloque o macarrão na panela que está o molho e misture.",
+      "Sirva o macarrão com o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CELIA MIRANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308041-massa-com-molho-de-beterraba.html"
+}

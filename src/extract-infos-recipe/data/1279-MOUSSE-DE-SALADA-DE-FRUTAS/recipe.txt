@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MOUSSE DE SALADA DE FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de suco de abacaxi",
+      "1/2 xícara de água",
+      "2 colheres (sopa) de açúcar",
+      "1/2 xícara de laranja",
+      "1 embalagem de gelatina sem sabor/incolor",
+      "5 colheres (sopa) de água gelada",
+      "1 lata leite condensado (395 g)",
+      "1 caixa de creme de leite (200 g)",
+      "1/2 xícara de manga",
+      "1/2 xicara de kiwi",
+      "1/2 xicara de morango",
+      "1/2 banana"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, em fogo médio, coloque o suco do abacaxi, a água, o açúcar e mexa bem.",
+      "Deixe cozinhar até ferver.",
+      "Em seguida, coloque o suco da laranja. Misture bem e desligue o fogo.",
+      "Reserve num bowl.",
+      "Hidrate a gelatina incolor com a água fria ",
+      "Reserve por 5 minutos",
+      "Misture o primeiro líquido com a gelatina hidratada ",
+      "Adicione o leite condensado e o creme de leite.",
+      "Misture bem com um fouet",
+      "Adicione as frutas cortadas.",
+      "Misture e transfira para um recipiente de vidro",
+      "Leve à geladeira por 4 horas e sirva"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309105-mousse-de-salada-de-frutas.html"
+}

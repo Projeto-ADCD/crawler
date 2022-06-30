@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CAJUZINHO DE AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Amendoim Yoki (500g)",
+      "2 xícaras (chá) de açúcar",
+      "6 colheres (sopa) de chocolate em pó",
+      "7 colheres (sopa) de água",
+      "um pouco de açúcar cristal para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o amendoim em uma assadeira e leve ao forno (aquecido a 180°C) para torrar por cerca de 20 minutos.",
+      "Após torrado, transfira o amendoim para um liquidificador e triture bem.",
+      "Em um recipiente, misture o amendoim com o restante dos ingredientes. Amasse bem com as mãos. A receita de cajuzinho de amendoim está quase pronta!",
+      "Pegue pequenas porções e molde os cajuzinhos. Caso queira cajuzinho de colher, não precisa fazer esta etapa, basta colocar o cajuzinho em copinhos.",
+      "Passe os cajuzinhos no açúcar e coloque em forminhas de papel.",
+      "Pronto, agora você já sabe como fazer cajuzinho de amendoim!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "YOKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312568-cajuzinho-de-amendoim.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CALDA DE CHOCOLATE PARA BOLO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de achocolatado ou chocolate em pó",
+      "400 ml de leite integral",
+      "2 colheres de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina e coloque o leite",
+      "Logo em seguida acrescente o achocolatado",
+      "Mexa por uns 2 minutos",
+      "Depois deixe no fogo mais baixo",
+      "A calda vai começar a engrossar sozinha depois de um tempo no fogo (não precisa ficar mexendo)",
+      "Deixe o fogo sempre baixo para não queimar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA ISABELLA PACHECO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307146-calda-de-chocolate-para-bolo-superfacil.html"
+}

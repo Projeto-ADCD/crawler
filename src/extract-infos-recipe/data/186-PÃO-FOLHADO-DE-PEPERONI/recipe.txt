@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PÃO FOLHADO DE PEPERONI",
+  "ingredientes": {
+    "MASSA ": [
+      "1 e 3/4 de xícara de farinha de trigo (mais para sovar, se necessário)",
+      "1 colher (chá) de açúcar ",
+      "1 colher (chá) de fermento biológico seco ",
+      "1 ovo ",
+      "1 colher (chá) de manteiga ",
+      "1/3 de xícara de leite morno ",
+      "1 colher (chá) de sal ",
+      "azeite para pincelar "
+    ],
+    "RECHEIO ": [
+      "1 xícara de molho de tomate já pronto ",
+      "1 xícara de peperoni em fatias ",
+      "1 xícara de queijo mussarela ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha com o açúcar, o fermento e o sal. Faça um buraco no meio e junte o leite, o ovo e a  manteiga. ",
+      "Em seguida comece a misturar e sovar por aproximadamente 10 minutos até obter uma massa lisa e  uniforme. ",
+      "Transfira a massa para uma tigela e deixe descansar coberta por um pano por aproximadamente 1h ou  até que a massa dobre de tamanho.  ",
+      "Depois de descansada, abra a massa com aproximadamente 0,5 cm de espessura e cubra toda a  superfície com o molho de tomate, o queijo e o peperoni, como uma pizza. ",
+      "Corte essa “pizza” em várias tiras de aproximadamente 15 cm de largura e vá empilhando-as uma sobre  as outras. ",
+      "Na sequência, corte a pilha de tiras em quadrados e os disponha em pé em uma assadeira untada, apertando uns contra os outros, já dando o formato do nosso pão folhado e deixe descansar por mais 30  minutos. ",
+      "Pincele azeite em toda a superfície e asse em forno pré aquecido a 210° C por cerca de 30 minutos ou até  dourar. ",
+      "Sirva ainda quente com uma Coca-Cola Sem Açúcar bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "COCA-COLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314039-pao-folhado-de-peperoni.html"
+}

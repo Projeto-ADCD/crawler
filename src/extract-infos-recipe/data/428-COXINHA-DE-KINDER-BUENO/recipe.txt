@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COXINHA DE KINDER BUENO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado 395 g",
+      "70 g de creme de leite",
+      "3 colheres (sopa) de cacau em pó",
+      "3 pacote de kinder Bueno",
+      "100 g de chocolate nobre",
+      "120 g de creme de avelã",
+      "100 g de confete branco quadrado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com fundo grosso, coloque o leite condensado, o creme de leite, as três colheres de sopa de cacau em pó.",
+      "Leve ao fogo todos os ingredientes e deixe em ponto de brigadeiro.",
+      "Após desligar o fogo, acrescente a 100 g de chocolate.",
+      "Reserve e deixe esfriar com plástico filme em cima, para não criar película.",
+      "Após frio brigadeiro, é hora de enrolar.",
+      "Você pega dois kinder Bueno envolva no brigadeiro e faça um formato de uma coxinha.",
+      "Passe no granulado em seguida decore com creme de avelã está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "KATIA DOÇURINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312855-coxinha-de-kinder-bueno.html"
+}

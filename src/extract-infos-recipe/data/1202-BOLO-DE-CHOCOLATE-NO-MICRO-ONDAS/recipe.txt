@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de achocolatado",
+      "2 colheres (sopa) de óleo",
+      "4 colheres (sopa) de leite",
+      "1 colher de fermento",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca coloque todos os ingredientes secos, menos o fermento.",
+      "Depois coloque o leite e o óleo.",
+      "Mexa com uma colher durante 3 minutos, depois coloque o fermento e mexa por mais 1 minuto.",
+      "Coloque no micro-ondas por 3 minutos na potência máxima.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA FLAVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309405-bolo-de-chocolate-no-micro-ondas.html"
+}

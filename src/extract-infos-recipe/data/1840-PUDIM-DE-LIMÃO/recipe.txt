@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PUDIM DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de gelatina de limão",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "400 ml de leite",
+      "2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina em 300 ml de água quente e reserve .",
+      "Em um liquidificador, você vai colocar o leite condensado o creme de leite ,o leite e o suco de dois limão.",
+      "Por último acrescente a gelatina que vc reservou é bata tudo por 2 minutos.",
+      "Pegue uma forma de pudim é unte com óleo mais não passa muito só o suficiente para untar",
+      "Em seguida coloque o pudim na forma é leve a geladeira por no mínimo 4 horas ,quando estiver filme desenforme e pode decorar com raspas de limão."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEXANDRE JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306651-pudim-de-limao.html"
+}

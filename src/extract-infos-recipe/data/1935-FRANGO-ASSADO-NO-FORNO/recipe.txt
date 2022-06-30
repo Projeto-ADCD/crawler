@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO ASSADO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 coxa e sobrecoxa",
+      "200 g de maionese",
+      "2 colheres (sopa) de mostarda",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de chimichurri",
+      "pimenta calabresa a gosto",
+      "1 colher (sopa) de açafrão",
+      "1 colher (sopa) de coloral",
+      "3 batatas médias"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MOLHO",
+      "Em um Tapoé despeje a maionese, em seguida a mostarda, alho, sal, chimichurri, pimenta calabresa e o açafrão.",
+      "Em um recipiente maior coloque todos os pedaços de coxa e sobrecoxa, despeje o molho, adicione as batatas, e misture bem.",
+      "Numa forma, coloque um pouco de olho ou azeite, organize os pedaços e coloque as batatas entre eles.",
+      "Leve ao forno e deixe assar entre 01:30 e 02:00 dependendo do forno.",
+      "DICA: Pra ficar mais gostoso, antes de por na forma e levar ao forno, deixe marinar por 3 à 4 horas na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAN NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306374-frango-assado-no-forno.html"
+}

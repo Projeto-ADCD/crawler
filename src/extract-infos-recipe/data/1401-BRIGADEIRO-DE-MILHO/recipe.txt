@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BRIGADEIRO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado (395 g)",
+      "1 lata de milho",
+      "50 ml de leite",
+      "1 colher (sopa) de manteiga",
+      "leite em pó a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite  e o milho até que a misture fique homogênea.",
+      "Reserve.",
+      "Na panela, derreta a manteiga, e adicione o leite condensando com a mistura.",
+      "Mexa em fogo médio até que ao passar a colher seja possível ver o fundo da panela.",
+      "Espere esfriar e sirva.",
+      "Como sugestão, fazer bolinhas com cobertura de leite em pó."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CAMILA B.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308530-brigadeiro-de-milho.html"
+}

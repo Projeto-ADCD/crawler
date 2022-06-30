@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TALHARIM COM SHIMEJI RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de talharim",
+      "1 bandeja shimeji branco/200 g",
+      "1 colher (sopa) de manteiga",
+      "1 colher (chá) de azeite",
+      "3 colheres (sopa) de shoyu",
+      "1 colher (chá) de sal",
+      "1,5 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água com o sal e o azeite, coloque o talharim na água fervente e deixe por 3 minutos.",
+      "Deixe o talharim escorrer.",
+      "Separe o shimeji do talo e lave rapidamente, para não acumular água.",
+      "Em uma panela coloque a manteiga, deixa ela aquecida e coloque o shimeji.",
+      "Mexa por aproximadamente 3 minutos.",
+      "Coloque o shoyu e mexa durante 1 minuto.",
+      "Coloque o talharim e mexa rapidamente.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CAMILA LOUREIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310578-talharim-com-shimeji-rapido.html"
+}

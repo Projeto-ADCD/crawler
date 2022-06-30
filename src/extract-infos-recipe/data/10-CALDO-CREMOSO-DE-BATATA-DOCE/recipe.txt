@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CALDO CREMOSO DE BATATA-DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de batata-doce descascada e cortada em cubos",
+      "300 g de batata-inglesa descascada e cortada em cubos",
+      "2 litros de água",
+      "2 cubos de caldo de legumes",
+      "1 cebola grande picada",
+      "2 dentes de alho",
+      "2 colheres (sopa) de óleo",
+      "1 gomo de linguiça calabresa defumada, sem a pele e picada",
+      "1 vidro de leite de coco (200 ml)",
+      "Sal e cheiro-verde picado a gosto",
+      "Queijo parmesão ralado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, coloque a água, as batatas e o caldo de legume e deixe cozinhar, em fogo médio, até ficarem bem macias.",
+      "Desligue e deixe esfriar um pouco.",
+      "Bata as batatas com o caldo do cozimento e o leite de coco no liquidificador até formar um creme. Reserve.",
+      "Na mesma panela, em fogo médio, aqueça o óleo e frite a cebola, o alho e a calabresa até dourar.",
+      "Adicione o creme do liquidificador, tempere com sal, se necessário, e pimenta e cozinhe por uns minutos.",
+      "Acrescente o cheiro-verde picado e misture bem.",
+      "Transfira o caldo para uma sopeira e sirva polvilhado com o parmesão ralado."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316917-caldo-cremoso-de-batata-doce.html"
+}

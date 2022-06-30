@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO ROSÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de maionese",
+      "2 colheres (sopa) de catchup",
+      "2 colheres (sopa) de molho shoyo",
+      "1 colher (sopa) de mostarda",
+      "suco de 1 limão",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Se preferir, pode bater no liquidificador ou misturar na mão.",
+      "Sirva com tira gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310498-molho-rose.html"
+}

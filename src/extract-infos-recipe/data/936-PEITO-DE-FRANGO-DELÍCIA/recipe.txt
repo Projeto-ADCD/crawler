@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PEITO DE FRANGO DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango ",
+      "1 colher (sopa) vinagre",
+      "6 dentes de alho",
+      "1 cebola média",
+      "1 colher (chá) de cominho",
+      "1 colher (chá) pimenta-do-reino",
+      "4 colheres (sopa) de óleo",
+      "1 tablete de caldo de frango",
+      "2 colheres (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave peito de frango e corte em pedaços não muito pequeno.",
+      "Soque o alho com 2 colheres (chá) de sal, passe essa pasta no frango e coloque o cominho, pimenta-do-reino e a colher (sopa) de vinagre.",
+      "Deixe marinar por 40 minutos",
+      "Em uma panela, coloque cebola bem picadinha e deixa fritar até morenar, ficar quase pretinha. Coloque o frango, misture para envolver bem a cebola, deixa fritar até o fundo da panela ficar bem dourado e o frango bem.fritinho e bem dourado.",
+      "Coloque água cobrindo o frango para cozinhar, junte o caldo de frango, deixe cozinhar até ficar macio e o caldo engrossar, finalize com salsinha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "XANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310835-peito-de-frango-delicia.html"
+}

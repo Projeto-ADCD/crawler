@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO INDIANO DO TIAGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1/2 xicara de açúcar refinado",
+      "2 xicaras de açúcar mascavo",
+      "2 xicaras de farinha de rosca",
+      "1 xícara de farinha de trigo",
+      "1 colher (chá) canela em pó",
+      "1 colher (chá) de fermento",
+      "3 colheres de manteiga ou margarina sem sal",
+      "350 ml de leite",
+      "Recheio e Cobertura",
+      "1 lata de leite condensado",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolo",
+      "Bater as claras em neve e reservar",
+      " Adicione os açúcares, manteiga, e as gemas dos ovos e a canela em pó e o fermento",
+      "Ainda com a batedeira ligada, acrescente as farinhas e o fermento em pó, agregue lentamente o leite, para deixar a massa homogênea, desligue a batedeira;",
+      "Adicione a clara em neve a massa e mexa delicadamente;",
+      "Despeje em uma forma untada e polvilhada com farinha de rosca e açúcar máscavo;",
+      "Leve ao forno a 200º C por cerca de 30 minutos - fazer o teste do palito",
+      "Montagem",
+      "Desenforme o bolo levemente morno para não grudar na forma, em uma tábua e corte-o ao meio (como ele esfarela bastante essa etapa deixará seu prato mais limpo)",
+      "Recheie com metade do leite condensado e uma pitada de canela;",
+      "Coloque a outra metade do bolo, espalhe o restante do leite condensado e polvilhe a canela a gosto com uma peneira.",
+      "Transfira para o prato que irá servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Existem varias formas de preparo, rechear é opcional, eu prefiro fazer furos no bolo e derramar direto o leite condensado! Fica uma delicia igual! Algumas pessoas preparam um creme com o leite condensado. Para o meu gosto é desnecessário, prefiro destacar os sabores do leite condensado e a canela."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TIAGO CARLAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307569-bolo-indiano-do-tiago.html"
+}

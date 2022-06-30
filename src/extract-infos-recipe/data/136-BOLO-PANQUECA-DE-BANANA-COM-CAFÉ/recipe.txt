@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO-PANQUECA DE BANANA COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas ",
+      "1 colher (chá) de café solúvel",
+      "2 xícaras de farinha de trigo",
+      "2 ovos",
+      "300 ml de leite",
+      "3 colheres de açúcar",
+      "1 colher (sopa) de fermento em pó ",
+      "300 g de mistura para chantilly",
+      "100 g de raspas de chocolate",
+      "150 g de doce de leite",
+      "50 g de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece amassando as bananas em um recipiente ",
+      "Junte os ovos e o café ",
+      "Bata tudo até virar uma massa homogênea ",
+      "Adicione o leite e o açúcar, com a ajuda de uma espátula ou fuet e misture ",
+      "Acrescente a farinha e o fermento em pó, misture muito bem novamente e reserve ",
+      "Em uma frigideira, temperatura baixa, adicione a massa",
+      "Deixe cozinhar por 6 a 7 minutos.",
+      "Vire a massa e cozinhe do outro lado também.",
+      "Faça isso com o restante da massa",
+      "Reserve ",
+      "Em uma batedeira, coloque a mistura para chantilly e bata até ficar em picos firmes",
+      "Incorpore o doce de leite delicadamente",
+      "Coloque uma das panquecas no prato, adicione um pouco de chantilly com doce de leite por cima e espalhe bem.",
+      "Acrescente a segunda massa por cima e coloque mais um pouco de chantilly por cima, faça isso com a terceira camada também.",
+      "Com o restante do chantilly, espalhe ele por todo o bolo, nas laterais e em cima, deixando-o mais plano possível.",
+      "Coloque as raspas de chocolate por cima de tudo"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314276-bolo-panqueca-de-banana-com-cafe.html"
+}

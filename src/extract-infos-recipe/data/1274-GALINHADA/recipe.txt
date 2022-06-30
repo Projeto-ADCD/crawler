@@ -1,0 +1,45 @@
+{
+  "nome_receita": "GALINHADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 sobrecoxas de frango com osso",
+      "1/4 de xícara (café) de suco de limão",
+      "1/2 colher (chá) de cominho",
+      "sal ",
+      "1 colher (café) de pimenta-do-reino",
+      "2 colheres (sopa) de óleo de oliva",
+      "1/2 cebola marrom média picada ",
+      "1/2 pimentão verde pequeno",
+      "1/2 pimentão vermelho ",
+      "3 dentes de alho médios fatiado",
+      "1 colher (sopa) de extrato de tomate",
+      "1 e 1/2 xícara de arroz basmati ",
+      "1 colher (chá) de açafrão da india ",
+      "1 colher (chá) de páprica",
+      "1 folha de louro",
+      "1 cubo de caldo de galinha",
+      "1/2 xícara de ervilhas congeladas",
+      "1 copo de vinho branco seco",
+      "1/2 xícara de milho congelado",
+      "1/4 de xícara de salsinha fresca picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare uma mistura de suco de limão, cominho, pimenta cominho, uma pitada de pimenta-do-reino e espalhe no frango com um pincel. Deixe marinando por 3 horas na geladeira.",
+      "Grelhe o frango em uma frigideira grande até ficar dourado (5 a 6 minutos). Reserve o frango em um prato",
+      "Na mesma frigideira em fogo medio, adicione um pouco mais de óleo e refogue a a cebola e pimentão alho à frigideira e refogue por 3 minutos. Coloque o alho por mais 2-3 minutos.",
+      "Ferva 2 xicarax de chá de água e misture com o cubo de caldo de frango",
+      "Despeje o extrato de tomato, açafrão, páprica, folha de louro, sal e o resto da pimenta do reino e mexa enquanto cozinha por cerca de 1 minuto.",
+      "Adicione o caldo de frango e o vinho branco e com uma colher de pau raspe o fundo da panela para soltar os pedaços presos.",
+      "Quando o caldo estiver bem quente, adicionar a arroz, misturando aos outros ingredientes. Colocar o frango no topo com a pele para cima.",
+      "Quando começar a fervura, tampe a panela e reduza para fogo baixo, cozinhando por 15 minutos. Mantenha a tampa. Verifique se o arroz já está cozido ou se está faltando água. Se necessário adicione, agua FERVENDO por mais 5 minutos com a preparação TAMPADA.",
+      "Destampe a frigideira e transfira as coxas de frango para um prato. Misture metade da salsinha, ervilhas e o milho com o arroz e cozinhe até aquecer bem.",
+      "Polvilhe com o resto da salsinha e sirva. Em uma porcelana, se levada a mesa e não direto do fogão"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOSE BREDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309149-galinhada.html"
+}

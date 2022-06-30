@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MEDALHÃO DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de leite (150 ml) ",
+      "2 colher (sopa) de açúcar",
+      "1 colher (sopa) de margarina",
+      "1/2 colher (sopa) de sal",
+      "1 sachê de fermento para pão",
+      "1 ovo",
+      "300 g de farinha de trigo aproximadamente",
+      "7 bananas (não muito maduras)",
+      "1 copo de açúcar",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa vasilha coloque o leite morno, o ovos, a margarina, o açúcar, o sal e o fermento misture bem",
+      "Depois coloque a farinha de trigo e misture bem até a massa ficar homogênea e deixe descansar por 10 minutos.",
+      "A parte descasque as banana s(a banana que mais gostar- eu usei a prata), tire as pontas para ficar melhor o acabamento.",
+      "Enfarinhe uma mesa e coloque a massa estique bem fininhas mais ou menos 3 mm) com o rolo.",
+      "Corte tirar compridas dessa massa mais ou menos 2 dedos de largura.",
+      "Pegue uma banana e vai enrolando as bananas nessa massa.",
+      "Depois de enrolado, corte as bananas em tamanho de um dedo.",
+      "Coloque uma panela no fogo com pleo na temperatura branda (não é óleo quente), frite as bananas e escorra e depois coloque açúcar e canela.",
+      "Dica: após enrolar as bananas, dê uma pequena aperto na massa para ficar bem grudadinho na banana para não soltar a massa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307599-medalhao-de-banana.html"
+}

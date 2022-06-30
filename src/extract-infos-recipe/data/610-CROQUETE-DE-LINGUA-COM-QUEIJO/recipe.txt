@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CROQUETE DE LINGUA COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lingua de 1kg",
+      "2 tomates",
+      "1 cebola",
+      "3 alhos",
+      "100 g de tempero verde",
+      "2 ovos",
+      "200 g de farinha de trigo",
+      "200 g de farinha de rosca",
+      "500 ml de agua",
+      "1 pedaço de queijo",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a Língua na panela de pressão.",
+      "Adicione 500 ml de água na panela de pressão ou até cobrir a lingua.",
+      "Deixe cozinhar por cerca de 15 minutos após pegar pressão.",
+      "Após a retirada da lingua da panela de pressão, deve ser retirado a pele da lingua para ser novamente cozida.",
+      "Novamente na panela de pressão, coloque uma colher de manteiga, deixe derreter, adicione o alho e a cebola, deixe fritar, coloque a lingua, adicione os tomates e o tempero verde. Sal e temperos são a gosto. (Nós usamos pimenta do reino, orégano e curry).",
+      "A água usada para por a lingua na pressão foi a mesma água utilizada anteriormente (para preservar o seu sabor), ficará no fogo por mais 40 minutos após pegar pressão.",
+      "Após o cozimento da lingua, Bata a Língua em um Processador.",
+      "Para fazer a massa do croquete, precisaremos do auxílio de outra panela, coloque a lingua já batida, adicione 200g de farinha de trigo e meche até dar o ponto, ponto ideal consiste em fazer com que a massa do croquete não grude mais no fundo da panela e caso fique muito mole, adicione mais farinha de trigo.",
+      "Após cozinhar a lingua coloque e espalhe a mesma sob a bancada, deixando esfriar. Deixe cerca de 10 minutos descansando.",
+      "Para empanar a lingua usaremos 2 ovos, 200g de farinha de rosca e queijo gorgonzola ou de sua preferência.",
+      "Na mão, enrola-se a Língua Moída como um bolinho juntamente com um pedaço de queijo.",
+      "Primeiramente passa-se o bolinho no ovo.",
+      "Finalizando o mesmo passando na Farinha de Rosca.",
+      "Após todos os processos, frita-se ou asse o mesmo (assado 15 min)."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "NICOLE HELOISA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312351-croquete-de-lingua-com-queijo.html"
+}

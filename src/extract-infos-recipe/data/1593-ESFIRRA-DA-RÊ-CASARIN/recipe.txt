@@ -1,0 +1,53 @@
+{
+  "nome_receita": "ESFIRRA DA RÊ CASARIN",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 xícara (chá) de leite morno",
+      "1 colher (chá) de açúcar",
+      "1 colher (chá) de sal",
+      "1 pitada de Noz Moscada",
+      "1 fermento biológico seco (10 g)",
+      "1/2 xícara (chá) de óleo",
+      "3 e 1/2 xícara (chá) de farinha de trigo",
+      "1 gema de ovo para pincelar",
+      "Recheio de carne",
+      "600 g de carne moída (acém)",
+      "1 cebola grande picadinha",
+      "raspas e suco de 2 limões",
+      "3 dentes de alho picadinho",
+      "sal, pimenta-do-reino e pimenta síria a gosto",
+      "2 colheres (sopa) ervas chimichurri",
+      "3 colheres de salsinha fresca picadinhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Misture tudo cru mesmo e reserve",
+      "Minha dica de recheio é cru, mas fique tranquilo, pois depois de assada sua esfirra vai ficar com recheio suculento e rico em sabor e aroma.",
+      "Faça as bolinhas desse recheio para rechear a massa, fica mais fácil.",
+      "Massa",
+      "Numa bacia, misture o leite, o açúcar, o sal e o fermento",
+      "Em seguida adicione o óleo e continue a misturar.",
+      "Coloque a farinha de trigo aos poucos e comece a misturar a massa com as mãos.",
+      "Transfira a massa para uma bancada lisa e sove até que ela fique bem lisa e homogênea.",
+      "DICA: Coloque a farinha sempre aos poucos para que a massa não fique muito seca. Caso seja necessário, adicione um pouco mais de leite.",
+      "Em seguida divida a massa em 10 partes iguais e faça bolinhas.",
+      "Disponha as bolinhas numa mesa ou bancada enfarinhada, deixando um espaço de aproximadamente 2 centímetros de uma para a outra.",
+      "Cubra as bolinhas com um pano e deixe-as descansar por 1 hora.",
+      "Passado esse tempo, abra cada bolinha com a ajuda de um rolo.",
+      "Coloque o recheio no meio e feche a massa formando um triangulo.",
+      "Aperte bem as bordas para que o recheio não vase.",
+      "Disponha as esfihas numa assadeira untada com manteiga e deixe descansar por 15 minutos.",
+      "Pincele as esfihas com gema (DICA DE OURO: ACRESCENTE 1 COLHER DE AZEITE E UMA PITADA DE SAL NESSA MISTURINHA PARA PINCELAR) e leve para assar em forno médio, preaquecido, por cerca de 15 minutos.",
+      "Forno: asse em 180° C por 30 minutos, mas fica de olho pois esse tempo pode variar de acordo com cada forno.",
+      "Sirva quente e experimente consumir sua esfirra usando limão como molho",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RENATA CASARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307483-esfirra-da-re-casarin.html"
+}

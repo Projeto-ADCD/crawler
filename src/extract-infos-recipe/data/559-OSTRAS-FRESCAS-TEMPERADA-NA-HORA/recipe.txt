@@ -1,0 +1,24 @@
+{
+  "nome_receita": "OSTRAS FRESCAS TEMPERADA NA HORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 ostras frescas.",
+      "cominho triturado sem palha",
+      "sal rosa (himalaia) ou branco",
+      "1 limão",
+      "azeite de boa qualidade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra as ostras e veja se estão com caldo e bom cheiro",
+      "Depois coloque as ostra em um prato e adicione cominho, logo após o sal rosa ou comum, o caldo do limão e termine com o azeite por cima.",
+      "Logo pode-se ser consumida.",
+      "OBS: mate as ostras frescas, melhor para o consumo se a estiver em resfriamento."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MESSIAS MC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312504-ostras-frescas-temperada-na-hora.html"
+}

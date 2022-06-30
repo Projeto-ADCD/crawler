@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MAMINHA AO MOLHO DE CERVEJA PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de maminha de mais ou menos 1 kg",
+      "1 lata de tomate pelado em cubos, com o suco da lata",
+      "1 lata de cerveja preta",
+      "1 pacote de creme de cebola",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl, misture a cerveja, o creme de cebola e a lata de tomate pelado. Reserve.",
+      "Em uma panela de pressão, sele a Maminha com um fio de azeite até que doure de ambos os lados.",
+      "Vire a mistura, previamente feita no bowl, em cima da carne. Caso não cubra a carne por completo, acrescente um pouco de água.",
+      "Feche a panela e deixe cozinhar por 50 minutos em fogo médio após pegar pressão.",
+      "Após os 50 minutos, desligue a panela e tire a pressão com cuidado. Se achar necessário, acerte o sal lembrando que o creme de cebola já é salgado.",
+      "Sirva com purê de batata como prato principal ou acompanhando de pão como petisco! Fica ótimo!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOAO PAULO CORDOBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306363-maminha-ao-molho-de-cerveja-preta.html"
+}

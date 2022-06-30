@@ -1,0 +1,33 @@
+{
+  "nome_receita": "LASANHA DE PANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de carne moída",
+      "1 cebola picadinha",
+      "1 tomate picadinho",
+      "200 g de mussarela ralada",
+      "200 g de presunto ralado",
+      "250 g de macarrão para lasanha",
+      "1 pct de molho de tomate",
+      "2 xícaras de água fervente",
+      "Tempero e sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure a cebola",
+      "Em seguida coloque o tomate e a carne moída",
+      "Refogue bem e reserve",
+      "Em outra panela, faça camadas com o macarrão (quebre se for preciso), a carne moída, o presunto e o queijo",
+      "Dissolva o molho de tomate na água fervente",
+      "Coloque essa água na panela",
+      "Tempere à gosto",
+      "Leve ao fogo baixo e aguarde até começar a secar, sem mexer pra não misturar",
+      "Caso ache que ainda não cozinhou, acrescente um pouco mais de água até o macarrão estar cozido!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314372-lasanha-de-panela.html"
+}

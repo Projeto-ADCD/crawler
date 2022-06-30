@@ -1,5 +1,5 @@
 import datetime
-
+import re
 
 class bcolors:
   HEADER = '\033[95m'
@@ -17,3 +17,10 @@ def log_function(color: bcolors, message):
   string = f"[ {bcolors.OKGREEN}{now.hour}:{now.minute}:{now.second}{bcolors.ENDC} ]--> "
   string += message
   print(string)
+
+
+def process_text(text) -> str:
+  text = re.sub("/"," ",text)
+  text = re.sub("['-=\[\]+;/.,<>]"," ",text)
+  text = re.sub(" +","-",text)
+  return text

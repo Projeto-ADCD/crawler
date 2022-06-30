@@ -1,0 +1,32 @@
+{
+  "nome_receita": "COOKIES COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de manteiga derretida",
+      "2 xícaras (chá) de açúcar mascavo",
+      "2 xícaras (chá) de açúcar branco",
+      "4 ovos",
+      "1 colher de café de baunilha",
+      "1 pitada de sal",
+      "5 xícaras (chá) de trigo",
+      "2 colheres (sopa) de fermento",
+      "400 g de chocolate meio amargo picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 190° C.",
+      "Adicione os açúcares, a manteiga derretida e bata-os até formar uma massa homogênea e clara.",
+      "Misture os ovos, a baunilha e mexa.",
+      "Adicione o trigo, o fermento e a pitada de sal.",
+      "Por fim, adicione o chocolate.",
+      "Molde a massa com duas colheres de sopa formando uma “bolinha” e distribua os cookies em uma forma untada com óleo.",
+      "Asse por 12 minutos e sirva-os!",
+      "A quantidade de cookies muda conforme o tamanho moldado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "TAINÁ COLOMBO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306162-cookies-com-chocolate.html"
+}

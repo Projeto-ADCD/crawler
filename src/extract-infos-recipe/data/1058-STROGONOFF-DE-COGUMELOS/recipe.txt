@@ -1,0 +1,31 @@
+{
+  "nome_receita": "STROGONOFF DE COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de cogumelo shimeji",
+      "200 g de cogumelo shitake",
+      "1 cebola grande picada",
+      "4 dentes de alho",
+      "2 colheres (sopa) de extrato concentrado de tomate",
+      "1 colher (sopa) de azeite",
+      "300 g de cream cheese zero lactose Philadelphia",
+      "1 xícara de caldo de legumes (ou água quente)",
+      "3 colheres (sopa) de molho inglês",
+      "1 colher (chá) de páprica picante",
+      "3 colheres (sopa) de cheiro-verde",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de fundo grosso e em fogo alto adicione o azeite, a cebola, o alho e o sal. Refogue até dourar e adicione os cogumelos em pedaços médios. Doure rapidamente, retire e reserve.",
+      "Na mesma panela que foram refogados a cebola, alho e cogumelos, adicione o caldo de legumes (ou água), o cream cheese zero lactose Philadelphia, a páprica, o molho inglês e o concentrado de tomate. Cozinhe por 5 minutos mexendo constantemente até engrossar.",
+      "Retorne com o refogado de cogumelos para o molho, adicione os demais temperos, acerte o sal e apague o fogo, adicionando o cheiro-verde por último.",
+      "Sirva quente com batatas assadas e arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310181-strogonoff-de-cogumelos.html"
+}

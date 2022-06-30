@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO SALGADO NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de farinha de trigo",
+      "360 ml de leite morno",
+      "2 ovos",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sobremesa) de sal",
+      "1 colher (sopa) de fermento biológico seco",
+      "2 xícaras (chá) de linguiça calabresa em cubinhos (pode ser da sua preferência presunto, queijo etc... dá certo com tudo)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece fritando a calabresa em uma frigideira e, em seguida, coloque-a sobre um papel-toalha e reserve.",
+      "No liquidificador, coloque o leite morno, os ovos, o açúcar, a manteiga e o sal, e bata bem até ficar homogêneo.",
+      "Em um recipiente, coloque a farinha de trigo, despeje o líquido do liquidificador e acrescente o fermento, misturando bem com o auxílio de uma colher de pau até se transformar em uma massa com consistência elástica.",
+      "Em seguida, adicione a calabresa frita e misture até que se incorpore à massa.",
+      "Coloque a massa em uma forma de bolo inglês untada e enfarinhada e deixe descansar em um local fechado por cerca de 40 minutos ou até dobrar de tamanho.",
+      "Após isso, leve ao forno preaquecido a 180º C por aproximadamente 40 minutos. Passado esse tempo, é só retirar do forno e se deliciar!"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "REEH FONSECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309044-pao-salgado-no-liquidificador.html"
+}

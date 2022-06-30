@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SOPA DE LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de moranga ou cabutiã (1 pedaço pequeno)",
+      "150 g de cenoura (1 cenoura grande)",
+      "150 g de cará ou inhame (1 pequeno)",
+      "300 g de mandioca  (2 pedaços médios)",
+      "600 g de batata  (4 batatas médias)",
+      "150 g de tomate (1 tomate médio)",
+      "1 folha de couve",
+      "250 g de macarrão",
+      "400 g de carne moída de boi",
+      "1 colher (sopa) de açafrão",
+      "2 colheres (sopa) de extrato de tomate",
+      "2 dentes de alho ",
+      "1 tablete de caldo de galinha",
+      "sal a gosto",
+      "pimenta-do-reino ou calabresa a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com um fio de óleo refogue a carne já temperada em uma panela.",
+      "Na panela de pressão coloque um fio de óleo, o caldo de galinha e o alho picado para dourar",
+      "Acrescente o extrato se tomate e o açafrão e o tomate picado bem pequeno.",
+      "Refogue tudo por alguns minutos.",
+      "Acrescente a carne e mexa bem, em seguida coloque os demais ingredientes picados em cubos exceto o macarrão",
+      "Refogue tudo por alguns minutos mexendo sempre.",
+      "Acrescente a água até o nível da panela e cozinhe na pressão por 20 minutos.",
+      "Retire a pressão e acrescente o macarrão mexendo novamente até misturar bem, se necessário coloque mais água e cozinhe por mais 10 minutos.",
+      "Confira o sal se está a gosto e pronto.",
+      "E só servir, de preferência acompanhado com pão francês fatiado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TERENCE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308310-sopa-de-legumes.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COOKIE DE CANECA BARATO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 colher (sopa) de açúcar mascavo",
+      "1 e 1/2 colher (sopa) de açúcar",
+      "5 colheres (sopa) de farinha de trigo",
+      "1 e 1/2 colher (chá) de fermento",
+      "2 colheres (sopa) de margarina ou manteiga derretida ",
+      "2 ovos",
+      "gostas de chocolate ou 1 barra de chocolate",
+      "1 colher (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo até ficar homogêneo (use só gemas dos ovos) menos as gotas de chocolate em uma caneca",
+      "Depois de a massa ficar pronta coloque as gotas de cholate ou 1 barra de chocolate picada",
+      "Potência alta, coloque 1 minuto no micro-ondas",
+      "Fique de olho porque ele fica subindo a massa sobe, então quando, subir abaixe com uma colher e continue o tempo",
+      "Pode comer"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Derreta a margarina 20 segundo micro-ondas"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MELISSA FRANÇA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308033-cookie-de-caneca-barato-e-facil.html"
+}

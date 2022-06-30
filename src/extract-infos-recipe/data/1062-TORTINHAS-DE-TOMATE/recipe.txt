@@ -1,0 +1,43 @@
+{
+  "nome_receita": "TORTINHAS DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "25 g ou 1/10 xícara (chá) de manteiga",
+      "25 g ou 1/5 xícara (chá) de farinha de trigo",
+      "125 ml de cerveja sem álcool",
+      "2 colheres (chá) molho inglês",
+      "1 colher (chá) de mostarda dijon",
+      "125 g ou 1 e 1/4 de xícara (chá) de queijo",
+      "2 tomates grandes fatiados",
+      "2 colheres (sopa) de pinoli moído"
+    ],
+    "PARA A MASSA": [
+      "150 g ou 2/3 xícara (chá) de manteiga em cubos",
+      "300 g ou 2 e 1/2 xícara (chá) de farinha de trigo integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro prepare a massa.",
+      "Misture a manteiga com a farinha formando uma massa esfarelada, parecida com migalhas de pão",
+      "Acrescente a essa mistura água fria o suficiente para formar uma massa maleável. Deixe descansar por 30 minutos",
+      "Preaqueça o forno a uma temperatura de 200° C",
+      "Abra a massa em uma superfície enfarinhada e corte em seis círculos",
+      "Use-os para forrar seis formas de tortinhas",
+      "Cubra as formas com filme plástico e encha-as com feijões, a massa não irá ficar deformada",
+      "Retire o filme plástico e os feijões e leve as formas ao forno as formas ao forno novamente por 10 minutos ou até que a massa esteja assada e crocante",
+      "Desligue o forno e preaqueça a grelha",
+      "Para fazer o recheio, derreta a manteiga em uma caçarola ",
+      "Então, acrescente a farinha e cozinhe em fogo médio até formar uma pasta",
+      "Acrescente aos poucos a cerveja sem álcool e misture para incorporar aos outros ingredientes.",
+      "Cozinhe até engrossar",
+      "Misture o molho inglês, a mostarda e o queijo até que este derreta e adquira uma consistência grossa",
+      "Coloque essa mistura de queijo nas forminhas sobre a massa e acrescente uma rodela de tomate sobre cada tortinha",
+      "Leve as tortinhas para grelhar por 5 minutos ou até dourarem e o recheio começar a borbulhar, em seguida polvilhe pinoli moído sobre elas"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310164-tortinhas-de-tomate.html"
+}

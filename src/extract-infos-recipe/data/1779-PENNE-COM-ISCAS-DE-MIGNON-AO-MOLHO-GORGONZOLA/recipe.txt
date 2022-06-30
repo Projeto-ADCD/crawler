@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PENNE COM ISCAS DE MIGNON AO MOLHO GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de penne grano duro",
+      "água para cozinhar o macarrão",
+      "1 colher (sobremesa) de manteiga",
+      "250 g de mignon em tiras",
+      "sal e pimenta ou tempero a seu gosto",
+      "75 g de queijo gorgonzola ou roquefort",
+      "400 g de molho branco pronto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão al dente e reserve.",
+      "Aqueça uma panela antiaderente em fogo alto, coloque a manteiga e deixe derreter e aquecer. Acrescente as tiras de mignon já previamente temperadas e deixe refogar, selando bem, mas sem secar.",
+      "Acrescente então o gorgonzola e deixa derreter levemente.",
+      "Acrescente o molho branco, mexa até aquecer bem (eu prefiro o molho pronto porque dá menos trabalho, mas se preferir, você pode fazer o molho em casa – qualquer hora eu passo uma receita.)",
+      "Por fim, acrescente o penne reservado, misture bem para que o molho fique incorporado à massa e bem quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas\nNão cozinhe o penne totalmente, deixe um pouquinho mais duro do que o “al dente” para que a cocção finalize quando incorporado ao molho (observe o tempo indicado na embalagem e deixe alguns minutos a menos).\nSe quiser um sabor mais acentuado de gorgonzola, você pode dobrar a quantidade do queijo. Ou então, reserve a mesma quantidade para ralar sobre o prato pronto que além de dar sabor, decora.\nSugiro servir direto no prato que fica mais bonito. Para isso, se possível, pré aqueça os pratos com água quente, para que ao servir o macarrão não fique frio. Decore com tomate cereja ou cheiro verde ou uma salada verde ou um ramo de alecrim ou brócolis ou como sua criatividade mandar!\nAhh, e se você também adora um bom vinho, eu sugiro um cabernet ou malbec"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ELIO SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306830-penne-com-iscas-de-mignon-ao-molho-gorgonzola.html"
+}

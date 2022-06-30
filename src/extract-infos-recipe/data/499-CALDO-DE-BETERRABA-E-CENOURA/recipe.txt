@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CALDO DE BETERRABA E CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 beterraba",
+      "1 cenoura",
+      "1/4 de cebola picadinha",
+      "1/4 de tomate picadinho",
+      "100 g de frango desfiado",
+      "2 folhas de couve picadas bem fininhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a cenoura e a beterraba, e cozinhe ambas com um pouco de sal",
+      "Após cozidas, bata no liquidificador com um pouco de água",
+      "Em uma panela, doure a cebola em um fio de azeite",
+      "Coloque o tomate e a couve e refogue um pouco",
+      "Acrescente o caldo batido e o frango desfiado",
+      "Tempere à gosto e espere cozinhar por uns 5 minutinhos",
+      "Sirva quentinho!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312669-caldo-de-beterraba-e-cenoura.html"
+}

@@ -1,0 +1,47 @@
+{
+  "nome_receita": "LULAS RECHEADAS À CANDOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 lulas para rechear",
+      "150 g de camarões para recheio",
+      "150 g perninhas de lula picadas",
+      "2 cebolas roxas picadas",
+      "1 cebola em rodelas",
+      "2 dentes de alho",
+      "1/2 gomo de linguiça portuguesa",
+      "azeite",
+      "salsinha",
+      "2 tomates sem pele e sem sementes",
+      "1/2 xícara de farinha de rosca",
+      "1 pimenta dedo de moça pequena",
+      "sal",
+      "pimenta do reino",
+      "1/2 taça de vinho branco seco",
+      "palitos de dente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as lulas preparadas para rechear e reserve.",
+      "Recheio:",
+      "Refoge a cebola roxa, o alho e a linguiça bem picada fininha no azeite;",
+      "Acrescente os camaões e as perninhas de lula picadinhas;",
+      "Acrescente os tomates, sal, pimenta do reino e pimenta dedo de moça picadinha.",
+      "Deixe refogar até diminuir o caldo e firmar os camarões.",
+      "Acrescente a farinha de rosca aos poucos até o ponto desejado; coloque até 1/2 xicara ou menos, a seu gosto.",
+      "Deixe esfriar",
+      "Recheie as lulas até 2/3 delas, porque diminuem o tamanho cozidas. Feche as lulas recheadas com palitos de dente.",
+      "Preparo das lulas:",
+      "Forre uma panela com azeite e a cebola em rodelas",
+      "Coloque as lulas recheadas uma ao lado da outra",
+      "Coloque sal, pimenta do reino e regue azeite sobre as lulas.",
+      "Ligue o fogo e deixe por cerca de 13 minutos, dependendo do tamanho das lulas, até ficarem macias em um garfo.",
+      "Regue o vinho e deixe por mais 3 a 5 minutos.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SILVANA SCARPINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313109-lulas-recheadas-a-candosa.html"
+}

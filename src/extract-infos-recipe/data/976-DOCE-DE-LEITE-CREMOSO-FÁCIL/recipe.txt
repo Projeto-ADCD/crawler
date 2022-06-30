@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DOCE DE LEITE CREMOSO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de sopa (rasas) de açúcar",
+      "450 ml de leite",
+      "1 colher de sopa de farinha de trigo",
+      "2 colheres de sopa de margarina",
+      "1 caixinha de leite condensado",
+      "2 caixinhas de creme de leite",
+      "1 colher (sopa) de essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro coloque o açúcar na panela para fazer a calda de caramelo",
+      "Coloque a margarina dentro do leite e esquente, o leite não pode estar frio ou gelado para a mistura",
+      "Junte 100ml do leite na calda de caramelo e deixe ferver",
+      "Depois, misture a farinha de trigo no restante de todo o leite e coloque",
+      "Coloque o leite condensado, o creme de leite e a essência de baunilha",
+      "Por fim, é só mexer e deixar ferver até dar a textura cremosa do doce e se deliciar!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310659-doce-de-leite-cremoso-facil.html"
+}

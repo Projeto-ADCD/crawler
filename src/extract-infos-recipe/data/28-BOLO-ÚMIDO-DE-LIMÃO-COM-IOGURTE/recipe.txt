@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO ÚMIDO DE LIMÃO COM IOGURTE",
+  "ingredientes": {
+    "MASSA": [
+      "1 xícara e ¼ de açúcar",
+      "1 xícara e ½ de farinha de trigo",
+      "3 ovos",
+      "suco e raspas de dois limões tahiti",
+      "½ xícara de margarina derretida",
+      "1 pote (170gr) de iogurte natural ou grego ",
+      "1 colher (chá) de fermento químico em pó",
+      "¼ de colher (chá) de sal"
+    ],
+    "COBERTURA": [
+      "1 xícara de açúcar de confeiteiro",
+      "½ xícara de suco de limão",
+      "1 xícara de suco de limão para umedecer a massa",
+      "raspas de limão para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180º C e unte com manteiga e farinha uma assadeira de bolo inglês de  aproximadamente 20 cm. ",
+      "Em uma tigela, macere as raspas de limão com o açúcar, adicione então a margarina derretida e os ovos inteiros. Bata bem até obter um creme leve e espumoso. ",
+      "Acrescente o iogurte, o suco de limão e a farinha de trigo aos poucos. ",
+      "Por último, adicione o fermento e o sal. Misture e leve para assadeira untada para assar em torno de 45 minutos ou até ficar dourado e ao fazer o teste do palito ele sair limpo. ",
+      "Com a massa ainda quente, faça pequenos furos com o garfo e despeje 1 xícara de suco de limão. ",
+      "Espere esfriar um pouco e desenforme. À parte, misture o açúcar de confeiteiro com o restante do suco de limão até ficar homogêneo. Cubra todo o bolo. Por cima, adicione raspas de limão. Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316102-bolo-umido-de-limao-com-iogurte.html"
+}

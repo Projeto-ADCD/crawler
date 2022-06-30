@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PANETONE RECHEADO RÁPIDO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 panetone (panetone pronto sem recheio)",
+      "1 tablete de chocolate (branco ou preto)",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a tampa do Panetone e retire o miolo do Panetone, e reserve.",
+      "Derreta o Chocolate e adicione o Creme de Leite.",
+      "Quando o Chocolate estiver um pouco derretido, junte esse cremede chocolate ao miolo do Panetone e coloque dentro do Panetone.",
+      "Tampe e leve-o para à geladeira, no dia seguinte, e decore seu Panetone como quiser."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RENATO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312590-panetone-recheado-rapido-e-facil.html"
+}

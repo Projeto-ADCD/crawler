@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE MAÇÃS SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 massa folhada",
+      "3 maçãs",
+      "150 g de purê de maçã",
+      "25 g de manteiga",
+      "1 colher (sopa) de açúcar",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 210° C",
+      "Coloque a massa dentro de uma forma de 24 cm até 28 cm.",
+      "Coloque todo purê de maçãs na massa.",
+      "Corte todas as maçãs em pequena fatias e coloque elas em cima do purê.",
+      "Quando terminar, distribua a manteiga em pequeno pedaços entre algumas fatias de maçãs.",
+      "Polvihe de canela.",
+      "Leve ao forno durante 30 minutos até dourar!",
+      "E pronto!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CHLOE TRODEGAUFFRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310600-torta-de-macas-superfacil.html"
+}

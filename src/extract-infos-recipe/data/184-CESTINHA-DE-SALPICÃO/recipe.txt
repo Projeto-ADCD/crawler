@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CESTINHA DE SALPICÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de água",
+      "1/2 colher (chá) de cominho",
+      "1/2 colher (chá) de pimenta-do-reino",
+      "1/2 colher (chá) de páprica defumada",
+      "sal a gosto",
+      "1 kg de peito de frango",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "1 cenoura",
+      "uva-passa a gosto",
+      "salsinha a gosto",
+      "1 cebola",
+      "1 lata de creme de leite",
+      "400 g de massa folhada",
+      "batata palha a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte em uma panela, a água, o cominho, a pimenta, a páprica defumada e o sal a gosto",
+      "Misture e junte o peito de frango ",
+      "Deixe cozinhar bem nessa mistura temperada ",
+      "Em um recipiente, junte o milho, a ervilha, a cenoura, as uvas-passas, o sal, a salsinha e a cebola",
+      "Misture tudo muito bem, com cuidado ",
+      "Adicione o peito de frango já bem desfiadinho ",
+      "Junte o creme de leite e misture novamente ",
+      "Coloque a massa folhada em formas pequenas, de empada ou cupcake",
+      "Modele as cestinhas com cuidado",
+      "Leve ao forno por 7 minutos ",
+      "Depois, retire das formas, recheie e finaliza com a batata palha ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314056-cestinha-de-salpicao.html"
+}

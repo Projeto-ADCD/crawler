@@ -1,0 +1,20 @@
+{
+  "nome_receita": "MINGAU DE AVEIA (FÁCIL E DELICIOSO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos (americano) de leite",
+      "canela e aveia",
+      "1 banana"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue os 3 copos americanos de leite coloque para ferver junto com a aveia (a aveia serve para engrossar)",
+      "Quando engrossar desligue coloque a canela e pique banana por cima"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIELA ROSA SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312499-mingau-de-aveia-facil-e-delicioso.html"
+}

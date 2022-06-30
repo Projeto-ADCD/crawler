@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BROWNIE DE ACHOCOLATADO QUE DÁ CERTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar refinado",
+      "1 xícara de farinha de trigo sem fermento",
+      "2 xícaras de achocolatado",
+      "5 colheres (sopa) de manteiga",
+      "*tamanho da xicara 200 ml"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga e deixe esfriando",
+      "Em seguida, bata os ovos e a açúcar manualmente e adicione a manteiga e o achocolatado",
+      "A massa tem que ficar bem encorporada, se ficar líquida pode dar errado.",
+      "Por último, adicione a farinha, unte a forma com manteiga e o próprio achocolatado, despeje a massa e leve ao forno preaquecido a 180° C por 30 a 40 minutos (até craquelar por cima).",
+      "Dica: não bata muito os ovos e nem adicione muita quantidade. Como a massa não leva fermento, o ovo pode acabar fazendo o mesmo efeito e acabar dando crescimento a massa, fazendo então se tornar um bolo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "NHATHALYA TENORIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306781-brownie-de-achocolatado-que-da-certo.html"
+}

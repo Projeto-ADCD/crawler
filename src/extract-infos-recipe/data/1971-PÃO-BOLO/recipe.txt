@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 ml de leite",
+      "1 lata de leite condensado",
+      "4 ovos",
+      "2 pacotes de queijo ralado",
+      "2 colheres de manteiga",
+      "2 pacotinhos de fermento de pão",
+      "3 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador leite, leite condensado, ovos, manteiga e 1 pacote de queijo ralado.",
+      "Primeiro coloque a farinha em uma vasilha grande e coloque por cima o do liquidificador",
+      "Misture por último e acrescente o fermento.",
+      "Deixa descansar na vasilha no forno com pano em cima por 25 minutos",
+      "Depois passa para assadeira e deixar descansando por mais 30 minutos",
+      "Depois coloca no forno em média de 45 minutos ele está pronto ",
+      "Ou quando estiver dourado.",
+      "Quando tirar do forno passar manteiga e jogar um pouco de queijo ralado por cima ainda quente ."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ADRIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306310-pao-bolo.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ DE FORNO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cozido",
+      "1 lata de milho verde",
+      "1 lata de seleta de legumes",
+      "1 vidro de palmito",
+      "1 vidro de azeitonas",
+      "1 copo de requeijão cremoso",
+      "1 copo de iogurte",
+      "1 caixa de creme de leite",
+      "200 g de queijo cheddar ralado",
+      "200 g de mussarela fatiada",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o arroz já cozido acrescente o milho, a seleta, as azeitonas, o palmito, o queijo cheddar ralado, o requeijão, o iorgute e a caixa de creme de leite.",
+      "Salpique o sal e a pimenta-do-reino a gosto e misture bem, coloque em um refratário cubra com a mussarela e jogue um pouco de orégano por cima.",
+      "Leve ao forno 180º C por aproximadamente 30 minutos ou até que a mussarela fique dourada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311055-arroz-de-forno-cremoso.html"
+}

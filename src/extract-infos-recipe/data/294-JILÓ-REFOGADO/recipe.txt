@@ -1,0 +1,25 @@
+{
+  "nome_receita": "JILÓ REFOGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de jiló verde",
+      "1 tomate médio",
+      "1 cebola média",
+      "sal a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o jilós em cubos pequenos.",
+      "Em uma frigideira acrescente uma colher de sopa de óleo. Adicione o jiló até que fique bem fritinho.",
+      "Adicione sal a gosto.",
+      "Adicione cebola e tomate cortados em cubos e tampe a panela até criar um caldinho.",
+      "Em seguida sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GABRIELA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313353-jilo-refogado.html"
+}

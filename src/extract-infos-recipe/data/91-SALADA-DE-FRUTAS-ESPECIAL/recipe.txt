@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SALADA DE FRUTAS ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado ",
+      "200 g de creme de leite ",
+      "1 colher (chá) de essência de baunilha ",
+      "1 gema ",
+      "1 manga ",
+      "2 kiwis ",
+      "2 bananas",
+      "200 g de chantilly ",
+      "Raspas de chocolate ",
+      "150 g "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, misture os primeiros 4 ingredientes ",
+      "Mexa bastante e deixe cozinhar até formar um creme homogêneo ",
+      "Reserve ",
+      "Em um recipiente, coloque as frutas picadas no fundo ",
+      "Por cima, coloque o creme preparado e ajeite com uma colher ",
+      "Depois, coloque o chantilly por cima do creme e das frutas ",
+      "Ajeite novamente com uma colher ",
+      "Leve à geladeira por 1 hora ",
+      "Finalize com as raspas de chocolate e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314515-salada-de-frutas-especial.html"
+}

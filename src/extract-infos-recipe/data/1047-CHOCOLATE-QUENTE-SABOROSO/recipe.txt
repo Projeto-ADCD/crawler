@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de açúcar",
+      "5 colheres de achocolatado",
+      "1 colher de creme de leite",
+      "1/2 colher de capputino",
+      "leite a gosto",
+      "obs: colheres (sopa)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela no fogo",
+      "Deixe ferver",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FABIO RODRIGO MARMENTINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310247-chocolate-quente-saboroso.html"
+}

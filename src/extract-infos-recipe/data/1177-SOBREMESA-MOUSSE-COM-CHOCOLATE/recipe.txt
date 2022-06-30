@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SOBREMESA MOUSSE COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado (395 g)",
+      "2 caixinhas de creme de leite (200 g cada)",
+      "250ml de suco concentrado de maracujá",
+      "1 pacote de gelatina incolor (12 g)",
+      "Cobertura",
+      "1 caixinha de creme de leite (200 g)",
+      "1 xícara de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Hidrate a gelatina incolor",
+      "Junte o leite condensado e o suco de maracujá",
+      "Misture com um fouet",
+      "Adicione o creme de leite e por fim a gelatina hidratada. Misture com fouet",
+      "Coloque em taças individuais",
+      "Leve para gelar na geladeira até atingir uma textura firme",
+      "Para a cobertura",
+      "Misture o chocolate com o creme de leite e leve ao fogo até engrossar",
+      "Desligue o fogo e deixe amornar ",
+      "Junte ao creme de maracujá e leve à geladeira novamente"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309488-sobremesa-mousse-com-chocolate.html"
+}

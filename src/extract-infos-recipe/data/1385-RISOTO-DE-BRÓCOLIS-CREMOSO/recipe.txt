@@ -1,0 +1,30 @@
+{
+  "nome_receita": "RISOTO DE BRÓCOLIS CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 brócolis",
+      "1 xicara de arroz parboilizado",
+      "200 g de requeijão",
+      "50 g de queijo ralado",
+      "1 colher (sopa) de manteiga",
+      "1/2 cebola grande",
+      "4 dentes alho",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "tempero verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela refogue a cebola, o alho, o brócolis, o sal e a pimenta na manteiga (tudo picado).",
+      "Coloque o arroz e refogue mais um pouco.",
+      "Cubra de água e deixe cozinhar.",
+      "Quando estiver cozido, coloque o requeijão, o queijo ralado e o tempero verde e misture bem.",
+      "Pronto, só se deliciar!"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAULA SLAVIERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308602-risoto-de-brocolis-cremoso.html"
+}

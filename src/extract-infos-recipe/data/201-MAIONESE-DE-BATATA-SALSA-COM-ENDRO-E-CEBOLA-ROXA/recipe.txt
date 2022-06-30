@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MAIONESE DE BATATA SALSA COM ENDRO E CEBOLA ROXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de batata salsa",
+      "2 cebolas roxas",
+      "1 colher (sopa) de açúcar",
+      "1 limão",
+      "3 colheres (sopa) de endro fresco",
+      "1/2 xícara de maionese",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas, em seguida, corte-as em cubos de dois centímetros e cozinhe em água, com sal. Quando estiver macia, mas ainda firme, escorra a água quente e derrame água fria em cima.",
+      "Corte as cebolas em pétalas finas e macere com açúcar, sal e suco de limão, amassando delicadamente com as pontas dos dedos. Reserve por 10 minutos, após, descarte o líquido que se formou.",
+      "Misture a maionese com o endro e a cebola, junte as batatas e mexa até incorporar todos os ingredientes.",
+      "Ajuste o sal e sirva gelada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: servir como acompanhamento para o Presunto Tenro Frimesa."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314021-maionese-de-batata-salsa-com-endro-e-cebola-roxa.html"
+}

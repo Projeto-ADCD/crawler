@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PUDIM DUKAN 1ª FASE ATAQUE/DIET ZERO AÇÚCAR E ZERO GORDURA",
+  "ingredientes": {
+    "MASSA": [
+      "2 xícaras (chá) de leite em pó desnatado",
+      "2 xícaras (chá) de leite líquido desnatado ",
+      "5 ovos ",
+      "2 colheres (sopa) de adoçante em pó ",
+      " "
+    ],
+    "CALDA": [
+      "4 colheres (sopa) de adoçante em pó “",
+      "1 xícara de água filtrada "
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Em uma panela, adicione o açúcar e mexa até dissolver",
+      "Acrescente a água aos poucos e mexa por mais 2 minutos.",
+      "Deposite na forma de pudim e reserve.",
+      " "
+    ],
+    "MASSA": [
+      "No liquidificador acrescente o leite líquido, leite em pó e os ovos. Bata tudo até ficar homogêneo, deposite na assadeira.",
+      "Assar em banho maria em forno médio por 40 minutos, dependendo do seu forno.",
+      "Depois de assado gelar por 2 horas e servir.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FLAVIA SOUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308866-pudim-dukan-1a-fase-ataque-barra-diet-zero-acucar-e-zero-gordura.html"
+}

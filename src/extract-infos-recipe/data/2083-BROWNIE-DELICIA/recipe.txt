@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BROWNIE DELICIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de achocolatado em pó",
+      "1 xícara de farinha de trigo sem fermento",
+      "1 xícara de açúcar",
+      "4 ovos",
+      "200 g de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tijela misture todos os ingredientes secos (açúcar, farinha e achocolatado)",
+      "Derreta a manteiga sem deixar ferver",
+      "Bata os ovos suavemente com um garfo",
+      "Despeje aos poucos os ingredientes molhados (ovos e manteiga) na tijela dos ingredientes secos",
+      "Misture bem até formar uma massa",
+      "Despeje em uma forma retangular untada",
+      "Coloque no forno pré aquecido a 180º C por exatos 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PALOMA MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306066-brownie-delicia.html"
+}

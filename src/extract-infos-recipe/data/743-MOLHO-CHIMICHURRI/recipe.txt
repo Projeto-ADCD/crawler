@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO CHIMICHURRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres salsa fresca",
+      "3 colheres orégano seco",
+      "3 dentes alho",
+      "1/2 xícara de vinagre de álcool branco",
+      "1 xícara óleo de girassol",
+      "pimenta-do-reino e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe as 3 colheres de óregano seco submerso em água morna pra hidratar, antes de misturar com o resto.",
+      "Pique a salsa e o alho muito bem e coloque em uma tigela.",
+      "Misture muito bem os ingredientes líquidos (vinagre e óleo) aos ingredientes secos: salsa, alho e o orégano (que ficou hidratando).",
+      "Finalize regulando o sal e a pimenta-do-reino a gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SERGIO LUIZ FALCETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311781-molho-chimichurri.html"
+}

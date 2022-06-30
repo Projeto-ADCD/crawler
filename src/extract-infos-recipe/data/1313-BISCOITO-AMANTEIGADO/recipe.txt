@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de margarina ",
+      "180 g de açúcar refinado",
+      "1 pitada de sal",
+      "200 g de fécula de batata",
+      "900 g de farinha de trigo",
+      "400 g de chocolate amargo pra decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a margarina o açúcar o sal misture bem,depois coloque a fécula de batata e misture novamente por último coloque a farinha de trigo aos poucos",
+      "O ponto da massa e ficar solta da mão e não gruda nos dedos.depois deixe a massa descansar por 20 minutos",
+      "Modele os biscoitos em tirinhas ou bolinhas, coloque no tabuleiro com papel manteiga ",
+      "Forno médio mais ou menos a 160° C o tempo do forno e de 15 minutos",
+      "O biscoito tem que ficar claro por cima e moreno por baixo,depois de ponto e só mergulhar no chocolate "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "FABIANA DE PAIVA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308948-biscoito-amanteigado.html"
+}

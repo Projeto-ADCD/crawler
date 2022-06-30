@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO DE MOSTARDA E MEL CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de mostarda (60 ml)",
+      "4 colheres (sopa) de mel (60 ml)",
+      "8 colheres (sopa) de azeite (120 ml)",
+      "1 colher (sopa) de limão (15 ml)",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer esse molho basta misturar todos os ingredientes e só, fica uma delícia em saladas.",
+      "OBS: esse molho deve ser deixado em um potinho com tampa na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LUANA KALATAY SCARDANZAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310638-molho-de-mostarda-e-mel-caseiro.html"
+}

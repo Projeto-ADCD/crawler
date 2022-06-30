@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUSPIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 clara",
+      "1 xícara de açúcar",
+      "raspas de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras na batedeira (ou à mão) até ficar em ponto de neve.",
+      "Acrescente o açúcar aos poucos e por fim as raspas de limão.",
+      "Asse em assadeira forrada com papel manteiga em forno a 180° C por 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "SABRINA PEREIRA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306204-suspiro.html"
+}

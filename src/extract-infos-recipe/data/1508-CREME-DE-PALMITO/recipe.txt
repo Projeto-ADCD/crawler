@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CREME DE PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas pequenas de palmito",
+      "2 xícaras (chá) de leite",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de farinha de trigo",
+      "4 xícaras (chá) de caldo de carne",
+      "sal a gosto",
+      "pimenta-do–reino a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata, no liquidificador, o palmito, cortado em pedaços grandes, junto com o leite.",
+      "Aqueça a manteiga, polvilhe a farinha e mexa até dourar.",
+      "Junte o caldo de carne aos poucos mexendo depressa para não encaroçar.",
+      "Ferva por 5 minutos.",
+      "Ponha o palmito batido e aqueça sem ferver.",
+      "Adicione os temperos e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307978-creme-de-palmito.html"
+}

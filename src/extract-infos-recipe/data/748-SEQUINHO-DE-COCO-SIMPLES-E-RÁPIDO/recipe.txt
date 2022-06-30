@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SEQUINHO DE COCO SIMPLES E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de amido de milho",
+      "5 colheres (sopa) de trigo",
+      "1 xícara (chá) de manteiga",
+      "4 colheres (sopa) de coco ralado",
+      "6 colheres (sopa) de açúcar",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligue o forno.",
+      "Em uma tigela bata muito bem a manteiga e o açúcar, adicione o trigo, o amido de milho e o coco ralado, misture bem e faça pequenas bolinhas",
+      "Coloque em em uma forma untada com manteiga, leve ao forno em 180° C até dourar somente a parte de baixo do sequinho."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "THOMAZ HENRIQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311763-sequinho-de-coco-simples-e-rapido.html"
+}

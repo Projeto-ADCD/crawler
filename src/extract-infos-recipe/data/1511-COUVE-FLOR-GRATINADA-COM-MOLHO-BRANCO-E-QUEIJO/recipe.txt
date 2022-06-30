@@ -1,0 +1,38 @@
+{
+  "nome_receita": "COUVE-FLOR GRATINADA COM MOLHO BRANCO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de couve-flor grande",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de farinha de trigo",
+      "500 ml de leite",
+      "queijo de sua preferência a gosto",
+      "1 caixa de creme de leite",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "100 g de bacon",
+      "100 g de calabresa",
+      "2 dentes de alho",
+      "1 cebola média "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave e corte a couve-flor em buquês.",
+      "Em uma panela, coloque a couve-flor, água e sal a gosto",
+      "Quando levantar fervura, desligue o fogo e deixe na água quente por 5 minutos, escorra e reserve",
+      "Em uma panela, frite o bacon, a calabresa, o alho e a cebola picada, frite até ficar douradinho.",
+      "Em outra panela derreta a manteiga, junte a farinha de trigo e mexa bem até formar um creme",
+      "Acrescente aos poucos o leite e não pare de mexer, coloque sal e pimenta (a gosto)",
+      "Acrescente a mistura de bacon e calabresa e mexa até engrossar.",
+      "Adicione o queijo do seu gosto ao creme e misture bem, desligue o fogo.",
+      "Acomode a couve-flor em um refratário cubra com o creme e coloque queijo (do seu gosto).",
+      "Leve ao forno, preaquecido, a 200° C, e asse até dourar o queijo.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BIANCA FAUTH LAZZAROTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307957-couve-flor-gratinada-com-molho-branco-e-queijo.html"
+}

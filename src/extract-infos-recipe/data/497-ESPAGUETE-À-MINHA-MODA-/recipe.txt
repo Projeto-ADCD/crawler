@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ESPAGUETE À MINHA MODA.",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de espaguete",
+      "6 tomates maduros",
+      "6 dentes de alho",
+      "2 xícaras (café) cheias de azeite ou óleo misto",
+      "8 azeitonas verdes",
+      "8 azeitonas pretas",
+      "1 colher (sopa) bem cheia de alcaparras",
+      "15 filés de anchova (aliche ou sardinha anchovada)",
+      "1 colher (café) de pimenta Italiana, calabresa ou caiena (se não gostar, substitua por pimenta-do-reino)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "A receita é minha mesmo, baseada em dois molhos Italianos clássicos: Napolitano e Puttanesca. É muito saboroso!",
+      "Frite o alho (amassado, picado ou cortado em lâminas), no azeite. A quantidade de azeite é generosa, mas diminua se preferir. Reserve esse alho e óleo.",
+      "Lave os tomates, tire as partes verdes das pontas e corte cada um em três pedaços. Refogue esses tomates no alho e óleo, até eles cozinharem, mas deixe pedaços de tomate sem desmanchar.",
+      "Junte as azeitonas verdes e pretas, as alcaparras e a pimenta (veja ingredientes). Refogue por mais uns 3 ou 4 minutos. Junte os filés de anchova (inteiros ou cortados em metades). mexa e imediatamente apague o fogo.",
+      "Sirva com o espaguete cozido al dente.",
+      "Não coloque sal. As anchovas, as alcaparras e as azeitonas, já são salgadas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312671-espaguete-a-minha-moda.html"
+}

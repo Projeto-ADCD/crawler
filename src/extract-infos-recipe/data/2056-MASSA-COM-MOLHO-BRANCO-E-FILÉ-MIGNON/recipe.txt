@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MASSA COM MOLHO BRANCO E FILÉ MIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé mignon",
+      "400 g de macarrão (pene por exemplo)",
+      "2 caixa creme de leite",
+      "1 cebola picada",
+      "2 dentes de algo picado",
+      "2 colheres de manteiga",
+      "3 colheres de queijo ralado parmesão",
+      "1 colher de shoyu",
+      "sal e pimenta a gosto",
+      "1 colher (café) de noz moscada",
+      "salsinha a gosto",
+      "tomilho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga e coloque a cebola picada.",
+      "Quando a cebola estiver dourada, coloque o alho",
+      "Quando estiver bem douradinho coloque a carne (cortada em cubos) para refogar.",
+      "Tampe a panela para não deixar o caldo secar.",
+      "Quando a carne estiver refogada, acrescente os temperos, o creme de leite e o shoyu.",
+      "Deixe ferver para pegar sabor.",
+      "Ferva água para cozinhar o macarrão, utilize o tempo de cozimento indicado para a massa para que fique al dente.",
+      "Misture a massa no molho.",
+      "E estará pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CINTHIA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306110-massa-com-molho-branco-e-file-mignon.html"
+}

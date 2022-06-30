@@ -1,0 +1,26 @@
+{
+  "nome_receita": "EMPADÃO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de margarina",
+      "1 xícara de farinha de trigo",
+      "1 ovo",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture a margarina, a farinha de trigo e a gema do ovo",
+      "Sove a com a mão até ficar uma massa amanteigada e que não grude na mão",
+      "Deixe descansar por 10 minutos",
+      "Modele em uma forma redonda sem furos",
+      "Adcione o leite condensado",
+      "Deixe cerca de 40 a 45 minutos no forno a 180° C",
+      "(O ponto certo é quando o leite condensado estiver ficando mais escuro.)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FLÁVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308501-empadao-doce.html"
+}

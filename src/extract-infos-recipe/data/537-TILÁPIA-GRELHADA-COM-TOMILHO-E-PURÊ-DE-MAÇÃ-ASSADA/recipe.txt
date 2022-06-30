@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TILÁPIA GRELHADA COM TOMILHO E PURÊ DE MAÇÃ ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tilápias",
+      "sumo de 1 limão",
+      "sal e pimenta-do-reino moída na hora a gosto",
+      "1 cebola picada em cubos bem pequenos",
+      "4 colheres (sopa) de margarina Delícia",
+      "2 colheres (sopa) de salsa picada",
+      "6 maçãs verdes",
+      "sal e pimenta-do-reino moída na hora a gosto",
+      "2 colheres (sopa) de margarina Delícia",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "TILÁPIA": [
+      "Tempere as tilápias com o sumo de limão, o sal, a pimenta.",
+      "Em uma frigideira antiaderente, derreta a margarina Delícia e doure as tilápias."
+    ],
+    "MOLHO": [
+      "Em uma frigideira antiaderente, derreta a margarina Delícia e doure a cebola.",
+      "Desligue o fogo e misture a salsa."
+    ],
+    "PURÊ DE MAÇÃ": [
+      "Lave e descasque as maçãs e corte em cubos.",
+      "Coloque os cubos de maçã em uma assadeira, tempere com o sal, a pimenta e besunte a",
+      "margarina Delícia.",
+      "Por cima polvilhe o açúcar.",
+      "Leve ao forno preaquecido a 200° C e asse até dourar bem e ficar caramelizada.",
+      "Deixe esfriar e passe no processador ou amasse bem com um garfo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva as tilápias com o molho, o purê e salada verde com tomatinhos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312579-tilapia-grelhada-com-tomilho-e-pure-de-maca-assada.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE CARNE (PATINHO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de patinho moído ",
+      "4 pães amanhecidos",
+      "2 ovos",
+      "3 dentes de alho",
+      "1 cebola grande",
+      "1 colher (café) de tempero baiano",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente pique os pães amanhecidos e acrescente um pouco de água.",
+      "Misture o patinho moído ",
+      "Acrescente os demais itens e misture bem",
+      "Faça bolinhos médios na palma da mão",
+      "Frite em óleo quente"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "TIAGO BRASCA ASSUNÇÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306173-bolinho-de-carne-patinho.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SUSPIRO DE JANEIRO",
+  "ingredientes": {
+    "SUSPIRO": [
+      "8 claras de ovo",
+      "8 colheres de açúcar",
+      "12 ameixas secas pretas (cozidas e sem caroço)"
+    ],
+    "CREME": [
+      "1 litro de leite integral",
+      "6 gotas de essência de baunilha",
+      "3 colheres (sopa) de amido de milho",
+      "2 limão Taiti somente as raspas",
+      "6 colheres (sopa) de açúcar ou a gosto"
+    ],
+    "COBERTURA": [
+      "2 latas de creme de leite",
+      "2 Barras de Chocolate diamante negro"
+    ]
+  },
+  "passos": {
+    "SUSPIRO": [
+      "Bata 8 claras em neve com 8 colheres de açúcar na batedeira",
+      "Junte a mistura as 12 ameixas pretas cozidas e sem caroço",
+      "Bata novamente a mistura até triturar as ameixas e escurecer o suspiro;",
+      "Leve o suspiro ao forno por aproximadamente 10 minutos já na forma que irá ficar que deve ser de preferência uma assadeira de vidro retangular de 3,3 litros, reserve e deixe esfriar.",
+      "Creme",
+      "Junte 1 litro de leite, 3 colheres de sopa de amido de milho, 8 gemas e 6 gotas de essência de baunilha, raspas de 2 limões Taiti, açúcar e leve ao fogo mexendo até ficar consistente, reserve e espere esfriar um pouco.",
+      "Montagem final e cobertura:",
+      "Despeje o creme sobre o suspiro, aguarde 15 minutos e cubra toda a mistura com os cremes de leite sem soro, triture ou quebre as barras de chocolate diamante negro em pedaços pequenos e despeje em cima do creme de leite finalizando a sobremesa que deverá ir a geladeira e repousar até o dia seguinte para ser apreciada."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GLEDSON ADRIANO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310543-suspiro-de-janeiro.html"
+}

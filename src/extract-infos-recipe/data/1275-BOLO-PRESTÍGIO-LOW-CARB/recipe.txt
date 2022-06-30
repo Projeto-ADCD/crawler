@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO PRESTÍGIO LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 colheres (sopa) de manteiga temperatura ambiente",
+      "5 colheres do seu adoçante culinário preferido",
+      "3 colheres cheias de cacau ou chocolate em pó 70%",
+      "200 ml leite de coco ou 1 iogurte natural ",
+      "100 ml de leite",
+      "1 xícara de qualquer farinha low carb de sua preferência (eu usei uma mistura de farinha de amêndoa e farinha integral)",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1 colher de manteiga",
+      "2 colheres rasas de cacau ou chocolate 75% ou 50%",
+      "1/2 caixa creme de leite ",
+      "1/2 xicara de leite desnatado ou vegetal",
+      "adoçante a gosto",
+      "200 g de coco ralado sem açúcar (eu usei coco ralado em casa)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata primeiro os ovos durante uns 2 min, depois misture a manteiga e o açúcar e bata bem. Depois adicione o restante dos ingredientes e bata novamente. Despeje em forma untada com manteiga e farinha e leve ao forno pre-aquecido a 130° C por 30 a 40 minutos dependendo do seu forno.",
+      "Cobertura",
+      "Leve os ingredientes ao fogo, exceto o coco ralado. Mexa até levantar fervura e ficar no ponto de brigadeiro mole.",
+      "Quando o bolo estiver pronto, espere esfriar uns 10 minutos desenforme-o em um prato. Faça furinhos em todo bolo e despeje a cobertura ainda quente. No final, jogue o coco ralado por cima e deixe o bolo na geladeira mais uns 20 minutos se preferir.",
+      "O bolo fica uma delícia, aqui acabou no mesmo dia. Espero que gostem!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RAQUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309126-bolo-prestigio-low-carb.html"
+}

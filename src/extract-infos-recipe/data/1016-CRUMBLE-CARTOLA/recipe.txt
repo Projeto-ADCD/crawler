@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CRUMBLE CARTOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de queijo mussarela Président",
+      "10 bananas d’água maduras",
+      "1 e 1/2 xícara de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "1/2 xícara de manteiga sem sal",
+      "2 colheres (sopa) de açúcar mascavo",
+      "1/2 colher (sopa) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a banana em cubos pequenos, reserve num bowl e adicione o açúcar mascavo e a canela.",
+      "Reserve",
+      "Em outro bowl junte a farinha de trigo, o açúcar e a manteiga. Misture bem os ingredientes incorporando até que se forme uma massa farelenta. Reserve",
+      "Unte com manteiga e farinha um refratário forneável de aproximadamente 24 cm. Forre o fundo com metade da mistura de bananas, adicione todo o queijo Président em uma única camada",
+      "Cubra com o restante das bananas e finalize com a massa, esfarelando-a por cima de toda a superfície.",
+      "Leve ao forno preaquecido a 180° C por aproximadamente 40 minutos ou até que fique levemente dourado.",
+      "Sirva com sorvete de creme ou melado de cana."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310438-crumble-cartola.html"
+}

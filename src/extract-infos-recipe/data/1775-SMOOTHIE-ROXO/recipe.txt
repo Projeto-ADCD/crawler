@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SMOOTHIE ROXO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3/4 de caixa de amoras",
+      "1 banana",
+      "5 morangos",
+      "1 xícara de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes em um liquidificador ",
+      "Bata bem",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KATHY SCHARRINGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306841-smoothie-roxo.html"
+}

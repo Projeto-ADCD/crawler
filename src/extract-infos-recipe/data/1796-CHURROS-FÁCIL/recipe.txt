@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CHURROS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de água",
+      "2 colheres de manteiga ou margarina",
+      "2 xícaras de farinha de trigo",
+      "1 pitada de sal",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela a água, a manteiga e o sal",
+      "Quando começar a ferver, desligue o fogo e com isso adicione a farinha de trigo (com o fogão desligado)",
+      "Mexa até formar uma bola",
+      "O ponto certo da massa e quando ela desgruda da panela e da colher",
+      "Deixe esfriar ou coloque na geladeira",
+      "Quando já estiver frio ,comece a fazer as cobrinhas e faça um furo nele para o recheio",
+      "Coloque eles pra fritar numa panela de no mínino 20 cm",
+      "Fogo médio, não precisa deixar o óleo esquentar",
+      "Pode adicinar eles no óleo frio mesmo e com o tempo vai esquentando",
+      "E por final, enrole na canela e no açúcar e coloque o recheio dentro",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SAMILLE YUMI BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306765-churros-facil.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRUSCHETTA SEM-VERGONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães de forma (ou 2 pães franceses pela metade)",
+      "1 tomate",
+      "4 fatias de mussarela (ou queijo de sua preferência)",
+      "1/2 dente de alho",
+      "alface ou manjericão",
+      "sal e açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o alho e depois coloque o tomate picado. Frite até amolecer e tempere a gosto.gente",
+      "Reserve o tomate e torre os pães, pode ser na frigideira ou torradeira.",
+      "Coloque os queijos nos pães torrados o tomate, a alface ou manjericão."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISA SINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310668-bruschetta-sem-vergonha.html"
+}

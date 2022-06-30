@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COXAS DE RÃS COM REDUÇÃO DE MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxas de Rãs (8 coxas)",
+      "2 colheres (sopa) de manteiga",
+      "4 tomates maduros sem cascas e sem sementes",
+      "alho, salsinha, coentro e ervas a gosto",
+      "1 limão e sal a gosto",
+      "2 maçãs partidas em cubos pequenos",
+      "1/2 xícara de açúcar",
+      "1 pau de canela",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere as Coxas das Rãs com limão e sal",
+      "Aqueça uma frigideira , coloque a manteiga e grelhe as Rãs até que fiquem douradas dos dois lados",
+      "Na mesma frigideira, coloque o alho e os tomates cortados em pedaços grandes, sem cascas e sem sementes",
+      "Redução de maçã:",
+      "Junte os cubos de maçã com açúcar e pau de canela numa panela. Deixe cozinhar em fogo médio, cerca de 20 minutos. É necessário ir mexendo de vez em quando",
+      "Está pronto, prato delicioso de Coxas de Rãs. Bom Apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARISA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311635-coxas-de-ras-com-reducao-de-maca.html"
+}

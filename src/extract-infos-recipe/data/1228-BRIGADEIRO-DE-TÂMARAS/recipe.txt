@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BRIGADEIRO DE TÂMARAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de tâmaras sem caroço e hidratadas ",
+      "2 colheres (sopa) de cacau em pó 100%",
+      "3 colheres (sopa) de pasta de amendoim integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe as tâmaras de molho por aproximadamente 20 minutos e descarte a água.",
+      "Bata todos os ingredientes em um mixer até obter uma massa homogênea.",
+      "Leve para gelar por 15 minutos e depois molde no formato e tamanho que preferir.",
+      "Após enrolar você pode passar os brigadeiros em cacau em pó, leite em pó ou coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309310-brigadeiro-de-tamaras.html"
+}

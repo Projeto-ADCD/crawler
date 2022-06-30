@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TILÁPIA ASSADA AO MOLHO ROSA E QUEIJO PARMESÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de tilápia",
+      "6 batatas inglesas médias",
+      "2 cebolas brancas",
+      "1 pimentão de cada cor",
+      "200 ml de creme de leite",
+      "200 ml de leite de coco",
+      "2 colheres de sopa de extrato de tomate",
+      "1 cartela de tomatinho confit",
+      "2 limões",
+      "sal",
+      "pimenta-do-reino",
+      "1 colher (sopa) de manteiga",
+      "2 colheres de azeite",
+      "6 dentes de alho",
+      "1 cartela de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os files de tilápia com sal, pimenta do reino, alho, limão e azeite e deixe",
+      "Marine por 30 minutos na geladeira. Em seguida unte uma forma com manteiga e faça um cama de cebola branca.",
+      "Em uma vasilha misture o creme de leite o leite de coco o extrato de tomate, até ficar homogêneo. Descasque as batata e cozinhe por 10 minutos e reserve. Em seguida pique os pimentões em rodelas.",
+      "Pegue a forma e monte em cima da cama de cebola com os files de tilápia e as batatas cortadas, coloque o molho e em seguida monte com os pimentões e tomatinhos.",
+      "Cubra com papel alumínio e leve ao forno a 250 graus por 40 minutos. Depois tire o papel alumínio coloque o queijo parmesão e retorne ao forno por mais 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TOTONHO BORGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311411-tilapia-assada-ao-molho-rosa-e-queijo-parmesao.html"
+}

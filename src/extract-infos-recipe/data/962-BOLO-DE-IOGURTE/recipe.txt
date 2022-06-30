@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO DE IOGURTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 1/2 copo de açúcar",
+      "1 copo de iogurte natural",
+      "2 copos de farinha de trigo",
+      "1/2 copo de óleo",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, exceto o fermento.",
+      "Depois, acrescente o fermento e leve ao forno por 25 a 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MILENA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310704-bolo-de-iogurte.html"
+}

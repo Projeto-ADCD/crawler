@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE FLOCÃO DE ARROZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de flocão de 240 g de arroz",
+      "3 ovos",
+      "1/2 de óleo",
+      "2 xícaras de leite de 240 ml",
+      "1/2 colher de leite de coco",
+      "3 colheres de farinha de trigo",
+      "1 xícara de açúcar de 240 g",
+      "1 colher de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque os ovos o leite o leite de coco, o óleo o açúcar bata tudo até misturar tudo muito bem após coloque o flocão e a farinha de trigo até obter uma massa bem homogênea",
+      "Unte uma assadeira com margarina e farinha de trigo coloque a massa e coloque no forno preaquecido há 180° C graus",
+      "Por 35 minutos bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KEYLA SILVA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310997-bolo-de-flocao-de-arroz.html"
+}

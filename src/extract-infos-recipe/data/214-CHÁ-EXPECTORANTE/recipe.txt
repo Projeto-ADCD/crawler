@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHÁ EXPECTORANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 dentes de alho grandes",
+      "1 colher (chá) de manteiga",
+      "200 ml de água",
+      "1/2 limão",
+      "10 gotas de própolis puro",
+      "açúcar ou mel a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale ou soque o alho e doure levemente na manteiga, acrescente a água e deixe ferver por 30 segundos.",
+      "Coe, no copo esprema o limão e acrescente o própolis e açúcar ou mel, misture e está pronto.",
+      "OBS: Essa receita e para adultos pra crianças acima de 10 anos use 1 dente de alho na receita e pra crianças menores de 10 anos meio dente de alho. Crianças abaixo de 2 anos não devem tomar.",
+      "Evite tomar friagem após ingerir o chá."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "APARECIDA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313906-cha-expectorante.html"
+}

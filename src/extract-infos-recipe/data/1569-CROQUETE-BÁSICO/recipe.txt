@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CROQUETE BÁSICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 de xícara de manteiga",
+      "1/4 de xícara de farinha de trigo",
+      "1/2 colher (chá) de sal",
+      "1/4 de colher (chá) de pimenta-do-reino branca",
+      "1 xícara de leite morno",
+      "2 xícaras de carne moída cozida",
+      "2 colheres (sopa) de cebola picada fina",
+      "óleo",
+      "1 ovo batido",
+      "1 xícara de farinha de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a manteiga em uma panela até fazer espuma.",
+      "Retire do fogo, junte a farinha de trigo e mexa constantemente com o batedor de arame, até a mistura engrossar.",
+      "Junte o sal, a pimenta e o leite.",
+      "Leve ao fogo e mexa, até formar uma pasta grossa.",
+      "Retire do fogo e junte a carne moída e a cebola.",
+      "Espalhe a mistura em uma assadeira e cubra.",
+      "Leve à geladeira por 3 horas.",
+      "Retire da geladeira e faça 16 croquetes.",
+      "Leve ao fogo uma panela com óleo até uma altura de 7,5 cm.",
+      "Misture o ovo batido e 2 colheres de sopa de água.",
+      "Mergulhe os croquetes no ovo, passe pela farinha de rosca e frite por 2 ou 3 minutos.",
+      "Escorra e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307597-croquete-basico.html"
+}

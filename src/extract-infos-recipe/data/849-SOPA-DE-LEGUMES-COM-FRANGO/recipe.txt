@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOPA DE LEGUMES COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 peito de frango",
+      "1 cenoura",
+      "4 batatas",
+      "1 beterraba",
+      "1 dente de alho",
+      "1/4 de cebola picada",
+      "1 pitada de açafrão",
+      "1 colher (chá) de azeite",
+      "1 colher (chá) rasa com sal",
+      "1/2 copo de feijão (opcional)",
+      "6 copos de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece descascando a cenoura, a batata e a beterraba",
+      "Corte a cenoura em tiras de 1 cm, a batata em 4 ou 6 pedaços e a beterraba em cubos, depois reserve.",
+      "Bata o feijão com 1 copo de água no liquidificador por 2 minutos e reserve (opcional).",
+      "Corte o peito de frango em pequenas partes.",
+      "Prepare a panela de pressão com o dente de alho cortado ou amassado, a cebola picada, açafrão e o azeite, logo em seguida ligue o fogo no médio",
+      "Coloque os pedaços de frango cortados e o sal, deixe o frango fritar por 2 minutos sempre mexendo, depois coloque a cenoura, batata e beterraba, mexa muito bem por mais 2 minutos.",
+      "Coloque os 6 ou 5 copos de água na panela e se quiser o feijão batido junto, mexa mais um pouco e depois tampe.",
+      "Com o fogo ainda no médio, logo após a panela pegar pressão aguarde 15 minutos e desligue a panela.",
+      "Depois de tirada a pressão sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAURA NRT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311309-sopa-de-legumes-com-frango.html"
+}

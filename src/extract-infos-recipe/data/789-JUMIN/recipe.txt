@@ -1,0 +1,22 @@
+{
+  "nome_receita": "JUMIN",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 corote sabor limão",
+      "1 suco em pó sabor morango",
+      "1 gelo de maracujá",
+      "1 dose de Vodka (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes em um liquidificador",
+      "Misture até o gelo se desfazer por completo",
+      "Pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "YASMIN DREW SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311550-jumin.html"
+}

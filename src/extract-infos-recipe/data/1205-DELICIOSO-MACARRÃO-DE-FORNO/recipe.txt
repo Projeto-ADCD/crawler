@@ -1,0 +1,31 @@
+{
+  "nome_receita": "DELICIOSO MACARRÃO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sachês de molho pronto de tomate",
+      "2 calabresas picadinhas",
+      "200 g de presunto ralado",
+      "300 g de mussarela ralada",
+      "1 e 1/2 pacote de macarrão ninho",
+      "orégano a gosto",
+      "1 e 1/2 litro de água",
+      "2 caldos de galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água em uma panela para ferver junto com o caldo de galinha.",
+      "Em uma forma, despeje o molho de tomate.",
+      "Frite a calabresa e coloque encima do molho de tomate, na forma.",
+      "Coloque os macarrões ninho por cima do molho.",
+      "Recheio os ninhos com o presunto e com a mussarela.",
+      "Orégano a gosto encima da receita.",
+      "Coloque a água com o caldo de galinha quente encima do macarrão.",
+      "Leve em forno 250º C por 40 a 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309389-delicioso-macarrao-de-forno.html"
+}

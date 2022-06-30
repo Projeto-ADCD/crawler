@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUCO VERDE DE LIMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve",
+      "10 folhas de hortelã",
+      "1 xícara (chá) de suco de lima-da-pérsia",
+      "gelo (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes no liquidificador ",
+      "Tome imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MANUELA VIEIRA NETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308165-suco-verde-de-lima.html"
+}

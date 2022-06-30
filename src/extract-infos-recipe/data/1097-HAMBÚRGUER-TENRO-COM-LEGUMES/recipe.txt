@@ -1,0 +1,35 @@
+{
+  "nome_receita": "HAMBÚRGUER TENRO COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída 2 vezes",
+      "1 cenoura ralada fina",
+      "1 chuchu ralado fino",
+      "1 pacote (sopa) de cebola",
+      "1 ovo",
+      "1 colher (sopa) de farinha de trigo",
+      "1 colher (sopa) de mostarda",
+      "1 colher (sopa) de shoyu",
+      "1 pitada de páprica picante ou pimenta",
+      "1 pitada de orégano",
+      "1 pitada de alecrim em pó",
+      "cheiro-verde",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com a mão.",
+      "Essa massa fica mais úmida do que um hambúrguer normal, mas vai deixar teu hambúrguer mais suculento também.",
+      "Faça hambúrgueres pequenos e finos, achatando com as mãos.",
+      "Frite dos dois lados, apertando com uma espátula, numa frigideira quente e com um fio de óleo.",
+      "Sirva na hora com alface, cenoura ralada, molho de sua preferência e pães levemente aquecidos.",
+      "Os hambúrgueres finos ficarão ainda bem úmidos e com um sabor delicioso.",
+      "A quantidade de porções depende do tamanho do hambúrguer."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRICIA ROSSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309922-hamburguer-tenro-com-legumes.html"
+}

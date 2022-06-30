@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BANDECLAY ENROLADO DE CHESTER",
+  "ingredientes": {
+    "MASSA": [
+      "2 xícara e 1/2 de farinha de trigo",
+      "180 ml de leite morno",
+      "1/3 de xícara de óleo",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "1 pacotinho ou 10 g de fermento biológico seco (fermento de pão)"
+    ],
+    "RECHEIO": [
+      "150 g de chester ou peito de peru",
+      "250 g de queijo cheddar ou de sua preferência",
+      "1 gema para pincelar",
+      "temperos a gosto (pimenta-do-reino, orégano)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia coloque os secos : a farinha de trigo, o fermento biológico, o açúcar e o sal e misture",
+      "Acrescente o óleo, o sal e o leite morno",
+      "Misture bem os ingredientes e transfira para uma bancada enfarinhada e sove a massa por 10 minutos",
+      "Quando a massa estiver lisa e homogênea faça uma bolinha e deixe descansando por 30 minutos em um recipiente com um pano de prato em cima.",
+      "Depois disso abra a massa em uma bancada enfarinhada com um rolo de massas, deixando fina, em formato de um retangulo comprido. Coloque o recheio de chester e chedder ate metade da massa (ao comprido) polvilhe os temperos e feche como um livro, passando agua e dando uma leve apertada para colar nas pontas",
+      "Corte no tamanho que preferir",
+      "Passe para uma assadeira untada e deixe crescendo por mais meia hora coberto com o pano",
+      "Misture a gema com umas gotas de água para ficar mais fluida e pincele cada um dos pedaços",
+      "Pode polvilhar um pouco de oregano ou otras ervas de sua preferência",
+      "Leve ao forno a 200º C por cerca de 25 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FERNANDA MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313535-bandeclay-enrolado-de-chester.html"
+}

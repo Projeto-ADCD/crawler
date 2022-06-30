@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "200 g de biscoito maisena",
+      "100 g de manteiga sem sal",
+      "Recheio",
+      "1 e 1/2 xícara de leite condensado",
+      "1/3 de xícara de suco de limão",
+      "Merengue",
+      "4 claras",
+      "1 e 1/3 de xícara de açúcar refinado",
+      "extrato de baunilha em gotas",
+      "raspas de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Triture em um processador (ou liquidificador) o biscoito maisena e a manteiga em temperatura ambiente, até formar uma farofinha.",
+      "Abra sobre a forma, formando uma camada fina que estende até as laterais.",
+      "Asse no forno pré-aquecido a 180° C por 5 minutos.",
+      "Deixe a massa descansar até que esfrie.",
+      "Recheio",
+      "Misture por 3 minutos o leite condensado com o suco de limão e as raspas até obter consistência.",
+      "Espalhe sobre a massa e leve à geladeira por 2 horas.",
+      "Cobertura",
+      "Misture o açúcar e as claras e leve em fogo baixo, mexendo sem parar por 3 minutos.",
+      "Transfira a mistura para a batedeira, e bata por 10 minutos ou até atingir ponto de merengue.",
+      "Adicione 2 gotas de extrato de baunilha e uma raspas de limão a gosto",
+      "Leve ao forno, pré aquecido a 260º C, por 7 minutos, para dourar o merengue. Caso tenha um maçarico, poderá usá-lo também pra dourar a cobertura.",
+      "Leve a geladeira por 4 horas e sua sobremesa estará pronta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LIVIA RESENDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309239-torta-de-limao.html"
+}

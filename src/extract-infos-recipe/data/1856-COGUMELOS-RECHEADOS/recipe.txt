@@ -1,0 +1,47 @@
+{
+  "nome_receita": "COGUMELOS RECHEADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 cogumelos Portobello ou outro de sua preferência (os cogumelos têm que ser grandes)",
+      "4 colheres (sopa) de azeite de oliva",
+      "2 colheres (sopa) de manteiga",
+      "1 alho-poró ",
+      "1 cebola média ",
+      "1 dente de alho bem picado",
+      "1/2 xícara (chá) de queijo gorgonzola ",
+      "2 colheres (sopa) de salsinha ",
+      "sal e pimenta a gosto",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha funda com água e 2 colheres (sopa) de vinagre branco, coloque os cogumelos e deixe de molho por no máximo 5 minutos.",
+      "Escorra a água e seque os cogumelos com papel-toalha ou um pano de prato branco.",
+      "Com cuidado retire o cabinho dos cogumelos.",
+      "Reserve os cabinhos.",
+      "Em uma frigideira funda, coloque a manteiga e 2 colheres de azeite.",
+      "Deixe esquentar um pouco e coloque os cogumelos para refogar por 2 minutos de cada lado.",
+      "Coloque aos pouco os cogumelos para refogar.",
+      "Se necessário coloque mais azeite.",
+      "Depois de refogados coloque os cogumelos em uma bandeja forrada com papel-toalha.",
+      "Tempere com sal e pimenta, mas não exagere.",
+      "Na mesma frigideira que foram refogados os cogumelos, coloque mais um pouco de azeite.",
+      "Acrescente a cebola picada e o olho.",
+      "Refogue por uns minutos.",
+      "Acrescente o alho-poró em fatias bem finas e deixe refogar por mais uns minutos.",
+      "Tempere com sal e pimenta.",
+      "Acrescente a salsinha picada e o queijo gorgonzola esfarelado.",
+      "Deixe refogar até o queijo derreter.",
+      "Com uma colherzinha de chá vá colocando o recheio em cada um dos cogumelos, fazendo um montinho sobre eles.",
+      "Distribua em um refratário untado com óleo.",
+      "Polvilhe com o queijo parmesão ralado e se quiser enfeitar pode colocar sobre cada cogumelo metade de um tomate cereja.",
+      "Leve ao forno pré-aquecido a 180º por uns 20 minutos ou até gratinar.",
+      "Sirva como entrada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306608-cogumelos-recheados.html"
+}

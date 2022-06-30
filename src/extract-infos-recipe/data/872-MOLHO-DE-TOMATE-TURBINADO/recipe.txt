@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MOLHO DE TOMATE TURBINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 tomates",
+      "1 cenoura média",
+      "1 beterraba média",
+      "1/2 cebola média",
+      "3 dentes de alho grandes",
+      "1/2 xícara de folhas de manjericão fresco",
+      "sal, cominho e orégano",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a cenoura, a beterraba e 6 tomates e reserve.",
+      "Em uma panela coloque a cebola picadinha e o azeite, quando a cebola mudar de cor coloque o alho e após ficar branquinho despeje o creme de tomate.",
+      "Tempere com sal, oregano, cominho o manjericão e o tomate que sobrou picadinho, deixe reduzir e esfriar. Está pronto, pode comer com pão, macarronada, carnes ensopadas, ou fria como sopinha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Usar pouco sal para não interferir em outros preparos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "VIVIAN SEIXAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311132-molho-de-tomate-turbinado.html"
+}

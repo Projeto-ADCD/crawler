@@ -1,0 +1,50 @@
+{
+  "nome_receita": "MACARRÃO COM RAGU DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fio de azeite ",
+      "1 cebola ",
+      "1 pitada de sal ",
+      "3 dentes de alho ",
+      "700 g de peito bovino",
+      "pimenta-do-reino a gosto ",
+      "sal a gosto",
+      "1 colher (sopa) de açúcar mascavo",
+      "1/2 colher (chá) de cominho em pó ",
+      "1/2 colher (chá) de páprica picante em pó",
+      "1/4 de colher (chá) de canela em pó",
+      "farinha de trigo",
+      "1 sachê de molho de tomate",
+      "1 e 1/2 xícara de água",
+      "1 folha de louro",
+      "macarrão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite em uma panela de pressão",
+      "Jute a cebola picada e o sal ",
+      "Quando estiver mais dourado, junte o alho e o peito bovino em cubos ",
+      "Tempere tudo com a pimenta, sal, o açúcar, o cominho, a páprica e a canela",
+      "Junte um pouco de farinha de trigo para dourar melhor a carne, coloque o suficiente para cobrir os pedaços ",
+      "Misture tudo muito bem e deixe dourar",
+      "Junte o sachê de molho de tomate e a água ",
+      "Mexa tudo muito bem e finalize com o louro ",
+      "Tampe a panela e, quando pegar pressão, deixe por 40 minutos 1 hora em fogo baixo",
+      "Desligue, deixe a pressão sair e abra a tampa",
+      "Deixe em fogo baixo, retire os pedaços de carne e desfie ",
+      "Devolva a carne para a panela do molho e continue em fogo baixo",
+      "Enquanto isso, coloque a água do macarrão para cozinhar ",
+      "Junte a quantidade que quiser de massa na panela, cozinhe de acordo com o tempo descrito no pacote e retire",
+      "Junte a massa à panela do molho e misture tudo ",
+      "Sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Só coloque sal na panela de água do macarrão depois que a água começar a ferver"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308896-macarrao-com-ragu-de-carne.html"
+}

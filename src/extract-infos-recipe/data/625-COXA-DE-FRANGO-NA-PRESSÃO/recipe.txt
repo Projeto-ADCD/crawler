@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COXA DE FRANGO NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa de frango",
+      "1 colher (chá) de corante",
+      "1 colher (chá) de orégano",
+      "1 colher (chá) de pimenta-do-reino",
+      "1 colher (chá) de sal (ou a gosto)",
+      "6 dentes de alhos socados",
+      "cebolas suficientes para forrar o fundo da panela de pressão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave os cortes de frango com limão ou vinagre de sua preferência.",
+      "Misture todos os ingredientes e faça uma paste e passe nos pedaços da carne deixe descansar por 1 hora (porém eu deixo descansar de um dia para o outro na geladeira).",
+      "Corte as cebolas ao meio e faça uma cama na fundo da panela de pressão.",
+      "Acrescente as carnes e deixe na pressão por 15 minutos",
+      "Se quiser mais mole deixe por 20 minutos",
+      "Se quiser com menos caldo, abra a panela ligue o fogo e deixe secar "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROGER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312292-coxa-de-frango-na-pressao.html"
+}

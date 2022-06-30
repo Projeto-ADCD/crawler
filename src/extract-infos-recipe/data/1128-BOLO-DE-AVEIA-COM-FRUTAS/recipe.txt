@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE AVEIA COM FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3 xícaras de aveia grossa",
+      "2 xícaras de açúcar",
+      "1 xicara de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de canela em pó",
+      "4 bananas picadas em rodelas",
+      "1 xícara de uva passas sem caroço",
+      "1 maçã Argentina "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o açúcar e o óleo até formar um creme ",
+      "Adicione os outros ingredientes e as frutas (picadas)",
+      "Coloque em forma untada e farinhada.",
+      "Asse em forno médio 180° C por 40 minutos "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "NELMA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309729-bolo-de-aveia-com-frutas.html"
+}

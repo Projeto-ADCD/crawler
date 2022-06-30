@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SMOOTHIE ORANGE VIBES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 manga congelada",
+      "1 laranja ",
+      "200 ml de leite",
+      "1 colher (sopa) de coco ralado",
+      "1 colher (sopa) de açúcar demerara"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ingredientes ao liquidificador e bata até homogeneizar (use o suco da laranja)",
+      "Se preferir, adicione mais açúcar."
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ADRYELLE KRUSCHEWSKY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306713-smoothie-orange-vibes.html"
+}

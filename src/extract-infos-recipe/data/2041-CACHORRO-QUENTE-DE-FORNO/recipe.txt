@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CACHORRO QUENTE DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 xícaras de trigo",
+      "2 xícaras de leite",
+      "5 ovos",
+      "1 colher de (sopa) de fermento",
+      "sal a gosto",
+      "Recheio",
+      "1 xícara de óleo",
+      "4 colheres de sopa de óleo",
+      "4 dentes de alho",
+      "1 cebola picadinha",
+      "1 caldo de carne",
+      "1,5 kg de salsicha",
+      "3 xícaras de extrato de tomate",
+      "2 colheres de ketchup",
+      "1 lata de milho",
+      "100 g de azeitona fatiada",
+      "sal a gosto",
+      "queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque os ingredientes da massa bata até fica uma massa homogênea",
+      "Em uma panela coloque o óleo, doure o alho a cebola e um caldo de carne",
+      "Coloque o extrato de tomate e depois as salsichas, em seguida acrescente o milho, o ketchup, sal a gosto, coentro e 100 g de azeitona fatiada",
+      "Em uma forma untada com manteiga e farinha de trigo",
+      "Coloque uma camada da massa em seguida o recheio e por cima o restante da massa e queijo ralado por cima",
+      "Leve ao forno"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306136-cachorro-quente-de-forno.html"
+}

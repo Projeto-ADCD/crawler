@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BOLO DE LEITE NINHO, OREO E NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "6 ovos",
+      "4 xícaras de farinha de trigo",
+      "1/2 xícara de chocolate em pó 35%",
+      "1 xícara de óleo",
+      "2 xícaras de leite",
+      "2 xícaras de açúcar",
+      "1 colher de fermento em pó",
+      "Recheio",
+      "2 latas de leite condensado",
+      "2 caixas de creme de leite",
+      "6 colheres cheias de leite ninho",
+      "2 colheres de manteiga",
+      "2 pacotes de bolacha oreo",
+      "Montagem",
+      "1 pote médio de nutella",
+      "200 ml de chantili de chocolate",
+      "chocolate granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Separe as claras das gemas e bata as claras em ponto de neve. Reserve.",
+      "Na batedeira, bata as gemas com o açúcar e o óleo até ficar homogêneo.",
+      "Intercale a farinha peneirada com o chocolate em pó e o leite.",
+      "Acrescente as claras em neve delicadamente. Adicione o fermento.",
+      "Coloque em uma forma com o fundo de papel manteiga e leve em forno 180º C por uns 40 a 45 minutos.",
+      "Recheio",
+      "Em uma panela coloque todos os ingredientes do recheio e leve em fogo médio-baixo até engrossar e começar a desgrudar do mundo da panela.",
+      "Transfira para um recipiente e espere esfriar para usar.",
+      "Montagem",
+      "Na mesma forma que assou a massa, forre ela com papel alumínio. Corte a massa em 3 partes. Coloque o primeiro disco de massa na forma, umedeça com uma calda de leite e achocolatado.",
+      "Por cima da massa umedecida, adicione uma camada de nutella.",
+      "Por cima da camada de nutella, adicione metade do recheio de leite ninho, e por cima do recheio coloque as bolachas oreos, inteiras ou partidas.",
+      "Repita o processo até o último disco de massa.",
+      "Leve na geladeira por no mínimo 6 horas. (fiz de um dia pro outro).",
+      "Desenforme o bolo em um prato ou forma.",
+      "Bata o chantili e cubra o bolo. A decoração é a gosto. Usei chocolate granulado na decoração."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: O bolo fica maravilhosooo!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309390-bolo-de-leite-ninho-oreo-e-nutella.html"
+}

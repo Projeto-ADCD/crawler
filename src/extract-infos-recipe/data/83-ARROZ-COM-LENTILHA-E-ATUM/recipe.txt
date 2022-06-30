@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ARROZ COM LENTILHA E ATUM",
+  "ingredientes": {
+    "ARROZ": [
+      "1 colher (sopa) de azeite ",
+      "2 latas de Atum solido óleo 125 g ",
+      "1 cebola picada ",
+      "1/2 xícara (chá) de lentilha ",
+      "cerca de 5 xícaras (chá) de água fervente ",
+      "1 xícara (chá) de arroz ",
+      "sal a gosto"
+    ],
+    "REFOGADO DE CEBOLA": [
+      "2 colheres (sopa) de azeite ",
+      "3 cebolas grande cortadas em rodelas finas ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "ARROZ": [
+      "Numa panela, aqueça o azeite, o óleo do atum e doure a cebola.",
+      "Junte a lentilha e refogue demoradamente. Acrescente 3 xícaras (chá) de água fervente e leve ao fogo brando, panela tampada cozinhando até a lentilha ficar al dente. ",
+      "Acrescente o arroz e a água fervente restante. Tempere com sal a gosto. ",
+      "Tampe a panela e cozinhe em fogo brando até o líquido secar e o arroz e a lentilha cozinharem. Se necessário acrescente mais água fervente durante o cozimento. ",
+      "Quando a água estiver quase secando, acrescente o atum  Gomes da Costa e misture."
+    ],
+    "REFOGADO DE CEBOLA": [
+      "Numa frigideira grande aqueça o azeite e refogue as rodelas de cebola até ficarem douradas (cerca de 15 minutos), mexendo de vez em quando. Tempere com sal a gosto. ",
+      "Coloque o arroz numa travessa e distribua sobre ele as cebolas douradas. ",
+      "Sirva a seguir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica do Chef\nSe desejar diminuir o tempo de cozimento da preparação, deixe a lentilha de véspera de molho em água. Neste caso, diminua a água do cozimento da lentilha para 2 xícaras (chá).\nVariação\nSubstitua a água fervente por caldo de galinha ou legumes. Neste caso não use sal."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GOMES DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314574-arroz-com-lentilha-e-atum.html"
+}

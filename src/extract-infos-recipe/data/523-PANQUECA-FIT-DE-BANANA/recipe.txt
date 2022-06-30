@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA FIT DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1 ovo",
+      "2 colheres (sopa) de açúcar",
+      "canela em pó (opcional)",
+      "3 ou 4 colheres (sopa) de farinha de aveia",
+      "achocolatado em pó (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana e coloque em um recipiente.",
+      "Depois coloque o ovo, o açúcar (depende do seu gosto, só ir provando para ver), a canela, e a farinha de aveia.",
+      "Leve ao fogo baixo em uma frigideira até dourar, depois vire e deixe o outro lado até dourar também."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode colocar algumas coisas a mais se quiser, como gotas de chocolate, ou mel, etc.\nEssa panqueca rende mais ou menos duas porções se tu não quiser uma panqueca muito grossa."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIAH DAUDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312609-panqueca-fit-de-banana.html"
+}

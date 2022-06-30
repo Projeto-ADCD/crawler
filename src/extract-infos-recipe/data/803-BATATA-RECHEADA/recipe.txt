@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BATATA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas",
+      "3 colheres (sopa) de requeijão ou catupiry",
+      "1/2 lata de atum ralado",
+      "orégano a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas para ferver, quando a água estiver borbulhando deixe as batatas cozinhar por dentro depois corte-as",
+      "Espere esfriar depois tire um pouco do meio da batata e pegue o requeijão, o atum ,o orégano e o sal",
+      "Misture tudo e coloque no meio da batata coloque no forno até dourar",
+      "Está pronto aproveite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALINE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311503-batata-recheada.html"
+}

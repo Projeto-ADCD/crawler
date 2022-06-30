@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CANJICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 ml de leite",
+      "200 ml de leite de coco",
+      "2 latinhas de milho verde escorrido",
+      "1 colher de (sopa) de manteiga (ou margarina)",
+      "5 colheres de (sopa) de amido de milho",
+      "1 latinha de açúcar (medida da lata de milho)",
+      "1 pitada de sal",
+      "cravo agosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador e bata (menos o cravo)",
+      "Coe tudo numa peneira",
+      "Leve ao fogo e coloque o cravo",
+      "Deixe engrosar",
+      "Coloque numa travessa e coloque canela por cima",
+      "Espere alguns minutos",
+      "E está pronto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "IVY IZABELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307374-canjica.html"
+}

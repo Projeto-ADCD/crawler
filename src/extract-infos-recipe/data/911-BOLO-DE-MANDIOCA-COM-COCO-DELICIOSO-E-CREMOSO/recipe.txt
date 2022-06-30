@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE MANDIOCA COM COCO DELICIOSO E CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de mandioca crua ralada ou triturada",
+      "1 e 1/2 xícara de açúcar refinado",
+      "400 ml leite de coco",
+      "2 colheres (sopa) de manteiga ou margarina em temperatura ambiente",
+      "4 ovos ",
+      "1 pitada de sal",
+      "1/2 xícara de coco ralado fino",
+      "1/2 xícara de queijo parmesão ralado fino",
+      "1 colher (sopa) de fermento para bolo",
+      "1 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para preparar a mandioca, rale ou triture e depois esprema num pano até tirar toda a água da mandioca e reserve.",
+      "Coloque o açúcar dentro duma bacia grande e adicione os ovos inteiros. Misture bem com um garfo.",
+      "Adicione a manteiga e misture bem até ela se desfazer por completo.",
+      "Coloque o leite de coco e misture bem.",
+      "Após obter um creme homogêneo, misture os ingredientes secos, menos o fermento e a farinha que irão por último.",
+      "Misture com um garfo, não é necessário usar batedeira.",
+      "Por último adicione a farinha e o fermento e misture com delicadeza.",
+      "Despeje numa forma untada e açucarada, com açúcar refinado.",
+      "Assar em forno preaquecido a 180º C por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRENE MAGALHÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310947-bolo-de-mandioca-com-coco-delicioso-e-cremoso.html"
+}

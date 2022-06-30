@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE AVELÃ COM CHOCOLATE (NUTELLA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito rosca de chocolate",
+      "3 colheres (sopa) de margarina",
+      "1 pote de 350 g de creme de avelã (nutella ou semelhante)",
+      "1 caixinha e 1/2 de creme de leite gelado",
+      "100 g de avelã",
+      "200 g de chocolate ao leite ",
+      "1/2 caixa de creme de leite "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate em banho-maria com metade de uma caixa de creme de leite",
+      "Bata as roscas de chocolate no liquidificador até virar uma farofa",
+      "Coloque em um recipiente e adicione a margarina até formar uma massa, depois forre uma forma com fundo removível com esta massa, que será a base da torta",
+      "Coloque em forno médio a massa aberta na forma e em outra forma coloque os avelãs para assar também, os dois devem assar por aproximadamente 20 minutos.",
+      "Retire a massa e as avelãs do forno e deixe esfriar.",
+      "Bata na batedeira o creme de avelã com uma caixa e meia de creme de leite gelado, depois coloque na geladeira para manter bem gelado",
+      "Hora de montar!",
+      "Com a massa fria, adicione o creme de avelã gelado, por cima, cubra com as avelãs assadas e quebradas, ou inteiras se preferir.",
+      "Com o chocolate ao leite derretido em banho Maria você pode decorar por cima das avelãs como quiser!",
+      "Leve a torta a geladeira e pronto!",
+      "Essa receita fica muito gostosa e quanto mais geladinha melhor!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VERA PANELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307035-torta-de-avela-com-chocolate-nutella.html"
+}

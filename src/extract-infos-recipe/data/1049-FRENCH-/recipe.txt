@@ -1,0 +1,23 @@
+{
+  "nome_receita": "FRENCH 75",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "1 champanhe",
+      "20 ml de gin",
+      "1 colher (chá) de açúcar",
+      "2 mãos cheias de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o açúcar e dissolva com em dedinho de água e coloque na coqueteleira",
+      "Na coqueteleira, coloque o gelo, o gin e o limão espremido e sacuda.",
+      "Coloque em uma taça e preencha até o topo com champanhe"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SAMARA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310223-french-75.html"
+}

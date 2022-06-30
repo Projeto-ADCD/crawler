@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PANQUECA DE CARNE COM NOZES E CASTANHA DE CAJU",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 copos de leite integral",
+      "2 copos de trigo",
+      "2 ovos",
+      "queijo ralado",
+      "1 kg carne moida",
+      "1 cebola",
+      "4 dentes de alho",
+      "200 g azeitona fatiada",
+      "500 g molho tomate fervido",
+      "2 tomates picados",
+      "80 g nozes triturada",
+      "80 g castanha de caju triturada",
+      "queijo parmesão ralado grosso",
+      "sal, pimenta-do-reino, salsinha e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata leite, trigo, ovos, 1 colher de sal e 1 colher de queijo ralado no liquidificador.",
+      "Em uma frigideira com 1 fio de azeite em fogo médio, coloque 1 concha da massa e vá mexendo a frigideira até espalhar em toda area. Doure os 2 lados e reserve as massas.",
+      "Recheio",
+      "Refogue a carne moída com a cebola, alho, sal, pimenta do reino e temperos a gosto. Quando quase pronto, insira a azeitona, 2 conchas de molho fervido, tomates picados, as nozes e castanhas trituradas.",
+      "Montagem",
+      "Coloque 2 colheres de recheio sobre cada massa e enrole formando a panqueca. Sobre ela, coloque um pouco de molho fervido, queijo parmesão ralado grosso e castanhas pra decorar. Leve ao forno convencional ou microondas pra derreter o queijo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307338-panqueca-de-carne-com-nozes-e-castanha-de-caju.html"
+}

@@ -1,0 +1,48 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM BRIGADEIRO COMUM E BRIGADEIRO DE LEITE NINHO",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "2 xícaras de achocolatado",
+      "2 xícaras de água",
+      "2 xícaras de óleo",
+      "2 colheres (chá) de fermento",
+      " "
+    ],
+    "BRIGADEIRO DE LEITE NINHO": [
+      "1 colher (sopa) cheia de margarina",
+      "1 e 1⁄2 lata de leite condensado",
+      "5 a 6 colheres (sopa) cheias de leite em pó",
+      " "
+    ],
+    "BRIGADEIRO COMUM": [
+      "1 colher (sopa) cheia de margarina",
+      "1 e 1⁄2 lata de leite condensado",
+      "5 a 6 colheres (sopa) cheias de achocolatado ",
+      "1⁄2 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione 2 ovos, 1 xícara de açúcar e 1 xícara de achocolatado em uma vasilha média e misture.",
+      "Adicione 2 xícaras de farinha de trigo.",
+      "Ferva 1 xícara de água com 1 xícara de óleo. Misture na massa",
+      "Adicione 1 colher de fermento e mexa devagar;",
+      "Unte uma forma com margarina e farinha de trigo (de aproximadamente 32cm)",
+      "Coloque no forno em temperatura alta por 20 minutos.",
+      "Após colocar a primeira parte da receita no forno, repita o processo da massa e espere a outra ficar pronta.",
+      "Quando terminar de assar, retire e deixe esfriando. Coloque a outra receita, de preferência em outra forma, para assar, na mesma temperatura e mesmo tempo.",
+      "Quando a 2º massa estiver no forno, pegue uma panela, derreta 1 colher de margarina, adicione uma lata e meia de leite condensado e o leite em pó. Misture tudo, em fogo baixo até desgrudar do fundo.",
+      "Pegue outra panela, derreta 1 colher de margarina e adicione o restante do leite condensado e o achocolatado. Mexa até desgrudar do fundo da panela.",
+      "Retire a segunda massa do bolo, pegue o brigadeiro de sua escolha para colocar na primeira camada, vire a massa que estava esfriando por cima e adicione o outro brigadeiro."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "É importante deixar a massa esfriar para não quebrar na hora de virar.\nSe quiser, pincele as massas prontas com leite."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LIVIA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307081-bolo-de-chocolate-com-brigadeiro-comum-e-brigadeiro-de-leite-ninho.html"
+}

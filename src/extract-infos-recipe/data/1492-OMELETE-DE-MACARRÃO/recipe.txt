@@ -1,0 +1,33 @@
+{
+  "nome_receita": "OMELETE DE MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de macarrão ",
+      "100 g de bacon ",
+      "100 g de calabresa ",
+      "1 cebola pequena ",
+      "azeitona a gosto",
+      "100 g de frango desfiado",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão",
+      "Bata os ovos.",
+      "Misture todos os outros ingredientes (pique tudo)",
+      "Pincele uma frigideira com azeite ou óleo.",
+      "Coloque a mistura, vá balançando a frigideira pra não grudar.",
+      "Tampe pra cozinhar bem.",
+      "Vire em um prato e volte o outro lado pra frigideira.",
+      "Repita o processo até dourar.",
+      "Sirva quente.",
+      "Obs.: se a frigideira for pequena, divida a mistura em quantidades que caiba no fundo da frigideira."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308038-omelete-de-macarrao.html"
+}

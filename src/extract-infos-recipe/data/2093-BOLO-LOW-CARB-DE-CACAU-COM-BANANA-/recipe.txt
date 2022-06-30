@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO LOW CARB DE CACAU COM BANANA.",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "100 g de manteiga",
+      "100 g de farinha de coco",
+      "2 colheres (sopa) de farinha de maracujá",
+      "240 ml de leite de coco",
+      "4 colheres (sopa) de xilitol (a gosto)",
+      "1 banana",
+      "2 colheres (chá) de canela.",
+      "4 colheres (sopa) de cacau em pó 100%",
+      "2 colheres (chá) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe o fermento.",
+      "Bata todos os outros ingredientes no liquidificador.",
+      "Deve se ter uma massa homogênea.",
+      "Coloque o fermento, misture com uma colher (ou espátula de sua preferência).",
+      "Coloque numa forma",
+      "Leve ao forno por 40 minutos (isso pode variar muito de forno para forno)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "obs:\n1. Por se tratar de uma receita Low Carb é indicado forma de silicone.\n2. não acrescente mais bananas, pois é uma fruto com alto carboidrato.\n3. caso não queira colocar cacau, acrescente mais duas colheres (chá) de canela."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEATRIZ ADURA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306031-bolo-low-carb-de-cacau-com-banana.html"
+}

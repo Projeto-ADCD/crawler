@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE CASCA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 uma xícara de óleo",
+      "1 xícara de leite",
+      "3 colher de margarina",
+      "3 casca de banana",
+      "2 xícara de farinha de trigo",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as casca da banana no liquidificador junto com os ovos o leite e o óleo e a margarina até forma uma massa homogênea.",
+      "Em um recipiente misture a farinha de trigo com o açúcar e a mistura do liquidificador mechar até fica bem homogênea e depois misture o fermento em pó ",
+      "Unte uma forma com furo no meio com margarina e farinha de trigo coloque a massar para assar em forno preaquecido a 160° C de 30 a 45 minutos estará pronto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANIELY ANSELMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311466-bolo-de-casca-de-banana.html"
+}

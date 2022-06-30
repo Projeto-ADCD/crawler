@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BISNAGUINHA DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "200 ml de leite morno",
+      "1/2 lata de leite condensado",
+      "150 g de açúcar",
+      "5 g de sal",
+      "150 g de óleo",
+      "50 g de fermento biológico fresco",
+      "1 colher de cachaça ",
+      "1 kg farinha de trigo peneirada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe a farinha de trigo peneirada.",
+      "Os demais ingredientes bata no liquidificador por 2 minutos.",
+      "Despeje essa mistura em um bowl e vá acrescentando a farinha de trigo aos poucos,quando não for mais possível trabalhar na bacia tranferir para uma bancada enfarinhada.",
+      "Sove a massa por 10 a 15 minutos, deixe descansar por 40 minutos.",
+      "Após descansar abra a massa e modele as bisnaguinha.",
+      "Sugestão: Dividi em porções de 100 g, o que rendeu 15 pãezinhos,mas você pode dividir com os pesos desejado.",
+      "Apos modelar os pães,deixe descansar até dobrar de volume.",
+      "Passe gema com um pouco de leite sobre os pães, leve ao forno por 40 minutos ou até dourarem.",
+      "Após assados, faça uma calda de açúcar, pincele os pães e coloque açúcar granulado para decorar."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "THATA MAGALHÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310978-bisnaguinha-de-leite-condensado.html"
+}

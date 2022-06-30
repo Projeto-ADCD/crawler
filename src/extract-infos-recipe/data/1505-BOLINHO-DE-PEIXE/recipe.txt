@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLINHO DE PEIXE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de sobra de peixe assado ou refogado",
+      "1 xícara de cenoura ",
+      "1/2 cebola ",
+      "1 ovo",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 colher (chá) de sal",
+      "salsinha a gosto",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire os espinhos do peixe e desfie.",
+      "Se o peixe for assado, acrescente 2 colheres (sopa) de leite líquido para umedecer.",
+      "Misture bem todos os ingredientes deixando o fermento em pó por último (Pique a cebola e use a cenoura em cubinhos cozida)",
+      "Modele os bolinhos com as mãos molhadas para não grudar.",
+      "Frite em óleo quente.",
+      "Pode substituir a cenoura por batata ou vagem.",
+      "Se gostar acrescente uma folha de coentro picada."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NASCE O FLU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307983-bolinho-de-peixe.html"
+}

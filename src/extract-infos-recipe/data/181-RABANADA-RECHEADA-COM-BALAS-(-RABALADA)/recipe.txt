@@ -1,0 +1,26 @@
+{
+  "nome_receita": "RABANADA RECHEADA COM BALAS ( RABALADA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "18 balas mastigaveis",
+      "6 Pães Franceses cortados em 3 Fatias.",
+      "02 Ovos Grandes",
+      "3 Xícaras de leite",
+      "2 Gotas de Baunilha",
+      "Óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as fatias da Rabalada e coloque a bolinha no meio.",
+      "Passe as fatias no leite com Baunilha e depois nos ovos batidos.",
+      "Frite em óleo quente.",
+      "Cobertura pode ser de confeitos ou a tradicional Canela com açúcar.",
+      "* de preferência coloque as balas geladas para não derreteram rápido na feitura."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "JOHN WAYNE AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314063-rabanada-recheada-com-balas-rabalada.html"
+}

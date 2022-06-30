@@ -1,0 +1,31 @@
+{
+  "nome_receita": "DADINHOS DE TAPIOCA COM GELEIA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de tapioca granulada",
+      "500 ml de leite integral ",
+      "100 g de queijo parmesão ralado ",
+      "100 g de queijo meia cura ralado",
+      "noz moscada a gosto",
+      "sal a gosto",
+      "pimenta branca a gosto",
+      "geléia de morango Top Chef para acompanhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aqueça o leite.",
+      "Adicione então os queijos ralados e a farinha de tapioca aos poucos.",
+      "Mexa bem incorporando todos os ingredientes, cozinhando a massa por aproximadamente 8 minutos ou até que comece a desgrudar da panela. ",
+      "Acerte o sal e os temperos.",
+      "Espalhe a massa ainda quente sobre uma assadeira grande retangular untada com azeite. O ideal é que fique bem espalhada, deixando cerca de dois dedos de espessura. Cubra com plástico PVC e leve à geladeira para gelar por,  aproximadamente, 1 hora.",
+      "Retire a massa da geladeira, vire sobre uma superfície lisa e fatie em tiras de dois dedos de largura. Corte as tiras em  cubos, cuidando para que todos estejam do mesmo tamanho.",
+      "Frite os dadinhos em óleo bem quente até que fiquem dourados por fora. Também é possível assá-los por  cerca de 25 minutos a 200ºC até que fiquem bem sequinhos e dourados. ",
+      "Para ficar ainda mais gostoso, sirva ainda quente com a Geléia de morango Top Chef."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BIG",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312272-dadinhos-de-tapioca-com-geleia-de-morango.html"
+}

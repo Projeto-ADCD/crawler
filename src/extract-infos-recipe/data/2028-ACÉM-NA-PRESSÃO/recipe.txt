@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ACÉM NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de acém",
+      "500 g de bacon",
+      "3 cebolas picadas em rodelas",
+      "páprica a gosto",
+      "pimenta calabresa a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre o fundo da panela de pressão com uma parte da cebola picada em rodelas",
+      "Coloque o acém temperado sobre a cebola",
+      "Forre a carne com cebola",
+      "Leve a panela ao fogo por 30 minutos (depois da pressão)",
+      "Não precisa adicionar água, pois a cebola e a carne soltam água."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERT BOTELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306167-acem-na-pressao.html"
+}

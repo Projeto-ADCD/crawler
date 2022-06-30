@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BAIÃO DA CANASTRA COM ORA-PRO-NÓBIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "300g de bacon ",
+      "1 cebola média ",
+      "3 dentes de alho picado",
+      "1 colher (sopa) de banha de porco",
+      "300 g de linguiça de frango",
+      "1 pitada de sal",
+      "1 colher (sopa) de pimenta calabresa",
+      "4 xícaras (chá) de arroz cozido com cebola, alho e uma pitada de colorau",
+      "3 xícaras de feijão bolinha sem temperar",
+      "150 g de queijo da canastra meia cura",
+      "1/2 xícara (chá) de cheiro-verde picado",
+      "40 folhas de óra-pro-nóbis"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Importante que o feijão bolinha tenha ficado de molho 10 horas, com uma troca de água.",
+      "Cozido por 8 minutos assim que a panela de pressão começar a chiar, abaixe o fogo.",
+      "Coloque apenas 3 folhas de louro na água.",
+      "Primeiro frite em uma frigideira a linguiça de frango em uma colhes de banha bem quente e reserve.",
+      "Em uma panela wonk frite o bacon picado",
+      "Quando começar a dourar coloque a banha de porco",
+      "Acrescente a cebola picada e o alho e frite até a cebola ficar transparente",
+      "Acrescente a linguiça cortada em rodelas de 5 mm e frite bem na wonk",
+      "Misture tudo por exatamente 3 minutos",
+      "Acrescente uma pitada de sal",
+      "Acrescente a pimenta calabresa",
+      "Coloque o arroz e misture bem por 1 minuto",
+      "Coloque o feijão sem caldo e mexa cuidadosamente",
+      "Acrescente o queijo da canastra, envolva os cubinhos com a mistura para que ele comece a derreter",
+      "Coloque o cheiro-verde.",
+      "Pique as folhas de ora-pro-nóbis com as mãos, dividindo em 3 pedaços e média, misture uma vez com os ingredintes, abaixe o fogo no minimo, tampe a wonk, espere 1 minuto e desligue.",
+      "Coloque no prato usando um pegador de metal, frite um ovo mole, coloque por cima, e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WAGNER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307786-baiao-da-canastra-com-ora-pro-nobis.html"
+}

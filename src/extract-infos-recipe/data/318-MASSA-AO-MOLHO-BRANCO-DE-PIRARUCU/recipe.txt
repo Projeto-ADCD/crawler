@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MASSA AO MOLHO BRANCO DE PIRARUCU",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de pirarucu seco ou salgado",
+      "200 ml de leite",
+      "2 dentes de alho picado",
+      "1 colher de sopa de trigo sem fermento",
+      "1/2 cebola picada",
+      "1/2 pacote de macarrão",
+      "sal a gosto",
+      "pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o pirarucu em pedaços pequenos e coloque para cozinhar (enfie um garfo nele e se estiver molinho ou querendo se soltar, já está cozido).",
+      "Em seguida, cozinhe o macarrão. Em outra panela, coloque o alho e a cebola picados para dourar, depois adicione o leite e uma colher de trigo para o molho encorpar, com uma pitada de sal e pimenta do reino. Quando o molho estiver meio grosso, adicione o pirarucu já desfiado e mexa por mais 3 minutos.",
+      "Depois, misture o molho ao macarrão e sirva ainda quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: para desfiar o pirarucu basta ficar amassando debaixo de água corrente, dentro de um escorredor, com cuidado para não se queimar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ERICA SUAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313184-massa-ao-molho-branco-de-pirarucu.html"
+}

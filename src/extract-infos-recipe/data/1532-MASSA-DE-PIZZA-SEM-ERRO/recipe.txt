@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MASSA DE PIZZA SEM ERRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 g de fermento seco para pizza",
+      "1 xícara de água morna",
+      "1 colher (sopa) de açúcar aproximadamente",
+      "sal a gosto (eu uso uma colher bem pequena, tipo chá)",
+      "500 g de farinha de trigo aproximadamente",
+      "5 a 7 colheres de óleo ou azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um recipiente primeiro o sal, o açúcar e o fermento.",
+      "Acrescente água morna, tem que ser morna.",
+      "Deixe por aproximadamente 5 minutos fazendo o efeito do fermento.",
+      "Num outro recipiente misture a farinha de trigo com o óleo ou azeite ao seu critério uma opção apenas.",
+      "Passando o tempo do fermento agir você acrescenta ele junto a massa misturando com uma colher,",
+      "Pode ficar mole a massa e grudando na colher. Não se preocupe!",
+      "Transfira pra um lugar aonde possa sovar a massa se necessario pode colocar mais um pouco de farinha, depende da umidade de cada farinha.",
+      "Sove a massa até ela desgrudar da mão.",
+      "Coloque numa bacia cubra com pano de prato ou filme e deixe descansar por uns 50 minutos 1 hora",
+      "Assim que ela estiver bem grande você abre a massa num tabuleiro.",
+      "Não esquece de fura com o garfo.",
+      "Leve no forno já aquecido por uns 10 minutos.",
+      "Tire, recheie da sua forma e volte para o forno até o queijo derreter.",
+      "Gente essa massa não tem erro.",
+      "Fica ótima.",
+      "Dica. Se o seu estado estiver frio, aqueça o forno por uns 3 a 5 minutos e coloca a massa pra descansar dentro do forno aquecido não quentão tá, só aquecido.",
+      "Essa dica também serve pra quem quer acelerar o crescimento da massa."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MICHELE MIRANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307826-massa-de-pizza-sem-erro.html"
+}

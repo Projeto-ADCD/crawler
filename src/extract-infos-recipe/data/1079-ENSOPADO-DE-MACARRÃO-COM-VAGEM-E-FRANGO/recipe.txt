@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ENSOPADO DE MACARRÃO COM VAGEM E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de macarrão parafuso ou penne",
+      "700 g de sobrecoxa de frango ou coxa sem pele",
+      "300 g de vagem cortada ao comprimento e partida em 3 partes",
+      "1 cebola grande picada",
+      "2 dentes de alho picada",
+      "1 folha de louro",
+      "1 colher (café) de curry",
+      "1 colher (sopa) de óleo",
+      "2 litros de água aproximadamente",
+      "1/2 colher (café) de bicabornato",
+      "sal e pimenta-do-reino a gosto",
+      "1 colher (sopa) rasa de colorau, massa de tomate ou páprica doce"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela alta coloque o óleo a cebola, louro e o alho e doure.",
+      "Acrescente as sobrecoxas, sal, pimenta, curry e o colorau refogue ",
+      "Depois de refogado coloque a água e deixe fervendo por 5 minutos",
+      "Após isso coloque o bicabornato, macarrão e a vagem e deixe cozinhar por 15 minutos e tá pronto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas:\nTire a pele do frango se desejar menos gordura no caldo.\nColoque agua quente (essa água não esta na receita) com limão se desejar tirar o cheiro forte do frango e escorra antes de levar ao fogo.\nO bicabornato ao colocar na panela ela sobre com o caldo, cuidado para não entorna.\nDepois de frio o caldo diminui, tenha sempre um pouco de agua quente, caso necessite de ter mais caldo para colocar nesse ensopado.\nPode ser feito também com frango a passarinho no lugar de sobrecoxa ou coxa."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310042-ensopado-de-macarrao-com-vagem-e-frango.html"
+}

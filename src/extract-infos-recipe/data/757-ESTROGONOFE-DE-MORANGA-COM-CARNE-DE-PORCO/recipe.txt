@@ -1,0 +1,41 @@
+{
+  "nome_receita": "ESTROGONOFE DE MORANGA COM CARNE DE PORCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 dentes de alho",
+      "1 lata de milho verde",
+      "1 creme de leite",
+      "1 sachê de cogumelos (pique ao meio caso seja grande)",
+      "1 lata de palmito (em cubos)",
+      "1 cebola de cabeça",
+      "1 kg de carne de porco (pernil traseiro em cubos)",
+      "1 de colher (sopa) de azeite",
+      "700 g de bacon em cubos",
+      "1/2 moranga média",
+      "sal a gosto",
+      "orégano",
+      "salsa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a casca e cozinhe a moranga com sal e tempero que desejar",
+      "Após cozinhar, separe a água e a moranga em uma vasilha (não jogue a água fora pois iremos adiciona-la no molho, em torno de 150 ml)",
+      "Coloque a moranga na batedeira, e bata adicionando a água que separamos e o creme de leite",
+      "Bata por 5 minutos até virar um creme (caso ainda esteja grosso, adicione mais creme de leite)",
+      "Pegue o alho e acebola e pique em rodelas ou quadradinhos.",
+      "Em uma panela grossa em fogo baixo, adicione o azeite e doure a cebola e o alho",
+      "Após dourar, adicione a moranga, cogumelo, palmito, milho verde e mexa bem e desligue quando começar a ferver",
+      "Em uma panela grossa, adicione o bacon, mexa por 5 minutos e adicione a carne",
+      "Quando a carne começar a fritas, adicione 100ml de água e deixe cozinhar e fritar novamente",
+      "Deixa até o ponto que desejar, desligue, separe a gordura da carne",
+      "Ligue a panela que está a moranga, despeje a carne e mexa por 5 minutos",
+      "Coloque em uma travessa, decore com salsa e orégano e sirva-se",
+      "Sirva com arroz e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DAVID ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311698-estrogonofe-de-moranga-com-carne-de-porco.html"
+}

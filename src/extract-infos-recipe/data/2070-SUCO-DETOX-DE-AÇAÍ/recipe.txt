@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DETOX DE AÇAÍ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "1 folha de couve manteiga",
+      "1/2 copo de água de coco",
+      "1/2 fatia de abacaxi",
+      "1 colher (sopa) de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte uma fatia de abacaxi.",
+      "Lave e fatie a couve.",
+      "Bata todos os ingredientes no liquidificador ou mixer até ficarem com uma consistência homogênea.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306094-suco-detox-de-acai.html"
+}

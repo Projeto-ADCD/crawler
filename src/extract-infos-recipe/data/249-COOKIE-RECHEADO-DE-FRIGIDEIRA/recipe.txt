@@ -1,0 +1,34 @@
+{
+  "nome_receita": "COOKIE RECHEADO DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de margarina",
+      "1/2 xícara de açúcar refinado",
+      "1 xícara de açúcar mascavo",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "2 ovos inteiros",
+      "1 colher (café) de sal",
+      "1 colher (chá) de essência de baunilha",
+      "1/2 colher (sopa) de bicarbonato de sódio",
+      "1/2 xícara de nozes, amêndoas, avelãs ou amendoim",
+      "250 g de chocolate meio amargo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece misturando bem os açúcares com a margarina até ficar homogêneo",
+      "Acrescente os ovos, a essência de baunilha e o sal",
+      "Aos poucos, incorpore a farinha mexendo devagar sem trabalhar demais a massa",
+      "Por último, incorpore as nozes e o bicarbonato. Leve a massa para a geladeira para descansar por 30 minutos",
+      "Em uma frigideira ou assadeira que possa ir ao forno (cerca de 18cm) adicione metade da massa, abrindo-a pelos fundos e laterais",
+      "Distribua o chocolate por cima de toda a massa. Você pode rechear com mais nozes ou outros tipos de chocolate da sua preferência",
+      "Abra a outra metade da massa e coloque por cima do chocolate, tampando o cookie",
+      "Leve ao forno preaquecido a 180° C para assar por volta de 25 minutos",
+      "Sirva ainda quente com sorvete"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CLAYBOM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313726-cookie-recheado-de-frigideira.html"
+}

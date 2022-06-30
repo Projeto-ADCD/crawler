@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ DE TALOS DE BRÓCOLIS À MODA DO BESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g arroz",
+      "talos de brócolis",
+      "150 g bacon picadinho",
+      "250 g frango em cubinhos temperado com sal e ervas no dia anterior",
+      "1/2 pimentão picadinho",
+      "1/2 cebola picadinha",
+      "1 tomate sem pele picadinho",
+      "4 dentes de alho ralado ou picadinho",
+      "azeite de oliva",
+      "pimenta caiena e/ou páprica picante a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola no azeite",
+      "Acrescente o bacon picadinho",
+      "Quando estiver mais crocante, acrescente o frango e deixar por uns 3 min no fogo",
+      "Mexa um pouco, coloque o pimentão e o tomate e deixe no fogo por mais uns 2 minutos",
+      "Coloque o arroz e misture tudo para, então, colocar aproximadamente o dobro de água quente",
+      "Acrescente as pimentas a gosto, mexa tudo e verifique o sal",
+      "Quando o arroz estiver no meio da cozedura, acrescente os talos de brócolis picados ou inteiros, misture e espere secar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não deixe secar demais."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LALO COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312709-arroz-de-talos-de-brocolis-a-moda-do-bessa.html"
+}

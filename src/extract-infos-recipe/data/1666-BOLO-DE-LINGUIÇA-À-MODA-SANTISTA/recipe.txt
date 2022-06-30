@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE LINGUIÇA À MODA SANTISTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 kg de linguiça fresca de pernil destrinchada",
+      "1 cabeça de alho",
+      "2 pimentões verdes grandes ",
+      "3 cebolas grandes ",
+      "4 ovos cozidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Destrinche a carne das linguiças retirando as tripas e misture bem com o pimentão, a cebola e o alho, todos picados de forma a ficarem distribuídos igualmente por toda a carne.",
+      "Não é necessário temperar, pois a linguiça já é temperada.",
+      "Em uma assadeira, faça uma base do bolo com a carne já misturada.",
+      "A seguir, coloque os 4 ovos cozidos dispostos sobre esta base e complete com carne em volta, formando um bolo do tipo rocambole.",
+      "Coloque um pouco de água na assadeira para não grudar, não sendo necessário colocar óleo ou azeite, porque a linguiça soltará gordura.",
+      "Cubra a assadeira com papel-alumínio (com a parte brilhante para dentro), e leve ao forno por 1 hora.",
+      "Passado esse tempo, retire o papel-alumínio e coloque de volta ao forno por mais meia hora para gratinar, imerso no molho que se formou.",
+      "Caso o molho esteja secando coloque mais água.",
+      "Sirva com arroz branco e farofa."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "OMAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307232-bolo-de-linguica-a-moda-santista.html"
+}

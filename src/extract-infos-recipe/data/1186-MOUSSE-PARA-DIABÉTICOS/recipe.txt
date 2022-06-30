@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE PARA DIABÉTICOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gelatinas sem açúcar de qualquer sabor",
+      "100 ml de água quente",
+      "500 ml de leite desnatado",
+      "1 xícara de leite",
+      "1 colher de amido de milho ",
+      "1 colher de margarina light"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água quente no liquidificador, acrescente as gelatinas , bata e acrescente o leite desnatado e bata mais.",
+      "Agora em outra panela coloque 1 xícara de leite desnatado, dissolva 1 colher de amido de milho, ligue o fogo em seguida coloque 1 colher de margarina light e esquente até ficar igual um creme de leite",
+      "Deixe a mistura esfriar e jogue no liquidificador e bata",
+      "Agora coloque num refratário de vidro e deixe esfriar na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GLITTER MOON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309466-mousse-para-diabeticos.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SANDUÍCHE FIDALGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão de forma em fatias",
+      "4 ovos cozidos",
+      "100 g de uvas passas ",
+      "2 colheres (sopa) de ketchup",
+      "1 colher (chá) de molho inglês",
+      "1 colher (sopa) de salsa picadinha",
+      "1 pitada de sal",
+      "100 g de manteiga",
+      "2 colheres (sopa) de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os ovos e separe as gemas das claras",
+      "Passe as gemas pela peneira e misture com o ketchup, salsa, queijo e molho inglês.",
+      "Tempere com sal, junte as passas moídas e acrescente manteiga até conseguir uma pasta cremosa.",
+      "Recheie os sanduíches e corte do feitio desejado.",
+      "Obs: As claras que sobraram podem ser aproveitadas numa pasta: 4 claras cozidas, 100 g de picles, 50 g de azeitonas verdes, 1 colher de chá de mostarda em pasta, 1 lata de sardinha, manteiga, salsa picadinha, sal e pimenta do reino.",
+      "Esmague as claras com um garfo até ficarem desfeitas, pique os picles e azeitonas, limpe as sardinhas e amasse.",
+      "Misture, tempere com sal, salsa, pimenta, mostarda, e vá juntando manteiga até formar uma pasta leve e cremosa.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309643-sanduiche-fidalgo.html"
+}

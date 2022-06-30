@@ -1,0 +1,52 @@
+{
+  "nome_receita": "PÃO RECHEADO DE ESCAROLA DA CAMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de fermento fresco para pão ou 3 colheres (sopa) de fermento biológico seco (30 g)",
+      "1 colher (sopa) de açúcar",
+      "1 colher (sobremesa) de sal",
+      "1 copo (americano) de água morna ",
+      "1 copo (americano) de leite",
+      "1 copo (americano) de óleo de soja",
+      "1 ovo",
+      "1 kg de farinha ou até dar o ponto",
+      "Recheio",
+      "100 g de mussarela",
+      "100 g de bacon picado e frito",
+      "3 xícaras (chá) de escarola fatiada fina",
+      "2 dentes de alho",
+      "2 colheres (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Leve ao fogo uma panela com o bacon picado e o óleo, frite bem.",
+      "Acrescente o alho picadinho e deixe dourar.",
+      "Acrescente a escarola.",
+      "Misture bem.",
+      "Coloque sal a gosto.",
+      "Reserve.",
+      "Importante: coloque a escarola já refogada num escorredor ou numa peneira para deixar bem sequinha. Deixe esfriar.",
+      "Pão:",
+      "Junte todos os ingredientes na ordem apresentada, menos a farinha.",
+      "Misture bem.",
+      "Acrescente a farinha aos poucos até que a massa esteja macia e não grude nas mãos.",
+      "Sove por 5 minutos.",
+      "Deixe descansar coberta por um plástico por 20 minutos.",
+      "Após esse tempo, leve a massa à bancada, divida em 2 partes e abra com o rolo.",
+      "Deposite o recheio até metade da massa, começando pela mussarela fatiada:",
+      "Mussarela e a escarola refogada.",
+      "Enrole a massa sobre o recheio, pincele um pouco de água nas laterais e no final do rocambole para fechar a massa.",
+      "Pincele com ovo e leve ao forno a 180° por aproximadamente 25 minutos ou até dourar.",
+      "Bom apetite."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Esse recheio pode ser substituído por mussarela com presunto e tomate, por mussarela com bacon, frango cozido e desfiado com requeijão cremoso, mussarela com goiabada ou qualquer outro recheio que sua imaginação criar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CAMILA IYASINU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307499-pao-recheado-de-escarola-da-camila.html"
+}

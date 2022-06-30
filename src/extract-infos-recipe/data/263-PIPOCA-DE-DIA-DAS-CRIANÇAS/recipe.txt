@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PIPOCA DE DIA DAS CRIANÇAS",
+  "ingredientes": {
+    "PIPOCA DE MORANGO": [
+      "2 xícaras de óleo ",
+      "2 e 1/2 colheres (sopa) de açúcar ",
+      "3 colheres (sopa) de Nesquik ",
+      "1 xícara de milho para pipoca "
+    ],
+    "PIPOCA DE CHURROS ": [
+      "1/2 xícara de manteiga ",
+      "1 xícara de açúcar mascavo ",
+      "4 colheres (sopa) de glucose de milho ",
+      "2 colheres (chá) de canela em pó ",
+      "1 pitada de sal ",
+      "1/2 colher (chá) de bicarbonato de sódio ",
+      "1 xícara de milho para pipoca "
+    ]
+  },
+  "passos": {
+    "PIPOCA DE MORANGO ": [
+      "Junte o óleo e o açúcar na panela ",
+      "Mexa e junte o Nesquik",
+      "Coloque o milho e mexa de novo",
+      "Quando começar a pipocar, tampe e mexa bem para não colar no fundo"
+    ],
+    "PIPOCA DE CHURROS ": [
+      "Junte a manteiga, o açúcar e a glucose",
+      "Mexa e junte a canela, o sal, o bicarbonato e, por fim, o milho",
+      "Mexa bem e quando começar a pipocar, tampe e sacuda bem",
+      "Desligue o fogo e sirva quando parar de estourar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313607-pipoca-de-dia-das-criancas.html"
+}

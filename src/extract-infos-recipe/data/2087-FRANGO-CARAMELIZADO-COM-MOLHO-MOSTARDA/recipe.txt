@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FRANGO CARAMELIZADO COM MOLHO MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango inteiro e sem osso",
+      "4 colheres (sopa) de azeite de oliva",
+      "2 dentes de alho",
+      "1 cebola ralada",
+      "1 colher (cha) rasa de açúcar",
+      "1 colher (cha) rasa de curry",
+      "200 ml de água",
+      "2 colheres (sopa) de mostarda",
+      "sal a gosto",
+      "pimenta calabresa a gosto",
+      "cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o alho, acrescente uma colher (chá) de sal e esmague, criando uma pasta",
+      "Corte o frango em cubos e acrescente a pasta de alho e sal",
+      "Em uma panela aqueça o azeite de oliva e acrescente o frango",
+      "Quando o frango começar a dourar coloque em um canto da panela e acrescente a cebola ralada",
+      "Quando a cebola ficar dourada misture com o frango",
+      "Quando a cebola começar a grudar no fundo da panela acrescente o açúcar e 100 ml de água",
+      "Mexendo até desgrudar todo o fundo da panela",
+      "Tampe a panela e deixei secar até começar a grudar o fundo novamente",
+      "Acrescente mais 100 ml de água, a mostarda, o curry e a pimenta (se necessário corrija o sal) mexa e tampe a panela",
+      "Espere até o molho estar bem grosso e desligue a panela",
+      "Ascrescente o cheiro-verde e sirva",
+      "O prato serve duas pessoas"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "BRUNA EMANUELE MULLER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306052-frango-caramelizado-com-molho-mostarda.html"
+}

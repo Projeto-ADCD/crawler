@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SOPA DE BETERRABA SOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 beterrabas, talos e folhas",
+      "3 batatas pequenas",
+      "1 cebola grande",
+      "2 dentes de alho",
+      "2 colheres azeite",
+      "2 litros de agua",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as beterrabas com uma esponja, coloque para cozinhar com casca em dois litros de água por 10 minutos, enquanto cozinha, lave bem os talos e folhas, corte em pedaços delicados.",
+      "Refogue o alho e a cebola com o azeite.",
+      "Corte as batatas em pequenos pedaços e junte ao refogado.",
+      "Descasque as beterrabas e junto ao refogado.",
+      "Acrescente ao refogado 1 litro da água da beterraba, sal e pimenta-do-reino e deixe cozinhar por 10 minutos na pressão.",
+      "Quando pronto, adicione os talos e folhas, apenas para dar uma leve cozida, um susto.",
+      "Pronto a deliciosa sopa"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SORAIA SALLES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312067-sopa-de-beterraba-soso.html"
+}

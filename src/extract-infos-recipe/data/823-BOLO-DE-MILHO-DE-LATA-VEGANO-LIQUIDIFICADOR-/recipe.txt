@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MILHO DE LATA VEGANO (LIQUIDIFICADOR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho (sem o líquido)",
+      "1 lata de leite vegetal (medida da lata de milho)",
+      "1/2 lata de açúcar demerara (medida da lata de milho)",
+      "1 lata de fubá (medida da lata de milho)",
+      "1/2 lata de óleo de coco/soja (medida da lata de milho)",
+      "1 e 1/2 colher (sopa) de fermento em pó",
+      "óleo para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escorra o milho e reserve a lata para as medidas.",
+      "Unte a forma",
+      "Preaqueça o forno a 200°C",
+      "Coloque o milho escorrido no liquidificador, o leite vegetal, açúcar, fubá, óleo e bata bem até que o milho fique bem moído.",
+      "Acrescente o fermento em pó e pulse o liquidificador algumas vezes.",
+      "Despeje a massa na forma e leve ao forno.",
+      "Deixe assar por, aproximadamente, 30 minutos.",
+      "Faça o teste do palito e observe um tom amarelo médio, para saber que o bolo está pronto.",
+      "Espere esfriar e pronto! "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WAGANDRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311419-bolo-de-milho-de-lata-vegano-liquidificador.html"
+}

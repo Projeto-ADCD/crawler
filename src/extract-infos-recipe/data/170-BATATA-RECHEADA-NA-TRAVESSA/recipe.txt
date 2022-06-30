@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BATATA RECHEADA NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 kg de batata",
+      "3 colheres (sopa) de manteiga",
+      "1 a 3 colheres (sopa) de leite",
+      "sal",
+      "pimenta",
+      "temperos a gosto",
+      "300 g de muçarela",
+      "250 g de bacon em cubos",
+      "1 xícara (chá) de requeijão",
+      "1 pacote de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e cozinhe em água fervente até ficarem macias. Passe por um espremedor. Misture a manteiga e, se preciso, um pouco de leite para ficar um purê liso. Tempere com o sal, a pimenta e os temperos desejados. ",
+      "Frite o bacon em uma frigideira anti-aderente até dourar. Em uma travessa, faça a seguinte montagem: metade do purê, queijo ralado, bacon, mais purê, requeijão e batata palha. ",
+      "Leve para gratinar no forno em temperatura média (180 °C) por aproximadamente 20 minutos ou até borbulhar. ",
+      "Sirva como acompanhamento do Natalliz e Feliz Natal!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314091-batata-recheada-na-travessa.html"
+}

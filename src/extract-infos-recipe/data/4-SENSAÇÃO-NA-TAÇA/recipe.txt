@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SENSAÇÃO NA TAÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de água quente",
+      "1 pacote de gelatina de morango",
+      "1 caixa de creme de leite",
+      "100 g de chocolate meio amargo",
+      "chocolate meio amargo a gosto para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a água com a gelatina de morango ",
+      "Coloque a taça em uma forma, com o auxílio de um pano de prato (como no vídeo)",
+      "Encha até a metade com a mistura da gelatina ",
+      "Leve à geladeira por 2 horas ",
+      "Enquanto isso, em uma panela, coloque o creme de leite ",
+      "Junte o chocolate meio amargo e misture ",
+      "Espere amornar, complete as taças e sirva",
+      "Finalize com as raspas de chocolate a gosto"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316944-sensacao-na-taca.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CREME DE CEBOLA COM GORGONZOLA E CALABRESA PARA FOUNDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de manteiga",
+      "50 g de farinha de trigo",
+      "1 cebola grande em brunoise",
+      "800 ml de leite",
+      "125 ml de vinho branco",
+      "250 g de queijo gorgonzola",
+      "250g de Mussarela",
+      "1 linguiça calabresa (+/- 250 g) picada em cubos pequenos",
+      "pão italiano picado em cubos",
+      "sal o quanto baste",
+      "noz moscada o quanto baste",
+      "pimenta branca moída o quanto baste",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a calabresa picada, sem necessidade de óleo. Deixe bem sequinha e reserve.",
+      "Em outra panela, em fogo de médio para baixo, refogue a cebola picada em metade da manteiga e com uma colher de sopa de azeite, até que a cebola comece a ficar transparente.",
+      "Adicione o restante da manteiga e a farinha de trigo, e mexa sempre com um fouet. Você iniciará o processo para um molho bechamel (manteiga, farinha de trigo e leite) com cebola.",
+      "Adicione aos poucos o vinho branco, alternando aos poucos com o leite, mexendo sempre com o fouet. A cada porção adicionada, mexa até que o liquido se incorpore, e então adicione nova porção. Aos poucos passará do estado de massa para creme.",
+      "Se perceber que o bechamel está tomando uma consistência muito liquida, não é necessário adicionar todo o leite.",
+      "Adicione o queijo gorgonzola e a mussarela, e siga mexendo levemente até que sejam incorporados ao creme.",
+      "Deixe cozinhar por mais 15 a 20 minutos em fogo baixo, mexendo um pouco de minutos em minutos.",
+      "Adicione a noz moscada, sal e pimenta branca, conforme seu gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva em uma vasilha única ou panela de founde. Coloque o pão em cubos em vasilha à parte. Em pratinhos individuais, distribua a calabresa grelhada.\nOs convidados podem espetar o pão, molhar no creme e passar sobre a calabresa.\nVai muito bem acompanhada por vinho branco. Serve 4 pessoas."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARCOS MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312757-creme-de-cebola-com-gorgonzola-e-calabresa-para-founde.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CANECA SABOR GOIABADA ZERO GLUTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fatia grande de goiabada cortada em cubos",
+      "2 colheres (sopa) de farinha de arroz",
+      "1 colher (sopa) de açúcar ou equivalente em adoçante",
+      "1 colher (sopa) de amido de milho (maizena)",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) de óleo de soja",
+      "1 ovo",
+      "1/2 colher (chá) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes menos o fermento químico em uma caneca grande.",
+      "uiPor ultimo acrescente a goiabada a gosto, cortada em cubos e o fermento e misture.",
+      "Coloque no micro-ondas na potencia alta por 2 minutos e 30 segundos."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THARCISIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312448-bolo-de-caneca-sabor-goiabada-zero-gluten.html"
+}

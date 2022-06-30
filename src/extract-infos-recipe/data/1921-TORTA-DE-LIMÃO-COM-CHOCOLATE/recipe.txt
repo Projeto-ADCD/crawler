@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE LIMÃO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito de maisena",
+      "4 colheres (sopa) de manteiga (derretida )",
+      "400 g de chocolate ao leite (derretido )",
+      "200 g de creme de leite",
+      "1 xícara de suco de limão",
+      "1 envelope de gelatina sem sabor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o biscoito (até deixar ele como uma farinha)",
+      "Em um recipiente misture manteiga com o biscoito (triturado)",
+      "Coloque essa mistura em uma forma para torta",
+      "Leve ao forno a 180° C por 10 minutos",
+      "Misture o chocolate a manteiga, creme de leite e coloque na forma (leve ao congelador por 20 minutos)",
+      "Em um recipiente coloque leite condensado, creme de leite, suco de limão e a gelatina",
+      "Bata no liquidificador, coloque na forma e leve ao congelador por 20 minutos",
+      "Raspe limão em cima é pronto"
+    ]
+  },
+  "tempo_de_preparo": "1060 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LUANNA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306433-torta-de-limao-com-chocolate.html"
+}

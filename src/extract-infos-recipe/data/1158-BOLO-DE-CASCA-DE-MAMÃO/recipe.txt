@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE CASCA DE MAMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "1 e 1/2 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "3 xícaras de água",
+      "2 ovos",
+      "1 colher de fermento",
+      "cascas de um mamão formosa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque 1 mamão formosa (ou 2 papayas) e ferva as cascas em 3 xícaras de água por 15 minutos",
+      "Bata as cascas com a água no liquidificador até ficar homogêneo",
+      "Peneire o líquido de modo a retirar qualquer tipo de fibra",
+      "Preaqueça o forno por 10 minutos a 180º C",
+      "Bata no liquidificador o açúcar, os ovos, o óleo e uma xícara da líquido",
+      "Numa vasilha junte os líquidos com a farinha e o fermento, misture até ficar homogêneo",
+      "Despeje a massa no tabuleiro e leve ao forno por 50 minutos a 180º C",
+      "Espete o bolo com um garfo e só retire quando sair seco"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observações:\nDê preferência à mamões orgânicos, assim a casca não vai estar cheia de agrotóxicos.\nSe sobrar um pouco da vitamina de mamão, você pode bebê-la com um pouco de açúcar.\nVocê pode regar o bolo com ½ xícara de \"vitamina de mamão\" (o suficiente para ficar molhado) e guardar na geladeira, assim será um bolo gelado. Fica muito bom também."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GUILHERME GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309558-bolo-de-casca-de-mamao.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FRAPÊ DE CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de café-solúvel",
+      "1 forma de gelo",
+      "4 bolas de sorvete de creme",
+      "1/2 xícara de água",
+      "chantilly e café-solúvel para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite condensado com o café-solúvel, o gelo e 1/2 xícara de água.",
+      "Coloque as bolas de sorvete em copos altos.",
+      "Cubra-as com a mistura batida e decore decore com o chantilly e o café-solúvel reservado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIEL FORTUNATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311648-frape-de-cafe.html"
+}

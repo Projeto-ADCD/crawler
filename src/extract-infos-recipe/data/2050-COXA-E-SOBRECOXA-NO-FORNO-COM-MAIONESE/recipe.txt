@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COXA E SOBRECOXA NO FORNO COM MAIONESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa e sobrecoxa de frango",
+      "3 colheres (sopa) de maionese",
+      "3 dentes de alho grande amassado",
+      "1 colher (sopa) de chumichurry",
+      "1 pitada de curry",
+      "sal a gosto",
+      "1 colher (chá) de açafrão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente leva o frango e a maionese",
+      "Acrescente os temperos e misture bem",
+      "Deixe marinando na geladeira por no mínimo 2 horas",
+      "Leva todo o frango para uma assadeira",
+      "Forno preaquecido a 180° C por 60 minutos ou até dourar",
+      "Para acompanhar arroz refogado e farofa"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TAYANNE QUÍVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306121-coxa-e-sobrecoxa-no-forno-com-maionese.html"
+}

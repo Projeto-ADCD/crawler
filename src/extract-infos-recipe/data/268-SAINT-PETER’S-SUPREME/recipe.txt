@@ -1,0 +1,46 @@
+{
+  "nome_receita": "SAINT PETER’S SUPREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "1200 g de Filé de Saint Peter",
+      "400 g de camarão médio com casca, sem cabeça, pré-cozido;",
+      "1 limão;",
+      "1 cebola média ralada;",
+      "1 colher de sopa de estragão fresco",
+      "2 dentes de alho picados;",
+      "400 ml de molho de tomate;",
+      "2 colheres de sopa de azeite;",
+      "½ pimenta dedo-de-moça picada;",
+      "1 buquê garni;",
+      "3 colheres de sopa de vinagre balsâmico;",
+      "2 colheres de sopa de mel;",
+      "200 ml de leite de coco;",
+      "1 colher de sopa de farinha de trigo;",
+      "Cheiro verde à gosto",
+      "Sal à gosto;",
+      "Pimenta do Reino de moinho à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os filés de Saint Peter ao meio no sentido longitudinal e tempere-os com limão, sal, pimenta do reino e estragão fresco. Deixe marinar por 30 minutos.",
+      "Em uma panela refogue bem a cebola, o alho e a pimenta dedo de moça no azeite.",
+      "Junte o molho de tomate.",
+      "Acrescente o mel e o vinagre balsâmico.",
+      "Corrija o sal e coloque o bouquet garni.",
+      "Tampe a panela e cozinhe por 30 minutos.",
+      "Dissolva o leite de côco em uma colher de farinha de trigo e reserve.",
+      "Enrole os filés de Saint Peter coloque-os numa forma pirex espaçados, no centro de cada “rolinho” coloque um camarão com o rabo para cima.",
+      "Verta na forma pirex o molho de tomate, sem cobrir totalmente os “rolinhos”.",
+      "No espaço central dos rolinhos preencha com o leite de côco.",
+      "Salpique o cheiro-verde",
+      "Leve ao forno, pré-aquecido à 250ºC por 25 minutos.",
+      "Desligue o forno e gratine no grill elétrico por 10 minutos.",
+      "Retire do forno e sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CARLOS HENRIQUE DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313575-saint-peters-supreme.html"
+}

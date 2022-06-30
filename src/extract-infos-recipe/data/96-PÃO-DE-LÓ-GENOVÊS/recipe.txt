@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE LÓ GENOVÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos em temperatura ambiente",
+      "1 xícara de açúcar refinado",
+      "2 xícaras de farinha de trigo peneirada",
+      "1/2 colher (sopa) de fermento químico em pó",
+      "1 pitada de sal",
+      "1/2 colher (chá) de vinagre branco",
+      "1/2 colher (chá) de extrato de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte com manteiga uma forma redonda de 23 cm de diâmetro, coloque papel-manteiga no fundo e unte também com manteiga, ou unte a forma com spray desmoldante",
+      "Preaqueça o forno a 200º C",
+      "Num recipiente, misture a farinha com o fermento em pó e reserve",
+      "Na batedeira, bata os ovos por uns 4 ou 5 minutos, até formar uma gemada espumosa e clara",
+      "Junte o açúcar e bata por mais 8 minutos, para conseguir um creme leve e super aerado, como uma espuma",
+      "Junte a baunilha e o vinagre e bata por mais 1 minuto para incorporar bem",
+      "Peneire a mistura de farinha e fermento por cima e misture manualmente de forma delicada, com uma colher grande, fazendo movimentos do fundo da tigela para cima, sem bater",
+      "Repita o processo até que toda a farinha seja incorporada à massa, mas sem perder a textura espumosa",
+      "Passe a massa para a forma preparada e leve ao forno por cerca de 35 minutos. Faça sempre o teste do palito",
+      "Retire o bolo do forno e deixe esfriar dentro da forma por uns 20 minutos",
+      "Desenforme o bolo, descarte o papel-manteiga e deixe esfriar completamente"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUIS ARRUDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314488-pao-de-lo-genoves.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "GRATINADO DE MANDIOCA E CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca descascada, cozida e espremida ou amassada",
+      "2 xícaras de leite",
+      "sal a gosto",
+      "1/2 caixa de creme de leite (100 g)",
+      "300 g de camarões limpos",
+      "2 tomates picados",
+      "sal, coentro e páprica defumada a gosto",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "2 colheres (sopa) de óleo",
+      "mussarela ralada para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a mandioca em uma panela, leve ao fogo, acrescente o leite, sal e o creme de leite.",
+      "Misture bem e desligue o fogo.",
+      "Em outra panela aqueça o óleo, doure o alho, a cebola e acrescente os camarões, tomates, sal, coentro e a páprica.",
+      "Deixe por uns 5 minutos e desligue",
+      "Coloque o purê de mandioca em um refratário untado, por cima o refogado de camarão.",
+      "Espalhe a mussarela e leve ao forno para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311976-gratinado-de-mandioca-e-camarao.html"
+}

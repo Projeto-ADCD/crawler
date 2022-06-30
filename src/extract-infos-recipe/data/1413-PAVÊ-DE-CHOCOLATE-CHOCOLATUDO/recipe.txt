@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PAVÊ DE CHOCOLATE CHOCOLATUDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite de coco",
+      "1 caixa ou lata de leite condensado",
+      "1 colher (sopa) manteiga ou margarina",
+      "5 colheres (sopa) de açúcar",
+      "1 caixa de creme de leite",
+      "2 caixas de morangos frescos",
+      "100 g de chocolate meio amargo",
+      "1 caixa de bis (20 unidades)",
+      "200 ml de chantili (gelado)",
+      "5 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite de coco, a metade do creme de leite a margarina e o leite condensado",
+      "Mexa em fogo alto até ficar em ponto de brigadeiro de colher.",
+      "Reserve.",
+      "Em outra panela coloque os morangos cortadinhos o açúcar e a água.",
+      "Vá mexendo até virar uma espécie de geléia.",
+      "Reserve.",
+      "Derreta o chocolate meio amargo e adicione o restante do creme de leite virando uma ganache.",
+      "Bata em uma batedeira o chantilly ate ficar bem durinho. Acrescente o brigadeiro já frio ao chantili e bata até ficar tudo homogêneo.",
+      "Montagem",
+      "1° Camada",
+      "Em uma travessa de vidro corte todos os bis em 3 partes e espalhe-os por toda a travessa.",
+      "2° Camada",
+      "Coloque a metade da mistura do brigadeiro com chantilly",
+      "3°Camada",
+      "Coloque toda a geléia de morango ja fria.",
+      "4°Camada",
+      "Coloque o restante da mistura do brigadeiro com chantilly.",
+      "5°Camada",
+      "Espalhe toda a ganache.",
+      "Leve à geladeira por 2 horas e ja poderá servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308476-pave-de-chocolate-chocolatudo.html"
+}

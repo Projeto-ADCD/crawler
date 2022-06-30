@@ -1,0 +1,23 @@
+{
+  "nome_receita": "APERITIVOS SURIMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de migalhas de surimi",
+      "5 porções de cream cheese",
+      "1 colher (sopa) de suco de limão",
+      "3 ramos de cebolinha",
+      "2 raminhos de coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o cream cheese com um garfo e adicione as migalhas de surimi, o suco de limão, a cebolinha picada e o coentro. Misture tudo para obter uma pasta homogênea.",
+      "Mantenha na geladeira por uma hora.",
+      "Em seguida, enrole as almôndegas e apresente bem."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311523-aperitivos-surimi.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "IOGURTE CASEIRO DE FRUTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 copo de iogurte natural",
+      "gelatina em pó do sabor de sua preferência",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite.",
+      "Acrescente o iogurte.",
+      "Deixe de molho, com a panela tampada, por dois dias. Todo o líquido se transformará em iogurte.",
+      "Após os dois dias, mexa a mistura e, se desejar, acrescente a gelatina em pó sabor fruta (eu faço com sabor maracujá) e açúcar a gosto.",
+      "Está pronto para beber. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Aprendi na faculdade de microbiologia. A ideia é que o leite de caixinha vem pasteurizado, com as bactérias todas mortas, e ele estraga depois de aberto por causa das bactérias do ar que entram. Mas o iogurte devolve as bactérias que fermentam leite (os famosos \"lactobacilos vivos\"), e então, em vez de estragar, o leite vira iogurte. Assim, você faz a mágica da multiplicação de iogurte"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TALES DE BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312174-iogurte-caseiro-de-fruta.html"
+}

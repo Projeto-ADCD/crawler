@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PAVÊ DE LIMÃO INVERTIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de biscoito de maisena ",
+      "1 lata de leite condensado ",
+      "1 caixa de creme de leite ",
+      "1/2 (americano) de suco de limão ",
+      "raspas de limão "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molhe os biscoitos na água ou no leite e coloque no fundo de uma forma",
+      "Bata os ingredientes, menos as raspas de limão no liquidificador ",
+      "Coloque a mistura por cima dos biscoitos e leve à geladeira por 6 horas",
+      "Desenforme, finalize com as raspas de limão e sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313939-pave-de-limao-invertido.html"
+}

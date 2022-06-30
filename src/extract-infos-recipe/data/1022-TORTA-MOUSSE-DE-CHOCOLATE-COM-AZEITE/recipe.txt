@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TORTA MOUSSE DE CHOCOLATE COM AZEITE",
+  "ingredientes": {
+    "MASSA SUCRÉE": [
+      "240 g de farinha de trigo",
+      "30 g de farinha de amêndoa",
+      "30 g de cacau em pó",
+      "100 g de açúcar em pó",
+      "300 ml Azeite Gallo Extra Virgem Clássico",
+      "1 pitada de sal",
+      "1 ovo"
+    ],
+    "MOUSSE": [
+      "75 g de açúcar",
+      "75 ml de Azeite Gallo Extra Virgem Clássico",
+      "125 g de chocolate meio amargo em pedaços",
+      "3 ovos",
+      "flor de sal ",
+      "farofa de castanhas"
+    ],
+    "FAROFA": [
+      "castanhas caramelizadas",
+      "azeite ",
+      "farinha moída"
+    ]
+  },
+  "passos": {
+    "MOUSSE": [
+      "Em uma panela, adicione o Azeite Gallo Extra Virgem Clássico (o sabor original e conhecido de Gallo) e o chocolate. Leve ao fogo em banho-maria. O chocolate deve derreter sem que a água ferva. Retire do fogo e deixe esfriar.",
+      "Separe as claras das gemas e reserve. Passe as gemas pela peneira para retirar a membrana. Junte as gemas ao açúcar e bata com uma batedeira até que essa mistura esteja totalmente branca. Adicione o chocolate derretido a essa mistura e agregue até que fique homogêneo.",
+      "Bata as claras em neve até que fique totalmente firme em forma de nuvens. Adicione a clara à mistura de chocolate e mexa lentamente para que a mousse fique totalmente aerada. Misture cuidadosamente.",
+      "Passe a mousse para um refratário ou taças individuais e reserve na geladeira por, no mínimo, uma hora. Após esse tempo, retire a mousse da geladeira e decore com flor de sal e fio de azeite a gosto."
+    ],
+    "MASSA SUCRÉE": [
+      "Coloque a farinha, a farinha de amêndoa, o cacau em pó, o açúcar em pó, o azeite, o sal em um processador de alimentos e pulse rapidamente para combinar. Junte a massa com o ovo.",
+      "Estenda a massa entre duas folhas de papel manteiga e leve à geladeira por 1 hora. Depois coloque na forminha e asse a 180 g por 20 minutos."
+    ],
+    "MONTAGEM": [
+      "Pegue a massa da torta que já está assada e em temperatura ambiente, coloque o mousse já pronto dentro da torta e leve à geladeira para descansar por mais ou menos três horas.",
+      "Depois retire a torta da geladeira, raspe o chocolate em cima e você pode finalizar com a farofa e uma bola de sorvete."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GALLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310414-torta-mousse-de-chocolate-com-azeite.html"
+}

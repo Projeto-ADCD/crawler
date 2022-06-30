@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CREME COM GELATINA E GELEIA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "790 g de leite condensado (2 caixas)",
+      "400 g de creme de leite (2 caixas)",
+      "500 g de morango",
+      "12 g de manteiga [1 colher (chá)]",
+      "175 g de açúcar [(6 colheres (sopa)]",
+      "1 gelatina sabor morango",
+      "1 ovo",
+      "5 ml de suco de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture leite condensado, o creme de leite, a gema do ovo e a manteiga.",
+      "Mexa bem até aparecer o fundo e desligue.",
+      "Coloque na travessa e reserve na geladeira por no minimo 2 horas",
+      "Após as 2 horas, prepare a gelatina, conforme instruções na embalagem",
+      "Junte 250 ml de água fervida, coloque o conteúdo da embalagem, mexa e junte 250 ml de água gelada.",
+      "Deixe esfriar um pouco.",
+      "Despeje o conteúdo em cima do creme.",
+      "Reserve por mais 3 horas (ou até a gelatina ficar no ponto).",
+      "Pique os morangos a gosto dentro de uma panela junto com os 175 g de açúcar.",
+      "Ferva em fogo baixo.",
+      "Ao ferver, derretendo todo o açúcar, coloque os 5 ml de suco de limão.",
+      "Deixe ferver ate o morango se tornar uma \"pasta\" homogênea ",
+      "Após a gelatina estar no ponto e a geleia de morango ter esfriado, coloque-a por cima da mesma.",
+      "Leve novamente à geladeira e espere gelar para servir."
+    ]
+  },
+  "tempo_de_preparo": "360 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEXANDRE CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307106-creme-com-gelatina-e-geleia-de-morango.html"
+}

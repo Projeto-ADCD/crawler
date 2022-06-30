@@ -1,0 +1,49 @@
+{
+  "nome_receita": "CUSCUZ PAULISTA DO MARCÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de azeite",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1/2 lata de ervilha (escorrida)",
+      "1/2 lata de milho (escorrido)",
+      "1/2 xícara (chá) de molho de tomate",
+      "2 latas de sardinhas (sem o óleo)",
+      "3 colheres (sopa)  de cheiro-verde picado",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "200 ml de água morna",
+      "2 xícaras (chá) de farinha de milho pré-cozida"
+    ],
+    "PARA DECORAR": [
+      "2 ovos cozidos",
+      "1 tomate",
+      "1 lata de sardinha",
+      "200g de camarões refogado",
+      "1/2 xícara (chá) de azeitonas fatiadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela tamanho grande, coloque o azeite em fogo médio",
+      "Acrescente a cebola e o alho e refogue por cerca de 2 minutos",
+      "Em seguida adicione a ervilha, o milho e o molho de tomate e mexa bem",
+      "Adicione 1 lata de sardinha, a pimenta do reino, o cheiro verde o sal e ponha a água morna aos poucos",
+      "Misture tudo muito bem, até levantar fervura",
+      "Adicione a farinha de milho aos poucos e vá mexendo para não empelotar",
+      "Mexa até que a farinha de milho cozinhe e forme uma massa homogênea",
+      "Desligue o fogo e reserve essa mistura",
+      "Unte com azeite uma forma de furo central (22 cm de diâmetro)",
+      "Decore o fundo da forma com tomate em rodelas, sardinha, ovos, azeitonas e os camarões",
+      "Faça uma camada com a metade da mistura que estava na panela reservada",
+      "Em seguida decore as laterais da forma com ovos, tomate, azeitonas e sardinha",
+      "Finalize com o restante da mistura, apertando levemente para compactar",
+      "Desenforme e sirva.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCOS CESAR D. FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310786-cuscuz-paulista-do-marcao.html"
+}

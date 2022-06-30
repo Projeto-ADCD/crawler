@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TORTA DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê de maionese de 200 g",
+      "1 lata de creme de leite de 200 g",
+      "2 latas de atum",
+      "2 sacos de pão de forma",
+      "1 cenoura cozida (picadinha)",
+      "molho de tomate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha (ou liquidificador) misture a maionese, o creme de leite e o atum até formar uma mistura homogênea",
+      "Adicione o molho de tomate aos poucos e vá provando até ficar a gosto.",
+      "Separe os pães de forma e retire as bordas.",
+      "Coloque em uma forma uma camada de molho e uma de pão de forma, na última camada adicione a cenoura picada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TATIANA BORDIGNON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308561-torta-de-atum.html"
+}

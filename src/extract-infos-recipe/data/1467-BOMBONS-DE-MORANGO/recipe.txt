@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOMBONS DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de morango",
+      "1 lata de leite condensado",
+      "200 g de leite em pó desnatado",
+      "300 g de chocolate ao leite ou meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem os morangos, retire os talinhos e coloque-os sobre papel absorvente para escorrer o excesso de líquido.",
+      "Em uma tigela média, misture o leite condensado com o leite em pó e mexa até formar uma massa macia.",
+      "Se necessário, acrescente mais leite em pó.",
+      "Com essa massa, molde bolinhas e achate-as com a palma das mãos.",
+      "Envolva cada morango com a massa.",
+      "Coloque os morangos sobre papel-manteiga e deixe secar durante uns 15 minutos.",
+      "Derreta o chocolate ao leite ou meio amargo de acordo com as instruções da embalagem.",
+      "Com um garfo, banhe os bombons no chocolate.",
+      "Leve à geladeira até secar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GABII",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308167-bombons-de-morango.html"
+}

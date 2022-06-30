@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MACARRÃO À ALFREDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão caseiro (tagliarini, fettuccine ou papardelle)",
+      "125 g de manteiga com sal",
+      "100 g de queijo parmesão ralado",
+      "pimenta do reino a gosto",
+      "noz moscada ralada, a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve meio tablete de manteiga com sal e 100 g de queijo parmesão ralado",
+      "Cozinhe o macarrão em 4 ou 5 litros de água fervendo, com um pouco de sal. ",
+      "Cozinhe por 6 a 10 minutos, até que fique \"al dente\".",
+      "Escorra o macarrão muito rapidamente, mas deixe só um pouco da água.",
+      "Leve o macarrão para uma travessa, e rapidamente, adicione a manteiga, o queijo ralado, a pimenta do reino e a noz moscada.",
+      "Mexa ate distribuir a manteiga toda e o queijo pelo macarrão. Para isso, use dois garfos, ou se você achar mais fácil, um garfo e uma colher.",
+      "O truque é que o próprio calor do macarrão deve derreter a manteiga e o queijo, sem precisar reaquecer.",
+      "Sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita, Italiana clássica, do restaurante Alfredo, Roma, está na minha família a muito tempo. Minha Mãe, Dalva, fazia sempre esse macarrão."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312673-macarrao-a-alfredo.html"
+}

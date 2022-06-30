@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLO DE CENOURA (MEDIO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 xavinas de farinha de trigo",
+      "4 cenouras grades",
+      "2 chávenas (400 g) de açúcar",
+      "1 colher de fermento",
+      "1 chávena (250 ml) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o óleo, as cenouras e os ovos no liquidificador.",
+      "Adicione o açúcar e depois a farinha e o fermento. Bata tudo no liquidificador ou bata primeiro os líquidos e depois junte a farinha, o açúcar e o fermento.",
+      "Leve ao forno a 180º, numa forma untada e enfarinhada, por 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "RAIHANY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313138-bolo-de-cenoura-medio.html"
+}

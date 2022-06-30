@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MAC AND CHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "óleo ou azeite",
+      "50 g de manteiga",
+      "70 g de bacon",
+      "3 dentes de alho picados",
+      "1/2 cebola",
+      "sal a gosto",
+      "300 g de macarrão tipo caracol",
+      "água",
+      "200 g de mussarela",
+      "100 g de greme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, bote um pouco de óleo ou azeite. Acrescente metade da manteiga e, quando derreter, coloque o bacon para dourar.",
+      "Coloque o alho e a cebola para dourar junto com o bacon e adicione o sal.",
+      " ",
+      "Na mesma panela, junte o macarrão, mais sal e água suficiente para cobrir todos a massa. Deixe cozinhar em fogo alto.",
+      " ",
+      "Tempere com a noz moscada e, quando terminar de cozinhar o macarrão, diminua o fogo.",
+      " ",
+      "Adicione o creme de leite, a metade do queijo e vá mexendo para engrossar. Depois coloque o restante do queijo e da manteiga.",
+      " ",
+      "Leve ao forno para gratinar de 10 a 15 minutos, retire e sirva.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Escolha o queijo que achar mais gostoso para adicionar à receita. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312936-mac-and-cheese.html"
+}

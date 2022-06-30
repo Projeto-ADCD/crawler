@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE TAPIOCA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícara de goma de tapioca",
+      "1 colher (sopa) de requeijão",
+      "1 colher (sopa) de óleo",
+      "2 colheres (sopa) de parmesão ralado (30 g)",
+      "3 colheres (sopa) de parmesão ralado (50 g)",
+      "1 colher (chá) de fermento",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque o ovo e o requeijão e misture bem.",
+      "Em seguida adicione a goma de tapioca, o queijo, o fermento e o sal e misture até formar uma massa uniforme (ela fica mais liquida mesmo).",
+      "Disponha a massa em formas de cupcake ou empada untadas com manteiga preenchendo no máximo 3/4 da forma.",
+      "E salpique mais um pouco de parmesão por cima.",
+      "Rende de 12 a 15 pães, mas isso varia de acordo com o tamanho da sua forminha.",
+      "Leve ao forno preaquecido a 180º C por cerca de 25 minutos ou até que fique dourado por cima.",
+      "Depois de pronto o pão murcha um pouco, não se assuste, é normal"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "EDUARDO PIETRAFESSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307675-pao-de-queijo-de-tapioca-facil.html"
+}

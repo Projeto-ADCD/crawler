@@ -1,0 +1,49 @@
+{
+  "nome_receita": "MUQUECA DE PEIXE À MODA BARRA MANSA DE SALES",
+  "ingredientes": {
+    "DEFAULT": [
+      "MOQUECA A MODA BARRA MANSA de SALES",
+      "2,5 kg de pintado cortado em cubos ou postas",
+      "4 tomates maduros cortados em rodelas",
+      "1 pimentão vermelho e 1 pimentão verde cortados em rodelas",
+      "1 xícara de azeite de dendê",
+      "1 xicara de azeite de oliva",
+      "200 ml de leite de coco ou creme de coco fresco",
+      "2 cebolas médias cortadas em rodelas",
+      "5 dentes de alho amassados ou moídos",
+      "1 maço de cheiro verde ou mentruz",
+      "sal fino e pimenta vermelha a gosto",
+      "PARA FAZER O PIRÃO",
+      "cabeça do peixe ou pedaços do rabo (1 kg mais ou menos)",
+      "água",
+      "1 tablete de caldo de carne ou de peixes",
+      "1 pimentão vermelho bem picado em cubinhos",
+      "1 pacote de farinha de mandioca torrada",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "PREPARO DA MUQUECA",
+      "Na panela, coloque o azeite de oliva, e faça uma camada com a cebola, o alho, metade das fatias de tomates, metade das rodelas de pimentão, metade do mentruz ou cheiro-verde, o peixe.",
+      "Faça uma segunda camada colocando o azeite de dendê, o leite de coco, o restante dos tomates, do pimentão, do mentruz ou cheiro-verde.",
+      "Coloque o sal e a pimenta a gosto.",
+      "Coloque a água e deixe cozinhar sem mexer na panela",
+      "PREPARO DO PIRÃO",
+      "Coloque água na panela e adicionar tablete do caldo de carne ou de peixe.",
+      "Coloque o pimentão vermelho picado em cubinhos.",
+      "Cozinhe bem a cabeça do peixe ou das partes miúdas até que solte os ossos ou espinhos.",
+      "Em um escorredor, retire os ossos e espinhos.",
+      "Reserve a água e a massa da carne do peixe separados.",
+      "Volte a água para o fogo e fervendo, coloque devagar e aos poucos e sem parar a farinha de mandioca. Coloque o sal e a pimenta a gosto.",
+      "Vá engrossando a massa ao seu gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Serve até 08 porções\nSIRVA COM ARROZ BRANCO E SALADA DE VERDURAS E TOMATES."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AYRTON VIGNOLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306495-muqueca-de-peixe-a-moda-barra-mansa-de-sales.html"
+}

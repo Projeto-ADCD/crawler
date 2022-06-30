@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA HOLANDESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 de biscoito de maisena",
+      "100 g de manteiga sem sal",
+      "1 xícara de açúcar refinado",
+      "200 g de manteiga sem sal",
+      "500 ml de creme de leite gelado",
+      "170 g de chocolate meio amargo derretido",
+      "200 g de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Triture o biscoito no processador e misture com a manteiga, formando uma farofinha.",
+      "Forre uma forma de aro removível com a farofinha, pressionando bem.",
+      "Preasse a massa (180° C), por cerca de 10 minutos.",
+      "Retire a massa do forno e espere esfriar.",
+      "Recheio",
+      "Na batedeira, misture o açúcar com a manteiga até fica homogêneo",
+      "Adicione o creme de leite e a essência de baunilha e volte a bater.",
+      "Cobertura",
+      "Misture o chocolate meio amargo derretido com o creme de leite",
+      "Montagem",
+      "Depois de preaquecer a massa e deixar esfriar, coloque os biscoitos redondos ao redor da forma.",
+      "Adicione o recheio e leve à geladeira por 4 horas.",
+      "Retire da geladeira e despeje a cobertura por cima.",
+      "Volte à geladeira por mais 6 horas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você sabia que a torta holandesa não é originária da Holanda? Ela foi criada por uma brasileira em Campinas, São Paulo, que deu esse nome ao doce por causa de uma viagem que tinha feito à Holanda. OBRIGADA POR ESCOLHER ESTÁ RECEITA PARA PREPARO :)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306376-torta-holandesa.html"
+}

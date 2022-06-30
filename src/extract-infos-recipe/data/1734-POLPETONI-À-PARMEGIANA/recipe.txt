@@ -1,0 +1,42 @@
+{
+  "nome_receita": "POLPETONI À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de carne moída",
+      "1/2 cebola picada",
+      "2 dente de alho picado ou triturado",
+      "150 g de farinha de rosca",
+      "temperos a gosto",
+      "2 colheres (sopa) de azeite",
+      "2 colheres (sopa) de requeijão ou cream cheese",
+      "cheiro-verde a gosto",
+      "1 xícara de farinha de trigo",
+      "2 ovos",
+      "óleo para fritar",
+      "200 g de mussarela ralada ou em pedaços",
+      "1 pacote de salsa de tomate",
+      "manjericão e orégano para enfeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque carne moída, cebola, alho, farinha de rosca, temperos e azeite",
+      "Misture bem com a mão ou com o auxílio de uma espátula",
+      "Em outra tigela, coloque a mussarela, o requeijão ou cream cheese e o cheiro-verde, misture bem",
+      "Pegue um pouco da carne moída modele com se fosse um hambúrguer e coloque um pouco da outra mistura da mussarela",
+      "Para fechar, coloque um pouco mais de carne moída em cima e modele, como se fosse um hambúrguer recheado",
+      "Passe pela farinha de trigo",
+      "Depois pelos ovos batidos",
+      "E depois passe pela farinha de rosca",
+      "Frite no óleo quente",
+      "Tire o excesso de óleo no papel-toalha",
+      "Coloque em um refratário com molho de tomate e acrescente mussarela em cima",
+      "Leve ao forno a 180° C por 5 minutos ou até derreter o queijo",
+      "Coloque orégano, salsinha picada ou manjericão para enfeitar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VANESSA TAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306963-polpetoni-a-parmegiana.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALADA EXÓTICA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates",
+      "2 cebolas",
+      "200g de alface",
+      "50g de coentro",
+      "50g de salsa e cebolinha",
+      "100g de repolho",
+      "1 espinafre",
+      "1 couve-de-bruxelas",
+      "2 colheres de sopa de azeite",
+      "1 colher de sopa de suco de limão",
+      "1 carambola à gosto",
+      "Sal a gosto",
+      "Pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte todos os vegetais e frutas em tamanhos médios.",
+      "Misture tudo numa vasilha, adicione o suco de limão e o azeite.",
+      "Coloque seus temperos.",
+      "Pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SUI COZINHAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314670-salada-exotica-simples.html"
+}

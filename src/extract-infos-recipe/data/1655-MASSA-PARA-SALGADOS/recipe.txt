@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MASSA PARA SALGADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 gemas",
+      "4 tabletes de galinha",
+      "200 g de margarina",
+      "6 copos (americano) de água ",
+      "6 copos (americano) de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes no liquidificador bata até ficar homogênea",
+      "Depois despeje em uma panela e leve ao fogo mexendo sempre.",
+      "O ponto da massa é quando estiver visivelmente macia e desgrudando da colher",
+      "Faça o teste afundando seu dedo na massa, se não grudar, estará pronta.",
+      "Obs: se seu liquidificador for pequeno, divida um pouco da farinha diretamente na panela"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "EVANYCE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307258-massa-para-salgados.html"
+}

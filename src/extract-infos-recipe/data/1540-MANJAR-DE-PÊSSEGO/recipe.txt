@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MANJAR DE PÊSSEGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de pêssego",
+      "4 gelatinas de pêssego",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "3 copos (americano) de água fervendo",
+      "3 copos (americano) de água fria"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça 2 gelatinas com 2 copos (americano) de água fervendo e 2 copos de água fria e forre 150 ml numa forma de manjar untada com óleo ou manteiga.",
+      "E coloque pra endurecer por uns 15 minutos na geladeira.",
+      "Depois que a gelatina firmar, coloque as camadas de pêssego cortadas viradas para cima, a parte de baixo tem que ficar aparecendo na hora de desenformar e por cima adicione o restante da gelatina até cobrir todo os pêssegos e coloque pra gelar até endurecer.",
+      "Por ultimo faça o mousse, com as 2 gelatinas restantes dissolvidas em 1 copo americano de água fervendo e 1 copo de água fria, 1 lata de creme de leite, 1 lata de leite condensado batidos bem no liquidificador.",
+      "Cubra com papel-filme ou alumínio e deixe gelar bem.",
+      "Para desenformar, passe uma faca com cuidado nas laterais do forma, pegue um prato grande e coloque em cima da forma e vire com cuidado.",
+      "Pode até deixar um tempo que o manjar solta sozinho.",
+      "Fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NANI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307764-manjar-de-pessego.html"
+}

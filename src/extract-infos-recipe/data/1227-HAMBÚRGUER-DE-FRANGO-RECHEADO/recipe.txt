@@ -1,0 +1,29 @@
+{
+  "nome_receita": "HAMBÚRGUER DE FRANGO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango cru moído",
+      "1/2 colher (sopa) de sal",
+      "1/2 cabeça de alho moído",
+      "temperos a gosto",
+      "Recheio",
+      "queijo mussarela a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem à mão todos os ingredientes até ficar homogêneo.",
+      "Pegue uma porção da mistura, abra com a mão e coloque o recheio",
+      "Cubra com mais um pouco da massa e feche bem.",
+      "Grelhe em uma frigideira antiaderente bem quente.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode congelar o hambúrguer cru individualmente para consumir em até 30 dias.\nVocê pode usar outro queijo a gosto, para rechear"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309311-hamburguer-de-frango-recheado.html"
+}

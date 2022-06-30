@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTILHA ARGENTINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 ovos",
+      "6 batatas",
+      "4 dentes de alho",
+      "200 g de mussarela",
+      "200 g de presunto parma",
+      "óleo",
+      "azeite",
+      "orégano",
+      "sal",
+      "pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte em cubos pequenos frite em óleo temperatura média até que fiquem douradas e reserve.",
+      "Bata os 12 ovos em ponto de omelete adicione o alho picado, o orégano, o sal e a pimenta-do-reino a gosto.",
+      "Regue com o azeite uma forma de 30 cm de diâmetro logo após coloque os ovos batidos espalhe as batatas já fritas e por cima cubra com o presunto parma e a mussarela por cima do presunto ",
+      "Leve ao forno 180° C por 30 minutos ou até que ao fazer o teste do palito ele saia limpo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308340-tortilha-argentina.html"
+}

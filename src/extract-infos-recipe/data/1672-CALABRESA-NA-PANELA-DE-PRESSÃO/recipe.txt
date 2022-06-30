@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CALABRESA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 calabresas ",
+      "4 cebolas ",
+      "4 tomates grandes ",
+      "2 caldos de carne dissolvidos em água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque azeite na panela de pressão e disponha os ingredientes em camadas: cebola grandes cortadas em folhas, depois tomate cortados em cubo e por fim a calabresa em rodelas de 1 cm.",
+      "Regue com o caldo de carne e leve ao fogo por 30 minutos (após pegar pressão).",
+      "Sirva com pão."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VITOR GABRIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307201-calabresa-na-panela-de-pressao.html"
+}

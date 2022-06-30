@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FEIJÃO COM CARNE SUÍNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g feijão carioca",
+      "‌3 dentes de alho",
+      "1/2 cebola",
+      "‌3 folhas de louro",
+      "‌1 tablete caldo de carne",
+      "‌Colorau a gosto",
+      "‌Pimenta em pó a gosto",
+      "‌Sal a gosto",
+      "‌300g Calabresa",
+      "‌600g Carne de Barriga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o feijão e deixe de molho por 30min em água morna.",
+      "Refogar a carne com a cebola o alho e o sal. Depois acrescente o colorau e o louro.",
+      "Acrescente o feijão, a calabresa, a pimenta e o caldo de carne.",
+      "Acrescente a água que ficou de molho no feijão e complete até que cubra os ingredientes.",
+      "Deixe ferver e antes de tampar, corrigir o tempero se necessário.",
+      "Depois de pegar pressão deixe cozinhar em fogo baixo de 25 a 30min."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEONARDO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306652-feijao-com-carne-suina.html"
+}

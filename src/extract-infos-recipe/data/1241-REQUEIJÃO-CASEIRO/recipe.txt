@@ -1,0 +1,26 @@
+{
+  "nome_receita": "REQUEIJÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral",
+      "10 colheres (sopa) de vinagre branco",
+      "1 colher (sopa) de manteiga com sal",
+      "1 colher (chá) de sal",
+      "2 colheres de queijo ralado",
+      "temperinhos a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite e em seguida separe 1/4 de xícara e reserve",
+      "No leite que ficou na panela adicione o vinagre e espere o leite talhar",
+      "Coe o conteúdo da panela com o auxílio de uma peneira. Você vai separar o soro do talhado",
+      "Quando o soro estiver escorrido bem bata com o auxílio de um mixer ou no liquidificador o talhado com a manteiga, o 1/4 de xícara do leite separado, o queijo ralado e o sal",
+      "Leve para gelar por pelo menos 3 horas para que fique firme."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309270-requeijao-caseiro.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce",
+      "1 e 1/2 xícara (chá) de leite",
+      "1 colher (sopa) de tempero pronto",
+      "1/2 xícara (chá) de óleo",
+      "2 ovos",
+      "3 xícaras (chá) de queijo minas meia cura ralado",
+      "óleo para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o polvilho em uma tigela grande.",
+      "A parte, aqueça o leite com o tempero e o óleo e misture com o polvilho.",
+      "Acrescente os ovos, um a um, alternando com o queijo e sovando após cada adição.",
+      "Unte as mãos com óleo e enrole bolinhas de 2 cm de diâmetro.",
+      "Coloque elas em uma assadeira untada.",
+      "Asse em forno médio (180° C), preaquecido, por cerca de 30 minutos.",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307535-pao-de-queijo.html"
+}

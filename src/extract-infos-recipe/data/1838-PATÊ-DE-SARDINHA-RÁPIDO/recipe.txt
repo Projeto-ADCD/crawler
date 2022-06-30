@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PATÊ DE SARDINHA RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de sardinha limpa",
+      "1/2 cebola pequena picadinha",
+      "2 colheres de maionese",
+      "1 pitada de sal",
+      "Salsinha à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a sardinha em um recipiente e amasse bem",
+      "Em seguida, acrescente a maionese e a salsinha e misture bem",
+      "Está pronto!",
+      "Sirva com pão, torradas, e até com comida fica muito gostoso."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIANA MARTINS BENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306655-pate-de-sardinha-rapido.html"
+}

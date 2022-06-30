@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CHEESECAKE DE LIMÃO SICILIANO DOS SONHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de biscoito maria",
+      "6 colheres (sopa) de manteiga",
+      "250 g copo de açúcar",
+      "900 g de cream cheese",
+      "200 g de creme de leite em lata sem soro",
+      "1 limão siciliano",
+      "1 colher (sopa) rasa de extrato de baunilha",
+      "5 ovos grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno para 160° C",
+      "Preparando a massa, misture em uma tigela a manteiga derretida, os biscoitos Maria esfarelados e 5 colheres de sopa de açúcar.",
+      "Aperte a mistura nos fundos de uma forma redonda com o fundo removível, além de nos lados até uma altura de 5 cm. Cozinhe por 10 minutos e deixe esfriar, obtendo uma crosta.",
+      "Preparando os ingredientes para o recheio, separe as claras das gemas, bata as claras em neve, separe raspas do limão e esprema todo o suco do mesmo.",
+      "Em uma tigela grande, misture o cream cheese e o restante do açúcar até obter uma mistura homogênea, depois adicionando o creme de leite, as raspas e o suco do limão, a essência de baunilha e as claras em neve, mexendo lentamente. Enfim, adicione as gemas uma por uma, enquanto continua mexendo.",
+      "Derrame o recheio sobre a crosta cuidadosamente, evitando o transbordamento, e retorne o cheesecake ao forno por mais 1 hora.",
+      "Deixe o cheesecake esfriar na temperatura ambiente por 10 minutos antes de retirá-lo cuidadosamente da forma, utilizando uma faca para separá-los e deixar o cheesecake esfriar por mais uma hora em temperatura ambiente antes de refrigerá-lo até que obtenha consistência."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "RAPHAEL CAMISÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310458-cheesecake-de-limao-siciliano-dos-sonhos.html"
+}

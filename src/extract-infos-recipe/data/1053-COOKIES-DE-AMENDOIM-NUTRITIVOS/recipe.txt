@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIES DE AMENDOIM NUTRITIVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) de aveia em flocos",
+      "3 colheres (sopa) de pasta de amendoim",
+      "3 colheres (sopa) de açúcar mascavo",
+      "1 colher (sopa) de açúcar branco",
+      "1/2 colher (sopa) de manteiga ou margarina (amolecida)",
+      "1/2 colher (chá) de essência de baunilha",
+      "1 colher (chá) de canela em pó",
+      "1/2 colher (chá) de fermento químico em pó",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 200º C",
+      "Misture todos os ingredientes em um recipiente até formar uma masssa homogênea",
+      "Disponha a massa em formato de biscoitos, 1 colher (sopa) para cada, em uma forma forrada com papel-manteiga (a massa não expande como acontece com cookies tradicionais, então deve ser achatada na forma já em formato de cookie)",
+      "Asse a 200º C por 15 minutos ou até que a base esteja dourada"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCCA FUCCI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310210-cookies-de-amendoim-nutritivos.html"
+}

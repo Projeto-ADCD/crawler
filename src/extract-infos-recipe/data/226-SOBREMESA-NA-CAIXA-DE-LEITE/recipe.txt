@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOBREMESA NA CAIXA DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 ml de leite ",
+      "8 colheres (sopa) de açúcar ",
+      "1 pitada de sal ",
+      "200 g de chocolate branco picado",
+      "15 g de gelatina incolor ",
+      "120 g de mirtilos ",
+      "50 g de morangos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o leite, o açúcar, o sal, a gelatina e o chocolate ",
+      "Misture tudo e deixe derreter ",
+      "Deixe esfriar por 30 minutos ",
+      "Em um recipiente, junte à mistura, os mirtilos e os morangos ",
+      "Coloque tudo dentro de uma caixa de leite de 1 litro vazia ",
+      "Leve à geladeira por 24 horas ",
+      "Desenforme cortando a caixa com cuidado e sirva "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313854-sobremesa-na-caixa-de-leite.html"
+}

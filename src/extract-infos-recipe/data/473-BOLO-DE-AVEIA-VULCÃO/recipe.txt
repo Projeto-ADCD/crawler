@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE AVEIA VULCÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) e meia de aveia",
+      "2/3 xícara (chá) de açúcar",
+      "1 colher (sopa) de cacau",
+      "uma pitada de sal",
+      "1/2 colher (sopa) de fermento",
+      "1 e 1/4 de xícara (chá) de leite",
+      "1 banana amassada",
+      "1 colher de chá de essência de baunilha",
+      "1 barra de chocolate quebrada ao meio (80 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque a aveia, o açúcar, o cacau, o sal, o fermento e bata bem.",
+      "Desligue o liquidificador, coloque o leite, a banana amassada, a essência de baunilha e bata novamente até formar uma massa homogênea",
+      "Desligue o liquidificador, distribua a massa em uma forma de 20 centímetros de diâmetro X 7 centímetros de altura, untada e enfarinhada e coloque a barra de chocolate quebrada ao meio no centro da massa.",
+      "Cubra a barra de chocolate com a massa, e leve ao forno preaquecido a 180° C por 40 minutos.",
+      "Retire do forno e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FEFE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312738-bolo-de-aveia-vulcao.html"
+}

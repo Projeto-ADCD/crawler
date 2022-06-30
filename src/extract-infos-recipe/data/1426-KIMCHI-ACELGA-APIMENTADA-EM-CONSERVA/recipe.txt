@@ -1,0 +1,47 @@
+{
+  "nome_receita": "KIMCHI - ACELGA APIMENTADA EM CONSERVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 acelgas",
+      "1 nabo",
+      "1 maço de cebolinha",
+      "1 cabeça de alho",
+      "100 g de gengibre",
+      "2 pimentas dedo-de-moça",
+      "100 g de pimenta vermelha \"Gochugaru\" em flocos ou 100 g de pasta de pimenta \"Gochujang\"",
+      "50 g de açúcar",
+      "50 g farinha de arroz para moti",
+      "2 colheres (sopa) de gergelim torrado",
+      "1 colher (chá) de \"Hondashi\" ou 1 colher (sopa) de molho de peixe \"Ekjot\"",
+      "aproximadamente 200 g de sal",
+      "aproximadamente 500 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as folhas de fora da acelga para uso em outras receitas",
+      "Lave bem e corte as acelgas em 4, no sentido do comprimento, sem destacar as folhas do talo",
+      "Passe sal nas folhas, polvilhando o sal folha por folha, espalhando bem. Vá colocando a acelga em uma travessa, alternado os lados da acelga a cada camada, se houver",
+      "Deixe as acelgas marinando por 6 horas (virando no meio desse tempo), coloque um peso em cima (tigela com água ou tábua)",
+      "Enquanto isso, prepare os demais ingredientes e depois os reserve",
+      "Corte ou rale o nabo em tiras bem finas",
+      "Corte a cebolinha em tiras de 7 cm e depois corte duas vezes no sentido do comprimento",
+      "Faça um mingau com a farinha de arroz e um copo de água",
+      "Bata no liquidificador o alho, gengibre a pimenta dedo de moça com um copo de água",
+      "Passadas as 6 horas, escorra a água salgada e enxague a acelga de duas a três vezes deixando escorrer muito bem a água com a acelga de cabeça para baixo.",
+      "Para saber se há necessidade de enxaguar a terceira vez, experimente o sal, se estiver muito salgado, enxague a terceira vez, considerando os demais ingredientes que irão à receita",
+      "Em uma tigela, misture o mingau, a batida do alho, pimenta e gengibre, o açúcar, gergelim, pimenta em flocos e Hondashi.",
+      "Acrescente o nabo e a cebolinha e misture bem.",
+      "Usando uma luva plástica ou de borracha (a pimenta mancha e arde as mãos), passe a mistura na acelga, espalhando bem, folha por folha, vá colocando a acelga organizadamente (lado a lado, depois em pilha) em um recipiente hermético.",
+      "Deixe em temperatura ambiente por 12 horas a 24 horas para fermentação, lembrando de abrir de vez em quando para tirar o ar.",
+      "Depois desse tempo já pode consumir e manter o restante na geladeira. Dura por bastante tempo. Para servir, corte em tiras de 4 cm."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O Kimchi é um acompanhamento probiótico muito consumido na Coreia do Sul. O processo de preparo é bem cultural e trabalhoso, mas o resultado é muito bom!"
+    ]
+  },
+  "tempo_de_preparo": "360 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "THAIS TABA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308385-kimchi-acelga-apimentada-em-conserva.html"
+}

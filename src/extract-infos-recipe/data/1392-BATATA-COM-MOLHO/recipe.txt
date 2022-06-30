@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BATATA COM MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas médias",
+      "1 colher (chá) açúcar",
+      "2 colheres (sopa) de azeite",
+      "temperinho verde a gosto",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque uma chaleira de água para ferver.",
+      "Colocar em uma panela uma pitada de açúcar e deixe caramelar",
+      "Adicione azeite e as batatas descascadas cortadas pela metade",
+      "Tampe a panela e mexa para selar",
+      "Adicione água quente até cobrir as batatas, temperinho verde e sal, tampe e aguarde cozinhar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TATIANA BORDIGNON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308563-batata-com-molho.html"
+}

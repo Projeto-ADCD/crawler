@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BATATA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas médias",
+      "2 potes de requeijão cremoso",
+      "1 creme de leite",
+      "1 cebola pequena",
+      "1 kg de peito de frango",
+      "tempero para frango de sua preferência",
+      "sal a gosto",
+      "200 g de mussarela ou queijo cheddar para enfeitar (opcional)",
+      "1 fio de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Divida as batatas em 2 e sem tirar a casca cozinhe com agua e sal até o ponto de tirar a massa.",
+      "Limpe o frango e cozinhe na água com sal até o ponto de desfiar.",
+      "Tire a massa da batata com uma colher deixando uma fina camada sob a casca para não deformar a batata.",
+      "Reserve as batatas.",
+      "Em uma panela, frite a cebola, coloque os temperos de frango ao seu gosto e acrescente o frango desfiado",
+      "Mexa bem até o tempero se misturar com o frango e vá adicionando sal",
+      "Adicione no frango, os dois potes de requeijão e o creme de leite",
+      "Misture e apague o fogo.",
+      "Unte a forma com óleo.",
+      "Recheie as batatas com o frango, se preferir enfeite por cima com o queijo de sua preferência",
+      "Coloque no forno com temperatura máxima por 30 minutos",
+      "Sirva quentinha"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VITOR ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306613-batata-recheada.html"
+}

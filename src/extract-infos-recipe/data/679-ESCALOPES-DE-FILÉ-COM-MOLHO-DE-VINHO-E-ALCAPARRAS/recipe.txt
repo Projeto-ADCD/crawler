@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ESCALOPES DE FILÉ COM MOLHO DE VINHO E ALCAPARRAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de filé mignon em escalopes",
+      "1 colher (chá) de sal",
+      "4 colheres (sopa) de Becel Amanteigado",
+      "1/2 xícara de água",
+      "1/2 xícara de vinho tinto",
+      "1 colher (sopa) de alcaparras",
+      "1 colher (sopa) de farinha de trigo",
+      "10 olhas pequenas de manjericão fresco picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés com o sal e reserve.",
+      "Em uma frigideira grande aqueça Becel Amanteigado e refogue os escalopes até dourar dos dois lados.",
+      "Reserve 2 colheres (sopa) da água e coloque o restante na panela. Adicione o vinho, as alcaparras e cozinhe em fogo baixo com a panela parcialmente tampada por 5 minutos. Passe os escalopes para uma travessa.",
+      "Dissolva a farinha de trigo na água reservada e adicione ao caldo que ficou na panela. Cozinhe, mexendo sempre por 2 minutos ou até engrossar. Coloque sobre os escalopes, polvilhe o manjericão e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312050-escalopes-de-file-com-molho-de-vinho-e-alcaparras.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJIQUINHA DE SÃO JOÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de Canjiquinha de Milho Yoki",
+      "3 xícaras (chá) de leite frio",
+      "½ xícara (chá) de leite de coco",
+      "2 colheres (sopa) de queijo ralado",
+      "4 cravos-da-Índia Kitano",
+      "um pouco de Canela-da-China em Pó Kitano à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, dissolva a receita de canjiquinha no leite frio.",
+      "Acrescente o leite de coco, o queijo ralado e os cravos.",
+      "Leve ao fogo alto até a canjiquinha doce levantar fervura.",
+      "Abaixe o fogo e cozinhe por mais 10 minutos, mexendo sempre.",
+      "Despeje em um refratário e polvilhe a receita de canjiquinha com canela. Sirva fria.",
+      "Sua receita de canjiquinha está pronta!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "YOKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312495-canjiquinha-de-sao-joao.html"
+}

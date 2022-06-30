@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE LIMÃO",
+  "ingredientes": {
+    "MASSA": [
+      "200 g de biscoito maisena",
+      "150 g de margarina"
+    ],
+    "RECHEIO": [
+      "1 lata de leite condensado (395 g)",
+      "1 caixa de creme de leite (200 g)",
+      "4 limões (suco)",
+      "raspas de 2 limões (finalização)",
+      " "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Triture o biscoito maisena em um liquidificador ou processador.",
+      "Junte a margarina e bata mais um pouco.",
+      "Despeje a massa em uma forma de fundo removível (27 cm de diâmetro).",
+      "Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme.",
+      "Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos."
+    ],
+    "RECHEIO": [
+      "Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme.",
+      "Recheie a massa já assada e leve à geladeira por 30 minutos."
+    ],
+    "FINALIZAÇÃO": [
+      "Desenforme a torta (sem retirar o fundo falso) e acrescente as raspas de limão."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JAQUELINE ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310489-torta-de-limao.html"
+}

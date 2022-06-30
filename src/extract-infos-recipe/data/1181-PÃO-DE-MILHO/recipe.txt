@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite morno",
+      "4 colheres (sopa) açúcar",
+      "10 g de fermento seco",
+      "1 colher (sopa) rasa de Sal",
+      "2 ovos",
+      "1/2 xícara de óleo",
+      "2 xícaras de fubá",
+      "4 xícaras de farinha de trigo",
+      "leite ou água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os três primeiros itens, misture bem e deixe descansar por 30 minutos para formar uma esponja.",
+      "Em seguida, acrescente os outros ingredientes e misture bem, acrescentando o leite/água até ficar uma massa homogênea.",
+      "Sove a massa por 20 minutos e dívida em quatro.",
+      "Deixe descansar por 60 minutos, em seguida use um rolo para fazer o formato do pão.",
+      "Numa forma untada com óleo e farinha coloque os quatro pães deixe descansar por mais 30 minutos.",
+      "Asse a 180 graus até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROBERTO FREIRE FERRAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309483-pao-de-milho.html"
+}

@@ -1,0 +1,51 @@
+{
+  "nome_receita": "ALMÔNDEGAS DE FRANGO AO MOLHO DE QUEIJO",
+  "ingredientes": {
+    "ALMÔNDEGA": [
+      "1 ovo ",
+      "1/2 xícara de cebola",
+      "3 dentes de alho ",
+      "1 peito de frango moído ",
+      "sal e pimenta a gosto ",
+      "páprica a gosto ",
+      "tomilho a gosto ",
+      "cheiro-verde a gosto ",
+      "80 g de farelo de aveia ",
+      "1 fio de azeite"
+    ],
+    "MOLHO DE QUEIJO": [
+      "1/2 cebola ",
+      "1 dente de alho ",
+      "2 colheres (sopa) de manteiga ",
+      "1 colher (sopa) de farinha de trigo ",
+      "300 ml de leite ",
+      "noz-moscada a gosto ",
+      "120 g de mussarela ",
+      "sal a gosto "
+    ]
+  },
+  "passos": {
+    "ALMÔNDEGAS": [
+      "Junte todos os ingredientes, menos o azeite, em um mixer ou liquidificador",
+      "Bata tudo muito bem até formar uma mistura homogênea ",
+      "Faça bolinhas do tamanho que desejar",
+      "Unte uma forma com 1 fio de azeite e deposite as almôndegas",
+      "Leve para assar a 180° C por pelo menos 25 minutos "
+    ],
+    "MOLHO DE QUEIJO": [
+      "Em uma panela, junte a cebola, o alho e a manteiga ",
+      "Deixe dourar um pouco e coloque a farinha",
+      "Misture e junte o leite, mexendo bem ",
+      "Coloque a noz-moscada, a mussarela e finalize acertando o sal ",
+      "Deixe em fogo médio/baixo até criar a consistência de um creme",
+      "Retire do fogo e sirva junto com as almôndegas "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode preparar um belo prato de macarrão (a gosto) para servir com essa receita deliciosa!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314610-almondegas-de-frango-ao-molho-de-queijo.html"
+}

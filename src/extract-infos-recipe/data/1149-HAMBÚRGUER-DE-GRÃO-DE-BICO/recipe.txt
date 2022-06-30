@@ -1,0 +1,34 @@
+{
+  "nome_receita": "HAMBÚRGUER DE GRÃO-DE-BICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de grão-de-bico ",
+      "100g de aveia em flocos",
+      "1 cebola ",
+      "1 pitada de cúrcuma ",
+      "50 mg de sal "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o grão-de-bico de molho durante 8 a 12 horas.",
+      "Escorra o grão-de-bico.",
+      "Cozinhar na pressão por 30 minutos.",
+      "Se preferir, escorra novamente e transfira para uma tigela com água gelada, para facilitar a retirada das cascas.",
+      "Em uma panela, refogue a cebola picada no azeite, até dourar.",
+      "Acrescente o grão de bico e deixe fritar por alguns instantes.",
+      "Acrescente a cúrcuma e o sal",
+      "Triture o grão de bico com um mixer.",
+      "Acrescente temperos à gosto e espere esfriar",
+      "Acrescente a aveia até dar o ponto.",
+      "Prepare os hambúrgueres utilizando forma própria."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para consumo, retire cada unidade do freezer ára aquecer imediatamente em hamburgueira (com azeite preaquecido) ou no forno convencional (utilizar papel manteiga e um fio de azeite)."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIAH NEHM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309587-hamburguer-de-grao-de-bico.html"
+}

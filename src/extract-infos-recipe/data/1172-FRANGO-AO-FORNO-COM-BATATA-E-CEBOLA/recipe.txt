@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRANGO AO FORNO COM BATATA E CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa, frango a passarinho ou sobrecoxa",
+      "1 celola grande",
+      "4 dentes de alho",
+      "4 batatas grande com casca",
+      "azeite a gosto",
+      "oregano a gosto",
+      "salsa a gosto",
+      "sal a gosto",
+      "maionese a gosto",
+      "meio copo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com o alho, orégano, sal e a salsa.",
+      "Corte as batatas e as cebolas em rodelas.",
+      "Forre o fundo de um tabuleiro com as batatas, jogue por cima a cebola em rodelas e coloque o frango. Regue com o azeite.",
+      "Espalhe a maionese por cima. Coloque a água para ajudar a cozinhar as batatas.",
+      "Leve ao forno 200º com papel alumínio por 1 hora. Depois, retire o papel alumínio e deixe por mais 30 minutos em forno no máximo, ou até dar uma dourada.",
+      "Sirva com arroz e farofa. Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A quantidade de azeite e maionese vai depender do seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309501-frango-ao-forno-com-batata-e-cebola.html"
+}

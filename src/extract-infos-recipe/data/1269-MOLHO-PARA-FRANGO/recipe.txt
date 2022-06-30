@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO PARA FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "1/2 caixa de creme de leite",
+      "3 colheres de maionese",
+      "1 colher (sopa) de cebolinha",
+      "1 colher (sobremesa) de molho inglês",
+      "sal e pimenta-do-reino a gosto",
+      "orégano e temperos a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o molho inglês com o limão",
+      "Coloque a maionese, creme de leite, cebolinha e os temperos",
+      "Agora é só aproveitar"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ISADORA TEIXEIRA FRITEGITTO GIMENEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309177-molho-para-frango.html"
+}

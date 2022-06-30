@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BACALHAU CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 lombos de bacalhau dessalgado",
+      "1 cabeça de alho",
+      "1 cebola ",
+      "2 folhas de louro"
+    ],
+    "CROSTA": [
+      "1 xícara (chá) de farinha de pão",
+      "4 colheres (sopa) de azeite de oliva",
+      "2 dentes de alho picados",
+      "1 colher (sopa) de cheiro-verde picado",
+      "1 colher (sopa) de castanha de caju triturada",
+      "raspas de 1 limão siciliano"
+    ],
+    "TOMATES CONFITADOS": [
+      "500g de tomate cereja",
+      "2 dentes de alho cortados em lâmina",
+      "1 pimentão amarelo fatiado",
+      "100 ml de azeite de oliva",
+      "folhas de manjericão a gosto",
+      "1/2 colher (chá) de pimenta calabresa",
+      "1 colher (chá) de tomilho",
+      "1 colher (chá) de sálvia",
+      "1 colher (chá) de alecrim",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "PARA A CROSTA": [
+      "Misture a farinha de pão com os demais ingredientes. O resultado é uma farofinha úmida. Reserve."
+    ],
+    "TOMATES CONFITADOS": [
+      "Em uma travessa misture mini tomates cortados longitudinal, as fatias de alho, pimentões verdes em fatias, as folhas de manjericão e as outras ervas, sal, pimenta calabresa, pimenta do reino e azeite.",
+      "Leve ao forno preaquecido a 180° C por aproximadamente 45 minutos."
+    ],
+    "PARA O BACALHAU": [
+      "Em uma panela grande coloque os lombos de bacalhau.",
+      "Cubra com água, coloque uma cabeça de alho (corte o topo dela), a meia cebola e as folhas de louro.",
+      "Leve ao fogo, e quando levantar fervura desligue o fogo e conte 5 minutos. Retire-os com uma escumadeira.",
+      "Coloque os lombos lado a lado em uma travessa untada com azeite, com a pele para baixo, e regue cada pedaço com azeite de oliva.",
+      "Leve ao forno preaquecido a 180° C por aproximadamente 10 minutos.",
+      "Após esse tempo, retire o bacalhau do forno.",
+      "Coloque em cima de cada lombo a crosta, fazendo um pouco de pressão, e retorno ao forno por mais 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310270-bacalhau-crocante.html"
+}

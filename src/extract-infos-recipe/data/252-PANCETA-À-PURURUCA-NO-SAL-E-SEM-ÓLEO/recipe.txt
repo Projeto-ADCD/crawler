@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PANCETA À PURURUCA NO SAL E SEM ÓLEO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de alho em pó ",
+      "1 colher (chá) de cebola em pó",
+      "1 colher (chá) de páprica defumada ",
+      "pimenta-do-reino a gosto ",
+      "1 kg de panceta ",
+      "1/2 xícara de vinagre ",
+      "1/2 xícara de sal "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o alho em pó, a cebola em pó, a páprica e a pimenta",
+      "Em uma forma, coloque a panceta com a pele para baixo",
+      "Faça furos por toda a extensão dela e coloque o tempero ",
+      "Forre a forma com papel-alumínio e vire a panceta ",
+      "Faça mais furos na pele ",
+      "Coloque o vinagre e leve ao forno por 30 minutos ",
+      "Retire do forno, seque bem a pele com papel e cubra tudo com sal",
+      "Leve ao forno médio por mais 40 minutos",
+      "Retire do forno e, com cuidado, retire a crosta de sal",
+      "Sirva quentinha com limão! "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313712-panceta-a-pururuca-no-sal-e-sem-oleo.html"
+}

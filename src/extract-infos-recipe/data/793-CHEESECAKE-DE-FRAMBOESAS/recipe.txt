@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHEESECAKE DE FRAMBOESAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de queijo mascarpone ou outro em creme",
+      "150 g de açúcar",
+      "3 ovos",
+      "2 colheres (sopa) de farinha bem cheias",
+      "1/2 colher (chá) de fermento",
+      "200 g de framboesas frescas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o açúcar com os ovos até obter um creme fofo.",
+      "Junte o queijo creme e bata por mais 5 minutos.",
+      "Adicione aos poucos a farinha peneirada com o fermento.",
+      "Finalmente envolva as framboesas neste preparado.",
+      "Leve a cozer 45 minutos ao forno numa forma de fundo amovível untada e enfarinhada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DETE S. BAPTISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311541-cheesecake-de-framboesas.html"
+}

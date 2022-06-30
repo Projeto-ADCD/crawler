@@ -1,0 +1,20 @@
+{
+  "nome_receita": "SMOOTHIE PROTEICO DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 poupa de maracujá",
+      "200 ml de leite gelado ( zero lactose ou leite de amêndoas)",
+      "1 e 1/2 Scoop de whey protein sabor baunilha",
+      "1 colher (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador até ficar com a consistência cremosa. Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DÉBORA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313194-smoothie-proteico-de-maracuja.html"
+}

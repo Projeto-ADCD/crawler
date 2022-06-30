@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ROCAMBOLE SALGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de sal",
+      "1 xícara de leite (200 ml)",
+      "2 gemas batidas (para pincelar)",
+      "5 xícaras de farinha de trigo",
+      "200 g de mussarela fatiada fina",
+      "4 tomates maduros fatiados finos",
+      "1 colher (sopa) de azeite",
+      "sal a gosto",
+      "1 colher (sopa) de orégano",
+      "1 sachê de fermento biológico instantâneo (10 g)",
+      "200 g de presunto fatiado fino",
+      "2 Primor Forno e Fogão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha em uma tigela e junte o fermento.",
+      "Adicione a margarina e o sal e misture até obter uma farofa. Aos poucos acrescente o leite e amasse formando uma bola.",
+      "Sove até ficar uma massa lisa e que solte das mãos. Se necessário adicione mais 2 colheres (sopa) de farinha. Divida a massa em 2 partes e reserve por 15 minutos.",
+      "Com ajuda de um rolo abra um retângulo de 40 x 25cm com uma das partes da massa",
+      "Espalhe metade do presunto, metade da mussarela. e metade do tomate temperado. Enrole como rocambole e coloque em uma assadeira.",
+      "Repita o processo com a outra metade da massa. Reserve por mais 15 minutos.",
+      "Pincele os dois rocamboles com as gemas. Asse no forno preaquecido na temperatura moderada (180º C) por cerca de 30 minutos ou até dourar acentuadamente.",
+      "Sirva quente, morno ou frio."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA\nExperimente servir acompanhado de salada de folhas verdes."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312029-rocambole-salgado.html"
+}

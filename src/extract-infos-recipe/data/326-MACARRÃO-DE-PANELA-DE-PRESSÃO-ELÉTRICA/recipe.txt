@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO ELÉTRICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de macarrão",
+      "1 colher (sopa) de azeite",
+      "1 cebola",
+      "240 g de linguiça fininha (Sadia) ",
+      "1 extrato de tomate",
+      "1 caixa de creme de leite sem soro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e corte a linguiça em pedaços.",
+      "Na pamnela elétrica, escolha o modo refogar e jogue o azeite, a cebola picada e a linguiça. Refogue.",
+      "Coloque no modo macarrão (se a sua panela não tiver, escolha o modo carne bovina). Ponha o macarrão e misture.",
+      "Acrescente o extrato de tomate e o creme de leite. Misture novamente.",
+      "Feche a tampa da panela e coloque no modo cozinhar com pressão. Aguarde até pegar pressão. Conte então 3 minutos e libere a pressão."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LEONARDO GREEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313171-macarrao-de-panela-de-pressao-eletrica.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE BANANA SEM AÇÚCAR COM CALDA DE TÂMARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 bananas maduras",
+      "3 ovos",
+      "1 1/2 xícara (chá) de farinha de aveia",
+      "1 colher (sopa) de fermento químico em pó",
+      "1 colher (chá) de canela em pó",
+      "1 colher (chá) de Becel Amanteigado",
+      "2 colheres (sopa) de farinha de arroz",
+      "8 tâmaras",
+      "2 xícaras (chá) de água",
+      " ",
+      "4 ameixas em calda (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré-aqueça o forno a 180°C.",
+      "Unte uma forma (28x18cm) com Becel Amanteigado e com a farinha de arroz.",
+      "Amasse 6 bananas e corte 2 bananas em rodelas.",
+      "No bowl, misture os ovos com a aveia. Acrescente a banana amassada e a canela e misture até obter uma massa homogênea. Por último, adicione o fermento e mexa.",
+      "Despeje a massa na forma e decore com as rodelas de banana por cima.",
+      "Leve ao forno por cerca de 30 minutos ou até o bolo estar totalmente assado e dourado.",
+      "Retire o caroço das tâmaras.",
+      "Leve uma panela pequena (15cm) ao fogo alto com a água, as tâmaras e as ameixas.",
+      "Deixe ferver até reduzir o líquido pela metade.",
+      "Transfira para o liquidificador e bata por 1 minuto. Peneire e sirva por cima do bolo.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser incrementar seu bolo com castanhas e nozes, adicione 1 xícara (chá) de nuts quebrados à massa do bolo antes de incluir o fermento."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312053-bolo-de-banana-sem-acucar-com-calda-de-tamara.html"
+}

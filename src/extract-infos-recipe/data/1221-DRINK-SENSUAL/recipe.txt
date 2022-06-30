@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DRINK SENSUAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de agua tônica gelada",
+      "1 dose de gim de sua preferência (2 dedos)",
+      "gelo a vontade",
+      "1 sachê de chá (morango,frutas vermelhas,podendo usar chá de limão ou maracujà"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escolha uma taça de vinho e coloque o gelo, e em seguida a dose do gim,",
+      "Adicione o saquinho do chá",
+      "Em seguida a água tônica, espere o sachê do chá se dissolver",
+      "Está pronto um belo drink para ser servido, decore com frutas"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA CLAUDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309324-drink-sensual.html"
+}

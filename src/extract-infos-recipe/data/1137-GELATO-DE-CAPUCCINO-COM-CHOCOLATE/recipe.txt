@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GELATO DE CAPUCCINO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1/2 xícara (90 g) de açúcar cristal",
+      "2 xícaras e 1/2 (600 ml) de leite morno",
+      "1 colher de chá (5 ml) de essência de baunilha",
+      "1/2 xícara (90 g) de capuccino",
+      "1 tablete de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as gemas dos ovos e reserve as claras",
+      "Junte às gemas o açúcar e a essência de baunilha e bata todos em uma batedeira",
+      "Ferva o leite até ele borbulhar",
+      "Adicione o leite aos poucos à mistura de açúcar e gemas e bata por um tempo determinado",
+      "Leve essa mistura em banho-maria e mexa com uma colher de pau",
+      "Quando a mistura engrossar e grudar na colher, deixe esfriar",
+      "Leve o chocolate em Banho Maria até criar uma calda",
+      "Junte a calda e o Capuccino à mistura e coloque na geladeira por 3 horas",
+      "Retire e ponha no congelador até criar uma película de gelo por cima, mexa a mistura com uma colher de sorveteiro e coloque novamente no congelador",
+      "Sirva-o com frutas e coberturas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TIA RUTH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309664-gelato-de-capuccino-com-chocolate.html"
+}

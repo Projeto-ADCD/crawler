@@ -1,0 +1,30 @@
+{
+  "nome_receita": "GALETO ASSADO COM MANTEIGA DE SÁLVIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 galeto inteiro ou frango pequeno já descongelado ",
+      "2 litros de água   ",
+      "1 colher (sopa) de sal   ",
+      "½ colher (sopa) de açúcar   ",
+      "1 molho de sálvia fresca   ",
+      "1 xícara de manteiga derretida   ",
+      "raspas e suco de três limões   ",
+      "6 dentes de alho   ",
+      "pimenta do reino à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na véspera, em um pote grande com tampa ou saco plástico culinário, misture a água com o sal, o  açúcar e o suco e raspas de 2 limões. Mergulhe o frango nessa salmoura e deixe na geladeira por pelo  menos 6h. ",
+      "Passado o tempo, retire o frango e seque-o bem com o auxílio de um papel toalha. Coloque em uma  assadeira com o peito voltado para baixo, espalhe sal, pimenta, alho e suco de limão por toda a ave. Adicione então metade da manteiga derretida e metade do maço de sálvia. ",
+      "Cubra com papel alumínio e leve ao forno a 190° C por aproximadamente 1h. ",
+      "Enquanto o frango assa, prepare a manteiga de sálvia para regar o frango. Em uma panela em fogo  baixo, junte a manteiga, as folhas da outra metade do maço de sálvia e as raspas de limão por  aproximadamente 5 minutos ou até que as folhas de sálvia comecem a fritar. ",
+      "Retire o papel alumínio do galeto e vire-o com o peito voltado para cima, regue com parte do molho de manteiga de sálvia e deixe dourar no forno por mais 20 minutos. ",
+      "Quando estiver bem dourado e crocante retire do forno e sirva acompanhado da manteiga de sálvia e  uma Coca-Cola Sem Açúcar bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "COCA-COLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314068-galeto-assado-com-manteiga-de-salvia.html"
+}

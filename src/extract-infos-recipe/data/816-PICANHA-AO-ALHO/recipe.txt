@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PICANHA AO ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de picanha (corte de sua preferência bifes ou inteira, peca de 1kg a 1,2 kg no máximo)",
+      "20 dentes de alho",
+      "1/2 copo (americano) de molho shoyo ou inglês ",
+      "sal a gosto"
+    ],
+    "PASTA DE ALHO": [
+      "5 dentes de alho",
+      "1 caixa de creme de leite",
+      "óleo ate da ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o alho, molho shoyo ou molho inglês ,até virar uma pasta homogênea.",
+      "Em um tabuleiro coloque a peca de picanha e passe em toda a peça de picanha o tempero e deixe descansar por 10 minutos.",
+      "Apos esse processo leve ao forno quente a 180° C graus.",
+      "Retire 40 minutos após"
+    ],
+    "PASTA DE ALHO": [
+      "Bata no liquidificador ate da ponto de maionese.",
+      "E pincele a pasta de alho apos retirar ela do forno"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Fica a critério se vocês quiserem rechear ela"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WESLLEY FERNANDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311455-picanha-ao-alho.html"
+}

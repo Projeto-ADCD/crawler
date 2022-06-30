@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA DE REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates",
+      "1/2 repolho",
+      "3 a 4 colheres de maionese",
+      "1/2 pacote de batata palha de 400 g"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire o miolo e as sementes do tomate .",
+      "Pique o tomate em pequenos pedaços.",
+      "Rale o repolho em bem fininho.",
+      "Misture o tomate com o repolho.",
+      "Coloque a maionese na salada misturada.",
+      "Coloque a batata palha e misture bem até ficar crocante"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JESSICA ESTHEEFANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310872-salada-de-repolho.html"
+}

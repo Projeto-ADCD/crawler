@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PETIT GATEAU DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) chocolate em pó",
+      "1 e 1/2 colher (sopa) margarina sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha que possa levar ao micro-ondas, misture o leite, chocolate,farinha de trigo e o açúcar.",
+      "Derreta a margarina e adicione a mistura.",
+      "Leve ao micro-ondas por 1 minuto",
+      "OBS: Não se preocupe porque ele não cresce mesmo.",
+      "A intenção é ficar bem molhadinho, então não é necessário colocar mais de 1 minuto",
+      "AVISO: Cuidado na hora de comer, se não for esperar esfriar, pode queimar a língua."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ISABELLE CRISTINE FERRIRA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308487-petit-gateau-de-micro-ondas.html"
+}

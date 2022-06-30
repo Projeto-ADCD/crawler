@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SORVETE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gelatina (sabor de sua preferência, esse será o sabor do sorvete)",
+      "1 leite condensado",
+      "1 creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare a gelatina conforme instruções da embalagem, reserve.",
+      "No liquidificador bata a gelatina, leite condensado e o creme de leite por 1 minuto",
+      "Coloque no pote e leve ao freezer por 3 horas (esse tempo varia conforme potência do freezer. O ponto ideal é quando a massa começar a cristalizar deixando de ser líquida e passando a solidificação. Obs: a massa não pode está congelada)",
+      "Coloque a massa na batedeira e bata em velocidade máxima por aproximadamente 10 minutos ou até dobrar de tamanho.",
+      "Leve novamente ao freezer para ganhar textura por 1 hora (depende muito da potência do freezer)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você terá 3 litros de sorvete caseiro, do sabor que desejar. Pode após tirar da batedeira acrescenta uva passa, frutas cristalizadas, chocolate em pedaços, etc."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ANCO MARSICO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307448-sorvete-simples.html"
+}

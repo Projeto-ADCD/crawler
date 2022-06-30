@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO CASEIRO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê de fermento biológico seco instantâneo",
+      "2 colheres (sopa) de açúcar",
+      "2 copos (americano) de leite morno",
+      "3 ovos",
+      "2 colheres (sopa) de manteiga",
+      "1 copo (americano) de açúcar",
+      "3/4 de copo (americano) de óleo",
+      "1 pitada de sal",
+      "1 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, coloque o fermento, 2 colheres de açúcar e 1 copo (americano) de leite morno, e mexa muito bem. Cubra de deixe descansar, irá criar uma espuma.",
+      "Em um liquidificador coloque os demais ingredientes e bata muito bem.",
+      "Junte a Etapa 1 com a Etapa 2, com o trigo, misture muito bem com as mãos, importante não sovar a massa. Deixe crescer até dobrar de tamanho, não amasse mais.",
+      "Divida em 3 pedaços. Cada pedaço divida em 3 novamente e vai enrolando com a mão e fazendo uma cobra, depois disso é só trançar.",
+      "Coloque em uma forma untada as 3 tranças.",
+      "Leve ao forno médio por 40 minutos aproximadamente."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEANDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306448-pao-caseiro-doce.html"
+}

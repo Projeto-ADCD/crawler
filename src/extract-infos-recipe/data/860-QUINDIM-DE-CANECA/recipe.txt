@@ -1,0 +1,30 @@
+{
+  "nome_receita": "QUINDIM DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de coco ralado",
+      "2 colheres (sopa) de coco em flocos",
+      "5 colheres (sopa) de leite de coco",
+      "4 colheres (sopa) de açúcar",
+      "1 ovo",
+      "4 gemas",
+      "1/2 colher (chá) de manteiga sem sal",
+      "4 gotas de essência de baunilha",
+      "1 colher de glucose"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca grande, coloque a glucose, de forma que cubra o fundo por completo",
+      "Junte o coco ralado e o coco em flocos",
+      "Coloque junto o leite de coco, o açúcar, o ovo, as gemas e a manteiga",
+      "Misture tudo muito bem e junte a essência de baunilha",
+      "Leve ao micro-ondas por 4 minutos",
+      "Desenforme em um prato e finalize com mais coco ralado"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311198-quindim-de-caneca.html"
+}

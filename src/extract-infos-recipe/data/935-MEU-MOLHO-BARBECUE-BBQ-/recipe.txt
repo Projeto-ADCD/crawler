@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MEU MOLHO BARBECUE (BBQ)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola pequena (pode ser a roxa)",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de azeite",
+      "1 caixa de extrato de tomate",
+      "1 caixa de água (medida da caixa de extrato de tomate)",
+      "2 colheres (sopa) de de shoyu",
+      "3 colheres (sopa) de açúcar (qualquer tipo)",
+      "2 colheres (chá) de sal",
+      "orégano a gosto",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela pequena, coloque a manteiga e o azeite.",
+      "Refogue a cebola na manteiga com azeite até dourar.",
+      "Adicione o extrato de tomate e a água e o shoyu.",
+      "Coloque o açúcar, a canela, o orégano e o sal.",
+      "Deixe esfriar e coloque num frasco de ketchup limpo.",
+      "Mantenha refrigerado e use quando quiser."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAURA FERNANDA DOS S.M.D",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310846-meu-molho-barbecue-bbq.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO DE PIMENTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de óleo",
+      "5 dentes de alho",
+      "1 cebola grande",
+      "150 g de pimenta (de sua preferência)",
+      "4 tomates médio",
+      "150 ml de vinagre",
+      "1 cenoura grande",
+      "50 ml de catchup",
+      "30 ml de mostarda",
+      "2 colheres de maionese",
+      "1 folha de louro",
+      "2 colheres (café) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a cenoura e reserve.",
+      "Numa panela coloque o óleo, o alho e a cebola para dourar, depois acrescente a pimenta picada grosseiramente, o tomate, a cenoura cozida, o catchup, a mostarda, o sal, a maionese e a folha de louro, refogue bem e depois bata no liquidificador junto com o vinagre.",
+      "Caso ache que a consistência ficou muito grossa pode acrescentar vinagre até chegar na espessura desejada.",
+      "Quanto mais forte for sua pimenta mais picante seu molho irá ficar.",
+      "Esse molho dura até 15 dias na geladeira e rende em torno de 2 garrafinhas de 500 ml (isso irá depender do tamanho dos tomates, cebola e cenoura que ultilizar)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAYANE KAREN DA SILVA ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313217-molho-de-pimenta.html"
+}

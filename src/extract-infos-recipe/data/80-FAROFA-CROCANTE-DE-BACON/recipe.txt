@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA CROCANTE DE BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de bacon cortado em cubinhos pequenos (150g)",
+      "1 cebola grande picada (cerca de 150g)",
+      "1 xícara (chá) de ameixa preta picada (150g)",
+      "1 xícara (chá) de Castanhas-do-Pará torradas e picadas grosseiramente (100g)",
+      "½ xícara (chá) de Azeite de Oliva Extra Virgem Gomes da Costa (120ml)",
+      "cerca de 2 xícaras (chá) de farinha de mandioca (300g)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela frite o bacon em sua própria gordura. Acrescente a cebola e refogue até que murchar.",
+      "Junte a ameixa preta, a castanha e o Azeite de Oliva Extra Virgem Gomes da Costa. Misture.",
+      "Adicione aos poucos a farinha, mexendo sempre até obter uma farofa úmida.",
+      "Tempere com sal a gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica do Chef\nA farinha deve ser acrescentada aos poucos, mexendo-se sem parar, para obter a textura desejada (úmida e soltinha)\nVariação\nSubstitua a Castanha-do-Pará por Castanha-de-Caju."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GOMES DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314578-farofa-crocante-de-bacon.html"
+}

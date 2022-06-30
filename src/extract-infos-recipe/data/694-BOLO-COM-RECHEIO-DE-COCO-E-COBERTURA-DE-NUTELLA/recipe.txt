@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO COM RECHEIO DE COCO E COBERTURA DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1 e 1/2 xícara de óleo",
+      "2 xícaras de leite",
+      "4 xícaras de farinha",
+      "3 xícaras de açúcar",
+      "2 colheres (sopa) de fermento",
+      "Recheio",
+      "1 pacote de coco ralado",
+      "1 gema",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de margarina",
+      "Cobertura",
+      "1 pote de nutella",
+      "cerca de 3 colheres de leite",
+      "1 pacotinho de amêndoas picadas ou o que preferir (castanha, avelã, nozes)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture bem todos os ingredientes, até ficar uma massa lisa.",
+      "Acrescente por último o fermento e misture delicadamente.",
+      "Coloque a massa em duas formas iguais (ou em uma e corte no meio depois) untadas com margarina e polvilhada com farinha de trigo.",
+      "Leve ao forno pré-aquecido (180°C) para assar por aproximadamente 35 minutos.",
+      "Recheio",
+      "Misture todos os ingredientes em uma panela e leve ao fogo, vai mexendo até começar a descolar",
+      "Cobertura",
+      "Coloque a Nutella em uma panela e vai adicionando um pouco de leite a medida que vai derretendo até formar uma calda.",
+      "Montagem",
+      "Por cima da primeira metade do bolo adicione o recheio, coloque a outra metade do bolo, cubra com a calda de nutella e jogue por cima as amêndoas picadas.",
+      "Depois de frio eu coloco na geladeira e como em porções pequenas por 5 dias."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CLAUDIA RICCI DE FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312028-bolo-com-recheio-de-coco-e-cobertura-de-nutella.html"
+}

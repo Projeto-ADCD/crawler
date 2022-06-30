@@ -1,0 +1,42 @@
+{
+  "nome_receita": "ARROZ CAIPIRA COM COSTELINHA DE PORCO E LINGUIÇA CALABRESA FRESCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costelinha de porco em pedaços (tamanho de 3 dedos)",
+      "0,7 kg de linguiça calabresa fresca (não usar industrializada)",
+      "100 g de bacon",
+      "1 colher (sopa) de sal",
+      "4 folhas de louro",
+      "1 colher (sopa) de alecrim",
+      "3 limões",
+      "1 colher (chá) de pimenta caiena em pó",
+      "1 colher (sopa) de alho desidratado",
+      "1 colher de sopa de azeite",
+      "1 colher (sopa) de páprica",
+      "250 g de banha de porco",
+      "2 cebolas bem picadas",
+      "1 lata de milho verde",
+      "2 colheres (sopa) de açafrão da terra (cúrcuma)",
+      "3 xícaras de arroz",
+      "7 xícaras de água fervente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Marinar a costelinha de porco por 6 horas com sal, louro, alecrim, limão, pimenta caiena, alho desidratado, azeite e páprica.",
+      "Aquecer bem a banha de porco e fritar a costelinha até ficar bem dourada.",
+      "Pouco antes da costelinha ficar bem dourada, adicionar o bacon e a linguiça calabresa cortada em rodelas de 1 dedo de espessura.",
+      "Retirar o excesso de gordura.",
+      "Adicionar a cebola picada e misturar bem por 2 minutos.",
+      "Adicionar o milho, arroz e açafrão e deixar fritar por 3 minutos.",
+      "Adicionar a água fervente e acertar o sal a gosto.",
+      "Tampar a panela, e deixar a água evaporar em fogo médio.",
+      "Após evaporação da água, desligar o fogo e deixar o arroz tampado por 15 minutos.",
+      "Finalizar com cheiro verde picado a gosto e mexer o arroz."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ED LINCOLN MIKIO KIYATAKA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311984-arroz-caipira-com-costelinha-de-porco-e-linguica-calabresa-fresca.html"
+}

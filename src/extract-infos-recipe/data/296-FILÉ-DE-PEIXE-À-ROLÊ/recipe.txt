@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FILÉ DE PEIXE À ROLÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de merluza (Confiare)",
+      "2 colheres (sopa) de azeite",
+      "1 cebola roxa em tiras",
+      "1 pimentão amarelo em tiras",
+      "1 pimentão vermelho em tiras",
+      "1 pimentão verde em tiras",
+      "suco e raspas de 1 limão tahiti",
+      "2 xícaras de ricota",
+      "2 dentes de alho amassados",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 maço de cheiro-verde bem picado",
+      "sal e pimenta-branca a gosto",
+      "palitos para prender os rolinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com os filés de peixe descongelados, seque-os bem com papel toalha e tempere com sal, pimenta- branca e limão. Depois de temperado, passe os filés levemente na farinha de trigo e reserve.",
+      "Em seguida, comece a preparar o recheio dos rolinhos de peixe. Amasse bem a ricota, tempere  com sal, os dentes de alho amassados e metade do cheiro-verde picado. Então, espalhe uma camada de ricota por cima de cada filé de peixe.",
+      "É hora de rechear os peixes. Por cima dos filés com ricota, disponha uma tira de pimentão vermelho, uma de verde, uma de amarelo e uma de cebola roxa. Posicione as tiras de forma perpendicular aos filés, de modo que ao enrolar, elas fiquem exatamente no meio do rolinho. Com os  rolinhos feitos, prenda a ponta com um palito.",
+      "Coloque os rolinhos em uma assadeira untada com azeite. Pincele com mais azeite em cima de cada rolinho e leve-os para assar em forno preaquecido a 180ºC por 15 minutos ou até dourar.",
+      "Ao retirar do forno, dê uma pincelada extra de azeite e salpique cheiro-verde e raspas de limão."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BIG",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313341-file-de-peixe-a-role.html"
+}

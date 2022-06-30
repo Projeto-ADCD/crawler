@@ -1,0 +1,41 @@
+{
+  "nome_receita": "DELÍCIA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata ou caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "200 ml de leite de coco",
+      "2 colheres (sopa) de margarina ou manteiga",
+      "200 ml de chantili",
+      "2 caixas de morangos picadinhos",
+      "5 colheres de açúcar",
+      "4 colheres de água",
+      "100 g de chocolate meio amargo",
+      "1 caixa de bis"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite condensado, a metade do creme de leite, o leite de coco e a manteiga.",
+      "Cozinhe até virar um brigadeiro de colher.",
+      "Reserve.",
+      "Em outra panela coloque a água, o açúcar e os morangos.",
+      "E cozinhe até que vire uma espécie de geleia.",
+      "Reserve.",
+      "Bata o chantilly gelado até ficar no ponto.",
+      "Adicione o brigadeiro branco (já em temperatura ambiente). ",
+      "E bata até ficar homogêneo.",
+      "Derreta o chocolate e misture com o restante do creme de leite.",
+      "Em uma travessa ou marinex de vidro corte todos os bis em 3 partes e espalhe.",
+      "Coloque a metade da misturinha do brigadeiro com chantili",
+      "Coloque a geleia de morango já fria.",
+      "Coloque o restante da misturinha.",
+      "Adicione toda a ganache.",
+      "Leve à geladeira por 2 horas e já poderá servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308488-delicia-de-chocolate.html"
+}

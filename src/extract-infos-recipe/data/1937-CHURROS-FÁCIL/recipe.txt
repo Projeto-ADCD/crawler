@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHURROS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite",
+      "250 ml de água",
+      "20 g de margarina sem sal (1 colher de sopa)",
+      "2 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o leite a água e a margarina",
+      "Leve ao fogo médio até que a margarina derreta e o leite ferva.",
+      "Assim que ferver desligue o fogo e adicione a farinha e mexa até desgrudar da panela",
+      "Depois só por no espremedor e fritar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MÔNIQUE STÉRFANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306370-churros-facil.html"
+}

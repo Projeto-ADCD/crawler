@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CUPCAKE DE FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "100 g de manteiga ou margarina",
+      "1 e 1/2 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 maçã ",
+      "1 pera ",
+      "1 banana ",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "120 g de chocolate meio amargo",
+      "100 g de creme de leite (meia caixinha)",
+      "bananas em rodelas assadas "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com fouet (batedor manual) misture: ovos, manteiga e açúcar.",
+      "Acrescente a farinha de trigo e misture, por último o fermento em pó e as frutas com casca,sem sementes e em cubos (a banana apenas em cubos)",
+      "Coloque em forminhas de papel, encaixe em forminhas de empada e depois coloque em uma assadeira.",
+      "Leve em formo preaquecido a 180° C,deixe por aproximadamente 30 minutos.",
+      "Derreta o chocolate no micro-ondas, por aproximadamente 1 minuto ,verificando a cada 20 segundos.",
+      "Retire os cupcakes frios das forminhas de empada coloque a cobertura de ganache e meia rodela de banana."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Cortei as bananas em rodelas, coloquei em uma assadeira e levei em forno preaquecido a 180° C, deixei até ficarem douradas, demora um pouquinho"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308225-cupcake-de-frutas.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CHIMICHURRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de água",
+      "1 colher de sal grosso",
+      "1 cabeça de alho",
+      "1 xícara de folhas de salsinha lisa fresca",
+      "1 xícara de folhas de orégano fresco",
+      "2 colheres (chá) de páprica picante",
+      "1/4 de xícara de vinagre de vinho tinto",
+      "1/2 xícara de azeite de oliva extravirgem"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a água e sal grosso e leve ao fogo para fazer uma salmoura.",
+      "Quando o sal derreter desligue e deixe esfriar.",
+      "Pique bem o alho, a salsa e o orégano e misture bem em uma tigela.",
+      "Tempere com a páprica.",
+      "Batendo sempre com a ajuda de um fouet (batedor de arame), acrescente o vinagre e na sequência o azeite.",
+      "Por último, junte a salmoura também batendo.",
+      "Ele é gostoso fresco, mas fica ainda melhor depois de alguns dias.",
+      "Ele dura até 3 semanas na geladeira em um frasco hermético."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "POLYANA MOTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306824-chimichurri.html"
+}

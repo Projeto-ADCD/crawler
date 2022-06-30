@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ESCONDIDINHO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 batatas cozidas",
+      "1/2 caixa de creme de leite",
+      "1 colher (sopa) manteiga",
+      "tempero a gosto",
+      "Recheio",
+      "1 copo de requeijão cremoso",
+      "1 xícara queijo parmesão ralado",
+      "1 xícara de queijo mussarela ralado",
+      "manjericão fresco a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as batatas, os temperos, o creme de leite e reserve.",
+      "Em uma vasilha, misture os queijos, o requeijão, o manjericão e o cheiro-verde até formar uma pasta.",
+      "Unte um refratário com a manteiga.",
+      "Faça camadas alternadas, começando com o creme de batata e depois a mistura dos queijos.",
+      "Finalize com uma camada de queijo mussarela e parmesão.",
+      "Leve ao forno para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307305-escondidinho-de-queijo.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BISCOITO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "3 colheres de manteiga",
+      "3 colheres de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até forma uma massa",
+      "Faça bolinhas",
+      "Leve ao forno até ficarem dourados",
+      "Sirva quando esfriar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROSENALDO DOS SANTOS PANTOJA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306367-biscoito-de-chocolate.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PUDIM DE SALADA DE FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 e 1/2 caixa de creme de leite",
+      "400 ml de leite",
+      "30 g de gelatina sem sabor hidratada",
+      "8 morangos",
+      "1 kiwi",
+      "1 lata de pêssego em calda",
+      "10 uvas",
+      "100 g de açúcar",
+      "80 g de açúcar mascavo",
+      "100 g de nozes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado, o creme de leite, o leite e a gelatina em um liquidificador",
+      "Bata tudo muito bem",
+      "Em uma forma de silicone, forre o fundo com as frutas, intercalando de uma maneira que fique quase uma guirlanda de natal",
+      "Você pode usar as frutas que deseja e formar o seu desenho a gosto também ",
+      "Depois despeje a massa com cuidado para que as frutas não saiam do lugar",
+      "Leve à geladeira por 6 horas",
+      "Enquanto isso, junte os açúcares em uma panela ",
+      "Mexe e deixe derreter bem ",
+      "Junte as nozes e mexa novamente",
+      "Despeje esse caramelo em uma superfície e deixe esfriar ",
+      "Quando estiver duro, quebre em pedaços menores e leve para um mixer",
+      "Bata até se formar uma farofa fina",
+      "Sirva acompanhada do pudim",
+      "Decore o prato com hortelã"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314042-pudim-de-salada-de-frutas.html"
+}

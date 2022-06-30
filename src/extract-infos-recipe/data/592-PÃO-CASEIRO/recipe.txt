@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de FARINHA DE TRIGO DONA BENTA TRADICIONAL",
+      "1 pacote (10 g) de FERMENTO SECO INSTANTÂNEO DONA BENTA",
+      "1 colher (sopa) de açúcar",
+      "3 colheres (sopa) de margarina",
+      "1 colher (chá) de sal",
+      "2 ovos",
+      "300 ml de água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ative o fermento seco misturando o fermento com 2 colheres de farinha de trigo e 50 ml da água morna e espere fermentar por 30 minutos.",
+      "Temos duas opções de preparo da massa:",
+      "À mão: adicione o restante da água, açúcar, sal, ovos, o fermento ativado a margarina, e a FARINHA DE TRIGO DONA BENTA TRADICIONAL até o ponto de desgrudar das mãos. Sove por 5 minutos.",
+      "Na batedeira: Adicione todos os ingredientes na batedeira e deixe misturar por 3 minutos na velocidade 1 e depois 10 minutos na velocidade máxima da batedeira.",
+      "Faça uma bola com toda a massa e deixe descansar por 15 minutos.",
+      "Abra a massa com a palma das mãos, e enrole como rocambole, unte uma assadeira para pão de forma e coloque o pãozinho.",
+      "Espere fermentar por 90 minutos. Asse por 25 minutos em forno pré-aquecido a 180ºC."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312428-pao-caseiro.html"
+}

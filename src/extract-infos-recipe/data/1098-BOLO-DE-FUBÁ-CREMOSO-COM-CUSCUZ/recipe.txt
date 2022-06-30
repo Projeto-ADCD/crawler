@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE FUBÁ CREMOSO COM CUSCUZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de tapioca granulada",
+      "6 xícaras de leite",
+      "4 ovos",
+      "1 xícara e meia de fubá",
+      "2 colheres de manteiga",
+      "2 xícaras de açúcar",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Hidrate a tapioca em aproximadamente 2 xícaras de leite bem quente. Deixe esfriar",
+      "Bata todos os ingredientes restantes e por último coloque o cuscuz aos poucos, batendo bem.",
+      "Coloque em forma besuntada e untada e asse em forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOHN WAYNE AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309915-bolo-de-fuba-cremoso-com-cuscuz.html"
+}

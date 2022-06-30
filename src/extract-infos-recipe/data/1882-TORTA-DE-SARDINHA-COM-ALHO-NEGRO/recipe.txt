@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE SARDINHA COM ALHO NEGRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio",
+      "2 latas de sardinha com molho",
+      "1 lata de milho",
+      "1 tomate pequeno picado",
+      "1 cebola pequena picada",
+      "1/2 xícara de azeitona",
+      "3 dentes de alho negro alho negro picados",
+      "sal a gosto",
+      "Massa",
+      "2 xícaras bem cheias de farinha de trigo",
+      "300 ml de leite",
+      "4 ovos",
+      "3/4 de xícara de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque os ovos, o leite, o óleo e o amido de milho e bata tudo por 2 minutinhos.",
+      "Em seguida acrescente metade da farinha de trigo e bata até misturar tudo.",
+      "Adicione o restante da farinha de trigo e deixe bater por mais 2 minutos.",
+      "Por último, coloque o fermento e misture bem com uma colher.",
+      "Em seguida despeje metade dessa massa numa forma untada e enfarinhada.",
+      "Espalhe o recheio por cima e despeje a outra metade da massa por cima de tudo.",
+      "Leve para assar em forno preaquecido, 180º C, por cerca de 40 minutos ou até que a massa fique dourada por cima."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "ALHO NEGRO DO SÍTIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306535-torta-de-sardinha-com-alho-negro.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de polvilho azedo",
+      "1 xícara de queijo ralado",
+      "1 ovo",
+      "5 colheres (sopa) de oleo",
+      "5 colheres (sopa) de água quente",
+      "sal e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes num bowl até que fique uma massa homogênea.",
+      "Faça bolinhas e disponha em uma forma untada.",
+      "Asse até dourar por cerca de 20 minutos em forno a 180º C"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DAIANE DEOLINDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306341-pao-de-queijo-fit.html"
+}

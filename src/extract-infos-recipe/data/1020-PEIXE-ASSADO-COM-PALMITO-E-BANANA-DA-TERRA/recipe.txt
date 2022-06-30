@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PEIXE ASSADO COM PALMITO E BANANA DA TERRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peixe do dia espalmado (aprox. 2kg. Pode ser Carapau, Pargo, Cioba, Anchova) ",
+      "1 cebola picada",
+      "1 pimenta dedo de moça picada sem sementes",
+      "1 dente de alho picado",
+      "50 g de salsa picada",
+      "20 g coentro picado",
+      "250 ml de Azeite de Oliva Gallo Tipo Único ",
+      "100 ml de Azeite Gallo Extra Virgem Reserva ",
+      "1 tolete de palmito pupunha ",
+      "3 bananas da terra ",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Picar a cebola, alho e pimenta e temperar o peixe. Adicione também o sal a gosto e metade do azeite.",
+      "A parte leve ao forno a banana com casca e tudo e o tolete de palmito. Se o tolete estiver na casa pode ser na casca mesmo, se não, envolva em papel alumínio. Asse ambos juntos por 30 min a 180 graus .",
+      "Pique a salsa e o coentro e adicione o restante do azeite. Reserve esse azeite para finalizar o prato.",
+      "Em uma assadeira, disponha o peixe temperado, o palmito e a bananas sem casca e inteiros e leve ao forno para assar a 220 graus por 20 minutos. ",
+      "Por último, com a assadeira recém-saída do forno, despeje o azeite Gallo Reserva com a salsa e o coentro com a preparação muito quente para finalizar o prato e termos um sabor mais especial e marcante. Depois é só servir."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GALLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310419-peixe-assado-com-palmito-e-banana-da-terra.html"
+}

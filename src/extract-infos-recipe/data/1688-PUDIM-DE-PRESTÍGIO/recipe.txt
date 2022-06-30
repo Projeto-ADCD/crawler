@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PUDIM DE PRESTÍGIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "CREME DE COCO",
+      "1 leite condensado",
+      "1 creme de leite",
+      "1/2 xícara de leite em pó",
+      "1 sachê de gelatina sem sabor (12 g)",
+      "200 ml de leite de coco (pode substituir por leite comum)",
+      "coco ralado a gosto",
+      "CREME DE CHOCOLATE",
+      "1 leite condensado",
+      "1 creme de Leite",
+      "4 colheres (sopa) de achocolatado (pode colocar a gosto também)",
+      "2 sachês de gelatina sem sabor (12 g cada)",
+      "250 ml de Leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com óleo",
+      "CREME DE COCO",
+      "Faça a gelatina sem sabor (feita de acordo com a embalagem) e reserve",
+      "Bata o restante dos ingredientes no liquidificador até misturar bem",
+      "Acrescente a gelatina sem sabor e bata mais um pouco",
+      "Leve à geladeira até ficar firme (ou ao freezer por alguns minutos)",
+      "CREME DE CHOCOLATE",
+      "Após o creme de coco já estar firme faça as gelatinas sem sabor (feita de acordo com a embalagem) e reserve",
+      "Bata o restante dos ingredientes no liquidificador até misturar bem",
+      "Acrescente a gelatina sem sabor e bata mais um pouco",
+      "Leve à geladeira até ficar firme",
+      "ATENÇÃO: aparte de chocolate só pode ser acrescentada após a de coco estar firme, para que ambas não se misturem",
+      "DICA: Para desenformar aqueça água, coloque em uma vasilha maior que a firma de pudim e coloque a forma por alguns segundos para que dê uma leve derretida antes de desenformar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NAYARA CARDOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307163-pudim-de-prestigio.html"
+}

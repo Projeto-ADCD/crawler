@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE BACALHAU FALSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de merluza",
+      "500 g de batata asterix",
+      "1 molho de cheiro-verde picado",
+      "4 colheres (sopa) de farinha de trigo ou fécula de batata",
+      "1 ovo ",
+      "sal e pimenta-branca a gosto",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a merluza no vapor por 5 minutos ou até ficar firme. Depois, a desfie finamente, se puder, use um pano de prato bem limpo e vá passando os filés no meio do pano esticado (abra o pano, coloque os peixes e esfregue o filés com cuidado, o atrito ajudará a desfiar com mais facilidade). Reserve. ",
+      "Descasque e cozinhe as batatas também no vapor. Depois que elas estiverem moles, amasse-as e prepare um purê. Reserve o purê já frio. ",
+      "Em uma tigela inclua todos os ingredientes, amasse bem até formar uma massa homogênea.  Você pode usar mais ou menos farinha de acordo com a umidade dos filés que você estiver usando. ",
+      "Com as mãos unidas, forme bolinhas e leve para descansar na geladeira por pelo menos 1 hora.",
+      "Retire os bolinhos da geladeira e frite-os em óleo bem quente. Sirva com azeite e com uma Coca-Cola Sem Açúcar bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "COCA-COLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314096-bolinho-de-bacalhau-falso.html"
+}

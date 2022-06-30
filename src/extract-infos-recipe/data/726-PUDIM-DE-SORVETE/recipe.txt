@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM DE SORVETE",
+  "ingredientes": {
+    "CALDA": [
+      "6 colheres (sopa) de chocolate em pó",
+      "6 colheres (sopa) de açúcar",
+      "1/2 xícara (chá) de água"
+    ],
+    "PUDIM": [
+      "1 caixa de leite condensando",
+      "3 gemas peneiradas",
+      "1 xícara (chá) de leite",
+      "3 claras",
+      "3 colheres (sopa) de açúcar",
+      "1 caixa de creme de leite sem soro"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Numa panela, junte a água, o açúcar, o chocolate em pó e misture bem. Leve ao fogo baixoe mexa até engrossar. Retire do fogo e deixe esfriar. Espalhe a calda numa forma de pudim e reserve."
+    ],
+    "PUDIM": [
+      "Numa panela, misture as gemas, o leite condensado e o leite e misture bem. Depois coloque as misturas numa panela e cozinhe até engrossar, como um mingau sem parar de mexer. Deixe esfriar, bata as claras em neve e quando estiver endurecendo coloque o açúcar, o creme de leite mexendo delicadamente. Em seguida adicione o creme de gemas frio no creme das claras e misture bem. Transfira para a forma já com a calda e leve ao congelador por 5 horas ou de um dia para o outro. Para desenformar, aqueça levemente o fundo da forma."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LETÍCIA DE OLIVEIRA SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311893-pudim-de-sorvete.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FRANGO COM ASPARGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "185 g aspargos verdes marinados",
+      "azeite de oliva extravirgem Vale Fértil",
+      "4 peças de peito de frango",
+      "8 fatias de bacon",
+      "4 dentes de alho",
+      "queijo mussarela ralado",
+      "sal a gosto",
+      "páprica defumada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as peças de peito de frango, como abrindo um pão francês.",
+      "Regue azeite de oliva dentro e fora das peças.",
+      "Tempere com sal, alho picado e páprica defumada.",
+      "Recheie com o queijo ralado e os aspargos.",
+      "Se preferir um sabor mais suave, lave os aspargos antes.",
+      "Unte a forma com azeite.",
+      "Envolva as peças com duas fatias de bacon cada e mas alguns aspargos.",
+      "Leve ao forno preaquecido a 180° C por cerca de 25 minutos ou até gratinar bem."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VALE FÉRTIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309505-frango-com-aspargos.html"
+}

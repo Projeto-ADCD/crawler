@@ -1,0 +1,37 @@
+{
+  "nome_receita": "RISOTO DE CALABRESA E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz arbóreo",
+      "250 g de calabresa picada",
+      "250 g de bacon picado",
+      "50 ml de vinho branco seco",
+      "1 colher (sopa) de manteiga",
+      "2 sachês de caldo de bacon",
+      "50g de queijo parmesão (opcional)",
+      "manjericão a gosto",
+      "cebola a gosto",
+      "azeite",
+      "alho a gosto",
+      "1,5 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a água ferver e acrescente o caldo de bacon.",
+      "Em outra panela, aqueça o azeite.",
+      "Refogue o alho e a cebola.",
+      "Acrescente o bacon e a calabresa e deixe dourar.",
+      "Após isso acrescente o arroz arbóreo (sem lavar, e acrescente o manjericão se quiser), refogue rapidamente e acrescente o vinho.",
+      "Deixe o álcool evaporar.",
+      "Por fim, acrescente a água com caldo de bacon aos poucos e mexendo sempre.",
+      "Acrescente mais caldo assim que for evaporando.",
+      "Repita esse processo até que o arroz esteja macio.",
+      "Por fim acrescente o queijo parmesão se quiser um risoto bem cremoso"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "BAD SAD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309577-risoto-de-calabresa-e-bacon.html"
+}

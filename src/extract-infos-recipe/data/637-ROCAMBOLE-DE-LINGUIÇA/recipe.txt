@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ROCAMBOLE DE LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de linguiça",
+      "1 xícara de farinha de rosca",
+      "1/2 cebola picadinha",
+      "1/2 tomate picadinho",
+      "1/2 pimentão vermelho picadinho",
+      "100 g de mussarela ralada",
+      "100 g de presunto ralado",
+      "1 gomo de calabresa picadinha",
+      "100 g de bacon picadinho",
+      "1/2 lata de milho verde",
+      "1/2 lata de ervilha",
+      "azeitona a gosto",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a pele de todas as linguiças",
+      "Em um vasilha, misture as linguiças com a farinha de rosca",
+      "Tempere com pimenta e ervas à gosto",
+      "Em um plástico, coloque a massa e vá abrindo até que fique um quadrado bem certinho",
+      "Coloque mais no centro da massa, a mussarela, o presunto, a cebola, o tomate, o pimentão, a calabresa, o bacon, o milho, a ervilha e a azeitona.",
+      "Com ajuda do plástico, vá enrolando até que feche o rocambole.",
+      "Pincele um pouco de massa de tomate e salpique orégano.",
+      "Leve ao forno médio por aproximadamente 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312213-rocambole-de-linguica.html"
+}

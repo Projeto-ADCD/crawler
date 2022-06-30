@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO FUNCIONAL DE COCO E CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "200 ml de leite de coco",
+      "2 colheres de sopa de manteiga derretida",
+      "3 colheres de sopa de adoçante (xilitol)",
+      "2 colheres de sopa de coco ralado",
+      "2 colheres de copa de canela em pó",
+      "4 colheres de sopa de aveia",
+      "1 colher de sopa de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Colocar os ovos, leite, manteiga, adoçante, coco ralado e canela em uma tigela e misturar tudo com um fouet",
+      "Após, adicionar aos poucos a aveia e bater novamente com o fouet até misturar bem",
+      "Por último, acrescentar o fermento e mexer levemente",
+      "Colocar a massa em uma forma de silicone ou com fundo falso de diâmetro pequeno e untada com azeite, deixando assar por cerca de 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDRESSA POLICARPO MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314211-bolo-funcional-de-coco-e-canela.html"
+}

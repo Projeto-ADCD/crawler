@@ -1,0 +1,59 @@
+{
+  "nome_receita": "BACALHAU MARAVILHOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de bacalhau desfiado",
+      "1/2 litro de leite",
+      "1/2 litro de água",
+      "3 folhas de louro",
+      "1 cebola grande",
+      "3 dentes de alho bem picados",
+      "1 pimentão vermelho sem pela",
+      "1 pimentão amarelo sem pele",
+      "2 tomates maduros sem pele",
+      "2 colheres (sopa) de molho inglês",
+      "1/2 xícara de azeitonas pretas ou verdes a seu gosto",
+      "800 g de batata",
+      "3 colheres de manteiga",
+      "1/4 de xícara de leite (ou o necessário)",
+      "1 pote de requeijão cremoso",
+      "1 lata de creme de leite sem soro",
+      "1/2 vidro de leite de coco (opcional)",
+      "1/2 pacote de camarões médios.",
+      "1 limão siciliano",
+      "50 g de queijo parmesão ralado",
+      "Sal e pimenta a gosto",
+      "Azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o bacalhau de molho em água para tirar o sal por umas 24 horas, trocando a água umas 4 vezes.",
+      "Em uma panela funda coloque o leite a e água com as folhas de louro e acrescente o bacalhau.",
+      "Deixe ferver por uns 5 minutos.",
+      "Retire o bacalhau e deixe esfriar antes de desfiar.",
+      "Na mesma água que foi cozido o bacalhau, coloque as batatas cortadas em fatia para cozinhar, acrescente um pouco de sal.",
+      "Enquanto isso pique a cebola, o alho e os pimentões.",
+      "Em uma panela coloque bastante azeite e refogue a cebola picada e o alho picado por uns 5 minutos.",
+      "Acrescente os tomates picados e o molho inglês e deixe refogar por uns minutos.",
+      "Por fim acrescente as azeitonas picadas e o bacalhau desfiado e coloque sal e pimenta a seu gosto, deixe refogar por mais uns 5 minutos.",
+      "Cuidado com o sal. O refogado não deve ficar seco. Se isso acontecer acrescente um pouco de vinho branco.",
+      "Passe as batatas, ainda quente, por um espremedor de batatas, acrescente a manteiga e aos pouco o leite e misture tudo muito bem.",
+      "O purê deve ficar encorpado.",
+      "Acrescente sal e pimenta a gosto.",
+      "Forre o fundo de uma travessa refratária funda com o purê de batata.",
+      "Por cima espalhe o refogado de bacalhau e regue com um pouco de azeite.",
+      "Limpe os camarões e tempere com sal e limão.",
+      "Numa frigideira coloque um pouco de azeite e refogue os camarões por uns minutos.",
+      "Distribua os camarões sobre o refogado de bacalhau.",
+      "No liquidificado ou com um mixe, misture o requeijão cremoso, o creme de leite e o leite de coco e cubra o refogado de bacalhau com este creme.",
+      "Polvilhe com queijo parmesão ralado e enfeite com azeitonas",
+      "Leve ao forno previamente aquecido e deixe gratinar.",
+      "Sirva com arroz branco e uma boa salada verde"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314717-bacalhau-maravilhoso.html"
+}

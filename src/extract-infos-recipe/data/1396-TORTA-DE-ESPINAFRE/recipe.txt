@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TORTA DE ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio",
+      "2 colheres (sopa) de óleo",
+      "1 maço de espinafre (só as folhas)",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 tablete de caldo de galinha",
+      "Coentro a gosto",
+      "Massa",
+      "3 ovos",
+      "2 xícaras de leite",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de óleo",
+      "1 pitada de sal",
+      "2 colheres de queijo ralado parmesão",
+      "1 e 1/2 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Aqueça o óleo",
+      "Refogue a cebola e o alho picados",
+      "Acrescente o tablete de caldo de galinha e misture",
+      "Acrescente o espinafre picado e refogue",
+      "Acrescente o coentro e misture",
+      "Desligue o fogo e reserve",
+      "Massa:",
+      "Preaqueça o forno a 180 º C",
+      "Bata os ovos, leite, óleo e sal no liquidificador",
+      "Acrescente 1 xícara de farinha de trigo e bata novamente",
+      "Acrescente mais 1 xícara de farinha de trigo e bata",
+      "Com o liquidificador desligado, coloque o queijo ralado e o fermento e bata novamente",
+      "Unte uma forma e coloque metade da massa como primeira camada",
+      "Acrescente o recheio e adicione o resto da massa",
+      "Coloque a forma no forno por 40 minutos ou até a massa ficar dourada"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308551-torta-de-espinafre.html"
+}

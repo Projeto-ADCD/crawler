@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO PÉ DE MOLEQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3/4 de xícara de açúcar mascavo",
+      "1/4 de xícara de açúcar refinado",
+      "200 ml de leite de coco",
+      "2 ovos pequenos",
+      "1/2 xícara de castanhas de caju inteiras, para decorar",
+      "1/2 xícara de castanha de caju torrada e triturada",
+      "1/2 xícara de amendoim sem pele, torrado e triturado",
+      "1 colher (café) de cravo em pó",
+      "2 colheres (chá) de canela em pó",
+      "1 colher (chá) de erva-doce em pó",
+      "1/4 de xícara de café coado forte e quente",
+      "300 g de mandioca crua, ralada e escorrida",
+      "1 colher (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o café com a margarina e mexa até derreter. Junte os açúcares, o leite de coco, os ovos e a mandioca.",
+      "Acrescente o restante dos ingredientes e misture bem.",
+      "Coloque em uma fôrma redonda com cone central, medindo 18cm de diâmetro, untada com margarina e enfarinhada.",
+      "Disponha as castanhas sobre a massa e asse no forno preaquecido, em temperatura moderada, por cerca de 50 minutos ou espete com um palito e veja se ele sai seco.",
+      "Desenforme frio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312309-bolo-pe-de-moleque.html"
+}

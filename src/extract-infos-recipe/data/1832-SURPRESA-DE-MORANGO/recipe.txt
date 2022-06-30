@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SURPRESA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1 caixa de creme de leite",
+      "180 gramas de chocolate ao leite ou amargo",
+      "2 caixas de morango",
+      "uma colher de sopa de margarina ou manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro lave uma caixa de morango, tire o verdinho de cima e corte os morangos em fatias. Pegue uma forma media e coloque os morangos em fileiras como primeira camada.",
+      "Depois, pegue as duas latas de leite condensado e coloque em uma panela media junto com a margarina/manteiga e misture até dar o ponto de brigadeiro. Abra o creme de leite e coloque somente um pouco, deixando o resto pro chocolate. Depois, coloque o brigadeiro branco por cima do morango, sendo a nossa segunda camada.",
+      "Após isso, pegue a outra caixa de morango e repita o processo da primeira caixa. Coloque-os em cima do brigadeiro branco. Virando nossa terceira camada",
+      "Após isso, pegue o chocolate e o creme de leite, coloque-os em uma panela média e mexa em fogo médio. Espere o chocolate derreter todo e coloque por cima do morango. Virando, assim, nossa quarta camada.",
+      "Depois, deixe na geladeira pro 1 hora e sirva-se!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MANUELA BORGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306675-surpresa-de-morango.html"
+}

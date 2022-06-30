@@ -1,0 +1,22 @@
+{
+  "nome_receita": "COMPOTA DE NÊSPERA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de nêsperas bem maduras",
+      "800 g de açúcar",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque, com cuidado, as nêsperas, corte-as ao meio, retire os caroços e ponha de molho durante uma hora em água com o caldo de limão.",
+      "Faça, com o açúcar e meio litro de água, uma calda rala.",
+      "Adicione as nêsperas e deixe ferver em fogo brando, até que fiquem bem passadas pela calda.",
+      "Retire, deixe esfriar e ponha na compoteira."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309998-compota-de-nespera.html"
+}

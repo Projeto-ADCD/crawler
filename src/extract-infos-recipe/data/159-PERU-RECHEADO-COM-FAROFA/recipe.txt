@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PERU RECHEADO COM FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peru",
+      "1 cabeça de alho",
+      "1 colher (chá) de sal",
+      "pimenta-do-reino a gosto",
+      "250 g de manteiga",
+      "500 ml de espumante",
+      "1 talo de aipo",
+      "1 xícara de salsão",
+      "1/2 xícara de tomilho",
+      "suco de 2 laranjas"
+    ],
+    "FAROFA": [
+      "100 g de manteiga",
+      "1 cebola roxa",
+      "100 g de bacon",
+      "3 dentes de alho",
+      "1 maracujá",
+      "100 g de amêndoas em lâminas",
+      "250 g de farinha panko",
+      "1 colher (chá) de sal"
+    ],
+    "MOLHO": [
+      "250 ml de caldo da assadeira",
+      "1 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe e tempere o peru com o alho, o sal e a pimenta. Em seguida espalhe a manteiga por toda a ave.",
+      "Despeje o espumante por cima. Coloque o aipo, o salsão, o tomilho e o suco de laranja, cubra com papel filme e deixe marinando por 3 horas.",
+      "Para a farofa, derreta a manteiga e bote para refogar a cebola roxa, o bacon e o alho. Adicione o maracujá e as amêndoas em lâmina. Mexa e espere dourar. Adicione a farinha panko e misture bem até ficar bem incorporado e douradinho, depois adicione o sal.",
+      "Pegue o peru que estava marinando e amarre as coxas com um barbante. acomode o aipo e as ervas pela travessa, recheie a ave com a farofa, cubra com papel alumínio e bote para assar em forno preaquecido a 180º C por 3 horas.",
+      "Depois de assar, reserve o caldo da assadeira. Despeje em uma panela, adicione o amido de milho e misture bem até dissolver completamente. Só depois disso ligue o forno e deixe reduzir. ",
+      "Despeje o molho por cima do peru e surva-se!"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314112-peru-recheado-com-farofa.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DE LIQUIDIFICADOR FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "2 e 1/2 xícaras de óleo",
+      "2 e 1/2 xícaras de leite",
+      "18 colheres (sopa) de farinha de trigo",
+      "sal a gosto",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes exceto o fermento no liquidificador ate que a mistura fique homogênea e por fim acrescente o fermento.",
+      "Despeje metade da massa em uma forma untada com margarina e farinha, recheie ao seu gosto, cubra com o restante da massa e leve ao forno em potência alta por 15 minutos.",
+      "Diminua o forno e asse por aproximadamente mais 30 minutos ou até dourar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opções de recheio:\nPresunto e queijo\nFrango desfiado e refogado\nSardinha"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DEBORA AUGULIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309406-torta-de-liquidificador-facil.html"
+}

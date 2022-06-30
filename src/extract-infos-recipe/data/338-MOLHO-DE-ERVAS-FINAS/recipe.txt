@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MOLHO DE ERVAS FINAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de azeite de oliva",
+      "1 dente de alho",
+      "1 colher (sopa) de alecrim",
+      "1 colher (sopa) de tomilho",
+      "1 colher (sopa) de salsinha",
+      "1 colher (sopa) de cebolinha",
+      "Nozes (opcional)",
+      "1 pitada de cominho em pó",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador até se misturarem e triturarem por inteiro.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "É uma ótima opção para peixes, suínos, carnes bovinas e saladas."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CARLOS EDUARDO QUEIROZ DOMINGUÊS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313144-molho-de-ervas-finas.html"
+}

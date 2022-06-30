@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SALADA DE REPOLHO COM MOLHO DE IOGURTE",
+  "ingredientes": {
+    "SALADA": [
+      "300 g de repolho roxo",
+      "1 pepino",
+      "1 maçã",
+      "50 g de nozes",
+      "½ limão",
+      "30 g de uvas-passas",
+      "1 laranja",
+      "punhado de hortelã fresco",
+      "sal a gosto "
+    ],
+    "MOLHO": [
+      "2 potes de iogurte natural",
+      "½ limão",
+      "2 colheres (sopa) de azeite",
+      "sal a gosto "
+    ]
+  },
+  "passos": {
+    "MOLHO": [
+      "Coloque o iogurte em um coador de papel pra café, apoie em um copo e deixe na geladeira por cerca de 2h, para drenar o soro.",
+      "Depois de drenar, acrescente o azeite, suco do limão e acerte o sal. Reserve na geladeira."
+    ],
+    "SALADA": [
+      "Coloque a uva passa para hidratar em um potinho com o suco de laranja. Reserve na geladeira.",
+      "Corte o repolho em tirinhas finas. Para um corte mais uniforme, utilize o utensilio mandolim.",
+      "Transfira para um escorredor, lave bem sob água corrente e seque o repolho.",
+      "Descasque o pepino, corte ao meio e retire as sementes. Em seguida corte em pedacinhos pequenos.",
+      "Descasque a maçã, retire a semente, corte em cubinhos, e transfira para uma tigela. Adicione ½ limão na maçã para evitar que ela escureça.",
+      "Pique grosseiramente as nozes e as folhas de hortelã. ",
+      "Descarte o suco de laranja da uva passa e transfira todos os ingredientes para uma tigela, acrescente o molho (ele deve estar bem geladinho) e misture. Corrija o tempero. Sirva em seguida! "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314104-salada-de-repolho-com-molho-de-iogurte.html"
+}

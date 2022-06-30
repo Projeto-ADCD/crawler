@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MANJAR LEITE E VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 leite condensado",
+      "1 litro de vinho",
+      "1 copo de água",
+      "14 colheres (sopa) amido de milho",
+      "açúcar à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um panela misturar o leite frio, o amido e o leite condensado , levar ao fogo , açúcar à gosto, após engrossar mecher por 13 minutos , coloque em um refratário e reserve.",
+      "Em uma panela colocar o vinho, a maizena e o copo de água, misture, açúcar à gosto, ferver até o vinho evaporar e mecher aproximadamente 13 minutos . Coloque sobre o manjar reservado e polvilhe coco ralado. Após esfriar leve a geladeira até firmar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310551-manjar-leite-e-vinho.html"
+}

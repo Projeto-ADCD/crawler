@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM DE MILHO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a calda",
+      "1 copo (americano) de açúcar",
+      "1/4 de xícara de água",
+      "Para o pudim",
+      "3 ovos grandes ou 4 pequenos",
+      "1 lata de leite condensado",
+      "2 copos (americano) de leite",
+      "1 lata de milho verde sem a água ou milho verde retirado de 3 espigas grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a calda derreta o açúcar em fogo baixo em seguida coloque a água e deixe ferver até a calda estar uniforme",
+      "No liquidificador bata os ovos, o leite condensado, o leite e o milho até não ter mais pedaços de milho",
+      "Coloque a calda na forma",
+      "Coe a mistura do liquidificador em cima da calda",
+      "Asse em banho-maria no forno a 230° C por aproximadamente 1 hora e 20 minutos",
+      "Deixe esfriar e depois leve pra gelar",
+      "Desenforme"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NATÁLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306904-pudim-de-milho-verde.html"
+}

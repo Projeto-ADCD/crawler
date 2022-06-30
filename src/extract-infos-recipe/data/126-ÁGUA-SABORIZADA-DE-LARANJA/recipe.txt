@@ -1,0 +1,21 @@
+{
+  "nome_receita": "ÁGUA SABORIZADA DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 laranja grande",
+      "1 litro de água gelada",
+      "menta ou hortelã à gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a laranja em rodelas de tamanho médio.",
+      "Faça a infusão na água gelada.",
+      "Adicione as folhas de hortelã ou menta se preferir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314351-agua-saborizada-de-laranja.html"
+}

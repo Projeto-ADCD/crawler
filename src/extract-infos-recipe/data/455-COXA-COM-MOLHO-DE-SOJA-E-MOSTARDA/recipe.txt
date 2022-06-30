@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COXA COM MOLHO DE SOJA E MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 coxas (ou sobrecoxas) de frango",
+      "100 ml de molho de soja",
+      "4 colheres (sopa) de mostarda",
+      "1 colher (sopa) de gengibre ralado",
+      "3 batatas médias cortadas em rodelas",
+      "2 cebolas médias cortadas em anéis",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os pedaços de frango com o molho de soja, mostarda, gengibre, sal e pimenta do reino.",
+      "Deixe marinar por volta de 40 minutos.",
+      "Cubra a forma com papel alumínio.",
+      "Nesta forma coloque o frango, as batatas e os anéis de cebola.",
+      "Deixe assar, já em forno pré-aquecido, por volta de 1 hora e 20 minutos, verificando o ponto do frango para não ficar cru no centro, junto ao osso."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva com arroz branco e a salada de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GUGU MARÇAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312788-coxa-com-molho-de-soja-e-mostarda.html"
+}

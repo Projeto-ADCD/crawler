@@ -1,0 +1,32 @@
+{
+  "nome_receita": "LINGUIÇA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 gomos de linguiça para churrasco",
+      "2 batatas médias cozidas e amassadas",
+      "1/2 cebola picadinha",
+      "1 tomate picadinho",
+      "100 g de presunto ralado",
+      "100 g de mussrela ralada",
+      "2 colheres de requeijão",
+      "tempero à gosto",
+      "cheiro-verde à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, misture as batatas, a cebola, o tomate, o presunto, o requeijão, o tempero e o cheiro verde, até obter uma massa consistente.",
+      "Faça um corte no meio dos gomos das linguiças.",
+      "Com as mãos, amasse bem o recheio das linguiças e abra bem aonde foi feito o corte, até que as linguiças fiquem em formato de um barquinho.",
+      "Preencha todo o espaço das linguiças com a mistura de batata.",
+      "Unte uma assadeira com azeite e ajeite as linguiças.",
+      "Cubra cada linguiça com a mussarela ralada.",
+      "Salpique óregano.",
+      "Leve ao forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311294-linguica-recheada.html"
+}

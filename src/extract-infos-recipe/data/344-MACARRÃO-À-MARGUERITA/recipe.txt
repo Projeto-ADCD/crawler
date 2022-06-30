@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MACARRÃO À MARGUERITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote (500 g) de macarrão de sua preferência",
+      "500 g de linguiça toscana",
+      "2 cebolas médias",
+      "2 tomates médios",
+      "1 colher (sopa) rasa de manjericão desidratado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a linguiça sem pele e refogue em fogo baixo. Não é necessário acrescentar óleo ou água, a própria linguiça no processo de cozimento libera essas duas substâncias. Tampe a panela assim que colocar no fogo e aguarde uns 20 minutos.",
+      "Abra, vá mexendo e verificando o ponto de cozimento.",
+      "Acrescente a cebola picada e refogue junto com a linguiça até ficar transparente.",
+      "Após cozinhar e escorrer o macarrão, acrescente esse refogado, o manjericão desidratado e misture bem.",
+      "Os tomates picados são adicionados após desligar o fogo, para que fiquem consistentes."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERTA CALLEGARI TRIVELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313130-macarrao-a-marguerita.html"
+}

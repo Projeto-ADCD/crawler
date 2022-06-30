@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CASTANHA E AMEIXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara (chá) de castanha de caju triturada",
+      "1/2 xícara (chá) de óleo",
+      "2/3 de xícara (chá) de açúcar",
+      "2 ovos",
+      "1/2 xícara (chá) de leite",
+      "1/2 xícara (chá) de ameixa em calda ",
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as castanhas, o óleo, o açúcar, os ovos, o leite e a ameixa no liquidificador até obter um creme homogêneo",
+      "Transfira para uma tigela, adicione a farinha e o fermento peneirados e misture delicadamente com uma colher.",
+      "Despeje em uma forma de buraco no meio untada com manteiga e enfarinhada com farinha de trigo de 22 cm diâmetro.",
+      "Leve ao forno médio, preaquecido, por 35 minutos ou até que ao enfiar um palito, ele saia limpo.",
+      "Deixe esfriar, desenforme e tire e sirva em seguida",
+      "Aproveite seu bolo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MICHELE PATRICIA ROZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306328-bolo-de-castanha-e-ameixa.html"
+}

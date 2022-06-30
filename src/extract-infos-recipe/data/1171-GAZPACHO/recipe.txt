@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GAZPACHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de tomate ",
+      "130 g de pimentão verde ou vermelho ",
+      "240 g de pepino ",
+      "100 g de cebola ",
+      "130 g de azeite de oliva extra virgem Vale Fértil ",
+      "110 g de vinagre de maçã ",
+      "10 g de alho ",
+      "9 g de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire os olhos dos tomates, descascar os pepinos e retirar o miolo do pimentão.",
+      "Pique todos os ingredientes grosseiramente e bata no liquidificador na velocidade baixa, coloque primeiro os tomates para que a polpa ajude na trituração dos ingredientes.",
+      "Após batidos, passe a massa em um passa purê para retirar os bagaços dos alimentos.",
+      "Deixe na geladeira de um dia para o outro.",
+      "Sirva gelado. "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VALE FÉRTIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309502-gazpacho.html"
+}

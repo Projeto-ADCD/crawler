@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LEITE DE ARROZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras e 1/2 de arroz ",
+      "800 ml de água filtrada",
+      "5 ml de essência de baunilha (opcional)",
+      "2 colheres de açúcar (usei o demerara)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz apenas com água",
+      "Em um liquidificador coloque todos os ingredientes e bata por 3 minutos na velocidade média.",
+      "Depois de bater tudo, despeje em uma panela, com 1 colher (chá) de farinha de trigo.",
+      "Mexa por 2 minutos, depois despeje em uma garrafa e conserve na geladeira por até 4 dias."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DUDA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307901-leite-de-arroz.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FALSO FRANGO XADREZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de peito de frango ",
+      "2 cenouras picadas",
+      "2 pimentões picados, um verde e um amarelo",
+      "200 g de macarrão tipo espaguete",
+      "1 tomate picado",
+      "3 dentes de alho;",
+      "azeite a gosto (não use extravirgem)",
+      "50 ml de shoyo",
+      "1 talo de alecrim (opcional)",
+      "10 g de tempero indiano ou páprica);",
+      "1 g de sal refinado ou sal rosa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a cenoura no micro-ondas e coloque junto 50 ml de água.",
+      "Cozinhe a cenoura em 70% de potência com tempo de 15 minutos, observando a potência do seu micro-ondas.",
+      "Enquanto espera, coloque em uma panela média a água para ferver. Assim que subir à fervura coloque o macarrão, sem adicionar sal.",
+      "Em outra panela coloque os pimentões, tomate, azeite, alho (pode ser picado ou inteiro) e o alecrim. Quando começar a cheirar o alecrim apague o fogo e tampe a panela.",
+      "Escorra o macarrão e o tempere com manteiga ou azeite.",
+      "Pique o peito de frango em cubos pequenos, tempere com sal e alho, se quiser jogue um pouco de suco de limão siciliano (meio limão). Depois leve a uma panela com fio de azeite (não extravirgem) e cozinhe até ficar no ponto. Acrescente o tempero indiano ou páprica e misture.",
+      "Na panela com os pimentões, alecrim, tomate e alho acrescente o frango, a cenoura e mexa para homogeneizar. Aqueça em fogo baixo por 5 minutos, sempre dando uma mexida.",
+      "Depois acrescente o macarrão e o Shoyo e pronto é só servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ALEXANDRE PASTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313315-falso-frango-xadrez.html"
+}

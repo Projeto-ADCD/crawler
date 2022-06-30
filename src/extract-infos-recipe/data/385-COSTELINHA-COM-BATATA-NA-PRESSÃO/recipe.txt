@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COSTELINHA COM BATATA NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de costela suína",
+      "8 batatas médias",
+      "1/2 cebola picadinha",
+      "1/2 tempero de sachê ou em cubo",
+      "1 xícara de água fervente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, coloque um pouco de óleo e frite as costelinhas",
+      "Coloque a cebola pra dourar junto",
+      "Enquanto isso, dissolva o tempero na água fervente",
+      "Coloque a água na panela, cobrindo as costelinhas",
+      "Coloque outros temperos à gosto, como pimenta, alho, louro...",
+      "Tampe a panela, espere pegar pressão e conte 15 minutos",
+      "Descasque as batatas e corte-as ao meio",
+      "Depois dos 15 minutos, espere a pressão sair, abra a panela e jogue as batatas",
+      "Tampe novamente, espere pegar a pressão e conte 5 minutinhos e está pronto!",
+      "Fica uma delícia e a carne soltando do osso!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312996-costelinha-com-batata-na-pressao.html"
+}

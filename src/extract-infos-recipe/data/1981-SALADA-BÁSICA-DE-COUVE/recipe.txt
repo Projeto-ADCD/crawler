@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SALADA BÁSICA DE COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 couve",
+      "1 cebola média (roxa ou branca)",
+      "3 tomates vermelhos",
+      "1 pimentão",
+      "1 limão taiti",
+      "1 concha de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a couve e deixe escorrer por cinco minutos.",
+      "Em seguida, corte-a bem fininha e reserve.",
+      "Corte os tomates em cubos, a cebola e o pimentão.",
+      "E junte-os ao couve.",
+      "Acrescente o sal",
+      "Esprema o limão sobre o couve",
+      "Esquente o azeite e coloque-o sobre a salada.",
+      "Por fim, misture tudo e sirva-se a vontade."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA CLAUDIA CARVALHO DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306280-salada-basica-de-couve.html"
+}

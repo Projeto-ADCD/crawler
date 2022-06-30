@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LINGUIÇA ASSADA COM BATATAS PERFEITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Kg de linguiça toscana",
+      "4 Batatas",
+      "1 Pimentão",
+      "1 Limão",
+      "TEMPEROS A GOSTO",
+      "Tempero pronto - Alho e Sal",
+      "Orégano",
+      "Pimenta do Reino",
+      "Cominho",
+      "Páprica"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Higienize as batatas e corte em 4.",
+      "Em um recipiente coloque a linguiça e as batatas, adicione o suco de 1 limão, pimentão e temperos a gosto.",
+      "Misture todos os ingredientes e coloque em um refratário, cubra com papel alumínio e leve ao forno pré aquecido por 280º.",
+      "Após 30 minutos vire as batatas e linguiças, tampe novamente e deixe mais 20 minutos.",
+      "Tire o papel alumínio e deixe dourar",
+      "Sirva com arroz branquinho."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANDREIA C",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316143-linguica-assada-com-batatas-perfeita.html"
+}

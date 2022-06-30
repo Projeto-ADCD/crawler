@@ -1,0 +1,49 @@
+{
+  "nome_receita": "RISOTO DE MILHO E ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora pequena",
+      "1 espiga de milho cozida",
+      "1 alho-poró cortado em fatias finas",
+      "1 cebola média cortada em cubinhos",
+      "2 dentes de alho picados",
+      "2 xícaras (chá) de arroz arbóreo",
+      "1 xícara (chá) de vinho branco seco",
+      "500 ml de caldo de legumes",
+      "30 g de queijo roquefort",
+      "30 g de queijo parmesão ralado",
+      "2 colheres (sopa) de cebolinha picada",
+      "2 colheres (sopa) de molho inglês",
+      "40 g de manteiga",
+      "2 colheres (sopa) azeite",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a abóbora ao meio e unte-as com óleo vegetal.",
+      "Leve-as para assar ao forno, com a abertura voltada para baixo por uns 30 minutos ou até ficar macia. Unte a forma.",
+      "Quando a abóbora estiver assada, retire do forno e retire a polpa e bata em um mixe até formar um creme. Reserve.",
+      "Para o caldo de legumes, aqueça 1/2 litro de água, em uma panela funda, e acrescente legumes de sua preferência para fazer o caldo.",
+      "Deixe ferver por no mínimo 30 minutos.",
+      "Coe o caldo e reserve.",
+      "Quando cozinhar a espiga de milho, reserve uma xícara (chá) da água de cozimento.",
+      "Para o risoto, refogue a cebola e o alho com a metade da manteiga e o azeite por uns minutos.",
+      "Acrescente o alho-poró e deixe refogar por uns minutos até ficar macio.",
+      "Adicione o arroz arbóreo e o milho e mexa bem.",
+      "Adicione o vinho branco e deixe cozinhar por uns minutos para evaporar o álcool, sempre mexendo.",
+      "Sempre mexendo, vá adicionando o líquido do cozimento do milho reservado e depois o caldo de legumes aos poucos.",
+      "Acrescente a cebolinha picada e o molho inglês.",
+      "Tempere com sal e pimenta a seu gosto. Pode usar tempero pronto.",
+      "Quando o arroz estiver al dente, adicione o purê de abóbora, o queijo roquefort e o parmesão ralado.",
+      "Misture tudo muito bem até ficar cremoso.",
+      "Acrescente o resto da manteiga, misture e tampe a panela.",
+      "Deixe descansar por uns 5 minutos.",
+      "Sirva em seguida acompanhado de uma boa salada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313220-risoto-de-milho-e-abobora.html"
+}

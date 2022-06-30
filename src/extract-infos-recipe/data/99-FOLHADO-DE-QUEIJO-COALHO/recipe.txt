@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FOLHADO DE QUEIJO COALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de massa folhada",
+      "2 queijos coalho",
+      "2 bacons em fatia",
+      "gemas para dourar",
+      "gergelim preto a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Enrole os bacons nos pedaços do queijo de coalho no palito",
+      "Depois, corte a massa e também envolva os queijos muito bem",
+      "Leve os palitinhos para uma forma (pode estar untada)",
+      "Pincele a geme, polvilhe um pouco de gergelim e leve para assar",
+      "Asse em forno a 180° C por 15 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314469-folhado-de-queijo-coalho.html"
+}

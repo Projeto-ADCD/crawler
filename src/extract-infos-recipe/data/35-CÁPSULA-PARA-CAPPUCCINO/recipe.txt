@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CÁPSULA PARA CAPPUCCINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "360 g de chocolate",
+      "15 balas de caramelo",
+      "200 ml de café"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma forminha de bombom ou de gelo, coloque o chocolate derretido até a metadade",
+      "Recheie com a bala de caramelo",
+      "Preencha o resto do espaço com o resto do chocolate ",
+      "Leve para a geladeira para gelar por pelo menos 1 hora",
+      "Desenforme e sirva dentro da sua bebida! "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314793-capsula-para-cappuccino.html"
+}

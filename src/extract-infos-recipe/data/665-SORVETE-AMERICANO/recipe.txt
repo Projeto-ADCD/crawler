@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SORVETE AMERICANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1ª CAMADA",
+      "1 lata de leite condensado",
+      "1 lata de leite de vaca",
+      "3 gemas (reserve as claras para ser usada na 3ª camada)",
+      "2ª CAMADA",
+      "1 lata de creme de leite com soro",
+      "3 colheres de açúcar",
+      "3 colheres de achocolatado ",
+      "3ª CAMADA",
+      "1 lata de creme de leite sem soro",
+      "6 colheres de açúcar",
+      "3 claras"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1ª CAMADA:",
+      "Leve ao fogo leite condensado, leite de vaca e as gemas mexendo para não grudar até formar um mingau.",
+      "Coloque no fundo do pirex quadrado médio.",
+      "Leve para o congelador.",
+      "2ª CAMADA:",
+      "Levar para o fogo o creme de leite com soro o açúcar e o nescau até formar um mingau.",
+      "Coloque por cima da 1ª camada e leve novamente para o congelador.",
+      "3ª CAMADA:",
+      "Bata as claras em neve e acrescente aos poucos o açúcar e o creme de leite sem soro.",
+      "Coloque por cima da 2ª camada e leve novamente para o congelador e está pronto o saboroso sorvete americano."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312083-sorvete-americano.html"
+}

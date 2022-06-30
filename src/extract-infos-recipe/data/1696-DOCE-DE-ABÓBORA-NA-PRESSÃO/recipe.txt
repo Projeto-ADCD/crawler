@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE ABÓBORA NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de abóbora pescoço",
+      "400 g de açúcar",
+      "cravo a gosto",
+      "canela em pau a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a abóbora e corte em pedaços.",
+      "Leve aos pedaços para a panela de pressão, adicione o açúcar, o cravo e a canela e tampe.",
+      "Deixe repousar durante a noite toda, sem levar ao fogo.",
+      "No dia seguinte, leve a panela ao fogo médio por 20 minutos após pegar pressão.",
+      "Não é necessário acrescentar água.",
+      "Sirva acompanhado de queijo branco."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAIS MANZIONE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307125-doce-de-abobora-na-pressao.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA PERFEITA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 pacote e 1/2 de biscoito de maisena",
+      "4 colheres de manteiga ( derretida )",
+      "Recheio:",
+      "1 lata de leite condensado",
+      "1 lata de leite integral (mesma medida do leite condensado)",
+      "2 gemas",
+      "2 colheres de (sopa) de amido de milho",
+      "1 colher de (sobremesa) de extrato de baunilha",
+      "2 bandejas de morangos",
+      "300 ml de água",
+      "1 gelatina de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa: Triturar o biscoito, até esfarelar por completo, misturar a manteiga derretida e colocar a massa em uma forma de fundo removível, a minha possui 23 cm, levar o forno baixo por 10 minutos, retirar e deixar esfriar por completo.",
+      "Recheio: Em uma panela, colocar as gemas, o amido de milho , um pouco do leite só para dissolver a maisena, misturar bem , colocar o leite condensado, o restante do leite integral e o extrato de baunilha, mexer bem e levar o fogo baixo, mexendo bem para não empelotar, quando formar um mingual, desligar o fogo, colocar em refratário cobrir com plástico filme encostando no creme e levar a geladeira por 30 minutos.",
+      "Fazer a gelatina com 150 ml de água quente e 150 ml de água fria, levar a geladeira até firmar um pouco.",
+      "Montagem: depois de todos os ingredientes frios, colocar sobre a massa o recheio, enfeitar com morangos cortados ao meio e colocar a gelatina sobre os marangos, cobrindo as partes brancas do recheio, levar a geladeira por 2 horas e depois é só se deliciar com essa receita maravilhosa !"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LÍDIA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310497-torta-perfeita-de-morango.html"
+}

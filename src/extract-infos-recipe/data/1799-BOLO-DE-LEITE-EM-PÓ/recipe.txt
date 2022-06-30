@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "150 g de açúcar",
+      "1/2 xícara de óleo",
+      "200 ml de água",
+      "200 g de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "1 xícara de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açúcar, o óleo, a água e o leite em pó",
+      "Depois acrescente a farinha de trigo e bata novamente.",
+      "Por último, misture na mão o fermento.",
+      "Assar em forno médio por aproximadamente uns 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306755-bolo-de-leite-em-po.html"
+}

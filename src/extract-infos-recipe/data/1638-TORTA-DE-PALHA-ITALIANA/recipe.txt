@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TORTA DE PALHA ITALIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condesado",
+      "1 caixa de creme de leite",
+      "4 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de creme de avelã (opcional)",
+      "1 pacote de biscoito maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado, creme de leite, chocolate em pó, creme de avelã, manteiga na panela e leve ao fogo por 10 a 15 minutos até engrossar",
+      "Espere esfriar e comece a montar uma camada de biscoito maisena e um do nosso creme, e assim vai até acabar o creme.",
+      "Depois leve à geladeira por 1 ou 2 horas até gelar e está pronto",
+      "Caso queira, pode picar o biscoito e coloque em cima para decorar "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ESTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307303-torta-de-palha-italiana.html"
+}

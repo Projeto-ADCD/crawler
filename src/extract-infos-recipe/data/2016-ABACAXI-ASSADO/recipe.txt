@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ABACAXI ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "canela-da-china em pó a gosto",
+      "1 unidade de abacaxi"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o abacaxi",
+      "Embrulhe com o papel-alumínio, para o caldo não escapar.",
+      "Deixe na grelha por no mínino 1 hora",
+      "Abra o papel com cuidado, pois está quente.",
+      "Coloque a canela a gosto e embrulhe novamente.",
+      "Deixe na grelha por mais 1 hora.",
+      "Fica ótimo para acompanhar costela, picanha, ou qualquer tipo de churrasco"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306187-abacaxi-assado.html"
+}

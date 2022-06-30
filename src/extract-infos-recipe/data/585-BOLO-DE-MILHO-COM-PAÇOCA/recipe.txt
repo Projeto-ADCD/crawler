@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE MILHO COM PAÇOCA",
+  "ingredientes": {
+    "MASSA": [
+      "1 pacote de 450g de MISTURA PARA BOLO DONA BENTA LINHA SÃO JOÃO MILHO",
+      "¾ de xícara (chá) de leite",
+      "3 ovos",
+      "2 colheres (sopa) de margarina"
+    ],
+    "COBERTURA E RECHEIO": [
+      "1 lata de leite condensado",
+      "400 g de paçoca AMOR"
+    ],
+    "CALDA PARA UMEDECER": [
+      "1 xícara (chá) de água",
+      "½ xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Prepare a MISTURA PARA BOLO DONA BENTA LINHA SÃO JOÃO MILHO conforme as instruções da embalagem.",
+      "Leve ao forno em uma assadeira redonda."
+    ],
+    "COBERTURA E RECHEIO": [
+      "Esfarele a paçoca AMOR e separe 3 colheres (sopa) para decorar. Leve ao fogo médio com o leite condensado e mexa por 4 minutos.",
+      "Reserve."
+    ],
+    "CALDA PARA UMEDECER": [
+      "Leve os ingredientes ao fogo até que o açúcar esteja todo dissolvido e a água esteja levemente espessa."
+    ],
+    "MONTAGEM": [
+      "Corte o bolo ao meio, no sentido horizontal.",
+      "Coloque um disco do bolo em um prato de servir, umedeça com metade da calda e recheie com metade do creme de paçoca.",
+      "Coloque o outro disco do bolo, regue com o restante da calda, cubra com o creme de paçoca e decore com a paçoca esfarelada reservada.",
+      "Leve à geladeira até a hora de servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312436-bolo-de-milho-com-pacoca.html"
+}

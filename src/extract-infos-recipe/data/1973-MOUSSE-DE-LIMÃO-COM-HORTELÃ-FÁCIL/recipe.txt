@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOUSSE DE LIMÃO COM HORTELÃ FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de creme de leite (200 g)",
+      "1 lata de leite condensado (395 g)",
+      "2 pacotes de suco de limão com hortelã (25 g)",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um copo do liquidificador, coloque o leite condensado, o creme de leite e o suco de limão com hortelã",
+      "Deixe bater até os ingredientes misturarem e até ficar cremoso",
+      "Pegue o limão e ralé em um ralador e coloque por cima da mousse",
+      "Coloque o mousse em uma tigela e leve para a geladeira",
+      "Deixe por um tempo e depois sirva para degustar a sua mousse de limão com hortelã"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JACSON ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306300-mousse-de-limao-com-hortela-facil.html"
+}

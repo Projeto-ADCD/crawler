@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO FRITO COM CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "½ pacote de 500g de  MASSA PENNE OVOS DONA BENTA"
+    ],
+    "PARA FRITAR": [
+      "1 l de óleo"
+    ],
+    "PARA POLVILHAR": [
+      "¾ de xícara (chá) de açúcar",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a MASSA PENNE OVOS DONA BENTA pena conforme instruções da embalagem, sem acrescentar sal à água.",
+      "Escorra, dê choque térmico com água fria para parar o cozimento e escorra novamente muito bem.",
+      "Aqueça o óleo em uma panela alta e coloque pequenas porções de massa por vez para fritar.",
+      "Ao dourar, retire e escorra rapidamente em papel toalha.",
+      "Passe o macarrão frito numa mistura de açúcar e canela, mexa bem e retire o excesso."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312431-macarrao-frito-com-canela.html"
+}

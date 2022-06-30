@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHÁ DE CANELA DA DONA CARMEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gengibre",
+      "1 pau de Canela",
+      "1 maço de hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o hortelã e o gengibre e pique.",
+      "Depois pegue a canela e coloque em uma panela de aprox. 1 litro.",
+      "Após levantar fervura, conte mais 5 minutos e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LEANDRO TEODORO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311742-cha-de-canela-da-dona-carmem.html"
+}

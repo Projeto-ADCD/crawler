@@ -1,0 +1,29 @@
+{
+  "nome_receita": "DOLCE DI SAGU DA NONNA (TIPO SUFLÊ)",
+  "ingredientes": {
+    "DEFAULT": [
+      "120 g de sagu",
+      "500 ml de leite",
+      "5 ovos (separe as claras)",
+      "50 g de manteiga",
+      "100 g de açúcar",
+      "2 colheres bem cheias (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o sagu por meia hora de molho em água",
+      "Escorra e coloque numa panela com o leite",
+      "Deixe cozinhar em fogo baixo, até que o sagu fique ligeiramente transparente, mexendo sempre com colher de pau.",
+      "Deixe ficar morno e coloque o açúcar, as gemas e a manteiga. Mexendo bem. Reserve.",
+      "Bata as claras ate ficar bem firme e adicione o fermento.",
+      "Misture tudo com cuidado e despeje num pirex redondo untado.",
+      "Leve ao forno até ficar assado, marrom.",
+      "Vai crescer muito e logo que tirar do forno servir imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FABIO BORANGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309537-dolce-di-sagu-da-nonna-tipo-sufle.html"
+}

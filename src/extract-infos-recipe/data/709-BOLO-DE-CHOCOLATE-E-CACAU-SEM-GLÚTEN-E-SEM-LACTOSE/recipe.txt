@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE E CACAU SEM GLÚTEN E SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "2 xícaras de farinha mix sem glúten",
+      "1/2 xícara de óleo",
+      "2 colheres de cacau 100%",
+      "2 colheres de achocolatado sem lactose",
+      "1 colher (sopa) de fermento em pó",
+      "1 pitada de sal",
+      "1 xícara (chá) de água morna",
+      "Cobertura",
+      "1 caixinha de leite condensado sem lactose",
+      "1 colher (sopa) de achocolatado",
+      "1 colher de cacau em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno em média de 180° C",
+      "Coloque primeiro os ovos, óleo, o cacau em pó, o achocolatado bata no liquidificador",
+      "Em seguida acrescente a farinha mix, a água morna e o fermento",
+      "Despeje em uma forma redonda com furo no meio tamanho tradicional ou coloque em uma forma retangular tamanho pequeno à medio.",
+      "Deixe assar por 35 a 40 minutos.",
+      "A cobertura coloque os ingredientes na panela em fogo baixo e deixe que misture bem e reserve",
+      "Após tirar o bolo do forno despeje com ele quentinho."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "IOLANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311983-bolo-de-chocolate-e-cacau-sem-gluten-e-sem-lactose.html"
+}

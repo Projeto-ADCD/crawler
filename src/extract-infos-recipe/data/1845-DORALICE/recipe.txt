@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DORALICE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "2 caixas de creme de leite",
+      "1 pacote de gelatina sem sabor",
+      "4 colheres (sopa) de chocolate em pó",
+      "1 colher (café) de margarina ou manteiga",
+      "1 limão",
+      "1 pacote de biscoito escureto, oreo ou negresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione 5 colheres (sopa) de água em temperatura ambiente na gelatina sem sabor, deixe hidratando por 3 minutos.",
+      "Em seguida, leve ao fogo baixo para derreter, sem deixar ferver.",
+      "Leve ao liquidificador 1 caixa de leite condensado, 1 caixa de creme de leite, a gelatina derretida, o chocolate em pó e o suco do limão.",
+      "Bata tudo em velocidade média por cerca de 3 minutos.",
+      "Reserve na geladeira.",
+      "Separe o recheio dos biscoitos e triture (ou apenas quebre) o biscoito.",
+      "Em uma panela adicione a margarina, a outra caixa de leite condensado, a de creme de leite e o recheio dos biscoitos.",
+      "Leve ao fogo baixo mexendo sem parar até o creme ficar consistente e estiver ao ponto de desgrudar do fundo da panela.",
+      "Transfira o creme da panela para um refratário e cubra com os biscoitos triturados.",
+      "Em seguida, despeje a mistura do liquidificador e cubra com biscoito triturado (sem o recheio) ou decore como preferir.",
+      "Leve à geladeira até a gelatina dar consistência na cobertura da sobremesa (cerca de 20 minutos, a depender de sua geladeira)."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATHYELLE CARDOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306625-doralice.html"
+}

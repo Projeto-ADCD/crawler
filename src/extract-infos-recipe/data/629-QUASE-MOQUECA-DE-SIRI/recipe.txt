@@ -1,0 +1,44 @@
+{
+  "nome_receita": "QUASE MOQUECA DE SIRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de siri",
+      "2 tomates",
+      "1 cebola",
+      "4 dentes de alho",
+      "1/2 Pimentão vermelho",
+      "1/2 Pimentão amarelo",
+      "1/2 Pimentão verde",
+      "2 vidros de leite de coco",
+      "2 limões",
+      "1 maço de coentro",
+      "1 maço de cebolinha",
+      "1 colher (sopa) de azeite",
+      "sal a gosto",
+      "pimenta a gosto",
+      "páprica defumada ou picante a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Puxe a parte superior da casca do siri, vire-o de costas e puxe o abdomen, descarte ambos;",
+      "Corte o siri no meio, lave e escove;",
+      "Coloque-os em uma panela com agua, sal e suco de 1 limão, reserve;",
+      "Pique fino os tomates, a cebola, o alho, os pimentões, a cebolinha, o coentro e reserve;",
+      "Leve uma panela grande ao fogo com 1 colher (sopa) de azeite;",
+      "Junte a cebola e espere dourar um pouco, coloque o sal a pimenta e a páprica;",
+      "Junte o alho e tome cuidado para não queimar;",
+      "Após dourar coloque o siri já escorrido, o tomate, os pimentões, a cebolinha e metade do coentro picado;",
+      "Coloque os 2 vidros de leite de coco e complete com água até quase cobrir os siris;",
+      "Tampe a panela e deixe cozinhar por 20 minutos;",
+      "Após esse tempo abra a panela, prove para ajustar o sal e a pimenta e deixe a panela aberta por mais 10 minutos;",
+      "Se achar necessário, coloque aos poucos farinha de mandioca para engrossar o caldo;",
+      "Desligue o fogo, acrescente o restante do coentro que sobrou e tampe a panela;",
+      "Sirva-se e delicie-se."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAFAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312258-quase-moqueca-de-siri.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ESPAGUETE COM RÚCULA, BACON E CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de espaguete",
+      "1 maço de rúcula",
+      "1 tomate",
+      "1 cebola",
+      "100 g de bacon",
+      "100 g de calabresa",
+      "1 ovo",
+      "1/2 pimentão vermelho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão.",
+      "Em outra panela, frite o bacon e a calabresa",
+      "Em seguida coloque a cebola e espere dourar",
+      "Coloque o tomate, o pimentão e a rúcula",
+      "Tempere a gosto",
+      "Cozinhe com a própria água da rúcula",
+      "Coloque o ovo e misture bem",
+      "Por último, acrescente o macarrão",
+      "Polvilhe com queijo ralado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312006-espaguete-com-rucula-bacon-e-calabresa.html"
+}

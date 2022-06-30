@@ -1,0 +1,26 @@
+{
+  "nome_receita": "GELATINA COM ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi picado",
+      "3 xícaras (chá) de água",
+      "1 xícara (chá) de açúcar",
+      "1 lata de leite condensado",
+      "1 lata de creme leite",
+      "2 pacotes de gelatina sabor abacaxi"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o abacaxi picado, junto com a água e o açúcar, deixe fever, quando já estiver fervendo acrescente as gelatinas, mexa até disolver bem. Desligue o fogo e separe o abacaxi da calda.",
+      "Em uma travessa coloque o abacaxi picado e reserve. No liquidificador coloque o creme de leite, leite condensado e a gelatina dissolvida (calda). Bata até que esteja bem misturado e despeje a mistura em cima do abacaxi. Coloque na geladeira até endurecer (mais ou menos umas 4 horas).",
+      "Dica: em cima do creme de abacaxi pode colocar outra gelatina de abacaxi, feita como manda a embalagem.",
+      "Também pode ser feito com morango, ao invés do abacaxi acrescente duas caixas de morango picado e troque as gelatinas de abacaxi pela de morango.",
+      "Pode ser feito de pêssego em caldas, pique os pêssegos e ao invés de água, utilize a calda do pêssego."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALANA CORDEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308908-gelatina-com-abacaxi.html"
+}

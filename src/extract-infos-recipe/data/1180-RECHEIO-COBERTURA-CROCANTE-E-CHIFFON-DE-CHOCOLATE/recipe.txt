@@ -1,0 +1,38 @@
+{
+  "nome_receita": "RECHEIO/COBERTURA CROCANTE E CHIFFON DE CHOCOLATE",
+  "ingredientes": {
+    "CHIFFON": [
+      "1 potinho de margarina sem sal (250g ou 5 colheres de sopa)",
+      "3/4 xícara de chocolate em pó",
+      "1 lata de doce de leite (395g) ou leite condensado cozido",
+      "1 lata de creme de leite sem soro",
+      "1 colher (sobremesa) de rum (opcional)",
+      " "
+    ],
+    "CROCANTE": [
+      "2 xícaras de açúcar",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "CHIFFON": [
+      "Misture numa batedeira a margarina e o doce de leite até ficar lisinho.",
+      "Adicione o chocolate em pó e volte bater.",
+      "Por fim, incorpore o creme de leite e o rum até ficar uma mistura homogênea.",
+      " "
+    ],
+    "CROCANTE": [
+      "Misture a água e o açúcar numa panela e deixe em fogo baixo até caramelizar.",
+      "Quando o caramelo estiver pronto, despeje-o em uma assadeira, fazendo uma camada fina.",
+      "Depois que o caramelo endurecer quebre-o em pedacinhos com o auxílio de um martelo de carne.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA 1: para o caramelo não cristalizar, quando pedrinhas de açúcar se formaram na beirada da panela dissolva-as com a ajuda de um pincel úmido.\nDICA 2: o caramelo amolece um pouco depois q o bolo está montado (por causa do contato com a cobertura), então se você achar ele muito duro é recomendado que monte o bolo um dia antes do consumo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309485-recheio-barra-cobertura-crocante-e-chiffon-de-chocolate.html"
+}

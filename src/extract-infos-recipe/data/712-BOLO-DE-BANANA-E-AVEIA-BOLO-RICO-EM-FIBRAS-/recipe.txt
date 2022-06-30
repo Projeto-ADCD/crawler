@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE BANANA E AVEIA (BOLO RICO EM FIBRAS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 Bananas nanic ",
+      "3 ovos",
+      "250 g de passas",
+      "100 ml de óleo de girassol (pode ser outro óleo de sua preferência)",
+      "2 xícara (chá) de aveia bem cheia",
+      "1 colher (sopa) de fermento",
+      "1 colher (chá) de canela (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as bananas os ovos e o óleo, depois de batido coloque as passas a aveia e a canela e bata novamente até forma até ficar uma massa cremosa.",
+      "Em uma vasilha coloque a massa e a colher de fermento e misture delicadamente.",
+      "Unte uma forma coloque a massa e leve ao forno preaquecido a 180° C por 35 minutos ou até ele ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSE ANTONIO DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311967-bolo-de-banana-e-aveia-bolo-rico-em-fibras.html"
+}

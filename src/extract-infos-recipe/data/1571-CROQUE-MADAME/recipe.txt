@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CROQUE MADAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 fatias de pão de forma",
+      "1/4 de xícara de manteiga",
+      "12 fatias de presunto cozido",
+      "2 xícaras de queijo prato ou reno ralado",
+      "1 ovo ligeiramente batido",
+      "2 colheres (chá) de páprica"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve as fatias de pão ao forno preaquecido (180º C por 10 minutoss) e deixe torrar ligeiramente.",
+      "Retire e passe uma camada fina de manteiga em cada fatia.",
+      "Coloque as fatias de pão numa assadeira untada, com o lado da manteiga para cima.",
+      "Coloque uma fatia de presunto sobre cada torrada.",
+      "Misture o queijo e o ovo.",
+      "Despeje essa mistura sobre as torradas.",
+      "Polvilhe a páprica e leve ao forno previamente aquecido para gratinar.",
+      "Retire, corte cada fatia em quatro quadrados e sirva morno."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "48 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307576-croque-madame.html"
+}

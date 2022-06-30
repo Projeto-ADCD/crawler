@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE BATATA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata inglesa",
+      "40 g de farinha de trigo ou de rosca",
+      "25 g de queijo parmesão ralado (opcional)",
+      "sal",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas com sal e temperos a gosto (eu usei ervas finas)",
+      "Quando estiver bem cozida, amasse em um prato e coloque na geladeira",
+      "Quando estiver gelado, coloque a farinha e queijo parmesão",
+      "Amasse bem até ficar uma massa lisa",
+      "Faça bolinhas com a massa",
+      "Frite em óleo bem quente e não mexa nas bolinhas para não abrir"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser mais é só dobrar a receita"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TAISSA ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311117-bolinho-de-batata-simples.html"
+}

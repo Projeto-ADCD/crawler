@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO COM PEQUI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa de frango ",
+      "2 dentes de alho picados ",
+      "sal e pimenta a gosto ",
+      "1/2 xícara de óleo ",
+      "pequi a gosto",
+      "2 dentes de alho picados",
+      "1 colher (chá) de açafrão ",
+      "1 xícara de água ",
+      "1 cebola em rodelas",
+      "coentro e cebolinha picados a gosto  "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com 2 dentes de alho, sal e pimenta, reserve",
+      "Coloque o óleo em uma panela no fogo",
+      "Deixe esquentar e frite o frango temperado",
+      "Quando estiver dourado, reserve",
+      "Volte a panela para o fogo ",
+      "Junte o pequi, os 2 dentes de alho e o açafrão ",
+      "Doure um pouco e junte o frango reservado ",
+      "Junte a água, tampe a panela e deixe cozinhar por 15 minutos ",
+      "Abra a panela e junte a cebola, o coentro e a cebolinha ",
+      "Misture bem e deixe cozinhar para finalizar o prato ",
+      "Sirva! "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307405-frango-com-pequi.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO CREMOSO DE CALABRESA RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão de sua preferência",
+      "1 cebola",
+      "2 calabresas médias",
+      "2 colheres (sopa) de alho pronto frito ou 1 dente de alho",
+      "2 cremes de leite",
+      "2 sachês de molho de tomate",
+      "1/2 colher (sopa) de sal",
+      "1 colher (sopa) de azeite",
+      "orégano a gosto",
+      "parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho",
+      "Em uma panela média aqueça o azeite e frite a calabresa picada em cubos até ficar dourada",
+      "Acrescente a cebola picada e o alho, refogue bem,",
+      "Adicione os dois sachês de molho de tomate o sal e uma pitada de orégano,",
+      "Mecha bem após levantar fervura e desligue a panela,",
+      "Adicione os dois cremes de leite",
+      "Por fim misture o molho ao macarrão já cozido e peneirado.",
+      "Sirva o macarrão em uma travessa ",
+      "Acrescente queijo parmesão ralado ao servir a gosto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABI N.A",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307431-macarrao-cremoso-de-calabresa-rapido.html"
+}

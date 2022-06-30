@@ -1,0 +1,45 @@
+{
+  "nome_receita": "LASANHA À BOLONHESA MARINADA NO LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg carne moída",
+      "1 embalagem de lasanha crua em tiras (600 g)",
+      "leite suficiente para cobrir a lasanha (600 ml)",
+      "500 g mussarela fatiada",
+      "100 g queijo parmesão ralado",
+      "5 sachês de molho de tomate",
+      "100 g bacon picado",
+      "3 colheres (sopa) de azeite",
+      "1 cebola grande picada",
+      "1 colher (sopa) de alho triturado",
+      "2 ramos de manjericão fresco",
+      "1/2 colher (sopa) de orégano",
+      "1/2 colher (sopa) de tempero baiano",
+      "1/2 colher (sopa) de colorífico",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite em azeite o alho, o bacon e a cebola",
+      "Refogue bem a carne moída com os temperos",
+      "Acrescente os sachês de molho, deixe cozinhar mexendo sempre até encorpar",
+      "Quando pronto, deixe esfriar.",
+      "Faça a montagem na forma lasanheira em camadas conforme a seqüência a segui",
+      "Faça uma camada de molho",
+      "Espalhe em seguida as tiras cruas de lasanha",
+      "Despeje novamente outra camada de molho",
+      "Cubra com fatias de mussarela",
+      "Repita esta seqüência até encher a lasanheira, e por ultimo espalhe o queijo parmesão e enfeite com as folhas de manjericão.",
+      "Em seguida, vá despejando o leite em volta da lasanha, levante as camadas com cuidado para o leite penetrar bem entre elas",
+      "Não se preocupe se ficar encharcada, pois durante a noite a massa da lasanha vai absorver o leite, deixando-a já bem mole para cozinhar no forno.",
+      "Cubra com papel alumínio e leve à geladeira.",
+      "No outro dia, leve ao forno sem pré aquecimento e deixe cozinhado por 1 hora.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "-31 PORÇÕES",
+  "autor": "CONCETTA DI LEO BRITTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308914-lasanha-a-bolonhesa-marinada-no-leite.html"
+}

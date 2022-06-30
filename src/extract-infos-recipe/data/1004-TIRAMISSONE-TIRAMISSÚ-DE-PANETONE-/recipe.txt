@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TIRAMISSONE (TIRAMISSÚ DE PANETONE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de Panetone ou Chocotone."
+    ],
+    "PARA O CREME": [
+      "2 potes de cream cheese (100 g cada)",
+      "2 caixas de creme de leite (200 g cada)",
+      "1 colher (sopa) de açúcar",
+      "essência de baunilha ou avelã a gosto"
+    ],
+    "PARA UMEDECER": [
+      "3/4 de xícara de vinho tinto",
+      "canela em pó a gosto"
+    ],
+    "PARA POLVILHAR": [
+      "3 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de café solúvel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes do creme: o cream cheese, o creme de leite, o açúcar e a essência por 15 minutos.",
+      "Coloque em um prato: o vinho e a canela e misture bem.",
+      "Em uma pequena tigela, misture bem o chocolate e o café.",
+      "Corte o panetone (ou chocotone) em pedaços e umedeça no vinho com canela, arrume em uma travessa.",
+      "Cubra com uma parte do creme e polvilhe com a mistura de chocolate e café.",
+      "Repita as camadas até acabar com o panetone e o creme, polvilhando com a mistura de chocolate e café.",
+      "Leve à geladeira até o momento de servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAURA FERNANDA DOS S.M.D",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310518-tiramissone-tiramissu-de-panetone.html"
+}

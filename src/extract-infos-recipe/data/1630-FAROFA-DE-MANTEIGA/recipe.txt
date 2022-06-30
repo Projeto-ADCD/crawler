@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FAROFA DE MANTEIGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de mandioca crua",
+      "200 g de manteiga",
+      "1 cebola ralada",
+      "1/2 lingüiça calabresa",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a lingüiça calabresa até dourar",
+      "Adicione a cebola e frite bem",
+      "Depois da cebola e a lingüiça dourarem, adicione a farinha de mandioca",
+      "Mexa bem",
+      "Adicione a manteiga e o sal a gosto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MYA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307325-farofa-de-manteiga.html"
+}

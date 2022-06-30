@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 xícara de açúcar refinado",
+      "3/4 xícara de leite em temperatura ambiente",
+      "2 xícaras e 1/2 de farinha de trigo",
+      "suco de 1 laranja",
+      "raspas de laranja",
+      "1 colher (sopa) de fermento em pó",
+      "açúcar e canela em pó a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ovos, o açúcar e o leite em um refratário e misture até incorporar bem.",
+      "Em seguida, acrescente a metade da farinha de trigo, mexa e acrescente a outra metade.",
+      "Por fim, adicione o suco e as raspas de laranja, mexa e acrescente o fermento em pó.",
+      "Frite em óleo quente e sirva.",
+      "É importante deixar o fogo no médio para que seus bolinhos não queimem."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "THALITA SOARES DE BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308978-bolinho-de-chuva-de-laranja.html"
+}

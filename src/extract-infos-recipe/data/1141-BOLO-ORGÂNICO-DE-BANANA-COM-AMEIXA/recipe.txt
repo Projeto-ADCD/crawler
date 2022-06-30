@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO ORGÂNICO DE BANANA COM AMEIXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas orgânicas bem maduras",
+      "2 ovos",
+      "1 xícara de aveia (xícara de 220 ml)",
+      "50 ml de azeite virgem",
+      "5 ameixas secas grandes",
+      "4 castanhas do Pará",
+      "6 castanhas de caju",
+      "2 colheres de gergelim tostado",
+      "canela a gosto",
+      "azeite para untar a forma",
+      "limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as bananas e amasse bem até formar uma pasta",
+      "Pegue os ovos e use inteiro, mas retire a pele da gema para evitar o cheiro forte no bolo (pra fazer isso utilize limão)",
+      "Acrescente a farinha de aveia e o azeite ferva em uma panela as ameixas por 5 minutos",
+      "Despreze a água e amasse as ameixas ainda quente com um auxilio de um garfo",
+      "Misture adicione as castanhas e misture coloque a canela e por fim o fermento em pó",
+      "Preaqueça o forno na temperatura media de 200° C",
+      "Coloque a massa na forma e deixe descansar coloque no forno por 35 minutos ",
+      "Quando esfriar, corte e pronto",
+      "Você terá um bolo nutritivo, muito saboroso e também saudável"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: usar todos os produros orgânicos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "-15 PORÇÕES",
+  "autor": "MARIA MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309623-bolo-organico-de-banana-com-ameixa.html"
+}

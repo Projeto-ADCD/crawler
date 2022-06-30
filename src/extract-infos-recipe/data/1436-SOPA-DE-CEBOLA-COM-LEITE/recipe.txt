@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SOPA DE CEBOLA COM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de cebolas brancas",
+      "1 colher (sopa) cheia de manteiga",
+      "3 copos de leite",
+      "3 copos de caldo de carne",
+      "4 fatias grossas de pão amanhecido",
+      "sal",
+      "pimenta-do-reino branca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as cebolas e corte em fatias.",
+      "Derreta a manteiga em uma panela de ágata ou de superfície antiaderente, junte a cebola, deixe murchar um pouco e adicione um copo de caldo de carne quente.",
+      "Tampe a panela, diminuindo bem o fogo e deixe cozinhar brandamente por uns 50 minutos.",
+      "Mexa de vez em quando para evitar que a cebola escureça.",
+      "Enquanto a cebola estiver cozinhando, retire a casca do pão, corte-o em pedaços e deixe de molho no leite quente por uns 30 minutos, a fim de ficar desfeito (mexa com um garfo para esmigalhar bem).",
+      "Estando bem cozida a cebola, junte o leite com pão e o restante do caldo de carne.",
+      "Mexa bem, tampe e deixe cozinhar por mais meia hora. Isso pronto, retire do fogo e passe na peneira ou no liquidificador.",
+      "Coloque novamente na panela e tempere a gosto com sal e pimenta.",
+      "Leve novamente ao fogo para ficar bem quente e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308350-sopa-de-cebola-com-leite.html"
+}

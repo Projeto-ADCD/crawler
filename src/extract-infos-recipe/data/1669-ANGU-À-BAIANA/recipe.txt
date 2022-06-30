@@ -1,0 +1,49 @@
+{
+  "nome_receita": "ANGU À BAIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de suco de limão ",
+      "150 g de miúdos ",
+      "150 g de língua",
+      "150 g de fígado ",
+      "150 g de coração",
+      "150 g de bofe",
+      "300 g de rabada",
+      "1 fio de óleo",
+      "5 dentes de alho picado",
+      "1/2 pimentão verde",
+      "1/2 cebola picada",
+      "1 tomate picado",
+      "sal e pimenta a gosto",
+      "1 litro de água ",
+      "Angu",
+      "1 fio de óleo",
+      "2 dentes de alho",
+      "1 litro de água ",
+      "250 g de fubá de milho",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as carnes em recipientes separados",
+      "Despeje um pouco do suco de limão em cada uma delas e reserve",
+      "Coloque 1 fio de óleo na panela e comece a selar as carnes ",
+      "Quando estiverem douradas, retire da panela e reserve",
+      "Na mesma panela, coloque o alho, o pimentão, a cebola e o tomate",
+      "Depois de bem refogado, junte a mistura com as carnes em uma panela de pressão",
+      "Junte sal, a pimenta e a água",
+      "Cozinhe 1 hora e 30 minutos na pressão ",
+      "Enquanto isso, em uma panela, junte o fio de óleo e o alho",
+      "Deixe dourar bastante e junte a água ",
+      "Quando começar a ferver junte o fubá ",
+      "Tempere com sal a gosto",
+      "Com a ajuda de um fouet misture bem para não empelotar",
+      "Abra a panela de pressão e sirva a carne por cima do angu. "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307221-angu-a-baiana.html"
+}

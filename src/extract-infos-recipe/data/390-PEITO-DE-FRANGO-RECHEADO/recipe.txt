@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PEITO DE FRANGO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 l de água",
+      "2 colher (sopa) de sal ",
+      "1 colher (sopa) de açúcar",
+      "suco de 1 laranja",
+      "1 colher (sopa) de tomilho seco",
+      "2 peitos de frango inteiros",
+      "300 g de mussarela",
+      "azeitonas sem caroço",
+      "pimenta do reino a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Encha uma vasilha com a água, adicione o sal e o açúcar para preparar uma salmoura. Adicione o tomilho e o suco de uma laranja para temperar. Coloque os peitos de frango nessa mistura e deixe submerso por aproximadamente 12 horas.",
+      "Retire o peito e, com o auxílio de uma faca, faça uma abertura no centro do frango, com cuidado para não abrir de uma ponta a outra. ",
+      "Faça rolinhos com a azeitona dentro da mussarela e coloque no frango para rechear. Tempere o frango com a pimenta do reino.",
+      "Em uma frigideira preaquecida, coloque um fio de óleo e depois bote o frango para grelhar. Mantenha até ficar dourado e macio."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode adicionar o suco de uma laranja para temperar ainda mais quando o frango já estiver na frigideira. Já para a salmoura, podem ser usados os temperos da sua preferência.\nSolte a imaginação outros recheios, como por exemplo presunto, bacom e legumes. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312960-peito-de-frango-recheado.html"
+}

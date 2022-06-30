@@ -1,0 +1,41 @@
+{
+  "nome_receita": "TUTÚ À PARMEGIANA BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacon picado",
+      "500 g de calabresa em fatias",
+      "1/2 cebola grande fatiada",
+      "2 dentes de alho amassados",
+      "500 g de feijão cozido, com o caldo",
+      "água morna o quanto baste",
+      "3 tabletes de caldo de carne",
+      "sal a gosto",
+      "300 g de farinha de milho",
+      "1 xícara (chá) de molho de tomate",
+      "500 g de presunto em fatias",
+      "500 g de mussarela em fatias"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione 400 g do bacon e deixe dourar;",
+      "Junte 400 g de calabresa e siga fritando em fogo moderado;",
+      "Junte a cebola (separe um pouco para o molho) e o alho e deixe refogar;",
+      "Acrescente o feijão com o caldo, sal a gosto, dois tabletes de caldo e um tanto de água morna, mexa bem e deixe apurar;",
+      "Quando começar a ficar mais espesso, junte a farinha de milho em chuva e aos poucos, mexendo devagar para misturar tudo e deixe cozinhar mais alguns minutos; Reserve.",
+      "Prepare o molho:",
+      "Coloque o restante do bacon em outra panela e frite-o;",
+      "Acrescente a calabresa restante e frite;",
+      "Junte a cebola, o molho de tomate e o 1/2 tablete de caldo restante. Deixe em fogo moderado por mais dois minutos;",
+      "Montagem:",
+      "Coloque um pouco de tutú na base de um refratário e sobre ela uma camada de queijo e outra de presunto;",
+      "Repita a operação e finalize cobrindo com o molho de tomate.",
+      "Tudo deve estar bem quente, pois não precisa ir ao forno.",
+      "Sirva com arroz e batatas, ou à moda clássica, com bistequinhas grelhadas, banana frita, couve refogada e ovos fritos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311665-tutu-a-parmegiana-by-cristiano-grillo.html"
+}

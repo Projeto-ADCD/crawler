@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO ROSA SIMPLES OU BOLO DE BICHO DE PÉ SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 ovo",
+      "3/4 de xícara de açúcar",
+      "1/4 de xícara de óleo",
+      "1/2 xícara de leite",
+      "1 pacote de gelatina sabor morango",
+      "1 xícara de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "Cobertura",
+      "1 caixinha de leite condensado",
+      "1 e 1/2 colher de margarina",
+      "1 caixinha de creme de leite",
+      "4 colheres de nesquik"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture o ovo, o açúcar e o óleo",
+      "Acrescente o leite e a gelatina sabor morango e misture",
+      "Acrescente a farinha de trigo e misture",
+      "Acrescente o fermento e misture delicadamente",
+      "Leve ao forno por aproximadamente 40 minutos",
+      "Depois que estiver morno, desenforme.",
+      "Cobertura",
+      "Brigadeiro rosa ou bicho de pé",
+      "Coloque a lata de leite condensado, a margarina, metade do creme de leite e o nesquik em uma panela, e leve ao fogo até começar a borbulhar",
+      "Depois que retirar do fogo, acrescente um pouco mais do creme de leite, para ficar mais lisinho e misture.",
+      "Coloque em cima do bolo e se delicie!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Essa receita é para uma FORMA PEQUENA e para poucas pessoas. Caso queira um bolo maior, dobre a quantidade de ingredientes."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "@CANTINHOTAMI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306869-bolo-rosa-simples-ou-bolo-de-bicho-de-pe-simples.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COGUMELOS RECHEADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 cogumelos grandes",
+      "1 cebola",
+      "3 colheres (sopa) de Becel Amanteigado",
+      "50 g de peito de peru inteiro",
+      "1 colher (chá) de mostarda",
+      "1 colher (chá) de orégano fresco",
+      "1 colher (chá) pimenta-do-reino preta em grãos",
+      "1 colher (sopa) de vinho tinto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave muito bem os cogumelos e tire as pontas.",
+      "Descasque e pique a cebola e cozinhe sobre fogo brando junto com os cogumelos picados e 2 colheres (sopa) de Becel Amanteigado. Quando a cebola estiver translúcida, aumente um pouco o fogo e deixe evaporar um pouco o líquido que se formou.",
+      "Adicione o peito de peru cortado e tempere com a mostarda, o orégano e pimenta moída.",
+      "Recheie as cabeças dos cogumelos com o preparado e coloque os cogumelos recheados no forno. Por cima espalhe Becel Amanteigado e adicione vinho tinto. Leve ao forno durante cerca de 10 minutos.",
+      "Sirva imediatamente. Gostoso e saudável!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312051-cogumelos-recheados.html"
+}

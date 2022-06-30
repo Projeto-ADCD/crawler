@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE BANANA COM GANACHE DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas pratas",
+      "1 ovo",
+      "1/2 xícara de leite",
+      "1 xícara de farinha de trigo",
+      "2 colheres (sopa) de margarina",
+      "1 xícara de açúcar",
+      "1 colher (chá) de fermento em pó",
+      "Para a cobertura",
+      "2 colheres (sopa) de Nutella",
+      "1/2 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um prato, amasse as bananas com um garfo e reserve.",
+      "Em uma tigela média, bata o ovo e vá acrescentando os ingredientes, deixando a farinha e o fermento para o final.",
+      "Coloque em uma forma de bolo inglês pequena untada com margarina.",
+      "Asse em forno preaquecido a 180° C por 40 a 50 minutos.",
+      "Verifique o cozimento espetando com um palito no meio do bolo. Se sair limpo, está pronto.",
+      "Cobertura",
+      "Misture bem os ingredientes em um pote pequeno que possa ir ao micro-ondas.",
+      "Leve ao micro-ondas por 35 segundos.",
+      "Faça furos no bolo com um garfo ou palito e coloque a cobertura por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DENISE TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306224-bolo-de-banana-com-ganache-de-nutella.html"
+}

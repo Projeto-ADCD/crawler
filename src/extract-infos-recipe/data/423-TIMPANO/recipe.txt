@@ -1,0 +1,50 @@
+{
+  "nome_receita": "TIMPANO",
+  "ingredientes": {
+    "MASSA": [
+      "400 g de farinha de trigo",
+      "200 g de manteiga",
+      "100 g de açúcar",
+      "3 colheres (sopa) de vinagre",
+      "1 colher (café) de sal",
+      "4 gemas ",
+      "ovo batido e manteiga para untar",
+      "azeite a gosto para pincelar "
+    ],
+    "RECHEIO": [
+      "3 xícaras (chá) de molho de tomate",
+      "200 g de frango",
+      "200 g de massa de macarrão à sua escolha",
+      "manjericão a gosto",
+      "1 linguiça calabresa ",
+      "3 ovos",
+      "200 g de mussarela"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Junte a farinha, a manteiga, o açúcar com o vinagre, o sal e as gemas. Misture tudo até formar uma massa em formato de bola e cubra com um pano limpo umedecido.",
+      "Deixe descansar por 30 minutos na geladeira."
+    ],
+    "RECHEIO": [
+      "Misture o molho de tomate com a linguiça picada, o frango e o manjericão.",
+      "Em uma panela de água com sal, cozinhe o macarrão em um ponto mais durinho, al dente.",
+      "Cozinhe os ovos, corte-os em 4 partes e tempere com o sal.",
+      "Abra a massa de macarrão bem fina, até obter um circulo grande o suficiente para forrar e cobrir a forma.",
+      "Unte o fundo e as laterais, coloque a folha de massa com a sobra caindo para fora. "
+    ],
+    "MONTAGEM": [
+      "Recheie colocando em camadas nessa ordem: macarrão, molho, mussarela, macarrão, molho, ovos, queijo.",
+      "Fechar com a sobra da massa e pincele um pouco de azeite por cima.",
+      "Cubra com papel alumínio e leve ao forno por 45 minutos, retirando o papel nos últimos 10 minutos.",
+      "Desenforme e sirva como quiser."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita de timpano é característica da Itália, mais precisamente da ilha de Malta. Seu nome vem de timballo, tembor em italiano, por conta de seu formato que lembra o objeto. Essa delícia ficou superfamosa no filme A Grande Noite, de 1996.\nVocê pode dar a sua cara para esse clássico e rechear a massa italiana como preferir. É perfeita para fazer receitas inovadoras usando o que tem na geladeira. Que tal experimentar?"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312861-timpano.html"
+}

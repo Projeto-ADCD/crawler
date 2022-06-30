@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETINHO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de morangos congelados",
+      "1/2 copo de leite",
+      "1/2 xicara de creme de leite ",
+      "leite condensado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador até ficar em consitência parecida com sorvete",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310677-sorvetinho-caseiro.html"
+}

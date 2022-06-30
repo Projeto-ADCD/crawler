@@ -1,0 +1,23 @@
+{
+  "nome_receita": "AÇAÍ EM CAMADAS NO COPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bolas de Frooty Açaí",
+      "1 banana nanica em rodelas ou a fruta de sua preferência",
+      "3 colheres de leite condensado (opcional)",
+      "3 colheres de leite em pó (opcional)",
+      "toppings de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No fundo de um copo coloque pedaços da fruta, um fio de leite condensado, 1 colher (sopa) de leite em pó, 1 bola de Frooty Açaí.",
+      "Intercale sucessivamente e finalize com a última camada do creme de açaí.",
+      "Você pode usar os toppings de sua preferência e criar cada dia uma receita diferente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306099-acai-em-camadas-no-copo.html"
+}

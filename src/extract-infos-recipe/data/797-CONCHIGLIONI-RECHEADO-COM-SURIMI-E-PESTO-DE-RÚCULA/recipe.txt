@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CONCHIGLIONI RECHEADO COM SURIMI E PESTO DE RÚCULA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de migalhas de surimi",
+      "24 conchiglioni (120 g)",
+      "40 g de rúcula",
+      "60 g de amêndoas em flocos",
+      "3 colheres (sopa) de azeite",
+      "1 colher (sopa) de vinagre balsâmico branco",
+      "sal",
+      "pimenta moída na hora"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão por 11 minutos em uma panela grande de água fervente com sal, escorra e coloque em uma tigela com água fria para parar de cozinhar",
+      "Pique finamente a rúcula, as migalhas de surimi e as amêndoas em flocos",
+      "Misture tudo em uma tigela, acrescentando o azeite, o vinagre, o sal e a pimenta.",
+      "Misture bem",
+      "Recheie o conchiglioni com este recheio com uma colher (chá)",
+      "Coloque-os em pratos grandes e sirva com uma salada verde"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311524-conchiglioni-recheado-com-surimi-e-pesto-de-rucula.html"
+}

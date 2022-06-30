@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE MEL NO POTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3/4 xícara de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "1 e 1/2 xícara de leite",
+      "4 colheres (sopa) de mel",
+      "2 colheres (sopa) essência de baunilha",
+      "1 colher (sopa) de fermento",
+      "3 xícara de farinha de trigo aproximadamente"
+    ],
+    "RECHEIO": [
+      "5 colheres (sopa) de leite em pó aproximadamente",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "2 badeijinhas de morangos",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata os ovos, o leite, a manteiga e o açúcar até virar um creme, depois desligue a batedeira e, com fuê, adicione o leite e a farinha.",
+      "Leve ao forno preaquecido 180°C",
+      "Em fogo médio, coloque a manteiga, o leite condensado e o leite em pó e mexa até virar um creme.",
+      "Feito isso, desligue o fogo e acrescente o creme de leite.",
+      "Pegue uma vasilha e coloque uma camada de bolo esfarelado e molhe com um pouco de leite.",
+      "Em seguida, uma camada de recheio e uma de morangos picados e assim vá alternando até acabar o bolo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser destacar o gostinho de mel, coloque um pouco em cima do bolo na ou na montagem da massa."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TALITA MAGALHÃES CORDEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312666-bolo-de-mel-no-pote.html"
+}

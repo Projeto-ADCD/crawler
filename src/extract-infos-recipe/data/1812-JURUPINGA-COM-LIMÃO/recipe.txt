@@ -1,0 +1,23 @@
+{
+  "nome_receita": "JURUPINGA COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de jurupinga",
+      "2 limões",
+      "50 ml de água tônica sabor limão",
+      "gelo a gosto",
+      "1 colher (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a parte central dos limões, pois ela traz o sabor amargo.",
+      "Esprema os limões e em seguida adicione os outros ingredientes.",
+      "Utilize uma coquiteleira para fazer a mistura."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALISSON ARCANJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306726-jurupinga-com-limao.html"
+}

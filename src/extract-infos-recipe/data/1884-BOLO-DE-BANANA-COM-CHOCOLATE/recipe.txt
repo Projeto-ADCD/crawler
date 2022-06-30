@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas nanicas bem maduras",
+      "3 ovos médios",
+      "1/2 xícara (chá) de óleo",
+      "2 xícaras (chá) de aveia em flocos finos",
+      "1 e 1/2 xícara (chá) de açúcar mascavo",
+      "1/2 barra de chocolate amargo picado",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de canela em pó",
+      "2 colheres (sopa) de passa e/ou castanhas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de fazer",
+      "Unte a forma com óleo e aveia em flocos finos",
+      "Corte 2 bananas em fatias e amasse as outras",
+      "Reserve",
+      "Bata no liquidificador o óleo, o açúcar, a aveia, os ovos e a canela",
+      "Bata bem",
+      "Acrescente as bananas amassadas e o fermento",
+      "Despeje a massa na forma e cubra com as bananas fatiadas",
+      "Forno a 180° C por 30 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OPICIONAL: chocolate derretido sobre a massa"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JADE PRINCESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306526-bolo-de-banana-com-chocolate.html"
+}

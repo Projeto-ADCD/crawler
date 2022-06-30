@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ROSCA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "2 copos (americanos) de leite morno (não pode estar quente)",
+      "1/2 copo de óleo",
+      "1 copo de açúcar",
+      "2 colheres de manteiga (com ou sem sal)",
+      "3 ovos inteiros (grandes, se pequenos coloque 4)",
+      "60 g de fermento biológico",
+      "300 g de frutas cristalizadas ou gotas de chocolate/ goiabada (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o leite, ovos, óleo, margarina e o fermento biológico.",
+      "Bata tudo por aproximadamente 1 minuto.",
+      "Em uma vasilha despeje o liquido coloque aproximadamente 800 gramas de farinha.",
+      "Despeje a mistura e coloque as frutas.",
+      "Misture tudo e acrescente ao poucos o restante da farinha. A massa tem que grudar um pouco na mão.",
+      "Sovar por aproximadamente 20 minutos para ativar a fermentação (para obter uma rosca macia quanto mais sovar mas macia ficara).",
+      "Em uma superfície lisa, coloque um pouco de farinha e despeje a massa divida em 2 partes.",
+      "Faça uma trança com cada uma das 2 partes.",
+      "Deixe descansar até dobrar de tamanho. Cobrir com pano ou ate mesmo colocar dentro saquinho plástico (bem maior que a forma) em um lugar mas aquecido aproximadamente 1 hora a 2 horas vai depender tempo se tiver frio demora mas um pouco ",
+      "Pincele com gema de ovo",
+      "Coloque para assar em forno médio por 35 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SILVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310362-rosca-caseira.html"
+}

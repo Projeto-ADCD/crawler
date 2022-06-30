@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO PESTO (CASEIRO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícara (chá) de manjericão",
+      "1/2 xícara (chá) de nozes",
+      "100 g de queijo parmesão ralado",
+      "2 dentes de alho",
+      "1 e 1/2 xícara (chá) de azeite de oliva",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No processador/liquidificador, bata o azeite de oliva, nozes, parmesão ralado e dentes de alho.",
+      "Acrescente as folhas de manjericão e termine de bater. Quanto menos você triturar as folhas de manjericão, mais verdinho o molho ficará.",
+      "Prove e acrescente sal a gosto.",
+      "OBS: para armazenar, coloque em um recipiente fechado na geladeira (dura 15 dias) ou até 1 mês no congelador. Rende um pouco mais do que a quantidade que está na imagem."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GUILHERME ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312332-molho-pesto-caseiro.html"
+}

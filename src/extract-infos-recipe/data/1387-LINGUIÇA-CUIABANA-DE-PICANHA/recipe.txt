@@ -1,0 +1,43 @@
+{
+  "nome_receita": "LINGUIÇA CUIABANA DE PICANHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de picanha (1,3 kg)",
+      "1 litro de leite",
+      "100 g de queijo (gouda, emmental ou o de preferência)",
+      "1 colher (sopa) de orégano",
+      "1 colher (sopa) de sal (ou a gosto)",
+      "1 colher (sopa) de pimenta-do-reino moída (ou a gosto)",
+      "1/2 ramo de salsinha",
+      "10 m de intestino de porco ou artificial para encher"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Parte 1",
+      "Com um faca, retire toda a gordura da picanha e reserve",
+      "Corte a carne em pequenos pedaços e pese",
+      "Pese a gordura e corte um pedaço que represente 30% do peso da carne. O excedente, pode ser descartado ou congelado para uso no futuro.",
+      "Corte a gordura separada (30% do peso da carne) em pequenos pedaços",
+      "Corte o queijo em pequenos cubos",
+      "Misture a carne, a gordura e o queijo",
+      "Adicione o orégano e tempere com sal, pimenta-do-reino e salsinha a gosto",
+      "Misture bem",
+      "Adicionei o leite, cubra e leve à geladeira por pelo menos 8 horas",
+      "Parte 2",
+      "Coloque o intestino de porco de molho em água com um pouco de vinagre por 20 minutos",
+      "Amarre uma das pontas",
+      "Encha o intestino com o preparo feito na PARTE 1. Não é necessário escorrer o leite.",
+      "Por causa do leite, é recomendado o enchimento manual. Você pode cortar uma garrafa de 1 litro ou 2 litros, retirar a tampa, e utilizar a parte superior como um funil.",
+      "Durante o enchimento, tente remover o excesso de ar sem furar a linguiça.",
+      "Para assar, coloque numa assadeira e leve ao forno (180° C) por 40 minutos.",
+      "Numa AirFryer, 160° C por 40 minutos.",
+      "Na churrasqueira, coloque numa parte mais alta ou mais fria para cozinhá-la sem estourar. Depois pode colocá-la na parte baixa para dourar.",
+      "Ajuste os tempos de acordo com seu forno. O importante é que ela possa cozinhar com o leite (ou seja, sem estourar). Depois de um tempo, ela irá estourar sozinha."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CHEF JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308590-linguica-cuiabana-de-picanha.html"
+}

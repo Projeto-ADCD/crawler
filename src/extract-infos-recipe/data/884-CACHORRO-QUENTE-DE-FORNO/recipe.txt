@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CACHORRO-QUENTE DE FORNO",
+  "ingredientes": {
+    "MOLHO BRANCO": [
+      "2 colheres (sopa) de margarina ou manteiga",
+      "3 colheres (sopa) de farinha de trigo",
+      "2 xícaras de leite integral",
+      "1/2 cebola ralada",
+      "sal, pimenta e noz-moscada a gosto"
+    ],
+    "MOLHO 2": [
+      "1 bandeja de salsicha",
+      "1/2 cebola picada",
+      "1 pacote de molho de tomate",
+      "2 colheres (sopa) de óleo",
+      "1/4 de xícara de milho em conserva",
+      "1/4 de xícara de ervilha em conserva",
+      "1/4 de xícara de requeijão",
+      "1 tomate picado",
+      "sal e cheiro-verde a gosto"
+    ],
+    "MONTAGEM": [
+      "1 pão sovado grande",
+      "1/2 pacote de batata palha",
+      "1 pacotinho de queijo parmesão ralado",
+      "1 fio de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela frite a cebola ralada na margarina, adicione a farinha aos poucos e misture com um fouet",
+      "Adicione o leite e misture bem, deixe engrossar e acerte o sal e temperos.",
+      "Para o preparo do molho 2 refogue a cebola no óleo coloque o tomate, o milho, a ervilha e o molho de tomate",
+      "Refogue bem adicione a salsinha, sal, temperos um pouco da água.",
+      "Cozinhe até que a salsicha fique macia finalize com cheiro verde.",
+      "Fatie o pão, coloque o em uma travessa marinex vá intercalando as camadas de pão, molho branco, e molho de tomate: finalize com a batata e o queijo parmesão ralado.",
+      "Leve ao forno até dourar sirva quente ou fria."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VITORIA F",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311061-cachorro-quente-de-forno.html"
+}

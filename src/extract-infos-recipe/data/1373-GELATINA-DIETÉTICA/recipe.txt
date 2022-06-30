@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GELATINA DIETÉTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 folhas de gelatina branca",
+      "6 folhas de gelatina vermelha",
+      "4 cravos-da-índia",
+      "4 pedaços de canela em lasca",
+      "1 colher (café) de erva-doce",
+      "adoçante a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as folhas de gelatina em pedacinhos e coloque de molho por uma hora, em copo com água.",
+      "Leve uma panela ao fogo com três copos de água, junte os cravos e a canela e deixe ferver até pegar gosto.",
+      "Feito isso, adicione a gelatina dissolvida em banho-maria.",
+      "Mexa bem, deixe começar a ferver e tempere com o adoçante.",
+      "Retire do fogo, deixe amornar, coe e distribua em taças.",
+      "Deixe esfriar e leve à geladeira.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308676-gelatina-dietetica.html"
+}

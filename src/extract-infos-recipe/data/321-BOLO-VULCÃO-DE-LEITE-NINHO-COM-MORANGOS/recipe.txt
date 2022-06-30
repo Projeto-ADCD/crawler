@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO VULCÃO DE LEITE NINHO COM MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara de açúcar",
+      "1 xícara de água em temperatura ambiente",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó.",
+      "Cobertura",
+      "1 1/2 lata ou caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) de margarina ou manteiga",
+      "4 colheres (sopa) cheias de leite Ninho (ou leite em pó de sua preferência)",
+      "1 caixinha de morangos limpos e frescos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Separe as claras e as gemas. Bata as claras em ponto de neve e reserve.",
+      "Na batedeira ou na mão, bata as gemas com o açúcar e o óleo, até que fique bem misturado.",
+      "Acrescente a farinha de trigo, peneirada, e vá intercalando com a água, misture muito bem.",
+      "Adicione as claras em neve e, por fim, o fermento em pó. Coloque a massa em uma forma untada e enfarinhada e leve ao forno aquecido a 180º, por uns 45 minutos.",
+      "Cobertura",
+      "Em uma panela, coloque o leite condensado, a manteiga e o leite Ninho, misture muito bem, leve em fogo médio-baixo até virar um brigadeiro e começar a desgrudar do fundo da panela. Desligue o fogo e adicione o creme de leite. Reserve até esfriar.",
+      "Montagem",
+      "Desenforme o bolo e deixe esfriar. No furo do bolo, coloque camadas da cobertura com morangos picados, depois despeje toda a cobertura no restante do bolo. Para decora, peneire leite Ninho por cima e coloque alguns morangos inteiros."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313180-bolo-vulcao-de-leite-ninho-com-morangos.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANETONE SURPRESA FAMÍLIA WHITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 panetone de chocolate",
+      "2 bolas de sorvete de morango",
+      "2 bolas de sorvete de avelã (ou chocolate)",
+      "1 caixa de morangos",
+      "1 barra de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra um buraco no meio do panetone e coloque uma camada de sorvete. Logo acima, coloque morangos.",
+      "Repita o processo até chegar ao topo.",
+      "Derreta a barra de chocolate e cubra até as paredes uma vasilha de vidro. Leve à geladeira até o chocolate endurecer.",
+      "Retire o chocolate da vasilha e veja que ele adquiriu o formato circular.",
+      "Coloque esse chocolate em cima do panetone para \"tampar\" o buraco. Leve à geladeira.",
+      "Quando for servir, você pode colocar chocolate quente em cima do panetone para que ele derreta. Todos terão uma surpresa"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DOCE.CHEFE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307753-panetone-surpresa-familia-white.html"
+}

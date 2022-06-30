@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE ECONÔMICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "3 ovos",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de chocolate em pó ou achocolatado",
+      "1/2 xícara (chá) de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "1 pitada de sal",
+      "1 xícara (chá) de água quente",
+      "Cobertura:",
+      "4 colheres (sopa) de leite",
+      "1/2 xícara (chá) de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Em um liquidificador, bata os ovos, o açúcar, o óleo, o achocolatado e a farinha de trigo.",
+      "Despeje a massa em uma tigela e adicione a água quente e o fermento, misturando bem.",
+      "Despeje a massa em uma forma untada e asse em forno médio-alto (200° C), preaquecido, por 40 minutos.",
+      "Desenforme ainda quente.",
+      "Cobertura:",
+      "Em uma panela, leve todos os ingredientes ao fogo até levantar fervura.",
+      "Despeje ainda quente em cima do bolo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita também pode ser feita no micro-ondas, utilizando uma forma própria.\nO tempo de espera é de 9 minutos na potência alta.\nDeixe esfriar por 20 minutos e desenforme.\nNo TudoGostoso você encontra diversas receitas perfeitas para a hora do café da tarde, como essa e muitas outras. Que tal conferir outro clássico da hora do lanche como o bolinho de chuva? Confira essa receita incrível! \nQuem ama chocolate, vai amar esta receita de bolo de caneca de chocolate: simples, prática e rápida!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309778-bolo-de-chocolate-economico.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE MILHO COM MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de margarina",
+      "4 ovos",
+      "450 g de açúcar de confeiteiro ",
+      "1 caixinha de creme de leite",
+      "3 maracujás bem maduros",
+      "300 g de flocos de milho",
+      "200 g de farinha de trigo tipo 1",
+      "1 colher (sobremesa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata em batedeira a margarina sozinha por 5 minutos",
+      "Acrescente o açúcar e bata por mais aproximadamente 5 minutos",
+      "Junte os 4 ovos e continue batendo por mais 10 minutos.",
+      "A parte, bata em liquidificador os três maracujás com 1 caixinha de creme de leite por 2 minutos e coe em peneira.",
+      "Misture 200 ml dessa mistura na massa e reserve o restante para uma calda.",
+      "Misture os flocos de milho e a farinha de trigo.",
+      "Bata bem até a massa ficar bem homogênea.",
+      "Desligue a batedeira e com a ajuda de um fouet ou espátula",
+      "Misture delicadamente o fermento em pó.",
+      "Coloque em forma untada e enfarinhada em forno médio até o garfo sair limpo.",
+      "Para a calda, junte a sobra da mistura de creme de leite, um maracujá, 1/2 xícara de água e 1/2 xícara de açúcar",
+      "Cozinhe em ponto de calda e coloque sobre o bolo assim que desenformar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCELO UCHOA (@DELICIASDOCONFINAMENTO)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306562-bolo-de-milho-com-maracuja.html"
+}

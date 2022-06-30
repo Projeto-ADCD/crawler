@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOMBOM GIGANTE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras (chá) de chocolate meio amargo fracionado",
+      "5 colheres (sopa) de água para hidratar a gelatina",
+      "6 caixas de morango sem talo (350g cada)",
+      "1 envelope de gelatina incolor sem sabor (24g)",
+      "3 xícara de coco ralado",
+      "3 colheres (chá) de essência de baunilha",
+      "12 unidades de gema de ovo",
+      "3 colher (chá) de amido de milho",
+      "6 latas de leite condensado",
+      "12 xícaras (chá) de leite",
+      "600 ml de leite de coco",
+      "coco em lascas para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque um pouco do chocolate fracionado e derretido dentro da forma.",
+      "Mexa de forma que cubra ela completamente.",
+      "Leve ai freezer por 15 minutos.",
+      "Coloque o resto do chocolate e repita o mesmo processo. ",
+      "Leve à geladeira por 5 minutos. ",
+      "Em uma panela junte o leite e o amido e mexa bem.",
+      "Coloque a essência de baunilha e as gemas e mexa novamente.",
+      "Junte o leite condensado e o coco ralado e espere a mistura encorpar. ",
+      "Coloque o leite de coco e a gelatina misturada com a água. ",
+      "Misture bem e reserve até esfriar completamente.",
+      "Junte um pouco dessa mistura na casquinha do bombom reservada e leve ao freezer por 15 minutos. ",
+      "Coloque os morangos e o resto da mistura.",
+      "Leve à geladeira por 5 horas.",
+      "Finalize com o coco ralado e alguns morangos!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310687-bombom-gigante-de-morango.html"
+}

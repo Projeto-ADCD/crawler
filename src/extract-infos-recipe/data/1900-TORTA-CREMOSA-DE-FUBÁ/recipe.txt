@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA CREMOSA DE FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de trigo",
+      "5 colheres (sopa) de fubá",
+      "1 vidro de leite de coco (200 ml)",
+      "1 lata de leite condensado (395 g)",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de manteiga",
+      "4 ovos",
+      "3 xicaras (chá) de leite (720 ml)",
+      "1 xicara (chá) de açúcar (180 g)",
+      "2 colheres (sopa) de coco ralado (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque trigo, fubá, leite de coco, leite condensado, leite, manteiga e os ovos.",
+      "Depois bata tudo e adicione o fermento em pó e misture.",
+      "Após, transfira para uma forma untada e polvilhada com fubá, coloque coco ralado em cima (opcional)",
+      "Leve para assar em um formo preaquecido a 180° C, por aproximadamente 50 minutos.",
+      "Espere esfriar e polvilhe-o com açúcar de confeiteiro e coco ralado.",
+      "Sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306492-torta-cremosa-de-fuba.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA SALGADA FÁCIL E SABOROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes grandes de pão de forma sem casca",
+      "1 peito de frango sem osso, cozido e desfiado",
+      "1 colher (sopa) de azeite",
+      "3/4 de copo de água do cozimento",
+      "1 tomate picadinho",
+      "2 dentes de alho",
+      "1 cebola picada",
+      "1 colher (sopa) de colorau ou 3 colheres (sopa) de molho de tomate",
+      "1/2 molho de cheiro verde picado ou 1/2 molho de cebolinha",
+      "1 copo de requeijão",
+      "1 pacote de batata palha pequeno",
+      "1 tomate cortado em forma de flor",
+      "azeitonas para enfeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito do frango com sal, depois de cozido reserve 3/4 da água desse cozimento.",
+      "Tire os ossos e desfie.",
+      "Numa panela coloque o azeite, a cebola, o tomate, colorau ou molho de tomate, o cheiro verde ou só a cebolinha e o alho, dá uma douradinha e acrescente o frango e o 3/4 dessa água do cozimento.",
+      "Deixe refogar por uns 5 minutos em fogo baixinho.",
+      "A parte já tem os pães de forma retirado toda a casca.",
+      "Pegue uma bandeja e faça uma camada de pão e por cima um pouco do recheio de frango.",
+      "Faz outra camada de pão e coloque o frango por cima, vai intercalando até finalizar com o pão.",
+      "Pegue o requeijão e passa em toda a torta por fora.",
+      "Apos o requeijão espalhe batata palha.",
+      "Enfeite com tomate e azeitona.",
+      "Leve na geadeira por umas 2 horas e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica1: Quem não gosta de requeijão pode substituir por maionese.\nDica2:Se desejar pode regar o pão com azeite(opcional).\nDica3: a casca do pão de forma que sobrou (coloque azeite por cima, sal e orégano) pode colocar no microondas por 4 a 5 minutos de acordo com a potencia do seu forno para virar espetinhos de pão ou sem tempero depois de passar no microondas, bate no liquidificador e vira farinha de rosca.\nDica4: Pode ser decorado com: cenoura ralada, purê de batata, ervilha, palmito, milho, aspargo."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308997-torta-salgada-facil-e-saborosa.html"
+}

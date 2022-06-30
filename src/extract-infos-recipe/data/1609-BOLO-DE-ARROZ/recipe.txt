@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE ARROZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de arroz",
+      "4 ovos",
+      "1 xícara (chá) açúcar",
+      "3/4 de xícara (chá) de óleo",
+      "1 copo de iogurte natural",
+      "1 pacote coco ralado (50g)",
+      "1 pacote de queijo ralado (50g) ",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixar o arroz de molho em água por pelo menos duas horas.",
+      "Coloque os ingredientes úmidos primeiro e bata bem, adicione o arroz, depois o queijo ralado, em seguida o coco ralado. Deixando por último o fermento em pó apenas para misturar.",
+      "Coloque para assar em forma untada e enfarinhada até que fique no ponto desejado.",
+      "Desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "FABIO RAMALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307404-bolo-de-arroz.html"
+}

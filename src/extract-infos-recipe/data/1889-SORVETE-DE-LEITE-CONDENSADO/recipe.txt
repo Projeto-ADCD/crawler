@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "1 colher de leite ninho",
+      "1/2lata de leite condensado",
+      "1/2 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo",
+      "Coloque em um pote",
+      "Leve ao congelador por umas 4 horas no mínimo"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306517-sorvete-de-leite-condensado.html"
+}

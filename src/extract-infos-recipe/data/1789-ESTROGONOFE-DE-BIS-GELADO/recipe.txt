@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ESTROGONOFE DE BIS GELADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1 caixa de creme de leite",
+      "2 caixas de Bis (podendo ser chocolate ao leite ou chocolate branco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a lata de leite condensado na panela de pressão por 30 minutos.",
+      "Corte os bis em 4 partes cada um e reserve.",
+      "Após o cozimento das latas de leite condensado, colocar as latas para esfriar em água gelada por no mínimo 10 minutos.",
+      "Quando estiverem frias, abra as latas e coloque o doce de leite em um pirex de vidro, coloque a cx de creme de leite e misture bem.",
+      "Depois é só colocar os bis cortados junto a esse creme e misturar tudo.",
+      "Leve ao freezer por 1 hora para gelar bem e sirva!!",
+      "Obs: não abra a lata de leite condensado quente, aguarde esfriar!!",
+      "Fica uma delícia, você vai adorar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANNY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306784-estrogonofe-de-bis-gelado.html"
+}

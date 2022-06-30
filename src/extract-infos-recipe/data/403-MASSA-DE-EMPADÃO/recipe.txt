@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MASSA DE EMPADÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "6 colheres (sopa) de margarina",
+      "3 xícaras de farinha de trigo",
+      "recheio a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o creme de leite e a margarina",
+      "Vá acrescentando aos poucos a farinha de trigo e misture bem",
+      "Com as mãos, misture bem a massa até ficar bem consistente",
+      "Coloque na geladeira por 1 hora",
+      "Faça o recheio à gosto",
+      "Abra a massa com o auxílio de um rolo",
+      "Separe um pedaço pra cobrir",
+      "Em uma assadeira, coloque a massa e modele até cobrir toda a assadeira",
+      "Coloque o recheio",
+      "Cubra com o restante da massa",
+      "Pincele uma gema de ovo",
+      "Salpique com orégano",
+      "Leve ao forno médio por aproximadamente 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312927-massa-de-empadao.html"
+}

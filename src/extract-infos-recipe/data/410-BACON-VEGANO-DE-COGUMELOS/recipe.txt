@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BACON VEGANO DE COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de cogumelo shitake",
+      "1 colher (sopa) de páprica defumada",
+      "2 colheres (sopa) de fumaça líquida",
+      "1/4 de xícara (chá) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um frigideira aquecida, coloque o azeite.",
+      "Corte o cogumelo em quadradinhos e o adicione à frigideira.",
+      "Os cogumelos devem ficar submersos no azeite.",
+      "Assim que estiverem dourados, adicione a páprica e a fumaça líquida",
+      "Mexa até o cogumelo ficar mais durinho.",
+      "Sirva como preferir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312878-bacon-vegano-de-cogumelos.html"
+}

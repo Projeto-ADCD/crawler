@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO RECHEADO DA ROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tabletes de fermento ",
+      "1 xícara de leite morno",
+      "1/2 xícara de óleo",
+      "2 ovos inteiros",
+      "1 colherinha de açúcar",
+      "1 colherinha de sal",
+      "1/2 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta os 2 tabletes de fermento no leite morno.",
+      "Coloque dentro de uma tigela a farinha, fazendo um buraco no meio para colocar o fermento dissolvido no leite.",
+      "Amasse a massa com as mãos e vá colocando o óleo, os ovos, o açúcar e o sal.",
+      "Amasse bastante a massa até ficar bem homogênea.",
+      "Cubra com um pano de prato e deixe crescer por umas 2 horas.",
+      "Depois de crescida abra a massa com um rolo, dá para fazer 2 pães.",
+      "Esparrame o recheio sobre toda a massa e vá enrolando.",
+      "Coloque numa assadeira e passe a gema de um ovo sobre toda a massa.",
+      "Asse em forno na temperatura de 180º por 30 a 40 minutos.",
+      "Recheio",
+      "Pode ser com linguiça desfiada após retirada da tripa, de uma fritada no óleo, acrescente cebola, pimentão, ovo.",
+      "Deixa esfriar para colocar sobre a massa.",
+      "Faça o recheio que mais lhe agrada, e saboreie seu pão."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "HAROLDO BEVILACQUA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308864-pao-recheado-da-rosa.html"
+}

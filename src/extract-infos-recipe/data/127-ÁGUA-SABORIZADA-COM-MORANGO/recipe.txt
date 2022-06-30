@@ -1,0 +1,21 @@
+{
+  "nome_receita": "ÁGUA SABORIZADA COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 morangos grandes e maduros",
+      "1 litro de água gelada",
+      "1/2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie o morango em pedaços grandes.",
+      "Corte o limão em rodelas do tamanho de sua preferência.",
+      "Misture tudo com a água gelada e reserve na geladeira por no mínimo 30 minutos antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314350-agua-saborizada-com-morango.html"
+}

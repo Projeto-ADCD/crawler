@@ -1,0 +1,43 @@
+{
+  "nome_receita": "MUNGUNZÁ COM LEITE CONDENSADO E FAROFA DE AMENDOIM",
+  "ingredientes": {
+    "MUNGUNZÁ": [
+      "250 g de mugunzá",
+      "6 xícaras (chá) de água",
+      "3 cravos",
+      "1 pedaço de canela em pau",
+      "1/2 xícara (chá) de açúcar",
+      "500 ml de leite",
+      "400 ml de leite de coco",
+      "1 lata de leite condensado",
+      "1 pitada de sal",
+      "2 colheres (sopa) de margarina Primor"
+    ],
+    "FAROFA": [
+      "300 g de amendoim sem pele e tostado",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "MUNGUNZÁ": [
+      "Deixe de molho de um dia para o outro.",
+      "Escorra e leva para uma panela de pressão coloque: o mungunzá, a água, o cravo, a canela e o açúcar",
+      "Tampe a panela e cozinhe na pressão por 20 minutos.",
+      "Retire do fogo, deixe sair a pressão e abra a panela.",
+      "Junte o leite, o leite de coco, o leite condensado e a pitada de sal.",
+      "Cozinhe no fogo brando sem tampar até engrossar.",
+      "Misture a margarina Primor e desligue o fogo."
+    ],
+    "FAROFA": [
+      "No processador junte o amendoim com o açúcar e processe até formar uma farofa."
+    ],
+    "MONTAGEM": [
+      "Em potinhos individuais, coloque uma camada de farofa, por cima o mungunzá.",
+      "Finalize com mais uma camada de farofa e decore com canela em pau."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312315-mungunza-com-leite-condensado-e-farofa-de-amendoim.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FILÉ DE DOURADO EMPANADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de dourado",
+      "1 limão",
+      "4 dentes de alho",
+      "1 colher (sopa) de folhas de coentro",
+      "sal e pimenta a gosto",
+      "1 xícara (chá) de farinha de trigo (usei a integral sem glúten)",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "azeite e manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe cortado em filés com o caldo de 1 limão, alho, sal, pimenta-do-reino e coentro picado.",
+      "Deixe de molho por 10 minutos aproximadamente",
+      "Depois pegue o peixe do molho e empane na farinha de trigo misturada com o queijo ralado.",
+      "Esquente a frigideira em fogo médio e coloque 2 colheres (sopa) de manteiga e 1 de azeite",
+      "Frite os filés empanados deixando dourar dos dois lados e sempre reponha a manteiga e azeite se a frigideira secar.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELE SIQUEIRA PASSOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307621-file-de-dourado-empanado.html"
+}

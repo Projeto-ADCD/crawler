@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PUDIM DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g farinha tapioca granulada (para bolos/pudins)",
+      "100 g de coco ralado (flocos)",
+      "3 colheres (sopa) de açúcar",
+      "1 pitada de sal",
+      "1 litro de leite",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 vidro de leite de coco",
+      "1 colher (sopa) de margarina",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "100 g de coco ralado (flocos)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes secos num refratário plástico que possa ir ao micro-ondas: tapioca, coco, açúcar, sal e reserve!",
+      "Ferva o leite, em seguida despeje sobre os ingredientes secos até engrossar bem.",
+      "Após, coloque aos poucos os ingredientes líquidos: leite condensado, creme de leite, leite de coco e a margarina.",
+      "Misture bem manualmente!",
+      "Experimente!",
+      "Verifique se os grânulos da tapioca ainda estão um pouco durinhos. Se estiver, coloque o refratário com todos os ingredientes no micro-ondas por 5 minutos.",
+      "Retire do micro-ondas e mexa bem.",
+      "Despeje numa forma de pudim untada com margarina. Não bata a forma para assentar o pudim, pois com isso vai ajudar a ficar mais “aerado”.",
+      "Leve à geladeira por umas 4 horas.",
+      "Desenforme, use 1 lata de leite condensado (ou menos) sobre o pudim como cobertura, e por cima salpique as outras 100 g de coco ralado em flocos.",
+      "Pronto, é só saborear!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ELAINE CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307037-pudim-de-tapioca.html"
+}

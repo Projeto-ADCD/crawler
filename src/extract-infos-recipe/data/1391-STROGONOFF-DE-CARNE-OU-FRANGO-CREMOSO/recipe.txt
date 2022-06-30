@@ -1,0 +1,36 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE OU FRANGO - CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de margarina",
+      "3 colheres (sopa) de extrato de tomate",
+      "3 colheres (sopa) de ketchup",
+      "1 colher (sopa) de mostarda",
+      "1 colher (sopa) de molho inglês",
+      "1 colher (sopa) de farinha de trigo",
+      "1 cebola média ralada",
+      "300 g aprox. de carne ou frango em iscas ou cubinhos",
+      "100 g de cogumelos fatiados",
+      "1 cálice de conhaque",
+      "1 lata de creme de leite",
+      "sal, pimenta-do-reino e noz moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne ou o frango, deixe tomar gosto",
+      "Derreta a margarina e doure a cebola",
+      "Frite a carne ou o frango",
+      "Junte o resto dos ingredientes, menos o creme de leite e a farinha de trigo, corrija o sal por último.",
+      "Regue o cálice de conhaque e flambe",
+      "Deixe cozinhar por 10 minutos",
+      "Adicione a lata de creme de leite e mexa bem",
+      "Dilua a farinha de trigo em 1 xícara de água fria e despeje, mexa até engrossar na medida desejada.",
+      "Sirva com arroz branco e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DANIEL TAVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308564-strogonoff-de-carne-ou-frango-cremoso.html"
+}

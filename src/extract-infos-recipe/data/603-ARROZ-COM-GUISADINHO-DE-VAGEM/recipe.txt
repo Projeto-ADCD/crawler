@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ARROZ COM GUISADINHO DE VAGEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de vagem picadinha",
+      "1 cenoura picadinha",
+      "1/2 tomate picadinho",
+      "1/2 cebola picadinha",
+      "1 xícara de carne moída",
+      "2 xícaras de arroz cozido",
+      "tempero e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, doure a cebola",
+      "Em seguida coloque o tomate e refogue um pouco",
+      "Coloque a carne moída, a vagem e a cenoura, cubra com água, coloque sal e os temperos de sua preferência",
+      "Deixe cozinhar até secar toda a água",
+      "Por último, misture o arroz",
+      "Agora, é só servir!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312387-arroz-com-guisadinho-de-vagem.html"
+}

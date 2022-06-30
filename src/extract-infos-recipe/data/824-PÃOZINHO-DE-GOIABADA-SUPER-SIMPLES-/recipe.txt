@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃOZINHO DE GOIABADA SUPER SIMPLES.",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo mais ou menos",
+      "1 ovo",
+      "1/2 xícara de óleo",
+      "2 xícara de leite morno",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (café) de sal",
+      "1 pacotinho de fermento Biólogico 10 g",
+      "300 g de goiabada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador exceto a Farinha.",
+      "Coloca em uma bacia e vai acrescentando a farinha aos poucos até a massa parar de grudar, sove bem a massa e deixe descansar por no mínimos 1 hora ela vai crescer bastante.",
+      "Enquanto isso cortar a goiabada em pedaços de mais ou menos 2cm. Depois do descanso da massa fazer bolinhas e colocar o pedaço de goiabada dentro fechando em forma de trouxinha. Coloque em uma assadeira untada e deixe descansar por mais 30 minutos.",
+      "Coloque para assar por 30 minutos em temperatura de 180° C. Depois de assado espere esfriar pois a goiabada quente pode queimar.",
+      "Dica: essa massa pode ser usada com qualquer recheio doce ou salgado, use da criatividade."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "VALESKA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311418-paozinho-de-goiabada-super-simples.html"
+}

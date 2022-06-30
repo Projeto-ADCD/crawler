@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE ALHO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "75 g de manteiga em temperatura ambiente",
+      "1 dente de alho ",
+      "1/2 colher (chá) de ervas secas",
+      "1 baguete grande fatiada",
+      "1 xícara de queijo gruyére ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 280° C",
+      "Misture a manteiga com o alho amassado e as ervas em uma tigela pequena",
+      "Coloque as fatias da baquete em uma forma grande e torre-as de um lado no forno",
+      "Vire as fatias e passe a mistura de manteiga com alho sobre elas. Em seguida, polvilhe o queijo ralado",
+      "Asse no forno por 2 minutos ou até que o queijo esteja derretido e as laterais dos pães comecem a dourar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309464-pao-de-alho-com-queijo.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MOQUECA DE BADEJO AROMÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "30 ml de azeite de oliva",
+      "1 cebola ",
+      "1 alho ",
+      "100 g de tomate ",
+      "100 g de pimentões coloridos ",
+      "50 g de pimenta biquinho",
+      "50 g de cheiro-verde ",
+      "400 g de badejo",
+      "180 ml de caldo de camarão (pode ser o pó)",
+      "100 ml de leite de coco",
+      "10 ml de azeite de oliva",
+      "5 g urucum",
+      "5 g de alecrim"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na véspera, corte o badejo em três postas e tempere com sal, azeite e alecrim",
+      "Guarde na geladeira.",
+      "Doure a cebola picada e o alho picado no azeite de oliva (aproximadamente 2 minutos).",
+      "Coloque o Urucum.",
+      "Despeje a mistura de tomate picado, pimentões coloridos picados e pimenta biquinho.",
+      "Refogue.",
+      "Adicione o badejo e envolva-o com o tempero.",
+      "Despeje o caldo de camarão, o leite de coco.",
+      "Tampe e deixe cozinhar por 5 minutos.",
+      "Finalize com salsinha picada.",
+      "Monte o prato com o purê de batatas e o arroz branco para servir."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CECÉ FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308729-moqueca-de-badejo-aromatica.html"
+}

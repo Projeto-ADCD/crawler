@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o doce de banana",
+      "6 bananas maduras picadas em rodelas",
+      "1 xícara de açúcar",
+      "1/2 xícara de água",
+      "Para o Merengue",
+      "1 lata de leite condensado",
+      "1 lata de leite (395 ml) - medida da lata de leite condensado",
+      "2 gemas",
+      "1 colher de amido de milho",
+      "Para o suspiro",
+      "2 claras em neve",
+      "12 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doce de banana",
+      "Derreta o açúcar em uma panela, acrescente as bananas quando o açúcar estiver derretido.",
+      "Acrescente a água e deixe cozinhar por aproximadamente 10 minutos mexendo de vez em quando.",
+      "Merengue",
+      "Coloque em uma panela o leite condensado e a metade do leite.",
+      "Bata com um garfo as gemas e o amido de milho na metade restante do leite.",
+      "Junte tudo e leve ao fogo mexendo sempre até ferver e engrossar.",
+      "Suspiro",
+      "Bata as claras em neve por aproximadamente 4 minutos, acrescente o açúcar às claras em neve e bata por mais 1 minuto.",
+      "Montagem",
+      "1ª camada - doce de banana",
+      "2ª camada - merengue",
+      "Após estarem frias a primeira e a segunda camadas, acrescente a terceira camada",
+      "3ª camada - suspiro",
+      "Leve ao forno 180º C por aproximadamente 20 minutos, até que o suspiro esteja pronto.",
+      "Deixe esfriar e leve à geladeira.",
+      "Sirva gelado, preferencialmente no dia seguinte."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ISAURA MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306787-torta-de-banana.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "RISOTO DE FUNGHI, DAMASCO E GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (chá) de alho",
+      "2 xícaras de arroz arbóreo",
+      "150 ml de vinho branco",
+      "1 litro de água fervente",
+      "100 g queijo gorgonzola",
+      "120 ml de leite",
+      "1 xícara de funghi secchi",
+      "100 g damasco",
+      "100 g de creme de leite",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogar a cebola na manteiga e após acrescentar o alho.",
+      "Acrescentar o arroz arbóreo, o vinho branco e misturar. Após, colocar a água fervente aos poucos e ir mexendo.",
+      "Em uma panela à parte, colocar o leite e o gorgonzola, mexendo, até o queijo derreter. Adicionar o funghi, os damascos picados, o creme de leite, o sal e a pimenta do reino, misturar e reservar.",
+      "Quando o arroz estiver “al dente” e a água evaporado, juntar o creme de queijo com funghi e damasco, misturar e servir.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAULA DIAS LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311373-risoto-de-funghi-damasco-e-gorgonzola.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ANEL DE CEBOLA COM CARNE-SECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Anel de Cebola Bem Brasil ",
+      "4 colheres de azeite ",
+      "500 g de carne-seca dessalgada cozida e desfiada ",
+      "300 g de requeijão cremoso ",
+      "6 ramos de coentro ou salsinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite os Anéis de Cebola Bem Brasil em óleo por imersão",
+      "Retire do óleo, escorra em papel-toalha e reserve",
+      "Leve uma panela ao fogo, adicione o azeite, a carne-seca dessalgada cozida e desfiada, e refogue.",
+      "Em seguida, reserve",
+      "Leve uma frigideira ao fogo e adicione o requeijão cremoso até aquecer",
+      "Monte os anéis de cebola onde for servir e adicione o requeijão aquecido",
+      "Em seguida, adicione a carne seca desfiada e os ramos de coentro ou salsinha",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312863-anel-de-cebola-com-carne-seca.html"
+}

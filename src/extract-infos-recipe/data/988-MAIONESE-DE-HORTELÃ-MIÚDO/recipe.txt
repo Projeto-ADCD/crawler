@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MAIONESE DE HORTELÃ MIÚDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de folhas de hortelã miúdos (sem os talos e fresco ou desidratado)",
+      "1 colher (sopa) de azeite de oliva",
+      "3 colheres de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o hortelã miúdo com o azeite no liquidificador ou em um processador até triturá-lo completamente.",
+      "Após isso, coloque a mistura em um recipiente e misture com a maionese.",
+      "Sirva com pão ou torradinha!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310615-maionese-de-hortela-miudo.html"
+}

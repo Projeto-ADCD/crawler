@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO FRITO EMPANADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de peito de frango",
+      "tempero de frango a gosto",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de polvilho doce",
+      "1 colher (sopa) de páprica picante",
+      "2 colheres (sopa) de creme de cebola",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango a seu gosto",
+      "Deixe marinando por 20 minutos",
+      "Misture todos os outros ingredientes",
+      "Depois separe 1/2 xícara dessa mistura em outro recipiente e vai adicionando água até criar uma papa líquida",
+      "Coloque os pedaços de frango até cobrir todos eles",
+      "Retire os pedaços aos poucos e colocando na mistura de farinha e fritar com óleo já bem quente",
+      "Deixe ficar bem douradinho e pronto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PHILLIPPE FERRIOLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307092-frango-frito-empanado.html"
+}

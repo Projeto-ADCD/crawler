@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ARROZ COM COUVE E CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola picadinha",
+      "1/2 tomate picadinho",
+      "1 cenoura ralada",
+      "4 folhas de couve",
+      "1 xícara de arroz cru",
+      "100 g de carne moída",
+      "sal e tempero à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure a cebola",
+      "Em seguida, coloque a carne moída e refogue",
+      "Coloque o tomate e a couve e refogue até a couve murchar bem",
+      "Acrescente a cenoura e o arroz",
+      "Tempere à gosto",
+      "Coloque 2 xícaras de água, tampe e espere cozinhar até que o arroz esteja cozido."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312807-arroz-com-couve-e-cenoura.html"
+}

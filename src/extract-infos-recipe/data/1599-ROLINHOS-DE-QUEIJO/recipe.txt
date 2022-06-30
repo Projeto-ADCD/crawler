@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ROLINHOS DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo",
+      "100 g de manteiga",
+      "1 ovo",
+      "1/4 de colher (chá) de sal",
+      "1 xícara de queijo prato ralado",
+      "manteiga ",
+      "páprica doce a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, a manteiga, o ovo e o sal.",
+      "Acrescente aos poucos 2 colheres (sopa) de água e amasse até obter uma massa lisa.",
+      "Abra a massa, salpique o queijo, enrole como se fosse rocambole e corte em rodelas.",
+      "Coloque-as numa assadeira levemente untada e polvilhe com a páprica doce.",
+      "Leve ao forno moderado (cerca de 200º C) e deixe assar até dourar.",
+      "Em seguida, é só se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307476-rolinhos-de-queijo.html"
+}

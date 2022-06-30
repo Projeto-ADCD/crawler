@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FÍGADO DE BH",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de isca de fígado cortado em tiras",
+      "alho, sal, pimenta e alho frito granulado a gosto",
+      "1 colher de molho inglês",
+      "2 colheres de banha de porco",
+      "6 jilós cortados",
+      "1 cebola grande picada em rodelas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o fígado (500g cortado em tiras) na água. Tempere com alho seco granulado, sal, pimenta-do-reino e uma colher de molho inglês. Marine por 15 minutos.",
+      "Aquecer duas colheres da banha de porco. Coloque o fígado e refogar. Em seguida uma cebola grande picada em rodelas. Refogue até o ponto de preferência da carne.",
+      "Em outra frigideira, coloque azeite ou óleo e 6 jilós cortados em rodelas e só dar um susto (frite rapidamente)",
+      "Despejar o fígado por cima do jiló e deixar misturar.",
+      "Sirva uma boa cachaça mineira e viva a vida"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CARLOS MAGNO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306766-figado-de-bh.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "⅔ xícara (chá) de leite",
+      "1 colher (sopa) de açúcar",
+      "½ colher (chá) de sal",
+      "2 ovos",
+      "⅔ xícara (chá) de água morna",
+      "½ lata de milho cozido",
+      "½ xícara (chá) de fubá",
+      "¼ xícara (chá) de Óleo de Soja Refinado Coamo",
+      "5 xícaras (chá) de Farinha de Trigo Coamo Tradicional",
+      "2 colheres (chá) de fermento biológico seco",
+      "1 colher (sopa) de fubá"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o milho com o leite, a água, os ovos, o óleo, o açúcar, o sal e o fubá. Coloque essa mistura na tigela da batedeira com o trigo e bata em velocidade baixa até incorporar todos os ingredientes.",
+      "Aumente a velocidade e bata por mais 5 minutos em velocidade média. Se preferir, pode sovar a massa com as mãos. Cubra e deixe descansar por 10 minutos.",
+      "Coloque a massa sobre uma superfície enfarinhada e abra-a com as mãos. Dobre as laterais da massa para o centro e enrole com as mãos. Coloque a massa em uma forma de pão (22x12x10 cm) untada com óleo.",
+      "Pincele uma gema na superfície do pão e polvilhe o fubá. Faça um corte preciso na superfície, para evitar que a massa rasgue – pode ser um risco reto longitudinal ou alguma decoração. Leve ao forno preaquecido a 180º C e asse por 45 minutos.",
+      "Desenforme quente e deixe esfriar sobre uma grade de confeitaria."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COAMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316909-pao-de-fuba.html"
+}

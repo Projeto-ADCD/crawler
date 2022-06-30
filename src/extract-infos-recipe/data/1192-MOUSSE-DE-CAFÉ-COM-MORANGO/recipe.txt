@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE DE CAFÉ COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de café solúvel",
+      "1 e 1/2 lata de leite condensado",
+      "1 caixa creme de leite",
+      "2 colheres (sopa) achocolatado",
+      "1 pacote gelatina ",
+      "8 morangos ",
+      "5 morangos inteiros para decorar, grãos de café ou raspas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Disssolva a gelatina em 1 xícara de água e coloque por 30 segundos no micro-ondas",
+      "Bata no liquidificador todos ingredientes menos a gelatina e os morangos por 5 minutos",
+      "Coloque a gelatina e bata mais 2 minutos.",
+      "Coloque a metade em um refratário, adicione os morangos picados, adicione o restante do creme.",
+      "Leve à geladeira por 3 horas, por fim decore com os morangos inteiros ou raspas de chocolate ou ainda grãos de café."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309452-mousse-de-cafe-com-morango.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE MARAVILHOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 litro de leite",
+      "4 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de amido de milho",
+      "1 colher (café) de noz-moscada",
+      "2 unidades de canela em pau",
+      "6 unidade(s) de cravo-da-índia",
+      "1 1/2 xícara (café) de rum "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite, o leite condensado, o chocolate, o amido de milho, a noz-moscada, o cravo e a canela.",
+      "Coloque no fogo e espere ferver.",
+      "Retire do fogo e misture o creme de leite.",
+      "Coe para retirar os pedaços de canela e o cravo.",
+      "Misture o rum e pode se deliciar com o seu chocolate quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSENICE PINCELA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312768-chocolate-quente-maravilhoso.html"
+}

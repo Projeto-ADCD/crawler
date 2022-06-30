@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOUSSE DE TANGERINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de suco de tangerina natural ou então 1 pacotinho de suco em pó",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "Pudim",
+      "1 litro de leite",
+      "1 xícara de açúcar",
+      "2 colheres de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro em uma panela, acrescente o leite, açúcar e coloque no fogão.",
+      "Quando começar a ferver, acrescente o amido de milho.",
+      "Deixe esfriar",
+      "Em seguida bata no liquidificador, o leite condensado, creme de leite e o suco de tangerina.",
+      "Vá adicionando aos poucos o pudim.",
+      "Sirva gelado"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: esse mousse terá maior rendimento e não fica muito doce"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CRISTIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307265-mousse-de-tangerina.html"
+}

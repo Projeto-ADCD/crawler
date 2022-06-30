@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRANGO ASSADO DE CHURRASCARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxa, ou coxa e sobrecoxa (não use o peito do frango)",
+      "2 colheres rasas de maionese (pode ser light, dá no mesmo)",
+      "3 colheres (sopa) de creme de cebola",
+      "1/4 de sumo de limão taiti",
+      "1 colher (chá) de alho batidinho ou ralado",
+      "1/2 colher (chá) de sal",
+      "1 colher (café) de pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as sobrecoxas num recipiente",
+      "Junte a maionese, o sumo de limão, o alho, o sal e a pimenta",
+      "Massageie até ficar homogêneo.",
+      "Junte o creme de cebola e massageie até ficar homogêneo em cada pedaço",
+      "Numa assadeira, sugiro forrar com papel-alumínio (lado brilhante pra baixo) ou papel-manteiga (lado antiaderente pra cima), para não grudar e fazer menos sujeira, acomode os pedaços junto com todo o tempero, pele para cima.",
+      "Não tampe com papel-alumínio",
+      "Coloque no forno preaquecido na temperatura máxima (250 g), por 30 a 40 minutos (ou até a pele estar bem dourada e crocante)",
+      "Sirva bem quente.",
+      "Caso faça com antecedência, congele (se congelar deixe descongelar totalmente antes) ou deixe em geladeira já assado, esquente em forno micro-ondas a 100% por 3 minutos ou leve a uma airfryer preaquecida a 200° C por 5 minutos (a gordura da pele estará já borbulhando)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Lave as benditas mão a cada etapa. Lave direito. Ao lidar com frango crú estará lidando com risco de contaminação por salmonela."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ANTÔNIO CLÁUDIO DOS SANTOS RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309161-frango-assado-de-churrascaria.html"
+}

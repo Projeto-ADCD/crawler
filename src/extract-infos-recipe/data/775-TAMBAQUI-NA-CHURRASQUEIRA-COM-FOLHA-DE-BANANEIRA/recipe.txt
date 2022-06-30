@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TAMBAQUI NA CHURRASQUEIRA COM FOLHA DE BANANEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tambaqui de 3 a 4kg sem escamas e vísceras",
+      "6 limões",
+      "1 colher (sobremesa) rasa de sal",
+      "6 dentes de alho espremidos",
+      "6 dentes de alho cortado em rodelas",
+      "1 colher (sopa) de alecrim",
+      "1 tomate grande",
+      "1 cebola grande",
+      "1 pimentão",
+      "cheiro-verde a gosto",
+      "azeite",
+      "2 folhas de bananeira"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Extraia o suco dos 6 limões, acrescente sal, alecrim, alho espremido e misture bem",
+      "Regue o peixe por dentro , por fora e reserve por 2 horas para pegar gosto",
+      "Corte em cubos o tomate, pimentão, cebola, cheiro-verde, misture com alho cortado em rodelas e misture. Recheie o peixe.",
+      "Lavar as folhas de bananeira com água e detergente",
+      "Unte a parte branca da folha de bananeira com azeite. Embrulhe o peixe temperado e recheado com a folha de bananeira",
+      "Levar à churrasqueira por 2 horas com brasa de carvão ou lenha, em grelha a 40 cm de altura. Virar o peixe a cada 20 minutos para assar de ambos lados de forma igual.",
+      "Servir com arroz de açafrão e molho de iogurte."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ROMEU PAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311623-tambaqui-na-churrasqueira-com-folha-de-bananeira.html"
+}

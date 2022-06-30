@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos inteiros",
+      "1 cebola",
+      "1/4 de xícara de óleo",
+      "1/4 de xícara de leite morno",
+      "10 g de fermento biológico seco (aquele de saquinho)",
+      "3 xícaras de farinha de trigo",
+      "1 colher (chá) de sal",
+      "gema (para pincelar)",
+      "orégano a gosto (opcional)",
+      "salsa a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador: os ovos inteiros, o leite, o óleo, cebola (sem casca)",
+      "Na vasilha: coloque a farinha de trigo e o fermento e misture bem.",
+      "Despeje a mistura que foi batida no liquidificador.",
+      "Coloque o sal e em seguida mexa com as mãos até ficar uma massa lisa e homogenêa (sove a massa).",
+      "Deixe descansar por 1 hora para crescer a massa (cubra com um filme plástico).",
+      "No tabuleiro: unte o tabuleiro com manteiga e polvilhe com farinha de trigo.",
+      "Faça bolinhas da massa com as mãos e coloque no tabuleiro untado.",
+      "Pincele com a gema e coloque por cima o orégano e a salsa.",
+      "Tempo de forno: 30 minutos ou até dourar (180° C)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA 01: para a gema render, misture um pouco de manteiga e azeite antes de pincelar.\nDICA: se quiser rechear, pode ser com recheio de sua preferência. Eu fiz com linguiça moída, ficou uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306171-pao-de-cebola.html"
+}

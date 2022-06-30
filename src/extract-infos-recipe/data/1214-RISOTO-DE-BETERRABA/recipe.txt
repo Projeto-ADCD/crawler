@@ -1,0 +1,34 @@
+{
+  "nome_receita": "RISOTO DE BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 beterrabas",
+      "300 g de arroz arbóreo",
+      "6 folhas de louro",
+      "10 cravos",
+      "1 colher (chá) de açúcar",
+      "50 g de manteiga",
+      "70 ml de vinho tinto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a beterraba em quadradinhos médios.",
+      "Coloque 1 litro de água na panela, junte a beterraba, cravo e louro e deixe até ferver.",
+      "Quando perceber que já formou caldo de betteraba, em outra panela, inicie o preparo do arroz do risoto.",
+      "Derreta a manteiga, adicione o açúcar, o arroz e mexa bem.",
+      "Adicione o vinho até que o volume fique baixo.",
+      "Adicione o caldo de beterraba, aproximadamente 200 ml, e mexendo, sempre que baixar o volume adicione mais caldo.",
+      "Adicione sal e a pimenta do reino.",
+      "Quando o arroz estiver al dente, acrescente os quadradinhos de beterraba que foram cozidos.",
+      "Sirva com queijo parmesão ralado (opcional)"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAMILA B.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309342-risoto-de-beterraba.html"
+}

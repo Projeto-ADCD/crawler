@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TAKOYAKI COM MASSA DE FARINHA DE TRIGO",
+  "ingredientes": {
+    "MASSA": [
+      "120 g de farinha de trigo",
+      "30 g de maizena",
+      "1 colher de chá de fermento em pó",
+      "1 pitada de sal",
+      "500 ml de água",
+      "1/3 do pacote de hondashi",
+      "2 ovos",
+      "1 colher de chá de molho shoyu"
+    ],
+    "RECHEIO": [
+      "200 g de polvo cozido e picado",
+      "1/2 cebolinha picada",
+      "gengibre vermelho em conserva a gosto"
+    ],
+    "COBERTURA": [
+      "molho para takoyaki",
+      "maionese",
+      "aonori",
+      "katsuo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece dissolvendo o hondashi na água e, em uma tigela, misture todos os ingredientes da massa",
+      "Depois que virar um líquido homogêneo, deixe na geladeira por 1 hora",
+      "Preaqueça a panela própria para takoyaki e unte ela toda com óleo",
+      "Despeje a massa por todas as cavidades e, por cima, acrescente os recheios",
+      "Com o auxílio de hashis, corte e vire a massa até virar bolinhas redondas e douradas",
+      "Coloque em um prato, adicione as coberturas e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313089-takoyaki-com-massa-de-farinha-de-trigo.html"
+}

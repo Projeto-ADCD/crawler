@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE TORRESMO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de FARINHA DE TRIGO DONA BENTA TRADICIONAL",
+      "1 pacote (10 g) de Fermento seco instantâneo Dona Benta",
+      "1 colher (sopa) de açúcar",
+      "3 colheres (sopa) de banha",
+      "1 colher (chá) de sal",
+      "1 ovo",
+      "250 ml de água morna",
+      "250 g de torresmo picado e frito"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ative o fermento seco misturando o fermento com 2 colheres de farinha de trigo e 50 ml da água morna e espere fermentar por 30 minutos.",
+      "Depois adicione o restante da água, açúcar, sal, ovos, a banha e a FARINHA DE TRIGO DONA BENTA TRADICIONAL até o ponto de desgrudar das mãos. Sove por 5 minutos.",
+      "Faça uma bola com toda a massa e deixe descansar por 15 minutos.",
+      "Abra a massa com a palma das mãos, coloque 70 % do torresmo (deixe um pouco para decorar) e enrole como rocambole, aplique a cobertura passando a massa em um prato com água e depois, em um prato, com o torresmo restante.",
+      "Unte uma assadeira de pudim com furo no meio e adicione o pão, fazendo o formato de uma rosca.",
+      "Espere fermentar por 90 minutos.",
+      "Asse por 25 minutos em forno pré-aquecido a 180ºC."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Frite o torresmo no forno por 2 horas ou na panela de pressão sem o pino.\nUse o torresmo não tão carnudo, e salgue ele antes de colocar no pão.\nNa hora de fritar coloque um talo de alecrim junto ao torresmo, para aromatizar."
+    ]
+  },
+  "tempo_de_preparo": "125 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312427-pao-de-torresmo.html"
+}

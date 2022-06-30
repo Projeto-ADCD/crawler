@@ -1,0 +1,55 @@
+{
+  "nome_receita": "RISOTO DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "110 g de manteiga ",
+      "400 g de camarão",
+      "1/2 cebola pequena picada",
+      "1 dente de alho picado",
+      "1/4 de pimenta dedo-de-moça picada (opcional)",
+      "150 g de tomate ",
+      "200 g de arroz para risotto (arbóreo, carnarolli)",
+      "60 ml de vinho branco seco",
+      "2 litros de caldo de peixe ou frango",
+      "70 g de queijo parmesão",
+      "2 colheres (sopa) de salsinha ",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dividida 20 g de manteiga para o camarão mais 30 g para iniciar o risoto e 60 g para finalizar o risoto",
+      "Tempere o camarão com sal e pimenta e deixe marinando por uns 10 minutos.",
+      "Aqueça o caldo de peixe ou frango e mantenha aquecido o tempo todo da preparação (deixe em fogo baixo para não evaporar muito)",
+      "Inicie fritando os camarões (lembre-se de separar uns 10 para a finalização do prato).",
+      "Em uma frigideira aquecida coloque um pouco da manteiga e deixe derreter.",
+      "Coloque os camarões, não tudo, apenas o suficiente para cobrir o fundo da panela. Quando ficar rosado de um lado, vire e deixe rosar do outro lado (é rápido).",
+      "Não deixe cozinhar/fritar muito senão os camarões ficam “borrachudos”.",
+      "Coloque os camarões fritos em um papel-alumínio, feche e reserve. Repita a operação até fritar todo o camarão.",
+      "Em uma panela de fundo grosso coloque 30 g de manteiga, adicione a cebola e o alho picados finamente e deixe suar (refogar sem dourar).",
+      "Acrescente a pimenta (se for usar) e os tomates picados, mexa bem e deixe refogar, mexendo ocasionalmente.",
+      "Quando os tomates estiverem bem refogados (desmanchando), acrescente o arroz e mexa bem para envolver com o refogado.",
+      "Adicione o vinho e mexa até quase secar por completo.",
+      "Adicione cerca de 4 conchas de caldo e mexa o arroz.",
+      "Lembre-se de mexer nas laterais e no centro sempre.",
+      "Quando estiver quase seco, adicione mais caldo e continue mexendo. Essa fase é importante, mexer o arroz e ir adicionando caldo aos pouco, isso ajuda a liberar o amido do arroz o que deixa o arroz cremoso (não precisa força – mexa levemente).",
+      "Repita o processo quantas vezes forem necessárias até que o arroz esteja macio (tem que ir provando), vá adicionando caldo aos poucos (pode ser que não use todo o caldo).",
+      "Quando o arroz estiver chegando no ponto (ficando macio), adicione os camarões fritos e o caldo que formou, mexa bem para envolver com o arroz. Desligue o fogo.",
+      "Adicione o parmesão, mexa bem até que esteja bem derretido.",
+      "Acerte sal e pimenta.",
+      "Adicione 60 g de manteiga em cubos e gelada e mexa vigorosamente para incorporar no arroz, isso ajudará a deixar mais cremoso e brilhante.",
+      "Deixe descansar por uns 2/3 minutos (pode tampar).",
+      "Enquanto o risoto descansa, frite os camarões que separamos para finalizar o prato.",
+      "Numa panela quente coloque manteiga, adicione os camarões, quando estiver rosado vire e deixe rosar do outro lado. Reserve.",
+      "Volte ao risoto, adicione a salsinha e mexa delicadamente.",
+      "Monte o prato finalizando com camarões e um pouquinho de salsinha bem picada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use tomate picado e sem semente – eu usei tomate cereja mas pode ser qualquer um maduro"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAQUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308367-risoto-de-camarao.html"
+}

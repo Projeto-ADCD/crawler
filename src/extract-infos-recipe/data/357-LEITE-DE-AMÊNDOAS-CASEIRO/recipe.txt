@@ -1,0 +1,21 @@
+{
+  "nome_receita": "LEITE DE AMÊNDOAS CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de amêndoas",
+      "3 xícaras de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente com tampa, deixe as amêndoas de molho durante 12 horas na geladeira",
+      "Após esse tempo, lave e escorra as amêndoas",
+      "Em um liquidificador, bata as amêndoas com a água",
+      "Coe em uma peneira bem fina ou um coador de pano"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313096-leite-de-amendoas-caseiro.html"
+}

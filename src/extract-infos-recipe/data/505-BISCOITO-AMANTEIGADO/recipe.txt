@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de açúcar",
+      "200 g de manteiga",
+      "300 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Molde no formado do seu gosto",
+      "Transfira para a assadeira, untada com manteiga e farinha de trigo",
+      "Asse em 260°C por 30 minutos ou até dourar e  então sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se ficar mole demais, coloque amido de milho até parar de grudar na mão"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "ANE BEATRIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312658-biscoito-amanteigado.html"
+}

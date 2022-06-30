@@ -1,0 +1,31 @@
+{
+  "nome_receita": "HAMBÚRGUER DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé ou posta de tilápia",
+      "100 g de farinha de trigo",
+      "200 ml de água gelada",
+      "20 g de sal",
+      "0,5 g de noz moscada",
+      "50 ml de óleo",
+      "1 g de pimento do reino",
+      "50 g de cebola ralada",
+      "2 g de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Congele o peixe limpo para facilitar a montagem por 2 horas",
+      "Moa o peixe com as espinhas em discos, por duas vezes em crivo maior e menor",
+      "Adicione os ingredientes",
+      "Hidrate a farinha de trigo",
+      "Adicione na massa e mexer bem",
+      "Molde em forma de bife, e plastificar um a um para congela e guardar",
+      "Frite em óleo bem quente"
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311637-hamburguer-de-tilapia.html"
+}

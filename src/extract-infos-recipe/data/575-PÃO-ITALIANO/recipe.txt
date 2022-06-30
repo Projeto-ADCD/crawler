@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO ITALIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2,5 Kg de farinha de trigo",
+      "1 colher (sopa) cheia de sal",
+      "50 g de fermento de pão seco, ou 100 g do fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha em um recipiente. Adicione o sal e o fermento.",
+      "Mexa bem com uma colher de pau, para homogeneizar os pós.",
+      "Esquente água, até ficar ligeiramente amornada. Se tiver termômetro culinário, a temperatura é de 37 a 38 graus. Não use água mais quente, ou \"matará\" o fermento.",
+      "Vá adicionando essa água aos poucos, trabalhando a massa com as mãos, até fica uma pasta \"grudenta\". Continue a trabalhar essa massa, adicionando mais um pouco de farinha, e trabalhando com as mãos até que massa fique lisa e desgrude das mãos.",
+      "Transfira a massa para um mármore ou pia, Faça uma bola grande, cubra com um pano de prato limpo e úmido.",
+      "Deixe a massa em repouso, para crescer. O tempo de crescimento depende da temperatura ambiente, quanto mais quente, mais rápido. Mas pode variar entre um mínimo de 3 horas, até 7 ou 8 horas.",
+      "Ao crescer, a massa dobrará de volume e ficará elástica.",
+      "Corte e modele a massa, os pães, em bolas, ou em forma de baguete. Faça cortes transversais nos pães, com uma faca afiada.",
+      "Préaqueça o forno a 180 graus. Asse os pães até ficarem com a casca dura e dourada. O tempo, entre 30 a 45 minutos, ou até que com o tom dourado ou castanho que você quiser.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para o preparo, prefira uma bacia de plástico (a massa grudará menos)\nEssa receita meu pai a recebeu, nos anos 60, de um amigo padeiro de uma padaria Italiana do bairro do Bexiga, em São Paulo, onde nasci. Fica bem parecido com os comprados na Padaria.\nA receita foi feita para 2,5 Kg de farinha, o que rende de 6 a 7 pães Italianos médios."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312463-pao-italiano.html"
+}

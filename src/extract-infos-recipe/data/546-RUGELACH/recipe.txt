@@ -1,0 +1,43 @@
+{
+  "nome_receita": "RUGELACH",
+  "ingredientes": {
+    "MASSA": [
+      "500 g de farinha",
+      "1 colher (sopa) de fermento biológico seco (13 g--+)",
+      "1/2 colher (chá) de sal",
+      "100 g de açúcar",
+      "2 ovos grandes",
+      "100 g de manteiga (temperatura ambiente)",
+      "150 ml de leite morno"
+    ],
+    "RECHEIO": [
+      "100 g de manteiga derretida",
+      "180 g de açúcar",
+      "65 g de cacau em pó"
+    ],
+    "COBERTURA": [
+      "1 colher (sopa) de açúcar de confeiteiro",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um pote, penere a farinha e acrescente os ingredientes secos (fermento, sal e açúcar)",
+      "Coloque a batedeira na velocidade lenta e acrescente os ovos, manteiga e leite morno. E deixe bater por 10 minutos até a massa ficar lisa.",
+      "Unte um pote e “rode” a massa nele, até ela ficar coberta com uma camada fina de óleo.",
+      "Cubra com papel filme e uma toalha e deixe descansar por 2 horas.",
+      "Prepare o recheio, misture a manteiga derretida, o açúcar e o cacau.",
+      "Em uma superfície, coloque farinha e divida a massa em dois",
+      "Abra a massa de forma retangular (deixe com 2-3mm de espessura), coloque metade do recheio e dobre a massa ao meio. Abra a massa um pouco mais com o rolo.",
+      "Corte em forma de triângulos compridos e enrole.",
+      "Coloque o rogalach enrolado na forma com papel manteiga, cubra com uma toalha e deixe descansar por 20 minutos.",
+      "Misture o ovo com o açúcar de confeiteiro e pincele sobre o Rogalach.",
+      "Asse em um forno preaquecido a 180° C por 20 minutos.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "REBECCA FELICIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312563-rugelach.html"
+}

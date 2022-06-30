@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PIZZA DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher (sopa) de óleo",
+      "1 colher (chá) de açúcar",
+      "1 colher (chá) de fermento",
+      "sal a gosto",
+      "2 colheres (sopa) de farinha",
+      "2 colheres (sopa) de leite",
+      "recheio de sua escolha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca coloque o ovo, o sal e o açúcar e misture",
+      "Depois adicione o óleo e o leite",
+      "Coloque a farinha e o fermento e mexa até virar uma massa lisa",
+      "Depois coloque no micro-ondas por 2 minutos",
+      "Adicione o recheio e coloque no micro-ondas por 1 minuto"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AMANDA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307114-pizza-de-caneca.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BAIÃO DE DOIS A LA NALDODABANCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de feijão verde (pode ser feijão de corda também)",
+      "1 xícara de arroz parbolizado",
+      "1 linguiça fininha picada (opcional)",
+      "1/2 xícara de queijo coalho em cubos",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1/2 pimentão picado",
+      "1 pimenta-de-cheiro picada",
+      "1 folha de louro",
+      "5 xícaras de água",
+      "1/2 caixinha de creme de leite",
+      "sal e pimenta-do-reino a gosto",
+      "cheiro-verde a gosto pra finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão na pressão junto com a folha de louro, a linguiça e a água.",
+      "Se for o feijão verde, 15 minutos, se for o feijão de corda, 25 minutos (depois que a panela começar a chiar).",
+      "Após o feijão cozido, junte o arroz, a cebola, o alho, o pimentão, a pimenta-de-cheiro, o sal e a pimenta -do-reino.",
+      "Cozinhe até o arroz ficar macio e a água ir secando (aqui depende se vc quer o baião mais ou menos cremoso).",
+      "Após secar e o arroz estar macio, apague o fogo, junte o creme de leite e mexa bem, depois o queijo e finaliza com o cheiro-verde picado a gosto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NALDO SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314617-baiao-de-dois-a-la-naldodabanca.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BISCOITO DE BANANA E AVEIA COM MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de farinha de trigo",
+      "1/2 xícara de aveia em flocos",
+      "2 colheres (sopa) de mel",
+      "1 banana amassada",
+      "1 colher (chá) de fermento",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana e depois adicione o ovo",
+      "Bata até misturar, adicione a aveia, o mel e a canela e misture.",
+      "Em seguida coloque a farinha de trigo aos poucos e por ultimo o fermento.",
+      "Numa forma passe manteiga e farinha e com 2 colheres molde os biscoitos numa bolinha, dará 5 biscoitinhos.",
+      "Deixe assar por 15 minutos ou até dorarem por cima."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAURA NRT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311152-biscoito-de-banana-e-aveia-com-mel.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "REFOGADO DE BRÓCOLIS E COUVE-FLOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 brócolis",
+      "1/2 couve-flor",
+      "1 colher de manjericão",
+      "1 colher de orégano",
+      "1/2 xícara de cheiro-verde picado",
+      "2 colheres de manteiga",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com água",
+      "Corte em tamanho pequeno o brócolis e a couve-flor",
+      "Cozinhe os legumes até que estejam macios (se preferir pode cozinha-los no vapor)",
+      "Retire toda a água da panela e adiciona a manteiga",
+      "Depois de derreter por completo, adicione todos os temperos juntamente com o sal e misture bem."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "KAROLINA KISCHNER DALZOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308872-refogado-de-brocolis-e-couve-flor.html"
+}

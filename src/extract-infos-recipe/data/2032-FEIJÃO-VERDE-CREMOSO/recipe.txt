@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FEIJÃO VERDE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão verde fresco",
+      "250 g de calabresa",
+      "300 g de bacon",
+      "250 g de linguiça de carne do sol (opcional)",
+      "250 g de queijo coalho ralado",
+      "1 litro de leite",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão",
+      "50 g de amido (caso queira engrossar)",
+      "2 cebolas médias",
+      "4 dentes de alho",
+      "3 pimentas de cheiro",
+      "1 maço de cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão por 15 minutos após ferver e reserve.",
+      "Frite o bacon, calabresa e a linguiça e reserve.",
+      "Na mesma panela da fritura refogue o alho e a cebola",
+      "Adicione o feijão verde no refogado e misture",
+      "Adicione o creme de leite e misture",
+      "Depois acrescente o bacon, calabresa e a linguiça e siga misturando.",
+      "Coloque o leite todo e deixe até chegar no ponto de fervura",
+      "Quando estiver começando a ferver coloque o requeijão e o queijo coalho e encorpe eles ao caldo (caso ache que esteja ralo, dilua o amido no leite e adicione até ficar no ponto desejado)",
+      "Coloque a pimenta de cheiro e misture.",
+      "Finalize com cheiro-verde."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "I'LÊ PETIT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306158-feijao-verde-cremoso.html"
+}

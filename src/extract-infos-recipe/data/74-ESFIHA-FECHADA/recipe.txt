@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ESFIHA FECHADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de leite morno",
+      "2 ovos",
+      "1 copo de óleo",
+      "1 colher (sobremesa) de sal",
+      " 2 colheres (sopa) de açúcar",
+      "10 g de fermento",
+      "cerca de 1 kg de farinha de trigo (até dar o ponto)",
+      "1 gema de ovo (opcional)",
+      "25 g de queijo ralado ou gergelim (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa tudo colocando a farinha aos poucos até dar o ponto (massa um pouco quebradiça)",
+      "Coloque o recheio na massa e modele formando com a massa um cone, fechando com a parte de trás.",
+      "Depois de untar a forma e colocar a esfiha passe com um pincel a gema de ovo batida e coloque o queijo ralado ou gergelim por cima.",
+      "Asse a 180° C por 20 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SIVO RENATO MELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314590-esfiha-fechada.html"
+}

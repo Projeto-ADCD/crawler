@@ -1,0 +1,32 @@
+{
+  "nome_receita": "DELICIA DE PESSEGO COM CREME DE BAUNILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 gemas",
+      "1 lata de pêssego em calda em metades",
+      "1 lata de leite condensado",
+      "1 lata com leite de vaca",
+      "1 colher (sopa) de amido de milho",
+      "1 colher (sopa) de farinha de trigo",
+      "1 lata de creme de leite sem o soro",
+      "raspas de chocolate meio amargo",
+      "essência de baunilha a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em meio copo de leite, misture a amido e milho e a farinha de trigo e mexa até dissolver.",
+      "Despeje essa mistura em uma panela.",
+      "Junte o restante do leite, as gemas, o leite condensado e leve ao fogo, mexendo sempre, até adquirir consistência.",
+      "Junte a essência de baunilha, misture e deixe esfriar.",
+      "Retire os pêssegos da lata e coloque-os em uma peneira, para escorrer toda a calda.",
+      "Em um refratário, coloque uma pequena camada do creme já frio.",
+      "Sobre esse creme coloque os pêssegos com a parte onde ficava o caroço, virado para cima.",
+      "Recheie os pêssegos com o restante do creme e decore com raspas de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JURANDIR MARISCAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312922-delicia-de-pessego-com-creme-de-baunilha.html"
+}

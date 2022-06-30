@@ -1,0 +1,34 @@
+{
+  "nome_receita": "KEBAB DE FRANGO COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g d peito de frango",
+      "200 ml de iogurte natural ",
+      "suco de 1 limão ",
+      "2 dentes de alho ",
+      "1 colher (sopa) de pimenta-caiena",
+      "1 colher (chá) de sal ",
+      "2 cebolas roxas ",
+      "1/2 pimentão verde",
+      "1/2 pimentão amarelo",
+      "1/2 pimentão vermelho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, junte o frango, o iogurte, o suco de limao, a pimenta e o alho",
+      "Misture bem com uma colher ",
+      "Junte o sal e misture novamente",
+      "Leve para à geladeira por pelo menos 30 minutos ",
+      "Em cima de uma tábua, posicione um palito de churrasco ",
+      "Encaixe a cebola, o frango, os pimentões e vá alternando até o final",
+      "Quando chegar ao top, coloque a \"torre\" formada em uma forma",
+      "Leve ao forno a 180° por 35 minutos",
+      "Retire e sirva a gosto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313933-kebab-de-frango-com-legumes.html"
+}

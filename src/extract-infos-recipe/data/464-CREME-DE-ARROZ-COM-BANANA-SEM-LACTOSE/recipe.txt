@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CREME DE ARROZ COM BANANA SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de arroz",
+      "1 pitada de sal",
+      "1/2 xícara (chá) de açúcar",
+      "3 bananas",
+      "1 copo americano de água filtrada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz , com 1 pitada de sal e as 3 bananas (bem cozido).",
+      "Quando o arroz estiver bem cozido e quase seco, desligue o fogo.",
+      "No liquidificador, bata o arroz com a banana e o açúcar.",
+      "Caso a consistência não esteja do agrado, vá adicionando a água.",
+      "Leve ao fogo para amornar e pronto é só servir quente ainda.",
+      "Ótimo para o frio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VALÉRIA GOMES FREIRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312771-creme-de-arroz-com-banana-sem-lactose.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLINHO DE QUERMESSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de óleo de soja",
+      "4 dentes de alho amassados",
+      "1/2 cebola grande picada em cubos",
+      "1/2 kg de carne moída (acém)",
+      "1 sachê de Caldo de Carne em Pó Kitano",
+      "1 tomate sem pele e sem sementes picado",
+      "1 colher (chá) de Pimenta do Reino Branca Moída Kitano",
+      "1 colher (chá) de Orégano Kitano",
+      "1 colher rasa (chá) de Salsa Kitano",
+      "2 xícaras (chá) de água",
+      "1 xícara (chá) de Farinha de Mandioca Torrada Yoki",
+      "1/2 xícara (chá) de Farinha de Rosca Yoki",
+      "um pouco de sal a gosto",
+      "1 ovo batido",
+      "um pouco de óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça o óleo e refogue o alho e a cebola até dourarem.",
+      "Acrescente a carne moída, o caldo de carne, o tomate picado, a pimenta-do-reino, o orégano, a salsa e o sal.",
+      "Mexa bem até dourar a carne moída.",
+      "Adicione a água e deixe ferver. Este será o recheio da sua receita de bolinho de carne moída.",
+      "Em outro recipiente, misture as farinhas para fazer a massa do bolinho de carne moída.",
+      "Aos poucos, vá adicionando as farinhas ao refogado.",
+      "Mexa sem parar (para não empelotar), até que a mistura solte do fundo da panela.",
+      "Retire a panela do fogo e deixe esfriar.",
+      "Modele a massa em bolinhos de carne moída.",
+      "Passe os bolinhos no ovo batido e, em seguida, na farinha de rosca.",
+      "Em uma panela, aqueça o óleo e frite os bolinhos de carne moída até ficarem levemente dourados.",
+      "Retire o excesso de óleo com papel toalha. Sirva os bolinhos quentes.",
+      "Sua receita de bolinho de carne moída frito está pronta!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "YOKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307186-bolinho-de-quermesse.html"
+}

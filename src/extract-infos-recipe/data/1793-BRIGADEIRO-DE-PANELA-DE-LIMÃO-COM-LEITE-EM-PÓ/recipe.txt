@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BRIGADEIRO DE PANELA DE LIMÃO COM LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 limões",
+      "1/2 caixa de leite condensado",
+      "3 colheres (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo baixo, forre a panela com um pouco de manteiga e espere derreter;",
+      "Adicione o leite condensado e, em seguida, o suco dos limões espremidos;",
+      "Mexa um pouco e por último adicione o leite em pó (caso goste, pode adicionar umas raspas de limão também).",
+      "Continue mexendo até pegar uma consistência menos líquida.",
+      "Por último, leve à geladeira por 20 minutos ou até pegar a consistência de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA BERTOLDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306769-brigadeiro-de-panela-de-limao-com-leite-em-po.html"
+}

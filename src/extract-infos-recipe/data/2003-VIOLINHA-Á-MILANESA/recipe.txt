@@ -1,0 +1,31 @@
+{
+  "nome_receita": "VIOLINHA Á MILANESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de violinha",
+      "1 xicara de farinha",
+      "1 xicara de farinha de rosca",
+      "2 ovos",
+      "sal a gosto",
+      "óregano a gosto",
+      "pimenta-do-reino a gosto",
+      "limão",
+      "500 ml de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um prato coloque a farinha de rosca, outro a farinha branca e em outro prato coloque o ovo batido",
+      "Tempera a violinha com sal, pimenta-do-reino, meio limão e orégano.",
+      "Após passe a violinha na farinha branca, no ovo e na farinha de rosca",
+      "Deixe o óleo bem quente e começe a colocar a violinha para fritar e deixe até dourar",
+      "Retire com a espumadeira e coloque em um recipiente com papel-toalha para não ficar gorduroso.",
+      "Após isso, está pronto para servir, pode acompanhar com limão ou maionese.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MITIANE DORNELES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306217-violinha-a-milanesa.html"
+}

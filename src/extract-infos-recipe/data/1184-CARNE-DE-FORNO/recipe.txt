@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CARNE DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxão mole",
+      "2 batatas rosas",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 pitada de tomilho",
+      "sal a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne do seu jeito",
+      "Leve a panela de pressão por 20 minutos",
+      "Retire e coloque em uma assadeira retangular",
+      "Adicione as batatas, cebola, tomilho",
+      "Deixe assar por 20 minutos, ou até chegar no ponto."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAFAELA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309469-carne-de-forno.html"
+}

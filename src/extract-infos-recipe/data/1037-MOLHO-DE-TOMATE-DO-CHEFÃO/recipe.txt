@@ -1,0 +1,47 @@
+{
+  "nome_receita": "MOLHO DE TOMATE DO CHEFÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de azeite",
+      "2 dentes de alho ",
+      "1 cebola ralada",
+      "1/2 taça de vinho tinto seco",
+      "2 folhas de louro",
+      "3 latas de tomate pelado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ],
+    "ALMÔNDEGAS": [
+      "500 g de patinho moído ",
+      "2 linguiças toscanas",
+      "1/2 xícara de cheiro-verde ",
+      "2 dentes de alho picado ",
+      "1 ovo ",
+      "150 g de farinha de rosca",
+      "sal e pimenta a gosto",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o azeite e frite a cebola e o alho ",
+      "Junte o vinho à mistura e espere reduzir ",
+      "Quando estiver mais grosso e a cebola dourada, junte os tomates ",
+      "Misture bem e com a ajuda de um espremedor de batatas, dê leves amassadas nos tomates pelados",
+      "Junte o sal, a pimenta e o louro, misture e deixe cozinhar no fogo médio "
+    ],
+    "ALMÔNDEGAS": [
+      "Em um recipiente misture a carne, a linguiça sem a pele, o cheiro-verde, o alho, o sal e a pimenta",
+      "Mexa com as mãos e junte o ovo e a farinha, misture tudo muito bem",
+      "Com o auxílio de uma colher ou colher de sorvete, faça pequenas bolinhas ",
+      "Coloque um fio de azeite numa frigideira bem quente e doure as almôndegas ",
+      "Abra a tampa da panela do molho e junte as almôndegas já fritas, com cuidado",
+      "Deixe-as terminarem de cozinhar no molho",
+      "Misture na sua massa favorita e sirva! "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310300-molho-de-tomate-do-chefao.html"
+}

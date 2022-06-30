@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CROQUETE DE QUEIJO COM TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de queijo mussarela ralado fresco Président",
+      "1 e 1/2 xícara de leite integral quente",
+      "1 xícara de tapioca granulada",
+      "1/2 xícara de cheiro-verde picado",
+      "2 ovos batidos",
+      "sal e pimenta-do-reino a gosto",
+      "1 xícara de farinha de rosca ou farinha panko para empanar",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl hidrate a tapioca com o leite quente, adicione o queijo fresco Président, o cheiro-verde, sal e pimenta a gosto. Misture bem até que fique homogêneo e faça os bolinhos no formato de croquetes tomando cuidado para que não fiquem muito grossos.",
+      "Separe dois pratos, um com os ovos batidos e outro com a farinha de rosca. Passe cada croquete primeiro no ovo, depois na farinha de rosca e reserve.",
+      "Com o óleo já bem quente, frite os croquetes de 2 em 2 até ficarem dourados. Para saber a temperatura certa, você pode fazer o teste do palito de fósforo: quando acender, está no ponto.",
+      "Sirva quente com geleia ou molho de pimenta."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310750-croquete-de-queijo-com-tapioca.html"
+}

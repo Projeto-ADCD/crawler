@@ -1,0 +1,56 @@
+{
+  "nome_receita": "COXINHA DE SIRI",
+  "ingredientes": {
+    "MASSA": [
+      "500 g de mandioca descascada",
+      "220 g de farinha de trigo",
+      "150 ml de leite integral",
+      "50 g de manteiga",
+      "5 gramas de sal"
+    ],
+    "RECHEIO": [
+      "150 g de aratu cozido",
+      "80 g de peixe branco",
+      "150 ml de leite de coco",
+      "15 ml de dendê",
+      "25 g de cebola roxa",
+      "10 g de alho",
+      "40 g de tomate",
+      "10 g de pimenta dedo-de-moça fermentada",
+      "8 g de pimenta de cheiro-verde fermentada",
+      "5 g de pimenta biquinho fermentada",
+      "15 g de salsinha"
+    ],
+    "PARA O EMPANAMENTO": [
+      "3 ovos",
+      "200 g de farinha de rosca",
+      "200 g de farinha panko"
+    ]
+  },
+  "passos": {
+    "PARA A MASSA": [
+      "Cozinhe a mandioca até desfazer",
+      "Tire todas as fibras",
+      "Ferva o leite com a manteiga e o sal",
+      "Processe a mandioca quente com a mistura de leite e manteiga quente",
+      "Volte a panela e deixe essa mistura ferver",
+      "Adicione a farinha de trigo e mexa bem",
+      "Cozinhe a massa até soltar da lateral da panela",
+      "Resfrie e porcione em bolinhas de 35 g"
+    ],
+    "PARA O RECHEIO": [
+      "Refogue bem a cebola, alho e pimentar bem picados no dende",
+      "Adicione o peixe branco e aratu e deixe cozinhar",
+      "Adicione o leite de coco e cozinhe por 3 minutos",
+      "Resfrie e adicione o tomate em cubos pequenos sem semente e a salsinha bem picada",
+      "Porcione em bolinhas de 20 g",
+      "Modele as coxinhas e empane",
+      "Reserve na geladeira por pelo menos 2 horas antes de fritar",
+      "Frite a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309597-coxinha-de-siri.html"
+}

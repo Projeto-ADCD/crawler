@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE QUINOA COM ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de azeite",
+      "2 dentes de alho amassados",
+      "1 cebola ralada",
+      "1 cenoura ralada",
+      "2 latas de atum sólido ao natural",
+      "4 ovos",
+      "2 colheres (sopa) de farelo de aveia",
+      "2 xícaras de quinoa cozida",
+      "1 colher (sopa) de fermento em pó",
+      "qqueijo parmesão ralado",
+      "cheiro-verde e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite numa panela, refogue o alho, cebola e cenoura (nessa ordem).",
+      "Escorra a água do atum e junte-o à mistura da panela.",
+      "Bata os ovos com um garfo, acrescente o farelo de aveia e em seguida acrescente a quinoa cozida.",
+      "Junte as duas misturas e acrescente o fermento em pó",
+      "Coloque numa forma, pressionando com uma colher pra ficar bem juntinho.",
+      "Salpique o queijo parmesão por cima.",
+      "Asse por 30 minutos em forno preaquecido à 180° C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TANISLEILA ARAUJO DE LIMA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309941-torta-de-quinoa-com-atum.html"
+}

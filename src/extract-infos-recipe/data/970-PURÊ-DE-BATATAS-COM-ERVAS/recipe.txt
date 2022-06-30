@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PURÊ DE BATATAS COM ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas médias",
+      "1/2 caixa de creme de leite",
+      "sal, azeite, manteiga e cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batata, depois amasse.",
+      "Coloque o azeite e refogue uma colher da mistura dos temperos (sal, azeite e cheiro-verde batidos no liquidificador).",
+      "Coloque as batatas amassadas e refogue.",
+      "Acrescente o creme de leite e a manteiga.",
+      "Refogue por 5 minutos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CASSIA ZICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310674-pure-de-batatas-com-ervas.html"
+}

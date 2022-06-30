@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SAGU",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de sagu",
+      "1 garrafa de vinho seco ",
+      "1 litro de suco de uva ( ode ser de pacotinho)",
+      "2 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o sagu de molho por duas horas",
+      "Ferva o vinho junto com o suco de uva e o açúcar",
+      "Quando começar a levantar fervura, adicione o sagu e mexa até as bolinhas começarem a boiar",
+      "Deixe esfriar e leve a geladeira por duas horas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "JORGE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306312-sagu.html"
+}

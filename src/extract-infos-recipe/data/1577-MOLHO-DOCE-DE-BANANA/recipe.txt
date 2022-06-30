@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO DOCE DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana cortada em fatias",
+      "1 ou 2 colheres (sopa) de açúcar refinado ou de confeiteiro",
+      "3 colheres de chocolate em pó",
+      "20 ml de leite",
+      "1 colher de creme leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte em fatias a banana e coloque em um recipiente",
+      "Depois pegue um garfo e amasse todas as fatias até formar uma papa.",
+      "Depois de amassado, junte o chocolate em pó e mexa com uma colher",
+      "Após isso, coloque o açúcar e continue misturando.",
+      "Coloque os 20 ml de leite e mexa por 1 minuto, até ficar claro.",
+      "Quando ficar claro, coloque o creme de leite e mexa.",
+      "Pronto, o molho serve em comidas doces, bolachas, etc"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GUI GAMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307547-molho-doce-de-banana.html"
+}

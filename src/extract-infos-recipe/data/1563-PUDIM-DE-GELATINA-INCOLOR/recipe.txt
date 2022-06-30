@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PUDIM DE GELATINA INCOLOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado",
+      "400 ml de leite de caixa",
+      "2 gelatinas sem sabor",
+      "2 xícara de leite em pó",
+      "CALDA",
+      "1/2 xícara de água",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "CALDA",
+      "Na própria forma de alumínio adicione o açúcar espalhando-o em toda a forma do mesmo jeito que faz com a água fique mexendo até dá uma cor meia escura .",
+      "Em seguida vire a forma unte a calçado sobre toda a lateral da forma e deixe descansando.",
+      "Pudim",
+      "Dissolva as duas gelatinas conforme a embalagem em uma xícara",
+      "Junte as duas xícaras de leite em pó no liquidificador depois adicione o leite de caixa o creme de leite e o leite condensado em seguida a gelatina",
+      "Deixe bater até ficar homogênea, depois adicione na forma junto com a calda tendo cuidado para não misturar os dois",
+      "Deixe na geladeira por 4 horas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EXPEDITO FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307620-pudim-de-gelatina-incolor.html"
+}

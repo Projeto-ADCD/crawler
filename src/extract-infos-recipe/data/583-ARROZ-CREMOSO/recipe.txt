@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ARROZ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de arroz cozido (pode ser arroz dormido)",
+      "500 gramas de calabresa fina",
+      "3 copos de requeijão",
+      "2 caixas de creme de leite.",
+      "1 cebola.",
+      "1/2 de um pimentão verde.",
+      "200 g de bacon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia misture o arroz, o creme de leite e o requeijão até formar uma mistura homogênea. E reserve.",
+      "Pique a calabresa em rodelas, o bacon em tiras e pique a cebola e o pimentão em cubos.",
+      "Em uma panela adicione o bacon com um fio de óleo, deixe-o fritar até dourar, e então adicione a cebola a calabresa e o pimentão. Deixe por 2 minutos.",
+      "Unte uma forma com margarina. Misture o arroz com a mistura da panela em uma bacia.",
+      "Agora coloque o a mistura na forma e leve ao forno a 200 C° por 20 minutos.",
+      "Após 20 minutos retire e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GLACILENE DE FATIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312445-arroz-cremoso.html"
+}

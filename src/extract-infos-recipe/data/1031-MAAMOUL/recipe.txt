@@ -1,0 +1,43 @@
+{
+  "nome_receita": "MAAMOUL",
+  "ingredientes": {
+    "MASSA": [
+      "350 g de semolina",
+      "50 g de fubá",
+      "50 g de farinha de trigo",
+      "50 g de açúcar refinado",
+      "1/2 colher de chá de fermento em pó",
+      "200 g de manteiga sem sal (amolecida no micro-ondas por uns 20 ou 30 segundos)",
+      "2 a 3 colheres (sopa) de água de flor de laranjeira",
+      "2 a 3 colheres (sopa) de água de rosas"
+    ],
+    "RECHEIO": [
+      "150 g de nozes moídas",
+      "50 g de farinha de amêndoas",
+      "50 g de açúcar refinado",
+      "1 colher (sopa) de água de rosas",
+      "1 colher (sopa) de água de flor de laranjeira"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em uma travessa, misture a semolina, o fubá, a farinha de trigo, o açúcar e o fermento em pó.",
+      "Acrescente a manteiga, a água de rosas e a água de flor de laranjeira e misture até formar uma massa uniforme amanteigada.",
+      "Sove por alguns minutos até que a massa fique macia e elástica. Envolva a massa em plástico transparente enquanto prepara o recheio."
+    ],
+    "RECHEIO": [
+      "Em uma travessa, misture todos os ingredientes muito bem para formar uma pasta firme. Se precisar, acrescente um pouquinho de água.",
+      "Separe pequenas porções da massa e enrole com o tamanho aproximado de uma noz. Na palma da sua mão, pressione com o dedo formando um buraco na bolinha.",
+      "Recheie com o recheio de nozes e, com cuidado, feche a massa. Durante esse processo, vá moldando a porção no formato de uma bolinha – é mais ou menos como fazer uma coxinha.",
+      "Se você tiver molde para maamoul (pode ser comprado em lojas de produtos árabes ou na internet), coloque a bolinha no molde e pressione levemente, apenas o suficiente para marcar os desenhos na massa e bata o molde levemente até que a massa se solte.",
+      "Se você não tiver o molde para maamoul, use um garfo para decorar as bolinhas de massa já enroladas. ",
+      "Conforme elas forem ficando prontas, coloque-as sobre uma assadeira forrada com papel manteiga. Preaqueça o forno a 200º C.",
+      "Leve para assar por cerca de 15 minutos, ou até que os biscoitos estejam assados – levemente dourados.",
+      "Retire do forno, deixe esfriar por alguns minutos e polvilhe com açúcar de confeiteiro ou açúcar de baunilha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SIDNEY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310335-maamoul.html"
+}

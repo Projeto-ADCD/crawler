@@ -1,0 +1,66 @@
+{
+  "nome_receita": "EMPADÃO DE FRANGO ( MASSA PODRE )",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "400 g de banha de porco",
+      "100 g de manteiga ou margarina",
+      "1 colher (sopa) de sal",
+      "4 ovos"
+    ],
+    "RECHEIO": [
+      "1 colher (sopa) bem cheia de farinha de trigo",
+      "900 g de filé de frango cozido e desfiado",
+      "sal e pimenta do reino agosto",
+      "200 g de requeijao cremoso",
+      "1 xicara e meia de azeitonas verdes picadas",
+      "1 cebola grande picada em cubos",
+      "3 tomates picados em cubos",
+      "Cebolinha e salsinha a gosto",
+      "De 100 a 200 g  de requeijao de cheddar opcional",
+      "De 100 a 200 g de requeijao cremoso",
+      "200 g de palmito opcional",
+      "1 lata de milho escorrida",
+      "1 lata de ervilha escorrida",
+      "4 colhereres (sopa) de azeite ou óleo",
+      "2 xícaras (chá) da agua do cozimento do frango",
+      "2 cubos de caldo de frango sem sal",
+      "5 dentes de alho amassado ou picado",
+      "1 colher de sobremesa de colorar",
+      "1/2 lata de extrato d tomate",
+      "3 tomates picados em cubo",
+      "200 grama de mussarela ralada opcional",
+      "Para pincelar a massa",
+      "2 gemas",
+      "2 pitada de açúcar"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Miture todos os ingredientes rapidamente ate ficar homogêneo",
+      "Faça uma bola e coloque em, um saco plastico e leve na geladeira para descansar 30 minutos"
+    ],
+    "RECHEIO": [
+      "Cozinhe por 30 minutos file de frango na pressão com 1 cubo de caldo de frango, meia cebola picada em pedaços grande, 2 dentes de alho cortados ao meio, meia colher de sopa de sal e pimenta do reino a gosto. ",
+      "Água o suficiente para cozinha o frango",
+      "Depois de cozido desfie o frango reserve a água cozimento",
+      "Em uma panela acrescente o azeite , cebola, alho e deixe fritar ate dourar, acrescente o frango desfiado e refogue, acrescente o tomate, sal e pimenta a gosto, milho, azeitona, colorau, extrato de tomate, cebolinha e salsinha",
+      "Dê mais uma refogada de uns 3 minutos e acrescente a agua do cozimento do frango e 1 caldo de frango. Tampe a panela e deixe cozinhar em fogo baixo por 5 minutos",
+      "Acrescente o palmito e a ervilha mexa bem. Acrescente a farinha de trigo mexa por mais 3 minutos ate formar um creme e desligue o fogo. Acrescente 200 g de requeijao cremoso e deixe esfriar totalmente antes de usar"
+    ],
+    "PREPARO": [
+      "Abra 2/3 da massa entre 2 plasticos e forre lateral e o fundo da sua forma ou refratario",
+      "Faça furos com o garfo somente no fundo da massa",
+      "Acrecente o recheio de frango totalmente frio por cima. Coloque de 100 a 200g  de requeijao cremoso, coloqueue de 100 a 200 g de requeijao de cheddar e por ultimo a mussarela ralada.",
+      "Abra o restante da massa entre 2 plásticos e cubra a torta",
+      "Com o restante da massa que sobrar, decore a gosto. Por fim, misture as gemas e o açúcar e pincele por toda a torta e leve para assar em forno 200°C por 50 minutos aproximadamente ou ate que a torta esteje toda dourada"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      " Para decorar, eu usei cortador em foma de estrela, mas pode fazer bolinha, trança, use a criatividade!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCOS AURÉLIO SOUZA CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312606-empadao-de-frango-massa-podre.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ARROZ COM CARNE DE SOL NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de arroz",
+      "300 g de carne de sol de salgada e cortada em pedaços tamanho de sua preferência",
+      "1 cebola média cortada em cobos",
+      "1 pimentão verde medio",
+      "cebolinha",
+      "2 dentes de alho médio triturados",
+      "condimento misto ou tempero baiano a gosto",
+      "colorau",
+      "2 tomates médios cortados em cubos",
+      "suco de um limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão coloque a cebola, o pimentão e o tomate e deixe refogar até o tomate ficar molinho",
+      "Adicione o alho, o suco do limão e a cebolinha e deixe refogar",
+      "Adicione a carne de sol de salgada e adicione os temperos em pó",
+      "Adicione a água até cobrir os pedaços de carne e tampe a panela e quando começar a chiar conte vinte minutos",
+      "Deixe a pressão sair e destampe a panela coloque o arroz e tampe a panela e quando começar a chiar conte mais quatro minutos e desligue o fogo e deixe sair a pressão e sirva",
+      "Panela de pressão de quatro litros",
+      "Se o arroz for parbolizado deixar quatro a cinco minutos se for branco deixe dois a três minutos"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIZA MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306819-arroz-com-carne-de-sol-na-panela-de-pressao.html"
+}

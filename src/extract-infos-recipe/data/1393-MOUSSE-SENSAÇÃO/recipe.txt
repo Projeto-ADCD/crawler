@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE SENSAÇÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 caixas de creme de leite 200 ml",
+      "1 caixa de leite condensado 200 ml",
+      "1 sachê de suco em pó de morango",
+      "2 barras chocolate ao leite",
+      "1 barra chocolate meio amargo",
+      "2 caixas de morangos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o creme de leite, leite condensado e o suco em pó",
+      "Coloque o mousse em uma forma de vidro e adicionar pedaços de morangos picados (metade, 1 caixa)",
+      "Reserve a forma no congelador por 15 minutos",
+      "Coloque as barras de chocolate em banho-maria",
+      "Despeje o chocolate na forma por cima do mousse de morango.",
+      "Adicione o restante de morangos picados por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TATIANA BORDIGNON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308562-mousse-sensacao.html"
+}

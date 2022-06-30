@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SUFLÊ DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "1 cebola picada",
+      "2 dentes de alho",
+      "2 copos grandes de leite",
+      "sal e pimenta-do-reino",
+      "2 xícaras (chá) de farinha de trigo peneirada",
+      "4 gemas",
+      "2 xícaras (chá) de queijo parmesão ralado",
+      "4 claras em neve",
+      "manteiga para untar",
+      "1 colher (sopa) de farinha de rosca para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure na manteiga a cebola e o alho.",
+      "Junte o leite e tempere com sal e pimenta-do-reino a gosto.",
+      "Dissolva a farinha em um pouco de leite frio e acrescente à panela, mexendo sempre até ficar cremoso.",
+      "Retire do fogo.",
+      "Ligue o forno em temperatura alta.",
+      "Acrescente as gemas passadas por uma peneira e misture bem.",
+      "Junte o queijo e as claras em neve e misture delicadamente.",
+      "Despeje em uma fôrma para suflê untada e polvilhada com a farinha de rosca.",
+      "Leve ao forno quente para assar até que fique corado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MANUELA VIEIRA NETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307503-sufle-de-queijo.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE MILHO COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de FARINHA DE TRIGO TRADICIONAL DONA BENTA",
+      "1 pitada de sal",
+      "1 colher (sopa) de FERMENTO QUÍMICO DONA BENTA TRADICIONAL",
+      "2 colheres (sopa) de margarina",
+      "2 ovos",
+      "¼ de xícara (chá) de leite"
+    ],
+    "CREME": [
+      "1 xícara (chá) de bacon cortado em tirinhas",
+      "1 cebola grande cortada em cubos pequenos",
+      "3 dentes de alho amassados",
+      "1 e ½ xícara (chá) de frango cozido e desfiado",
+      "2 latas de milho em conserva",
+      "2 xícaras (chá) de leite",
+      "3 colheres (sopa) de FARINHA DE TRIGO DONA BENTA",
+      "1 colher (sopa) de cheiro verde picado",
+      "sal a gosto",
+      "queijo ralado"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em uma vasilha coloque todos os ingredientes menos o leite, amasse com as pontas dos dedos, sem sovar, vá acrescentando o leite aos pouco até dar o ponto (todos os ingredientes estarem homogeneizados), deixe descansar por 30 minutos na geladeira."
+    ],
+    "CREME": [
+      "Aqueça uma panela média, frite o bacon até ele ficar crocante. Retire o bacon e reserve. Na gordura do bacon frite a cebola, até ficar bem dourada, acrescente o alho e doure bem. Coloque o frango e mexa bem.",
+      "Enquanto refoga o frango, bata no liquidificador 1 e ½ lata de milho, o leite e a FARINHA DE TRIGO TRADICIONAL DONA BENTA, até ficar um creme homogêneo.",
+      "Coloque esse creme na panela do frango e mexa até engrossar. Adicione o frango refogado, deixe levantar fervura e abaixo o fogo, mexa até formar um creme bem consistente.",
+      "Desligue o fogo, coloque o cheiro verde e salgue a gosto."
+    ],
+    "MONTAGEM": [
+      "Abra a massa na espessura de 0,3 a 0,4 mm. Coloque em um refratário médio, espalhe o recheio, polvilhe o queijo ralado e o bacon reservado.",
+      "Asse em forno médio (180ºC), preaquecido, por cerca de 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312433-torta-de-milho-com-frango.html"
+}

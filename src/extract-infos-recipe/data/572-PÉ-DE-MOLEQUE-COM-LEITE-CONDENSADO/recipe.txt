@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÉ DE MOLEQUE COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim descascado e torrado",
+      "400 g de açúcar",
+      "1 lata de leite condensado",
+      "3 colheres de margarina",
+      "Unte a forma com margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela coloque o amendoim, margarina e açúcar",
+      "Mexa até o açúcar derreter",
+      "Quando virar uma calda jogue o leite condensado e mexa durantes uns 2 minutos",
+      "Desligue o fogo e jogue na forma untada e espere esfriar.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KENISSON VIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312477-pe-de-moleque-com-leite-condensado.html"
+}

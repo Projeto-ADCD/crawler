@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CHÁ PARA O SISTEMA IMUNOLÓGICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1⁄2 litro de água",
+      "3 colheres de açúcar",
+      "4 fatias finas de abacaxi bem picadinho",
+      "metade das cascas do abacaxi",
+      "10 g de gengibre ralado",
+      "polpa de 2 maracujás azedos",
+      "4 dentes de alho bem picadinhos ",
+      "2 maçãs bem picadinhas",
+      "mel",
+      "limão a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a aguá para ferver e adicione todos os ingredientes.",
+      "Quando começar a levantar fervura, deixe por mais 5 minutos e desligue o fogo.",
+      "Mantenha o caldeirão ou panela tampado.",
+      "Aguarde uns 5 minutos, sirva na xícara com um pouquinho de mel e adicione algumas gotas de limão.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NELSON OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306851-cha-para-o-sistema-imunologico.html"
+}

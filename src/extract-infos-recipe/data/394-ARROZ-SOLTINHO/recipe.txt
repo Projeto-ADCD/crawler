@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ARROZ SOLTINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "½ colher (sopa) de azeite",
+      "3 dentes de alho",
+      "1 xícara de arroz branco",
+      "2 xícaras de água fervente",
+      "½ colher (chá) de sal",
+      "1 colher (sopa) de cebolinha seca",
+      "1 colher (sopa) de salsinha desidratada",
+      "raspas de 1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela pequena, coloque um pouco de azeite e jogue o alho para dourar levemente.",
+      "Coloque o arroz, sem lavar, e refogue junto com o alho. Junte o sal e bote a água quente.",
+      "Tampe a panela, com uma pequena borda aberta, e deixe cozinhar em fogo médio por aproximadamente 15 minutos.",
+      "Quando o arroz estiver seco, desligue o fogo e deixe por mais 10 minutos com a panela toda fechada.",
+      "Depois disso, coloque a cebolinha, a salsinha, as raspas de limão e um fio de azeite. Misture, tampe a panela e deixe as ervas hidratarem com o vapor antes de servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Lavar o arroz antes de cozinhar retira todo o amido, o que gruda os grãos e impede que seu alimento fique bem soltinho. \nUse a medida de 1/2 xícara de arroz para cada pessoa que for comer."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312952-arroz-soltinho.html"
+}

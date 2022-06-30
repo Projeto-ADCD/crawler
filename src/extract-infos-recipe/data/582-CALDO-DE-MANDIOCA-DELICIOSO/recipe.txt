@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CALDO DE MANDIOCA DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca",
+      "300 g de bacon",
+      "400 g de linguiça calabresa",
+      "1 cebola grande",
+      "3 dente de alho",
+      "1 tablete de caldo de carne",
+      "2 tomate",
+      "cheiro-verde a gosto (prefiro cebolinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a mandioca com o caldo de carne",
+      "Depois de cozida retire os talinhos do meio e bata no liquidificador junto a água.",
+      "Em uma panela grande Frite o bacon e a calabresa já cortados em cubinhos .",
+      "Corte o alho e a cebola bem picadinho ou triturado e adicione ao bacon e a calabresa.",
+      "Após dar uma fritada no alho e cebola acrescente o tomate picado na panela e deixe ele desmanchar.",
+      "Adicione ao bacon e calabresa o caldo da mandioca mexa bem e deixe borbulhar.",
+      "Desligue o fogo e acrescente o cheiro verde, se quiser pode dar uma mexida",
+      "Pronto!!!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RE FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312446-caldo-de-mandioca-delicioso.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TAKOYAKI DE LULA COZIDA",
+  "ingredientes": {
+    "MASSA": [
+      "120 g de farinha de trigo",
+      "30 g de amido de milho",
+      "1 colher (chá) de fermento químico",
+      "1 pitada de sal",
+      "450 ml de água",
+      "2 ovos",
+      "1 colher (chá) de shoyu",
+      "hondashi a gosto"
+    ],
+    "RECHEIO": [
+      "250 g de polvo cozido e picado",
+      "cebolinha picada a gosto",
+      "gengibre em conserva a gosto",
+      "1 xícara de molho de tomate",
+      "molho para takoyaki",
+      "maionese",
+      "katsuobushi a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, adicione todos os ingredientes da massa e misture até virar um líquido homogêneo",
+      "Preaqueça a panela própria para takoyaki e unte ela toda com óleo",
+      "Despeje a massa em todas as cavidades e, por cima, adicione o polvo, a cebolinha, o gengibre e o molho e tomate",
+      "Com o auxílio de hashis, corte a massa e vire as bolinhas até dourar toda a superfície",
+      "Transfira para um prato, acrescente o molho, a maionese, o katsuobushi e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313087-takoyaki-de-lula-cozida.html"
+}

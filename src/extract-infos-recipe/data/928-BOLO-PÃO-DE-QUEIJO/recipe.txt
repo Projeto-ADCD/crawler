@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 xícaras ( chá) de polvilho doce",
+      "1 xícara (chá) de leite",
+      "1 xícara (chá) de óleo",
+      "1 colher (café) de sal",
+      "200 g mussarela ralado",
+      "50 g de queijo parmesão ralado",
+      "1 colher rasa (sopa) de fermento e pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater no liquidificador: ovos, óleo, leite, queijo parmesão, polvilho doce e o sal.",
+      "Em um refratário coloquei o líquido do liquidificador e junte o queijo mussarela e o fermento, misturando com um fouet.",
+      "Coloque em forma de furo no meio untada com óleo.",
+      "Leve ao forno médio até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCIANA DA MATA CREMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310859-bolo-pao-de-queijo.html"
+}

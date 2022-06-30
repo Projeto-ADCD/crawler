@@ -1,0 +1,46 @@
+{
+  "nome_receita": "LOMBO SUÍNO FRIMESA RECHEADO COM QUEIJO GORGONZOLA, TOMATE SECO E ARROZ PILAF",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de Lombo Suíno Frimesa",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "2 colheres de cheiro-verde picado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "200 g de Queijo Azul Frimesa",
+      "100 g de tomate seco",
+      "300 ml de Leite Frimesa",
+      "50 g de farinha de trigo",
+      "50 g de Manteiga sem Sal Frimesa",
+      "1 xícara de arroz branco",
+      "ervas finas (manjericão, louro, alecrim e tomilho)",
+      "500 ml de caldo de legumes",
+      "suco de 1 limão",
+      "barbante",
+      "1 colher (chá) de noz-moscada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma faca, abra o Lombo Suíno Frimesa e corte até pouco mais da metade.",
+      "Depois, tempere a carne com cebola, alho, cheiro-verde, sal e pimenta. Reserve.",
+      "Corte o queijo azul em pequenos pedaços, junte aos tomates secos e coloque tudo dentro do lombo.",
+      "A seguir, amarre com o barbante.",
+      "Em uma frigideira, doure todos os lados do lombo e, em seguida, leve ao forno preaquecido a 180ºC.",
+      "Regue com azeite.",
+      "A cada 10 minutos, vire o lombo para pegar cor em todo o corte.",
+      "Depois de 40 minutos, retire do forno, espere 5 minutos para dar uma resfriada e corte as fatias de lombo recheadas.",
+      "Faça um molho branco simples para acompanhar juntando a farinha de trigo, a manteiga e o leite em uma panela mexendo sem parar até engrossar.",
+      "Tempere com sal, pimenta, noz-moscada e limão.",
+      "Arroz pilaf: refogue uma colher de cebola e um dente de alho em uma panela com óleo.",
+      "Junte os grãos de arroz, refogue e adicione as ervas finas amarradas com um barbante.",
+      "Adicione o caldo de legumes até cobrir o arroz.",
+      "Depois tempere com sal e espere cozinhar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314030-lombo-suino-frimesa-recheado-com-queijo-gorgonzola-tomate-seco-e-arroz-pilaf.html"
+}

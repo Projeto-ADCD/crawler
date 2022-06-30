@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CANJICA GOURMET DE FERRERO ROCHER",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g milho de canjica",
+      "1 caixa de leite condensado",
+      "500 ml de leite integral",
+      "100 g de amendoim ou avelã triturado .",
+      "150 g de creme de avelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a canjica de molho por 4 horas.",
+      "Após esse tempo, coloque para cozinhar.",
+      "Após cozido, escorra e coloque em uma panela com o leite integral e o leite condensado e leve ao fogo ate engrossar.",
+      "Coloque em uma tigela e encima da canjica coloque o creme de avelã e salpique amendoim triturado ou avelã e está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "KATIA DOÇURINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312755-canjica-gourmet-de-ferrero-rocher.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PALHA ITALIANA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "8 colheres (sopa) de pó de morango",
+      "1 e 1/2 colher (sopa) de margarina",
+      "200 g de bolacha maisena",
+      "6 colheres (sopa) de leite ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a bolacha em pedaços pequenos e reserve.",
+      "Em uma panela em fogo médio, coloque a margarina, o leite condensado e o pó de morango e misture.",
+      "Assim que começar a soltar do fundo da panela, desligue o fogo, e misture a bolacha picada até formar uma massa.",
+      "Unte uma forma pequena e despeje a massa.",
+      "Leve ao freezer por 15 minutos.",
+      "Corte em quadrados e passe no leite ninho.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "KATHY CREATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312813-palha-italiana-de-morango.html"
+}

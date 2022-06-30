@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COQUETEL DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "250 ml de cachaça",
+      "3 colheres (sopa) de açúcar",
+      "500 ml de água",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o limão em 4 partes para poder tirar a linha branca e as sementes (essas amargam a bebida), em seguida coloque todos os outros ingredientes no liquidificador.",
+      "Bata tudo por 30 segundos.",
+      "Em uma peneira despeja o líquido para separar a casca e restos de limão. Tomar gelado ou colocar gelo. Bebida com teor alcoólico a cima de 10%."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "HIGOR SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312377-coquetel-de-limao.html"
+}

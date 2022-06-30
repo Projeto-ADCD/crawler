@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PAVÊ PÃO DE MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 xícaras (chá) de leite",
+      "1/2 xícara (chá) de mel",
+      "2 colheres (chá) de canela em pó",
+      "3 fatias de gengibre",
+      "2 latas de creme de leite gelado e sem soro",
+      "400 g de doce de leite cremoso",
+      "1 e 1/2 bolo inglês sabor chocolate fatiado",
+      "200 g de chocolate meio amargo picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, leve ao fogo médio, o leite, o mel, a canela, o gengibre e ferva por 1 minuto.",
+      "Reserve, deixe esfriar e retire o gengibre.",
+      "Na batedeira , batata o creme de leite com o doce de leite até ficar homogêneo.",
+      "Em uma taça grande ou em refratário médio, intercale camadas de creme de doce de leite e de bolo fatiado regado com calda de mel reservada terminando em bolo regado.",
+      "Derreta o chocolate em banho-maria, espalhe sobre o bolo e leve a geladeira por 4 horas antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NATALIA KAMILA ROHDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314244-pave-pao-de-mel.html"
+}

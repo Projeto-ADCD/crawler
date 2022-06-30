@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COCADA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 coco ralado ou 1 pacote de 100 g de coco ralado",
+      "1 lata de leite integral (mesma medida da lata de leite condensado)",
+      "3 latas de açúcar (medida da lata de leite condensado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo, mexa até parecer o fundo da panela",
+      "Depois espalhe em uma superfície untada com manteiga.",
+      "Corte em quadradinhos ",
+      "Deixe esfriar na geladeira.",
+      "Importante: essa cocada não é aquela que fica sequinha, ela fica um pouco mais mole, mais é deliciosa!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PYETRA RAY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311009-cocada-com-leite-condensado.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESCONDIDINHO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "300 g de chocolate meio amargo (ou 3 barras)",
+      "1 caixa de morango (com uva verde sem semente também fica uma delícia)",
+      "3 colheres de leite em pó (opcional)",
+      "1 colher de manteiga",
+      "20 g de chocolate branco (ou 1 barrinha pequena)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as frutas e deixe escorrer a água numa peneira até a hora de montar a sobremesa.",
+      "Não as corte, pois elas tendem a sorar e isso pode estragar o seu doce.",
+      "Numa panela, coloque as 2 latas de leite condensado, 1 lata de creme de leite, o leite em pó, a manteiga e o chocolate branco.",
+      "Mexa sem parar em fogo médio até dar o ponto do brigadeiro (desgrude da panela).",
+      "Após, despeje em um refratário e deixe esfriar",
+      "Numa vasilha, coloque o chocolate e a outra lata de creme de leite, leve ao micro-ondas de 30 em 30 segundos misturando bem até formar o ganache.",
+      "Feito isso, após o creme branco já frio, vamos montar a sobremesa.",
+      "Monte em camadas, primeiro o creme branco, coloque as frutas (sem deixar nenhum espaço sem elas, para ficar bem gostoso) e por fim o ganache.",
+      "Pode montar em taças, em acetatos, ou em um refratário grande; use a imaginação e decore como quiser."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NANDA . LUASTRELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310180-escondidinho-de-morango.html"
+}

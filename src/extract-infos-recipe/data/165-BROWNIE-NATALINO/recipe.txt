@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BROWNIE NATALINO",
+  "ingredientes": {
+    "BROWNIE ": [
+      "4 ovos ",
+      "1 xícara de açúcar ",
+      "200 g de manteiga derretida",
+      "2 xícaras de achocolatado em pó",
+      "1 xícara de farinha de trigo"
+    ],
+    "DECORAÇÃO": [
+      "150 g de açúcar de confeiteiro ",
+      "1/2 colher (chá) de corante verde",
+      "10 ml de leite ",
+      "confeitos dourados a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes do brownie, menos a farinha, em um recipiente",
+      "Misture tudo muito bem com o auxílio de um fouet ",
+      "Depois, com cuidado, incorpore a farinha de trigo à massa",
+      "Mexe tudo e reserve",
+      "Unte uma forma quadrada com manteiga e achocolatado em pó",
+      "Despeje toda a massa",
+      "Leve ao forno preaquecido a 180° C por 30 minutos",
+      "Retire do forno e faça cortes na massa, trasnformando-a em pequenos triângulos ",
+      "Misture os ingredientes da cobertura, menos os confeitos",
+      "Coloque a cobertura em saco de confeiteiro e enfeite sua árvore de brownie",
+      "Finalize com os confeitos dourados a gosto"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314098-brownie-natalino.html"
+}

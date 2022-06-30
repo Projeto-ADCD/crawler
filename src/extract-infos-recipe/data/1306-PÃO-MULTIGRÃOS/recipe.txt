@@ -1,0 +1,49 @@
+{
+  "nome_receita": "PÃO MULTIGRÃOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "1 e 1/2 xícara de leite ",
+      "1/2 xícara de água",
+      "1/2 xícara de óleo ",
+      "3 ovos",
+      "2 colheres (sopa) de água",
+      "1 colher (sopa) de farinha de trigo",
+      "3 colheres (sopa) de açúcar 10 g de fermento biólogico seco",
+      "1 colher (sopa) de sal",
+      "5 colheres (sopa) de grãos diversos (linhaça, linhaça dourada, gergelim preto e branco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture os 4 primeiros ingredientes ",
+      "Juntes os ovos e misture mais um pouco",
+      "Use a mão e incorpore bem os ingredientes",
+      "Ative o fermento misturando as colheres de água, farinha e açúcar com o fermento biológico",
+      "Deixe a massa e essa mistura reservadas por 30 minutos",
+      "Tampe a massa com um pano",
+      "Enfarinhe uma mesa ou tábua ",
+      "Abra a massa e junte o fermento ",
+      "Junte o sal ",
+      "Misture apertando bem a massa e sove até tudo incorporar ",
+      "A massa deve ficar lisa e macia ",
+      "Abra a massa novamente e junte os grãos",
+      "Feche e tensione a massa até tudo estar bem misturado",
+      "Coloque a massa de volta ao recipiente e leve para um lugar quente ",
+      "Deixe uma hora reservado e tampado",
+      "Divida a massa em duas ",
+      "Enfarinhe um pouco os pedaços antes de modelar ",
+      "Tire o ar das massas e tensione elas um pouco",
+      "Modele a seu gosto",
+      "Deixe descansar mais 30 minutos já nas formas (tampe novamente)",
+      "Preaqueça o forno a 250° C ",
+      "Depois do tempo de descanso, leve ao forno por 40 minutos (fique ligado no tempo, pode ser menos, quando dourar confira se está pronto)",
+      "Retire do forno e, se desejar, pincele um pouco de leite na casca para amolecer um pouco",
+      "Só servir "
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308980-pao-multigraos.html"
+}

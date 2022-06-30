@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE LEITE NINHO (FÁCIL)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "10 colhes (sopa) de leite ninho",
+      "1/2 xícara (chá) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes no liquidificador",
+      "Bata por 5 minutos",
+      "Passe para um pote de sorvete e deixe de um dia para o outro",
+      "Sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAURA NRT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311151-sorvete-de-leite-ninho-facil.html"
+}

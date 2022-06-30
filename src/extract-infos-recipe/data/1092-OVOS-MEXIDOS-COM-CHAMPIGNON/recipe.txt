@@ -1,0 +1,32 @@
+{
+  "nome_receita": "OVOS MEXIDOS COM CHAMPIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 ovos grandes",
+      "2 colheres (sopa) de estragão picado",
+      "2 colheres (sopa) de manteiga",
+      "4 fatias de pão de forma integral torradas",
+      "10 g de manteiga",
+      "150 g ou 1 e 1/4 de xícara (chá) de champignon",
+      "1 colher (sopa) de estragão picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, prepare os champignons",
+      "Aqueça a manteiga em uma frigideira larga até começar a fritar",
+      "Em seguida acrescente os champignons",
+      "Refogue por 10 minutos, mexendo de vez em quando, até que todo o liquido evapore e os champignons estejam dourados.",
+      "Salpique o estragão",
+      "Enquanto isso, quebre os ovos em uma tigela e acrescente uma pitada de sal e pimenta, além do estragão",
+      "Bata com delicadeza para desmanchar as gemas",
+      "Aqueça a manteiga em uma frigideira antiaderente até começar a fritar e despeje os ovos",
+      "Cozinhe em fogo baixo, mexendo sem parar até os ovos desmancharem",
+      "Coloque os ovos mexidos sobre as quatro torradas e espalhe as champignons por cima e contemple a delicia"
+    ]
+  },
+  "tempo_de_preparo": "22 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309948-ovos-mexidos-com-champignon.html"
+}

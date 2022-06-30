@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PIZZA MAIS FÁCIL DO MAURICIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa",
+      "2 xícaras de farinha",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 ovo",
+      "1 colher (sopa) rasa de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 colher (sopa) de fermento em pó",
+      "Para o recheio e cobertura",
+      "2 cebolas pequenas",
+      "alho a gosto",
+      "2 colheres (sopa) de molho de tomate",
+      "1 lata de sardinha grande",
+      "orégano a gosto",
+      "1 pitada de sal",
+      "1 tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture a farinha, o açúcar, o sal, acrescente o óleo, o leite e o ovo.",
+      "Misture até obter uma massa homogênea e então adicione o fermento e misture levemente.",
+      "Coloque em uma forma untada e leve ao forno preaquecido 180° C, por 10 minutos",
+      "Para o molho",
+      "Frite 1 cebola picada com o alho, adicione o molho de tomate, as sardinhas limpas (sem os ossinhos), uma pitada de orégano e uma pitada de sal.",
+      "Montagem",
+      "Retire a massa do forno e despeje o molho por cima da massa e espalhe rodelas de cebola, tomate e salpicar orégano por cima.",
+      "Retorne com a massa para o forno por mais 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MAURICIO PASSOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309514-pizza-mais-facil-do-mauricio.html"
+}

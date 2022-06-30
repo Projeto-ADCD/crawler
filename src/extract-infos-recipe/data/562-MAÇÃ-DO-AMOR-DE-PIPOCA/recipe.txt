@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MAÇÃ DO AMOR DE PIPOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Popcorn Cobertura sabor Caramelo Yoki",
+      "400 g de chocolate em barra meio amargo para cobertura",
+      "10 Palitos de sorvete",
+      "1/2 xícara (chá) de açúcar",
+      "2 colheres (sopa) de água",
+      "3 colheres (sopa) de creme de leite",
+      "20 g de manteiga sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Estoure a pipoca conforme as instruções da embalagem. Retire os milhos não estourados e reserve a pipoca.",
+      "Coloque na panela o conteúdo do sachê de caramelo, o açúcar, a água, o creme de leite e a manteiga sem sal e leve ao fogo. Mexa tudo até que a mistura fique homogênea e da cor do conteúdo da imagem no sachê.",
+      "Deixe esfriar por alguns segundos, molde as bolinhas diretamente no palito de sorvete e reserve.",
+      "Sua maçã de chocolate está quase pronta. Derreta o chocolate conforme as instruções do fabricante.",
+      "Mergulhe as bolinhas de pipoca na calda de chocolate até ficarem totalmente cobertas.",
+      "Último passo da receita de maçã do amor de pipoca: passe as bolinhas no amendoim triturado, antes que o chocolate endureça. Deixe a maçã do amor decorada secar sobre papel-manteiga.",
+      "Pronto, agora você já sabe como fazer maçã de chocolate!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "YOKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312497-maca-do-amor-de-pipoca.html"
+}

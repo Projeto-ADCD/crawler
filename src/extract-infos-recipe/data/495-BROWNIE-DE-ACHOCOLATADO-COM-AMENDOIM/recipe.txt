@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BROWNIE DE ACHOCOLATADO COM AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "2 xícaras de achocolatado",
+      "1 1/2 xícara de farinha de trigo (sem fermento)",
+      "150 g de manteiga ou margarina derretida",
+      "3 ovos inteiros",
+      "1 colher de sopa de amendoim torrado e moído"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, adicione os ovos e o açúcar, e mexa por uns 3 a 4 minutos",
+      "Depois acrescente a manteiga, e mexa por 1 minutinho",
+      "Acrescente o achocolatado e a farinha trigo, mexa ate incorporar bem",
+      "Depois de mexer coloque o amendoim e mexa",
+      "Unte uma forma (pode ser com furo no meio) com margarina e enfarinhe com achocolatado ou farinha de trigo",
+      "Coloque para assar por aproximadamente 30 minutos no fogo preaquecido. Depois de assar, espere esfriar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MUNDO DA REBECA E DA ELOAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312674-brownie-de-achocolatado-com-amendoim.html"
+}

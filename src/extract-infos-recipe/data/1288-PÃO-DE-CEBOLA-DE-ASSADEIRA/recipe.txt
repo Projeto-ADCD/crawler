@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE CEBOLA DE ASSADEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo de óleo",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de sal rasa",
+      "1 tablete de caldo de frango",
+      "1 cebola grande ou 2 médias",
+      "4 copos (americano) de leite morno",
+      "1 pacotinho de fermento ",
+      "1 kg de trigo sem fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, exceto o trigo",
+      "Despeje o líquido em uma bacia e vá acrescentando o trigo e mexendo com uma colher até incorporar todo o trigo",
+      "A massa fica mole e pegajosa.",
+      "Unte um tabuleiro grande com óleo e distribua a massa",
+      "Espere cerca de 40 minutos até a massa crescer, dobrar de tamanho.",
+      "Leve para assar em forno a 200° C por cerca de 40 minutos, até dourar em cima"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JANAINA VITÓRIA LAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309072-pao-de-cebola-de-assadeira.html"
+}

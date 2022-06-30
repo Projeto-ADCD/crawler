@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA FRIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1  xícara (chá) de farinha de milho",
+      "1 tomate",
+      "½ xícara (chá) de azeitonas verdes",
+      "½ cebola ",
+      "raspas de limão",
+      "suco de 1 limão",
+      "½ xícara (chá) de azeite. ",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "salsinha a gosto",
+      "1 cenoura pequena ralada",
+      "½ lata de milho ",
+      "100 g de queijo muçarela em cubos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl junte a farinha de milho, o tomate cortado em cubos, as azeitonas verdes sem o caroço, a cebola picada, a cenoura pequena ralada, o milho em conserva, muçarela cortada em cubos. ",
+      "Tempere com sal, pimenta do reino, raspas de limão,  o suco do limão, azeite até que a farofa fique úmida",
+      "Misture bem , leve à geladeira por cerca de 15 minutos.",
+      "Sirva fria. "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314092-farofa-fria.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANQUECA DE FARINHA DE MANDIOCA (MATINAL)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 colheres (sopa) de farinha de mandioca branca",
+      "orégano a gosto",
+      "sal a gosto",
+      "1 colher (sopa) de leite",
+      "azeite e manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo com a farinha de mandioca, acrescente o leite, sal e orégano.",
+      "Prepare uma frigideira com um fio de azeite ou uma colher pequena de manteiga (se for antiaderente, não precisa)",
+      "Separe a panqueca em duas partes, coloque uma por vez na frigideira",
+      "Coloque um recheio de sua preferência",
+      "Sirva com orégano"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "NATY B. DE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308268-panqueca-de-farinha-de-mandioca-matinal.html"
+}

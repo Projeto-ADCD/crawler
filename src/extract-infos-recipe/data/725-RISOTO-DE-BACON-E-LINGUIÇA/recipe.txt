@@ -1,0 +1,39 @@
+{
+  "nome_receita": "RISOTO DE BACON E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de azeite",
+      "70 g de bacon",
+      "3 linguiça toscana",
+      "2 xícaras de arroz arbóreo",
+      "1/2 cebola média picada",
+      "1 xícara vinho tinto",
+      "1 litro de caldo de legumes ou de carne",
+      "1 tabletes de caldo de costela (aqueles já pronto)",
+      "cebolinha a gosto",
+      "sal e pimenta-do-reino a gosto",
+      "1 caixa de creme de leite",
+      "1 colhe (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, coloque o caldo de carne no fogo e deixe ele la ire a pela que envolve a linguica, abrindo ela.",
+      "Em uma panela grande (onde você ira fazer o seu risoto) frite a linguica e depois o bacon. Reserve",
+      "Coloque o azeite e frite a cebola até ela murchar",
+      "Adicione o arroz arbóreo e mexa por 1 minuto. Acrescente o vinho e continue mexendo por mais 1 minuto.",
+      "Em seguida coloque o tablete de carne e deixe dissolver.",
+      "Comece a regar o arroz com o caldo de legumes ou de carne que estava no fogo. Va adicionando e mexendo sempre, assim que secar e o arroz pedir mais caldo, vá colocando um ou dias conchas.",
+      "Quando o arroz estiver cozido, acrescente o bacon e a linguiça xontimie mexendo mais um pouco, até todos os ingredientes se incorporar ao arroz.",
+      "Coloque a caixinha de creme de leite e misture",
+      "Desligue o fogo e junte a manteiga, misture.",
+      "Acerte o sal e junte a cebolinha",
+      "Sirva quente!",
+      "BOM APETITE!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANA BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311894-risoto-de-bacon-e-linguica.html"
+}

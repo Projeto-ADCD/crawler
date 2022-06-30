@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SAGU FÁCIL DE SUCO DE UVA INTEGRAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de sagu",
+      "2 xícaras de água",
+      "3 xícaras de suco de uva integral",
+      "1 colher (sopa) de açúcar",
+      "cravo e canela em pau a gosto (sugestão: 1 colher (sopa) de cravo e 10 cm de canela em pau)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o cravo, a canela em pau, a água e o vinho, deixe levantar fervura.",
+      "Adicione o sagu. Após levantar fervura novamente deixe por um minuto.",
+      "Desligue o fogo e deixe descansar por 2 horas.",
+      "Decorrido o tempo de espera, leve ao fogo novamente.",
+      "Quando levantar fervura conte 6 minutos e adicione o açúcar.",
+      "Deixe ferver mais 6 minutos e está pronto.",
+      "Deixe esfriar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SERGIO GUANDALINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310000-sagu-facil-de-suco-de-uva-integral.html"
+}

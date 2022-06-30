@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PANNA COTTA DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 ml de creme de leite ",
+      "250 ml de leite ",
+      "200 g de açúcar ",
+      "1 colher (sopa) essência de baunilha ",
+      "4 colher (sopa) de leite ",
+      "1 pacote de gelatina sem sabor em pó "
+    ],
+    "CALDA ": [
+      "1 maracujá ",
+      "1/4 de xícara de açúcar ",
+      "suco de 1/2 limão ",
+      "1/2 xícara de água "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture todos os ingredientes ",
+      "Use a colher para dissolver tudo muito bem, principalmente a gelatina",
+      "Depois do creme pronto, coloque em formas do seu gosto ",
+      "Tampe com o papel-filme e leve para a geladeira por 1 hora"
+    ],
+    "CALDA": [
+      "Misture todos os ingredientes em uma frigideira ou panela",
+      "Quando começar a ferver, mexa bem e espere a calda engrossar",
+      "Desenforme a panna cotta e despeje a calda por cima"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316068-panna-cotta-de-maracuja.html"
+}

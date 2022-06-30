@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PAELLA DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de peito de frango ",
+      "100 g de bacon ",
+      "1 dente de alho ",
+      "1 cebola grande",
+      "1/2 pimentão",
+      "1 tomate ",
+      "1 salsinha",
+      "4 colheres (sopa) de azeite ou óleo",
+      "4 xicaras de arroz cru",
+      "2 colheres (sopa) de colorau",
+      "1/2 colher (sopa) de açafrão",
+      "sal a gosto",
+      "1 pacote de extrato de tomate",
+      "5 xícaras de água",
+      "3 colheres (sopa) de ervilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o alho amassado, cebola, pimentao e tomate (nessa sequência) para refogar.",
+      "Depois adicione o frango em cubos (temperado com sal) e o bacon em tiras até que eles fiquem macios.",
+      "Adicione o extrato de tomate em cubos e depois a água.",
+      "Adicione também o sal.",
+      "Quando estiver fervendo adicione o arroz cru, açafrão, colorau, ervilha e a salsinha.",
+      "Deixe cozinhar por 10 minutos.",
+      "Enquanto isso, preaqueça o forno a 180° C",
+      "Em seguida despeje tudo em um refratário (o arroz tem que está pré-cozido).",
+      "Deixe no forno por mais 20 minutos ou até que o arroz fique cozido."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROMULO MAXIMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306844-paella-de-frango.html"
+}

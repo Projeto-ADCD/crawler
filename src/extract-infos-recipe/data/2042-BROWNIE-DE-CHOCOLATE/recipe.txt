@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BROWNIE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de açúcar",
+      "4 colheres (sopa) de margarina derretida",
+      "1 xícara de achocolatado",
+      "1 xícara de farinha de trigo",
+      "1 pitada de sal",
+      "1 pitada de fermento",
+      "1 tampinha de baunilha (opcional)",
+      "1 barra de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos com o açúcar",
+      "Adicione a manteiga derretida e misture bem",
+      "Adicione o achocolatado e misture bem",
+      "Adicione a farinha, a pitada de sal, a baunilha e o fermento e misture bem.",
+      "A massa fica com consistência pesada, unte uma assadeira pequena/média",
+      "Despeje a massa e acrescente os cubos de chocolate picado.",
+      "Coloque no forno preaquecido a 180° C de 25 a 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JÚLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306134-brownie-de-chocolate.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ COM CANELA E CASTANHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 maçãs médias, bem lavadas",
+      "1/2 xícara (chá) de óleo",
+      "2 xícaras (chá) de açúcar",
+      "2 xícaras (chá) de farinha de trigo",
+      "5 castanhas do Pará ou nozes",
+      "1/2 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de fazer",
+      "Ligue o forno à 180° C",
+      "Unte uma forma média,com buraco no meio, com margarina e farinha. Reserve",
+      "No liquidificador, coloque",
+      "2 maçãs picadas, com cascas e sem sementes, os ovos, o óleo, o açúcar e as cascas da terceira maçã. Reserve.",
+      "Em uma tigela, peneire a farinha, o fermento e a canela. Misture bem e reserve.",
+      "Pique, em pedaços pequenos, a terceira maçã e as castanhas. Reserve.",
+      "Bata os ingredientes do liquidificador, de 01 a 02 minutos, até misturar bem. Não desligue. Acrescente, aos poucos, a mistura de farinhas. Continue batendo somente até misturar. Caso fique muito grossa, desligue o liquidificador e termine de misturar na mão.",
+      "Com o liquidificador desligado, acrescente a maçã e a castanha picadinhas. Misture muito bem.",
+      "Coloque na forma, leve ao forno já pré aquecido, por uns 35 minutos, faça o teste do palito. Deixe amornar, desenforme, passe um pouco de margarina derretida em todo o bolo, salpique açúcar cristal e jogue um pouco de castanhas por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MAGALI MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310955-bolo-de-maca-com-canela-e-castanhas.html"
+}

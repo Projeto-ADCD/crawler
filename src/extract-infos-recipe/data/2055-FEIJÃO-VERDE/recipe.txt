@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FEIJÃO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão verde",
+      "1 pimentao grande",
+      "1 cebola grande",
+      "3 dentes de alho",
+      "cheiro-verde (salsinha, cebolinha)",
+      "1 litro de leite",
+      "1 caixinha de creme de leite",
+      "2 colheres (sopa) de amido de milho",
+      "400 g de queijo coalho",
+      "pimenta-do-reino em pó a gosto",
+      "sal a gosto",
+      "2 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione em uma panela 1 litro de água, o feijão e sal",
+      "Deixe cozinhar por apromadamente 30 minutos até amolecer",
+      "Em outra panela adicione a cebola, o pimentão, o alho e a margarina e mexa em fogo baixo até a cebola dourar",
+      "Adicione aos poucos metade do leite e em seguida sal, pimenta-do-reino e cheiro-verde",
+      "Escorra o feijão cozido e lave com uma água e em seguida adicione à panela que estaá no fogo",
+      "Dissolva o amido na outra metade do leite e adicione a panela mexendo sempre por 5 minutos",
+      "Apague o fogo.",
+      "Acrescente o queijo cortado em cubos e o creme de leite.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HERMINIA KAREN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306111-feijao-verde.html"
+}

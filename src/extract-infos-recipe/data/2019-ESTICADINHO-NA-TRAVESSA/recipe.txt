@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ESTICADINHO NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "2 sucos em pó de morango",
+      "morangos cortados ao meio a gosto",
+      "1 barra de chocolate meio amargo",
+      "1 barra de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite consensado, creme de leite e tang no liquidificador e bata até ficar uma mistura homogênea",
+      "Coloque o mousse de morango em uma vasilha e deixe na geladeira até ficar com uma consistência (mais ou menos duas horas)",
+      "Derreta os chocolates e coloque em cima do mousse",
+      "Bote novamente na geladeira a vasilha por 2 horas e depois estará pronto para comer!"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALANA MORASSUTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306182-esticadinho-na-travessa.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "GEMUSE DE BATATAS E REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de costelinha suína defumada, cortada em pedaços pequenos",
+      "1 cebola grande picada (a gosto)",
+      "4 dentes de alho picados (a gosto)",
+      "2 linguiças paio (aproximadamente 300 g), sem pele e cortadas em pedaços pequenos",
+      "30 ml de vinho branco seco",
+      "1/2 cabeça de repolho média ou couve mineira, cortadas em pedaços grandes ",
+      "8 batatas inglesas grandes, descascadas e cortadas ao meio",
+      "200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a costelinha suína defumada, picada, em uma panela grande, até derreter um pouco a gordura. Deixe os ossos juntos, para acentuar o sabor e não coloque sal (tem sal suficiente na costelinha e paio).",
+      "Acrescente a cebola picada, o alho picado e as linguiças paio picadas, frite tudo junto, até a cebola ficar translúcida.",
+      "Acrescente o vinho branco seco para soltar o fundo das frituras.",
+      "Acrescente o repolho cortado, as batatas inglesas cortadas e água aos poucos, conforme necessário (pois os ingredientes soltam bastante água durante o cozimento).",
+      "Após a fervura, baixe o fogo e cozinhe por cerca de mais 1 hora, com a panela tampada, até as batatas amolecerem bem, praticamente se desmancharem.",
+      "Amasse tudo no final, até ficar como um purê grosseiro.",
+      "Pode servir com azeite, queijo ralado, pimenta."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestões de acompanhamento: saladas verdes e, para harmonizar, vinho tinto seco."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SERGIO PETERS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313321-gemuse-de-batatas-e-repolho.html"
+}

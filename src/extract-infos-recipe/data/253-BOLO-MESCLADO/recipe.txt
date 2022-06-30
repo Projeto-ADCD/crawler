@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO MESCLADO",
+  "ingredientes": {
+    "MASSA ": [
+      "200 g de biscoito amanteigado triturado ",
+      "80 g de manteiga derretida ",
+      "1 colher (sopa) de leite "
+    ],
+    "RECHEIO": [
+      "2 caixas de creme de leite ",
+      "1 lata de leite condensado ",
+      "200 g de creme de leite fresco batido ",
+      "30 g gelatina incolor hidratada ",
+      "100 g de geleia de morango ",
+      "30 g de gelatina de morango hidratada "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Junte todos os ingredientes em um recipiente ",
+      "Coloque no fundo de uma forma e leva à geladeira por 10 minutos"
+    ],
+    "RECHEIO": [
+      "Junte o creme de leite, o leite condensado e o creme de leite batido em um recipiente ",
+      "Bata tudo com uma batedeira ",
+      "Junte a gelatina incolor e bata novamente",
+      "Divida a mistura em duas ",
+      "Na primeira, misture a geleia de morango e a gelatina de morango ",
+      "Bata e misture bem ",
+      "Na forma, forre o fundo todo com 8 colheres (sopa) do creme vermelho",
+      "Logo por cima, 6 colheres (sopa) do creme branco",
+      "Mais 6 colheres (sopa) do creme vermelho",
+      "E faça isso até acabar",
+      "Com um palito, puxe com delicadeza a mistura sempre do meio para as bordas",
+      "Faça os desenhos e leve à geladeira por 6 horas"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313684-bolo-mesclado.html"
+}

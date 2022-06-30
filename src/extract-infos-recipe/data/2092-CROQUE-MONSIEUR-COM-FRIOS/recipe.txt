@@ -1,0 +1,51 @@
+{
+  "nome_receita": "CROQUE MONSIEUR COM FRIOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme de queijo",
+      "30 g manteiga",
+      "30 g farinha de trigo",
+      "375 ml leite",
+      "noz-moscada",
+      "sal, pimenta a gosto",
+      "5O g queijo tipo Suisse ralado",
+      "Croque monsieur",
+      "2 fatias pão de forma branco",
+      "100 g do creme de queijo",
+      "1 fatia presunto Royal Seara",
+      "1 fatia parma Seara",
+      "1 fatia mortadela Seara",
+      "3 fatias salame Seara",
+      "1 fatia lombo defumado Seara",
+      "100 g queijo tipo Suisse ralado",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme de queijo",
+      "Derreta a manteiga e coloque a farinha",
+      "Deixe cozinhar no fogo durante 5 minutos sem tostar",
+      "Adicione o leite fervendo",
+      "Deixe cozinhar até engrossar",
+      "Tempere com sal, pimenta e a moscada",
+      "Retire do fogo e coloque o queijo",
+      "Croque monsieur",
+      "Toste o pão de forma de um lado só",
+      "No lado branco, passe uma camada do creme de queijo e monte os frios Seara",
+      "Coloque entre cada camada um pouco do creme de queijo",
+      "Cubra com a outra fatia de pão (lado não tostado para baixo)",
+      "Espalhe em cima bastante creme de queijo",
+      "Cubra com o resto do creme de queijo em cima",
+      "Coloque no forno a 180° C de 10 a 15 minutos, até gratinar",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pocurando outra receita deliciosa e fácil de fazer como essa? Confira o modo de preparo do lombo barbecue com farofa de frutas e espinafre frito!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SEARA GOURMET",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306033-croque-monsieur-com-frios.html"
+}

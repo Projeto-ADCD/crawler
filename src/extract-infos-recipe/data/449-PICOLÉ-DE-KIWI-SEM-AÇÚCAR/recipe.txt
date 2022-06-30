@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PICOLÉ DE KIWI SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 kiwis",
+      "1 xicara de suco de limão",
+      "2 colheres (sopa) de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Depois despeje nas forminhas de picolé e leve ao freezer durante 2 a 3 horas",
+      "Já pode comer!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAYANNE DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312808-picole-de-kiwi-sem-acucar.html"
+}

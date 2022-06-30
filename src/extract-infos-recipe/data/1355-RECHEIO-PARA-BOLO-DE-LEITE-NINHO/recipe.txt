@@ -1,0 +1,23 @@
+{
+  "nome_receita": "RECHEIO PARA BOLO DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "3 colheres de manteiga ou margarina (rasas)",
+      "5 colheres cheias de leite em pó (ou leite ninho)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes numa panela e mexa bem com o fogo desligado",
+      "Mexa bem e coloque no fogo médio até soltar do fundo da panela (para saber quando estiver bom passe a colher no fundo da panela e se o fundo aparecer esta bom)",
+      "Passe o brigadeiro de ninho para um recipiente e coloque o papel filme em cima do pote (se vc não tiver papel filme não precisa colocar nada em cima)",
+      "Espere esfriar e coloque na geladeira",
+      "Coloque no bolo e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAROLINA MENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308756-recheio-para-bolo-de-leite-ninho.html"
+}

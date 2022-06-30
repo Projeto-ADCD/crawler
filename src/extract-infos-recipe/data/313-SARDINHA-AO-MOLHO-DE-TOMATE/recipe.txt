@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SARDINHA AO MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sardinha limpa",
+      "1 pimentão verde médio",
+      "2 tomates médios",
+      "3 dentes de alho",
+      "2 cebolas médias",
+      "sal, pimenta e temperos a gosto",
+      "1 copo (americano) de água",
+      "1/2 copo (americano) de óleo ou azeite",
+      "1/3 de copo (americano) de vinagre",
+      "2 sachês de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola, tomate, pimentão e alho em rodelas.",
+      "Forre o fundo da panela de pressão com com os ingredientes cortados em rodela, após isso coloque metade das sardinhas, use o restante dos ingredientes cortados e coloque o restante da sardinha.",
+      "Acrescente o restante dos ingredientes, feche a panela e leve ao fogo médio para alto por 30 minutos após início da pressão.",
+      "Após os 30 minutos deixe acabar toda a pressão e esfriar para que a sardinha não desmanche ao retirar.",
+      "Pode ser feito a retirada da sardinha e depois o molho pode ser batido ou peneirado para ter um aspecto quase idêntico as sardinhas em lata."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RENAN FLAVIO DE BRITO ANJOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313214-sardinha-ao-molho-de-tomate.html"
+}

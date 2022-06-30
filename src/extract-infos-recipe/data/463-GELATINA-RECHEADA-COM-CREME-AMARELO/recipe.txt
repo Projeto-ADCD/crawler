@@ -1,0 +1,39 @@
+{
+  "nome_receita": "GELATINA RECHEADA COM CREME AMARELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de gelatina de framboesa (35 g cada)",
+      "2 caixas de gelatina de amora (35 g cada)",
+      "600 ml de água quente",
+      "400 ml de água gelada"
+    ],
+    "CREME AMARELO": [
+      "1 lada de leite condensado (405 g)",
+      "250 ml de Leite",
+      "2 gemas",
+      "1 colher de chá de baunilha (5 ml)",
+      "1 colher de chá de margarina (5 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva as gelatinas de framboesa em 300 ml de água quente.",
+      "Após esfriar, adicione 200 ml de água gelada.",
+      "Despeje no recipiente e ponha na geladeira e aguarde endurecer.",
+      "Peneire as gemas (não use as películas).",
+      "Misture as gemas no leite, dissolvendo-as, em seguida misture a baunilha. Dissolva o leite condensado nessa mistura.",
+      "Leve a mistura ao fogo baixo e mexa sem parar até ficar homogênea e com textura de mingau. Desligue o fogo e mexa até amornar.",
+      "Adicione a colher de margarina a essa mistura morna e continue mexendo até esfriar. O creme amarelo está pronto.",
+      "Sobre a gelatina de framboesa endurecida, adicione o creme amarelo, leve a geladeira até ficar gelado e mais consistente.",
+      "Após o creme amarelo estar totalmente gelado, em uma panela dissolva as gelatinas de amora em 300 ml de água quente. Após a gelatina esfriar, adicione 200 ml de água gelada. Despeje no recipiente, ponha na geladeira e aguarde endurecer.",
+      "Sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Serve 1 recipiente alto ou 9 potes de 200ml\nUse os ingredientes em temperatura ambiente"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "WIVIAN NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312773-gelatina-recheada-com-creme-amarelo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GELATO DE CHOCOLATE 50% AO LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de chocolate Mendoá 50% cacau ao leite ",
+      "250 ml de leite",
+      "50 g de leite em pó desnatado",
+      "50 g de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate em tempos de 30/40 segundos com potência média no micro-ondas",
+      "Derreta o chocolate e, a cada tempo, mexa, pois o calor do chocolate é de dentro para fora.",
+      "Bata o chocolate com o leite no liquidificador e, depois de bem batido, adicione o leite em pó desnatado e o açúcar cristal. Misture bem todos os ingredientes.",
+      "Coloque a mistura no refrigerador.",
+      "Após 4 horas seu gelato está pronto",
+      "Sirva em travessa de sobremesa ou em taças individuais!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314637-gelato-de-chocolate-50-porcento-ao-leite.html"
+}

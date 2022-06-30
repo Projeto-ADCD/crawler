@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de arroz cozido",
+      "2 xicaras (cha) purê de batatas",
+      "1/2 xicara de farinha de trigo",
+      "1 ovo",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "1 colher (sobremesa) de fermento",
+      "150 g de queijo mussarela ou prato ",
+      "cebolinha e salsa a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela bata o ovo com o garfo acrescente os demais ingredientes, menos o queijo mussarela picado em cubos",
+      "Misture bem até obter uma massa consistente.",
+      "Faça bolinhas e coloque o queijo no meio depois frite no óleo bem quente",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "FABIANE ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306760-bolinho-de-arroz-com-batata.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE GOMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo (americano) de leite morno",
+      "1 copo (americano) de óleo",
+      "3 copo (americano) de goma",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os líquidos no liquidificador",
+      "Em seguida coloque a goma de forma gradual.",
+      "Misture o fermento manualmente.",
+      "Unte uma forma com óleo.",
+      "Leve ao forno a 180° C até dourar "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRUNO LEONARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307174-bolo-de-goma.html"
+}

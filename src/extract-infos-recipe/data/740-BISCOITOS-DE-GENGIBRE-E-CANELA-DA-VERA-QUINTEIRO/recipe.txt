@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BISCOITOS DE GENGIBRE E CANELA DA VERA QUINTEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de açúcar cristal",
+      "1 xícara (chá) de açúcar mascavo",
+      "1 colher (sopa) de fermento em pó",
+      "3 ovos",
+      "100 g de margarina",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (sopa) de gengibre em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte um tabuleiro grande com margarina e forre-o com papel manteiga e reserve.",
+      "Coloque na tigela da batedeira todos os ingredientes menos a farinha de trigo.",
+      "Misture com as mãos até que a margarina esteja dissolvida e agregada na massa.",
+      "Junte a farinha de trigo aos poucos e continue amassando para ficar com a consistência nem mole e nem dura.",
+      "Coloque uma colher de chá da massa sobre o papel no tabuleiro.",
+      "Deixe uma distância entre eles para não grudarem ao assar.",
+      "Leve o tabuleiro ao forno médio e pré-aquecido por uns 20 minutos.",
+      "Retire os biscoitos do papel e os coloque sobre uma grade para esfriarem por igual.",
+      "Aproveite o tabuleiro forrado para preparar uma nova fornada.",
+      "Depois que os biscoitos ficarem prontos e frios podem ser guardados em potes com fechamento herméticos."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "VERA LUCIA DOS SANTOS QUINTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311816-biscoitos-de-gengibre-e-canela-da-vera-quinteiro.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ARROZ FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de arroz cozido",
+      "1 cebola média ",
+      "2 dentes de alho",
+      "80 g de presunto fatiado",
+      "1 cenoura pequena picada em brunoise bem pequeno",
+      "1/4 de xícara (chá) de salsinha e cebolinha picadas",
+      "1/2 xícara de ervilha congelada",
+      "3 colheres (sopa) de azeite",
+      "1 colher (sopa) de óleo de gergelim",
+      "2 ovos",
+      "1 colher (chá) de shoyu"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece colocando o azeite em uma panela",
+      "Junte a cebola e o sal e deixe fritar muito bem",
+      "Junte o alho, mexa novamente e deixe dourar",
+      "Adicione a cenoura, o presunto, a ervilha e o óleo de gergelim",
+      "Coloque os ovos e misture bem, deixe que eles cozinhem",
+      "Coloque o arroz e o shoyu e misture tudo muito bem",
+      "Depois de pronto, finalize no prato com cheiro-verde a gosto. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311172-arroz-frito.html"
+}

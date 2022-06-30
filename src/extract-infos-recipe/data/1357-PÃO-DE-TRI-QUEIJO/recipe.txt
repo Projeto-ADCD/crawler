@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PÃO DE TRI- QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce",
+      "500 g de polvilho azedo",
+      "250 ml de água",
+      "250 ml de leite",
+      "250 ml de óleo",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de gutamato monosódico ",
+      "4 ovos",
+      "250 g de queijo meia cura triturado",
+      "250 g de queijo minas frescal triturado",
+      "150 g de queijo parmesão triturado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque os ingredientes líquidos (água, óleo e leite) e espere levantar fervura.",
+      "Coloque o polvilho em uma tigela e adicione o sal e o glutamato monosódico, misture bem.",
+      "Venha com os líquidos bem quentes e escalde todo o polvilho, vá mexendo bem, para incorporar.",
+      "Com a mistura já fria, adicione os 4 ovos e vá mexendo.",
+      "Por fim, adicione todos os queijos triturados, e vá sovando a massa, para que tudo fique bem misturado.",
+      "A massa ficará lisa, um pouco grudenta, mas é normal.",
+      "Lave as mãos e faça bolinhas do tamanho que desejar (fiz na porção coquetel e rendeu 100 bolinhas).",
+      "Se desejar congelar: após fazer as bolinhas, coloque em uma forma e leve ao congelador, depois de congeladas, acomode em saquinhos plásticos.",
+      "Se desejar assar, basta colocar na forma e levar em forno alto por aproximadamente 20 minutos (ou até ficarem dourados).",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "GREICE AUGUSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308748-pao-de-tri-queijo.html"
+}

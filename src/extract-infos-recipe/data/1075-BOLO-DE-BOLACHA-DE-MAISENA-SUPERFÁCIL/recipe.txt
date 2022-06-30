@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE BOLACHA DE MAISENA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pacotes de bolacha de maisena",
+      "4 colheres de açúcar",
+      "1 xícara de farinha de trigo integral",
+      "3 ovos",
+      "3 colheres de margarina",
+      "2 xícaras de leite",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata os ovos, margarina e açúcar.",
+      "Acrescente o leite e as bolachas e bata até ficar uma massa homogênea.",
+      "Depois acrescente a farinha de trigo integral bata mais um pouco, adicione o fermento e misture.",
+      "Em uma forma untada despeje a massa e coloque para assar por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LORRANE COUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310092-bolo-de-bolacha-de-maisena-superfacil.html"
+}

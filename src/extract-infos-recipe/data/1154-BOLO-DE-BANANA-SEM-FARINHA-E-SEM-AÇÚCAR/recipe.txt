@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE BANANA SEM FARINHA E SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas bem maduras",
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "2 xícaras de flocos finos de aveia",
+      "2 colheres (de sopa) de fermento em pó",
+      "1 colher (de chá) de canela (opcional)",
+      "1/2 colher (de chá) de essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as bananas e coloque-as no liquidificador ou processador, coloque também os ovos, o óleo, e bata bem.",
+      "Coloque essa mistura em uma tigela e adicione os flocos de aveia, a canela e a essência de baunilha, e misture bem.",
+      "Por último adicione o fermento e misture sem bater muito.",
+      "Coloque toda a mistura em uma forma de silicone, ou em uma forma untada.",
+      "Leve ao forno por aproximadamente 35 minutos à 180° C."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HELLEN MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309574-bolo-de-banana-sem-farinha-e-sem-acucar.html"
+}

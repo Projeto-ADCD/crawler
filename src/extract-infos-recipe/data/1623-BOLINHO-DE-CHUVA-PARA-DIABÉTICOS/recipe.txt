@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA PARA DIABÉTICOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 e 1/2 xícara de farinha de aveia",
+      "1/2 xícara de açúcar mascavo",
+      "1/4 de xícara de leite desnatado ou semi desnatado",
+      "Óleo pra fritar",
+      "Para polvilhar",
+      "1 colher (sobremesa) de canela em pó",
+      "2 colheres (sopa) de açúcar de coco ou o açúcar de sua preferência (Exceto refinado)",
+      "Obs: com o açúcar de coco fica perfeito."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque todos os ingredientes de preparo, mexa até formar uma massa homogênea.",
+      "Coloque o óleo pra esquentar, não deixe muito quente se não os bolinhos só vão fritar por fora e dentro ficaram cru.",
+      "Após fritos deixe escorrer o oleo em um prato com toalha de papel.",
+      "E depois só polvilhar a açúcar e a canela.",
+      "Agora é só comer",
+      "Essa receita da pra 2 pessoas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DANIELLY TEODORO SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307351-bolinho-de-chuva-para-diabeticos.html"
+}

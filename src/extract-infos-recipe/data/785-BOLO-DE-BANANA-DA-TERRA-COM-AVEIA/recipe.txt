@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE BANANA DA TERRA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de óleo",
+      "1 xícara de açúcar",
+      "4 bananas da terra maduras",
+      "200 ml de leite",
+      "1/2 xícara de aveia em flocos",
+      "1 colher (chá) de canela em pó",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açúcar, 3 bananas, o óleo e o leite até ficar homogêneo.",
+      "Despeje a mistura em uma vasilha e acrescente a aveia, a canela e, por último, o fermento e misture levemente sem bater.",
+      "Se quiser, acrescente granola ou oleaginosas trituradas à massa.",
+      "Despeje a massa na assadeira untada e polvilhada com canela. Corte 1 banana da terra em rodelas e despeje dentro da massa.",
+      "Leve para assar por volta de 40 minutos em temperatura de 230 graus."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opcional: granola ou oleaginosas trituradas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "AMANDA BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311566-bolo-de-banana-da-terra-com-aveia.html"
+}

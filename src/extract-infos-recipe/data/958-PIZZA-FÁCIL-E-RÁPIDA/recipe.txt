@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PIZZA FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "água",
+      "1/2 colher (chá) de sal",
+      "2 colheres (sopa) de óleo",
+      "queijo",
+      "calabresa",
+      "milho",
+      "azeitona",
+      "orégano",
+      "molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque a farinha e o sal e misture bem. Depois, coloque a água aos poucos até formar uma massa.",
+      "Abra a massa em uma bacada untada com farinha. Coloque um pouco de molho de tomate, queijo, calabresa, milho, azeitona e orégano",
+      "Asse na frigideira e sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ADRIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310725-pizza-facil-e-rapida.html"
+}

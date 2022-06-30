@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PANQUECA AMERICANA COM COBERTURA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a panqueca",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de leite",
+      "1 colher (sopa) de fermento",
+      "1 colher de óleo",
+      "2 colheres de açúcar",
+      "1 ovo",
+      "Para a cobertura",
+      "3 colheres de chocolate em pó",
+      "1/2 de leite condensado",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a panqueca",
+      "Misture todos os ingredientes em uma vasília, misture bem",
+      "Depois coloque em uma frigideira sem nada, quando a panqueca formar bolinhas em cima (quer dizer que já pode virar)",
+      "Coloque uma em cima da outra",
+      "Para a cobertura",
+      "Coloque a manteiga, o chocolate em pó e o leite condensado",
+      "Misture em uma panela",
+      "Depois é só despeje na panqueca"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANA LUIZA QUEIROZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306266-panqueca-americana-com-cobertura-de-chocolate.html"
+}

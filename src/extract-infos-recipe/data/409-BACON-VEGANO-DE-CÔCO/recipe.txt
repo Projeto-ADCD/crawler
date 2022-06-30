@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BACON VEGANO DE CÔCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de páprica defumada",
+      "1 colher (sopa) de óleo vegetal",
+      "2 colheres (sopa) de melado de cana",
+      "3 colheres (sopa) de molho shoyu",
+      "2 xícaras de côco em flocos desidratado e não adoçado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o óleo, a páprica o shoyo e o melado",
+      "Adicione o coco seco e misture junto",
+      "Em uma assadeira untada, espalhe o côco ",
+      "Asse em forno preaquecido em 180° C",
+      "Misture o côco na assadeira a cada 5 min",
+      "Quando o côco estiver dourado, sequinho e crocante, retire do forno",
+      "Sirva como preferir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312880-bacon-vegano-de-coco.html"
+}

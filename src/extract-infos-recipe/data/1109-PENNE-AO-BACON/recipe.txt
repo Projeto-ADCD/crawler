@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PENNE AO BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão penne",
+      "500 g de bacon",
+      "1 calabresa",
+      "500 g de mussarela",
+      "3 caixas de creme de leite",
+      "1/2 cebola",
+      "alho",
+      "orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão e reserve",
+      "Corte o bacon e a calabresa em cubinhos",
+      "Frite o bacon e adicione a calabresa",
+      "Adicione a cebola e o alho",
+      "Deixe refogar e adicione 2 caixas de creme de leite",
+      "Baixe o fogo para não ferver o creme de leite",
+      "Adicione o macarrão e mexa bem",
+      "Adicione a última caixa de creme de leite",
+      "Adicione a mussarela aos poucos e mexendo o macarrão.",
+      "Em um refratário, coloque o macarrão",
+      "Espalhe o restante da mussarela por cima e leve ao forno por 10 minutinhos",
+      "Retire do forno, ponha orégano e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JEAN PEIXOTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309838-penne-ao-bacon.html"
+}

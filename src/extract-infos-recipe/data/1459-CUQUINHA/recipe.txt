@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CUQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 colheres (sopa) de farinha de trigo",
+      "7 colheres (sopa) de açúcar",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 copo de leite",
+      "2 ovos",
+      "açúcar",
+      "canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata em creme a manteiga com as gemas e o açúcar.",
+      "Sempre batendo, adicione o leite, o fermento e a farinha peneirados juntos e, por último, as claras em neve.",
+      "Estando a massa abrindo bolhas, espalhe em um tabuleiro untado com manteiga e enfarinhando.",
+      "Polvilhe a superfície com bastante açúcar e canela misturados.",
+      "Depois de assado, corte em quadradinhos e enrole em papel celofane.",
+      "Agora é só se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308208-cuquinha.html"
+}

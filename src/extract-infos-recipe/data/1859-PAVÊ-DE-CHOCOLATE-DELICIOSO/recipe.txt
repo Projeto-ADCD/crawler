@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PAVÊ DE CHOCOLATE DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "3 colheres de achocolatado",
+      "1 ou 2 pacotes de biscoito/bolacha",
+      "1/2 xícara de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o creme de leite e o achocolatado em um recipiente até virar um creme",
+      "Quebre o biscoito/bolacha até virar uma \"farofa\"",
+      "Em outro recipiente coloque o biscoito/bolacha",
+      "Em cima do biscoito/bolacha coloque um pouco de leite",
+      "Cubra com o creme",
+      "Faça isso quantas vezes quiser",
+      "DICA: deixe uns 30 minutos no congelador"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "NICOLLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306603-pave-de-chocolate-delicioso.html"
+}

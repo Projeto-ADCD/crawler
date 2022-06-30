@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE SADINHA DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 tomate",
+      "1 cebola picada",
+      "1 cabeça de alho",
+      "1 pimentão",
+      "cheiro-verde a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a Gosto",
+      "1 pacote de tempero pronto sabor peixe",
+      "2 batatas inglesas cozidas",
+      "2 colheres (chá) de azeite",
+      "3 latas de sardinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue todas as verduras com alho e o tempero pronto junto com azeite, depois reserve e deixe esfriar.",
+      "Bata bem os ovos com garfo e depois misture tudo as verduras e as batatas cortadas e cozidas a seu gosto",
+      "Junte e misture tudo com as sardinhas",
+      "Depois coloque azeite na frigideira e deixe esquentar",
+      "Só colocar tudo na frigideira e assar em fogo baixo, depois que um lado assar é só virar e esperar assar o outro",
+      "Cuidado para não queimar, depois que já estiver bem assado os dois lados é só servir, rende até 10 porções."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LARICIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311393-torta-de-sadinha-de-frigideira.html"
+}

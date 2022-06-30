@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média",
+      "1 caixinha de milho verde",
+      "1 caixinha de creme de leite",
+      "cheiro-verde a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, refogue a cebola",
+      "Adiciona o milho verde, o cheiro verde e um pouco de sal e pimenta do reino (ajustaremos no final)",
+      "Depois de tudo bem refogado acrescente o creme de leite e desligue",
+      "Bata tudo no liquidificador, ajuste a pimenta do reino e o sal",
+      "Passe pela peneira para ficar um creme lisinho.",
+      "Obs: pode ser servido com carnes e frango."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KAROLINA KISCHNER DALZOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308869-creme-de-milho.html"
+}

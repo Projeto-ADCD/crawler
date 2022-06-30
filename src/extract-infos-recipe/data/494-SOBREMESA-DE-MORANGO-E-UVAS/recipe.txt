@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOBREMESA DE MORANGO E UVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de margarina",
+      "2 caixas de creme de leite",
+      "100 g de chocolate meio amargo",
+      "1 caixa de morango",
+      "1 cacho de uva sem semente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as uvas e os morangos",
+      "Coloque em uma travessa",
+      "Faça um brigadeiro branco com 1 lata de leite condensado, 1 colher de margarina e uma caixa de creme de leite. Mexa até engrossar.",
+      "Coloque em cima das frutas.",
+      "Derreta o chocolate e acrescente o creme de leite.",
+      "Coloque em cima do creme.",
+      "Decore à gosto e leve para gelar por no mínimo duas horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EDILAINE MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312679-sobremesa-de-morango-e-uvas.html"
+}

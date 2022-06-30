@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÃO DE QUEIJO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite (200 g)",
+      "1 copo e 1/2 de polvilho doce",
+      "300 g de queijo mussarela ralado ",
+      "1/2 calabresa picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, adicione todos os ingredientes e misture até dar o ponto da massa (desgrudar da mão).",
+      "Se a massa não desgrudar, adicione um pouquinho mais de polvilho até dar o ponto",
+      "Com a massa já no ponto, enrole as bolinhas (a quantidade de porções vai depender do tamanho dos pãezinhos) e coloque em uma forma untada com manteiga",
+      "Asse em um forno preaquecido a 205° C por 35 a 40 minutos e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ANNA MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306524-pao-de-queijo-com-calabresa.html"
+}

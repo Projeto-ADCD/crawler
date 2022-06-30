@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CODORNA FRITA AO MOLHO DE VINHO TINTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 codornas cortadas em 4 metades",
+      "4 dentes de alho socados",
+      "salsa picada",
+      "1 copo de vinho tinto seco",
+      "¼ copo de azeite de oliva",
+      "1 colher (chá) de pimenta caiena",
+      "pimenta do reino a gosto",
+      "sal a gosto",
+      "1 caixa de creme de leite",
+      "¼ de copo de leite",
+      "farinha de trigo",
+      "óleo para fritar",
+      "papel absorvente, para escorrer a fritura."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte cada codorna em 2 metades.",
+      "Ponha as codornas em uma tigela e tempere-as com com alho socado, pimenta caiena, salsa picada e sal a gosto .",
+      "Adicione o vinho e reserve por 30 minutos.",
+      "É importante virar as codornas após 15 minutos, para que fiquem bem temperadas.",
+      "Após os 30 minutos, aqueça o óleo em uma frigideira funda.",
+      "Passe as codornas, em ambos os lados, na farinha de trigo, antes de colocar para fritar.",
+      "Quando o óleo estiver bem quente, acrescente as codornas, não esquecendo de virá-las, durante a fritura, até ficarem douradas.",
+      "Retire-as da frigideira e escorra bem, colocando-as sobre o papel absorvente.",
+      "Faça o molho para as codornas começando com o tempero utilizado no passo anterior. Ou seja: alho socado, pimenta caiena, salsa picada, sal e vinho.",
+      "Coloque tudo em uma panela pequena, acrescentando, a esse tempero, o creme de leite, duas colheres de sopa de farinha de trigo dissolvidas em ¼ de um copo de leite e ¼ copo de azeite de oliva.",
+      "Deixe esse creme aquecer, em fogo médio, até engrossar.",
+      "Desligue o fogo e transfira esse creme para um recipiente de vidro(tigela refratária).",
+      "Coloque as codornas, que estavam sobre o papel absorvente, em um recipiente de acordo com a sua preferência e use a imaginação para a montagem do prato.",
+      "Pode ser servido como prato principal ou aperitivo.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CHEF TEREZINHA C F CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313208-codorna-frita-ao-molho-de-vinho-tinto.html"
+}

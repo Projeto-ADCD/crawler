@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CAFÉ JUNINO (CHOCONHAQUE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "500 ml leite integral",
+      "1/2 xícara (chá) de achocolatado",
+      "1/2 xícara (chá) de chocolate 70% ou 100% cacau",
+      "2 pauzinhos de canela",
+      "5 cravos da índia",
+      "1/2 xícara de conhaque"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela misture todos os ingredientes, menos o conhaque.",
+      "Leve ao fogo mexendo por uns 3 minutos.",
+      "Após ferver, desligue o fogo e acrescente o conhaque.",
+      "Sirva quente.",
+      "Obs. No dia seguinte fica mais cremoso e mais gostoso."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CLEIDE SILVA CONCEIÇÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308882-cafe-junino-choconhaque.html"
+}

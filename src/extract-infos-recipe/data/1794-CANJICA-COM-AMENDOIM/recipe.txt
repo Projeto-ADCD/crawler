@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJICA COM AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de canjica branca",
+      "1 lata de leite condensado",
+      "100 g de coco ralado úmido e adoçado em flocos",
+      "1 litro de leite",
+      "8 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a canjica em água corrente",
+      "Deixe de molho por aproximadamente 4 horas com o açúcar.",
+      "Cozinhe na panela de pressão com 2 litros de água por, aproximadamente, 20 minutos ou até que esteja macia.",
+      "Despeje a água que cozinhou a canjica fora",
+      "Coloque em outra panela se necessário maior, acrescente o leite aos poucos e veja se será necessário colocar o litro todo, o leite condensado e o coco ralado e o amendoim moído. ",
+      "Deixe ferver por 10 minutos mexendo sempre para não grudar no fundo da panela",
+      "Desligue o fogo quando estiver bem cremosa."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306768-canjica-com-amendoim.html"
+}

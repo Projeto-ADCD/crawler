@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SORVETE DE LIMÃO LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "suco de 6 limões",
+      "2 colheres de sopa de manteiga",
+      "2 ovos",
+      "1 xícara de açúcar",
+      "2 xícara de creme de leite",
+      "raspas de 2 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em banho-maria coloque o suco, a manteiga, os ovos e o açúcar",
+      "Misture até ficar um creme expesso.",
+      "Espere esfriar.",
+      "Em uma tigela, bata o creme de leite com um garfo ou com uma espumadeira até virar um chantili",
+      "Junte o suco de limão e as raspas de limão",
+      "Coloque em um pote e deixe descansar sem mexer por 6 horas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MAJU ZAIDEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306248-sorvete-de-limao-low-carb.html"
+}

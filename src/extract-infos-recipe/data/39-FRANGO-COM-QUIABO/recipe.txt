@@ -1,0 +1,46 @@
+{
+  "nome_receita": "FRANGO COM QUIABO",
+  "ingredientes": {
+    "FRANGO COM QUIABO": [
+      "2 kg de coxa e sobrecoxa",
+      "2 cebolas",
+      "1 colher (sopa) de alho picado",
+      "500 g de quiabo",
+      "azeite",
+      "2 colheres (chá) de açúcar",
+      "pasta caseira de sal com alho a gosto ",
+      "salsinha a gosto"
+    ],
+    "PASTA CASEIRA DE SAL COM ALHO": [
+      "500 g de alho aproximadamente",
+      "1 cebola média",
+      "150 ml de azeite ou óleo",
+      "1 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "PASTA CASEIRA DE SAL COM ALHO": [
+      "Descasque os alhos e a cebola",
+      "Coloque no liquidificador ou processador e junte os outros ingredientes.",
+      "Bata até ficar cremoso, mas ainda ficar alguns pedacinhos.",
+      "Coloque em um recipiente de vidro esterilizado e guarde na geladeira."
+    ],
+    "FRANGO COM QUIABO": [
+      "Tempere a coxa e a sobrecoxa com a pasta caseira de sal com alho.",
+      "Em uma frigideira, coloque azeite e um pouco de açúcar. Quando o açúcar começar a corar, coloque a metade da quantidade de frango, assim você dá mais sabor para a carne.",
+      "Quando o frango estiver corado, coloque a outra metade do frango. Nesse momento é importante que o fogo esteja forte, assim você consegue dar cor.",
+      "Depois de colocar todo o frango na panela, mexa bem.",
+      "Junte o frango no canto da frigideira, no outro lado coloque a cebola e o alho. A água da cebola soltará parte do fundo da frigideira.",
+      "Quando a cebola estiver caramelizada, coloque água para liberar os sabores do fundo da panela.",
+      "Deixe a tampa aberta para evaporar, assim o frango cozinha e, quando a água seca, recomeça o processo de caramelização, adicionando uma nova camada de sabor.",
+      "A técnica é o pinga e frita. A água deglaça o fundo, fazendo com que o molho fique muito corado e com muito sabor. A própria caramelização é responsável pela cor.",
+      "Corte o quiabo no meio em seu comprimento, depois corte novamente na metade.",
+      "Disponha os quiabos na frigideira de modo que todos estejam em contato com a fundo. Ligue o fogo. Quando estiver quente ,despeje um fio de azeite e cubra com um peso para pressionar o quiabo contra a frigideira. Tempere com sal.",
+      "Quando o frango estiver cozido, adicione o quiabo e a salsinha picada. Sirva com uma Kuat bem geladinha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KUAT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314788-frango-com-quiabo.html"
+}

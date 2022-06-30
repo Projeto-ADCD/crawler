@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ACHOCOLATADO CHIAMATO LATTE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de leite",
+      "1 colher (sopa) de leite em pó",
+      "1 colher cheia de leite condensado",
+      "2 colheres cheias de achocolatado em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite e leite em pó",
+      "Aqueça (sem ferver) no fogão e reserve",
+      "Bata no liquidificador a mistura reservada até ficar cheia de bolhas e em seguida acrescente o leite condensado",
+      "Bata por 30 segundos e reserve",
+      "Coloque um pouco da mistura anterior num copo, adicione o achocolatado em pó e misture com uma colher",
+      "Adicione pelo canto do copo o resto do leite e está pronto",
+      "Aproveite sua deliciosa bebida."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JULIA SOUZA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309512-achocolatado-chiamato-latte-cremoso.html"
+}

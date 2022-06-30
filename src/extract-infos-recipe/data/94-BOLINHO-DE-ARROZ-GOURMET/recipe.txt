@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ GOURMET",
+  "ingredientes": {
+    "DEFAULT": [
+      "massa do bolinho gourmet:",
+      "1 xícara (chá) de arroz branco cozido",
+      "1 ovo jumbo",
+      "50 g de parmesão ralado",
+      "1 colher (sopa) de cebolinha picada",
+      "1 folha de alga nori picadinha",
+      "1 pitada de páprika doce picante",
+      "1 pitada de sal",
+      "molho de maionese e missô:",
+      "2 colheres (sopa) de maionese",
+      "1 colher (chá) de pasta de missô",
+      "1 colher (chá) de shoyu"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "bolinho gourmet:",
+      "Misture todos os ingredientes",
+      "A consistência precisa ser úmida",
+      "Em uma panela (usei uma paellera), unte com azeite e deixe esquentar",
+      "Pegue porções de uma colher de sobremesa por vez, apoie na panela e achate com o dorso da colher (veja fotos)",
+      "Deixe dourar dos dois lados.",
+      "molho para acompanhar:",
+      "Misture tudo (veja foto)",
+      "Aperte a pasta de missô contra o dorso da colher para ajudar a misturar",
+      "decoração:",
+      "resolvi apresentar com uma decoração de alga nori, cortei um quadradinho e apoiei sobre o molho, já passado no bolinho (veja foto)",
+      "se for servir assim também, coloque a alga na hora! Senão ela murcha (veja a foto!)"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LIURA SANCHEZ LAURI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314494-bolinho-de-arroz-gourmet.html"
+}

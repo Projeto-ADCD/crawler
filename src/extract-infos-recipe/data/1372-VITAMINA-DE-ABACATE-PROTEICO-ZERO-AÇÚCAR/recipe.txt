@@ -1,0 +1,20 @@
+{
+  "nome_receita": "VITAMINA DE ABACATE PROTEICO ZERO AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 abacate",
+      "250 ml de leite protéico ",
+      "2 colheres (sopa) de xilitol",
+      "3 pedras de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater todos os ingredientes no liquidificador."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JÉSSICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308677-vitamina-de-abacate-proteico-zero-acucar.html"
+}

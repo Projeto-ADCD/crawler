@@ -1,0 +1,34 @@
+{
+  "nome_receita": "COXINHA DE FRANGO COM CATUPIRY",
+  "ingredientes": {
+    "MASSA": [
+      "1 l de leite",
+      "1/3 de xícara (chá) de óleo",
+      "1 e ½ colher (sopa) de sal",
+      "500 g de farinha de trigo",
+      "farinha de rosca para empanar",
+      " "
+    ],
+    "RECHEIO": [
+      "500 g de frango desfiado",
+      "250 g de catupiry"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, o óleo e o sal numa panela e espere ferver.",
+      "Quando estiver borbulhando, despeje toda a farinha de uma vez.",
+      "Mexa sem parar até que a massa fique lisa.",
+      "Retire a massa da panela e coloque numa superficíe lisa.",
+      "Cubra com um pano e espere esfriar para manuseá-la.",
+      "Sove a massa para que ela fique bem lisa e homogênea.",
+      "Com a mão abra a massa, coloque uma camada de catupiry e depois coloque o frango desfiado.",
+      "Modele em formato de coxinha.",
+      "Passe na farinha de rosca e frite em óleo quente."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JULIA KAIZER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309476-coxinha-de-frango-com-catupiry.html"
+}

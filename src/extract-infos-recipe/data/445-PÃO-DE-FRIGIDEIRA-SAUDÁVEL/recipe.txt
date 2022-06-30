@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE FRIGIDEIRA SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de aveia",
+      "1 colher (sopa) de azeite",
+      "1 colher (café) de fermento biológico",
+      "1 ovo",
+      "sal a gosto",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e por último acrescente o fermento.",
+      "Pegue uma frigideira untada com azeite e, quando estiver quente, adicione a massa e tampe.",
+      "Quando estiver dourado, vire do outro lado.",
+      "Recheie da forma que preferir e leve à uma sanduicheira.",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NA COZINHA COM A BÁRBARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312815-pao-de-frigideira-saudavel.html"
+}

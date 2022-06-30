@@ -1,0 +1,25 @@
+{
+  "nome_receita": "OMELETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "pitadas de sal, pimenta do reino, orégano",
+      "calabresa picada em cubos",
+      "margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes e frite na margarina",
+      "Depois dobre a omelete em dois",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(Opcional passar um molho de pimenta em formato de s)"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CHACHORRO COSINHEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312613-omelete.html"
+}

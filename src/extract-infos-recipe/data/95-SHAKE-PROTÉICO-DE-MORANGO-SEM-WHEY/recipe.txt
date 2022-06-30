@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SHAKE PROTÉICO DE MORANGO SEM WHEY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana congelada em cubos",
+      "4 morangos congelados",
+      "1 colher (sopa) de aveia em flocos",
+      "1 colher (sopa) de leite em pó",
+      "1 colher (sopa) de pasta de amendoim integral",
+      "300 ml de água gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador, bata por 2 minutos e tome logo em seguida.",
+      "Dica: Substitua o morango por 1 ou 2 colheres de achocolatado em pó caso queira Shake sabor chocolate.",
+      "Esta bebida é saudável, portanto, não é indicado o acréscimo de açúcar, pois a banana e a pasta de amendoim já trazem um sabor adocicado ao Shake."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALESSANDRA SEITZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314492-shake-proteico-de-morango-sem-whey.html"
+}

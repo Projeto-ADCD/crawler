@@ -1,0 +1,49 @@
+{
+  "nome_receita": "TORTA HOLANDESA",
+  "ingredientes": {
+    "CREME BRANCO": [
+      "200 g de margarina Delícia Supreme gelada",
+      "1/2 xícara (chá) de açúcar",
+      "500 ml de creme de leite sem soro bem gelado",
+      "1 lata de leite condensado",
+      "1 envelope de gelatina em pó incolor"
+    ],
+    "BASE": [
+      "200 g de biscoito de maisena ",
+      "100 g de margarina Delícia Supreme",
+      "1 pacote de biscoito redondo com cobertura de chocolate"
+    ],
+    "COBERTURA": [
+      "200 g de chocolate meio amargo picado",
+      "200 g de creme de leite sem soro",
+      "cacau em pó para polvilhar"
+    ]
+  },
+  "passos": {
+    "BASE": [
+      "Triture os biscoitos no liquidificador ou no processador.",
+      "Misture a margarina Delícia Supreme até formar uma farofa",
+      "Forre o fundo de uma forma de aro removível de 23 cm de diâmetro",
+      "Arrume os biscoitos redondos com chocolate, com a parte do chocolate virada para o aro em toda a volta da forma. Assim, quando a torta for desenformada a parte visível do biscoito será a de chocolate.",
+      "Leve à geladeira por 1 hora."
+    ],
+    "CREME": [
+      "Na batedeira, bata a margarina Delícia Supreme gelada, o açúcar, o creme de leite e o leite condensado, até obter um creme esbranquiçado.",
+      "Misture, delicadamente e aos poucos a gelatina dissolvida de acordo com as instruções da embalagem.",
+      "Coloque o creme sobre a massa e leve novamente à geladeira por 3 horas no mínimo."
+    ],
+    "COBERTURA": [
+      "Derreta o chocolate no micro-ondas.",
+      "Junte o creme de leite e misture bem até ficar liso.",
+      "Espere esfriar e coloque sobre o creme branco.",
+      "Leve à geladeira por 3 horas antes de servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Na hora de servir, polvilhe o cacau."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312583-torta-holandesa.html"
+}

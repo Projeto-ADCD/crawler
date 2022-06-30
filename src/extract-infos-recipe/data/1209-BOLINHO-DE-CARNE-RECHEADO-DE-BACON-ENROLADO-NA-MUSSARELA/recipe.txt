@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLINHO DE CARNE RECHEADO DE BACON ENROLADO NA MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "3 ovos",
+      "1 xícara de leite",
+      "1 colher de fermento",
+      "1 colher de manteiga",
+      "1 xícara de farinha de trigo",
+      "100 g de bacon ",
+      "200 g de carne moída",
+      "RECHEIO",
+      "200 g de mussarela ",
+      "1 cubo de caldo de bacon",
+      "500 ml de óleo",
+      "sal a gosto",
+      "3 dentes de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refoge a carne moída com alho e o cubo de caldo de bacon (pode ser usado salsa, coentro e cebola).",
+      "Misture em um recipiente ovos, leite, fermento, manteiga, farinha de trigo e sal a gosto. Acrescente a carne moída na massa, misture bem.",
+      "Coloque a farinha na mesa e coloque a massa em cima amaçando-a e enrolando até que solte das mãos (acrescente mais farinha se necessário).",
+      "Pegue uma pequena porção da massa abrindo-a e recheando com mussarela em cubos e bacon em cubos, feche-a e passe na farinha.",
+      "Em uma panela aqueça o óleo e frite até que fique dourado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARISSOL CAMPOS PONCIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309370-bolinho-de-carne-recheado-de-bacon-enrolado-na-mussarela.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MAC N' CHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 ml de leite ",
+      "1 folha de louro ",
+      "1 ramo de tomilho ",
+      "1 colher (chá) de açafrão ",
+      "300 g de macarrão tipo penne",
+      "100 g de queijo mina padrão ",
+      "100 g de queijo prato ",
+      "150 g de queijo parmesão ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite em uma panela no fogo",
+      "Junte o louro e o ramo de alecrim ",
+      "Coloque o açafrão, mexa e deixe cozinhar um pouco",
+      "Retire o louro e o alecrim da panela com cuidado",
+      "Junte o macarrão e espere 5 minutos",
+      "Coloque os queijos, menos o parmesão e mexa bem até derreter ",
+      "Coloque em uma forma e salpique o queijo parmesão por cima",
+      "Leve ao forno até gratinar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313609-mac-n-cheese.html"
+}

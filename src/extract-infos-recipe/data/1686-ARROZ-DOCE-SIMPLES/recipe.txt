@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ARROZ DOCE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz",
+      "1,5 litros de água",
+      "5 colheres de açúcar",
+      "1 litro de leite integral",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o arroz, a água e o açúcar.",
+      "Quando o arroz estiver quase secando, coloque o leite para ferver (cuidado para o leite não subir)",
+      "Coloque o leite no arroz",
+      "Depois coloque o leite condensado e o creme de leite.",
+      "Misture",
+      "Está pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BIAH GRAVÉ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307168-arroz-doce-simples.html"
+}

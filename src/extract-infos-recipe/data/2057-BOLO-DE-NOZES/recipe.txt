@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "100 g de manteiga",
+      "1 e 1/2 xícara (chá) de açúcar mascavo",
+      "1 colher (chá) de canela em pó",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "1 xícara (chá) de nozes picadas",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira bata os ovos, a manteiga e o açúcar mascavo até obter um creme fofo.",
+      "Desligue a batedeira e junte a canela em pó, a farinha de trigo, o leite, as nozes e o fermento em pó e misture bem.",
+      "Coloque o bolo em uma forma, untada com manteiga e polvilhada com farinha de trigo",
+      "Leve ao forno médio-alto (200° C), preaquecido, por cerca de 35 minutos",
+      "DICA: se desejar, polvilhe açúcar de confeiteiro para decorar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RENATA BORBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306108-bolo-de-nozes.html"
+}

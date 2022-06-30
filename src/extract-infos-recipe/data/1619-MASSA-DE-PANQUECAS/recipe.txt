@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MASSA DE PANQUECAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "1 colher (café) de sal",
+      "2 ovos ",
+      "1 colher de sobremesa (rasa) de queijo parmesão",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos ",
+      "Misture tudo até a massa ficar homogênea.",
+      "Em seguida, despeje aproximadamente 2 colheres de massa na frigideira bem quente.",
+      "Quando a massa estiver totalmente cozida, recheie e saboreie."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307365-massa-de-panquecas.html"
+}

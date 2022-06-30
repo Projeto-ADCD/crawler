@@ -1,0 +1,22 @@
+{
+  "nome_receita": "RED BULL TWIST MELANCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 rodelas de limão",
+      "2 ramos de hortelã",
+      "100 ml de água com gás",
+      "1 lata de red bull summer edition melancia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um copo alto, coloque bastante gelo junto com quatro rodelas de limão e algumas folhas de hortelã.",
+      "Acrescente 100 ml de água com gás e complete com Red Bull Melancia.",
+      "Misture tudo com cuidado e finalize com uma rodela de limão e um raminho de hortelã no canto do copo."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANDRÉA PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310142-red-bull-twist-melancia.html"
+}

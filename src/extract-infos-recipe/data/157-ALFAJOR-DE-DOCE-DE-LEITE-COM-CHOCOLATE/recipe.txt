@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ALFAJOR DE DOCE DE LEITE COM CHOCOLATE",
+  "ingredientes": {
+    "MASSA ": [
+      "1 ovo inteiro ",
+      "3 gemas ",
+      "5 xícaras de farinha de trigo ",
+      "1 xícara de açúcar ",
+      "1 xícara de Claybom Sabor Manteiga em temperatura ambiente ",
+      "3 colheres (sopa) de mel ou melado de cana ",
+      "1 colher (chá) de essência de baunilha ",
+      "1 colher (chá) de bicarbonato de sódio ",
+      "uma pitada de sal "
+    ],
+    "RECHEIO ": [
+      "1 lata de leite condensado cozido na pressão por 20 minutos "
+    ],
+    "COBERTURA ": [
+      "500 g de chocolate ao leite derretido "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata a Claybom Sabor Manteiga, o açúcar, os ovos e as gemas até dissolver completamente o açúcar. ",
+      "Acrescente os demais ingredientes sovando a massa até que ela fique bem lisa e macia. Deixe descansar por 30 minutos. ",
+      "Abra a massa com um rolo até que ela fique com a espessura de 0,5 cm. Com o auxílio de um cortador circular de aproximadamente 5 cm ou copo, corte os biscoitos, disponha-os em uma assadeira untada e enfarinhada e leve ao forno preaquecido a 180° C por cerca de 10 minutos. Não deixe que dourem muito. ",
+      "Retire do forno e deixe esfriar completamente. Passe uma camada generosa de doce de leite e feche com outro biscoito, formando um sanduíche. Retire o excesso e reserve. ",
+      "Mergulhe cada um dos sanduíches de biscoito no chocolate derretido. Deixe escorrer o excesso e deixe descansando até o chocolate endurecer.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CLAYBOM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314126-alfajor-de-doce-de-leite-com-chocolate.html"
+}

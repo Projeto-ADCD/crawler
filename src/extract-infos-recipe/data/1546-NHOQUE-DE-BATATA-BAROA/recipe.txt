@@ -1,0 +1,28 @@
+{
+  "nome_receita": "NHOQUE DE BATATA BAROA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata baroa",
+      "300 g de farinha de trigo",
+      "1 ovo",
+      "2 colheres (sopa) de margarina",
+      "50 g de parmesão ralado",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes até ficar homogêneo.",
+      "Pegue pedaços da massa e faça cobrinhas em uma mesa enfarinhada.",
+      "Corte em pedaços de mais ou menos 3 cm.",
+      "Em uma panela com água fervendo coloque os nhoques cortados em pequenas porções.",
+      "Espere os nhoques boiarem, retire com uma escumadeira e coloque em uma travessa refratária, untada com um pouco de azeite.",
+      "Coloque o molho de sua preferencia e leve ao forno para aquecer.",
+      "Obs.: pode cobrir com mussarela ou queijo parmesão ralado para levar ao forno e gratinar."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MAURO RAPOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307724-nhoque-de-batata-baroa.html"
+}

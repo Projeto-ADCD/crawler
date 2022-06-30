@@ -1,0 +1,30 @@
+{
+  "nome_receita": "NUGGETS VEGANOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas picadas cozidas",
+      "1 lata de milho com água",
+      "8 colheres de farinha de trigo",
+      "1 cenoura ralada",
+      "sal a gosto",
+      "1/2 cebola picada",
+      "1 alho amassado",
+      "4 colheres de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a batata e o milho no liquidificador;",
+      "Em uma panela refogue rapidamente a cebola e o alho com azeite;",
+      "Adicione a mistura do liquidificador, a cenoura e o trigo, mexa em fogo medio até ficar mais firme;",
+      "Deixe esfriar;",
+      "Faça o formato fazendo bolinhas com a massa e achatando;",
+      "Para empanar passe na farinha de rosca, água e farinha de rosca novamente;",
+      "Frite ou asse em fogo médio."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SAYURI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313047-nuggets-veganos.html"
+}

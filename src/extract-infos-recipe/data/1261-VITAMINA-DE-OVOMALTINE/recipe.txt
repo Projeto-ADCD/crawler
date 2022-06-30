@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE OVOMALTINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "50 ml de leite condensado",
+      "4 a 5 colheres de ovomaltine"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes no liquidificador",
+      "Bata todos por alguns minutos",
+      "Coloque em um copo",
+      "Coloque um pouco de ovomaltine",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDUARDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309211-vitamina-de-ovomaltine.html"
+}

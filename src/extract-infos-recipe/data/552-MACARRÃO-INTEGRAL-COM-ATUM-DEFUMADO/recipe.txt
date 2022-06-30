@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MACARRÃO INTEGRAL COM ATUM DEFUMADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão integral (penne, Fusilli ou Tortellini tricolore)",
+      "1 lata de atum defumado",
+      "2 lata de atum em pedaços ou ralado (natural)",
+      "200 g creme de ricota (ou 1 copo de requeijão light)",
+      "1 cebola",
+      "2 dentes de alho",
+      "sal a gosto",
+      "orégano agosto",
+      "cheiro-verde a gosto",
+      "pimenta calabresa a gosto",
+      "queijo ralado a gosto para servir",
+      "1 copo da água do cozimento do macarrão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa por 9 minutos, escorra e reserve um copo da água do cozimento.",
+      "Pique a cebola em quadradinhos, refogue com o alho amassado até ficar dourado.",
+      "Em seguida coloque os atuns( sem os líquidos da conserva).",
+      "Adicione o restante dos temperos e misture ainda refogando.",
+      "Abaixe o fogo e coloque o creme de ricota",
+      "(ou requeijão light) mexa até ficar homogêneo,",
+      "adicione o copo da água do macarrão, para tornar o molho mais líquido.",
+      "Apure o sal e pimenta e pronto,",
+      "sirva encima do macarrão, finalizando com o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JAN TONASSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312521-macarrao-integral-com-atum-defumado.html"
+}

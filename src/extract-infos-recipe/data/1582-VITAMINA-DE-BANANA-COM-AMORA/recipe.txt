@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE BANANA COM AMORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas da água (outras opções de fruta: pera e maçã cozidas ou mamão)",
+      "1 e 1/2 xícara (chá) de amora (aproximadamente 20 unidades)",
+      "1 colher (sopa) de linhaça",
+      "3 colheres (sopa) de aveia em flocos finos",
+      "1 colher (sopa) de melado de cana (opcional)",
+      "1 e 1/2 xícara (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador ",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MANUELA VIEIRA NETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307515-vitamina-de-banana-com-amora.html"
+}

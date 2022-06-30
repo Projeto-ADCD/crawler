@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DALGONA COFFEE, O CAFÉ DO TIKTOK",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de água bem quente",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de café solúvel",
+      "gelo ",
+      "leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o café solúvel, o açúcar e a água em um recipiente",
+      "Bata até ficar bastante cremoso com o auxílio de um fouet ou garfo (textura pastosa, tipo um suspiro)",
+      "Em um copo (350 ml), adicione gelo e leite, deixando uma sobra de aproximadamente dois dedos",
+      "Acrescente a mistura cremosa ao topo",
+      "Antes de beber, misture levemente com uma colher ou canudo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Confira também essas duas receitas do TikTok que fizeram sucesso na rede social: macarrão frito e salada de repolho (Green Goddess)"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CYNTHIA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306516-dalgona-coffee-o-cafe-do-tiktok.html"
+}

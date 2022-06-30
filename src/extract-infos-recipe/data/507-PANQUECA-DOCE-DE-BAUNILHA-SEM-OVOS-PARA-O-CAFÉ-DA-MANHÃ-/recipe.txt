@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA DOCE DE BAUNILHA SEM OVOS PARA O CAFÉ DA MANHÃ.",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite",
+      "1 xicara (chá) de farinha de trigo",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (chá) de fermento",
+      "2 colheres (sopa) de óleo",
+      "essência de baunilha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes a mão",
+      "Coloque um pouco de óleo numa frigideira e comece a frite-as de ambos os lados.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Depois de prontas é só servir com a decoração que desejar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "MILENA PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312653-panqueca-doce-de-baunilha-sem-ovos-para-o-cafe-da-manha.html"
+}

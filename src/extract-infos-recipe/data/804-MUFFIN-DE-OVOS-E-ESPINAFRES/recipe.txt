@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MUFFIN DE OVOS E ESPINAFRES",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "250 g de espinafres baby",
+      "sementes de sésamo e papoila ou linhaça",
+      "queijo da ilha ou mozzarela ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte com manteiga 6 formas de muffin.",
+      "Ligue o forno a 180°c.",
+      "Disponha um ovo por cada forminha.",
+      "Por cima dos ovos coloque espinafres e as sementes.",
+      "Polvilhe com queijo ralado e leve ao forno 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DETE S. BAPTISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311500-muffin-de-ovos-e-espinafres.html"
+}

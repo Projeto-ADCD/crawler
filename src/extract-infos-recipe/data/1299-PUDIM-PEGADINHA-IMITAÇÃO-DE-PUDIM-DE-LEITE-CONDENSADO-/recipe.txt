@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM PEGADINHA (IMITAÇÃO DE PUDIM DE LEITE CONDENSADO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de leite",
+      "10 bolachas de maisena ou maria",
+      "1 colher (sopa) rasa de amido de milho",
+      "PARA O CARAMELO:",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate todos ingredientes no liquidificador.",
+      "Despeje na forma de pudim com buraco no meio caramelizada o pudim e cozinhe em banho-maria por 40 minutos no fogo médio.",
+      "Depois disso deixe resfriar e leve à geladeira por no minimo 3 horas.",
+      "Apos esse tempo desenforme o pudim num pirex e sirva.",
+      "Dica1: se os biscoitos forem grande, não utilizem a colher de amido de milho.",
+      "Dica2: Se estiver mole de escorrer o pudim depois de 40 minutos, deixe mais 10 minutos cozinhando em banho-maria."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308998-pudim-pegadinha-imitacao-de-pudim-de-leite-condensado.html"
+}

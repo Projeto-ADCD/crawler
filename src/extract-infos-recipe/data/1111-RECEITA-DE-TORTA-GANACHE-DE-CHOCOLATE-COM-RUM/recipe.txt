@@ -1,0 +1,37 @@
+{
+  "nome_receita": "RECEITA DE TORTA GANACHE DE CHOCOLATE COM RUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de biscoito maisena",
+      "200 g de manteiga",
+      "300 g de creme de leite (400 g se quiser a torta mais cremosa)",
+      "30 ml de rum ou qualquer licor",
+      "360 g de chocolate (duas barras ao leite e duas meio amargo)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture os dois pacotes de biscoito maisena de qualquer maneira (eu fiz no processador, mas é melhor triturar com um pilão)",
+      "Derreta a manteiga e encorpore com o biscoito triturado.",
+      "Forre o fundo de uma forma de fundo removível com o biscoito.",
+      "Reserve.",
+      "Ganache",
+      "Pique o chocolate em pedaços pequenos.",
+      "Coloque o creme de leite numa panela fria, acenda o fogo no mínimo, então coloque o chocolate.",
+      "Mexa bem, para o chocolate derreter direito.",
+      "Assim que o chocolate derreter coloque o rum, ou qualquer licor a sua escolha.",
+      "A ganache não pode estar muito quente, se ela te queima instantaneamente, está quente demais.",
+      "Coloque a ganache na base de biscoito.",
+      "Deixe a torta descansar no freezer ou na geladeira até endurecer.",
+      "Pronto!",
+      "Já pode comer."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Não precisa seguir a receita rigorosamente, pode colocar menos manteiga, ou mais manteiga, menos creme ou mais creme, o importante é a essência da receita: Torta de Ganache de chocolate com alguma bebida álcoolizada."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "YAMASHITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309828-receita-de-torta-ganache-de-chocolate-com-rum.html"
+}

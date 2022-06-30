@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE MILHO COM RECHEIO DE BRIGADEIRO DE MILHO",
+  "ingredientes": {
+    "BOLO DE MILHO": [
+      "180 g de farinha de trigo",
+      "225 g de açúcar",
+      "120 g de manteiga",
+      "2 ovos",
+      "1 colher (chá) de fermento químico em pó",
+      "1 lata de polpa de milho",
+      "100 g de leite"
+    ],
+    "BRIGADEIRO DE MILHO": [
+      "1 lata de leite condesado",
+      "100 g de creme de leite",
+      "50 g de leite de coco",
+      "1 lata de milho",
+      "70 g de chocolate branco"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "No liquidificador coloque a polpa do milho (sem a água), o açúcar, a manteiga, os ovos e o leite. Bata ate que o milho tenha sido triturado.",
+      "Com o auxílio de uma peneira, acrescente a farinha de trigo e o fermento químico em pó. Bata até que vire uma massa homogênea.",
+      "Coloque no forno em temperatura média de 30 a 40 minutos."
+    ],
+    "BRIGADEIRO DE MILHO": [
+      "No liquidificador acrescente a polpa do milho (sem a água), o leite de coco, o leite condesado e o creme de leite. Bata até a polpa do milho ser triturada.",
+      "Em uma panela, peneire a mistura ate que as cascas do milho sumam.",
+      "Em fogo baixo mexa sem parar, quando sentir o brigadeiro começar a engrossar acrescente o chocolate.",
+      "Quando estiver em ponto de brigadeiro pode desligar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EMANUELE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313362-bolo-de-milho-com-recheio-de-brigadeiro-de-milho.html"
+}

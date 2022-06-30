@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MANDIOCA, AIPIM, MACAXEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "2 colhres (sopa) de margarina",
+      "200 ml de leite de coco ou leite ",
+      "500 g de mandioca crua e ralada",
+      "côco ralado (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela os ovos, o açúcar e a margarina.",
+      "Mexa muito bem até ficar homogêneo.",
+      "Acrescente o leite de côco ou leite líquido e quase toda mandioca ralada.",
+      "Reserve cerca de 50 g  da mandioca ralada para colocar por cima no fim.",
+      "Se quiser adicione coco ralado.",
+      "Misture bem.",
+      "Despeje em uma forma untada só com margarina.",
+      "Decore com o restante da mandioca ralada.",
+      "Leve ao forno, preaquecido, a 180 ºC por aproximadamente 60 minutos ou até que fique bem douradinho nas bordas.",
+      "Com o bolo levemente morno, desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALINE ROQUE DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312625-bolo-de-mandioca-aipim-macaxeira.html"
+}

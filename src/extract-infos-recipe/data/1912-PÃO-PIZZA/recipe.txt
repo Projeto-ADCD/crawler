@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "100 ml de óleo",
+      "1 copo de leite",
+      "1 copo de água",
+      "1 ovo",
+      "1 colher (sopa) de sal",
+      "2 colheres (sopa) de açúcar",
+      "2 pacotinhos de fermento de 15 g cada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes e jogue em cima da farinha, misture bem e depois sove",
+      "Para sovar a massa pode-se jogar para cima e deixar cair na mesa",
+      "Depois da massa crescida, divida em 4 pedaços iguais",
+      "Estenda cada um destes pedaços, com o rolo e corte em 9 partes",
+      "Coloque uma fatia de presunto, outra de queijo mussarela e enrole o pãozinho",
+      "Depois pode ser pincelado com gema de ovo ou mesmo café adoçado e coloque orégano em cima",
+      "Deixe crescer novamente e leve para assar à 200° C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "HALINE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306458-pao-pizza.html"
+}

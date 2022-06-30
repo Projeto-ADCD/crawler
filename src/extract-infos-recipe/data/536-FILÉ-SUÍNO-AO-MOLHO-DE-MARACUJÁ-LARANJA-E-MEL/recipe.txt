@@ -1,0 +1,46 @@
+{
+  "nome_receita": "FILÉ SUÍNO AO MOLHO DE MARACUJÁ, LARANJA E MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "450 g de batatas-doces, médias ",
+      "60 g de Delícia Cremosa ",
+      "1,4 kg de filé mignon de porco, limpo e aparado ",
+      "sal e pimenta-do-reino a gosto",
+      "360 ml suco de laranja ",
+      "20 ml de vinho branco seco",
+      "20 g de mel "
+    ],
+    "MOLHO": [
+      "50 g maracujá azedo grande ",
+      "40 g mel",
+      "7 g de amido de milho "
+    ]
+  },
+  "passos": {
+    "BATATA-DOCE": [
+      "Descasque e corte a batata-doce em pedaços grandes.",
+      "Em uma panela com água fervente e sal, leve as batatas para cozinhar, em fogo médio, até que estejam levemente macias e cozidas.",
+      "Escorra a água, deixe secar bem e, próximo à hora de servir, leve para saltear, em frigideira funda e larga, revestida com teflon e Margarina Delícia Cremosa até que dourem.",
+      "Adicione sal e reserve quente."
+    ],
+    "FILÉ SUÍNO ": [
+      "Tempere a peça de filé suíno com sal e pimenta-do-reino.",
+      "Aqueça bem uma frigideira grande e larga, revestida com teflon, coloque a Margarina Delícia Cremosa e deixe derreter.",
+      "Quando estiver bem quente, coloque o filé e doure-o de todos os lados.",
+      "Depois de bem dourado, retire da panela, coloque-o em uma assadeira pequena, regue com a mistura de vinho branco e suco de laranja",
+      "Tampe com papel-alumínio e leve para assar, em forno preaquecido, à temperatura de 170° C por 40 minutos.",
+      "Retire o papel-alumínio, e asse, regando de vez em quando, por mais 20 minutos.",
+      "Retire do forno, passe 1 colher (sopa) de mel pela superfície da carne e deixe dourar por mais 10 minutos.",
+      "Retire do forno, coloque o filé sobre uma travessa, coloque a assadeira sobre a chama do fogão, adicione 1 xícara (chá) de água e deixe ferver por 5 minutos, raspando o fundo continuamente.",
+      "Retire do fogo, passe o molho por uma peneira e coloque em uma panela pequena."
+    ],
+    "MOLHO": [
+      "Adicione ao molho do fundo da assadeira, a polpa de maracujá, o mel (restante) e o amido, misture bem e leve para cozinhar em fogo médio, mexendo sempre, por mais 3 minutos ou até formar um molho homogêneo.",
+      "Sirva em seguida sobre o lombo fatiado, acompanhado pelas batatas-doce salteadas e do repolho roxo refogado."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312580-file-suino-ao-molho-de-maracuja-laranja-e-mel.html"
+}

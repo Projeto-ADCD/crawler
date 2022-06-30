@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAINÁ DA CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de farinha de trigo ",
+      "1 xícara de óleo",
+      "6 ovos",
+      "1 litro de leite",
+      "2 tampinhas de fermento em pó (medida do pote de fermento) ",
+      "3 pitadas de sal",
+      "300 g de presunto",
+      "300 g de queijo",
+      "1 colher pequena de manteiga (para untar a forma)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela alta despeje todos os ingredientes, exceto o fermento em pó, o presunto e queijo",
+      "Bata a mão ou no liquidificador",
+      "Depois de misturar tudo, adicione o fermento e bata mais um pouco",
+      "Logo após, despeje metade da massa em uma forma de 35 cm de comprimento já untada com manteiga, espalhe bem",
+      "Coloque o presunto e queijo",
+      "Após isso, despeje o que sobrou da massa",
+      "Leve ao forno e deixe assando por 60 minutos com a temperatura de 200° C",
+      "Feito isso deixe esfriar e depois é só servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ISABEL CRISTINA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314477-faina-da-cris.html"
+}

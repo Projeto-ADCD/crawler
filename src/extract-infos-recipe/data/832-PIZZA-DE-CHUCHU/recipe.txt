@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PIZZA DE CHUCHU",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 chuchus",
+      "200 g de bacon",
+      "200 g de mussarela",
+      "orégano agosto",
+      "alho",
+      "sal",
+      "pimenta-do-reino",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro frite o bacon e reserve,",
+      "Descasque o chuchu e corte ele em tiras finas, em uma panela aberta em que possa espalhar bem o chuchu",
+      "Refogue ele e tampe sem adição de água ,após uns 7 minutinhos olhe o chuchu se está do ponto desejado,se ainda estiver crú, pingue um pouco de água apenas para finalizar o cozimento.",
+      "Após ele cozido, adicione o bacon e a mussarela",
+      "Tampe para que a mussarela derreta.",
+      "Depois e só adicionar o orégano a gosto",
+      "Está pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JÚNIA ROCHAA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311381-pizza-de-chuchu.html"
+}

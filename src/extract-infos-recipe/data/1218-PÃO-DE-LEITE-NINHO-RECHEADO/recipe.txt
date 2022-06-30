@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO DE LEITE NINHO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "4 tabletes de fermento biológico",
+      "2 xícaras (chá) de leite morno",
+      "8 colheres de (sopa) de açúcar",
+      "4 colheres de (sopa) de leite em pó de sua preferencia.",
+      "1/2 xícara (chá) de óleo",
+      "2 colheres (chá) de sal",
+      "2 ovos",
+      "2 latas leite condensado (cozidas na pressão por 25 minutos)",
+      "leite com açúcar",
+      "leite em pó para cobrir os pães"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia grande coloque o fermento e o sal e dissolva até virar líquido, junte o leite, o ovo, o leite em pó, o óleo e o açúcar.",
+      "Adicione aos poucos a farinha e vá amassando dando ponto na massa até ficar lisa.",
+      "Sove bem, deixe descansar até que dobre de tamanho, Aproximadamente 30 min. Modele os pães no tamanho desejado.",
+      "Coloque-os em tabuleiros untados com manteiga e deixe descansar de 25 a 30 minutos.",
+      "Leve ao forno médio pré aquecido a 180° C por mais ou menos 20 minutos, ou até que estejam levemente dourados.",
+      "Após esfriarem corte-os ao meio e recheie com o doce de leite, passe-os no leite adoçado e depois passe-os no leite em pó."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: os pães devem ficar levemente dourados, não precisa deixar escurecer para não ficar com a casca grossa."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ANDRÉIA REGINA DE SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309331-pao-de-leite-ninho-recheado.html"
+}

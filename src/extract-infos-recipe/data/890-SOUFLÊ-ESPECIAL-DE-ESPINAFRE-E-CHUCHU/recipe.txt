@@ -1,0 +1,44 @@
+{
+  "nome_receita": "SOUFLÊ ESPECIAL DE ESPINAFRE E CHUCHU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de espinafre",
+      "1 chuchu",
+      "1 cebola grande",
+      "2 dentes de alho",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de azeite",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "3 ovos",
+      "2 colheres (sopa) de cebolinha e salsinha picadas",
+      "1 colher de molho inglês",
+      "1 caixinha de creme de leite",
+      "queijo parmesão ralado a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com água e sal, cozinhe o espinafre (só as folhas).",
+      "Depois de cozido, escorra a água e pique bem o espinafre. Reserve.",
+      "Cozinhe o chuchu em água e sal e corte-o em cubinhos. Reserve.",
+      "Em uma panela coloque a manteiga e o azeite, deixe esquentar e acrescente a cebola e o alho picados.",
+      "Refogue até dourar.",
+      "Junte a farinha de trigo, misturando bem, por 3 minutos, no fogo baixo.",
+      "Desligue o fogo e acrescente o leite aos poucos, mexendo sempre.",
+      "Leve a panela novamente ao fogo, mexendo sempre até engrossar o creme.",
+      "O creme deve ficar grosso.",
+      "Acrescente as gemas, uma a uma, mexendo bem.",
+      "Acrescente o espinafre picado, o chuchu cortado em cubinhos, o tempero verde, o creme de leite, o molho inglês e tempere com sal e pimenta a gosto.",
+      "Misture tudo muito bem.",
+      "Bata as claras em neve e acrescente-as à mistura cuidadosamente, mexendo de baixo para cima, delicadamente.",
+      "Coloque, a mistura, em um refratário untado com manteiga e cubra com o queijo parmesão ralado.",
+      "Leve ao forno, preaquecido a 200° C e deixe cozinhar por uns 30 minutos até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311029-soufle-especial-de-espinafre-e-chuchu.html"
+}

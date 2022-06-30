@@ -1,0 +1,20 @@
+{
+  "nome_receita": "MILKSHAKE DE AÇAÍ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "2 bolas de sorvete de creme",
+      "1 colher (sopa) de leite ou o quanto baste para bater"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador Frooty açaí, o sorvete e o leite até obter uma mistura homogênea.",
+      "Decore as laterais de um copo alto com frutas ou leite condensado, coloque a mistura batida e sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306096-milkshake-de-acai.html"
+}

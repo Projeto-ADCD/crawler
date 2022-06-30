@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PUDIM ROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de gelatina em pó incolor",
+      "1 caixinha de maria mole",
+      "1 xícara de (chá) de água fervente",
+      "1 vidro de leite de coco gelado (200 ml)",
+      "1 lata de creme de leite gelado sem soro",
+      "1 lata de leite condensado gelado",
+      "1 colher de manteiga para untar",
+      "COBERTURA",
+      "1 caixa de morango ",
+      "2 colheres (sopa) suco de limão",
+      "4 colheres e 1/2 (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "prepare a gelatina conforme as instruções na embalagem e reserve-a.",
+      "Misture o pó da maria mole com a água fervente até dissolver.",
+      "Transfira para o liquidificador, bata com a gelatina e com o restante dos ingredientes até ficar homogêneo",
+      "Coloque na forma de pudim (ou a forma com buraco no meio) (medida 20 cm de diâmetro) untada.",
+      "Leve ao congelador por 15 minutos.",
+      "Cobertura",
+      "Coloque em uma panela os morangos picados junto com uma colher de sobremesa de água",
+      "Logo em seguida despeje o limão e o açúcar.",
+      "Misture bem até formar uma calda grossa"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROSANA DOMINGOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308107-pudim-rosa.html"
+}

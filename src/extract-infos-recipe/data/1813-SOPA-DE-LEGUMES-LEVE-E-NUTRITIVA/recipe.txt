@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOPA DE LEGUMES - LEVE E NUTRITIVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g macarrão conchinha (ou a massa da preferência)",
+      "2 batatas médias em cubos",
+      "2 folhas de repolho picadas",
+      "2 folhas de acelga picadas",
+      "4 dentes de alho com casca",
+      "1 abobrinha em cubos",
+      "100 g de nabo em cubos",
+      "1 talo de alho-poró picado grande",
+      "1 cenoura média em cubos",
+      "1 cebola média cortada em quatro",
+      "1 xícara de molho de tomate",
+      "3 caldo de carne ou 2 copos (americano)",
+      "2 linguiças ou 250 g de músculo (pré-cozido)",
+      "1 colher (sopa) de Chimichurri",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, junte todos os ingredientes exceto o macarrão",
+      "Cozinhe em fogo baixo por 20 minutos depois de pegar pressão",
+      "Abra a panela, ajuste o sal e junte o macarrão cru",
+      "Cozinhe por mais 5 minutos (sem pressão)",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAERCIO SANTILLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306724-sopa-de-legumes-leve-e-nutritiva.html"
+}

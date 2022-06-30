@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA RÚSTICA DE CARNE-SECA",
+  "ingredientes": {
+    "MASSA": [
+      "2 e 1/2 xícaras de farinha de trigo",
+      "4 colheres (sopa) de margarina Primor gelada",
+      "6 colheres (sopa) de água bem gelada",
+      "1 gema para pincelar"
+    ],
+    "RECHEIO": [
+      "1 colher (sopa) de margarina Primor gelada",
+      "3 colheres (sopa) de creme de ricota ou queijo branco fresco",
+      "400 g de carne-seca em cubos dessalgada",
+      "200 g de queijo coalho",
+      "3 cebolas pequenas cortadas ao meio",
+      "1 colher (chá) de tomilho seco (opcional)",
+      "cheiro-verde a gosto para finalizar",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, junte a farinha e incorpore aos poucos a água gelada e a margarina, somente o suficiente para formar uma massa uniforme. Embrulhe em plástico filme e deixe descansando na geladeira por 15 minutos enquanto prepara o recheio",
+      "Em uma panela, adicione margarina e frite os cubos de carne-seca até que eles comecem a desmanchar. Solte os cubos com uma espátula, desfiando grosseiramente na panela mesmo. Adicione o tomilho, acerte o sal e a pimenta. Desligue o fogo, retire da panela e reserve.",
+      "Na mesma panela que fritou a carne, adicione as cebolas e frite-as rapidamente, sem dourar muito. Retire e reserve. Retire a massa da geladeira e abra-a por cima de uma assadeira já forrada com papel-manteiga. Abra a massa fina, com cerca de 0,5cm de espessura, redonda como uma pizza, sem necessidade de aparar as pontas. O intuito é facilitar e fazer ela rústica mesmo.",
+      "Passe o creme de ricota (ou espalhe fatias finas de queijo fresco) por toda a superfície da massa.",
+      "Coloque a carne refogada no centro da massa, adicione o queijo coalho em cubos e a cebola. Espalhe levemente, atentando para deixar uma borda generosa de massa.",
+      "Dobre por cima do recheio as bordas de todo o círculo, fechando como um envelope, mas ainda deixando o centro do recheio à mostra.",
+      "Pincele a massa com uma gema de ovo para dar cor e leve ao forno preaquecido a 180° C por 40 minutos ou até que a massa esteja bem dourada.",
+      "Retire do forno e salpique cheiro-verde por cima. Sirva quente com arroz branco ou salada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312176-torta-rustica-de-carne-seca.html"
+}

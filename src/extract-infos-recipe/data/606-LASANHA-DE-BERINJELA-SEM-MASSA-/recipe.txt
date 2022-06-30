@@ -1,0 +1,39 @@
+{
+  "nome_receita": "LASANHA DE BERINJELA (SEM MASSA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Lasanha",
+      "3 berinjelas médias em fatias finas",
+      "Óleo de girassol para fritar",
+      "250g de queijo mozarela",
+      "3 tomates grandes sem pele em rodelas finas",
+      "Sal",
+      "1 xícara de parmesão ralado para polvilhar",
+      "Molho",
+      "1/2 cebola média ralada",
+      "1 colher (sopa) de óleo de girassol",
+      "3 tomates sem pele e sementes picadinhos",
+      "1 colher (chá) de folhas de manjericão",
+      "1 colher (café) de orégano",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lasanha",
+      "Frite as fatias de berinjela em frigideira untada com óleo até dourar dos 2 lados.",
+      "Em refratário untado com óleo, monte em camadas seguindo a sequência abaixo:",
+      "Berinjela = > Fina camada de molho de tomate => Fatia de mozarela => Rodelas de tomate => Berinjela novamente",
+      "Ao final, despeje o restante do molho e polvilhe o parmesão.",
+      "Leve ao forno quente pré-aquecido a 250 ºC por 15 minutos ou até aquecer bem.",
+      "Molho",
+      "Refogue bem a cebola ralada no óleo.",
+      "Junte o tomate e as ervas e tempere com sal a gosto.",
+      "Deixe ferver até o tomate desmanchar parcialmente e adicione água somente se necessário."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCO AURÉLIO TOCALINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312376-lasanha-de-berinjela-sem-massa.html"
+}

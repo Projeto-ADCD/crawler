@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BATIDA DE MARACUJÁ COM LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 maracujás",
+      "1 xícara de leite (240 ml)",
+      "2 colheres (sopa) de leite em pó ",
+      "3 colheres (sopa) de açúcar (se preferir mais doce, adicione mais)",
+      "1 e 1/2 xícara de vodka"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os maracujás com o leite",
+      "Depois passe na peneira e coloque a mistura novamente no liquidificador",
+      "Bata com o restante dos ingredientes.",
+      "Se preferir, sirva com gelo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306857-batida-de-maracuja-com-leite-em-po.html"
+}

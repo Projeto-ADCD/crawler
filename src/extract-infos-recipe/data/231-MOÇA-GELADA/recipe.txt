@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOÇA GELADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado ",
+      "1 caixa de creme de leite ",
+      "1/2 xícara de leite em pó ",
+      "200 ml de chantilly ",
+      "10 biscoitos de chocolate com recheio de baunilha ",
+      "biscoitos a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma panela no fogo desligado, coloque o leite condensado, o creme de leite e a xícara de leite em pó",
+      "Misture bem ",
+      "Ligue o fogo, misture e deixe aalí até engrossar ",
+      "Leve à geladeira po 30 minutos",
+      "Em outro recipiente, coloque o chantilly e misture o recheio que estava na geladeira ",
+      "Junte os 10 biscoitos de chocolate triturados ",
+      "Misture tudo muito bem e coloque em uma forma",
+      "Finalize com mais biscoitos por cima e leve à geladeira por 3 horas",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313828-moca-gelada.html"
+}

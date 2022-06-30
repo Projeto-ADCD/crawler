@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE IOGURTE COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo de iogurte natural integral",
+      "1/2 xícara de óleo",
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de açúcar",
+      "raspas de 3 limão taiti",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire a farinha de trigo e o açúcar, misture com as raspas de limão e reserve.",
+      "No liquidificador bata os ovos ,o iogurte e o óleo ",
+      "Misture os líquidos batidos com os ingredientes secos e misture na mão delicadamente.",
+      "Acrescente o fermento e misture até incorporar na massa.",
+      "Asse em forno preaquecido a 180° C por 40 minutos .",
+      "Após assado retire do forno e salpique por cima açúcar misturado com canela em pó."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DANIEL FIORANTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311328-bolo-de-iogurte-com-limao.html"
+}

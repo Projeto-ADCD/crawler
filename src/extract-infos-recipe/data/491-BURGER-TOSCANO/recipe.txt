@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BURGER TOSCANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de maminha",
+      "2 linguiças toscanas",
+      "1 colher (chá) de pimenta do reino",
+      "2 colheres (chá) de sal refinado",
+      "2 dentes de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peça para moer ou moa junto a maminha e as linguiças por duas vezes, misture bem.",
+      "Após esse processo, em uma bacia média misture todos os demais ingredientes, os alhos devem ser triturados.",
+      "Deixe marinando os temperos por 20min.",
+      "Em seguida, com as mãos ou modelador de hambúrguer, forme os burguers e coloque pra grelhar na brasa ou numa frigideira com um fio de azeite.",
+      "Após dourar todos os lados tempere seu pão e se delicie."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAMARCK DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312689-burger-toscano.html"
+}

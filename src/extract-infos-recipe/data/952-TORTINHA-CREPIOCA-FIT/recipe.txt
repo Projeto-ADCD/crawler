@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTINHA CREPIOCA FIT",
+  "ingredientes": {
+    "MASSA": [
+      "3 ovos",
+      "4 colheres (sopa) de massa de tapioca",
+      "sal a gosto",
+      "orégano a gosto"
+    ],
+    "RECHEIO": [
+      "3 tomates picados",
+      "sal a gosto",
+      "150 g mussarela",
+      "100 g requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, a massa de tapioca e o sal e reserve.",
+      "Unte a forma com manteiga ou óleo de coco e reserve.",
+      "Em outro refratário",
+      "Corte o tomate em cubos pequenos, adicione sal a gosto e orégano.",
+      "Na forma coloque uma camada de massa crepioca, 1 colher (chá) de requeijão, tomate, mussarela e cubra com massa de crepioca.",
+      "Leve ao forno de 15 a 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANA PAULA SILVEIRA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310755-tortinha-crepioca-fit.html"
+}

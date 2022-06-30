@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO RAFFAELLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "5 ovos (temperatura ambiente)",
+      "125 g de açúcar",
+      "120 g de farinha de trigo",
+      "RECHEIO",
+      "50 ml de leite condensado",
+      "150 ml de aguá",
+      "200 g de chocolate branco",
+      "100 g de creme de leite",
+      "1 caixinha de chantili",
+      "100 g de coco em floco",
+      "100 g de amêndoas",
+      "Decoração",
+      "100 g de amêndoas",
+      "Recheio",
+      "Raffellos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira bata os ovos e o açúcar por cerca de 10 minutos (até ficar branco).",
+      "Junto a farinha de trigo peneirada .",
+      "Mexa com o fue levemente para manter aerado.",
+      "Despeje em uma forma untada, leve ao forno em 180º C por aproximadamente 30 minutos.",
+      "Faça o teste do palito, se estiver limpo, retire do forno e deixe esfriar.",
+      "RECHEIO",
+      "Misture o leite condensado e água, umedeça a massa com a misturinha.",
+      "Derreta o chocolate branco (30 em 30 segundos no microondas) adicione o creme de leite e misture.",
+      "Bata o chantilly.",
+      "Adicione ao chantilly o coco em flocos, e as amêndoas (triture as amêndoas, ou corte como preferir) a ganache de chocolate branco e misture.",
+      "Após gelado monte o bolo, molhe, adicione o recheio, intercalando entre massa e recheio.",
+      "Para decorar use o recheio na parte externa do bolo, com amêndoas picadas e Raffaellos em cima"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "BABIH NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307715-bolo-raffaello.html"
+}

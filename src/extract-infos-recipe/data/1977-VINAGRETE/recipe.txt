@@ -1,0 +1,31 @@
+{
+  "nome_receita": "VINAGRETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 tomates",
+      "400 g ketchup",
+      "750 ml vinagre",
+      "1/2 noz-moscada ralada ou uma colher (café)",
+      "2 cenouras",
+      "4 a 6 cebolas",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "2 copos de óleo",
+      "1 colher (sopa) orégano",
+      "2 dentes de alho",
+      "1 colher (sopa) de glutamato",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os ingredientes em cubos e misture.",
+      "Deixe \"descansar\" por 30 minutos (quanto mais tempo passar, melhor fica)."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "FERNANDO HERKNORK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306294-vinagrete.html"
+}

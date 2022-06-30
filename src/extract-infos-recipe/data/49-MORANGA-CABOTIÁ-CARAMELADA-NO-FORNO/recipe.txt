@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MORANGA CABOTIÁ CARAMELADA NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Moranga Caramelada (forno)",
+      "Ingredientes:",
+      "1 moranga cabotiá (em pedaços c/ casca) tamanho média (1,2kg)",
+      "2 xic. de açúcar orgânico cristal (500gr)",
+      "canela em pau/ cravo da índia",
+      "2 xicaras de água (500ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Remover as sementes da moranga, e cortá-la em pedaços.",
+      "Dispô-las em uma assadeira com a casca para baixo.",
+      "Cobri-las com açúcar cristal (orgânico)",
+      "Acrescente a canela em pau e o cravo da índia (a gosto).",
+      "Acrescente cuidadosamente a água (fria no fundo da forma.",
+      "Cubra com papel alumínio e coloque para assar em forno elétrico ou a gás na temperatura de 140ºC aproximadamente 45 minutos.",
+      "Retire do forno e vire os pedaços com o auxílio de uma pinça ou garfo, de modo que a polpa fique em contato com a calda. Se estiver muito espesso acrescente mais água (1/2 xic) e deixe apurando a calda para caramelizar os pedaços. Retire com cuidado com o auxílio de uma espátula de silicone e por fim derrame sobre os pedaços a calda que se formou no fundo da forma. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARTA CHAPPER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314691-moranga-cabotia-caramelada-no-forno.html"
+}

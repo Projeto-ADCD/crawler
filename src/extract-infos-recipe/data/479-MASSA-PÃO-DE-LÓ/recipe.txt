@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA PÃO DE LÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "6 colheres (sopa) de açúcar",
+      "5 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) rasa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "separe as claras das gemas",
+      "Em uma batedeira, bata as claras até ficar em ponto de suspiro",
+      "Acrescente uma a uma as gemas, batendo sempre",
+      "Ainda com a batedeira ligada, acrescente aos poucos o açúcar peneirado",
+      "Peneire muito bem a farinha.",
+      "Acrescente à massa com a batedeira desligada, aos poucos, delicadamente, fazendo movimentos de baixo para cima.",
+      "Por último, acrescente o fermento.",
+      "Asse em forno médio."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "11 PORÇÕES",
+  "autor": "SARAH LINO CHUBERT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312711-massa-pao-de-lo.html"
+}

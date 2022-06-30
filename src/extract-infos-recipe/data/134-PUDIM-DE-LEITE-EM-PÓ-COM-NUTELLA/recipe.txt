@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE LEITE EM PÓ COM NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "395 g de leite condensado",
+      "290 g de creme de leite",
+      "1 sachê de gelatina sem sabor",
+      "250 ml de leite integral",
+      "4 colheres (sopa) de leite em pó integral"
+    ],
+    "CALDA": [
+      "Nutella"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente pequeno hidrate a gelatina seguindo as orientações da embalagem e reserve.",
+      "No liquidificador adicione o leite condensado, o creme de leite, o leite integral líquido e o leite em pó. Reserve.",
+      "Derreta a gelatina por 30s no micro-ondas ou em fogo baixo sem levantar fervura, adicione ao liquidificador com os demais ingredientes e bata por 30s.",
+      "Prepare as tigelas com um pouco de Nutella no fundo e adicione a massa até cobrir o recipiente.",
+      "Coloque na geladeira até firmar (máximo 4h) e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BIANCA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314287-pudim-de-leite-em-po-com-nutella.html"
+}

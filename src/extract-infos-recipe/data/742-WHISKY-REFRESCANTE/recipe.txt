@@ -1,0 +1,25 @@
+{
+  "nome_receita": "WHISKY REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de whisky [1/4 de copo (americano)]",
+      "30 ml de água gelada",
+      "1/2 limão",
+      "folhas de hortelã",
+      "2 colheres (chá) de açúcar",
+      "cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num copo de whisky (ou qualquer copo), amasse o hortelã com o açúcar.",
+      "Coloque o whisky, mexa bem, coloque a água e o gelo, esprema o limão",
+      "Mexa mais um pouco e pronto!",
+      "Beba com moderação"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JEAN CARLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311814-whisky-refrescante.html"
+}

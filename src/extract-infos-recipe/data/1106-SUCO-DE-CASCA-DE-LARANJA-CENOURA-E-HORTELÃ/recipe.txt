@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE CASCA DE LARANJA, CENOURA E HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml copo de água filtrada",
+      "1 laranja (utilizar somente cascas)",
+      "1 cenoura",
+      "4 folhas de hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador coloque a casca de 1 laranja, 4 folhas de hortelã, 1 cenoura inteira e 500 ml de água filtrada.",
+      "Lave bem as cascas",
+      "Bata no liquidificador e se necessário adoce como preferir.",
+      "Beba o suco sem coar para aproveitar 100% das fibras da laranja, cenoura e do hortelã."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309857-suco-de-casca-de-laranja-cenoura-e-hortela.html"
+}

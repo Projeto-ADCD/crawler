@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIES DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 de xicara (chá) de manteiga",
+      "1/4 de xicara (chá) de açúcar mascavo",
+      "1/4 de xicara (chá) de chocolate em pó",
+      "1/2 xicara (chá) de farinha de trigo",
+      "1/2 colher (sopa) de essência de baunilha",
+      "1 ovo",
+      "1 colher (sopa) de fermento",
+      "1 colher (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes secos em um recipiente e misture.",
+      "Coloque os ingredientes líquidos.",
+      "Misture ate ficar homogêneo.",
+      "Na forma untada coloque a massa em formato de uma bolinha.",
+      "Coloque no forno em 180° C",
+      "Apenas retirar quando o cookies estiver crocante."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA LUIZA BACCHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311964-cookies-de-chocolate.html"
+}

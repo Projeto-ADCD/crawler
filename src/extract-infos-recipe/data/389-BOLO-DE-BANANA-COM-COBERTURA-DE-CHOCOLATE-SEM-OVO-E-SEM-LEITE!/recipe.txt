@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE BANANA COM COBERTURA DE CHOCOLATE, SEM OVO E SEM LEITE!",
+  "ingredientes": {
+    "MASSA": [
+      "3 colheres de manteiga ",
+      "1 xícara de água morna (não pode estar extremamente quente)",
+      "1 xícara de açúcar",
+      "3 ou 4 bananas picadas",
+      "2 xícaras de farinha de trigo",
+      "1 colher (chá) bem cheia de fermento químico"
+    ],
+    "COBERTURA": [
+      "2 colheres de cacau em pó, chocolate ou achocolatado",
+      "açúcar a gosto",
+      "1 colher de manteiga",
+      "água a gosto, depende da grossura que você deseja que a calda tenha"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Derreta a manteiga, passe para um pote e adicione o açúcar enquanto mexe com um garfo, até misturar muito bem, vai ficar parecendo um creme.",
+      "Adicione a água morna, mexa bem e adicione a farinha de trigo peneirada na mistura. Deve ficar uma massa homogenea e lisa.",
+      "Adicione a banana picada e o fermento, misture devagar, em movimentos circulares ou de cima para baixo, deixe de lado um pouco para a massa descansar.",
+      "Unte a forma com manteiga e farinha de trigo",
+      "Leve ao forno preaquecido de 30 a 40 minutos, depende do forno."
+    ],
+    "COBERTURA": [
+      "Numa panela, fora do fogo, misture todos os ingredientes de acordo com a quantidade de calda.",
+      "Leve ao fogo e vá mexendo até levantar fervura, deixe ferver por pelo menos 30 seg enquanto vai mexendo.",
+      "Pronto! É só colocar em cima do seu bolo :)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: essa receita é para um bolo de tamanho pequeno pra médio, se desejar fazer numa forma grande, é só fazer uma receita dobrada"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA TRINDADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312970-bolo-de-banana-com-cobertura-de-chocolate-sem-ovo-e-sem-leite.html"
+}

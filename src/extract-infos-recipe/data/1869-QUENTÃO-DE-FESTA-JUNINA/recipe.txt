@@ -1,0 +1,31 @@
+{
+  "nome_receita": "QUENTÃO DE FESTA JUNINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de cachaça",
+      "1 litro de água",
+      "500 g de açúcar",
+      "1 laranja",
+      "1 limão",
+      "50 g de gengibre",
+      "8 cravos da índia",
+      "1 colher (sopa) de canela em pau ou 2 ramas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a laranja e o limão com um descascador de alimentos para que a casca saia bem fininha, pois, a parte branca amarga a receita.",
+      "Descasque o gengibre raspando com uma colher e corte em rodela não muito finas.",
+      "Em uma panela grande, junte o açúcar, as cascas das frutas (use a casca da laranja e matade da casca do limão), o gengibre, o cravo e a canela.",
+      "Leve em fogo médio para caramelizar o açúcar mexendo sempre com uma colher de pau.",
+      "Deixe a água e a cachaça por perto, quando o açúcar derreter e atingir a cor marrom clara coloque a água e a cachaça com cuidado para não espirrar em você.",
+      "Muito cuidado para não queimar o caramelo, pois isso também amarga a receita.",
+      "Como a água e a cachaça estão frias, o caramelo vai pedrar, mas é só esperar que os líquidos fervam que os torrões derretem.",
+      "Siva quente e em canecas para não se queimar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CLEIDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306578-quentao-de-festa-junina.html"
+}

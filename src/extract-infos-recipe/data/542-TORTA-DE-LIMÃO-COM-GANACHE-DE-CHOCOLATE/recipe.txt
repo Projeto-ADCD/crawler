@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA DE LIMÃO COM GANACHE DE CHOCOLATE",
+  "ingredientes": {
+    "BASE": [
+      "60 g de Delícia Cremosa ",
+      "1 pacote de biscoito maisena "
+    ],
+    "CREME DE LIMÃO": [
+      "790 g de leite condensado",
+      "250 ml de suco de limão",
+      "7 g de gelatina em pó sem sabor"
+    ],
+    "GANACHE": [
+      "400 g de chocolate meio amargo picado ",
+      "200 g de creme de leite light "
+    ]
+  },
+  "passos": {
+    "BASE": [
+      "Triture grosseiramente a bolacha, em processador ou liquidificador. Junte a Margarina Delícia Cremosa e misture com as mãos, até obter uma farofa.",
+      "Em forma desmontável, coloque a farofa por todo o fundo, pressionando-a levemente. Reserve."
+    ],
+    "CREME DE LIMÃO": [
+      "Em um recipiente, dissolva a gelatina no suco de limão.",
+      "Junte o leite condensado, misture bem e leve à geladeira por 30 a 40 minutos."
+    ],
+    "GANACHE": [
+      "Leve o chocolate picado para derreter em banho-maria ou micro-ondas.",
+      "Junte o creme de leite, misture bem e reserve."
+    ],
+    "MONTAGEM": [
+      "Adicione o creme de limão à base de torta, cubra com a ganache e leve para a geladeira por mais 1 hora.",
+      "Retire da geladeira, solte a argola lateral da forma e decore a gosto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312574-torta-de-limao-com-ganache-de-chocolate.html"
+}

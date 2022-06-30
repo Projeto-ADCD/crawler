@@ -1,0 +1,30 @@
+{
+  "nome_receita": "GELATINA EM CAMADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gelatina sabor abacaxi",
+      "1 gelatina sabor cereja",
+      "1 gelatina sabor limão",
+      "1 gelatina sabor uva",
+      "1,6 litro de água",
+      "1 envelope de gelatina sem sabor",
+      "1/2 (chá) de água",
+      "1 caixa (200 g) de creme de leite",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare, alternadamente, cada sabor de gelatina usando 2/3 de xícara de água fervente para dissolver e mais 1 xícara de água gelada, seguindo as indicações do fabricante.",
+      "Ponha a primeira camada num refratário, já em ponto de clara de ovo, e leve à geladeira para firmar.",
+      "Depois que firmar, ponha outro sabor por cima para endurecer.",
+      "Para a cobertura, hidrate a gelatina incolor com a água, conforme as indicações da embalagem, e dissolva em banho-maria.",
+      "Coloque no liquidificador e bata com o creme de leite e o leite condensado.",
+      "Cubra a última camada de gelatina e leve à geladeira até firmar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MELZINHA GAMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310199-gelatina-em-camadas.html"
+}

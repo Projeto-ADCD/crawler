@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO DE TAHINE PARA SALADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 de xícara (chá) de água",
+      "1/4 de xícara (chá) de tahine ",
+      "1 dente de alho",
+      "1 limão espremido",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o alho e o sal, até a cosistência de uma pastinha",
+      "Em um recipiente, misture o tahine, o limão e a pastinha",
+      "Adicione água aos poucos e vá misturando até chegar à uma consistência mais fluida",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313000-molho-de-tahine-para-salada.html"
+}

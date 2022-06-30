@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DRINKICHY",
+  "ingredientes": {
+    "DEFAULT": [
+      "30 ml de xarope de cranberry",
+      "30 ml de xarope de tangerina",
+      "1/2 limão (ou inteiro se for pequeno)",
+      "60 ml a 120 de gin ou vodka",
+      "400 ml de água com gás"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os xaropes, limão e o gin/vodka.",
+      "Adicione a água com gás e preencha a taça com gelo."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PÁRMENAS HANIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314683-drinkichy.html"
+}

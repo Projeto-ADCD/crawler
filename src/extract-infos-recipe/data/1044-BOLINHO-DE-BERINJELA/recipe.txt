@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO DE BERINJELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de fubá",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "2 ovos batidos",
+      "1 ovo cozido e amassado",
+      "1 berinjela cozida e amassada",
+      "sal e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o fubá e a farinha de trigo",
+      "Misture a berinjela e o ovo cozido e amassado",
+      "Tempere ao seu gosto.",
+      "Frite a colheradas em óleo bem quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JOHN WAYNE AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310264-bolinho-de-berinjela.html"
+}

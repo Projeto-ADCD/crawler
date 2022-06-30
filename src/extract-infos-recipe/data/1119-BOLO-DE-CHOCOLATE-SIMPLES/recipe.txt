@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "3 ovos",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de chocolate em pó ou achocolatado",
+      "1/2 xícara (chá) de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "1 pitada de sal",
+      "1 xícara (chá) de água quente",
+      "Cobertura:",
+      "4 colheres (sopa) de leite",
+      "1/2 xícara (chá) de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Em um liquidificador, bata os ovos, o açúcar, o óleo, o achocolatado e a farinha de trigo.",
+      "Despeje a massa em uma tigela e adicione a água quente e o fermento, misturando bem.",
+      "Despeje a massa em uma forma untada e asse em forno médio-alto (200° C), preaquecido, por 40 minutos.",
+      "Desenforme ainda quente.",
+      "Cobertura:",
+      "Em uma panela, leve todos os ingredientes ao fogo até levantar fervura.",
+      "Despeje ainda quente em cima do bolo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita também pode ser feita no micro-ondas, utilizando uma forma própria.\nO tempo de espera é de 9 minutos na potência alta.\nDeixe esfriar por 20 minutos e desenforme.\nUm bom bolo de chocolate fofinho aquece o coraçãozinho, né? Quer deixar essa receita ainda mais deliciosa e chocolatuda? Adicione na massa chocolate meio amargo derretido em banho-maria! O sabor vai ficar ainda mais intenso e incrível, não vai dar vontade de parar de comer!\nPeneirar ingredientes, na hora de fazer a massa, ajuda com que o seu bolo de chocolate simples fique ainda mais lindo e cresça bastante! Por isso, peneire a farinha de trigo e os ovos antes de adicioná-los à massa! A farinha peneirada evita gruminhos na massa, fazendo com que fique lisa e cresça melhor, e os ovos peneirados tiram o gosto ou odor do ovo da receita, deixando o cheirinho de chocolate tomar conta de tudo! Incrível, né?\nCaso ache necessário, você pode fazer a sua receita de bolo de chocolate simples na batedeira em vez de fazer no liquidificador, o resultado fica perfeito também!\nQue tal rechear seu bolo? Existem vários recheios que você pode fazer como beijinho de coco, doce de leite, geleia de morango, mousse de chocolate , brigadeiro de creme de avelã e outros!\nVocê também pode experimentar esse clássico com outras caldas: confira aqui três tipos de calda de chocolate do TudoGostoso!\nProcurando mais sobremesas com chocolate? Veja receitas com chocolate no TudoGostoso como brownie super fácil, torta de chocolate, pavê de chocolate, cheesecake de chocolate e muito mais!\nQue tal fazer essa receita na versão bolo de pote? Confira a receita do TudoGostoso e aprenda como fazer bolo no pote de chocolate! \nNo TudoGostoso você encontra diversas receitas perfeitas para a hora do café da tarde, como essa e muitas outras. Que tal conferir outro clássico da hora do lanche como o bolinho de chuva? Confira essa receita incrível! \nQuem ama chocolate, vai amar esta receita de bolo de caneca de chocolate: simples, prática e rápida!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309779-bolo-de-chocolate-simples.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CHARQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Charque:",
+      "1 kg de charque",
+      "2 tomates maduros",
+      "2 cebolas",
+      "2 dentes de alho",
+      "5 ramos de salsinha",
+      "Azeite a gosto",
+      "Sal e pimenta-do-reino a gosto",
+      " ",
+      "Purê de aipim:",
+      "1kg de mandioca descascada",
+      "1 xícara (chá) de leite",
+      "2 e 1/2 colheres (sopa) de manteiga",
+      "1/2 pimentão verde em tiras",
+      "1/2 pimentão amarelo em tiras",
+      "1/2 pimentão vermelho em tiras",
+      "Sal a gosto",
+      "1 xícara (chá) de queijo coalho ralado fino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o charque em cubos para dessalgar a carne. Lave bem sob água corrente e coloque em uma tigela. Cubra a carne com 5 xícaras (chá) de água fria e deixe na geladeira por 12 horas. Troque a água pelo menos duas vezes durante a dessalga.",
+      "Ponha o charque em uma panela de pressão, cubra com água, tampe e leve ao fogo alto. Quando a panela apitar, baixe o fogo e deixe cozinhar por 30 minutos. Pique a cebola, o alho e a salsinha. Corte os tomates em cubos pequenos.",
+      "Reserve 1/2 xícara (chá) da água do cozimento do charque. Tire o excesso de gordura e desfie os pedaços ainda quentes com dois garfos. Leve uma frigideira ao fogo médio. Quando aquecer, coloque o azeite, a cebola, uma pitada de sal e refogue até murchar. Acrescente o alho, o tomate e mexa por um minuto. Adicione a carne desfiada, tempere com sal e pimenta e refogue por dois minutos. Junte a água do cozimento reservada, a salsinha e misture bem.",
+      "Preaqueça o forno a 240°C (temperatura alta). Corte o aipim em fatias grandes. Coloque na panela de pressão e leve ao fogo alto. Quando a panela apitar, baixe o fogo e deixe cozinhar por 10 minutos. Desligue o fogo e transfira os pedaços para uma panela grande. Com um amassador de legumes, amasse os pedaços ainda quentes dentro da própria panela (ou utilize um garfo). Adicione o leite e leve a panela ao fogo baixo. Mexa bem com uma espátula por cerca de 5 minutos até formar um purê bem cremoso. Tempere com sal e misture a manteiga.",
+      "Para a montagem, preencha potes pequenos com o charque refogado. Cubra com o purê de aipim e polvilhe com o queijo mussarela ralado. Leve ao forno para gratinar por cerca de 20 minutos, ou até o queijo derreter e dourar. Retire do forno e sirva imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MAIRA BEHN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313650-escondidinho-de-charque.html"
+}

@@ -1,0 +1,45 @@
+{
+  "nome_receita": "ESPUMONE DA VOVÓ LURDES",
+  "ingredientes": {
+    "PRIMEIRA CAMADA:": [
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "600 ml de leite integral",
+      "6 gemas de ovos (reserve as claras)"
+    ],
+    "SEGUNDA CAMADA": [
+      "1 pacote de bolacha champanhe",
+      "1 pacote de chocolate em pó",
+      "1 Copo de leite integral"
+    ],
+    "TERCEIRA CAMADA": [
+      "6 claras de ovos",
+      "6 colheres de sopa de açúcar",
+      "2 latas de creme de leite sem soro",
+      "1 saquinho de chocolate granulado"
+    ]
+  },
+  "passos": {
+    "PRIMEIRA CAMADA": [
+      "Misture bem todos os ingredientes.",
+      "Leve ao fogo baixo por aproximadamente 30 minutos ou até engrossar em ponto de creme.",
+      "Coloque no fundo da tigela."
+    ],
+    "SEGUNDA CAMADA": [
+      "Misture todos os ingredientes, exceto a bolacha.",
+      "Umedeça as bolachas e coloque por cima da primeira camada na tigela.",
+      "Despeje o creme da segunda camada acima das bolachas."
+    ],
+    "TERCEIRA CAMADA": [
+      "Bata as claras em neve.",
+      "Adicione o açúcar e bata novamente.",
+      "Adicione o creme de leite gelado sem soro.",
+      "Coloque esta mistura sobre a segunda camada e cubra com chocolate granulado.",
+      "Leve à geladeira por aproximadamente 40 minutos e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NELSON J. FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309829-espumone-da-vovo-lurdes.html"
+}

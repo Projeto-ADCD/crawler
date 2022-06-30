@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MASSA CROCANTE PARA TORTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo (sem fermento)",
+      "1/2 xícara (chá )de açúcar",
+      "1 pitada de sal",
+      "4 colheres (sopa) de margarina bem gelada",
+      "1 ovo",
+      "1 colher (chá) de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro junte em uma vasilha os ingredientes secos (trigo, açúcar e o sal), misture e reserve",
+      "Adicione a manteiga gelada a mistura dos ingredientes secos, com a mão higienizada vá amassando a manteiga com os ingredientes secos até virar uma farofa bem fina, reserve",
+      "Em outro pote bata o ovo com auxílio de um garfo até a clara e a gema se misturarem por completo, reserve",
+      "Coloque o ovo batido na mistura dos secos com manteiga, misture bem até formar uma massa que desgrude dos dedos.",
+      "Em uma forma para tortas espalhe metade da massa uniformemente sem deixar nem muito fino e nem muito grosso, fure a massa com um garfo para evitar que crie bolhas;",
+      "Preaqueça o forno por 10 minutos em 180° C ",
+      "Asse por 25 minutos ou até ficar dourado.",
+      "Recheie como preferir "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA RICARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311352-massa-crocante-para-tortas.html"
+}

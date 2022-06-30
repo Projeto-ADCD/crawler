@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CANJICA CREMOSA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de canjica branca",
+      "1 lata de leite condensado",
+      "1 vidro de leite de coco",
+      "1 caixa de creme de leite",
+      "50 g de coco ralado úmido e adoçado",
+      "1 litro de leite",
+      "5 colheres (sopa) de açúcar",
+      "2 canelas em pau",
+      "4 cravos",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a canjica de molho na água e deixe repousando de um dia para o outro.",
+      "No outro dia, escorra toda a água, coloque a canjica, os cravos, 1 canela em pau na panela de pressão, e acrescente 2 litros de água.",
+      "Deixe cozinhar na pressão durante 20 minutos. Enquanto isso, coloque em outra panela o leite, o leite condensado, o leite de coco, o creme de leite, o açúcar e leve ao fogo. Com fogo baixo, mexa por 20 minutos.",
+      "Em seguida, escorra toda a canjica da outra panela e despreze os cravos e a canela em pau.",
+      "Coloque a canjica sem água na outra panela com o leite já em ponto de fervura, adicione 1 canela em pau nova e deixe cozinhar em fogo baixo até o leite ficar cremoso (aproximadamente 20 minutos), mexendo sempre para não grudar no fundo.",
+      "E para finalizar, adicione o coco ralado úmido e adoçado antes de desligar o fogo.",
+      "Dica: você pode polvilhar canela em pó ou amendoim ao servir a canjica."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JESSICA CASSAN ALAMINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307368-canjica-cremosa-com-leite-condensado.html"
+}

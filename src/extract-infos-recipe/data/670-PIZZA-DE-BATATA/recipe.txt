@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PIZZA DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batata médias (cozidas)",
+      "1/2 copo de leite morno",
+      "1 tablete de margarina ou 100 g de margarina",
+      "30 g de fermento de pão",
+      "1 pitada de sal",
+      "1/2 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Depois de cozinhar as batatas escorrer e espremer ainda quente.",
+      "Reserve.",
+      "Em uma tigela coloque o fermento o leite morno e o margarina.",
+      "Até dissolver tudo depois misture com as batatas e acrescente o sal, misture bem, e acrescente a farinha de trigo aos poucos até soltar das mãos, pode ser que precise de um pouco mais de farinha dependendo do tipo de batata.",
+      "Cubra com um saco plástico e deixe descansar por meia hora, depois untar o tabuleiro e acrescentar o recheio a gosto.",
+      "Rendimento de um tabuleiro grande."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312071-pizza-de-batata.html"
+}

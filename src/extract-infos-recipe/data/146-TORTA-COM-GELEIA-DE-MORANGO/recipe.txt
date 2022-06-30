@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA COM GELEIA DE MORANGO",
+  "ingredientes": {
+    "PARA A GELEIA": [
+      "300 g de morango picado",
+      "1/2 limão espremido",
+      "4 colheres (sopa) de açúcar"
+    ],
+    "PARA O CREME BRANCO": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "6 colheres (sopa) de açúcar",
+      "3 colheres de sopa de amido de milho",
+      "2 xícaras de leite em pó",
+      "1 xícara e 2/3 de leite (400 ml)"
+    ],
+    "PARA A BASE": [
+      "1 pacote de biscoito maisena (200 g)",
+      "4 colheres (sopa) rasas de margarina ou manteiga (com ou sem sal)"
+    ]
+  },
+  "passos": {
+    "GELEIA": [
+      "Coloque o morango, açúcar e o limão espremido em uma panela, misture bem, ponha no fogo médio até q reduza bem, após isso coloque na geladeira com a tampa aberta e deixe descansar por 30 minutos."
+    ],
+    "CREME BRANCO": [
+      "Ponha o leite condensado, o creme de leite, açúcar, amido de milho e leite em pó em uma panela, não muito rasa, mexa bem, leve ao fogo baixo e adicionando o leite aos poucos, lembre-se de sempre mexer bem. Deixe ferver, leve a geladeira por 30 minutos sem a tampa."
+    ],
+    "BASE": [
+      "Triture o biscoito/bolacha no liquidificador (se ficar com alguns pedaços, não tem problema), derreta a margarina/manteiga e ponha em um recipiente junto com a farinha de biscoito, misture com a mão, até o ponto em que aperte e fique no formato sem se esfarelar. Ponha na forma em que ira utilizar e coloque no forno a 180° ate dourar levemente a parte de cima (é bem rápido, então atente-se ao forno). Após retirar deixe esfriar por uns 15 minutos."
+    ],
+    "MONTAGEM": [
+      "Pegue o creme branco e coloque na base (se eles estiver muito espesso, basta colocar um pouco de leite misturar, com ele frio mesmo), por cima do creme coloque a geleia. E esta finalizado."
+    ]
+  },
+  "tempo_de_preparo": "138 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LAURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314197-torta-com-geleia-de-morango.html"
+}

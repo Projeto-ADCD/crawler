@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CAFÉ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de café solúvel",
+      "1 xícara de água quente",
+      "200 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bote em um recipiente todos os ingredientes",
+      "Bata na batedeira todos os ingredientes até eles ficarem uma pasta cremosa",
+      "Depois, bata tudo é coloque um pouco no leite frio ou quente (da sua preferência) e misture",
+      "E está pronto, agora é só aproveitar",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se vocês sentirem que está sem açúcar é só adicionar mais um pouco "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANNA VICTORIA REIS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307489-cafe-cremoso.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ENROLADO DE LASANHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 tiras de massa de lasanha",
+      "1/2 caixa de creme de leite",
+      "1 colher (sopa) de requeijão",
+      "100 g de presunto ralado",
+      "100 g de mussarela ralada",
+      "1 pacote de molho de tomate",
+      "6 fatias de mussarela",
+      "cheiro-verde a gosto",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe rapidamente as tiras de lasanha, deixando as mesmas ao dente.",
+      "Em uma vasilha misture o presunto, a mussarela ralada, os temperos, o creme de leite, o cheiro-verde e o requeijão.",
+      "Em uma travessa ou forma, coloque metade do molho de tomate.",
+      "Em uma superfície lisa, pegue cada tira, e com a ajuda de uma colher, vá colocando pequenas quantidades da mistura.",
+      "Enrole as tiras de forma que fiquem firmes e coloque na travessa sobre o molho.",
+      "Coloque o restante do molho por cima dos enrolados.",
+      "Cubra com as fatias de mussarela e salpique com orégano.",
+      "Leve ao forno por aproximadamente 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308463-enrolado-de-lasanha.html"
+}

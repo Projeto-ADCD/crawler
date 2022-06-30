@@ -1,0 +1,21 @@
+{
+  "nome_receita": "ABÓBORA ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora pequena (pode ser qualquer tipo de abóbora)",
+      "temperos a gosto",
+      "1 colher (sopa) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a abóbora em fatias finas",
+      "Tempere com o azeite e os temperos desejados",
+      "Leve para assar na airfryer ou no forno comum a 180º C por 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309289-abobora-assada.html"
+}

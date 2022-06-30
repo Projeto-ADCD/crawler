@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CUSCUZ FITNESS COM MUÇARELA LIGHT",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de flocão de milho seco",
+      "50 ml (ou 50 g) de água p/ hidratar (é importante ser exato)",
+      "5 g de semente de chia (opcional, é para aumentar o valor nutricional)",
+      "30g de mussarela light em pedaço (fazer um pedaço cúbico)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Hidrate o flocão com a chia por 10 minutos, dando uma misturadinha de tempo em tempo (vai ficar arenoso)",
+      "Coloque sal à gosto",
+      "Unte a cuscuzeira com um pouquinho de manteiga ou margarina",
+      "Monte na cuscuzeira com o pedaço de muçarela dentro (bem ao centro)",
+      "Coloque para cozinhar na cuscuzeira tetinha já fervendo e esperar cozinhar no vapor por 10 min",
+      "Calorias: 280",
+      "Carboidratos: 42g (3g de fibra)",
+      "Proteínas: 13g",
+      "Gorduras: 9g"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314327-cuscuz-fitness-com-mucarela-light.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 caixa de leite condensado",
+      "1 pacote de coco ralado (100 g)",
+      "2 pacotinhos (24 g) de gelatina incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela umedeça a gelatina incolor, como manda o fabricante, e deixe descansar por 5 minutos",
+      "Em quanto isso bata no liquidificador",
+      "O leite",
+      "O coco ralado",
+      "O leite condensado",
+      "Desliguei, reserve.",
+      "Em fogo baixo aqueça a gelatina já desmanchada, adicione a gelatina ao conteúdo do liquidificador e bata por mais alguns minutos.",
+      "Despeje o conteúdo pronto em um refratário e ponha na geladeira por uma hora ou até obter a consistência de gelatina.",
+      "Sirva em seguida. Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROBERTA WILBERT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312358-pudim-de-coco.html"
+}

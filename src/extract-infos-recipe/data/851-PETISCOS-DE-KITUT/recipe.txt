@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PETISCOS DE KITUT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de carne de lata (tipo kitut)",
+      "100 grs de azeitonas picadas",
+      "1 cebola ralada",
+      "1 tomate picadinho",
+      "cheiro verde picadinho",
+      "2 colheres de sopa de maisena",
+      "3 colheres de farinha de trigo",
+      "1 ovo",
+      "farinha de rosca para empanar",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "PAmasse a carne com um garfo, junte a cebola , azeitona, tomate, farinha e a maisena.",
+      "Mexa tudo e faça os bolinhos",
+      "Passe no ovo batido e na farinha de rosca e frite em óleo quente.",
+      "Esta receita é uma base para petiscos, portanto e recheio pode ser alterado para calabresa, queijo ralado, cebola, o que preferir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SHIRLEI TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311284-petiscos-de-kitut.html"
+}

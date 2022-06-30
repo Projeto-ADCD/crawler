@@ -1,0 +1,39 @@
+{
+  "nome_receita": "RATTENSCHWÄNZE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de lombo (ou outra carne de porco a gosto)",
+      "2 cebolas",
+      "2 tomates",
+      "1 pimentão vermelho",
+      "1/2 pimentão verde",
+      "1 lata de milho",
+      "1 pacote azeitona",
+      "1/2 copo vinho branco",
+      "1 caixa de creme de leite",
+      "pimenta-calabresa a gosto",
+      "1 tablete caldo de carne",
+      "10 g de trigo para engrossar o molho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a carne em tiras finas e com comprimento de aproximadamente 6 cm.",
+      "Salgar a carne em um pote alguns minutos antes de fritar",
+      "Frite até que a carne fique bem dourada.",
+      "Adicione cebola, pimenta-calabresa e caldo de carne refogue até reduzir o volume.",
+      "Adicione vinho e tomates e pimentão verde 1/3 do pimentão vermelho até reduzir volume.",
+      "Adicione creme de leite e um pouco de água.",
+      "Adicione milho e azeitona.",
+      "Analise e densidade do molho caso esteja fino dilua trigo com um pouco de agua e adicione ao molho.",
+      "Sirva acompanhado de arroz (preferencialmente) ou pão francês "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Prato criado e servido em Hamelin inspirado no conto dos irmãos Grimm Flatista de Hamelin que com sua flauta leva todos os ratos embora da cidade."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRÉ EDUARDO GUENTHER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314612-rattenschwanze.html"
+}

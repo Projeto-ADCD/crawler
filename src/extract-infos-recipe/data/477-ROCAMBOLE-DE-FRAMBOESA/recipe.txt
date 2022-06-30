@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ROCAMBOLE DE FRAMBOESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 claras do ovos",
+      "2/3 xícara (chá) de açúcar (125 g)",
+      "4 gemas batidas",
+      "3/5 xícara (chá) de farinha de trigo (85 g)",
+      "1/3 xícara (chá) de amido de milho (40 g)",
+      "1/4 xícara (chá) de chocolate em pó (40 g)",
+      "1 colher (chá) de fermento em pó"
+    ],
+    "RECHEIO": [
+      "1 2/3 xícara (chá) de creme de leite fresco (400 ml)",
+      "1/3 xícara (chá) de açúcar (70 g)"
+    ],
+    "DECORAÇÃO": [
+      "açúcar de confeteiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 220° C, e forre uma assadeira com papel - manteiga.",
+      "Bata as claras em neve com 2 colheres (sopa) de água fria.",
+      "Adicione o açúcar aos poucos , então , acrescente as gemas .",
+      "Misture a farinha de trigo, o amido de milho, o chocolate em pó e o fermento e peneire na mistura de claras.",
+      "Mexa lentamente, depois espalhe a massa em uma assadeira para o rocambole e asse por 12 minutos.",
+      "Desenforme-o em um guardanapo de tecido limpo, polvilhado com açúcar.",
+      "Com cuidado retire o papel-manteiga, enrole-o e deixe esfriar.",
+      "Bata o creme de leite e o açúcar até o ponto de chantili.",
+      "Desenrole a massa, espalhe o creme e as framboesas.",
+      "Enrole e deixe descansar na geladeira por pelo menos 3 horas . Polvilhe açúcar de confeiteiro para servir."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BIA E SUAS EXPERIÊNCIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312723-rocambole-de-framboesa.html"
+}

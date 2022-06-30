@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SOUFLÊ DE ABOBRINHA ITALIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha italiana média",
+      "1 cebola média picada",
+      "2 dentes de alho amassados",
+      "2 gemas",
+      "2 claras",
+      "1 colher (sopa) de amido de milho",
+      "2 colheres (sopa) de cebolinha verde picada",
+      "2 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de azeite",
+      "50 g de queijo mussarela ralado ou cortado em cubinhos pequenos.",
+      "30 g de queijo parmesão ralado",
+      "Leite o que for necessário",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale a abobrinha italiana em ralo grosso.",
+      "Em uma panela funda coloque o azeite e refogue a cebola picada com o alho.",
+      "Acrescente a abobrinha ralada e deixe refogar.",
+      "Coloque sal e pimenta a seu gosto.",
+      "Retire o refogado do fogo e acrescente, uma a uma, as gemas dos ovos.",
+      "Misture tudo muito bem.",
+      "Dissolva o amido de milho em um pouco de leite e acrescente ao refogado e deixe engrossar em fogo baixo, sempre mexendo.",
+      "Se ficou muito duro, acrescente um pouco mais de leite. O refogado deve ficar como uma massa de bolo.",
+      "Acrescente a cebolinha e a salsinha picadas, o queijo mussarela ralado ou picadinho e as claras em neve.",
+      "Mexa bem e com cuidado.",
+      "Unte uma forma refratária com manteiga e acrescente o refogado de abobrinha.",
+      "Leve ao forno preaquecido, em temperatura média por uns 20 minutos ou até dourar.",
+      "Sirva quente como um acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314414-soufle-de-abobrinha-italiana.html"
+}

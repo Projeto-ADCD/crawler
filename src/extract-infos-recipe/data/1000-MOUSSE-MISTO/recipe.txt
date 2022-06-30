@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOUSSE MISTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 latas de leite condensado",
+      "2 pcts de suco de maracujá",
+      "2 pcts de suco de morango",
+      "1 lata de achocolatado da grande",
+      "8 caixas de creme de leite pequena",
+      "8 uvas",
+      "1 pote de uva passas",
+      "1 pote frutas cristalizadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata 1 caixinha de leite condensado com 2 pcts de suco de morango e 2 caixinhas de creme de leite.",
+      "Faça a primeira camada no pirex, jogue um mão cheia de uvas passas e frutas cristalizadas.",
+      "Bata 1 caixinha de leite condensado com 2 pcts de suco de maracujá e 2 caixinhas de creme de leite.",
+      "Faça a 2 camada, mesmo processo das uvas passas e frutas cristalizadas.",
+      "Bata 1 caixinha de leite condensado e 2 cremes de leite e o Nescau.",
+      "Faça a 3 camada e última.",
+      "Corte as uvas, monte a decoração do prato, e jogue uvas passas e frutas cristalizadas a seu gosto.",
+      "Deixe congelar durante 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310547-mousse-misto.html"
+}

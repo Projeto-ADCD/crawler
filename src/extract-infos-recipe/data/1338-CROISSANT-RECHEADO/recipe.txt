@@ -1,0 +1,52 @@
+{
+  "nome_receita": "CROISSANT RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 xícaras de farinha de trigo",
+      "10 g de fermento biológico instantâneo",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de água morna",
+      "2 colheres (sopa) rasas de açúcar",
+      "3 ovos ",
+      "1 colher (chá) de sal",
+      "1/2 xícara de água",
+      "50 g de manteiga",
+      "Para o recheio e cobertura ",
+      "1 lata de leite condensado",
+      "4 colheres de achocolatado",
+      "1 colher de manteiga",
+      "1 barra de chocolate branco",
+      "1 caixa de morango "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a massa",
+      "Dissolva o fermento na água morna, depois adicione o açúcar.",
+      "Espere de 2 a 5 minutos para o fermento reagir.",
+      "Adicione a água, os ovos, a manteiga e misture.",
+      "Incorpore 1/2 xícara de farinha de trigo e o sal aos poucos",
+      "Sobre uma superfície, amasse com as mãos, polvilhando farinha.",
+      "Quando a massa estiver lisa, faça uma bola e coloque-a em uma tigela polvilhada com farinha.",
+      "Cubra com um saco plástico e um pano de prato.",
+      "Deixe descansar por 40 minutos.",
+      "À parte, misture a manteiga e uma colher (sopa) de farinha para folhar a massa.",
+      "Abra a massa com um rolo e espalhe a mistura sobre ela",
+      "Dobre a massa como um pacote para a manteiga não sair.",
+      "Abra-a novamente na mesa polvilhada com farinha, virando a massa dos dois lados.",
+      "Corte 10 triângulos e enrole-os como croissant.",
+      "Enrole até a ponta mais fina e acomode na assadeira untada e polvilhada com farinha.",
+      "Aqueça o forno em temperatura média por 10 minutos.",
+      "Enquanto a massa cresce, pincele com o ovo batido e asse até dourar.",
+      "Cobertura e recheio",
+      "Junte o leite condensado, o achocolatado e a manteiga em uma panela e misture até ficar cremoso (antes do ponto do brigadeiro)",
+      "Derreta o chocolate branco em banho-maria",
+      "Decore e recheie com os chocolates e o morango"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308837-croissant-recheado.html"
+}

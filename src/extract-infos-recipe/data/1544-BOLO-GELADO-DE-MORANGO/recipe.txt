@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLO GELADO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "2 xícaras (chá) de açúcar",
+      "5 ovos",
+      "1 xícaras (chá) de amido de milho",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de suco de laranja",
+      "1 colher (sobremesa) de fermento químico",
+      "RECHEIO",
+      "1 lata de leite condensado",
+      "2 latas de leite comum (medida da lata de leite condensado)",
+      "2 colheres (sopa) de amido de milho",
+      "2 gemas",
+      "300 g de morango",
+      "COBERTURA",
+      "chantili de caixinha ou marshmallow",
+      "morangos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Na batedeira bata os ovos e o açúcar por 10 minutos ou até obter um creme.",
+      "Junte o suco de laranja aos poucos com a batedeira ligada.",
+      "Acrescente o trigo o amido de milho peneirados bem devagar e mexendo de baixo para cima com uma colher de pau ou um fuê.",
+      "Por último o fermento. Coloque em uma forma redonda untada e polvilhada com farinha de trigo.",
+      "Asse por 20 a 30 minutos à 200° C.",
+      "Após assar, corte o bolo em 2 partes e coloque o recheio.",
+      "Decore com chantili e morangos.",
+      "RECHEIO",
+      "Em uma panela, coloque o leite (reserve um pouco), o leite condensado, o amido de milho dissolvido no leite reservado e as gemas.",
+      "Leve ao fogo e mexa até engrossar.",
+      "Desligue e junte os morangos picados. Reserve.",
+      "Dicas: regue o bolo antes de rechear. Se quiser pode colocar chantili no recheio também."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SUMAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307744-bolo-gelado-de-morango.html"
+}

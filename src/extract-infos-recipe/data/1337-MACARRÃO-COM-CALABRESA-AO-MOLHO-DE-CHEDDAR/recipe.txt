@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MACARRÃO COM CALABRESA AO MOLHO DE CHEDDAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão tipo Pene",
+      "1 colher de manteiga (15 ml) (pode substituir por óleo de soja)",
+      "1 cebola média picada",
+      "2 colheres de trigo (15 g)",
+      "1/2 litro de leite",
+      "200 g de requeijão tipo cheddar (sem amido)",
+      "200 g de calabresa",
+      "150 g de bacon",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "noz moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e a calabresa e reserve",
+      "Frite a cebola na manteiga até ela ficar dourada em fogo alto, acrescente o trigo e mexa bem, e abaixe o fogo, Acrescente o leite aos poucos mexendo sem parar até ficar cremoso, Acrescente o Sal, Pimenta do reino, noz moscada e o cheddar mexa bem até conseguir uma mistura homogênea, e cremosa.",
+      "Acrescente o bacon e a calabresa misture bem, e desligue o fogo.",
+      "Durante a preparação do Molho mantenha uma panela com água para cozinhar o macarrão, assim que a água levantar fervura, acrescente o sal e o macarrão, até o cozimento ao ponto de sua preferencia.",
+      "Em uma refratária misture o molho e o macarrão e sirva."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CARLOS HENRIQUE SÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308839-macarrao-com-calabresa-ao-molho-de-cheddar.html"
+}

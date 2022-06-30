@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de arroz cozido ",
+      "100 g de tomate seco ",
+      "80 g de queijo parmesão ralado ",
+      "50 g de farinha de trigo ",
+      "1 ovo ",
+      "noz-moscada a gosto ",
+      "pimenta-do-reino a gosto",
+      "pimenta-da-jamaica a gosto",
+      "sal a gosto",
+      "cheiro-verde a gosto",
+      "150 g de queijo mussarela em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture os primeiros 10 ingredientes muito bem",
+      "Quando se formar uma mistura mais homogênea, reserve",
+      "Com o auxílio de uma colher (sopa), retire um pouco da massa e modele na mão",
+      "Recheie com o queijo mussarela e feche muito bem para não abrir na panela",
+      "Leve para fritar em óleo quente",
+      "Retire, escorra em papel-toalha e sirva acompanhado de um molho de sua preferência"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314521-bolinho-de-arroz-recheado.html"
+}

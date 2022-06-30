@@ -1,0 +1,21 @@
+{
+  "nome_receita": "ÁGUA SABORIZADA COM CAMOMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 l de água filtrada em temperatura ambiente",
+      "2 colheres (sopa) de camomila em flores seca",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma jarra, misture a água filtrada e a camomila.",
+      "Deixe descansar por 2 horas na geladeira, de preferência com tampa.",
+      "Coe a água e sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314349-agua-saborizada-com-camomila.html"
+}

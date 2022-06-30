@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PENNE DO FERNANDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g De Penne",
+      "200 g De Presunto Parma",
+      "12 Dentes De Alho",
+      "50 g De Cebola Roxa",
+      "10 Tomates Holandeses Pequenos (Em Penca)",
+      "250 g de Peito De Frango",
+      "6 Colheres De Azeite",
+      "salsinha",
+      "manjericão",
+      "pimenta-do-reino",
+      "pimenta-dedo-de-moça",
+      "1/2 copo da água do cozimento da massa",
+      "50 g de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere uma hora antes, o peito de frango, cortados em cubos pequenos, com cebola, alho, pimenta do reino, salsinha e sal.",
+      "Frite no azeite, o presunto parma contado em lascas finas, escorra, deixe bem crocante e reserve.",
+      "Frite 4 dentes de alho bem picados, crarinhos, escorra e reseve.",
+      "Refogue meia colher de cebola roxa picada, 8 dentes de alho em fatias finas, 10 tomates holandeses, (em penca), mais adocicados, cortados em 4, a pimenta dedo de moça sem sementes bem picada e reserve.",
+      "Frite o frango já temperado, dourado, e reserve.",
+      "Cozinhe a massa, sem óleo ou sal, ao dente.",
+      "Na mesma frigideira, coloque a massa e acrescente os ingredientes, uma pitada de sal, misturando com delicadeza, primeiro a cebola, o alho e os tomates, depois o frango e a água. desligue o fogo, acrescente 2 colheres de azeite, o alho frito, o presuto e as folhas de manjericão. salpique com o queijo parmezão cortados em lascas finas. pronto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDO MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312207-penne-do-fernando.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CACHORRO QUENTE DE LANCHONETE (SEGREDO REVELADO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "1/2 copo de água",
+      "1 molho de tomate",
+      "10 salsichas",
+      "1 colhes (sopa) de sal",
+      "salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a cebola e a água no liquidificador e bata ate formar um creme.",
+      "Em uma panela coloque as salsichas o molho os temperos e o creme de cebola",
+      "Misture bem e cozinhe por aprox. 20 minutos",
+      "Ai é so por no pão.",
+      "Obs: pode adicionar purê, batata palha, maionese etc..."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL MACIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312069-cachorro-quente-de-lanchonete-segredo-revelado.html"
+}

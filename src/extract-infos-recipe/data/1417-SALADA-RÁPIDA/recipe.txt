@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "óleo de soja ou de coco",
+      "1 peito de frango",
+      "1/2 cebola",
+      "1/2 limão",
+      "1 tomate",
+      "1 pimentão",
+      "6 ovos de codorna",
+      "1 maionese light",
+      "orégano a gosto",
+      "1 alface da sua preferência",
+      "1 milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o óleo, frango temperado cortado em quadrado, meia cebola e meio suco de limão.",
+      "Lave os vegetais, em uma tábua corte o tomate, pimentão e o alface.",
+      "Já com o ovo de codorna cozido, em um prato ou vasilha coloque todos os ingredientes de forma separada",
+      "Coloque óregano, milho e maionese por cima.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA ISABEL SANTOS MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308450-salada-rapida.html"
+}

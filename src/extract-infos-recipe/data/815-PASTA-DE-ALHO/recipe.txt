@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PASTA DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "10 dentes de alho",
+      "1 xícara de óleo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador,ate virar uma pasta homogênea",
+      "Caso necessário adicione mais óleo",
+      "Logo após ter batido todos ingredientes coloque em uma vasilha de sua preferência e leve à geladeira por 30 minutos para descanso"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WESLLEY FERNANDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311456-pasta-de-alho.html"
+}

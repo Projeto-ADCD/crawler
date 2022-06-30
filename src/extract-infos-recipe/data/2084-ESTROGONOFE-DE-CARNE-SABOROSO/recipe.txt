@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ESTROGONOFE DE CARNE SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de carne bovina (alcatra, coxão mole ou patinho)",
+      "2 colheres (sopa) de manteiga",
+      "1 cebola grande picada",
+      "2 dentes de alho picados",
+      "1 xícara (chá) de champignon em conserva fatiado",
+      "1 colher (sopa) de molho inglês",
+      "5 colheres (sopa) de ketchup",
+      "1 xícara (chá) de vinho branco seco",
+      "1 lata de creme de leite",
+      "1 tablete de carne ou costela",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a carne em tiras finas.",
+      "Aqueça uma panela funda com a manteiga.",
+      "Vá colocando a carne aos poucos para refogar (não coloque tudo de uma vez para não formar muito liquido)",
+      "Refogue tudo por uns 10 minutos, sempre mexendo para não grudar.",
+      "Acrescente a cebola e o alho picados e deixe refogar por uns 3 minutos.",
+      "Acrescente o vinho e o tablete de caldo de carne dissolvido em um pouco de água quente.",
+      "Deixe ferver por uns minutos.",
+      "Acrescente o ketchup. o molho inglês e o champignon .",
+      "Coloque pimenta a gosto e sal se necessário.",
+      "Deixe refogar por uns 2 minutos.",
+      "Acrescente o creme de leite e cozinhe até levantar fervura.",
+      "Retire do fogo e sirva em seguida acompanhado de arroz e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306064-estrogonofe-de-carne-saboroso.html"
+}

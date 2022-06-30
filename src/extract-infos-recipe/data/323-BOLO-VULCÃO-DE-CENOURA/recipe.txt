@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO VULCÃO DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 cenouras médias (250g)",
+      "4 ovos",
+      "1/2 xícara (chá) de óleo",
+      "2 1/2 xícaras (chá) de farinha de trigo",
+      "2 xícaras (chá) de açúcar",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de chocolate em pó ou 3 de achocolatado",
+      "1 colher (sopa) rasa de manteiga",
+      "1 caixa de creme de leite",
+      "Chocolate granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata no liquidificador a cenoura, juntamente com os ovos, açúcar e óleo, até ficar bem misturado e homogêneo.",
+      "Transfira essa mistura para um pote e vá juntando a farinha peneirada e misturando muito bem.",
+      "No fim, adicione o fermento em pó.",
+      "Leve em forno a 180º por aproximadamente 45 minutos.",
+      "Cobertura",
+      "Em uma panela coloque o leite condensado com a manteiga e o chocolate em pó (achocolatado), misture tudo e leve ao fogo baixo-médio até que vire um brigadeiro e desgrude do fundo da panela.",
+      "Tire do fogo e, logo em seguida, acrescente uma caixa de creme de leite e misture muito bem. Deixe descansar até o bolo assar.",
+      "Desenforme o bolo e coloque a cobertura por cima junto com o granulado de chocolate para decorar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313177-bolo-vulcao-de-cenoura.html"
+}

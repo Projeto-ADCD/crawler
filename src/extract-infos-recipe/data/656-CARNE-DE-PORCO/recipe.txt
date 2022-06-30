@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CARNE DE PORCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho",
+      "1,4 kg de carne de porco",
+      "sal e pimenta-do-reino agosto",
+      "2 fios de óleo",
+      "água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o alho",
+      "Depois de dourado coloque a carne",
+      "É tempere a gosto",
+      "Deixe fritar",
+      "De algumas mexidas para não queimar",
+      "É vá colocando água aos poucos",
+      "Não esqueça de tampar a panela",
+      "E vai mexendo",
+      "Obs: deixe em fogo alto",
+      "Se quiser ir mais rápido coloque na pressão",
+      "Se ficar sem sal vai adicionando mais",
+      "Coloque água deixe fritar vai mexendo e adicione mais água",
+      "Vai fazendo esse processo até a carne tiver quase desmanchando",
+      "Beijos espero que gostem."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA JULIA CASTILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312137-carne-de-porco.html"
+}

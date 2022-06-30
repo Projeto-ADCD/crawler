@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "PARA MASSA",
+      "1 pacote de bolacha maria ou maisena",
+      "4 colheres (sopa) de margarina sem sal",
+      "PARA RECHEIO",
+      "2 maracujás",
+      "1 caixa ou lata de leite condensado",
+      "2 caixas ou latas de creme de leite",
+      "PARA COBERTURA",
+      "4 colheres (sopa) de açúcar",
+      "poupa com sementes do maracujá"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Triture as bolachas no liquidificador até formar uma farofa coloque em um recipiente (aconselho usar o da batedeira)",
+      "Adicione margarina e misture com as mãos até formar uma massa que desgrude.",
+      "Após coloque na forma com fundo falso sem untar forrando o fundo e as laterais.",
+      "Leve ao fono em 180° C por 7 minutos.",
+      "RECHEIO",
+      "No liquidificador adicione o creme de leite, o leite condensado e com o auxilio de uma peneira passe a poupa do maracujá e bata por 5 minutos.",
+      "Separe as sementes para a calda.",
+      "Retire do forno a forma e despeje dentro da massa o mousse.",
+      "CALDA",
+      "Derreta as colheres de açúcar com as sementes de maracujá em fogo baixo até formar uma calda.",
+      "Despeje sobre o mousse.",
+      "Leve à geladeira aguarde a consistência, provável umas 2 horas",
+      "Retire o fundo e saboreie!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306522-torta-de-maracuja.html"
+}

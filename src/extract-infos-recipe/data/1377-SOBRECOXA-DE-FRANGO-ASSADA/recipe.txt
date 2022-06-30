@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOBRECOXA DE FRANGO ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxas de frango",
+      "1/2 xícara (café) de suco de limão taiti",
+      "tomilho fresco",
+      "1 colher (de sopa) de alho triturado ou picado/miúdo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No dia anterior de assar, tempere as sobrecoxas misturando-as a todos os ingredientes.",
+      "Reserve em um pote bem tampado e conserve na geladeira.",
+      "Para assar coloque as sobrecoxas numa assadeira com a pele voltada para baixo, coloque todo o tempero por cima e cubra com papel alumínio.",
+      "Leve ao forno a 180° C por aproximadamente 1 hora 30 minutos.",
+      "Veja se já estão cozidas (não coradas).",
+      "Retire o papel alumínio, vire a parte da pele para cima e leve de volta ao forno para corar.",
+      "Para corar aumente a temperatura do forno para 200° C.",
+      "Estarão prontas quando estiverem bem coradas."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CINTIA S S",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308653-sobrecoxa-de-frango-assada.html"
+}

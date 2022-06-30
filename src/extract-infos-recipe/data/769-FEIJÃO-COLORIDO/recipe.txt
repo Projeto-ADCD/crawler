@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FEIJÃO COLORIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de feijão preto ",
+      "2 xícaras de feijão carioca (marrom) ",
+      "1 pimentão vermelho cortado a gosto",
+      "5 folhas de couve rasgadas",
+      "1 a 2 cabeças de alho descascado a gosto",
+      "1 a 2 linguiças calabresa defumada cortada em cubinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misturar os dois tipos de feijão e deixar de molho até inchar",
+      "Amassar grosseiramente com a mão as cabeças de alho e colocar no azeite para dourar",
+      "Em seguida colocar a calabresa e o pimentão vermelho, aguardar até que os itens estejam dourados",
+      "Desprezar a água do molho do feijão e adicionar na panela de pressão",
+      "Colocar água até cobrir o feijão e adicionar o caldo que deseja, mais ralo (mais água) ou mais grosso (menos água)",
+      "Ferver na panela de pressão 30 minutos em fogo baixo depois de pegar a pressão",
+      "Abrir a panela e acertar o sal e o caldo do feijão (com mais ou menos água)",
+      "Se for um caldo mais grosso, com essa marca não é necessário nem amassar feijão para conseguir o caldo grosso (igual da foto)",
+      "A união dos dois tipos de feijão é o segredo da receita, ambos deixam um caldo bem saboroso.",
+      "O restante dos ingredientes é a gosto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KATIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311638-feijao-colorido.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CALDO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata inglesa",
+      "1,3 litros de água",
+      "sal a gosto",
+      "3 folhas de couve (sem o talo) ",
+      "150 g de bacon ",
+      "1 gomo de linguiça Calabresa ",
+      "1/2 gomo de linguiça Paio ",
+      "1 dente de alho (grande) ",
+      "1 cebola média"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas com a quantidade de água indicada e não escorra.",
+      "Bata no liquidificador as batatas com a própria água do cozimento, acrescente a água aos poucos, até atingir a consistência adequada (ponto de caldo grosso), se necessário, acrescente mais água. Reserve.",
+      "Em uma panela antiaderente, frite um pouco o bacon em cubos, até ele começar a liberar a gordura.",
+      "Acrescente a linguiça picada e frite um pouco mais.",
+      "Coloque o alho picado, misture e coloque a cebola picada, refogue até dourar.",
+      "Quando o alho estiver dourado e a cebola amarelada, acrescente a mistura do liquidificador.",
+      "Espere o caldo ferver, mexendo de vez em quando, para não grudar.",
+      "Quando ferver, coloque a couve cortada fina, misture e deixe cozinhar em fogo baixo por 3 minutos.",
+      "Após 3 minutos, pague o fogo e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "PRINCESA PRÁTICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308027-caldo-verde.html"
+}

@@ -1,0 +1,58 @@
+{
+  "nome_receita": "RAVIÓLI DE ABOBRINHA",
+  "ingredientes": {
+    "MASSA": [
+      "400 g de farinha de trigo",
+      "200 g de semola",
+      "6 ovos caipiras",
+      "1 g de sal",
+      "40 ml de água (se necessário)"
+    ],
+    "RECHEIO": [
+      "320 g de ricota fresca",
+      "500 g de abobrinha",
+      "90 g de ovo",
+      "100 g de parmesão",
+      "7 g sal",
+      "3 g de pimenta do reino",
+      "20 g de azeite",
+      "40 g de salsinha",
+      "10 g de salvia"
+    ],
+    "PAN GRATTATO": [
+      "50 ml de azeite",
+      "15 g de alho",
+      "10 g de salsinha",
+      "10 ml de suco de limão siciliano",
+      "raspa de 1 limão siciliano",
+      "300 g de pão dormido"
+    ]
+  },
+  "passos": {
+    "PARA A MASSA": [
+      "Bata todos os ingredientes menos a água em uma batedeira planetária com o gancho",
+      "Caso necessário adicione água aos poucos até dar o ponto na massa (ela deve soltar do bowl e não grudar na mão, mas não pode ter aparencia ressecada)",
+      "Enrole em plastico-filme e deixe descansar por 30 minutos"
+    ],
+    "PARA O RECHEIO": [
+      "Corte a abobrinha em cubos bem pequenos, e refogue pouco a pouco em uma panela bem quente, para tostar bem. Tostando de pouco em pouco, e reservando as abobrinhas já tostadas.",
+      "Processe no processador de alimentos o ovo, parmesão, sal, azeite, pimenta-do-reino, e misture com a ricota.",
+      "Coloque num bowl a mistura de ricota e a abobrinhas e mexa delicadamente. Acerte o sal e adicione a salsinha e salvia picadas.",
+      "Abra a massa com 5 mm de espessura, e recheie em formato de ravioli (ou o formato desejado)"
+    ],
+    "PARA O PAN GRATTATO": [
+      "Refogue o alho com o azeite e adicionar o pão dormido ralado ou processado",
+      "Refogue bem até dourar a farinha de pão, adicione a raspa e suco de limão siciliano e refogue até secar",
+      "Separe e resfrie, acertar sal e adicione a salsa picada"
+    ],
+    "PARA SERVIR": [
+      "Cozinhe a massa, e refogue um pouco de salvia e alho em uma frigideira.",
+      "Quando a massa subir e estiver cozida, adicione e salteie no azeite de salvia da panela",
+      "Emprate e finalize com o pão grattato e folhas de manjericão"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309599-ravioli-de-abobrinha.html"
+}

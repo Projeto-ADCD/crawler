@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BROWNIE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "2 colheres (sopa) de margarina",
+      "2 xícaras de achocolatado",
+      "1 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar com os ovos (o açúcar deve derreter, se não não fica aquela casquinha em cima)",
+      "Derreta a margarina (não pode ferver) e acrescente no açúcar e ovos.",
+      "Misture a farinha e o achocolatado até ficar uma massa homogênea.",
+      "Numa forma untada com margarina, acrescente a massa e leve ao forno por 180° C durante 35 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "As colheres de margarina são bem cheias"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VANESSA PINHEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307331-brownie-simples.html"
+}

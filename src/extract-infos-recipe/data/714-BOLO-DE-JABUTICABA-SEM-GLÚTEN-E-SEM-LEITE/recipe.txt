@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE JABUTICABA SEM GLÚTEN E SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de jabuticabas",
+      "1/2 xícara de açúcar demerara ou a gosto, ou adoçante",
+      "2 colheres (sopa) de óleo de girassol ou óleo de cocô",
+      "3 ovos",
+      "1 xícara e 1/2 de farelo de aveia sem glúten",
+      "1 colher (sopa) rasa de fermento em pó",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater os 4 primeiros ingredientes no liquidificador (as jabuticabas inteiras mesmo) e depois acrescentar o farelo de aveia e o fermento e mexer.",
+      "Assar em forno preaquecido a 180° C por 35 minutos.",
+      "Não é um bolo que cresce muito mas é muito saboroso"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SILMARA JANEGITZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311962-bolo-de-jabuticaba-sem-gluten-e-sem-leite.html"
+}

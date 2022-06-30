@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CAPA DE CONTRAFILÉ ASSADO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de capa de contrafile",
+      "1 limão",
+      "1 colher (sopa) de shoyu",
+      "1 colher (sobremesa) de páprica doce",
+      "pimenta calabresa a gosto",
+      "ervas finas a gosto",
+      "sal a gosto",
+      "4 batatas inglesas",
+      "orégano",
+      "azeite ou margarina (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte ao meio a capa da carne e faça furos para o tempera toda a carne.",
+      "Em um recipiente misture todos os temperos. Depois tempere a carne e deixe marinar por 20 minutos.",
+      "Pegue as batatas e corte em rodelas, depois tempere com orégano e sal a gosto",
+      "Unte a forma com azeite ou margarina. Depois coloque a carne e as batatas ",
+      "Deixe no forno por uns 40 minutos",
+      "Retire e decore!",
+      "Uma delícia para ser servido no almoço ou jantar!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LUANA OLIVEIRA FEITOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313145-capa-de-contrafile-assado-no-forno.html"
+}

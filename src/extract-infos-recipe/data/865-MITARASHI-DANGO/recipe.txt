@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MITARASHI DANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farinha de arroz (glutinoso)",
+      "150 ml de água",
+      "2 colheres (sopa) de shoyu",
+      "2 colheres (sopa) de mirim",
+      "4 colheres (sopa) de açúcar",
+      "150 ml de água",
+      "2 colheres (sopa) de fécula de batata/amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque a farinha de arroz e coloque a água (150 ml) aos poucos. Misture até ficar uma massa bem lisinha, sem grudar na mão.",
+      "Faça um bolo com a massa e corte em aproximadamente 24 pedaços iguais.",
+      "Enrole os pedacinhos até ficarem bem redondos.",
+      "Coloque-os em uma panela média-grande com água fervente. Assim que começarem a boiar (o que deve levar cerca de 30-45 minutos), inicie o cronômetro em 2 minutos.",
+      "Quando o tempo acabar, retire da água fervente e coloque direto em um recipiente com água e gelo para parar o cozimento.",
+      "Em uma panela, coloque o restante dos ingredientes (shoyu, mirim, açúcar, fécula de batata/amido de milho e água). Mexa bem e leve ao fogo. Quando adquirir uma consistência parecida com um mingau, apague o fogo e coloque em um recipiente raso.",
+      "Molhe alguns palitos de madeira com um pouco de água e espete 4 bolinhos de arroz em cada, deixando-os encostados um no outro.",
+      "Dê uma leve tostada em 2 lados dos bolinhos já no palito em uma frigideira.",
+      "Para passar a calda, você pode usar uma colher ou então passar os bolinhos direto na calda."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HELOISA MARCON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311170-mitarashi-dango.html"
+}

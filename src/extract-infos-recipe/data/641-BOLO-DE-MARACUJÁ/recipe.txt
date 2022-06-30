@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 Ooos",
+      "3 maracujás",
+      "1 xícara (chá) de açúcar",
+      "150 ml de óleo",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento químico em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 220º C por 10 minutos",
+      "Para o suco do maracujá: No liquidificador, bata as polpas dos maracujás, coe e reserve",
+      "No liquidificador, bata os ovos, o suco do maracujá, o açúcar e o óleo até ficar homogêneo e reserve",
+      "Em uma tigela, peneire a farinha de trigo e o fermento em pó, misturando estes ingredientes",
+      "Junte o líquido, misturando-o à farinha e fermento até a massa ficar homogênea",
+      "Coloque a massa na forma untada e enfarinhada",
+      "Asse por 35 minutos em forno a 220º C"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "1 forma untada e enfarinhada (forma com furo 22cm)"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MAYARA BESERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312197-bolo-de-maracuja.html"
+}

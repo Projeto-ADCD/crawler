@@ -1,0 +1,36 @@
+{
+  "nome_receita": "HOMUS ITALIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de feijão branco cozido e sem caldo",
+      "2 colheres (sopa) de tahine",
+      "2 dentes de alho",
+      "suco de um limão siciliano ",
+      "100 ml de água do cozimento do feijão ",
+      "80 ml de azeite extra virgem ",
+      "alecrim fresco para decorar ",
+      "sal a gosto",
+      "pimenta a gosto ",
+      "azeitonas pretas para acompanhar",
+      "tomate seco para acompanhar ",
+      "fatias de baguete para acompanhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o suco de limão e o alho no Liquidificador Arno Power Max 1400 Limpa Fácil, bata bem e deixe descansando por 10 minutos (isso vai ajudar a amenizar o sabor mais forte do alho).",
+      "Junte então o azeite, o tahine e a água do cozimento do feijão aos poucos. Bata até formar um creme liso com textura de maionese.",
+      "Adicione o feijão branco cozido e escorrido. Ele deve ser previamente demolhado por 12 horas e cozido por 10 minutos na pressão. O ponto é al dente. Continue adicionando o sal, a pimenta e bata bastante até obter um creme liso e aveludado. Se necessário, junte mais água do cozimento para deixar a pasta mais solta conforme seu gosto.",
+      "Espalhe sobre um prato grande, usando uma colher para formar uma cavidade no centro. ",
+      "Regue com mais azeite e adicione alecrim fresco.",
+      "A sugestão para acompanhar, também por cima, são tomates secos e azeitonas pretas. Sirva com fatias de baguete ou pão italiano."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Agora que você terminou de fazer esse homus supercremoso, é hora de limpar o que ficou no liquidificador. Para isso, o TudoGostoso tem uma dica das boas: o sistema Limpa Fácil, exclusivo da Arno, permite que você lave tudo com muito mais facilidade, basta desenroscar, lavar e já está pronto para usar novamente. É uma mão na roda pra quem ama praticidade na cozinha!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312244-homus-italiano.html"
+}

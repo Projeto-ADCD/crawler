@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PAVÊ DE LIMÃODOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "3 limões médios",
+      "10 paçocas",
+      "2 pacotes de biscoito maisena "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o leite condensado, o creme de leite e o suco de limão até que o creme fique homogêneo.",
+      "Em uma travessa média ou grande, molhe os biscoitos maisena no leite e crie uma cama de biscoitos no fundo da travessa.",
+      "Cubra a cama de biscoitos com o creme de limão que você preparou no liquidificador.",
+      "Cubra a camada de creme de limão com as paçocas trituradas (pode quebrar com as mãos mesmo).",
+      "Repita estas etapas até preencher toda a travessa, até a borda.Leve ao freezer ou geladeira para gelar.",
+      "Deixe no mínimo 1 hora, mas para uma melhor consistência, deixar no freezer por 2 horas ou mais."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCAS ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312555-pave-de-limaodoim.html"
+}

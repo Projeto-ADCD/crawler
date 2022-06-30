@@ -1,0 +1,59 @@
+{
+  "nome_receita": "LASANHA BURGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "Mini Pães",
+      "1 colher (sopa) de fermento seco",
+      "1 colher (sopa) de açúcar ",
+      "20 ml de água",
+      "1 colher (sopa) de farinha de trigo ",
+      "500 g de farinha de trigo",
+      "20 g de leite em pó",
+      "10 g de açúcar",
+      "1 colher (sopa) de sal ",
+      "50 g de manteiga",
+      "200 ml de água ",
+      "15 folhas de massa para lasanha",
+      "500 g de carne moída",
+      "1 colher de chá de cominho em pó",
+      "2 colheres de sopa de óleo",
+      "1 colher de chá de páprica defumada",
+      "1/2 colher (chá) de tomilho",
+      "1 colher (chá) de pimenta calabresa",
+      "400 g de molho bechamel pronto",
+      "400 g de molho de tomate",
+      "sal a gosto",
+      "1 cebola roxa média picada",
+      "2 dentes de alho",
+      "300 g de mussarela fatiada",
+      "300 g de presunto fatiado",
+      "200 g de queijo minas padrão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os 4 primeiros ingredientes em um recipiente.",
+      "Reserve o fermento por 15 minutos.",
+      "Em outro recipiente junte os outros ingredientes da massa do pão juntamente com o fermento ativado.",
+      "Vá sovando e adicionando a água aos poucos, até formar uma massa lisa e uniforme.",
+      "Salpique farinha em uma superfície lisa, abra uma parte massa com a ajuda de um rolo",
+      "Em seguida com uma faca divida a massa e coloque queijo minas padrão. ",
+      "Para depois fechar os mini pães.",
+      "Reserve.",
+      "Frite a carne com o óleo, a cebola, o alho e os temperos e",
+      "Por fim coloque o molho de tomate e reserve.",
+      "Em uma travessa, cubra o fundo com um pouco de molho vermelho para untar. ",
+      "Coloque folhas de massa de lasanha. ",
+      "Coloque a carne por cima, fatias presunto, fatias de queijo e o molho bechamel pronto. ",
+      "Vá montando as camadas alternando os ingredientes.",
+      "A ultima camada deve ser de queijo.",
+      "Distribua os mini pães ao redor da travessa com a lasanha. ",
+      "Pincele 1 ovo sobre os mini pães",
+      "Leve ao forno 200° C até que o queijo derreta (20 minutos). "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310751-lasanha-burguer.html"
+}

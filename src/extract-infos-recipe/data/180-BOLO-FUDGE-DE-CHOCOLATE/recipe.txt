@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO FUDGE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "¾ de xícara de manteiga",
+      "1 e 2/3 de xícara de açúcar ",
+      "2 xícaras de farinha de trigo ",
+      "5 colheres (sopa) de cacau em pó ",
+      "1 xícara de leite ",
+      "1 xícara de chocolate meio amargo derretido ",
+      "1 colher (chá) de fermento químico em pó "
+    ],
+    "COBERTURA ": [
+      "2 xícaras (chá) de creme de leite fresco gelado ",
+      "200 g de chocolate meio amargo picado ",
+      "2 colheres (sopa) de cacau em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira bata os ovos com a manteiga e o açúcar até obter uma mistura homogênea e  espumosa. ",
+      "Junte o leite, o chocolate meio amargo previamente derretido e o cacau em pó, misture. 3. Aos poucos incorpore a farinha de trigo e por último o fermento químico. ",
+      "Unte uma assadeira de aproximadamente 22 cm, coloque a massa e leve para assar em forno preaquecido a 180° C por cerca de 30 minutos. ",
+      "Enquanto o bolo assa, prepare a cobertura. Em uma tigela, coloque o chocolate picado e por cima  coloque o creme de leite aquecido (sem ferver). Deixe que o calor do creme de leite derreta o chocolate. Não mexa por 3 minutos para não talhar.",
+      "Com o batedor de arame, incorpore o cacau em pó. Leve a  mistura para geladeira por 1h ou mais. O creme deve estar bem gelado. ",
+      "Retire o bolo do forno e deixe esfriar completamente. ",
+      "Retire a cobertura da geladeira e bata na batedeira até formar um creme leve de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COCA-COLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314064-bolo-fudge-de-chocolate.html"
+}

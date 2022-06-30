@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CARNE DE PORCO COM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne de porco",
+      "200 g de açúcar",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere e ferva a carne de porco. Leve para a panela com óleo",
+      "Frite a carne e depois coloque o açúcar. Deixe o açúcar caramelizar na carne e retire"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "YAGO GUIGUIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313424-carne-de-porco-com-acucar.html"
+}

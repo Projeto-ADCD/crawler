@@ -1,0 +1,26 @@
+{
+  "nome_receita": "GIN COM XAROPE DE CRANBERRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de gin",
+      "25 ml de xarope de cranberry",
+      "2 rodelas de limão",
+      "gelo",
+      "100 ml de tônica"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o gelo e as rodelas de limão no copo e adicione o gin e o xarope.",
+      "Complete com a tônica.",
+      "Para o copo de gin tradicional são aproximadamente 100 ml de tônica.",
+      "Se o copo for menor diminua um pouco a quantidade de gin e xarope (40 para o gin e 20 para o xarope).",
+      "O xarope pode ser substituído pelo de framboesa ou outros sabores.",
+      "E o limão pode ser substituído pela lima da Persia."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307255-gin-com-xarope-de-cranberry.html"
+}

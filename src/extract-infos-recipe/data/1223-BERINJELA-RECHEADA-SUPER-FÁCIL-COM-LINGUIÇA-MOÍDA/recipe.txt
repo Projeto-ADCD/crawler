@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BERINJELA RECHEADA SUPER FÁCIL COM LINGUIÇA MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas cortadas ao meio",
+      "1 tomate ",
+      "1/2 cebola ",
+      "1/2 xícara de azeitona ",
+      "1 gomo de linguiça comum ou calabresa",
+      "2 fatias de mussarela ou o queijo que tiver",
+      "1/2 xícara de queijo parmesão (se tiver pode ser provolone ralado que fica mais dourado e com gostinho defumado)",
+      "orégano ",
+      "pimenta-do-reino ",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as berinjelas ao meio e leve no forno preaquecido uns oito minutos no tabuleiro untado com azeite para amolecer o miolo",
+      "Feito isso retire o miolo mantendo a casca da berinjela no tabuleiro mesmo",
+      "Não esqueça de deixar o forno ligado",
+      "Dica: aperte com o garfo o miolo que solta com mais facilidade sem furar a berinjela. Reserve.",
+      "Bata a linguiça ou a calabresa no liquidificador até virar uma farofa",
+      "Frite com um fio de azeite",
+      "Depois de fritinha misture o miolo com o restante dos ingredientes picados: tomate, azeitona e cebola",
+      "Desligue o fogo e acrescente o queijo",
+      "Coloque a mistura na casca da berinjela",
+      "Polvilhe com o queijo parmesão, orégano e um pouquinho de pimenta-do-reino se preferir",
+      "Leve ao forno por 5 minutos",
+      "Sirva quente",
+      "Caso queira coma com arroz e salada"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VÂNIA DO VALE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309317-berinjela-recheada-super-facil-com-linguica-moida.html"
+}

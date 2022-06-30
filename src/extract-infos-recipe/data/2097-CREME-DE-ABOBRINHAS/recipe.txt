@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CREME DE ABOBRINHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de abobrinhas cortadas em pedaços",
+      "1 colher (sopa) de manteiga",
+      "1 tomate grande picado",
+      "1 cebola média picada",
+      "2 colheres (sopa) de molho sakura",
+      "sal a gosto",
+      "2 xícaras (chá) de água",
+      "1 xícara (chá) de leite",
+      "1/2 xícara (chá) de creme de leite",
+      "1 colher de farinha de trigo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe os ingredientes.",
+      "Pique as abobrinhas grosseiramente.",
+      "Em uma panela coloque o azeite e a cebola e deixe dourar, e acrescente as abobrinhas.",
+      "Acrescente os tomates e deixe refogar.",
+      "Adicione o molho",
+      "Acrescente a água.",
+      "Dissolva a farinha de trigo no leite e deixe ferver por 15 minutos.",
+      "Retire do fogo e bata tudo no liquidificador, retorne para a panela e deixe ferver por mais 2 minutos.",
+      "Retire do fogo, adicione, mexendo sempre o creme de leite."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HAJW HSJWJ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306025-creme-de-abobrinhas.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PUDIM MEIO CHOCOLATE MEIO COCO",
+  "ingredientes": {
+    "PRIMEIRA CAMADA": [
+      "395 g  de leite condensado",
+      "200 g de creme de leite",
+      "1 xicara de chocolate em pó",
+      "200 ml de leite",
+      "1 pacote de gelatina sem sabor"
+    ],
+    "SEGUNDA CAMADA": [
+      "395 g de leite condensado",
+      "200 g de creme de leite",
+      "200 ml de leite de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingrediente da primeira camada e despeje em uma forma (untada)",
+      "Leve à geladeira e deixe ate endurecer",
+      "Bata os ingredientes da segunda camada e despeje na forma por cima da primeira camada",
+      "Leve à geladeira novamente até endurecer e esta pronto!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KARLOS VINICIUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312638-pudim-meio-chocolate-meio-coco.html"
+}

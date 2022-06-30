@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BATATA SMILLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas",
+      "3 colheres (sopa) de amido de milho",
+      "1/4 xícara de farinha",
+      "3 colheres (sopa) de farinha de rosca",
+      "1 colher (sopa) de sal",
+      "1 e 1/2 colher (chá) de pimenta",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte-as em cubos, depois coloque as batatas em uma panela e encha com 3/4 de água.",
+      "Ferva por 15 minutos ou até que as batatas estejam macias, depois amasse os cubos de batata com o amido de milho , farinha, farinha de rosca , sal e pimenta.",
+      "Adicione um ovo, misture e coloque uma folha de pergaminho ou filme plástico sobre o balcão e polvilhe com farinha.",
+      "Coloque a massa sobre o pergaminho, polvilhe-a com mais farinha e coloque outra folha de pergaminho ou de plástico no topo.",
+      "Abra a massa entre o pergaminho para cerca de 1/4 de polegada de espessura e retire cuidadosamente o pergaminho no topo.",
+      "Corte círculos de massa, pode usar um copo americano ou algo que você tenha redondo em casa.",
+      "Use um canudo de refrigerante para fazer os olhos e uma colher para fazer a boca .",
+      "Frite os círculos em uma panela cheia com 2 polegadas de óleo bem quente durante cerca de 15 a 17 minutos ou até que fiquem crocantes .",
+      "Coloque-os em toalhas de papel para escorrer e depois sirva. Espero que goste :D"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "DARLENY BROCHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312661-batata-smille.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PENNE COM RAGU DE LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de linguiça toscana",
+      "3 cebolas médias",
+      "1 talo grande de salsão",
+      "1 cenoura grande ",
+      "1 taça (100 ml) de vinho branco seco",
+      "1 copo (100 ml) de leite",
+      "1 kg de tomates maduros",
+      "3 colheres (sopa) de azeite",
+      "sal e pimenta-do-reino moída a gosto",
+      "1 pacote de macarrão (penne ou outra massa curta)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire a pele das linguiças e pique o recheio, usando um garfo.",
+      "Reserve.",
+      "Pique bem as cebolas e reserve.",
+      "Pique bem o salsão e reserve.",
+      "Descasque e pique bem a cenoura em cubos bem pequenos e reserve.",
+      "Eu primeiro usei um fatiador e depois piquei com a faca.",
+      "Descasque e pique os tomates e reserve.",
+      "Aqueça o azeite em uma panela grande e refogue os vegetais picados até amolecerem.",
+      "Junte o recheio das linguiças e refogue por cerca de cinco minutos, mexendo.",
+      "Adicione o vinho, mexa, e deixe evaporar.",
+      "Adicione o leite e refogue por dois ou três minutos.",
+      "Adicione os tomates.",
+      "Deixe cozinhar em fogo baixo, por cerca de meia hora. Vai reduzir um pouco o volume. Mexa ocasionalmente.",
+      "Prepare o macarrão de acordo com as instruções da embalagem.",
+      "Tempere o molho com sal e pimenta.",
+      "Sirva com o macarrão."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCELO L.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306610-penne-com-ragu-de-linguica.html"
+}

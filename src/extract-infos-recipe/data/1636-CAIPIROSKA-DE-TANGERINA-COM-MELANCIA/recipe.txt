@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CAIPIROSKA DE TANGERINA COM MELANCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 tangerina internacional",
+      "2 pedaços médios de melancia",
+      "1 dose de vodca",
+      "2 colheres de açúcar",
+      "8 pedras de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a tangerina em pedaços médios (pode colocar a casca)",
+      "Coloque numa coqueteleira e macere",
+      "Coloque o açúcar e a melancia e macere apenas mais um pouco",
+      "Coloque a vodca e o gelo e balance a coqueteleira por uns 2 minutos",
+      "Sirva num copo e use casca da tangerina para decorar"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABI FURTADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307307-caipiroska-de-tangerina-com-melancia.html"
+}

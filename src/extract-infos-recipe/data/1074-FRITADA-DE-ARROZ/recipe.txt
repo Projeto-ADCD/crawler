@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FRITADA DE ARROZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras (chá) de arroz cozido",
+      "3 colheres (chá) de cheiro-verde",
+      "1 colher (chá) de orégano",
+      "1/2 colher (chá) de pimenta calabresa",
+      "1/2 colher (chá) de sal",
+      "1 colher (chá) de fermento em pó ",
+      "1 colher (sopa) de queijo parmesão",
+      "1/2 xícara (chá) de cenoura ralada fininha",
+      "1 colher (sopa) de azeite",
+      "150 g de queijo mussarela ralado",
+      "50 g de bacon frito picado em cubos pequenos",
+      "1 colher (sopa) de requeijão",
+      "1 colher (sopa) de brócolis cozido e picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture bem a mussarela, o requeijão, o bacon e o brócolis",
+      "Reserve e pegue outro recipiente",
+      "Nesse, misture os ovos já batidos, o arroz, o cheiro-verde e a pimenta",
+      "Misture bem e junte também o fermento, o sal, o parmesão, o azeite e a cenoura",
+      "Misture e coloque uma frigideira para esquentar bem com 1 fio de azeite",
+      "Coloque metade dessa massa, espalhe bem e coloque o recheio",
+      "Cubra com o restante da massa",
+      "Doure bem dos dois lados e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310102-fritada-de-arroz.html"
+}

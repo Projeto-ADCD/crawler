@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CUPCAKE DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 litro de água",
+      "1 kg de batata inglesa",
+      "2 colheres (sopa) de sal",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de amido de milho",
+      "salsinha a gosto",
+      "1 cebola",
+      "2 dentes de alho",
+      "100 g de bacon",
+      "400 g de carne moída",
+      "1 tomate",
+      "200 g de queijo parmesão",
+      "100 g de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque água, as batatas e o sal ",
+      "Deixe cozinhar muito bem, para que as batatas fiquem em ponto macio (de purê)",
+      "Retire da panela e coloque em um recipiente ",
+      "Junte a manteiga, o amido e o sal",
+      "Amasse e misture tudo muito bem ",
+      "Junte a salsinha e misture novamente ",
+      "Forme pequenas bolinhas, com as mãos, dessa mistura de batata",
+      "Em uma frigideira, coloque o azeite",
+      "Junte a cebola, a alho e o bacon e deixe dourar bastante",
+      "Junte a carne moída",
+      "Coloque o sal, frite bastante a carne e adicione o tomate",
+      "Coloque as bolinhas de batata reservadas em uma forma",
+      "Com a mão, faça um espaço no meio delas",
+      "Coloque o queijo parmesão, a carne e o queijo mussarela ",
+      "Leve a airfryer por 25 minutos a 110° C "
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316950-cupcake-de-batata.html"
+}

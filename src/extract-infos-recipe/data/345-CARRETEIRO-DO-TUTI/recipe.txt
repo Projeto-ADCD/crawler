@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CARRETEIRO DO TUTI",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 xícaras de arroz",
+      "200 g de calabresa",
+      "200 g de bacon",
+      "500 g de carne de primeira",
+      "4 tomates",
+      "3 dentes de alho",
+      "2 cebolas",
+      "salsinha",
+      "cebolinha",
+      "óleo",
+      "ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte em cubos a calabresa, o bacon e a carne e com o óleo coloque para fritar.",
+      "Após fritar as carnes, utilize a mesma panela para cozinhar o arroz, ainda com a carne dentro.",
+      "Corte e reserve, os tomates, cebolas, dentes de alho, salsinha e cebolinha.",
+      "Com o arroz cozido adicione o tomate, cebola, alho e cheiro verde, mexa e deixe cozinhar mais 3 minutos.",
+      "Por fim quebre os ovos e jogue por cima do arroz até que tampe toda a camada superior, tampe a panela e deixe a clara cozinhar por 2 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GUILHERME POTRICH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313128-carreteiro-do-tuti.html"
+}

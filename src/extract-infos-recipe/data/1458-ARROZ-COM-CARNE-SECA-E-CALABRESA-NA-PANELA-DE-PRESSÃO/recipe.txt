@@ -1,0 +1,41 @@
+{
+  "nome_receita": "ARROZ COM CARNE-SECA E CALABRESA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de carne-seca ",
+      "4 xícaras de água fervente",
+      "1 colher (sopa) de azeite",
+      "1 linguiça calabresa ",
+      "1/2 colher (sopa) de azeite",
+      "1 cebola",
+      "1/2 colher (sopa) de cominho em pó",
+      "1 colher (sopa) de colorau",
+      "3 dentes de alho",
+      "3 xícaras de arroz cru ",
+      "1/2 xícara de tomate ",
+      "sal e pimenta a gosto",
+      "água ",
+      "cheiro-verde "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a água fervente e a carne-seca dessalgada em uma panela de pressão",
+      "Cozinhe por 20 minutos após pegar pressão e reserve",
+      "Coloque a colher (sopa) de azeite na panela em uma panela de pressão",
+      "Junte a linguiça calabresa cortada em rodelas, deixe dourar um pouco e reserve",
+      "Coloque a 1/2 colher (sopa) de azeite na panela",
+      "Junte a cebola e o alho picados e deixe dourar",
+      "Acrescente o colorau e o cominho em pó",
+      "Junte o arroz e misture tudo",
+      "Junte a linguiça calabresa reservada, carne-seca já desfiada, molho de tomate, sal e pimenta e água até cobrir tudo.",
+      "Misture bem e feche a panela",
+      "Deixe 4 minutos após pegar pressão",
+      "Finalize com o cheiro-verde e sirva"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308213-arroz-com-carne-seca-e-calabresa-na-panela-de-pressao.html"
+}

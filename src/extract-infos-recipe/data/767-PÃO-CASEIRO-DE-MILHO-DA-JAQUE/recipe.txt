@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PÃO CASEIRO DE MILHO DA JAQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (240 ml) de água",
+      "1/2 xícara de leite",
+      "1 lata de milho",
+      "1/4 de xícara de óleo",
+      "1 colher (sopa) de margarina",
+      "1/2 colher (sopa) de sal",
+      "1/2 xícara de açúcar",
+      "1 pacote de fermento biológico (10 g)",
+      "mais ou menos 5 xícaras de farinha de trigo",
+      "fubá para acabamento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o milho escorrido, o leite e a água.",
+      "Passe numa peneira e use na receita o líquido.",
+      "Acrescente ao líquido: óleo, margarina, açúcar, sal e 4 xícaras de farinha de trigo, depois sobre a farinha coloque o fermento.",
+      "Misture até ficar homogêneo e acrescente aos poucos a farinha para formar uma massa lisa e fácil de sovar.",
+      "Sove por 10 minutos e acrescente farinha se ainda estiver grudando nas mãos.",
+      "Cuidado, não acrescente farinha em excesso, se achar que exagerou na farinha, acrescente água aos poucos para ficar uma massa lisa.",
+      "Coloque numa bacia untada de óleo e cubra com um pano limpo. Deixe dentro de um forno desligado para abafar.",
+      "Deixe descansar por 1 hora ou mais, até dobrar de tamanho.",
+      "Depois coloque sobre uma bancada e divida em 4 partes iguais.",
+      "Cada parte faça um rolo uniforme e divida em 4 pedaços iguais também.",
+      "Ao todo terá 16 porções de massa.",
+      "Para cada porção sove um pouco e modelo do jeito que desejar. Eu normalmente faço um rolinho com a porção e abro com rolo de macarrão, depois enrolo como rocambole.",
+      "Passe cada porção em um pouco de fubá e disponha numa assadeira untada com óleo, deixe uma distância de 2 dedos entre os pães.",
+      "Deixe descansar dentro do forno desligado até dobrar de tamanho. Tenha paciência, deixe o tempo que for para o pão crescer.",
+      "Depois asse a 200° C até pegar a cor desejada, cerca de 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "JAQUELINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311646-pao-caseiro-de-milho-da-jaque.html"
+}

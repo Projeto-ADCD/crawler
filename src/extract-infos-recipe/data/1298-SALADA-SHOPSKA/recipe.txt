@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA SHOPSKA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 tomates",
+      "1 pimentão verde",
+      "1 pimentão vermelho",
+      "1 cebola",
+      "1/2 pepino",
+      "100 g de queijo feta ou ricota",
+      "3 colheres (sopa) de azeite de oliva",
+      "2 colheres (sopa) de água",
+      "2 colheres (chá) de mostarda",
+      "1 colher (chá) de mel",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para preparar a salada, corte os tomates, pimentões, cebola e pepino em cubos, misture tudo e reserve",
+      "Rale ou desmanche o queijo e reserve",
+      "Para o molho, misture em um copo ou vasilhame pequeno, o azeite, a água, a mostarda, o mel, o sal e a pimenta e misture bem",
+      "Despeje o queijo sobre a salada e finalize com o molho por cima",
+      "Sirva imediatamente, jamais de um dia para o outro!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROGÉRIO NÓBREGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308999-salada-shopska.html"
+}

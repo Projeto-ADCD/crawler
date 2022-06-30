@@ -1,0 +1,44 @@
+{
+  "nome_receita": "QUICHE DE BACALHAU COM ALHO PORÓ",
+  "ingredientes": {
+    "MASSA": [
+      "1 e ½ xícara de farinha de trigo",
+      "1 ovo",
+      "¼ de xícara de Azeite Gallo Extra Virgem Clássico",
+      "2 colheres de sopa de água ",
+      "1 pitada de sal"
+    ],
+    "RECHEIO": [
+      "azeite Gallo  de Oliva Tipo Único",
+      "200 g de bacalhau dessalgado e desfiado",
+      "1 xícara de tomate cereja",
+      "½ cebola picada",
+      "1 alho poró em rodelas finas",
+      "150 ml de creme de leite fresco",
+      "2 ovos",
+      "50 g de queijo minas frescal",
+      "sal",
+      "noz moscada"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Misture a farinha com ovo, o azeite e sal. Por último incorpore aos poucos a água até conseguir uma massa consistente, que não gruda nas mãos nem quebra demais.",
+      "Modele uma bola, envolva com plástico filme. Deixe descansar na geladeira por 30 minutos.",
+      "Modele a massa em uma forma de fundo falso para quiche. Faça furinhos no fundo com um garfo.",
+      "Leve para assar em forno pré aquecido à 180º C por 10 minutos."
+    ],
+    "RECHEIO": [
+      "Refogue a cebola e o alho poró com azeite. Misture com o bacalhau e reserve.",
+      "Bata no liquidificador o creme de leite fresco com os ovos, o queijo, sal, noz moscada, e reserve."
+    ],
+    "MONTAGEM": [
+      "Coloque sobre a massa assada o bacalhau com alho poró. Cubra com a mistura líquida e leve para assar em forno pré aquecido à 180º C por 10 minutos.",
+      "Decore com os tomates cereja. Leve para assar por mais 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GALLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310439-quiche-de-bacalhau-com-alho-poro.html"
+}

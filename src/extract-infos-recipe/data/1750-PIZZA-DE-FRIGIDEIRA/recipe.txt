@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PIZZA DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de farinha de trigo",
+      "1 ovo",
+      "1 pitada de sal",
+      "30 ml de água",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha e o sal e mexa bastante",
+      "Acrescente o ovo e misture",
+      "Adicione o sal",
+      "Misture a massa até ficar bem macia e uniforme",
+      "Passe farinha em uma mesa plana e abra sua massa",
+      "Unte uma frigideira com manteiga ou margarina e coloque sua massa",
+      "Tire o excesso de massa",
+      "Fure com um garfo feche com a tampa e ligue em fogo baixo",
+      "Espere dourar a massa e recheio de sua preferência"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GIULIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306928-pizza-de-frigideira.html"
+}

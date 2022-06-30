@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SORVETE DE CHOCOLATE COM PÉ DE MOLEQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado (395 g)",
+      "1 e 1/4 xícara (chá) de leite (300 ml)",
+      "3 gemas",
+      "2 xícaras (chá) de chocolate meio amargo picado (250 g)",
+      "1 caixinha de creme de leite (200 g)",
+      "3 ovos",
+      "2 colheres (sopa) de açúcar (25 g)",
+      "1 xícara (chá) de pé de moleque picado (120 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, coloque 1 lata de leite condensado, 1 e 1/4 xícara (chá) de leite, 3 gemas dos ovos e leve ao fogo bem baixo, mexendo por mais ou menos 15 minutos.",
+      "Apague o fogo e junte 2 xícaras (chá) de chocolate meio amargo picado.",
+      "Misture bem até derreter o chocolate, adicione 1 caixinha de creme de leite e deixe esfriar.",
+      "Coloque numa batedeira, 3 claras e bata até ficar em picos moles.",
+      "Incorpore 2 colheres (sopa) de açúcar e bata mais um pouco.",
+      "Desligue a batedeira e misture delicadamente no creme de chocolate já frio.",
+      "Transfira a mistura para uma forma de bolo inglês forrada com saco plástico, salpique 1 xícara (chá) de pé de moleque picado e leve ao freezer por mais ou menos 4 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "RAQUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308369-sorvete-de-chocolate-com-pe-de-moleque.html"
+}

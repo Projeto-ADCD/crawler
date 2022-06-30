@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO CHIPLOTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de maionese",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de alho em pó",
+      "1 colher (sopa) de páprica",
+      "1 colher (chá) de suco de limão",
+      "1 colher (sopa) de molho de pimenta Chiplote",
+      "1 colher (sopa) de agua",
+      "1 colher (sopa) de tomilho",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de cominho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture e bata todos os ingredientes.",
+      "agora sirva-se "
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GAMES YT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314127-molho-chiplote.html"
+}

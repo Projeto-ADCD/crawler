@@ -1,0 +1,44 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO BRANCO FÁCIL",
+  "ingredientes": {
+    "MOLHO": [
+      "1 copo de requeijão ",
+      "1 lata de creme de leite sem soro",
+      "200 g de mussarela",
+      "200 g de queijo prato",
+      "200 g de presunto ou peito de peru",
+      "1 cebola grande picada em cubinhos",
+      "Cebolinha picadinha bem fina a gosto ",
+      "Noz moscada a gosto",
+      "Sal a gosto ",
+      "Pimenta do reino a gosto",
+      "Azeite a gosto"
+    ],
+    "MASSA": [
+      "1 pacote de macarrão ",
+      "1 tablete de caldo de galinha",
+      "Óleo",
+      "Sal a gosto",
+      "Água"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Ferva a água, coloque um fio de óleo e o tablete de caldo de galinha.",
+      "Cozinhe o macarrão até o ponto desejado. Escorra e reserve."
+    ],
+    "MOLHO": [
+      "Doure as cebolas no azeite, então despeje o requeijão e o creme de leite. Misture bem.",
+      "Adicione a noz moscada e a pimenta do reino.",
+      "Junte o macarrão, acrescente os queijos e o presunto ou o peito de peru e mexa até todo o macarrão estar envolto pelo molho.",
+      "Se necessário acrescente sal. Acrescente a cebolinha e sirva em seguida, ainda quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se o queijo já for salgado, cuidado ao adicionar sal.\nPara o macarrão, prefira os curtos, como penne e gravata."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIANA MACHADO YOSHINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309801-macarrao-com-molho-branco-facil.html"
+}

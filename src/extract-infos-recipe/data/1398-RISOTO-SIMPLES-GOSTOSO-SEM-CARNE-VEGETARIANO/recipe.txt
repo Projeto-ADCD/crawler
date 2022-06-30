@@ -1,0 +1,38 @@
+{
+  "nome_receita": "RISOTO SIMPLES GOSTOSO SEM CARNE VEGETARIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de arroz arbório",
+      "2 tomates ",
+      "2 pimentão",
+      "1 cebola ",
+      "4 dentes de alho",
+      "milho a gosto",
+      "8 colheres cheias de molho de tomate",
+      "cebolinha verde ",
+      "queijo a gosto",
+      "metade de um tablete de caldo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo:",
+      "Em uma panela coloque o ólho e refogue as cebolas e o álho picados",
+      "Logo coloque o arroz arbório e refogue, depois de refogado coloque duas conchas do caldo e mexa sem parar ",
+      "Repita as conchas conforme for secando o arroz na panela",
+      "Repita o processo até o arroz estiver quase mole, lembrando que não pode parar de mexer ",
+      "O arroz precisar soltar o amido que é o que faz o caldo do risoto ",
+      "Quando o arroz estiver quase mole, coloque o molho de tomate e mexa",
+      "Coloque o tomate, o pimentão e a cebolinha picadas, o milho e mexa ",
+      "Adcione o queijo a gosto e mexa",
+      "Misture bem os ingredientes e sirva",
+      "Preparo do caldo",
+      "Ferva uma chaleira de água",
+      "Misture a água fervida com metade de um tablete de caldo (eu escolhi o de legumes)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DANIELA VOLTZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308536-risoto-simples-gostoso-sem-carne-vegetariano.html"
+}

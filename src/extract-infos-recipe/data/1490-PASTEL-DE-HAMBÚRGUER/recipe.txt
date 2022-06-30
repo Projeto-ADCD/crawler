@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PASTEL DE HAMBÚRGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne mopida ",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 fio de óleo",
+      "8 massas de pastel ",
+      "8 folhas de mussarela "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o sal e a pimenta na carne.",
+      "Modele os hambúrgueres.",
+      "Coloque um fio de óleo em uma frigideira. ",
+      "Frite os hambúrgueres. ",
+      "Coloque a massa de pastel, o hambúrguer pronto, a mussarela por cima e termine com a massa de pastel. ",
+      "Feche tudo com o auxílio de um garfo. ",
+      "Frite em óleo quente e separe em papel toalha. "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308044-pastel-de-hamburguer.html"
+}

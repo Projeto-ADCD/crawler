@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RISOTO DE MARISCOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz arbóreo (arroz italiano, arroz para risoto)",
+      "1 cebola pequena",
+      "3 dentes de alho",
+      "1 xícara de vinho branco seco (caso prefira mais adocicado, pode ser o suave)",
+      "300 g de mariscos limpos",
+      "1 litro de caldo de camarão (pode ser de legumes ou caldo de cebola)",
+      "3 colheres de azeite",
+      "1 colher de manteiga",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, prepare o caldo de camarão e leve ao fogo, quando começar a ferver, deixe em fogo baixo.",
+      "Enquanto o caldo esquenta, coloque em uma panela o azeite, a cebola picada e deixar refogar, quando começar a refogar junte o alho e refogue tudo.",
+      "Quando começar a dourar, junte o arroz e refogue, depois junte o vinho branco e mexa até evaporar bem o álcool",
+      "Então coloque o tomate picadinho e os mexilhos, misture tudo muito bem.",
+      "Aos poucos, vá acrescentando o caldo de camarão, que deixou fervendo, bem aos poucos, colocando o suficiente que não cubra completamente o arroz, e não pare de mexer",
+      "Assim vai fazendo isso até o arroz ficar al dente, para não correr o risco do seu arroz desmanchar e então, após estar em uma consistência cremosa",
+      "Acerte o sal, a pimenta e desligue o fogo ",
+      "Acrescente um colher (sopa) de manteiga."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MAÍRA GEANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306439-risoto-de-mariscos.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CHURROS SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de água",
+      "2 colheres (sopa) de açúcar refinado",
+      "2 colheres (chá) de sal",
+      "2 colheres (sopa) de manteiga",
+      "400 g de farinha/sem fermento",
+      "oléo ",
+      "2 colher (chá) de canela",
+      "1 colher (sopa) de açúcar",
+      "doce de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione em uma panela, 500 ml de água, 2 colheres (sopa) de açúcar, 2 colheres (chá) de sal e 2 colheres (sopa) de manteiga.",
+      "Coloque em fogo alto e mexa até ferver ou se preferir até a manteiga derreter.",
+      "A água já fervida ou a manteiga já estando derretida, coloque em fogo baixo e acrescente a farinha de trigo.",
+      "Quando começar a desgrudar da panela a massa, retire e coloque em uma superfície com farinha de trigo e abra a massa.",
+      "Para poder modelar, temos 3 formas.",
+      "1° forma: use a máquina de churros.",
+      "2° forma: use saco decorador de confeiteiro, coloque  a massa dentro e coloque pra fritar no óleo, recortando com a tesoura. Obs.: Coloque alho pra esquentar, nunca colocar para fritar com o óleo frio e fazer procedimento 6",
+      "3° forma: Enrole com a mão, do seu jeito. E depois fazer procedimento 5 e 6.",
+      "Esquente óleo e colocar para fritar. Obs.: Deixar óleo esquentar bastante, para não ficar enxarcado de óleo o churros.",
+      "Misture canela com o açúcar e passe os churros dentro.",
+      "Se delicie molhando o nosso churros no doce de leite"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "AS MANAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308183-churros-simples.html"
+}

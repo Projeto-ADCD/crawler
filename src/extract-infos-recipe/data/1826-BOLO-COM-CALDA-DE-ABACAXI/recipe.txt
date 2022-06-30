@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO COM CALDA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "1/2 Abacaxi picado",
+      "1 xícara de açúcar",
+      "Bolo",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de açúcar",
+      "250 ml de leite",
+      "4 colheres de sopa de margarina",
+      "3 ovos",
+      "2 colheres de sopa de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Coloque o açúcar numa panela e deixe derreter. Acrescente o abacaxi picado.",
+      "Assim que o abacaxi der uma cozida, desligue o fogo e reserve.",
+      "Bolo",
+      "Coloque todos os ingredientes na batedeira, exceto o fermento e bata até virar uma mistura homogênea.",
+      "Acrescente o fermento e mexa com uma espátula ou colher (não bater com a batedeira).",
+      "Unte a forma com margarina e farinha de trigo. Coloque a calda de abacaxi e deixe-a esparramada em toda a forma.",
+      "Coloque a massa do bolo. Ajeite-a para que fique uniforme.",
+      "Coloque para assar em forno pré aquecido na temperatura de 180° por 30 minutos.",
+      "Confira se assou e deixe esfriar. Desenforme e sirva. A temperatura e tempo de forno varia de forno para forno."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CAMILLA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306690-bolo-com-calda-de-abacaxi.html"
+}

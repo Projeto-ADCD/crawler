@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FRAPPUCINO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (chá) de café",
+      "2 colheres (chá) de água quente",
+      "2 colheres (chá) de açúcar",
+      "leite condensado a gosto (opcional)",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes, menos o gelo e o leite condensado, em um pote ou copo",
+      "Misture até ficar com a consistência cremosa",
+      "Coloque em um copo gelo e o leite condensado",
+      "Coloque seu café no copo e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JULIA CUNHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308100-frappucino-facil.html"
+}

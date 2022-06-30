@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CALDO MARAVILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 peito de frango grande",
+      "1 cebola",
+      "4 dentes de alho",
+      "1 maço de coentro",
+      "1 caldo de galinha",
+      "1 gomo de linguiça calabresa seca",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango com o caldo de galinha desfie e reserve",
+      "Corte a calabresa e a cebola em cubos pequenos doure com o alho e reserve",
+      "Cozinhe a batata e bata no liquidificador com o caldo do cozimento do frango depois leve ao fogo novamente acrescentando o frango desfiado e a calabresa",
+      "Após isso coloque o coentro picado e sal e pimenta a gosto deixe ferver este caldo e sirva quente.",
+      "Recomendado comer com torradas"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FERNANDA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307949-caldo-maravilha.html"
+}

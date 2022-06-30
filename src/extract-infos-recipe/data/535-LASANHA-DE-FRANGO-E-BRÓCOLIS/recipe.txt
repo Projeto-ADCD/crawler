@@ -1,0 +1,47 @@
+{
+  "nome_receita": "LASANHA DE FRANGO E BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango com osso",
+      "1 brócolis ninja ",
+      "7 g de folhas frescas de manjericão ",
+      "10 g de folhas fresca de salsa ",
+      "sal a gosto",
+      "8 lâminas de massa fresca para lasanha ",
+      "290 g de mussarela ralada grossa ",
+      "50 g de parmesão ralado "
+    ],
+    "MOLHO BRANCO": [
+      "100 g de Delícia Cremosa ",
+      "1 cebola (pequena) picada ",
+      "1,5 litro de leite desnatado ",
+      "200 ml de creme de leite ",
+      "40 g de farinha de trigo ",
+      "noz-moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, leve o peito de frango higienizado com vinagre, para cozinhar em água e sal.",
+      "Depois de cozido, retire da água, deixe esfriar, desfie e junte as ervas picadas. Reserve.",
+      "Em uma panela com um pouco de água fervente e sal, leve os floretes de brócolis para cozinhar por 5 minutos. Retire e reserve.",
+      "Em uma panela leve a Margarina Delícia Cremosa para aquecer.",
+      "Junte a cebola e refogue.",
+      "Junte a farinha de trigo e misture até que esteja totalmente incorporada à margarina.",
+      "Aos poucos, acrescente o leite frio e mexa continuamente para não empelotar.",
+      "Tempere com sal e noz-moscada a gosto e cozinhe em fogo brando por cerca de 4 minutos.",
+      "Acrescente o creme de leite, misture bem e reserve."
+    ],
+    "MONTAGEM": [
+      "Em um refratário retangular despeje um pouco do molho branco.",
+      "Coloque uma camada de massa, todo o frango, metade da mussarela e uma parte do molho branco.",
+      "Cubra com mais uma camada de massa, acomode os brócolis, o restante do queijo e mais uma parte de molho.",
+      "Termine com mais uma camada de massa, o restante do molho e o parmesão ralado.",
+      "Em forno preaquecido, leve para assar à temperatura de 180º C, por aproximadamente 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312581-lasanha-de-frango-e-brocolis.html"
+}

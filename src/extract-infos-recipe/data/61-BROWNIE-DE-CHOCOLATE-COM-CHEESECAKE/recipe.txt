@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BROWNIE DE CHOCOLATE COM CHEESECAKE",
+  "ingredientes": {
+    "MASSA ": [
+      "230 g chocolate ao Leite Mendoá 50% cacau, linha Chefs (picado)",
+      "150 g manteiga sem sal",
+      "4 ovos caipiras",
+      "100 g açúcar ",
+      "2 g sal refinado",
+      "150 g farinha de trigo ",
+      "6 g bicarbonato de sódio"
+    ],
+    "CHEESECAKE": [
+      "400 g de Cream Cheese ",
+      "400 g de Leite Condensado "
+    ],
+    "FINALIZAÇÃO": [
+      "400 g de Gotas de Chocolate Mendoá 50% cacau "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o forno a 180º C.",
+      "Forre uma forma de 30x20cm com manteiga, depois papel-manteiga e por último novamente com manteiga e farinha de trigo. ",
+      "Derreta o chocolate em banho-maria com a manteiga.",
+      "Retire do fogo sem ele ainda estar completamente derretido. Ela não pode estar quente demais senão cozinha seus ovos ",
+      "Entre agora com 1 ovo de cada vez e misture. A seguir, entre com o açúcar e por último a farinha de trigo peneirada e o fermento. Coloque na forma.",
+      "Misture com a ajuda de um fouet o cream cheese e o leite condensado. ",
+      "Derrame por cima do brownie, deixando bem presente um duo de massas. Cubra com as gotas de chocolate. ",
+      "Assar a 180º C por cerca de 25-30 minutos. O teste do palito é quase ao contrário do que seria num bolo. Ele deve sair úmido, mas a massa não estará crua, pode confiar",
+      "Tire do forno e deixe esfriar totalmente para cortar. Não desenforme antes, pois enquanto ela estiver quente, estará frágil.",
+      "Sirva em temperatura ambiente ou levemente aquecido."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314634-brownie-de-chocolate-com-cheesecake.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATATAS RECHEADAS (MINI BATATAS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de batata bolinha",
+      "300 g de requeijão de bisnaga",
+      "sal",
+      "1 linguiça calabresa defumada",
+      "parmesão "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas com água e sal, na panela de pressão, e cozinhe até estarem macias, porém firmes.",
+      "Enquanto isso, retire a pele da calabresa, rale e reserve.",
+      "Corte uma tampinha de cada batata, retire a polpa com uma colher (chá), e misture essa polpa à calabresa ralada (a parte da tampa, tempere com azeite e sal e coma, para não desperdiçar)",
+      "Acrescente o requeijão de bisnaga e misture bem.",
+      "Recheie cada batata com a mistura, polvilhe parmesão e leve ao forno até aquecer as batatas e gratinar um pouco o parmesão.",
+      "Varie o recheio. Use frango desfiado, mistura de queijos, vegetais, atum, salmão",
+      "Faça e comente!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MONICA CASTAGNA DE SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307982-batatas-recheadas-mini-batatas.html"
+}

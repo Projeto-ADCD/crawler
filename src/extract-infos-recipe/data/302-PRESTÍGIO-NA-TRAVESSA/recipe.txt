@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PRESTÍGIO NA TRAVESSA",
+  "ingredientes": {
+    "PRESTÍGIO CREMOSO": [
+      "2 latas de leite condensado",
+      "1 colher de sopa de manteiga;",
+      "100 g de coco ralado seco sem açúcar"
+    ],
+    "BRIGADEIRO CREMOSO": [
+      "2 latas de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de cacau em pó",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "PRESTÍGIO CREMOSO": [
+      "Junte todos os ingredientes em uma panela e mexa em fogo baixo até desgrudar do fundo. Espere esfriar."
+    ],
+    "BRIGADEIRO CREMOSO": [
+      "Misture todos os ingredientes em uma panela e mexa em fogo baixo até desgrudar do fundo da panela. Espere esfriar."
+    ],
+    "MONTAGEM": [
+      "Pegue uma travessa e faça camadas de brigadeiro e prestígio, leve pra gelar e aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIELI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313311-prestigio-na-travessa.html"
+}

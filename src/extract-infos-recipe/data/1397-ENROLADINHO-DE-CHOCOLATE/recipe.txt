@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ENROLADINHO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de margarina",
+      "6 colheres (sopa) açúcar",
+      "6 colheres (sopa) de chocolate em pó",
+      "1 ovo",
+      "1 colher (sobremesa) de baunilha",
+      "200 g de bolachinha de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a manteiga eo açúcar até ficar uma mistura homogênea.",
+      "Junte com o chocolate em pó, o ovo e a baunilha.",
+      "Triture as bolachinhas e juntar com a mistura.",
+      "Enrole em plástico filme e leve ao freezer por 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CLARISSA SCHOSSLER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308541-enroladinho-de-chocolate.html"
+}

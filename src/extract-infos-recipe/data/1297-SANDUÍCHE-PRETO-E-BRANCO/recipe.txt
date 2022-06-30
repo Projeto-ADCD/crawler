@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SANDUÍCHE PRETO E BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão de forma cortado em fatias ou no comprimento",
+      "1 pão de forma preto ou integral cortado ao comprido",
+      "250 g de queijo cremoso",
+      "50 g de azeitonas",
+      "picles a gosto",
+      "manteiga",
+      "salsa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem o queijo com um garfo e misture com a manteiga até formar uma massa leve e homogênea.",
+      "Adicione azeitona e picles picadinhos, salsa cortadinha e tempere com sal e pimenta.",
+      "Retire com cuidado as bordas do pão.",
+      "Passe uma camada de recheio sobre uma fatia de pão branco e arrume por cima uma fatia de pão preto.",
+      "Passe uma nova camada de recheio e proceda da mesma maneira até formar um sanduíche de quatro camadas.",
+      "Envolva o sanduichão com papel alumínio e leve à geladeira por cinco horas.",
+      "Com o restante do pão proceda da mesma forma.",
+      "Quando estiver bem gelado e firme, retire o papel alumínio e corte em fatias, no sentido perpendicular.",
+      "Arrume numa bandeja e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309004-sanduiche-preto-e-branco.html"
+}

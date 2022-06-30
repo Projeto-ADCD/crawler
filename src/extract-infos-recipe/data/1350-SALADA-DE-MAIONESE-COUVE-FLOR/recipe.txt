@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SALADA DE MAIONESE COUVE-FLOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g couve-flor",
+      "4 colheres (sopa) maionese",
+      "4 ovos cozidos com casca",
+      "manjericão",
+      "cheiro-verde",
+      "sal a gosto",
+      "1/2 limão",
+      "1 colher (chá) molho inglês",
+      "azeite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a couve-flor com azeite deixe, escoe toda a água e deixe descansar por 7 minutos",
+      "Depois em uma travessa adicione a couve-flor, azeite, molho inglês, limão e sal.",
+      "Após coloque a maionese, o cheiro-verde e 2 ovos cozidos e misture bem.",
+      "Depois veja se precisa de mais sal (gosto) e decore com os ovos e manjericão.",
+      "Deixe na geladeira até servir e bom apetite ."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GIOVANA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308777-salada-de-maionese-couve-flor.html"
+}

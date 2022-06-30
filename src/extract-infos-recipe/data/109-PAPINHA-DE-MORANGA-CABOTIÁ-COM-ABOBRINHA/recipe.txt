@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAPINHA DE MORANGA CABOTIÁ COM ABOBRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha média",
+      "½ moranga cabotiá pequena",
+      "1 dente de alho",
+      "½ cebola picada",
+      "Tempo verde a gosto",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a abobrinha e a moranga, corte em cubos.",
+      "Não esmague o alho, corte-o ao meio.",
+      "Coloque todos os ingredientes em uma panela, coloque água até cobri-los totalmente.",
+      "Em fogo alto cozinhe até levantar fervura, e só então ponha a cebola.",
+      "Depois que colocar a cebola cozinhar em fogo médio até que quase toda a água se evapore e os alimentos estejam se desmanchando.",
+      "Agora é só bater no liquidificador ou mixer",
+      "Rende 2 almoços e 2 jantas de aproximadamente 150ml",
+      "Pode congelar por até 1 semana"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314428-papinha-de-moranga-cabotia-com-abobrinha.html"
+}

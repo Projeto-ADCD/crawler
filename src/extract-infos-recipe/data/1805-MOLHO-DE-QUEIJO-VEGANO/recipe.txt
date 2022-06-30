@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO DE QUEIJO VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "180 ml de leite de coco (3/4 de xícara)",
+      "3 colheres (sopa) bem cheias de levedura nutricional",
+      "2 colheres (sopa) de tapioca",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (chá) de cebola em pó",
+      "1/2 colher (chá) de alho em pó",
+      "pitada a gosto de páprica picante ou defumada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes em uma panela e misturar bem",
+      "Depois de bem misturado, leve ao fogo médio e continue misturando até ferver",
+      "Depois de começar a ferver, continue no fogo misturando por mais 1 a2 minutos até ficar com uma consistência de queijo derretido e pronto!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: se não tiver leite de coco pode usar qualquer leite vegetal, quanto mais gorduroso o leite, melhor\nSe ficar duro demais no forno pode adicionar mais leite\nOs temperos (alho em pó, cebola em pó e páprica) são opcionais, mas dão um gosto mais gostoso. Eu honestamente gosto MUITO de usar páprica picante, que é o tempero que eu uso quando faço molho de queijo vegano ou não "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GATTICC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306745-molho-de-queijo-vegano.html"
+}

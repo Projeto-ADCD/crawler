@@ -1,0 +1,32 @@
+{
+  "nome_receita": "RISOTO COM FRANGO CARAMELIZADO (MARAVILHOSO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 Xícaras de arroz",
+      "5 ou 6 coxinha da asa",
+      "3 colheres cheia de Açúcar",
+      "Óleo",
+      "3 colheres de molho shoyu",
+      "Pimenta calabresa a gosto",
+      "Sal a gosto",
+      "Pimento do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente vc deve por uma boa quantidade de óleo esquentar",
+      "Adicionar o açúcar e deixar ele ficar bem dourado",
+      "Após isso adicionar as coxinhas do frango e a cebola",
+      "Dourar os dois",
+      "Adicionar o molhos e pimenta",
+      "Sal",
+      "Depois por o arroz lavado e deixar fritando tudo junto",
+      "Depoimento vc perceber q já está bem frito, por água o suficiente parar cozinhar o arroz e tá pronto",
+      "Acertar o tempero se necessário"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MILENA PERIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311887-risoto-com-frango-caramelizado-maravilhoso.html"
+}

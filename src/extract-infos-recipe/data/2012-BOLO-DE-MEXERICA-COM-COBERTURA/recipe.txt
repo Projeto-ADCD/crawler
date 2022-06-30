@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE MEXERICA COM COBERTURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara de suco de mexerica",
+      "2 xícaras de açúcar",
+      "3 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1/2 xícara de açúcar",
+      "1 xícara de suco de mexerica",
+      "1 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador os ovos, óleo, suco e açúcar e bata bem.",
+      "Em seguida adicione a farinha aos poucos e continue batendo.",
+      "Por último, coloque o fermento e bata levemente.",
+      "Em seguida, coloque a massa em uma forma untada com óleo e enfarinhada, e leve ao forno à 180? por 40 minutos.",
+      "Desenforme.",
+      "Enquanto o bolo esfria, prepare a cobertura.",
+      "Em um copo à parte dissolva o amido de milho no suco de mexerica.",
+      "Leve o açúcar e o suco com amido de milho ao fogo alto, em uma panela, mexendo sempre até engrossar.",
+      "Obs. quando engrossa o suco fica translúcido e deixa de ficar leitos.",
+      "Cubra o bolo espalhando esta cobertura."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOSÉ DAVID",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306196-bolo-de-mexerica-com-cobertura.html"
+}

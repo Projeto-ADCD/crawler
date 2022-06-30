@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MASSA DE ESFIHA OU ENROLADINHO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de trigo",
+      "1 xícara de água morna",
+      "1/2 xícara de óleo",
+      "2 colheres (sopa) de açúcar",
+      "1/2 colher de açúcar",
+      "20 g de fermento biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os secos. Acrescente todos os molhados e misture até incorporar todos os ingredientes. Sove com as mãos até adquirir uma aparência homogênea.",
+      "Abra a massa com o rolo, recheie como preferir e leve ao forno até dourar (aproximadamente 25 minutos)."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MILENA MADEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311820-massa-de-esfiha-ou-enroladinho-simples.html"
+}

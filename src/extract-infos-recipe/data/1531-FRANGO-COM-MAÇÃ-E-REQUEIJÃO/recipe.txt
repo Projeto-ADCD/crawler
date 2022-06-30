@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO COM MAÇÃ E REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bandejas de sobrecoxa (2 kg)",
+      "6 maçãs argentinas (de preferência)",
+      "2 copos de requeijão cremoso",
+      "400 g de molho de tomate",
+      "1/2 cabeça de alho",
+      "1 colher (sopa) rasa de sal",
+      "1 cebola média",
+      "1 colher (sopa) de açafrão",
+      "cebolinha e coentro a gosto",
+      "sal e pimeta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o alho com o sal até formar um creme",
+      "Limpe as sobrecoxas com água fervente.",
+      "Retire a pele, o osso, a sangria e os \"canos\" da sobrecoxa.",
+      "Refogue as sobrecoxas no azeite com a cebola picada, o creme de alho e açafrão.",
+      "Quando juntar a água da própria carne, tampe a panela e deixe cozinhar.",
+      "Observe sempre para repor água, caso não esteja bem cozido ainda.",
+      "Desfie a carne na própria panela grosseiramente e finalize com o molho de tomate, a cebolinha e a pimenta.",
+      "Separe uma travessa de forno, acrescente a carne e em seguida espalhe o requeijão por cima do recheio utilizando um garfo para espalhar delicadamente.",
+      "Vá cortando as maçãs em meia rodelas e coloque-as lado a lado.",
+      "Cubra toda a travessa.",
+      "Leve ao forno médio por 15 a 20 minutos até que a maçã cozinhe e fique dourada."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DÉBORA ZANONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307828-frango-com-maca-e-requeijao.html"
+}

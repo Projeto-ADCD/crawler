@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BAURU DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata 9x18 Bem Brasil ",
+      "1 colher de manteiga ",
+      "250 g de presunto ",
+      "250 g de muçarela ",
+      "200 g de requeijão cremoso ",
+      "150 g de tomate-cereja ",
+      "6 ramos de cebolinha ",
+      "6 ramos de salsinha ",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça a fritadeira elétrica conforme a indicação na embalagem",
+      "Adicione a Batata 9x18 Bem Brasil e leve à fritadeira por 20 minutos e reserve",
+      "Unte uma assadeira com a manteiga e forre com a metade das batatas já fritas",
+      "Cubra com o presunto e muçarela e adicione o restante das batatas",
+      "Cubra com requeijão e com os tomates-cerejas partidos em quatro",
+      "Leve ao forno até dourar",
+      "Retire do forno e decore com a salsinha e cebolinha, e sirva",
+      "Verifique o tempero. "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312866-bauru-de-batata.html"
+}

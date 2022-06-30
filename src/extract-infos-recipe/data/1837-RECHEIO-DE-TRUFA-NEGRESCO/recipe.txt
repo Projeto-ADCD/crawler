@@ -1,0 +1,28 @@
+{
+  "nome_receita": "RECHEIO DE TRUFA - NEGRESCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Pacote de Negresco (140g)",
+      "395g de Leite Condensado",
+      "200g de Creme de Leite",
+      "1 colher de café de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Picote o NEGRESCO até virar pó (não tem problema se não ficar 100%)",
+      "Coloque em fogo alto com a margarina por 1 minuto;",
+      "Acrescente o Leite Condensado;",
+      "Mexa até ferver e logo em seguida abaixe o fogo;",
+      "Coloque até quanto você quiser de NEGRESCO e mexa até tudo ficar uniforme;",
+      "Aumente o fogo até ter a textura de brigadeiro;",
+      "Coloque o Creme de Leite e mexa;",
+      "A textura dele não é creme e nem feito para enrolar;",
+      "Por último coloque em uma vasilha de plástico cobrindo com um papel filme e coloque na geladeira, após tirar ele gelado, já pode rechear suas trufas."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DUDA GALVÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306656-recheio-de-trufa-negresco.html"
+}

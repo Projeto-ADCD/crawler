@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PASTA DE OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos cozidos",
+      "500 mg de maionese",
+      "1 fio de azeite",
+      "1 colher de sopa de salsa",
+      "Sal e tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos, depois de prontos amasse ele com um garfo em um recipiente, tempere com sal, um fio de azeite, orégano, salsa, tempero misto e etc. Por último acrescente a maionese e misture tudo, eu coloco 3 gotas de mostarda só para dar um gosto.",
+      "Sirva num cofee break com torrada, biscoito drink, pão suíço e etc."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JESSICA PAIVA DA ROSA SCHUTTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314737-pasta-de-ovo.html"
+}

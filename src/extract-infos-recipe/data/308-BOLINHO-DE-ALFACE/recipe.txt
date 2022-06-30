@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE ALFACE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de alface picada",
+      "1 ovo",
+      "1 xícara (chá) de farinha de trigo",
+      "4 colheres (sopa) de queijo parmesão ralado",
+      "2/3 de xícara (chá) de leite",
+      "1 colher (chá) de fermento em pó químico",
+      "Sal e pimenta-do-reino a gosto",
+      "Óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela,coloque a alface picada,o ovo,a farinha de trigo,o queijo parmesão ralado e misture bem",
+      "Adicione o leite e mexa bem até obter uma massa lisa e homogênea",
+      "Junte o fermento,sal e pimenta-do-reino",
+      "Frite os bolinhos,às colheradas,em óleo quente até dourar levemente por igual",
+      "Escorra sobre papel-toalha e sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SUZANE ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313251-bolinho-de-alface.html"
+}

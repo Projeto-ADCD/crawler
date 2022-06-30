@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TORTA SALGADA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo",
+      "2/3 de xícara de manteiga gelada ",
+      "1 colher (chá) de sal ",
+      "água gelada ",
+      "Recheio ",
+      "1 xícara de abobrinha",
+      "1 xícara de tomate ",
+      "1 xícara de brócolis",
+      "1 lata de creme de leite sem soro ",
+      "3 ovos ",
+      "1/2 xícara de queijo parmesão ralado (opcional)",
+      "sal e pimenta branca a gosto ",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture a farinha, a manteiga e o sal ",
+      "Junte a água gelada aos poucos, só para dar liga",
+      "O ideal é deixar a massa bem quebradiça, a massa é podre, de empadão ",
+      "Abra uma uma folha de papel-manteiga e coloque a massa por cima",
+      "Abra bem a massa sobre o papel ",
+      "Coloque outra folha de papel-manteiga sobre a massa ",
+      "Leve a massa para à geladeira por pelo menos 30 minutos ",
+      "Enquanto isso, prepare o recheio ",
+      "Recheio",
+      "Comece grelhando os legumes em uma penela pura no fogo",
+      "Isso vai impedir que eles soltem água",
+      "Depois, misture o resto dos ingredientes em um recipiente",
+      "Retire a massa da geladeira e acomode em uma forma, com muito cuidado",
+      "Com um garfo, fure o fundo da massa por completo ",
+      "Coloque uma folha de papel-manteiga sobre a massa na forma e coloque grãos de feijão cru por cima de tudo",
+      "Leve a massa ao forno preaquecido a 180° C por 30 minutos",
+      "Quando ela começar a dourar, retire ela do forno, retire a folha de papel e os feijões ",
+      "Junte os dois recheios, o creme e os legumes",
+      "Finalize com orégano",
+      "Leve ao forno de novo por 25 minutos mais ou menos",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308893-torta-salgada-simples.html"
+}

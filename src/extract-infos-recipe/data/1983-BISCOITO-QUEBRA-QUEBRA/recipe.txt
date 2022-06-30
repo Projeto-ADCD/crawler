@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO QUEBRA-QUEBRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho doce",
+      "1 kg de farinha de trigo com fermento",
+      "1 litro de nata de leite",
+      "1 kg de açúcar cristal",
+      "6 ovos",
+      "1 colher (sopa) de sal amoníaco",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma gamela coloque o açúcar, os ovos e a nata.",
+      "Com uma colher mexa bem até virar um creme.",
+      "Ponha o sal amoníaco,o polvilho e a farinha de trigo.",
+      "Misture bem os ingredientes com as mãos, até formar uma massa consistente.",
+      "Faça rosquinhas com as mãos, e colocaque em um tabuleiro.",
+      "Preaqueça por 10 minutos, asse na temperatura média deixe até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ONDINA NOGUEIRA DOS SANTOS TEIXEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306270-biscoito-quebra-quebra.html"
+}

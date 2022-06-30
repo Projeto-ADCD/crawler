@@ -1,0 +1,25 @@
+{
+  "nome_receita": "LIMONCELLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 limões-sicilianos",
+      "500 ml de vodca",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1 e 1/2 xícara (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as cascas dos limões sob água corrente e seque bem. descasque os limões com cuidado para não tirar a parte branca.",
+      "Junte as cascas dos limões num pote com fechamento hermético com a vodca e tampe. Deixe descansar por pelo menos 5 dias.",
+      "Após os 5 dias de descanso, prepare a calda da água com o açúcar em fogo médio até ferver e todo o açúcar dissolver - deixe esfriar.",
+      "Junte a calda de açúcar ao pote com vodca e cascas de limão, misture, tampe e deixe descansar por mais 5 dias.",
+      "Coe, descarte as cascas e transfira o licor para uma garrafa.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAFAEL GERHARDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311619-limoncello.html"
+}

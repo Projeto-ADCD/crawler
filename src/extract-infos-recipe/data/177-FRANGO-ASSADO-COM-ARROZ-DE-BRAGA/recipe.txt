@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FRANGO ASSADO COM ARROZ DE BRAGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ave Natalliz",
+      "2 xícara de arroz branco ",
+      "4 xícaras de água ",
+      "3 colheres (sopa) de óleo ",
+      "1/2 xícara de bacon",
+      "1/2 linguiça calabresa ",
+      "1 tomate ",
+      "1/2 xícara de ervilha fresca ",
+      "1/2 lata de milho verde",
+      "1/2 xícara de repolho ",
+      "4 dentes de alho ",
+      "salsinha a gosto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe e quantifique todos os ingredientes e utensílios.",
+      "Retire a ave Alliz da embalagem, retire o pacote de miúdos do interior da ave, coloque a ave em uma assadeira e leve ao forno preaquecido a 180° C por aproximadamente 50 minutos para assar.",
+      "Enquanto a ave assa, corte a calabresa em rodelas médias, o bacon em cubos médios, corte o repolho em tiras médias, corte o tomate em cubos médios e retire as sementes e amasse o alho.",
+      "Em uma panela, adicione o óleo e comece fritando o bacon",
+      "Assim que estiver bem frito, retire da panela e, nesse mesmo óleo, frite a calabresa",
+      "Retire a calabresa da panela e em seguida, retire o excesso de óleo, mas sem retirar tudo.",
+      "Nessa mesma panela, adicione o alho amassado, dê uma leve fritada, após, adicione o arroz, mexendo para torrar",
+      "Tempere com sal e pimenta ",
+      "Despeje a água, junte o bacon e a calabresa fritos, a ervilha, o repolho e o milho verde",
+      "Deixe cozinhar até que toda água do arroz seque",
+      "Finalize com salsinha bem picada.",
+      "Para a montagem, sirva a ave Alliz assada juntamente com o arroz de Braga."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314075-frango-assado-com-arroz-de-braga.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "RECHEIO DE COCO PARA BOLOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite em pó",
+      "1/2 xícara de açúcar",
+      "1/2 xícara de agua",
+      "1/2 pacote de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o leite em pó, o açúcar e a água em um liquidificador por 2 minutos.",
+      "Despeje em uma panela e adicione o coco",
+      "Mexa em fogo alto até desgrudar totalmente do fundo da panela, mexendo sem parar.",
+      "Coloque na geladeira ou frizer/congelador e em seguida recheei o seu bolo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GIOVANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307423-recheio-de-coco-para-bolos.html"
+}

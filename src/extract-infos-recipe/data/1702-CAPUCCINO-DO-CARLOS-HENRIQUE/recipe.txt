@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CAPUCCINO DO CARLOS HENRIQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de achocolatado ",
+      "400 g de leite em pó",
+      "2 colheres (chá) de canela",
+      "1 colher (chá) de bicarbonato de sódio",
+      "100 g de pó de café solúvel",
+      "50 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos ingredientes ou bata em um processador ou liquidificador até ficar bem misturado.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "CARLOS HENRIQUE SALGADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307107-capuccino-do-carlos-henrique.html"
+}

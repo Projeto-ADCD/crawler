@@ -1,0 +1,34 @@
+{
+  "nome_receita": "REPOLHO COM CENOURA GRATINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 repolho picado",
+      "2 cenouras raladas",
+      "1 cebola picadinha",
+      "1 tomate picadinho",
+      "1 colher (sopa) de amido de milho",
+      "1 lata de milho verde",
+      "350 ml de leite",
+      "tempero e cheiro-verde a gosto",
+      "100 g de mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a lata de milho, o leite e o amido de leite.",
+      "Reserve.",
+      "Em uma panela, doure a cebola.",
+      "Junte o tomate, o repolho e a cenoura e refogue por alguns minutos.",
+      "Coloque a mistura do liquidificador.",
+      "Tempere ao seu gosto. (pimenta, cheiro-verde, sal...)",
+      "Refogue até obter uma consistência cremosa.",
+      "Passe para uma refratário.",
+      "Coloque a mussarela por cima, e leve ao forno por uns 20 minutos para gratinar.",
+      "Sirva quente com arroz branco e uma carne de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310149-repolho-com-cenoura-gratinado.html"
+}

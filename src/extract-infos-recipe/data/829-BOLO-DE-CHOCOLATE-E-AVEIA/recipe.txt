@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "3/4 xícara de óleo",
+      "1 xícara de chocolate em pó",
+      "1 e 1/2 xícara de aveia flocos finos",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador e despeje a massa em uma forma (redonda) untada e enfarinhada",
+      "Leve ao forno preaquecido por mais ou menos 50 minutos "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ADRINE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311400-bolo-de-chocolate-e-aveia.html"
+}

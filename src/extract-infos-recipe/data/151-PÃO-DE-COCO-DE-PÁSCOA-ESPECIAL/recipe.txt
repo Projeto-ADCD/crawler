@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO DE COCO DE PÁSCOA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de farinha de trigo (ou meio quilo)",
+      "1 xícara de coco ralado fresco (ideal é ralar fresco, com o de pacotinho não fica tão bom)",
+      "3 colheres (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 pacotinho de 10 g de fermento biológico em pó (para pão)",
+      "1 ovo",
+      "1 colher de manteiga com sal em temperatura ambiente",
+      "200 ml  (1 vidrinho) de leite de coco morno"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande, misture bem todos os ingredientes secos",
+      "Fazer um buraco no meio da mistura e colocar os demais ingredientes",
+      "Mexa tudo com as mãos até ficar ligado",
+      "Transfira para uma superfície limpa e enfarinhada, comece a sovar, jogando aos poucos um pouco mais farinha de trigo até ficar mais sólido e desgrudar bem das mãos",
+      "Sove por cerca mais 15 minutos e retorne à vasilha, cubra com um pano ou plástico filme, e deixe descansar por 2 horas dentro de fogão desligado (vai dobrar de volume)",
+      "Retorne a massa à superfície, sove mais um pouco",
+      "Divida a massa em duas partes (se quiser dois pães grandes) ou quatro partes (se quiser quatro pães médios), e depois cada parte em três",
+      "Por fim, abra cada parte em formato alongado com rolo de macarrão ou garrafa, depois enrole em espiral, resultando em um fio alongado",
+      "Faça tranças com cada três fios, resultando em dois pães trançados",
+      "Coloque cada trança em uma forma individual de pão enfarinhada, ou todas lado a lado em uma forma retangular enfarinhada, neste caso deixando um espaço entre as tranças e entre elas e as bordas da forma para que cresçam",
+      "Deixe descansar por mais 2 horas",
+      "Pincele aa tranças de massa com 1 ovo batido e salpique coco ralado fresco",
+      "Asse em forno preaquecido a 180° C de 25 a 30 minutos, ou até que fique dourado",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CHEFFRANÇOIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314178-pao-de-coco-de-pascoa-especial.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE CLÁSSICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas",
+      "2 colheres de açúcar",
+      "2 xícaras de leite",
+      "6 colheres de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela no fogo médio, adicione as gemas e o açúcar",
+      "Misture",
+      "Em outra panela no fogo médio, adicione o leite e o achocolatado em pó",
+      "Misture",
+      "Coloque a primeira mistura que você fez com a segunda mistura e misture tudo",
+      "Recheios",
+      "Marshmallow derretido com raspas de chocolate em cima",
+      "Ou marshmallow normal",
+      "Agora é só servir"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AIME - CHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306786-chocolate-quente-classico.html"
+}

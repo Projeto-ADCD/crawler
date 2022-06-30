@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ALMÔNDEGAS RÁPIDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de guizado de primeira",
+      "1 envelope de creme de cebola",
+      "1 xícara de água quente",
+      "3 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de ervas finas",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente fundo misture a carne moída, o creme de cebola, a salsinha e as ervas finas.",
+      "Misture tudo até forma uma massa homogenia.",
+      "Modele as almondegas em bolinhas.",
+      "Em uma panela de fundo largo coloque uma lata de molho de tomate e 1 xícara de água quente e deixe levantar fervura.",
+      "Quando ferver acrescente as almondegas e deixe cozinhar por uns 25 minutos ou até ficarem firmes.",
+      "Cuide para que o molho não seque.",
+      "Retire do fogo e polvilhe com o queijo parmesão.",
+      "Sirva em seguida acompanhado de um arroz branco e salada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307282-almondegas-rapidas.html"
+}

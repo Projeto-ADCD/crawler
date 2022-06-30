@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CAÇAROLA ITALIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "2 colheres (sopa) de manteiga",
+      "1 lata de leite condensado",
+      "2 copos (americano) de leite",
+      "100 g de coco ralado (seco e sem açúcar)",
+      "50 g de queijo parmesão",
+      "100 g de mussarela",
+      "4 colheres (sopa) de trigo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos no liquidificador por 2 minutos.",
+      "Misture os demais ingredientes e bata até misturar bem tudo.",
+      "Unte uma forma com manteiga e leve para assar em forno pré aquecido a 190 graus por cerca de 40 minutos.",
+      "Deixe dourar.",
+      "Salpique coco ralado em cima para decorar e dar uma crocância."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JANAINA VITÓRIA LAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309066-cacarola-italiana.html"
+}

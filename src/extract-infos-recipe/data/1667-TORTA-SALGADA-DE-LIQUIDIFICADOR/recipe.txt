@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA SALGADA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de amido de milho",
+      "1 xícara (chá) de farinha de de trigo",
+      "1 colher (sopa) de fermento",
+      "1 colher (sopa) de sal",
+      "2 pacotinho de tempero para massas",
+      "3 colher (sopa) de sal",
+      "1 xícara (chá) de óleo",
+      "2 batatas médias cozidas",
+      "1 xícara (chá) de leite",
+      "1 xícara (chá) de água do cozimento da batata",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador.",
+      "Em uma forma untada coloque metade da massa o recheio da sua preferência e cubra com o restante da massa.",
+      "Asse em forno quente por 40 minutos aproximadamente."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307229-torta-salgada-de-liquidificador.html"
+}

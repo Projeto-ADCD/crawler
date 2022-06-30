@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO EMPANADO COM CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Kg de peito de frango sem osso",
+      "200 g de creme de leite",
+      "2 copos cheios de farinha de trigo",
+      "1 limão a gosto",
+      "3 dentes de alho",
+      "sal a gosto",
+      "1 colher de orégano a gosto",
+      "1 colher de páprica defumada a gosto",
+      "1 colher de açafrão a gosto",
+      "1 colher de alho frito a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o peito de frango já lavado e cortado em filé, coloque o creme de leite, limão, alho socado, sal, orégano, páprica, açafrão e o alho frito.",
+      "Misture tudo e deixe descansando por 20 minutos.",
+      "Em uma tigela, coloque a farinha de trigo e a tempere a gosto (orégano, páprica, açafrão...) misture.",
+      "Passe os filés de peito de frango na farinha de trigo e frite.",
+      "Agora já pode se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEONARDA GOULART",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312811-frango-empanado-com-creme-de-leite.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COSTELINHA SUÍNA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de costelinha suína",
+      "2 cebolas grandes",
+      "1 colher (sopa) de banha de porco",
+      "5 dentes de alho",
+      "1 pitada de pimenta-do-reino",
+      "2 limões",
+      "2 pimentas de bode",
+      "1 colher (sopa) de páprica doce",
+      "sal e cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a costelinha em pedaços.",
+      "Aqueça a banha de porco em uma panela de pressão e frite as cebolas e o alho.",
+      "Coloque os pedaços da costelinha na panela, adicione a páprica doce, o suco dos limões, a pimenta do reino e as pimentas de bode, e o sal.",
+      "Tampe a panela e deixe cozinhar por 25 minutos.",
+      "Destampe a panela após o cozimento, deixe secar a água até começar a fritar a costelinha.",
+      "Adicione o cheiro-verde e sirva.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "HIGOR LEONARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309277-costelinha-suina-facil.html"
+}

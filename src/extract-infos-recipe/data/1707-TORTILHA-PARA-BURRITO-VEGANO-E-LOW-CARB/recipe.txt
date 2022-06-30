@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTILHA PARA BURRITO VEGANO E LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa Low carb",
+      "1/2 xícara de farinha de coco",
+      "1/4 de xícara de farinha de linhaça",
+      "1 colheres (sopa) de azeite",
+      "2 colheres (chá) de goma xantana",
+      "sal a gosto",
+      "1 xícara de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os secos em um recipiente e misture bem",
+      "Adicione o azeite e misture novamente",
+      "Adicione a água quente aos poucos, mexendo sempre, até que se forme uma massa maleável",
+      "Divida essa massa em duas bolinhas",
+      "Em uma superfície lisa, coloque uma folha de papel manteiga.",
+      "Nessa folha, coloque uma das bolinhas e apoie outra folha de papel manteiga por cima",
+      "Abra a massa com um rolo de massa ou um copo americano",
+      "Retire o papel de cima e corte a massa no formato desejado (pode utilizar uma tampa de panela redonda como auxílio no corte)",
+      "Tire a massa do papel manteiga e esquente-a em uma frigideira ou em um grill",
+      "Quando a massa secar bem embaixo (começar a ficar douradinha), vire-a",
+      "Tire da frigideira e use como quiser"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GATTICC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307093-tortilha-para-burrito-vegano-e-low-carb.html"
+}

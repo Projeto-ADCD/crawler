@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MINGAU DE AVEIA COM FARINHA LÁCTEA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite",
+      "3 colheres (sopa) de aveia",
+      "4 colheres (sopa) de farinha láctea",
+      "1/2 colher (sopa) de açúcar",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, a aveia, o açúcar e a pitada de sal em fogo médio e mexa com um fouet até começar a levantar fervura.",
+      "Depois acrescente a farinha láctea e mexa sem parar até que o mingau solte da panela",
+      "Então desligue o fogo e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VANESSA SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308357-mingau-de-aveia-com-farinha-lactea.html"
+}

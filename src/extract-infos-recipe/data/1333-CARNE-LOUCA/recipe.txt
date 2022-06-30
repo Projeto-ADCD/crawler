@@ -1,0 +1,47 @@
+{
+  "nome_receita": "CARNE LOUCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 kg de lagarto redondo",
+      "1 copo de vinagre",
+      "1 copo de vinho branco seco",
+      "1 copo de azeite",
+      "1 copo de água",
+      "3 tabletes de caldo concentrado de carne",
+      "1 folha de louro",
+      "1 cravo-da-índia",
+      "1 pedaço de canela em casca",
+      "Para o molho",
+      "1 e 1/2 copo de azeite",
+      "1 e ½ copo de óleo",
+      "6 cebolas grandes",
+      "100 g de alcaparras",
+      "100 g de castanha de caju torradas",
+      "100 g de uvas passas",
+      "100 g de azeitonas verdes",
+      "1 xícara de salsa e cebolinha picadas",
+      "1 cálice de martini doce",
+      "sal",
+      "pimenta",
+      "orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne numa panela de pressão, adicione água, vinho, vinagre, azeite, louro, cravo e canela.",
+      "Tampe e leve ao fogo para cozinhar por 20 minutos.",
+      "Retire do fogo e deixe esfriar no próprio molho em que cozinhou.",
+      "Após 4 horas jogue fora o caldo do cozimento e corte a carne em fatias finas.",
+      "Leve uma panela ao fogo com o azeite, óleo e cebola para dourar; junte o martini, refogue até a bebida evaporar e adicione as castanhas, azeitonas, passas, alcaparras e cheiros verdes.",
+      "Tempere com sal, pimenta e orégano.",
+      "Refogue rápido e tire do fogo.",
+      "Num pirex grande, arrume camadas de carne e molho de cebola.",
+      "Termine com molho.",
+      "Leve à geladeira e sirva após 12 horas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308859-carne-louca.html"
+}

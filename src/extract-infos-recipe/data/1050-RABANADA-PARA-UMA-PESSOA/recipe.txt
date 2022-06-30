@@ -1,0 +1,23 @@
+{
+  "nome_receita": "RABANADA PARA UMA PESSOA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 ou mais pães de forma",
+      "6 colheres (sopa) de leite",
+      "açúcar a gosto",
+      "caneca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo junto com o leite em uma vasilha (que caibam os pães), esquentar uma frigideira, mergulhe os dois lados do pão na mistura da vasilha, vire quando os lados dourarem.",
+      "Coloque o açúcar e a canela por cima.",
+      "Você pode escolher por não colocar a canela caso você não goste."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KUSSO CAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310216-rabanada-para-uma-pessoa.html"
+}

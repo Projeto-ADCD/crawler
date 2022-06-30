@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SORVETE COM CALDA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de achocolatado",
+      "1/2 xícara de água",
+      "1 lata de leite condensado",
+      "1 lata de leite (medida da lata de leite condensado)",
+      "3 ovos",
+      "5 colheres (sopa) de açúcar",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Misture o achocolatado com a água e leve ao fogo médio, mexendo até engrossar um pouco.",
+      "Forre o fundo de uma forma com furo e leve à geladeira.",
+      "Creme",
+      "Coloque em uma panela o leite condensado, a mesma medida de leite e 3 gemas peneiradas.",
+      "Mexa com um batedor para misturar bem e leve ao fogo médio até ficar um mingau.",
+      "Bata as claras em neve até dobrarem de tamanho e adicione o açúcar.",
+      "Bata mais e adicione o creme de leite.",
+      "Misture.",
+      "Junte ao creme já frio e coloque na forma.",
+      "Leve ao congelador por no mínimo 8 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAROLINA HENRIQUES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307946-sorvete-com-calda-de-chocolate.html"
+}

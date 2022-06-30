@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PUDIM DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite ",
+      "4 ovos",
+      "4 pães dormidos ",
+      "1 xícara pequena de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, bata os ovos em um recipiente. Bote no liquidificador junto com o açúcar e vá adicionando os pães aos poucos.",
+      "Após acrescentar todos os pães, bote o leite e bata por uns 5 minutos.",
+      "Leve ao forno a 180°, em banho-maria, entre uma hora e uma hora e meia."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313151-pudim-de-pao.html"
+}

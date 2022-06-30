@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIPOCA CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de milho para pipoca",
+      "4 colheres (sopa) de açúcar",
+      "4 colheres (sopa) de óleo",
+      "4 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em uma panela de pressão, misture tudo e deixe destampada até começar a estourar.",
+      "Tampe a panela sem o pino central, dando umas mexidinhas para não queimar o açúcar.",
+      "Quando perceber que estourou tudo, retire do fogo e coloque em uma travessa e deixe até esfriar.",
+      "Dê uma sacudida nelas e então se desgrudarão uma das outras, ficarão soltinhas e uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JULIA ALVES BERGAMO DE MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312149-pipoca-caramelizada.html"
+}

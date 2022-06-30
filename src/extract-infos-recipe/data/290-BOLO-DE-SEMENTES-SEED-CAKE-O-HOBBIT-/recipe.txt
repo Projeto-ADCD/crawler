@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE SEMENTES (SEED CAKE) - O HOBBIT.",
+  "ingredientes": {
+    "DEFAULT": [
+      "110 g de margarina",
+      "85 g de açúcar",
+      "2 ovos",
+      "1/2 colher (chá) de noz-moscada",
+      "110 g de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (sopa) de semente de cominho",
+      "1 colher com mix de semente de chia e gergelim preto",
+      "1 colher (sopa) açúcar para polvilhar."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina por 20 segundos e misture com o açúcar e bata até ficar leve e cremoso.",
+      "Acrescente a noz-moscada, os ovos e bata por aproximadamente dois minutos (se preferir, use a batedeira).",
+      "Acrescente a farinha e o fermento peneirados e misture levemente a massa.",
+      "Adicione o cominho e as sementes e misture bem, sem bater.",
+      "Em uma forma pequena e untada, despeje a massa e polvilhe o açúcar.",
+      "Asse a 160º por aproximadamente 30 minutos e aumente para 200 graus por mais ou menos 20 minutos.",
+      "E voilà! Aproveite seu bolo de sementes com uma xícara de chá, como os hobbits do Bolsão!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CECÍLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313365-bolo-de-sementes-seed-cake-o-hobbit.html"
+}

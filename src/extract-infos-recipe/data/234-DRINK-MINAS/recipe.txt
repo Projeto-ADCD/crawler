@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DRINK MINAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de abacaxi",
+      "suco de 1/2 limão",
+      "250 ml de refrigerande de sua preferência",
+      "4 cubos de gelo",
+      "corante de laranja ou hortelã para enfeitar a taça"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o abacaxi, o suco de limão, o refrigerante.",
+      "Distribua gotas de corante de laranja ou hortela por toda borda da taça.",
+      "Coloque os 4 cubos de gelo.",
+      "Despeje a mistura no liquidificador na taça ou copo, o que preferir.",
+      "Agora é só se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ELIANE BARBOSA FILA. BY. PÃES DA LY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313797-drink-minas.html"
+}

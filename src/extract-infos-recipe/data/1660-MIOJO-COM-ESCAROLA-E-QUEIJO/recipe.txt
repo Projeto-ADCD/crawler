@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MIOJO COM ESCAROLA E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de miojo de qualquer sabor (com os tipos cremosos fica melhor)",
+      "alho frito a gosto",
+      "pimenta-do-reino a gosto",
+      "2 xícaras (chá) de escarola fatiada",
+      "1/2 tomate picado sem sementes",
+      "3 colheres (sopa) de mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o miojo conforme as instruções da embalagem.",
+      "Quando for adicionar o macarrão, coloque junto a escarola, o alho, a pimenta e o tomate.",
+      "Após 3 minutos, desligue e fogo e adicione o tempero da embalagem e a mussarela ralada.",
+      "Sirva bem quente"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ARIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307252-miojo-com-escarola-e-queijo.html"
+}

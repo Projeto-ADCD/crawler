@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MACARRÃO NO FORNO COMO VOCÊ NUNCA VIU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 massas de macarrão Espaguete",
+      "2 caixas de creme de leite",
+      "1 molho de tomate",
+      "3 colheres (sopa) de mostarda",
+      "3 colheres de ketchup",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "orégano a gosto",
+      "400 g de queijo ",
+      "400 g de presunto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o macarrão espaguete por volta de 10 minutos a 20 minutos",
+      "Enquanto isso, prepare o molho em outra panela",
+      "Pegue os cremes de leite e coloque na panela, adicione o molho de tomate, o ketchup, a mostarda e os temperos a gosto",
+      "Ao colocar tudo na panela, ligue a panela e ferva até estar soltando do fundo da panela",
+      "Pegue 2 fatias de presunto e de queijo e pique",
+      "Depois junte no molho e dê uma misturada",
+      "Desligue o macarrão do fogo, coloque a água fora e deixe no canto",
+      "Pegue uma forma de bolo quadrada que não seja pequena e nem muito grande",
+      "Com uma concha, pegue o molho e despeje na forma até cobrir tudo",
+      "Depois coloque uma camada de macarrão, por cima coloque as fatias de queijo e presunto e  coloque mais molho em cima",
+      "Depois coloque mais uma camada de macarrão, adicione o queijo e presunto eem seguida o molho",
+      "Por fim, a última camada, adicione o queijo e o presunto e depois o molho",
+      "Coloque no forno por 20 minutos, prontinho",
+      "Um ótimo almoço"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JESSICA SOUZA ANJOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307154-macarrao-no-forno-como-voce-nunca-viu.html"
+}

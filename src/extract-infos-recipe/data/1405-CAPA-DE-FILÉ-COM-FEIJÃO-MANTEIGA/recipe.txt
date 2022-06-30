@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CAPA-DE-FILÉ COM FEIJÃO MANTEIGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de capa-de-filé (ou peito)",
+      "500 g de feijão manteiga (ou roxinho)",
+      "100 g de toucinho defumado",
+      "4 colheres de sopa de óleo",
+      "4 tomates picadinhos sem pele e sementes",
+      "2 cebolas batidinhas",
+      "4 dentes de alho",
+      "2 folhas de louro",
+      "1 colher (café) rasa de cominho",
+      "2 pimentões vermelhos ou verdes picados",
+      "2 cenouras picadinhas",
+      "sal",
+      "pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "De véspera, escolha, lave e coloque o feijão de molho em bastante água.",
+      "No dia seguinte, troque a água e leve ao fogo para uma boa fervura, junto com as folhas de louro.",
+      "Limpe a carne e corte em pequenos cubos.",
+      "Tempere com sal, o alho socado e o cominho.",
+      "Faça um bom refogado com o óleo, o toucinho em cubinhos, a cebola, o pimentão e o tomate",
+      "Junte a carne e a cenoura, refogue até tomar cor (fogo brando).",
+      "Feito isso, vá pingando água até ficar em meio cozimento. Prove os temperos.",
+      "Assim que o feijão começar a cozinhar, junte o refogado de carne.",
+      "Prove o sal e tempere com pimenta a gosto.",
+      "Tampe e deixe cozinhar normalmente até que a carne e o feijão estejam macios.",
+      "Mexa de vez em quando para não pegar.",
+      "Sirva bem quente com arroz feito na hora, couve mineira e farofa de banana."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308504-capa-de-file-com-feijao-manteiga.html"
+}

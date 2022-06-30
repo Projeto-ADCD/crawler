@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de couve crua cortada bem fininha",
+      "200 g de cenoura crua cortada fininha ou ralada no ralo grosso",
+      "2 dentes de alho grande",
+      "1 cebola bem picadinha pequena",
+      "1 gomo de linguiça calabresa picada em cubinhos",
+      "100 g de bacon picado em cubinhos",
+      "3 ovos crus",
+      "200 g de farinha de milho (não serve farinha flocada)",
+      "200 g de farinha de mandioca torrada",
+      "200 g de farinha já temperada",
+      "1 colher (sopa) (15 ml) de manteiga se preferir",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o bacon e deixe fritar",
+      "Após, coloque a linguiça calabresa, frite um pouco, coloque a manteiga e refogue a cebola por 1 minuto",
+      "Coloque o alho e refogue por 30 segundos",
+      "Coloque os 3 ovos crus, mexa um pouco mais não para endurecer os ovos",
+      "Quando estiver úmido ainda, coloque a couve picada, a cenoura picada e na sequência todas as farinhas aos poucos, até dar o ponto desejado",
+      "Junte o sal e pimenta."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DEBORA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306118-farofa-mineira.html"
+}

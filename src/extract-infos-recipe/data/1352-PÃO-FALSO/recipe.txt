@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÃO FALSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de farelo de aveia",
+      "2 colheres (sopa) de farinha de amêndoa",
+      "1 pitada de sal",
+      "1 ovo",
+      "1 colhere (sobremesa) de manteiga",
+      "1 tampinha de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo",
+      "Coloque 2 minutos no micro-ondas.",
+      "Prontinho pão quente e saudável."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RE SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308772-pao-falso.html"
+}

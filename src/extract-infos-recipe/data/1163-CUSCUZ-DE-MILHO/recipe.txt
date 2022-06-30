@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CUSCUZ DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de farinha de milho",
+      "1/2 colher (chá) de sal",
+      "1 copo (americano) de água",
+      "2 colheres (sopa) de manteiga",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture farinha de milho e sal. ",
+      "Adicione água aos poucos, sempre mexendo com uma colher para distribuir bem o líquido, e deixe hidratar por 10 minutos. ",
+      "Preencha o fundo de uma cuscuzeira com água e coloque o cesto de vapor. ",
+      "Bote a farinha de milho já hidratada no cesto, tomando cuidado para não compactar. Cozinhe em fogo alto.",
+      "Quando sair um leve vapor pela lateral da tampa, baixe o fogo e deixe cozinhar por mais 10 minutos até o cuscuz ficar bem macio. ",
+      "Desenforme o cuscuz, transfira para uma tigela e desfaça em pedaços com um garfo.",
+      "Em uma tigela, misture a manteiga com um pouco da água fervente da cuscuzeira. ",
+      "Mexa com uma colher até derreter pelo menos a metade da manteiga.",
+      "Regue o cuscuz com a mistura de água e manteiga, misture com o garfo e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Caso você não tenha a tradicional cuscuzeira, tente usar o banho-maria para fazer seu cuscuz no vapor."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309524-cuscuz-de-milho.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COCADA BAIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de coco seco ralado (fresco)",
+      "300 ml de leite",
+      "1,5 kg de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todo o coco e o açúcar em uma panela e misture",
+      "Em seguida ligue o fogo alto e coloque o leite",
+      "Mexa até tudo ficar bem misturado",
+      "Abaixe o fogo e vá sempre acompanhado até dar ponto",
+      "(se quiser uma cocada mais dourada, derreta um pouco de açúcar antes de colocar o coco na panela)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CADE O BAIANO ?!",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306618-cocada-baiana.html"
+}

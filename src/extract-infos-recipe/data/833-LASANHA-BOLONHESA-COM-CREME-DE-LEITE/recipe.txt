@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LASANHA BOLONHESA COM CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa para lasanha",
+      "2 latas de creme de leite",
+      "300 g de presunto",
+      "200 g de mussarela",
+      "500 g de carne moída",
+      "1 molho de tomate",
+      "1 caldo de carne",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa da lasanha por uns 10 minutos, escorra, passe pela água fria e separe.",
+      "Numa panela coloque a cebola e o alho picados com um pouco de óleo e leve ao fogo sempre mexendo até dourar.",
+      "Em seguida coloque a carne moída e mexa. Coloque o caldo knor e o sal e mexa até que estejam misturados. Tampe a panela e deixe cozinhar, mexendo de vez enquando. Quando a carne estiver pré cozida, coloque o molho de tomate, mexa novamente e deixa até ferver.",
+      "Numa travessa alta ou numa forma, monte a lasanha da seguinte forma:",
+      "Coloque um pouquinho do molho ao fundo, coloque uma camada de massa, uma camada do molho de carne moída, uma camada de 1 lata de creme de leite sem o soro, uma camada de presunto e um de mussarela.",
+      "Repita mais 1 vez esses procedimentos, finalizando com a mussarela e cubra com papel alumínio ou a tampa da travessa. Leve ao forno pré aquecido até derreter a mussarela, retire o papel alumínio e deixe dourar até ao ponto de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAQUEL DE SOTTO MAYOR ROSEIRO BORGES DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311377-lasanha-bolonhesa-com-creme-de-leite.html"
+}

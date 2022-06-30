@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE DE MANGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 mangas (retirar cascas e sementes)",
+      "1/3 de xícara de leite condensado",
+      "1 caixa de creme de leite",
+      "1/2 xícara de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater os ingredientes no liquidificador,colocar em um recipiente e levar ao freezer.Antes de congelar totalmente,mexer com o fuê ou bater com mixer,por umas duas vezes (fica mais cremoso).",
+      "Se gostar mais doce só acrescentar mais leite condensado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314374-sorvete-de-manga.html"
+}

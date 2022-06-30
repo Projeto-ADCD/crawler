@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO BRANCO À MODA BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de toucinho defumado com pouca gordura",
+      "2 cubos de caldo de galinha",
+      "1 xícara (chá) de água",
+      "1 colher (sopa) de rum",
+      "3 caixas de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o toucinho em pedaços bem pequenos ou, se tiver um moedor, triture a carne.",
+      "Despeje o toucinho numa panela funda e frite-o até liberar bastante gordura.",
+      "Neste momento, se desejar, retire parte da gordura.",
+      "Acrescente a água, o rum e os cubos de caldo de carne.",
+      "Quando o caldo de carne estiver completamente dissolvido, apague o fogo e despeje o creme de leite"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBSERVAÇÃO 1: se o molho branco for utilizado no macarrão, embora os cozinheiros não recomendem, sugiro manter o fogo acesso e ir acrescentando as caixas de creme de leite aos poucos até a primeira fervura para poder comê-lo quentinho.\nOBSERVAÇÃO 2: se for utilizar o molho em lasanha, apague o fogo antes de misturar o creme de leite.\nOBSERVAÇÃO 3: a gordura liberada pelo toucinho é o que dá sabor ao molho, por isso sugiro mantê-la integralmente, porque ela ficará imperceptível. Lembre-se de que o creme de leite, por si só, já é gorduroso, por isso, esta receita não é indicada para quem está fazendo dietas ou não pode comer alimentos gordurosos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LAURO DOS SANTOS RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308117-molho-branco-a-moda-brasileira.html"
+}

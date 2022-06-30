@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PETIT GATEAU DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres (sopa) de tapioca",
+      "2 colheres (sopa) de chocolate em pó",
+      "1 colher (café) de fermento",
+      "1 colher (sopa) de leite vegetal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte duas canecas com manteiga.",
+      "Misture todos os ingredientes (use somente a clara do ovo), com exceção do doce de leite.",
+      "Despeje metade da massa no fundo da caneca.",
+      "Coloque o doce de leite.",
+      "Complete com o restante da massa.",
+      "Leve as canecas ao micro-ondas por 40 segundos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIA KAIZER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309422-petit-gateau-de-tapioca.html"
+}

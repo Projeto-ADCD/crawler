@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO SALGADO DE ALHO-PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de alho-poró picado",
+      "4 ovos",
+      "100 g de mussara ralada (opcional)",
+      "3 colheres (sopa) de margarina",
+      "2 xícaras de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o auxílio de uma colher, misture em um recipiente o alho poró, ovos, margarina, mussarela, sal, farinha de trigo e leite até obter uma mistura homogênea.",
+      "Acrescente o fermento em pó e misture levemente.",
+      "Despeje a mistura em uma forma untada com margarina e dê leves batidinhas para que a massa se distribua melhor.",
+      "Leve para assar em forno preaquecido em 200° C por 40 minutos em média."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "KARINA GARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314424-bolo-salgado-de-alho-poro.html"
+}

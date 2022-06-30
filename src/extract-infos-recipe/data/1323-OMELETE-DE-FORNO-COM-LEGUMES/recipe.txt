@@ -1,0 +1,29 @@
+{
+  "nome_receita": "OMELETE DE FORNO COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 ovos",
+      "3 e 1/2 colheres (sopa) de farinha de trigo",
+      "1/2 cenoura ralada",
+      "1/2 abobrinha italiana ralada",
+      "1 xícara (chá) de brócolis cozido e picado",
+      "1 tomate sem sementes picado",
+      "2 colheres (sopa) de requeijão cremoso",
+      "1 colher (café) de fermento em pó",
+      "sal a gosto",
+      "margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque os ovos e a farinha e bata com um batedor de arame ou garfo até ficar homogêneo e aerado.",
+      "Adicione a cenoura, a abobrinha, o brócolis, o tomate, o requeijão, o fermento, sal e misture.",
+      "Despeje em um refratário médio untado e leve ao forno médio, preaquecido, por 20 minutos ou até dourar.",
+      "Retire e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANIELA MARQUESINI SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308881-omelete-de-forno-com-legumes.html"
+}

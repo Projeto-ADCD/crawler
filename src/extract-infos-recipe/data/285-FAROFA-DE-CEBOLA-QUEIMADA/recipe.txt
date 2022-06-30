@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FAROFA DE CEBOLA QUEIMADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cebolas médias",
+      "1/3 xícara de óleo",
+      "3 colheres (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie em rodelas finas 3 cebolas médias e frite-as em uma mistura de 1/3 xícara de óleo com 3 colheres (sopa) de manteiga.",
+      "Essa quantidade de gordura é necessária para dar sabor à farinha, se diminuir ficará seca e sem gosto.A medida em que a cebola for fritando, o óleo vai começar a espumar. Mantenha a cebola no fogo até ficar marrom, ela deve ficar queimadinha mesmo.",
+      "Junte a farinha torrada e acerte o sal."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: adicione ainda um pouco de um tempero desidratado que leva alho e cebola em flocos."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MONNY MIRELLE DE CARVALHO ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313415-farofa-de-cebola-queimada.html"
+}

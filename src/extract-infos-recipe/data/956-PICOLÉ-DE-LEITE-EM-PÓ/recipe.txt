@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PICOLÉ DE LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "3/4 de uma xícara de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o creme de leite puro no liquidificador por 30 segundos. Acrescente o leite condensado e o leite em pó e bata até ficar homogêneo.",
+      "Distribua nas forminhas de picolé e deixe no congelador por 3 horas antes de consumir.",
+      "Pode adicionar recheios de sua preferência, e, se não possuir forminhas de picolé, coloque em um refratário e coma como um sorvete."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANA COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310732-picole-de-leite-em-po.html"
+}

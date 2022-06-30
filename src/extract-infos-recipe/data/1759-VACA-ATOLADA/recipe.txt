@@ -1,0 +1,31 @@
+{
+  "nome_receita": "VACA ATOLADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de costela bovina",
+      "1 kg de mandioca amarela",
+      "7 dentes de alho",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 cebola grande ",
+      "1 tomate grande ",
+      "cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a mandioca e reserve",
+      "Frite a costela primeiro no óleo em seguida cubra com água e deixe cozinhar em fogo alto por 40 minutos",
+      "Retire o osso acrescenta o alho amassado com sal, pimenta-do-reino.",
+      "Cozinhe por mais 20 minutos.",
+      "Pegue uma panela grande e refogue a cebola e seguida acrescenta a mandioca.",
+      "Coloque a costela com caldo e mexa para desenvolver em toda a panela.",
+      "Coloque o tomate e a cebolinha picada, tampe por 10 minutos em fogo baixo.",
+      "Pronto só servir com arroz."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELEANDRO COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306899-vaca-atolada.html"
+}

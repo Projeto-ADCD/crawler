@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FRANGO ASSADO COM MAIONESE E CREME DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa com sobrecoxa de frango",
+      "pimenta a gosto",
+      "1 pacote de creme de cebola",
+      "200 g de maionese",
+      "1 alho-poró "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque  o frango em uma forma ou recipiente que possa ir ao forno",
+      "Junte a pimenta e passe o creme de cebola por todos os pedaços do frango",
+      "Coloque a maionese em colheradas por cima do frango",
+      "Corte o alho-poró em fatias e coloque por cima",
+      "Cubra com papel-alumínio",
+      "Leve ao forno preaquecido por 180° C por 2 horas ou até assar (retirar o papel na metade do tempo)",
+      "Deixe até dourar "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308490-frango-assado-com-maionese-e-creme-de-cebola.html"
+}

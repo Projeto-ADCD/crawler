@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CUSCUZ NORDESTINO COM CARNE-SECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Margarina Primor Todo Dia para acompanhar à gosto",
+      "1 e 1/2 xícara de carne-seca (120 g)",
+      "2 xícaras de água (400 ml)",
+      "1 colher (café) de sal",
+      "1 colher (sopa) de Cebola picada (20 g)",
+      "4 xícaras de flocão de milho (440 g)",
+      "1 colher (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture o flocão com a água e o sal e misture bem até formar uma farofa solta e úmida.",
+      "Reserve por 10 minutos.",
+      "Aqueça a margarina e refogue rapidamente a cebola.",
+      "Junte a carne seca e misture bem.",
+      "Dentro de uma cuscuzeira média (18cm) coloque metade da quantidade do flocão hidratado, o recheio e cubra com o restante do flocão, nivelando sem pressionar.",
+      "Leve ao banho-maria e cozinhe por 15 minutos contados após a fervura.",
+      "Desenforme em seguida e sirva quente com a Margarina Primor."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA: acrescente ao recheio cubos de queijo de coalho."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312313-cuscuz-nordestino-com-carne-seca.html"
+}

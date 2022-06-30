@@ -1,0 +1,38 @@
+{
+  "nome_receita": "RISOTO DE BRIE COM PARMA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o crocante:",
+      "200g de presunto parma fatiado fino",
+      "Papel manteiga",
+      "Para o risoto:",
+      "200g de Brie em pedaços",
+      "50g de Grana Padano ralado",
+      "1 fio de azeite de oliva",
+      "2 colheres de manteiga",
+      "500g de arroz arbóreo",
+      "1 cebola picada",
+      "240ml de vinho branco seco",
+      "1,5L de caldo de legumes",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Crocante:",
+      "Forrar uma forma com papel manteiga e espalhar as tiras de parma de maneira que nao fiquem sobrepostas",
+      "Colocar para assar em forno a 180° por aproximadamente 15min.",
+      "Deixar o parma esfriar até que fique crocante. Na sequencia quebre em pequenas partes.",
+      "Risoto:",
+      "Em uma panela grande aqueça o azeite e a manteiga, refogue a cebola sem dourar.",
+      "Na sequência acrescente o arroz e mexa até ele ficar transparente, então despeje o vinho branco e vá incorporando o caldo de legumes aos poucos.",
+      "Tempere com sal e pimenta a gosto. (Cuidar com sal do queijo)",
+      "Quando o arroz estiver al dente, entre com o Brie e o Grana Padano.",
+      "Desligue o fogo, acrescente o restante da manteiga e mexa vigorosamente até alcançar uma consistência cremosa e brilhante."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ÉRICA BAADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306693-risoto-de-brie-com-parma-crocante.html"
+}

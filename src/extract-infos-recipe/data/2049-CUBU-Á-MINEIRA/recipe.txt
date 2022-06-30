@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CUBU Á MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xicaras de fubá",
+      "1 xícara de farinha de trigo com fermento",
+      "2 colher de manteiga",
+      "4 colheres de banha de porco",
+      "7 ovos",
+      "1 colher (sobremesa) de fermento químico",
+      "1 colher de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite, manteiga e a banha",
+      "Coloque o sal e morme um pouco",
+      "Na vasilha junte o fubá com a farinha de trigo",
+      "Coloque na vasilha a mistura do leite",
+      "Misture até virar um farofa úmida",
+      "Depois adicione os ovos um a um e sove bastante",
+      "Por último coloque o fermento em pó",
+      "Distribua essa massa em papel manteiga e enrole",
+      "Leve ao forno preaquecido à 180° C por 25 mim ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "WERIKA GONÇALVES LISBOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306122-cubu-a-mineira.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PANQUECA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana amassada",
+      "1 banana fatiada",
+      "1 ovo",
+      "2 colher (sopa) de açúcar",
+      "5 colheres (sopa) de farinha de trigo com fermento (aproximadamente)",
+      "1/2 xícara (chá) de leite",
+      "1 colher (chá) de canela em pó (opcional)",
+      "2 colheres de cacau/chocolate em pó (opcional)",
+      "mel, nutella, chocolate derretido, leite condensado ou o que preferir para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, junte uma banana amassada e a banana fatiada, o ovo e o açúcar misturando bem.",
+      "Acrescente a farinha de trigo, a canela e/ou o cacau em pó uma colher de cada vez, agregando bem para não empelotar.",
+      "Por último coloque o leite, mexendo até obter uma massa homogênea.",
+      "Coloque uma concha da massa no centro de uma frigideira antiaderente, caso prefira pode ir moldando com a ajuda de uma colher.",
+      "Tampe a a frigideira para que a massa cresça e fique fofinha.",
+      "Deixe dourar e com a ajuda de uma espátula vire e doure o outro lado.",
+      "Finalize com mel, nutella, chocolate derretido, leite condensado ou como preferir "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "BÁRBARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311935-panqueca-de-banana.html"
+}

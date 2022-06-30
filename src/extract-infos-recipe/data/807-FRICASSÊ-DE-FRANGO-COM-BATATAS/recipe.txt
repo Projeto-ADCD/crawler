@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO COM BATATAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata palito cozida ao dente (podendo substituir por abobrinha)",
+      "1 kg de peito de frango cozido e desfiado",
+      "2 colheres (sopa) de margarina",
+      "20 ml de molho shoyu",
+      "2 cebolas grande picada",
+      "1 kg de creme culinário",
+      "3 tomates grandes sem pele e sem semente",
+      "300 g de queijo parmesão ralado",
+      "sal a gosto",
+      "azeite para untar a assadeira"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma assadeira com azeite e forre com a batata. Reserve.",
+      "Refogue o frango na margarina e adicione o molho shoyu, a cebola, o creme culinário, os tomates e acerte o sal.",
+      "Coloque o frango sobre as batatas e por último coloque uma camada de queijo.",
+      "Leve ao forno para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA CRISTINA ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311493-fricasse-de-frango-com-batatas.html"
+}

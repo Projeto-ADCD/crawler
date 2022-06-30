@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SOBRECOXAS ASSADAS SECRETAS DU CHEF",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 limões",
+      "4 dentes de alho",
+      "1 colherinha (chá) de pimenta-do-reino",
+      "1 colherinha (chá) de chimichurri",
+      "mostarda a gosto",
+      "2 colherinhas (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue as sobrecoxas e faça uns 5 furos em cada com uma faca para que o tempero penetre.",
+      "Coloque os em uma vasilha grande.",
+      "Esprema os 2 limões, adicione a pimenta, chimichurri, o alho esmagado e o sal.",
+      "Misture bem nas sobrecoxas.",
+      "Por fim, coloque mostarda a gosto. (particularmente, gosto de mostarda então minha medida é em torno de 4 colheres de sopa)",
+      "Depois de temperar, deixe marinando por umas 2 a 3 horas, na geladeira.",
+      "Após este prazo, coloque em uma marinex e despeje em cima do frango, se sobrar algo na vasilha.",
+      "Cubra a marinex com papel alumínio e leve ao forno por 50 minutos, a 200 graus.",
+      "Após este tempo, retire o papel-alumínio (cuidado para não se queimar com o vapor quente!) e deixe dourando por mais uns 35 minutos.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "DOUGLAS DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310873-sobrecoxas-assadas-secretas-du-chef.html"
+}

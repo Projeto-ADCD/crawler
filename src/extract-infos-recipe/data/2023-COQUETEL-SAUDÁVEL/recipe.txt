@@ -1,0 +1,26 @@
+{
+  "nome_receita": "COQUETEL SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas",
+      "6 colheres (sopa) rasas de açúcar",
+      "2 maçãs",
+      "3 laranjas ou bergamotas",
+      "200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro pegue as frutas e as descasque.",
+      "Depois pique todas",
+      "E coloque as bandas as maçãs com ou sem casca as laranjas ou bergamotas, a água e o açúcar, todo no liquidificador",
+      "E bata pó aproximadamente 2/3 minutos",
+      "Pegue 4 copos e sirva-se",
+      "Delicie-se e fique saudável "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELLE G. F.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306175-coquetel-saudavel.html"
+}

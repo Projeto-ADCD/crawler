@@ -1,0 +1,42 @@
+{
+  "nome_receita": "MACARRÃO PENNE AO MOLHO DE FRANGO DESFIADO COM QUEIJO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão tipo penne",
+      "2 sachês de molho de tomate",
+      "1 kg de peito de frango",
+      "1 tablete de caldo de galinha",
+      "1 e 1/2 cebola",
+      "1 tomate",
+      "alho a gosto",
+      "sal a gosto",
+      "colorau a gosto",
+      "pimenta-do-reino a gosto",
+      "cheiro-verde a gosto",
+      "queijo branco a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o frango desfiado",
+      "Coloque o peito de frango na panela de pressão, junto com o tablete de caldo de galinha, sal e vinagre.",
+      "Deixe por aproximadamente 30 minutos, se estiver duro, volte a cozinhar. Após cozido, reserve meia parte da água para refogar o frango, e desfie.",
+      "Para refogar, pique 1 cebola e alho, deixe dourar, acrescente o colorau e depois o tomate picado, espere o tomate desmanchar um pouco e acrescente o frango, use a água reservada para refogar o frango. Adicione o cheiro-verde picado, sal e pimenta do reino. Reserve",
+      "A quantidade de água não pode ser muita, tem que ser o suficiente para ajudar os ingredientes se juntarem ao frango, não é para virar sopa.",
+      "Para o molho",
+      "Refogue 1/2 cebola junto com o alho, quando dourar, acrescente o molho de tomate, complete com um pouco de água (opcional), e acrescente o cheiro verde picado, sal e pimenta-do-reino.",
+      "Acrescente o frango desfiado e já refogado, misture bem e deixe apurar (ferver).",
+      "Para o macarrão",
+      "Ferva somente a água, e assim que entrar em fervura acrescente o macarrão, mexa um pouco e acrescente o sal.",
+      "Cozinhe o macarrão por aproximadamente 8 minutos, espere escorrer, e regue com azeite extra virgem ou óleo até o macarrão ficar bem soltinho. Reserve",
+      "Sirva no prato (individual) primeiro o macarrão, e depois o molho por cima, e rale um pouco de queijo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas:\nPara desfiar, tampe a panela e chacoalhe.\nAo não juntar o molho diretamente no macarrão, facilita o armazenamento, e ao esquentar o macarrão, caso sobre para uma próxima refeição, sua receita ficará como se você tivesse acabado de cozinhar. (esquente o macarrão no micro-ondas, e o molho no fogão, para uma experiência melhor).\nRegar o macarrão com azeite ou óleo, previne que ele não grude quando esfriar.\nEu usei o queijo branco, mas você pode usar o parmesão ou qualquer um de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KELLY CHRISTINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309305-macarrao-penne-ao-molho-de-frango-desfiado-com-queijo-branco.html"
+}

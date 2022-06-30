@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO PÉ-DE-MOLEQUE COM COBERTURA DE CARAMELO",
+  "ingredientes": {
+    "MASSA  ": [
+      "400 g de massa de mandioca (massa puba)",
+      "1 xícara de açúcar refinado",
+      "1 xícara de açúcar mascavo",
+      "1/3 de xícara de café bem forte",
+      "1 xícara de leite de coco",
+      "6 ovos ",
+      "4 colheres (sopa) de margarina Primor",
+      "150 g de castanha de caju levemente torrada",
+      "150 g de amendoim sem pele torrado",
+      "4 unidades de cravo",
+      "1/2 colher (chá) de sal"
+    ],
+    "COBERTURA  ": [
+      "1/2 colher (sopa) de margarina Primor ",
+      "1 xícara de açúcar refinado",
+      "1 lata de creme de leite sem soro",
+      "100 g de amendoim sem pele torrado",
+      "100 g de castanha de caju torrada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180ºC e unte uma assadeira (de cerca de 22cm) com margarina Primor e farinha. ",
+      "No liquidificador adicione os dois tipos de açúcar, os ovos, a margarina Primor, o café solúvel, o leite de coco, a castanha, o amendoim e o sal. Bata bem até ficar homogêneo. ",
+      "Transfira a massa para uma tigela e incorpore a massa de mandioca. ",
+      "Despeje a massa na assadeira untada e leve ao forno preaquecido por cerca de 40 minutos até que fique dourado nas beiradas, mas ainda um pouco mais cremoso no centro. Ele vai terminar de assar fora do forno. ",
+      "Depois que o bolo já estiver assado e desenformado, é hora de preparar a cobertura de caramelo. Leve ao fogo  baixo o açúcar. Deixe que derreta por completo e comece a atingir uma cor dourada, são cerca de 8 minutos.",
+      "Adicione então aos poucos o creme de leite sem soro aquecido (fora da lata no micro-ondas). Cuidado pois o  caramelo sobe. Finalize com a margarina Primor, mexendo bem até ficar um caramelo brilhante. ",
+      "Cubra o bolo com o caramelo e espalhe o amendoim e as castanhas por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312518-bolo-pe-de-moleque-com-cobertura-de-caramelo.html"
+}

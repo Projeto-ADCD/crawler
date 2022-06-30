@@ -1,0 +1,20 @@
+{
+  "nome_receita": "DRINKS DE ACEROLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Lata de Smirnoff Ice gelada",
+      "1/2 cuba de gelo",
+      "1/2 lata de leite condensado",
+      "1 polpa de acerola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IZABELLE GAMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312407-drinks-de-acerola.html"
+}

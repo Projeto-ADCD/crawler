@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CREPE DE PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara de polvilho doce",
+      "1/3 xícara de leite",
+      "1/3 xícara de óleo",
+      "1/3 colher (chá) de sal",
+      "50 g de queijo ralado",
+      "1/3 colher (sopa) de fermento em pó",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o ovo, o leite e o óleo",
+      "Em uma vasilha, misture aos poucos o polvilho, o queijo e a mistura do liquidificador",
+      "Adicione por último o sal, os temperos e o fermento",
+      "Leve na crepeira já aquecida de 10 a 15 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: 1. Pode acrescentar bacon, frango desfiado, calabresa ou presunto na massa\n2. Pode ser feito na sanduicheira ou na crepeira"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312892-crepe-de-pao-de-queijo.html"
+}

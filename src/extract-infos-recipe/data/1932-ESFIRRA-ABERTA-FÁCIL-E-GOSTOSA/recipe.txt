@@ -1,0 +1,49 @@
+{
+  "nome_receita": "ESFIRRA ABERTA FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "250 ml de leite",
+      "1 colher (sopa) de fermento biológico (10 g aproximadamente)",
+      "2 colheres (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "2 colheres (sopa) (bem cheia) de manteiga",
+      "500 g de farinha (aproximadamente) - farinha até dar o ponto da massa não ficar grudento",
+      "Recheio",
+      "5 g de carne moída",
+      "1 cebola grande picada em cubinho",
+      "1 limão taiti grande",
+      "2 colheres de tahine",
+      "ou",
+      "500 g de queijo ralado",
+      "1 caixinha de creme de leite de 200 ml",
+      "1 xícara de salsinha picada",
+      "ou",
+      "500 g de calabresa ralada (triturada)",
+      "1 cebola grande picada em cubinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparando a massa",
+      "Em uma bacia, coloque o leite morno, o açúcar, o sal, fermento e manteiga.",
+      "Mexa bem, até que a mistura seja diluída.",
+      "Depois vá acrescentando a farinha até dar ponto.",
+      "Sove a passa por 5 minutos, até que ela fique bem lisinha.",
+      "Deixe descansar por aproximadamente 10 minutos a massa.",
+      "Enquanto isso, pode ir preparando o recheio",
+      "Depois de fazer 12 porções em bolinhas e colocar em uma assadeira (está devidamente untada com fubá)",
+      "Depois que as porções dobrarem de tamanho (mais 10 minutos mais ou menos), abra com os dedos a esfirra, na própria forma e recheie",
+      "Leve ao forno alto por cerca de 30 minutos ou até dourar.",
+      "Recheios",
+      "Misture a carne, com o tahine, com a cebola picada, com o suco do limão e com sal (a gosto)",
+      "Recheie as esfirras com essa mistura. Obs: usar carne crua.",
+      "Misture o queijo com o creme de leite e com a salsinha. Use sal a gosto. Faça uma pasta e recheie as esfirras.",
+      "Misture a cebola a calabresa ralada ou processada e recheie as esfirras."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MATHEUS BORTOLETO RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306380-esfirra-aberta-facil-e-gostosa.html"
+}

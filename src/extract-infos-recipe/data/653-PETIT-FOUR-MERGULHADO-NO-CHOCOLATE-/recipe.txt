@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PETIT FOUR (MERGULHADO NO CHOCOLATE).",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/4 de xícara de óleo vegetal",
+      "1/2 xícara de açúcar refinado",
+      "1 e 3/4 de xícara de farinha de trigo",
+      "1 colher (sopa) de fermento químico em pó",
+      "1 colher (chá) de essência de baunilha",
+      "200 g de chocolate (para derreter)",
+      "pacote de granulado de qualquer tipo."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, bata o ovo com o óleo e o açúcar.",
+      "Acrescente, aos poucos, a farinha de trigo.",
+      "Por último, junte o fermento.",
+      "Preaqueça o forno a 180° C (por 10 minutos).",
+      "Coloque para assar por, mais ou menos, 15 minutos.",
+      "Derreta o chocolate.",
+      "Mergulhe as bolachinhas (Petit Four) no chocolate derretido.",
+      "Passe pelo granulado e espere esfriar.",
+      "Sirva. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "HANNAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312147-petit-four-mergulhado-no-chocolate.html"
+}

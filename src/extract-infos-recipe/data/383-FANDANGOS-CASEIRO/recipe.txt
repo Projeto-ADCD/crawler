@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FANDANGOS CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de milho amarela (flocos médios)",
+      "1/2 colher (chá) de sal",
+      "1 colher (chá) de fermento químico em pó",
+      "1/2 colher (sopa) de manteiga em temperatura ambiente",
+      "1 xícara (chá) de água morna",
+      "tempero a gosto (pimenta-do-reino, tomilho, cúrcuma, páprica ou o que desejar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque a farinha de milho amarela e misture com o sal e o fermento em pó.",
+      "Em seguida, adicione a manteiga, dê uma leve misturadinha e vá adicionando a água aos poucos até adquirir uma massa homogênea.",
+      "Agora, com as mãos, vá pegando pequenas quantidades da massa e moldando os biscoitinhos do formato que desejar — você pode apertar levemente com o dedão, fazendo uma concha, ou moldar em formato de anéis.",
+      "A massa pode parecer um pouco quebradiça, mas não se preocupe: vá fazendo delicadamente os formatos que dará certo!",
+      "Em seguida, coloque os biscoitos separadamente na assadeira e leve ao forno preaquecido a 200º C por cerca de 10 minutos ou até os biscoitos estarem crocantes!",
+      "Após isso, basta retirar do forno e finalizar com temperos de sua preferência!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Fácil, fácil, né? Na hora de moldar o formato dos biscoitos, você ainda pode chamar a criançada para ajudar nessa tarefa e, literalmente, botar a mão na massa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANDRÉ LUIS RODRIGUES MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313003-fandangos-caseiro.html"
+}

@@ -1,0 +1,52 @@
+{
+  "nome_receita": "BANANA NO CUQUE COM CALDA E FAROFA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "2 xícaras de açúcar",
+      "2 colheres (sopa) de margarina",
+      "2 xícaras de trigo",
+      "1 xícara de amido de milho",
+      "3/4 de xícara de leite integral",
+      "1 colher (sopa) e 1/2 de fermento químico",
+      "1 pitada de sal",
+      "Calda",
+      "1 caixa de leite condensado",
+      "1 lata de creme de leite (ou a mesma quantidade)",
+      "40 ml de leite",
+      "1 colher (sopa) de amido de milho",
+      "1 gema de ovo",
+      "8 bananas maduras",
+      "Farofa",
+      "1 xícara e 1/2 de trigo",
+      "1 xícara de açúcar",
+      "4 colheres (sopa) de margarina",
+      "1 limão",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a massa",
+      "Bata os ovos e o açúcar com garfo, fouet ou batedeira até ficar um pouco aerado, então adicione a margarina. Misture previamente o trigo e a maizena e incorpore na massa, aos poucos, junto com o leite. Pode ser com uma colher mesmo. A massa não deve ficar muito líquida. Só por último adicione o fermento químico (eu espero até a hora de montar a cuca para colocar).",
+      "Calda",
+      "Misture a gema, o leite condensado e o creme de leite numa panela. Só então ligue a panela em fogo baixo. Misture o amido no leite frio antes para evitar pelotas e adicione aos poucos à panela. Misture sem parar até começar a fervura e reserve.",
+      "Pique as bananas finamente, ou como preferir, sobre uma superfície limpa e polvilhe canela. Misture e reserve.",
+      "Farofa",
+      "Misture uma xícara de açúcar e uma de trigo. Adicione a margarina (em temperatura ambiente ou não) e mexa com uma colher. Após começar a misturar, misture e aperte com as pontas dos dedos os pedaços de margarina até formar uma farofa. Esprema o suco de um limão sobre a farofa e misture. Isso provavelmente ocasionará perca do aspecto de farofa, então adicione mais trigo. O limão ajuda a quebrar o gosto doce da torta. Reserve.",
+      "Montagem",
+      "Unte bem uma forma grande com margarina ou óleo e polvilhe trigo por toda a extensão dela. Adicione toda a massa (não esqueça de incorporar o fermento primeiro) de forma homogênea. Coloque delicadamente as fatias de banana como dominós caídos até forrar e despeje com cuidado a calda por cima (ela terá endurecido se estiver fria. Nesse caso, esquente-a com um pouco de leite primeiro). Por fim, pegue pequenas porções de farofa nas mãos e esfregue-as por cima da calda.",
+      "Se a farofa tiver descansado por um tempo, pode adquirir aspecto de massa. Nesse caso, coloque trigo aos poucos até que volte o aspecto farinhento. Se acabar tendo que adicionar muita farinha, coloque também um pouco de açúcar.",
+      "Leve ao forno médio/alto e preaquecido, de 45 minutos a 1 hora.",
+      "A torta crescerá o dobro, no mínimo. Espete um garfo ou palito para ver se está assada, mas cuidado para não confundir com o creme."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas\nSe a massa ficar muito líquida o recheio poderá descer para dentro. O mesmo pode ocorrer se o forno não for pré-aquecido, pois a farofa pode derreter antes de assar.\nEssa é uma receita que mistura o cuque de farofa clássico, o que leva banana e o que leva calda branca. Não requisita batedeira."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GUILHERME RUBEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306489-banana-no-cuque-com-calda-e-farofa-crocante.html"
+}

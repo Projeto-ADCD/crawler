@@ -1,0 +1,35 @@
+{
+  "nome_receita": "LAGARTO NA CERVEJA CARACU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 Kg de Lagarto Fatiado em Bifes de 2,5cm",
+      "1 lata de Cerveja Preta 350 ml (Caracu)",
+      "1 Sachê de Molho de Tomate Pronto 340 g",
+      "1 Tablete de Caldo de Carne",
+      "1 Cebola Grande Fatiada",
+      "3 Dentes de Alho triturados",
+      "1 Kg de batatas pequenas",
+      "óleo",
+      "sal a Gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os bifes com sal e reserve.",
+      "Em uma panela de pressão, acrescente o óleo e pré aqueça, coloque os bifes e sele dos dois lados. Obs: Coloque os bifes de um em um para não juntar caldo. Depois reserve os bifes Selados.",
+      "Na mesma panela, se necessário acrescente mais óleo e coloque o alho e deixe dourar.",
+      "Acrescente a cebola e deixe fritar um pouco.",
+      "Agora coloque os Bifes e mexa.",
+      "Coloque a Cerveja, o molho de Tomate e o caldo de carne, mexa novamente e verifique o sal.",
+      "Tampe a Panela e quando pegar pressão, baixe o fogo e deixe por 30 minutos.",
+      "Retire a pressão da panela e acrescente as batatas descascadas; Após pegar pressão novamente, baixe o fogo e deixe cozinhar por 7 minutos.",
+      "Retire a pressão da panela e verifique se a batata com a carne estão cozidas.",
+      "Se o caldo estiver ralo, acrescente uma colher de sopa de maisena e mexa até engrossar.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SAMUEL SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313897-lagarto-na-cerveja-caracu.html"
+}

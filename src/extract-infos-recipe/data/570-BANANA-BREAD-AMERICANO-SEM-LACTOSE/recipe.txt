@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BANANA BREAD AMERICANO SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xicara de oleo",
+      "3/4 de xícara de açúcar",
+      "1 ovo",
+      "1 + 1/2 xícara de farinha",
+      "1 colher de chá de bicarbonato de sódio",
+      "1/4 de colher (chá) de sal",
+      "3 bananas amassadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligar o forno a 162° C (325F)",
+      "Misturar à mão o óleo e o açúcar, depois colocar o ovo e misturar de novo",
+      "Adicionar os outros 3 ingredientes na lista",
+      "Misturar as bananas e colocar na forma untada",
+      "Colocar no forno por no mínimo 1h, fazer o teste do palitinho pra saber se tá pronto. Eu deixo mais ou menos 1h15min"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312482-banana-bread-americano-sem-lactose.html"
+}

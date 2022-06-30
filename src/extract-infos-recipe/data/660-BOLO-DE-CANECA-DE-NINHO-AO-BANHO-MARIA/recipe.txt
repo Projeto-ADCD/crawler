@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CANECA DE NINHO AO BANHO-MARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) açúcar ou à gosto",
+      "4 colheres (sopa) de leite ninho em pó",
+      "4 colheres (sopa) de farinha de trigo com fermento",
+      "3 colheres (sopa) de leite",
+      "3 colheres (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca de plástico bem resistente misture os ovos, o óleo e o leite líquido.",
+      "Em seguida adicione o leite em pó e o açúcar e misture até a mistura ficar homogênea.",
+      "Por último adicione a farinha de trigo e mexa bem.",
+      "Coloque a caneca em banho maria por pelo menos de 15 a 20 minutos.",
+      "Em seguida já tá pronto pra ser servida.",
+      "Você também pode incrementar essa deliciosa receita com uma calda de leite ou de sua preferência, fica uma delícia e é uma ótima sobremesa rápida e fácil de fazer!"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THAYNARA KATIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312095-bolo-de-caneca-de-ninho-ao-banho-maria.html"
+}

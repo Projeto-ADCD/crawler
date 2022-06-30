@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO AO MOLHO PESTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de talharim",
+      "2 xícaras de manjericão fresco",
+      "1/2 xicara de queijo parmesão ralado",
+      "1/2 xicara de queijo meia cura ralado",
+      "1 xícara de azeite de oliva",
+      "2 dentes de alho",
+      "1/2 colher de chá de pimenta dedo-de-moça ",
+      "1/4 de xícara de castanhas do Pará",
+      "pimenta-do-reino preta a gosto ",
+      "sal a gosto ",
+      "queijo parmesão a gosto para finalizar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em uma panela com água e sal",
+      "Coloque todos os ingredientes do pesto no liquidificador ou em um processador ",
+      "Bata muito bem até o molho ficar homogêneo",
+      "Adicione o pesto ao macarrão já cozido e escorrido e misture muito bem.",
+      "Sirva seu macarrão ao molho pesto",
+      "Finalize com mais parmesão ralado!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309171-macarrao-ao-molho-pesto.html"
+}

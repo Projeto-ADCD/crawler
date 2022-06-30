@@ -1,0 +1,37 @@
+{
+  "nome_receita": "COOKIE AMERICANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de manteiga sem sal em temperatura ambiente",
+      "2 ovos grandes em temperatura ambiente",
+      "310 g de farinha de trigo",
+      "3 g de fermento",
+      "2 g de bicarbonato de sódio",
+      "1 1/2 colher (chá) de extrato de baunilha",
+      "2 g de sal (mais ou menos 2 pitadas)",
+      "100 g de açúcar cristal",
+      "100 g de açúcar mascavo",
+      "270 g de gotas de chocolate meio amargo (ou uma barra picada)",
+      "100 g de nozes ou macadâmia picada",
+      "Opcional: Nutella para rechear"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a manteiga na batedeira ou no fouet até ela ficar um pouco aerada e levemente esbranquiçada, adicione os açúcares e bata por mais 2 minutos.",
+      "Adicione apenas um ovo primeiro e bata até incorporar, adicione o outro e bata novamente, agora adicione o extrato de baunilha e bata mais um pouco.",
+      "Peneire a farinha. Junte o sal, o fermento e o bicarbonato e acrescente a farinha peneirada. Misture até incorporar tudo e não dê mais para ver a farinha, por 2 minutos.",
+      "Junte o chocolate e as nozes na massa com o batedor ou uma colher de pau e misture bem. Despeje essa massa em uma tigela com tampa ou cubra com plástico filme e leve-a à geladeira por no mínimo 40 minutos (assim a massa descansa, e ficará mais fácil para trabalhar e fazer as bolinhas)",
+      "Use um boleador de sorvete para fazer as bolas (ou as mãos mesmo, mas não demore muito com a massa na mão) e coloque em assadeira forrada com papel manteiga, dando uma boa distância entre as bolas de massa ,pois vão desmanchar.",
+      "Asse em forno pré-aquecido por 15 minutos a 190°.",
+      "Quando retirar do forno, deixe em um local fresco para esfriar completamente e não toque nos cookies, pois podem quebrar ou desmanchar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: asse a farinha em uma assadeira por 15 minutos a 180°, reserve e deixe esfriar. \nDica 2: congelei bolinhas de Nutella e fiz um furo na massa com o dedo para rechear.\nDica 3: fiz em 2 tamanhos, 70 e 90 g, ficam bem grandes. Se quiser fazer render, faça de 50 g ou menor."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "POLIANA FIGUEIREDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313183-cookie-americano.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CARNE SUÍNA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne suína (cortada em cubo)",
+      "suco de 1 limão",
+      "óleo",
+      "3 dentes de alho",
+      "1/2 cebola picada",
+      "salsa ou coentro",
+      "1 tomate",
+      "1/2 colher (sopa) de pimenta-do-reino",
+      "1/2 colher (sopa) de cominho",
+      "1 colher (sopa) de coloral",
+      "cebolinha (opcional)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, acrescente o óleo junto do alho e deixei dourar.",
+      "Em seguida, acrescente a salsa ou o coentro junto com a cebola e refogue.",
+      "Em seguida, acrescente o coloral e mexa.",
+      "Acrescente a carne aos poucos e mexa.",
+      "Depois de acrescentar toda carne, deixe fritar por alguns minutos sem parar de mexer para não grudar.",
+      "Por causa do limão, a carne soltará água.",
+      "Feche a panela e deixe por cerca de 15 minutos.",
+      "Quando estiver pronta, acrescente o tomate cortado em cubos e finalize com cebolinha picada por cima."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATALY RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311080-carne-suina-na-panela-de-pressao.html"
+}

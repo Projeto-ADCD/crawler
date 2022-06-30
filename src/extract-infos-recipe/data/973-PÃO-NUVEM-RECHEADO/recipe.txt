@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO NUVEM RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos ",
+      "1/2 colher (café) de sal",
+      "1 pitada de pimenta-do-reino ",
+      "1/2 colher (sopa) de amido de milho",
+      "3 colheres (sopa) de cream cheese",
+      "2 colheres (sopa) de alho poró fatiado",
+      "2 colheres (sopa) de presunto picado",
+      "1 colher (chá) de alecrim",
+      "150 g de queijo mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe com cuidado as claras das gemas ",
+      "Bata as claras em neve e adicione com cuidado o sal e o amido.",
+      "Enquanto isso, misture o cream cheese nas gemas.",
+      "Depois, misture as claras nas gemas muito bem.",
+      "Em uma frigideira coloque colheradas da massa.",
+      "Certifique-se de acomodá-las muito bem com a colher, para criar esse efeito de nuvem quando pronto.",
+      "Vire depois de dourar de um lado",
+      "Recheie com mussarela, alho poró e presunto.",
+      "Finalize com alecrim.",
+      "Tampe a frigideira e espere o queijo derreter. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310667-pao-nuvem-recheado.html"
+}

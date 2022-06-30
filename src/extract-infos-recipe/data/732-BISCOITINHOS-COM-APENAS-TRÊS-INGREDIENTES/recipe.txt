@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BISCOITINHOS COM APENAS TRÊS INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de manteiga ou margarina",
+      "300 g de farinha de trigo peneirada",
+      "100 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma tigela, misture com uma colher e depois com as mãos até ficar uma massa homogênea.",
+      "Não precisa amassar muito",
+      "Modele os biscoitinhos do formato de sua preferência",
+      "Pode usar cortador se preferir",
+      "Distribua em assadeira sem untar",
+      "Leve ao forno preaquecido a 180° C de 15 a 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ISABELLE CAMILO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311833-biscoitinhos-com-apenas-tres-ingredientes.html"
+}

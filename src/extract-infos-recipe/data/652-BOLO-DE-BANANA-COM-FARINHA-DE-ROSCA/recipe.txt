@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE BANANA COM FARINHA DE ROSCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "5 bananas nanicas maduras (sabe aquelas que já estão quase estragando e ninguém quer?)",
+      "3/4 de xícara de óleo de soja",
+      "2 xícaras de açúcar",
+      "2 xícaras de farinha de rosca",
+      "1 colher de fermento",
+      "açúcar e canela em pó para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata as bananas, os ovos, o óleo e o açúcar até formar um creme liso.",
+      "Despeje o conteúdo do liquidificador na tigela da batedeira, acrescente a farinha de rosca e o fermento. Bata em velocidade máxima por 5 minutos.",
+      "Unte uma forma de furo no meio de aproximadamente 22 cm com margarina, polvilhe açúcar e canela em pó.",
+      "Coloque a massa do bolo e asse por 40 minutos em forno preaquecido a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TAÍS ZAMPIERI VASSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312148-bolo-de-banana-com-farinha-de-rosca.html"
+}

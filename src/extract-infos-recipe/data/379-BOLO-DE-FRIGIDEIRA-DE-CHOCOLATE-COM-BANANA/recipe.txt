@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE FRIGIDEIRA DE CHOCOLATE COM BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1 ovo",
+      "1 colher (sobremesa) de fermento em pó",
+      "1 colher (sopa) de achocolatado em pó",
+      "2 colheres (sopa) de açúcar refinado",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 pitada de canela",
+      "manteiga para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana em um bowl, e logo em seguida coloque o ovo",
+      "Acrescente o achocolatado em pó, a farinha de trigo, a canela  e misture bem",
+      "Por fim,  coloque o fermento em pó.",
+      "Aqueça a frigideira e ponha a manteiga para untar.",
+      "Despeje a massa na frigideiras e asse em fogo médio com a tampa fechada",
+      "Depois vire e asse do outro lado."
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HUGO ALVES FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313023-bolo-de-frigideira-de-chocolate-com-banana.html"
+}

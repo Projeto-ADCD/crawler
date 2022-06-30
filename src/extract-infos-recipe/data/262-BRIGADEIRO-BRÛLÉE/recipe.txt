@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BRIGADEIRO BRÛLÉE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga ",
+      "1 lata de leite condensado ",
+      "2 gemas ",
+      "1 colher (sopa) de essência de baunilha ",
+      "raspas da casca de 1 laranja ",
+      "1 xícara de açúcar cristal "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a manteiga em uma panela ao fogo",
+      "Coloque o leite condensado e as gemas ",
+      "Misture e deixe cozinhar um pouco",
+      "Coloque a essência e as raspas e mexa mais um pouco",
+      "Deixe no fogo até a mistura pegar ponto de brigadeiro e descolar do fundo da panela",
+      "Coloque em um prato e leve à geladeira por 30 minutos",
+      "Unte as mãos e faça as bolinhas do brigadeiro",
+      "Passe no açúcar e use o maçarico, com cuidado, para finalizar a receita"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313608-brigadeiro-brulee.html"
+}

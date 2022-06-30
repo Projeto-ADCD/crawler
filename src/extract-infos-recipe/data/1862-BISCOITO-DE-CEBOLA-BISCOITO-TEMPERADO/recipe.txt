@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BISCOITO DE CEBOLA/BISCOITO TEMPERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "1 dente de alho (opcional)",
+      "400 g de manteiga",
+      "500 g de farinha de trigo",
+      "orégano a gosto (opcional)",
+      "sal a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola e o alho em picadinho, frite-os no óleo.",
+      "Em um recipiente adicione o trigo, a manteiga, a cebola e o alho já fritos e o sal.",
+      "Misture bem até formar uma massa (não precisa sovar, apenas misture todos os ingredientes com as mãos)",
+      "Com a massa já pronta faça bolinhas ou a forma que desejar e coloque-as numa forma (não precisa untar, pois a massa já é amanteigada)",
+      "Agora adicione o orégano por cima",
+      "Coloque no forno no tempo informado ou até ficar douradinho"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "EMANUELLE SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306598-biscoito-de-cebola-barra-biscoito-temperado.html"
+}

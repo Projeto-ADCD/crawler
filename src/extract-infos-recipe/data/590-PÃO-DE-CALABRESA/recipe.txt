@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO DE CALABRESA",
+  "ingredientes": {
+    "MASSA": [
+      "1 pacote (1 kg) de Farinha de trigo DONA BENTA TRADICIONAL",
+      "3 colheres (sopa) de açúcar (45g) ",
+      "½ xícara (chá) de azeite (90g) ",
+      "1 colher (sopa)  de sal (15g)",
+      "2 unidades (20g) de Fermento seco instantâneo Dona Benta",
+      "2 e ½ xícaras (chá) de leite morno (600ml) "
+    ],
+    "RECHEIO": [
+      "1 e 1/2 kg de calabresa fatiada",
+      "5 cebolas fatiadas",
+      "salsa a gosto",
+      "orégano a gosto",
+      "pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Adicione em uma tigela, o leite morno, o sal, o azeite, o açúcar. Em um potinho coloque o fermento seco instantâneo Dona Benta, e um pouco da farinha de trigo Dona Benta tradicional, e misture. Depois, adicione essa mistura de farinha e fermento ao restante dos ingredientes na tigela.",
+      "Coloque a farinha de trigo Dona Benta tradicional aos poucos, você vai usar toda a farinha. Sove por 5 minutos, corte a massa em 3 unidades iguais, e coloque para descansar em uma superfície enfarinhada, ou com azeite, coberta com um pano ou plástico por 20 minutos."
+    ],
+    "RECHEIO": [
+      "Misture tudo em uma tigela e reserve."
+    ],
+    "MODELANDO O PÃO": [
+      "Abra a massa com o auxílio de um rolo, recheie com o recheio de calabresa.",
+      "Enrole como um rocambole e parta ao meio e coloque em uma forma de pão de forma (a forma compridinha) ou coloque um ao lado do outro com distância de dois dedos em uma forma de bolo comum, ou faça 8 bolinhas de 50g recheie e coloque uma do lado da outra em uma forma de pudim (aquela forma com furo no meio).",
+      "Pincele com 1 ovo batido quando colocar pão na forma.",
+      "Leve para assar em forno a 180ºC por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312430-pao-de-calabresa.html"
+}

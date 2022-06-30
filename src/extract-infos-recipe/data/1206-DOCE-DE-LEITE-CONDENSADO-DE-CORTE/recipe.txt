@@ -1,0 +1,21 @@
+{
+  "nome_receita": "DOCE DE LEITE CONDENSADO DE CORTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "3 latas de açúcar (medida da lata de leite condensado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ingredientes em uma panela e leve em fogo médio-baixo, mexendo sem parar, até ficar com uma coloração mais escura e desgrudar do fundo da panela.",
+      "Para ver o ponto, pingue um pouco do doce em um copo de água, se endurecer rápido já está pronto.",
+      "Despeje o doce em uma forma untada com manteiga.",
+      "Corte o doce ainda morno, se esfriar fica difícil de cortar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309388-doce-de-leite-condensado-de-corte.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MUFFIN DE BANANA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana amassada",
+      "1 colher (sopa) de farinha de aveia",
+      "1 colher (sopa) de água morna filtrada",
+      "1 colher (sopa) de chia",
+      "1 colher (chá) de chocolate em pó",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (chá) de canela",
+      "3 ameixas secas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um recipiente",
+      "Leve ao micro-ondas por 2 minutos ",
+      "Desenforme em um prato se preferir"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VEGETARI BELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310774-muffin-de-banana-com-chocolate.html"
+}

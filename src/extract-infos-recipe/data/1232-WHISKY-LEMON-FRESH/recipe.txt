@@ -1,0 +1,23 @@
+{
+  "nome_receita": "WHISKY LEMON FRESH",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de whisky ballantines finest blended (1 dose)",
+      "25 ml de suco de limão taiti (1/2 dose)",
+      "1 rodela de limão",
+      "1 lata de soda",
+      "3 cubos de Gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma taça de 180 ml, adicione o suco de limão e a dose de Whisky.",
+      "Complete a taça com a soda e misture gentilmente para não tirar o gás do refrigerante.",
+      "Encaixe a rodela de limão na boca da taça para fins estéticos, adicione os cubos de gelo e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THIAGO GIANELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309300-whisky-lemon-fresh.html"
+}

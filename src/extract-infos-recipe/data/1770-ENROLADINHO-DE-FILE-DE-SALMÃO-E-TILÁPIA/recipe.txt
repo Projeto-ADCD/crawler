@@ -1,0 +1,46 @@
+{
+  "nome_receita": "ENROLADINHO DE FILE DE SALMÃO E TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 filés de tilápia",
+      "6 filés de salmão",
+      "2 colheres de suco de limão siciliano",
+      "1 xícara de suco de laranja pera",
+      "1 xícara de vinho branco",
+      "1/2 xícara de cebolinha bem picadinha",
+      "1 colher (sopa) de azeite",
+      "1 colher rasa (sobremesa) de sal",
+      "1 colher (café) de pimenta-do-reino branca",
+      "Para o molho",
+      "1 xícara de alho poró picado",
+      "2 e 1/2 xícaras de leite",
+      "1 pimentão vermelho picado",
+      "1 colher (sopa) de farinha de trigo",
+      "1 colher (sobremesa) de manteiga",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés com suco de limão, laranja, sal, pimenta e o vinho e deixe nesse marinado por 30 minutos.",
+      "Disponha um filé de salmão sobre um filé de tiápia e enrole até que se obtenha 6 rolinhos de filés.",
+      "Faça o acabamento do fechamento dos rolinhos de filé com um palito.",
+      "Coloque os filés em um refratário ligeiramente untado com azeite.",
+      "Despeje todo o marinado sobre os filés.",
+      "Reserve.",
+      "Em um panela aqueça a manteiga e coloque o alho poró e o pimentão e doure ligeiramente e acrescente metade do leite e deixe ferver por dois minutos e desligue o fogo.",
+      "Acrescente a farinha de trigo diluída na outra metade do leite e sal a gosto e ligue o fogo.",
+      "Deixe ferver por 2 minutos.",
+      "Desligue o fogo novamente.",
+      "Peneire o molho com ajuda de uma colher para aproveitar o máximo do sabor ou passe no liquidificador até que suma todos os resíduos.",
+      "Despeje o molho sobre os filés até que fiquem totalmente cobertos.",
+      "Cubra com papel-alumínio.",
+      "Leve ao forno previamente aquecido e deixe cozinhar em temperatura média por 50 minutos.",
+      "Retire do forno, salpique a cebolinha e sirva com arroz e salada verde regada com suco de limão siciliano e azeite."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MARGARIDA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306852-enroladinho-de-file-de-salmao-e-tilapia.html"
+}

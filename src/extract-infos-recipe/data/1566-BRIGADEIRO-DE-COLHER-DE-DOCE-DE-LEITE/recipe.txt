@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO DE COLHER DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "1 caixa de leite condensado",
+      "3 colheres (sopa) de doce de leite",
+      "1 colher (chá) de canela",
+      "açúcar refinado (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga em seguida adicione o leite condensado",
+      "Misture em fogo baixo coloque o doce de leite e a canela misture por mais 2 minutos, desligue o fogo coloque em um recipiente de sua preferencia",
+      "Em seguida misture o açúcar refinado com a canela e coloque por cima do brigadeiro",
+      "Depois e só deixar esfriar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA LUIZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307604-brigadeiro-de-colher-de-doce-de-leite.html"
+}

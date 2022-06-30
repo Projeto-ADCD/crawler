@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃZINHO FEITO NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) de requeijão",
+      "1/2 colher (sobremessa) de fermento",
+      "queijo ralado a gosto (opcional)",
+      "1 pitada de orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa bem o ovo em uma vasinha de vidro (com a colher de sobremessa)",
+      "Em seguida adicione 3 colheres (sopa) de requeijão",
+      "1/2 colher (sobremessa) de fermento",
+      "Queijo ralado a gosto",
+      "Adicione (uma pitada) de orégano",
+      "Mexa tudo bem (com a colher de sopa)",
+      "Em seguida coloque no micro-ondas (por 2 minutos e 30 segundos)",
+      "Agora é só recheiar  coloque o que quiser)",
+      "obs: não ultrapasse o tanto de ingredientes nem o tempo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "obs: não deu para colocar foto, mas fica uma delícia (se ele ficou amarelinho você fez certo) (você pode comer ele aberto ou pode cortar e rechear)"
+    ]
+  },
+  "tempo_de_preparo": "-20 MIN",
+  "rendimento": "-3 PORÇÕES",
+  "autor": "LIDIANE SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308743-pazinho-feito-no-micro-ondas.html"
+}

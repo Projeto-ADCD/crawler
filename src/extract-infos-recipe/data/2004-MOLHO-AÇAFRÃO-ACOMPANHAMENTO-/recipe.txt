@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO AÇAFRÃO (ACOMPANHAMENTO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tomate",
+      "1/2 cebola",
+      "1 ovo",
+      "1 colher (chá) de açafrão",
+      "sal a gosto",
+      "óleo até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, menos o óleo.",
+      "Depois de tudo misturado, acrescente o óleo devagar até dar o ponto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALINE SOARES DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306212-molho-acafrao-acompanhamento.html"
+}

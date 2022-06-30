@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE UVAS PASSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "200 g de margarina",
+      "200 ml de leite integral",
+      "3 xícaras de farinha de trigo com fermento",
+      "200 g de uvas passas",
+      "0,5 g de fermento biológico [(1 colher (café)]"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos juntamente com o açúcar e a margarina.",
+      "Logo após acrescentar o leite e permanecer a bater tudo junto.",
+      "Em seguida adiciona o fermento biológico e a farinha de trigo, bate bastante até ficar uma massa bem levinha.",
+      "Coloque as uvas passas na massa e mistura.",
+      "Unte a assadeira com margarina e farinha de trigo logo, após coloque no forno, preaquecido 200° C"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JANAINA FARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306392-bolo-de-uvas-passas.html"
+}

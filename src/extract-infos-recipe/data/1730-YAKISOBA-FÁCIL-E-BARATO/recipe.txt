@@ -1,0 +1,50 @@
+{
+  "nome_receita": "YAKISOBA FÁCIL E BARATO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de acém (cortado em tiras)",
+      "1 macarrão para yakisoba (pode ser feito também com macarrão instantâneo)",
+      "2 cenouras",
+      "1 couve",
+      "1 cabeça de couve-flor",
+      "1 cabeça de brócolis",
+      "1 pimentão verde",
+      "8 vagens",
+      "1 molho shoyu (uma garrafinha de 150 ml basta)",
+      "1 dente alho",
+      "1 cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "LEGUMES",
+      "Corte a cenoura em cubos e corte o pimentão em tiras de 2 cm",
+      "Fatie cada vagem em 3 pedaços, o brócolis e a couve-flor corte talos finos",
+      "Já a couve normal, você pode despedaçar com a mão, faça pequenos quadrados, coloque pelo menos metade de uma cabeça média de uma couve normal",
+      "Junte tudo numa panela e cozinhe",
+      "Acrescente uma pitada de sal, deixe cozinhar até a cenoura ficar ao dente.",
+      "Depois de cozido escorra a água e reserve.",
+      "CARNE",
+      "Numa frigideira, acrescente um fio de óleo e coloque a uma cabeça de cebola cortada em cubos",
+      "Deixe dourar e acrescente a carne, salgue a gosto e deixe a carne fritar até ficar macia",
+      "Não deixe fritar muito para não ficar dura, é importante acompanhar o processo.",
+      "MACARRÃO",
+      "Numa panela grande acrescente 500 g de macarrão para cozinhar",
+      "Importante: enquanto estiver fazendo os legumes já deixe uma panela com água no fogo para o macarrão",
+      "Coloque na água uma pitada de sal, um fio de azeite e espere levantar fervura",
+      "Acrescente o macarrão e espere ficar ao dente.",
+      "CARNE E LEGUMES",
+      "Numa panela, misture a carne e os legumes com um fio de azeite e deixe aquecer",
+      "Mexa por alguns minutos.",
+      "Depois de escorrido o macarrão, leve ao fogo com alho picado e um fio generoso de azeite ou óleo e frite o macarrão",
+      "Sempre mexendo por cerca de 2 minutos",
+      "Depois junte a carne já misturada com os legumes ao macarrão e mexa por cerca de 1 minut",
+      "Acrescente o shoyu e misture.",
+      "Prontinho seu Yakisoba servirá 4 porções."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROBERT WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306976-yakisoba-facil-e-barato.html"
+}

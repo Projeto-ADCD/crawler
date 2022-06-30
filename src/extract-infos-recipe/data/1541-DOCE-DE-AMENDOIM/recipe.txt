@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de amendoim torrado",
+      "1 caixa de leite condensado",
+      "1 xícara de açúcar",
+      "2 colheres de manteiga",
+      "açúcar refinado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela adicione o amendoim, o açúcar e a manteiga",
+      "Leve ao fogo baix e deixe caramelizar",
+      "Coloque o leite condensado.",
+      "Espalhe e deixe esfriar",
+      "Quando esfriar, mele ele no açúcar refinado"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROGGER GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307758-doce-de-amendoim.html"
+}

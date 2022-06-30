@@ -1,0 +1,48 @@
+{
+  "nome_receita": "BOLO DE LEITE NINHO COM RECHEIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 1/2 xícara de farinha de trigo",
+      "1 xícara de açúcar",
+      "6 colheres de sopa de manteiga",
+      "4 colheres de sopa de leite em pó",
+      "3 ovos",
+      "60 ml de leite",
+      "1 colher (sopa) de fermento"
+    ],
+    "RECHEIO/COBERTURA": [
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de manteiga",
+      "2 claras em neve",
+      "2 colheres (sopa) de açúcar confeiteiro",
+      "1 colher (chá) de suco de limão",
+      "1 colher (chá) de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata 1 xícara de açúcar com as colheres de manteiga até ficar homogêneo",
+      "Acrescente aos poucos a farinha de trigo",
+      "Acrescente os ovos",
+      "Acrescente as colheres de leite em pó",
+      "Acrescente o leite",
+      "Acrescente o fermento",
+      "Com o forno já preaquecido, coloque o bolo para assar em 180° C"
+    ],
+    "RECHEIO/COBERTURA": [
+      "Bata as claras de ovo com o açúcar até ficar no ponto correto. É o chantilly. Reserve.",
+      "Bata o leite condensado com a manteiga até ficar homogêneo e adicione o chantilly feito anteriormente.",
+      "Adicione a colher de chá de limão (para dar a consistência).",
+      "Acrescente a colher de chá de essência de baunilha e bata para finalizar.",
+      "Divida o bolo ao meio e molhe com leite.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ponto correto: Pegue um pouco com a colher e vire de cabeça pra baixo, se não cair, está no ponto. Se cair, bata um pouco mais.\n45 minutos foi o tempo que levou no meu forno a 180°. Pode ser que no seu seja diferente, esteja atento para não queimar. Conte 30 minutos e fure o bolo com o garfo e veja se sai sujo. A partir daí, vá observando de 5 em 5 minutos. \nNão abra o forno antes de 20 minutos.\nEnfeite como preferir!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LETICIA GUERREIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312780-bolo-de-leite-ninho-com-recheio.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE MAÇÃS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 ovo",
+      "125 g de farinha de trigo",
+      "125 g de manteiga ou margarina",
+      "100 g de açúcar",
+      "1 pitada de sal",
+      "Outros:",
+      "6 maçãs",
+      "1 limão",
+      "açúcar a gosto",
+      "canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até formar uma bola bem homogênea.",
+      "Deixe descansar por uma hora (ou compre uma massa pronta)",
+      "Abra a massa após este tempo.",
+      "Coloque o forno pra aquecer 180° C",
+      "Lavar, descascar e cortar em 4 as maçãs, retire as sementes e fatie tipo meia lua.",
+      "Coloque em uma saladeira com suco de 1 limão para não oxidar.",
+      "Acrescente um colher (sopa) de açúcar ou um sachet de açúcar com baunilha 7 g",
+      "Distribua as fatias de maçã sobre a massa numa forma (redonda de preferência)",
+      "Coloque canela à vontade por cima e leve para assar 35 à 40 minutos ou até dourar ao teu gosto.",
+      "Saboreia fria ou quente com uma bola de sorvete sabor baunilha"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FLAVIA FLEUR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311320-torta-de-macas.html"
+}

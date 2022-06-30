@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PURÊ DE BATATA RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de batatas cozidas e amassadas",
+      "1 ovo",
+      "30 g de manteiga",
+      "60 g de queijo parmesão",
+      "sal e tempero a gosto",
+      "30 g de farinha de rosca",
+      "6 fatias de presunto",
+      "6 fatias de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma vasilha as batatas, o ovo a manteiga e o queijo parmesão.",
+      "Depois misture a farinha, o sal e os temperos.",
+      "Abra a massa em um superfície plana, em um papel-manteiga.",
+      "Coloque as fatias de presunto e mussarela. Se preferir, coloque, outro recheio a gosto.",
+      "Enrole com o papel-manteiga e leve ao forno por aproximadamente 45 minutos.",
+      "Tire o papel e coloque em um travessa para servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310496-pure-de-batata-recheado.html"
+}

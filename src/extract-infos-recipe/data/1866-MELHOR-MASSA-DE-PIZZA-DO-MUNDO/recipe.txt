@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MELHOR MASSA DE PIZZA DO MUNDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "3 colheres de fermento biológico instantâneo seco",
+      "2 colheres de açúcar",
+      "1 colher de sal",
+      "550 ml água morna ",
+      "3 colheres de margarina "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bancada higienizada, coloque todos os ingredientes",
+      "Sove até a massa ficar com uma textura lisa.",
+      "Pegue a massa e coloque dentro de um saco para não ficar ressecada",
+      "Faça uma bolinha e coloque dentro de um copo com água temperatura ambiente.",
+      "Assim que a bolinha flutuar, você já pode pegar a massa para abrir com o rolo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JULIO CESAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306588-melhor-massa-de-pizza-do-mundo.html"
+}

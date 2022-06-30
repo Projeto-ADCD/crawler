@@ -1,0 +1,34 @@
+{
+  "nome_receita": "COUVE-FLOR RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 couve-flor grande",
+      "2 litros de água",
+      "300 g de frango desfiado",
+      "200 g de requeijão",
+      "100 g de bacon picado",
+      "200 g de queijo mussarela em cubos",
+      "1 colher (chá) de páprica defumada",
+      "1 colher (sopa) de coentro picado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a couve-flor inteira dentro de uma panela com água fervendo",
+      "Deixe cozinhar com a tampa fechada por 5 minutos",
+      "Retire e deixe esfriar",
+      "Enquanto isso, em um recipiente, junte o frango, o requeijão, o sal, a pimenta, o bacon, o queijo, a páprica e o coentro",
+      "Misture tudo muito bem",
+      "Em uma forma, apoie a couve-flor de cabeça para baixo",
+      "Retire o miolo com uma faca e recheie",
+      "Cubra tudo com papel-alumínio e leve para o forno por 30 minutos",
+      "Finalize com um molho de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309986-couve-flor-recheada.html"
+}

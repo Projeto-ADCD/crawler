@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TAKOYAKI DE POLVO COM COUVE BRANCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de couve branca",
+      "100 g de alho-poró",
+      "100 g de gengibre vermelho em conserva",
+      "tenkasu a gosto",
+      "2 ovos",
+      "80 g de polvo picado",
+      "200 g de farinha de takoyaki",
+      "600 ml de água",
+      "molho para takoyaki",
+      "maionese",
+      "flocos secos de atum",
+      "aonori"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece picando a couve, o alho-poró, o gengibre e junte tudo em uma tigela",
+      "Em outra tigela, coloque a farinha, a água, os ovos e misture até ficar homogêneo",
+      "Adicione a misture do primeiro passo ao líquido, do segundo, e mexa bem",
+      "Preaqueça a panela própria para takoyaki e unte ela toda com óleo",
+      "Preencha toda a panela com a massa líquida e preencha as cavidades com um pedaço de polvo",
+      "Salpique tenkasu por cima e, com o auxílio de hashis, vire as bolinhas até ficarem completamente redondas e douradas",
+      "Transfira as bolinhas para um prato, adicione o molho, a maionese, o atum, o aonori e sirva."
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313088-takoyaki-de-polvo-com-couve-branca.html"
+}

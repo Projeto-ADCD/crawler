@@ -1,0 +1,58 @@
+{
+  "nome_receita": "TORTA SABOROSA DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 xícaras (chá) de farinha de trigo peneirada",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) de margarina sem sal gelada em cubinhos",
+      "5 colheres (sopa) de banha gelada em cubinhos",
+      "1 ovo",
+      "água gelada ",
+      "Recheio",
+      "2 cebolas média",
+      "2 dentes de alho ",
+      "1 colher (sopa) margarina",
+      "1 colher (sopa) de azeite",
+      "1 peito de frango ",
+      "1 lata de milho verde escorrido",
+      "1 cenoura ",
+      "2 tomates médios",
+      "1 embalagem de cogumelos ",
+      "1/2 xícara (chá) de salsinha verde ",
+      "1/2 xícara (chá) de cebolinha verde ",
+      "1 colher (sopa) de molho inglês",
+      "sal e pimenta a gosto",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha peneire a farinha e o sal.",
+      "Acrescente a margarina e a banha e misture com os dedos até obter uma farofa.",
+      "Faça um buraco no meio da farofa e acescente o ovo batido.",
+      "Misture com a farinha e vá acrescentando a água gelada, aos poucos, até dar liga.",
+      "Enrole a massa em filme plástico e leve ao refrigerados por no mínimo 30 minutos.",
+      "Aqueça uma panela grande com a manteiga e o azeite e refogue a cebola picada e o alho picado por uns 5 minutos.",
+      "Adicione o frango cozido e desfiado, o milho, a cenoura picada e cozida, os tomates sem pele e sem semente picados, o cogumelo picado e refogado na manteiga e deixe cozinhar por uns 5 minutos.",
+      "Acrescente a salsinha e a cebolinha pecada e misture tudo muito bem.",
+      "Dissolva a farinha no leite e despeje no refogado e deixe cozinhar até engrossar.",
+      "Acrescente o molho inglês e misture bem.",
+      "A consistência do refogado deve ser mais para firme.",
+      "Acrescente sal e pimenta a gosto e misture tudo muito bem.",
+      "Abra 2/3 da massa com um rolo de massa e forre o fundo e as laterais de um refratário de uns 23 cm de diâmetro.",
+      "Acrescente o refogado e polvilhe com o queijo parmesão ralado,",
+      "Cubra com o restante da massa aberta, apertando bem as laterais.",
+      "Pincele com uma gema de ovo.",
+      "Com a sobra da massa corte tiras, pincele com ovo e faça florzinhas para decorar a torta.",
+      "Leve ao forno médio, preaquecido, por uns 40 minutos ou até a massa dourar.",
+      "Deixe amornar por uns 5 minutos e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308776-torta-saborosa-de-frango.html"
+}

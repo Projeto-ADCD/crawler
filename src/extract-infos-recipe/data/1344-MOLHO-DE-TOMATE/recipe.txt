@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 tomates (tipo sweet grape)",
+      "5 colheres (sopa) azeite",
+      "1/2 colher (chá) açúcar",
+      "3 colheres (chá) sal",
+      "orégano a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o azeite e os tomates picados, e deixe cozinhar até que os tomates estejam quase derretidos.",
+      "Depois bata tudo no liquidificador até virar um caldo grosso, adicione o sal, açúcar, orégano e mexa.",
+      "Pode adicionar outros temperos, como pimenta, salsinha etc.",
+      "Sirva com o acompanhamento que preferir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GIOVANNA MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308798-molho-de-tomate.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIPOCA DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de óleo (5 ml)",
+      "500 g de pipoca",
+      "1 pacote de gelatina (sabor opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derrame o óleo (azeite) em uma panela média.",
+      "Assim que o óleo estiver quente ponha a pipoca.",
+      "Depois de pronta derreta a gelatina em uma outra panela pequena até que fiquei caramelizada.",
+      "Em seguida despeje a pipoca em um pote fundo, e em seguida derrame a gelatina por cima ",
+      "Logo após basta se lambuzar comendo!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "EDUARDO PORTELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310190-pipoca-de-gelatina.html"
+}

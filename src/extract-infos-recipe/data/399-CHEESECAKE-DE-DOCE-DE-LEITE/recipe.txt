@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CHEESECAKE DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito maisena triturado (200 g)",
+      "4 colheres (sopa) de manteiga ou margarina"
+    ],
+    "CREME": [
+      "2 e 1/2 xícaras (chá) de ricota amassada",
+      "1 xícara (chá) de cream cheese",
+      "1 lata de leite condensado",
+      "1/2 xícara (chá) de creme de leite",
+      "1 envelope de gelatina em pó sem sabor"
+    ],
+    "COBERTURA": [
+      "1 xícara (chá) de doce de leite",
+      "1/2 xícara (chá) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o biscoito maisena e a manteiga até formar uma farofa bem úmida.",
+      "Forre o fundo de uma fôrma de aro removível de 22cm de diâmetro, apertando com as mãos e leve ao forno médio, preaquecido, por 8 minutos ou até firmar.",
+      "Retire e deixe esfriar.",
+      "Para o creme, bata no liquidificador ou no processador a ricota, o cream cheese, o leite condensado e o creme de leite até ficar homogêneo.",
+      "Prepare a gelatina conforme as instruções da embalagem, junte ao creme do liquidificador e bata por mais 1 minuto.",
+      "Despeje sobre a massa assada e leve à geladeira por 4 horas ou até firmar.",
+      "Misture os ingredientes da cobertura e reserve.",
+      "Desenforme a torta, regue com a cobertura e reserve na geladeira até o momento de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LIOR HAMER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312942-cheesecake-de-doce-de-leite.html"
+}

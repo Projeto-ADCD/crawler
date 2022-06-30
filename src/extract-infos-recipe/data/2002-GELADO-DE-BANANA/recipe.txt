@@ -1,0 +1,39 @@
+{
+  "nome_receita": "GELADO DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o creme",
+      "1 litro de leite",
+      "1 leite condensado",
+      "1 creme de leite",
+      "4 colheres de amido de milho",
+      "essência de baunilha a gosto",
+      "Para a banana caramelizada",
+      "2 xícaras (chá) de açúcar cristal",
+      "1 xícara (chá) de água fervente",
+      "10 bananas picadas da sua preferência",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo do creme",
+      "Misture o amido de milho no leite ainda frio",
+      "Depois adicione o leite condensado e a essência de baunilha",
+      "Leve ao fogo até formar um creme consistente",
+      "Desligue o fogo e adicione o creme de leite",
+      "Leve à geladeira em um refratário.",
+      "Modo de preparo da banana caramelizada",
+      "Pique as bananas em rodelas grossas e reserve",
+      "Coloque o açúcar em fogo médio até formar um caramelo",
+      "Adicione a água fervente e mexa até dissolver o açúcar",
+      "Quando estiver um caramelo adicione a canela e as bananas picadas",
+      "Em fogo baixo tampe meia panela e cozinhe por 5 minutos desligue e fogo e deixe esfriar em temperatura ambiente",
+      "Quando estiver morno ou já frio adicione o caramelo em cima do creme."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GIOVANA RUBIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306218-gelado-de-banana.html"
+}

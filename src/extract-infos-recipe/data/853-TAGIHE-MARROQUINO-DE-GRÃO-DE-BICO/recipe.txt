@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TAGIHE MARROQUINO DE GRÃO-DE-BICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha",
+      "1 berinjela",
+      "1 cenoura média",
+      "1 páprica vermelha",
+      "2 tomates",
+      "1 xícara grão-de-bico cozido",
+      "2 batatas cozidas em rodelas (opcional)",
+      "2 xícara de azeitona preta sem caroço (opcional)",
+      "2 colheres (sopa) de molho de tomate",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "azeite para refogar",
+      "sal a gosto",
+      "1/2 caldo de legumes (opcional)",
+      "1 xícara e 1/2 de água aproximadamente"
+    ],
+    "ESPECIARIAS": [
+      "1 colher (chá) de canela",
+      "1 colher (chá) de cominho",
+      "pimenta-do-reino",
+      "manjericão (se tiver folhas frescas, adicione no final)",
+      "coentro (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refoque o alho e cebola no azeite, adicione páprica e tomate mexa por uns 5 minutos.",
+      "Adicione os demais ingredientes picados, sal e especiarias.",
+      "Coloque água e deixe cozinhando em fogo médio até que tudo fique macio (20 minutos aproximadamente ).",
+      "Coloque o molho de tomate e adicione mais tempero/sal, se necessário.",
+      "Cozinhe por mais alguns minutos, desligue e sirva.",
+      "O recipiente comum utilizado para servir, e que acompanha o nome desta receita , se chama Tagine Marroquino.",
+      "No entanto, fique à vontade para servir em qualquer recipiente de cerâmica ou outro de escolha.",
+      "Dicas de acompanhamento: cuscuz, salada verde, falafel e húmus."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ESTEFANA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311257-tagihe-marroquino-de-grao-de-bico.html"
+}

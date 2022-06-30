@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE OVOMALTINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "2 colheres (sopa) de ovomaltine em pó",
+      "1 colher (sopa) de manteiga/margarina",
+      "1/2 xícara (chá) de farinha de trigo",
+      "1 xícara (chá) de açúcar",
+      "1 colher (sopa) de fermento",
+      "1/2 xícara (chá) de leite",
+      "Cobertura e recheio",
+      "2 potinhos de creme de ovomaltine"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em um liquidificador, adicione os ovos, o ovomaltine em pó, a manteiga/margarina, o leite, o açúcar, e bata por 5 minutos.",
+      "Adicione o fermento, e misture com uma espátula delicadamente.",
+      "Em uma forma untada, despeje a massa, e asse em forno médio, (180° C) preaquecido, por cerca de 40 minutos.",
+      "Não se esqueça de usar uma forma alta para está receita, mas não muito grande",
+      "Recheio",
+      "O recheio já está pronto, você vai precisar esperar o bolo esfriar, para corta-lo ao meio (de baixo para cima) e passar um potinho de ovomaltine em creme.",
+      "Cobertura",
+      "Após rechear, você vai pegar o outro potinho de ovomaltine em creme, e vai passar por todo o bolo com uma espátula!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "CALDA E COBERTURA OPCIONAL"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CATARINA CASAGRANDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306496-bolo-de-ovomaltine.html"
+}

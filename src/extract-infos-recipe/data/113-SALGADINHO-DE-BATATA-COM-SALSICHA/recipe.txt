@@ -1,0 +1,40 @@
+{
+  "nome_receita": "SALGADINHO DE BATATA COM SALSICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 colher de chá de sal",
+      "1 colher de sopa de manteiga",
+      "100 g de mussarela ralada",
+      "Salsinha à gosto",
+      "1 colher de chá de pimenta do reino",
+      "1 colher de chá de alho",
+      "1 colher de sopa de orégano",
+      "1 xícara de farinha de rosca",
+      "500 g de salsicha",
+      "3 ovos",
+      "Farinha de rosca para empanar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas",
+      "Pique as batatas e coloque em uma panela",
+      "Cubra com água e coloque o sal",
+      "Cozinhe por 15 minutos",
+      "Transfira as batatas para uma tigela",
+      "Coloque a manteiga, a salsinha, a pimenta, o alho, o orégano e a mussarela",
+      "Amasse bem até virar um purê",
+      "Acrescente a farinha e misture para dar mais consistência",
+      "Unte as mãos com azeite",
+      "Pegue um pouco da massa, abra e coloque a salsicha inteira ou em pedaços, conforme sua preferência e modele",
+      "Bata os ovos",
+      "Passe os salgados nos ovos e na farinha",
+      "Frite em óleo quente"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314415-salgadinho-de-batata-com-salsicha.html"
+}

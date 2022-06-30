@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ARROZ DE FORNO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de arroz",
+      "2 caixas ou sachês de molho de tomate",
+      "1 caixa de creme de leite",
+      "1 lata de ervilha",
+      "500 g de peito de frango cozido e desfiado",
+      "1 caldo de galinha",
+      "250 g de mussarela fatiada",
+      "50 g de parmesão ralado ou de saquinho",
+      "1 saco de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, pegue o seu peito de frango, coloque água só até cobrir e acrescente o seu caldo de galinha.",
+      "E deixe cozinhar por 30 minutos.",
+      "E depois de cozido desfie.",
+      "Enquanto o está sendo feito cozimento do frango prepare seu molho.",
+      "Acrescente no seu molho, depois de pronto, o creme de leite, a ervilha o arroz e o frango desfiado.",
+      "E em uma travessa vai fazendo as camadas o arroz e a mussarela e assim por diante.",
+      "Depois de montado acrescente o parmesão ralado e deixe gratinar.",
+      "Depois sirva com batata palha no prato e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAIO LUIZ RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306395-arroz-de-forno-cremoso.html"
+}

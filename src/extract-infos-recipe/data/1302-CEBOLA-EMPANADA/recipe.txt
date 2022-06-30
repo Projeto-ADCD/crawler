@@ -1,0 +1,48 @@
+{
+  "nome_receita": "CEBOLA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande",
+      "1 ovo",
+      "1 xícara de leite integral ",
+      "1 xícara de farinha de trigo",
+      "3 colheres (sopa) de fubá",
+      "Temperos",
+      "1 colher (chá) de páprica picante",
+      "1 colher (chá) de páprica defumada",
+      "1 colher (chá) de cominho em pó",
+      "1 colher (chá) de tomilho",
+      "1 colher (chá) de pimenta-do-reino ",
+      "1/2 colher (chá) de açafrão",
+      "sal a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a farinha de trigo com sal, tomilho, cominho e pimenta.",
+      "Junte o fubá e misture tudo.",
+      "Em outro recipiente misture o ovo com o leite.",
+      "Reserve os dois recipientes e comece a cortar a cebola",
+      "Retire as duas pontas da cebola.",
+      "Faça um corte maior em uma das pontas para que se forme uma base fixa.",
+      "Retire a casca por completo com cuidado.",
+      "Apoie a cebola com esse pedaço para baixo e comece a fazer os outros cortes.",
+      "Corte ao meio, mas não passe a faca até o final, deixe 2 cm entre a base e o final do corte.",
+      "Faça isso em todos os cortes seguintes: comece no meio, faça uma cruz, depois corte um x entre a cruz e finalize com mais dois cortes.",
+      "O ideal é que ela pareça com fatias de pizza do mesmo tamanho.",
+      "Coloque água bem gelada em um recipiente e coloque a cebola com os cortes para baixo. ",
+      "Leve isso para à geladeira por duas horas.",
+      "Retire da geladeira e mergulhe a cebola na mistura de leite e ovo (passe bastante no meio dos cortes).",
+      "Misture os temperos à farinha de trigo e ao fubá",
+      "Passe a cebola na farinha e faça o mesmo processo, com cuidado para tudo ficar empanado. Leve à geladeira por mais 10 minutos para a primeira camada firmar.",
+      "Repita o mesmo processo de ovo e farinha.",
+      "Coloque uma panela de óleo para esquentar que caiba a cebola, de modo que ela fique em pé.",
+      "Frite a cebola até dourar. "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308990-cebola-empanada.html"
+}

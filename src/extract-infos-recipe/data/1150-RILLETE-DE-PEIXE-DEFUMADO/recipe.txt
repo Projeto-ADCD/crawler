@@ -1,0 +1,32 @@
+{
+  "nome_receita": "RILLETE DE PEIXE DEFUMADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "262 g peixe branco",
+      "175 ml creme de leite fresco",
+      "145 g de manteiga sem sal",
+      "145 g cebola",
+      "40 g alho",
+      "90 g salsão",
+      "50 g salsinha",
+      "40 g ciboulette",
+      "30 g limão siciliano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Defume a quente o peixe branco, tomando cuidado para não cozinhar demais.",
+      "Pique bem a cebola, alho e salsão, e refogue na manteiga",
+      "Adicione o peixe e mexa bem até ele se desfazer.",
+      "Adicione o creme de leite e cozinhe em fogo baixo por 5 minutos, com a panela tampada.",
+      "Coe a mistura dentro de um liquidificador e processe o liquido.",
+      "Volte o creme aos solidos, adicione salsinha, ciboulette, raspa e suco de limão siciliano.",
+      "Acerte o sal.",
+      "Resfrie e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309585-rillete-de-peixe-defumado.html"
+}

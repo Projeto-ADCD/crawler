@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CEVICHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g do peixe de sua escolha (Salmão, linguado, tilápia).",
+      "1 cebola de cabeça branca (1 pequena ou ½ grande.)",
+      "1 cebola de cabeça roxa (1 pequena ou ½ grande.)",
+      "limão (Aproximadamente 4 ou 6)",
+      "1 laranja",
+      "4 dentes de alho",
+      "azeite",
+      "páprica doce",
+      "1 pimenta malagueta (dedo de moça)",
+      "2 pimentas de bode",
+      "Tomate cereja (a gosto)",
+      "Tempero para para peixes e saladas",
+      "sal (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente adicione o peixe cortado em cubos e o tempero com um pouco de sal.",
+      "Cubra com suco de limão e deixe marinando por no mínimo 2 horas. Reserve.",
+      "MISTURA PARA CEVICHE:",
+      "Antes de iniciar este passo, separe 1 colher de cada tipo de cebola",
+      "Em um recipiente grande (diferente do que está com o peixe) adicione a laranja, a páprica doce e os dois tipos de cebola picados bem pequenos.",
+      "Misture, tempere com tempero para peixes e sal a gosto. Reserve. (Lembre-se que já foi adicionado temperos no peixe).",
+      "Em um frigideira, adicione 3 colheres de azeite (use azeite saborizado com Ervas finas, por exemplo)",
+      "Coloque os 4 dentes de alho picadinhos, as 2 colheres dos dois tipos de cebola que foram separadas, corte as pimentas (Malagueta e de bode) ao meio e deixe em fogo médio para dourar.",
+      "Depois de dourar, deixe esfriar um pouco e despeje tudo junto no recipiente que está reservado para a mistura do ceviche.",
+      "Após o tempo do peixe no limão, escorra todo o líquido e junte o peixe à mistura do ceviche. Adicione tomates cereja picados ao meio e pronto, é só servir.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: Algumas pessoas retiram os pedaços de pimenta antes de servir. \nIncremente seu ceviche com pimentão, orégano e outros tipos de especiarias que já está habituado."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EWERTON MASCARENHAS GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312412-ceviche.html"
+}

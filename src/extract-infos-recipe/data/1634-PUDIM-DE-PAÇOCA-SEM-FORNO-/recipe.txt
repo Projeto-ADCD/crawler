@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE PAÇOCA (SEM FORNO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de doce de leite",
+      "1 xícara de creme de leite",
+      "500 ml de leite (temperatura ambiente)",
+      "5 paçoca",
+      "24 g de gelatina incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador acrescente, leite, creme de leite, doce de leite e a paçoca",
+      "Bata por uns 2 minutos.",
+      "Em seguida, acrescente a gelatina hidratada (passo a passo está atrás do pacotinho da gelatina como hidratar).",
+      "E bata por mais 2 minutos.",
+      "Transfira a mistura para uma forma untada com óleo",
+      "Leve para geladeira no mínimo 12 horas, essa é parte mais demorada, pois o pudim precisa ficar bem firminho "
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALESSANDRA CRISTIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307313-pudim-de-pacoca-sem-forno.html"
+}

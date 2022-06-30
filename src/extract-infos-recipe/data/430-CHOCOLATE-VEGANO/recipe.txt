@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CHOCOLATE VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de cacau em pó",
+      "3 colheres (sopa) de óleo de côco",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até conseguir uma textura homogênea",
+      "Coloque o preparo em uma forminha de silicone",
+      "Leve ao congelador por 15 minutos",
+      "Sirva como preferir"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312853-chocolate-vegano.html"
+}

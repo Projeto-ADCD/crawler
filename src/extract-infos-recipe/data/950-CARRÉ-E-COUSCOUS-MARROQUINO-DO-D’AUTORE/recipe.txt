@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CARRÉ E COUSCOUS MARROQUINO DO D’AUTORE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g carré de cordeiro",
+      "100 g de couscous marroquino ",
+      "azeite ",
+      "sal",
+      "pimenta-do-reino ",
+      "80 g de de coalhada ",
+      "5 g de alho ",
+      "20 g de cenoura em cubinhos (brunoise)",
+      "20 g de abobrinha em cubinhos (brunoise) ",
+      "20 g de ervilha",
+      "manjericão e hortelã ",
+      "200 ml  de caldo de legumes ",
+      "60 ml de vinho branco",
+      "30 g de tomatinho cereja",
+      "salsinha ",
+      "cebolinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o couscous em um recipiente com sal, azeite e pimenta-do-reino",
+      "Aqueça o caldo de legumes e coloque no pote em que está o couscous temperado",
+      "Vede o recipiente e aguarde cerca de 10 a 15 minutos",
+      "Após couscous cozido, coloque em uma frigideira, azeite, alho e na sequência cenoura e abobrinha",
+      "Após todos os itens na panela, coloque o vinho branco para extração de sabores",
+      "Na sequência adicione o couscous marroquino e finalize-o com tomatinho cereja, salsinha, cebolinha e a ervilha",
+      "Últimos ingredientes para serem acrescidos no final também, hortelã e manjericão para trazer todo frescor",
+      "Em outra frigideira simultaneamente coloque azeite e após bem aquecida adicionar os carrés para que fique no ponto em que deseja",
+      "Feito tudo isso, somente empratar da forma desejada e adicionar coalhada para degustar com o restante dos itens ."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NAYÁ FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310765-carre-e-couscous-marroquino-do-dautore.html"
+}

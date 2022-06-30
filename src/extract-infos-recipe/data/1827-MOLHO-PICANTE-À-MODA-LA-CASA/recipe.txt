@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MOLHO PICANTE À MODA LA CASA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "5 dentes de alho",
+      "1 colher de sopa de manteiga",
+      "1 pimentão verde pequeno",
+      "1 tomate",
+      "2 folhas de louro",
+      "1/2 limão",
+      "4 colheres de chá de mel",
+      "1 cubo de caldo de galinha",
+      "3 colheres de sopa de ketchup",
+      "3 colheres de sopa de mostarda",
+      "Páprica picante",
+      "Pimenta do reino",
+      "Orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque uma panela em fogo brando. Acrescente a manteiga, em seguida a cebolha e o alho picados em pedaços miúdos, e as duas folhas de louro. Mexa até que fiquem dourados.",
+      "Acrescente o pimentão picado em pedaços pequenos, mexa até começar a fritar e coloque então as 3 colheres de chá de mel, o caldo de galinha, e o suco de meio limão. Vá mexendo até o caldo de galinha se dissolver.",
+      "Em seguida acrescente o tomate picado em pequenos pedaços. Espere voltar a fritar, e acrescente as 3 colheres de sopa de ketchup e as 3 colheres de sopa de mostarda.",
+      "Deixe o tomate amolecer bem, então acrescente a pimenta, a páprica picante e o orégano, à gosto. Permaneça mexendo o molho por uns 3 minutos, e já pode desligar a panela."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FLAVIO NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306688-molho-picante-a-moda-la-casa.html"
+}

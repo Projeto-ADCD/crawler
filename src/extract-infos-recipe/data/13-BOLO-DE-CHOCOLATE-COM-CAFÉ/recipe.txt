@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de Café Coamo Extraforte",
+      "2 xícaras (chá) de água ",
+      "3 ovos",
+      "1 e ¾ de xícara (chá) de açúcar ",
+      "¾ xícara (chá) de Margarina Coamo Premium",
+      "½ xícara (chá) de Café Coamo Extraforte coado",
+      "1 e 1/3 de xícara (chá) de Farinha de Trigo Coamo Tradicional",
+      "1 colher (sopa) de fermento químico",
+      "1 xícara (chá) de achocolatado"
+    ],
+    "COBERTURA": [
+      "200 g de chocolate meio amargo",
+      "½ caixa de creme de leite",
+      "¼ de xícara (chá) de Café Coamo Extraforte coado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o café no filtro usando 4 colheres de sopa de Café Coamo Extraforte para 2 xícaras de água. Reserve para usar morno. Bata as claras em neve.",
+      "Na batedeira, ou à mão com um um fouet, bata as gemas com a margarina e o açúcar, em velocidade média, até obter um creme homogêneo. Junte o café e bata em velocidade baixa.",
+      "Fora da batedeira, peneire o trigo, o fermento e o chocolate em pó, misture bem e incorpore as claras em neve, mexendo delicadamente. Coloque a massa em uma forma de furo central (24cm) untada com margarina e enfarinhada e leve-a ao forno.",
+      "Asse em forno preaquecido a 180º C por 35 a 40 minutos. Desenforme morno."
+    ],
+    "COBERTURA": [
+      "Derreta o chocolate em banho-maria. Quando ele estiver completamente derretido, junte o creme de leite e o café. Mexa até obter um creme liso e homogêneo.",
+      "Cubra o bolo com a cobertura."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COAMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316910-bolo-de-chocolate-com-cafe.html"
+}

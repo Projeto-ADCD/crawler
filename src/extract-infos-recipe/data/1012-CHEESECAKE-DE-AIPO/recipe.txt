@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CHEESECAKE DE AIPO",
+  "ingredientes": {
+    "PARA A BASE": [
+      "100 g de biscoito água e sal",
+      "100 g de manteiga ou margarina"
+    ],
+    "PARA O CREME": [
+      "2 potes de cream cheese",
+      "1 embalagem de creme de leite",
+      "1 sachê de gelatina em pó sem sabor",
+      "1 xícara (chá) de aipo bem picado",
+      "1 xícara (chá) de tomate sem pele e sem semente bem picado",
+      "1/2 xícara (chá) de salsinha e cebolinha bem picadas",
+      "sal e pimenta a gosto"
+    ],
+    "PARA ENFEITAR": [
+      "5 tomates cerejas cortados ao meio",
+      "Ramos de salsinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a gelatina de molho em 3/4 de xícara (chá) de água fria e deixe hidratar por uns 15 minutos.",
+      "Leve ao fogo baixo para dissolver a gelatina., sempre mexendo. Não deixe ferver. Reserve.",
+      "Bata os biscoitos num processador ou no liquidificador até ficar bem moído.",
+      "Mistura a manteiga (mole) a temperatura ambiente com a farinha de biscoito.",
+      "Misture tudo muito bem.",
+      "Coloque a mistura em uma forma de fundo removível, apertando bem com a ajuda de uma colher de sopa.",
+      "Leve a massa ao forno pré-aquecido por uns 5 a 6 minutos.",
+      "Cuide para não queimar a massa. Reserve e deixe esfriar.",
+      "Em uma tigela funda coloque o cream cheese, a gelatina dissolvida e fria e o creme de leite.",
+      "Misture tudo muito bem.",
+      "Acrescente o aipo, os tomates e a salsinha e cebolinha, todos bem picados.",
+      "Acrescente sal e pimenta a gosto e misture tudo muito bem.",
+      "Coloque a mistura sobre a massa já cozida e fria que está na forma e leve ao refrigerador por no mínimo 6 horas",
+      "Na hora de servir enfeite com os tomates cerejas cortados ao meio e com os raminhos de salsinha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310472-cheesecake-de-aipo.html"
+}

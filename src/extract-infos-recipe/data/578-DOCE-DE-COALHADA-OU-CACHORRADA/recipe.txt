@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE COALHADA OU CACHORRADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite coalhado",
+      "4 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite coalhado",
+      "Leve ao fogo e deixe secar bem o soro",
+      "Quando tiver a metade do líquido, adicione o açúcar e deixe apurar mexendo em vez em quando",
+      "Retire do fogo e deixe esfriar",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SILVANA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312453-doce-de-coalhada-ou-cachorrada.html"
+}

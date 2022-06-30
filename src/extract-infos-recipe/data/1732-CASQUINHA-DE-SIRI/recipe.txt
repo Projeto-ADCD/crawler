@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CASQUINHA DE SIRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de siri",
+      "1 tomate grande picado",
+      "1 cebola média picada",
+      "1 pimentão médio picado",
+      "1 colher (sopa) de pasta de alho",
+      "azeite de dendê",
+      "130 g de molho de tomate",
+      "1/2 garrafa pequena de leite de coco",
+      "coentro",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o siri em água com sal e vinagre (tira o cheiro forte)",
+      "Em outra panela, refogue a pasta de alho, tomate, cebola e pimentão no azeite de dendê",
+      "Acrescente o molho de tomate e leite de coco (uso menos de 1/2 garrafinha)",
+      "Após cozinhar, acrescente o siri pré-cozido e catado.",
+      "Regule o sal",
+      "Finalize com o coentro",
+      "Cozinhe até secar o caldo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDA FERRAZ DE CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306972-casquinha-de-siri.html"
+}

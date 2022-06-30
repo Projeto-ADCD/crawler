@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITOS FÁCEIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo",
+      "1 xícara de margarina",
+      "1 xícara de açúcar",
+      "1 ovo",
+      "1 colher (chá) de fermento (se não tiver na farinha)",
+      "1 colher (sopa) de chocolate em pó (opcional)",
+      "1 xícara de gotinhas de chocolate (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o forno preaquecendo a 180° C",
+      "Adicione a farinha, o açúcar, a margarina, o ovo e o fermento em um recipiente e misture com as mãos até não grudar mais.",
+      "(opcional) Depois adicione o chocolate em pó e as gotas de chocolate e misture mais.",
+      "Cubra uma forma com papel manteiga, faça pequenas bolas com a massa, achate e coloque na forma.",
+      "Coloque no forno e deixe por lá por cerca de 40 minutos, sempre checando se ele não está mais mole.",
+      "Tire do forno e deixe esfriando, depois é só comer."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "JÚLIA ÉQUILY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307283-biscoitos-faceis.html"
+}

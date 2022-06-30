@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PASTELZINHO COM 2 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) farinha de trigo",
+      "1 xícara (chá) creme de leite",
+      "sal e temperos a gosto",
+      "Ingredientes a gosto para recheio (queijo, milho, calabresa, tomate, etc...)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha com o sal e os temperos à gosto",
+      "Adicione o creme de leite",
+      "Misture até ficar homogêneo (caso esteja grudando, adicione mais farinha até desgrudar e ficar homogêneo)",
+      "Coloque na geladeira embrulhado em um saco plástico próprio para alimentos ou papel filme por aproximadamente 20 minutos",
+      "Enquanto a massa está na geladeira, prepare e separe os recheios que desejar",
+      "Abra a massa com a ajuda de um rolo de macarrão ou garrafa",
+      "Faça o molde com cortador de biscoitos ou copo",
+      "Recheie e sele apertando com o garfo",
+      "Frite em óleo quente com muito cuidado",
+      "Espere escorrer",
+      "Pronto!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "COZINHA PRÁTICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311831-pastelzinho-com-2-ingredientes.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TORTA DE BANANA DA BRANCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 colher de margarina",
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento",
+      "canela em pó e açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater as claras em neve. Reserve.",
+      "Bater o açúcar com as gemas e ir acrescentando o restante do ingrediente (menos o fermento) e se quiser 4 colheres de chocolate em pó. Misture nas mão a massa com as claras em neve e o fermento.",
+      "Com uma forma untada e enfarinhada, coloque a massa, banana fatiada por cima, salpique a canela com açúcar e deixe assar em fogo baixo por 30 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAÍS F. ROCHA DOMINGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311478-torta-de-banana-da-branca.html"
+}

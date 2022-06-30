@@ -1,0 +1,25 @@
+{
+  "nome_receita": "VITAMINA DE COOKIES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de creme de leite ",
+      "3 cookies ",
+      "açúcar a gosto",
+      "3 colheres cheias de geleia de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o creme de leite e o açúcar no liquidificador e acione o botão pulsar ou alto limpeza",
+      "Faça o movimento de vai e volta com esse botão, ou bata no nível 1 do liquidificador.",
+      "Aos poucos vá acrescentando a geleia e os cookies um pouco triturados ",
+      "Faça o movimento de vai e volta por aproximadamente 10 vezes. OBS: se vc estiver batendo direto no nível 1 do liquidificador bata por 10 segundos.",
+      "Coloque sua bebida em um copo e deixe na geladeira por 15 minutos.",
+      "Bom apetite! Espero que tenham gostado!"
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA RAFAELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308989-vitamina-de-cookies.html"
+}

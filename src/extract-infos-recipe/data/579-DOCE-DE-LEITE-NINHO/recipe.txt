@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de açúcar refinado",
+      "1/2 xícara de leite",
+      "2 xícaras bem cheias de leite ninho em pó",
+      "1 colher (sopa) de margarina ou manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela com o fogo desligado o açúcar,a margarina ou manteiga e o leite e misture",
+      "Depois ligue o fogo e continue mexendo",
+      "Depois coloque o leite em pó e deixe o fogo baixo e misture",
+      "Depois coloque numa forma",
+      "Deixe esfriar e coloque na geladeira",
+      "Quanto estiver duro tire da geladeira e corte"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "ESTHER PAULA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312449-doce-de-leite-ninho.html"
+}

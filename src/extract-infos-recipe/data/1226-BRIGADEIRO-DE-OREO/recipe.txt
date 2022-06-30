@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BRIGADEIRO DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 chocolate laka oreo",
+      "1 pacote de bolacha negresco para enrolar ",
+      "mini oreo a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado na panela e espere soltar do fundo da panela.",
+      "Continue com o fogo ligado e coloque o chocolate laka oreo (picado ou quebrado)",
+      "Espere derreter e desligue o fogo.",
+      "Reserve em um prato, cubra com plástico filme e espere esfria (de 4 horas à 6 horas).",
+      "Tire o recheio da bolacha e reserve.",
+      "Triture a bolacha em um liquidificador ou processador, até virar pó.",
+      "Pegue o brigadeiro já descansado e faça bolinhas de 25 g e passe no pó da bolacha.",
+      "Pegue o recheio reservado e molhe com um pouco de água e embaixo do mini-oreo, e coloque em cima do brigadeiro."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A bolacha de oreo pode ser usada também para enrolar, mas ela é oleosa.\nDica final: unte sua mão com água, é melhor que passar manteiga ou margarina."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GIGI OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309313-brigadeiro-de-oreo.html"
+}

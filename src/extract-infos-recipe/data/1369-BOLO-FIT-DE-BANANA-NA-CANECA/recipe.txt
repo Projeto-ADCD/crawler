@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO FIT DE BANANA NA CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1 ovo",
+      "2 colheres (sopa) de farinha ou farelo de aveia",
+      "1 colher (sopa) de iogurte natural ou leite",
+      "1/2 colher (sopa) de açúcar demerara ou similar",
+      "1 colher (chá) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana com o auxílio de um garfo direto na xícara",
+      "Adicione todos os outros ingredientes e mexe bastante",
+      "Leve ao micro-ondas por 2 minutos",
+      "Obs: o tempo no micro-ondas vai depender da potência do micro-ondas de cada um."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIELLE FANASCA TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308696-bolo-fit-de-banana-na-caneca.html"
+}

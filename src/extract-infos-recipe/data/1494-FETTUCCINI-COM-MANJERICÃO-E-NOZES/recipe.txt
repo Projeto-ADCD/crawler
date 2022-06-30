@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FETTUCCINI COM MANJERICÃO E NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de fettuccini fresco",
+      "150 g de manteiga fresca",
+      "150 g de queijo parmesão ralado",
+      "sal",
+      "250 g de nozes picadas",
+      "250 g de creme de leite fresco",
+      "1/2 xícara de folhas de manjericão picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o fettuccini (ao dente) em bastante água e sal.",
+      "Escorra bem, despeje em uma panela já contendo a manteiga derretida.",
+      "Polvilhe com o queijo, junte o creme de leite e o manjericão picado.",
+      "Mexa rapidamente e sirva em seguida.",
+      "Obs: querendo, junte presunto picado e pimenta-do-reino."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308035-fettuccini-com-manjericao-e-nozes.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CREME DE PALMITO COM ALHO-PORÓ E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de palmito Pupunha",
+      "2 cebolas brancas",
+      "7 alhos amassados",
+      "alho-poró a gosto",
+      "1 lata de creme de leite",
+      "500 ml de leite",
+      "500 g de frango em cubos ou desfiados como preferir",
+      "sal, pimenta-do-reino e cheiro-verde a gosto",
+      "1 colher (sopa) creme de cebola",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho, alho-poró e cebola com um pouco de azeite e manteiga.",
+      "Em seguida, coloque os palmitos fatiados.",
+      "Após refogar, acrescente sal e pimenta.",
+      "Adicione os 500 ml de leite e deixe cozinhando por 10 minutos, mexendo de vez enquanto.",
+      "Espere esfriar, bata no liquidificador ate virar um creme.",
+      "Refogue o frango em cubos ou desfiados, ate ficar bem moreno.",
+      "Coloque o creme de palmito na panela do frango e espere ferver.",
+      "Finalize com creme de leite lata ou fresco, e uma colher (sopa) de creme de cebola. Regule sal e pimenta. Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAÍZA CASCARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312588-creme-de-palmito-com-alho-poro-e-frango.html"
+}

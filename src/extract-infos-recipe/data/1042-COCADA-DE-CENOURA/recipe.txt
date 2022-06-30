@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COCADA DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de cenoura ralada no ralo grosso",
+      "2 xicaras (chá) de açúcar",
+      "1 xicara (chá) de leite",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em uma panela e leve ao fogo médio mexendo sempre com uma colher de pau",
+      "Quando reduzir (dica: coloque um copo com água perto e va pingando gotas de cocada qdo ele ficar na textura que dá pra fazer uma bolinha)",
+      "Tire a cocada do fogo misture um pouco e despeje sobre uma pedra de mármore untada com manteiga ou margarina",
+      "Deixe esfriar um pouco e corte em quadradinhos.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JOANA V.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310274-cocada-de-cenoura.html"
+}

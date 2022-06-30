@@ -1,0 +1,41 @@
+{
+  "nome_receita": "QUIBE DE BANDEJA",
+  "ingredientes": {
+    "MASSA": [
+      "600 g de patinho moído",
+      "1 cebola pequena",
+      "100 g de trigo para quibe",
+      "hortelã a gosto",
+      "sal e pimenta a gosto"
+    ],
+    "RECHEIO": [
+      "100 g de patinho moído",
+      "1/2 cebola pequena",
+      "salsinha a gosto",
+      "suco de 1 limão",
+      "sal e pimenta a gosto",
+      "100 g de manteiga",
+      "canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o trigo de molho na água por uma hora.",
+      "Retire o excesso de água.",
+      "Para a massa, coloque a metade da carne moída em um refratário.",
+      "Acrescente a cebola e o trigo.",
+      "Despeje os temperos e amasse com as mãos.",
+      "Para o recheio, despeje a cebola salsinha sal a gosto e suco do limão.",
+      "Coloque a pimenta e a manteiga. Amasse com as mãos.",
+      "Unte a forma com manteiga e divida a carne da massa em duas partes.",
+      "Coloque a primeira metade na forma.",
+      "Acrescente a carne moída que servirá como recheio.",
+      "Por cima, coloque a segunda metade da carne da massa.",
+      "Faça pequenos cortes no quibe, passe manteiga por cima e asse por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ERICA CASTRO FONCECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312783-quibe-de-bandeja.html"
+}

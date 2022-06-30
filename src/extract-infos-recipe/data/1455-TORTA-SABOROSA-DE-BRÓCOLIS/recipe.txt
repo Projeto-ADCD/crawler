@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA SABOROSA DE BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "1 xícara (chá) de farinha de trigo",
+      "50 g de queijo parmesão ralado",
+      "1/2 brócolis médio cozido",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (chá) de ervas finas",
+      "1 dente de alho",
+      "1 colher (chá) de cominho",
+      "sal e pimenta a gosto",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por uns 2 minutos.",
+      "Despeje a mistura em uma forma refratária untada com manteiga.",
+      "Leve ao forno pré-aquecido, em temperatura média, por uns 35 minutos.",
+      "Retire do forno e deixe descansar por uns 5 minutos.",
+      "Decore com uns raminhos de brócolis.",
+      "Pode ser servido quente ou frio."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308245-torta-saborosa-de-brocolis.html"
+}

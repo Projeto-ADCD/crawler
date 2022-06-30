@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROCAMBOLE DE FRANGO DESOSSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Frango Desossado Copacol",
+      "500 g de Linguiça de Frango Defumada Copacol",
+      "1 cenoura grande",
+      "300 g de queijo de coalho",
+      "1 colher (sopa) de sálvia",
+      "1 kg de batatinhas",
+      "200 g de maionese",
+      "4 colheres (sopa) de mostarda",
+      "2 colheres (sopa) de salsinha",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra o frango desossado sobre uma tábua, com uma faca grande e lisa, bem afiada, retire as asas do frango, e recorte as partes maiores como peito e coxas e distribua pelo frango para deixar mais homogêneo, o frango já vem temperado, portanto, não necessita temperar novamente.",
+      "Feito isso comece recheando uma das laterais do frango com as linguiças defumadas, os palitos de queijo de coalho e os palitos de cenoura, tempere com a sálvia picadinha. Enrole o frango como um rocambole. Amarre com barbantes a cada 3 ou 4 dedos, amarre bem as pontas.",
+      "Em um bowl coloque a maionese, a mostarda e a salsinha picada, misture tudo e reserve.",
+      "Preaqueça o forno a 200º C. Em uma forma funda coloque as batatinhas formando uma cama, tempere com um pouco de sal, sobre elas coloque o rocambole de frango desossado, pincele tudo com a maionese temperada. Cubra com papel alumínio.",
+      "Leve ao forno e asse por 1 hora. Após, retire o papel-alumínio e pincele tudo novamente com a mistura de maionese, leve ao forno por mais 30 minutos, agora sem o papel-alumínio, para assar e dourar.",
+      "Sirva o rocambole cortando-o em fatias e as batatinhas como acompanhamento.",
+      "Bom Apetite!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COPACOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314035-rocambole-de-frango-desossado.html"
+}

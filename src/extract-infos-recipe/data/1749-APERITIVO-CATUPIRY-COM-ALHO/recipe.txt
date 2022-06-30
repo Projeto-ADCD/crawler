@@ -1,0 +1,27 @@
+{
+  "nome_receita": "APERITIVO CATUPIRY COM ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de requeijão catupiri",
+      "4 dentes de alho",
+      "3 colheres de azeite",
+      "2 colheres de mel",
+      "1 pitada de sal",
+      "orégano e alecrim a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa frigideira, coloque o azeite para aquecer e dourar o alho.",
+      "Acrescente o mel, o sal e as ervas.",
+      "Com cuidado para não queimar o alho",
+      "Coloque essa mistura por cima do catupiri gelado.",
+      "Coloque no micro-ondas por 1 minuto.",
+      "Pode servir como acompanhamento para torradas, ou crostata."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANA LIVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306929-aperitivo-catupiry-com-alho.html"
+}

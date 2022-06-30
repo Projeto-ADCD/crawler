@@ -1,0 +1,36 @@
+{
+  "nome_receita": "GUISADO DE BOI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito bovino",
+      "1 batata média",
+      "2 tomates médios",
+      "1 cebola grande ",
+      "2 dentes de alho ",
+      "1 pimentão ",
+      "1 colher (sopa) de colorau",
+      "1 colher (sopa) de tempero baiano (semente de coentro, pimenta branca e cominho, triturados juntos)",
+      "1 folha de louro",
+      "2 pimentas de cheiro  ",
+      "1/2 maço de coentro",
+      "1 cenoura média",
+      "2 colheres (sopa) de vinagre ",
+      "1 colher (sopa) de óleo",
+      "2 copos (180 ml) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito bovino em pedaços médios.  ",
+      "Pique o tomate, a cebola, o dente de alho e o pimentão. Misture com os pedaços de peito bovino e acrescente o colorau, o tempero baiano, o louro, mais a pimenta de cheiro e o coentro picados. ",
+      "Corte a cenoura em rodelas e regue-a com duas colheres de vinagre. ",
+      "Em uma panela de pressão, coloque uma colher de óleo e todos os ingredientes já misturados. Refogue. Feito isso, adicione dois copos de água na panela e coloque na pressão por aproximadamente 15 minutos.  ",
+      "Passado esse tempo, tire a pressão e verifique se a carne está macia. Corte a batata em rodelas e ponha junto com a carne na pressão por mais 2 minutos. ",
+      "Sirva com coentro picadinho por cima."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIA DA CONCEIÇÃO DE MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313484-guisado-de-boi.html"
+}

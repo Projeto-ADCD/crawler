@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates maduros",
+      "1 cebola média (gosto de colocar a roxa)",
+      "8 dentes de alho",
+      "cebolinha e salsinha a gosto",
+      "2 colheres (sopa) de molho de pimenta (a gosto)",
+      "2 xícaras de água",
+      "1 fio de azeite",
+      "1 colher (chá) de sal",
+      "Hortelã",
+      "pimenta-do-reino (pode usar pimenta rosa)",
+      "orégano",
+      "chimichurri",
+      "manjericão",
+      "açafrão "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os tomates e a cebola em 4 partes e reserve",
+      "Descasque o alho, reserve",
+      "Coloque no liquidificador a cebola, os 4 dentes de alho e os tomates cortados, coloque também a cebolinha, salsinha, a pimenta e o sal, reserve",
+      "Ferva as duas xícaras de água, coloque toda a água no liquidificador com os legumes, bata até triturar toda a mistura",
+      "Pique os 4 dentes de alho e refolgue com um fio de azeite em uma panela funda, quando dourar coloque a mistura do liquidificador",
+      "quando a mistura começar a ferver coloque os temperos",
+      "Fica pronto quando o molho se reduzir na metade",
+      "Use para sua lasanha, macarronada ou para carnes e etc."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA RICARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311422-molho-de-tomate.html"
+}

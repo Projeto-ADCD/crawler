@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLINHO CHINELINHO DE MILHO VÓ MOCINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara e 1/2 de farinha de milho",
+      "1 xícara de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1/2 xícara de açúcar",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingrediendes",
+      "Unte uma frigideira pequena",
+      "Coloque a massa como se fosse fazer panqueca",
+      "Vire a massa para cozinhar dos dois lados"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RITA MARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312647-bolinho-chinelinho-de-milho-vo-mocinha.html"
+}

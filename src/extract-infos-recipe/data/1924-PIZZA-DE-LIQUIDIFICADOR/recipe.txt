@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PIZZA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farinha de trigo",
+      "1 colher (chá) de fermento para bolo",
+      "1 xícara de leite",
+      "1 ovo",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater tudo no liquidificador",
+      "Coloque na forma untada com manteiga e asse por 20 minutos",
+      "Tire do forno, coloque sobre a massa o molho de tomate e o recheio de preferência",
+      "Volte ao forno por mais 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306415-pizza-de-liquidificador.html"
+}

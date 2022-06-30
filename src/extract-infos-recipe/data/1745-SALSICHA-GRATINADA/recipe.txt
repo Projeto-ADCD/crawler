@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SALSICHA GRATINADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de salsicha",
+      "1 colher (sopa) de tempero vinagrete",
+      "2 colher (sopa) de ketchup",
+      "2 colheres (sopa) de mostarda",
+      "2 colheres (sopa) de requeijão cremoso",
+      "1 e ½ caixa de creme de leite",
+      "6 fatias de queijo mussarela",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fervente a salsicha e corte em rodelas não muito finas.",
+      "Coloque em um refratário ou assadeira, acrescente o vinagrete, ketchup, mostarda, creme de leite e o requeijão cremoso.",
+      "Misture tudo, cubra com as fatias de mussarela e o queijo ralado.",
+      "Asse por vinte minutos ou até dourar o queijo.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306937-salsicha-gratinada.html"
+}

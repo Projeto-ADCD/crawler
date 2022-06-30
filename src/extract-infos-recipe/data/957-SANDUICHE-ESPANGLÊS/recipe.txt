@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SANDUICHE ESPANGLÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 fatias de pão de forma",
+      "1 colher (sopa) de maionese",
+      "2 fatias de bacon",
+      "1 folha de alface americana",
+      "2 rodelas de tomate",
+      "1 fatia de queijo cheddar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno por 10 minutos.",
+      "Coloque as duas fatias de pão de forma uma do lado da outra em uma forma de assar, em uma das fatias coloque a fatia de queijo cheddar e coloque a forma no forno",
+      "Em uma frigideira frite as duas fatias de bacon, reserve. Depois frite o ovo.",
+      "Retire o pão sem queijo de dentro do forno.",
+      "Coloque a colher de maionese em cima da fatia de pão e espalhe.",
+      "Coloque a folha de alface e as duas de tomate. Acrescente o bacon e o ovo",
+      "Depois tire a fatia de pão com queijo do forno e coloque em cima do restante e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LETYCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310726-sanduiche-espangles.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO BARBECUE DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande",
+      "1 colher de azeite ou óleo",
+      "6 colheres (sopa) de vinagre balsâmico",
+      "2 colheres (sopa) de açúcar mascavo",
+      "1/2 xícara de ketchup de boa qualidade",
+      "2 colheres (sopa) de água",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola ao meio e fatie fino as meia luas ",
+      "Coloque em frigideira com o azeite",
+      "Quando estiver começando a ficar transparente coloque todos os ingredientes e deixe levantar fervura em fogo baixo por uns 3 minutos ",
+      "Fica excelente com carnes, linguiças e hambúrguer.",
+      "Dura 1 semana na geladeira "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PAULA CRISTINA RANZINI OLMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311926-molho-barbecue-de-cebola.html"
+}

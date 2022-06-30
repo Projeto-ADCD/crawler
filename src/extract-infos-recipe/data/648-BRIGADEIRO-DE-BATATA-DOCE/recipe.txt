@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO DE BATATA-DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata-doce média cozida",
+      "3 colheres (sopa) de cacau em pó",
+      "1 colher (sopa) de óleo de coco",
+      "100 g de chocolate 70% picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a batata e junte todos os ingredientes exceto o chocolate picado",
+      "Leve ao fogo baixo até que todos os ingredientes tenham incorpado",
+      "Por último derreta o chocolate e junte ao brigadeiro",
+      "Espere esfriar e se delicie",
+      "Obs: peneirar o cacau ajuda a tirar aquelas pedrinhas características dele"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SAMIRA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312169-brigadeiro-de-batata-doce.html"
+}

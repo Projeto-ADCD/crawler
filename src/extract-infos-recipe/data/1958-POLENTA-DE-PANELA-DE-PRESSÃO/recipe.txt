@@ -1,0 +1,26 @@
+{
+  "nome_receita": "POLENTA DE PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de fubá",
+      "6 xícaras (chá) de água",
+      "1 colher (sopa) de manteiga ou margarina",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, coloque 4 xícaras de água, a manteiga e o sal",
+      "Deixe ferver",
+      "Numa tigela a parte, coloque as 2 xícaras restantes de água e o fubá e misture",
+      "Quando a panela estiver fervendo, adicione a mistura do fubá e mexa até engrossar",
+      "Tampe a panela.",
+      "Quando começar a chiar, abaixe o fogo e deixe por 25 minutos",
+      "Despeje em uma forma, cubra com seu molho de preferência e com queijo"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CRISTINA RAVAGGIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306334-polenta-de-panela-de-pressao.html"
+}

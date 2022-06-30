@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE IOGURTE COM COBERTURA DE IOGURTE E LEITE EM PÓ",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "1 copo de iogurte de qualquer sabor",
+      "½ copo de óleo",
+      "1 e ½ copo de açúcar",
+      "2 copos de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "1 pitada de sal",
+      " "
+    ],
+    "COBERTURA": [
+      "1 copo de iogurte de qualquer sabor",
+      "2 ou 3 colheres de leite em pó",
+      "½ colher de açúcar (com iogurte natural 1 colher)",
+      "1 colher de essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Preaqueça um forno a 180 graus.",
+      "Bata os ingredientes no liquidificador.",
+      "Unte uma forma grande de buraco no meio para assar por 40 a 50 minutos.",
+      "Depois de assado, tire da forma, espere ficar morno e coloque a cobertura.",
+      " "
+    ],
+    "COBERTURA": [
+      "Jogue os ingredientes em um pote e mexa até deixar de ficar totalmente liquido.",
+      "Coloque na geladeira por 3 minutos.",
+      "Despeje por cima do bolo e finalize salpicando leite em pó por cima."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se a cobertura for colocada no bolo quente, ele irá derreter."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOAO EMANUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309495-bolo-de-iogurte-com-cobertura-de-iogurte-e-leite-em-po.html"
+}

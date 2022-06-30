@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO COM QUEIJO VILANESCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de macarrão do tipo stortini",
+      "1 barra de manteiga",
+      "1 xícara de nacos de pão",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (chá) de pimenta",
+      "1 colher (sopa) de açúcar",
+      "1 dente de alho picado",
+      "2 xícaras de leite",
+      "230 g de queijo ralado",
+      "4 xícaras de queijo cheddar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão até o ponto desejado, com açúcar e alho na água. Não cozinhe demais.",
+      "Escorra o macarrão e reserve.",
+      "Ponha em uma panela de cerâmica: a manteiga, o leite, o sal, a manteiga, o queijo ralado, 3 xícaras de queijo cheddar, e o macarrão para ferver em fogo baixo.",
+      "Adicione os nacos de pão.",
+      "Cubra a panela de cerâmica com papel alumínio e leve ao forno por 45 minutos em 350° C",
+      "Depois desse tempo, tire o papel alumínio, cubra com a 1 xícara remanescente de queijo cheddar, e deixe cozinhar por mais 15 minutos.",
+      "Retire do forno, e está pronto para servir!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DANIEL DUMILE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312180-macarrao-com-queijo-vilanesco.html"
+}

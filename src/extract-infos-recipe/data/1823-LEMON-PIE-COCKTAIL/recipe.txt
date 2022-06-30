@@ -1,0 +1,20 @@
+{
+  "nome_receita": "LEMON PIE COCKTAIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Corote de baunilha e com limão",
+      "1/2 lata de leite condensado",
+      "1/2 de creme de leite",
+      "Suco de 1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo com gelo no liquidificador e seja feliz"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAFAEL GUIMARÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306694-lemon-pie-cocktail.html"
+}

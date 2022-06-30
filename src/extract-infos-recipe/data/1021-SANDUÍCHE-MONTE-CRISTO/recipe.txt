@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SANDUÍCHE MONTE CRISTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de queijo mussarela Président  ",
+      "150 g de queijo prato Président  ",
+      "3 colheres (sopa) de mostarda dijon ",
+      "3 colheres (sopa) de geleia de morango ou amora ",
+      "100 g de presunto ",
+      "3 ovos médios ",
+      "3 colheres (sopa) de leite integral ",
+      "12 fatias de pão de forma sem casca ",
+      "3 colheres (sopa) de manteiga ",
+      "sal e pimenta a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe 3 fatias de pão para cada sanduíche. A descrição da montagem é para cada sanduíche.",
+      "Comece espalhando um pouco de mostarda dijon em duas fatias e geléia em uma das fatias.",
+      "Em seguida, coloque uma fatia de cada queijo Président (prato e mussarela) em cada uma das 3 fatias de pão e presunto por cima do queijo em apenas uma das fatias de pão, a única que passamos geléia.",
+      "Então é só montar. É um sanduíche de 3 andares, a fatia com queijo, presunto e geléia deve ficar no meio. Aperte levemente o sanduíche com uma espátula ou tábua para que fique mais fácil de ser manuseado.",
+      "Bata os ovos com o leite, sal e pimenta.",
+      "Mergulhe cada sanduíche na mistura de ovos, virando e garantindo que todos os lados do pão estejam cobertos.",
+      "Leve uma frigideira ao fogo médio e adicione manteiga. Quando ela estiver bem quente, entre com o sanduíche e, com cuidado, doure-o de todos os lados.",
+      "Retire e sirva ainda quente, com o queijo derretendo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310415-sanduiche-monte-cristo.html"
+}

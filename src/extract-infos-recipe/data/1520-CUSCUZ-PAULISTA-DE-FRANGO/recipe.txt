@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CUSCUZ PAULISTA DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de peito de frango",
+      "1 lata de milho verde",
+      "1 sachê de azeitonas",
+      "1 tomate",
+      "1 cebola pequena ",
+      "2 dentes de alho ",
+      "1 xícara de coentro ",
+      "1 xícaras de molho de tomate",
+      "2 xícaras de água (do cozimento do frango)",
+      "3 xicaras de farinha de milho flocada",
+      "temperos a gosto",
+      "Para decorar",
+      "1 ovo cozido",
+      "1 tomate em rodelas",
+      "folhas de coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango com todos os temperos de costume a seu gosto e desfie.",
+      "Refogue a cebola ralada, o alho picado, o tomate picado e sem sementes e adicione o frango e os temperos.",
+      "Adicione o milho, a azeitona, o molho de tomate e as duas xícaras de água do cozimento do frango.",
+      "Deixe levantar fervura.",
+      "Adicione a farinha de milho e mexa até cozinhar um pouco.",
+      "Unte uma forma com um pouco de óleo e disponha o tomate em rodelas e o ovo cozido em fatias.",
+      "Coloque a massado cuscuz, apertando com uma colher para acomodar bem na forma.",
+      "Aguarde esfriar um pouco e assim que estiver firme, passe de leve uma faca em volta para soltar e desenforme."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica - você pode fazer um cuscuz grande ou fazer porções individuais para decorar a mesa da sua festa ou lanche."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "RODRIGO OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307921-cuscuz-paulista-de-frango.html"
+}

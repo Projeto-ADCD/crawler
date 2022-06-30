@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLACHA RECHEADA DE CHOCOLATE CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 saquinho de bolacha ",
+      "1 caixinha de creme de leite",
+      "1 saquinho de coco ralado de 50 g",
+      "100 g de chocolate para derreter"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Quebre as bolachas em pequenos pedaços e reserve.",
+      "Em outra tigela coloque um pouco de coco ralado no fundo e depois esparrame algumas bolachas.",
+      "Derreta o chocolate com o creme de leite",
+      "Coloque sobre as bolachas colocadas na vasilha e esparre o chocolate",
+      "Coloque o restante das bolachas tampando as com o chocolate.",
+      "Coloque um pouco de coco por cima do chocolate (não precisa ser muito)",
+      "Leve a geladeira por 2 horas",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LIVIA APARECIDA GONÇALVES BENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309600-bolacha-recheada-de-chocolate-caseira.html"
+}

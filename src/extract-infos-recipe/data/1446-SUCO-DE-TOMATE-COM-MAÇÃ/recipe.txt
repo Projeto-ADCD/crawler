@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DE TOMATE COM MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates",
+      "2 maçãs",
+      "1 limão",
+      "4 copos (americano) de água",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os tomate e maçãs e tire as sementes",
+      "Coloque no liquidificador junto ao suco do limão, a água e o açúcar.",
+      "Bata até dar o ponto que deseja.",
+      "Pode optar por bater gelo junto para deixar mais refrescante."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIELLY OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308315-suco-de-tomate-com-maca.html"
+}

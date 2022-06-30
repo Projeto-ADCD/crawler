@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PASTÉIS DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (chá) de manteiga",
+      "1/2 colher (chá) de sal",
+      "1/2 xícara (chá) de leite morno",
+      "queijo prato cortado em cubos a gosto",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha numa tigela e faça um buraco no centro.",
+      "Junte a manteiga e o sal.",
+      "Mexa, despejando aos poucos o leite.",
+      "Amasse até que a massa se solte das mãos.",
+      "Cubra com um guardanapo e deixe descansar por cerca de 2 horas.",
+      "Abra a massa com o rolo e corte em quadrados de 6 cm de lado.",
+      "Coloque no meio de cada quadrado alguns cubos de queijo.",
+      "Dobre a massa para fechar o pastel e apare as bordas com o cortador próprio.",
+      "Aqueça o óleo, frite e escorra.",
+      "Por fim, delicie-se."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307549-pasteis-de-queijo.html"
+}

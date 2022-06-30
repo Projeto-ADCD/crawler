@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CHÁ DE AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de amendoim torrado com ou sem pele.",
+      "1 litro de leite",
+      "1 leite condensado",
+      "canela em pó a gosto",
+      "canela em pau a gosto",
+      "cravos da índia a gosto",
+      "200 g de amendoim sem pele"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador 250 g de amendoim, o leite e o leite condensado",
+      "Bata tudo por 1 minuto ",
+      "Coloque em um saco plástico 200 g de amendoim sem pele e bata com um martelinho de carne para triturar",
+      "Mas cuidado não triture muito, pois o objetivo é deixar alguns pedaços inteiros.",
+      "Coloque os pedaços de amendoim triturados em uma panela grande, em seguida coloque todo o líquido do liquidificador.",
+      "Adicione 6 cravos da índia, 4 pedaços de canela em pau e uma colher (sobremesa) de canela em pó",
+      "Misture tudo em fogo baixo .",
+      "Mexa sem parar até virar um mingau ou até chegar na consistência de sua preferência ."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SUELEN SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307140-cha-de-amendoim.html"
+}

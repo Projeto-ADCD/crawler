@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MOLHO BRANCO COM ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de manteiga",
+      "1 caixa de creme de leite",
+      "1 cebola média",
+      "1 talo de alho poró",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione a manteiga;",
+      "Depois de derretida adicione a cebola e deixe refogar",
+      "Adicione o alho poró com um pouco de sal e pimenta (vamos terminar de ajustar no final)",
+      "Depois de ambos estarem bem refogados quase pegando no fundo da panela desligue e adicione o creme de leite;",
+      "Retire tudo da panela e bata no liquidificador",
+      "Aproveite esse momento para ajustar a pimenta e o sal de acordo com o seu gosto;",
+      "Depois de tudo bem batido passe a mistura pela peneira.",
+      "Obs: Ótimo para acompanhar peixe assado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KAROLINA KISCHNER DALZOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308868-molho-branco-com-alho-poro.html"
+}

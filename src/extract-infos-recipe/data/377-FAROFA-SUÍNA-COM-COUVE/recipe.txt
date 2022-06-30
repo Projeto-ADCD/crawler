@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA SUÍNA COM COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de pernil suíno desfiado",
+      "2 xícaras (chá) de farinha de mandioca",
+      "1 xícara (chá) de cebola picada",
+      "1/2 xícara(chá) de azeitona preta picada",
+      "3 xícaras (chá) de couve fatiada",
+      "2 dentes de alho amassados",
+      "4 colheres (sopa) de azeite",
+      "4 colheres (sopa) de bacon picado",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o azeite e o bacon em uma panela.",
+      "Quando o bacon estiver dourado, acrescente o alho e a cebola e refogue bem.",
+      "Depois, acrescente a couve fatiada, a carne desfiada, as azeitonas picadas, o sal e a pimenta e refogue mais um pouco, até a couve murchar.",
+      "Acrescente a farinha de mandioca e mexa por mais 2 minutos.",
+      "Acerte o sal, se necessário. Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARA CONTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313036-farofa-suina-com-couve.html"
+}

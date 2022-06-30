@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MINGAU DE AVEIA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite integral",
+      "3 colheres (sopa) de doce de leite",
+      "5 colheres de aveia em flocos finos",
+      "1 banana",
+      "2 colheres (sopa) de uva passa branca e roxa",
+      "1/2 colher (sopa) de mel",
+      "1 colher (sopa) de coco ralado queimado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um copo a aveia e e uma xícara de leite. Reserve.",
+      "Coloque a outra xícara de leite para ferver, quando levantar fervura, acrescente a mistura de aveia e leite e mexa sem parar, em fogo médio, até desgrudar da panela. Reserve.",
+      "Passe a parte de trás da colher de sopa no doce de leite e enfeite por dentro uma cumbuca (Bowl), pique a banana em rodelas e coloque de 3 a 4 rodelas no fundo.",
+      "Após, despeje o mingau de aveia e em cima dele o mel. Mais 3 ou 4 rodelas de banana por cima e após polvilhe com o coco ralado e em seguida coloque as passas de uvas.",
+      "Bon appétit!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ESTHER CAPRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312537-mingau-de-aveia-especial.html"
+}

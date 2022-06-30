@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PASTA DE ALHO 2 QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 a 6 dentes grandes de alho",
+      "500 g de maionese",
+      "200 g de queijo mussarela (pedaço, sem ser fatiado)",
+      "50g de queijo parmesão ralado",
+      "1 pacote de ervas finas",
+      "2 colheres (sopa) de azeite de oliva",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de pimenta-do-reino e cominho em pó",
+      "1 colher (sopa) de manteiga ou margarina",
+      "pão francês"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os dentes de alho e triture em liquidificador ou processador manual ou elétrico;",
+      "Corte a mussarela em cubinhos e coloque para triturar em liquidificador ou processador manual ou elétrico;",
+      "Em um recipiente coloque o alho, os queijos, maionese e misture bem;",
+      "Após a mistura, coloque as ervas finas, azeite, sal, pimenta e cominho, manteiga ou margarina e novamente misture bem;",
+      "Coloque na geladeira por 10 a 20 minutos, ou se quiser, sirva já pronto aplicando a pasta em pão francês para assar na churrasqueira.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VALDIR MORAIS DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314677-pasta-de-alho-2-queijos.html"
+}

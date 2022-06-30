@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA DOCE AMERICANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo",
+      "1 xícara de leite",
+      "2 colheres (sopa) de manteiga ",
+      "2 colheres (sopa) açúcar",
+      "1 colher (chá) de fermento em pó",
+      "1 ovo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos levemente, junte o leite a manteiga derretida e o açúcar.",
+      "Adicione a farinha, o açúcar, o sal e o fermento.",
+      "Leva à frigideira aquecida em fogo médio",
+      "Vire quando aparecerem bolhas.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FELIPE SELISTRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306606-panqueca-doce-americana.html"
+}

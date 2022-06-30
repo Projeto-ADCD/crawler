@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BAURU AO PRATO Á GAUCHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bife de alcatra",
+      "1 pão de hambúrguer",
+      "1 fatia de presunto",
+      "1 fatia de queijo prato",
+      "1/2 cebola juliene",
+      "2 a 3 rodelas de tomate",
+      "1 ovo cozido",
+      "alface picado",
+      "sal, pimenta e maionese a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amacie o bife pra aumentar de tamanho, tempere a gosto e reserve.",
+      "Corte a cebola em tiras, o tomate e o ovo em rodelas reserve.",
+      "Em seguida passe o bife na manteiga por 2 minutos. Cada lado",
+      "Junte a cebolas pra dourar.",
+      "Coloque a fatia de presunto, a de queijo e os tomates sobre o bife ainda no fogo.",
+      "Cubra com uma tampa por mais 1 minuto. pra derreter o queijo.",
+      "Abra o pão no meio, passe maionese em ambos os lados .",
+      "Coloque de um lado a alface e o bife e do outro as cebolas douradas e as rodelas de ovo.",
+      "Sirva em um prato com talheres.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KATIA JUNQUEIRA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310794-bauru-ao-prato-a-gaucha.html"
+}

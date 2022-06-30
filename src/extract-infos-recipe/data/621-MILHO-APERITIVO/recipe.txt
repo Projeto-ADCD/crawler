@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MILHO APERITIVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 espigas de milho pequenas",
+      "1 Ppitada de cominho",
+      "sal a gosto",
+      "1 colher (café) de pimenta-do-reino",
+      "salsa ou coentro picado a gosto",
+      "1 dente de alho picado",
+      "5 colheres (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as espigas de milho em água, até que estejam bem macias.",
+      "Corte em fatias com cerca de 1cm de espessura.",
+      "Doure rapidamente o alho na margarina. Junte o milho fatiado e envolva bem cada fatia.",
+      "Tempere com o sal, com a pimenta e o cominho. Fora do fogo adicione a salsa.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312307-milho-aperitivo.html"
+}

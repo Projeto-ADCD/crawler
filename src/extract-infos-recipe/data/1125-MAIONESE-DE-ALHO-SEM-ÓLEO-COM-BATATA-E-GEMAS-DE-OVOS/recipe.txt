@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MAIONESE DE ALHO - SEM ÓLEO - COM BATATA E GEMAS DE OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata grande",
+      "2 ovos",
+      "200 ml de leite",
+      "3 dentes médios de alho",
+      "2 talos de cebolinha",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro corte a batata em cubinhos e cozinhe em água fervente, até que elas fiquem bem moles (ponto de purê).",
+      "Escorra a água e reserve.",
+      "Coloque os ovos pra cozinhar.",
+      "Depois de cozidos, separe apenas as gemas.",
+      "Junte as batatas, as gemas e mais ou menos 100 ml do leite, no liquidificador.",
+      "Bata para misturar. Depois adicione o alho e a cebolinha, bem picados. Continue batendo.",
+      "Para tirar o denso da batata da maionese, continue batendo e adicione mais um pouco de leite, até dar o ponto. Quanto mais bater, mais firme ficará a maionese.",
+      "Finalize adicionando o sal, conforme seu gosto.",
+      "Com essas quantias, rende cerca de 750 ml no liquidificador.",
+      "OBS: Caso fique muito líquido, basta adicionar mais batata."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "REBECA RODRIGUES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309750-maionese-de-alho-sem-oleo-com-batata-e-gemas-de-ovos.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LASANHA DE PEIXE",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de filé de peixe merluza",
+      "650 g de molho de tomate",
+      "300 g de mussarela",
+      "1 cebola roxa",
+      "suco de um limão",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés de peixe com o suco do limão, o sal, a pimenta-do-reino e a cebola cortada e deixe marinando por uma hora.",
+      "Monte as camadas de peixe, molho e mussarela em uma assadeira e tampe com papel-alumínio. Leve ao forno preaquecido a 250° C por 40 minutos.",
+      "Após esse tempo, retire a assadeira do forno e tire o papel-alumínio. Coloque novamente por mais 10 minutos para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DAVES CORDOVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310868-lasanha-de-peixe.html"
+}

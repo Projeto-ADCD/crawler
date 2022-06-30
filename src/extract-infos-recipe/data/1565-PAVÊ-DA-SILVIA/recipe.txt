@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PAVÊ DA SILVIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme 1",
+      "400 g de mix para preparo de chantili",
+      "250 g de açúcar de confeiteiro",
+      "1 xícara de chocolate em pó",
+      "1/2 copo de rum (a gosto)",
+      "Creme 2",
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 colher de manteiga ou margarina",
+      "3 colheres de chocolate em pó",
+      "Extras",
+      "1 pacote grande de biscoito champanhe",
+      "2 copos de leite",
+      "1 colher de baunilha",
+      "4 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme 1",
+      "Ponha o mix para chantili no freezer por duas horas no mínimo.",
+      "Bata na batedeira em velocidade alta acrescentando o açucar de confeiteiro até virar chantili. Acrescente o chocolate e o rum batendo até misturar tudo.",
+      "Creme 2",
+      "Misture tudo em uma panela e mexer em fogo brando até atingir a textura de um brigadeiro mole (gourmet)",
+      "Montagem",
+      "Em uma tigela grande, cubra o fundo com metade do creme ",
+      "Misture bem o leite, a baunilha e o açúcar. Molhe bem o biscoito nessa mistura (um por vez para não desmanchar) e faça uma camada com ele.",
+      "Cubra com uma camada do creme 1, alterne as camadas, biscoito e creme 1.",
+      "No final, cubra com o restante do creme 2 e leve à geladeira por uma hora."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROBISON BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307612-pave-da-silvia.html"
+}

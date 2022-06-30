@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 tomates",
+      "1 pimentão vermelho",
+      "1 cebola",
+      "2 tomatillos (pode substituir por tomates verdes ou pimentão verde ou ignorar tudo isso e usar tomate vermelho normal mesmo)",
+      "1 pimenta jalapeño",
+      "2 dentes de alho",
+      "¼ xícara de coentro",
+      "Suco de 1 limão",
+      "Azeite",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno na função grelhar em alta temperatura.",
+      "Lave os tomates porque todo mundo mete a mão neles no mercado.",
+      "Corte-os em quatro partes.",
+      "Corte o pimentão ao meio e tire as sementes e parte branca.",
+      "Corte a cebola ao meio. Retire a pele dos tomatillos, corte o jalapeño ao meio, jogue tudo numa forma e regue com um fio de azeite. Coloque no forno por 8 a 10 minutos.",
+      "Bata tudo no liquidificador com os dentes de alho, um punhado do coentro e o suco do limão. Coloque sal e pimenta do reino a gosto.",
+      "Bata no liquidificador até ficar no ponto que você deseja."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PARIS HILTON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313168-molho-assado.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FILÉ MIGNON SUÍNO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé mignon suíno",
+      "1 cebola grande",
+      "1 pimentão médio",
+      "salsinha a gosto",
+      "cebolinha a gosto",
+      "3 dentes de alho",
+      "Para o molho:",
+      "2 colheres (sopa) de amido de milho",
+      "1 copo de vinho seco tinto",
+      "500 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Selar o filé mignon na panela de pressão até ficar dourado em todos os lados",
+      "Fazer uma \"cama\" de cebola e pimentão em rodelas grossas e colocar os filés por cima",
+      "Acrescentar o vinho",
+      "Colocar a salsinha a cebolinha e o alho por cima",
+      "400 ml de água, tampe e cozinhe por 25 minutos na panela de pressão",
+      "Após, retire a carne, acrescente os 100 ml de água restante com o amido dissolvido para engrossar o molho. Se necessário adicione mais água, aos poucos, até o ponto que desejar.",
+      "Fatie o filé sobre uma travessa, cubra com o molho e decore a gosto (coloquei champignon)"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BRUNO GÓES JR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311495-file-mignon-suino-na-panela-de-pressao.html"
+}

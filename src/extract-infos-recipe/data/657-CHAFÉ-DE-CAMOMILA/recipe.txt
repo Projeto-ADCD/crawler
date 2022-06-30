@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHAFÉ DE CAMOMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de Água",
+      "2 Colheres de Pó de Café",
+      "1 Sachê de Chá de Camomila"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água",
+      "Coloque o sachê de chá na caneca",
+      "Coloque o café no filtro",
+      "Adicione a água fervente",
+      "Espere o café filtrar"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOÃO PEDRO ESTEVES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312135-chafe-de-camomila.html"
+}

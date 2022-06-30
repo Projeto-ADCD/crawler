@@ -1,0 +1,34 @@
+{
+  "nome_receita": "OVERNIGHT OATS DE MORANGO E ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de farelo de aveia",
+      "6 colheres (sopa) de leite desnatado",
+      "1 iogurte sem sabor",
+      "1/2 caixinha de morango",
+      "4 fatias de abacaxi",
+      "4 colheres (chá) de chia",
+      "1 pitada de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a aveia e o leite até formar uma pasta homogênea",
+      "Corte em pedaços pequenos as fatias de abacaxi",
+      "Com um mixer ou um liquidificador bata o abacaxi e o iogurte até notar que o abacaxi desmanchou",
+      "Pique os morangos em pedaços pequenos e reserve dois para o final da receita",
+      "Misture a mão, a chia, no iogurte de abacaxi que você fez anteriormente",
+      "Forre o fundo do seu pote com a pasta de aveia",
+      "A segunda camada será feita com metade da sua mistura de iogurte com chia",
+      "Coloque uma pitada de canela em pó em cima do iogurte",
+      "Para formar sua terceira camada, coloque os morangos picados",
+      "A outra metade do seu iogurte vai formar sua quarta camada",
+      "Coloque mais uma pitada de canela por cima do iogurte",
+      "E para finalizar, coloque os dois morangos por cima de tudo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VITÓRIA GUIZOLFI SCHNEIDER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309070-overnight-oats-de-morango-e-abacaxi.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COOKIE DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de açúcar",
+      "1 colher de açúcar mascavo",
+      "1 colher de margarina",
+      "1 ovo",
+      "4 colheres de farinha de trigo",
+      "4 gotas de essência de baunilha",
+      "gotas de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina, adicione as colheres de açúcar, misture bem até ficar homogêneo",
+      "Adicione a gema do ovo e misture",
+      "Adicione as colheres de farinha de trigo, (se quiser mais molhadinho use 3 colheres se quiser mais fofinho use 3 a 5 colheres, quanto mais colheres mais perto do aspecto de bolo)",
+      "Adicione a essência de baunilha e as gotas de chocolate.",
+      "Coloque no micro-ondas por 1 minuto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "2 a 4 colheres de farinha de trigo\n2 a 4 gotas de essência de baunilha"
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANGELA GOULART",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307380-cookie-de-caneca.html"
+}

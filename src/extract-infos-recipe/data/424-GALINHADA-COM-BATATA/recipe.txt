@@ -1,0 +1,36 @@
+{
+  "nome_receita": "GALINHADA COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Tradicional Bem Brasil ",
+      "4 colheres de azeite ",
+      "1 colher de curry ",
+      "500 g de frango cozido e desfiado ",
+      "250 ml de creme de leite ",
+      "3 tomates sem semente cortados em cubos ",
+      "4 ramos de salsinha ",
+      "150 g de mussarela fatiada ",
+      "200 g de requeijão cremoso ",
+      "6 ramos de cebolinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve uma panela ao fogo e adicione o azeite e o curry",
+      "Em seguida, adicione o frango desfiado e salteie",
+      "Depois, adicione o creme de leite e misture",
+      "Adicione os cubos de tomate sem semente e misture",
+      "Adicione a salsinha picada e reserve",
+      "Frite a Batata Tradicional Bem Brasil até ficar crocante por fora e macia por dentro",
+      "Escorra em papel-toalha e reserve",
+      "Forre uma assadeira com as batatas fritas e cubra com o recheio de frango",
+      "Adicione mussarela fatiada e mais uma camada de batatas",
+      "Cubra com o requeijão cremoso e leve ao forno até dourar",
+      "Retire do forno e decore com ramos de cebolinha. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312860-galinhada-com-batata.html"
+}

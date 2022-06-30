@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FUDGE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 lata de leite condensado",
+      "100 g de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "1 colher (chá) de essência de baunilha",
+      "190 g de chocolate meio amargo",
+      "40 g de nozes torradas",
+      "100 g de chocolate branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o leite condensado e o chocolate em pó",
+      "Misture até formar uma massa cremosa (quase como um brigadeiro)",
+      "Junte a manteiga, a essência, o chocolate meio amargo e as nozes",
+      "Misture tudo muito bem e retire a panela do fogo",
+      "Coloque a massa bem acomodada em uma travessa",
+      "Leve à geladeira por 40 minutos",
+      "Depois retire, corte em pequenos retângulos e cubra tudo com chocolate branco derretido"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314678-fudge-de-chocolate.html"
+}

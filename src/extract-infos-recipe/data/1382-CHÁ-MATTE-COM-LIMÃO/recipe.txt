@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CHÁ MATTE COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sachê de chá matte",
+      "200 ml de água fervendo",
+      "1/2 limão taiti",
+      "2 colheres (sopa) de açúcar",
+      "gelo a gosto",
+      "200 ml de água gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepara o chá e tampe por uns 10 minutos (use a água fervendo 200 ml)",
+      "Leve o chá para o congelador ou geladeira e deixa esfriar.",
+      "Depois que o chá esfriar, descasque o limão, tire o máximo da casca e da parte branca",
+      "Coloque no micro-ondas o chá matte, água gelada ou fria 200 ml, açúcar e o gelo e bata uns 3 minutos mais ou menos.",
+      "Obs: pode fazer com adoçante, adoce a sua preferência.",
+      "Fica bom também sem adoçar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "STEPHANIE VIEIRA FURTADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308610-cha-matte-com-limao.html"
+}

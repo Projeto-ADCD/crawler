@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÉ-DE-MOLEQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim torrado e moído sem pele",
+      "1 lata de leite condensado",
+      "1 copo de leite",
+      "1 colher (sopa) de manteiga",
+      "26 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ponha em uma panela o amendoim, o leite condensado, o leite, o açúcar e a manteiga.",
+      "Misture bem e leve ao fogo mexendo sempre até começar a aparecer o fundo da panela.",
+      "Junte algumas gotas de limão, retire do fogo e bata sempre, até começar a açucarar.",
+      "Despeje em um mármore untado com manteiga e, depois de frio, corte em tabletes."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308207-pe-de-moleque.html"
+}

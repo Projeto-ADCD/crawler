@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FILÉ MIGNON COM ALHO, CHAMPIGNON E GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g Filé Mignon",
+      "1/2 Cebola Média",
+      "1 Cabeção de Alho",
+      "150g Champignon",
+      "1 Caixinha de Creme de Leite",
+      "100g Gorgonzola",
+      "1/2 Cebola Picada",
+      "Azeite",
+      "Sal a Gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro esquente a cabeça de alho (com casca) regada com azeite por 2 minutos no microondas.",
+      "Frite o filé já temperado (sal,alho e pimenta) na frigideira com azeite, reserve.",
+      "Na mesma panela acrescente cebola picada com azeite e depois coloque alho e o champignon picado.",
+      "Diminua o fogo, e acrescente gorgonzola, creme de leite deixe ferver.",
+      "Coloque o molho sobre os filés e sirva com arroz branco e batata Chips."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RICARDO SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313452-file-mignon-com-alho-champignon-e-gorgonzola.html"
+}

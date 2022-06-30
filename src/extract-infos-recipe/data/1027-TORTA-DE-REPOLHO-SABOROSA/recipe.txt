@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE REPOLHO SABOROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de repolho cru picado",
+      "1/2 chuchu picado",
+      "1 cebola grande picada",
+      "1 cenoura média ralada",
+      "2 tomates médios sem casca picados",
+      "1/4 de xícara (chá) de óleo ou azeite",
+      "1/2 xícara (chá) de nata",
+      "2 ovos",
+      "1/2 xícara (chá) de farinha de trigo",
+      "4 colheres (sode xícara (chá) de salsinha picada",
+      "4 colheres (sopa) de cebolinha picada",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha funda coloque todos os ingredientes e misture tudo muito bem.",
+      "Unte uma pirex ou forma refratária com manteiga e acrescente a mistura.",
+      "Cubra o refratário com papel alumínio.",
+      "Leve ao forno preaquecido a 200° C por 25 minutos .",
+      "Retire o papel-alumínio e deixe por mais uns 10 minutos ou até dourar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310361-torta-de-repolho-saborosa.html"
+}

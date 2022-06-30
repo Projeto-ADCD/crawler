@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO INTEGRAL SUPER MACIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "01 xícara e 1/2 de água morna",
+      "02 ovos",
+      "1/2 xícara de óleo",
+      "01 xícara de açúcar mascavo",
+      "1 pc de fermento biológico",
+      "250g de farinha de trigo",
+      "250g de farinha de trigo integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a água no microondas, deixa-a morna, não muito quente.",
+      "Misture todos os ingredientes em um recipiente.",
+      "Vá misturando com uma colher de pau, durante 10 minutos, até todos ingredientes ficarem homogêneos.",
+      "O ponto da massa é uma liga cremosa.",
+      "Despeje a massa em uma fôrma untada com óleo e enfarinhada.",
+      "Tampe com um pano de prato limpo e deixe crescer no forno desligado. (Aqueça o forno por alguns minutos e isso vai ajudar a crescer o pão mais rápido).",
+      "Leve para assar por 20 minutos em temperatura média.",
+      "Deixe esfriar para cortar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IVES FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306636-pao-integral-super-macio.html"
+}

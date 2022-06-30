@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE RÁPIDO COM 2 INGREDIENTES (DE BAUNILHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "240 ml de creme de leite fresco gelado",
+      "1 caixa de leite condensado",
+      "1 colher (café) de essência de baunilha (pode ser o sabor que quiser)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira, bata o creme de leite fresco até dar ponto de chantili",
+      "Adicione o leite condensado e a baunilha;",
+      "Despeje num refratário e deixe no freezer por mais ou menos 4 horas."
+    ]
+  },
+  "tempo_de_preparo": "270 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NATHALIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307914-sorvete-rapido-com-2-ingredientes-de-baunilha.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "LASANHA DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates",
+      "12 azeitona Azapa Vale Fértil",
+      "5 unidades de tomate seco Vale Fértil",
+      "6 camarões médios ",
+      "1 colher (chá) de semente de coentro ",
+      "5 fatias de jamón ",
+      "aspargos Vale Fértil para decorar ",
+      "suco de meio limão siciliano ",
+      "pimenta-do-reino ",
+      "salsinha a gosto ",
+      "cebolinha a gosto ",
+      "azeite de oliva extra virgem Vale Fértil"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o olho dos tomates e fazer um x na parte de baixo.",
+      "Ferver água em panela e submergir os tomates até que a pele rache.",
+      "Retirae os tomates e leve à água corrente, para retirar a pele.",
+      "Retire as sementes e reserve",
+      "Pique o jamón, as azeitonas e o tomate seco.",
+      "Em um pilão, macere a semente de coentro com o azeite do tomate seco e um pouco dos ingredientes picados, até obter uma pasta.",
+      "Em uma frigideira, salteie os camarões com azeite e oliva, salpicando com pimenta-do-reino e um pouco de sal.",
+      "Retire da frigideira e pique.",
+      "Misture camarões, jamón, azeitonas tomate seco com a pastinha de semente de coentro, acrescente pimenta-do-reino, suco de meio limão siciliano e um pouco do azeite do tomate seco.",
+      "Pique salsinha e cebolinha e acrescente à mistura.",
+      "Espalme os tomates com uma faca e monte uma pilha, alternando tomate com recheio.",
+      "Finalize com um fio de azeite de oliva e descore com aspargos. "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VALE FÉRTIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309525-lasanha-de-tomate.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BERINJELA À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas",
+      "2 ovos",
+      "250 g de queijo ralado (mussarela ou parmesão)",
+      "1 pitada de ervas de tempero",
+      "1 pitada de sal",
+      "200 g farinha pronta de empanar",
+      "1 lata de molho de tomate",
+      "250 g de carne moida"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque (tire a casca preta) das berinjelas e cozinhe uns 15/20 minutos ",
+      "Corte em tiras e passe no sal em seguida.",
+      "Bata rapidamente os ovos e empane com a farinha de rosca ou farinha pronta de empanar",
+      "Frite as berinjelas em óleo bem quente e separe.",
+      "Refogue a carne moída com tempero a gosto e misture com o molho de tomate",
+      "Resumindo você fará um molho à bolonhesa.",
+      "Monte: uma camada de berinjela, uma camada de molho bolonhesa, tempere levemente com orégano, uma camada de queijo ralado",
+      "Repita essa operação fazendo mais uma camada, finalisando com o queijo ralado.",
+      "Preaqueça o forno em temperatura média (6/7) por 10 minutos em seguida coloque no forno por 30 minutos em temperatura média.",
+      "Depois é só degustar, aproveitar e comer tudo",
+      "Excelente para 2 pessoas!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KARINA L' ASTORINA MARCHINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306149-berinjela-a-parmegiana.html"
+}

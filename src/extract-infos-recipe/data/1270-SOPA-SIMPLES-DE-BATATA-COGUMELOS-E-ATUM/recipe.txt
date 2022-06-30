@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SOPA SIMPLES DE BATATA, COGUMELOS E ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de cogumelos",
+      "1 cebola",
+      "2 batatas médias",
+      "2 dentes de alho",
+      "2 litros (8 xícaras) de caldo de galinha (ou água)",
+      "1 colher (chá) de sal (eu recomendo este)",
+      "1 pitada de pimenta-do-reino",
+      "1 colher (sopa) de manteiga",
+      "150 g de atum (opcional)",
+      "4 colheres (sopa) de iogurte grego (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola.",
+      "Lave os cogumelos e pique-os bem.",
+      "Em uma panela antiaderente, aqueça uma colher de manteiga e refogue levemente a cebola picada.",
+      "Adicione os cogumelos e refogue-os até amolecerem (cerca de 5 minutos), mexendo de vez em quando.",
+      "Adicione caldo de galinha ou água e deixe a sopa ferver.",
+      "Enquanto isso, bata as batatas cruas picadas com 2 dentes de alho e um pouco de água, no liquidificador.",
+      "Incorpore a mistura na sopa.",
+      "Deixe a sopa ferver por cerca de 10-15 minutos e, finalmente, triture tudo com um mixer e tempere com sal e pimenta-do-reino.",
+      "Se desejar, adicione iogurte grego antes de servir, e também recomendo adicionar um pouco de atum (escorrido). Assim, a sopa terá ainda mais proteína e irá saciar você muito bem."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FEITICEIRA FIT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309176-sopa-simples-de-batata-cogumelos-e-atum.html"
+}

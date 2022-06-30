@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MAIONESE DE LEITE COM ALHO E CHEIRO-VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 copo de leite",
+      "1 litro de óleo",
+      "3 dentes de alhos",
+      "cheiro-verde a gosto",
+      "2 pacotinhos de tempero pronto de limão",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes menos o óleo.",
+      "Depois de bem batido, ligue o liquidificador no máximo e despeje o óleo como um fio médio e constante até engrossar.",
+      "Dica: o liquidificador não pode estar molhado, pois não dá ponto.",
+      "Consumir no máximo em uma semana."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NATHALIA RAMOS VIEGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306144-maionese-de-leite-com-alho-e-cheiro-verde.html"
+}

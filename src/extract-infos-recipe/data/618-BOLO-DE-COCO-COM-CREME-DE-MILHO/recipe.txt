@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE COCO COM CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "140 g de milho",
+      "200 ml de leite",
+      "1 colher (sopa) de amido de milho",
+      "35 g de coco ralado",
+      "3 gemas",
+      "75 ml de óleo",
+      "300 g de açúcar",
+      "200 ml de leite de coco",
+      "220 g de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "3 claras",
+      "107 g de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Na batedeira, bata as claras em neve e reserve.",
+      "Bata as gemas com a margarina, com o óleo e o açúcar até obter um creme bem leve.",
+      "Aos poucos, junte o leite de coco. E por último, a farinha com o coco e o fermento. Coloque em uma assadeira retangular (29x20 cm) untada com margarina e enfarinhada.",
+      "Asse no forno preaquecido por cerca de 50 minutos ou espete com um palito e veja se ele sai seco.",
+      "Desenforme frio.",
+      "Despeje a cobertura ainda quente e deixe esfriar.",
+      "Corte em quadrados e sirva em temperatura ambiente."
+    ],
+    "COBERTURA": [
+      "Bata os ingredientes no liquidificador e peneire.",
+      "Leve ao fogo, mexendo até engrossar.",
+      "Despeje ainda quente sobre o bolo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA\nPolvilhe canela em pó sobre a cobertura fria."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312310-bolo-de-coco-com-creme-de-milho.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FRITTATA LOW CARB DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos grandes",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) de purê de tomate",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "250 g de tomates-cereja",
+      "1 colher (chá) de azeite de oliva",
+      "Pimenta-do-reino moída",
+      "1/2 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, misture os ovos, o leite, o purê de tomate, o sal, a pimenta-do-reino moída e uma colherada de queijo parmesão ralado.",
+      "Aqueça o azeite numa panela funda.",
+      "Despeje a mistura de ovos na panela.",
+      "Tampe a panela e deixe cozinhar em fogo médio por cinco minutos, até a maior parte da frittata endurecer.",
+      "Cubra a frittata com tomates-cereja picados e com o restante do queijo parmesão, e deixe cozinhar por mais 7 minutos, checando de vez em quando para não queimar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313722-frittata-low-carb-de-tomate.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ COM CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras e meia de farinha de trigo",
+      "2 xícaras de açúcar",
+      "5 maçãs pequenas",
+      "1 colher (sopa) de canela em pó",
+      "3 ovos",
+      "1 colher (sopa) de fermento",
+      "1 xícara de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o óleo, açúcar, três maçãs com casca",
+      "Em uma tigela junte a farinha açúcar e a canela",
+      "Misture todos os igredientes coloque o fermento e pique o restante das maças sem a casca",
+      "Unte a forma com margarina e farinha de trigo despeje a massa e leve ao forno por aproximadamente 30 minutos ou até que esteja completamente assado",
+      "Desenforme e se sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: a xícara que uso é de 150 ML"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "11 PORÇÕES",
+  "autor": "ALINE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312708-bolo-de-maca-com-canela.html"
+}

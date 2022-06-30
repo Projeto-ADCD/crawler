@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MAIONESE DIFERENTE DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de peito ou 2 peitos de frango",
+      "1/2 vidro de maionese ",
+      "4 batatas médias bem cozidas",
+      "1 cebola",
+      "2 dente de alho",
+      "2 caldos de galinha",
+      "1 pitada de sal",
+      "2 colheres de azeite ou óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o alho já amassado no oléo, afogue o filé de peito ou o peito de frango picados e reserve.",
+      "Cozinhe bem as batatas e reserve.",
+      "Pegue o multi-processador ou o liquidificador e coloque um pouco da batata, um pouco de frango, algumas colheres de maionese e pique um pouco a cebola",
+      "Vá batrendo até formar uma pasta",
+      "Retire e coloque os resto do ingredientes da mesma forma."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ótimo para acompanhamento em carnes assadas e arroz branco com alface"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JAMARA IZABEL ASSUNÇAO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310633-maionese-diferente-de-frango.html"
+}

@@ -1,0 +1,50 @@
+{
+  "nome_receita": "BOLO BOMBA DE PRESTÍGIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara de açúcar",
+      "1 xícara de leite",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de chocolate em pó",
+      "1 colher de sopa de fermento em pó",
+      "Recheio",
+      "1 cx de leite condensado",
+      "1 cx de creme de leite",
+      "100 g de coco ralado",
+      "Cobertura:",
+      "1 cx de leite condensado",
+      "1 colher de sopa de margarina ou manteiga",
+      "3 colheres de chocolate em pó",
+      "1/2 cx de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Misture todos os ingredientes e leve ao fogo médio, mexendo sempre até engrossar bem e começar a desgrudar do fundo da panela. Reserve.",
+      "Massa",
+      "Bata os ovos e o óleo por uns 2 minutos na batedeira.",
+      "Ainda batendo vá acrescentando o açúcar. Desligue.",
+      "Acrescente o leite, a farinha e o chocolate e bata até ficar uma massa consistente.",
+      "Acrescente o fermento em pó e misture na mão mesmo.",
+      "Unte uma forma e despeje metade da massa.",
+      "Com a ajuda de duas colheres, vá colocando todo o recheio na massa.",
+      "Despeje o restante da massa.",
+      "Leve ao forno e asse por aproximadamente 40 minutos.",
+      "Cobertura",
+      "Misture a margarina, o leite condensado e o chocolate em pó em uma panela e leve ao fogo médio, sem parar de mexer, até engrossar.",
+      "Desligue o fogo.",
+      "Misture o creme de leite e mexa até ficar um creme consistente.",
+      "Assim que o bolo estiver morno e completamente solto da forma, coloque a cobertura por cima.",
+      "Finalize com granulado e coco ralado.",
+      "Obs.: utilizei uma forma redonda média de fundo falso."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308181-bolo-bomba-de-prestigio.html"
+}

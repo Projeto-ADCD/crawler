@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHÁ PRETO À MODA INGLESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 colheres (chá) cheias de chá preto a granel",
+      "2 litros de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Há várias maneiras de preparar o chá preto. Esta é a maneira inglesa clássica.",
+      "Ferva 2 litros de água, em uma chaleira ou canecão com tampa.",
+      "Quando a água ferver, apague o fogo e, IMEDIATAMENTE, junte o chá e mexa.",
+      "A quantidade de chá varia conforme prefira mais forte ou mais fraco. Por exemplo, eu uso 9 (não 10) colheres de folhas de chá, mas a cifra média é de uma colher de chá cheia para cada xícara de 200 ml, portanto seriam 10 colheres de chá.",
+      "Tampe a panela ou chaleira e abafe por 3 a 5 minutos.",
+      "Coe o chá para um bule. Sirva, com açúcar ou não, e se gostar, junte um pouco de leite.",
+      "Segundo os Ingleses, não se deve ferver as folhas de chá na água, e nem extrair por mais de 5 minutos, ou o chá ficará amargo, devido ao tanino.",
+      "Se bem preparado, deve-se obter uma infusão forte, de cor marrom avermelhada."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312465-cha-preto-a-moda-inglesa.html"
+}

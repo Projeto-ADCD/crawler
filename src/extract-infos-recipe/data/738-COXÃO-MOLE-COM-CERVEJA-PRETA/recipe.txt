@@ -1,0 +1,26 @@
+{
+  "nome_receita": "COXÃO MOLE COM CERVEJA PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxão mole (peça)",
+      "1 lata de cerveja preta",
+      "2 cebolas medias",
+      "6 dentes de alho",
+      "2 sachês de caldo de carne",
+      "1/2 sachê de molho de tomate",
+      "1 pimentão",
+      "sal",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça furos na peça da carne e passe o sachê do caldo de carne na peça toda. Na panela de pressão coloque oleo e deixe a carne selar dos dois lados.",
+      "Coloque o pimentão, as cebo,as em rodelas e os dentes de alho inteiros. Despeje a lata de cerveja, o molho de tomate, coloque agua até que cubra a carne acerte o sal. Tampe e após pegar pressão deixe 45 minutos. Abra deixe ferver para engrossar mas ainda deixe caldo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CATHERINE BARCELLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311819-coxao-mole-com-cerveja-preta.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MACARRÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "100 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha de trigo na bancada e faça um buraco no meio colocar o ovo",
+      "Misture tudo, sove bem a massa e depois coloque em um filme plástico",
+      "Deixe 30 minutos na geladeira, abra a massa com rolo de macarrão ou cilindro bem fininha e corte",
+      "Depois deixe cozinhar e servir com o molho de sua preferência.",
+      "Obs: ela cozinha mais rápido do que as de mercado"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KELY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311769-macarrao-caseiro.html"
+}

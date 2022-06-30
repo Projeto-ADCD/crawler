@@ -1,0 +1,44 @@
+{
+  "nome_receita": "SOBREPALETA ASSADA AO MOLHO DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de sobrepaleta temperada descongelada (1 kg)",
+      "5 batatas inglesas grandes",
+      "1 cenoura",
+      "óleo",
+      "Para o molho",
+      "15 cravos-da-índia",
+      "6 laranjas espremidas (300 ml de suco de laranja)",
+      "1 xícara de açúcar mascavo ou 1/2 xícara de açúcar refinado",
+      "Para decoração",
+      "4 a 6 fatias de laranja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas em fatias médias (1 cm)",
+      "Corte as cenouras em fatias médias (1 cm)",
+      "Coloque as batatas e cenoura em uma panela cobertas com água, tampada e deixe cozer até que comecem a ficar moles (22 minutos)",
+      "Corte a sobre paleta em fatias médias/altas (2 cm a 3 cm)",
+      "Corte as laranjas ao meio e reserve.",
+      "Preaqueça o forno a 200º C por 15 minutos",
+      "Em uma frigideira comum sele as fatias de carne. (coloque um fio de óleo sobre sobre a frigideira e a pré-aqueça, quando estive bem quente coloque as fatias de carne até que elas fiquem branquinhas, vire e faça o mesmo do outro lado, o meio ficará rosado. Repita o processo em todas as fatias)",
+      "Após o cozimento das batatas e cenouras jogue a água fora.",
+      "Em uma assadeira ou refratário forre com as batatas e cenouras (reserve algumas, aproximadamente metade para assar separado)",
+      "Coloque sobre as fatias a carne selada.",
+      "Em uma segunda assadeira jogue um fio de oleo/azeita para untar, coloque as fatias que sobraram de batatas e cenouras dispostas uma ao lado da outra.",
+      "Coloque as duas assadeiras no forno (carne em cima e legumes em baixo) e deixe assar em forno alto (240º C) por 40 minutos ou até dourar.",
+      "Após colocar para assar inicie o preparo do molho.",
+      "Em uma panela pequena despeje o açúcar, os cravos e vá mexendo com uma colher de pau até ele derreter, ao derreter vá despejando aos poucos o suco de laranja, sempre mexendo.",
+      "Se ao despejar o suco o açúcar endurecer, espere aquecer que ele derrete novamente, continue sempre mexendo até que tenha colocado todo o suco e o açúcar esteja todo derretido.",
+      "Continue mexendo até que o molho fique com uma cor opaca. .",
+      "Quando o molho estiver pronto abra o forno e despeje sobre a carne e as batatas.",
+      "Espere completar o tempo de forno ou quando as batatas estiverem crocantes e a carne dourada, retire, decore e sirva.",
+      "Recomendo um arroz branco para acompanhar"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIO CHAPELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309334-sobrepaleta-assada-ao-molho-de-laranja.html"
+}

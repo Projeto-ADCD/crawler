@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE CANECA NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de achocolatado",
+      "2 de óleo",
+      "4 colheres (sopa) de leite",
+      "1 colher (chá) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recepiente, coloque os ingredientes secos",
+      "Depois coloque o leite e depois o óleo",
+      "Mexa com uma colher por 3 minutos",
+      "Depois coloque o fermento",
+      "E mexa por mais 1 minuto",
+      "Coloque em uma caneca de 250 ml",
+      "Sendo que só se pode colocar 4 dedos de massa",
+      "O que sobrar, coloque em outa caneca",
+      "Coloque no micro-ondas por 3 minutos na potência máxima",
+      "E pronto, está pronto"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CARLA ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307671-bolo-de-caneca-no-micro-ondas.html"
+}

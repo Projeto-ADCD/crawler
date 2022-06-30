@@ -1,0 +1,42 @@
+{
+  "nome_receita": "COZIDÃO CEARENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de lombo ou músculo bovino",
+      "1 cebola branca picada",
+      "2 dentes de alho moido",
+      "1 pimentão picado",
+      "1 sazon sabor nordeste",
+      "sal, paprica ou coloral, açafrão a gosto",
+      "3 xicaras de água (em media até cobrir a carne)",
+      "1 molho de cheiro verde picado",
+      "4 batatas inglesas médias (cortada de modo grosseiro)",
+      "2 batatas doce medias (em rodelas medindo três dedos de espessura)",
+      "2 macaxeiras medias (em rodelas medindo três dedos de espessura)",
+      "1/4 de gerimum (cortado em cubos grandes)",
+      "2 cenouras cortada em tiras largas e grandes",
+      "10 maxixe cortados ao meio no cumprido (opcional)",
+      "1 e 1/2 xicara de farinha fina de mandioca",
+      "1/2 xicara de água",
+      "caldo da carne a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque a carne ja cortada em cubos grandes, coloque a ossada também, pois ajuda a pegar gosto.",
+      "Junte os temperos (pimentão, cebola, alho, sazon, coloral, açafrão e o sal) e cubra tudo com a água.",
+      "Depois que pegar pressão, conte entre 30 a 40 minutos para retirar do fogo ou ate a carne ficar molinha. Reserve.",
+      "Enquanto a carne cozinha na pressão, adicione em uma panela grande todos os legumes exceto o maxixe e o gerimum ( esses devem ser cozidos em outro momento para não amolecer de mais), cubra com água coloque sal a gosto e deixe no fogo até ficar ao dente ou pré cozidos, depois retire do fogo e deixe esfriando em uma escorredeira.",
+      "Não deixe passar do ponto pois esses irão novamente para o fogo.",
+      "Corte a batata inglesa em tamanho maior que os outros legumes pois ela cozinha mais rápido.",
+      "Coloque a carne na panela grande onde foram cozidos os legumes, retire 3 xicaras de caldo (ou mais) para o pirão e reserve.",
+      "Com a carne novamente no fogo, espere ela apurar um pouco (cerca de 10 min em fogo alto) e adicione os legumes ja pré cozidos o gerimum e os maxixes, espere os legumes pegar o gosto do caldo se necessário acerte o sal. Não deixe o caldo secar completamente, o ideal é ficar com um caldinho apurado. Adicione o cheiro verde.",
+      "Para o pirao, você precisará de uma panela média, adicione a farinha com a água ja com o fogo ligado, deixe a farinha cozinhar nessa água, sempre mexendo bem, se preciso adicione um pouco mais de água caso fique dificil de mexer, lembrando que a agua não pode cobrir a farinha, serve apenas para da uma cozida na farinha, após mais ou menos 5 minutos em fogo médio, adicione o caldo ate cobrir a farinha, feito isso espere fever , sempre mexendo bem para não empelotar. Caso necessario vá adicionando mais caldo aos poucos ate ficar bem lisinho.",
+      "Sirva com arroz e feijão verde."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAYZA FALCAO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312943-cozidao-cearense.html"
+}

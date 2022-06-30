@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MELHOR FOCCACIA DO MUNDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo (se possível italiana)",
+      "450 ml de água morna",
+      "5 g fermento para pão ou 10 g de fermento fresco",
+      "1 colher (sopa) de acuçar",
+      "1 colher (chá) de sal",
+      "sal",
+      "azeite",
+      "alecrim "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ingredientes secos em uma tigela grande (farinha, sal açúcar, fermento); - coloque a agua morna (microondas 20-30 segundos) e misture tudo até fica homogêneo (com uma espátula ou espumadeira).",
+      "Cubra com um pano e deixe descansar por 60-90 minutos e faça a primeira dobra (pegue os 4 lados da massa e vá virando para o meio).",
+      "Repita o passo anterior fazendo pelo menos 3 ou 4 dobras.",
+      "Preaqueça o forno a 250°C ,enquanto isso espalhe a massa em uma forma com a ponta dos dedos.",
+      "Deixe a massa descansar por 30 minutos.",
+      "Coloque os raminhos de alecrim em fileiras, finalize com sal de parrilha (entre fino) ou sal grosso e fios de azeite.",
+      "Leve ao forno bandeja alta para não queimar a base da foccacia.",
+      "Deixe em 250°C por 30 minutos depois vire a forma e reduza para 230°C por mais 20 minutos.",
+      "A foccacia estará pronta. Para confirmar se tiver um termómetro culinária insira na massa para certificar a temperatura de 92°C-95°C."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "obs. Se possível colocar uma pedra de pizza/refratária por baixo da forma para proteger a base da foccacia."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THALES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312941-melhor-foccacia-do-mundo.html"
+}

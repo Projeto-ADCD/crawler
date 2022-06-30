@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PALITO DE PARMESÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "50 g queijo ralado",
+      "1 colher (chá) de açúcar",
+      "1/2 colher (chá) de sal",
+      "1/2 xícara de água",
+      "1 colher (sopa) cheia de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes secos primeiro em uma tigela. Depois adicione os demais integrantes. Se a massa ficar grudando nas mãos adicione um pouco mais de manteiga e não água. Amasse bem.",
+      "Abra com o rolo na espessura que desejar. Salpique queijo por cima da massa e passe o rolo de leve para grudar o queijo.",
+      "Corte com a faca ou cortador de pizza em formatos de palitos ou outro que desejar. Leve ao forno aproximadamente 20 minutos na temperatura de 250 graus.",
+      "Não precisa untar a forma."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANA FLÁVIA CASTILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311989-palito-de-parmesao.html"
+}

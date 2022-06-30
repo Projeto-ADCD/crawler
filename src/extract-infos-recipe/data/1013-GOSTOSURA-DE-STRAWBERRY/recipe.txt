@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GOSTOSURA DE STRAWBERRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de morangos",
+      "1 lata de leite condensado LIGHT (preferencialmente, caso não tenha pode utilizar o leite condensado integral)",
+      "1 lata de leite semi desnatado ou integral (medida da lata de leite condensado)",
+      "2 gemas peneiradas",
+      "1 colher (sopa) de amido",
+      "200 g de chocolate meio amargo em gotas ou picado.",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem os morangos e corte em pedaços pequenos. Após, reserve.",
+      "Faça um creme com o leite condensado LIGHT, o leite semi desnatado ou integral, as gemas peneiradas e maizena dissolvida em 2 colheres de (sopa) de leite.",
+      "Leve ao fogo mexendo bem até ferver e ficar um creme. Após, retire do fogo, deixe esfriar e reserve.",
+      "Faça uma Ganache de Chocolate: Dissolva o chocolate meio amargo em gotas ou picado em banho-maria e misture o creme de leite. Esse processo pode ser feito também no microondas colocando num refratário o chocolate em gotas ou picado de 30 em 30 segundos até derreter e após misture o creme de leite.",
+      "Para montar a receita, coloque num refratário ou em taças individuais os morangos picados em baixo, o creme de gemas no meio e por cima a ganache de chocolate.",
+      "Decore em cima com raspas de chocolate ou alguns chocolates em gotas ou alguns morangos inteiros ou picados ou a sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DIOGO NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310459-gostosura-de-strawberry.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CASSOULET DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de feijão branco",
+      "500 g de filet de ante-coxa de frango em pedaços medios (2 cms)",
+      "1 linguiça frango",
+      "50 g de bacon",
+      "1/2 lata de ervilha",
+      "1 colher (sopa) cheia de passata",
+      "1 xicara (café) salsinha",
+      "1 xicara (café) tomilho",
+      "2 folhas de louro",
+      "sal, pimenta-do-reino e páprica a gosto",
+      "1 cebola picada",
+      "4 dentes de alho picados",
+      "4 xicaras de caldo de galinha",
+      "1 colher (sopa) de farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com limão, sal, pimenta-do-reino por 30 minutos e páprica",
+      "Refogue cebola e o alho, junte o frango até dourar. Reserve",
+      "Corte a linguica em pedacos e refogue onde estava o frango. Adicione éleo se necessário. Reserve.",
+      "Coloque caldo de frango, passata, paprika, tomilho, salsinha e louro na mesma panela, aqueça até começar a ferver",
+      "Junte a linguiça e o frango, cozinhe em fogo médio por 30 minutos ou até dar ponto.",
+      "Retire uma xicara do caldo, misture com farinha para engrossar e devolva a panela junto com as ervilhas",
+      "Sirva com arroz."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "JOSE BREDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314621-cassoulet-de-frango.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de manteiga derretida",
+      "4 ovos",
+      "200 ml de leite de coco",
+      "1 xícara de achocolatado",
+      "1 xícara de chocolate em pó 50% cacau",
+      "1 1/2 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de amido de milho",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os três primeiros ingredientes.",
+      "Numa outra vasilha, coloque os outros ingredientes secos e misture bem.",
+      "Acrescente os ingredientes líquidos e misture.",
+      "Unte uma forma redonda com manteiga e farinha, só na parte inferior e coloque para assar em uma temperatura 200 graus."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não abra o forno antes de 30 minutos.\nCada forno tem um tempo diferente para assar.\nNão fica abra muito o forno, tire no tempo certo, para não vai deixar seu bolo ressecado.\nPasse uma faca nas laterais da forma antes de desenformar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ROBERTO FREIRE FERRAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309486-bolo-de-chocolate.html"
+}

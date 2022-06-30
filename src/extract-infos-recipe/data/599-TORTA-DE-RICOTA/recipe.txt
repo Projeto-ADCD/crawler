@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE RICOTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 pacote de bolacha maria (200 g)",
+      "100 g de margarina em temperatura ambiente",
+      "Recheio:",
+      "300 g de ricota fresca",
+      "1 lata de leite condensado",
+      "2 gemas",
+      "1/2 colher (café) de noz-moscada",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Triture no liquidificador a bolacha, derreta a margarina e misture até formar uma massa",
+      "Forre a uma forma de 25 cm com papel-manteiga, estique a massa e reserve.",
+      "Recheio:",
+      "Misture todos ingredientes no liquidificador e coloque na forma, leve ao forno até ficar levemente dourado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA ROSSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312410-torta-de-ricota.html"
+}

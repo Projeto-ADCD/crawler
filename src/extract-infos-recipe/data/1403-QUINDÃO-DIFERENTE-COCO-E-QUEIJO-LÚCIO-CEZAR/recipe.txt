@@ -1,0 +1,28 @@
+{
+  "nome_receita": "QUINDÃO DIFERENTE ( COCO E QUEIJO ) LÚCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "200 g de coco ralado",
+      "200 ml de leite de coco",
+      "100 g de queijo parmesão ralado",
+      "1 colher (sopa) bem cheia de manteiga",
+      "16 colheres (sopa) bem cheias de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma vasilha os ovos, o leite de coco e a manteiga e misture bem.",
+      "Adicione o coco ralado, queijo parmesão e o açúcar refinado peneirado misturando bem.",
+      "Unte uma forma (de preferência com furo no meio) com manteiga e polvilhe açúcar cristal.",
+      "Coloque a massa e deixe descansar por 30 minutos.",
+      "Leve ao forno baixo até dourar.",
+      "Espere esfriar para desenformar.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308516-quindao-diferente-coco-e-queijo-lucio-cezar.html"
+}

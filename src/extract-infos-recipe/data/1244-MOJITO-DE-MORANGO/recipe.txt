@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MOJITO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de rum",
+      "90 ml de refrigerante de limão (se não tiver pode colocar tônica )",
+      "6 folhas de hortelã",
+      "7 morangos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o morango com hortelã",
+      "Depois adicione o rum e o refrigerante",
+      "Misture e sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309252-mojito-de-morango.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO DE QUEIJO RALADO E REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de farinha de trigo",
+      "1/3 xícara (chá) de manteiga (em temperatura ambiente)",
+      "1/2 xícara (chá) de queijo parmesão ralado",
+      "2 colheres (sopa) de requeijão light"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a manteiga, o requeijão e o queijo ralado",
+      "Acrescente a farinha aos poucos",
+      "Amasse com as mãos até obter uma massa uniforme, deverá dar ponto de enrolar",
+      "Modele a massa com o formato que preferir",
+      "Disponha os biscoitos em uma forma (não precisa untar)",
+      "Asse em forno pré aquecido a 200° C até os biscoitos ficarem corados (aproximadamente 35 minutos)."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "MARIANA ZILLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306721-biscoito-de-queijo-ralado-e-requeijao.html"
+}

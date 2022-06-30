@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BISCOITINHOS DE GOIABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo",
+      "150 g de manteiga",
+      "1 xícara (chá) de açúcar",
+      "3 colheres (sopa) de água",
+      "150 g de goiabada firme cortada em tiras finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa, coloque os ingredientes e amasse até desgrudar da mão",
+      "Faça pequenos biscoitos um pouco maiores de uma moeda de um real.",
+      "Com o dedo mindinho, afunde um pouco o meio do biscoito.",
+      "Coloque um pedaço de goiabada e passe no açúcar.",
+      "Como o biscoito é muito delicado, o tempo de assar depende da potência do forno.",
+      "Asse em forno preaquecido em fogo médio por 15 minutos.",
+      "Pode ser feito em forno elétrico também."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "36 PORÇÕES",
+  "autor": "BETANIA SERRANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313072-biscoitinhos-de-goiaba.html"
+}

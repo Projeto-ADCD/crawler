@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE LEITE CONDENSADO COM LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de açúcar",
+      "2 e 1/2 latas de suco de laranja (use a lata de leite condensado vazia para medir)",
+      "1 lata de leite condensado",
+      "4 ovos",
+      "1 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "CARAMELO": [
+      "Em uma panela, coloque o açúcar, 1/2 lata de suco de laranja e leve ao fogo médio. Deixe ferver até que fique com cor de caramelo e retire do fogo",
+      "Espalhe em uma fôrma grande de buraco no meio e reserve."
+    ],
+    "PUDIM": [
+      "No liquidificador, bata o leite condensado, o suco de laranja restante, os ovos e a maisena até ficar homogêneo.",
+      "Despeje na fôrma caramelada e leve ao forno médio, preaquecido, em banho-maria, por 40 minutos ou até firmar. Retire do forno, deixe esfriar e leve à geladeira por 4 horas",
+      "Retire, desenforme e sirva.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA MARCELINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310213-pudim-de-leite-condensado-com-laranja.html"
+}

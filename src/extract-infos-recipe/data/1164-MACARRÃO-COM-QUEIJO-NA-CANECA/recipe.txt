@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO COM QUEIJO NA CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de macarrão argola (240 ml)",
+      "1 xícara de água (240 ml)",
+      "1 pitadinha de sal",
+      "3 colheres (sopa) de queijo mussarela ralado",
+      "1 colher (sopa) de queijo parmesão ralado",
+      "2 colheres (sopa) de requeijão",
+      "pimenta-do-reino a gosto",
+      "80 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o macarrão, a água e o sal em um xícara",
+      "Misture bem e leve ao micro-ondas por 3 minutos",
+      "Misture novamente para soltar o macarrão",
+      "Junte os queijos ralados, pimenta-do-reino a gosto, leite e requeijão",
+      "Misture bem e leve ao micro-ondas de 30 segundos a 1 minuto."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309523-macarrao-com-queijo-na-caneca.html"
+}

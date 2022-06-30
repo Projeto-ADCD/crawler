@@ -1,0 +1,30 @@
+{
+  "nome_receita": "RISOTO DE AÇAFRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de arroz arbóreo ",
+      "20 g de açafrão em pó ",
+      "50 g de manteiga com sal ",
+      "70 ml de vinho branco ",
+      "1 tablete de caldo de carne ",
+      "sal a gosto",
+      "queijo parmesão ralado a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Diluir o açafrão em 50 ml de água a temperatura ambiente.",
+      "Diluir o tablete de caldo de carne em 600 ml de água quente.",
+      "Em uma panela derreta a manteiga, e adicione o arroz. Misture bem.",
+      "Coloque o vinho e mexa até que fique pouco vinho.",
+      "Vá adicionando o caldo de carne em pequenas partes (aprox. 200 ml) e misturando.",
+      "Adicione o açafrão e o sal.",
+      "Mexa os ingredientes em fogo médio até que o arroz fique al dente.",
+      "Caso preferir, sirva com queijo parmesão ralado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAMILA B.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309125-risoto-de-acafrao.html"
+}

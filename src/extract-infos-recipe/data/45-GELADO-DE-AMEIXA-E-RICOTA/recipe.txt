@@ -1,0 +1,29 @@
+{
+  "nome_receita": "GELADO DE AMEIXA E RICOTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de ricota",
+      "500 ml de leite",
+      "1 lata de leite condensado",
+      "1/4 de xícara (chá) de leite em pó",
+      "200 ml de creme de leite",
+      "1 xícara (chá) de ameixas pretas sem caroço, picadas",
+      "1 sache de gelatina incolor e sem sabor",
+      "5 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a ricota esfarelada, o leite, o leite em pó, o leite condensado, o creme de leite e as ameixas.",
+      "Bata tudo muito bem.",
+      "Dissolva a gelatina nas 5 colheres de água em banho-maria.",
+      "Acrescente a gelatina ao liquidificador e continue batendo por uns minutos.",
+      "Coloque em taças ou em um recipiente maior e leve ao refrigerador por no mínimo 1 hora.",
+      "Se gostar, sirva coberto com calda de caramelo."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314719-gelado-de-ameixa-e-ricota.html"
+}

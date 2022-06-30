@@ -1,0 +1,41 @@
+{
+  "nome_receita": "COSTELINHA ESCONDIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca cozida",
+      "500 g de costelinha salgada",
+      "200 g de requeijão catupiri",
+      "2 caixas de creme de leite",
+      "200 g de mussarela",
+      "150 g de queijo parmesão ralado na hora",
+      "6 dentes de alho picados (massa)",
+      "3 dentes de alho picados (carne)",
+      "2 colheres de manteiga (margarina, não)",
+      "sal",
+      "açafrão",
+      "pimenta caiena ou calabresa",
+      "cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Após cozinhar a mandioca, amasse bem para ficar homogênea.",
+      "Na manteiga, frite o alho até dourar, adicione a mandioca e o requeijão, mexendo até se misturarem para em seguida, adicionar o creme de leite.",
+      "Quando estiver homogêneo, retire da panela e passe tudo por uma peneira, afim de tirar os fiapos e deixar como se fosse um purê. (Importante)",
+      "Adicione sal, açafrão e pimenta a gosto e cozinhe por mais alguns minutos.",
+      "Carne",
+      "Após dessalgar a carne, frite-a no alho, juntamente com os temperos em panela de pressão até dourar, cubra com água e deixe cozinhar por 30 minutos ou até que a carne se solte dos ossinhos.",
+      "Desfie a carne, removendo os ossos.",
+      "Montagem",
+      "Em um refratário, coloque uma camada de purê, uma de carne e sobre a carne, outra de purê.",
+      "Cubra com a mussarela e por cima, o parmesão ralado salpicando o cheiro verde sobre ele.",
+      "Leve ao forno (200° C) por 30 minutos e gratine pelo tempo necessário.",
+      "Combine com um bom vinho e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EDVALDO BINDELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312142-costelinha-escondida.html"
+}

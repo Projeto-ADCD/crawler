@@ -1,0 +1,43 @@
+{
+  "nome_receita": "RISOTO CHIQUE DE PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de arroz ",
+      "4 xícaras de água ",
+      "5 dentes de alho",
+      "1 cebola pequena, cortada em cubos pequenos",
+      "1 lata de seleta de legumes",
+      "300 g de carne moída (carne de segunda também fica ótimo)",
+      "1 gomo de linguiça calabresa, cortada em cubos",
+      "4 fatias de bacon, cortada em cubinhos",
+      "1 sachê de caldo de legumes",
+      "1 vidro de palmito (pupunha) em cubinhos",
+      "1 lata de milho verde",
+      "1 lata de ervilha",
+      "50 g de azeitonas sem caroço (ou um punhado na mão)",
+      "1 saquinho de queijo ralado (50 g)",
+      "1 colher (café) de páprica picante",
+      "1 colher (café) de páprica doce",
+      "orégano a gosto",
+      "salsinha e cebolinha a gosto (picadas)",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola, colocando em seguida a carne moída, deixando fritar um pouco.",
+      "Depois acrescenteo bacon, a calabresa e deixe dourar mais um pouco.",
+      "Após, coloca-se o arroz, misture bem, deixe refogar um pouco e em seguida,",
+      "Coloque 4 xícaras de água e deixe cozinhar por uns vinte minutos aproximadamente, ou até o arroz estiver cozido e no ponto",
+      "Acrescente os ingredientes restantes (com exceção da salsinha e cebolinha), mexa para ficar uniforme e deixe estabilizar por mais alguns minutos, entre cinco e sete minutos, aproximadamente.",
+      "Coloque a salsinha e cebolinha em cima do preparo, ainda na panela, mexa um pouco para misturar e por último, polvilhe com o queijo ralado, antes de servir.",
+      "E está pronto.",
+      "Coloque numa vasilha de vidro, pirex ou refratário.",
+      "Depois sirva com salada crua, feijão, farofa, ovo, cuscus, batata palha ou o que preferir."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VERGINIA LUIZA DENTELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310301-risoto-chique-de-palmito.html"
+}

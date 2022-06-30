@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BABKA OU PÃO DOCE RECHEADO DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "60 g de farinha de trigo ",
+      "30 g de açúcar",
+      "7 g de fermento biológico ",
+      "2 colheres (sopa) de leite ",
+      "3 ovos ",
+      "200 ml de leite ",
+      "540 g de farinha de trigo ",
+      "75 g de manteiga ",
+      "1 pitada de sal ",
+      "600 g de goiabada ",
+      "200 ml de água "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece misturando 60 g da farinha com o açúcar e o fermento",
+      "Adicione as colheres de leite e reserve por 15 minutos ",
+      "Enquanto isso, em outro recipiente, coloque os ovos, o leite, a farinha de trigo e o fermento reservado",
+      "Sove e misture com as mãos e adicione a manteiga aos poucos",
+      "Coloque a pitada de sal, misture e deixe a massa descansar por 1 hora e 30 minutos",
+      "Em uma panela, junte a goiabada e a água ",
+      "Derreta bem e deixe esfriar ",
+      "Enfarinhe uma superfície e abra bem a massa ",
+      "Passe o recheio por toda a massa e enrole ",
+      "Faça um corte com cuidado no topo do rolo recheado",
+      "Trance a massa aproveitando essa divisão que você fez ",
+      "Leve ao forno a 180° C por 25 minutos"
+    ]
+  },
+  "tempo_de_preparo": "175 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313802-babka-ou-pao-doce-recheado-de-goiabada.html"
+}

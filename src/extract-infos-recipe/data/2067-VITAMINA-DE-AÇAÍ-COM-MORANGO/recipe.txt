@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE AÇAÍ COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "1/2 xícara (chá) de leite gelado",
+      "4 morangos picados",
+      "suco de 1/2 limão espremido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306097-vitamina-de-acai-com-morango.html"
+}

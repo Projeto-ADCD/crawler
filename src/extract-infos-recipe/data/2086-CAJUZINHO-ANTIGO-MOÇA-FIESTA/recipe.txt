@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CAJUZINHO - ANTIGO MOÇA FIESTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 colheres (sopa) de margarina ou manteiga",
+      "1 xícara de amendoim torrado sem pele",
+      "2 colheres (sopa) de cacau",
+      "açúcar cristal para enrolar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as latas de leite condensado sem o rótulo dentro da panela de pressão, encha de água até cobrir a lata e passar uns 4 dedos de altura.",
+      "Feche e cozinhe por 30 minutos.",
+      "Desligue o fogo.",
+      "Retire as latas e deixe esfriar.",
+      "Não abra a lata até esfriar, de preferência espere até outro dia.",
+      "Abra as latas depois de frias.",
+      "Estará como um doce de leite.",
+      "Despeje numa panela.",
+      "Coloque no fogo médio e adicione os demais ingredientes (exceto açúcar) até desgrudar da panela.",
+      "Deixe esfriar.",
+      "Unte as mãos e faça bolinhas.",
+      "Passe no açúcar cristal.",
+      "E sirva!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAÍS DA COSTA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306056-cajuzinho-antigo-moca-fiesta.html"
+}

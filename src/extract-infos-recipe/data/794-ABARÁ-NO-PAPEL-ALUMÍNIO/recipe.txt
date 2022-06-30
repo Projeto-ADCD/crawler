@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ABARÁ NO PAPEL ALUMÍNIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de massa para abará (feijão fradinho moído)",
+      "1 xícara de camarão seco (240 ml)",
+      "1 xícara de amendoim torrado sem casca (240 ml)",
+      "2 cebolas médias",
+      "coentro a gosto",
+      "gengibre a gosto ",
+      "água para bater os ingredientes ",
+      "azeite e sal a gosto",
+      "100 g de camarão seco cortado ao meio",
+      "coentro picadinho "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes, exceto a massa de abará",
+      "Bata aos poucos caso tenha dificuldades.",
+      "Agora vamos colocar a massa do abará na batedeira e, em seguida, colocar a mistura que batemos no liquidificador. (usei o gancho de bater pão)",
+      "Bata por 5 minutos até ficar uniforme.",
+      "Agora chegou a vez do azeite de dendê. Coloque o azeite de dendê, mas não exagere. Coloque também os camarões cortados e o coentro, misture bem.",
+      "Acerte o sal",
+      "Corte pedaços de papel-alumínio e coloque de 3 a 4 colheres (sopa) do abará para enrolar, como na foto.(use a parte brilhante do papel alumínio para dentro)",
+      "Para cozinhar no vapor, pegue uma panela e adicione a água um pouco abaixo do meio e coloque em cima dela um escorredor de macarrão de alumínio. Arrume os pacotinhos no escorredor e deixe cozinhar por 40 minutos em fogo médio. Não esqueça de tampar para acelerar o processo. É importante também ficar de olho porque a água que está cozinhado seca, e você vai precisar repor até cozinhar totalmente.",
+      "Esse é o último passo! Como saber que está cozido? Ele cresce e fica firme, esse é o ponto.",
+      "Obs: Na hora de cozinhar no vapor, não coloque a panela com muita água, pois pode correr o risco de passar muita água pra dentro e vazar seu abará"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A massa do abará é bem baratinha, aqui em Salvador, por exemplo, custa R$ 4,00. Não sei fazer o processo de moer, por isso comprei."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DELÍCIAS DA TIA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311534-abara-no-papel-aluminio.html"
+}

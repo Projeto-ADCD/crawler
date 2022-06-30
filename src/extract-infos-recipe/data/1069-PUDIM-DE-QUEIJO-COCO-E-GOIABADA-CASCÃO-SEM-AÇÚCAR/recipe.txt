@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PUDIM DE QUEIJO, COCO E GOIABADA CASCÃO, SEM AÇÚCAR",
+  "ingredientes": {
+    "PUDIM": [
+      "3 ovos",
+      "2 xícaras de leite",
+      "1 coco grande",
+      "1 lata de leite condensado sem açúcar",
+      "150 g de queijo parmesão",
+      "150 g de queijo minas frescal",
+      "2 colheres (chá) de amido de milho"
+    ],
+    "CREME": [
+      "200 g de goiabada cascão sem açúcar",
+      "200 ml de água",
+      "200 g de requeijão",
+      "200 gs de creme de ricota"
+    ],
+    "FUNDO": [
+      "150 g de geleia de goiaba sem açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre o fundo de uma forma de pudim com a geleia de goiaba sem açúcar - somente o fundo.",
+      "Bata todos os ingredientes do pudim no liquidificador até que fique homogêneo.",
+      "Despeje na forma de pudim sobre a geleia vagarosamente",
+      "Cubra com papel-alumínio e asse em banho-maria por uma hora. Retire o papel-alumínio e asse mais até que esteja dourado.",
+      "Deixe esfriar.",
+      "Leve à geladeira"
+    ],
+    "CREME": [
+      "Bata a goiabada cascão picada com a água no liquidificador. Se necessário acrescente mais água.",
+      "Leve ao fogo mexendo sem parar até ferver e engrossar a ponto de doce.",
+      "Acrescente o requeijão e o creme de ricota sempre mexendo até que engrosse novamente, esteja homogêneo e borbulhe.",
+      "Deixe esfriar e leve a geladeira.",
+      "Desenforme o pudim em uma travessa que tenha bordas altas",
+      "Ponha o creme nas laterais"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ENDERSON DE SOUZA ULIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310136-pudim-de-queijo-coco-e-goiabada-cascao-sem-acucar.html"
+}

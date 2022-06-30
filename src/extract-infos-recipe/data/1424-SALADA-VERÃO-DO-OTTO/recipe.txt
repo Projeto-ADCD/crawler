@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA VERÃO DO OTTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates vermelhos",
+      "2 latas de sardinha no óleo",
+      "1 lata de ervilhas",
+      "2 colheres (sopa) de azeitonas",
+      "4 colheres (sopa) de maionese",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ingredientes numa vasilha que possa ir à geladeira (use as azeitonas  fatiadas).",
+      "Misture e tempere a gosto.",
+      "Em seguida cubra com a maionese e leve à geladeira.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "OTTO RUBENS HENNE JUNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308423-salada-verao-do-otto.html"
+}

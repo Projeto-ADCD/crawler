@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CALDEIRADA DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas ",
+      "1 lata média de atum",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 Lata de ervilha",
+      "1/2 xícara de azeite",
+      "1 cubo de caldo de galinha",
+      "sal a gosto",
+      "1/2 xícara de arroz"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o alho a cebola coloque um fio de azeite e refogue, escorra o oléo do atum e reserve em seguida",
+      "Coloque o atum sobre o refogado tempere a gosto e coloque meio cubo de caldo de galinha e deixe cozinhar por 5 min",
+      "Em uma panela coloque água a ferver com sal e coloque as batatas cortadas ao cubo, em outra panela coloque água a ferver assim que levantar fervura",
+      "Coloque o arroz e deixe cozer depois de pronto escorra a água da batata e do arroz misture a batata ao atum acrescente o oléo do atum um pouquinho de água e deixe cozinhar por 2 min, lave o arroz",
+      "Prepare um refogado de azeite e alho misture no arroz juntamente com as ervilhas e está pronto a servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ELIANA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311477-caldeirada-de-atum.html"
+}

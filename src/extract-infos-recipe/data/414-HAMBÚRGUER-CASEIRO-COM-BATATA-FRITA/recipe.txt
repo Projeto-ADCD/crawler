@@ -1,0 +1,23 @@
+{
+  "nome_receita": "HAMBÚRGUER CASEIRO COM BATATA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Fast Food Bem Brasil",
+      "1 kg de carne moída",
+      "1 ovo inteiro",
+      "1 pacote de creme de cebola",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare a batata através do seu método de preferência, na airfryer ou por imersão no óleo",
+      "Misture bem os demais ingredientes, até formar uma massa homogênea",
+      "Porcione os hambúrgueres e depois é só fritar e servir com o pão e a salada de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312870-hamburguer-caseiro-com-batata-frita.html"
+}

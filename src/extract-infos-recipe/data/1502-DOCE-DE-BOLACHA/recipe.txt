@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCE DE BOLACHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de natas",
+      "1 lata de leite condensado",
+      "2 pacotes de bolacha maria"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as natas previamente no congelador cerca de 1 hora e 20 minutos",
+      "Bata as natas e quando já estiverem a ficar consistentes, junte com o leite condensado",
+      "Triture as bolachas",
+      "Por fim, numa taça, coloque alternadamente uma camada de bolacha triturada e uma do preparado das natas e do leite condensado",
+      "Coloque no freezer e sirva fresco"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HUGO FAIFE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308003-doce-de-bolacha.html"
+}

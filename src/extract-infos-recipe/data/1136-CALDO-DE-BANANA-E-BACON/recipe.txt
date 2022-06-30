@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CALDO DE BANANA E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas maduras",
+      "1/2 copo de água",
+      "1 colher de manteiga",
+      "1/2 unidade de cebola picada",
+      "2 dentes de alho amassado",
+      "500 g de bacon em cubos",
+      "sal a gosto",
+      "pimenta a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as bananas com casca numa panela grande e cozinhe por 20 minutos",
+      "Descaque as bananas, coloque no liquidificador, acrescente a água, bata até não restar nenhum pedacinho inteiro e reserve",
+      "Coloque a manteiga, a cebola e o alho em uma panela e refogue (não pare de mexer). Em seguida acrescente o bacon e misture até ele fritar totalmente",
+      "Acrescente na panela a banana batida, acrescente sal e pimenta (opcional) e misture",
+      "E pronto! Aproveite seu delicioso caldo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JULIA SOUZA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309686-caldo-de-banana-e-bacon.html"
+}

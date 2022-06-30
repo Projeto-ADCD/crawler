@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de açúcar mascavo",
+      "1/2 xícara (chá) de açúcar refinado",
+      "1 xícara (chá) de leite",
+      "2 ovos",
+      "1/2 xícara (chá) de óleo",
+      "1 colher (chá) de cada uma das especiarias (eu uso canela em pó, cravo em pó, gengibre em pó e erva-doce)",
+      "2 colheres (sopa) de cacau em pó",
+      "2 colheres (sopa) de aveia",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (chá) de bicarbonato de sódio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, junte todos os ingredientes secos (exceto o fermento e o bicarbonato) e misture.",
+      "Para uma massa mais homogênea, passe na peneira a farinha de trigo e o cacau em pó.",
+      "Adicione cada um dos ingredientes molhados e misture também até ficar tudo homogêneo e incorporado.",
+      "Não bata demais a massa pois isso ativa o glúten da farinha de trigo e o bolo pode solar.",
+      "Por fim, adicione o fermento em pó e o bicarbonato de sódio e misture mais um pouco até ficar tudo homogêneo.",
+      "Leve para assar em forno médio preaquecido a cerca de 220° C por 40 minutos ou até que o bolo fique dourado por cima.",
+      "Para saber se está totalmente assado, fure o bolo com um palito. Se o palito sair limpo, então já está pronto.",
+      "Dica: você pode adicionar à massa diversos outros ingredientes para dar mais sabor e/ou valor nutritivo, como uva passa, banana cortada em rodelas ou tiras, farinha de chia, chocolate meio amargo picado, castanhas bem picadinhas etc.",
+      "Dica 2: quando for untar a forma, ao invés de usar manteiga e farinha de trigo, pode usar manteiga e açúcar. O bolo não vai grudar e ainda ficará com uma crostinha de açúcar queimado."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALINE CANDIDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306123-bolo-de-especiarias.html"
+}

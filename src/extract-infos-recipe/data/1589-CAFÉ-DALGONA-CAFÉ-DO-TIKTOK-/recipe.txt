@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAFÉ DALGONA (CAFÉ DO TIKTOK)",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres de café soluvel",
+      "4 colheres de açucar",
+      "4 colheres de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mistura todos os ingredientes em uma vasilha com ou uma batedeira ou colher",
+      "Bata por 15 minutos",
+      "Depois coloque em um copo com leite quente ou gelado.",
+      "Ou você pode bater no liquidificador"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAULO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307496-cafe-dalgona-cafe-do-tiktok.html"
+}

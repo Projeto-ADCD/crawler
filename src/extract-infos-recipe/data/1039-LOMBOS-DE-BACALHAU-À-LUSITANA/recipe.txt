@@ -1,0 +1,36 @@
+{
+  "nome_receita": "LOMBOS DE BACALHAU À LUSITANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de lombo de bacalhau Riberalves (3 lombos - 1 kg)",
+      "500 ml de azeite português extra-virgem",
+      "400 g de cebola pérola (ou chalotas)",
+      "200 g de azeitonas verdes fatiadas",
+      "4 folhas de louro",
+      "4 dentes graúdos de alho",
+      "500 g de batata calabresa pré-cozidas com casca",
+      "1 maço de cheiro-verde bem picado",
+      "sal e pimenta branca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descongele os lombos com antecedência na geladeira.",
+      "Em uma frigideira funda, aqueça 400 ml de azeite, junte as folhas de louro e os dentes de alho inteiros com casca.",
+      "Enquanto o azeite aquece, seque bem os lombos de bacalhau com papel-toalha, tomando cuidado para manter os lombos íntegros.",
+      "Tempere levemente com a pimenta branca e quando as folhas de louro começarem a fritar no azeite - indicando que o azeite atingiu a temperatura ideal – entre com o lombo temperado na frigideira.",
+      "Frite um por um de todos os lados até ficar bem dourado, virando com cuidado para não desmanchar. Retire-os do azeite e reserve.",
+      "Com as batatas calabresa pré-cozidas, amasse-as levemente tomando cuidado para que não desmanchem. Frite-as no mesmo azeite em que o bacalhau foi frito até ficarem bem douradas.",
+      "Retire-as e reserve-as num bowl com o cheiro-verde bem picado, misturando até que todas fiquem cobertas com cheiro-verde.",
+      "Tempere com sal e reserve.",
+      "O mesmo será feito com as cebolas. Corte em 4 e debulhe-as em pétalas, que serão rapidamente misturadas com as azeitonas e fritas rapidamente na mesma frigideira com azeite (a essa altura, adicione mais azeite, se necessário).",
+      "Serão fritas somente o suficiente para ficarem translúcidas. Reserve.",
+      "Monte cada prato individualmente. No fundo as batatas ao murro temperadas, as cebolas com azeitonas por cima e por cima de tudo o lombo de bacalhau frito.",
+      "Decore com pétalas de cebola mais bonitas, um pouco de cheiro-verde e regue tudo com azeite fresco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310283-lombos-de-bacalhau-a-lusitana.html"
+}

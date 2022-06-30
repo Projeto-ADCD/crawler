@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TORTA DE FRANGO DE LIQUIDIFICADOR CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "2 copos (americano) de leite",
+      "1 copo (americano) de óleo",
+      "2 copos (americano) de trigo com fermento",
+      "1/2 caixinha de creme de leite",
+      "1/2 lata de milho sem a água",
+      "50 g de mussarela",
+      "50 g de parmesão",
+      "1 colher (sopa) rasa de sal",
+      "Recheio",
+      "1 kg de peito de frango",
+      "1/2 caixinha de creme de leite",
+      "1 copo de requeijão cremoso dividido em duas partes (3 colheres para a massa e o restante para cobrir a torta)",
+      "1/2 lata de milho",
+      "cheiro-verde a gosto",
+      "azeitona a gosto",
+      "palmito picado a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Bater todos os ingredientes da massa no liquidificador.",
+      "Recheio:",
+      "Cozinhar o peito de frango com temperos a gosto. Desfiar.",
+      "Após desfiar, acrescentar ao frango o restante dos ingredientes ( 1/2 caixinha de creme de leite, 1/2 lata de milho, azeitonas picadas, cheiro verde, 2 colheres cheias de requeijão cremoso). Reserve o restante do requeijão.",
+      "Montagem:",
+      "Unte uma assadeira com azeite.",
+      "Coloque a metade da massa.",
+      "Coloque o recheio de frango.",
+      "Salpique colheradas do restante do requeijão cremoso.",
+      "Cubra com o restante da massa.",
+      "Leve para assar em forno pré aquecido a 180 graus por cerca de 45 minutos até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JANAINA VITÓRIA LAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309068-torta-de-frango-de-liquidificador-cremosa.html"
+}

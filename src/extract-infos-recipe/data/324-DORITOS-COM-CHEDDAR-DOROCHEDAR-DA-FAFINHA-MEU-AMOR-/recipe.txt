@@ -1,0 +1,27 @@
+{
+  "nome_receita": "DORITOS COM CHEDDAR (DOROCHEDAR DA FAFINHA MEU AMOR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Doritos",
+      "140 g de cheddar processado ",
+      "100 g de pepperoni",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) rasa de amigo de milho",
+      "1 colher de manteiga",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o pepperoni em pedaços pequenos e refogue ate dourar em fogo baixo levemente junto da manteiga.",
+      "Coloque-os de lado e no oleo da panela adicione o amido de milhoe mexa bem para misturar.",
+      "Quando a farinha dissolver, adicionar o creme de leite aos poucos mexendo sem parar, e em seguida adicionar o cheddar.",
+      "Apos derretido o cheddar, adicionar sal e pimenta-do-reino a gosto.",
+      "Após isso, espere esfriar um pouco e coma molhando o doritos no creme."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GUILHERME RENNÓ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313175-doritos-com-cheddar-dorochedar-da-fafinha-meu-amor.html"
+}

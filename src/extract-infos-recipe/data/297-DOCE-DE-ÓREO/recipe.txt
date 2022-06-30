@@ -1,0 +1,30 @@
+{
+  "nome_receita": "DOCE DE ÓREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito Óreo ",
+      "1 xícara de leite frio",
+      "1 colher (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Primeiramente, separe o recheio da bolacha/biscoito.",
+      "Após isso, coloque a bolacha/biscoito em um pote e amasse tudo com um socador de caipirinha até virar uma espécie de pó.",
+      "Adcione 200 ml do leite e misture tudo com uma colher.",
+      "Coloque na geladeira por 30 minutos."
+    ],
+    "RECHEIO": [
+      "Pegue o recheio que voce separou e misture com os 50 ml de leite restantes."
+    ],
+    "MONTAGEM": [
+      "Coloque um pouco da massa no fundo de um pote e, em cima, coloque o recheio, depois coloque outra camada de massa por cima.",
+      "Após isso, polvilhe o leite em pó por cima.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313322-doce-de-oreo.html"
+}

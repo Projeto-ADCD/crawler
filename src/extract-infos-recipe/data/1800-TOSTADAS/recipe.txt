@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TOSTADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 Xícaras de farinha de trigo",
+      "1/2 Xícara de açúcar",
+      "1/2 Colher (sopa) de fermento em pó",
+      "1/2 Colher (sopa) de canela em pó",
+      "1/2 Colher (sopa) de de sal",
+      "1/2 Colher (sopa) de bicarbonato de sódio",
+      "1 Ovo",
+      "1/2 Colher (sopa) de baunilha (usei essência de baunilha)",
+      "açúcar de confeiteiro para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes secos (canela, farinha, sal, fermento, bicarbonato de sódio  e açúcar)",
+      "Depois adicione o Leite, o Ovo e a Baunilha e mexa até ficar uma massa (não pode ficar muito seca)",
+      "Se ficar seca, adicione um pouco mais de leite e amasse",
+      "Em seguida, estique a massa com um rolo ate ficar com mais ou menos 0,5cm e depois corte em quadrado não muito grande;",
+      "Então frite no óleo quente e depois escorra;",
+      "Por fim polvilhe o açúcar de confeiteiro por cima."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RAFAELLE CRISTINA OLIVEIRA SANTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306753-tostadas.html"
+}

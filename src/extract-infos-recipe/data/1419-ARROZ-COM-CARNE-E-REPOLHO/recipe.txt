@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ COM CARNE E REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de acém ou pá limpa e moída",
+      "2 xícaras de arroz",
+      "1 xícara de repolho",
+      "2 tomates ",
+      "1 cebola ",
+      "3 dentes de alho",
+      "1 folha de louro",
+      "sal a gosto",
+      "4 colheres (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure a carne no óleo quente até ficar soltinha.",
+      "Junte o alho batido e a cebola picada, refogue bem e acrescente o tomate picado, o arroz, o louro e o repolho.",
+      "Refogue por alguns minutos (mexa sempre) e adicione água fervente em quantidade necessária (5 a 6 xícaras).",
+      "Tempere com sal e, assim que começar a ferver, diminua o fogo e deixe cozinhar normalmente.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308442-arroz-com-carne-e-repolho.html"
+}

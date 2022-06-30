@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de trigo sem fermento",
+      "1 xícara de açúcar",
+      "1 xícara de fubá",
+      "1 xícara de óleo",
+      "1 xícara de leite",
+      "3 ovos",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento em pó",
+      "5 colheres (sopa) de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve separadamente o fermento e o chocolate.",
+      "Bata os demais ingredientes por alguns minutos.",
+      "Use uma forma untada e enfarinhada.",
+      "Coloque metade da massa na forma.",
+      "Com o chocolate e um pouco de leite faça uma pasta mole e coloque sobre a massa.",
+      "Por ultimo coloque o restante da massa.",
+      "Asse em forno preaquecido a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALDAIR GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307253-bolo-de-fuba-com-chocolate.html"
+}

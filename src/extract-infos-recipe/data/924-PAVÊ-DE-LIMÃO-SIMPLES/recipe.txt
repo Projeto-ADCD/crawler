@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ DE LIMÃO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "suco de 2 limões",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "1 caixa de preparo para chantilly",
+      "biscoito tipo maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque o suco de limão, o leite condensado e o creme de leite",
+      "Bata até misturar bem",
+      "Em um refratário acomode uma camada de biscoitos",
+      "Acrescente um pouco do creme por cima",
+      "Repita pra fazer a segunda camada",
+      "Leve à geladeira",
+      "Enquanto isso, bata em uma batedeira o preparo para chantilly por mais ou menos 4 minutos até aderir consistência.",
+      "Despeje o chantilly sobre o pavê, se desejar acrescente raspinhas de limão",
+      "Sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CYNTHIA CY_HOME",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310875-pave-de-limao-simples.html"
+}

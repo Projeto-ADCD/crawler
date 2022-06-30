@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COUVE-FLOR AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 couve-flor médio",
+      "2 colheres (sopa) de requeijão cremoso",
+      "2 ovos",
+      "100 g de mussarela",
+      "100 g de presunto",
+      "1 tomate sem pele bem picado",
+      "20 g de queijo parmesão ralado",
+      "2 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de molho inglês",
+      "manteiga para untar a forma",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela cozinhe a couve-flor ao vapor.",
+      "A couve-flor deve ficar \"al dente\".",
+      "Separe a couve-flor em florzinhas e distribua em um refratário untado com manteiga.",
+      "Polvilhe sal e pimenta a gosto sobre a couve-flor cozida.",
+      "Em uma travessa funda bata os ovos, o requeijão, o tomate picado, a salsinha e o molho inglês.",
+      "Acrescente sal e pimenta a gosto e misture tudo muito bem.",
+      "Pique o presunto e distribua sobre a couve-flor.",
+      "Distribua os ovos batidos sobre a couve-flor e cubra com as fatias de mussarela.",
+      "Polvilhe com o queijo parmesão ralado e leve ao forno, pré-aquecido, até gratinar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313268-couve-flor-ao-forno.html"
+}

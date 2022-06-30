@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAPPUCCINO DA LU",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de leite em pó",
+      "200 g de achocolatado",
+      "1 pacote de 50 g de café solúvel em pó",
+      "1 colher (sopa) rasa de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes.",
+      "Armazene a mistura em um pote bem fechado (uso de vidro)",
+      "1 colher (sopa) da mistura para cada 100 ml de água quente."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LU FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307245-cappuccino-da-lu.html"
+}

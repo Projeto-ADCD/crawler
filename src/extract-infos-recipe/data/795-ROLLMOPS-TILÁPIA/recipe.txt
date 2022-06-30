@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ROLLMOPS TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de tilápia pequenas limpas",
+      "5 cebolas pequenas",
+      "5 folhas de louro",
+      "20 grãos de pimenta",
+      "40 grãos de mostarda",
+      "1 litro de vinagre de álcool",
+      "Aprox. 1 kg de sal (para curar as sardinhas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Salgar os filés de Tilápia e deixar marinar por aproximadamente 30 minutos.",
+      "Lavar os filés e deixar numa tigela com água por aproximadamente 5 horas. Retirar da água e pincelar um pouco de mostarda no lado sem pele.",
+      "Colocar um pepino e uma fatia de chalote no meio do filé e enrolar tipo rocambole. Espetar com 2 palitos e colocar em vidro de conserva.",
+      "Ferver os 150 ml de água com o restante dos ingredientes para formar um caldo. Colocar esse caldo ainda quente no vidro de conserva e fechar.",
+      "Após esfriar, guardar na geladeira por 5 dias antes de consumir.",
+      "Servir frio."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311528-rollmops-tilapia.html"
+}

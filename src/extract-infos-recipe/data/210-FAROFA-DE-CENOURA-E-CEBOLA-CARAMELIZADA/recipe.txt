@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE CENOURA E CEBOLA CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras médias raladas",
+      "1 cebola grande cortada em fatias finas",
+      "2 dentes de alho",
+      "1 colher de sobremesa de açúcar",
+      "2 colheres de sopa de margarina ou manteiga",
+      "250g farinha de mandioca biju",
+      "50g de cebolinha e salsa picadas (opcional)",
+      "1/2 colher de café de sal",
+      "páprica picante a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela , derreter as duas colheres de manteiga . Em seguida acrescentar a cebola , o alho e o açúcar.",
+      "Quando estiver bem caramelizada a cebola , acrescentar a cenoura ralada e mexer por uns 3 minutos . Acrescentar a farofa , e os temperos (sal e páprica) e mexer bem. Por ultimo a cebolinha e salsa.",
+      "Caso queira a farofa mais sequinha , acrescentar mais farinha.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313940-farofa-de-cenoura-e-cebola-caramelizada.html"
+}

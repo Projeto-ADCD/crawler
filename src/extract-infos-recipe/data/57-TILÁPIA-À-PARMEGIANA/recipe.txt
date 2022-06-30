@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TILÁPIA À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de filé de tilápia ",
+      "suco de 1/2 limão ",
+      "sal e pimenta-do-reino a gosto",
+      "3 claras em neve",
+      "150 g de farinha panko",
+      "óleo ",
+      "1 fio de azeite ",
+      "1/2 cebola ",
+      "1 dente de alho ",
+      "340 g de molho de tomate ",
+      "salsinha a gosto ",
+      "sal a gosto ",
+      "pimenta a gosto ",
+      "mussarela a gosto ",
+      "cebolinha a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece temperando os filés com o limão, o sal e a pimenta ",
+      "Depois, passe eles nas claras e, logo após, na farinha panko",
+      "Com eles muito bem empanados, leve para fritar em óleo quente",
+      "Retire e reserve ",
+      "Em uma panela, coloque um fio de azeite, a cebola e o alho",
+      "Mexa e doure tudo muito bem",
+      "Junte o molho de tomate, o sal e a pimenta ",
+      "Mexa novamente e junte a salsinha",
+      "Em uma forma, acomode os filés e cubra tudo com o molho ",
+      "Coloque até 6 folhas de queijo mussarela por cima e leve ao forno",
+      "Asse a 220° C por 10 minutos",
+      "Retire, finalize com a cebolinha e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314644-tilapia-a-parmegiana.html"
+}

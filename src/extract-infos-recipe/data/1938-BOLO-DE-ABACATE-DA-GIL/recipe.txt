@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE ABACATE DA GIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos grandes",
+      "1/2 abacate grande ou 1 pequeno",
+      "1/2 limão grande",
+      "1 e 1/2 Xícara (chá) de açúcar",
+      "1/2 xícara (chá) de óleo de soja",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1 xícara (chá) de leite",
+      "4 colheres (sopa) de açúcar",
+      "1/2 limão grande",
+      "raspas da casca do limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "No copo do liquidificador pique o abacate e esprema o limão por cima.",
+      "Junte o açúcar,o sal,o óleo e os ovos. Bata até formar um creme.",
+      "Em uma tigela peneire a farinha e incorpore o creme batido delicadamente . Por último junte o fermento em pó e leve para assar em forma com furo central untada e enfarinhada em forno temperatura média por aproximadamente 40 minutos.",
+      "Cobertura",
+      "Leve ao fogo baixo o leite e o açúcar mexendo sempre até engrossar (ponto de um mingau grosso)",
+      "Desligue o fogo e deixe esfriar.",
+      "Junte o suco do limão, misturando bem.",
+      "Cubra o bolo e decorei com as raspas da casca do limão."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GILMARA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306369-bolo-de-abacate-da-gil.html"
+}

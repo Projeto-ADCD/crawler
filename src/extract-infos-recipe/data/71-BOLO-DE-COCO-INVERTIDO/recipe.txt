@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE COCO INVERTIDO",
+  "ingredientes": {
+    "CALDA ": [
+      "1 xícara de açúcar ",
+      "1/2 xícara de água ",
+      "1 polpa de maracujá ",
+      "100 g de coco ralado "
+    ],
+    "MASSA": [
+      "3 ovos ",
+      "1/2 xícara de óleo ",
+      "1 e 1/2 xícara de açúcar ",
+      "200 ml de leite de coco",
+      "1 e 1/2 xícara de farinha de trigo ",
+      "1colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Em uma panela, junte o açúcar e a água ",
+      "Quando começar a ferver, junte os outros ingredientes e mexa bem",
+      "Forre o fundo de uma forma com a mistura e reserve"
+    ],
+    "MASSA": [
+      "Em um liquidificador, vá colocando os ingredientes na ordem citada ",
+      "Com cuidado, bata tudo até se formar uma massa cremosa ",
+      "Coloque a massa delicadamente em cima da calda na forma ",
+      "Leve para assar por 30 minutos a 180 C° ",
+      "Dsenforme e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314601-bolo-de-coco-invertido.html"
+}

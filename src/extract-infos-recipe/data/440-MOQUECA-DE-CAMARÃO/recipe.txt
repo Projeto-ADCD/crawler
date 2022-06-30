@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MOQUECA DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de camarão descascado",
+      "50 ml de azeite de dendê",
+      "300 ml de água",
+      "200 ml de leite de coco",
+      "1 pimentão vermelho pequeno",
+      "1 pimentão amarelo pequeno",
+      "1 tomate grande",
+      "1 cebola média",
+      "4 dentes de alho",
+      "1 limão",
+      "cebolinha a gosto",
+      "coentro a gosto",
+      "sal a gosto",
+      "1 pitada de pimenta cominho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o camarão de molho no limão com meio copo de água por 10-15 minutos.",
+      "Corte o tomate, a cebola, e os pimentões em rodelas.",
+      "Também pique a cebolinha, coentro e dentes de alho.",
+      "Escorra a água com limão do camarão e misture com o sal e a pimenta cominho.",
+      "Leve para panela a cebola, os dentes de alho e acrescente os 50 ml de dendê para rechear. Após alguns minutos, adicione o camarão e os temperos verdes, cebolinha e coentro.",
+      "Quando o camarão estiver mais cozido (prove para saber) acrescente o tomate, os pimentões em rodelas e a água.",
+      "Deixe por cerca de 10 minutos e adicione o leite de coco. Sirva quente após 15-20 minutos cozinhando.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANA JÚLIA MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312825-moqueca-de-camarao.html"
+}

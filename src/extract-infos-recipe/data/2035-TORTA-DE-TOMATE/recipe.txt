@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "1/2 xícara (chá) de queijo parmesão ralado",
+      "1 e 1/2 xícara (chá) de leite",
+      "1/4 de xícara (chá) de óleo",
+      "2 ovos",
+      "1 colher rasa (sopa) de fermento em pó",
+      "4 tomates médios cortados em fatias finas",
+      "Sal e orégano a gosto",
+      "Manteiga para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma liquidificador, o leite, o óleo, os ovos, o queijo parmesão ralado, o fermento, o sal e a farinha.",
+      "Bata até obter uma mistura homogênea.",
+      "Em uma assadeira ou refratário médio, coloque a metade na massa.",
+      "Cubra com a metade dos tomates e tempere-os com sal e oregano.",
+      "Cubra com a outra metade da massa e por cima coloque os restantes dos tomates.",
+      "Tempere com sal e orégano.",
+      "Leve ao forno médio, pre-aquecido, por uns 35 minutos ou até dourar.",
+      "Sirva em seguida.",
+      "Se quiser pode acrescentar pimenta a massa da torta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306148-torta-de-tomate.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PICANHA À MODA COM CATUPIRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 kg de picanha aproximadamente",
+      "300 g de queijo catupiri",
+      "1 vidro de palmito ",
+      "2 tomates médios",
+      "1 cebola média ",
+      "3 dentes de alho",
+      "4 colheres de manteiga",
+      "2 fios de azeite",
+      "6 fatias de queijo mussarela",
+      "1 caldo de carne",
+      "cebolinha a gosto",
+      "glutamato de sódio a gosto",
+      "sal a gosto",
+      "pimenta preta moída na hora a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro passo",
+      "Corte a picanha em bifes de aproximadamente dois dedos de expessura",
+      "Coloque na frigideira 2 colheres de manteiga e um fio de azeite e ligue o fogo no alto",
+      "Tempere os bifes dos dois lados apenas com sal fino",
+      "Quando a frigideira estiver bem quente comece a fritar os bifes, deixe aproximadamente três minutos de cada lado. O ponto desejado é ao ponto para mal passado.",
+      "Frite todos os bifes, e ao terminar fatie cada um em filetes de aproximadamente um dedo. Reserve a carne.",
+      "Coloque no tacho (ou panela) duas colheres (sopa) de manteiga e o segundo fio de azeite. Ao aquecer, em fogo médio, coloque os dentes de alho fatiado e espere-os dourar. Acrescente a cebola em pétalas e deixe tampado até que ela fique transparente.",
+      "Adicione o tomate cortado em 6 e o palmito fatiado, e mantendo o fogo médio deixe tampado até o tomate desmanchar.",
+      "Coloque o caldo de carne, adicione a picanha fatiada, ajuste o tempero com o Ajinomoto o sal e a pimenta preta.",
+      "Deixe apenas 5 minutos no fogo para a carne não passar do ponto. Adicione o catupiry, deixe mais 2 minutos e então finalize com a mussarela por cima, tampe e a espere derreter. Desligue o fogo, finalize com a cebolinha por cima.",
+      "Agora é só se deliciar, serve muita bem 4 pessoas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Utensílios:\n1 frigideira\n1 tacho com tampa (ou uma panela com tampa caso não tenha)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LEONARDO ALVARENGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308786-picanha-a-moda-com-catupiry.html"
+}

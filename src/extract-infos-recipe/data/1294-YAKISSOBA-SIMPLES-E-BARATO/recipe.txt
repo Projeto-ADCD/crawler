@@ -1,0 +1,26 @@
+{
+  "nome_receita": "YAKISSOBA SIMPLES E BARATO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de frango",
+      "3 pacotes de macarrão instantâneo",
+      "150ml de molho shoyu",
+      "1/2 repolho roxo",
+      "1/2 repolho verde",
+      "1 cebola média"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os 2 repolhos em fatias pequenas. (separe)",
+      "Corte o frango em cubos, tempere a gosto (sem sal) e então coloque para dourar em uma frigideira. (separe)",
+      "Corte a cebola em rodelas finas. (separe)",
+      "Cozinhe o macarrão instantâneo apenas até o momento em que ele estiver se soltando uns dos outros.",
+      "Em uma panela grande coloque para refogar os repolhos e a cebola, em seguida acrescente o macarrão e o frango, e então misture tudo e enquanto faz isso vá acrescentando aos poucos o molho shoyu. Quando estiver toda a preparação misturada com o molho shoyu está pronto seu yakissoba."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ADRIELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309031-yakissoba-simples-e-barato.html"
+}

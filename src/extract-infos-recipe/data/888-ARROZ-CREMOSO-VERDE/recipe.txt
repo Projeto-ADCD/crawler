@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ARROZ CREMOSO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de arroz",
+      "500 g frango picadinho",
+      "1 caixinha creme de leite (300 ml)",
+      "1 maço de agrião"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz normal em uma panela.",
+      "Em outra panela adicione uma colher de azeite e refogue o frango adicionando temperos da sua preferência.",
+      "Quando estiver bem cozido, adicione o creme de leite e deixe até levantar fervura.",
+      "Pegue o maço de agrião bem lavado e pique groceiramente.",
+      "Em um recipiente grande faça a mistura do arroz cozido, frango cremoso e o agrião e sirva a vontade."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCIO OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311039-arroz-cremoso-verde.html"
+}

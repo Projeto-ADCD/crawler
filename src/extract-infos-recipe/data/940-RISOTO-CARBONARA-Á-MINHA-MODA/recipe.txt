@@ -1,0 +1,32 @@
+{
+  "nome_receita": "RISOTO CARBONARA Á MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates",
+      "1 cebola",
+      "1 fatia pimentão amarelo",
+      "1 xicara arroz arboreo",
+      "presunto, bacon ou salame",
+      "cebolinha",
+      "queijo parmesao",
+      "2 colheres de sopa de requeijão",
+      "azeite",
+      "sal a gosto",
+      "orégano",
+      "1/2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie 1 tomate em tiras e reserve, regue uma panela com azeite e coloque os tomares em tiras e coloque sal. Leve ao fogo baixo por 10 minutos sempre olhando e virando os tomates ate que fique em ponto de tomate seco.",
+      "O outro tomate pique em cubos e reserve em um recipiente, coloque junto a cebola picada, a cebolinha e os outros ingredientes selecionados picados (presunto, bacon OU salame)",
+      "Após dado o ponto, o tomate ficara meio mole por cima e por baixo gratinado, logo coloque o arroz arboreo na panela e mexa não sendo necessario colocar sal novamente.",
+      "Após o arroz ficar bem misturado ao tomate vá jogando agua aos poucos sempre em fogo baixo e mexendo até ir chegando ao ponto de risoto",
+      "Após chegar ao ponto de risoto, pegue os ingredientes reservados anteriormente e jogue os na panela e mexa bem, coloque o oregano, o limão, a cebolinha e o requeijão. Se necessário coloque sal, após mexer todos os ingredientes desligar o fogo e servir em prato fundo com o parmesão em cima."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ISABELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310808-risoto-carbonara-a-minha-moda.html"
+}

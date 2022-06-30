@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SANDUÍCHE DE FRANGO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango sem pele",
+      "2 colheres (sopa) de azeite",
+      "4 fatias de pão sírio",
+      "4 colheres (sopa) maionese",
+      "4 folhas grandes de alface",
+      "1/2 cebola roxa descascada e fatiada",
+      "2 tomates médios fatiados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte cada peito de frango na diagonal em seis pedaços e besunte-os com azeite",
+      "Aqueça bem uma bistequeira no fogão e frite cada pedaço de frango por 3 minutos de cada lado",
+      "Coloque a fatia de pão sobre um prato e passe metade da maionese",
+      "Acrescente uma fatia de alface sobre cada fatia de pão e espalhe por cima a cebola e o tomate",
+      "Coloque três pedaços de frango sobre cada fatia de pão e espalhe por cima a maionese restante",
+      "Dobre as laterais dos pães sobre o frango e prenda-as com um palito de dente."
+    ]
+  },
+  "tempo_de_preparo": "16 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310352-sanduiche-de-frango-delicioso.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ALHEIRA DE PEIXE DEFUMADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "637 g de peixe branco",
+      "160 g de pão dormido",
+      "80 ml de azeite de oliva extra virgem",
+      "10 g sal",
+      "2 g sal de cura tipo 1",
+      "10 g de alho",
+      "3 g pimenta do reino",
+      "80 ml de vinho branco seco",
+      "5 g salsinha",
+      "16 ml de água gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique bem o alho e refogue com o azeite. Adicione o peixe branco, tampe e cozinhe",
+      "Processe o vinho, a água, a pimenta do reino, o sal e o sal de cura no liquidificador, até que fique bem batido.",
+      "Rale o pão, e adicione ao peixe.",
+      "Misture todos os ingredientes e finalize com a salsinha bem picada",
+      "Deixe descansar por meia hora antes de embutir.",
+      "Embuta em tripa bovina seca hidratada, porções de 150g.",
+      "Defume individualmente tomando cuidado para não estourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309583-alheira-de-peixe-defumado.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PUDIM DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de goiabada",
+      "500 g de requeijão",
+      "300 g de creme de leite sem soro",
+      "4 ovos grandes (240 g)",
+      "Calda",
+      "300 gramas de goiabada",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre todo o interior de uma tigela refratária ou taças de porções individuais de vidro",
+      "com as fatias de goiabada e reserve.",
+      "Bata os demais ingredientes no liquidificador até ficar homogêneo e despeje na",
+      "tigela.",
+      "Leve ao forno médio preaquecido (180° C) por cerca de 30 minutos ou até dourar.",
+      "Coloque cubos da goiabada dentro do pudim.",
+      "Faça uma calda com a água e a goiabada.",
+      "Despeje por cima do pudim.",
+      "Sirva morno ou frio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306360-pudim-de-goiabada.html"
+}

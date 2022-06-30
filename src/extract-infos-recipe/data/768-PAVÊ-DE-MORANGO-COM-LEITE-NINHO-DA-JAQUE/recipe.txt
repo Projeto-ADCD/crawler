@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PAVÊ DE MORANGO COM LEITE NINHO DA JAQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 medidas da lata de leite integral",
+      "2 colheres (sopa) de amido de milho",
+      "1 xícara de leite em pó",
+      "1 caixa de creme de leite",
+      "1 pacote de biscoito de maisena",
+      "1 bandeja de morangos",
+      "leite em pó para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma panela o leite condensado, o amido de milho dissolvido no leite e o leite em pó.",
+      "Coloque em fogo médio até engrossar o creme, misturando constantemente para não queimar o fundo da panela.",
+      "Depois cubra o creme com um plástico para evitar formar película sobre o creme.",
+      "Espere esfriar para depois acrescentar o creme de leite. Misture até ficar um creme liso.",
+      "Os morangos devem ser lavados e picados.",
+      "Para a montagem, coloque uma camada do creme no fundo de uma travessa.",
+      "Depois faça uma camada de biscoito, em seguida outra camada de creme e distribua pedaços de morango.",
+      "Repita as camadas de biscoito, creme e morango até finalizar.",
+      "A última camada deve ser de creme, disponha os morangos e decore com leite ninho.",
+      "Deixe na geladeira por 8 horas para gelar, e depois sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JAQUELINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311645-pave-de-morango-com-leite-ninho-da-jaque.html"
+}

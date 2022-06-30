@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PIÑA COLADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 dose de rum (50 ml)",
+      "3 doses de suco de abacaxi (150 ml)",
+      "1 dose de leite de coco (50 ml)",
+      "1 dose de leite condensado (50 ml)",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o gelo em uma coqueteleira, adicione a dose de rum, o suco de abacaxi, o leite condensado e o leite de coco e chacoalhe por 2 minutos, até formar uma mistura homogênea.",
+      "Transfira o coquetel para um copo longo ou uma taça longa e sirva, se desejar, decorado com um pedaço de abacaxi."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GEOVANI NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311173-pina-colada.html"
+}

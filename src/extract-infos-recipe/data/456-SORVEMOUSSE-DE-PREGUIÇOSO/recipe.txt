@@ -1,0 +1,20 @@
+{
+  "nome_receita": "SORVEMOUSSE DE PREGUIÇOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de leite",
+      "6 colheres de leite em pó",
+      "2 colheres de achocolatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ingredientes em um liquidificador e bata tudo.",
+      "Depois adicione a um recipiente e deixe no congelador entre 3 a 4 horas."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BRUNO DAVID",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312787-sorvemousse-de-preguicoso.html"
+}

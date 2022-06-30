@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MUFFIN",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "1/2 colher (chá) de fermento em pó",
+      "1 pitada de sal",
+      "3 colheres (sopa) de manteiga em temperatura ambiente",
+      "1 xícara (chá) de açúcar",
+      "2 ovos",
+      "1 colher (chá) de essência de baunilha",
+      "1/2 xícara (chá) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno na temperatura média.",
+      "Bata na batedeira a manteiga e o açúcar na velocidade média até ficar fofo.",
+      "Adicione os ovos e a essência de baunilha.",
+      "Adcione os ingredientes secos peneirados.",
+      "Acrescente o creme de leite.",
+      "Asse na forminha de muffin/cupcake enchendo 3/4 de cada forminha.",
+      "Asse em forno 180° C por 20 minutos ou até que o palito saia seco.",
+      "Coloque cobertura se preferir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JULIANA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306124-muffin.html"
+}

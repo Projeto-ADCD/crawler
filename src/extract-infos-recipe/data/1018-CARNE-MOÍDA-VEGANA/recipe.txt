@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CARNE MOÍDA VEGANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 copos de grão-de-bico cozido",
+      "2 beterrabas",
+      "1 cebola",
+      "2 dentes de alho",
+      "5 colheres (sopa) de farinha de trigo",
+      "5 colheres (sopa) de aveia em flocos",
+      "pimenta moída",
+      "tomilho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e o alho e refogue com um fio de azeite ou de óleo.",
+      "Rale as beterrabas e coloque na panela com a cebola pra refogar.",
+      "Enquanto isso, liquidifique ou bata no processador o grão-de-bico até triturar bem.",
+      "Coloque em uma vasilha o grão-de-bico triturado, a beterraba refogada e a aveia em flocos.",
+      "Tempere com sal, pimenta, tomilho ou outros temperos de sua preferência.",
+      "Adicione a farinha de trigo aos poucos, até adquirir a consistência desejada para enrolar em bolinhas ou formar os hambúrgueres.",
+      "Pode ser congelada, assada ou frita."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "JÚLIA PROVENZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310433-carne-moida-vegana.html"
+}

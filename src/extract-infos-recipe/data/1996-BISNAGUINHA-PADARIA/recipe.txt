@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BISNAGUINHA PADARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1ª etapa",
+      "1,5 kg de farinha trigo",
+      "150 g de fermento biológico",
+      "6 ovos",
+      "500 ml de água",
+      "2ª etapa",
+      "1000 g de farinha de trigo",
+      "300 g de açúcar",
+      "300 g de leite em pó",
+      "250 g de gemas",
+      "25 g de sal",
+      "500 g de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a primeira etapa na batedeira e deixe descansar por aproximadamente 30 minutos",
+      "Depois acrescente a segunda etapa e misture muito bem até a massa dar ponto de véu",
+      "Estique a massa com uma espessura de 1 cm e corte no tamanho desejado",
+      "Arrum na assadeira e deixe descansar por aproximadamente 40 minutos",
+      "Asse em forno turbo por aproximadamente 5 minutos 170° C"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JULIANO JUNIOR DE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306231-bisnaguinha-padaria.html"
+}

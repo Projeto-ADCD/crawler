@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CHESTER RECHEADO COM FAROFA DE CASTANHA PORTUGUESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de Becel Amanteigado",
+      "1 dente de alho amassado",
+      "1/2 de cebola picada",
+      "1/2 de cenoura ralada",
+      "1 colher (chá) de sal",
+      "1 xícara de vinho branco seco",
+      "1 xícara de água",
+      "2 colheres (sopa) de manjericão fresco picado",
+      "1 xícara de castanha portuguesa picada",
+      "1/2 tomate sem semente picado",
+      "1 xícara de farinha de milho amarela",
+      "3 kg de chester",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré-aqueça o forno em temperatura média (180º C).",
+      "Forre uma assadeira grande (40 x 28 cm) com papel-alumínio, deixando uma borda nas laterais para cobrir. Reserve.",
+      "Em uma panela média aqueça Becel Amanteigado em fogo médio e refogue o alho e a cebola por 2 minutos.",
+      "Junte a cenoura, o sal, o vinho, a água, o manjericão e a castanha.",
+      "Acrescente o tomate, a farinha e cozinhe em fogo médio, mexendo sempre, por mais 3 minutos ou até engrossar e soltar da panela.",
+      "Recheie o chester, prenda com os palitos e amarre com o barbante. Coloque na assadeira reservada.",
+      "Em uma tigela pequena coloque Becel Amanteigado, o manjericão e misture. Besunte o chester com essa mistura.",
+      "Cubra com papel-alumínio e leve ao forno por 2 horas ou até ficar cozido.",
+      "Retire o papel-alumínio e asse por mais 30 minutos ou até dourar.",
+      "Retire do forno, decore a gosto e sirva a seguir.",
+      "Se preferir, besunte o chester com a mistura, entre a pele e a carne. Assim ficará mais temperado."
+    ]
+  },
+  "tempo_de_preparo": "160 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312046-chester-recheado-com-farofa-de-castanha-portuguesa.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PRESTÍGIO RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado (395 g)",
+      "1 xícara (chá) de leite",
+      "2 colheres (sopa) de amido de milho",
+      "100 g coco ralado",
+      "1 caixa de creme de leite (para o creme de coco)",
+      "6 colheres (sopa) achocolatado",
+      "1 caixa de creme de leite (para a cobertura de chocolate)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o amido de milho no leite, junte ao coco ralado, leite condensado, leve ao fogo, mexendo sempre e cozinhe por 6 minutos ou até ferver e engrossar.",
+      "Resfrie, leve à geladeira por alguns minutos. Reserve.",
+      "Para cobertura, aquecer uma caixa de creme de leite, acrescentar o achocolatado e levar ao fogo médio, mexendo sempre para dissolver e criar uma cobertura homogênea.",
+      "Distribua sobre o creme de coco e leve à geladeira. Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANDREIA RESENDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307008-prestigio-rapido.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CENOURA MESCLADO COM CHOCOLATE DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras picadas",
+      "1 xícara de óleo",
+      "3 ovos",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de açúcar",
+      "2 colheres (sopa) de fermento",
+      "2 colheres (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata as cenouras, os ovos e o óleo",
+      "Em uma vasilha, misture a farinha, o açúcar, a mistura do liquidificador e o fermento",
+      "Unte uma forma, e coloque a metade da massa",
+      "Na metade que sobrou, misture o chocolate em pó",
+      "Despeje o restante da mistura na forma, mais ao redor do furo da forma pra que fique com as duas cores",
+      "Asse em forno pré aquecido por aproximadamente 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313005-bolo-de-cenoura-mesclado-com-chocolate-de-liquidificador.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MANJAR DE COCO COM CALDA DE DAMASCO DIET",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê gelatina sem sabor",
+      "200 ml leite de coco",
+      "Lata creme de leite ou 2 caixinhas",
+      "1 colher de chá Essência de baunilha",
+      "3 colheres sopa Xilitol ou outro adocante culinario",
+      "50g Coco ralado seco sem açucar",
+      "CALDA",
+      "1 xícara (chá) de damascos secos",
+      "1 xícara (chá) de caldo de laranja",
+      "2 xícara (chá) de água",
+      "1 rama de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Hidratar a gelatina segundo instruções do rótulo",
+      "Bater o creme de leite, leite de coco, a essência, o adoçante e o coco ralado no liquidificador e por ultimo acrescentar a gelatina já hidratada",
+      "Despejar em uma forma com capacidade para 1litro e levar à geladeira por 2-3 horas",
+      "CALDA",
+      "Corte os damascos em cubos ou tiras e transfira para uma panela pequena. Adicione o caldo de laranja, a água, a canela em rama, misture e leve ao fogo médio.",
+      "Assim que ferver, abaixe o fogo e deixe cozinhar com a tampa entreaberta até reduzir e formar uma calda rústica – mexa de vez em quando.",
+      "Desligue o fogo e amasse um pouco os damascos ainda quentes para dar mais sabor à calda. deixe esfriar antes de colocar sobre o manjar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TANIA VASCONCELOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306640-manjar-de-coco-com-calda-de-damasco-diet.html"
+}

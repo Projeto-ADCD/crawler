@@ -1,0 +1,52 @@
+{
+  "nome_receita": "ARROZ CREMOSO DE AÇAFRÃO COM PICADINHO AO MOLHO DE VINHO",
+  "ingredientes": {
+    "PICADINHO": [
+      "óleo ",
+      "50 g de manteiga",
+      "1 cebola grande picada",
+      "dentes de alho",
+      "500 g de patinho em cubos",
+      "1 colher (chá) de páprica picante",
+      "1 colher (chá) de cominho em pó",
+      "pimenta do reino a gosto",
+      "um punhado de farinha de trigo",
+      "1 xícara de vinho tinto seco"
+    ],
+    "ARROZ": [
+      "óleo",
+      "1 colher (chá) de manteiga",
+      "2 dentes de alho",
+      "1 colher de sopa de açafrão",
+      "1 lata ou 2 caixinhas de creme de leite",
+      "sal a gosto",
+      "noz moscada a gosto",
+      "duas xícaras de arroz cozido",
+      "50 g de manteiga",
+      "água",
+      " "
+    ]
+  },
+  "passos": {
+    "PICADINHO": [
+      "Em uma panela funda, coloque um fio de óleo junto com a manteiga e, quando derreter, adicione a cebola, uma pitada de sal e o alho para refogar.",
+      "Tempere o patinho com sal a gosto, páprica picante, cominho e pimenta. Passe a carne na farinha de trigo, em um processo semelhante ao de empanar. A farinha auxilia a selar melhor a carne.",
+      "Mantendo em fogo alto, coloque a carne junto da cebola e do alho já dourados.",
+      "Coloque o vinho tinto na panela, formando um molho junto com o caldo que soltou da carne. Deixe em fogo baixo até encorpar"
+    ],
+    "ARROZ": [
+      "Coloque metade da manteiga em uma panela para dourar o alho. Nesse refogado, bote junto o açafrão.",
+      "Coloque o creme de leite, misture com cuidado para não queimar. Adicione sal a gosto e a noz moscada.",
+      "Com o fogo no mínimo, bote o arroz já cozido, mexa um pouco para incorporar ao refogado.",
+      "Apague o fogo e coloque o restante da manteiga. Acerte a cremosidade do arroz com água, deixando no ponto que você preferir.",
+      "Bote no prato junto com o picadinho e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode substituir o patinho por qualquer outra carne magra.\nUma ótima dica, caso queira acompanhar esse prato especial com uma bebida, é harmonizar com o mesmo vinho usado para o molho."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312948-arroz-cremoso-de-acafrao-com-picadinho-ao-molho-de-vinho.html"
+}

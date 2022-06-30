@@ -1,0 +1,27 @@
+{
+  "nome_receita": "GELEIA DE UVAIA DA VÓ HELENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Ingredientes:",
+      "1 l de uvaia batidas coadas",
+      "200 ml de água",
+      "800 g de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o líquido coado de uvaia no liquidificador.",
+      "Em panela própria ( cobre ou inox ) adicione o liquido obtido, junte o açúcar.",
+      "Leve ao fogo médio, mexendo, até o ponto de geléia.",
+      "Envase ainda quente em vidros esterilizados.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende 5 potes de 200 ml."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PEDRO COLON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309415-geleia-de-uvaia-da-vo-helena.html"
+}

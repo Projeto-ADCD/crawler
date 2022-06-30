@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MAIONESE VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão francês",
+      "2 gemas de ovos cozidas",
+      "1 punhadinho de salsinha",
+      "1 xícara de leite",
+      "suco de meio limão",
+      "sal",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Embeber um pão francês em leite gelado e reservar até que ele amoleça bem.",
+      "Depois, colocar o pão molhado no liquidificador, acrescentar as gemas e um pouco mais de leite gelado.",
+      "Bater tudo.",
+      "Em seguida, adicionar o óleo em fio no liquidificador na velocidade mais baixa que tiver.",
+      "Quando começar a encorpar, acrescentar a salsinha e continuar a bater."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JEFERSON ALONSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310593-maionese-verde.html"
+}

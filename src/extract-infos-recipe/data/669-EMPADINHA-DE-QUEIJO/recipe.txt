@@ -1,0 +1,31 @@
+{
+  "nome_receita": "EMPADINHA DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "14 colheres (sopa) de farinha de trigo",
+      "4 colheres de margarina",
+      "2 gemas",
+      "1 pitada de sal",
+      "Recheio",
+      "1/2 kg de queijo minas",
+      "1 copo de leite (medida de copo de requeijão)",
+      "1 colher (sopa) de margarina",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Amasse tudo muito bem e forre as forminhas.",
+      "RECHEIO",
+      "Bata tudo no liquidificador.",
+      "Acrescente em cima da massa mais não encher a forma colocar até a metade.",
+      "Levar para assar até ficar dourada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "80 PORÇÕES",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312074-empadinha-de-queijo.html"
+}

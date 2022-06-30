@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CALDO DE MANDIOCA E BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata Asterix",
+      "500 gr de mandioca",
+      "300 gr de bacon",
+      "400gr de calabresa",
+      "1/2 cebola",
+      "3 alho",
+      "1 lata de milho",
+      "Sal",
+      "Pimenta do reino",
+      "Cheiro verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque mandioca e as batatas para cozinhar deixar aproximadamente 30 minutos depois que pegar pressão",
+      "E outra panela adicione o bacon e calabresa cortadas em cubinhos deixe fritar até dourar",
+      "Logo em seguida adicione a cebola, alho e o milho .",
+      "Em seguida coloque a mandioca e batata já cozida para bater no liquidificador ,depois de batido adicione na panela junto ao bacon e a calabresa deixar ferver ,ajuste o sal e a pimenta depois só colocar o cheiro verde"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDA CRISANTE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316144-caldo-de-mandioca-e-batata.html"
+}

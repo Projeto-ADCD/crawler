@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE BANANA DIOCESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas maduras",
+      "2 xícaras de açúcar",
+      "1/2 xícara de água",
+      "1 lata de creme de leite",
+      "canela da índia a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as bananas e corte em rodelas.",
+      "Em uma panela, derreta o açúcar até formar um caramelo.",
+      "Acrescente a água e mexa até formar uma calda.",
+      "Acrescente as bananas, o creme de leite e a canela.",
+      "Deixe ferver em fogo baixo até apurar um pouquinho."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310645-doce-de-banana-diocese.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BACALHOADA DO PORTUGUÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "600g de bacalhau fresco ou BEM dessalgado",
+      "8 batatas médias",
+      "300ml de Azeite de Oliva Extra Virgem",
+      "azeitas à gosto",
+      "1 lata da palmito picado",
+      "Sal e Pimenta do reino à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "- Tempere o bacalhau com sal e pimenta do reito à gosto",
+      "- Coloque o bacalhau num prato e cozinhe-o no microondas por 5 min e reserve",
+      "- Descasque as batatas e cozinhe",
+      "- Numa travessa, coloque o bacalhau cozido e o desfie um pouco com a ajuda de 2 garfos. Depois regue com azeite de oliva",
+      "- Amasse um pouco as batatas com as mãos, e as misture ao bacalhau. Regue bem com azeite de oliva.",
+      "- Adicione as azeitonas e palmito, misturando bem e regando com azeite de oliva.",
+      "- Se necessário, corriga o tempero à gosto",
+      "- Leve ao forno pré-aquecido à 180 oC por alguns minutos para esquentar, pois durante a mistura dos ingredientes, ele pode esfriar um pouco.",
+      "- Ao tirar do forno, regue com o restante do azeite, misture bem e decore com cheiro verde.",
+      "- Arroz branco é um bom acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CHEF JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306663-bacalhoada-do-portugues.html"
+}

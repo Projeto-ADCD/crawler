@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO VERMELHO COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates médios",
+      "5 batatas grandes",
+      "5 colheres de molho de tomate",
+      "1 caixinha de creme de leite",
+      "sal a gosto",
+      "leite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas até ficarem bem moles.",
+      "Pique os tomates, logo em seguida frite.",
+      "Depois acrescente uma caixinha de creme de leite e 5 colheres de molho.",
+      "E deixe cozinhar",
+      "Depois que o molho cozinhou e as batatas ficaram moles coloque tudo na batedeira e bata até ficar um purê e seu molho estará pronto (opcional leite e margarina)",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA EDUARDA SCHWAN FRANK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308064-molho-vermelho-com-batata.html"
+}

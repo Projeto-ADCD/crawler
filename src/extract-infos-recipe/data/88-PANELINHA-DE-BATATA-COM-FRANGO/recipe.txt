@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PANELINHA DE BATATA COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas grandes (de preferência a rosa)",
+      "1 e 1/2 xícara (chá) de frango cozido e desfiado",
+      "1/2 xícara (chá) de queijo mussarela ralado",
+      "1 caixa de molho branco pronto (se preferir pode fazer o molho branco)",
+      "3 colheres (sopa) de salsinha picada",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as batatas no ralo grosso.",
+      "Aperte bem as batatas raladas para eliminar o excesso de líquido.",
+      "Tempere com sal e pimenta a gosto.",
+      "Forre, com a batata ralada, seis forminhas de empada e leve ao forno e asse até dourar.",
+      "Depois de assadas, desenforme e preencha as forminhas com o frango desfiado e temperado a gosto.",
+      "Por cima espalhe o queijo mussarela ralado e por cima de tudo o molho branco.",
+      "Leve ao forno quente, por uns 10 minutos para aquecer e derreter o queijo",
+      "Retire do forno e polvilhe com a salsinha picada.",
+      "Sirva como uma entrada ou acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314522-panelinha-de-batata-com-frango.html"
+}

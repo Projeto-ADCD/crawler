@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CARPACCIO DE SALMÃO COM QUEIJO E RÚCULA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 embalagem de carpaccio de salmão",
+      "2 colheres (sopa) de mostarda",
+      "1 limão verde",
+      "2 colheres (sopa) de azeite de oliva",
+      "4 folhas de rúcula",
+      "50 g de parmesão ralado",
+      "2 colheres (sopa) de alcaparras",
+      "150 g de torradas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem a mostarda, o azeite, o suco do limão até ficar homogêneo.",
+      "Em um prato circular, espalhe um pouco do molho e vá arrumando as fatias do carpaccio.",
+      "Coloque o restante do molho, salpique as alcaparras e o queijo parmesão.",
+      "No centro coloque a rúcula picada grosseiramente.",
+      "Sirva com as torradas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GLÁUCIA PEDREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306836-carpaccio-de-salmao-com-queijo-e-rucula.html"
+}

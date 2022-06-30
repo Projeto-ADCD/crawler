@@ -1,0 +1,43 @@
+{
+  "nome_receita": "ARROZ CREMOSO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de óleo",
+      "150 g de linguiça calabresa ",
+      "1 cebola",
+      "3 dentes de alho",
+      "1/2 pimentão vermelho",
+      "1 cenoura média",
+      "1/2 lata de milho verde sem a conserva",
+      "2 xícaras (chá) de arroz",
+      "1/2 colher (chá) de açafrão",
+      "1/2 colher (chá) de pimenta-do-reino",
+      "2 folhas de louro",
+      "1/2 colher (chá) de sal",
+      "3 xícaras (chá) de água morna",
+      "Finalização",
+      "200 gramas de requeijão cremoso",
+      "cheiro-verde a gosto",
+      "200 g de queijo mussarela",
+      "batata palha para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela de pressão o óleo, a calabresa picada, e refogue bem.",
+      "Acrescente a cebola picada, o alho picado e refogue novamente",
+      "Em seguida, adicione todos os ingredientes restantes (menos da finalização)",
+      "Misture até incorporar tudo.",
+      "Tampe a panela de pressão",
+      "Após a panela pegar pressão, deixe 3 minutos",
+      "Desligue o fogo e deixe a pressão sair sozinha.",
+      "Destampe com cuidado e acrescente todos os ingredientes restantes, exceto a batata palha",
+      "Misture bem para que a mussarela derreta no calor do arroz.",
+      "Transfira para uma travessa onde irá servir e finalize decorando com batata palha por cima a gosto. "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308443-arroz-cremoso-na-panela-de-pressao.html"
+}

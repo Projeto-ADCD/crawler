@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DO CHEF ERVILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de polvilho azedo",
+      "1 colher (sopa) de óleo ou azeite",
+      "1 xícara de leite",
+      "2 ovos",
+      "30 g queijo mussarela picado",
+      "20 g queijo parmesão ralado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, quebre os ovos.",
+      "Adicione o leite, oleo e bata no liquidificador",
+      "adicione aos poucos o polvilho, o queijo parmesão ralado, a mussarela e o sal.",
+      "Em seguida, coloque na frigideira ou na sanduicheira.",
+      "Eu faço sempre na sanduicheira e fica muito bom!",
+      "Prepare aquele cafezinho e sirva junto!",
+      "Hmm delicia!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALEX ERVILHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306293-pao-de-queijo-do-chef-ervilha.html"
+}

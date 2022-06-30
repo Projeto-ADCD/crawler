@@ -1,0 +1,34 @@
+{
+  "nome_receita": "HOTDOG CASEIRO CURITIBANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de vinas (salsicha) ",
+      "1 tomate",
+      "1 cebola",
+      "3 dentes de alho",
+      "1/2 pimenta malagueta",
+      "2 folhas de louro",
+      "1 pacote de molho de tomate",
+      "1 caldo de carne",
+      "sal a gosto",
+      "páprica a gosto",
+      "1 colher (sobremesa) de açúcar",
+      "óleo ou banha de porco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione as vinas na água fria e cozinhe as salsichas até começar a ferver, escorra e reserve.",
+      "As vinas podem ser picadinhas em rodelas, mas fica a seu critério. Pique a cebola, o alho, a pimenta e o tomate, bem pequenininhos.",
+      "Em uma panela, adicione um fio de óleo (ou 1 colher de banha de porco) até esquentar, então adicione a cebola, quando ela começar a dourar adicione o alho e a pimenta.",
+      "Quando a cebola estiver quase queimando, adicione o tomate, a páprica, o sal e o açúcar, misture tudo até ficar bem refogado, então coloque as folhas de louro e o molho de tomate.",
+      "Misture tudo até o molho perder bastante água, então coloque o caldo de carne, a salsicha e água fervente.",
+      "Deixe ferver em fogo médio por cerca de 12 minutos.",
+      "Desligue o fogo e delicie-se "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GUTO KRAFT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311353-hotdog-caseiro-curitibano.html"
+}

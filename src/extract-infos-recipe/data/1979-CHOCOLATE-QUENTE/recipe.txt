@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "5 colheres de achocolatado",
+      "2 colheres de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma leitera misture os ingredientes",
+      "Quando estiver fervendo, desligue",
+      "Sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MUNDO BITA BITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306282-chocolate-quente.html"
+}

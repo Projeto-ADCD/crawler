@@ -1,0 +1,48 @@
+{
+  "nome_receita": "SALMÃO DE FORNO DO RUBÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 salmão sem espinha 500 g",
+      "1 limão",
+      "1 colher de shoyu",
+      "cheiro-verde a gosto",
+      "alecrim a gosto",
+      "orégano ou manjerona",
+      "pimenta-do-reino a gosto",
+      "alho picado",
+      "1 copo de champignon",
+      "2 colheres de manteiga",
+      "azeite",
+      "5 tomates cereja",
+      "5 batatas al dente",
+      "2 cebolas em rodelas",
+      "1/2 pimentão em rodelas",
+      "sal a gosto",
+      "1 colher (chá) de páprica picante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Marinada",
+      "Coloque o salmão em uma vasilha com as seguintes ingredientes a gosto:",
+      "1 limão espremido, cheiro-verde picado, shoyu, azeite, alecrim, orégano, pimento-do-reino e sal a gosto (eu uso sal de parrilha na minha cozinha, aquele sal já temperado, fica bom e não salga tanto)",
+      "Deixe o salmão por uma hora nessa marinada.",
+      "Modo de preparo:",
+      "Forno preaquecido em 200° C",
+      "Cozinhe as batatas al dente, tire a pele e reserve.",
+      "Em uma frigideira, coloque duas colheres de manteiga e refogue o champignon, alho, tomate cereja e um pouco de cheiro-verde e reserve",
+      "Em uma travessa de vidro, vamos montar dessa forma:",
+      "Unte a travessa com azeite",
+      "Faça um cama de cebolas e pimentão",
+      "Coloque o salmão no meio da travessa e regue a mesma com resto da marinada",
+      "Coloque as batatas cortadas em volta do salmão, salpicando a páprica na mesma.",
+      "O refogado de champignon despeje em cima do salmão, espalhando para cobrir o mesmo",
+      "Coloque por 30 a 40 minutos no forno sem papel-alumínio",
+      "Sirva com farinha d'agua de bragança do Pará. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "RUBEM ESTEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307237-salmao-de-forno-do-rubao.html"
+}

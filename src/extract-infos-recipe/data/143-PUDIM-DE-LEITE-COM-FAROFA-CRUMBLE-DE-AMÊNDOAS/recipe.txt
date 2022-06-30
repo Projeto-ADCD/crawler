@@ -1,0 +1,47 @@
+{
+  "nome_receita": "PUDIM DE LEITE COM FAROFA CRUMBLE DE AMÊNDOAS",
+  "ingredientes": {
+    "CALDA": [
+      "250 g açúcar cristal",
+      "100 ml água"
+    ],
+    "PUDIM": [
+      "4 ovos",
+      "790 g de leite condensado",
+      "300 g de creme de leite",
+      "500 ml de leite",
+      "30 g de amido",
+      "Extrato de baunilha"
+    ],
+    "FAROFA CRUMBLE": [
+      "30 g de manteiga",
+      "30 g de amêndoa laminada",
+      "30 g de farinha de trigo",
+      "30 g de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para farofa crumble:",
+      "Em um recipiente, coloque a farinha de trigo, a manteiga, as amêndoas e o açúcar.",
+      "Misture com as mãos para massa ficar soltinha como uma farofa. Coloque em um refratário ou assadeira.",
+      "Asse em forno preaquecido por aproximadamente 20 minutos. Reserve.",
+      "Para Calda:",
+      "Em uma panela média, derreta o açúcar, até ficar completamente líquido.",
+      "Acrescente a água e mexa, cuidado para não se queimar.",
+      "Coloque no fundo da forma de pudim (espere esfriar).",
+      "Para o pudim:",
+      "Bata todos os ingredientes do pudim no liquidificador por 3 minutos.",
+      "Espere as bolhinhas do creme sumirem ou passe em uma peneira.",
+      "Coloque na forma, cubra com papel alumínio e leve ao forno médio em banho maria (com água quente) por 30 minutos.",
+      "Retire o papel alumínio e deixe no forno por aproximadamente 50 minutos.",
+      "Verifique se já está consistente para poder tirar do forno.",
+      "Deixe esfriar e leve a geladeira. Desenforme gelado.",
+      "Acrescente a farofa crumble e sirva."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANNA CORINNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314241-pudim-de-leite-com-farofa-crumble-de-amendoas.html"
+}

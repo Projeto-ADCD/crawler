@@ -1,0 +1,30 @@
+{
+  "nome_receita": "RAPI 10 SURIMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pequenos abacates",
+      "10 surimi",
+      "2 tomates pequenos",
+      "4 folhas de alface",
+      "1/2 limão",
+      "4 fatias Rapi10",
+      "3 colheres (sopa) de maionese",
+      "1 colher (chá) de raiz forte"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a polpa dos abacates em palitos de fósforo, limpe-os.",
+      "Corte os tomates em pequenos quadrados, depois de semeados.",
+      "Pique as folhas de alface .",
+      "Corte os palitos de surimi em tiras.",
+      "Misture a maionese e a raiz-forte.",
+      "Espalhe cada fatia do Rapi10 com o molho composto por maionese e raiz-forte. Em seguida, coloque alface. Arrume os abacate, as tiras de surimi e os tomates.",
+      "Enrole as fatias de Repi10 em si mesmas, apertando bem, depois corte os quatro rolos obtidos em três pedaços pequenos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311519-rapi-10-surimi.html"
+}

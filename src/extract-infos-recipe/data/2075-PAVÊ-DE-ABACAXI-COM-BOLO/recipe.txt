@@ -1,0 +1,46 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI COM BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA:",
+      "3 ovos",
+      "1 xícara (chá) de açúcar",
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "1/2 xícara (chá) água",
+      "1/2 colher (sopa) de fermento",
+      "CALDA/RECHEIO",
+      "1 abacaxi picado",
+      "1/4 de xícara de água",
+      "2 colheres (sopa) açúcar",
+      "CREME",
+      "1 lata de leite condensado",
+      "1 litro de leite",
+      "1 colher (sopa) de manteiga",
+      "200g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA:",
+      "Bata os ovos na batedeira, adicione aos poucos o açúcar, a farinha, a água e por último o fermento.",
+      "Coloque-a em uma forma untada (untar com o que tem preferência) e asse em um forno preaquecido a 200° C por aproximadamente 45 minutos.",
+      "Deixe esfriar, desenforme e corte-o em três camadas.",
+      "RECHEIO/CALDA:",
+      "Em uma panela coloque o abacaxi, o açúcar e a água.",
+      "Deixe cozinhar no fogo baixo até o abacaxi ficar macio.",
+      "Esfrie e use o caldo para molhar o bolo.",
+      "CREME:",
+      "Adicione em uma panela o leite condensado, o leite, o coco e a manteiga.",
+      "Mexa até engrossar e por último coloque o abacaxi feito com a calda/recheio.",
+      "MONTAGEM:",
+      "Em um refratário alterne a massa de bolo molhando com a calda/recheio do abacaxi com o creme de abacaxi.",
+      "Finalize com o creme o cubra com coco ralado.",
+      "Deixe na geladeira por 30 minutos.",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "-100 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MELISSA SOBRAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306087-pave-de-abacaxi-com-bolo.html"
+}

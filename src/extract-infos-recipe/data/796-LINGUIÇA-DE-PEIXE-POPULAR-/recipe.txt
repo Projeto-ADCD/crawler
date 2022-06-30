@@ -1,0 +1,29 @@
+{
+  "nome_receita": "LINGUIÇA DE PEIXE (POPULAR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne de peixe (misturinha) moída",
+      "100 g de toucinho ou bacon",
+      "30 g de sal",
+      "7 g de açúcar",
+      "5 g de colorau",
+      "2 g de pimenta-do-reino",
+      "50 g de amido ou polvilho",
+      "2 g de alho desidratado",
+      "150 ml de água gelada (pode ser gelo moído também)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passe pela máquina de moer a carne de peixe com todos os ingredientes, misture bem até formar uma pasta.",
+      "Embutir em sacos plásticos de “sacolé”.",
+      "Mergulhe as linguiças em água fervente por 15 minutos. Retire e coloque em água gelada.",
+      "Retire do saco para guardar",
+      "Pode ser defumada ou ir para a brasa."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311527-linguica-de-peixe-popular.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SAGU DE CARAMELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "1/2 xícara de sagu",
+      "1 xícara de água",
+      "3 xícaras de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o sagu para hidratar na xícara da água ate ele ficar mais molinho",
+      "Em uma panela, derreta o açúcar",
+      "Depois acrescente o leite",
+      "Quando o açúcar dissolver, coloque o sagu já hidratado e mexa até o sagu ficar transparente.",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EMILY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306605-sagu-de-caramelo.html"
+}

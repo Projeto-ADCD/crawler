@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FOCCACIA",
+  "ingredientes": {
+    "PARA O PÃO": [
+      "350 g de farinha de trigo",
+      "150 g de farinha de trigo",
+      "225 ml de água",
+      "150 ml de água",
+      "7,5 g de açucar",
+      "7,5 g de fermento biologico seco",
+      "40 g de azeite de oliva"
+    ],
+    "PARA A FINALIZAÇÃO": [
+      "20 g de azeite de oliva",
+      "10 g de alecrim fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl combine 150 g de farinha de trigo, 150 ml de água e 7,5 g de fermento biologico seco.",
+      "Misture bem, cubra com plástico filme e deixe fermentar em temperatura ambiente entre 1h30 e 2h00.",
+      "Em uma batedeira planetária com o gancho, adicione 350g de farinha de trigo 225ml de água e 7,5g de açúcar. Bata em velocidade baixa até virar uma massa homogênea.",
+      "Passado o tempo da fermentação, adicione a mistura de fermento à massa na batedeira. Bata por 7 minutos em velocidade máxima.",
+      "Diminua para velocidade baixa, e adicione o azeite aos poucos.",
+      "Quando a massa tiver incorporado todo o azeite, bata em valocidade máxima por mais 5 minutos.",
+      "Transfira para um bowl untado com azeite, e boleie",
+      "Fermente por uma hora",
+      "Amasse a massa e transfira para uma assadeira rasa de 30 cm por 60 cm, dobre as pontas para o mesmo lado e aperte juntando as abas.",
+      "Fermente por mais uma hora",
+      "Fure a massa com os dedos untados em azeite, regue com azeite de oliva e leve para assar",
+      "Asse a 220° C por 25 minutos ou até bem dourada"
+    ],
+    "PARA FINALIZAÇÃO": [
+      "Assim que sair do forno, pincele a mistura de azeite com alecrim bem picado, e deixe resfriar em uma superficie vazada."
+    ]
+  },
+  "tempo_de_preparo": "360 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309598-foccacia.html"
+}

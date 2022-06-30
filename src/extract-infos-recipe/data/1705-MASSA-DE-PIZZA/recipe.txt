@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MASSA DE PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo (aproximadamente)",
+      "500 ml de água morna",
+      "1 colher (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "40 ml de óleo",
+      "1 ovo",
+      "20 g de fermento biológico fresco (em tabletes)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande, adicione o fermento biológico fresco e o açúcar.",
+      "Misture os dois até entrar em reação e derreter completamente e ficar líquido.",
+      "Assim que derreter, adicione o ovo e o óleo e mexa.",
+      "Adicione a água e continue mexendo.",
+      "Adicione o sal e continue mexendo.",
+      "Adicione 80% da farinha de trigo e vá mexendo ainda com a colher.",
+      "Se necessário, adicione o restante.",
+      "Mexa com a mão até soltar das mãos.",
+      "Passe para a bancada e sove a massa por uns 10 minutos.",
+      "Faça uma bola e corte em 4 pedaços.",
+      "Deixe as 4 bolas de massa descansar por 40 minutos (com toalha úmida em cima).",
+      "Pode congelar, se quiser."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "WALISSON ROBERTO FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307101-massa-de-pizza.html"
+}

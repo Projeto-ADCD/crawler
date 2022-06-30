@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CAFÉ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de café solúvel",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de água quente",
+      "leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um prato fundo ou pote misture o café solúvel, o açúcar e a água morna",
+      "Misture bem até ficar homogêneo",
+      "Misture com um fouet até a mistura chegar a cor de café com leite",
+      "Coloque mais ou menos a mesma quantidade da mistura e do leite em uma caneca",
+      "Misture bem e coloque no micro-ondas por 30 segundos",
+      "Misture bem novamente",
+      "Se estiver sem açúcar, pode colocar até ficar ao seu gosto e pronto",
+      "Seu café cremoso está pronto",
+      "Espero que tenha gostado"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ISABEL RYE TOKUYOSI PELLEGRINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309639-cafe-cremoso.html"
+}

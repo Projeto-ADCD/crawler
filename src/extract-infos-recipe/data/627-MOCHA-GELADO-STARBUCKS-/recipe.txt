@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOCHA GELADO (STARBUCKS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "6 colheres (sobremesa) de açúcar",
+      "6 colheres (sobremesa) de achocolatado em pó",
+      "5 e 1/2 colheres (sobremesa) de café",
+      "1 e 1/2 colheres (café) de essência de baunilha",
+      "gelo (a seu gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador, e bata até triturar todo o gelo",
+      "Sirva a bebida em um copo e aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARINA CAMILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312271-mocha-gelado-starbucks.html"
+}

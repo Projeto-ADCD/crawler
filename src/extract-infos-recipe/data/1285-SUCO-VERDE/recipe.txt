@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SUCO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pepino caipira",
+      "1/2 chuchu pequeno",
+      "1 limão",
+      "hortelã a gosto",
+      "2 folhas de couve",
+      "1 pedaço pequeno de gengibre"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o pepino, use o suco do limão e o chuchu.",
+      "Coloque no liquidificador pilando",
+      "Depois de batido, acrescente hortelã, a couve e o gengibre",
+      "Com a ajude de um voal, coe e beba de manhã em jejum."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MICHELLE GOMES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309076-suco-verde.html"
+}

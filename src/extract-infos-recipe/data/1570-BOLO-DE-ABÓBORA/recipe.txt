@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "300 g de abóbora ",
+      "3 ovos",
+      "1 xícara de óleo",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de coco ralado",
+      "1 pitada de canela",
+      "1 colher de fermento químico",
+      "COBERTURA (não obrigatório)",
+      "1 colher de margarina",
+      "1 caixa de leite condensado",
+      "4 colheres de chocolate 40% (ou achocolatado)",
+      "100 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a abóbora em cubinhos no liquidificador juntamente com os ovos, óleo e o açúcar.",
+      "Bata por aproximadamente 5 minutos.",
+      "Despeje o líquido em uma tigela e adicione a farinha de trigo e bata.",
+      "Adicione o coco ralado, pitada de canela e o fermento químico e bata.",
+      "Despeje a massa em uma forma untada e enfarinhada, e coloque para assar por aproximadamente 35 minutos.",
+      "Cobertura",
+      "Em uma panela adicione a margarina, leite condensado, chocolate e o leite.",
+      "Mexendo sempre.",
+      "Assim que engrossar (antes do ponto de brigadeiro) tirar e cobrir seu bolo.",
+      "Prontinho agora é só servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KELLY PEDROSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307582-bolo-de-abobora.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "LASANHA COM MASSA DE PASTEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "azeite a gosto 1 cebola ",
+      "3 dentes de alho ",
+      "200 g de carne moída ",
+      "sal e pimenta-do-reino a gosto ",
+      "400 ml de molho de tomate ",
+      "cheiro-verde a gosto ",
+      "1 pacote de massa de pastel em rolo ",
+      "500 g de presunto ",
+      "500 g de mussarela ",
+      "1 pacote de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o azeite e a cebola para dourar ",
+      "Junte o alho e doure mais um pouco ",
+      "Junte a carne e misture tudo",
+      "Quando estiver bem dourada, junte o molho de tomate",
+      "Tempere com o sal e a pimenta e acrescente o cheiro-verde",
+      "Reserve",
+      "Em uma forma, forre o fundo com a carne ",
+      "Coloque uma folha de massa, presunto, queijo e mais carne",
+      "Repita o processo até o final, chegando no topo da travessa",
+      "Finalize com o queijo ralado e leve ao forno",
+      "Deixe a 180° de 15 a 25 minutos",
+      "Sirva ainda quente! "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314532-lasanha-com-massa-de-pastel.html"
+}

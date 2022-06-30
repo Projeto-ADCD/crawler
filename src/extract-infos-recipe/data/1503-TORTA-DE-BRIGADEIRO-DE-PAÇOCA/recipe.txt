@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE BRIGADEIRO DE PAÇOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito maisena",
+      "10 colheres de manteiga",
+      "1 lata de leite condensado ",
+      "2 xícaras de creme de leite ",
+      "4 colheres (sopa) de leite em pó",
+      "10 paçocas em rolha",
+      "400 g de doce de leite ",
+      "paçoca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture os biscoito muito bem.",
+      "Junte a manteiga derretida.",
+      "Misture e forme uma massa homogênea.",
+      "Coloque a massa no fundo de uma forma e leve ao freezer.",
+      "Em uma panela, junte o leite condensado, o creme de leite, o leite em pó e as 10 paçocas.",
+      "Misture tudo e retire quando chegar em ponto de brigadeiro. ",
+      "Coloque o doce de leite por cima da massa de biscoitos.",
+      "Por cima do doce de leite, junte o brigadeiro de paçoca.",
+      "Decore com paçoca triturada a gosto.",
+      "Leve à geladeira por 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307988-torta-de-brigadeiro-de-pacoca.html"
+}

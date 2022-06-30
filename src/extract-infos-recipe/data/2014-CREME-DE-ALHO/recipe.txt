@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CREME DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colher (sopa) maionese",
+      "100 ml de leite",
+      "2 dentes de alho",
+      "sal e orégano a gosto",
+      "óleo de soja até engrossar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos ingredientes no liquidificador",
+      "Vá adicionando óleo até pegar a consistência desejada"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "EMERSON HERCULANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306192-creme-de-alho.html"
+}

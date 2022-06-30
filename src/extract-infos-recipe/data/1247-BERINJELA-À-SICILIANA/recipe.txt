@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BERINJELA À SICILIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 berinjelas pequenas",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 xícara (chá) azeite",
+      "150 g manjericão fresco",
+      "100 g azeitona",
+      "sal a gosto",
+      "1 dente de alho (pra não ficar forte)",
+      "2 colheres (sopa) de molho inglês"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe separadamente a berinjela inteira e os pimentões sem as sementes cortados em tiras por 10 minutos",
+      "Escorra a água e deixe descansar por 20 minutos",
+      "Então tempere com o azeite, sal, molho inglês, manjericão e azeitonas",
+      "Deixe pegar o gosto",
+      "Deixe 30 minutos  na geladeira e sirva a vontade com o acompanhamento de sua preferência",
+      "Eu fiz com carne assada e ficou uma delícia ",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GIOVANA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309249-berinjela-a-siciliana.html"
+}

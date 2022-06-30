@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BOLO SALGADO DE PÃO DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 pacotes de pão de forma sem a casca (serão usadas 48 fatias)",
+      "1 kg de frango desfiado (dica: é fácil encontrar já pronto, congelado)",
+      "1 pote de maionese de 500 g ",
+      "1 cebola grande",
+      "1 cenoura média",
+      "1 tomate médio",
+      "1 lata ou caixinha de creme de leite",
+      "150 g de azeitonas verdes sem caroço",
+      "1 lata de milho verde",
+      "250 g de batata palha para decorar",
+      "tempero de alho e sal a gosto",
+      "óleo vegetal ou banha "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo do molho",
+      "Cozinhe o frango e separar (caso não tenha comprado o já cozido)",
+      "Pique a cebola em pedaços bem pequenos",
+      "Rale a cenoura na parte fina do ralador",
+      "Pique o tomate em pedaços pequenos, remova as sementes",
+      "Pique as azeitonas em pedaços pequenos",
+      "Remova as cascas do pão de forma (caso não tenha comprado pão sem casca)",
+      "Doure a cebola junto com um pouco de tempero de alho e sal, até que fique macia",
+      "Junte o tomate e acrescentar água até cobrir a mistura, para cozinhar o tomate",
+      "Acrescente água ao tomate e cebola até que o tomate esteja quase desmanchando, sem deixar secar muito",
+      "Junte o frango cozido ao tomate e cebola, acrescente mais água se necessário",
+      "Não deixe a mistura de tomate, cebola e frango secar muito. Cozinhe os três juntos para apurar o sabor",
+      "Quando estiver quase seco, adicione todo o creme de leite",
+      "Adicione 2 colheres (sopa), cheias de maionese",
+      "Misture bem, cozinhar um pouco e separar para esfriar",
+      "Após esfriar a mistura do frango, adicione a cenoura, o milho verde e as azeitonas",
+      "Misture bem e reserve",
+      "Preparado o bolo",
+      "Usaremos 48 fatias de pão, distribuídas em 3 linhas e 4 colunas. Serão 4 camadas de pão.",
+      "Divida o recheio em três partes iguais",
+      "Em uma forma ou assadeira, forre com 12 fatias de pão (3x4)",
+      "Pegue 1/3 do recheio já separado e distribua sobre os pães",
+      "Forre com outra camada e repita o processo até a quarta camada, que cobrirá o bolo",
+      "Com o bolo já montado, passar maionese por cima e em volta, para que os pães sejam cobertos",
+      "Após cobrir o bolo com maionese, grudar batata palha na parte de cima e nas laterais para decorar",
+      "Leve à geladeira e aguardar esfriar, antes de servir"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LEONARDO BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307166-bolo-salgado-de-pao-de-forma.html"
+}

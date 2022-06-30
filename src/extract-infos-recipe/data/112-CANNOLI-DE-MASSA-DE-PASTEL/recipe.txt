@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANNOLI DE MASSA DE PASTEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 caixa de creme de leite ",
+      "1/2 lata de leite condensado ",
+      "200 g de chocolate branco ",
+      "1/4 de pacote de massa de pastel",
+      "100 g de gotas de chocolate "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o creme de leite, o leite condensado e o chocolate branco",
+      "Misture bem e, quando engrossar e formar uma mistura homogênea, desligue e reserve",
+      "Com o auxílio de uma chaira ou pedaço de cilindro, enrole um pedaço grande de papel-alúminio, de modo que forme uma forminha de cannoli caseira (como mostra o vídeo)",
+      "Enrole as massas de pastel nessa forminha e leve para fritar ",
+      "Quando dourar, retire do óleo, espere esfriar um pouco e retire o papel de dentro",
+      "Misture as gotas de chocolate na mistura de chocolate branco ",
+      "Recheie seus cannolis e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314416-cannoli-de-massa-de-pastel.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MIOJO MAIS GOSTOSO DA INTERNET",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 macarrão instantâneo de sua preferência",
+      "1 ovo cozido e bem picado na faca",
+      "1/2 cebola ralada",
+      "1/2 tomate ralado",
+      "queijo ralado a gosto",
+      "extrato de tomate a gosto",
+      "manteiga pra refogar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão instantâneo (reserva o tempero sachê)",
+      "Em seguida escorra o macarrão",
+      "Em outra panela ponha meia colher de margarina, refogue a cebola e o tomate ralados",
+      "Acrescente o tempero do macarrão",
+      "Adicione o extrato de tomate, em seguida o queijo ralado e o ovo cozido e picado",
+      "Adicione o macarrão instantâneo e mexa ate os ingredientes se misturarem bem depois é só servir e bom apetite.",
+      "Sugestões:",
+      "Pode adicionar calabresa, bacon, carne seca.",
+      "Sirva com queijo parmesão.",
+      "Se for do seu gosto pode servir com pimenta calabresa."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANDRÉ MATIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311011-miojo-mais-gostoso-da-internet.html"
+}

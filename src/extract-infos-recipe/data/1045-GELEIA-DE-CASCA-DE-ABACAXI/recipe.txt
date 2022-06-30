@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GELEIA DE CASCA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "cascas de 1 abacaxi maduro",
+      "2 xícaras de água filtrada para bater no liquidificador",
+      "1 e 1/2 xícara de açúcar demerara",
+      "2 paus de canela",
+      "5 dentes de cravo",
+      "suco de 1 limão espremido."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as cascas com água no liquidificador",
+      "Passe para uma panela somente o líquido (use uma peneira comum)",
+      "Acrescente a esse líquido coado, o suco do limão, o açúcar, canela em pau e os dentes de cravo.",
+      "Leve ao fogo mexendo as vezes até dar o ponto de geleia. Depois de esfriar, passe para um copo de vidro e sirva com bolachas ou torradas."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAROL DÁVILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310255-geleia-de-casca-de-abacaxi.html"
+}

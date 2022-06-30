@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA DE PANQUECA PARA ENROLAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras (chá) de leite",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "3 colheres (sopa) de óleo",
+      "óleo",
+      "1 e 1/2 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por 7 minutos.",
+      "Esquente uma frigideira coloque um pouco de óleo.",
+      "Coloque massa pra cobrir toda a frigideira.",
+      "Quando a massa soltar da frigideira, vire a massa.",
+      "Obs: sempre que for fritar uma panqueca tem que colocar o óleo novamente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DARKSUNSHINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308372-massa-de-panqueca-para-enrolar.html"
+}

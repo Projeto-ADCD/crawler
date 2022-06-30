@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DELÍCIA DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 xícaras de chá de farinha de trigo",
+      "2 colheres de sopa de fermento biológico",
+      "2 ovos inteiros",
+      "1 xícara não cheia de óleo de soja",
+      "1 colher de sopa rasa de açúcar",
+      "1 colher de sopa rasa de sal",
+      "3 xícaras de chá bem cheias de leite morno"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o leite sem deixar ferver.",
+      "Coloque todos os ingredientes no liquidificador, exceto a farinha de trigo e bata por aproximadamente 3 minutos.",
+      "Despeje a mistura em uma tigela e acrescente a farinha de trigo aos poucos, mexendo com uma colher de pau ou na batedeira, até que fique uma massa lisa e homogênea.",
+      "Unte as formas e coloque a massa.",
+      "Deixe descansar dentro do forno desligado até dobrar o volume.",
+      "Aqueça o forno por 3 minutos.",
+      "Coloque as formas no forno e asse por 15 minutos em forno fraco e mais 15 minutos em forno médio para dourar.",
+      "Retire do forno para esfriar e passe manteiga ainda quente.",
+      "Desenforme e polvilhe com queijo ralado se desejar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FABIO TELLES PITA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306119-pao-delicia-de-forma.html"
+}

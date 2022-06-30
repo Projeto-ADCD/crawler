@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SORVETE DE BANANA COM CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas bem maduras",
+      "2 colheres de cacau em pó",
+      "1 colher de (chá) de essência ou extrato de baunilha",
+      "1 colher (sopa) de açúcar mascavo (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as bananas em rodelas.",
+      "Arrume-as em um pote que possa ir ao congelador, uma ao lado da outra. Caso precise arrumar em camadas, separe com plástico filme para não grudarem.",
+      "Leve para congelar por 6 horas.",
+      "Bata as bananas congeladas num processador ou liquidificador, até ficar bem cremoso. (Torno de 15 minutos).",
+      "Acrescente o cacau, a baunilha e o açúcar, bata até ficar homogêneo.",
+      "Coloque em um pote ou vasilha que possa ir ao congelador e leve para gelar por 8 horas."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NAYARA ATAIDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311081-sorvete-de-banana-com-cacau.html"
+}

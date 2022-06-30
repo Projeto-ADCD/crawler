@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão de sal",
+      "2 colheres (chá) de molho de tomate",
+      "2 fatias de presunto",
+      "2 fatias de mussarela",
+      "1 colher (sopa) de bacon picadinho",
+      "4 rodelas de tomate",
+      "orégano a gosto",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o pão ao meio e passe o molho de tomate em todo o pão.",
+      "Coloque a mussarela, o presunto, o tomate e o bacon.",
+      "Coloque batata palha e salpique orégano;",
+      "Leve ao forno pré aquecido por 15 minutos e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313467-pao-pizza.html"
+}

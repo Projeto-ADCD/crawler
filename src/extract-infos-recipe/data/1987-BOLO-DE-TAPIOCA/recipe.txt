@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 ml de leite",
+      "200 ml de leite de coco",
+      "1 caixa (ou lata) de leite condensado",
+      "500 g de tapioca granulada",
+      "2 colheres (sopa) de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, deposite: o leite, o leite de coco, o açúcar e meia caixa de leite condensado. Misture tudo muito bem.",
+      "Em seguida, deposite a tapioca granulada e misture até perceber que a tapioca começou a sugar o líquido da tigela.",
+      "Unte a forma com um fio de óleo comum, óleo de coco ou manteiga e deposite a receita do bolo.",
+      "Leve para a geladeira por 1 hora e 30 minutos ",
+      "Ao desenformar o bolo, use o leite condensado que sobrou como cobertura, despejando-o por cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LETICIA MOTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306252-bolo-de-tapioca.html"
+}

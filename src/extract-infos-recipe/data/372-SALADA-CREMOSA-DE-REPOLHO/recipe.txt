@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SALADA CREMOSA DE REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 de repolho picado",
+      "1 cebola roxa picada",
+      "1 cenoura ralada",
+      "1 tomate picadinho",
+      "100 g de frango desfiado",
+      "100 g de requeijão",
+      "2 colheres (sopa) de mostarda",
+      "Suco de 1/2 limão",
+      "1/2 caixa de creme de leite",
+      "tempero e sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, coloque o repolho, a cebola, a cenoura, o tomate e o frango e misture",
+      "Em outra vasilha, coloque a mostarda, o requeijão, o suco do limão, o creme de leite, os temperos de sua preferência e o sal à gosto",
+      "Misture até obter uma pasta cremosa",
+      "Junte esse creme à salada e misture bem",
+      "Prontinho, só servir!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313069-salada-cremosa-de-repolho.html"
+}

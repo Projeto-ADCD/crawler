@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA MILANESA DE MACARRÃO.",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de Farinha de Rosca.",
+      "500 g de macarrão (rigatoni, penne ou parafuso)",
+      "4 ovos",
+      "1 colher (café) de fermento químico",
+      "1 colher (chá) de sal",
+      "900 ml de molho ao sugo"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em uma tigela, coloque a farinha de rosca, o fermento químico e o sal. Bata os ovos, levemente (como se fosse para fazer omelete).",
+      "Adicione os ovos à tigela, e trabalhe a massa com os dedos, adicionando um pouco mais de farinha, ou de água, até ter uma massa macia e lisa. Foto 1.",
+      "Distenda essa massa com as mãos, pressionando e formando placas (como na foto, não dá para usar rolo).",
+      "Com a massa, forre o fundo e as bordas de um refratário untado com óleo."
+    ],
+    "MACARRÃO": [
+      "Cozinhe um pacote de macarrão. O clássico da receita é usar Rigatoni. Mas se preferir, use parafuso (Fusilli), ou Penne. Tempere com pouco molho ao Sugo.",
+      "Espere o macarrão esfriar e coloque no refratário previamente forrado com a massa. Cubra com mais algumas placas da massa. A Foto 2, esclarece como se faz.",
+      "Deve resultar em uma torta, totalmente coberta, onde o macarrão é o recheio. Asse em forno moderado (180-200 oC), por 45 minutos, ou até ficar levemente dourada.",
+      "Sirva com mais molho ao sugo, colocado em separado, em uma molheira. (Foto 3)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Minha Tia Avó Marcellina, que morou em Milão, fazia esta antiga receita, que nos dias atuais é muito pouco conhecida."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312841-torta-milanesa-de-macarrao.html"
+}

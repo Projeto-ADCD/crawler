@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PEITO DE FRANGO AO MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 Peito de Frango sem osso",
+      "1 tablete de frango",
+      "pimenta-do-reino a gosto",
+      "tempero baiano a gosto",
+      "Sal a gosto",
+      "1 alho amassado",
+      "Salsa e cebolinha picado a gosto",
+      "1 molho de tomate",
+      "1/2 copo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o frango tire toda a pele morta dele",
+      "Coloque água, vinagre e coloque o frango lá deixe 5 minutos de molho",
+      "Lave bem o frango em água corrente",
+      "Corte o peito em cubos",
+      "Coloque em uma travessa e acrescente o tablet amassado, alho, pimenta,tempero baiano e sal",
+      "Coloque óleo na panela deixe esquentar e coloque os frangos até dorar",
+      "Coloque a água, salsa, cebolinha e Molho de tomate mexa bem",
+      "Deixe em fogo médio por 25 Minutos"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAFAELA ALVES BARRETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312088-peito-de-frango-ao-molho.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "RABANADA DE CHOCOTONE RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 chocotone ",
+      "150 g de doce de leite ",
+      "2 bananas picadas ",
+      "100 g de chocolate branco ",
+      "10 morangos ",
+      "1 e 1/2 xícara de leite ",
+      "4 colheres (sopa) de açúcar ",
+      "3 ovos ",
+      "80 g de açúcar ",
+      "10 g de canela "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o chocotone em fatia médias ",
+      "Leve uma fatia para uma tábua e passe um rolo de massa ",
+      "Deixe a fatia mais fina, preparada para receber o recheio ",
+      "Com cuidado, passe o doce de leite na fatia ",
+      "Junte as bananas picadas ",
+      "Enrole a fatia, formando as rabandas recheadas e reserve ",
+      "Com outra fatia, faça o mesmo processo ",
+      "Use o chocolate branco e os morangos para rechear ",
+      "Feche com cuidado e reserve também ",
+      "Em um recipiente, junte o leite, o açúcar e os ovos ",
+      "Bata tudo muito bem ",
+      "Passe as rabanadas nessa mistura e leve para fritar em uma panela com óleo quente ",
+      "Retire e reserve em papel-toalha ",
+      "Em um recipiente, junte o açúcar e a canela e misture ",
+      "Passe as rabanadas ainda quentes e sirva "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314124-rabanada-de-chocotone-recheada.html"
+}

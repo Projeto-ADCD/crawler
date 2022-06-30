@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DIVINO DE MANGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 manga palmer média",
+      "3 colheres (sopa) de margarina",
+      "3 ovos claras em neve",
+      "1 xícara (chá) de suco de tangerina",
+      "200 g de doce de leite pastoso",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "Cobertura",
+      "200 g de doce de leite",
+      "3 colheres (sopa) de leite",
+      "1/2 xícara (chá) de coco tostado",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as gemas com o açúcar e a margarina até ficar cremoso na batedeira.",
+      "Reserve",
+      "Bata no liquidificador a polpa da manga, o doce de leite e o suco de tangerina por uns 4 minutos.",
+      "Junte com os ingredientes da batedeira, batendo até misturar bem.",
+      "Junte a farinha de trigo e bata até ficar cremoso, por último o fermento e as claras em neve, mexendo delicadamente.",
+      "Asse por 40 minutos em forma redonda, tamanho de 23x5 cm, untada ",
+      "Cobertura",
+      "Junte o doce de leite com o leite e mexa bem, passe por cima do bolo e salpique o coco tostado.",
+      "Frio ou quente é numa delícia"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCIA PAULO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306577-bolo-divino-de-manga.html"
+}

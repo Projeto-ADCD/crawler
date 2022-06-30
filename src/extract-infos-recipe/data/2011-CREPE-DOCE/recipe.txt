@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREPE DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de rap 10 ",
+      "2 xicaras de leite",
+      "1 xícara de ovomaltine (ou outro achocolatado)",
+      "1/2 xicara de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue a unidade do rap 10 e coloque em um prato, em seguida pegue manteiga ou margarina e deixe derreter na panela",
+      "Coloque o leite e o ovomaltine e misture até ficar um pouco cremoso (não muito)",
+      "Acrescente o leite em pó até ficar em consistência de brigadeiro",
+      "Coloque o rap 10 na panela para ser feito (não precisa de manteiga ou oleo) cerca de 1 minuto em fogo baixo vire-o para assar o outro lado",
+      "Em seguida coloque o rap 10 no prato novamente e recheie com o “brigadeiro” e sirva-se.",
+      "Detalhe: ele fica parecendo um crepe doce muito bom!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALICE SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306197-crepe-doce.html"
+}

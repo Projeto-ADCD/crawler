@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE ATUM SÓ MEXER",
+  "ingredientes": {
+    "MASSA": [
+      "3 ovos médios",
+      "1 caixa de creme de leite",
+      "150 g de mussarela ralada",
+      "1 colher (sobremesa) de fermento em pó",
+      "1 pitada de sal"
+    ],
+    "RECHEIO": [
+      "2 latas de atum",
+      "1 tomate picado",
+      "azeitonas picadas a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa os ovos e depois adicione o restante dos ingredientes e mexa novamente.",
+      "Mexa todos os ingredientes do recheio.",
+      "Coloque em uma forma untada metade da massa, o recheio e depois o restante da massa.",
+      "Asse em forno preaquecido 180° C por 35 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SILMARA JANEGITZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311424-torta-de-atum-so-mexer.html"
+}

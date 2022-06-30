@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CAKE POP",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo",
+      "1 xícara de leite",
+      "1 xícara de óleo ",
+      "2 ovos",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de chocolate em pó",
+      "1 xícara de açúcar",
+      "1/3 de xícara (chá) de doce de leite",
+      "1/3 de xícara de creme de avelã",
+      "Cobertura",
+      "150 g de chocolate meio amargo derretido",
+      "150 g de creme de avelã em temperatura ambiente",
+      "confeitos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite, o óleo e os 2 ovos e bata bem.",
+      "Junte a farinha, o chocolate em pó e o açúcar e bata novamente.",
+      "Coloque em uma forma untada e enfarinhada.",
+      "Leve ao forno por 30 minutos. ",
+      "Espere esfriar, desenforme e amasse a massa do bolo. ",
+      "Misture com o creme de avelã e o doce de leite.",
+      "Faça pequenas bolinhas e leve à geladeira. ",
+      "Molhe a ponta de um palito de madeira no creme de avelã.",
+      "Enfie uma das bolinhas de bolo na ponta.",
+      "Passe no chocolate derretido. ",
+      "Finalize com confeitos de sua preferência! "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309413-cake-pop.html"
+}

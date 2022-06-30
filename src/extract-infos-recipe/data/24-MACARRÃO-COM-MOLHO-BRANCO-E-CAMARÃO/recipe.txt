@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO BRANCO E CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500gm filé de camarão fresco",
+      "1 cebola ralada",
+      "200gm de requeijão cremoso",
+      "2 dentes de alho",
+      "300ml leite líquido",
+      "Salsinha picada",
+      "2 colher grande de manteiga",
+      "1colher rasa de farinha de trigo",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o camarão descansar no sal e alho por 5 minutos",
+      "250gm macarrão",
+      "Depois doure o camarão na manteiga, separe o camarão, na mesma panela doure a cebola coloque farinha de trigo o leite,deixe cozinha até forma um mingau ralinho acrescente o requeijão, coloque o camarão no molho deixe por 2 min e coloque o macarrão, misture tudo e sirva com a Salsinha por cima",
+      "O macarrão tem que ser cozido ardente,para saber se o macarrão está pronto, você prova ele se tiver um pouco durinho, desligue escora e lave na hora de colocar no molho"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DEJANE REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316135-macarrao-com-molho-branco-e-camarao.html"
+}

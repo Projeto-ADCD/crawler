@@ -1,0 +1,25 @@
+{
+  "nome_receita": "RECHEIO DE ROCAMBOLE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas peneiradas",
+      "1 xícara (chá) de açúcar",
+      "1/2 colher (sopa) de amido de milho",
+      "2 colheres (sopa) de chocolate em pó",
+      "1/2 xícara de leite integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as gemas e o açúcar até ficar um creme bem fofinho, coloque o amido e o chocolate e misture muito bem, coloque o leite e a baunilha e mexa bem.",
+      "Coloque a panela com o creme em fogo brando até engrossar, retire e deixe esfriar com um plástico filme aderido no creme.",
+      "Polvilhe uma bancada lisa com açúcar desenrole a massa básica de rocambole do Pompom e retire o papel.",
+      "Espalhe o creme frio de chocolate sobre a massa.",
+      "Enrole o rocambole bem apertado e corte uma fatia de cada ponta, polvilhe açúcar por cima e leve para a geladeira e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RODRIGO ANTÔNIO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309206-recheio-de-rocambole-de-chocolate.html"
+}

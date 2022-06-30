@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TALHARIM À CARBONARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de talharim",
+      "2 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de azeite",
+      "3 ovos",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "3 colheres (sopa) de bacon ",
+      "4 colheres (sopa) de creme de leite",
+      "tempero verde (salsinha e cebolinha) a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a manteiga e o azeite.",
+      "Acrescente o tempero verde, o sal e a pimenta.",
+      "Misture tudo muito bem até formar um creme.",
+      "Reserve.",
+      "Em outra tigela bata os ovos, o creme de leite e o parmesão ralado.",
+      "Reserve",
+      "Em uma panela funda com água fervente, cozinhe o talharim al dente.",
+      "Enquanto o talharim cozinha, frite o bacon picado em uma panela com um fio de azeite até dourar.",
+      "Quando o talharim estiver cozido, escorra a água.",
+      "Acrescente o bacon frito, o creme de manteiga e os ovos batidos.",
+      "Misture tudo muito bem e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308534-talharim-a-carbonara.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "RAGU DE COSTELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela sem osso",
+      "1 cenoura ralada",
+      "1 xicara de alho poró picado",
+      "200 ml de vinho branco",
+      "6 dentes de alho picado",
+      "1 cebola picada",
+      "1 xicara de tomate pelatti",
+      "1 xicara de água",
+      "1 xicara de cheiro-verde picado",
+      "2 a 3 colheres de óleo/azeite",
+      "1 limão tahiti",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com limão, sal e pimenta.",
+      "Numa panela de pressão coloque o óleo e frite os pedaços de costela.",
+      "Deixe a carne fritar sem mexer para deixar um fundinho na panela.",
+      "Acrescente então o alho, deixe dourar por 1 minuto, logo acrescente a cebola picada.",
+      "Refogue-os misturando e incorporando com o fundinho da carne na panela.",
+      "Por + 1 minuto ou até que elas fiquem translúcidas.",
+      "Junte 1 xícara de alho poro picado e logo em seguida deglaceie com 1 copo de 200 ml de vinho, mexendo com uma espátula de madeira, raspando a crosta de carne do fundo da panela.",
+      "Deixe o vinho reduzir um pouco 2 minutos.",
+      "Acrescente 1 cenoura ralada e 1 xícara de tomates pelados Italianos.",
+      "Coloque 1 xícara de água.",
+      "Então, tampe a panela e deixe em fogo bem baixo",
+      "Após apitar, deixe cozinhar por 1 hora.",
+      "Retire os pedaços de costela e despreze os ossos (devem estar soltos na panela).",
+      "Com ajuda do garfo, desfie a carne.",
+      "Ela se solta, se desmancha sozinha",
+      "Volte a carne a panela e deixe o caldo reduzir até o ponto de molho encorpado e grosso."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUANA MASSETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310763-ragu-de-costela.html"
+}

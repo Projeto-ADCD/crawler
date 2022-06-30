@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BATATINHAS EM CONSERVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de batatas pequenas (as menores que encontrar)",
+      "500 ml de azeite de oliva",
+      "1 xícara de óleo",
+      "1/2 xícara de vinagre de álcool ou maçã",
+      "1 colher (sopa) de pimenta calabresa (opcional)",
+      "1 cebola grande ralada",
+      "5 dentes de alho socados",
+      "1 colher (sopa) de sal",
+      "2 xícaras de azeitonas inteiras (opcional)",
+      "1 colher (sopa) de salsa desidratada picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MODO DE PREPARO",
+      "Deixe as batatas com casca de molho na água por 30 minutos.",
+      "Lave-as bem, passando uma escovinha para tirar bem a sujeira.",
+      "Cozinhe em água, sal e um pouquinho de vinagre, até ficarem bem macias (não deixe cozinhar muito, não podem ficar muito mole).",
+      "Escorra e espere esfriar.",
+      "Se quiser faça uns furos nas batatas com um palito fino para os temperos penetrarem, tomando cuidado para não deformá-las.",
+      "Em uma panela coloque o azeite de oliva, o óleo, o vinagre, a pimenta calabresa, a cebola ralada, o alho socado e a salsa.",
+      "Coloque as batatas por cima.",
+      "Salpique o sal e coloque as azeitonas.",
+      "Refogue bem por cerca de 20 minutos (não precisar mexer é só sacudir a panela tampada para misturar os temperos).",
+      "Espere esfriar bem e transfira tudo para um frasco ou travessa grande com tampa.",
+      "Se necessário, acrescente mais azeite, pois o líquido deverá cobrir totalmente as batatas. Leve à geladeira por, pelo menos, 2 dias antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "28 PORÇÕES",
+  "autor": "LUCIANA VALENTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310689-batatinhas-em-conserva.html"
+}

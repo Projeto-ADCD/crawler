@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TORTA DE MOUSSE DE FRUTAS VERDES",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de biscoito maisena",
+      "160g de margarina ou manteiga (sem sal)",
+      "de 2 a 4 gemas de ovo",
+      "180 g de uva verde",
+      "2 maçãs verdes",
+      "1/2 abacate",
+      "10 limões",
+      "395 g de leite condensado (1 caixa)",
+      "200 g de creme de leite (1 caixa)",
+      "4 claras de ovo",
+      "3 xicaras de açúcar",
+      "1 colher (chá) de baunilha"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em um liquidificador ou triturador bata o biscoito maisena",
+      "Depois de triturado, em um recipiente adicione a manteiga, misture e coloque em uma forma (de fundo removível) fure com um garfo, e com um pincel passe as gemas de ovo deixe no forno em 180° C de 15 minutos ou até as pontas dourarem.",
+      "Depois de remover do forno adicione as maçãs cortadas em cubos e deixe descansar"
+    ],
+    "RECHEIO:": [
+      "No liquidificador coloque o leite condensado e o creme de leite, bata ate ficar homogêneo",
+      "Depois adicione aos poucos o suco de 5 limões",
+      "Amasse o abacate e adicione a mistura bata por 3 minutos",
+      "Coloque em um recipiente e deixe descansar na geladeira de 20 minutos",
+      "Depois de descansar coloque na torta e deixe por mais 30 minutos em geladeira"
+    ],
+    "COBERTURA/MERENGUE:": [
+      "Em uma panela adicione as claras e o açúcar, a baunilha, adicione o suco de 5 limões e em fogo baixo e banho-maria misture até ficar branco",
+      "Adicione na batedeira e mexa por mais ou menos 5 minutos.",
+      "Coloque em um saco de confeitar"
+    ],
+    "FINALIZAÇÃO:": [
+      "Retire a torta e coloque o merengue em cima, deixe na geladeira por 3 minutos.",
+      "Se quiser passe o maçarico no merengue.",
+      "Agora só saborear a nossa receita."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAROLINA ÁVILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313648-torta-de-mousse-de-frutas-verdes.html"
+}

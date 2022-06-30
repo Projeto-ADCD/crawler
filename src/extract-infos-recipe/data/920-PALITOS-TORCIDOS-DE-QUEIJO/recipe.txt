@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PALITOS TORCIDOS DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de queijo mussarela ralado fresco Président",
+      "50 g de queijo parmesão ralado fresco Président",
+      "1 e 1/2 xícara de farinha de trigo",
+      "5 colheres (sopa) de manteiga sem sal",
+      "1 colher (sopa) de alho em pó",
+      "sal, pimenta e orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl misture todos os ingredientes com exceção do queijo parmesão ralado fresco Président. Mexa bem até que se forme uma massa homogênea.",
+      "Transfira para uma bancada e sove até obter uma massa lisa. Então abra a massa com o auxílio de um rolo até obter uma massa lisa com aproximadamente 4 mm de espessura.",
+      "Espalhe o queijo parmesão por cima da massa aberta, passe novamente o rolo para que o queijo grude na massa e então corte a massa em fatias de aproximadamente 1 cm de largura.",
+      "Puxe individualmente cada tira de massa e, com cuidado, torça ela para que fique um formato de parafuso.",
+      "Transfira cada uma para uma assadeira grande e deixe descansando na geladeira por pelo menos 1 hora ",
+      "Enquanto a massa descansa na geladeira, preaqueça o forno a 200° C para então assar os biscoitinhos por aproximadamente 30 minutos, ou até que comecem a ficar dourados. Retire do forno e deixe esfriar completamente.",
+      "Sirva como entrada ou aperitivo com pastinhas e/ou geleias."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310895-palitos-torcidos-de-queijo.html"
+}

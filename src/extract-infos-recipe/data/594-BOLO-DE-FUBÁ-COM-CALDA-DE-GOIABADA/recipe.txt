@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM CALDA DE GOIABADA",
+  "ingredientes": {
+    "MASSA DO BOLO DE FUBÁ DONA BENTA": [
+      "3 ovos",
+      "3 colheres de margarina ou manteiga",
+      "150 ml leite"
+    ],
+    "CALDA DE GOIABADA": [
+      "200 g de goiabada picada",
+      "100 ml de água fervente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a MISTURA PARA BOLO DONA BENTA LINHA CASEIROS FUBÁ, o leite, os ovos e a margarina ou manteiga conforme indicado na embalagem. Após assada, reserve.",
+      "Para a calda, bata a goiabada picada e a água fervente no liquidificador até assumir uma consistência homogênea e mais líquida. ",
+      "Cubra a massa com a calda, espere esfriar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312426-bolo-de-fuba-com-calda-de-goiabada.html"
+}

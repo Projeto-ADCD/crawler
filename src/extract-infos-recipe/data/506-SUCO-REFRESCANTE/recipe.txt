@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 laranjas",
+      "1 tomate grande",
+      "1 cenoura média para grande",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as laranjas em quatro descasque-as",
+      "Descasque a cenoura e corte em rodelas",
+      "Lave bem os tomates e pique-os ",
+      "Coloque todos os ingredientes no liquidificador e bata até triturar tudo coe e acrescente o açucar à gosto."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DERLI CONTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312657-suco-refrescante.html"
+}

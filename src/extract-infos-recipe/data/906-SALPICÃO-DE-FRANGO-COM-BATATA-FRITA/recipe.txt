@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SALPICÃO DE FRANGO COM BATATA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango (sem osso) cozido e desfiado",
+      "1 kg de batata cortada em cubinhos pequenos",
+      "1 maçã grande",
+      "1 cebola grande",
+      "1 pote de maionese 500 g",
+      "1 pacote de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o frango com os temperos de sua preferência, desfie e reserve.",
+      "Frite a batata cortada em cubinhos em pequenas porções e vá reservando em um recipiente grande.",
+      "Corte a maçã e a cebola em cubinhos pequenos e junte no recipiente com a batata já frita.",
+      "Junte o frango desfiado com a batata frita, a maçã e a cebola.",
+      "Despejar toda a maionese no recipiente com os demais ingredientes e misture bem até todos os ingredientes estarem bem envolvidos com a maionese.",
+      "Colocar em uma travessa para servir e levar à geladeira por 04 horas.",
+      "Ao servir, acrescentar batata palha por cima.",
+      "Obs: não precisa acrescentar sal, pois a maionese já tem o tempero necessário."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA LUIZA PASQUAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310957-salpicao-de-frango-com-batata-frita.html"
+}

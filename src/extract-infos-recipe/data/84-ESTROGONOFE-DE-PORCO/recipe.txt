@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ESTROGONOFE DE PORCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de lombo de porco cortado em cubinhos",
+      "4 colheres (sopa) de molho de soja",
+      "1 colher (chá) de sal",
+      "1 colher (café) de pimenta-do-reino",
+      "3 colheres (sopa) de óleo",
+      "2 cebolas média cortada em fatias finas",
+      "1 pimentão verde cortado em cubinhos",
+      "1 pimentão amarelo cortado em cubinhos",
+      "1 talo de salsão picado",
+      "200g de cogumelos fatiados",
+      "1/2 xícara (chá) de água",
+      "2 colheres (chá) de maisena",
+      "1 colheres (sopa) de ketchup",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha funda coloque o lombo de porco picado e tempere com o molho de soja, o sal e a pimenta.",
+      "Deixe tomar gosto por uns 20 minutos.",
+      "Em uma panela funda, em fogo médio, coloque o óleo e frite os cubinho de porco, mexendo por uns 12 minutos.",
+      "Vá colocando aos poucos o cubinhos de porco para fritar, para não formar muita agua.",
+      "Depois de fritos acrescente as cebolas fatiadas, os pimentões e o salsão.",
+      "Refogue tudo por uns 5 minutos.",
+      "Dissolva a maisena na 1/2 xícara de água e acrescente ao refogado.",
+      "Acrescente o Ketchup e os cogumelos fatiados e misture tudo muito bem, delicadamente.",
+      "Deixe cozinhando até engrossar.",
+      "Desligue o fogo e acrescente o creme de leite e mexa tudo delicadamente.",
+      "Sirva com arroz branco e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314550-estrogonofe-de-porco.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE MAISENA E BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos inteiro",
+      "2/3 de uma lata de leite condensado",
+      "200 g de amido de milho",
+      "2 bananas nanicas (amassada)",
+      "1 colher (sopa) de fermento",
+      "4 colheres (sopa) cheias de margarina",
+      "Cobertura",
+      "Restante da lata de leite condensado."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes a mão primeiro ovos, a margarina e o leite condensado",
+      "Depois misture a banana.",
+      "E por último o amido e o fermento",
+      "Coloque em forma de buraco pequena untada",
+      "Asse por 30 minutos",
+      "Assim que tirar do forno, cubra com o restante do leite condensado.",
+      "Sirva frio"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Vai muito bem acompanhado com um chá de erva-doce e amigas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANI CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306101-bolo-de-maisena-e-banana.html"
+}

@@ -1,0 +1,50 @@
+{
+  "nome_receita": "TORTA DE MANTEIGA ESCOCESA",
+  "ingredientes": {
+    "BASE": [
+      "600 g de farinha de trigo ",
+      "200 g de manteiga ",
+      "1 ovo",
+      "100 g de açúcar mascavo",
+      "100 g de açúcar ",
+      "4 colheres (sopa) de cacau em pó ",
+      "1 colher (chá) de extrato de baunilha"
+    ],
+    "CARAMELO": [
+      "100 g de açúcar ",
+      "80 g de manteiga ",
+      "1 e 1/2 caixa de creme de leite ",
+      "1 lata de leite condensado"
+    ],
+    "COBERTURA": [
+      "200 g de chocolate derretido"
+    ]
+  },
+  "passos": {
+    "BASE": [
+      "Em um recipiente, misture bem todos os ingredientes",
+      "Você vai ver, que irá se formar uma massa consistente, quase como um brigadeiro para enrolar",
+      "Coloque a massa em uma forma quadrada untada ou com papel-manteiga no fundo",
+      "Forre muito bem, faça furinhos com um garfo por toda a extensão e leve à geladeira por 15 minutos",
+      "Depois leve para assar por 30 minutos a 180° C"
+    ],
+    "CARAMELO": [
+      "Comece derretendo bem o açúcar em uma panela",
+      "Quando o açúcar estiver completamente derretido, diminua bem o fogo e adicione a manteiga e o creme de leite, sem parar de mexer",
+      "Misture tudo muito bem e espere a mistura se homogeneizar completamente e os cristais de açúcar derreterem bem",
+      "Quando a mistura estiver bem cremosa, adicione o leite condensado e deixe no fogo até o ponto de brigadeiro",
+      "Retire a massa do forno, espere esfriar um pouco e logo que retirar o caramelo da panela, despeje por toda à massa",
+      "Deixe esfriar ou leve para à geladeira por alguns minutinhos "
+    ],
+    "COBERTURA": [
+      "Derreta o chocolate a seu gosto",
+      "Despeje o chocolate por cima da sua barrinha de torta de manteiga ",
+      "Espere esfriar e o chocolate endurecer",
+      "Sirva cortando em pequenos retângulos"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314589-torta-de-manteiga-escocesa.html"
+}

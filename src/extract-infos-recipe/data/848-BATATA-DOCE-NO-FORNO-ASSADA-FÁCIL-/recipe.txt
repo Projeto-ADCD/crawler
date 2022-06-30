@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BATATA DOCE NO FORNO/ASSADA (FÁCIL)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata doce grande",
+      "açúcar a gosto",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o forno ligado em 180° C para esquentar.",
+      "Descasque a batata doce e corte em rodelas de meio centímetro, pegue uma forma média e arrume os pedaços de batata pela forma evitando de acumular uma em cima da outra (arrume bem)",
+      "Depois, pegando com 2 dedos um pouco de açúcar, salpique uma pitada por cima ou ao seu gosto, coloque canela se preferir (recomendo porque dá muito sabor).",
+      "Coloque no forno e deixe de 20 a 30 minutos, retire e com a ajuda de uma colher desgrude sem muita força.",
+      "Sirva-se e se delicie."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LAURA NRT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311310-batata-doce-no-forno-barra-assada-facil.html"
+}

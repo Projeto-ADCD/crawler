@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CANECA ABACAXI E CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3- colheres de ( sopa) de óleo",
+      "3 colheres de ( sopa) de trigo",
+      "3 colheres de (sopa) de açúcar",
+      "3 colheres de (sopa) de leite",
+      "1/2 de um saquinho de suco em pó sabor abacaxi ",
+      "1/2 colher de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo e mexa até ficar homogêneo",
+      "Adicione o açúcar e mexa bem até dissolver",
+      "Depois o óleo, o leite e o trigo",
+      "Mexa até não ficar nenhum caroço de trigo",
+      "E depois adicione o suco em pó e mexa novamente até ficar uma massa lisa e homogênea",
+      "Coloque no micro-ondas por três minutos e espere ficar morno",
+      "Logo depois polvilhe o achocolatado por cima e pronto e só se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CLARA BEZERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310172-bolo-de-caneca-abacaxi-e-chocolate.html"
+}

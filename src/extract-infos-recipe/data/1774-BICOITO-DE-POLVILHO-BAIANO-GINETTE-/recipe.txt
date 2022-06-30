@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BICOITO DE POLVILHO BAIANO (GINETTE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro (4 xícaras) de polvilho doce",
+      "250 g de açúcar",
+      "125 g de margarina",
+      "1 colher de bicarbonato",
+      "4 ovos",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açÚcar, o polvilho, o bicarbonato e o sal.",
+      "Depois, acrescente a margarina e misture bem.",
+      "Por ultimo, bata os ovos e acrescente um a um",
+      "sove bem a massa.",
+      "O ponto para enrolar os biscoitos é semelhante ao de pão de queijo.",
+      "Molde os biscoitos a seu gosto e asse em forno medio atÉ dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KEILA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306843-bicoito-de-polvilho-baiano-ginette.html"
+}

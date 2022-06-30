@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TORTA DE BANANA (SECA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA SECA",
+      "1 xícara de açúcar",
+      "1 colher de sopa (rasa) de canela em pó",
+      "1 colher de sopa de fermento em pó",
+      "2 xícaras de farinha de trigo",
+      "LÍQUIDOS",
+      "5 colheres (sopa) de margarina",
+      "2 ovos ligeiramente batidos",
+      "1 e 1/2 xícara de leite",
+      "RECHEIO",
+      "6 bananas nanica"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA SECA",
+      "Junte todos os ingredientes em uma vasilha e mexa bem. Reserve.",
+      "RECHEIO",
+      "Corte as bananas do jeito que preferir (em rodelas, na horizontal, picada).",
+      "MONTAGEM",
+      "Unte uma forma retangular alta com margarina e polvilhe farinha de trigo ou açúcar ou cacau em pó.",
+      "Coloque 1 camada da \"farofa\" (massa seca).",
+      "Coloque a banana em cima da massa.",
+      "Repita o processo, finalizando com a banana.",
+      "LÍQUIDOS (após a torta já montada)",
+      "Derreta a margarina por, aproximadamente, 1 minuto no microondas.",
+      "Bata os ovos em uma vasilha e adicione o leite e a margarina derretida.",
+      "Mexa bem.",
+      "Despeje o líquido em cima da massa, abrindo levemente com um garfo para penetrar na torta toda.",
+      "NOTA: se o líquido não penetrar na parte de baixo da torta, após assar a farinha de trigo fica crua.",
+      "Asse em forno médio (200° C) até que fique dourada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBSERVAÇÕES:\nCaso queira, substitua a banana por maçã, manga ou goiaba."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DANIELA FILIPPINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307437-torta-de-banana-seca.html"
+}

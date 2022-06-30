@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CROCANTE DE AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de açúcar cristal",
+      "1/2 xícara (chá) de água",
+      "2 colheres (sopa) rasas de manteiga com sal",
+      "2 xícaras (chá) de amendoim torrado e triturado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem em uma panela, o açúcar, a água e a manteiga",
+      "Leve ao fogo mexendo de vez em quando até caramelizar (deixar dourar).",
+      "Acrescente o amendoim e mexa até misturar bem.",
+      "Desligue o fogo e despeje imediatamente sobre uma superfície untada com manteiga, alisando bem com auxílio de uma colher ou espátula até que fique na espessura que desejar.",
+      "Corte os quadradinhos no tamanho que preferir",
+      "Deixe esfriar e só depois separe os pedaços.",
+      "Pode-se triturar levemente para usar como cobertura de sorvetes etc."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CARLA CRISTINA VAZARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306202-crocante-de-amendoim.html"
+}

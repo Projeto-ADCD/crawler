@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      " 1 xícara de leite integral",
+      "1 colher (de sopa) de chocolate em pó ou cacau ",
+      "1 colher (de chá) de açúcar",
+      "1 colher (de sopa) de conhaque - opcional. "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O modo de preparo é simples. Misture todo o material, coloque em uma panela e leve ao fogo. Quando começar a ferver, o seu chocolate está pronto.",
+      "Dica: (para os maiores de 18 anos) vale acrescentar 1 colher (de sopa) de conhaque para dar um sabor a mais à receita. "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316113-chocolate-quente-simples.html"
+}

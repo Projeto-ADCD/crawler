@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAFÉ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de café solúvel (de sua preferência)",
+      "1 xícara (café) de água fervente",
+      "2 xícaras (café) de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo na batedeira por 10 minutos, após transfira para um pote e leve ao congelador.",
+      "Ele não vai congelar.",
+      "Dura mais ou menos 1 mês.",
+      "Adicione uma ou duas colheres do café cremoso em água e de preferência no leite quente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "ROSANE GLOWACKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306441-cafe-cremoso.html"
+}

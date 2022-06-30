@@ -1,0 +1,44 @@
+{
+  "nome_receita": "EMPADÃO CETOGÊNICO COM FARINHA DE LINHAÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 xícaras de 250 ml de farinha de linhaça",
+      "1 xícara de 250 ml de farinha de coco",
+      "100 g de margarina ou 150 g se não for usar a manteiga",
+      "50 g de manteiga (opcional)",
+      "1 ovo",
+      "1/4 de xícara de 250 ml de azeite de sua escolha ou óleo",
+      "Recheio",
+      "1 peito de frango inteiro cozido",
+      "200 g de ricota fresca (opcional)",
+      "80 g de azeitona picada (com ou sem semente é de sua escolha)",
+      "400 g de creme de leite ou requeijão light/diet",
+      "temperos, cheiro-verde, pimenta e outros a gosto",
+      "Finalização",
+      "este empadão é destampado então recomendamos colocar mozzarella fatiada ou ralada a sua vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque todos os ingredientes em uma bacia e mexa com as mãos ate dar liga, onde ela fique grudada como uma bola mas que quando você amassar ela demonstre rachaduras.",
+      "Unte a forma da forma que quiser (recomendamos margarina ou manteiga).",
+      "Aloque a massa na forma visando deixar tudo uniforme. Reforce um pouco as dobras da forma para que na hora de tirar o empadão não quebre.",
+      "Recheio",
+      "Desfie o peito de frango cozido com sal.",
+      "Separe-o a uma bacia e adicione os condimentos visando colocar o creme de leite ou requeijão light ou diet por ultimo.",
+      "Aloque o recheio acima da massa colocada na forma e leve ao forno.",
+      "Levado ao forno a 180º C deixe-o assar de 20 a 25 minutos.",
+      "Retire e adicione as fatias de queijo por cima, leve novamente ao forno por mais 10 minutos.",
+      "Pronto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se seguida a risca a receita cada pedaço (1/8) ter o teor de gordura: 32,5; Carboidratos: 7,8; Proteína: 18,1."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FILHINHO DA SUA MÃE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309296-empadao-cetogenico-com-farinha-de-linhaca.html"
+}

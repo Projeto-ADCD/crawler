@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA DE PIZZA COM FERMENTO QUÍMICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de farinha de trigo",
+      "1 colher e meia (sopa) de margarina ou manteiga",
+      "1 colher (sopa) de azeite",
+      "1 colher (sopa) de fermento químico",
+      "1 xícara e meia de leite morno",
+      "1/2 colher de sal ( a gosto )"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um pote adicione, a farinha, o fermento, o sal, a margarina e o azeite.",
+      "Com tudo misturando, vá adicionando o leite AOS POUCOS até formar uma massa que desgrude dos dedos.",
+      "Sove bastante a massa até ficar \"lisa\".",
+      "Deixe a massa descansar de 30 - 40 minutos.",
+      "Depois abra ela, faça alguns furinhos com um garfo, coloque na assadeira e leve ao forno médio por mais ou menos 15 minutos.",
+      "Depois tire do forno, coloque o que quiser e leve ao forno por mais 10/15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "COOKTOP",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312651-massa-de-pizza-com-fermento-quimico.html"
+}

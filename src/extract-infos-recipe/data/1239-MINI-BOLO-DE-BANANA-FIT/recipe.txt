@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MINI BOLO DE BANANA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas",
+      "2 ovos",
+      "5 e 1/2 colheres de farinha de aveia",
+      "1 colher de chocolate ou cacau em pó (opcional)",
+      "1 colher de óleo de coco",
+      "1 colher (café) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Antes de tudo preaqueça o forno a 180° C.",
+      "Amasse as bananas, coloque os ovos e misture em seguida, coloque a farrinha de aveia e chocolate em pó, mistura bem, coloque o óleo de coco e para finalizar o fermento em pó.",
+      "Em seguida coloque em uma forma de cupcake asse em 180° C, quando colocar o palito e sair limpo tá pronto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RUTH ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309280-mini-bolo-de-banana-fit.html"
+}

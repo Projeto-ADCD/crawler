@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BATATA COM CARNE ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Corte Caseiro Bem Brasil ",
+      "4 colheres de azeite ",
+      "2 tomates ",
+      "1/4 de pimentão vermelho ",
+      "1/4 de pimentão amarelo ",
+      "1 cebola roxa ",
+      "sal e pimenta-do-reino a gosto ",
+      "100 ml de vinho branco ",
+      "1 peça de picanha suína ",
+      "ervas frescas a gosto (alecrim, manjericão, tomilho, orégano, hortelã) ",
+      "4 dentes de alho ",
+      "sal grosso a gosto ",
+      "1 colher de páprica picante ",
+      "50 g de pimenta biquinho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre uma assadeira com o azeite, o tomate picado, os pimentões e a cebola em tiras, e o vinho branco",
+      "Tempere com sal e pimenta-do-reino e coloque a peça de picanha com a gordura para cima, sobre os vegetais",
+      "Adicione os ramos de ervas frescas",
+      "Em seguida, faça cortes cruzados na gordura da carne e tempere com sal grosso a gosto",
+      "Adicione sobre a carne 4 dentes de alho com casca",
+      "Leve ao forno por 40 minutos",
+      "Adicione as Batatas Corte Caseiro Bem Brasil em volta da carne",
+      "Tempere com o sal e com a páprica picante",
+      "Adicione a pimenta biquinho e leve ao forno até assar as batatas",
+      "Retire do forno e sirva. "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312862-batata-com-carne-assada.html"
+}

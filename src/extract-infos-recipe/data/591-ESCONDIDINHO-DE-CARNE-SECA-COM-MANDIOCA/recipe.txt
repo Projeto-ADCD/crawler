@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE SECA COM MANDIOCA",
+  "ingredientes": {
+    "RECHEIO": [
+      "1 colher (sopa) de FARINHA DE TRIGO DONA BENTA TRADICIONAL",
+      "500 g de carne seca",
+      "2 colheres (sopa) de azeite",
+      "4 colheres (sopa) de polpa de tomate",
+      "1 colher (chá) de salsa picada",
+      "1 cebola picada"
+    ],
+    "PURÊ": [
+      "1 kg de mandioca cozida e espremida",
+      "2 colheres (chá) de sal",
+      "1 caixinha (200 ml) de creme de leite",
+      "2 colheres (sopa) de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Deixe a carne seca de molho de um dia para o outro imersa em água fria, trocando a água algumas vezes. Depois cozinhe a carne seca na pressão por 1 hora.",
+      "Após isso desfie a carne seca.",
+      "Em uma panela refogue o azeite, a cebola, junte a carne desfiada, e deixe fritar. Adicione a polpa de tomate, e cozinhe por 5 minutos. Polvilhe a farinha de trigo, acrescente a salsa e retire do fogo."
+    ],
+    "PURÊ": [
+      "Em uma tigela, misture a mandioca cozida e espremida, o creme de leite, acerte o ponto do sal provando. Deixe o parmesão para por cima para gratinar."
+    ],
+    "MONTAGEM": [
+      "Em um refratário médio coloque metade do purê, e espalhe.",
+      "Coloque o recheio por cima e cubra com o restante do purê. Polvilhe o queijo parmesão por cima, e leve ao forno pré-aquecido a 180ºC, por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DONA BENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312429-escondidinho-de-carne-seca-com-mandioca.html"
+}

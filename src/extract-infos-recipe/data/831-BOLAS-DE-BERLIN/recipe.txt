@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLAS DE BERLIN",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "2 ovos",
+      "500 g de Farinha de Trigo",
+      "75 g de manteiga ou Margarina",
+      "3 tabletes de Fermento Biológico",
+      "1/2 copo de Açúcar",
+      "sal (pitada)",
+      "Creme:",
+      "1/2 litro de Leite",
+      "4 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de amido de milho ",
+      "3 gemas",
+      "casca de 1/2 Limão."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de Fazer:",
+      "Massa: esfarele o fermento e misture com um pouco de farinha. A seguir, dilua com leite morno, mexa, cubra o recipiente e deixe crescer por 15 minutos, Junte o resto da farinha e do leite, misture, adicione os demais ingredientes e sove bem a massa, até que desgrude facilmente das mãos. Coloque numa vasilha, cubra e deixe fermentar durante 1 hora. Depois desse tempo, abra a massa na espessura de 1 cm e recorte-a em diversos discos. Arrume os discos de massa um ao lado do outro, cubra-os e deixe crescer por mais uns 20 minutos.",
+      "Creme: leve ao fogo o leite com o açúcar e a casca de limão. Quando ferver, junte a maisena previamente dissolvida e mexa sem parar até o creme ficar denso. Retire do fogo, adicione as gemas batidas, misture e torne a levar ao fogo, mexendo sempre. retire e deixe esfriar.",
+      "Comece então a fritar os discos de massa: leve ao fogo uma panela grande com bastante óleo.",
+      "Deixe aquecer bem e frite os sonhos aos poucos ( devem corar de ambos os lados ). retire e coloque sobre papel absorvente.",
+      "Depois, faça um corte nos sonhos já fritos e recheie-os com o creme de gemas preparado. Por ultimo, polvilhe com açúcar a gosto."
+    ]
+  },
+  "tempo_de_preparo": "-60 MIN",
+  "rendimento": "-12 PORÇÕES",
+  "autor": "VICTORINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311391-bolas-de-berlin.html"
+}

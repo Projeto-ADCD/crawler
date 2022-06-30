@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SALPICÃO TROPICAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de abacaxi em calda",
+      "1/2 pimentão vermelho",
+      "1/2 pimentão amarelo",
+      "1/2 repolho roxo",
+      "1 cenoura",
+      "1/2 xícara de uva passa branca",
+      "1 xícara de maionese",
+      "200 g de creme de leite Frimesa",
+      "2 colheres (sopa) de salsa picada",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cortar finamente o repolho e temperar com sal. Reservar.",
+      "Corte também os pimentões e a cenoura em tiras finas.",
+      "Corte o abacaxi em cubos de um centímetro.",
+      "Misture a maionese, o creme de leite, a salsa e a uva passa. Adicionar os demais ingredientes e mexer até incorporar bem.",
+      "Sirva gelado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: servir como acompanhamento para a Copa lombo Frimesa."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314025-salpicao-tropical.html"
+}

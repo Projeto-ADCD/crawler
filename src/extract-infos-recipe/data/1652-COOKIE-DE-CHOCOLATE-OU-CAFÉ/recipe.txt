@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIE DE CHOCOLATE OU CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de manteiga sem sal temperatura ambiente",
+      "200 g de açúcar mascavo",
+      "1 ou 2 ovos",
+      "1/2 colher de essência de baunilha",
+      "200 g de farinha de trigo",
+      "1/2 colher de bicarbonato de sódio",
+      "1/2 colher de fermento",
+      "2 colheres (sopa) de café solúvel ou chocolate em pó (achocolatado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes em uma tigela",
+      "Depois de misturado coloque na geladeira por 20 minutos, retire",
+      "Faça as bolinhas e coloque em uma forma untada ou com papel manteiga",
+      "Deixe um espaço grande entre as bolinhas pois o cookie irá derreter",
+      "Asse em forno 180º C graus por 15 minutos mais ou menos",
+      "Pode misturar pedacinhos de chocolate ou gotinhas de chocolate "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "17 PORÇÕES",
+  "autor": "ROSIMEIRE JACINAVICIUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307264-cookie-de-chocolate-ou-cafe.html"
+}

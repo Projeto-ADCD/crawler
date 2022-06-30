@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FRANGO ASSADO COM BATATAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de coxa e sobrecoxa de frango",
+      "1 maionese de 500 g",
+      "1 pomarola de 340 g",
+      "4 batatas",
+      "1 limão",
+      "alho e sal a gosto",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe os pedaços do frango, passe água fervendo e escorra a água.",
+      "Adicione ao frango o alho, o sal, o suco de meio limão e temperos a gosto como: páprica, cominho, alecrim, pimenta-calabresa ou o que preferir, reserve.",
+      "Lave as batatas e corte em 2.",
+      "Faça um molho com o sachê de pomarola e a maionese.",
+      "Em seguida, misture o frango e as batatas ao molho.",
+      "Coloque em uma assadeira, cubra com papel-alumínio e leve ao forno aquecido em 220º C.",
+      "Após 30 minutos, retire o papel-alumínio para dourar e terminar de assar.",
+      "Para um toque final, salpique orégano a gosto.",
+      "Sirva com arroz branquinho"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANDREIA C",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314591-frango-assado-com-batatas.html"
+}

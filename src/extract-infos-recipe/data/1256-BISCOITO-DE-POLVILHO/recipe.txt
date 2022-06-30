@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO DE POLVILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de creme de leite",
+      "2 e 1/2 caixinha de polvilho azedo (usar a caixinha do creme de leite como medida)",
+      "70 g de queijo parmesão ralado",
+      "1 ovo",
+      "sal e páprica picante a gosto",
+      "2 colheres (sopa) de chia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até a massa desgrudar das mãos;",
+      "Caso seja necessário adicione aos poucos um pouco mais de polvilho.",
+      "Molde a massa em pequenos rolinhos finos",
+      "Asse a 180° C de 10 a 15 minutos.",
+      "Pode ser feito no forno e na airfryer.",
+      "Deixe sempre um espaço entre os rolinhos na hora de assar pois eles aumentam o tamanho.",
+      "Armazenar em pote fechado e consumir em até 3 dias."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309216-biscoito-de-polvilho.html"
+}

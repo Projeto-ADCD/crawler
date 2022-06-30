@@ -1,0 +1,22 @@
+{
+  "nome_receita": "IOGURTE NATURAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral",
+      "1 potinho (170 g) de iogurte natural"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite em fogo baixo sempre mexendo para não formar nata",
+      "Deixe esfriar por 15 minutos.",
+      "Faça o teste do dedo para saber se está frio",
+      "Vá misturando aos poucos o leite ao iogurte, até homogeneizar por completo",
+      "Guarde em um pote de vidro bem fechado e deixe descansar por pelo menos 10 horas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310031-iogurte-natural.html"
+}

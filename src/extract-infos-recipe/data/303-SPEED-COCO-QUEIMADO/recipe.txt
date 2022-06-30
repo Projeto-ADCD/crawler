@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SPEED COCO QUEIMADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cocos secos, descascados e cortados em cubos pequenos",
+      "2 xícaras de açúcar refinado",
+      "1 colher rasa de fermento biológico em pó",
+      "1/2 xícara de água "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos ingredientes em uma panela e mexa até a água secar e formar um caramelo bem sequinho.",
+      "Despeje em uma forma untada com margarina e deixe esfriar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313299-speed-coco-queimado.html"
+}

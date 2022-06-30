@@ -1,0 +1,27 @@
+{
+  "nome_receita": "LEITE CARAMELIZADO COM HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres cheia de açúcar",
+      "6 folhas pequenas de hortelã pimenta",
+      "500 ml de leite em temperatura ambiente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo alto leve uma panela e adicione as três colheres de açúcar e três folhas de hortelã",
+      "Quando a borda ao redor do açúcar estiver derretendo e transformando em caramelo, comece a mexer com a colher para que o açúcar caramelize totalmente",
+      "Adicione apenas 100 ml do leite para que se misture com o caramelo",
+      "Mexa bem pois o caramelo irá ficar duro",
+      "Mas logo derrete se misturar com o leite.",
+      "Leve a mistura do leite com caramelo que estava na panela e adicione no copo do liquidificador ",
+      "Bata com restante do leite e as 3 folhas do hortelã que sobraram",
+      "Se preferir, coloque em jarra e deixe gelar",
+      "Sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "WILLYAN MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306103-leite-caramelizado-com-hortela.html"
+}

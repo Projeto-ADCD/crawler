@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOMBOM DE CHOCOLATE COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 barras de chocolate ao leite",
+      "forma de gelo (para 18 bombons)",
+      "18 morangos (não muito pequenos)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta todo o chocolate em banho-maria",
+      "Com o chocolate derretido, coloque o suficiente para cobrir o fundo de cada \"cubo\"",
+      "Adicione o morango e cubra- o de chocolate",
+      "Deixe na geladeira por 3 horas",
+      "OBS: mantenha na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306207-bombom-de-chocolate-com-morango.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CRISPY DE QUIABO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de quiabo",
+      "300 g de farinha de trigo",
+      "500 ml de Óleo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o quiabo em rodelas bem finas",
+      "Coloque o Sal",
+      "Empane o quiabo com toda a farinha (ele precisa estar envolto de bastante farinha)",
+      "Frite o quiabo em óleo bem quente",
+      "Coloque-o em recipiente com toalha de papel e sirva."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TIAGO CORDEIRO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310663-crispy-de-quiabo.html"
+}

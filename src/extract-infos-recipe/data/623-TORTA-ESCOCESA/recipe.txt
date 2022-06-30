@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA ESCOCESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Ingredientes massa:",
+      "3 xícaras de farinha de trigo",
+      "200 g de manteiga",
+      "1/2 xícara de açúcar",
+      "1/2 xícara de açúcar mascavo",
+      "4 colheres (sopa) de Cacau em pó",
+      "1 ovo",
+      "Ingredientes doce de leite:",
+      "1/2 xícara de açúcar",
+      "80 g de manteiga",
+      "1 caixa de creme de leite",
+      "1 barra de chocolate de sua preferência"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Misture a farinha com a manteiga e misture até formar uma farofa",
+      "Depois, coloque os demais ingredientes e misture até formar uma massa, use um pouco de água para ajudar se necessário",
+      "Coloque essa massa em uma forma com papel manteiga e leve na geladeira por 15 minutos",
+      "Depois leve a massa para assar por 30 minutos a 180° C"
+    ],
+    "DOCE DE LEITE": [
+      "Leve o açúcar no fogo e derreta",
+      "Depois de derretido coloque a manteiga",
+      "Depois coloque o creme de leite",
+      "Coloque o doce de leite em cima da massa já assada",
+      "Despeje em cima de tudo o chocolate derretido",
+      "Leve para a geladeira para endurecer",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "THIAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312304-torta-escocesa.html"
+}

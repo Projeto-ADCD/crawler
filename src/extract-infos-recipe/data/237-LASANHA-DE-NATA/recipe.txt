@@ -1,0 +1,36 @@
+{
+  "nome_receita": "LASANHA DE NATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de massa para lasanha",
+      "1 pote de nata de 300 g",
+      "300 g de presunto",
+      "300 g de mussarela",
+      "300 g de carne moída",
+      "azeitona e milho a gosto (opcional)",
+      "noz-moscada",
+      "2 colheres de molho de tomate",
+      "cheiro-verde a gosto ",
+      "1/2 cebola pequena",
+      "1/2 dente de alho",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, refogue a cebola e o alho e acrescente a carne moída, tempere a gosto",
+      "É opcional colocar milho, azeitona. Quando a carne estiver bem refogada, coloque o molho de tomate e o cheiro-verde e reserve.",
+      "Dê uma pré-cozida na massa de lasanha (opcional) e monte em camadas: uma camada de lasanha, uma de mussarela, uma de presunto e continue até acabar.",
+      "Após montar, em uma panela, acrescente o pote de nata e leve ao fogo até derreter, tempere e adicione um pouco de noz-moscada ralada.",
+      "Assim que estiver bem líquida e no tempero de seu gosto, derrame sobre a lasanha montada e adicione a carne por cima.",
+      "Leve ao forno com fogo alto por 25 minutos (com a massa pré-cozida).",
+      "Se a massa não estiver pré-cozida pode ser que fique crua ou dura pelo fato de não ir molho entre as camadas.",
+      "No cozimento a nata penetra na lasanha mas não de forma que cozinhe a massa como as outras lasanhas tradicionais.",
+      "Obs: um toque interessante na carne é colocar 3 colhere (sopa) de shoyu e alho-poró."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "CARLA LETICIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313763-lasanha-de-nata.html"
+}

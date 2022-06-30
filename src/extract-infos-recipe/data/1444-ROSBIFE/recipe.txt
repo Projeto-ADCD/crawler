@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROSBIFE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de maminha de alcatra ou outra carne de sua preferência",
+      "1 kg de batatas pequenas",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de óleo",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe a carne e amarre-a com barbante para não perder a forma durante o cozimento.",
+      "Leve uma panela grande e grossa ao fogo forte com a manteiga e o óleo para esquentar.",
+      "Coloque a carne e deixe dourar, virando de vez em quando para que core e forme crosta por todos os lados. Isso se faz por dez a doze minutos.",
+      "Lave bem as batatas, coloque em uma panela, cubra com água fria e sal, leve ao fogo.",
+      "Assim que a água começar a ferver, marque 15 minutos, retire do fogo, escorra, deixe esfriar e retire as cascas.",
+      "Assim que o rosbife ficar dourado, retire do fogo, passe para uma assadeira e leve ao forno bem quente (300º C), previamente aquecido.",
+      "Deixe assar por uns dez minutos e junte as batatas.",
+      "Diminua bem o calor do forno para uns (150º C) e deixe acabar de assar a carne e cozinhar as batatas.",
+      "Durante esse tempo, molhe a carne com seu próprio suco e, para ele não secar, vá adicionando colheradas de água quente.",
+      "Estando o rosbife quase no ponto, tempere com sal a gosto.",
+      "Vale lembrar que a característica de um bom rosbife é estar durinho e corado por fora e um pouco sanguinolento por dentro.",
+      "Quando estiver pronto, retire do forno, retire o barbante e arrume na travessa rodeado pelas batatas. Agora é só se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308321-rosbife.html"
+}

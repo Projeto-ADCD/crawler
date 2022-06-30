@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FRANGO A CORDON BLEU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango desossados",
+      "pimenta-do-reino",
+      "sal",
+      "4 fatias de queijo mussarela",
+      "4 fatias de presunto",
+      "2 ovos",
+      "farinha de rosca quanto baste",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte cada peito pela metade",
+      "Abra cada metade no meio sem separar",
+      "Cubra com filme plástico e bata levemente com o martelo de carne, só para afinar um pouco, com cuidado para não rasgar os filés",
+      "Amasse dentes de alho e misture com pimenta do reino e sal",
+      "tempere os filés",
+      "Recheie cada filé com uma fatia de presunto e uma fatia de queijo;",
+      "Enrole cada filé e prenda com palitos para que não abra",
+      "Bata levemente os ovos e molhe neles os filés",
+      "Passe farinha de rosca em cada filé recheado",
+      "Frite em óleo quente",
+      "Coloque sobre papel toalha",
+      "Depois de pronto retire os palitos a arrume em uma travessa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JANDESILVER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311582-frango-a-cordon-bleu.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO CREMOSO DE MILHO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos ",
+      "1 litro de leite ",
+      "2 latas de milho verde escorridas ",
+      "1 xícara de açúcar ",
+      "½ xícara de farinha de trigo ",
+      "3 colheres (sopa) de margarina Claybom sabor tradicional",
+      "1 xícara de fubá ",
+      "1 xícara de mussarela ralada ",
+      "1 colher (sopa) de fermento químico em pó ",
+      "açúcar cristal para untar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos, 500 ml de leite, o milho e a margarina Claybom sabor tradicional. ",
+      "Transfira para uma tigela e incorpore os demais ingredientes deixando o fermento químico por último. ",
+      "Unte uma assadeira com margarina e açúcar cristal. Despeje a massa e leve para assar no forno pré aquecido a 180° C por cerca de 40 minutos. ",
+      "Retire do forno e deixe esfriar completamente antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CLAYBOM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314100-bolo-cremoso-de-milho-com-queijo.html"
+}

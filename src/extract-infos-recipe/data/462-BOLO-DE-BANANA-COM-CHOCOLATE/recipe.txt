@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas nanicas bem maduras",
+      "2 ovos",
+      "3/4 xícara de óleo",
+      "1 1/2 xícara de farinha de trigo",
+      "1/2 xícara de amido de milho",
+      "3/4 xícara de açúcar refinado",
+      "1 colher de sopa de chocolate em pó",
+      "1 colher de sopa de fermento químico em pó",
+      "canela em pó a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata as bananas, os ovos e o óleo. Se desejar, coloque canela em pó nesta mistura também.",
+      "Quando tudo estiver bem misturado, desligue o liquidificador e transfira a mistura para uma tigela.",
+      "Junte à mistura os ingredientes secos: a farinha, o amido de milho e o chocolate em pó. E misture tudo muito bem, de forma delicada, até que vire uma massa bem homogênea.",
+      "Em seguida, adicione o fermento em pó e misture com delicadeza.",
+      "Unte uma forma - preferencialmente redonda com furo no meio - com óleo, farinha de trigo e chocolate em pó.",
+      "Despeje a mistura do bolo e antes de colocar no forno dê leves batidas na forma para que a massa fique bem distribuída e também para que as bolhas que possam ter se formado saiam da massa.",
+      "Asse em forno médio preaquecido por 30 a 40 minutos, ou até que, furando com um palito ou garfo, ele saia limpo.",
+      "Desligue o forno e retire o bolo, deixando-o esfriar antes de corta-lo ou desenforma-lo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LARISSA CASTELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312775-bolo-de-banana-com-chocolate.html"
+}

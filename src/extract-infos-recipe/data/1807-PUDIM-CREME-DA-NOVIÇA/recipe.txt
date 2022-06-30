@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM CREME DA NOVIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de gelatina de morango",
+      "1 caixa de gelatina de uva",
+      "250 ml de água quente para dissolver a gelatina",
+      "300 ml de leite",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado (395 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva bem as 2 caixas de gelatina na água quente.",
+      "Coloque no liquidificador a gelatina bem dissolvida, o leite, o creme de leite e o leite condensado.",
+      "Bata por 5 minutos",
+      "Onde colocar: numa tigela de vidro ou forma de pudim de alumínio.",
+      "Se optar pela forma de alumínio e necessário untar com óleo",
+      "Leve à geladeira até endurecer",
+      "Para desenformar: aqueça água e coloque a forma com o pudim bem endurecido dentro da água quente por 30 segundos. Agora e só desenformar",
+      "Fica simplesmente delicioso!!!",
+      "Fácil, barato e maravilhoso!!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ERONILDES BARRAGAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306742-pudim-creme-da-novica.html"
+}

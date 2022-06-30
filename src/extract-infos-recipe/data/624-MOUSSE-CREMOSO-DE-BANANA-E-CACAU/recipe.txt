@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE CREMOSO DE BANANA E CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de leite",
+      "1 banana média",
+      "2 colheres cheias de cacau em pó",
+      "para decorar granulado ou barrinhas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a banana em pedaços pequeno",
+      "Pegue o liquidificador e coloque a banana, coloque as duas colheres de cacau em pó e a metade da xícara de leite",
+      "obs: o leite é para deixar cremoso, não use muito para não ficar tão líquido",
+      "Depois bata tudo por 1 minuto até ficar tudo bem consistente",
+      "Pegue um copo e coloque a nossa misturinha nele e decore por cima com granulado, chocolate, morangos picados, solte sua criatividade e o que tiver na sua geladeira "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A banana pode ser congelada também para dar um tchan a mais\nEstá pronto! \nÓtimo para lanches da tarde e para dias calorentos\nSustenta e é saudável!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ARIANNE CACERES DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312302-mousse-cremoso-de-banana-e-cacau.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MINGAU DE MILHO FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de leite",
+      "1 colher de margarina/manteiga",
+      "3 colheres de milharina",
+      "2 colheres de açúcar",
+      "1 colher de coco ralado",
+      "canela pra polvilhar a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela ainda desligada coloque todos os ingredientes exceto a canela",
+      "Acenda o fogo e, com uma colher de pau, vá mexendo até engrossar e desprender do fundo da panela.",
+      "Está pronto, só servir"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA TAVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306709-mingau-de-milho-facil-e-rapido.html"
+}

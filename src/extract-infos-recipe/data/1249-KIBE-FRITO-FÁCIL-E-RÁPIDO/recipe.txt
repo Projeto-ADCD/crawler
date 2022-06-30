@@ -1,0 +1,30 @@
+{
+  "nome_receita": "KIBE FRITO FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha para kibe",
+      "900 g de carne moída (acém ou qualquer outra)",
+      "1 cebola grande",
+      "2 dentes de alho grande",
+      "1 pitada de pimenta-do-reino (a gosto)",
+      "1 colher (café) cheia de sal",
+      "cheiro-verde a gosto (bem picado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa bacia ou refratário coloque a farinha e acrescente 700 ml de água morna e deixe descansar por 45 minutos.",
+      "Num liquidificador coloque a cebola picada o alho picado (hortelã picada se quiser), sal e meia xícara (chá) de água, bata tudo até ficar bem líquido e reserve.",
+      "Num refratário ou bacia forre um pano (seja uma toalha de mesa pequena ou um guardanapo grande) jogue a farinha hidratada juntocom a água, feche o pano de modo a formar uma trouxa, esprema até sair todo o excesso de água.",
+      "Num recipiente grande junte a farinha, a carne, a cebola batida, o cheiro-verde, a pimenta-do-reino e misture tudo até ficar bem homogêneo, corrija o sal conforme seu gosto.",
+      "Enrole com as mãos fazendo formato de Kibe.",
+      "Aqueça 500 ml de óleo e frite até dourar.",
+      "O número de pessoas que irá servir será de acordo com o tamanho que você fizer.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "ROBERT WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309241-kibe-frito-facil-e-rapido.html"
+}

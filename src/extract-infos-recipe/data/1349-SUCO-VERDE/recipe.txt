@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUCO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maracujá",
+      "1 folha de couve ou um punhado de couve cortada",
+      "1 litro de água filtrada",
+      "açúcar ou adoçante a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Coe com uma peneira e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RENATA SAGGIORO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308780-suco-verde.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CUECA VIRADA (ORELHA DE GATO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 xícaras de leite",
+      "1 xícara de açúcar",
+      "1 xícara de óleo",
+      "1 colher de fermento em pó químico",
+      "Farinha até dar ponto (aprox. 6 xícaras de 240 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ingredientes líquidos, ovos, leite, açúcar e óleo e misture bem.",
+      "Adicione o fermento químico e misture bem.",
+      "Em seguida adicione xícara por xícara de farinha misturando a cada xícara colocada.",
+      "Quando começar a formar uma massa, sove de 10 a 15 minutos até adiquirir uma consistência semelhante à massa de coxinha cozida (mole e úmida, porém que seja moldável e que não grude).",
+      "Em seguida, passe no rolo de pão ou cilindro até a espessura de 2-3 milímetros. Acredite, quando fritar vai ficar igual à foto!",
+      "Em seguida, monte da forma que preferir, não deixe muito grossa pois ela pode não ficar macia como um \"sonho\".",
+      "Esquente o óleo e deixe fritar, porém mude para fogo baixo quando fritar.",
+      "Aproveite e, caso queira também, polvilhe açúcar refinado misturado com canela (ou bata açúcar cristal no liquidificador até ficar fino e misture com canela)."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "CLAUDIA GABRIELY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313110-cueca-virada-orelha-de-gato.html"
+}

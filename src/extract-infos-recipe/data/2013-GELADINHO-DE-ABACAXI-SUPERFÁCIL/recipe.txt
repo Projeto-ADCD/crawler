@@ -1,0 +1,32 @@
+{
+  "nome_receita": "GELADINHO DE ABACAXI SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condençado",
+      "2 caixa de creme de leite",
+      "2 pacote de gelatinha sabor abacaxi",
+      "1 pacote de gelatina sem sabor",
+      "1 abacaxi grande picado",
+      "100 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o abacaxi em cubos",
+      "Adicione ele a uma panela coloque o açúcar e leve ao fogo até que ele ferva bem durante uns 20 minutos",
+      "Em seguida escorra a água do abacaxi dentro de um refratário",
+      "Coloque em um liquidificador as duas gelatinas de abacaxi, adicione o creme de leite e o leite condensado e em seguida use a água do abacaxi que você escorreu ",
+      "Bata tudo até que misture bem",
+      "Hidrate a gelatina sem sabor com duas colher de água",
+      "Assim que a gelatina tiver hidratada leve a mesma ao micro-ondas durante 3 segundo ou até que se forme uma calda sem seguida adicione ela no liquidificador e bata mais um pouco",
+      "Em um refratário coloque o abacaxi cozido reservando um pouco para decoção",
+      "Em seguida adicione a massa do liquidificador e depois coloque por cima o restante do abacaxi",
+      "Leve à geladeira durante 4 horas ou até o dia seguinte",
+      "Depois sirva-se , um bom apetite !!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANO JESSICA BIA PRASSER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306194-geladinho-de-abacaxi-superfacil.html"
+}

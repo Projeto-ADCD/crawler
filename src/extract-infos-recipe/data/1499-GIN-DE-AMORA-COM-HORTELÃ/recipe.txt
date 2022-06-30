@@ -1,0 +1,22 @@
+{
+  "nome_receita": "GIN DE AMORA COM HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de amoras congeladas",
+      "60 ml de gin",
+      "100 ml de tônica",
+      "alecrim",
+      "hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse levemente a amora e coloque o gelo e o gin, complete com a tônica.",
+      "Para dar um gosto especial enfeite com a hortelã e o alecrim."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308015-gin-de-amora-com-hortela.html"
+}

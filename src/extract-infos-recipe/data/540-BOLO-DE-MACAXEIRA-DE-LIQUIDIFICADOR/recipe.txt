@@ -1,0 +1,50 @@
+{
+  "nome_receita": "BOLO DE MACAXEIRA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de macaxeira descascada e ralada grossa",
+      "2 xícaras (chá) de açúcar",
+      "200 g de Margarina Delícia",
+      "4 ovos",
+      "1 pitada de sal",
+      "200 ml de leite de coco",
+      "60 g de coco ralado",
+      "1 colher (sobremesa) de fermento em pó"
+    ],
+    "PARA CARAMELIZAR": [
+      "100 ml de leite de coco",
+      "1 colher (sopa) de açúcar"
+    ],
+    "CALDA": [
+      "200 ml de leite de coco",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de Margarina Delícia",
+      "1 colher (chá) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata o açúcar e a margarina Delícia até formar um creme esbranquiçado.",
+      "Continue batendo e junte um a um os ovos e o sal.",
+      "Desligue a batedeira e misture manualmente: a macaxeira ralada, o leite de coco, o coco ralado e o fermento.",
+      "Coloque a massa em uma forma de furo central de 25 cm de diâmetro untada com margarina Delícia e enfarinhada.",
+      "Asse no forno preaquecido a 200° C por 1 hora ou até ficar bem dourado."
+    ],
+    "PARA CARAMELIZAR": [
+      "Misture o leite de coco e o açúcar e depois de 20 minutos que o bolo estiver assando, regue algumas vezes com a calda para caramelizar."
+    ],
+    "CALDA": [
+      "Em uma panela misture: o leite de coco, o açúcar, a margarina Delícia e o amido de milho.",
+      "Leve ao fogo e cozinhe mexendo sem parar, até engrossar levemente.",
+      "Deixe esfriar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva as fatias de bolo regadas com a calda."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312576-bolo-de-macaxeira-de-liquidificador.html"
+}

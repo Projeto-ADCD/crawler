@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOLHO DE LARANJA E MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 laranjas",
+      "1 cebola pequena",
+      "1/2 pimentão verde",
+      "1 cubo de caldo de legumes",
+      "2 colheres (sopa) de trigo",
+      "1 colher (sopa) de manteiga sem sal",
+      "1 colher (sopa) de azeite oliva",
+      "1 colher (sopa) de mel",
+      "pimenta-do-reino a gosto",
+      "Pimenta calabresa a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale a cebola e pique bem miudinho o pimentão",
+      "Em uma panela média, coloque a manteiga e o azeite e junte a cebola e pimentão",
+      "Refogue, junte o trigo, misture bem e refogue mais um minuto",
+      "Junte o suco das laranjas e coloque o caldo de legumes, sempre mexendo bem para não empelotar",
+      "Junte o mel e as pimentas a gosto",
+      "Mexa até engrossar e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ZOCOLLOTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310851-molho-de-laranja-e-mel.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE SARDINHA NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "MASSA": [
+      "2 xícaras (chá) de de leite",
+      "1 xícara (chá) de óleo",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (chá) de sal",
+      "3 ovos"
+    ],
+    "RECHEIO": [
+      "2 a 3 latas de sardinha",
+      "1/2 cebola picada",
+      "2 dentes de alho picado",
+      "1 lata de molho de tomate pronto",
+      "azeitonas",
+      "1 lata de milho verde",
+      "1 lata de seleta ou ervilha",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o formo em 180° C",
+      "Unte a forma com manteiga ou margarina e farinha de trigo reserve",
+      "Bata todos os ingredientes da massa e por último o fermento (coloque aos poucos a farinha de trigo no liquidificador na maior velocidade) coloque na forma já untada uma parte da massa e reserve",
+      "Misture com cuidado todos os ingredientes do recheio e coloque sobre a massa que está na forma",
+      "Coloque o que sobrou da massa por cima do recheio e leve ao forno",
+      "Asse por 40 minutos e retire"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "27 PORÇÕES",
+  "autor": "NATÁLIA LEANDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310622-torta-de-sardinha-no-liquidificador.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FEIJOADA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos de feijão preto",
+      "3 folhas de louro ",
+      "3 pés de porco",
+      "2 orelhas de porco",
+      "1 kg de carne-seca",
+      "250 g de bacon",
+      "1/2 kg de linguiça",
+      "1/2 kg de lombo",
+      "1 kg de costelinha",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ingredientes salgados (pés, orelhas, carne seca, costelinha) em um recipiente com água um dia antes do preparo.)",
+      "Troque a água três vezes nesse intervalo de tempo.",
+      "Coloque os pés do porco, orelha, carne seca, cortelinha e o lombinho para cozinhar em uma panela de pressão por 30 minutos.",
+      "Verifique se está tudo mole.",
+      "A linguiça e o paio devem ser apenas ferventados em uma panela comum.",
+      "O feijão deve ser cozido em outra panela com os temperos de sua preferência.",
+      "Depois de tudo cozido, coloque tudo junto em uma panela de pressão e leve ao fogo por mais 15 minutos para pegar o gosto.",
+      "Veja se precisa corrigir o sal antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARCELO AMARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308991-feijoada-na-panela-de-pressao.html"
+}

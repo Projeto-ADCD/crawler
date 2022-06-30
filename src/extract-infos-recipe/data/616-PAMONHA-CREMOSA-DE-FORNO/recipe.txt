@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PAMONHA CREMOSA DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de carne-seca cozida, dessalgada e desfiada",
+      "6 espigas de milho",
+      "2 xícaras de leite",
+      "1 colher (sobremesa) de sal",
+      "1 e 1/2 cebola picada",
+      "2 dentes de alho moídos",
+      "4 colheres (sopa) de Margarina Primor Todo Dia",
+      "1 colher (sopa) de Óleo de Soja Primor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça 3 colheres da margarina PRIMOR com o óleo PRIMOR e refogue a cebola com o alho.",
+      "Junte a carne seca e misture bem. Reserve.",
+      "Retire os grãos das espigas bem rentes ao sabugo e bata no liquidificador com o leite. Peneire e coloque em uma panela.",
+      "Leve ao fogo, mexendo de vez em quando até levantar fervura.",
+      "Cozinhe por mais 20 minutos e junte o sal e 1 colher da margarina PRIMOR.",
+      "Despeje metade dessa massa em uma forma oval com 30cm de comprimento. Cubra com a carne refogada e finalize com a metade restante da pamonha",
+      "Leve ao forno por 10 minutos ou até que ela comece a se soltar da borda do refratário.",
+      "Decore a gosto e sirva bem quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA\nSe preferir, substitua o milho fresco por 3 latas de milho no vapor em lata e, se necessário, adicione 1 colher (chá) de amido de milho dissolvido em água, para engrossar a pamonha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312312-pamonha-cremosa-de-forno.html"
+}

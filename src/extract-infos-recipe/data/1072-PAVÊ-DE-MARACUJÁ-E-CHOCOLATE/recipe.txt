@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PAVÊ DE MARACUJÁ E CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de gelatina de maracujá",
+      "1/2 xícara de água fervente",
+      "6 colheres (sopa) de água fria",
+      "1/2 xícara de suco concentrado de maracujá + 4 colheres (sopa)",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "2 colheres de açúcar",
+      "300 g de biscoito maisena sabor chocolate",
+      "Cobertura:",
+      "1/2 xícara de água",
+      "2 maracujás",
+      "5 colheres de açúcar",
+      "1/2 colher de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina na água fervente e coloque no liquidificador.",
+      "Junte o suco (reserve as 4 colheres), o leite condensado, o creme de leite e bata por um minuto.",
+      "Reserve a mistura coberta na geladeira enquanto prepara o resto",
+      "Num prato fundo, misture o suco reservado com o açúcar e a água fria.",
+      "Num refratário, alterne camadas de biscoito passado na mistura de suco e do creme, repetindo até terminar com o creme",
+      "Cubra com filme plástico e leve à geladeira por 3 horas",
+      "Cobertura",
+      "Misture a água com a polpa, o açúcar e o amido.",
+      "Leve ao fogo, mexendo até engrossar",
+      "Deixe esfriar e cubra o pavê."
+    ]
+  },
+  "tempo_de_preparo": "210 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIA MARCELINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310112-pave-de-maracuja-e-chocolate.html"
+}

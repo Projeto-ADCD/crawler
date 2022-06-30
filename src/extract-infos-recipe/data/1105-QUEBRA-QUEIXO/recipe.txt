@@ -1,0 +1,31 @@
+{
+  "nome_receita": "QUEBRA-QUEIXO",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 colheres (sopa) de açúcar",
+      "80 ml de água",
+      "2 colheres (sopa) de suco de limão",
+      "1 + 1/2 xícara de coco ralado ",
+      "1/2 xícara de coco em pedaços",
+      "manteiga",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o açúcar, 40 ml de água e o suco de limão",
+      "Mexa bem e deixe formar uma calda bem dourada",
+      "Junte os coco ralado e mexa bem",
+      "Deixe ferver em fogo baixo",
+      "Quando a mistura ficar bem dourada, junte o coco em pedaços e misture bem",
+      "Junte 40 ml de água e misture novamente",
+      "Unte uma forma com manteiga e despeje a mistura formada",
+      "Deixe esfriar fora da geladeira por 1 hora e 30 minutos",
+      "Desenforme, corte e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309864-quebra-queixo.html"
+}

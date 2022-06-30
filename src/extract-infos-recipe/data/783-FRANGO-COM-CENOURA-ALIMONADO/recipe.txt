@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FRANGO COM CENOURA ALIMONADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango cortado em cubos",
+      "6 dentes de alho picado",
+      "2 limões médios/grande",
+      "2 cenouras médias/grandes",
+      "sal",
+      "orégano",
+      "cominho",
+      "pimenta-do-reino",
+      "salsa e cebolinha picados",
+      "50 ml de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, tempere o peito de frango com alho, sal, pimenta, cominho, orégano e o suco dos limões.",
+      "Em uma panela média, coloque o azeite e a cebola picada.",
+      "Deixe dourar e coloque o frango e a cenoura com o caldo do tempero todo.",
+      "Refogue e deixe cozinhando no próprio tempero (opcional um tablete de caldo de frango).",
+      "Quando secar, coloque uma xícara de água (se preferir coloque um pouco de páprica doce ou uma colher de extrato de tomate para dar uma cor) a salsa e a cebolinha.",
+      "Espere dois minutos e desligue.",
+      "Saboreie essa delícia!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIANA MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311569-frango-com-cenoura-alimonado.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO COM GOTAS DE CHOCOLATE DO CRUZINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de manteiga sem sal em temperatura ambiente",
+      "3/4 xícara de açúcar",
+      "1/2 xícara de açúcar mascavo",
+      "1 ovo",
+      "1 e 3/4 de xícara de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "300 g de chocolate meio amargo picado",
+      "1 colher (chá) de essência de baunilha",
+      "(para fazer biscoito de chocolate acrescentar 1/4 xícara de chocolate em pó)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a manteiga, açúcar mascavo, açúcar, e a farinha (e chocolate em pó, se for fazer cookies com base de chocolate).",
+      "Adicione o ovo bata um pouco a massa (de preferência em uma batedeira) e logo após adicione a essência de baunilha",
+      "Bata muito bem a massa até ficar bem homogênea",
+      "Por último, adicione o fermento e misture só para incorporá-lo à massa.",
+      "Depois da massa bem misturada, pique q barra de chocolate e adicione na massa e bata mais um pouco",
+      "Forme bolinhas médias e asse em forno preaquecido, com forma montada, por aproximadamente 15 a 20 minutos (250° C)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICAS:\nDeixe a massa dos biscoitos bem separadas na forma pois eles se espalham muito\nNão coloque muita massa em cada bolinha\nA massa não eh uma massa consistente então não vai conseguir formar bolinha pois ela é um pouco grudenta então pegue COM A MÃO um montinho médio de massa e adicione a assadeira"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "GABRIEL CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312974-biscoito-amanteigado-com-gotas-de-chocolate-do-cruzinho.html"
+}

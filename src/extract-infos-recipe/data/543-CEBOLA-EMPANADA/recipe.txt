@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CEBOLA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas grandes",
+      "2 xícaras de farinha de trigo",
+      "sal a gosto",
+      "1 xícara (chá) leite",
+      "2 xícaras de farinha de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as cebolas em rodela com cerca de um centímetro de largura.",
+      "Deixe as cebolas de molho na água gelada por 15 minutos.",
+      "Numa tigela,coloque a farinha de trigo e tempere-a com sal.",
+      "Em seguida passe as rodelas de cebola no leite, depois na farinha de trigo temperada,passe na farinha de rosca.",
+      "Depois passe mais uma vez no leite Emais uma vez na farinha de rosca.",
+      "Coloque no freezer ou congelador por 20 minutos.",
+      "Depois,em uma panela bem quente com óleo coloque pra fritar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CELINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312572-cebola-empanada.html"
+}

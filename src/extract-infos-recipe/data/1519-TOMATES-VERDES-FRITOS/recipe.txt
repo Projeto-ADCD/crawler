@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TOMATES VERDES FRITOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates paulista verdes médios",
+      "1 xícara de fubá",
+      "100 g de bacon",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os tomates em fatias.",
+      "Tempere com sal e pimenta a gosto.",
+      "Empane as fatias de tomate no fubá.",
+      "Corte o bacon em pedaços pequenos.",
+      "Cubra o fundo de uma frigideira larga com o bacon.",
+      "Frite, junto com o bacon, as fatias empanadas dos tomates até dourar ambos os lados."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDSON PEDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307931-tomates-verdes-fritos.html"
+}

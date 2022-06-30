@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LAGARTO NA MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lagarto inteiro (3 kg)",
+      "1 vidro grande de mostarda em pasta",
+      "1 garrafa de vinho tinto rascante",
+      "1 xícara de vinagre",
+      "1 xícara de azeite",
+      "5 dentes de alho",
+      "2 cravos-da-índia",
+      "rodelas de cebola a gosto",
+      "2 folhas de louro",
+      "3 copos de óleo",
+      "sal",
+      "pimenta-do-reino",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a pele do lagarto e amarre com barbante.",
+      "Coloque numa vasilha e tempere com sal, pimenta, cravo torrado e moído.",
+      "Regue com vinho, vinagre, azeite e uma xícara de água.",
+      "Junte a cebola e o louro e deixe na geladeira por 12 horas.",
+      "No dia seguinte, retire a carne do vinha d’alhos, enxugue, coloque sobre uma tábua e besunte com metade da mostarda.",
+      "Leve uma panela grande ao fogo com três copos de óleo para esquentar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308849-lagarto-na-mostarda.html"
+}

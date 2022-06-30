@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GELATINA ARCO-ÍRIS CREMOSA ZERO AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pacotinhos de gelatina zero açúcar de sabores diferentes",
+      "800 ml de leite desnatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela 100 ml de leite e deixe esquentar",
+      "Adicione a gelatina e derreta ela ainda com o fogo ligado",
+      "Deixe ferver um pouco, desligue o fogo e adicione mais 100 ml de leite frio",
+      "Coloque a mistura em uma forma de pudim e leve ao congelador por 15 minutos ou até que esteja endurecida",
+      "Repita o mesmo processo com os outros sabores colocando uma em cima da outra, assim que uma já estiver endurecida, prepare a outra e a coloque ainda líquida em cima dela e deixe endurecer, faça isso com as 4",
+      "Desenforme em um prato, corte e sirva"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "SABRINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309016-gelatina-arco-iris-cremosa-zero-acucar.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM GOTAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo (americano) de leite",
+      "1 copo (americano) de açúcar",
+      "1/2 copo (americano) de óleo",
+      "1 copo (americano) de farinha de trigo",
+      "2 copos (americano) de fubá",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento em pó",
+      "pedaços de Chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C.",
+      "No liquidificador coloque o ovo, o óleo, o açúcar, o leite e a pitada de sal.",
+      "Bata até misturar tudo e acrescente a farinha de trigo e o fubá.",
+      "Bata tudo até ficar bem homogêneo (aprox. 4 minutos).",
+      "Acrescente o fermento em pó e misture com uma colher.",
+      "Coloque em uma assadeira untada.",
+      "Acrescente as gotas/moedas de chocolate e leve para assar por 40 minutos em fogo baixo. (180°C)."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TATIANE MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306221-bolo-de-fuba-com-gotas-de-chocolate.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE POTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maçã",
+      "1/2 lata de creme de leite",
+      "1/2 xícara de leite",
+      "6 gotas de essência de baunilha",
+      "1\\2 xícara de amido de milho",
+      "2 biscoitos de maisena picados",
+      "1 colher de (café) com canela",
+      "2 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes, menos a baunilha.",
+      "Depois de batido, coloque em uma panela no fogo médio e mexa bastante por pelo penos 10 minutos",
+      "Em seguida, coloque em uma tigela e pingue as 6 gotas da essência de baunilha",
+      "Bata em uma batedeira, até ficar cremoso.",
+      "Depois coloque no freezer por 15 minutos"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA PAULA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306454-pudim-de-pote.html"
+}

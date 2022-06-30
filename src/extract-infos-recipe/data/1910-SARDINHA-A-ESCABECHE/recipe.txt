@@ -1,0 +1,39 @@
+{
+  "nome_receita": "SARDINHA A ESCABECHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de filé de sardinhas frescas",
+      "1 pimentão verde",
+      "1 pimentão vermelho",
+      "3 tomates",
+      "1 cebola grande",
+      "1/2 maço de salsa",
+      "1/2 maço de cebolinha",
+      "1/2 maço de coentro",
+      "1/2 xícara de azeite",
+      "1/2 xícara de vinagre",
+      "1/2 xícara de água",
+      "3 dentes de alho amassado",
+      "1 colher rasa (sobremesa) de sal",
+      "3 limões",
+      "orégano",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente mistura a água, o vinagre, o azeite e o sal",
+      "Corte em rodelas os tomates, pimentões e cebola",
+      "Pique a salsa, a cebolinha e o coentro",
+      "Tempere os filés de sardinha com o suco do limão, sal e orégano",
+      "Ajeite tudo em uma panela de pressão, iniciando pelo passo 2",
+      "Adicione a mistura de água, vinagre, azeite e sal",
+      "Coloque no fogo em pressão por 40 minutos",
+      "Acondicione em um refratário e sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CLAUDIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306466-sardinha-a-escabeche.html"
+}

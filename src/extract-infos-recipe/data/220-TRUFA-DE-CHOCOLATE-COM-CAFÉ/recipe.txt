@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TRUFA DE CHOCOLATE COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de chocolate",
+      "75 g de creme de leite",
+      "2 colheres (sopa) de café expresso",
+      "cacau em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve o chocolate ao micro-ondas de 30 em 30 segundos, até derreter",
+      "Junte o creme de leite ao chocolate e misture bem, até encorpar",
+      "Adicione o café á mistura (obs: o café não pode estar quente, de preferencia em temperatura ambiente ou gelado)",
+      "Coloque a mistura na geladeira até endurecer",
+      "Quando endurecer, faça bolinhas com a trufa, e passe no cacau em pó",
+      "E está pronto para saborear "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JUNCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313890-trufa-de-chocolate-com-cafe.html"
+}

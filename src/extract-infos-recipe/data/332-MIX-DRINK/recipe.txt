@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MIX DRINK",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de whisky ",
+      "2 xícaras de mel",
+      "1 xícara de vodka (de sua escolha)",
+      "2 xícaras de licor de menta (de sua escolha)",
+      "gelo",
+      "folha de menta para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo na coqueteleira logo após adicione o gelo e quando servir coloque a folha de menta para decoração do seu drink",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Caso quiser adicione leite condensado para tornar mais gostoso o deu drink"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAYSSA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313152-mix-drink.html"
+}

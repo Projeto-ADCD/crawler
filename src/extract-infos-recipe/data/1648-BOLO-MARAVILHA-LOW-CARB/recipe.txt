@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO MARAVILHA LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 colheres (sopa) de farinha de coco",
+      "3 colheres (sopa) de coco ralado sem açúcar",
+      "3 colheres (sopa) de adoçante para forno e fogão",
+      "2 colheres (sopa) de manteiga (ou margarina)",
+      "100 ml de leite de coco",
+      "2 maçãs pequenas",
+      "1 banana",
+      "1 colher (chá) de canela em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata os ingredientes exceto uma maçã pequena e o fermento em pó.",
+      "Pique a outra maçã em pequenos cubos e acrescente na massa.",
+      "Despeje em uma vasilha o conteúdo do liquidificador, a maçã picada e o fermento em pó e misture.",
+      "Em uma forma untada com óleo de coco, adicione a massa.",
+      "Leve para assar em forno preaquecido a 200 º C até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LIDIANE DE LEMOS SOARES PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307270-bolo-maravilha-low-carb.html"
+}

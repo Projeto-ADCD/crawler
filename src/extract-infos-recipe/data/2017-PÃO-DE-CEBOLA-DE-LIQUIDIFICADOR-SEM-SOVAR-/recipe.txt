@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE CEBOLA DE LIQUIDIFICADOR (SEM SOVAR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite morno",
+      "1 ovo",
+      "1 colher (chá) de sal",
+      "120 ml ou 1/2 xícara de óleo",
+      "2 colheres (sopa) de açúcar",
+      "1 envelope de fermento seco para pão (10 g)",
+      "1/2 cebola",
+      "2 e ½ xícaras de farinha de trigo peneirada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador por mais ou menos 2 minutos, todos os ingredientes menos a farinha.",
+      "Despeje essa mistura numa tigela ou bacia e acrescente a farinha.",
+      "Obs: como coloquei cebola, a massa ficou mais mole, então acrescentei mais ou menos 1 xícara de farinha.",
+      "A massa fica um pouco mole mesmo.",
+      "Cubra com um pano ou tampa e deixe crescendo por 30 minutos.",
+      "Numa forma untada e enfarinhada, acomode essa massa.",
+      "Polvilhe com queijo parmesão ralado e orégano ou ervas finas.",
+      "Forno preaquecido, 180° C por mais ou menos 30 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "ELAINE A. Q. AKITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306186-pao-de-cebola-de-liquidificador-sem-sovar.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PASTA DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho",
+      "1/2 copo de ketchup",
+      "1/2 copo de mostarda",
+      "3 ovos inteiros",
+      "1 litro de óleo e sal a gosto",
+      "1 pacote de queijo ralado",
+      "1 copo de requeijão cremoso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o alho picado bata no liquidificador, os ovos, acrescentado, ketchup e mostarda",
+      "Bata bem por alguns minutos",
+      "Vá acrescentando o óleo e o sal e vá mexendo para ajudar",
+      "Fica uma pasta, depois de batido todo o óleo",
+      "Na pasta acrescente, o pacote de queijo ralado, e o requeijão cremoso.",
+      "Fica uma delicia para churrasco, pão de alho e até nas saladas "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALYNE PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307358-pasta-de-alho.html"
+}

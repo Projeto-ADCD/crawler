@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO VERDE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha grande de couve",
+      "1 banana da água",
+      "1 colher (sopa) de linhaça",
+      "1 pitada de canela",
+      "1 xícara (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Higienize a couve.",
+      "Bata todos os ingredientes no liquidificador.",
+      "Sirva "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MANUELA VIEIRA NETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307505-suco-verde-cremoso.html"
+}

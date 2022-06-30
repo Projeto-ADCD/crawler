@@ -1,0 +1,70 @@
+{
+  "nome_receita": "CROQUEMBOUCHE",
+  "ingredientes": {
+    "MASSA": [
+      "100 g de manteiga ",
+      "1 colher (chá) de sal",
+      "150 g de farinha de trigo peneirada",
+      "1 colher (chá) de açúcar",
+      "4 ovos"
+    ],
+    "RECHEIO": [
+      " ",
+      "1 copo americano bem cheio de açúcar granulado",
+      "1 copo americano de água",
+      "500 ml de leite (500ml)",
+      "5 gemas peneiradas",
+      "5 colheres (sopa) rasas de amido de milho",
+      "1 colher (sobremesa) de essência de baunilha",
+      "Caramelo{TITLE}"
+    ],
+    "Caramelo{TITLE}": [
+      "350 g de açúcar",
+      "200 ml de água",
+      "1 colher (chá) de vinagre branco",
+      " ",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Coloque a manteiga, o sal e 250 ml de água em uma panela e leve ao fogo até ferver. ",
+      "Depois de ferver, junte a farinha de trigo e o açúcar misturando bem. ",
+      "Mantenha a panela no fogo e continue mexendo até a massa formar uma bola e soltar do fundo da panela, se enrolando na colher.",
+      "Transfira para uma batedeira e acrescente aos poucos os ovos, levemente batidos, e bata até formar uma massa brilhante e lisa, que deve cair quando levantada com a colher. ",
+      "Coloque em um saco de confeitar com bico largo e faça as carolinas em uma assadeira untada com manteiga. ",
+      "Asse em forno médio-alto, em aproximadamente 200°C, preaquecido, até que estejam levemente douradas e secas. ",
+      "Retire e reserve."
+    ],
+    "RECHEIO": [
+      "Ferva açúcar e água até obter uma calda em ponto de fio grosso. Deixe esfriar.",
+      "Misture o restante dos ingredientes, menos a baunilha, junte à calda de açúcar reservada e leve ao fogo, mexendo sempre até engrossar.",
+      "Retire do fogo, junte a baunilha.",
+      "Deixe esfriar e reserve."
+    ],
+    "CARAMELO": [
+      "Coloque o açúcar e a água e leve ao fogo até ferver e formar um caramelo claro. ",
+      "Adicione o vinagre, mexa girando a panela para incorporar e reserve.",
+      " "
+    ],
+    "MONTAGEM": [
+      "Coloque o recheio em um saco de confeitar com bico liso e faça um furo na parte de baixo, esprema e recheie as carolinas. Repita até terminar todas. ",
+      "Espete, uma por uma, as carolinas em um palito para churrasco e molhe o topo de cada uma com a calda ainda morna e arrume em um prato, fazendo um círculo e preenchendo o centro. ",
+      "Repita o processo, fazendo um novo círculo em cima do primeiro, começando a dar o formato de uma torre. ",
+      "Quando terminar, decore de acordo com a sua preferência.",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O ponto do caramelo é muito importante para formar uma camada crocante e o acabamento nas carolinas, então não banhe as carolinas com uma camada muito grossa de calda.\n  Se a calda esfriar e engrossar, aqueça levemente para que voltar à consistência ideal."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309709-croquembouche.html"
+}

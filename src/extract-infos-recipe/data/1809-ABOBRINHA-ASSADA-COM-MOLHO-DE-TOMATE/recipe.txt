@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ABOBRINHA ASSADA COM MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha",
+      "1 tomate",
+      "1/2 cebola cortadas em rodelas",
+      "1/2 linguiça calabresa",
+      "metade de um sachê de molho de tomate",
+      "100 g de queijo ralado",
+      "tempero verde, orégano e sal a gosto.",
+      "2 dentes de alho",
+      "1 colher de óleo ou azeite de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, doure os 2 dentes de alho no azeite. Acrescente o tomate cortado em cubos e deixe encorpar (vai adicionando um pouquinho de água pra não secar)",
+      "Em seguida rale a calabresa, adicione ao tomate junto com cheiro verde e o sal. Refogue um pouco e acrescente o molho de tomate. Deixe ferver",
+      "Corte lascas da abobrinha e adicione ao um refratário com o queijo ralado, adicione o molho da penela, um pouco de orégano e as cebolas em rodelas por cima. (Certifique que abóbora esteja coberta com o molho)",
+      "Cubra o refratário com papel alumínio, coloque no forno em 180° por 20 min.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306737-abobrinha-assada-com-molho-de-tomate.html"
+}

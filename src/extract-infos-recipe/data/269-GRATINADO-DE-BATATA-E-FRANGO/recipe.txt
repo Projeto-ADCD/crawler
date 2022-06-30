@@ -1,0 +1,39 @@
+{
+  "nome_receita": "GRATINADO DE BATATA E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 peito de frango cozido e desfiado",
+      "4 batatas médias",
+      "600 ml de leite",
+      "1 tablete de caldo de galinha caipira",
+      "1 colher (sopa) de manteiga",
+      "1 caixinha de creme de leite (200ml)",
+      "100 g de queijo provolone em fatias",
+      "100 g de queijo parmesão ralado",
+      "Sal e pimenta a gosto se necessário"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com água e temperos de sua preferência, cozinhe o peito de frango.",
+      "Depois de frio desfie o peito de frango.",
+      "Corte as batatas em rodelas finas, use um cortador para que todas fiquem da mesma espessura.",
+      "Em uma panela funda, coloque o leite, a manteiga o tablete de caldo de galinha e as batatas cortadas e leve tudo ao fogo.",
+      "Vá mexendo constantemente para não grudar na panela.",
+      "Quando as batatas estiverem cozidas, retire-as com uma escumadeira e coloque-as em um refratário untado com manteiga.",
+      "O leite que cozinhou as batatas deve estar cremoso.",
+      "Acrescente o creme de leite e mexa bem.",
+      "Acrescente o frango desfiado ao molho e misture tudo muito bem.",
+      "Experimente se falta tempero.",
+      "Se necessário acrescente sal e pimenta a gosto.",
+      "Sobre as batatas coloque as fatias de queijo provolone e cubra tudo com o molho com o frango desfiado.",
+      "Salpique queijo parmesão ralado por cima.",
+      "Leve ao forno pré-aquecido para gratinar por uns 30 minutos ou até dourar.",
+      "Sirva acompanhado de uma boa salada verde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313561-gratinado-de-batata-e-frango.html"
+}

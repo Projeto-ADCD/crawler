@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PUDIM DE COCO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "200 ml de leite de coco ",
+      "2 ovos",
+      "1 gema",
+      "1 xícara de coco ralado",
+      "1/2 xícara de chocolate em pó",
+      "1 colher (sopa) de açúcar",
+      "1 xícara de leite",
+      "1 colher (sopa) de óleo de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite condensado, o leite de coco, os ovos e a gema.",
+      "Coloque em outro recipiente e misture o coco ralado.",
+      "Unte uma forma com manteiga e açúcar cristal e despeje a mistura",
+      "Leve ao forno a 180° C em banho-maria por 2 horas",
+      "Tire do forno e leve à geladeira para gelar completamente",
+      "Enquanto isso, em uma panela, coloque o óleo de coco, o açúcar, o chocolate em pó e o leite.",
+      "Misture bem até engrossar",
+      "Retire e reserve. ",
+      "Desenforme o pudim e despeje a calda por cima"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310081-pudim-de-coco-com-chocolate.html"
+}

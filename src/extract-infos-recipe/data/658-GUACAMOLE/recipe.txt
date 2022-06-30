@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GUACAMOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate brasileiro médio (ou 4 avocados)",
+      "1 tomate grande sem sementes",
+      "1 cebola pequena",
+      "2 dentes de alho bem socados",
+      "1 maço de coentro",
+      "1 pimenta malagueta sem sementes",
+      "suco de 1 limão grande",
+      "azeite extra virgem",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o abacate com um garfo, acrescente o alho socado, o suco de limão, sal e azeite a gosto e misture como um purê.",
+      "Pique a cebola, o tomate e o coentro. Pique bem a pimenta.",
+      "Acrescente os ingredientes picados ao \"purê\" de abacate.",
+      "Sirva com chips, crackers, tacos, no burrito ou mesmo junto com arroz e feijão."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GUILHERME",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312131-guacamole.html"
+}

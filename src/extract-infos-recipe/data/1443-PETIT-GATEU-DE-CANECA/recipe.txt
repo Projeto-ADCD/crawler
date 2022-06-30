@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PETIT GATEU DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de achocolatado em pó",
+      "4 colheres (sopa) de açúcar",
+      "4 colheres (sopa) de farinha de trigo (sem fermento)",
+      "1 ovo",
+      "2 colheres (sopa) de óleo",
+      "2 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca adicione o achocolatado, o açúcar e a farinha de trigo.",
+      "Misture bem, adicione o ovo e misture bem novamente",
+      "Adicione o óleo e o leite.",
+      "Misture tudo e coloque 1 minuto e 30 segundos no micro-ondas.",
+      "Mas vigie bem, depois pegue uma colher abaixe a massa e coloque mais 1 minutos e 30 segundos no micro-ondas",
+      "E está prontinho."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: Pode colocar nutella,cobertura,leite condensado e etc....."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BELA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308323-petit-gateu-de-caneca.html"
+}

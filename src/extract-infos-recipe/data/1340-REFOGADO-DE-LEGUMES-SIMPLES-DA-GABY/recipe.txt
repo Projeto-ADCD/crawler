@@ -1,0 +1,28 @@
+{
+  "nome_receita": "REFOGADO DE LEGUMES SIMPLES DA GABY",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pimentões",
+      "3 tomates",
+      "2 cebolas pequenas ou uma grande",
+      "banha de porco",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as cebolas em rodelas grossas.",
+      "Pique o tomate e o pimentão em tiras.",
+      "Coloque a banha para fritar.",
+      "Depois coloque a cebola, e deixe fritar até murchar.",
+      "Depois adicione o pimentão e o tomate.",
+      "Depois mexa bastante até refogar bem.",
+      "Está pronto ",
+      "Pode colocar alho, outros legumes ou outros temperos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308819-refogado-de-legumes-simples-da-gaby.html"
+}

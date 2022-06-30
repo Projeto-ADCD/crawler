@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA DE CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola pequena",
+      "1 linguiça calabresa",
+      "1 cenoura média",
+      "1/2 xícara de óleo de soja",
+      "15 ml de caldo de galinha",
+      "250 g de farinha de milho",
+      "50 ml de água",
+      "milho verde",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e a calabresa e reserve.",
+      "Rale a cenoura e reserve.",
+      "Em uma panela média, coloque a cebola com o óleo de soja, refogue a cebola.",
+      "Com a panela anda ligada, acrescente a cenoura e a calabresa",
+      "Refogue por 5 minutos",
+      "Após refogar, coloque 1 colher de caldo de galinha e 1/2 xícara de água",
+      "Misture bem e com o fogo desligado adicione a 250 g de farinha de milho e cheiro verde a gosto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA CLAUDIA R",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311116-farofa-de-calabresa.html"
+}

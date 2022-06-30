@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE-SECA COM CHIMICHURRI DE ALHO NEGRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de chimichurri de alho negro",
+      "500 g de carne-seca",
+      "1 dente de alho",
+      "100 ml de creme de leite",
+      "1 cebola",
+      "200 ml leite",
+      "50 ml de leite de coco (opcional)",
+      "120 g de queijo parmesão ",
+      "50 g de manteiga",
+      "500 g de mandioca",
+      "1 pimenta dedo de moça",
+      "sal a gosto",
+      "pimenta-do-preta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a carne-seca de molho (de preferência de um dia para o outro, ou pelo menos 6 a horas) e troque a água algumas vezes para dessalgar a carne.",
+      "Em uma panela de pressão com água, coloque a carne-seca em cubos e cozinhe por 30 a 35 min. Desfie a carne e reserve.",
+      "Cozinhe a mandioca com um pouco de sal e passe no espremedor de batatas.",
+      "Em seguida, coloque a mandioca, a manteiga, sal e o leite em uma panela e misture bem.",
+      "Quando estiver liso e homogêneo, desligue e adicione o creme de leite para aveludar.",
+      "Aqueça o azeite e refogue a cebola e o alho, junte a carne seca, acerte o sal e a pimenta preta.",
+      "Junte o chimichurri de alho negro e desligue.",
+      "Unte 4 tijelinhas ou um refratário, coloque a carne seca, tampe com o purê de mandioca e cubra com o queijo coalho ralado.",
+      "Leve para gratinar até derreter e começar a dourar. Enfeite com pimenta dedo de moça picada e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALHO NEGRO DO SÍTIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308036-escondidinho-de-carne-seca-com-chimichurri-de-alho-negro.html"
+}

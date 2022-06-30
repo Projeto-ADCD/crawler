@@ -1,0 +1,26 @@
+{
+  "nome_receita": "COMPOTA DE MAMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ou 4 mamões médios e verdes",
+      "açúcar cristal",
+      "6 cravos-da-índia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Risque os mamões com um garfo ou faca e deixe descansar por duas horas para sair todo o leite.",
+      "Corte ao meio e raspe dentro com uma colher, deixando-os bem limpos.",
+      "Descasque, corte em pedaços regulares, lave bem e leve ao fogo cobertos de água para uma rápida fervura.",
+      "Escorra, deixe esfriar, ponha numa vasilha, cubra com água e deixe permanecer de molho por umas oito horas.",
+      "Escorra bem, pese a fruta e utilize igual peso de açúcar.",
+      "Faça com o açúcar e água necessária uma calda rala; coloque os pedaços de mamão e os cravos.",
+      "Cozinhe em fogo brando até começar a ficar macio, retire e deixe assim permanecer até o dia seguinte.",
+      "Torne a levar ao fogo brando e ferva brandamente até a fruta ficar transparente, brilhante e com a calda relativamente grossa."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309880-compota-de-mamao.html"
+}

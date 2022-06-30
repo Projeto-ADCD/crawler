@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PETIT GATEAU - TRADICIONAL BOLINHO FRANCÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de chocolate meio amargo",
+      "2 colheres (sopa) de margarina sem sal",
+      "1/4 de xícara de açúcar",
+      "2 colheres (sopa) de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Derreta o chocolate. Depois adicione a margarina e mexa com auxilio de uma colher até ficar uniforme.",
+      "Em uma batedeira adicione os ovos e o açúcar e bata.",
+      "Coloque a farinha de trigo e por ultimo o chocolate.",
+      "Misture a massa até ficar uniforme, formando uma ''calda de chocolate''."
+    ],
+    "MONTAGEM": [
+      "Unte de 8 a 9 formas de empadas tamanho grande com margarina e farinha de trigo.",
+      "Coloque as forminhas em uma forma grande de apoio para assar.",
+      "Adicione a massa nas formas untadas até a metade. Não encha pois o bolinho irá crescer e derramar.",
+      "Leve ao forno aquecido e deixe assar por aproximadamente 10 minutos, fique de olho para não assar muito.",
+      "5- Após assar, deixe esfriar um pouco e desinforme",
+      "6- Sirva-se com uma bola de sorvete",
+      "OBS: se o bolinha assar e passar do ponto, não irá ficar com calda, e não queremos isso, né? Cuidado!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRANCIANE FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309411-petit-gateau-tradicional-bolinho-frances.html"
+}

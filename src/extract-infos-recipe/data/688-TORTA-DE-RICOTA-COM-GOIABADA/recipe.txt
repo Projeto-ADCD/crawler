@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE RICOTA COM GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pitada de canela (opcional)",
+      "2 colheres (chá) de gelatina (8 g)",
+      "raspas de limão a gosto",
+      "1/2 xícara de leite fervente ",
+      "1 lata de leite condensado",
+      "2 e 1/2 xícaras de ricota fresca ",
+      "1 xícara de goiabada cortada em cubos de 2cm ",
+      "1 pacote de biscoito maisena moído ",
+      "3 colheres (sopa) de água ",
+      "1 Primor Forno e Fogão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o biscoito com a margarina e a canela. Forre o fundo e a lateral de uma forma redonda com fundo removível e leve ao forno preaquecido na temperatura moderada por 10 minutos e deixe esfriar.",
+      "Misture a gelatina com a água e reserve por alguns minutos. Despeje no leite fervente e mexa bem.",
+      "No liquidificador, coloque o leite condensado, o leite com a gelatina e a ricota. Bata bem.",
+      "Sem bater, acrescente as raspas e a goiabada.",
+      "Despeje na forma e leve à geladeira por no mínimo 4 horas. Desenforme e sirva gelada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva coberta com chantilly ou goiabada derretida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312036-torta-de-ricota-com-goiabada.html"
+}

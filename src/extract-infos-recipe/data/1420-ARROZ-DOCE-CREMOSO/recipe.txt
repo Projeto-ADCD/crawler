@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ARROZ DOCE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cru",
+      "1300 ml de leite",
+      "1 leite condensado",
+      "1 creme de leite",
+      "1 leite de coco",
+      "3 colheres de leite em pó",
+      "2 colheres de açúcar a gosto",
+      "1 colher de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz em 2 litros de água até que fique bem macio.",
+      "Dilua o amido de milho no leite em temperatura ambiente e em seguida adicione todos ingredientes na panela em fogo baixo.",
+      "Após levantar fervura mexa por 10 minutos e desligue o fogo.",
+      "Deixe descansar por pelo menos 20 minutos e sirva ainda quente ou se preferir gelado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JEFFERSON QUEIROZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308440-arroz-doce-cremoso.html"
+}

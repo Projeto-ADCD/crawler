@@ -1,0 +1,25 @@
+{
+  "nome_receita": "AMENDOIM DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de amendoim branco com casca",
+      "2 xícaras de açúcar",
+      "2 xícaras de água",
+      "1/2 lata de leite condensado",
+      "1 colher (chá) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque o amendoim, o açúcar e a água e deixe ferver.",
+      "Quando a água estiver quase seca, acrescente o leite condensado e o fermento.",
+      "Mexa até que a mistura esteja se desgrudando do fundo da panela.",
+      "Despeje todo o conteúdo da panela em uma forma grande para esfriar, e mexa as vezes para que a calda não fique com grumos.",
+      "Sirva como preferir!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAYS OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307481-amendoim-doce.html"
+}

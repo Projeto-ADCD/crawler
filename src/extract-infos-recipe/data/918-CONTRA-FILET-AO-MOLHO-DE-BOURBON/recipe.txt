@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CONTRA FILET AO MOLHO DE BOURBON",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bifes de contrafilé com 2 dedos de espessura (corte de sua preferência)",
+      "3 colheres (sopa) de manteiga",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "cebolinha picada (opcional)",
+      "100 ml de Whisky Bourbon (Jean Bean ou Jack Daniels)",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta toda a manteiga deixando escurecer e \"queimar\" um pouco.",
+      "Reserve metade dessa manteiga",
+      "Tempere os bifes com sal e pimenta-do-reino a gosto",
+      "Sele um lado da carne",
+      "Antes de virar para selar o outro lado, despeje o restante da manteiga sobre a carne",
+      "Chegando ao ponto da carne desejado, reserve",
+      "Na mesma frigideira/panela, ponha uma dose generosa de Bourbon",
+      "Depois de evaporar ou flambar, adicione o creme de leite",
+      "Deixe reduzir até ficar homogêneo",
+      "Corrija o sal e a pimenta se necessário",
+      "Você pode servir sobre a carne ou voltar com os bifes para a frigideira/panela"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LEOZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310909-contra-filet-ao-molho-de-bourbon.html"
+}

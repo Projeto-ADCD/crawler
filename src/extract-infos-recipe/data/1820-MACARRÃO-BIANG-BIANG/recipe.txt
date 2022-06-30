@@ -1,0 +1,50 @@
+{
+  "nome_receita": "MACARRÃO BIANG BIANG",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo (aproximadamente 250 g)",
+      "1 pitada de sal ",
+      "130 ml de água ",
+      "óleo para untar a massa",
+      "vegetais a gosto",
+      "2 colheres (sopa) de pimenta em pó ",
+      "2 colheres (sopa) de molho de shoyu",
+      "2 colheres (sopa) de vinagre",
+      "2 dentes de alho picados",
+      "2 colheres de cebolinhas picadas",
+      "iscas de carne a gosto (opcional)",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha com o sal em um recipiente ou diretamente em uma mesa (se optar pelo segundo, lembre-se de fazer um buraco no meio da farinha)",
+      "Junte a água aos poucos e misture bem",
+      "Comece a sovar até que a masa fique homogênea e lisa",
+      "Reserve a massa durente 30 minutos em um recipiente fechado por um papel filme",
+      "Dê mais uma leve sovada e divida a massa em 4 partes",
+      "Com um rolo, abra cada massa separadamente até um tamanho mediano",
+      "Com um pincel de cozinha, passe óleo por todos os pedaços abertos da massa",
+      "Empilhe delicadamente esses pedaços em um prato e leve ao freezer por duas horas",
+      "Reire do freezer e abra cada pedaço de massa mais um pouco com a ajuda do rolo",
+      "Faça uma marcação no meio do pedaço, uma linha reta que divida o pedaço em duas ",
+      "Com muita delicadeza, segure nas duas pontas do pedaço e balance a massa para cima e para baixo, de modo que ela estique sem rasgar",
+      "Quando já estiver em um tamanho aceitavél e com uma grossura média, force o meio e corte a massa em dois (usando a marcação feita anteriomente)",
+      "Repita esse processo em todos os pedaços de massa",
+      "Nessa hora voê pode cortar as tiras de macarrão para um tamanho médio/pequeno ou deixar para fazer isso depois de cozinhá-lo ",
+      "Leve a massa para uma penela com água fervendo e uma pitada de sal",
+      "Quando a massa boiar, adicione um pouco de água fria",
+      "O cozimento dura em torno de 4 minutos ",
+      "Nessa hora, junte os vegetais para o cozimento junto. Reserve",
+      "Enquanto isso, aqueça 2 colheres (sopa) de óleo de cozinha em uma panela ",
+      "Coloque o alho, a cebolinha e a pimenta por cima do macarrão",
+      "Despeje o óleo quente sobre o macarrão",
+      "Adicione o molho de soja e vinagre e misture bem.",
+      "Obs: se optar por usar a carne, doure ela junto com o óleo e despeje no macarrão "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306706-macarrao-biang-biang.html"
+}

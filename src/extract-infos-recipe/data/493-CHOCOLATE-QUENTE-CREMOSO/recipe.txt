@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "200 ml de leite",
+      "100 g de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes em uma panela e mexa em fogo médio.",
+      "Desligue quando levantar fervura."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312683-chocolate-quente-cremoso.html"
+}

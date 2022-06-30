@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CUSCUZ DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de tapioca granulada (marca Granfino, Chineizinho, Yoki)",
+      "2 xícaras de açúcar refinado",
+      "50 g de coco ralado seco",
+      "1L 1/2 de leite em temperatura ambiente",
+      "1 vidro de leite de coco 200ml"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture com um garfo a tapioca granulada, o açúcar e o coco ralado.",
+      "Depois de misturado acrescente o leite e o leite de coco. Mexa até incorporar todos os ingredientes, cerca de 2 minutos.",
+      "Espere uns cinco minutos e mexa mais, faça isso por mais 4 vezes. O segredo é mexer!",
+      "Cubra com filme plástico e coloque na geladeira.",
+      "Sirva com coco por cima e leite condensado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JANA GAMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313140-cuscuz-doce.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "GALINHADA DO KELMER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 dente de alho",
+      "1 cebola",
+      "1 kg de sobrecoxa de frango",
+      "1 linguiça calabresa",
+      "1 pimentão verde",
+      "1 pimentao amarelo",
+      "1 pimentão vermelho",
+      "250 g de ervilha",
+      "250 g de milho",
+      "250 g de arroz branco",
+      "1  tablete de caldo de galinha (opcional)",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Antes do preparo marine as sobrecoxas com limão ou vinagre sal e temperos opcionais a gosto.",
+      "Em uma panela com óleo quente frite as sobrecoxas e reserve.",
+      "Em outra panela frite o alho e refogue as cebolas em seguida adicione a linguiça calabresa ou em rodelas ou em cubos e deixe tudo refogar.",
+      "Em seguida adicione os pimentões verde, vermelho e amarelo em seguida adicione as sobrecoxas fritas e o milho e a ervilha e deixe refogar tudo",
+      "Ferva 1 litro de água e adicione na panela e em seguida adicione o tablete de caldo de galinha.",
+      "Em seguida adicione o arroz e deixe cozinhar por 15 minutos.",
+      "Sirva e coma a vontade."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310012-galinhada-do-kelmer.html"
+}

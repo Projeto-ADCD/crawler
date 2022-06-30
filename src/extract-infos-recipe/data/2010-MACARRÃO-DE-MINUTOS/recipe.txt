@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MACARRÃO DE 3 MINUTOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de macarrão Fusilli",
+      "1 sachê de molho de tomate tradicional",
+      "1 cebola pequena",
+      "3 dentes de alho",
+      "1 colher (café) de sal",
+      "1 colher (café) de açúcar",
+      "páprica picante a gosto",
+      "pimenta-do-reino a gosto",
+      "1 caixa de creme de leite",
+      "água até tapar o macarrão",
+      "1 gomo de calabresa",
+      "1 punhado de cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, frite a cebola até dourar",
+      "Adicione o alho",
+      "Corte a calabresa em rodelas e coloque na panela",
+      "Adicione o sachê de molho de tomate, o creme de leite, o sal, o açúcar, a páprica, a pimenta-do-reino e o cheiro-verde",
+      "Adicione meio pacote do macarrão",
+      "Adicione o quanto de água for necessário para cobrir os ingredientes",
+      "Mexa tudo, feche a panela e coloque em fogo alto até pegar pressão",
+      "Quando atingir pressão, abaixe o fogo e conte 3 minutos.",
+      "Retire a pressão e pronto!",
+      "Estará cremoso e delicioso!",
+      "Se quiser, pode adicionar queijo mussarela"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BRUNA JACON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306200-macarrao-de-3-minutos.html"
+}

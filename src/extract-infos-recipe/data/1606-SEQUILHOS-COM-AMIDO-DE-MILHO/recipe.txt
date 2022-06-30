@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SEQUILHOS COM AMIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de amido de milho",
+      "1 ovo",
+      "5 colheres (sopa) de farinha de trigo",
+      "3 colheres (sopa) de açúcar",
+      "4 colheres (sopa) de manteiga",
+      "1 colher de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque todos os ingredientes e misture bem até forma uma massa.",
+      "Em uma forma que não precisar ser untada, pegue pequenos pedaços da massa e forme uma bolinha.",
+      "Com um garfo amasse a bolinha (para a decoração)",
+      "Faça isso com toda massa.",
+      "Coloque no forno 180 c já Preaquecido por 25 minutos.",
+      "Depois retire os biscoitos e espere esfriar.",
+      "Depois sirva"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FHERNANDA GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307416-sequilhos-com-amido-de-milho.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CREME DE CREAM CHEESE PARA COBERTURA OU RECHEIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "75 g de manteiga",
+      "100 g de açúcar",
+      "1 colher (chá) de essência de baunilha",
+      "500 g de cream cheese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga em ponto pomada na batedeira. Adicione o açúcar, a essencia de baunilha e bata em velocidade media até ficar um creme leve e branco.",
+      "Depois, basta acrescentar o cream cheese e bater mais até ficar um creme bem liso e macio."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIMARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313367-creme-de-cream-cheese-para-cobertura-ou-recheio.html"
+}

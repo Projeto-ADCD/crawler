@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PUDIM TRADICIONAL COM LEITE CONDENSADO",
+  "ingredientes": {
+    "CALDA": [
+      "1 xícara (chá) de açúcar",
+      "1 xícara (chá) de água"
+    ],
+    "PUDIM": [
+      "1 caixinha ou lata de leite condensado",
+      "2 medidas da caixinha de leite condensado de leite",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Em uma panela, derreta o açúcar até ficar dourado (em fogo baixo)",
+      "Junte a água aos poucos (temperatura ambiente) e mexa com uma colher",
+      "Deixe ferver por 4 minutos em fogo baixo",
+      "Deixe esfriar e coloque a calda na forma com furo redonda"
+    ],
+    "PUDIM": [
+      "Em um liquidificador, bata bem todos os ingredientes (leite condensado, leite, ovos) e despeje na forma",
+      "Cubra com papel alumínio e leve aos forno a 180° C, em banho maria, por cerca de 1 hora e 30 minutos",
+      "Depois de frio, leve para geladeira por cerca de 6 horas",
+      "Desenforme e sirva essa delícia de pudim"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "LUANA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312652-pudim-tradicional-com-leite-condensado.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MIOJO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão instantâneo (qualquer sabor)",
+      "3 colheres (sopa) de creme de leite",
+      "1 colher (sopa) de requeijão",
+      "1 ou 2 fatias de queijo",
+      "1 fatia de presunto (opcional)",
+      "1 pacote de tempero que vem com o miojo",
+      "2 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão instantâneo",
+      "Em outra panela, ligue o fogo e adicione o creme de leite, o requeijão, o leite, o tempero e misture bem.",
+      "Depois adicione o macarrão instantâneo no molho e adicione o presunto e o queijo",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311576-miojo-cremoso.html"
+}

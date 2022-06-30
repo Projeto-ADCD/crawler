@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE LEITE NINHO COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "1 xícara de leite ninho",
+      "morangos frescos fatiados a gosto ",
+      "1/2 xícara de leite de coco em pó (opcional)",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o creme de leite, o leite ninho e o leite de coco em pó",
+      "Coloque uma panela no fogo, espere ela esquentar, e a manteiga, espere-a derreter, e coloque a o creme de ninho",
+      "Espere ele chegar a um ponto cremoso",
+      "Coloque uma camada do creme em um recipiente, coloque uma cada de morango, coloque outra cada do creme e por último os morangos",
+      "Enfeite do jeito que quiserem"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "IARA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310857-creme-de-leite-ninho-com-morango.html"
+}

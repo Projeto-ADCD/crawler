@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME DE AÇAÍ COM ABACATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bolas de Frooty Açaí",
+      "1/2 abacate médio",
+      "1 colher (sopa) de mel",
+      "suco de 1/2 limão, opcional, a gosto",
+      "granola, opcional, para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece batendo o abacate com o limão no liquidificador, processador ou mixer.",
+      "Acrescente o mel e o Açaí Frooty congelado aos poucos.",
+      "Sirva em tigela baixa e larga.",
+      "Decore com uma banana fatiada ou fruta da preferência, granola e mel."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      " "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306100-creme-de-acai-com-abacate.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE FITNESS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de pasta de amendoim",
+      "1 colher (sopa) de cacau em Pó",
+      "4 colheres (sopa) de Leite Desnatado",
+      "1 scoop de whey de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa todos os ingredientes",
+      "Assim que estiver homogêneo, coloque no congelador por 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AGNES CORDEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307553-sorvete-fitness.html"
+}

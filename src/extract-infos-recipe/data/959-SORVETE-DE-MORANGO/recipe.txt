@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SORVETE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bandejas de morango",
+      "4 claras",
+      "2 xícaras de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os morangos no liquidificador até desmanchar e reserve.",
+      "Bata as claras em neve, acrescentando o açúcar até ficar firme. Em seguida, acrescente os morangos no liquidificador e bata por mais 5 ou 10 minutos até ficar cremoso.",
+      "Coloque no pote de sorvete leve ao congelador por 6 horas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita rende 2 potes."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FRANCINE L.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310719-sorvete-de-morango.html"
+}

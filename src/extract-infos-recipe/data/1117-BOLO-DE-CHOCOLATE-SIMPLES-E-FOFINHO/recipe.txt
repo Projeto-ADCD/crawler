@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE SIMPLES E FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 claras em neve",
+      "3 gemas",
+      "1 xícara de açúcar",
+      "1 xícara de chocolate em pó",
+      "1/2 xícara de óleo",
+      "1 xícara de aguá fervendo",
+      "2 xícaras de farinha de trigo",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e reserve.",
+      "Bata na batedeira ou a mão o açúcar, o chocolate em pó e as gemas.",
+      "Depois acrescente o óleo, metade da água e metade da farinha de trigo.",
+      "Mexa bem e junte o restante da água e da farinha de trigo.",
+      "Misture levemente as claras em neve à massa.",
+      "Salpique o fermento em pó sobre a massa e misture.",
+      "Coloque em uma assadeira untada.",
+      "Leve ao forno preaquecido, em temperatura média, por 40 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Batendo à mão ou na batedeira o resultado ao mesmo."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309781-bolo-de-chocolate-simples-e-fofinho.html"
+}

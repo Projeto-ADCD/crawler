@@ -1,0 +1,30 @@
+{
+  "nome_receita": "RISOTO AO CURRY COM FIGO EM PASSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de Becel Amanteigado",
+      "1 dente de alho amassado",
+      "150 g de filé de peito de frango cozido e desfiado",
+      "1 xícara de arroz agulhinha",
+      "1 colher (chá) de sal",
+      "1 colher (chá) de curry em pó",
+      "1 xícara de vinho branco seco",
+      "3 colheres (sopa) de água fervente",
+      "1 colher (sopa) de salsinha picada",
+      "5 colheres (sopa) de figo seco picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aqueça 2 colheres (sopa) de Becel Amanteigado em fogo médio, refogue o alho e o frango desfiado por 3 minutos.",
+      "Junte o arroz, o sal, o curry, o vinho e refogue por dois minutos ou até evaporar o vinho.",
+      "Adicione 1 xícara (chá) da água fervente e cozinhe, em fogo baixo, até secar. Repita a operação até terminar o liquido e o arroz estar cozido, porém firme.",
+      "Retire do fogo, acrescente o restante de Becel Amanteigado, a salsinha, o figo e misture delicadamente. Sirva a seguir.",
+      "Se preferir substitua o arroz comum por arroz tipo arbóreo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BECEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312048-risoto-ao-curry-com-figo-em-passa.html"
+}

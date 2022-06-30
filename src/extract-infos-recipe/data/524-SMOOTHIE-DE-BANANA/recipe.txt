@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SMOOTHIE DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de chocolate em pó",
+      "1 pitada de canela",
+      "200ml de leite",
+      "1 banana fatiada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, as bananas e o chocolate em pó.",
+      "Bata tudo até que o liquído fique marrom claro.",
+      "Adicione a canela e bata novamente."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MANOELA L. CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312607-smoothie-de-banana.html"
+}

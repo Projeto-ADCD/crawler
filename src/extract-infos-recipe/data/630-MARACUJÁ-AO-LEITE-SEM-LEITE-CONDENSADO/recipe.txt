@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MARACUJÁ AO LEITE SEM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maracujá grande",
+      "1 caixa de creme de leite",
+      "2 copos de leite",
+      "4 colheres de sopa de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a polpa do maracujá, o leite,açúcar e o creme de leite no liquidificador e bata por 3 minutos.",
+      "Se preferir adicione pedrinhas de gelo ou leve a geladeira ou freezer por 1 hora ."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TATIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312245-maracuja-ao-leite-sem-leite-condensado.html"
+}

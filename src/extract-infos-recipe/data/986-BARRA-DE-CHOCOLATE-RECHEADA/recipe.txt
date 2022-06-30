@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BARRA DE CHOCOLATE RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de chocolate preto fracionado e derretido"
+    ],
+    "PRIMEIRO RECHEIO ": [
+      "1/2 lata de leite condensado",
+      "100 g de creme de leite",
+      "100 ml de suco concentrado de maracujá"
+    ],
+    "SEGUNDO RECHEIO": [
+      "1/2 lata de leite condensado",
+      "1/2 colher (sopa) de manteiga",
+      "80 g de chocolate branco derretido",
+      "4 de biscoitos recheados e triturados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece juntando todos os ingredientes do primeiro recheio em um liquidificador ",
+      "Bata bem e reserve",
+      "Junte os ingredientes do segundo recheio em uma panela ",
+      "Misture bem e deixe se transformar em uma mistura homogênea ",
+      "Reserve",
+      "Em forminhas de bombom ou barra de chocolate, coloque um pouco do chocolate preto fracionado derretido",
+      "Cubra o fundo de tudo e leve à geladeira",
+      "Recheie com os dois recheios separadamente",
+      "Coloque mais chocolate por cima e leve à geladeira novamente",
+      "Sirva! "
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310623-barra-de-chocolate-recheada.html"
+}

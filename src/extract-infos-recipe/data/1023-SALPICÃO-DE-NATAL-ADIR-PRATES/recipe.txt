@@ -1,0 +1,46 @@
+{
+  "nome_receita": "SALPICÃO DE NATAL - ADIR PRATES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g peito de frango cozido e desfiado (temperar antes com sal, vinagre e caldo para frango)",
+      "250 g queijo",
+      "250 g presunto",
+      "1 pimentão vermelho",
+      "1 pimentão verde ",
+      "1 pimentão amarelo ",
+      "2 cenouras ",
+      "200 g de vagem cozida ",
+      "cebolinha verde ",
+      "salsinha picada",
+      "1 lata de milho verde",
+      "200 g de ervilha congelada",
+      "100 g azeitona",
+      "1 maçã verde (picada em cubos bem pequenos)",
+      "100 g uva passas branca",
+      "100 g uva passas preta",
+      "cerejas para decorar",
+      "vinagre",
+      "suco de 1 limão",
+      "azeite de oliva",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "500 g de maionese "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte todos os ingredientes bem pequenos",
+      "Misture todos os ingredientes em uma tigela e misturar delicadamente.",
+      "O frango deve estar em temperatura ambiente.",
+      "Tempere com vinagre, pimenta, sal azeite de oliva",
+      "Por último acrescente a maionese, misturando bem.",
+      "Deixe na geladeira até a hora de servir",
+      "Pode acrescentar batata palha ((particularmente não gosto)",
+      "Cerejas para decorar"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KAROLINA DA SILVA CABRAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310413-salpicao-de-natal-adir-prates.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE ARROZ FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) de arroz cru",
+      "1 copo (americano) de leite",
+      "3 ovos",
+      "1 copo (americano) de açúcar",
+      "1 copo (americano) de óleo",
+      "1 pc. de queijo ralado (50 g)",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o arroz cru com o leite.",
+      "Feche com plástico filme e leve à geladeira até o dia seguinte (pelo menos 12 horas).",
+      "Bata (até dissolver bem) no liquidificador",
+      "O leite e o arroz, ovos, açúcar, óleo e o queijo ralado.",
+      "Em seguida acrescente o fermento em pó e bata rapidamente.",
+      "Coloque em forma untada e enfarinhada e leve ao forno preaquecido a 180º C por 30 minutos a até estar cozido."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRUNO MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310682-bolo-de-arroz-fofinho.html"
+}

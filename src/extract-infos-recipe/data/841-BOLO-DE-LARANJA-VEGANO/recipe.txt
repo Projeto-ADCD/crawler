@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE LARANJA VEGANO",
+  "ingredientes": {
+    "MASSA": [
+      "1 e 1/2 xícara de farinha de trigo",
+      "3/4 de xícara de açúcar refinado",
+      "1 xícara de suco de laranja",
+      "1/4 de xícara de óleo",
+      "2 colheres (chá) de raspas de laranja",
+      "1 e 1/2 colher (chá) de fermento em pó"
+    ],
+    "CALDA": [
+      "1 xícara de suco de laranja",
+      "1/2 xícara de açúcar",
+      "1 colher (sopa) de amido de milho",
+      "água (opcional)"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Preaqueça o forno a 230° C. Unte uma assadeira redonda com furo no meio de 20 cm;",
+      "Em um liquidificador, coloque o óleo, o suco e as raspas de laranja, o açúcar, a farinha e bata tudo até obter uma mistura uniforme",
+      "Adicione o fermento e misture com a colher, ou bata rapidamente para o fermento se espalhar pela massa",
+      "Coloque esta mistura na assadeira e asse por cerca de 40 minutos ou até o bolo dourar."
+    ],
+    "CALDA": [
+      "Coloque o suco em uma panela e dissolva nele a maisena, misturando bem",
+      "Acrescente o açúcar e leve ao fogo médio até ferver, mexendo às vezes",
+      "Quando a calda de laranja ferver, baixe o fogo e continue mexendo até engrossar e virar uma calda aveludada.",
+      "Obs.: se a calda ficar muito espessa, coloque um pouco de água."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAMILA PINHEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311330-bolo-de-laranja-vegano.html"
+}

@@ -1,0 +1,54 @@
+{
+  "nome_receita": "PÃO RECHEADO DE CALABRESA",
+  "ingredientes": {
+    "MASSA": [
+      "700 g de farinha de trigo",
+      "1 ovo",
+      "1 1/2 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 1/2 colher (sopa) de açúcar",
+      "1 pitada de sal",
+      "1 pacote de fermento biológico"
+    ],
+    "RECHEIO": [
+      "1 cebola picadinha",
+      "1 tomate picadinho",
+      "1 xícara de calabresa picadinha",
+      "100 g de bacon em cubinhos",
+      "1/2 lata de milho",
+      "1/2 lata de ervilha",
+      "2 colheres de sopa de azeitonas picadas",
+      "1/2 cx de creme de leite"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata o ovo, o leite, o óleo, o açúcar e o sal no liquidificador",
+      "Em uma bacia, coloque os ingredientes batidos e o fermento",
+      "Vá adicionando a farinha aos poucos até a massa dar liga",
+      "Depois, sove a massa até que ela fique lisa, homogênea e desgrudando das mãos",
+      "Cubra com um pano e deixe descansar por 1 hora"
+    ],
+    "RECHEIO": [
+      "Em uma panela, doure o bacon, a calabresa e a cebola",
+      "Acrescente o tomate, o milho, a ervilha e a azeitona",
+      "Refogue bem",
+      "Por último, coloque o creme de leite",
+      "O recheio deve ficar cremoso para que não vaze na hora de assar."
+    ],
+    "MONTAGEM": [
+      "Após a massa dobrar de tamanho, coloque a massa em uma bancada enfarinhada e divida em dois pedaços",
+      "Abra cada parte com o auxílio de um rolo",
+      "Coloque o recheio e enrole, dobrando as laterais",
+      "Pincele uma gema e salpique orégano",
+      "Unte uma forma e asse os pães por aproximadamente 20 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende 2 pães\nObs.: pode fazer com outros recheios ou até mesmo sem nenhum, pois o pão fica super macio."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313018-pao-recheado-de-calabresa.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MASSA DE PASTEL COM DOIS INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture todos os ingredientes até formar uma massa homogênea e desgrude das mãos.",
+      "Sove a massa até que ela fique macia.",
+      "Abra a massa e corte em formato redondo pequeno.",
+      "Recheie de acordo com a sua preferência.",
+      "Leve ao fogo em óleo quente ou na airfryer."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KEITTY BEZERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311849-massa-de-pastel-com-dois-ingredientes.html"
+}

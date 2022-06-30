@@ -1,0 +1,26 @@
+{
+  "nome_receita": "RECEITA DE SORVETE COM CREME DE AVELÃ FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "20g de óleo de coco",
+      "5 bananas médias",
+      "1 manga",
+      "Creme de avelã a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a banana e a manga e deixe-as em uma tigela ou em uma travessa.",
+      "Deixe no congelador por 6 horas.",
+      "Após o tempo, coloque as frutas em um processador ou liquidificador.",
+      "Em seguida, adicione o óleo de coco e bata tudo até atingir a consistência de um creme.",
+      "Coloque a sobremesa de novo no congelador.",
+      "Despeje o creme de avelã quando for consumir.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "360 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "THAMILY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316918-receita-de-sorvete-com-creme-de-avela-fit.html"
+}

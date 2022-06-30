@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PIMENTA RECHEADA DA SU",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 pimentas dedo de moça",
+      "200 g de patinho moído",
+      "50 g de bacon picadinho",
+      "2 ovos",
+      "1 xícara de farinha de rosca",
+      "1/2 xícara de amido de milho",
+      "tempero a gosto (cebola, alho, cheiro-verde)",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as pimentas de uma ponta a outra e retire as sementes, as pimentas ficarão parecendo uns barquinhos.",
+      "Faça uma mistura da carne moída, do bacon e de todos os temperos.",
+      "Recheie as pimentas uma a uma.",
+      "Passe as pimentas no amido de milho.",
+      "Bata os ovos em um refratário e molhe as pimentas, em seguida empane na farinha de rosca.",
+      "Repita o processo de empanar.",
+      "Frite as pimentas em óleo não muito quente e sirva a porção.",
+      "É uma delícia pra acompanhar de uma boa cerveja gelada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HIGOR LEONARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309174-pimenta-recheada-da-su.html"
+}

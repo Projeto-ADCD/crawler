@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ARROZ DOCE CREMOSO - UMA DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz branco cru",
+      "1 lata de leite condensado",
+      "1 vidro de leite de coco",
+      "5 xicaras de leite",
+      "coco ralado a gosto",
+      "cravo da índia a gosto",
+      "(se preferir, pode acrescentar uma colher de açucar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário, misture o leite condensado, o leite de coco, uma xícara de leite e o coco ralado. Reserve.",
+      "Em uma leiteira ou outro utensilio que preferir, esquente o leite. CUIDADO PARA NÃO TRANSBORDAR!",
+      "Em uma panela coloque uma xicara de arroz e uma de leite e mexa sem parar em fogo baixo. A medida que o leite for secando, coloque outra xícara até acabar. Não deixe o arroz grudar na panela.",
+      "Quando o leite quente acabar, pegue a mistura do leite condensado, leite de coco, leite e coco ralado e despeje na panela, mexendo sem parar. O líquido vai ficar cremoso, espere ferver para desligar. (Nesta etapa você pode acrescentar os cravos da índia, se for do seu gosto).",
+      "Dica: voce pode servir com uma pitada de canela em pó, fica uma delicia!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAROLINE GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311999-arroz-doce-cremoso-uma-delicia.html"
+}

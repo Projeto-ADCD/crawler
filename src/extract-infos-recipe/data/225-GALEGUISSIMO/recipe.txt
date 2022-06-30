@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GALEGUISSIMO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 morangos",
+      "50 ml de conhaque",
+      "200 ml de creme de leite",
+      "gelo",
+      "2 colheres xarope de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma coqueteleira ponha os 5 morangos, adicione os 2 colheres de xarope de açúcar, macere",
+      "Adicione o gelo, os 50 ml de conhaque, os 200 ml de creme de leite",
+      "Feche e mexa"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOSEUDE COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313865-galeguissimo.html"
+}

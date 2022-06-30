@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAFÉ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de café solúvel",
+      "1 xícara de água fervendo",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes na batedeira por 10 minutos.",
+      "Depois de batido coloque em um recipiente.",
+      "Coloque na geladeira ou no freezer.",
+      "obs: na geladeira dura 4 dias, no freezer dura 3 meses"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ISABELE VITÓRIA BRUNNER ANTUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309969-cafe-cremoso.html"
+}

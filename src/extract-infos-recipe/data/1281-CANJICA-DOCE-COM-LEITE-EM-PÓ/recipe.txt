@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CANJICA DOCE COM LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de canjica branca (250 g)",
+      "1 lata de leite condensado",
+      "1 xícara de leite em pó",
+      "150 g de amendoim torrado e moído",
+      "leite de vaca ou água (se necessário)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a canjica de molho em água fria de um dia para o outro (troque a água se possível). Este passo é importante para que a canjica tenha um cozimento rápido e fique bem macia e cremosa.",
+      "Lave e escorra a canjica, retirando toda a água usada no molho.",
+      "Coloque na panela de pressão cobrindo-a com água (cerca de 4 dedos acima do nível dos grãos) e leve para cozinhar por cerca de 40min. Para saber se está cozida, utilize o olfato, ela libera um cheiro bem gostoso.",
+      "Retorne a canjica cozida ao fogo e adicione a lata de leite condensado, o amendoim moído, o leite em pó. Misture.",
+      "Deixe cozinhar por alguns minutos até encorpar.",
+      "Se estiver muito grossa, adicione água ou leite de vaca.",
+      "Está pronta!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Informações Adicionais: Nesta receita o leite em pó de boa qualidade é o que dará o sabor especial, é importante que o mesmo seja integral (não instantâneo), e sem açúcar. O objetivo dessa receita é um doce mais light, menos enjoativo, visto que conta apenas com o doce da caixa de leite condensado apenas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINE FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309090-canjica-doce-com-leite-em-po.html"
+}

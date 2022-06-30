@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ (COM FORMATO DE ROSA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de massa folhada",
+      "3 unidades de maçãs",
+      "100 g de geleia (da sua preferência)",
+      "1 pitada de canela em pó",
+      "1/2 unidade de limão (suco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra a massa e corte em tiras com cerca de 10 cm de largura e reserve.",
+      "Corte as maçãs em 4, retire a parte do meio e corte em fatias finas.",
+      "Leve ao fogo médio uma panela com água até metade e o suco de limão. Quando a água estiver quente, mas não fervendo, mergulhe as maçãs e retire quando estiverem amolecidas.",
+      "DICA: as maçãs não deverão estar desmanchando, com este passo pretende-se apenas que elas fiquem um pouco modeláveis.",
+      "Se preferir, pode cumprir o passo anterior no micro-ondas: coloque a água, o suco e as maçãs numa vasilha para micro-ondas, e cozinhe por 5 minutos. Escorre reserve.",
+      "Comece por espalhar generosamente a geleia sobre cada tira de maçã.",
+      "Disponha as fatias de maçã sobreposta ao longo das tiras de massa, mas apenas em uma das metades. Polvilhe com canela em pó.",
+      "Em seguida dobre a outra metade da massa folhada sobre as maçãs de forma a cobrir apenas uma parte delas. Pressione as pontas da massa, para que a geleia não escape durante a assadura.",
+      "Para terminar a montagem, envolve a massa cuidadosamente. Quando chegar ao final, poderá ver que as rosas estão formadas.",
+      "Forno preaquecido a 180º C por 35 a 40 minutos, vigiando a assadura nos minutos finais, para evitar que a massa queime.",
+      "DICA: Para que as rosas não percam a forma, asse em uma forminha de cupcake.",
+      "Retire as rosas e polvilhe com açúcar de confeiteiro."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "GABRIELA VALERIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307227-torta-de-maca-com-formato-de-rosa.html"
+}

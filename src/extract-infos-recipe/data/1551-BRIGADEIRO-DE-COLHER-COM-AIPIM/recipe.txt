@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BRIGADEIRO DE COLHER COM AIPIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de mandioca (aipim)",
+      "1 colher (sopa) de óleo de coco",
+      "50 g de amendoim ",
+      "1/2 xícara (chá) de leite",
+      "3 colheres (sopa) de chocolate em pó (eu gosto de meio amargo)",
+      "mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o aipim em panela de pressão apenas com água, até que todo o aipim esteja bem molinho",
+      "Retire com um garfo alguns dos fiapos",
+      "Em um liquidificador, coloque o leite e vá adicionando o aipim aos poucos, em seguida e bata a mistura em media velocidade até atingir a consistência de purê",
+      "Retire a mistura do liquidificador e leve-a para uma panela, prefiro usar antiaderente.",
+      "Ligue o fogão em fogo médio adicione o óleo de coco e mexa depois adicione o chocolate em pó e continue mexendo, até atingir a uniformidade e desligue o fogo",
+      "O segredo está na hora de montar a sobremesa!!",
+      "Pegue um copinho, utilizei esses para brigadeiro de colher, no fundo coloque o mel, depois o brigadeiro de aipim, e na superfície mel e amendoim triturado",
+      "Deixe descansar na geladeira por alguns minutos antes de consumir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ARCSON NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307706-brigadeiro-de-colher-com-aipim.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "NEGRONI BARDOARANTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "30 ml de gin",
+      "30 ml de vermouth rosso (doce)",
+      "30 ml de campari"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os 3 ingredientes em um mixing glass com gelo",
+      "Misture bem",
+      "Após, sirva em um copo baixo com uma pedra de gelo grande."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GUSTAVO PICHITELLI DE ROBBIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312659-negroni-bardoarantes.html"
+}

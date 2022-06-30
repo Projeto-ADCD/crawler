@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE DO MAKC LANCHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 caixas de creme de leite",
+      "6 colheres (chá) de açúcar",
+      "30 gotas de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem até ficar um creme",
+      "Coloque em uma forma de gelo",
+      "Coloque no congelador por 1 dia ou 15 horas",
+      "Depois de congelado tire da forma e coloque os blocos dentro do liquidificador até ficar cremoso novamente",
+      "Decore como você quiser"
+    ]
+  },
+  "tempo_de_preparo": "48 MIN",
+  "rendimento": "-1 PORÇÕES",
+  "autor": "HELENA COSTA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307478-sorvete-do-makc-lanche.html"
+}

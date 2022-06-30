@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BISCOITINHO DE BAUNILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) bem cheias de margarina ou manteiga",
+      "1 xícara (chá) de açúcar ",
+      "3 ovos",
+      "600 g de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (chá) de essência de baunilha",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira as claras, o açúcar e a manteiga. Depois junte",
+      "Misture bem a essência de baunilha e as gemas.",
+      "Coloque essa mistura em uma bacia e adicione sal e fermento.",
+      "Coloque a farinha aos poucos e misture bem. Depois, sove a massa até que fique lisinha.",
+      "Modele seus biscoitinhos e leve ao forno preaquecido por 15 a 20 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Esses biscoitinhos assam muito rápido depende de forno para forno. Fiquem atentos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROSEMEIRE MACIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309876-biscoitinho-de-baunilha.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO MESCLADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 copos de açúcar",
+      "1 copo de óleo",
+      "3 copos de farinha de trigo",
+      "2 colheres de achocolatado",
+      "1 copo de leite",
+      "1 colher de fermento para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador ou batedeira os ovos,óleo,açúcar e o leite,bata por cinco minutos.",
+      "Acrescente a farinha e o fermento,mexa bem.",
+      "Divida a massa em um recipiente,em uma das massas divididas acrescente o achocolatado em pó.",
+      "Em uma forma untada com farinha e manteiga, coloque um pouco da massa branca",
+      "Em seguida coloque a massa de chocolate fazendo zigue-zague.",
+      "Logo após complete com o resto da massa branca.",
+      "Leve ao forno preaquecido em 180° C por 45 minutos.",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAR DA MARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306155-bolo-mesclado.html"
+}

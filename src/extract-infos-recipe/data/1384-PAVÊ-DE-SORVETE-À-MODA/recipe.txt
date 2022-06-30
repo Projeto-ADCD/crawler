@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PAVÊ DE SORVETE À MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 xícara de nozes (picadinhas)",
+      "1 lata de creme de leite",
+      "3 ovos",
+      "1/2 litro de leite",
+      "3 colheres (sopa) bem cheias de achocolatado",
+      "1 cálice grande de licor de cacau",
+      "300 g de biscoitos champagne ou palitos franceses",
+      "1 colher (sopa) bem cheia de amido de milho",
+      "6 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture 250 g de leite com o achocolatado e leve ao fogo brando.",
+      "Deixe ferver até engrossar, retire do fogo e, depois de frio, junte o licor de cacau e misture bem.",
+      "Misture o leite condensado com as gemas, a maisena e 250 g de leite.",
+      "Peneire e leve ao fogo brando.",
+      "Mexa até ficar cremoso.",
+      "Junte as nozes, volte a misturar, retire do fogo e deixe esfriar.",
+      "Bata as claras em neve e junte o açúcar aos poucos.",
+      "Bata até o ponto de suspiro bem consistente e junte o creme de leite gelado e sem o soro.",
+      "Coloque num pirex o creme de nozes.",
+      "Sobre ele, coloque uma camada de biscoitos passados na calda de achocolatado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308604-pave-de-sorvete-a-moda.html"
+}

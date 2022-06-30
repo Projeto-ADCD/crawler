@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PRESTIGIO NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de coco ralado",
+      "2 latas de 395 g de leite condensado",
+      "2 vidrinhos de 200 ml de leite de coco",
+      "1 colher (sopa) de manteiga ou margarina",
+      "350 g de chocolate meio amargo ou ao leite",
+      "1 caixinha de 300 g de creme de leite",
+      "1 xícara (chá) de leite de vaca",
+      "Obs: quando for comprar o coco ralado escolha o coco mais fino possível"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Parte branca",
+      "Numa panela, com o fogo desligado adicione, o coco ralado, o leite condensado, o leite de coco, o leite e a manteiga ou margarina.",
+      "Mexa tudo até ficar homogêneo e ligue o fogo, mexa até engrossar (até dar para ver o fundo da panela ).",
+      "Depois que engrossar coloque tudo na travessa, espalhe e então reserve.",
+      "Parte preta",
+      "Derreta o chocolate no micro-ondas ou banho-maria, assim que o chocolate estiver derretido adicione o creme de leite e mexa até ficar homogêneo.",
+      "Logo em seguida despeje o chocolate por cima da parte branca e leve à geladeira por 4 horas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCOS VINICIUS CARRIJO SOUSA TEODORO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314615-prestigio-na-travessa.html"
+}

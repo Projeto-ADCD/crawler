@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BOLO INDIANO (CANELA EM PÓ E FARINHA DE ROSCA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo",
+      "3 ovos",
+      "1/3 xícara de açúcar refinado",
+      "1/3 xícara açúcar mascavo",
+      "3 colheres (sopa) de óleo",
+      "1 xícara de farinha de rosca",
+      "1 colher (chá) de canela em pó",
+      "1 pitada de noz-moscada",
+      "1 pitada de sal",
+      "1 colher (chá) de fermento químico",
+      "Recheio e cobertura",
+      "1 lata de leite condensado",
+      "1/2 colher (sopa) de manteiga",
+      "1/2 caixa de creme de leite",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolo",
+      "Adicione em uma batedeira as claras e o sal e bata até o ponto de neve.",
+      "Adicione os açucares, o óleo, as gemas e a canela em pó e bata.",
+      "Desligue a batedeira e acrescente a nos moscada e a farinha de rosca e misture a mão.",
+      "Acrescente o fermento e misture suavemente.",
+      "Despeje em uma forma untada e polvilhada com farinha de rosca.",
+      "Asse em forno preaquecido a 200º C por cerca de 30 minutos ou até fazer o teste do palito e ele sair limpo.",
+      "Recheio e cobertura",
+      "Misture o leite condensado e a manteiga em uma panela.",
+      "Leve ao fogo baixo sempre mexendo até ferver, deixe por mais 3 minutos e desligue.",
+      "Acrescente o creme de leite e misture até ficar homogêneo.",
+      "Montagem",
+      "Desenforme o bolo morno, pois a farinha de rosca pode fazer grudar.",
+      "Corte ao meio, recheie e cubra com o creme. Se preferir só cubra.",
+      "Polvilhe canela em pó. Decore como preferir. Use a imaginação.",
+      "Pronto, só se deliciar!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAULA SLAVIERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309083-bolo-indiano-canela-em-po-e-farinha-de-rosca.html"
+}

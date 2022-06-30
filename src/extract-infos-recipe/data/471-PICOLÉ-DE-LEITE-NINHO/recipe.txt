@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PICOLÉ DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de leite (45 ml)",
+      "1 colher (sopa) de leite condensado (15 ml)",
+      "2 colheres (sopa) de leite ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Coloque a mistura nas formas",
+      "E deixe 1 hora e 30 minutos no congelador"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FLAVIA MOTA MICHEL SANTOLIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312747-picole-de-leite-ninho.html"
+}

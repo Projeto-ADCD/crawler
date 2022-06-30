@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TOMATE SECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de tomates maduros",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "Tempero:",
+      "5 colheres (sopa) de azeite",
+      "2 dentes de alho laminados",
+      "orégano e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cortar os tomates ao meio, retirar as sementes e colocar em uma assadeira com a casca virada para baixo. Espalhar o sal e o açúcar.",
+      "Levar ao forno preaquecido a 180 °C e deixar por 40 minutos. Retirar, escorrer o líquido que juntou, virar e levar novamente ao forno. Deixar por mais 40 minutos.",
+      "Em uma panela aquecer o azeite e dourar levemente o alho. Desligar e misturar o orégano e a pimenta.",
+      "Colocar os tomates em um recipiente, misturar o tempero e colocar em um vidro higienizado.",
+      "Deixar na geladeira por uns dias antes de consumir."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313126-tomate-seco.html"
+}

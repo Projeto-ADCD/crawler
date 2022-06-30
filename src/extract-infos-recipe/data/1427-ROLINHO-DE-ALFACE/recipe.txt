@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ROLINHO DE ALFACE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 folhas grandes de alface",
+      "3 fatias de presunto",
+      "3 fatias de mussarela",
+      "1 cenoura ralada",
+      "100 g de frango desfiado",
+      "4 colheres de maionese",
+      "1 colher de milho verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as folhas de alface.",
+      "Em uma vasilha misture a cenoura, o frango, a maionese e o milho, até formar uma mistura consistente.",
+      "Abra cada folha de alface e coloque a fatia de presunto, a fatia de queijo e um pouco da mistura.",
+      "Enrole bem a folha e prenda com 2 palitos para ficar bem firme.",
+      "Corte ao meio.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308378-rolinho-de-alface.html"
+}

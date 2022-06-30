@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA COLESLAW SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 repolho grande",
+      "1/2 cebola",
+      "1/2 cenoura",
+      "5 colheres (sopa) de maionese",
+      "2 colheres (sopa) de creme de leite",
+      "1 colher (sopa) de mostarda",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "Suco de meio limão",
+      "pimenta-do-reino, orégano, uvas passas e maçã a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie o repolho de forma fina",
+      "Rale a cenoura",
+      "Pique a cebola de forma preferida",
+      "Coloque em um recipiente grande (para ter espaço suficiente)",
+      "Adicione o restante dos ingredientes e misture.",
+      "Deixe descansar na geladeira por um tempo, para apurar o sabor."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDO HERKNORK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313989-salada-coleslaw-simples.html"
+}

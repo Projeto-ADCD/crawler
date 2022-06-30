@@ -1,0 +1,30 @@
+{
+  "nome_receita": "REFOGADO DE COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 folhas de couve grandes",
+      "2 colheres (sopa) de azeite de oliva (aproximadamente)",
+      "1 dente de alho pequeno",
+      "1 colher (sopa) de vinagre",
+      "cebola a gosto",
+      "cheiro-verde ou coentro a gosto",
+      "cebolinha a gosto",
+      "1 colher (sopa) de molho shoyu (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o azeite de oliva, a cebola e alho picados, e o vinagre.",
+      "Ligue o fogo e mexa até o vinagre evaporar.",
+      "Acrescente o molho shoyu, o cheiro-verde ou coentro e a cebolinha, misture um pouco até dar uma leve murchada.",
+      "Acrescente as folhas de couve cortadas em tiras não muito finas.",
+      "Logo em seguida, tampe a panela e aguarde 1 minuto, até o couve murchar.",
+      "Se desejar deixe secar mais a água que saiu do couve, para isso tampe a panela novamente, e sirva logo em seguida.",
+      "É um ótimo acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "YASMIN PASSOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306924-refogado-de-couve.html"
+}

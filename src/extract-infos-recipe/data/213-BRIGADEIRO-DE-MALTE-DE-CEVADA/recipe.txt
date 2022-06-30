@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BRIGADEIRO DE MALTE DE CEVADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "35 g de malte de cevada",
+      "15g de leite em pó",
+      "50g de creme de leite",
+      "20g de manteiga sem sal",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve aproximadamente 100 g de malte de cevada para passar os brigadeiros.",
+      "Leve ao fogo todos os ingredientes em uma panela de fundo grosso, e misture até o ponto de desgrudar da panela. Depois, passe a massa para um recipiente untado com manteiga, cubra com filme plástico e deixe esfriar.",
+      "Quando estiver frio, enrole bolinhas de 20 g, passe no malte de cevada e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FABIOLA DUDA RIGO BELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313924-brigadeiro-de-malte-de-cevada.html"
+}

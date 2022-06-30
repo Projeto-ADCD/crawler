@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PASTEL DE HAMBÚRGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 rodelas de massa de pastel",
+      "6 bifes de hambúrguer",
+      "6 fatias finas de mussarela",
+      "6 fatias finas de presunto",
+      "6 rodelas finas de tomate",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite os bifes.",
+      "Em cada massa, coloque 1 bife, 1 rodela de tomate, 1 fatia de presunto e 1 fatia de queijo.",
+      "Salpique um pouco de orégano.",
+      "Cubra com outra massa de pastel.",
+      "Aperte para que não fique com ar.",
+      "Com o auxílio de um garfo, feche as laterais.",
+      "Frite em óleo quente."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313112-pastel-de-hamburguer.html"
+}

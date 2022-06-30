@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DRINK SEM ÁLCOOL COM KIWI E ÁGUA DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kiwi",
+      "2 colheres de açúcar",
+      "100 ml de água de coco",
+      "2 rodelas bem fininhas de limão",
+      "70 ml de tônica (aproximadamente)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o kiwi com o açúcar",
+      "Coloque o gelo e o limão.",
+      "Adicione a água de coco e complete com a tônica."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308016-drink-sem-alcool-com-kiwi-e-agua-de-coco.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO CREMOSO DE CALABRESA E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 caixa de creme de leite",
+      "1/2 xícara de óleo",
+      "2 xícaras de farinha de trigo",
+      "50 g de queijo ralado",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento em pó",
+      "Recheio",
+      "1 calabresa triturada",
+      "100 g de presunto ralado",
+      "100 g de mussarela ralada",
+      "2 colheres de requeijão",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata todos os ingredientes no liquidificador.",
+      "Recheio",
+      "Misture todos os ingredientes até ficar com uma consistência cremosa",
+      "Em uma forma grande, coloque metade da massa.",
+      "Coloque o recheio por cima com a ajuda de uma colher, não precisa apertar, para não afundar.",
+      "Despeje o restante da massa por cima.",
+      "Salpique com orégano.",
+      "Assar em forno médio por aproximadamente 40 minutos.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308129-bolo-cremoso-de-calabresa-e-queijo.html"
+}

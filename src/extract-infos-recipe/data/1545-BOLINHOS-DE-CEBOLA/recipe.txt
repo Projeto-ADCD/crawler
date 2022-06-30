@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLINHOS DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "3 colheres (chá) de fermento em pó",
+      "1 colher (chá) de sal",
+      "1/2 xícara de manteiga ou margarina",
+      "2/3 de xícara de leite",
+      "1/2 xícara de cebola bem picada",
+      "margarina derretida",
+      "6 colheres (sopa) de queijo parmesão ralado",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, o fermento e o sal.",
+      "Junte a manteiga aos pedacinhos e mexa com um garfo até obter uma mistura granulada.",
+      "Junte o leite e misture até que tudo esteja umedecido.",
+      "Divida a massa ao meio.",
+      "Abra cada metade sobre uma superfície polvilhada com farinha, num retângulo de 50 x 30 cm.",
+      "Pincele com margarina derretida e salpique cada retângulo com 1/4 de xícara de cebola e 3 colheres (sopa) de queijo ralado.",
+      "Enrole como se fosse rocambole, começando com o lado mais largo.",
+      "Feche bem as bordas.",
+      "Corte em rodelas de 2 cm.",
+      "Coloque em assadeira untada.",
+      "Achate ligeiramente.",
+      "Pincele com clara de ovo e salpique com o queijo ralado.",
+      "Asse em forno quente (mais ou menos 200ºC) por 15 minutos.",
+      "Sirva quente ou frio, vai de acordo com sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307743-bolinhos-de-cebola.html"
+}

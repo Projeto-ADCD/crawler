@@ -1,0 +1,25 @@
+{
+  "nome_receita": "LÍNGUA DE SOGRA BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo (2 copos) ",
+      "2 ovos",
+      "150 g de açúcar refinado (1 copo) ",
+      "400 ml de leite (2 copos)",
+      "1 colher (café) de sal refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes até ficar com o fio da massa fino e fluido, mas consistente.",
+      "Frite uma concha da massa por vez, em uma frigideira redonda, com pouquíssimo óleo de cozinha, até começar a dourar.",
+      "Frite o outro lado do disco da massa do mesmo modo e enrole os discos depois de fritos.",
+      "Ao enrolar os discos da massa, antes eles podem ser cobertos no lado interior dos canudos com calda de chocolate, geleias ou mel e depois empilhados em uma travessa para serem servidos.",
+      "Polvilhe os canudos com açúcar e canela é do gosto de cada um, pois o lanche em si já é doce."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARIO BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312550-lingua-de-sogra-brasileira.html"
+}

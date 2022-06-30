@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ABACATE RECHEADO COM SURIMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "14 surimi",
+      "3 abacates",
+      "2 novas cebolas/cebolinhas",
+      "1 limão",
+      "tabasco",
+      "3 colheres (sopa) de maionese",
+      "páprica",
+      "sal",
+      "pimenta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, misture a carne de siri ou os surimis cortados em pequenos pedaços com a chalota, o tabasco e a maionese. Adicione sal e pimenta.",
+      "Corte os abacates ao meio no sentido do comprimento e retire os caroços.",
+      "Regue com as metades do suco de limão para evitar que escureçam.",
+      "Recheie as metades do abacate com a mistura de caranguejo.",
+      "Polvilhe com um pouco de páprica e sirva imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311521-abacate-recheado-com-surimi.html"
+}

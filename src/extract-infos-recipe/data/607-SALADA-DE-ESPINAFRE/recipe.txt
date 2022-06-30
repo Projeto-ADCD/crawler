@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SALADA DE ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 folhas espinafre",
+      "10 tomates cereja",
+      "2 ovos",
+      "1/2 molho de tomate",
+      "2 colheres (sopa) cheias de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ovos para cozinhar",
+      "Lava bem as folhas do espinafre e corte grosseiramente",
+      "Leve ao fogo o molho de tomate e tempere de acordo com a sua preferência(eu coloco alho, cebola, sal e manjericão)",
+      "os tomates depois de lavados (inteiros ou cortados ao meio)adicione nesse molho",
+      "Deixe uns minutinhos e desligue o fogo, deixe esfriar.",
+      "Para montar a salada , comece com as folhas espalhe em um recipiente coloque o molho que reservou por cima das folhas, a maionese ,e por último os ovos já descascados e frio. Misture na hora que for consumir. E bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LAINE H",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312369-salada-de-espinafre.html"
+}

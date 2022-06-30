@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAFÉ GELADO COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de achocolatado",
+      "1 copo de leite gelado",
+      "4 pedras de gelo",
+      "10 colheres de café (não é o pó e sim o café pronto)",
+      "1 colher de açùcar",
+      "1 colher de doce de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite no copo depois adicione o gelo, depois o café o açúcar , achocolatado e o doce de leite, misture tudo com a ajuda de uma colher se quiser enfeite o copo ou caneca. Sirva e aproveite."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LIDÍA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311562-cafe-gelado-com-doce-de-leite.html"
+}

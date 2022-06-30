@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO NAPOLITANO BÁSICO.",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 dentes de alho cortados em lâminas",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "6 tomates maduros"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, frite o Alho em um pouco de azeite.",
+      "Lave os tomates, retire a parte verde e corte em metades ou em três pedaços grandes.",
+      "Adicione os tomates, ao alho frito e continue refogando.",
+      "Junte só um pouco de água.",
+      "Com a panela aberta e fogo forte, vá cozinhando e refogando esses tomate. Eles devem cozinhar, mas precisa sobrar pequenos pedaços de tomate, sem desmanchar totalmente.",
+      "Adicione sal e pimenta do reino a gosto. Quando o tomate cozinhar, está pronto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita que está na minha família há gerações. Minha avó fazia.\nÉ a fórmula básica dos molhos Italianos chamados Napolitanos.\nResulta em um simples molho, de alho e óleo com tomates, suficiente para meio quilo de macarrão, de preferência espaguete."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312670-molho-napolitano-basico.html"
+}

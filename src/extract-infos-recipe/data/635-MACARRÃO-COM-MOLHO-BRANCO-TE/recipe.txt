@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO BRANCO TE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de Macarrão Parafuso",
+      "1/2 maço de Brócolis",
+      "2 xícaras (chá) de tomate-cereja",
+      "sal",
+      "1 fio de óleo",
+      "2 colheres (sopa) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os tomates e coloque em uma travessa",
+      "Cozinho o brócolis a vapor, sobre uma mistura de água fervente com sal, por alguns minutos.",
+      "Cozinhe o macarrão em água fervente com o fio de óleo e sal, até que fique al dente.",
+      "Em uma panela, aqueça o azeite e coloque o macarrão.",
+      "Mexa bem para que ele absorva o sabor do azeite.",
+      "Acrescente os brócolis e misture suavemente , e adicione os tomates picados, e misture, após 1 minuto, sirva."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EMANUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312219-macarrao-com-molho-branco-te.html"
+}

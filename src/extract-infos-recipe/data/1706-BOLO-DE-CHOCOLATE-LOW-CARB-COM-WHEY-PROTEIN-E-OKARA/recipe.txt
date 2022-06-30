@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE LOW CARB COM WHEY PROTEIN E OKARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "90 gramas de chocolate amargo 60%",
+      "2 colheres (sopa) de cacau em pó",
+      "2 ovos",
+      "2 scoops de whey protein",
+      "1 copo americano de okara",
+      "1/2 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um processador, misture todos os ingredientes menos a barra de chocolate e o fermento. Reserve.",
+      "Pique a barra de chocolate e derreta no micro-ondas, mexendo a cada 30 segundos.",
+      "Incorpore o chocolate derretido ao restante da massa.",
+      "Depois de homogêneo, adicione o fermento e mexa levemente.",
+      "Despeje a massa em forminhas de cupcake ou em uma forma de bolo inglês, ambos untados com uma colher de sopa de óleo de coco e cacau em pó.",
+      "Leve ao forno preaquecido a 180 graus por 30 minutos, ou até que o palito saia seco no teste do palito.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Esse bolinho fica bem amargo, para quem gosta de coisas mais doces recomendo adicionar um pouco de adoçante ou de açúcar mascavo.\nOutra sugestão também é servir com algumas colheres de creme banana."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GATTICC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307095-bolo-de-chocolate-low-carb-com-whey-protein-e-okara.html"
+}

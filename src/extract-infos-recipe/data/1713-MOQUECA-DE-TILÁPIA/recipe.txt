@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOQUECA DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de tilápia sem espinhos",
+      "4 cebolas",
+      "4 tomates",
+      "2 pimentões verdes",
+      "1 vidro leite de coco",
+      "2 colheres (sopa) extrato de tomate",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os peixes de acordo com sua preferência",
+      "Corte as cebolas em rodelas e acrescente no fundo da frigideira",
+      "Após em camadas, acrescenta a tilápia, os pimentões e por fim o tomate.",
+      "Adicione o extrato de tomate e o leite de coco, não precisar mexer.",
+      "Após a fervura, deixe em fogo baixo por 20 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Acompanhamento: salada e arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LAÍS FERREIRA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307056-moqueca-de-tilapia.html"
+}

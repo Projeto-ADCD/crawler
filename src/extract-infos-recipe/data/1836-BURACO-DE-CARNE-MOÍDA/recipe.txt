@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BURACO DE CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de carne moída",
+      "1/2 cebola picada",
+      "2 colheres (sopa) salsinha picada",
+      "2 colheres (sopa) cebolinha picada",
+      "1 colher (sopa) mostarda amarela",
+      "1/2 limão (suco)",
+      "1 colher (chá) azeite",
+      "6 fatias de bacon",
+      "2 ovos",
+      "sal e pimenta-do-reino a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque a carne moída e adicione a cebola picada, a salsinha e cebolinha picadas, a mostarda, o suco do limão, o azeite, o sal e a pimenta-do-reino.",
+      "Com as mãos, faça uma mistura homogênea.",
+      "Separe a massa em duas porções iguais.",
+      "Prepare bolinhas com as porções, as acomode em uma forma retangular com papel manteiga.",
+      "Com a ajuda de um copo faça um buraco o mais fundo possível na massa e forre o fundo com bacon (3 fatias em cada)",
+      "Leve ao forno preaquecido a 200° C por aproximadamente 20 minutos.",
+      "Retire, acrescente os ovos nos buracos, salpique uma pitada de sal e retorne ao forno por mais 15 minutos aproximadamente (depende do ponto que deseja que fiquem os ovos)",
+      "Retire do forno, salpique salsinha e sirva. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306658-buraco-de-carne-moida.html"
+}

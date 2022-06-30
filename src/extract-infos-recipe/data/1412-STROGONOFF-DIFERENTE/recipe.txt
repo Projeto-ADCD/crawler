@@ -1,0 +1,36 @@
+{
+  "nome_receita": "STROGONOFF DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de acém ou pá",
+      "2 tabletes de caldo de carne",
+      "1 e 1/2 xícara de ketchup",
+      "1/2 xícara de maionese",
+      "4 colheres (sopa) de óleo",
+      "1 colher (sopa) de manteiga",
+      "1 lata de creme de leite",
+      "1 colher (sopa) rasa de farinha de trigo",
+      "pimenta-do-reino a gosto",
+      "1 cebola grande ",
+      "1 colher (sopa) cheia de manjerona",
+      "sal (opcional)",
+      "1 xícara (café) de vinho branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe bem a carne, corte em tirinhas e tempere com os tabletes de carne, bem dissolvidos, o alho socado e a pimenta a gosto.",
+      "Deixe pegar gosto por uma hora.",
+      "Feito isso, leve uma panela ao fogo com óleo para esquentar, junte a carne, frite até dourar (não pare de mexer).",
+      "Junte a cebola picadinha, refogue bem e vá adicionando água até a carne ficar macia (prove o sal).",
+      "Estando a carne macia, junte o vinho, refogue um pouco e adicione o katchup, a maionese e a farinha dissolvida no creme de leite, mexa até engrossar e cozinhar, prove os temperos e, por último, junte a manjerona picadinha",
+      "Ferva por mais um minuto ou dois e retire do fogo.",
+      "Sirva bem quente, com batata sauté ou com arroz branco.",
+      "Obs: Se preferir, junte mais ketchup e, se quiser enriquecer o prato, acrescente champignons picados, palmito ou milho verde."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308483-strogonoff-diferente.html"
+}

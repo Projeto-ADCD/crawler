@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO EMPANADO SUPERCROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 coxas e sobrecoxas de frango",
+      "1 kg de farinha de trigo",
+      "500 g de farinha de milho amarela",
+      "400 g de cereal de milho",
+      "4 ovos batidos com um pouco de água",
+      "3 dentes de alho ",
+      "sal a gosto",
+      "1 colher (chá) de páprica picante",
+      "1 colher (chá) de páprica defumada",
+      "1 colher (chá) de pimenta calabresa",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o alho picado, o sal e as pápricas no frango",
+      "Deixe reservado por 30 minutos",
+      "Enquanto isso, misture a farinha de trigo com a pimenta calabresa",
+      "Misture a farinha de milho com o cereal e dê uma leve triturada",
+      "Bata os ovos com um pouco de água e reserve as farinhas e ele em potes separados",
+      "Empane o frango começando com a farinha de trigo, depois no ovo e na farinha de milho.",
+      "Deixe descansar por 5 minutos, passe no ovo novamente e na farinha de milho com o ceral",
+      "Frite em óleo.",
+      "Retire e coloque em um prato com papel-toalha",
+      "Sirva com um molho picante."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310780-frango-empanado-supercrocante.html"
+}

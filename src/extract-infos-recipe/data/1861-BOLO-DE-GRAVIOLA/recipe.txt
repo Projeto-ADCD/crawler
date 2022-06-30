@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE GRAVIOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 xícara (chá) de polpa de graviola",
+      "1 xícara (chá) de açúcar",
+      "2 xícaras (chá) de leite",
+      "10 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "3 ovos",
+      "2 colheres (sopa) de margarina",
+      "Cobertura",
+      "1 xícara (chá) de leite",
+      "1/2 lata de leite condensado",
+      "100 g de coco ralado tostado ou normal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes, menos o fermento e a farinha.",
+      "Despeje em uma tigela e junte a farinha aos poucos misturando bem.",
+      "Junte o fermento e mexa até misturar bem",
+      "Leve para assar em forma de tamanho de 35x5 untada por 40 minutos.",
+      "Cobertura ",
+      "Misture tudo e leve ao fogo mexendo por 5 minutos",
+      "Faça furinhos no bolso e despeje a cobertura por cima.",
+      "Se quiser, salpique coco por cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCIA PAULO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306600-bolo-de-graviola.html"
+}

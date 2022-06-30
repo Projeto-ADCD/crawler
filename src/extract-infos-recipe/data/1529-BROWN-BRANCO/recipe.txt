@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BROWN BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de margarina ",
+      "3 colheres (sopa) de leite em pó",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de leite",
+      "2 colheres (sopa) de café dissolvido (opcional)",
+      "6 colheres (sopa) de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite em pó com a margarina derretida e dissolva.",
+      "Coloque o café e mexa.",
+      "Coloque a farinha aos poucas e vá mexendo a massa.",
+      "Acrescente o leite e mexa.",
+      "Deixe numa xícara grande.",
+      "Deixe um 1 minuto e meio no micro-ondas.",
+      "Depois pegue uma colher e coma."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LETICIA CARVALHO DA VEIGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307842-brown-branco.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA CROCANTE COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farinha panko",
+      "1 pedaço de bacon",
+      "1 cebola média",
+      "3 dentes de alho",
+      "suco de 1 limão",
+      "1 colher de manteiga",
+      "cheiro-verde a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela frite o bacon até ficar bem douradinho",
+      "Acrescente a manteiga e o dente de alho e frite até dourar",
+      "Acrescente a cebola cortada em fatias e deixe dourar até começar a grudar no fundo da panela",
+      "Acrescente o suco do limão e todos os temperos exceto o cheiro verde e misture bem até desgrudar tudo do fundo da panela",
+      "Adicione metade da quantidade de farinha panko e misture bem até dar uma secada",
+      "Adicione o resto da farinha panko e desligue o fogo",
+      "Adicione todo o cheiro verde picado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KAROLINA KISCHNER DALZOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308873-farofa-crocante-com-bacon.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOBÓ DE CAMARÃO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarão rosa médio limpo",
+      "cascas do camarão",
+      "1 kg de mandioca amarela",
+      "4 colheres (sopa) de azeite",
+      "3 dentes de alho picado",
+      "4 colheres (sopa) de manteiga",
+      "1 cebola picado",
+      "1 pimentão vermelho em cubos pequenos (opcional)",
+      "1 pimentão amarelo em cubos pequenos (opcional)",
+      "200 ml de leite de coco",
+      "4 colheres (sopa) de azeite de dendê",
+      "sal e pimenta-dedo-de-moça a gosto",
+      "2 colheres (sopa) de coentro fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descascar as mandiocas e colocar na panela de pressão com agua e sal.",
+      "Após pegar pressão, aguardar 20 minutos ou até que a mandioca esteja macia",
+      "Refogar o camarão com azeite, manteiga, sal e pimenta por 3 minutos.",
+      "Retirar o camarão da panela e reservar.",
+      "Refogar a cebola e o alho na mesma panela em que o camarão foi refogado.",
+      "Acrescentar pimenta do reino, pimenta dedo de moça ou pimenta caiena.",
+      "Acrescentar 200ml de leite de coco.",
+      "Acrescentar 2 colheres de sopa de azeite de dendê.",
+      "Acrescentar metade do coentro picado.",
+      "Deixar levantar fervura.",
+      "Retire a mandioca do fogo, e bata com um pouco do caldo da panela de pressão.",
+      "Acrescentar o creme de mandioca e mexer bem.",
+      "Prove, regule o sal, a pimenta.",
+      "Adicione 2 colheres de azeite de dendê.",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LIMBO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310557-bobo-de-camarao-facil.html"
+}

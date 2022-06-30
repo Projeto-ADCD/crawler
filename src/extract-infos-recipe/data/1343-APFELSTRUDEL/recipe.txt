@@ -1,0 +1,53 @@
+{
+  "nome_receita": "APFELSTRUDEL",
+  "ingredientes": {
+    "MASSA": [
+      "350 g de farinha de trigo sem fermento",
+      "1 pitada de sal",
+      "2 colheres (sopa) de óleo",
+      "1 ovo",
+      "120 ml de água morna",
+      " "
+    ],
+    "RECHEIO": [
+      "de 800 g a 2 kg de maçã",
+      "150 g de uva passa ",
+      "1 limão (suco e casca ralada fininha)",
+      "2 colheres (chá) de canela",
+      "100 g de açúcar refinado",
+      "50 g de farinha de rosca",
+      "papel antiaderente para assar",
+      "óleo",
+      "aproximadamente 6 colheres de manteiga ou margarina derretida ",
+      "açúcar de confeiteiro ",
+      "100 ml de rum escuro "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as uvas passas em um recipiente e deixe-as encharcadas no rum escuro. Reserve.",
+      "Adicione todos os ingredientes da massa em uma tigela e amasse por pelo menos 5 min para garantir a elasticidade.",
+      "Corte a massa ao meio, forme 2 bolinhas, passe um pouco de óleo para não deixar que resseque e deixe descansar em um prato por pelo menos 30 min, podendo chegar até 2h.",
+      "Enquanto isso, descasque as maçãs e corte-as como preferir: meias luas ou cubos pequenos. Adicione o suco de limão e as cascas, o açúcar, a canela e as uvas passas. Reserve.",
+      "Leve ao fogo a farinha de rosca para \"secar\", cuidando para não queimar. Mexa o tempo todo. Coloque em um recipiente e reserve.",
+      "Após a massa descansar, polvilhe com farinha uma superfície e abra.",
+      "Coloque a 1ª bolinha de massa no centro e comece a abrir com as mãos, do centro para as bordas.",
+      "Quando chegar ao máximo, comece abrir gentilmente com o rolo, também do centro para as bordas.",
+      "Quando a massa estiver fina, comece a abri-la com as mãos: segure a massa com as costas das mãos, movendo por baixo, utilizando os polegares para esticar com cuidado. O próprio peso da massa fará o trabalho, fazendo a massa ficar bem fina. Cuidado para não fazer buracos.",
+      "Quando a massa estiver bem esticada, pincele o centro com manteiga, deixando uma borda de mais ou menos 2 cm.",
+      "Polvilhe por cima metade da farinha de rosca e coloque metade do recheio.",
+      "Dobre as bordas da massa para dentro e comece a enrolar devagar. ",
+      "Depois, com a ajuda da toalha, coloque o strudel em um pedaço de papel antiaderente (próprio para assar) com a borda para baixo.",
+      "Pincele toda a superfície com manteiga e asse até dourar (mais ou menos 60min à 220ºC).",
+      "Depois de assado, polvilhe açúcar de confeiteiro e sirva quente.",
+      "Repita o mesmo processo com a segunda bolinha, para um outro strudel, usando o restante dos ingredientes."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O ideal é de aproximadamente 10 maçãs.\nUse uma toalha de mesa limpa, lisa e espaçosa para abrir a massa.\nQuanto maior o descanso da massa, melhor para elasticidade.\nNão use as mãos para enrolar a massa, apenas uma toalha.\nSe preferir, sirva com sorvete de creme, baunilha ou chantilly."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIANA DESTACIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308805-apfelstrudel.html"
+}

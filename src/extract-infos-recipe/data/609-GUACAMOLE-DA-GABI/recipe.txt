@@ -1,0 +1,29 @@
+{
+  "nome_receita": "GUACAMOLE DA GABI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate grande maduro",
+      "4 colheres (sopa) de suco de limão",
+      "2 pimentas dedo de moça em conserva",
+      "2 tomates",
+      "1 cebola roxa",
+      "1 colher (sopa) de azeite",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire as sementes da pimenta e pique em pedaços pequenos.",
+      "Pique a cebola e o tomate em cubinhos bem pequenos.",
+      "Lave a cebola em água fervente para retirar a acidez, jogando água fria depois. Faça isso duas vezes.",
+      "Amasse o abacate com um garfo até alcançar a consistência desejada. Não amasse demais para não ficar aguado.",
+      "Misture todos os ingredientes, e está pronto para servir.",
+      "Sirva com tortilhas salgadas (Doritos), acompanhando saladas ou como preferir.",
+      "OBS.: Você pode usar pimenta fresca, mas cuidado com a quantidade. Como tenho crianças, a pimenta que usei tem apenas um leve ardor e, por isso, usei 2 unidades. A pimenta ao natural é bem mais picante, apenas 1 já é o suficiente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312353-guacamole-da-gabi.html"
+}

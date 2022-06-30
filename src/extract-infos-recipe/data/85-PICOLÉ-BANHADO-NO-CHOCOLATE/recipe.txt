@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PICOLÉ BANHADO NO CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite ",
+      "3 colheres (sopa) de amido de milho ",
+      "600 ml de leite ",
+      "100 g de coco ralado ",
+      "200 g de chocolate ao leite derretido ",
+      "80 de amendoim triturado e sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o leite condensado, o creme de leite e o amido",
+      "Misture bem e espere engrossar um pouco",
+      "Junte o leite e mexa de novo",
+      "Adicione o coco e mexa toda a mistura até ficar bem homogênea e cremosa ",
+      "Reserve ",
+      "Recheie forminhas de picolé da sua preferência e leve ao congelador por 8 horas",
+      "Depois, em um recipiente fundo, coloque o chocolate derretido",
+      "Afunde o picolé alí dentro e depois passe no amendoim",
+      "Deixe a casquinha de chocolate endurecer e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314543-picole-banhado-no-chocolate.html"
+}

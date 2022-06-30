@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RISOTO DE CAMARÃO NA PANELA DE PRESSÃO DO RAMIRO B. (IGUAL AO FEITO NA PANELA NORMAL)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de arroz arbóreo",
+      "200 g de camarão médio",
+      "50 g de parmesão ralado",
+      "30 g de manteiga com sal",
+      "30g de creme de leite",
+      "1/2 pacote de hondashi",
+      "1 dente alho",
+      "1/2 cebola média picada",
+      "1 cubo de caldo de camarão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, refogue a cebola e alho em manteiga e adicione o camarão, refogando até o camarão mudar de cor e ficar rosado (cerca de uns 3/5 min). Reserve.",
+      "Na panela de pressão , frite o arroz arbóreo por aproximadamente 1min.",
+      "Junte o vinho, mexendo até evaporar.",
+      "Junte a água com o caldo e o hondashi, sal e pimenta e tampe para pegar pressão",
+      "Após pegar pressão conte 3 minutos e desligue a panela. Importante: não passar deste tempo senão o arroz pode ficar muito mole.",
+      "Abra a panela (após tirar a pressão) e adicione o camarão e o restante dos ingredientes, mexendo bem para incorporar todos os ingredientes.",
+      "Ajuste sal e pimenta e sirva em seguida.",
+      "Dica:",
+      "Adicionar alho-poró ou cebolinha junto com o camarão no final fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAMIRO B.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313605-risoto-de-camarao-na-panela-de-pressao-do-ramiro-b-igual-ao-feito-na-panela-normal.html"
+}

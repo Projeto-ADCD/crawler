@@ -1,0 +1,33 @@
+{
+  "nome_receita": "COXINHA DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé ou posta de tilápia moído",
+      "800 g de trigo",
+      "500 ml de água",
+      "200 g de margarina",
+      "pimenta com moinho",
+      "cebola picada",
+      "sal a gosto",
+      "2 tomates",
+      "20 ml de óleo",
+      "2 cebolas",
+      "2 cabeça de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água em uma panela para ferver",
+      "Coloque a margarina e o sal",
+      "Após a água ferver adicione o trigo mexendo até virar pirão",
+      "Desligar o fogo para esfriar e modelar o recheio",
+      "Em uma panela com óleo, coloque a cebola bem picada para dourar",
+      "Assim que a cebola estiver dourada, adicione o alho, tomate e o pescado, misture bem, e deixe cozinhando por 15 minutos, no final adicione cebolinha verde",
+      "Adicione sal a gosto no final."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311636-coxinha-de-tilapia.html"
+}

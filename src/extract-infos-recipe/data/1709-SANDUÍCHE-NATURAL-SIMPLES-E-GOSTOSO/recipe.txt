@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SANDUÍCHE NATURAL SIMPLES E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães de forma integral",
+      "1/2 cenoura ralada",
+      "1 xícara de frango desfiado",
+      "2 colheres de requeijão (normal ou ligth)",
+      "1 tomate cortado em rodelas",
+      "2 folhas de alface"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o requeijão com o frango desfiado e a cenoura ralada em um recipiente",
+      "Agora vá montando o sanduiche.",
+      "Primeiro a alface, depois a mistura de frango e por último o tomate.",
+      "Ótima opção de lanche "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307091-sanduiche-natural-simples-e-gostoso.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "TORTA DE FRANGO DA DONA LÚCIA",
+  "ingredientes": {
+    "MASSA DA TORTA": [
+      "1 copo de leite morno",
+      "1 xícara (café) de óleo",
+      "2 colher (sopa) de manteiga",
+      "1 pitada de sal",
+      "1 colher (sopa) de açúcar",
+      "1 ovo",
+      "1 colher (sopa) de fermento em pó",
+      "4 e 1/2 xícaras (chá) de farinha de trigo"
+    ],
+    "RECHEIO (SUGESTÃO)": [
+      "500 g de frango desfiado",
+      "100 g de azeitonas picadas",
+      "1 vidro de palmito picado",
+      "1 lata de ervilha",
+      "4 tomates picadinhos",
+      "1 punhado de cheiro-verde",
+      "1/2 copo de leite",
+      "creme de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "PARA A MASSA": [
+      "Misture todos os ingredientes e amassar até soltar das mãos.",
+      "Não sove"
+    ],
+    "PARA O RECHEIO": [
+      "Refogue o frango uns 5 minutos, pique e junte os demais ingredientes, por último o cheiro-verde.",
+      "Engrosse com amido se precisar.",
+      "Recheie as empadas ou a torta e leve pra assar. Pode pincelar com uma gema batida antes de levar ao forno."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Esta receita estava em um livro de receitas da minha mãe (dona Lúcia) e desde criança eu adoro. A massa fica muito crocante e deliciosa. Pode ser recheada com qualquer coisa o meu preferido é o de frango\nEsta massa pode ser feita para uma única torta ou empadas pequenas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAULO GALEGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310636-torta-de-frango-da-dona-lucia.html"
+}

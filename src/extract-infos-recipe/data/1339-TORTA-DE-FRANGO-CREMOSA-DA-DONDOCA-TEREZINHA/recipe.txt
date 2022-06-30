@@ -1,0 +1,56 @@
+{
+  "nome_receita": "TORTA DE FRANGO CREMOSA DA DONDOCA TEREZINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 xicara de óleo",
+      "3 xícaras de leite frio",
+      "3 xícaras de farinha de trigo",
+      "1 colher (sopa) rasa de fermento em pó",
+      "1 pitada de sal (pouco)",
+      "1 colher (café) de glutamato de sódio (realçador de sabor)",
+      "1 colher de orégano",
+      "1/2 pimenta dedo-de-moça a gosto (opcional)",
+      "salsinha ou cebolinha",
+      "palmito (opcional)",
+      "Recheio da torta",
+      "2 cremes de leite",
+      "2 tomates sem semente",
+      "2 peitos de Frango",
+      "1 cebola grande",
+      "azeitona preta a gosto",
+      "1 tablete de caldo de galinha",
+      "5 dentes grandes de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de preparar a massa",
+      "Bata no liquidificador o ovo, leite, óleo",
+      "Unte a forma com manteiga e farinha",
+      "Preparo",
+      "Cozinhe na panela:",
+      "Coloque o peito de frango na panela de pressão, cubra com água passando mais ou menos 4 dedos de água, cobrindo o peito de frango",
+      "Deixe 40 minutos no fogo baixo",
+      "Reserve a água para acabar de preparar o recheio",
+      "Deixe só a carne na panela, sacuda que o peito de frango que se desmancha sozinho se já está pronto ou desfia, pode ser com o garfo como preferir.",
+      "Na outra panela",
+      "Primeiro Frite o alho e depois coloca a cebola  ralada, os tomates, azeitona mexendo com a água que sobrou do cozimento até ficar bem sequinho",
+      "Coloque sal e mais o glutamato",
+      "Refogue com o frango e apaga o fogo",
+      "Coloque salsinha com fogo apagado meche e tampa panela",
+      "Finalização da Receita o segredo do Creme de Leite",
+      "2 Creme de Leite põe no refogado do recheio para ficar cremoso e úmido depois de pronto.",
+      "Montagem: Espalha na forma a metade da massa no fundo da forma.",
+      "Põe o refogado sem liquido se houver, espalhando devagar com os dedos para não misturar na massa, pois a massa está meio liquida, ela não é seca. O recheio fica separado da massa.",
+      "A outra parte da massa da receita vai derramando devagar fazendo a tampa da torta não deixando misturar com o recheio."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Porção para uma receita Fazer 2 receitas para uma forma grande"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TEREZINHA DA SILVA SUHANKO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308826-torta-de-frango-cremosa-da-dondoca-terezinha.html"
+}

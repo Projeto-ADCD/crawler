@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CARNE DE SOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne de sol",
+      "1 colher de manteiga",
+      "3 cenouras grandes",
+      "sal a gosto",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a cebola na manteiga",
+      "Depois coloque todos os ingrediente",
+      "Adicione a agua",
+      "Sal a gosto",
+      "Deixe cozinhar por 15 minutos",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JESSICA MEDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311417-carne-de-sol.html"
+}

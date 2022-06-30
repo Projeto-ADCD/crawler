@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOWL ORIENTAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de bifum",
+      "1/2 xícara (chá) de repolho roxo cortado",
+      "1/2 xícara (chá) de repolho branco cortado",
+      "1/2 xícara (chá) de cenoura ralada",
+      "sal",
+      "azeite",
+      "pimenta-do-reino",
+      "gergelim misto torrado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o bifum de acordo com as instruções de embalagem.",
+      "Refogue o macarrão no azeite, adicione os repolhos e a cenoura.",
+      "Tempere com sal e pimenta.",
+      "Finalize com o gergelim misto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311546-bowl-oriental.html"
+}

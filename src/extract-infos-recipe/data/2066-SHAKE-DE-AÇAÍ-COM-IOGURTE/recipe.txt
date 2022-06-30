@@ -1,0 +1,20 @@
+{
+  "nome_receita": "SHAKE DE AÇAÍ COM IOGURTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "100 g de iogurte natural ou grego",
+      "1 colher (sopa) de mel (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador ou mixer até obter uma mistura homogênea.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306098-shake-de-acai-com-iogurte.html"
+}

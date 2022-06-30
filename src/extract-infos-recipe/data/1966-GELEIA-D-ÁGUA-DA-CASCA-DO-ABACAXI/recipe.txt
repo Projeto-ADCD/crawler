@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GELEIA D'ÁGUA DA CASCA DO ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "casca de um abacaxi",
+      "4 colheres (sopa) bem cheias de amido de milho",
+      "6 colheres (sopa) bem cheia de açúcar (ou ao seu gosto)",
+      "1,5 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe as cascas de molho 24 horas numa vasilha fechada em geladeira (aproximadamente 1 litro)",
+      "Dissolva o amido num copo com 300 ml de água, depois junte numa caneca com a água em que estavam de molho as cascas do abacaxi e o açúcar, e vai mexendo até ferver.",
+      "Depois que ferver deixe mais uns 3 minutos em fogo baixo e continue mexendo .",
+      "Despeje numa forma de vidro e deixe esfriar, fica melhor ainda se depois colocar na geladeira pra comer geladinha."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "COELHO ROGÉRIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306318-geleia-dagua-da-casca-do-abacaxi.html"
+}

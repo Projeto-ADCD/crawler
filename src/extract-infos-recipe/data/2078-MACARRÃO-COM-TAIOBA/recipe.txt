@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO COM TAIOBA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão",
+      "4 dentes de alho",
+      "2 cenouras",
+      "2 cebolas roxas",
+      "2 folhas de taioba com talos",
+      "Salsinha, sal e óleo ou manteiga a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os dentes de alho em pequenos pedaços.",
+      "Lave e corte as cenouras em tiras.",
+      "Corte as cebolas em rodelas finas.",
+      "Lave a taioba e descasque os talos.",
+      "Corte os talos em rodelas e as folhas em pedaços largos.",
+      "Doure o alho em óleo ou manteiga, como se estivesse preparando um macarrão alho e óleo.",
+      "Acrescente as cenouras e vá pingando água apenas o suficiente para não queimar (prefiro quando as cenouras ficam bem firmes e com pouco cozimento).",
+      "Quando as cenouras estiverem quase no ponto acrescente a cebola e doure novamente.",
+      "Acrescenta as folhas e talos de taioba e novamente vá pingando água apenas o suficiente para não queimar.",
+      "O molho do macarrão não deve ter caldo.",
+      "Em paralelo cozinhe e escorra o macarrão.",
+      "Acrescente o molho quando este estiver pronto.",
+      "Tempere com sal, salsinha e ou outro tempero de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PATRICIA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306079-macarrao-com-taioba.html"
+}

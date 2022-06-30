@@ -1,0 +1,24 @@
+{
+  "nome_receita": "STROGONOFF DIFERENTE DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 atum em lata",
+      "1 tomate picado",
+      "1 caixa de creme de leite (200 g)",
+      "Pimenta do reino",
+      "cebola",
+      "queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture o tomate e o atum com o caldo da lata, em seguida leve ao fogo médio e refogue o atum e o tomate e a cebola por cerca de 5 minutos",
+      "Em seguida adicione o creme de leite e a pimenta do reino, misture bem e deixe o creme de leite pegar fervura e continue mexendo.",
+      "Desligue o fogo e finalize com o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SANDY SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311616-strogonoff-diferente-de-atum.html"
+}

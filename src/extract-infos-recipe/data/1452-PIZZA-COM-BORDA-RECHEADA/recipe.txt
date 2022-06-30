@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PIZZA COM BORDA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo sem fermento (240 ml)",
+      "1 colher (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "5 colheres (sopa) de azeite",
+      "1 colher (chá) de fermento biológico seco",
+      "1 xícara de água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em um recipiente e misture com as mãos até que fique com uma massa firme e em seguida adicione a xícara de água morna",
+      "Depois sove por 10 minutos.",
+      "Quando sovar cubra com um pano e deixe crescer por 1 hora.",
+      "Quando a massa crescer abra com um rolo jogando farinha para que não grude.",
+      "Abra ela e coloque por cima da sua assadeira deixando passar para fazer a borda.",
+      "Coloque catupiri a gosto (requeijão cremoso) ou o recheio de sua preferência na borda e a feche passando água na lateral e vá fechando.",
+      "Adicione molho de tomate e o recheio de sua preferência depois leve ao forno máximo por 30 minutos (dependendo do seu forno)."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KAREN SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308261-pizza-com-borda-recheada.html"
+}

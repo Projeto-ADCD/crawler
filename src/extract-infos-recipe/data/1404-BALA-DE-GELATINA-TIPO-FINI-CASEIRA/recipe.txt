@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BALA DE GELATINA TIPO FINI CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de gelatina incolor (12 g)",
+      "1 pacote de gelatina com sabor (30 g)",
+      "150 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um pequeno bowl misture a gelatina incolor com a gelatina com sabor, adicione a água e misture até a gelatina dissolver.",
+      "Deixe descansar por 10 minutos em local fresco e arejado",
+      "Leve para o micro-ondas entre 20 a 25 segundos",
+      "Dê uma mexida",
+      "Adicione nas forminhas",
+      "Leve para a geladeira por 15 minutos",
+      "Desenforme e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "forminhas de acetato ou silicone (opcional)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "-25 PORÇÕES",
+  "autor": "ELOANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308510-bala-de-gelatina-tipo-fini-caseira.html"
+}

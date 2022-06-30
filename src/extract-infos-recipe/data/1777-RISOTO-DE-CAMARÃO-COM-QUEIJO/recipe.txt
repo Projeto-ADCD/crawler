@@ -1,0 +1,46 @@
+{
+  "nome_receita": "RISOTO DE CAMARÃO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o caldo",
+      "1 dente de alho",
+      "1 cebola ",
+      "1 tomate",
+      "1 pimentão vermelho ",
+      "Cebolinha e coentro picado",
+      "1 cenoura ",
+      "2 batatas ",
+      "2 litros de água",
+      "3 cubos de caldo de camarão",
+      "Para o risoto",
+      "3 xícaras (café) de arroz arbóreo ou carnarolli para risoto",
+      "50 g de parmesão ralado",
+      "1 xícara de vinho branco",
+      "1 caixinha de creme de leite",
+      "1 colher (sopa) de manteiga",
+      "300 g de camarão limpo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça o caldo",
+      "Refogue o alho e a cebola picada.",
+      "Adicione o tomate, pimentão cortado grosseiramente e o tempero verde.",
+      "Coloque a cenoura, batata cortada em cubos grandes, os cubos de camarão e água.",
+      "Deixe ferver por 30 minutos.",
+      "Coloquei 1 colher (sopa) de azeite em uma panela.",
+      "Quando estiver bem quente coloque os camarões já temperados.",
+      "Refogue até ficar rosinhas, mais ou menos 2 minutos.",
+      "Em uma panela antiaderente refogue azeite e alho.",
+      "Coloque o arroz e misture bem.",
+      "Despeje o vinho e deixe secar para o álcool evaporar.",
+      "Coloque o caldo coado de 2 a 2 conchas até cozinhar o arroz.",
+      "Após cozido coloque o camarão, creme de leite, o queijo parmesão ralado e finalize com manteiga.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GLÁUCIA PEDREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306835-risoto-de-camarao-com-queijo.html"
+}

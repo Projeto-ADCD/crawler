@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BATATA GRATINADA COM ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas grandes",
+      "1 copo de requeijão",
+      "100 g de creme de leite ",
+      "1/2 maço de cebolinha picada",
+      "4 azeitonas verdes picadas ",
+      "60 g de queijo mussarela",
+      "3 dentes de alho picado ",
+      "sal a gosto",
+      "orégano a gosto",
+      "2 colheres (chá) de páprica picante ",
+      "Parmesão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas em rodelas finas",
+      "Cozinhe 10 minutos em uma panela com água, retire e reserve ",
+      "Em um recipiente junte o resto dos ingredientes, menos o parmesão",
+      "Unte uma forma com manteiga ",
+      "Acomode as batatas no fundo da forma e coloque a mistura por cima com cuidado",
+      "Finalize com o parmesão ralado ",
+      "Leve ao forno até gratinar ou por pelo menos 30 minutos "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307271-batata-gratinada-com-alho.html"
+}

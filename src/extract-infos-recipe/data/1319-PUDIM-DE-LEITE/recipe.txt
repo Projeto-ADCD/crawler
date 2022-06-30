@@ -1,0 +1,46 @@
+{
+  "nome_receita": "PUDIM DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos ",
+      "395 ml de leite ",
+      "2 latas de leite condensado ",
+      "200 g de creme de leite ",
+      "1 colher (chá) de essência de baunilha (opcional) ",
+      "Caramelo",
+      "1 xícara de açúcar",
+      "1/2 xícara de água ",
+      " ",
+      " ",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 160° C",
+      "Junte o leite e o ovo no liquidificador e bata bastante, por 5 minutos ",
+      "Junte o resto dos ingredientes no liquidificador com a mistura batida ",
+      "Coloque a misture em uma panela ",
+      "Cozinhe em fogo baixo, sem deixar ferver",
+      "Assim que começar a sair fumaça, sem bolhas, desligue ",
+      "Caramelo",
+      "Adicione no fogo médio os ingredientes",
+      "Mexa de leve, só para o açúcar incorporar na água e depois pare ",
+      "Deixe no fogo até ficar uma cor âmbar e desligue ",
+      "Coloque a calda no fundo de uma forma para pudim",
+      "Com a ajuda de uma concha, passe a massa de pudim em uma peneira e coloque ela na forma (isso vai impedir que o seu pudim crie furinhos)",
+      "Cubra tudo com papel-alumínio, coloque a forma dentro de uma assadeira maior e cubra o fundo com água fria ",
+      "Leve ao forno por 1 hora e 30 minutos a 160° C",
+      "Retire do forno e leve para a geladeira, por pelo menos, 2 horas",
+      "Coloque a forma um pouquinho em cima da chama do fogão, para a calda derreter um pouco e desenformar com mais facilidade"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se oso ovos forem pequenos pode usar 4 ovos \nUse sempre ovos frescos \nQuanto mais você bater a massa no liquidificador, mais furinhos seu pudim terá \nVocê pode usar gotas de limão, doce de leite e suco de tangerina no modo de preparo \n "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308895-pudim-de-leite.html"
+}

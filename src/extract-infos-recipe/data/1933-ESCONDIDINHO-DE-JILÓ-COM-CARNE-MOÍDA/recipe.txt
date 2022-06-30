@@ -1,0 +1,53 @@
+{
+  "nome_receita": "ESCONDIDINHO DE JILÓ COM CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Purê",
+      "8 batatas médias",
+      "1 xícara de leite",
+      "2 colheres de manteiga",
+      "sal e pimenta-do-reino a gosto",
+      "queijo parmesão para finalizar",
+      "Molho",
+      "2 colheres de óleo",
+      "1 cebola média",
+      "2 dentes de alho",
+      "1 sachê de molho de tomate",
+      "400 g de carne moída",
+      "1/2 pimentão (opcional)",
+      "temperos a gosto (utilizei páprica, salsinha desidratada e pimenta)",
+      "Sal à gosto",
+      "Jiló",
+      "2 dentes de alho cortados em lâminas",
+      "2 colheres de azeite",
+      "5 jilós",
+      "sal e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Purê",
+      "Cozinhe a batata com água e sal até ficarem macias",
+      "Esprema as batatas até formar um purê liso",
+      "Em uma panela, misture o leite, manteiga e sal até a manteiga derreter",
+      "Reserve",
+      "Molho",
+      "Acrescente o azeite e doure a carne, soltando os grumos de carne com a colher",
+      "Quando já tiver secando a água, acrescente a cebola picada e em seguida o alho, deixe dourar",
+      "Acrescente o sal e o tempero à gosto",
+      "Acrescente o molho de tomate e deixe apurar",
+      "Jiló",
+      "Pique o jiló em fatias médias",
+      "Doure o alho no azeite, e em seguida acrescente o jiló",
+      "Adicione o sal e os temperos à seu gosto",
+      "Montagem",
+      "Em uma travessa ou forma, acrescente o molho",
+      "Coloque o jiló em cima do molho e em seguida o purê",
+      "Finalize com queijo ralado e leve ao forno poe 200° C até dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANIELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306377-escondidinho-de-jilo-com-carne-moida.html"
+}

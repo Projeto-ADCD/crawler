@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ARROZ COM LEGUMES E CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gomo de calabresa picadinha",
+      "1/2 cebola picadinha",
+      "1 cenoura ralada",
+      "1/2 repolho cortadinho",
+      "1 colher (sopa) de manteiga/margarina",
+      "1 tomate picadinho",
+      "1/2 lata de milho verde",
+      "2 xícaras de arroz cozido",
+      "tempero e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a calabresa.",
+      "Acrescente a cebola e espere ela dourar.",
+      "Coloque a cenoura e o repolho e refogue bem.",
+      "Acrescente a manteiga/margarina e misture até ela derreter por completo.",
+      "Coloque o tomate e refogue mais um pouco.",
+      "Acrescente o milho e misture.",
+      "Por último, coloque o arroz."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311660-arroz-com-legumes-e-calabresa.html"
+}

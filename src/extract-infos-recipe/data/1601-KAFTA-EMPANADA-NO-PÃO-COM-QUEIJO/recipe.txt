@@ -1,0 +1,47 @@
+{
+  "nome_receita": "KAFTA EMPANADA NO PÃO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Kafta",
+      "300 g de carne moída ",
+      "1/2 maço de hortelã",
+      "1/2 maço de salsinha",
+      "1/2 colher (chá) de pimenta síria",
+      "1 ovo",
+      "50 g de farinha de rosca ",
+      "óleo para fritar",
+      "Pasta de queijo",
+      "75 g de manteiga",
+      "3 dentes de alho ",
+      "1 colher (sopa) de salsinha",
+      "1 colher (sopa) de parmesão",
+      "Montagem",
+      "10 fatias de mussarela ",
+      "1 baguete"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Kafta",
+      "Misture a carne moída, o hortelã, a salsinha, a pimenta síria, o ovo e a farinha de rosca em um recipiente",
+      "Depois de bem misturado, divida a massa em quatro partes",
+      "Modele as quatro partes e trasforme-as em kaftas",
+      "Frite-as em óleo quente e reserve",
+      "Pasta de queijo",
+      "Misture todos os ingrediente em um recipiente",
+      "Misture bem e reserve",
+      "Montagem",
+      "Enrole as fatias de mussarela nas kaftas já prontas.",
+      "Corte a baguete e coloque as kaftas com os queijos dentro",
+      "Leve os pães para uma forma e passa a pasta de queijo por cima",
+      "Feche cada pão com uma folha de papel-alumínio",
+      "Leve ao forno preaquecido por 20 minutos a 180° C",
+      "Retire do forno, abra os papeis, retire os pães e corte",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307467-kafta-empanada-no-pao-com-queijo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CUSCUZ DE FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xicaras de fubá",
+      "250 ml de água",
+      "sal a gosto",
+      "5 colheres de açúcar",
+      "1/2 xicara de coco ralado",
+      "1 xícara de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fubá, o sal e o açúcar, em seguida adicione a água e por fim os outros ingredientes.",
+      "Depois coloque um pouco de água no fundo da cuscuzeira, adicione a mistura e leve ao fogo por uns 15 minutos.",
+      "Sirva quente com manteiga e um bom cafezinho",
+      "Obs: Coloque a água aos poucos pra nao ficar muito molhado. Se caso ficar seco acrescente um pouco mais."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VERONICA LUA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310996-cuscuz-de-fuba.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ARROZ ARRETADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fio de azeite ",
+      "1 cebola ",
+      "3 dentes de alho",
+      "200 g de carne-seca desfiada ",
+      "1 xícara de arroz ",
+      "pimenta-do-reino a gosto",
+      "150 g de abóbora ",
+      "300 ml de caldo de legumes ",
+      "1/2 xícara de coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque o azeite ",
+      "Frite a cebola, o alho e a carne ",
+      "Junte o arroz, a abóbora e o caldo de legumes",
+      "Misture bem e feche a panela ",
+      "Deixe 8 minutos depois de pegar pressão ",
+      "Coloque o coentro e sirva"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316070-arroz-arretado.html"
+}

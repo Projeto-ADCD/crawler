@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BRUSCHETTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "pão cortado em fatias",
+      "2 a 3 dentes de alho cortados ao meio",
+      "2 latas de Atum Sólido em Óleo Gomes da Costa (340g)",
+      "azeite Gomes da Costa",
+      "tomates cortados em cubos pequenos",
+      "manjericão",
+      "cebola picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esfregue os dentes de alho sobre a superfície de cada fatia de pão.",
+      "Distribua as fatias numa assadeira. Regue-as com azeite e leve ao forno médio (180ºC) por 15 minutos para ficar ligeiramente crocante. ",
+      "Enquanto isso, refogue em uma frigideira a cebola e o Atum Sólido em Óleo Gomes da Costa.",
+      "Logo em seguida, numa tigela junte os tomates picados, o manjericão e o refogado. ",
+      "Retire as fatias do forno e distribua o refogado com atum e os tomates sobre as bruschettas. ",
+      "Sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica do Chef\nDe preferência para bengala de pão italiano finas. Variação Acrescente azeitona preta picada ao tomate"
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GOMES DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314580-bruschettas.html"
+}

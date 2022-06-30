@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BANANA DE CANECA SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 banana da prata",
+      "2 colheres de sopa de farinha de arroz",
+      "2 colheres de sopa de açúcar",
+      "1 colher de sopa de amido de milho (maizena)",
+      "2 colheres de sopa de leite",
+      "2 colheres de sopa de óleo de soja",
+      "1 ovo",
+      "meia colher de chá de fermento químico",
+      "Calda:",
+      "Meia xícara de açúcar",
+      "2 colheres de sopa de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse uma banana usando um garfo, acrescente os demais ingredientes da massa menos o fermento químico em uma caneca grande. Misture muito bem para não ficar com gosto de ovo. Acrescente o fermento e misture sem mexer muito. Coloque no microondas na potencia alta por 3 minutos.",
+      "Para fazer a calda use uma panela pequena, leve ao fogo baixo o açúcar mexendo sempre até desempelotar mas não deixe queimar.",
+      "Apague o fogo e acrescente (sem para de mexer) aos poucos a água.",
+      "Depois de bem misturado, acenda novamente o fogo, mexendo sempre, deixe por mais 1 minuto.",
+      "Despeje a calda sobre o bolo.",
+      "Se quiser corte uma banana em rodelas e coloque junto a calda."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THARCISIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306744-bolo-de-banana-de-caneca-sem-gluten.html"
+}

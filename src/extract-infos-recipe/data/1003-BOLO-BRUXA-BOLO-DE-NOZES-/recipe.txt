@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO BRUXA (BOLO DE NOZES)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 xícara de óleo",
+      "1/2 xícara de açúcar refinado",
+      "1 pitada de sal",
+      "2 colheres (chá) de canela em pó",
+      "1 xícara de açúcar mascavo",
+      "4 maças raladas com casca",
+      "1 xícara de nozes picadas",
+      "1 xícara de passas",
+      "1 xícara de leite",
+      "2 xícaras de farinha de trigo sem fermento",
+      "1 colher (chá) de bicarbonato de sódio",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador exceto as passas a maça e o fermento",
+      "Preaqueça o forno a 180º C por 5 minutos",
+      "Acrescente o fermento e bata mais um pouco",
+      "Acrescente as passas e a maça picada (sem bater)",
+      "Coloque em uma forma untada ou em uma forma anti aderente",
+      "Asse por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TIGREDONORTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310526-bolo-bruxa-bolo-de-nozes.html"
+}

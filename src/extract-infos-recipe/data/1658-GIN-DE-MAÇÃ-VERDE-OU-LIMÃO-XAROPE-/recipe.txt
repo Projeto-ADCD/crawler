@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GIN DE MAÇÃ VERDE OU LIMÃO (XAROPE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 ml de gin",
+      "25 ml de xarope (maçã verde ou limão)",
+      "2 rodelas de limão",
+      "gelo",
+      "100 ml de tônica"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o gelo e as rodelas de limão no copo.",
+      "Adicione o gin e o xarope e complete com a tônica (aproximadamente 100 ml de tônica)",
+      "No drink de maçã verde você pode alterar as rodelas de limão por rodelas de maçã verde"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307254-gin-de-maca-verde-ou-limao-xarope.html"
+}

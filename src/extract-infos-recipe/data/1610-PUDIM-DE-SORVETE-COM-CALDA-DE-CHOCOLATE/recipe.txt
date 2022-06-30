@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PUDIM DE SORVETE COM CALDA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 leite condensado (395 g)",
+      "300 ml de leite",
+      "1 colher (sopa) farinha trigo ou amido de milho",
+      "3 ovos",
+      "1 creme de leite (200 g)",
+      "50 g de açúcar",
+      "50 g de açúcar",
+      "50 g de chocolate em pó",
+      "50 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela coloque o leite condensado,",
+      "Dissolva a colher de farinha ou amido de milho no leite,",
+      "Junte a mistura na panela, acrescente as gemas dos ovos peneiradas.",
+      "Misturar tudo e levar ao fogo engrossar levemente.",
+      "Reserve.",
+      "Coloque o chocolate em pó, açúcar e a água numa panela até a fervura, despeje em uma forma de buraco no meio de 20 cm.",
+      "Bata as claras dos ovos em neve,",
+      "adicione o açúcar e bata até ficar um merengue.",
+      "Adicione o creme de leite no merengue delicadamente.",
+      "Junte o creme ao merengue e coloque na forma por cima da calda.",
+      "Levar ao congelador por 12h.",
+      "Pulo do garo: Na hora de desenformar aqueça a forma na chama do fogão e vire sobre uma travessa."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NICOLE ACOSTA - CHEF PATISSERIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307398-pudim-de-sorvete-com-calda-de-chocolate.html"
+}

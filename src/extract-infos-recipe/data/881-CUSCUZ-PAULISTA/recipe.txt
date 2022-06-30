@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CUSCUZ PAULISTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg Peito de frango desfiado (pode ser 1 kg de Camarão, pra outro estilo!)",
+      "3 Cebolas grandes picadas miudinho",
+      "2 Dentes de alho socados",
+      "1 colher de sopa de Manteiga",
+      "1 Xícara de azeite",
+      "8 a 10 Tomates",
+      "Sal",
+      "1 colher de chá de Pimenta Malagueta (ou Calabresa ou Jamaicana ou todas!)",
+      "2 Folhas de Louro",
+      "Outras ervas (Sálvia, Manjericão, Alecrim - o que vier fica delicioso!)",
+      "4 copos de Água (ou 02 de Água + 02 do Caldo do Frango ou 04 do caldo)",
+      "1 Lata de Ervilha (ou Frescas!)",
+      "1 Vidro Grande de Palmito",
+      "200 g de Azeitonas Verdes",
+      "1 xícara de Cheiro Verde (Salsinha + Cebolinha picadinhas)",
+      "01 pct (500 g) de Farinha de Milho (não é preciso colocar o pacote inteiro)",
+      "1 xícara de Farinha de Mandioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o Frango",
+      "Deixe um tempo (pelo menos 30 minutos pra pegar gosto) numa marinada de limão (ou vinho branco) + alho + sal + pimenta do reino ou Síria (pode trocar o limão por vinho branco)",
+      "Coloque depois azeite na panela de pressão e frite os peitos do frango - todos juntos, até ficarem dourados. Coloque um terço de água na panela e feche. Quando começar a apitar, deixe cozinhar + 15 minutos. Depois desfiar o frango bem fininho. O caldo que sobrou pode ser totalmente reaproveitado para o molho, completando a diferença da receita com água.",
+      "Modo de Fazer",
+      "Leve 01 panela grande ao fogo com o azeite, manteiga, alho socado e as cebolas batidinhas. Deixe dourar e adicione os tomates passados pelo liquidificador e o louro. Refogue muito bem, junte os 04 copos de água, tempere com o sal e a pimenta a gosto, deixe ferver até reduzir um pouco.",
+      "Adicione o frango, o palmito, as ervilhas e as azeitonas picadas. Ferver até o molho ficar saboroso. Feito isso, junte o cheiro verde e, sempre mexendo com uma colher de pau, vá adicionando as farinhas (primeiro a de mandioca) até formar massa de boa consistência e que solte da panela - cuidado para não deixá-la seca. O ideal é deixar na consistência de um brigadeiro",
+      "Pegue uma forma para dar formato (pode ser uma tigela redonda), colocando rodelas de tomate e ramos de salsinha no fundo. Coloque o cuscuz com uma escumadeira, comprimindo um pouco. Deixe 5 minutos e pode tirar da forma"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANA MURGEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311082-cuscuz-paulista.html"
+}

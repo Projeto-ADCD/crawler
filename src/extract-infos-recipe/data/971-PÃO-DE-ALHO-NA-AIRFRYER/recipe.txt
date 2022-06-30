@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE ALHO NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê de maionese",
+      "1 pote de requeijão cremoso",
+      "2 colheres (sopa) de manteiga",
+      "alho a gosto",
+      "cheiro-verde a gosto",
+      "queijo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Corte o pão sem deixar que o corte vá até o final.",
+      "Coloque o creme no pão",
+      "Queijo por cima e colocar na airfryer, olhando de minuto em minuto para não queimar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CASSIA ZICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310673-pao-de-alho-na-airfryer.html"
+}

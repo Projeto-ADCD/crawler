@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MAIONESE TEMPERADA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (de chá) de tempero de ervas finas",
+      "Pimenta-do-reino",
+      "1 colher (de chá) de mostarda",
+      "1 colher (de sopa) de suco de limão",
+      "Salsinha e cebolinha frescas",
+      "2 ovos",
+      "1 colher (de chá) de sal",
+      "250ml de óleo de soja."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O primeiro passo é colocar o sal e o tempero de ervas finas no liquidificador.",
+      "Adicione o suco de limão, os 2 ovos e a mostarda. Ligue o liquidificador e bata tudo.",
+      "Em seguida, abra a tampinha de acrílico do aparelho e comece a despejar aos poucos um fio de óleo. A mistura vai virar um creme.",
+      "Preste atenção nessa etapa: antes de virar maionese, adicione a cebolinha e a salsa. Bata tudo. Adicione mais um pouco de óleo.",
+      "Você precisa ficar atento ao ponto da textura. Quando você observar que o creme está firme, desligue, então, o liquidificador.",
+      "Coloque toda a porção em uma tigela e leve à geladeira. Pronto!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316064-maionese-temperada-simples.html"
+}

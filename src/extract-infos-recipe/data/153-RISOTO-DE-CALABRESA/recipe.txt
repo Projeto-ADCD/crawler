@@ -1,0 +1,31 @@
+{
+  "nome_receita": "RISOTO DE CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 linguiças calabresas sem pele",
+      "1 cebola picada",
+      "2 dentes picados",
+      "1 abobrinha picada em pedaços gdes",
+      "1 tablete caldo de carne (italiano)",
+      "2 xicaras de chá de arroz arborio (italiano)",
+      "1/2 cálice de vinho branco",
+      "Queijo parmesão italiano GRANA PADANO"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tirar as peles, picar as linguiças e fritar numa panela até ficar \"moreninha\", acrescentar o alho e a cebola e dourar.",
+      "Acrescentar o arroz e refogar.",
+      "Ferver 1 litro de agua e colocar 1 cubo de caldo de carne.",
+      "Acrescentar o caldo aos poucos e deixar o fogo alto, mexendo; sempre que estiver secando acrescentar mais caldo.",
+      "Quando o arroz estiver quase no ponto (al dente) acrescentar a abobrinha picada e o vinho branco.",
+      "Cozinhar até o arroz chegar ao ponto \"al dente\" ou a gosto.",
+      "Acrescentar 1/2 colher de manteiga e 2 colheres de queijo ralado italiano \"GRANA PADANO\"",
+      "Servir imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314136-risoto-de-calabresa.html"
+}

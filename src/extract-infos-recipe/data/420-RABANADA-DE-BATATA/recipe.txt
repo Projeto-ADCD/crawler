@@ -1,0 +1,27 @@
+{
+  "nome_receita": "RABANADA DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Crinkle Bem Brasil ",
+      "250 g de açúcar refinado ",
+      "20 g de canela em pó ",
+      "80 ml de mel ",
+      "150 g de doce de leite ",
+      "100 ml de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça a fritadeira elétrica conforme a indicação na embalagem",
+      "Adicione a Batata Crinkle Bem Brasil e leve à fritadeira por 20 minutos, retire e reserve",
+      "Em uma tigela, adicione o açúcar refinado e a canela, e misture",
+      "Coloque a batata frita em um prato, regue com o mel e misture",
+      "Em seguida, passe a batata untada de mel no açúcar e na canela",
+      "Sirva com o doce de leite e regue tudo com leite condensado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312864-rabanada-de-batata.html"
+}

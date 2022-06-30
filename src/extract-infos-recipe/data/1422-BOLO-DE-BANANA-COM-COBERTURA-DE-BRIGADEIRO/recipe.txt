@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO DE BANANA COM COBERTURA DE BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "7 bananas",
+      "2 xícaras (chá) de farinha de trigo",
+      "2 xícaras (chá) de açúcar",
+      "1 colher (sopa) de fermento",
+      "1 xícara (chá) de óleo",
+      "1 xícara (chá) de leite",
+      "1 colher (chá) de canela",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "1 e 1/2 colher (sopa) de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "2 colheres de achocolatado",
+      "granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata no liquidificador 3 bananas, o óleo, os ovos e a canela",
+      "Em uma tigela misture a farinha de trigo e o açúcar",
+      "Despeje o conteúdo do liquidificador na tigela e bata os ingredientes",
+      "Corte 3 bananas em pequenos pedaços e junte à massa",
+      "Adicione o fermento e misture",
+      "Unte a forma com manteiga e chocolate em pó",
+      "Leve ao forno preaquecido (180° C) por aproximadamente 1 hora e 10 minutos",
+      "Cobertura",
+      "Adicione os ingredientes da cobertura em uma panela e mexa sem parar até desgrudar da panela (ponto de brigadeiro)",
+      "Despeje em cima do bolo pronto, corte uma banana e despeje o granulado para decorar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PRISCILA CARRIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308434-bolo-de-banana-com-cobertura-de-brigadeiro.html"
+}

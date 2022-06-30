@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PATÊ CEBOLA E SALSA VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de semente de girassol ",
+      "1 xícara de salsinha picada",
+      "1/4 de xícara de cebolinha picada",
+      "suco de 1/2 limão",
+      "1/2 colher (chá) de sal",
+      "1/2 dente de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador e bata."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Deixe a semente de girassol de molho por 12 horas"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAROL SANTONINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309078-pate-cebola-e-salsa-vegano.html"
+}

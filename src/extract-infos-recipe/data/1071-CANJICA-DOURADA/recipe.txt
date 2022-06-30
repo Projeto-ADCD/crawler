@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CANJICA DOURADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de canjica branca",
+      "2 litros de água",
+      "1 litro de leite",
+      "4 colheres de açúcar",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "20 g de coco ralado",
+      "20 g de amendoim torrado",
+      "4 cravos",
+      "1 pedaço de canela em pau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o milho da canjica de molho de um dia para o outro",
+      "No dia seguinte escorra a água e coloque na panela de pressão com os 2 litros de água e cozinhe por 30 min",
+      "Faça uma calda caramelizada com as 4 colheres de açúcar e reserve",
+      "Quando a canjica estiver cozida, junte todos os ingredientes inclusive a calda e deixe ferver por 15 minutos e sirva quente ou gelada como preferir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "NELMA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310115-canjica-dourada.html"
+}

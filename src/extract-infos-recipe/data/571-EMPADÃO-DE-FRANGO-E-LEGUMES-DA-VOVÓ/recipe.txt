@@ -1,0 +1,54 @@
+{
+  "nome_receita": "EMPADÃO DE FRANGO E LEGUMES DA VOVÓ",
+  "ingredientes": {
+    "CAPA": [
+      "500 g de farinha de Trigo",
+      "2 colheres de manteiga",
+      "3 colheres de banha",
+      "1 xícara de leite morno com uma colher (sopa) rasa de sal",
+      "3 gemas",
+      "1 colher (sopa) rasa de fermento para bolo"
+    ],
+    "RECHEIO": [
+      "2 peitos de frango cozidos sem sal e desfiados",
+      "1 batata média",
+      "1 cenoura pequena",
+      "1/2 chuchu",
+      "2 palmitos",
+      "1/2 cebola picada",
+      "1 dente de alho picado",
+      "1 colher de colorau",
+      "orégano e salsa",
+      "1 xícara de molho de tomate",
+      "1 copo da água de cozimento do frango com caldo de galinha em pó",
+      "3 colheres de azeite para refogar"
+    ]
+  },
+  "passos": {
+    "CAPA": [
+      "Ponha em uma vasilha todos os ingredientes exceto o leite e a farinha e o fermento",
+      "Mexa bem com uma colher ou garfo para desmanchar a banha e a manteiga",
+      "Coloque metade do leite",
+      "Vá colocando a farinha aos poucos, sem sovar, só mexer.",
+      "Ponha o resto do leite",
+      "O ponto da massa é bem mole, porém, consistente para abrir."
+    ],
+    "RECHEIO": [
+      "Frite a cebola e o alho no azeite",
+      "Coloque o frango desfiado e mexa bem",
+      "Coloque os legumes picados miudinhos já aferventados",
+      "Coloque o palmito e os temperos",
+      "Acrescente a água do cozimento com o caldo de galinha e o molho de tomate",
+      "verifique o tempero.",
+      "Abra a metade da massa em forma pirex retangular grande, subindo a massa nas laterais da forma",
+      "Ponha o recheio em um tanto que baste",
+      "Cubra com a outra metade da massa.",
+      "Leve ao forno a 180° C de 30 a 40 minutos",
+      "Sobrando recheio, aproveite para fazer um fricassê de frango."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SONIA BOCZAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312478-empadao-de-frango-e-legumes-da-vovo.html"
+}

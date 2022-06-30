@@ -1,0 +1,43 @@
+{
+  "nome_receita": "ROCAMBOLE COM COBERTURA DE CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o pão de ló de chocolate",
+      "3 ovos grandes (se forem pequenos, use 4)",
+      "1 pitada de sal",
+      "1/2 xícara (chá) de açúcar",
+      "1/4 de xícara (chá) de chocolate em pó (pode ser 100% cacau)",
+      "1/4 de xícara (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento químico",
+      "Para a cobertura e recheio",
+      "1 lata de leite condensado",
+      "150 g de manteiga (temperatura ambiente)",
+      "café solúvel em pó fino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece colocando numa tigela em separado a farinha de trigo, o chocolate em pó e o fermento (peneirados, se possível, para não criar bolinhas na massa)",
+      "Em seguida, bata as claras com o sal na batedeira até ficar em neve pico duro",
+      "Depois, adicione as gemas uma de cada vez nessa mistura",
+      "Junte o açúcar e deixe misturar bem",
+      "Por fim, tire essa mistura fofa e cremosa da batedeira e adicione ao poucos os ingredientes secos mexendo com uma espátula para incorporar bem à massa, mas sem perder o ar das claras.",
+      "Despeje a massa em forma retangular média, forrada com papel manteiga (o que facilita enrolar o rocambole depois de recheado)",
+      "A massa fica mais firme e pegajosa, pois não tem muito ingrediente líquido",
+      "Como a massa é fina e leve, deve assar rápido, em torno de 25 minutos",
+      "Recheio e cobertura",
+      "Cozinhe o leite condensado na panela de pressão por 30 minutos aproximadamente.",
+      "Deixe esfriar bem.",
+      "Na batedeira, acrescente a manteiga e o leite condensado cozido, batendo até virar um creme bem aerado (buttercream)",
+      "Em seguida, adicione o café solúvel em pó aos poucos, até ficar da preferência.",
+      "Recheie a massa depois que esfriar para não derreter o creme de manteiga.",
+      "Enrole o rocambole e utilize o restante do creme para cobrir.",
+      "Leve à geladeira até ficar firme a cobertura.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CARINA DE SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306184-rocambole-com-cobertura-de-cafe.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FOCACCIA DE CREAM CHEESE E TOMATES CONFIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 g de fermento biológico fresco ou seco",
+      "2 colheres (sopa) de mel",
+      "2 xícaras de água morna",
+      "3 colheres (sopa) + 1 xícara de azeite",
+      "4 xícaras de farinha de trigo",
+      "1 colher (chá) de sal",
+      "200 g de cream cheese de bisnaga Philadelphia",
+      "2 xícaras de tomates cereja",
+      "3 dentes de alho",
+      "flor de sal",
+      "alecrim fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento biológico fresco (ou 1 pacotinho do seco com o mel, 1/2 xícara de água morna e 3 colheres (sopa) de azeite. Faça uma pastinha e adicione 1 xícara de farinha de trigo. Deixe essa massa descansar por 30 minutos até começar a borbulhar.",
+      "2. Em outra tigela grande, adicione o restante da farinha de trigo, o sal e o restante da água. Essa massa de água e farinha vai descansar pelos mesmos 30 minutos o mesmo tempo de descanso que a massa de fermento.",
+      "Depois do descanso, junte as duas massas (a de fermento e a de farinha com água). Misture bem adicionando mais farinha se necessário, até começar a soltar das mãos. A massa deve ficar levemente grudenta. Nesse ponto comece a sovar até obter uma massa lisa, elástica mas ainda sim, bem úmida.",
+      "Transfira a massa para uma assadeira untada com azeite e deixe descansar por 1 hora até dobrar de tamanho.",
+      "Enquanto a massa cresce, no forno já preaquecido a 180° C prepare os tomates confit. Num refratário adicione os tomates, a xícara de azeite e o alho. Vão ficar no forno por 1 hora, o tempo que a massa da Focaccia leva pra crescer.",
+      "Tire do forno e deixe esfriar um pouco.",
+      "Com a massa da Focaccia já crescida, fure ela inteira com as pontas dos dedos molhadas em água. Adicione os tomates com o azeite e então cubra com o cream cheese de bisnaga Philadelphia, a flor de sal e o alecrim, leve para assar no forno já quente em 250º C por 35 minutos até dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309775-focaccia-de-cream-cheese-e-tomates-confit.html"
+}

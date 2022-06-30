@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREPE À LÁ FRANCESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícaras de leite",
+      "1 e 1/2 xícaras de trigo",
+      "1 colher (de sopa) com óleo",
+      "1 colher de sal",
+      "3 ovos",
+      "Noz moscada ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater no liquidificador primeiro os líquidos por último coloca o trigo e deixa bater por 5 minutos, desliga o liquidificador coloca noz moscada e liga o liquidificador só pra misturar na massa, leve a geladeira e coloca pra descansar por 15 minutos.",
+      "Esquenta bem uma frigideira untada com óleo e comece a fritar.",
+      "Coloque o recheio e o molho à gosto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SANATH PS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312391-crepe-a-la-francesa.html"
+}

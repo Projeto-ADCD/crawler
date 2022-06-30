@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ESCONDIDINHO DE COSTELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de batata aproximadamente",
+      "1 cebola",
+      "alho a gosto",
+      "leite para o purê e manteiga",
+      "150 g de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a costela até ficar bem molinha e desfie ela.",
+      "Em seguida frite a cebola e o alho e adicione a costela.",
+      "Coloque sal a gosto.",
+      "Faça o purê com as batatas.",
+      "Em uma travessa de vídro adicione um pouco de purê, coloque a costela e cubra com o restante do purê.",
+      "E coloque queijo por cima.",
+      "Coloque no forno preaquecido até gratinar e pronto."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306225-escondidinho-de-costela.html"
+}

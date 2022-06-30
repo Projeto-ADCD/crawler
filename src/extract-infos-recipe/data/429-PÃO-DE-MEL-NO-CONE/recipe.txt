@@ -1,0 +1,51 @@
+{
+  "nome_receita": "PÃO DE MEL NO CONE",
+  "ingredientes": {
+    "MASSA": [
+      "1 xícara (chá) de açúcar",
+      "1 xícara (chá) de leite",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de mel",
+      "2 colheres (sopa) de manteiga ",
+      "1 colher (chá) de cravo em pó",
+      "1 colher (sopa) de canela em pó",
+      "2 ovos",
+      "1 colher (sopa) de bicarbontato de sódio"
+    ],
+    "CALDA": [
+      "1 xícara de água",
+      "1/2 xícara de açúcar"
+    ],
+    "COBERTURA ": [
+      "300 g de chocolate derretido "
+    ],
+    "MONTAGEM": [
+      "10 casquinhas para sorvete"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Unte uma forma bem fina e retangular com a manteiga e a farinha",
+      "Ligue o forno em temperatura média ",
+      "Bata o açúcar, o mel, a manteiga e os ovos no liquidificador",
+      "Junte o leite e misture novamente ",
+      "Coloque a mistura num recipiente e junte com cuidado a farinha, o bicarbonato e as especiarias. ",
+      "Misture tudo com o ajuda de uma colher. ",
+      "Despeje a massa na forno e leve ao forno até dourar.",
+      "Deixe esfriar e esfarele a massa por completo em um recipiente",
+      "Junte os ingredientes da calda em uma panela e esquente até ela ficar homogênea. ",
+      "Espere esfriar e junte ao bolo esfarelado. "
+    ],
+    "MONTAGEM": [
+      "Com as casquinhas, o bolo e a cobertura, é hora da montagem. ",
+      "Você pode preparar uma receita de brigadeiro para rechear o seu pão de mel no cone.",
+      "Recheie as casquinha com a massa, o recheio, intercalando muito bem até o topo",
+      "Passe a ponta das casquinha no chocolate derretido e leva para a geladeira até firmar",
+      "Pronto, é só servir!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312854-pao-de-mel-no-cone.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BATATAS RÚSTICAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas grandes picadas em formato de canoa (sem tirar a casca)",
+      "2 colheres (chá) de amido de milho",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas em água fervente por 5 minutos, só para amolecê-las",
+      "Escorra a água, misture o amido de milho e os temperos de sua preferência.",
+      "Leve ao forno alto por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312214-batatas-rusticas.html"
+}

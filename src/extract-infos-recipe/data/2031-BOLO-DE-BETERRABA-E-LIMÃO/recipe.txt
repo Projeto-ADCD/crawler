@@ -1,0 +1,49 @@
+{
+  "nome_receita": "BOLO DE BETERRABA E LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa",
+      "2 beterrabas medias cozidas e picadas",
+      "2 e 1/2 colheres (chá) de bicarbonato de sódio",
+      "2 colheres cheias de chocolate ",
+      "suco de 1 limão taiti médio",
+      "8 colheres (sopa) de manteiga com sal (100 g)",
+      "1 xicara de leite",
+      "1 colher (chá) de extrato de baunilha",
+      "4 ovos",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "Para recheio",
+      "2 latas de leite condensado de 295 g cada",
+      "suco de 1 limão tahiti",
+      "1 colher (sopa) de manteiga com sal",
+      "1 caixinha de creme de leite (200 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos o limão, a manteiga, a farinha e o bicarbonato.",
+      "Ainda com o liquidificador em movimento, incorpore aos poucos o suco de limão na mistura.",
+      "Coloque a manteiga em temperatura ambiente em um bowl comece a incorporar ar na manteiga com um fouet, enquanto gentilmente despeje o conteúdo do liquidificador para misturar.",
+      "Não se preocupe com os pedacinhos de manteiga, contanto que sejam pequenos e espaçados.",
+      "Comece a peneirar a farinha e incorpore no conteúdo do bowl.",
+      "Ao final terá uma massa com toda a farinha incorporada e uns pontinhos pequenos de manteiga por toda ela.",
+      "Unte um tabuleiro retangular e espalhar a massa sobre ele, de modo a encher um centímetro de altura.",
+      "Asse em um forno preaquecido a 180° C até começar a cheirar bolo por toda a casa.",
+      "Teste com um garfo o cozimento do bolo no meio, se sair limpo está pronto.",
+      "Dê uns 20 minutos.",
+      "Enquanto isso faça o recheio.",
+      "Para o recheio junte todos os ingredientes em uma panela, menos o creme de leite.",
+      "Leve ao fogo mexendo com um fouet até formar um brigadeiro mole de limão.",
+      "Já com o fogo desligado, acrescente o creme de leite.",
+      "Para montar, parta o bolo retangular em duas partes iguais e recheie empilhando essas metades uma na outra.",
+      "Cubra com o resto do recheio e salpique com raspas de limão para finalização."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Usei chocolate do padre"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAÍS CRISTINA S MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306161-bolo-de-beterraba-e-limao.html"
+}

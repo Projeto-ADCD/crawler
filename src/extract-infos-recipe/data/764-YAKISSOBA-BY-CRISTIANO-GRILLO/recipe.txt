@@ -1,0 +1,35 @@
+{
+  "nome_receita": "YAKISSOBA BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de carne (patinho / alcatra ou mignon)",
+      "3 cebolas médias",
+      "2 cenouras",
+      "1 pimentão amarelo",
+      "1 pimentão vermelho",
+      "1 brócolis",
+      "1 couve flor",
+      "200 g de champignons",
+      "4 folhas de acelga cortadas",
+      "300 ml molho para yakissoba",
+      "500 g de talharim 00 ou yakissoba"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ou frigideira grande, adicione 1 colher (sopa) de azeite ou óleo, 1 colher de (sobremesa) de açúcar refinado e a carne (cortada em cubos ou tirinhas), mexa bem e deixe cozinhar na própria água até secar, depois reserve-a em outro recipiente",
+      "Na mesma panela/frigideira, adicione 1 colher (sopa) de azeite ou óleo, adicione a cebola cortada em pétalas, adicione uma pitada de sal e deixe dourar",
+      "Depois adicione os pimentões também cortados em pétalas, a cenoura cortada em meia rodelas grossas e deixe dar uma cozida sempre mexendo bem para não queimar o fundo",
+      "Em seguida adicione o brócolis e a couve-flor, deixe dar uma leve cozida, adicione a carne e em seguida adicione 1 xícara de água (verificando se deve colocar mais água se necessário)",
+      "Na sequência em 1 dosador, adicione 1/2 xícara de água, aproximadamente 80 ml de molho shoyo e 1 colher (sopa) de amido de milho, misture bem e adicione à panela junto com os demais ingredientes, mexa bem e tampe para deixar cozinhar por aproximadamente 5 minutos (sempre verificando se precisa adicionar um pouco mais de água para não deixar ficar muito seco);",
+      "Adicione em seguida os cogumelos e o molho para yakissoba mexa bem e deixe por mais alguns minutos (sempre verificando) e no final adicione a acelga (cortada também em tirinhas)",
+      "Em paralelo aos ingredientes, o macarrão deve ser cozido al dente e em seguida ser adicionado diretamente na panela junto aos demais ingredientes após o último ingrediente ter sido adicionado",
+      "Misture tudo muito bem, adicione mais molho para yakissoba se necessário e sirva-se. Verifique se está bom de sal.",
+      "Não é necessário ficar colocando muito sal, pois os próprios ingredientes já são levemente salgados."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311661-yakissoba-by-cristiano-grillo.html"
+}

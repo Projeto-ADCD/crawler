@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BAURU DE FORNO",
+  "ingredientes": {
+    "MASSA": [
+      "2 xícaras (chá) de farinha de trigo",
+      "1/2 litro de leite",
+      "4 ovos",
+      "sal e pimenta do reino a gosto",
+      "100 g de queijo parmesão ralado",
+      "1 xícara (chá) de óleo"
+    ],
+    "RECHEIO": [
+      "250 g de presunto",
+      "250 g de mussarela",
+      "3 tomates em rodelas",
+      "sal, orégano e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes da massa no liquidificador.",
+      "Depois, na assadeira untada, coloque a metade da massa.",
+      "Coloque o presunto, a mussarela, os tomates e os temperos.",
+      "Cubra com o restante da massa e asse por cerca de 30 minutos a 180 ºC."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ERICA CASTRO FONCECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313073-bauru-de-forno.html"
+}

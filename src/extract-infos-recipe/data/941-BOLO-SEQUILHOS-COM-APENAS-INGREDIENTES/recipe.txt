@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO SEQUILHOS COM APENAS 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1 xicara de Açúcar",
+      "2 xicara de Amido de Milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece separando a gema da clara, e bata a clara na batedeira até virar uma neve.",
+      "Depois, venha adicionando aos poucos a gema, e continue batendo ate adicionar tudo.",
+      "Com a batedeira ainda ligada, venha adicionando o açúcar em seguida aos poucos ",
+      " Logo após adicionar todo o açúcar, desligue a batedeira e adicione aos poucos o amido de milho.",
+      "Unte uma forma com farinha de trigo e manteiga, leve ao forno em 220° C por 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EDUARDA TAVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310799-bolo-sequilhos-com-apenas-3-ingredientes.html"
+}

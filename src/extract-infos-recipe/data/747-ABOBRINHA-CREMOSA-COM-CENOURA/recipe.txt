@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ABOBRINHA CREMOSA COM CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola picadinha",
+      "1/2 tomate picadinho",
+      "2 abobrinhas médias cortadas em cubinhos",
+      "1 cenoura ralada",
+      "3 colheres (sopa) de requeijão",
+      "50 g de mussarela ralada",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure a cebola.",
+      "Coloque o tomate, a abobrinha e a cenoura.",
+      "Tempere com sal e temperos a gosto.",
+      "Coloque um pouco de água, e deixe cozinhar até a abobrinha ficar bem cozida.",
+      "Acrescente o requeijão e a mussarela, e misture até derreter tudo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311768-abobrinha-cremosa-com-cenoura.html"
+}

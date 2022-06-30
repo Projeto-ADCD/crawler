@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PUDIM DE COCO DA DALVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "200 g de ameixa preta",
+      "1 xícara (chá) rasa de açucar",
+      "1 vidro de leite de coco",
+      "1 pacote de 100 g de coco ralado seco",
+      "4 colheres (sopa) de cheias de amido de milho "
+    ]
+  },
+  "passos": {
+    "PREPARO DAS AMEIXAS": [
+      "Em uma panela pequena, Derreta o açucar até formar um caramelo.",
+      "Junte 2 xícaras de água e ferva, até formar uma calda.",
+      "Cozinhe um pouco as ameixas pretas (uns 20 minutos) nesse líquido. Reserve.",
+      "Molhe uma forma de pudim, ou de gelatina (ligeiramente untada) com um pouco da calda de ameixa."
+    ],
+    "PUDIM": [
+      "Coloque em uma panela todo o leite condensado, e dilua com 3 latas (use a lata do leite condensado como medida) de água.",
+      "Na mistura fria, junte o amido de milho e mexa até dissolver. Junte o leite de coco e o coco ralado.",
+      "Cozinhe em fogo brando, mexendo sempre (para não formar grumos), até engrossar.",
+      "Transfira a mistura para a forma e nivele.",
+      "Espere esfriar e leve à geladeira, por 4 ou 5 horas.",
+      "Desenforme e enfeite com o restante da calda e as ameixas pretas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita de um pudim de coco gostoso, não muito doce, simples e rápido, que não leva ovos e nem vai ao forno.\nA Receita é de minha mãe, Dalva, inspirada no manjar branco e outros pudins de coco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312842-pudim-de-coco-da-dalva.html"
+}

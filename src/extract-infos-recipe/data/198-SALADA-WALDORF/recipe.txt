@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SALADA WALDORF",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 talos de salsão",
+      "2 maçãs verdes",
+      "2 maçãs vermelhas",
+      "1 xícara de nozes quebradas",
+      "200 g de creme de leite Frimesa",
+      "2 colheres (sopa) de salsa picada",
+      "1 limão",
+      "1 xícara de maionese",
+      "pimenta-branca",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Higienize as maçãs e os talos de salsão.",
+      "Corte as maçãs em cubos de um centímetro, mantendo a casca, e tempere com sal e suco de limão.",
+      "Corte o salsão em cubos de meio centímetro e junte com as maçãs temperadas, reserve.",
+      "Molho: misture a maionese, o creme de leite e a salsa picada e tempere com pimenta branca. ",
+      "Despeje o molho sobre as maçãs, adicione metade das nozes e misture bem. ",
+      "Servir em uma travessa com as nozes restantes polvilhadas em cima."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: servir como acompanhamento para o Pernil Frimesa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314024-salada-waldorf.html"
+}

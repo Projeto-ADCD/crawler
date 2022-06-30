@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PICOLÉ DE AÇAÍ COM MANGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "1/2 manga madura",
+      "1/3 xícara de suco de laranja (180 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descascar e picar a manga",
+      "Colocar no liquidificador junto com o suco de laranja",
+      "Bater muito bem",
+      "Despejar metade deste suco em uma jarra e reservar",
+      "Acrescentar as bolas de Frooty Açaí ao suco de manga com laranja na jarra do liquidificador",
+      "Bater mais um pouco",
+      "Pegar forminhas de picolé e acrescentar um pouco do suco de açaí do liquidificador",
+      "Levar ao freezer por 40 minutos",
+      "Encaixar o palito de madeira e colocar agora o suco de manga, levar novamente ao freezer por mais 40 minutos",
+      "Finalizar com o suco de açaí do liquidificador",
+      "Deixar no freezer por mais 40 minutos ou até firmar",
+      "Desenformar os picolés delicadamente"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita produzida por Cook’n Enjoy para Frooty."
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306882-picole-de-acai-com-manga.html"
+}

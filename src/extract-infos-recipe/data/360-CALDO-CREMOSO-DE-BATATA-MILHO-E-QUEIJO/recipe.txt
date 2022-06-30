@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CALDO CREMOSO DE BATATA, MILHO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de batata",
+      "2 latas de milho",
+      "200 g de queijo branco",
+      "500 ml de leite (aproximadamente)",
+      "1 cebola grande",
+      "1 dente de alho",
+      "sal a gosto",
+      "1 colher de sopa de manteiga",
+      "cheiro verde (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e pique as batatas em cubos, coloque para cozinhar com água suficiente para cobri-las;",
+      "Em outra panela, refogue a cebola picada e o alho com manteiga e um pouco de leite;",
+      "Bata o tempero com o leite no liquidificador e volte a mistura para a panela;",
+      "Depois de bem cozidas, bata as batatas com a água do cozimento no liquidificador, acrescentando leite até chegar no ponto desejado;",
+      "Despeje na panela com o tempero;",
+      "Acrescente o sal, o milho e o queijo picado em pequenos cubos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SAYURI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313090-caldo-cremoso-de-batata-milho-e-queijo.html"
+}

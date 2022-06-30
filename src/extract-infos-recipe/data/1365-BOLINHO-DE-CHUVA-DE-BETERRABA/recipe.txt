@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA DE BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colheres de (sopa) de açúcar",
+      "2 colheres de amido de milho",
+      "1 colher (café) de fermento químico",
+      "1 xícara de leite",
+      "1 colher (café) de essência de baunilha",
+      "1 beterraba pequena cozida e sem casca",
+      "2 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, o leite, a beterraba, a essência, o fermento, o amido de milho e o açúcar no liquidificador até ficar homogêneo.",
+      "Em uma vasilha misture o creme batido e vá acrescentando a farinha aos poucos, até obter a massa no ponto de escorrer da colher com a ajuda de outra colher.",
+      "Frite em óleo bem quente e deixe escorrer.",
+      "Polvilhe com açúcar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "PALOMA RIBEIRO GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308721-bolinho-de-chuva-de-beterraba.html"
+}

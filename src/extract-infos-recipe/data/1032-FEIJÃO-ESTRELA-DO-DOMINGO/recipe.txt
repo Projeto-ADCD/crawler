@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FEIJÃO ESTRELA DO DOMINGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de feijão carioca",
+      "1/2 kg de charque picado",
+      "2 calabresas picadas",
+      "250 g de bacon picado",
+      "2 tomates grandes maduros sem pele picados",
+      "1 cebola grande picada",
+      "4 dentes de alho amassados",
+      "cheiro-verde a gosto",
+      "cominho a gosto",
+      "colorau a gosto",
+      "sal",
+      "folhas de louro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dê de três a quatro fervuras no feijão, deixando cada fervura por média de 4 minutos. Para adiantar esse processo, gosto de deixar uma panela grande com água fervendo.",
+      "Enquanto isso, vá picando as carnes e os demais ingredientes.",
+      "Em uma panela menor, coloque a charque para dessalgar em água fervente.",
+      "Feito isso, refogue a cebola em uma panela de pressão com um fio de azeite ou óleo, e quando estiver quase dourada acrescente o alho. Agora adicione todas as carnes, refogue bem e adicione os tomates picados, o cominho e o colorau.",
+      "Continue refogando e adicione o feijão, que já estará pré cozido por conta das fervuras.",
+      "Agora tampe a panela de pressão e deixe cozinhar por 15 minutos.",
+      "Após isso, ajuste o sal e coloque o cheiro verde.",
+      "Retire 3 conchas do feijão com o caldo e bata no liquidificador com mais cheiro-verde por 15 segundos.",
+      "Volte a mistura para a panela, mexa e dê uma leve fervida para incorporar o novo caldo ao resto da receita. Após isso, seu Feijão Estrela do Domingo estará pronto.",
+      "Sirva com arroz e salada vinagrete.",
+      "Obs: dou essas fervuras no feijão porque isso elimina quase totalmente os gases, e também costumo dar 2 fervuras no bacon e na calabresa para diminuir a culpa por causa da gordura.",
+      "Espero que gostem!"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROBSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310323-feijao-estrela-do-domingo.html"
+}

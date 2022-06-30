@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TÁRTARO DE VEGETAIS COM SURIMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 surimis",
+      "4 tomates",
+      "1 lata de milho",
+      "1 pepino",
+      "1 chalota",
+      "4 pimentas pequenas",
+      "3 colheres (sopa) de maionese",
+      "1 limão",
+      "1 ramo de salsa fresca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte o pepino em cubos pequenos. Proceda da mesma forma com os pimentos pequenos e os tomates. Descasque e pique finamente a cebola. Corte o surimi em rodelas.",
+      "Lave e pique a salsa. Em uma tigela, misture tudo com a maionese, o suco de limão, o sal e a pimenta.",
+      "Mantenha refrigerado por pelo menos 30 minutos.",
+      "Monte os tártaros usando um cortador de biscoitos. Desfrute bem gelado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEIXE SC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311522-tartaro-de-vegetais-com-surimi.html"
+}

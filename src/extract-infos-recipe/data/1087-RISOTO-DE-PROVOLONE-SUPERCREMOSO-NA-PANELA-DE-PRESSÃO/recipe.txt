@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOTO DE PROVOLONE SUPERCREMOSO - NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de arroz arbóreo",
+      "300 g de provolone ralado",
+      "1 caixinha de creme de leite",
+      "1 copo de requeijão",
+      "200g de champignon picado em fatias",
+      "2 colheres (sopa) de molho inglês",
+      "2 colheres (sopa) de mostarda",
+      "3 xícaras (chá) de água",
+      "1 xícara (chá) de vinho branco seco",
+      "2 dentes de alho picados",
+      "1/2 cebola picada",
+      "sal a gosto",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, frite a cebola e o alho, após desligue o fogo para acrescentar os outros ingredientes",
+      "Acrescente o arroz arbóreo, a água, o vinho branco, os champignons e o molho inglês.",
+      "Tampe a panela e ligue o fogo novamente.",
+      "Depois que pegar pressão, marque 5 minutos e desligue o fogo.",
+      "Deixe a pressão sair sozinha e abra a panela.",
+      "Acrescente o provolone ralado, o creme de leite, o requeijão e a mostarda.",
+      "Mexa bem.",
+      "Finalize com uma colher de manteiga, para dar brilho."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "REBECA RODRIGUES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309990-risoto-de-provolone-supercremoso-na-panela-de-pressao.html"
+}

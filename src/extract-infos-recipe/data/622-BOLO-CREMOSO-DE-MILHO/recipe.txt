@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO CREMOSO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de leite (400 ml)",
+      "2 Xícara(s) de Açúcar (320 g)",
+      "1 xícara de farinha de trigo",
+      "1 xícara de fubá (130 g)",
+      "1 colher (sopa) de fermento em pó (10 g)",
+      "1 pitada de Margarina Primor Todo Dia para untar",
+      "1 pitada de farinha de trigo Primor para untar",
+      "1 pitada de açúcar de confeiteiro para polvilhar",
+      "1 lata de milho verde (200 g)",
+      "1 xícara de coco fresco ralado (80 g)",
+      "5 colheres (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture a farinha com o coco, o fubá e o fermento.",
+      "No liquidificador bata o milho com os ovos , com o leite, com a margarina e com o açúcar. Despeje sobre os secos na tigela e misture bem.",
+      "Coloque em uma fôrma redonda com furo central (21B x 18F x 7Acm), untada com a margarina e enfarinhada.",
+      "Asse no forno preaquecido por cerca de 50 minutos e até dourar.",
+      "Desenforme morno e polvilhe com açúcar de confeiteiro."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312306-bolo-cremoso-de-milho.html"
+}

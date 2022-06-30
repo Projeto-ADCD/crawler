@@ -1,0 +1,24 @@
+{
+  "nome_receita": "VITAMINA DE BANANA COM MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana prata",
+      "1/2 maçã",
+      "1 copo de leite",
+      "1 colher de aveia (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire a casca da banana e coloque ela no liquidificador se preferir parta em pedaços.",
+      "Com casca ou sem casca corte a maçã em pedaços e coloque no liquidificador",
+      "Logo em seguida adicione o leite e a aveia se preferir.",
+      "Bata por 4 minutos, se ficar muito cremoso adicione mais leite.",
+      "Coloque num corpo e sirva, se desejar coloque açúcar (mas se deseja ser mais saudável recomendo maneirar)."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LAURA NRT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311311-vitamina-de-banana-com-maca.html"
+}

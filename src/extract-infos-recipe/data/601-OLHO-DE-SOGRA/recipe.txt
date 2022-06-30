@@ -1,0 +1,22 @@
+{
+  "nome_receita": "OLHO DE SOGRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de ameixas sem caroço",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o leite condensado e o creme de leite",
+      "Misture bem e fique mexendo em fogo baixo até formar um creme.",
+      "Deixe esfriar e em seguida coloque todo o creme em um saquinho de confeiteiro.",
+      "Corte as ameixas ao meio para rechea-las com o creme."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "REGINA GUIMARÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312403-olho-de-sogra.html"
+}

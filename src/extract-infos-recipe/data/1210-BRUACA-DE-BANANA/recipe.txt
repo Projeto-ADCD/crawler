@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BRUACA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de água",
+      "1 ovo",
+      "4 colheres (sopa) de açúcar",
+      "4 colheres (sopa) de leite em pó",
+      "1 colher (sopa) de manteiga",
+      "1/2 colher (chá) de fermento",
+      "1 pitada de sal",
+      "1 banana amassada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Insira todos os ingredientes em uma tigela, excerto a manteiga, e bata com um fouet até obter uma massa homogênea",
+      "Unte uma frigideira com manteiga e leve ao fogo médio",
+      "Despeje 1/3 da massa sobre a frigideira untada e tampe",
+      "quando dourar de um lado, vire a massa",
+      "Após dourar dos dois lados tire do fogo e deixe esfriar",
+      "Então sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: para obter 1/3 da massa divida a massa em 3 xícaras igualmente e use o conteúdo de 1 xícara por bruaca"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LAÍS MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309368-bruaca-de-banana.html"
+}

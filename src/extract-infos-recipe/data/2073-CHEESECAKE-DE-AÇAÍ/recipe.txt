@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CHEESECAKE DE AÇAÍ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bolas de Frooty Açaí",
+      "1/2 pote pequeno de cream cheese",
+      "1/4 de lata de leite condensado",
+      "1/2 caixa de creme de leite",
+      "suco de 1 limão",
+      "4 bolachas de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme de queijo",
+      "Direto no copo do liquidificador ou mixer, bata o cream cheese, o leite condensado, o creme de leite, 2 bolas de Frooty açaí e o suco de limão até a mistura ficar homogênea.",
+      "No fundo do copo ou pote, coloque 1 ou 2 bolachas de maisena amassadas com a mão.",
+      "Sobre as bolachas coloque o creme de queijo.",
+      "Leve os potinhos para a geladeira por no mínimo duas horas para firmar.",
+      "Calda",
+      "No liquidificador ou mixer, bata 1 bola de açaí e coloque duas colheres em cima de cada cheesecake na hora de servir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306090-cheesecake-de-acai.html"
+}

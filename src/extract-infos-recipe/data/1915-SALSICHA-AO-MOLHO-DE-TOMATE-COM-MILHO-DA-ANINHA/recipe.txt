@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALSICHA AO MOLHO DE TOMATE COM MILHO DA ANINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 salsichas",
+      "1 cebola média cortadas em cubos",
+      "3 dentes de alho espremido",
+      "4 colheres de (sopa) óleo",
+      "340 g de molho de tomate ",
+      "200 g de milho em conserva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o óleo, a cebola e o alho refogue até dourar.",
+      "Em seguida coloque o milho e misture depois coloque as salsichas e deixe refogar por 2 minutos.",
+      "Coloque o molho de tomate e deixe ferver.",
+      "Sirva com pão para hot dog e coloque o vinagrete."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA FLÁVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306451-salsicha-ao-molho-de-tomate-com-milho-da-aninha.html"
+}

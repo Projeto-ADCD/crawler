@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE BANANA COM AVEIA EM FLOCOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3/4 de xícara de óleo",
+      "1 e 1/2 xícara açúcar mascavo",
+      "4 bananas",
+      "2 e 1/2 xícaras de aveia em flocos",
+      "1 colher (sopa) fermento em pó",
+      "açúcar e canela em pó para polvilhar a forma (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos,o óleo, o açúcar e 2 bananas.",
+      "Despeje em uma tigela e acrescente a aveia, as outras 2 bananas em rodelas e a canela.",
+      "Misture bem e coloque o fermento em pó.",
+      "Unte uma forma grande de buraco com margarina, açúcar e canela.",
+      "Despeje a massa e leve ao forno pré aquecido.",
+      "Asse por mais ou menos 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LU BATISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310893-bolo-de-banana-com-aveia-em-flocos.html"
+}

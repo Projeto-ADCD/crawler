@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COOKIES COM GOTAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de manteiga [equivalem a 4 colheres (sopa) cheia]",
+      "160 g de açúcar mascavo",
+      "150 g de açúcar refinado",
+      "1 colher (café) de bicarbonato de sódio",
+      "1 colher (café) de essência de baunilha (pode colocar 2 ou até 3, mas não exagere muito)",
+      "2 ovos",
+      "350 g de farinha",
+      "gostas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro adicione a manteiga, o açúcar mascavo, açúcar refinado, o bicarbonato e a essência de baunilha.",
+      "Segundo passo: mexa todos esses ingredientes muito bem.",
+      "Terceiro passo: adicione a farinha e os 2 ovos e mexa novamente (não é para a massa ficar liquida, ela é uma massa de cookie então tem que ficar uma massa homogênea)",
+      "Quarto passo: depois do terceiro passo, adicione os pedaços de chocolate ou as gotas e mexa bem. se quiser, mexa com as mãos. lembre de deixar o chocolate ou as gotas para colocar em cima do cookie quando posto na forma!",
+      "Preaqueça o forno a 200° C por 10 minutinhos",
+      "Unte a forma com manteiga ou utilize o papel manteiga",
+      "Forme bolinhas e coloque os cookies bem separados um do outro para não ocorrer o risco deles juntarem",
+      "Coloque as gotas em cima dos cookies",
+      "Em seguida, coloque os cookies para assarem de 20 a 30 minutos no forno e aproveite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para as gotas você pode picar em quadradinhos duas barras de chocolate da sua preferência ou utilizar as gotas de chocolate ."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "ANA LUIZA COUTINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311631-cookies-com-gotas-de-chocolate.html"
+}

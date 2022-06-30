@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FRANGO DESOSSADO RECHEADO COM QUEIJO COALHO E ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 frango inteiro desossado (mais ou menos 2 kg)",
+      "10 g de alecrim fresco",
+      "20 g de orégano",
+      "2 cebolas médias raladas",
+      "1 tomate grande ralado",
+      "3 colheres (sopa) de mostarda amarela",
+      "1/2 colher (sobremesa) de pimenta do reino",
+      "1 colher (sopa) de sal",
+      "3 colheres de sopa de maionese",
+      "500 g de queijo coalho ralado",
+      "200 g de mussarela ralada",
+      "1 molho de espinafre picadinho (mais ou menos 300 g)",
+      "2 saquinhos pequenos de sachê de alecrim"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale o tomate e a cebola.",
+      "Misture o alecrim, orégano, sal, pimenta do reino, 2 colheres de mostarda, o tomate e a cebola ralados. Tempere o frango por dentro com essa mistura e deixe descansar por meia hora.",
+      "Recheio",
+      "Rale o queijo coalho, a mussarela e a cebola.",
+      "Junte essa mistura ao espinafre picado. Acrescente o Sazón e o restante da pimenta do reino.",
+      "Com um barbante e uma agulha, feche a extremidade do pescoço e a ponta das coxas. Caso tenha algum buraco na pele, costure também para que o recheio não vaze.",
+      "Recheie o frango, inserindo a mistura primeiramente nas asas e coxas. Em seguida recheio todo o restante do frango.",
+      "Costure a abertura final com barbante.",
+      "Coloque o frango em uma assadeira grande e pincele uma colher de maionese para que o papel alumínio não grude.",
+      "Cubra com papel alumínio e leve ao forno pré-aquecido à 180° por aproximadamente 40min. Na metade do tempo abra e retire um pouco do excesso de água que irá soltar.",
+      "Faça uma mistura com 1 colher de mostarda amarela e 2 colheres de maionese.",
+      "Retire o papel alumínio, pincele o frango com a mistura de maionese e mostarda e leve ao forno por aproximadamente mais 20min para dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JI TEIXEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307355-frango-desossado-recheado-com-queijo-coalho-e-espinafre.html"
+}

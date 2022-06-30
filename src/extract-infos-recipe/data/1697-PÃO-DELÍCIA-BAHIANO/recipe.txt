@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO DELÍCIA BAHIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "950 g de farinha de trigo sem fermento",
+      "3 copos (americano) de leite ",
+      "3 sachês de fermento biológico instantâneo seco (30 g)",
+      "9 colheres (sopa) de óleo",
+      "6 colheres (sopa) de açúcar",
+      "3 colheres (chá) de sal",
+      "6 ovos",
+      "margarina",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes exceto a farinha de trigo no liquidificador por 3 minutos.",
+      "O leite deve ser morno para frio.",
+      "Depois em uma vasilha grande misture o líquido com a farinha de trigo mexendo até obter uma mistura homogênea e de textura mole.",
+      "Deixe a massa descansar por 1 hora em um local fechado para que ela dobre de tamanho.",
+      "Em assadeiras untadas, passe margarina nas mãos e faça bolinhas deixando um espaço de um dedo entre cada bolinha.",
+      "Deixe descansar por mais 30 minutos",
+      "Após descansar, asse por 10 minutos a 200° C",
+      "Após assado se quiser pincele com margarina derretida e jogue queijo ralado por cima."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "90 PORÇÕES",
+  "autor": "AMANDA ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307119-pao-delicia-bahiano.html"
+}

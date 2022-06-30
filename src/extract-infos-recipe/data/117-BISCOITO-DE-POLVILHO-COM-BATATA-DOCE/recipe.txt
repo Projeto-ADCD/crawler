@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BISCOITO DE POLVILHO COM BATATA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de polvilho azedo",
+      "75 ml de azeite",
+      "2 colheres (chá) de sal",
+      "250 g ou 2 unidades de batata-doce cozida e amassada",
+      "150 ml de água "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque o polvilho, o azeite e o sal, depois misture até formar uma farofa.",
+      "Adicione a batata-doce cozida e amassada e misture bem.",
+      "Acrescente a água, aos poucos, e amasse bem até a massa ficar mole, mas desgrudando das mãos.",
+      "Coloque a massa em um saco de confeiteiro deposite em uma assadeira formando tiras com cerca de 9 centímetros cada.",
+      "Leve para assar em forno baixo preaquecido a 160º C por cerca de 35 minutos.",
+      "Retire do forno e deixe esfriar antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314388-biscoito-de-polvilho-com-batata-doce.html"
+}

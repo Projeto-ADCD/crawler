@@ -1,0 +1,24 @@
+{
+  "nome_receita": "GELADINHO GOURMET DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 biscoitos de chocolate com recheio de baunilha (tipo oreo ou negresco)",
+      "1 lata de leite condensado",
+      "250 ml de leite",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador, o leite condensado, o creme de leite, o leite.",
+      "Bata até ficar homogêneo.",
+      "Adicione os biscoitos de oreo e bata até o ponto desejado, se você preferir que fique com pedacinhos, bata menos.",
+      "Em seguida, com a ajuda de um funil, encha os saquinhos de geladinho dê um nó.",
+      "Leve ao congelador por cerca de 8 horas ou até endurecer."
+    ]
+  },
+  "tempo_de_preparo": "810 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAN ANGEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309977-geladinho-gourmet-de-oreo.html"
+}

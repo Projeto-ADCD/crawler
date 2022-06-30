@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TAHINE CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de gergelim branco",
+      "1/2 copo de óleo de coco ou de canola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira toste os grãos de gergelim só um pouco mexendo sempre para não queimar.",
+      "Assim que dourar, pode parar",
+      "Bata em um triturador e vá adicionando o óleo aos poucos.",
+      "Precisa bater por um tempo razoável para virar pasta.",
+      "Adicione mais ou menos óleo de acordo com a consistência de sua preferência.",
+      "Use óleo de coco se for usar seu tahine em doces (melhor qualidade).",
+      "Se for para salgados pode ser óleo comum",
+      "É possível bater no liquidificador, mas precisa parar várias vezes para mexer com uma colher"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ELISA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307039-tahine-caseiro.html"
+}

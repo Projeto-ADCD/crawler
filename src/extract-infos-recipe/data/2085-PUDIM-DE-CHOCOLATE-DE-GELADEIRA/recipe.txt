@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE CHOCOLATE DE GELADEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gelatina em pó incolor",
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite pequenas",
+      "6 colheres De chocolate em po"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em um recipiente 5 colheres de água fria, misture com a gelatina incolor",
+      "Em um liquidificador coloque o leite condensado, creme de leite e o achocolatado",
+      "No fogo baixo derreta a gelatina até virar um líquido ",
+      "Depois despeje no liquidificador, misture e bata por 5 minutos",
+      "Numa forma própria para pudim coloque o líquido",
+      "Depois é so colocar no freezer até ficar concistente",
+      "E está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIA CLARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306062-pudim-de-chocolate-de-geladeira.html"
+}

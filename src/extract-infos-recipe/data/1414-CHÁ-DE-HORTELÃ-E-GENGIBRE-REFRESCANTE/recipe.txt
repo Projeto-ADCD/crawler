@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHÁ DE HORTELÃ E GENGIBRE REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de água",
+      "1 colher (chá) de gengibre ralado",
+      "1/2 xícara de hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água.",
+      "Apague o fogo e acrescente o gengibre e a hortelã.",
+      "Deixe por 5 minutos tampada.",
+      "Coe e sirva.",
+      "Se desejar, adoce com mel."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ISADORA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308475-cha-de-hortela-e-gengibre-refrescante.html"
+}

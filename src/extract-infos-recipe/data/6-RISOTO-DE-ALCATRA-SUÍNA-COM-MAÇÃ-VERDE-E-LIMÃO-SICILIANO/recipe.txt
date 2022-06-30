@@ -1,0 +1,29 @@
+{
+  "nome_receita": "RISOTO DE ALCATRA SUÍNA COM MAÇÃ VERDE E LIMÃO SICILIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de arroz arbóreo",
+      "700 g de alcatra suína",
+      "2 cebolas",
+      "180 g de parmesão ralado",
+      "2 maças verdes",
+      "1 limão siciliano",
+      "200 ml de vinho branco seco",
+      "2 litros de caldo de legumes",
+      "2 colheres de manteiga",
+      "azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a carne com 1 cebola e temperos a gosto, deixe cozinhar na pressão por 25 minutos, corte em pedaços pequenos e reserve.",
+      "Em uma panela grande acrescente a outra cebola, 1 colher de manteiga, o arroz arbóreo, um fio de azeite e refogue até o arroz começar a estalar. Acrescente o vinho e refogue por mais alguns minutos até o álcool evaporar.",
+      "Vá aos poucos acrescentando o caldo de legumes (que deve estar fervendo) e mexendo sem parar para que o arroz solte o amido e fique cremoso. Após adicionar todo o caldo, acrescente a carne, o parmesão ralado, as maçãs descascadas e cortadas em pedaços pequenos e o suco do limão siciliano. Deixe cozinhar por mais 5 minutos mexendo sempre. Por fim, acrescente 1 colher de manteiga e misture bem."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316928-risoto-de-alcatra-suina-com-maca-verde-e-limao-siciliano.html"
+}

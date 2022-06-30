@@ -1,0 +1,38 @@
+{
+  "nome_receita": "OSSOBUCO AO MOLHO DE MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ossobucos de tamanho médio",
+      "1 cebola média",
+      "1 xícara (chá) de vinho branco seco",
+      "4 colheres (sopa) de mostarda",
+      "100 g de nata fresca",
+      "2 colheres (sopa) de óleo ou azeite",
+      "1 colher (sopa) de manteiga",
+      "2 folhas de louro",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "De véspera, tempere os ossobucos com sal, pimenta, louro e um pouco de vinho branco.",
+      "No lugar do vinho branco, para o tempero dos ossobucos, você pode usar um sumo de um limão.",
+      "Leve ao refrigerador para marinar até o dia seguinte.",
+      "Em uma panela de pressão, coloque o óleo e a manteiga e deixe aquecer.",
+      "Frite bem os ossobucos, dois a dois, até ficarem dourados.",
+      "Acrescente a cebola picada e o vinho branco seco.",
+      "Tampe a panela e deixe cozinhar na pressão por uns 35 minutos em fogo baixo.",
+      "Depois de cozidos, retire os ossobucos da panela e reserve.",
+      "Acrescente ao caldo que ficou na panela a mostarda e deixe ferver uns minutos.",
+      "Se o molho ficou muito liquido deixe ferver mais um pouco.",
+      "Acrescente a nata e mexa bem até incorporar, mas não deixe ferver.",
+      "Acrescente os ossobucos ao molho e misture tudo muito bem.",
+      "Deixe descansar por uns 5 minutos.",
+      "Sirva em seguida, acompanhado de uma massa ou de um arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308106-ossobuco-ao-molho-de-mostarda.html"
+}

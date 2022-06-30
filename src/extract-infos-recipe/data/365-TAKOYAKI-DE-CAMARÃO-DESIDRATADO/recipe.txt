@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TAKOYAKI DE CAMARÃO DESIDRATADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "100 g de farinha para takoyaki",
+      "1 ovo",
+      "40 g de polvo em cubos",
+      "300 ml de água fria",
+      "50 g de gengibre em conserva",
+      "50 g de cebolinha",
+      "10 g de massa frita de tempura",
+      "10 g de camarão desidratado",
+      "Cobertura:",
+      "molho para takoyaki",
+      "maionese",
+      "salsa desidratada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, adicione a farinha, o ovo, a água e misture bem até ficar um líquido homogêneo;",
+      "Unte a panela elétrica para takoyaki com óleo e preaqueça ela;",
+      "Despeje a massa líquida nos buracos da panela e adicione, por cima da massa, o polvo, o gengibre, a cebolinha, o camarão e a massa frita;",
+      "Com o auxílio de hashis, corte a massa e vá virando as bolinhas até dourar toda a superfície;",
+      "Transfira para um prato, adicione o molho, a maionese, a salsa desidratada e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313085-takoyaki-de-camarao-desidratado.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PUDIM DE PÃO NATALINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 lata de leite condensado",
+      "2 latas de leite integral (medida da lata de leite condensado)",
+      "4 pães franceses amanhecidos",
+      "1 colher (chá) de essência de baunilha",
+      "1 colher (chá) de canela em pó",
+      "1 colher (sopa) de manteiga",
+      "1 xícara de água",
+      "1/2 xícara de açúcar",
+      "1 maçã em fatias finas",
+      "1/4 de xícara de nozes",
+      "1/4 de xícara de uvas-passas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma assadeira para pudim, prepare a calda misturando a água e o açúcar até formar um  caramelo ralo. ",
+      "Acomode as lâminas de maçã no fundo da assadeira. ",
+      "Em um liquidificador, bata todos os ingredientes restantes com exceto as nozes e as uvas-passas.",
+      "Pare o processo no liquidificador, abra a tampa e inclua metade das passas e metade das nozes. ",
+      "Entre com esse creme na assadeira para pudim. Cubra com papel-alumínio e asse em banho-maria a 160° C por 1 hora e 20 minutos. ",
+      "Espere esfriar completamente, desenforme e decore com o restante das passas e nozes. Sirva a seguir com uma Coca-Cola Sem Açúcar bem gelada. "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "COCA-COLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314095-pudim-de-pao-natalino.html"
+}

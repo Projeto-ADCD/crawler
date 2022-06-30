@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CHEESECAKE CROCANTE COM MOUSSE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Base",
+      "3/4 do pacote de biscoito tipo maisena triturado",
+      "1/4 de xícara de manteiga sem sal em temperatura ambiente (ponto de pomada)",
+      "Recheio de cream cheese",
+      "450 g de cream cheese original Philadelphia ",
+      "1 xícara de açúcar",
+      "3 colheres (sopa) de amido de milho",
+      "2 ovos médios",
+      "3/4 de xícara de creme de leite fresco ",
+      "1 colher (sopa) de extrato de baunilha",
+      "Cobertura mousse de chocolate",
+      "1 xícara de creme de leite fresco gelado batido em ponto de chantilly",
+      "1 e 1/2 xícara e de chocolate meio amargo picado",
+      "Crocante de amendoim",
+      "1 e 1/2 xícara de açúcar",
+      "1 xícara de amendoim (ou castanhas) torrado e triturado grosseiramente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno em 180° C. ",
+      "Triture os biscoitos e incorpore a manteiga em ponto de pomada.",
+      "Forre com essa massa de biscoitos e manteiga, uma forma de aro removível (aprox. 24cm) com essa massa de biscoitos e manteiga, apertando até subir ligeiramente pelas laterais. Leve a massa à geladeira por, pelo menos, 30 minutos. ",
+      "Para o recheio, bata o cream cheese original Philadelphia, o açúcar e o amido em velocidade baixa até ficar homogêneo. Incorpore, ainda batendo, os ovos, a baunilha e, por último incorpore devagar o creme de leite fresco já batido em ponto de chantilly.  ",
+      "Despeje o recheio cremoso por cima da base de biscoitos e leve para assar coberto com papel alumínio em banhomaria por volta de 1 hora. Ele deve ficar levemente dourado. ",
+      "Desligue o forno e deixe o cheesecake dentro do forno com a porta entreaberta. Ele deve esfriar dentro do forno para não rachar. ",
+      "Com o cheesecake já frio e desenformado, prepare a mousse de chocolate batendo o creme de leite fresco gelado em ponto de chantilly e adicionando aos poucos o chocolate meio amargo que já foi derretido no microondas.",
+      "Leve a mousse para gelar e prepare o crocante de amendoim. ",
+      "Numa panela em fogo baixo, derreta o açúcar completamente e deixe atingir uma cor âmbar. Isso leva por volta de 10 minutos. ",
+      "Despeje sobre uma superfície untada com manteiga espalhando bem e cubra imediatamente com o amendoim levemente triturado. Deixe esfriar completamente até ficar rígido. ",
+      "Para a montagem do cheesecake, triture bem metade do crocante de amendoim, quase formando uma farinha. Cubra o cheesecake e, em seguida, adicione a camada de mousse de chocolate. ",
+      "Para decorar use chocolate em pó e lascas do crocante de amendoim restante. "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308861-cheesecake-crocante-com-mousse-de-chocolate.html"
+}

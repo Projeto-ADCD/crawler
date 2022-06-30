@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ABÓBORA ASSADA NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "Azeite a gosto",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto",
+      "Ervas secas a gosto",
+      "Abóbora "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a casca da abóbora",
+      "Corte a abóbora em fatias",
+      "Em um prato, tempere as fatias com azeite, sal, pimenta e ervas secas",
+      "Coloque-as dentro da airfryer",
+      "Deixe-as assar dentro da airfryer por 25 minutos, a 180ºC",
+      "Após esse tempo, sirva-as."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314432-abobora-assada-na-airfryer.html"
+}

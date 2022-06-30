@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA S'MORE DA WENDY",
+  "ingredientes": {
+    "MASSA": [
+      "3 xícaras de farinha trigo",
+      "150 g de margarina",
+      "2 ovos",
+      "3 colheres (sopa) açúcar",
+      "1 e 1/2 colher (sopa) fermento",
+      "1 pitada de sal",
+      " "
+    ],
+    "GANACHE": [
+      "2 barras de chocolate meio amargo",
+      "1 barra de chocolate ao leite",
+      "1 caixa creme de leite",
+      "1 marshmallow"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes da massa e misture.",
+      "Coloque em uma assadeira redonda untada, deixe em formato de torta com as laterais altas, fure com um garfo, e coloque no forno 180 graus de 5 a 10 minutos sem deixar a massa dourar.",
+      "Tire e deixe esfriar.",
+      "Leve os chocolates e o creme de leite em banho maria até virar ganache e reserve até esfriar.",
+      "Coloque o ganache na torta, pique em pequenos pedaços o marshmallow e coloque por cima até cobrir",
+      "Leve ao forno por mais 5 minutos, até o marshmallow derreter.",
+      "Consumir quente ou temperatura ambiente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Tome cuidado com o marshmallow ao forno, pois ele cresce."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "WENDY GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306930-torta-smore-da-wendy.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "DRINK DANONE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 a 10 morangos médios congelados",
+      "1 banana maçã (opcional)",
+      "1 colher (sopa) de leite condensado ou mel",
+      "100ml (a gosto) de leite líquido",
+      "1 danoninho de morango",
+      "2 doses de vodka ou gin",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os morangos para congelar ou compre-os em saquinhos congelados os quais vendem nos mercados.",
+      "Coloque os morangos, o danoninho, a banana, a colher (sopa) de leite condensado ou mel e os 100 ml de leite no liquidificador.",
+      "Veja a consistência e se ficar muito grosso coloque mais leite, porém adicione o leite bem aos poucos pois não pode ficar muito ralo.",
+      "Após ficar na consistência de leite condensado (nem muito grosso nem muito ralo) coloque as 2 doses de vodka ou gin e use o pulse do liquidificador de 2/3 vezes.",
+      "Coloque tudo em copos ou taças e adicione de 4 a 5 pedras de gelo"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ISABELLE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307824-drink-danone-de-morango.html"
+}

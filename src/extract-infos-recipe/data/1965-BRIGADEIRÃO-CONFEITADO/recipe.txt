@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BRIGADEIRÃO CONFEITADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de chocolate em pó",
+      "1 caixa de leite condensado",
+      "2 caixas de creme de leite",
+      "1 colher (sopa) de manteiga",
+      "4 a 5 colheres (sopa) de açúcar",
+      "chocolate confete ou M&Ms a gosto",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos,a manteiga (em temperatura ambiente), o açúcar o creme de leite e o leite condensado por aproximadamente 7 minutos",
+      "Unte a forma com manteiga e ligue o forno para preaquecer em 180° C.",
+      "Coloque a mistura na forma untada, tampe com papel alumínio e coloque em banho-maria (coloque a forma do brigadeirao dentro de outra forma maior e coloque água dentro dela)",
+      "Passando o tempo de 2 horas e 10 minutos",
+      "Tire do forno e espere esfriar, vire a forma em outro vasilhame e coloque, o chocolate por cima, aí é só usar sua imaginação e preferência"
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GIOVANNA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306320-brigadeirao-confeitado.html"
+}

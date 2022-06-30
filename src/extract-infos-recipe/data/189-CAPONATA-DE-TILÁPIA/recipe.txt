@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CAPONATA DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de azeite de oliva",
+      "1 cebola média",
+      "1 pimentão vermelho",
+      "1 berinjela grande",
+      "250 g de tomate cereja",
+      "2 dentes de alho",
+      "2 colheres (sopa) de alcaparras",
+      "1/2 xícara (chá) de azeitonas pretas",
+      "400 g de tomate pelado picado",
+      "2 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de vinagre balsâmico",
+      "1/2 colher (chá) de pimenta-calabresa",
+      "sal e pimenta a gosto",
+      "4 filés de Tilápia Copacol",
+      "1/2 limão espremido",
+      "1 colher (sopa) de manjericão",
+      "4 pães ciabatta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a frigideira e coloque o azeite de oliva, adicione a cebola, o pimentão, a berinjela, os tomates cereja. Feche a tampa e cozinhe por 10 minutos, mexendo de vez em quando.",
+      "Agora adicione o alho, as alcaparras, as azeitonas pretas, o tomate pelado picado, o açúcar, o vinagre, tempere com sal e pimenta e adicione a pimenta calabresa. Misture tudo, feche a tampa e deixe cozinhar por 3 minutos. Prove e ajuste o sal se achar necessário.",
+      "Tempere a Tilápia Copacol com o suco de limão e uma pitada de sal e pimenta dos dois lados. Coloque as tilápias sobre a Caponata na frigideira, tampe e deixe cozinhar por 10 minutos em fogo médio.",
+      "Sirva com o pão ciabatta, bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "COPACOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314033-caponata-de-tilapia.html"
+}

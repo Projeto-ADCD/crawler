@@ -1,0 +1,40 @@
+{
+  "nome_receita": "RISOTO DE QUEIJO ROQUEFORT E NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "60 g de queijo roquefort ou gorgonzola",
+      "50 g de nozes",
+      "2 g de salsa fresca",
+      "50 g de cebola picada",
+      "40 gramas de queijo parmesão ralado",
+      "100 ml de vinho branco seco",
+      "20 gramas de manteiga sem sal",
+      "750 ml de caldo de legumes",
+      "20 ml de azeite",
+      "pimenta-do-reino a gosto",
+      "130 g de arroz arbóreo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o caldo com antecedência para que ele esteja quente na hora do preparo do arroz.",
+      "Numa panela aqueça o azeite e refogue a cebola até que ela fique transparente.",
+      "Coloque o arroz e refogue.",
+      "Quando estiver quase seco coloque o vinho e deixe saborizar até o álcool evaporar.",
+      "Então vá acrescentando o caldo de legumes até que o arroz fique ao dente.",
+      "Acrescente a salsa e pimenta a gosto.",
+      "Verifique o sal e veja se é necessário mais, já que os ingredientes sao salgados.",
+      "Quando estiver no ponto coloque o roquefort e mexa até que ele derreta.",
+      "Desligue o fogo e coloque a manteiga, o parmesão e por último as nozes.",
+      "Sirva com carne ou mesmo só ele."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ingredientes (para duas pessoas)"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIA LUCIA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309225-risoto-de-queijo-roquefort-e-nozes.html"
+}

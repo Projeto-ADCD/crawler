@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE ESTUDANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras e 1/2 de tapioca (pode ser em flocos ou em grãos)",
+      "200 ml de leite de coco",
+      "200 ml de água",
+      "1/2 xícara de açúcar",
+      "1 xícara de coco ralado (240 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no recipiente e misture bem. Fica uma textura mole.",
+      "Cubra com um pano e deixe por uns 20 minutos até hidratar. Fica uma textura grossa.",
+      "Molde os bolinhos nas mãos e reserve.",
+      "Agora, aqueça bem o óleo, e na hora de colocar os bolinhos baixe o fogo para não queimar, frita muito rápido.",
+      "Assim que fritar passe no açúcar com canela em pó.",
+      "Obs.: Não faça muito grande, pois eles incham um pouco na hora da fritura, essa receita da em média 20 bolinhos pequenos.",
+      "Melhor consumir na hora, ele fica crocante por fora e macio por dentro, mas depois fica só mole."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DELÍCIAS DA TIA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313891-bolinho-de-estudante.html"
+}

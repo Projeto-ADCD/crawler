@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CENOTONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "600 g de farinha de trigo",
+      "350 ml de água",
+      "4 colheres de margarina ou manteiga derretida",
+      "2 sachês de fermento biológico seco",
+      "100 g de açúcar",
+      "1 pitada de sal",
+      "1 colher (de sopa) de essência de panetone",
+      "300 g de gotas de chocolate",
+      "2 cenouras grandes "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes líquidos como a água, ovos, manteiga ou margarina, açúcar, sal, essência de panetone e a cenoura ",
+      "Em uma bacia coloque a farinha de trigo e acrescente o liquido batido aos poucos.",
+      "Misture bem até a massa ficar lisinha e acrescente as gotas de chocolate.",
+      "Leve ao forno por 40 minutos de 150° C a 200° C.",
+      "Faça uma cobertura de brigadeiro se desejar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KELLY MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310200-cenotone.html"
+}

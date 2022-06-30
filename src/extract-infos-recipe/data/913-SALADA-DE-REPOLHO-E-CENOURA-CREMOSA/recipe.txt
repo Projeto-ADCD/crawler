@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SALADA DE REPOLHO E CENOURA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 repolho médio bem picadinho",
+      "1 cenoura média ralada",
+      "3 colheres de (sopa) de maionese",
+      "1 colher de (sobremesa) de molho de mostarda",
+      "1 colher de (sopa) de molho shoyo",
+      "azeite sal e pimenta á gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma tijela grande misture todos os ingredientes",
+      "Leva à geladeira por pelo menos 2 horas, sirva imediatamente!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RODRIGO CHERIGATTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310945-salada-de-repolho-e-cenoura-cremosa.html"
+}

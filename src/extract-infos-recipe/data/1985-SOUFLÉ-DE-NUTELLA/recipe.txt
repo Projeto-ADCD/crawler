@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOUFLÉ DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 claras e 2 gemas de ovo",
+      "100 g de Nutella",
+      "45 g de açúcar para o bowl",
+      "18 g de açúcar para os ramekins",
+      "15 g de manteiga amolecida",
+      "3 ml de extrato de baunilha",
+      "1 pitada de sal",
+      "3 g de bitartarato de potássio (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 190º C",
+      "Unte com a manteiga os ramekins",
+      "Despeje açúcar no fundo e nos lados dos ramekins, retirando o açúcar extravasado e colocando em outro ramekim",
+      "Em um bowl, combine a Nutella, o extrato de baunilha e as gemas de ovo. Após formar um creme, deixe-o de lado",
+      "Em outro bowl, use uma batedeira, em velocidade média, para bater as claras com a pitada de sal (e, opcionalmente, com o bitartarato de potássio), durante 4 minutos ou até formar uma mistura capaz de permanecer parada caso inclinado o bowl",
+      "Lentamente, enquanto bate a mistura anterior, adicione o açúcar e bata por mais 2 minutos",
+      "Coloque um terço da mistura anterior no bowl que contém a Nutella e as gemas de ovo, mexendo e incorporando lentamente as misturas, fazendo um movimento similar de um “U”",
+      "Agora, coloque essa nova mistura no restante do bowl que contém as claras de ovo, mexa e incorpore essa mistura final, fazendo o mesmo movimento devagar em formato de “U” do passo 7",
+      "Divida a mistura final entre os ramekins e asse na grade do meio do forno por 15 à 17 minutos, ou até eles incharem para cima, apresentando ainda o centro amolecido.",
+      "Sirva imediatamente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas\nVocê pode usar pó de cacau ao invés de açúcar no passo 3\nSe a Nutella estiver endurecida, coloque-a em um microondas por 1 minutos\nNão bata até demais as suas claras de ovo, isso é muito fácil de acontecer, principalmente se estiver usando um mixer. Você percebera que bateu demais quando elas começarem a aparentar-se um pouco coagulada e aguada. Elas devem se aparentar como uma neve suave e aerada, com um brilho nela\nNão pule o açúcar nas claras de ovo, isso ajuda a estabilizar as claras, ajudando a prevenir aquele irritante fator das claras batidas exageradamente\nCombine as misturas dos bowls gentilmente, não deixe estourar aquelas bolhas de ar que você levou um maior trabalho para criar. Não se esqueça daquele movimento em “U”, ele ajuda a tanto mexer nos lados, quanto no fundo\nNÃO ESPIE O FORNO. Um dos grandes erros das pessoas quando o assunto é Suflê é abrir o forno para checá-los. Toda vez que abre o forno, a temperatura em seu interior diminui, e suflês não gostam disso. Tente olhar apenas uma vez rapidamente, quando você achar que eles estão próximos de ficar pronto\nNão demore, os suflês não esperam por ninguém. Tenha seus pratos e talheres prontos e sirva rapidamente, pois seu dramático suflê começará a encolher enquanto resfria com a temperatura ambiente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIEL UNGARETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306263-soufle-de-nutella.html"
+}

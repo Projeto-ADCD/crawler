@@ -1,0 +1,42 @@
+{
+  "nome_receita": "ROLINHOS AÇUCARADOS DE CANELA",
+  "ingredientes": {
+    "MASSA": [
+      "3 xícaras (chá) de farinha de trigo ",
+      "2 colheres (sopa) de margarina ",
+      "1 xícara (chá) de leite morno",
+      "2 ovos inteiros ",
+      "1 sachê de fermento biológico seco",
+      "3 colheres (sopa) de açúcar "
+    ],
+    "RECHEIO": [
+      "4 colheres (sopa) de margarina ",
+      "1/2 xícara (chá) de açúcar mascavo ",
+      "2 colheres (sopa) de canela em pó ",
+      "3 colheres (sopa) de leite integral "
+    ],
+    "COBERTURA": [
+      "1/2 xícara (chá) de leite integral ",
+      "1 xícara (chá) de açúcar de confeiteiro ",
+      "canela em pó a gosto para polvilhar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece preparando uma esponja para a massa, em uma tigela adicione o fermento biológico e o leite morno (não quente). Misture bem e deixe descansar por 15 minutos até espumar levemente. ",
+      "Adicione os ovos, o açúcar, a margarina e misture. Depois disso, vá incorporando aos poucos a farinha de trigo e misture bem até que a massa comece a desgrudar. ",
+      "Transfira a massa para uma bancada enfarinhada e sove por aproximadamente 10 minutos ou até obter uma massa lisa e elástica. Volte para a tigela, cubra com um pano e deixe descansar por aproximadamente 1 hora ou até que a massa dobre de tamanho. ",
+      "Enquanto isso, prepare o recheio. Em outra tigela junte a margarina, o açúcar mascavo, a canela e o leite. Misture o suficiente até formar um creme uniforme. Reserve. ",
+      "Passado o tempo de descanso, abra a massa sobre uma superfície enfarinhada formando um retângulo com aproximadamente 5 centímetros de espessura. ",
+      "Espalhe o recheio sobre toda a superfície da massa e enrole-a, começando pela ponta, formando um rocambole. ",
+      "Corte fatias de aproximadamente 4 centímetros de espessura, formando os rolinhos. ",
+      "Disponha as fatias em uma assadeira untada deixando bastante espaço entre elas. Cubra com um pano e leve para descansar por mais 30 minutos. ",
+      "Leve então para assar no forno já preaquecido a 200º C por aproximadamente 30 minutos ou até que os rolinhos fiquem dourados. ",
+      "Em uma tigelinha à parte misture os ingredientes da cobertura e cubra os rolinhos ainda quentes polvilhando canela por cima. Sirva a seguir. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CLAYBOM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313872-rolinhos-acucarados-de-canela.html"
+}

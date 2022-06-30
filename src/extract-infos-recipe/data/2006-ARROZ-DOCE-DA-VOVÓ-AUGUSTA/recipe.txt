@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ DOCE DA VOVÓ AUGUSTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite",
+      "2 Xícaras (chá) de arroz",
+      "1/2 xícara (chá) de Açúcar",
+      "1/2 lata de leite de condensado",
+      "1 caixinhinha de creme de leite",
+      "cravo e canela a gosto",
+      "1 pitada de sal",
+      "água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o arroz para cozinhar, cubra com a água, adicione a pitada de sal, canela e cravo.",
+      "Cozinhe e misture para não grudar no fundo da panela, até ficar macio.",
+      "Reserve.",
+      "Em outra panela mais alta, coloque o leite para ferver e o açúcar,",
+      "Assim que levantar fervura, adicione o leite condensado.",
+      "Misture com frequência para não queimar no fundo da panela.",
+      "Cozinhe dessa maneira por volta de 1 hora, para reduzir a quantidade leite.",
+      "Ele ficará amarelo.",
+      "Após chegar no ponto indicado acima, adicione o arroz cozido anteriormente, deixe ele solto.",
+      "Cozinhe até chegar no ponto desejado.",
+      "Adicione o creme de leite e misture.",
+      "E apague o fogo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PAULO OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306208-arroz-doce-da-vovo-augusta.html"
+}

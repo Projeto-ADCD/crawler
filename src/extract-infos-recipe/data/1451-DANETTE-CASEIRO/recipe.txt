@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DANETTE CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "4 colheres de cacau em pó",
+      "1 caixa de creme de leite",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione a manteiga e espere derreter, depois adicione o leite condensado e o cacau",
+      "Mexa até desgrudar da panela, adicione o creme de leite e misture até ficar homogêneo",
+      "Reserve e deixe na geladeira por 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DUDA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308267-danette-caseiro.html"
+}

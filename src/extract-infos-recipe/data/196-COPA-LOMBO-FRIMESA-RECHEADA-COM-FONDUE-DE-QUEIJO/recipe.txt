@@ -1,0 +1,39 @@
+{
+  "nome_receita": "COPA LOMBO FRIMESA RECHEADA COM FONDUE DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "copa Lombo Suína Frimesa",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "2 colheres de cheiro-verde picado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "2 xícaras de vinho branco",
+      "100 g de Queijo Azul Frimesa",
+      "100 g de Queijo Prato Frimesa",
+      "100 g de Queijo Mussarela Frimesa",
+      "50 g de Queijo Provolone Frimesa",
+      "1/2 maço de rúcula",
+      "100 g de Manteiga sem sal Frimesa",
+      "barbante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a Copa Lombo Suína Frimesa com cebola picada, alho, cheiro-verde, sal e pimenta.",
+      "Deixe temperando por pelo menos 1 hora.",
+      "Com uma faca, abra a copa lombo e deixe a peça aberta, pronta para o recheio.",
+      "Derreta os queijos no vinho branco, formando um fondue de queijo.",
+      "Deixe esfriar e reserve.",
+      "Despeje o fondue sobre a copa lombo aberta, junte as folhas de rúcula e volte a fechar com cuidado.",
+      "Amarre com barbante para que o recheio fique bem preso.",
+      "Passe a copa lombo na farinha de trigo e frite todos os lados utilizando manteiga.",
+      "Depois de dourar todos os lados, leve para o forno preaquecido a 180ºC durante 40 minutos.",
+      "Fatie em pedaços e sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314026-copa-lombo-frimesa-recheada-com-fondue-de-queijo.html"
+}

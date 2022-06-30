@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO ITALIANO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "540 g de água",
+      "800 g de farinha de trigo",
+      "10 g de fermento biológico seco",
+      "20 g de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma vasilha todos os ingredientes menos a água.",
+      "Acrescente a agua à mistura e mexa.",
+      "Mexa com as mãos, mas não precisa sovar por muito tempo.",
+      "A massa não solta da mão.",
+      "Cubra a massa e deixe descansar por 1 hora.",
+      "Aqueça uma forma no forno, quando tirar polvilhe um pouco de farinha.",
+      "Molde 2 pães grande, como preferir e voloque na forma aquecida.",
+      "Polvilhe farinha de trigo em cima da massa e faça um corte leve.",
+      "Cubra a forma com papel-alumínio e asse por 30 minutos em formo médio.",
+      "Tire o papel-alumínio e asse por mais 20 minutos ou até dourar o pão."
+    ]
+  },
+  "tempo_de_preparo": "110 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GISELE FELIX",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306585-pao-italiano-facil.html"
+}

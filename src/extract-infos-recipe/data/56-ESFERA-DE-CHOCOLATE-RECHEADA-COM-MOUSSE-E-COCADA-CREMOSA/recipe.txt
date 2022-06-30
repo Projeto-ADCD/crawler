@@ -1,0 +1,55 @@
+{
+  "nome_receita": "ESFERA DE CHOCOLATE RECHEADA COM MOUSSE E COCADA CREMOSA",
+  "ingredientes": {
+    "ESFERA DE CHOCOLATE ": [
+      "200 g de Chocolate 70% Cacau da linha Chefs Mendoá"
+    ],
+    "MOUSSE DE CHOCOLATE ": [
+      "250 g de Chocolate 70% Cacau da linha Chefs Mendoá",
+      "3 ovos inteiros caipiras em temperatura ambiente",
+      "60 Açúcar branco",
+      "250 ml de Creme de Leite 35% gordura bem gelada"
+    ],
+    "COCADA CREMOSA ": [
+      "160 g de coco em lascas grandes",
+      "80 ml de leite de coco",
+      "40 g de leite condensado"
+    ],
+    "CALDA QUENTE DE CHOCOLATE ": [
+      "100 g de Chocolate 70% Cacau da linha Chefs Mendoá",
+      "100 ml de creme de leite 35% gordura",
+      "1/4 de dose de Conhaque (pode ser também Brandy, Vodka ou até Cachaça)"
+    ]
+  },
+  "passos": {
+    "ESFERA DE CHOCOLATE ": [
+      "Pique o chocolate em pedaços pequenos e coloque para derreter em banho-maria sobre fogo baixo, misturando com uma colher.",
+      "Aplique o chocolate derretido em formas de ovos de Páscoa ou forma de meia esfera de silicone",
+      "Leve à geladeira e em seguida aplique mais 2 camadas de chocolate.",
+      "Leve à geladeira entre cada camada."
+    ],
+    "MOUSSE DE CHOCOLATE ": [
+      "Em banho-maria derreta o chocolate já picado e deixe ele chegar somente a temperatura ambiente.",
+      "Numa batedeira bata os ovos com o açúcar até ele ficar bem airado.",
+      "Bata também o creme de leite até ele ficar no ponto de creme monteé (uma textura anterior ao chantilly).",
+      "Com o chocolate em temperatura ambiente, entre agora com o creme de leite batido, mas em 3 etapas, misturando sempre pro seu mousse conseguir leveza.",
+      "A seguir faça a mesma coisa com a mistura de ovos e açúcar batido, sempre em 3 etapas",
+      "Coloque ele dentro da esfera e leve à geladeira por 1 hora para o mousse firmar.",
+      "Para a cocada cremosa misture os 3 ingredientes numa frigideira e cozinhe em fogo baixo mexendo sempre até ele ficar com uma textura mais firme. Deixe esfriar.",
+      "Coloque a cocada por cima do mousse e leve ele por mais 30 minutos à geladeira.",
+      "Para a calda que irá derreter a nossa esfera, num bowl à parte, misture o chocolate com o creme de leite e o conhaque.",
+      "Leve ele ao micro-ondas por 30 segundos, misturando bem. Assim que apitar, repita o processo até ele se transformar numa linda calda de chocolate (OBS: importante a calda estar muito quente! E não deixe ela muito grossa, senão ela não derreterá bem a esfera).",
+      "A base pra segurar a esfera no lugar será com cookies de chocolate, com a ajuda de uma colher de pau quebre ela em farelos"
+    ],
+    "MONTAGEM ": [
+      "A base será de biscoitos de chocolate quebrados.",
+      "Por baixo, a metade da esfera que está recheada.",
+      "Por cima, a oca.",
+      "Desfaça ela na frente do seu convidado com a calda bem quente e aproveite muito a sua Páscoa! "
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314645-esfera-de-chocolate-recheada-com-mousse-e-cocada-cremosa.html"
+}

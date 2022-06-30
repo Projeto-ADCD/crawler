@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata média",
+      "500 g de carne moída",
+      "200 g de mussarela",
+      "1 sachê de molho de tomate",
+      "salsinha e cebolinha a gosto",
+      "alho e cebola",
+      "páprica picante",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batas, corte ai meio e coloque para cozinhar na panela de pressão fogo médio, sem tempero.",
+      "Depois que pegar pressão deixe cozinhar por 15 minutos.",
+      "Depois de cozida, coloque em uma assadeira/bacia/ refratário e amasse com um garfo (caso não tenha amassador) até virar um purê de batata.",
+      "Numa panela no fogo coloque um fio de azeite e deixe fritar o alho bem picado.",
+      "Acrescente toda bata (purê) tempere com sal a gosto, misture até o tempero se envolver todo no purê e reserve.",
+      "Numa panela com óleo, um fio generoso,frite o alho picado e acrescente a carne moída, a cebola bem picada, a salsinha e cebolinha e misture tudo, quando estiver bem frito acrescente o molho de tomate e misture, deixe no fogo por 5 minutos.",
+      "Numa assadeira coloque uma camada de batata, coloque por cima o queijo mussarela, que pode ser ralado ou fatiado, tem que cobrir todo o purê",
+      "Em seguida a carne por cima, depois mais uma camada de batata em purê por cima da carne, no topo coloque o queijo mussarela e leve ao forno preaquecido a 180° C.",
+      "Deixe assar por 30 minutos.",
+      "Retire e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "PS: FICA BOM SE JOGAR ORÉGANO ANTES DE LEVAR AO FORNO."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROBERT WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306986-escondidinho-de-carne.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE BATATA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas amassadas",
+      "1 sachê de maionese",
+      "2 sachê de queijo ralado",
+      "1 xícara de farinha de trigo",
+      "1 peito de frango cozinho e desfiado",
+      "1 cebola picada",
+      "1 tomate cortado",
+      "2 ovos",
+      "sal (a gosto)",
+      "1 tablete de caldo de frango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango e desfie quando esfriar",
+      "Cozinhe as 5 batatas, amasse e reserve",
+      "Cozinhe o peito de frango com um tablete de frango, a cebola picada, o tomate, e por fim coloque meio sache de queijo ralado.",
+      "MASSA",
+      "Misture os ovos, farinha, os sachês de queijo ralado, a maionese e uma pitada de sal até formar uma massa lisa.",
+      "Em uma forma de vidro ou própria para microondas, Unte com manteiga e farinha, coloque uma camada de massa, uma camada de recheio e finalize com uma camada de massa, coloque queijo ralado por cima (a gosto).",
+      "Asse por 22 minutos até dourar e retire com um pano de prato e deixe esfriar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MAXWELL UCHOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306521-torta-de-batata-de-micro-ondas.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA FÁCIL EM CAMADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pé de alface",
+      "3 cenouras médias",
+      "8 tomates",
+      "1 lata de creme de leite",
+      "1 lata de maionese (medida da lata de creme de leite)",
+      "10 colheres (sopa) de ketchup",
+      "6 colheres de mostarda",
+      "1 pitada de sal",
+      "pimenta em molho a gosto",
+      "1 pacote de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "corte o alface em tirinhas e coloque em uma travessa grande",
+      "rale a cenoura e coloque por cima do alface",
+      "pique o tomate sem semente e coloque por cima da cenoura",
+      "molho para colocar por cima",
+      "misture o creme de leite com soro com a maionese e o restante dos ingredientes e coloque por cima dos tomates",
+      "finalizando com a batata palha"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROSSANA SCHNEIDER ROLLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308352-salada-facil-em-camadas.html"
+}

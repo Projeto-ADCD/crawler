@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CARNE DE PANELA NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de Carne (músculo, paleta, etc) em pedaços",
+      "3 batatas",
+      "15 g de sal",
+      "4 dentes de alho ",
+      "colorau a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho (4 dentes picados ou triturados) com óleo ou banha.",
+      "Assim que começar a dourar o alho, acrescente o colorífico (colorau) e os pedaços de carne.",
+      "Frite um pouco mexendo a carne até que doure por todos os lados e acrescente 15 g de sal por kg de carne.",
+      "Caso o peso de carne seja maior, acrescente de forma proporcional.",
+      "Obs: Uma balança pequena ajuda",
+      "Acrescente de água até 1,5 dedo antes de cobrir a carne (obs: a água não deve cobrir a carne).",
+      "Deixe na pressão por 15 minutos.",
+      "Desligue o fogo e acrescente as 3 batatas picadas e retorne à panela de pressão por mais 12 minutos (na pressão).",
+      "Após os 12 minutos de pressão, deixe a pressão sair sozinha.",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "WILLIAN MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308254-carne-de-panela-na-pressao.html"
+}

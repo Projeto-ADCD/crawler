@@ -1,0 +1,44 @@
+{
+  "nome_receita": "COPO DA FELICIDADE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado (395 g cada)",
+      "4 colheres (sopa) de amido de milho",
+      "300 ml de leite",
+      "1 creme de leite (200 g)",
+      "150 g de chocolate meio amargo derretido",
+      "150 g de chocolate branco derretido",
+      "1/2 pacote de biscoito recheado picado",
+      "4 bombons picados",
+      "6 suspiros pequenos",
+      "granulados a gosto",
+      "1 bolinho de chocolate picado ",
+      "biscoitos para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite condensado e o amido de milho",
+      "Misture tudo muito bem e acrescente o leite, deixe em fogo médio",
+      "Após engrossar, desligue o fogo e adicione o creme de leite",
+      "Misture novamente até virar um creme bem homogêneo ",
+      "Divida a massa em dois recipientes separados",
+      "Em um deles, junte o chocolate meio amargo derretido e misture bem",
+      "No segundo, junte o chocolate branco e os biscoitos, mexa bem ",
+      "Tampe os dois com papel-filme e leve para gelar na geladeira "
+    ],
+    "MONTAGEM": [
+      "Separe em tigelas os morangos, oreo picados, os bombons idem picados, suspiros e granulados.",
+      "No primeiro copo, coloque o recheio de chocolate no fundo, os bombons picados, o recheio de biscoito, biscoito triturado, o recheio de chocolate novamente e finalize com granulado",
+      "No segundo copo, coloque o recheio com biscoito no fundo, o bolinho picado, o recheio de chocolate, morangos, o recheio de biscoito de novo e finalize com os suspiros ",
+      "No último, coloque o recheio de chocolate, os morango, o recheio de biscoito, biscoitos triturados, o recheio de chocolate e finalize com bombom."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode soltar a imaginação e experimentar novos ingredientes e montagens do copo da felicidade (ou pote da felicidade)! Para a receita de copo da felicidade não há regras!\nAgora que você sabe já como fazer copo da felicidade, veja também:\nQue tal fazer também um docinho? Confira essa deliciosa receita de docinho de leite ninho!\nConhece o cremosinho? Ele é um sacolé muito cremosoVeja também como fazer uma deliciosa receita de gelatina recheada!\nConfira nossa receita especial de milk shake de ovomaltine\nOvo de colher: veja essa receita perfeita para a Páscoa"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310023-copo-da-felicidade.html"
+}

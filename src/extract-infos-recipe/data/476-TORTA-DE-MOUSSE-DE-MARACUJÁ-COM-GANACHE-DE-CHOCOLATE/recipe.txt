@@ -1,0 +1,49 @@
+{
+  "nome_receita": "TORTA DE MOUSSE DE MARACUJÁ COM GANACHE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g biscoito de maisena",
+      "200 g margarina"
+    ],
+    "MOUSSE": [
+      "1 caixa de leite condensado 395 g",
+      "1 caixa de creme de Leite 200 g",
+      "1 1/2 xícara de suco concentrado de maracujá"
+    ],
+    "GANACHE": [
+      "300 g de chocolate barra, cacau 70%",
+      "1 caixa de creme de Leite 200 g"
+    ],
+    "CALDA DE MARACUJÁ": [
+      "1 maracujá azedo grande",
+      "1 xícara de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Triture os biscoitos no liquidificador até formar uma massa fina.",
+      "Em um recipiente, despeje o biscoito triturado e adicione a margarina aos poucos até obter uma consistência firme para moldar a massa na forma de torta (forma 30 cm de diâmetro).",
+      "Leve ao forno preaquecido a 230°C , por 10 min.",
+      "Retire do forno deixe esfriar e reserve."
+    ],
+    "MOUSSE DE MARACUJÁ (RECHEIO)": [
+      "Bata no liquidificador o Leite Condensado, o creme de leite e o maracujá concentrado até obter um creme consistente.",
+      "Despeje a mousse sobre a massa da torta deixando aproximadamente 1cm até a borda para a ganache de chocolate.",
+      "Leve ao refrigerador por uns 20 minutos até ficar bem consistente."
+    ],
+    "GANACHE DE CHOCOLATE": [
+      "Corte o chocolate em pedaços pequenos.",
+      "Derreta o chocolate em banho maria ou no microondas, adicione o creme de leite, misturando bem até ficar bem homogênea a mistura.",
+      "Leve ao refrigerador por uns 10 minutos. Após despeje sobre a mousse.",
+      "Retorne a torta ao refrigerador por uns 30 minutos."
+    ],
+    "CALDA DE MARACUJÁ": [
+      "Adicione a polpa do maracujá e o açúcar em uma panela. Em fogo baixo, mexendo sempre até o açúcar disolver e formar uma calda.",
+      "Após ferver deixe apurar e desligue o fogo. Deixe a calda esfriar e despeje sobre a ganache."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "FRANCISCO EDILSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312725-torta-de-mousse-de-maracuja-com-ganache-de-chocolate.html"
+}

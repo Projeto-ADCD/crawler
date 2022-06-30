@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÃO DE QUEIJO SEM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícara de água quente",
+      "1 colherr pequena de sal",
+      "500 g de polvilho azedo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Coloque em forminhas untadas com óleo",
+      "Leve ao forno a té dourar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "TATIELY HECK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307546-pao-de-queijo-sem-queijo.html"
+}

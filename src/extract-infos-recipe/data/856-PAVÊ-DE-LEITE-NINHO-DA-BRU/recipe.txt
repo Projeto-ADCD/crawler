@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PAVÊ DE LEITE NINHO DA BRU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "150 ml de leite",
+      "1 colher de manteiga",
+      "6 colheres de leite ninho",
+      "1 pacote biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicionei o leite condensado, creme de leite, leite, manteiga, e 3 colheres de leite em pó na panela e leve ao fogo.",
+      "Mexa até desgrudar da panela. Desligue o fogo adicione as outras 3 colheres de leite em pó e mexa até dissolver tudo.",
+      "Em um pirex adicione uma camada de biscoito de maisena molhado ao leite. Depois uma de creme e assim sucessivamente até a última camada ser de creme. Triture o biscoito de maisena no liquidificador e jogue em cima do creme. Depois só levar a geladeira e servir após estar gelado."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRUNA JUSTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311229-pave-de-leite-ninho-da-bru.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PUDIM DE PÃO COM BANANA E COCO NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pães amanhecidos picados",
+      "200 ml de leite",
+      "1 vidro de leite de coco",
+      "1 caixinha de leite condensado",
+      "1 banana",
+      "1 tampinha de essência de baunilha (opcional)",
+      "margarina ",
+      "coco ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador (menos o coco e a margarina)",
+      "Despeje a mistura em uma forma de pudim, própria para micro-ondas, untada com margarina.",
+      "Leve ao micro-ondas por 11 minutos.",
+      "Polvilhe o coco ralado"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RITA GONZALEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306942-pudim-de-pao-com-banana-e-coco-no-micro-ondas.html"
+}

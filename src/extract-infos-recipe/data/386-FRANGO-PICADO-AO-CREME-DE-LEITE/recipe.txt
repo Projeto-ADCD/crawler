@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FRANGO PICADO AO CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango grande",
+      "200 ml de creme de leite",
+      "2 ovos",
+      "2 batatas grandes",
+      "1 colher (sopa) de molho inglês",
+      "1 colher (sopa) de shoyu",
+      "1 colher (chá) de ervas-finas",
+      "1 colher (chá) de orégano",
+      "1 colher (chá) de curry",
+      "3 colheres (sopa) de azeite",
+      "30 g de queijo parmesão ralado",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em cubinhos.",
+      "Tempere o frango com sal, molho inglês, shoyu e pimenta. Misture tudo muito bem e leve ao refrigerador por uns 30 minutos.",
+      "Em uma tigela, coloque os ovos, o creme de leite, as ervas-finas, o orégano, o curry, uma pitada de sal e de pimenta. Misture tudo muito bem.",
+      "Descasque as batatas e corte-as em rodela finas. Coloque-as a cozinhar em água com sal e uma pitada de pimenta por uns 5 minutos.",
+      "Não deixe as batatas cozinhares demais, elas devem estar ainda cruas.",
+      "Unte um refratário médio com azeite e distribua os cubos de frango.",
+      "Regue os frangos com um fio de azeite.",
+      "Coloque por cima do frango os ovos batidos com o creme de leite.",
+      "Por cima de tudo, faça uma camada com a s batatas pré-cozidas.",
+      "Regue com azeite e polvilhe com o queijo ralado.",
+      "Leve ao forno pré-aquecido por uns 20 minutos ou até dourar as batatas.",
+      "Sirva em seguida acompanhado de uma boa salada verde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312976-frango-picado-ao-creme-de-leite.html"
+}

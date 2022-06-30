@@ -1,0 +1,51 @@
+{
+  "nome_receita": "PAVÊ DE VERÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o pavê",
+      "500 g de biscoitos champagne",
+      "Para o creme",
+      "1 lata de leite condensado",
+      "1 copo de leite",
+      "1 colher (sobremesa) de amido de milho",
+      "3 ovos",
+      "8 colheres (sopa) de achocolatado em pó",
+      "3 colheres (sopa) de açúcar",
+      "1 cálice pequeno de licor de cacau",
+      "1 colher (chá) de manteiga",
+      "Para o creme amarelo",
+      "3 ovos",
+      "1 colher (chá) de manteiga",
+      "1 pitada de vanilina em pó",
+      "Para a calda de chocolate",
+      "1 e 1/2 copo de água",
+      "3 colheres (sopa) de açúcar",
+      "1 lata de creme de leite gelado e sem soro",
+      "1 pitada de vanilina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda de chocolate",
+      "Misture a água, o açúcar, o achocolatado, a manteiga e leve ao fogo, deixando ferver até começar a engrossar.",
+      "Retire, junte o licor e deixe esfriar.",
+      "Creme amarelo",
+      "Misture o leite condensado com o leite, a maisena e as gemas dos ovos, passe pela peneira, junte a manteiga e a vanilina.",
+      "Leve ao fogo e mexa até engrossar e cozinhar.",
+      "Retire e bata até amornar.",
+      "Creme branco",
+      "Bata as claras dos ovos em neve, junte o açúcar (colher por colher) e bata até formar um suspiro bem consistente.",
+      "Acrescente o creme de leite e a vanilina e continue a bater até tomar consistência de poder espalhar.",
+      "Conserve na geladeira até o momento de utilizar.",
+      "Arrumação do pavê",
+      "Espalhe no fundo de um pirex retangular e grande um pouco de creme branco e, sobre este, arrume uma camada de biscoitos, passados ligeiramente pela calda de chocolate.",
+      "Espalhe sobre os biscoitos o creme amarelo e por cima deste uma camada dos biscoitos passados pela calda de chocolate.",
+      "Cubra tudo com o restante do creme branco e conserve na geladeira até o dia seguinte.",
+      "Sirva no próprio pirex."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308737-pave-de-verao.html"
+}

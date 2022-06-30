@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GELEIA DE JABUTICABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de jabuticaba",
+      "água",
+      "açúcar",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande, coloque as frutas e água ate cobrir elas.",
+      "Amasse algumas jabuticabas, para dar um sabor adicional.",
+      "Coloque o metade de um limão.",
+      "Espere evaporar um pouco a água.",
+      "Depois, coloque duas xícaras de chá de açúcar (ou mais).",
+      "Espere evaporar toda a água, até ficar consistente. Mexa a cada 15 minutos.",
+      "Passe a colher de pau no fundo, se aparecer o fundo por 1 segundo, pode tirar do fogo.",
+      "Espere esfriar e coloque numa vasilha.",
+      "Pronto, pode servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(obs: melhor servir gelada, muito boa com torrada)"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "GABRIEL_9624",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313030-geleia-de-jabuticaba.html"
+}

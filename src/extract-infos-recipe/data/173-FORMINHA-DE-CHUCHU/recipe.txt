@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FORMINHA DE CHUCHU",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio:",
+      "1 cebola média picada",
+      "2 dentes de alho amassados",
+      "1 colher (sopa) de azeite de oliva",
+      "1 chuchu grande sem casca ralado no ralo grosso",
+      "2 colheres (sopa) de purê de tomate",
+      "1/2 xícara (chá) de água",
+      "1 colher (sopa) cheia de farinha de trigo",
+      "5 colheres (sopa) de leite de coco",
+      "2 colheres (sopa) de salsinha e cebolinha bem picadas",
+      "Cobertura:",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "3 colheres (sopa) de farinha de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o azeite, a cebola pica e o alho picado e refogue por uns minutos.",
+      "Acrescente o chuchu ralado, o purê de tomate e a água e deixe cozinhar.",
+      "Quando o chuchu estiver cozido, adicione a farinha de trigo dissolvida no leite de coco e o tempero verde.",
+      "Misture tudo muito bem.",
+      "A mistura deverá ficar consistente e não aguada.",
+      "Se necessário acrescente mais farinha dissolvida em leite de coco.",
+      "Distribua a mistura em forminhas refratárias untadas com manteiga.",
+      "Misture o queijo parmesão ralado e a farinha de rosca e distribua por cima do recheio.",
+      "Leve ao forno, preaquecido a 200ºC, por uns 10 minutos ou até dourar.",
+      "Sirva como entrada ou acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314088-forminha-de-chuchu.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SAGU DE VINHO SOLTINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de sagu (meio pacote)",
+      "750 ml de vinho tinto suave (1 garrafa)",
+      "1 xícara de açúcar",
+      "250 ml de água para mistura",
+      "água para molho e fervura a vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente com água, coloque o sagu de molho por aproximadamente 30 minutos. A água deve cobrir bem o sagu para que ele absorva e cresça.",
+      "Escorra toda a água do molho e coloque as bolinhas do sagu em uma panela com água fria para ferver. Pode colocar bastante água.",
+      "Deixe ferver por aproximadamente 30 minutos, sempre mexendo para não grudar no fundo e baixando o fogo assim que iniciar a fervura.",
+      "Escorra a água da fervura e lave o sagu em água fria para remover toda a goma. Deixe escorrendo enquanto prepara a mistura.",
+      "Em uma panela coloque o vinho, o açúcar e 250ml de agua. Ferva de 2 a 5 minutos para tirar o álcool e depois acrescente as bolinhas do sagu.",
+      "Deixe ferver por mais uns 10 ou 15 minutos, sempre mexendo para não grudar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JUCEMARA DE FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312700-sagu-de-vinho-soltinho.html"
+}

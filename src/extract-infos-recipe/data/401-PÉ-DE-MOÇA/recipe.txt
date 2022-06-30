@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÉ DE MOÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de amendoim torrado e sem casca",
+      "1 caixa de leite condensado",
+      "1 xícara de açúcar",
+      "2 colheres (sopa) de margarina",
+      "açúcar refinado à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o amendoim, o açúcar e a margarina.",
+      "Leve ao fogo baixo e mexa sem parar, até formar um caramelo.",
+      "Em seguida, adicione o leite condensado e continue mexendo até engrossar e soltar do fundo da panela, igual um brigadeiro.",
+      "Desligue o fogo e transfira o doce para uma forma untada e forrada com papel manteiga.",
+      "Espalhe e aguarde esfriar completamente (fora da geladeira).",
+      "Desenforme e corte no formato que desejar",
+      "Passe no açúcar refinado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312937-pe-de-moca.html"
+}

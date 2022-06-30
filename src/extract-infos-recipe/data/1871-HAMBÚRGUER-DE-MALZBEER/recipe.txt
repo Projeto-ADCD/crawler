@@ -1,0 +1,27 @@
+{
+  "nome_receita": "HAMBÚRGUER DE MALZBEER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola",
+      "400 g carne moída",
+      "1 colher (sopa) de molho inglês",
+      "1 colher (sopa) de mostarda",
+      "1 fatia de pão de forma ou 1/2 pãozinho francês",
+      "1 ovo",
+      "200 ml de malzbeer ",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale a cebola, molhe o pão na cerveja e coloque em uma tigela.",
+      "Acrescente a carne, o molho inglês, a mostarda, o ovo, sal e pimenta.",
+      "Misture tudo e verifique a consistência.",
+      "Faça os hambúrgueres e grelhe na chapa dos dois lados"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GUSTAVO FORSTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306576-hamburguer-de-malzbeer.html"
+}

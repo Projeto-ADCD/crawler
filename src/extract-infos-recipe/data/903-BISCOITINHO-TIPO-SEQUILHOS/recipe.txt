@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BISCOITINHO TIPO SEQUILHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de amido de milho ",
+      "1/2 caixinha de leite condensado",
+      "100 g de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com uma colher ",
+      "Quando não conseguir mexer mais, termine de misturar com as mãos. O ponto é uma massa lisinha",
+      "Após abra a massa e com um cortador de biscoito corte.",
+      "Coloque um forma untada com manteiga e asse a 180° C por 10 minutos.",
+      "Ficam douradinho por baixo e branquinho por cima. Espere esfriar para servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "CAROL MALTEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310968-biscoitinho-tipo-sequilhos.html"
+}

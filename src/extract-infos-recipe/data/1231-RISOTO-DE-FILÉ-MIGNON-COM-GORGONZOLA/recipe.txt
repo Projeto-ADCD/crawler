@@ -1,0 +1,48 @@
+{
+  "nome_receita": "RISOTO DE FILÉ MIGNON COM GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé mignon ",
+      "especiarias/tempero natural a gosto (folhinhas secas como orégano, salsinha, ervas finas, etc)",
+      "molho shoyu a gosto ",
+      "1 cebola grande ",
+      "alho a gosto (opcional)",
+      "azeite a gosto ",
+      "2 xícaras de arroz arbóreo sem lavar (próprio para risoto)",
+      "1 xícara de vinho tinto ",
+      "8 xícaras de água quente ",
+      "açafrão ou cúrcuma a gosto (uma pitada generosa pra dar sabor e cor)",
+      "queijo gorgonzola a gosto",
+      "requeijão a gosto ",
+      "sal a gosto ",
+      "1 vidro de champignon fatiado (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o filé mignon em tiras.",
+      "Tempere as tiras de filés com as especiarias, o shoyu e 1/2 cebola picada ou ralada",
+      "Deixe descansar uns 30 minutos antes do preparo.",
+      "Ferva a água numa leiteira e desligue quando tiver borbulhando.",
+      "Em uma panela grande coloque o azeite e deixe aquecer.",
+      "Acrescente a outra metade da cebola e deixe refogar.",
+      "Acrescente o alho amassado e deixe refogar.",
+      "Coloque a carne pra fritar até ficar com “borrinha”na panela.",
+      "Tire a carne frita da panela e reserve (eu desligo o fogo pra não queimar e amargar a “borrinha” na panela que será usada pra fritar o arroz).",
+      "Acenda o fogo novamente, coloque um pouco de azeite pra fritar o arroz arbóreo sem lavar.",
+      "Com o arroz frito (não queimado) acrescente o vinho tinto e deixe reduzir até quase secar, pra evaporar o álcool.",
+      "Acrescente água aos poucos, na primeira pingada de água acrescente o açafrão, vá mexendo e colocando água até que o arroz esteja cozido, mexendo sempre.",
+      "Quando o arroz estiver “Al dente” acrescente o gorgonzola e requeijão, verifique o sal e acrescente se necessário.",
+      "Desligue a panela com um pouco de caldo no ponto “molhadinho” (o arroz ainda vai apurar e “chupar” o caldo).",
+      "Se quiser, coloque 1 colher de manteiga pra dar viscosidade.",
+      "Sirva com queijo ralado e azeite."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A proporção para cada xícara de arroz é de 1/2 xícara de vinho.\nA proporção para cada xícara de arroz é de 4 xícaras de água.\nRendimento: 5 porções (se precisar de mais, é só aumentar as quantidades acima)."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SIMONE ARRUDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309301-risoto-de-file-mignon-com-gorgonzola.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "EMPADA DOCE FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/3 de xícara de margarina sem sal",
+      "1 xícara de farinha de trigo",
+      "1 ovo",
+      "2 colheres (sopa) de açúcar",
+      "sal",
+      "1 lata de leite condensado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma vasilha os ingredientes (use uma pitada de sal e apenas a gema do ovo) da massa e misture bem.",
+      "Molde a massa em forminha para empadas.",
+      "Coloque dentro o leite condensado até a metade para não trasbordar.",
+      "Asse em formo médio aproximadamente 30 minutos, ou até dourar a massinha."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "ANNA VICTORIA REIS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307488-empada-doce-facil-e-rapido.html"
+}

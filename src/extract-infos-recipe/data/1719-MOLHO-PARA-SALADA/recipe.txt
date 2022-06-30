@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO PARA SALADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão cravo",
+      "2 colheres (sopa) de mostarda",
+      "150 ml de azeite",
+      "1 pitada de ajinomoto",
+      "1 pitada de sal",
+      "1 pitada de lemon pepper",
+      "1 pitada de chimichurri"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAROLINA CROCHI MENOCCI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307028-molho-para-salada.html"
+}

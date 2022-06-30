@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CALDA DE CHOCOLATE SEM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de chocolate em pó",
+      "1 xícara de leite",
+      "3 colheres (sopa) de margarina/manteiga",
+      "3 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela, coloque o açúcar, o achocolatado em pó e a manteiga",
+      "Misture rapidamente e logo em seguida adicione o leite",
+      "Vá mexendo com uma colher de pau em fogo médio por cerca de 25 ou 30 minutos até a mistura dar liga e adquirir uma consistência cremosa.",
+      "A paciência vai ser sua grande aliada nessa hora, e te garantimos: vale a pena",
+      "Assim que chegar nesse ponto, desligue e deixe o brigadeiro esfriar durante 10 minutos.",
+      "Após esse tempo, o brigadeiro está pronto para rechear o bolo"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAFAEL GUILHERME",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307249-calda-de-chocolate-sem-leite-condensado.html"
+}

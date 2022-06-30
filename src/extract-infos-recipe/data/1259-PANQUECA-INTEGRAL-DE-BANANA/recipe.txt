@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PANQUECA INTEGRAL DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas nanicas maduras",
+      "2 ovos",
+      "4 colheres (sopa) de farinha de trigo integral",
+      "1 colher (sopa) de cacau em pó 100%"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem as bananas",
+      "Adicione os ovos, a farinha e o cacau em pó e misture bem",
+      "Em uma frigideira antiaderente coloque uma concha pequena da massa e deixe cozinhar bem dos dois lados (até dourar)."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "@GABRIELAMARCELINO.NUTRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309213-panqueca-integral-de-banana.html"
+}

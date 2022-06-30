@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CUPCAKES DE MAÇÃ COM CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de farinha de trigo com fermento",
+      "100 g de açúcar refinado",
+      "100 g de manteiga",
+      "1 colher (chá) de canela em pó (opcional)",
+      "2 ovos",
+      "2 maçãs sem sementes ,cortadas em pequenos pedaços"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 190° C",
+      "Com uma colher de pau , misture a farinha , o açúcar refinado , a manteiga e a canela (canela opcinal). No centro da mistura , faça um furo e quebre os ovos .",
+      "Bata a mistura até que fique homogênea. Depois acrescente os pedaços de maçã (pedaços de maçã opcional).",
+      "Distribua igualmente a mistura nas formas",
+      "Leve os cupcakes ao forno por 15 minutos. Assim que a massa dourar e crescer , retire os do forno e deixe esfriar.",
+      "Deu agora seus cupcakes estão prontos, eu recomendo fazer um brigadeiro para a cobertura , eles ficam uma delicia ."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use 12 forminhas para cupcakes ,se quiser verdes ou vermelhas"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "AMANDA WANHEINBURG DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308569-cupcakes-de-maca-com-canela.html"
+}

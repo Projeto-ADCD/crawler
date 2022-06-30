@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SUFLÊ DE BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacon ",
+      "300 g de brócolis ",
+      "3 dentes de alho ralado",
+      "2 ovos inteiros",
+      "1 creme de leite de 200 g",
+      "3 colheres (sopa) de requeijão",
+      "200 g de queijo mussarela ralado",
+      "100 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o bacon picado, o brócolis picado e o alho, deixe em fogo baixo por 10 minutos (se necessário mexa aos poucos).",
+      "Em um refratário (que possa ir ao forno) misture os ovos, o creme de leite e o requeijão, até ficar tudo misturado.",
+      "Depois coloque a mistura do bacon com o brócolis em cima, em seguida salpique o queijo mussarela ralado e por final salpique o queijo parmesão ralado.",
+      "Leve ao forno aquecido, deixe por 30 minutos a 180º C."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MELISSA LANDINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309357-sufle-de-brocolis.html"
+}

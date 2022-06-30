@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PEITO DE FRANGO GRATINADO COM GORGONZOLA E AMEIXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango descongelado ",
+      "100ml de Azeite de Oliva Gallo Tipo Único",
+      "300 g de gorgonzola ",
+      "300 g de ameixa sem caroço ",
+      "700 ml de creme de leite fresco ",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com pimenta e sal.",
+      "Em uma frigideira coloque um fio de Azeite de Oliva Gallo Tipo Único e sele o frango e coloque em um refratário que vá ao forno.",
+      "Na mesma frigideira que selou o frango refogue a ameixa e coloque sobre o frango.",
+      "Coloque o restante do azeite na frigideira e logo em seguida o gorgonzola e o creme de leite fresco até o gorgonzola derreter.",
+      "Despeje o molho de gorgonzola sobre o frango e leve ao forno por 30 minutos a 200 graus."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GALLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310437-peito-de-frango-gratinado-com-gorgonzola-e-ameixa.html"
+}

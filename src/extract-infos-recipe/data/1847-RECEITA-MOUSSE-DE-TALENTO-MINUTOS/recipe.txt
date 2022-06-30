@@ -1,0 +1,24 @@
+{
+  "nome_receita": "RECEITA MOUSSE DE TALENTO 30 MINUTOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 barras de chocolate talento vermelho e verde",
+      "1 barra de chocolate meio amargo",
+      "1 lata de creme de leite",
+      "3 claras em neve",
+      "4 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta as barras de chocolate em banho-maria",
+      "Bata as claras em neve e misture com o açúcar",
+      "Misture também os outros ingredientes",
+      "Coloque na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOANA PETTERSEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306623-receita-mousse-de-talento-30-minutos.html"
+}

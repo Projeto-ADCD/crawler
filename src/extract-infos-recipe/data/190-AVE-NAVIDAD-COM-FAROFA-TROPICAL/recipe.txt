@@ -1,0 +1,58 @@
+{
+  "nome_receita": "AVE NAVIDAD COM FAROFA TROPICAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de mandioca",
+      "500 g de Linguiça de Frango Defumada Copacol",
+      "300 g de manteiga sem sal",
+      "4 colheres (sopa) de azeite de oliva",
+      "1 lata abacaxi em conserva",
+      "3 dentes de alho",
+      "1 cebola roxa",
+      "1 xícara de Ervilha Copacol",
+      "sal e pimenta a gosto",
+      "1 xícara de cebolinha verde"
+    ],
+    "AVE": [
+      "1 Ave Navidad Copacol",
+      "1 tablete de manteiga (200 g)",
+      "suco de 1 laranja grande",
+      "2 colheres (sopa) de tomilho"
+    ],
+    "DECORAÇÃO": [
+      "1 lata abacaxi em conserva",
+      "2 laranjas de umbigo",
+      "8 galhos de alecrim",
+      "8 galhos de sálvia"
+    ]
+  },
+  "passos": {
+    "FAROFA": [
+      "Leve uma panela grande ao fogo médio, adicione o azeite e doure as linguiças de frango cortadas, após adicione a cebola roxa e o alho até dourar.",
+      "Coloque o abacaxi picado, sem a calda, e deixe-o pegar cor, após coloque as ervilhas. Agora adicione a manteiga e assim que ela derreter, adicione 1/3 da farinha de mandioca.",
+      "Siga mexendo o tempo todo para dourar a farinha por inteiro e cuide para não deixar queimar. Reduza o fogo se necessário.",
+      "Adicione mais 1/3 da farinha e siga mexendo, para dourar. Por fim, adicione o restante da farinha e mexa até ficar bem incorporada e dourada.",
+      "Desligue o fogo, adicione a cebolinha verde, tempere com sal e pimenta. Prove e ajuste o sal se necessário. Reserve. Preaqueça o forno à 160º C."
+    ],
+    "PREPARANDO A AVE": [
+      "Recheie a Ave Navidad Copacol com a farofa que acabamos de fazer, até que esteja bem cheia, feche a ave com a pele, cruzando as coxas e amarrando com um barbante para que o recheio não escape.",
+      "Coloque a ave em uma assadeira com grade, reserve."
+    ],
+    "PARA ASSAR": [
+      "Em um bowl coloque a manteiga derretida e o suco da laranja, tempere com sal, pimenta e o tomilho.",
+      "Misture tudo e com um pincel de silicone, pincele toda a ave, em especial as dobras e laterais, cubra a ave com papel alumínio. Leve ao forno para assar a 160º C por 2 horas.",
+      "Retire a ave do forno, retire e descarte o papel-alumínio, pincele novamente a ave com a mistura de manteiga, leve a ave de volta para o forno e suba a temperatura para 180º C.",
+      "Asse por 15 minutos. Retire do forno e novamente pincele a ave com a mistura de manteiga. Retorne para o forno por mais 15 minutos ou até a ave estar dourada e bonita.",
+      "Retire do forno e deixe a ave esfriar por 20 minutos na própria assadeira."
+    ],
+    "PARA DECORAR E SERVIR": [
+      "Transfira a ave para uma travessa. Decore com os galhos de alecrim e de sálvia, ao redor de toda a ave.",
+      "Por fim adicione os pedaços de abacaxi e as partes das laranjas. Sirva a farofa que sobrou do recheio em um recipiente, ao lado da ave.",
+      "Feliz Natal e Bom Apetite!"
+    ]
+  },
+  "tempo_de_preparo": "170 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COPACOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314032-ave-navidad-com-farofa-tropical.html"
+}

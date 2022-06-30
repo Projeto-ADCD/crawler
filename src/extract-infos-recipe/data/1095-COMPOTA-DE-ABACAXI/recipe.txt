@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COMPOTA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi grande e maduro",
+      "1 kg de açúcar",
+      "1 cálice de vinho branco",
+      "2 cravos-da-índia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o abacaxi, tire o miolo e corte em rodelas de meio centímetro.",
+      "Arrume em uma panela camadas alternadas de abacaxi e açúcar, deixe descansar por três horas.",
+      "Leve a panela ao fogo brando e deixe ferver até formar uma calda grossa e a fruta ficar bem macia e transparente.",
+      "Adicione o vinho e o cravo, ferva por dois ou três minutos, retire, deixe esfriar e ponha em compoteiras."
+    ]
+  },
+  "tempo_de_preparo": "210 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309945-compota-de-abacaxi.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLINHO DE MACAXEIRA NA FOLHA DA BANANEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de mandioca ralada ou batido no liquidificador",
+      "1 ovo",
+      "1/2 xícara de queijo de coalho picado",
+      "1 pitada de sal",
+      "6 colheres (sopa) de leite",
+      "1 colher (café) de fermento em pó",
+      "1 folha de bananeira",
+      "1 colher (sopa) de queijo ralado",
+      "1 colher (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue a folha de bananeira e recorte 10 quadrados de 16 cm. Faça também 10 tiras finas de 5cm de largura (para amarrar os pacotinhos).",
+      "Rapidamente, passe-as na água fervente e reserve.",
+      "Em uma tigela, misture todos os ingredientes.",
+      "Coloque cerca de 1 colher (sopa) de massa no centro do quadrado da folha de bananeira e cubra com 1 colher (chá) do queijo de coalho.",
+      "Dobre as extremidades e enrole como um charuto.",
+      "Amarre com um cordão e coloque na assadeira untada com margarina.",
+      "Asse no forno preaquecido na temperatura média por cerca de 35 minutos.",
+      "Sirva quente na folha de bananeira."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312311-bolinho-de-macaxeira-na-folha-da-bananeira.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA VEGANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite de soja",
+      "1 maçã",
+      "2 bananas médias",
+      "1 colher de linhaça",
+      "1 colher de chia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador",
+      "Misture tudo até todos os ingredientes triturarem",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JAQUELINE APARECIDA CAETANO MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306829-vitamina-vegana.html"
+}

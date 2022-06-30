@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ESFIHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 ml de leite morno",
+      "1 pacote de fermento biológico",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (sopa) de margarina ou manteiga",
+      "50 ml de óleo",
+      "500 g de farinha de trigo",
+      "recheio à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, misture todos os ingredientes exceto a farinha",
+      "Vá colocando a farinha aos poucos até que a massa fique desgrudando das mãos",
+      "Cubra e reserve por uns 15 minutos até a massa dobrar de tamanho",
+      "Unte uma forma com fubá",
+      "Faça pequenas bolinhas e coloque na forma",
+      "Cubra novamente, e aguarde uns 15 minutos",
+      "Abra as bolinhas com as mãos, de forma que no meio fique mais fundo que as laterais",
+      "Recheie a gosto",
+      "Leve ao forno médio por uns 20 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende de 12 a 15 unidades"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313065-esfiha.html"
+}

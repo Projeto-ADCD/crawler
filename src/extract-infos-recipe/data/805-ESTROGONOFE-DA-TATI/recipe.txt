@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ESTROGONOFE DA TATI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango cortados em cubos",
+      "1 dente de alho picado",
+      "sal, açafrão, pimenta e cominho a gosto",
+      "1 cebola picada",
+      "1 tomate picado",
+      "1 copo de cogumelos",
+      "3 colheres (sopa) de extrato de tomate",
+      "3 colheres (sopa) de água",
+      "1/5 de copo de creme de leite",
+      "1 colher (sopa) de requeijão",
+      "5 fatias de queijo mussarela",
+      "salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, doure, o alho, o tomate e a cebola.",
+      "Junte o frango temperado (com sal, açafrão, pimenta e cominho a gosto) até que esteja dourado.",
+      "Adicione o extrato de tomate e as colheres de água. Deixe cozinhar por um minuto e logo em seguida adicione o 1/5 copo de creme de leite e a colher de sopa de requeijão.",
+      "Cozinhe por uns 2 minutos, sempre mexendo. Observação: Adicione água , conforme sua preferência pela consistência do molho.",
+      "Adicione o copo de cogumelo, salsinha a gosto e as fatias de queijo.",
+      "Assim que derretido o queijo por completo, sirva com arroz e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TATIANE ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311497-estrogonofe-da-tati.html"
+}

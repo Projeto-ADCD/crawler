@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREPIOCA DO ALISSU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de tapioca",
+      "2 ovos",
+      "1 colher (chá) de requeijão",
+      "azeite a gosto ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos e acrescente os demais ingredientes",
+      "Em uma frigideira untada com azeite somente para não grudar",
+      "Coloque a massa e doure dos dois lados."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALISSON ARCANJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306620-crepioca-do-alissu.html"
+}

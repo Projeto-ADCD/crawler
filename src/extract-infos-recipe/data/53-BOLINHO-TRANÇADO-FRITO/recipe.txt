@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO TRANÇADO FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "5 xícaras (chá) de farinha de trigo (aproximadamente)",
+      "1 xícara (chá) de leite",
+      "1 xícara (chá) de açúcar refinado",
+      "1 colher (sopa) de vinagre",
+      "1 colher (sopa) fermento em pó",
+      "1 pitada de sal",
+      "Canela e açúcar a gosto, para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, adicione os ovos, leite, açúcar, vinagre, fermento e o sal e misture.",
+      "Vá adicionando a farinha de trigo aos poucos e misture até formar uma massa consistente e que não grude muito nas mãos, similar a uma massa de biscoito.",
+      "Pegue peguenas porções e dê sua forma de preferência ao bolinho - eu passo entre as mãos formando \"cobrinhas\" e tranço as pontas, mas se preferir pode separar em bolinhas, palitos, tranças, etc.",
+      "Frite em óleo quente, em fogo médio, ate dourar.",
+      "Após dourar, retire com a escumadeira e coloque em papel toalha.",
+      "Polvilhe com açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "NATALIA ALENCAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314672-bolinho-trancado-frito.html"
+}

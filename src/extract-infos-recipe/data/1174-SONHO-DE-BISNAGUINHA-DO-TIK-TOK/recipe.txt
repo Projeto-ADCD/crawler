@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SONHO DE BISNAGUINHA DO TIK TOK",
+  "ingredientes": {
+    "DEFAULT": [
+      "bisnaguinhas",
+      "óleo"
+    ],
+    "RECHEIO": [
+      "100 g de açúcar",
+      "2 ovos inteiros",
+      "4 gemas",
+      "40 g maisena",
+      "1 colher (chá) de essência de baunilha",
+      "480 ml de leite"
+    ],
+    "PARA POLVILHAR": [
+      "açúcar a gosto",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo médio, frete as bisnaguinhas.",
+      "Enquanto ainda estiverem quentes, corte ao meio e polvilhem com a mistura de açúcar e canela. Reserve."
+    ],
+    "RECHEIO": [
+      "Misture em uma tigela o açúcar, os ovos, as gemas, a maisena e a baunilha. Reserve.",
+      "Aqueça o leite em uma panela média, espere ferver e despeje sobre a mistura dos ovos inteiros.",
+      "Mexa com um batedor até formar um creme liso, volte para a panela e mexa mais até ferver e engrossar.",
+      "Passe para uma tigela, cubra com filme plástico bem rente e aguarde esfriar.",
+      "Recheie as bisnaguinhas com o creme e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode variar o recheio usando doce de leite pronto, ou uma lata de leite condensado cozida em panela de pressão. Use a sua criatividade!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309494-sonho-de-bisnaguinha-do-tik-tok.html"
+}

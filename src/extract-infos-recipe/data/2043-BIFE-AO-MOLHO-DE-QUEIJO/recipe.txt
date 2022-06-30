@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BIFE AO MOLHO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 bifes de sua preferência temperados com sal a gosto",
+      "2 colheres de maionese",
+      "cerca de 4 xícaras de leite",
+      "queijo parmesão cortado em cubos (150 g)",
+      "1 dente de alho fatiado",
+      "1 colher de trigo",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bote meia colher de azeite em uma panela e depois frite o alho até dourar",
+      "Junte a maionese e 2 xícaras de leite",
+      "Quando subir fervura, bote os cubos de queijo e as duas xícaras restantes de leite, tempere a gosto com sal",
+      "Prepare o roux, botando 1 colher de manteiga em uma panela e adicionando o trigo quando a manteiga derreter por completo, mexa até o trigo cozinhar",
+      "Junte o roux no molho e mexa para não empelotar, caso empelote bata no liquidificador;",
+      "Frite os bifes e ponha numa travessa, espalhe bem o molho nos bifes, rale queijo por cima, coloque no forno por 25 minutos ou até gratinar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "EVELLYN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306133-bife-ao-molho-de-queijo.html"
+}

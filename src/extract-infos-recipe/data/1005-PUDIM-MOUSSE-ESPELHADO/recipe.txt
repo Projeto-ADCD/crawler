@@ -1,0 +1,47 @@
+{
+  "nome_receita": "PUDIM MOUSSE ESPELHADO",
+  "ingredientes": {
+    "PUDIM": [
+      "400 ml de leite ",
+      "400 g de leite condensado ",
+      "10 gemas",
+      "400 ml de suco concentrado de maracujá ",
+      "1 envelope de gelatina sem sabor e incolor ",
+      "5 colheres (sopa) de água fria "
+    ],
+    "CALDA ": [
+      "360 ml de água ",
+      "300 g de açúcar",
+      "300 g de glucose de milho ",
+      "5 colheres (sopa) de água ",
+      "300 g de leite condensado ",
+      "1 envelope de gelatina sem sabor e incolor ",
+      "5 colheres (sopa) de água fria ",
+      "500 g de chocolate branco derretido ",
+      "corante alimentício amarelo a gosto "
+    ]
+  },
+  "passos": {
+    "PUDIM ": [
+      "Junte o leite e o leite condensado em uma panela ",
+      "Mexa e junte as gemas",
+      "Mexa bem novamente e espere ferver",
+      "Junte o suco de maracujá, mexa e junte a mistura da gelatina com a água ",
+      "Mexa tudo muito bem e retire do fogo",
+      "Leve para uma forma e deixe no freezer por 6 horas"
+    ],
+    "CALDA": [
+      "Junte a água, o açúcar, metade da glucose de milho com a água, o leite condensado e o resto da glucose de milho em uma panela",
+      "Mexa muito bem e espere ferver",
+      "Desligue o fogo e junte a água fria com a gelatina",
+      "Junte o chocolate e o corante amarelo ",
+      "Misture muito bem, se precisar, use um mixer",
+      "Desenforme o pudim e, com a ajuda de uma grade, despeje a calda por cima do pudim",
+      "Leve à geladeira por uma hora e sirva o seu pudim! "
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310515-pudim-mousse-espelhado.html"
+}

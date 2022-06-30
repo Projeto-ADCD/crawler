@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE BANANA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas (prata ou maçã)",
+      "2 colheres de aveia em flocos",
+      "1 colher de linhaça",
+      "2 colheres de leite ninho",
+      "2 xícaras de leite",
+      "mel a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador (use o leite gelado)",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "DANIELY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306401-vitamina-de-banana-com-aveia.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TOMATE SECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates médios (frescos e maduros)",
+      "4 dentes de alho",
+      "azeite de oliva",
+      "sal a gosto",
+      "1/2 xícara de açúcar",
+      "temperos a gosto (usei chimichurri, orégano e cominho)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro corte os tomates em rodelas, uma espessura de mais ou menos 8 mm, posicione eles em uma forma e reserve",
+      "Salpique umas duas pitadas de sal nos tomates, depois pegue o açúcar e com o auxilio de uma colher o espalhe igualmente em cima dos tomates, se tiver dificuldades em espalhar coloque o açúcar em uma peneira e polvilhe em cima dos tomates",
+      "Coloque os temperos a gosto, ligue o forno a 200° C, coloque a sua forma com os tomates dentro do forno,",
+      "Depois que o tomate estiver caramelizado tire do forno e espalhe o azeite por todos os tomates, coloque o alho picado ou triturado por todos os tomates, leve novamente ao forno,",
+      "Retire do forno apenas quando o azeite já estiver borbulhando e não tenha mais liquido na forma, tire os tomates da forma e os coloque em um pote de vidro pra ficar bem conservado, armazene na geladeira depois de esfriar",
+      "Ótima opção para colocar em tortas salgadas entre outros"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "AMANDA RICARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311837-tomate-seco.html"
+}

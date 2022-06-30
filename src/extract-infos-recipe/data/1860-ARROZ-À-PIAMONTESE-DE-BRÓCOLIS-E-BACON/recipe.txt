@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ À PIAMONTESE DE BRÓCOLIS E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de arroz ",
+      "100 g de brócolis ",
+      "100 g de bacon",
+      "1 caixa de creme de leite",
+      "50 g de queijo mussarela (ou queijo de sua preferência)",
+      "1 pacote de queijo parmesão ralado",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de cebola ",
+      "sal e ervas finas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, frite o bacon",
+      "Quando ja estiver bem frito, adicione a cebola picada e deixe dourar.",
+      "Cozinhe o brócolis cerca de 8 minutos em uma panela com água",
+      "Após cozido, pique em pedacinhos pequenos, retirando os talos.",
+      "Acrescente em uma panela a manteiga, o creme de leite e o queijo mussarela,",
+      "Leve fogo baixo por alguns minutos até o queijo derreter.",
+      "Mexa bastante para não agarrar no fundo",
+      "Acrescente no molho o bacon e o brócolis e misture em fogo desligado.",
+      "Em um refratário adicione o arroz já cozido e coloque sobre ele o molho.",
+      "Misture com a ajuda de uma colher e acrescente o queijo parmesão ralado por cima.",
+      "Leve ao forno 180° C por cerca de 10 minutos para o queijo dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306602-arroz-a-piamontese-de-brocolis-e-bacon.html"
+}

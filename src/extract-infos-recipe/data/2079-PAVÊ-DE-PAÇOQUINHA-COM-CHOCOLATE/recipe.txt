@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PAVÊ DE PAÇOQUINHA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Pavê",
+      "1 caixa de leite condensado",
+      "300 ml de leite",
+      "1 colher (sopa) de amido de milho",
+      "6 paçoquinhas",
+      "1 caixa de creme de leite",
+      "biscoito maisena",
+      "Cobertura e Finalização",
+      "1 barra de chocolate meio amargo",
+      "1 caixa de creme de leite",
+      "2 paçoquinhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado na panela em fogo baixo, acrescente o leite, amido de milho e as paçoquinhas.",
+      "Misture bem até que o creme fique homogêneo e com consistência de brigadeiro.",
+      "Desligue o fogo e acrescente uma caixa de creme de leite, misturando tudo.",
+      "Em uma travessa média de vidro coloque um pouco do creme e cubra com biscoito molhado no leite.",
+      "Acrescente nova camada do creme e cubra novamente com biscoito molhado no leite.",
+      "Serão três camadas de creme e duas de biscoito.",
+      "Deixe esfriar na geladeira por 30 minutos. Após, derreta o chocolate meio amargo em banho-maria e misture uma caixa de creme de leite.",
+      "Coloque a cobertura de chocolate por cima do pavê já frio.",
+      "Deixe na geladeira por pelo menos uma hora antes de servir e finalize com paçoquinhas."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LAISSA MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306077-pave-de-pacoquinha-com-chocolate.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "QUEIJADINHA TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g coco ralado seco não adoçado",
+      "50 g queijo parmesão ralado",
+      "1 xícara de farinha de trigo",
+      "1 xícara de açúcar",
+      "3 colheres (sopa) de manteiga",
+      "3 ovos",
+      "100 ml de leite",
+      "1 colher (sopa) de fermento químico",
+      "cravo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos em neve e reserve.",
+      "Em uma vasilha grande, misture o coco ralado, o queijo parmesão, açúcar e farinha de trigo.",
+      "Adicione a manteiga e misture bem até incorporar toda a massa.",
+      "Acrescente as claras em neve.",
+      "Adicione a gema e misture bem.",
+      "Por último, acrescente o leite e misture bem até ficar homogênea.",
+      "Acrescente o fermento.",
+      "Unte as forminhas de empada e distribua a massa.",
+      "Coloque o cravo em cima e asse em forno preaquecido a 200° C por 20 minutos ou até ficar dourada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: coloque extrato de baunilha nas claras antes de bater e retire a pele da gema para evitar cheiro de ovo na massa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "CARINA ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307145-queijadinha-tradicional.html"
+}

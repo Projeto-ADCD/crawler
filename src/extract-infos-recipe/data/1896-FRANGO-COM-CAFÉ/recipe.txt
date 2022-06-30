@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FRANGO COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de frango",
+      "1 dente de alho",
+      "1 tomate ",
+      "1 cebola média",
+      "1 pimenta de cheiro",
+      "1/2 pimentão",
+      "2 batatas médias",
+      "1 cenoura média",
+      "1 colher (sopa) com vinagre",
+      "cheiro-verde a gosto",
+      "sal a gosto",
+      "corante a gosto",
+      "tempero seco a gosto",
+      "1 colher (sopa) de café"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela (coloque o tomate cortado em cubos)",
+      "Leve ao fogo e comece a refogar.",
+      "Refogue por 5 minutos, em seguida observe que o fundo da panela começou a criar água e o frango está em cozimento.",
+      "Acrescente 2 copos e 1/2 de água, misture mais uma vez e tampe a panela.",
+      "Aguarde o molho encorpar e diminuir.",
+      "Em mais ou menos 30 minutos isso acontece",
+      "Por último, coloque o cheiro-verde picado e tampe a panela novamente.",
+      "O vapor da mesma data o cozimento do cheiro e o sabor ao molho"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROSANA BEZERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306498-frango-com-cafe.html"
+}

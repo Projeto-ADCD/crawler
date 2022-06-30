@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ARROZ DOCE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz",
+      "4 xicaras de água",
+      "2 colheres (sopa) de margarina",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite sem soro",
+      "1 litro de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz com a água e a margarina, deixe até quase secar, mas que não grude no fundo da panela.",
+      "Enquanto o arroz cozinha, coloque o leite para ferver.",
+      "Assim que estiver fervido, despeja o arroz nele e a lata de leite condensado, experimente, e se não estiver doce ao seu paladar, coloca açúcar a gosto.",
+      "Mexa e fogo médio até engrossar, mas sem evaporar todo o leite.",
+      "Desligue o fogo, coloque o creme de leite e mexa até ficar homogêneo.",
+      "Pode polvilhar canela a gosto antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BARBARA CÂMARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307384-arroz-doce-simples.html"
+}

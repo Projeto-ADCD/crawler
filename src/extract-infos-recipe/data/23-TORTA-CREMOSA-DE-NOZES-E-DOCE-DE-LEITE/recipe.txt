@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA CREMOSA DE NOZES E DOCE DE LEITE",
+  "ingredientes": {
+    "MASSA ": [
+      "1 xícara e 1/2 de cream cheese ",
+      "1 xícara de açúcar",
+      "2 colheres (sopa) de suco de limão ",
+      "1 xícara de nata gelada ",
+      "1⁄2 pacote de biscoito tipo maisena ",
+      "1 xícara de leite ",
+      "1 colher (chá) de essência de baunilha ",
+      "1 colher (sopa) de margarina ",
+      " ½ xícara de nozes trituradas "
+    ],
+    "COBERTURA  ": [
+      "1 xícara de doce de leite",
+      "½ xícara de creme de leite em lata, sem soro",
+      "1/2 xícara de nozes em pedaços"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as natas com o cream cheese, a margarina, o açúcar e o limão. Por ultimo, adicione as nozes sem bater. Reserve. ",
+      "Em um refratário ou forma de bolo inglês de 15x30 cm forrada com plástico filme, espalhe no fundo os biscoitos embebidos no leite misturado com a baunilha. Adicione o creme por cima e vá intercalando, com camadas de biscoito até acabar.  ",
+      "Leve para gelar por, no mínimo, 1h.  ",
+      "Enquanto isso prepare a cobertura de doce de leite. Bata o doce de leite com o creme de leite gelado, sem soro, até formar um creme aerado. Reserve. ",
+      "Com a base de massa já gelada, cubra com o doce de leite e as nozes em pedaços. Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "190 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316137-torta-cremosa-de-nozes-e-doce-de-leite.html"
+}

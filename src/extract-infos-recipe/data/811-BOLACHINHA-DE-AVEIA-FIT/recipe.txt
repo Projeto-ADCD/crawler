@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLACHINHA DE AVEIA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xicaras de aveia em flocos",
+      "2 xicaras de farinha de aveia",
+      "uva passa a gosto",
+      "açucar mascavo a gosto",
+      "2 colheres de óleo de coco ou banha de porco até dar um ponto",
+      "1 colher (chá) de fermento quimico",
+      "canela a gosto em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, adicione os ovos e bata-o",
+      "Depois coloque todos os ingredientes no recipiente e misture, depois enrole da forma que você quiser",
+      "Leve ao forno em torno de 200° C",
+      "Depois só tirar do forno e detonar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATHALY GUIMARAES RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311474-bolachinha-de-aveia-fit.html"
+}

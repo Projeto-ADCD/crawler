@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOMBOM DE LEITE NINHO COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Brigadeiro de leite ninho",
+      "3 colheres (sopa) de leite ninho",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga ou margarina",
+      "Morangos",
+      "1 caixinha de morangos lavados e sem as folhinhas (não retire os cabinhos, pois soltará água)",
+      "Chocolate",
+      "200 g de chocolate ao leite derretido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes do brigadeiro em uma panela e mexa até dar o ponto de brigadeiro",
+      "Assim que começar a desgrudar da panela; quando der este ponto, mexa mais uns 3 minutos (precisamos que fique mais firme que um brigadeiro de colher)",
+      "Reserve e deixe esfriar completamente",
+      "Lave os morangos e seque com papel toalha",
+      "Em um recipiente de vidro, derreta o chocolate de 30 em 30 segundos, vá mexendo até ficar totalmente derretido",
+      "Pegue uma assadeira e unte com manteiga",
+      "Após o brigadeiro esfriar completamente é hora de enrolar.",
+      "Unte a mão com manteiga, pegue uma colherada e enrole, abra, coloque um morango no meio e enrole, coloque na assadeira untada",
+      "Faça isso com todos os morangos",
+      "Leve a assadeira com os bombons no freezer, por uns 3 minutos",
+      "Feito isso, é hora de banhá-los no chocolate",
+      "Coloque os bombons, um a um, no recipiente com o chocolate derretido, banhe completamente e coloque na assadeira novamente",
+      "Caso preferir, use um garfo para furar e colocá-lo no recipiente",
+      "Faça isso com todos os bombon",
+      "Leve a assadeira ao freezer por uns 3 minutos.",
+      "E prontinho, é só servir! "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306460-bombom-de-leite-ninho-com-morango.html"
+}

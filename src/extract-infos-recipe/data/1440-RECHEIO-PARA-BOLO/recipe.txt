@@ -1,0 +1,26 @@
+{
+  "nome_receita": "RECHEIO PARA BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 colher (sopa) de margarina ou manteiga sem sal",
+      "1 caixinha de gelatina (de sua preferência)",
+      "2 colheres (sopa) de água quente",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione a gelatina e a água quente",
+      "Misture bem para dissolver",
+      "Em seguida adicione a manteiga, o creme de leite e o leite condensado",
+      "Misture tudo muito bem e leve ao fogo baixo e mexa sem parar até desgrudar do fundo da panela",
+      "OBS: não deixe passar do ponto para não queimar e nem ficar em ponto de enrrolar"
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308332-recheio-para-bolo.html"
+}

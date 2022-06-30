@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DE ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de leite integral gelado",
+      "1 dente de alho",
+      "1/2 xícara de salsinha",
+      "1/2 xícara de cebolinha",
+      "sal a gosto",
+      "óleo vegetal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata por 1 minuto no liquidificador todos os ingredientes menos o óleo e o sal.",
+      "Com o liquidificador na velocidade média ou baixa vá adicionando óleo aos pouco",
+      "Despeje o óleo fio fino continuadamente até que líquido no liquidificador comece a ficar mais grosso.",
+      "Ache o ponto do seu gosto da maionese, quando ela começar a engrossar logo depois disso se você colocar mais óleo mais grossa ela fica , se colocar menos óleo mais rala a maionese fica, faça do seu gosto.",
+      "Lembrando o óleo sempre deve entrar no liquidificador em fio.",
+      "Depois de achar o seu ponto preferido é só adicionar sal ao seu gosto.",
+      "Você pode colocar o sal no liquidificador e bater ou pode despejar a maionese em uma vasilha por o sal e mexer com uma colher.",
+      "Tá pronto, só se deliciar com seus sanduíches.",
+      "Essa maionese tem validade de 3 dias e sempre mantendo na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RODRIGO LEÔNIDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306306-maionese-caseira-de-ervas.html"
+}

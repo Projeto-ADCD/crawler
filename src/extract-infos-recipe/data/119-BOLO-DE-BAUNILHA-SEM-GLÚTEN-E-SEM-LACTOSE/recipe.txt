@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BAUNILHA SEM GLÚTEN E SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de açúcar",
+      "2 xícaras de chá de farinha de arroz",
+      "1 xícara de chá de amido de milho",
+      "1/2 xícara de chá de óleo de soja",
+      "3 xícaras de chá de água morna",
+      "1 pitada de sal",
+      "1 colher de café de essência de baunilha",
+      "1 colher de chá de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte com óleo e farinha de arroz uma forma redonda de 26 cm de diâmetro e 5 cm de altura ou tabuleiro de 30 cm de comprimento , 20 cm de largura e 5 cm de altura.",
+      "Acenda o forno e deixe aquecer por 12 a 15 minutos dependendo do tempo (se inverno ou verão) a uma temperatura de 180°.",
+      "Bata todos os ingredientes no liquidificar começando pela água morna, ovos, óleo ,açúcar e a pitada de sal.",
+      "Acrescente a farinha de arroz e o amido de milho.",
+      "Por último a essência de baunilha e o fermento.",
+      "Coloque na assadeira já untada e leve ao forno por 15 minutos. Depois abra e veja se está assado.",
+      "Se quiser um pouco mais corado deixe mais 5 minutos.",
+      "Após confirmar se o bolo está assado, retire ou deixe no forno desligado para corar um pouco mais.",
+      "Desenforme frio."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARIA DA GRAÇA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314386-bolo-de-baunilha-sem-gluten-e-sem-lactose.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ARROZ CARRETEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de arroz",
+      "4 copos de água (reserve a água da carne-seca)",
+      "1/2 pimentão verde grande",
+      "1 xicará (chá) de milho com ervilha",
+      "2 ovos cozidos",
+      "400 g de carne seca",
+      "100 g de bacon fatiado",
+      "100 g de calabresa",
+      "1 tomate grande bem maduro",
+      "1 cebola grande",
+      "3 dentes de alho",
+      "pimenta calabresa",
+      "salsa",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a carne-seca em panela de pressão, retire, espera esfriar e desfie",
+      "Reserve a agua",
+      "Frite a linguiça e o bacon com cebola na manteiga com azeite até começar a queimar",
+      "Junte o alho, linguiça e pimentão picado. Use pouco óleo/manteiga já que a carne, bacon e a linguiça irão soltar óleo.",
+      "Adicione a carne desfiada e frite até começar a secar e o o arroz, fritando um pouco",
+      "Deixe tudo fritar bem, até começar a secar, adicione o arroz e frite mais um pouco.",
+      "Adicione água do cozimento da carne e completar com água fervente.",
+      "Adicione milho/ervilha",
+      "Misture bem, pois não poderá mexer no arroz depois disto",
+      "Espere ferver, cozinhe em fogo baixo até secar o arroz",
+      "Decore com salsinha e ovos antes de servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOSE BREDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309561-arroz-carreteiro.html"
+}

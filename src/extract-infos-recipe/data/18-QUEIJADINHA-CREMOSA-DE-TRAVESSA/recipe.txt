@@ -1,0 +1,23 @@
+{
+  "nome_receita": "QUEIJADINHA CREMOSA DE TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1⁄2 xícara de coco seco ralado",
+      "1⁄2 xícara de queijo parmesão ralado fino",
+      "3 gemas",
+      "1 colher (sopa) de Margarina Qualy"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture todos os ingredientes até obter uma massa uniforme.",
+      "Transfira a massa para um refratário e leve ao forno pré aquecido a 200° C por cerca de 20 minutos em banho maria (com água quente) até que a queijadinha esteja dourada por fora e cremosa no centro.",
+      "Sirva ainda morna."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316896-queijadinha-cremosa-de-travessa.html"
+}

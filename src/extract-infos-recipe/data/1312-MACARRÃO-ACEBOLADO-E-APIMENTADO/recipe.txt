@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO ACEBOLADO E APIMENTADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 rolinhos de macarrão talharim",
+      "sal a gosto",
+      "10 dentes de alho",
+      "1/2 colher (sopa) de manteiga",
+      "1 cebola",
+      "2 colheres (sopa) de molho de pimenta",
+      "400 ml de água",
+      "2 ovos (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione aproximadamente 300 ml de água (ou a quantidade necessária para que o macarrão fique levemente submerso), pique 4 dentes de alho, coloque meia colher de manteiga e, após a água atingir fervura, adicione o macarrão (quantidade de 4 rolinhos foi estimada para uma pessoa comer em 2 refeições).",
+      "No liquidificador, adicione 100 ml de água, 6 dentes de alho e uma cebola picada. Bata até obter um creme espumoso (caso prefira maior conteúdo de fibra, bata mais rápido) e reserve.",
+      "Quando o macarrão estiver quase cozido por completo, despeje a água dele dentro da pia e adicione o creme de cebola do liquidificador na panela. Adicione sal a gosto, coloque dois ovos em meio ao creme para serem cozidos no vapor (opcional) e deixe por mais 5 minutos no fogo até que o macarrão esteja na consistência desejada e os ovos estejam cozidos.",
+      "Ao desligar o fogo, adicione 2 colheres de sopa do molho de pimenta e misture.",
+      "O macarrão terá um sabor similar a alguns temperos de miojo apimentado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CÁSSIA LI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308956-macarrao-acebolado-e-apimentado.html"
+}

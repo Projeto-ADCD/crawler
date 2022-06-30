@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PASTEL DE FORNO COM RECHEIO DE SOJA",
+  "ingredientes": {
+    "MASSA": [
+      "4 xícaras (chá) de farinha de trigo",
+      "1/2 colher (sopa) de sal",
+      "1 colher (sopa) de fermento em pó",
+      "1 caixa de creme de leite",
+      "7 colheres (sopa) de margarina"
+    ],
+    "RECHEIO": [
+      "1 xícara (chá) de proteína de soja",
+      "2 dentes de alho amassados",
+      "1 cebola média picada",
+      "1 tomate médio picado",
+      "Pimentão opcional a gosto",
+      "1 cubo de caldo de galinha ou 1 sachê (sabor de sua preferência)",
+      "coentro à gosto",
+      "3 colheres (sopa) óleo",
+      "cominho e orégano a gosto (opcional)",
+      "azeitonas picadas (opcional)",
+      "1 copo de requeijão cremoso (opcional)",
+      "1 gema"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a proteína de soja e acrescente 3 xícaras de água e leve ao fogo por 3 min após a fervura.",
+      "Dica: para tirar o gosto forte da soja, deixe de molho por uns 20 min na água com vinagre",
+      "Depois de fervida, escorra e lave em água corrente, esprema bem para retirar o excesso de água.",
+      "Em outra panela aqueça o óleo e refogue a cebola, pimentão, alho, tomate e o caldo de galinha.",
+      "Acrescente a proteína de soja, azeitona, cominho e orégano.",
+      "Cozinhe por 5 min. Misture o tempero verde e o requeijão cremoso e reserve.",
+      "Misture em uma vasilha a farinha de trigo, o sal, o fermento. Acrescente o creme de leite e a margarina e amasse até obter uma massa que não grude na mão.",
+      "Abra a massa com um rolo e corte em círculos. Coloque o recheio e feche a massa, apertando as bordas com um garfo. Pincele com a gema e leve para assar em assadeira untada e enfarinhada, em forno pré aquecido à 180° C por 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PÂMMELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310698-pastel-de-forno-com-recheio-de-soja.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PASTA DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola ",
+      "6 colheres de maionese",
+      "1/2 xicara de salsinha e coentro",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Sirva com pães, torradinhas etc"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Coloque mais cebolas se quiser "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MELISSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307689-pasta-de-cebola.html"
+}

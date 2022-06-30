@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PENNE AL PECCINATTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande",
+      "1 dente de alho",
+      "1 tomate grande",
+      "1 pimentão vermelho sem as sementes (opcional)",
+      "azeite de oliva",
+      "molho de tomate de saquinho ou caixa",
+      "páprica doce",
+      "1 colher (chá) de mel ",
+      "molho inglês",
+      "pimenta-do-reino moída ou em pó (opcional)",
+      "sal",
+      "200 g de mussarela ",
+      "500 g de penne"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, corta todos os ingredientes sólidos em quadrados pequenos",
+      "Colque um fio de azeite em uma frigideira, e coloque a cebola e o alho picados para fritar com o azeite, vai adicionando um pouco de azeite para fritar melhor",
+      "Não pare de mexer e coloque o tomate e o pimentão, também picados, junto com a cebola e o alho, para fritar um pouco o pimentão",
+      "Acresecente uma colher (café) de sal, e junte o molho de tomate quando soltar um pouco a água do tomate",
+      "Depois que tudo estiver misturado, coloque uma colher (chá) de mel, uma colher (sopa) pequena de molho inglês, e uma colher (chá)de páprica doce,",
+      "Depois do molho pronto coloque a massa para cozinhar na água com uma colher (sopa) de sal dissolvida.",
+      "Quando a massa estiver ao dente, côe a massa e misture com o molho",
+      "Quando estiver tudo bem misturado, coloque o queijo por cima da massa e vai misturando até ficar derretido",
+      "Pronto! É só comer!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ÉRICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310813-penne-al-peccinatta.html"
+}

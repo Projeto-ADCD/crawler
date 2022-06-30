@@ -1,0 +1,39 @@
+{
+  "nome_receita": "LASANHA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de massa de lasanha",
+      "500 g carne moída temperada e refogada",
+      "250 ml molho de tomate pronto",
+      "2 dentes de alho",
+      "1 cebola média",
+      "400 g muçarela ralada ",
+      "pimenta a gosto ",
+      "manjericão a gosto",
+      "sal a gosto"
+    ],
+    "PARA EMPANAR": [
+      "farinha de trigo ",
+      "6 ovos ",
+      "farinha de rosca ",
+      "óleo para fritura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a carne moída refogada com o molho de tomate. Tome cuidado para não ficar muito líquido e reserve.",
+      "Depois, adicione o manjericão picado e a pimenta-do-reino.",
+      "Em um refratário de vidro, coloque uma camada do molho à bolonhesa, uma camada de massa e mais uma de molho. Por cima, coloque uma camada de massa e uma de mussarela ralada. Para finalizar, coloque a última camada de massa, um pouco do molho e um pouco de mussarela.",
+      "Asse a lasanha por 30 minutos no forno a 180 graus. Passado esse tempo, espere a lasanha esfriar um pouco, embrulhe com um plástico filme e coloque uma forma em cima para fazer pressão. Embrulhe as duas formas com mais plástico filme e coloque na geladeira durante uma hora.",
+      "Depois de fria, corte a lasanha em cubos. Empane os pedaços passando primeiro na farinha de trigo, depois no ovo e por último na farinha de rosca. ",
+      "Esquente o óleo sem deixar ferver e frite os pedaços de lasanha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser, experimente adicionar requeijão antes de empanar. Você também pode aproveitar essa deliciosa receita de lasanha empanada para fazer com outros recheios de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313477-lasanha-empanada.html"
+}

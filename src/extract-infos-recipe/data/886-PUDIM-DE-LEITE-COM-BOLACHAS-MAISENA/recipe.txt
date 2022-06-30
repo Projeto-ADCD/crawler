@@ -1,0 +1,44 @@
+{
+  "nome_receita": "PUDIM DE LEITE COM BOLACHAS MAISENA",
+  "ingredientes": {
+    "CARAMELO": [
+      "1 xícara (chá) de açúcar",
+      "1/2 xícara (chá) de água quente"
+    ],
+    "PUDIM": [
+      "3 ovos",
+      "1/2 xícara (chá) de açúcar",
+      "500 ml de leite",
+      "200 g de creme de leite",
+      "20 bolachas maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Essa receita vai ao forno em banho-maria.",
+      "Já preaqueça o forno a 250° C",
+      "São necessárias 2 formas, a de anel para o pudim, e uma outra maior para o banho-maria.",
+      "Pra adiantar, já coloquei água no forno, o suficiente para que chegue até quase a metade da forma de anel onde vai o pudim."
+    ],
+    "CALDA": [
+      "Coloque o açúcar para caramelizar em uma panela. Quando caramelizar coloque a água quente e espere reduzir um pouco.",
+      "Em seguida, coloque na forma de anel (22 cm diâmetro) e espalhe bem pela borda."
+    ],
+    "MASSA DO PUDIM": [
+      "No liquidificador, coloque todos os demais ingredientes: ovos, leite, creme de leite, açúcar e as bolachas (fui colocando elas aos poucos).",
+      "Bata bem, por cerca de 3 a 4 minutos. Não se assuste pois a massa fica bem líquida.",
+      "Transfira a massa para forma de anel e cubra com papel alumínio."
+    ],
+    "NO FORNO": [
+      "Leve ao forno, já pré-aquecido com o banho-maria e deixe cozinhar por 1 hora e 30 minutos",
+      "Ao final desse tempo, deixe esfriar e leve seu pudim pra geladeira.",
+      "Aqui em casa, abrimos o pudim no dia seguinte e transferimos para uma travessa de vidro com tampa.",
+      "Ele fica bem firme, saboroso e não muito doce. Foi o que mais me agradou, pois tenho diabetes.",
+      "Quem quiser e gostar dele mais doce, ao invés de 1/2 xícara de açúcar pode colocar uma xícara inteira ou mais."
+    ]
+  },
+  "tempo_de_preparo": "135 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ROGERIO MAZZARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311047-pudim-de-leite-com-bolachas-maisena.html"
+}

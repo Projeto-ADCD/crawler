@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA FEIJÃO CATADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de feijão catador",
+      "4 gomos de linguiça toscana picada sem a pele",
+      "1 calabresa picada sem a pele",
+      "200 g de torresmo",
+      "1 cebola picada",
+      "2 dentes de alho picado",
+      "1 cenoura ralada",
+      "1 e 1/2 xícara de farinha de mandioca fina (minha xícara é de 200 ml)",
+      "milho e ervilha a gosto",
+      "cebolinha e salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão em água e sal.",
+      "Quando estiver cozido escorra a água e reserve.",
+      "Em uma panela ao fogo refogue primeiro a linguiça toscana depois de refogado coloque a calabresa deixe dourar um pouco coloque o alho, a cenoura e o torresmo",
+      "Depois refogue por uns 3 minutos e acrescente a cebola milho e ervilha.",
+      "Desligue o fogo e acrescente a farinha de mandioca aos poucos e va mexendo até que se misture todos os ingredientes.",
+      "Arrume em uma travessa e coloque por último a salsicha e cebolinha"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(não é necessário por sal nesta receita pois tudo contém sal)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROSEMEIRE MACIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309696-farofa-feijao-catador.html"
+}

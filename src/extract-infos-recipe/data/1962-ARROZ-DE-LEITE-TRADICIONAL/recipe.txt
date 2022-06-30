@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ARROZ DE LEITE TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de arroz",
+      "3 xícaras de água",
+      "2 xícaras de açúcar",
+      "3 gemas",
+      "1 litro de leite",
+      "canela em pau e cravo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz na água até secar",
+      "Adicione o leite e as gemas batidas em gemada com 1 xícara de açúcar",
+      "Misture bem ao arroz com leite e depois acrescente a outra xícara de açúcar",
+      "Coloquei umas gotas de baunilha para tirar o gosto de ovo, canela em pau e cravo",
+      "Cozinhe até engrossar um pouco, não deixe secar muito, porque depois de gelado o arroz \"chupa\" o leite e pode ficar seco depois de gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "DÉBORA ANTUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306325-arroz-de-leite-tradicional.html"
+}

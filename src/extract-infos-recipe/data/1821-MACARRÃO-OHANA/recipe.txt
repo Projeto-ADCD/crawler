@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO OHANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 1/4 colheres (sopa) de amido de milho",
+      "2 xícaras de açúcar mascavo",
+      "1 3/4 xícaras de shoyu",
+      "1 1/4 colheres (sopa) de alho ",
+      "1 1/4 colheres (sopa) de gengibre fresco",
+      "4 colheres (sopa) de suco de abacaxi concentrado",
+      "Macarrão de Yakisoba",
+      "Acelga fatiada a gosto",
+      "Repolho verde e repolho roxo fatiado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva todos os ingredientes, menos o amido de milho e o suco de abacaxi, em um pote",
+      "Coloque essa mistura no fogo e espere ferver",
+      "Dissolva o amido de milho no suco de abacaxi e misture essa pasta lentamente à panela até engrossar",
+      "Deixe essa mistura cozinhar por 30 minutos e coe em uma peneira",
+      "Refogue rapidamente os repolhos e a acelga em uma panela grande, como a wok",
+      "Junte nessa panela o molho de abacaxi e, por fim, coloque o macarrão de yakisoba já cozido"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306704-macarrao-ohana.html"
+}

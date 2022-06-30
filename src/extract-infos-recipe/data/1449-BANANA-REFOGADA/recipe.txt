@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BANANA REFOGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas",
+      "2 colheres (sopa) de mel",
+      "3 colheres (sopa) de açúcar mascavo",
+      "aveia a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as bananas em rodelas e reserve",
+      "Coloque o açúcar mascavo numa frigideira antiaderente e espere até que ela derreta um pouco e acrescente o mel, mexendo sempre",
+      "Despeje as bananas na frigideira e continue mexendo",
+      "Retire e polvilhe com aveia"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ELLEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308275-banana-refogada.html"
+}

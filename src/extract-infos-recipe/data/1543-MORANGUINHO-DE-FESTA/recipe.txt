@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MORANGUINHO DE FESTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 pacote de coco ralado",
+      "1 colher de margarina",
+      "1/2 xícara de água",
+      "1 pacote de gelatina de morango",
+      "açúcar cristal para decoração"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite condensado, coco ralado e a margarina.",
+      "Mexa sem parar até obter a consistência de brigadeiro.",
+      "Vire essa massa em uma travessa e deixe esfriar.",
+      "Enrole os docinhos em formato de pequenos morangos.",
+      "Em uma vasilha coloque o pacote de gelatina de morango, misture com a água e leve ao microondas até ficar uma calda \"grossa\".",
+      "Espete os docinhos em formato de morango em palitinhos.",
+      "Passe-os na calda e depois no açúcar cristal.",
+      "Retire do palito e coloque na geladeira.",
+      "Aproveite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DOCE.CHEFE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307749-moranguinho-de-festa.html"
+}

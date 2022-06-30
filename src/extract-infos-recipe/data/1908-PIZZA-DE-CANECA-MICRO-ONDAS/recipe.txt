@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PIZZA DE CANECA/MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha de trigo",
+      "1/2 colher (sopa) de fermento químico",
+      "1 pitada de sal ",
+      "4 colheres (sopa) de leite",
+      "1 colher (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca, bowl ou recipiente de sua preferência adequado para uso em micro-ondas, misture todos os ingredientes",
+      "A mistura dos ingredientes deve ficar num ponto como uma massa meio liguenta, mas não líquida nem seca demais, assim sua massa está pronta",
+      "Antes de levar ao micro-ondas, cubra a massa com o recheio de sua preferência.",
+      "Eu costumo colocar molho de tomate, queijo, orégano e azeitonas, para realmente ficar com jeito de pizza",
+      "Leve ao micro-ondas em potência máxima por 2 minutos e prontinho",
+      "Fica uma massa bem fofinha, parecida com pizza/pão"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ingredientes a gosto para rechear. Sugestão: molho de tomate, queijo e orégano\nSal a gosto, mas sugiro pouco dependendo do recheio"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LETÍCIA HELLEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306475-pizza-de-caneca-barra-micro-ondas.html"
+}

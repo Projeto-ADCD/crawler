@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SOPA LEVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 cebolas grandes ",
+      "1 abobrinha ",
+      "4 tomates ",
+      "1/2 repolho ",
+      "4 batatas ",
+      "1 dente de alho ",
+      "100 g de manteiga",
+      "2 colheres (sopa) de azeite",
+      "1 pedaço pequeno de pimentão verde",
+      "salsinha e cebolinha a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande derreta a manteiga, acrescente o azeite, as cebolas picadas em pedaços bem pequenos (ou bem fininhas) e o alho amassado e deixe refogue (mexendo eventualmente) até as cebolas começarem a ficar douradas.",
+      "Acrescente a abobrinha cortada em cubinhos bem pequenos, os tomates bem maduros picados em cubos pequenos, o repolho cortado em fatias finas e o pimentão cortado em tiras e continue mexendo até o repolho ficar com aspecto de refogado.",
+      "Coloque as batatas cortada a gosto, temperos e água até cobrir os ingredientes e deixe cozinhar até as batatas ficarem macias.",
+      "Ao menos uma vez acerte a quantidade de água e sal."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIEL LAVAGNOLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308683-sopa-leve.html"
+}

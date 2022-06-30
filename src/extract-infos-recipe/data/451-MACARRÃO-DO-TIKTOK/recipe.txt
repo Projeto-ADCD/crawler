@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO DO TIKTOK",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão",
+      "1 xícara de azeite ",
+      "200 g de queijo feta, gorgonzola ou brie)",
+      "6 dentes de alho",
+      "temperos variados a gosto",
+      "1/2 xícara de folhas de manjericão",
+      "500 g de tomate-cereja",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma forma ou assadeira, coloque um pouco do azeite no fundo, bem distribuído. ",
+      "Posicione o pedaço de queijo no meio e os tomates ao redor.",
+      "Tempere o queijo com sal, pimenta e o que mais desejar. ",
+      "Distribua também os alhos por toda a assadeira.",
+      "Regue tudo muito bem com o resto do azeite. ",
+      "Leve para assar em forno preaquecido a 200° C por 20 minutos, ou até que o queijo e os tomates fiquem bem macios. ",
+      "Enquanto isso, cozinhe o macarrão de acordo com as instruções da embalagem. ",
+      "Escorra bem e reserve. ",
+      "Assim que seu queijo com tomates estiver pronto, despeje o macarrão por cima e mexa bem. ",
+      "Coloque as folhas de manjericão para finalizar e já pode servir. "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312805-macarrao-do-tiktok.html"
+}

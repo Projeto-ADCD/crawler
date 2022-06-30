@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE LEITE DE CORTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de leite em pó",
+      "400 g de açúcar",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro com o fogo desligado acrescente todos os ingredientes, mexa bem até dissolver.",
+      "Depois leve ao fogo por aproximadamente 30 minutos, depois desligue o fogo e mexa o doce por mais 10 minutos.",
+      "Por ultimo deixe o doce esfriando e depois e só degustar ",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MUNDO DA REBECA E DA ELOAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312447-doce-de-leite-de-corte.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FRANGO AO REQUEIJÃO EM BARRA DO PAPAI PARAENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de peito de frango cortado em cubos",
+      "75 g de requeijão em barra",
+      "5 ml de azeite de oliva ou um fio de azeite",
+      "300 ml de água",
+      "1/2 colher (chá) de colorau",
+      "1 lata de milho e ervilha",
+      "1/2 cebola ",
+      "1 colher (chá) de alho amassado",
+      "20 g de vagem cozida",
+      "1/2 cenoura picada",
+      "1/2 pimentão Verde ",
+      "1/2 pimentão vermelho ",
+      "20 g de cebolinha",
+      "20 g de cheiro-verde ou coentro",
+      "sal e pimenta-do-reino/cominho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média, cozinhe à parte os legumes por cerca de 25 minutos para deixá-los no ponto.",
+      "Escorra a água e deixe eles reservado.",
+      "Se preferir, esse processo de cozimento pode ser feito ao vapor.",
+      "Paralelamente, em uma frigideira grande coloque o azeite de oliva, adicione a cebola picada em pedaços bem pequenos e fite-a até próximo de dourar.",
+      "Em seguida adicione o alho e frite junto com a cebola até dourar e adicione o frango em cubo e o colorau, sempre mexendo para fritar por igual o frango.",
+      "O tempo de fritura do frango é de 10 minutos.",
+      "Após, adicione 300 ml de água, a qual deve estar fervendo, e todos os legumes (os quais já devem estar pré-cozidos) cozinhando-os por mais 30 minutos.",
+      "Ao final, adicione o requeijão em barra até derreter e adicione o cheiro-verde/coentro e cebolinha, e sirva-o bem quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SAMUEL SALES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309553-frango-ao-requeijao-em-barra-do-papai-paraense.html"
+}

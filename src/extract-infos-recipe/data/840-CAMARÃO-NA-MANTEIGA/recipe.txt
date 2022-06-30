@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CAMARÃO NA MANTEIGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de camarão descascado",
+      "1/2 de limão",
+      "1 cabeça de alho",
+      "3 colheres (sopa) de manteiga com sal",
+      "1 colher (sopa) de salsinha fresca",
+      "1 colher (sopa) de cebolinha verde",
+      "1 colher (café) de pimenta calabresa",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Regue com meio limão os camarões e acrescente sal e pimenta a gosto.",
+      "E deixe marinando na geladeira por 30 minutos.",
+      "Pique finamente os dentes de alho, a cebolinha e a salsinha.",
+      "Em uma frigideira aqueça a manteiga, assim que bem aquecido acrescente os camarões e frite entre 2-3 minutos.",
+      "Após o tempo indicado, acrescente os ingredientes picados e deixe fritando por mais 2 minutos, mexendo sempre para não deixar o alho queimar (camarão tem que ficar Rosado).",
+      "Baixe o fogo e finalmente adicione a pimenta calabresa a gosto.",
+      "Está prontinho nosso camarão na manteiga cremoso.",
+      "Sirva em seguida como petisco, ou misture com saladas, fica perfeito também para almoço e jantar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CARLA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311344-camarao-na-manteiga.html"
+}

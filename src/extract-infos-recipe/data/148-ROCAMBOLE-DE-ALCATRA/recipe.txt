@@ -1,0 +1,44 @@
+{
+  "nome_receita": "ROCAMBOLE DE ALCATRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de alcatra",
+      "1 cebola grande cortada em fatias finas",
+      "2 alhos-porós cortrado em fatias finas",
+      "50 g de manteiga",
+      "200 g de ricota",
+      "6 fatias de queijo mussarela",
+      "3 dentes de alho",
+      "1 gema",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "100 g de bacon cortado em cubinhos",
+      "1 xícara (chá) de vinho branco seco",
+      "6 conhas de caldo de carne ou de legumes",
+      "1 colher (sopa) de azeite",
+      "Noz-moscada (opcional)",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o alcatra, ou peça para seu açougueiro na hora da compra, na forma de um bife único e bate bem com o martelo de bife.",
+      "Tempere o alcatra com o alho amarrado, sal e pimenta a seu gosto.",
+      "Deixe tomar gosto por uns 30 minutos, ou tempere de véspera. Reserve.",
+      "Em uma panela coloque 10g de manteiga e uma colher (sopa) de azeite e refogue a cebola fatiada e o alho-poró fatiado por uns 10 minutos .",
+      "Acrescente a ricota esfarelada, a gema, o queijo ralado e tempere com sal e pimenta a gosto. Não exagere no sal. Se gostar pode acrescentar noz-moscada ralada.",
+      "Um uma panela pequena com um pouco de azeite, refogue o bacon. Reserve.",
+      "Estenda o bife de alcatra sobre um tabuleiro e espalhe o recheio de alho-poró com o bacon e cubra com as fatias de mussarela.",
+      "Enrole a carne como se fosse um rocambole e amarre com barbante para não desmanchar o rocambole.",
+      "Em uma panela de ferro grande, coloque o restante da manteiga e o azeite e doure o rocambole girando de tempo em tempo.",
+      "Depois de dourado, regue com o vinho branco e acrescente o caldo de carne ou de legumes.",
+      "Tampe a panela e deixe cozinhar por uns 90 minutos, em fogo médio.",
+      "Se necessário, adicione mais caldo de carne ou legumes, aos poucos. Não deixe secar o caldo.",
+      "Depois de pronto deixe a carne esfriar antes de cortar em fatias.",
+      "Sirva acompanhada do caldo aquecido com um bom arroz branco e salada verde."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314186-rocambole-de-alcatra.html"
+}

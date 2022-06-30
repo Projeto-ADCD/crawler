@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE AÇAI COM BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maçã",
+      "500 ml de açaí",
+      "2 bananas",
+      "250 g de granola",
+      "500 ml de leite integral ou desnatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a maçã em 4 pedaços",
+      "Coloque no liquidificador junto com o leite e a banana",
+      "Bata espere 2 minutos, após os dois minutos coloque o açaí e a granola"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ELEMENTS PROD.DJBELMS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312236-vitamina-de-acai-com-banana.html"
+}

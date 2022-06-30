@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA DE MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de macarrão parafuso",
+      "1 cebola cortada em cubinhos pequenos",
+      "1 tomate cortado em cubinhos pequenos e sem sementes",
+      "1/2 pacote de milho em conserva",
+      "10 azeitonas cortadas em 4",
+      "4 colheres (cheia) (sopa) de maionese",
+      "1 colher (sopa) de mostarda",
+      "1 colher de shoyu",
+      "coentro picadinho a gosto",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o macarrão para cozinhar (siga as instruções do fabricante). Quando tiver pronto coloque em um recipiente (grande suficiente para misturar todos os ingredientes).",
+      "Em seguida junte a cebola, o tomate, o milho e a azeitona e misture.",
+      "Após tudo misturado, coloque a maionese, a mostarda e o shoyu. Misture tudo até todos os ingredientes incorporam a maionese.",
+      "Acerte o sal e a pimenta",
+      "E por cima coloque o coentro se preferir!",
+      "BOM APETITE!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANA BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312141-salada-de-macarrao.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÉ DE MOLEQUE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim torrado e sem sal",
+      "1 xícara de açúcar",
+      "4 colheres (sopa) de manteiga",
+      "1 lata de condensado",
+      "120 g de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o açúcar em uma panela e deixe ele derreter e formar uma calda",
+      "Junte a manteiga",
+      "Misture até derreter e junte o leite condensado ",
+      "Mexe bem novamente e junte o chocolate meio amargo",
+      "Deixe derreter e formar uma mistura homogênea ",
+      "Junte o amendoim e misture tudo com uma colher ",
+      "Desligue o fogo e despeje o doce em um recipiente forrado com plástico filme",
+      "Deixe esfriar fora da geladeira e corte em cubos",
+      "Agora é só servir!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309207-pe-de-moleque-cremoso.html"
+}

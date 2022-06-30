@@ -1,0 +1,34 @@
+{
+  "nome_receita": "OVO TRUFADO COM BRIGADEIRO DE CAFÉ",
+  "ingredientes": {
+    "PARA A CASCA DE OVO": [
+      "600 g de chocolate para 5 cascas de 250 g "
+    ],
+    "PARA O BRIGADEIRO DE CAFÉ": [
+      "395 g de leite condensado",
+      "200 g de creme de leite",
+      "80 ml de café coado forte",
+      "30 g de chocolate 55% cacau Linha Chefs Mendoá",
+      "30 g de chocolate em pó 50%"
+    ]
+  },
+  "passos": {
+    "PARA A CASCA DE OVO": [
+      "Utilizamos o processo de temperagem de 34 graus que consiste em derreter o chocolate na potência quatro do micro-ondas e, em vários tempos de poucos segundos (no máximo 50), sem que passe dessa temperatura.",
+      "Após atingir a temperagem, coloque o chocolate na forma, até a marcação indicada e leve a refrigeração até que a forma de acetato fique fosca. ",
+      "Após isso, retire para rechear. "
+    ],
+    "PARA O BRIGADEIRO DE CAFÉ": [
+      "Em uma panela, dissolva no leite condensado, acrescente o creme de leite, o chocolate em pó peneirado, o chocolate 55% Linha Chefs da Mendoá e o café coado forte",
+      "Mexa em fogo alto até atingir o ponto em que o brigadeiro fique firme, porém cremoso.",
+      "Transfira para um refratário com plástico-filme em contato até que esfrie completamente e então poderá usar para “trufar” a casca do ovo. ",
+      "Para a montagem, recheie o ovo com o brigadeiro de café já frio e então, coloque mais chocolate temperado para formar uma “casca”",
+      "Leve mais uma vez à refrigeração, até que esse chocolate esteja completamente cristalizado. ",
+      "Retire do acetato e deixe descansar para manusear."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314646-ovo-trufado-com-brigadeiro-de-cafe.html"
+}

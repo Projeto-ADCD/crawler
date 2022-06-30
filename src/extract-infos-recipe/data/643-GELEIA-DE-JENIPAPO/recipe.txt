@@ -1,0 +1,21 @@
+{
+  "nome_receita": "GELEIA DE JENIPAPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Poupa de 5 jenipapos (sementes)",
+      "1 xícara de açúcar (300 g)",
+      "2 xícaras de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire as sementes do jenipapo, coloque no liquidificador junte a água e bata no modo pulsar",
+      "Em uma peneira grossa, coe, junte o açúcar e a poupa peneirada e leve ao fogo mexendo de vez em quando para não grudar",
+      "Quando começar soltar do fundo da panela desligue o fogo e deixe esfriar, coloque em um frasco de vidro."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA APARECIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312191-geleia-de-jenipapo.html"
+}

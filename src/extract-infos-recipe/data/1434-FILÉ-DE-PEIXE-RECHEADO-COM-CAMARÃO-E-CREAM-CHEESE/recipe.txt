@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FILÉ DE PEIXE RECHEADO COM CAMARÃO E CREAM CHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 filés de tilápia",
+      "300 g de camarão",
+      "1 colher (sopa) de cream cheese para cada filé de tilápia",
+      "sal e alho a gosto",
+      "4 xícaras de farinha de trigo (para empanar os filés de tilápia)",
+      "1 litro de óleo para fritar",
+      "2 ovos (para empanar os files de tilápia)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés de tilápia com alho e sal e reserve",
+      "Refogue o camarão com alho e sal",
+      "Coloque a farinha de trigo em um prato fundo",
+      "Bata os ovos e coloque em uma vasilha funda",
+      "Abra os filés de tilápia coloque os camarões o creme chesse, enrole e passe no ovo e e na farinha de trigo coloque em uma vasilha",
+      "Coloque o óleo na frigideira e aqueça em fogo baixo",
+      "Frite os filés de peixe ate ficar crocante",
+      "Tire os filés de peixe e coloque em um recipiente forrado com papel-toalha"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RANIERI SPURI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308355-file-de-peixe-recheado-com-camarao-e-cream-cheese.html"
+}

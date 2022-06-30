@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE DOCE DE LEITE FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de chá de essência de baunilha",
+      "500 gramas de farinha de amêndoas",
+      "4 colheres (sopa) de manteiga em temperatura ambiente",
+      "1 colher (sopa) de fermento",
+      " "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Amasse na mão a farinha de amêndoas com a manteiga e a baunilha até virar uma massa macia e uniforme. ",
+      "Coloque a massa em forminhas de silicone e leve para assar no forno quente a 180º C até crescer e dourar."
+    ],
+    "MONTAGEM": [
+      "Pegue o doce de leite, na quantidade que preferir, e coloque em um saco para confeitar.",
+      "Abra um furo no meio do bolinho e retire a tampa de massa que irá sair.",
+      "Recheie com o doce de leite e feche o furo novamente.",
+      "Se desejar, decore com paçoca triturada a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316919-tortinha-de-doce-de-leite-fit.html"
+}

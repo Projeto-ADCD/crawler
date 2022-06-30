@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO ASSADO COM GREMOLATA DE BATATAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Frango Nattaliz",
+      "2 colheres (sopa) de margarina",
+      "10 batatas calabresa",
+      "sal a gosto",
+      "2 dentes de alho picados",
+      "Salsa picada a gosto",
+      "Raspas de limão",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire o frango já limpo e temperado da embalagem, remova o saco com os miúdos e pincele a margarina com as mãos, ou com a ajuda de um pincel culinário, por toda a extensão. ",
+      "Em um recipiente, coloque as batatas e adicione o sal e um fio de azeite ",
+      "Coloque o frango na assadeira, amarre as coxas com um barbante e acomode as batatas.",
+      "Cubra com papel-alumínio e leve para o forno preaquecido a 200º C por 40 minutos. ",
+      "Retire o papel-alumínio e deixe assar por mais 20 minutos.",
+      "Enquanto isso, junte a salsa, o alho, as raspas de limão, um fio de azeite e misture bem para fazer um molho.",
+      "Depois é só tirar o frango do forno, com cuidado para não se queimar, e servir como quiser!"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314087-frango-assado-com-gremolata-de-batatas.html"
+}

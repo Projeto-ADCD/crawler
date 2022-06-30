@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO DE MAISENA (SEQUILHOS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g amido de milho (1 caixa pequena)",
+      "4 colheres (sopa) açúcar",
+      "75 g de margarina",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes na tigela misture bem.",
+      "Amasse com a mão até ficar bem firmes a ponto de enrolar.",
+      "Faça bolinhas de 10 g cada coloque em forma com papel manteiga.",
+      "Ou se preferir não precisa untar.",
+      "Amasse com a ponta do garfo para da o formato do biscoito.",
+      "Asse em forno por 15 minutos forno baixo ou até ficarem firmes."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KARINA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307052-biscoito-de-maisena-sequilhos.html"
+}

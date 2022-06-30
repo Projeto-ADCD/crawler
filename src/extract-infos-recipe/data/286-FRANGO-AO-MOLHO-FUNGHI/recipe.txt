@@ -1,0 +1,49 @@
+{
+  "nome_receita": "FRANGO AO MOLHO FUNGHI",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 filés de frango (800g)",
+      "2 dentes de alho",
+      "1 colher (sopa) de vinagre branco",
+      "1 colher (sopa) de páprica doce",
+      "pimenta do reino",
+      "sal a gosto"
+    ],
+    "CREME DE FUNGHI": [
+      "2 colheres (sopa) de manteiga sem sal",
+      "2 dentes de alho triturados",
+      "½ cebola ralada",
+      "2 colheres (sopa) azeite de oliva",
+      "20 g de funghi seco",
+      "80 ml de saque ou vinho branco",
+      "200 g de creme de leite",
+      "1 fio de suco de limão",
+      "1 colher (sopa) de cebolinha verde picada",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MODO DE PREPARO:",
+      "Tempere os filés de frango com os temperos acima. Deixe marinar por aproximadamente 1 hora na geladeira, se possível.",
+      "Em uma frigideira quente com um fio de azeite, sele os filés dos dois lados.",
+      "Finalize no forno por aproximadamente 10 a 15 minutos a 180°.",
+      "Sirva com o creme de funghi."
+    ],
+    "CREME DE FUNGHI": [
+      "Em uma tigela coloque o funghi seco coberto com água morna e deixe por aproximadamente 20 a 30 minutos até hidratar, após escorra a água e corte em pedacinhos.",
+      "Em outra panela ou frigideira, coloque o azeite com a manteiga e refogue a cebola até ficar transparente, adicione o alho e misture bem.",
+      "Acrescente o funghi e deixe cozinhar. Adicione o saque e deixe reduzir.",
+      "Após, acrescente o creme de leite e misture bem, tempere com pimenta do reino e sal.",
+      "Desligue o fogo, regue um fio de limão e acrescente a cebolinha verde. O creme deve estar cremoso e consistente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica:\nVocê pode substituir o funghi por shimeji, se preferir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SAM SAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313410-frango-ao-molho-funghi.html"
+}

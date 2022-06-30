@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xicara de açúcar",
+      "3 xicaras de farinha de trigo",
+      "100 ml de leite",
+      "2 bananas amassada (com pedaços)",
+      "1 colher (sopa) de fermento",
+      "óleo (para fritar)",
+      "açúcar refinado e canela em pó (para polvilhar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem o ovo e o açúcar em uma tigela.",
+      "Adicione o leite, a farinha, o fermento, e a banana, sempre batendo.",
+      "Poloque o óleo em uma panela e aqueça-o (não pode estar muito quente a panela).",
+      "Com a ajuda de duas colheres vá colocando porções para fritar.",
+      "Vá fritando e colocando pra escorrer em um papel toalha.",
+      "Polvilhe os bolinhos de chuva com o açúcar e a canela."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "M&M RECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311354-bolinho-de-chuva-de-banana.html"
+}

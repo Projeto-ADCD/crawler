@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ALFAJOR DE TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "250 g de biscoito maizena",
+      "150 g de manteiga",
+      "400 g de doce de leite caseiro",
+      "300g de chocolate meio amargo",
+      "150g de creme de leite",
+      " ",
+      "Recheio:",
+      "30g de chocolate branco",
+      "1/2 colher (sopa) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o biscoito maizena em um liquidificador ou processador até virar uma farofa. Acrescente a manteiga derretida e bata mais um pouco. A massa deve ficar parecida a uma areia de praia úmida.",
+      "Transfira para uma travessa e pressiona a massa com uma espátula ou com as mãos até formar uma base compacta e lisa. Leve ao congelador por 5 minutos.",
+      "Montagem:",
+      "Coloque o doce de leite sobre a base de biscoitos e espalhe de modo uniforme. Reserve.",
+      "Em uma panela, coloque o chocolate e o creme de leite. Leve ao fogo baixo, mexendo o tempo todo. Quando se formar um creme liso e homogêneo, desligue o fogo.",
+      "Despeje o creme sobre o doce de leite na travessa.",
+      "Leve para a gelar por aproximadamente 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313093-alfajor-de-travessa.html"
+}

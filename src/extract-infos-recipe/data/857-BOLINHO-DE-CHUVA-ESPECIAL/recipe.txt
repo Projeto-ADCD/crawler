@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xicaras de farinha de trigo sem fermento",
+      "1 xicara de açúcar",
+      "1 xicara de fubá",
+      "1 copo de leite",
+      "50 g de coco ralado",
+      "1 colher (chá) de fermento em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture todos os ingredientes até ficar uma massa homogénea",
+      "Em seguida em 1 tigela separe uma xícara de açúcar e canela a gosto.",
+      "Faça os bolinhos, frite-os aos poucos em óleo não muito quente e deixe escorrer.",
+      "Envolva-os no açúcar com canela e pronto pode servir",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311227-bolinho-de-chuva-especial.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CAMARÃO À FILADELFIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarão tamanho 7",
+      "300 g de queijo cream cheese ",
+      "250 g de champignon marca da sua preferência, cortado em quatro (a medida do champignon é a metade da quantidade do camarão)",
+      "50 g de batata palha",
+      "100 ml de molho de tomate de sua preferência",
+      "2 colheres (sopa) de cebola picada",
+      "1 colher (sopa) rasa de alho picado",
+      "2 colheres (sopa) de manteiga",
+      "sal a gosto",
+      "salsinha picada",
+      "cebolinha verde picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, no fogo brando, coloque a manteiga, a cebola e o alho até murchar",
+      "Acrescente o champignon e o camarão.",
+      "O ponto do camarão é até ficar na cor rosada (senão ele emborracha).",
+      "Forre um refratário com uma camada de queijo cream cheese, inclusive as bordas do refratário.",
+      "Coloque o molho de tomate, já pronto, sobre o queijo cream cheese.",
+      "Na sequência, coloque o refogado do camarão, com os outros ingredientes, sobre o queijo cream cheese no refratário.",
+      "Espalhe o queijo cheese por sobre o refogado.",
+      "Leve ao forno micro-ondas por 6 minutos.",
+      "Finaliza com a batata palha.",
+      "Sirva quente, acompanhado de arroz branco e salada verde.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "HESTEVARD MARTIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306075-camarao-a-filadelfia.html"
+}

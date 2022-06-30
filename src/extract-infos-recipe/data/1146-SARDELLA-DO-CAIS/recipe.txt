@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SARDELLA DO CAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "375 g de pimentão vermelho",
+      "125 g de tomate italiano bem maduro",
+      "60 g de aliche",
+      "100 g de carapau fresco",
+      "3 g de funcho",
+      "4 g de paprica picante",
+      "3 g de pimenta calabresa",
+      "1 folha de louro seca",
+      "190 g de azeite de oliva extra virgem",
+      "20 g de vinagre de vinho tinto",
+      "20 g de alho",
+      "3 g de tomilho fresco",
+      "5 g de alecrim fresco",
+      "15 g de manjerona fresca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Queime os tomates e pimentões na churrasqueira, e tire a pele e a semente",
+      "Refogue o alho até dourar bem, adicione as ervas frescas e refogue mais um pouco.",
+      "Adicione o vinagre e cozinhe por mais 2 minutos",
+      "Adicione o aliche, carapau, pimentão e tomate e cozinhe por 20 minutos",
+      "Processe no liquidificador até bem liso e volte para a panela",
+      "Adicione a páprica, funcho, pimenta calabresa e louro, e cozinhe por mais 10 minutos",
+      "Resfrie antes de servir"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANO DE LAURENTIIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309594-sardella-do-cais.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FRANGO COM MILHO VERDE AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de batata palha",
+      "300 g de cogumelos frescos fatiados",
+      "1 cebola média picada",
+      "1/2 xícara (chá) de queijo parmesão ralado",
+      "2 peitos de frango sem pele e com osso.",
+      "1 lata de creme de leite",
+      "1 lata de milho verde em conserva escorrido",
+      "5 colheres (sopa) de azeite",
+      "1 colher (sopa) de sal",
+      "3 folhas de louro",
+      "Pimenta a gosto",
+      "2 litros de água."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, coloque a água, os peitos de frango, o sal e as folhas de louro.",
+      "Deixe cozinhar por uns 40 minutos ou até a carne de frango ficar macia.",
+      "Escorra os peitos e frango, deixe esfriar um pouco e depois desfie.",
+      "Numa frigideira aqueça o azeite em fogo baixo, acrescente a cebola picada e deixe dar uma refogada.",
+      "Acrescente o frango desfiado e deixe refogar, mexendo às vezes por uns 7 minutos.",
+      "Aqueça o forno em temperatura média.",
+      "Misture, delicadamente, o frango refogado com o creme de leite, o milho escorrido e os cogumelos fatiados.",
+      "Coloque a mistura em um refratário untado.",
+      "Polvilhe com o queijo parmesão ralado e leve ao forno para assar por uns 35 minutos ou até dourar ligeiramente a superfície.",
+      "Retire do forno e cubra com a batata palha.",
+      "Sirva em seguida com um arroz branco e uma boa salada verde."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314084-frango-com-milho-verde-ao-forno.html"
+}

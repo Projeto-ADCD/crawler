@@ -1,0 +1,36 @@
+{
+  "nome_receita": "EMPADINHA DE PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de sal",
+      "1 cebola pequena picada",
+      "4 g de alho picado",
+      "5 colheres (sopa) de cream cheese",
+      "pimenta-do-reino a gosto",
+      "1 gema ligeiramente batida para pincelar",
+      "2 xícaras de farinha de trigo",
+      "1/4 de xícara de azeitonas picadas",
+      "220 g de Primor Forno e Fogão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a Margarina Primor Forno e Fogão, a farinha de trigo e o sal em uma vasilha e misture com os dedos até formar uma massa lisa. Se necessário, adicione mais 1 colher (sopa) de farinha de trigo.",
+      "Faça uma bola, enrole em filme plástico e leve à geladeira, para descansar, por 30 minutos."
+    ],
+    "RECHEIO ": [
+      "Derreta a margarina em uma panela e refogue a cebola e o alho.",
+      "Junte o palmito, as azeitonas e refogue por mais alguns instantes.",
+      "Desligue o fogo, junte o cream cheese e tempere com sal e pimenta-do-reino.",
+      "Com a massa, forre o fundo de 25 forminhas pequenas para empadas. Recheie e tampe com um círculo de massa.",
+      "Pressione bem as bordas para não vazar. Depois pincele o topo com a gema e asse no forno pré-aquecido a 180º C por 30 minutos ou até que as empadinhas fiquem douradas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Varie o recheio trocando o palmito por frango desfiado ou camarões refogados."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312035-empadinha-de-palmito.html"
+}

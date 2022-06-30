@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FRAPUCCINO DO STARBUCKS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "6 pedrinhas de gelo",
+      "1 caixinha de creme de leite",
+      "1 xícara de café",
+      "4 colheres de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite em uma xícara ou copo",
+      "Coloque o gelo",
+      "Coloque o café",
+      "Coloque o creme de leite pra ficar cremoso",
+      "Coloque o leite condensado pra ficar doce",
+      "Agora misture tudo e pronto "
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LORENA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311204-frapuccino-do-starbucks.html"
+}

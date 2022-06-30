@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DRINK SEM ÁLCOOL COM ÁGUA DE COCO E TÔNICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lima da persia",
+      "100 ml de água de coco",
+      "2 colheres de açúcar",
+      "70 ml de tônica",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a lima da persia em pedaços e amasse com o açúcar.",
+      "Coloque o gelo, a água de coco e complete com a tônica",
+      "Para a versão com álcool basta adicionar 50 ml de gin"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308014-drink-sem-alcool-com-agua-de-coco-e-tonica.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de massa de pastel",
+      "500 g de queijo branco",
+      "7 ovos",
+      "1 xícara de leite",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma com o óleo e forre com duas camadas de massa de pastel",
+      "Passe um pouco de óleo entre elas.",
+      "Pique o queijo branco com as mãos e acrescente 6 ovos, sal e pimenta-do-reino.",
+      "Despeje sobre a massa e cubra com uma camada de massa de pastel.",
+      "Faça alguns cortes na massa de cima e coloque o leite com o ovo restante. Asse em forno pré aquecido 180 graus por aproximadamente 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRICIA ZIVTSAC PRECIVALE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306816-torta-de-queijo.html"
+}

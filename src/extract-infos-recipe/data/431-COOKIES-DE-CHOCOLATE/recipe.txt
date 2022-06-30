@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIES DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de margarina Delícia com creme de leite em temperatura ambiente",
+      "1/4 de xícara de açúcar refinado",
+      "1/2 xícara de açúcar mascavo",
+      "1 e 3/4 de xícara de farinha de trigo",
+      "1 ovo inteiro",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (chá) de fermento químico em pó",
+      "160 g de chocolate meio amargo picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece batendo na batedeira a margarina Delícia com o açúcar refinado e o açúcar mascavo até formar um creme leve e aerado.",
+      "Incorpore os ovos e os demais ingredientes (menos o chocolate), batendo bem rápido. Bata o suficiente para formar uma massa homogênea.",
+      "Adicione o chocolate meio amargo picado.",
+      "Cubra a massa e deixe-a descansando na geladeira por 1 hora.",
+      "Preaqueça o forno a 180º C e prepare uma assadeira grande untada.",
+      "Com o auxílio de uma colher de sorvete, retire porções da massa e distribua-as na assadeira sem apertar, deixando um espaço entre elas. Asse de 12 a 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312850-cookies-de-chocolate.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CASSOULET COM PEITO DE FRANGO E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão branco (2 horas de molho)",
+      "500 g peito de frango em pedaços grandes",
+      "1 linguiça portuguesa ou calabresa",
+      "50 g de bacon",
+      "2 cenouras finas ou 1 grossa",
+      "1 lata de ervilha",
+      "1/2 sachê de molho de tomate",
+      "coentro, folha de louro, sal, pimenta-do-reino moída, páprica (picante ou doce) a gosto",
+      "1 cebola grande",
+      "5 dentes de alho picados",
+      "1/2 pimentão (opcional)",
+      "3 tomates picados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peito de frango com limão, sal, pimenta-do-reino e páprica",
+      "Doure o bacon, a cebola, o alho e o pimentão (3 minutos)",
+      "Refogue os pedaço de frangos (5 minutos)",
+      "Junte o tomate, a cenoura, a linguiça, o louro, o sal e a pimenta-do-reino",
+      "Refogue mais um pouco (3 minutos)",
+      "Coloque o feijão sem a água do molho",
+      "Junte 800 ml de água fervente",
+      "Cozinhe na pressão por 25 minutos após apitar (baixar o fogo quando apitar)",
+      "Deixe liberar pressão naturalmente",
+      "Junte a ervilha e o coentro e mexa vigorosamente",
+      "PS: A foto não ficou tão perfeita como o resultado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERTO ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313792-cassoulet-com-peito-de-frango-e-linguica.html"
+}

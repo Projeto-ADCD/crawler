@@ -1,0 +1,28 @@
+{
+  "nome_receita": "OMELETÃO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 ovos",
+      "2 colheres de farinha de trigo",
+      "300 g de mussarela",
+      "300 g de linguiça ",
+      "1 sachê de molho de tomate",
+      "1 colher de manteiga",
+      "sal a gosto",
+      "Cebola a gosto",
+      "orégano a gosto",
+      "coentro e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o trigo e uma pitada de sal no liquidificador (reserve).",
+      "Em uma forma untada com manteiga e molho de tomate coloque uma camada de queijo, uma camada de linguiça picada e pré-cozida, uma camada do ovo batido e pra finalizar cebola picada em rodelas a gosto.",
+      "Leve ao forno preaquecido em 180° C por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROL INACIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306898-omeletao-de-forno.html"
+}

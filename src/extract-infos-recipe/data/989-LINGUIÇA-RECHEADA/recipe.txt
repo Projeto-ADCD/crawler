@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LINGUIÇA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 a 6 gomos de linguiça toscana",
+      "1 tomate",
+      "1/2 cebola",
+      "batata palha (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela leve a linguiça para ferver, após levantar fervura retire do fogo e reserve.",
+      "Pegue o tomate e a cebola pique e m pequenos pedaços e faça um vinagrete ,e reserve",
+      "Leve a linguiça no forno por 15 minutos ou até dourar , se preferir pode fritar também .",
+      "Apos a linguiça dourada abra ao meio fazendo uma concha e coloque o vinagrete finalize com batata palha .",
+      "Pode comer a linguiça com pão ou sem ."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDA DO WAGNER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310607-linguica-recheada.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI NA TAÇA",
+  "ingredientes": {
+    "CREME": [
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite",
+      "2 xícaras de leite integral",
+      "2 gemas",
+      "1/4 de xícara de amido de milho",
+      "1 colher (chá) de essência de baunilha"
+    ],
+    "ABACAXI EM CALDA": [
+      "1 abacaxi maduro em cubos",
+      "1/3 de xícara de açúcar"
+    ],
+    "COBERTURA E CAMADAS": [
+      "1 pacote de biscoito de leite maltado levemente triturado",
+      "1 xícara de suspiros em pedaços e mais inteiros para decorar a gosto",
+      "200 ml de creme tipo chantilly (ou creme de leite fresco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece preparando o creme do pavê. Em uma panela, peneire as gemas e adicione o leite, o creme de leite, o leite condensado e o amido de milho dissolvido em um pouco de leite (para não dar grumos). ",
+      "Cozinhe em fogo baixo até engrossar – cerca de 8 minutos. Reserve.",
+      "Em seguida, comece a preparar o abacaxi em calda. Junte o abacaxi em cubos e o açúcar em uma outra panela e cozinhe até que o açúcar se dissolva e forme uma calda. Separe os cubos do abacaxi da calda e reserve ambos.",
+      "É hora então de montar as taças. Podem ser pequenas, para porções individuais ou uma taça grande. ",
+      "Intercalando camadas finas: no fundo coloque o abacaxi em cubos, por cima um pouco do creme e por cima biscoito triturado. Complete até quase o topo das taças deixando espaço para a última camada de chantilly.",
+      "Bata o creme de chantilly bem gelado em picos firmes e monte a última camada do pavê, a cobertura. ",
+      "Finalize com suspiros quebradinhos e inteiros de acordo com a sua preferência.",
+      "Leve para gelar por no mínimo 1 hora antes de servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você encontra a linha completa de leite condensado Moça em todas as unidades de BIG"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BIG",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313100-pave-de-abacaxi-na-taca.html"
+}

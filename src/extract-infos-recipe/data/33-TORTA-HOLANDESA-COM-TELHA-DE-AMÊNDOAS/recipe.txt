@@ -1,0 +1,48 @@
+{
+  "nome_receita": "TORTA HOLANDESA COM TELHA DE AMÊNDOAS",
+  "ingredientes": {
+    "MASSA": [
+      "2/3 de pacote de biscoito de leite ou tipo maisena",
+      "3 colheres (sopa) de Margarina Qualy derretida",
+      "1 pacote de biscoito de leite com cobertura de chocolate",
+      "2 colheres (sopa) de farinha de amêndoas"
+    ],
+    "RECHEIO ": [
+      "1 xícara de Margarina Qualy ",
+      "1 xícara de açúcar refinado",
+      "1 lata e meia de creme de leite sem soro",
+      "2 colheres (sopa) de essência de baunilha",
+      "1 envelope de gelatina incolor já hidratada"
+    ],
+    "COBERTURA ": [
+      "1 caixinha de creme de leite",
+      "1 barra de chocolate meio amargo"
+    ],
+    "TELHA DE AMÊNDOAS ": [
+      "1 xícara e 1 colher (sopa) de amêndoas laminadas",
+      "2 claras de ovo",
+      "1 colher (sopa) rasa de farinha de trigo",
+      "3 colheres (sopa) de açúcar",
+      "2 colheres de sopa de Margarina Qualy derretida "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em uma tigela, misture o pacote de biscoito bem triturado a Margarina Qualy e a farinha de amêndoas. Misture bem e transfira para o fundo de uma assadeira de fundo removível, pressionando levemente. Contorne as laterais da forma com os biscoitos de chocolate, com a parte de chocolate voltada para fora. Reserve. "
+    ],
+    "RECHEIO": [
+      "Em uma batedeira, bata a Margarina Qualy com o açúcar até formar um creme  esbranquiçado. Adicione aos poucos o creme de leite e a essência de baunilha. Por último, adicione a gelatina sem sabor hidratada conforme as instruções do fabricante. Leve à geladeira para firmar por pelo menos 3 horas. "
+    ],
+    "TELHA DE AMÊNDOAS": [
+      "Em uma tigela, misture as amêndoas laminadas, as claras, o  açúcar, a farinha e a Margarina Qualy derretida. Misture bem. Em uma assadeira com papel manteiga  espalhe pequenas colheradas dessa massa. Não deixe muito grosso, tente espalhar bem fino. Asse em forno preaquecido a 180º C por 10 minutos ou até que estejam douradas. Com o auxílio de uma espátula retire ainda quente da assadeira e deixe esfriar na bancada. ",
+      "Prepare então o ganache de chocolate. Aqueça o creme de leite no micro-ondas e adicione o chocolate meio amargo, mexendo até derreter. Reserve. "
+    ],
+    "MONTAGEM": [
+      "Retire a torta da geladeira, espalhe o ganache por cima e decore com as telhas de amêndoas já frias."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "QUALY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316059-torta-holandesa-com-telha-de-amendoas.html"
+}

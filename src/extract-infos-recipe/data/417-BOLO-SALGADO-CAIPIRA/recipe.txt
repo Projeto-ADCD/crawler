@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO SALGADO CAIPIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de leite",
+      "1 colher (sopa) de margarina",
+      "1/2 colher (sopa) de açúcar",
+      "1 cubo de tempero ou 1 sachê",
+      "6 colheres (sopa) de azeite",
+      "1 lata de milho verde",
+      "2 xícaras de farinha de trigo",
+      "3 colheres (sopa) de fubá",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 tomate picadinho",
+      "1/2 pimentão vermelho picadinho",
+      "100 g de presunto em cubinhos",
+      "100 g de mussarela em cubinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o leite, a margarina, o açúcar, o tempero, o azeite e meia lata de milho verde.",
+      "Em uma vasilha, misture a farinha de trigo, o fubá e o fermento.",
+      "Em seguida coloque a mistura do liquidificador e misture.",
+      "Junte à mistura, o tomate, o pimentão, o presunto e a mussarela.",
+      "Em uma forma untada, despeje a massa e salpique com queijo parmesão ralado e orégano.",
+      "Leve ao forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312867-bolo-salgado-caipira.html"
+}

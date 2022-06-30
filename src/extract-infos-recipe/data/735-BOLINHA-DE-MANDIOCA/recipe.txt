@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLINHA DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de margarina",
+      "1 xícara de leite",
+      "1 cebola picadinha",
+      "1 prato fundo de mandioca cozida e amassada",
+      "1 e 1/2 xícara de farinha de trigo",
+      "tempero a gosto",
+      "100 g de mussarela em cubos",
+      "100 g de presunto em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a margarina.",
+      "Em seguida, coloque a cebola e espere dourar.",
+      "Coloque o leite e tempere à gosto.",
+      "Coloque a mandioca e misture.",
+      "Vá colocando a farinha aos poucos, até formar uma massa tipo massa de coxinha.",
+      "Quando estiver desgrudando do fundo, a massa estará pronta.",
+      "Assim que a massa esfriar, coloque em uma bancada e aperte pra dar mais consistência.",
+      "Vá pegando pequenas quantidades, abra na mão e coloque alguns cubinhos de mussarela e presunto.",
+      "Faça bolinhas.",
+      "Leve à geladeira por 1 hora pra ficarem firmes.",
+      "Frite em óleo quente.",
+      "Obs.: pode usar outros recheios de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311826-bolinha-de-mandioca.html"
+}

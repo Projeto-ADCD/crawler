@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FRANGO XADREZ À MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de peito de frango em cubos",
+      "3 dentes de alho",
+      "polpa de alho triturado",
+      "1 cebola grande",
+      "1 pimentão amarelo",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "50g de azeitonas picadas",
+      "pimenta-do-reino",
+      "sal do Himalaia",
+      "tempero de alho e sal",
+      "suco de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe os ingredientes a seguir.",
+      "Alho, cebola e pimentões, pique em cubos e reserve",
+      "Refogue o alho e a cebola em uma panela e reserve",
+      "Refogue os pimentões picados em uma panela e reserve",
+      "Tempere o filé de frango com tempero de alho e sal",
+      "coloque os filés em cubo na panela e deixe fritar até ficarem dourados",
+      "Depois adicione o alho, a cebola e os pimentões na panela",
+      "Mexa bem e adicione Pimenta do Reino Moída e Sal do Himalaia Moído",
+      "Adicione um pouco de água quente.",
+      "Por último adicione as Azeitonas Picadas e mexa bem",
+      "Deixe cozinhar por 5 minutos",
+      "Pronto! Nossa receita está pronta para servir com arroz branco e salada"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUIGHI FABIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311667-frango-xadrez-a-mineira.html"
+}

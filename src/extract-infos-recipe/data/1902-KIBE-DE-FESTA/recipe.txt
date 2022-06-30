@@ -1,0 +1,35 @@
+{
+  "nome_receita": "KIBE DE FESTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de trigo para kibe",
+      "500 g de carne moída",
+      "700 ml de água",
+      "1 maço de hortelã",
+      "3 colheres (sopa) de óleo",
+      "100 ml de óleo",
+      "1 cebola",
+      "4 dentes de alho",
+      "2 tabletes de carne",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o óleo e o alho e doure",
+      "Logo depois de dourado, coloque os tabletes e aproximadamente 2 colheres de hortelã bem picado e acrescente a água, deixe ferver.",
+      "Depois em um recipiente despeje o trigo para kibe e a água logo depois de fervida",
+      "Deixe hidratar por aproximadamente 1 hora e 30 minutos ",
+      "Em um liquidificador coloque a cebola, o restante do hortelã, a pimenta-do-reino, o sal e 100 ml de óleo e bata.",
+      "Despeje a carne moída (crua) no recipiente com o trigo hidratado e o tempero batido no liquidificador, misture bem.",
+      "Coloque em uma bancada ou mesa e souve a massa até dar a liga.",
+      "Modele o salgado como sua preferência de tamanho e formato, a quantidade varia conforme o tamanho.",
+      "Depois é só fritar ou congelar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "150 PORÇÕES",
+  "autor": "BEATRIZ DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306490-kibe-de-festa.html"
+}

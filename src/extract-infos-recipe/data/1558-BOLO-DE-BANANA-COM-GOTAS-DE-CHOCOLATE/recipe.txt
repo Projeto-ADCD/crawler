@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE BANANA COM GOTAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de margarina",
+      "1/2 xícara de açúcar",
+      "3 ovos",
+      "3 bananas nanicas maduras amassadas",
+      "1/2 xícara de leite",
+      "2 xícaras de farinha de trigo",
+      "100 g de gotas de chocolate ao leite ou picado",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira o açúcar e a margarina",
+      "Acrescente os ovos e bata até obter um creme esbranquicado",
+      "Coloque o leite e as bananas amassadas e bata até misturar",
+      "Tire da batedeira e coloque o trigo, misture bem e coloque o chocolate e por último o fermento (a massa fica grossa)",
+      "Asse em forno preaquecido em 180° C por 40 minutos",
+      "Forma untada com margarina e trigo, com furo no meio de cm de diâmetro ou outra forma pequena (o bolo fica alto e fofinho)"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "BRUNA GISELE DE OLIVEIRA BRAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307660-bolo-de-banana-com-gotas-de-chocolate.html"
+}

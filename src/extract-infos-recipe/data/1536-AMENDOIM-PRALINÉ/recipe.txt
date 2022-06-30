@@ -1,0 +1,23 @@
+{
+  "nome_receita": "AMENDOIM PRALINÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de amendoim torrado",
+      "1 xícara (chá) de açúcar",
+      "1/2 colher (chá) de fermento químico em pó",
+      "2 colheres (sopa) de chocolate em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de fundo largo, coloque o amendoim, o açúcar, o fermento, o chocolate e 1/2 xícara (chá) de água.",
+      "Leve ao fogo médio, mexendo de vez em quando.",
+      "Assim que começar a açucarar, mexa vigorosamente, sem parar, até secar bem.",
+      "Retire do fogo e deixe esfriar em uma assadeira."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307795-amendoim-praline.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FILÉ DE FRANGO À PARMEGIANA SEM OVO E FARINHA DE ROSCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 filés de Frango",
+      "sal e alho a gosto",
+      "150 gde mussarela",
+      "3 colheres de azeite",
+      "3 colheres de farofa pronta",
+      "1 sachê de molho pronto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure o filé com azeite de oliva",
+      "Separe numa assadeira",
+      "Coloque a farofa pronta por cima",
+      "E por último a mussarela e o molho pronto.",
+      "Asse por 10 minutos",
+      "E pronto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306957-file-de-frango-a-parmegiana-sem-ovo-e-farinha-de-rosca.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SUCO DE AÇAÍ REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bola de Frooty Açaí",
+      "5 unidades de uva",
+      "3 morangos",
+      "1 copo de água de coco",
+      "1 pedaço pequeno de gengibre (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador ou mixer até obter uma consistência cremosa e homogênea.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306095-suco-de-acai-refrescante.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de milho (sem a água)",
+      "1 e 1/2 xícara de leite",
+      "1 colher de sopa de manteiga",
+      "1/2 cebola ralada",
+      "1 lata de creme de leite",
+      "2 colheres (sopa) de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata 1 lata de milho com o leite.",
+      "Coe e reserve.",
+      "Em uma panela refogue a manteiga com a cebola.",
+      "Adicione a farinha de trigo mexa rapidamente",
+      "Deixe dourar um pouco.",
+      "Quando a farinha estiver dourada, junte aos pouocs o creme de milho (para não fazer pelotas. Tenha paciência)",
+      "Quando estiver completemente dissolvido deixe cozinhar por 10 minutos.",
+      "Acrescente o creme de leite, e por fim a outra lata de milho (em grãos).",
+      "Deixe esquentar um pouco, desligue o fogo e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDA BARROSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307180-creme-de-milho.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DE COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve manteiga",
+      "1 maçã",
+      "suco de meio limão",
+      "1/2 copo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador até que a couve fique bem picadinha, deixando o suco bem homogêneo.",
+      "Beba gelado e sem açúcar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Couve é rica em fibras e ajudam na redução da absorção de gordura no organismo, contém cálcio, vitaminas do complexo B.\nAuxilía saúde óssea e cerebral."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310140-suco-de-couve.html"
+}

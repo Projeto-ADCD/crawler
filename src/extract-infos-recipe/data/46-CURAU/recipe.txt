@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CURAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de milho verde",
+      "500 ml de leite",
+      "1/2 xícara (chá) de açúcar",
+      "1 colher (sobremesa) de manteiga sem sal",
+      "Canela em pó para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho e o leite no liquidificador por uns 5 minutos",
+      "Passe a mistura por uma peneira e coloque o suco obtido em uma panela.",
+      "Acrescente o açúcar e a manteiga.",
+      "Leve a panela ao fogo e deixe cozinhar, mexendo sempre, até engrossar.",
+      "Coloque em taças e polvilhe com a canela em pó.",
+      "Sirva quente ou frio a seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314718-curau.html"
+}

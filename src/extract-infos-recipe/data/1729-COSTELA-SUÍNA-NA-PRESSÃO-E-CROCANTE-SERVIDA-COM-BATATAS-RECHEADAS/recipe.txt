@@ -1,0 +1,60 @@
+{
+  "nome_receita": "COSTELA SUÍNA NA PRESSÃO E CROCANTE SERVIDA COM BATATAS RECHEADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 costela suína sem tempero (1,5 kg)",
+      "2 folhas de louro",
+      "1 laranja grande",
+      "1 colha (chá) de cominho em grãos",
+      "1 colher (sopa) de paprica doce defumada",
+      "1 colher (chá) de chipotle",
+      "1 colher (sopa) de cebola em pó",
+      "1 colher (chá) de alho em pó",
+      "1 colher (sopa) de açúcar",
+      "ervas finas a gosto (tomilho, alecrim e manjericão)",
+      "sal a gosto",
+      "pimenta-de-reino a gosto",
+      "2 colheres (sopa) de manteiga",
+      "3 batatas grandes",
+      "2 fatias de bacon",
+      "1 pote pequeno de ricota cremosa ou requeijão",
+      "20 g de queijo rockfort",
+      "50 g de queijo parmesão",
+      "4 ramos de cebolinha picada",
+      "1 pitada de sal",
+      "1 pitada de pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "COSTELA SUÍNA",
+      "Primeiro precisamos fazer o dry rub da costela suína. Misture todos os temperos secos da costela em um pote (páprica, cominho, chipotle, cebola, alho, açucar, sal, pimenta-do-reino, ervas finas e a folha de louro picada).",
+      "Depois de misturado, passe tudo com as mãos na costela. Deixe ela bem \"lambuzada\" e depois esprema a laranja em cima. Deixe descansando por uns 20 a 30 minutos. Ela pode descansar dentro da panela de pressão, sem água ainda.",
+      "A minha panela de pressão não é compatível com o tamanho da costela, então cortei a costela ao meio. Sem problemas.",
+      "Após esse tempo de descanso, adicione água na panela de pressão. Não precisa cobrir as costelas. Coloque apenas uns dois dedos de água na panela. A costela vai soltar muito líquido nessa etapa. Ferva a costela por 30 minutos na pressão.",
+      "Tirando da panela de pressão, coloque a costela e o líquido em uma assadeira. A costela tem que ficar com os ossos virados para baixo. Essa etapa se chama de braseado. A ideia não é cobrir toda a costela com liquido de novo",
+      "Se ficar apenas metade coberto com água, ok. É o ideal até. Vamos assar a costela em fogo médio, para desidratar um pouco e também reduzir o molho para fazer o grave.",
+      "Essa etapa levará 30 minutos com o fogo a 250° C. Com 15 minutos, vire a costela de lado. Ossos para cima.",
+      "Após essa etapa, a costela já vai estar bastante macia e pronta pra comer, porém não vai estar com uma crosta crocante.",
+      "Então a próxima etapa é bem rápida. Todo o liquido reduzido da assadeira será utilizado como \"grave\"(molho) para regar a costela na hora de comer. Se quiser comer sem o molho depende da preferência de cada um.",
+      "Ao tirar a costela da assadeira, coloque em uma frigideira grande bem quente com as 2 colheres de manteiga.",
+      "Coloque primeiro com os ossos para cima, pra que a manteiga dê bastante sabor e forme uma crosta na costela. Se a sua frigideira não for antiaderente, de vez em quando mexa a costela para que ela não grude no fundo.",
+      "Faça isso por 3 minutos para cada lado da costela. Você ainda pode recircular essa manteiga regando a costela com uma colher. Isso da ainda mais sabor a ela.",
+      "Essa etapa finaliza a costela.",
+      "BATATA RECHEADA",
+      "Enquanto aguardar o períodos de longa cocção da costela, você já pode ir fazendo a batata recheada.",
+      "A primeira etapa é lavar as batatas e colocar para cozinhar em água quente por 30 minutos.",
+      "Após o cozimento, com uma colher (chá), faça um buraco no meio delas. Cuidado para que o buraco não atravesse a batata. Esse buraco deve ficar virado pra cima. O resto de batata que você tira para fazer o buraco pode ser usados como purê de batatas em outro prato.",
+      "Em uma frigideira quente, frite as duas fatias de bacon até ficarem bem douradas e crocantes. Não precisa de óleo. Apenas a gordura do bacon na frigideira. Após frito, com uma faca triture todo esse bacon ate ficar bem pequeno mesmo. Mas esse tamanho pode variar com o seu gosto.",
+      "Agora em uma tigela misture o sal, pimenta-do-reino, creme de ricota ou requeijão, o parmesão ralado, o rockfort, cebolinha picada e o bacon triturado. Depois de misturar, preencha os buracos nas batatas.",
+      "Acrescente um pouco mais de parmesão ralado em cima para que ele fique gratinado quando levar as batatas ao forno.",
+      "Embrulhe as batatas com papel-alumínio e leve ao forno junto com a costela por 10 minutos.",
+      "E pronto. Retire os dois juntos do forno. A batata vai levar mais tempo para esfriar e assim você não queima a sua boca na hora de comer.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "EDUARDO LEÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306980-costela-suina-na-pressao-e-crocante-servida-com-batatas-recheadas.html"
+}

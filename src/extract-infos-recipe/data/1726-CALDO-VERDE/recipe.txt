@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CALDO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata inglesa",
+      "1 calabresa defumada",
+      "3 folhas de couve",
+      "1/4 de tablete de caldo de carne",
+      "1 cebola",
+      "15 ml de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas já descascadas para cozinhar",
+      "Ao terminar o cozimento leve as batatas para o liquidificador batendo até que vire um creme, se desejar pode colocar um pouco da água do cozimento",
+      "Refogue a cebola, manteiga e o tablete, em seguida coloque a calabresa defumada cortada em cubos e também o couve em tiras para atribuir o gosto do refogado",
+      "Mexa, coloque o creme de batata, aguarde alguns minutos para fervura e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "AMANDA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306998-caldo-verde.html"
+}

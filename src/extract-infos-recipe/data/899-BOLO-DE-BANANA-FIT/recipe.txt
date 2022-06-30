@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE BANANA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 bananas",
+      "1 xicara (chá) de farinha integral",
+      "1 xicara (chá) de aveia",
+      "2 xicaras (chá) de açucar mascavo",
+      "1/2 xicara (chá) de óleo de coco",
+      "1/2 xicara de leite integral",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador 1 banana, os ovos, o leite e o óleo.",
+      "Bata com a mistura as duas xicaras de açúcar mascavo.",
+      "Em uma tigela misture os produtos secos: farinha integral, aveia. Em seguida, coloque dentro a mistura liquida mexendo com uma colher de pau.",
+      "Junte a mistura 1 colher (sopa) de fermento mexendo devagar.",
+      "Unte sua forma e garanta que seu forno já esteja aquecido a 180º C para entrar o bolo.",
+      "Na montagem dentro da forma pique pedaços de banana, faça uma camada de massa e coloque o recheio com bananas picadas, em seguida coloque mais uma camada de massa e pode levar ao forno."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ARIELA SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310993-bolo-de-banana-fit.html"
+}

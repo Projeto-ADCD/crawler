@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COMPOTA DE LARANJA-DA-TERRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "18 laranjas-da-terra",
+      "1,5 kg de açúcar cristal",
+      "3 a 4 cravos da índia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as laranjas tirando apenas a casca verde.",
+      "Corte-as em quatro partes, no comprimento, sem separar as partes.",
+      "Tire a polpa das laranjas.",
+      "Lave-as e leve-as ao fogo, cobertas com água quente, para dar uma rápida fervura.",
+      "Escorra bem, deixe esfriar e ponha de molho em bastante água fresca.",
+      "Troque a água durante uns três ou quatro dias até perder todo o amargo.",
+      "Faça com o açúcar e um litro de água uma calda rala.",
+      "Adicione as laranjas e os cravos, deixe ferver por aproximadamente 30 minutos e retire.",
+      "No dia seguinte, torne a levar ao fogo brando e deixe ferver até que fiquem transparentes e brilhantes e a calda relativamente grossa."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309871-compota-de-laranja-da-terra.html"
+}

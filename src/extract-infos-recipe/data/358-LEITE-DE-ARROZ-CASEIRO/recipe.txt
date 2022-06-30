@@ -1,0 +1,22 @@
+{
+  "nome_receita": "LEITE DE ARROZ CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de água",
+      "1 xícara de arroz",
+      "1 pitada sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque todos os ingredientes",
+      "Deixe em fogo baixo por 15 minutos",
+      "Em um liquidificador, na função pulsar, bata o conteúdo da panela ainda quente",
+      "Coe e leve à geladeira"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313095-leite-de-arroz-caseiro.html"
+}

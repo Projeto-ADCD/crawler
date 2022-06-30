@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE FRUTAS VERMELHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "1 pacote e meio de bolacha maria ou maisena",
+      "150 g de manteiga derretida",
+      "CREME",
+      "500 ml de leite",
+      "2 gemas",
+      "1/2 lata de leite condensado",
+      "3 colheres (sopa) rasa de maizena",
+      "3 gotas de baunilha",
+      "frutas de sua preferência",
+      "CALDA",
+      "1 e meia xícara (chá) de frutas vermelhas",
+      "3 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Triture a bolacha no processador ou liquidificador.",
+      "Coloque em uma tigela, misture com as mãos junto com a manteiga até virar uma farofa.",
+      "Forre o fundo e as laterais de uma forma de aro removível.",
+      "Reserve.",
+      "CREME",
+      "Em uma panela junte todos os ingredientes mexendo cuidadosamente até formar um creme tipo mingau consistente.",
+      "Despeje sobre a massa.",
+      "CALDA",
+      "Em uma panela, coloque as frutas e o açúcar e leve ao fogo por cerca de 5 minutos, após iniciar a fervura. Retire e deixe esfriar. Sirva sobre a torta."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FELIPE CAMARGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309371-torta-de-frutas-vermelhas.html"
+}

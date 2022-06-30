@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CUPCAKE TROPICAL COM SUSPIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "manteiga ",
+      "2 ovos grandes",
+      "5 colheres (sopa) de açúcar refinado",
+      "5 colheres (chá) de açúcar demerara",
+      "1 colher e 1/2 (sopa) de cacau em pó",
+      "1 xícara e 1/2 de farinha",
+      "1 colher (sopa) de fermento",
+      "1/2 lata de leite condensado",
+      "1 laranja",
+      "1 morango",
+      "1 tangerina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte ramequins e polvilhe com açúcar demerara.",
+      "Coloque a farinha em uma tigela.",
+      "Acrescente o cacau em pó e mexa.",
+      "Quebre 1 ovo e acrescente e coloque apenas a gema do outro na tigela, a clara, será colocada em uma tigela de batedeira.",
+      "Misture o que está na tigela.",
+      "Coloque o fermento.",
+      "Acrescente o leite condensado e mexa.",
+      "Esprema a laranja na massa (com uma peneira) e mexa novamente.",
+      "Coloque a massa até a metade do ramequin (se não tiver um ramequin, podem ser usados os potes do aparelho de fondue, como eu fiz).",
+      "Deixe 20 minutos no forno (ou até a massa dourar, mas não poderá estar completamente assada, para poder assar junto com o suspiro).",
+      "Enquanto a massa assa, faça o suspiro.",
+      "Para faze-lo, bata a clara que está na tigela da batedeira e a bata até ficar na consistência de suspiro, e acrescente as colheres de açúcar de pouco em pouco, enquanto está batendo.",
+      "Após o tempo, retire a massa e enfeite em cima com o suspiro (pode enfeitar do seu jeito, ou fazer igual o meu, na foto acima).",
+      "Deixe mais ou menos 5 minutos no forno (ou até o suspiro dourar e a massa assar).",
+      "Após retirar do forno, enfeite com as frutas, podendo fazer do seu jeito, ou igual ao meu, na foto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KARINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308641-cupcake-tropical-com-suspiro.html"
+}

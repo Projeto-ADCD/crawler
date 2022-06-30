@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO DE MORANGO COM COBERTURA",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "2 colheres (sopa) de manteiga sem sal",
+      "1 xícara (chá) de leite",
+      "2 e 1/2 xícara (chá) de farinha de trigo",
+      "2 xícaras (chá) de açúcar refinado",
+      "1 xícara (chá) ou 4 colher (sopa) de Nesquik",
+      "1 colher (sopa) de essência de morango",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "COBERTURA": [
+      "1 caixa de 295 g de leite condensado",
+      "1 caixa de 200 g de creme de leite sem soro",
+      "3 colheres (sopa) de Nesquik",
+      "1/2 colher (sopa) de essência de morango",
+      "1 colher (sopa) de manteiga sem sal"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Preaqueça o forno em 180° C por pelo menos 15 minutos.",
+      "Em uma vasilha penere a farinha, o açúcar, o Nesquik e o fermento em pó, reserve.",
+      "No liquidificador coloque os ovos, o leite e a manteiga. Bata por pelo menos 2 minutos.",
+      "Junte o líquido do liquidificador com os ingredientes da vasilha reservada e acrescente a essência.",
+      "Mexa delicadamente até que fique uma massa homogênea.",
+      "Coloque em uma assadeira untada com manteiga e farinha de trigo, e leve ao forno para assar de 40 à 45 minutos."
+    ],
+    "COBERTURA ": [
+      "Coloque em uma panela (com fogo desligado) o leite condensado, o creme de leite, o Nesquik, a essência de morango e a manteiga.",
+      "Misture tudo ainda com o fogo desligado.",
+      "Ligue o fogo, e mexa sem parar até que engrosse, em fogo médio (não deixe em ponto de brigadeiro).",
+      "Desenforme a massa do bolo e cubra com o brigadeiro.",
+      "Espere esfriar e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANA CAROLINE ANDRIOLI BRIZOTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310876-bolo-de-morango-com-cobertura.html"
+}

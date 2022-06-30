@@ -1,0 +1,33 @@
+{
+  "nome_receita": "VINAGRETE ESPECIAL BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cebolas médias picada em cubinhos",
+      "2 pimentões verde picado em cubinhos",
+      "1 pimentão vermelho picado em cubinhos (opcional)",
+      "1 pimentão amarelo picado em cubinhos (opcional)",
+      "2 pimentas de cheiro (pimenta nordestina) picadas",
+      "5 tomates grandes (não muito maduros) picados em cubinhos",
+      "50 ml de azeite de oliva",
+      "5 limões",
+      "4 colheres (sopa) de cheiro-verde",
+      "2 colheres (sopa) de chimichurri sem pimenta",
+      "1 colheres (sopa) de lemon pepper",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa grande, adicione as cebolas, pimentões, tomates a pimenta-de-cheiro, misture bem",
+      "Acrescente o chimichurri, o lemon pepper, a pimenta do reino, o sal e o cheiro verde, misture bem",
+      "Adicione o azeite de oliva e em seguida esprema os limões (caso seja necessário adicione mais limões), misture bem, tampe e leve à geladeira apenas para dar uma resfriada",
+      "Fica uma delícia",
+      "Show de bola!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311727-vinagrete-especial-by-cristiano-grillo.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA COLORIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de cenoura",
+      "1 xícara de pimentão verde",
+      "1 xícara de tomate",
+      "1 xícara de cebola",
+      "1 alho",
+      "2 colheres de margarina",
+      "3 xícaras de arroz cozido",
+      "1 xícara de farinha de mandioca",
+      "100 g de queijo ralado",
+      "orégano",
+      "sal",
+      "coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave, descasque e rale a cenoura. Corte o pimentão, tomate e cebola em cubos. Reserve tudo.",
+      "Doure o alho na margarina e refogue o pimentão, tomate, cebola e a cenoura por ultimo.",
+      "Acrescente o arroz cozido, a farinha de mandioca, o queijo ralado e o orégano e misture.",
+      "Acerte o sal e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JUCELIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311607-farofa-colorida.html"
+}

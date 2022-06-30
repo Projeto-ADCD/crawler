@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PIRARARA NO LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de manteiga",
+      "4 dentes de alho cortados em laminas",
+      "1 cebola cortada em rodelas",
+      "1/2 pimentão vermelho cortado em rodelas",
+      "1/2 pimentão vermelho cortado em rodelas",
+      "2 tomates picadinhos (1 sem casca)",
+      "1 garrafinha de leite de coco",
+      "4 folhas de louro",
+      "150 ml de água",
+      "2 postas grandes de pirarara congelada (rende 8 pedaços)",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as postas em 8 pedaços e retire a espinha central e as placas de gordura maiores, mantendo o couro e não tempere",
+      "Em uma panela grande antiaderente derreter a manteiga",
+      "Adicione o alho e refogue",
+      "Adicione os dois tomates e sal",
+      "Após os tomates de desfazerem, adicione as postas sobre o refogado e coloque sal sobre os pedaços de peixe.",
+      "Adicione 150 ml de água e as folhas de louro e deixe ferver",
+      "Após 5 minutos de fervura adicione o leite de coco",
+      "Coloque as rodelas de pimentão vermelho, amarelo e cebola",
+      "Adicione sal e pimenta do reino sobre os legumes.",
+      "Abaixe o fogo e deixe apurando por 25 minutos",
+      "Aumente o fogo, destampe e deixe apurar o molho a gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Tirar o excesso de gordura faz com que o sabor do peixe não se perca pois a gordura tem gosto forte"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IGOR CORTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310660-pirarara-no-leite-de-coco.html"
+}

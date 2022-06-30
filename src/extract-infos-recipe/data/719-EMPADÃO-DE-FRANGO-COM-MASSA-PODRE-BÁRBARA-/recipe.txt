@@ -1,0 +1,51 @@
+{
+  "nome_receita": "EMPADÃO DE FRANGO COM MASSA PODRE (BÁRBARA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa",
+      "500 g de margarina gelada (preferencialmente 80% de lipídeos )",
+      "1 kg de farinha de trigo com fermento",
+      "1 pitada de sal",
+      "Para o recheio ",
+      "1kg de frango",
+      "3 colheres (sopa) de azeite de oliva",
+      "1 cebola grande picada",
+      "2 dentes de alho amassados",
+      "1 pimentão verde picado",
+      "2 tomates picados",
+      "1 tablete de caldo de galinha para cozinhar com o frango",
+      "5 colheres de molho de tomate",
+      "1/2 xícara (chá) de salsinha picada",
+      "1 copo de 200 g de requeijão ou 1 creme de leite",
+      "1 lata de milho verde (opcional)",
+      "4 ovos cozidos",
+      "1 bisnaga de 400 g de catupiry, cheddar ou cream cheese (opcional)",
+      "azeitonas picadas (opcional)",
+      "palmito picado (opcional)",
+      "cogumelos picados (opcional)",
+      "sal, pimenta-do-reino, páprica e outros temperos a gosto",
+      "Para o acabamento",
+      "1 gema para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa ",
+      "Em uma tigela, coloque toda a margarina gelada e vá incorporando a farinha de trigo aos poucos. Amasse com as mãos até dar liga e a massa desgrude das mãos (será utilizada aproximadamente 900 g de farinha de trigo para um pote de 500 g de margarina). Reserve a massa.",
+      "Recheio ",
+      "Aqueça o azeite e doure a cebola, o tomate, o pimentão e o alho amassadinho até que fiquem bem refogados. Adicione o frango, os temperos como sal, pimenta e caldo de galinha e cozinhe na panela de pressão.",
+      "Após o frango estar cozido, agregue o milho verde, azeitonas, cogumelos e palmito, refolgando tudo mais uma vez, por fim adicione o molho de tomate, o requeijão ou creme de leite e deixe aquecer.",
+      "Cozinhe os ovos, fatie e reserve.",
+      "Montagem ",
+      "Em uma forma de preferência com fundo removível, forre o fundo e as laterais com metade da a massa.",
+      "Acrescente o frango cremoso já fio, posteriormente as fatias de ovos cozidos e finalmente o catupiry, cheddar ou cream cheese.",
+      "Abra o restante da massa com um rolo em cima de um plástico levemente enfarinhado para que ela não grude e cubra a torta.",
+      "Retire os excessos das laterais com a ajuda de uma faca lisa e dependendo da quantidade de massa que restar use-a para fazer decorações como quiser, sejam bolinhas ou use cortadores para fazer formas diferentes.",
+      "Por fim pincele a massa com a gema e leve ao forno médio (180° C), preaquecido, por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BÁRBARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311934-empadao-de-frango-com-massa-podre-barbara.html"
+}

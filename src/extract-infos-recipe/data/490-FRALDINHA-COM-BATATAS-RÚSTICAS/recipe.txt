@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRALDINHA COM BATATAS RÚSTICAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de Fraldinha fresca",
+      "200 g de sal grosso com alho",
+      "3 batatas médias",
+      "orégano a gosto",
+      "tomilho a gosto",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário de vidro, forre com uma parte do sal grosso.",
+      "Coloque a peça de fraldinha sobreposta.",
+      "Em seguida, coloque a outra parte do sal, deixe descansar por 5 minutos.",
+      "Enquanto isso, corte em cruz as batatas em pedaços grossos, banhando com azeite e após isso espalhe o orégano e o tomilho sobre as batatas.",
+      "Em seguida, as acomode no refratário junto a carne, leve ao forno o prato montado por cerca de 1h."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não esqueça de colocar/borrifar um pouco de água na carne antes de tudo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LAMARCK DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312690-fraldinha-com-batatas-rusticas.html"
+}

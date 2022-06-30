@@ -1,0 +1,30 @@
+{
+  "nome_receita": "GALINHA À BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 galinha caipira",
+      "250 g de mugunzá amarelo",
+      "250 g de carne-seca, charque ou jabá",
+      "1 gomo de linguiça calabresa",
+      "100 g de bacon",
+      "1 cebola grande",
+      "3 dentes de alho",
+      "coentro a gosto",
+      "pimenta-do-reino a gosto",
+      "colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon, quando estiver bem feito, acrescente a cebola e o alho para refogar",
+      "Coloque tudo numa panela de pressão (menos o coentro).",
+      "Acrescente os outros ingredientes e adicione água até ficar uns 3 dedos acima dos ingredientes",
+      "Depois que pegar pressão, marque 30 minutos em fogo médio",
+      "Depois é só finalizar com o coentro e servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WESLEY CARLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306333-galinha-a-brasileira.html"
+}

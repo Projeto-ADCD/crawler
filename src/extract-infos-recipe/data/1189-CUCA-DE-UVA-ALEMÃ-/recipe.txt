@@ -1,0 +1,51 @@
+{
+  "nome_receita": "CUCA DE UVA (ALEMÃ)",
+  "ingredientes": {
+    "MASSA": [
+      "250 g de farinha de trigo",
+      "150 ml de leite morno",
+      "5 a 10 g de fermento biológico",
+      "40 g de manteiga",
+      "60 g de nata (opcional, pode substituir por manteiga)",
+      "50 g de açúcar",
+      "1 pitada de sal",
+      "1 ovo",
+      "1 pitada de noz moscada moída (opcional)",
+      "raspas de limão a gosto (opcional)",
+      " "
+    ],
+    "RECHEIO": [
+      "3 ou mais cachos de uva preta"
+    ],
+    "FAROFA": [
+      "50 g de açúcar",
+      "50 g de farinha de trigo",
+      "60 g de manteiga",
+      "canela em pó a gosto (opcional)",
+      "essência de baunilha a gosto (opcional)",
+      "raspas de limão a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, junte a farinha, o sal, o açúcar, a noz moscada, as raspas de limão e o fermento. Reserve.",
+      "Em outra tigela, junte a manteiga, a nata, o ovo, uma parte do leite morno e misture.",
+      "Adicione então esta mistura à farinha, incorporando o restante do leite aos poucos até obter uma massa bastante mole e homogênea. Esta massa não precisa ficar na consistência para pão, pode ficar quase líquida mesmo.",
+      "Cubra então a massa e a deixe descansar para crescer, o que pode levar em torno de 30 minutos ou mais, dependendo da quantidade de fermento utilizada.",
+      "Enquanto isso, junte e misture os demais ingredientes para preparar a farofa.",
+      "Forre então, com papel manteiga, uma forma alta retangular, com tamanho aproximado de 19 cm x 28 cm.",
+      "Após deixar a massa descansar, despeje-a na forma cuidando para que haja altura suficiente para seu crescimento.",
+      "Distribua uma parte das uvas sobre a massa e deixe ela descansar novamente a fim de crescer mais um pouco, em torno de 15 minutos.",
+      "Preaqueça o forno a 180º.",
+      "Após deixar a massa descansar pela segunda vez, adicione o restante das uvas, desta vez pressionando-as levemente para que também fiquem parcialmente incorporadas à massa.",
+      "Misture os ingredientes da farofa, cubra a cuca com ela e leve-a ao forno por 20 a 30 minutos, até que o teste do palito indique está pronta ou até dourar a crosta.",
+      "Retire do forno e deixe a cuca esfriar.",
+      "Opcionalmente, salpique a cuca com canela em pó.",
+      "Retire o papel manteiga e sirva."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JACKELYN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309460-cuca-de-uva-alema.html"
+}

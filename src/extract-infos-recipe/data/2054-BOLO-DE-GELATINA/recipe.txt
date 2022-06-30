@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3/4 de xícara de água",
+      "3/4 de xícara de óleo",
+      "1 e 1/2 xícara açúcar",
+      "1 pacote de pó para gelatina de sua preferência",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os cinco primeiros ingredientes e reserve.",
+      "Em uma bacia coloque a farinha e o fermento",
+      "Junte o líquido batido",
+      "Misture bem",
+      "Coloque em forma pequena untada e enfarinhada",
+      "Leve para assar em forno médio até dourar.",
+      "Cubra com uma cobertura se sua preferência se desejar.",
+      "Os sabores que testei de gelatina foram, limão e morango, cobri com uma cobertura básica de chocolate ",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SILVANIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306112-bolo-de-gelatina.html"
+}

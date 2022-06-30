@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO DE PRESSÃO EXPRESS DA VIVI",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de carne moída ",
+      "1 pedaço de bacon pequeno",
+      "1/2 calabresa",
+      "4 dentes de alho grandes ",
+      "1 cebola pequena ",
+      "250 g de macarrão parafuso ou pene cru",
+      "2 sachês de molho de tomate",
+      "1 lata de milho",
+      "1 pacote de azeitonas fatiadas",
+      "sal e temperos a gosto",
+      "1 colher de margarina e um fio de azeite",
+      "água",
+      "2 folhas de louro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o alho e a cebola para dourar na panela de pressão com um fio de óleo e em seguida adicione o bacon e a calabresa picada",
+      "Adicione a carne moída e deixe refogar e dourar bem, coloque as azeitonas e o sal",
+      "Em seguida coloque o macarrão e o refogue um pouco, em seguida coloque os dois sachês de molho de tomate e caso precise água até cobrir",
+      "Adicione o milho e os temperos, eu usei: orégano, noz moscada, páprica picante, chimichurri, gotas de limão, 1 tampinha de vinho tinto e cominho.",
+      "Adicione a manteiga, o azeite e as folhas de louro, tampe a panela e depois que pegar a pressão marque de 8 a 10 minutos.",
+      "Dica: Coloque queijo parmesão por cima na hora de servir"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use carne moída previamente cozida (coloque por 4 minutos no microondas e escorra a água)\n1 cebola pequena ou meia grande\n4 dentes de alho grandes ou 6 pequenos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VICTÓRIA CECÍLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308662-macarrao-de-pressao-express-da-vivi.html"
+}

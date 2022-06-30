@@ -1,0 +1,22 @@
+{
+  "nome_receita": "VITAMINA DE BANANA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "2 colheres de (sopa) aveia",
+      "2 colheres de (sopa) açúcar",
+      "300 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no lidificador",
+      "Bata até as bananas sumirem",
+      "Coloque no copo e se sirvam"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DIÁRIO DA STEFANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307887-vitamina-de-banana-com-aveia.html"
+}

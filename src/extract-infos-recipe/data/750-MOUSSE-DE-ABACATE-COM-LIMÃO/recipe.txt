@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOUSSE DE ABACATE COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 abacates pequenos",
+      "suco de 2 limões",
+      "2 caixas de leite condensado",
+      "2 caixas de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes por uns 3 minutos no liquidificador",
+      "Coloque em uma travessa e decore com raspas de limão"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311731-mousse-de-abacate-com-limao.html"
+}

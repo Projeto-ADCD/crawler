@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CASADINHO DE PADARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo ( cerca de 2 xícaras cheias)",
+      "150 g de margarina (Sem sal) – em temperatura ambiente",
+      "100 g de açúcar refinado ( de 8 a 9 colheres)",
+      "1 colher (Sopa) de água (Se necessário)",
+      "200 g de goiabada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a farinha de trigo com o açúcar misture e em seguida adicione a manteiga.",
+      "Misture tudo com as mãos, até formar uma massa bem lisa e homogênea.",
+      "Em seguida faça bolinhas pequenas e acomode-as numa assadeira, deixando um espaço entre eles.",
+      "Leve para assar em forno preaquecido, 180ºC, por cerca de 10 minutos ou até dourar em baixo.",
+      "Enquanto assa, coloca a goiabada em um prato e amasse com um garfo até que fique bem amassadinha.",
+      "Depois leve ao microondas por 15 segundos, apenas para dar uma amolecida e ficar mais cremosa. Reserve.",
+      "Depois que os biscoitinhos estiverem assados, coloque um pouquinho de goiabada em cada parte e feche com a outra, formando o casadinho.",
+      "Para decorar, passe no açúcar cristal"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA 1: Dependendo da marca da farinha de trigo e da margarina, pode ser que seja preciso adicionar um pouquinho de água. Vá adicionando aos poucos até dar ponto na massa.\nDICA 2: O ponto certo é quando a massa não fica rachando. Para saber, basta fazer uma bolinha e se ela ficar uniforme, é porque está no ponto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "MAYARA BONGESTAB PARTELI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312460-casadinho-de-padaria.html"
+}

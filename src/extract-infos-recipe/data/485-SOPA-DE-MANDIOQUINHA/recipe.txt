@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SOPA DE MANDIOQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 kg de mandioquinha",
+      "4 litros de água",
+      "1 kg de batata",
+      "1 kg de músculos",
+      "500 g de creme de leite",
+      "4 colheres (sopa) de manteiga bem cheia",
+      "1 colher (sobremesa) de sal",
+      "4 colheres de caldo de legumes em pó",
+      "1 cebola bem grande e picada",
+      "1 cabeça de alho picada",
+      "3 colheres (sopa) de parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque todos os legumes e ferva",
+      "Coloque o sal e o caldo de legumes",
+      "Frite o musculo no alho e na cebola",
+      "No liquidificador, bata os legumes e a carne",
+      "Finalize colocando a cebolinha e o creme de leite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SIMONE JABER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312703-sopa-de-mandioquinha.html"
+}

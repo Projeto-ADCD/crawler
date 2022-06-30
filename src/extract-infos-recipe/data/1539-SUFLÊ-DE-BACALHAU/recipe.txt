@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SUFLÊ DE BACALHAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de bacalhau seco salgado",
+      "fatias de bacon cortadas em quadradinhos a gosto",
+      "1 xícara de cebola",
+      "1/2 xícara de pimentão verde",
+      "1 colher (sopa) de farinha de trigo",
+      "1 e 1/4 de xícara (chá) de leite",
+      "2 ovos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o bacalhau de molho durante uma noite, em bastante água.",
+      "Escorra, cubra novamente com água, leve ao fogo brando e deixe até que comece a cozinhar.",
+      "Se estiver muito salgado, troque a água e deixe cozinhar novamente.",
+      "Desfie o bacalhau e reserve.",
+      "Frite o bacon até que fique durinho, depois retire com uma escumadeira.",
+      "Acrescente a cebola picada e o pimentão à gordura que ficou na frigideira.",
+      "Salpique a farinha sobre os legumes, acrescente 1 xícara (chá) de leite, aos poucos, mexendo até que engrosse.",
+      "Junte o bacalhau picado, o bacon e os temperos.",
+      "Bata as gemas com 1/4 de xícara (chá) de leite e junte aos ingredientes que já estão na panela.",
+      "Cozinhe lentamente por alguns minutos, acrescente as claras batidas em neve, depois coloque numa forma untada.",
+      "Leve ao forno, preaquecido, deixando na temperatura moderada (200º C) por uns 20 minutos, até dourar.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307769-sufle-de-bacalhau.html"
+}

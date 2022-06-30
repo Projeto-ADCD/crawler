@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PURÊ DE BATATA DOCE ROSADA LIGHT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata doce rosada",
+      "1 colher (sopa) de manteiga",
+      "2 colheres ( sopa) de requeijão light",
+      "1 colher (sopa) de cebola picada",
+      "1 colher de café de alho amassado",
+      "1 xícara (chá) de leite",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas na pressão até que estejam desmanchando (20 min).",
+      "Após sair a pressão, retire as batatas e escorra a água, esfriando um pouco",
+      "Retire a pele, corte e passe num espremedor de batatas ou amasse com o garfo",
+      "Na panela, coloque a manteiga e refogue a cebola, o alho e acrescente o leite",
+      "Adicione as batatas amassadas no restante dos ingredientes e mexa no fogo médio.",
+      "Acrescente o requeijão, mexa até que todos os ingredientes estejam bem misturados.",
+      "Sirva como acompanhamento de qualquer tipo de carne."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CECÉ FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310625-pure-de-batata-doce-rosada-light.html"
+}

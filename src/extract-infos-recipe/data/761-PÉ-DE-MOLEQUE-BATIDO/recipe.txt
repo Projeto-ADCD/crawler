@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÉ DE MOLEQUE BATIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de amendoim",
+      "4 xícaras de açúcar",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o amendoim no liquidificador (não precisa virar uma farinha)",
+      "Coloque em uma panela o amendoim batido e o açúcar, misture bem, ligue o fogo e ponhe água aos poucos e mexendo.",
+      "Mexa até desgrudar da panela, fique mexendo até secar, unte uma forma com margarina e despeje o amendoim da panela, deixe secar em temperatura ambiente.",
+      "Corte em pedaços e aproveite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VITOR EDUARDO MIZERSKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311668-pe-de-moleque-batido.html"
+}

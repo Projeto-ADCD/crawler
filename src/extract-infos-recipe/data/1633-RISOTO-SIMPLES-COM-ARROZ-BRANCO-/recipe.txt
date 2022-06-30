@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOTO SIMPLES (COM ARROZ BRANCO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de azeite",
+      "1/2 cebola picada",
+      "3 dentes de alho picados",
+      "1 linguiça calabresa cortada em pedaços",
+      "1 e 1/2 xícara de arroz branco",
+      "1 lata de ervilhas e milho (ou legumes de preferência)",
+      "720 ml de caldo de carne",
+      "1 copo de requeijão (ou 1 lata de creme de leite)",
+      "100 g de queijo parmesão ralado",
+      "2 tomates cortados",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o azeite, o alho, e a cebola e deixe refogar por um minuto.",
+      "Acrescente uma xícara de arroz, mexa e deixe refogar um pouco.",
+      "Acrescente as ervilhas e os milhos (ou legumes) e o caldo de carne quente.",
+      "Acrescente uma pitada de sal, colorau e cominho.",
+      "Deixe cozinhar com a panela semi tampada, mexendo de vez enquanto.",
+      "Se secar, prove e, se o arroz ainda estiver duro, acrescente um pouco de água e mexa.",
+      "Faça isso até sentir que o arroz está ao dente ou da sua preferência.",
+      "Adicione os tomates, o requeijão (ou o creme de leite) e misture.",
+      "Coloque o queijo ralado e misture.",
+      "Finalize com cheiro-verde a gosto e sirva na hora."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "OCTAVIO XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307315-risoto-simples-com-arroz-branco.html"
+}

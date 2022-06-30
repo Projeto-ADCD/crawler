@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ DO MARIDÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz tipo 1 ",
+      "2 colheres de manteiga",
+      "200 g de peito de peru defumado picado",
+      "50 g de azeitonas sem caroço",
+      "1 lata de milho verde",
+      "1 lata de seleta",
+      "2 tabletes de caldo de picanha",
+      "2 xícaras de água",
+      "200 g de mussarela ralada",
+      "Batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num refratário marinex, misture o arroz cru, a manteiga, o milho, a seleta, o peito de peru e as azeitonas.",
+      "Ferva a água com os tabletes de caldo de picanha e após dissolverem, junte ao arroz misturado aos demais ingredientes.",
+      "Cubra o refratário com papel-alumínio e leve ao forno médio alto (200° C) por 25 minutos ou até secar a água.",
+      "Retire do forno, mexa o arroz misturando os ingredientes, espalhe a batata palha por cima e polvilhe com a muçarela, deixando derreter, servindo em seguida."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERTO REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311919-arroz-do-maridao.html"
+}

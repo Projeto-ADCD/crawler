@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE AVEIA COM CACAU NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres de iogurte natural",
+      "2 colheres de flocos finos de aveia",
+      "1 colher bem cheia de cacau em pó",
+      "1 colher rasa de achocolatado em pó",
+      "1 colher (café) de fermento",
+      "1 colher (café) de açúcar demerara (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, com a ajuda de um fouet, misture todos os ingredientes, com exceção do fermento, começando pelo ovo e iogurte.",
+      "Por fim, incorpore o fermento, misturando levemente.",
+      "Unte uma vasilha com óleo de coco e despeje a mistura (pode ser até em uma caneca tipo para caldo. Tem que ser fundinha, pois o bolo cresce)",
+      "Leve ao micro-ondas por cerca de 2 minutos, em potência alta.",
+      "Pare na metade do tempo para conferir.",
+      "Se necessário mais tempo, vá colocando aos poucos para o bolo não ficar seco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: o ponto de cozimento do bolo deve ser verificado com a ajuda de um garfo: espetou no meio, saiu limpo, está pronto.\nA calda é opcional e pode ser feita a seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SUELEN ASSIS MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307527-bolo-de-aveia-com-cacau-no-micro-ondas.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "O MELHOR BROWNIE DE CHOCOLATE DO MUNDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de achocolatado ",
+      "1 xícara de farinha de trigo",
+      "1 xícara de açúcar",
+      "4 ovos",
+      "200 g de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes em uma batedeira",
+      "Unte uma forma retangular de 20 x 30 cm",
+      "Preaqueça o forno em 180° C",
+      "Deixe assar por 40 minutos",
+      "E está pronto"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "CECÍLIA FARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307173-o-melhor-brownie-de-chocolate-do-mundo.html"
+}

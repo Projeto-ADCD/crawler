@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE CARNE MOÍDA COM REQUEIJÃO.",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio",
+      "1 kg de carne moída",
+      "3 colheres (sopa) de óleo",
+      "sal a gosto",
+      "1 masso de cheiro-verde picado",
+      "2 dentes de alho",
+      "1 colher (sopa) corante",
+      "1 pimenta de cheiro",
+      "1/2 pimentão picado",
+      "1 cebola picada",
+      "1 cenoura ralada",
+      "1 lata de milho misturado com ervilha escorridos",
+      "Massa",
+      "2 xícaras de trigo",
+      "1 copo de requeijão",
+      "1/2 copo de óleo",
+      "3 ovos",
+      "1 pitada de sal",
+      "2 colheres de fermento",
+      "150 ml de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Escalde a carne moída, coloque pra escorrer, aqueça o óleo refoque o alho e adicione a carne e todos os ingredientes deixe cozinhar até secar o caldo.",
+      "Adicione o milho verde e a ervilha.",
+      "Massa: bata todos os ingredientes no liguidificador colocando o trigo aos poucos.",
+      "Montagem",
+      "Unte uma forma retangular, adicione metade da massa, coloque o recheio por cima em seguida a outra metade da massa, coloque oregano a gosto por cima caso prefira."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "GILLENE SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309056-torta-de-carne-moida-com-requeijao.html"
+}

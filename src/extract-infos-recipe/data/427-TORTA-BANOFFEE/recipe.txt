@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TORTA BANOFFEE",
+  "ingredientes": {
+    "MASSA": [
+      "200 g de biscoito maisena",
+      "100 g de manteiga sem sal"
+    ],
+    "RECHEIO": [
+      "150 g de chocolate amargo",
+      "650 g de doce de leite pastoso",
+      "5 bananas"
+    ],
+    "MERENGUE": [
+      "4 claras",
+      "1 xícara de açúcar refinado",
+      "extrato de baunilha em gotas",
+      "canela em pó a gosto",
+      "cacau em pó a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Triture em um processador (ou liquidificador) o biscoito maisena e adicione a manteiga derretida, até formar uma farofinha.",
+      "Abra sobre a forma, formando uma camada fina que se estende até as laterais.",
+      "Leve no forno pré-aquecido a 180° C por 5 minutos.",
+      "Derreta em banho maria o chocolate amargo e o despeje sobre a massa ainda quente.",
+      "Deixe a massa descansar na geladeira até que esfrie e o chocolate se solidifique."
+    ],
+    "RECHEIO": [
+      "Coloque o doce de leite em cima da massa, formando uma camada uniforme.",
+      "Corte as bananas ao meio, no sentido do comprimento e coloque em cima do doce de leite, junto umas às outras."
+    ],
+    "COBERTURA": [
+      "Misture o açúcar e as claras e leve em fogo baixo, mexendo sem parar por 3 minutos.",
+      "Transfira a mistura para a batedeira e adicione 3 gotas de extrato de baunilha.",
+      "Bata por 10 minutos ou até atingir ponto de merengue.",
+      "Cubra as bananas com o merengue já pronto e à temperatura ambiente.",
+      "Para finalizar, polvilhe canela em pó e cacau em pó.",
+      "Leve a geladeira por 4 horas e sua sobremesa estará pronta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LIVIA RESENDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312856-torta-banoffee.html"
+}

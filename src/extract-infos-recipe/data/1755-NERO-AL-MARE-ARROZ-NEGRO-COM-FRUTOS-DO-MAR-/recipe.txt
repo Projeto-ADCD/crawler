@@ -1,0 +1,40 @@
+{
+  "nome_receita": "NERO AL MARE (ARROZ NEGRO COM FRUTOS DO MAR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "320 g de arroz negro cozido",
+      "2 lulas médias inteiras",
+      "120 g de camarão (40/50)",
+      "30 g de champignon",
+      "8 tomates cereja",
+      "100 ml de vinho branco seco",
+      "azeite extravirgem a gosto",
+      "1 colher (chá) de molho de ostras",
+      "1 limão siciliano",
+      "1 dente de alho picado",
+      "1/4 de cebola roxa",
+      "ervas de provance (tomilho, manjerona, alecrim, funcho, estragão) a gosto",
+      "pimenta-do-reino a gosto",
+      "salsa a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe reservado as 320 g de arroz negro cozidos",
+      "Limpe as lulas e os camarões. Corte as lulas em anéis e reserve os tentáculos para decoração.",
+      "Tempere os frutos do mar com sal, pimenta-do-reino e suco de meio limão siciliano",
+      "Obs. raspe o limão siciliano e reserve para finalizar o prato",
+      "Coloque o azeite em uma panela wok ou de sua preferencia, refogue o alho picado e a cebola roxa até ficarem transparentes",
+      "Adicione os frutos do mar e frite por 3 (três) minutos.",
+      "Adicione aos frutos do mar o vinho branco e deixe evaporar o alcool.",
+      "Adicione o champignon, os tomates cereja cortados em 4 (quatro) partes, o molho de ostras e as ervas de provance. Refogue por 2 (dois) minutos",
+      "Adicione o arroz negro, salsa picada e corrija o sal.",
+      "Montagem: Disponha o preparado em dois pratos fundos, coloque os tentáculos de lula por cima do Nero al Mare, salpique com a raspas de limão siciliano e divirta-se com quem você ama."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "L'OSTERIA PIRES BLANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306913-nero-al-mare-arroz-negro-com-frutos-do-mar.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BATIDA DE ABACAXI COM VODKA",
+  "ingredientes": {
+    "DEFAULT": [
+      "750 g de abacaxi",
+      "250 ml de leite condensado",
+      "250 ml de vodka",
+      "6 cubos gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo no liquidificador",
+      "Bata até ficar uma mistura homogênea."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IGO VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308402-batida-de-abacaxi-com-vodka.html"
+}

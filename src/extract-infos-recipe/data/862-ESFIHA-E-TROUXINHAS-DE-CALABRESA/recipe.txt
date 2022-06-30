@@ -1,0 +1,53 @@
+{
+  "nome_receita": "ESFIHA E TROUXINHAS DE CALABRESA",
+  "ingredientes": {
+    "MASSA": [
+      "10 g de fermento biológico",
+      "1 ovo",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sobremesa) de sal",
+      "450 ml de água morna",
+      "1 xícara de óleo de soja"
+    ],
+    "RECHEIO 1": [
+      "1 kg de peito de frango filé",
+      "1 cebola picada (200 g)",
+      "1 caixinha de creme de leite",
+      "2 tomates picados (400 g)",
+      "10 g de alho amassado",
+      "20 ml de óleo",
+      "1 tablete de caldo ",
+      "sal a gosto",
+      "Recheio 2",
+      "2 gomos de linguiça calabresa (400 g)",
+      "1 tomate cortado em rodelas finas",
+      "1 cebola cortada em rodelas finas",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em uma tigela despeje toda a farinha de trigo.",
+      "Acrescente o fermento em pó biológico e misture bem.",
+      "Acrescente o restante dos ingredientes e mexa com uma colher de pau.",
+      "Quando a água se misturar mexa com a mao ate desgrudar das mãos e da tigela.",
+      "Cubra com um plástico e com a toalha de mesa.",
+      "Deixe descansar por 30 minutos."
+    ],
+    "PREPARO DO RECHEIO 1": [
+      "Coloque o peito de frango com o tablete de caldo, depois q iniciar a pressao deixe por 30 minutos, escorra a água e tampe novamente, balance a panela até desfiar o frango.",
+      "Em uma panela doure a cebola, acrescente o alho e coloque o frango, acrescente o tomate e deixe ferver, coloque o sal e deixe secar a água, acrescente um pouco de creme de leite para ficar cremoso."
+    ],
+    "PREPARO DO RECHEIO 2": [
+      "Descasque e corte em dodelas a calabresa o tomate.",
+      "Com a massa descansada abra e recheie.",
+      "Para o frango abra e coloque o frango e feche como esfiha.",
+      "Para a calabresa abra a massa, coloque a calabresa como se fosse pizza coloque um pedaço de mussarela tomate e feche como trouxinhas.",
+      "Ligue o forno a 200 graus e deixe assar por 30 minutos ou ate dourar a massa"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "WELLINGTON MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311177-esfiha-e-trouxinhas-de-calabresa.html"
+}

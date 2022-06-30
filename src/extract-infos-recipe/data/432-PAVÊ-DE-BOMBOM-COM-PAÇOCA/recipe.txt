@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ DE BOMBOM COM PAÇOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "mesma medida de leite",
+      "1 caixinha de creme de leite",
+      "1 colher (sopa) bem cheia de amido de milho",
+      "1 gema de ovo",
+      "2 pacotes de bolacha maisena",
+      "um pouco de leite pra mergulhar a bolacha",
+      "1 pote de paçoca",
+      "6 bombons sonho de valsa picados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela o leite condensado, a gema, a maisena dissolvida no leite e mexa em fogo baixo/medio até engrossar",
+      "Desligue o fogo e colocar o creme de leite",
+      "Coloque na geladeira até chegar ao ponto de montar (cerca de 4 horas)",
+      "Intercale camadas de creme, bolacha maisena mergulhada no leite e paçoca esfarelada",
+      "Decore com paçoca e bombom picado"
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SAYURI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312846-pave-de-bombom-com-pacoca.html"
+}

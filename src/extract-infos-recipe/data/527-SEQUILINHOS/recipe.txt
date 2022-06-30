@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SEQUILINHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de polvilho doce ou araruta",
+      "1 xícara (chá) de açúcar",
+      "2 ovos",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 pitada de sal",
+      "250 g de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com as mãos faça um creme com a margarina, os ovos e o açúcar.",
+      "Depois que fizer o creme acrescente o polvilho e o trigo amasse até desgrudar das mãos, pode até precisar de mais trigo.",
+      "Faça bolinhas dê uma amassadinha com o garfo para formar o biscoitinho.",
+      "Asse em forma untada com margarina e farinha de trigo em temperatura de 220°C, até dourar.",
+      "Espere esfriar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "MAJU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312596-sequilinhos.html"
+}

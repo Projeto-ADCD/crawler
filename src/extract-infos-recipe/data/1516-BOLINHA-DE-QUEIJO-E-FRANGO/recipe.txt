@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLINHA DE QUEIJO E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "100 g de mussarela ralada",
+      "100 g de queijo prato ralado",
+      "1/4 xícara de farinha de trigo",
+      "100 g de frango desfiado",
+      "tempero a gosto",
+      "óregano a gosto",
+      "leite ",
+      "farinha de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes (menos o leite e a farinha de rosca)",
+      "Amasse com as mãos até obter uma massa firme.",
+      "Faça pequenas bolinhas.",
+      "Passe no leite e na farinha de rosca e leve a geladeira por mais ou menos 1 hora para ficar bem firme.",
+      "Frite em óleo quente poucas bolinhas por vez, para não grudarem umas nas outras.",
+      "Sirva bem quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307941-bolinha-de-queijo-e-frango.html"
+}

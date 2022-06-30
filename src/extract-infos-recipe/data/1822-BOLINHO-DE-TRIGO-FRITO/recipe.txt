@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE TRIGO FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 Ovos",
+      "1 copo americano de açúcar",
+      "1 colher (sobremesa) de fermento em pó",
+      "1pitada de sal",
+      "1 copo americano de leite",
+      "Farinha de trigo até da o ponto",
+      "Óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque os ovos, o açúcar, o sal e o fermento e misture.",
+      "Adicione a farinha de trigo aos poucos e vai sovando a massa",
+      "O ponto da massa e até desgrudar da mão",
+      "Enrrole a massa em tirinhas e junte as pontas",
+      "Frite em óleo quente"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANGELA SODRÉ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306698-bolinho-de-trigo-frito.html"
+}

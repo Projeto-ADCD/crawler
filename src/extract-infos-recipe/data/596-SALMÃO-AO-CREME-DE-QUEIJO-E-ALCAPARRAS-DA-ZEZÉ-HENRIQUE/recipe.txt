@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SALMÃO AO CREME DE QUEIJO E ALCAPARRAS DA ZEZÉ HENRIQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de salmão",
+      "300 g dequeijo prato ou mozzarella cortado em cubinhos de mais ou menos 2 cm",
+      "2 colheres (sopa) de azeite",
+      "1 colher (sopa) de alcaparras",
+      "1 lata de creme de leite",
+      "1 pote de requeijão",
+      "parmesão ralado a gosto ",
+      "pimenta branca e sal a gosto"
+    ]
+  },
+  "passos": {
+    "SALMÃO": [
+      "Tempere o salmão com a pimenta, o sal e o azeite em uma assadeira.",
+      "Cubra com papel-alumínio e leve ao forno preaquecido a 180° C por 30 minutos."
+    ],
+    "CREME": [
+      "Em uma panela coloque o queijo, o creme de leite e o requeijão.",
+      "Cozinhe durante aproximadamente 30 minutos até formar um molho homogêneo."
+    ],
+    "FINALIZAÇÃO": [
+      "Após o cozimento do salmão e do creme, coloque as alcaparras por cima do salmão, despeje o creme no salmão",
+      "Salpique o queijo parmesão para gratinar. Leve ao forno por mais alguns minutos para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FABRICIO COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312413-salmao-ao-creme-de-queijo-e-alcaparras-da-zeze-henrique.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CALDO DE SURURU",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de camarão",
+      "100 ml de azeite",
+      "200 ml de leite de coco",
+      "100 g de amendoim torrado e descascado",
+      "100 g de castanha",
+      "centro a gosto",
+      "1 cebola média",
+      "1 pimentão",
+      "1 tomate vermelho",
+      "1 kg de aipim",
+      "1 kg de Sururu",
+      "sal a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture o tomate, cebola, castanha, pimentão, amendoim, coentro e o azeite.",
+      "Não precisa ser um triturador, pode bater no liquidificador",
+      "Lave o sururu.",
+      "Caso já venha lavado e tratado, coloque rapidamente na água com um limão.",
+      "Lave e jogue a água fora.",
+      "Cozinhe o aipim a ponto de ficar fácil para bater no liquidificador.",
+      "Bata no liquidificador junto com o leite de coco.",
+      "Coloque o que triturou em uma panela grande junto com o sururu e deixe ferver.",
+      "Após ferver espere 10 minutos e acrescente o aipim.",
+      "Mexa para não grudar no fundo da panela por 15 minutos.",
+      "Pronto para servir com um limão"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TALITA ROMERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307155-caldo-de-sururu.html"
+}

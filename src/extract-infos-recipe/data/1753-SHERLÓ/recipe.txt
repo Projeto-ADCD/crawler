@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SHERLÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata ou caixinha de leite condensado",
+      "1 lata ou caixinha de creme de leite",
+      "790 ml de leite de vaca",
+      "4 ovos",
+      "2 colheres (sopa) amido de milho",
+      "300 ml de água",
+      "6 colheres (sopa) achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1°creme",
+      "Uma panela coloque o leite condensado, o leite,os ovos sem a clara e as colheres (sopa) de amido de milho até engrossar,quando engrossar colocar o creme em um refratário e reservar",
+      "Ferva a água junto ao achocolatado em pó e espere esfriar, depois molhe o biscoito na mistura e coloque em cima do creme",
+      "2°creme",
+      "Bata as claras em neve até obter uma textura homogênea e misture o creme de leite (sem soro) e as colheres (sopa) de açúcar e depois coloque por cima das camadas já feitas",
+      "Depois colocar o doce no congelador por 8 horas ou até endurecer",
+      "Sirva-se!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA LUISA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306922-sherlo.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ENROLADINHO DE SALSICHA E DE PIZZA ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo",
+      "1 xícara de leite",
+      "1 colher (sopa) de margarina",
+      "1 colher (sopa) de fermento (químico ou biológico)",
+      "sal a gosto",
+      "1 gema",
+      "16 metades de salsicha (cozida) ou presunto e queijo",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha de trigo, o fermento, a margarina e o sal",
+      "Misture o leite aos poucos até formar uma mistura homogênea",
+      "Espalhe farinha de trigo em uma mesa ou bancada,",
+      "Com um rolo de macarrão ou garrafa estique a massa e corte a em circulos.",
+      "Preaqueça o forno a 250° C",
+      "Recheio de salsicha",
+      "Enrole a salsicha na massa deixando uma parte para fora.",
+      "Recheio de Pizza:",
+      "Feche totalmente a massa com o presunto e queijo dentro e faça um corte em cima para decorar.",
+      "Unte bastante uma assadeira com margarina",
+      "Pincele a gema por cima e coloque orégano.",
+      "Asse por 20 minutos a 250° C"
+    ]
+  },
+  "tempo_de_preparo": "38 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "HAT3R 147",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308673-enroladinho-de-salsicha-e-de-pizza-assado.html"
+}

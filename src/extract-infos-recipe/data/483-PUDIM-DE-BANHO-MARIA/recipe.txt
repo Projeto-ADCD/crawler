@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM DE BANHO MARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos inteiros",
+      "1 caixa de leite condensado",
+      "600 ml de leite",
+      "1 pacote de côco ralado (opcional)",
+      "2 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o leite, o leite condensado e o côco ralado por no mínimo 5 minutos.",
+      "Na forma de pudim, faça a calda, derretendo as 2 xícaras de açúcar em fogo médio, até que fique líquida.",
+      "Coloque na forma com a calda, toda a mistura do liquidificador.",
+      "Coloque esta forma do pudim, dentro de outra maior com água para que cozinhe em banho Maria.É ideal que tenha pelo menos uns 3 dedos de água para ferver e cozinhar.",
+      "Coloque as formas no forno à 250°C por 45 minutos. Ligue somente a parte de baixo do forno, com o dourador desligado, ligando o dourador somente no final, quando faltar uns 5 minutos para terminar.",
+      "Para ver se está pronto, fure com um palito e veja se a massa está cozida, sem sujar o palito.",
+      "Retire do forno e deixe esfriar completamente antes de desenformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O ideal é que fique na geladeira por algumas horas para ganhar consistência.\nPara desenformar, solte as laterais da forma com uma faca cuidadosamente antes de virar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JUCEMARA DE FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312706-pudim-de-banho-maria.html"
+}

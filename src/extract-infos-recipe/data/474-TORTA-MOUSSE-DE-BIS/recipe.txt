@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTA MOUSSE DE BIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite sem soro",
+      "2 caixas de bis"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque a lata de leite condensado e cubra com água",
+      "Feche a panela e leve ao fogo alto até pegar pressão",
+      "Depois que pegar pressão, abaixe o fogo e deixe cozinhar por 30 minutos",
+      "Espere a pressão sair naturalmente, abra a panela e retire a lata",
+      "Somente abra a lata de leite condensado depois que ela estiver fria",
+      "Em uma tigela, misture o leite condensado cozido, o creme de leite e os chocolates Bis picados",
+      "Despeje e espalhe a mistura uniformemente em uma forma de 20cm de diâmetro com fundo removível e leve ao freezer até endurecer"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva gelada\nDica: reserve um pouco de Bis picado para decorar. Fica um charme"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JENNIFER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312729-torta-mousse-de-bis.html"
+}

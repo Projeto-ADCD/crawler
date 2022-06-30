@@ -1,0 +1,30 @@
+{
+  "nome_receita": "LASANHA DE PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "5 dentes de alho",
+      "100 g de bacon picados em cubos",
+      "1/2 kg de macarrão penne",
+      "1 lata de extrato de tomate",
+      "1 lata de creme de leite",
+      "3 cubos de caldo de carne",
+      "250 g de presunto",
+      "5 latas da mesma medida do pomarola de água",
+      "250 g de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o bacon na panela de pressão e frite depois de frito acrescente os dentes de alhos espremidos a cebola o presunto e refogue, depois acrescente o extrato de tomate, o creme de leite o caldo de carne e o macarrão.",
+      "Tampe a panela, sempre dando uma sacudida na panela para não grudar no fundo, deixe chiar por 10 minutos e desligue.",
+      "Ainda quente coloque no refratário e a mussarela por cima fazendo camadas.",
+      "Leve ao forno para gratinar está pronta a lasanha de panela de pressão, uma delícia.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312075-lasanha-de-panela-de-pressao.html"
+}

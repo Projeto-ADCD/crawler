@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE BANANA COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de óleo (120 ml)",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de leite (240 ml)",
+      "1 colher (sopa) de fermento em pó",
+      "bananas em rodelas a gosto",
+      "doce de leite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as claras e bata em ponto de neve, reserve.",
+      "Na batedeira, bata as gemas com o óleo e o açúcar até misturar muito bem.",
+      "Junto a essa mistura, intercale a farinha (peneirada) com o leite, misture muito bem.",
+      "Acrescente as claras em neve delicadamente e, por fim, o fermento.",
+      "Acima da massa, coloque as bananas em rodelas e colheradas de doce de leite.",
+      "Coloque em uma forma untada e enfarinhada e leve ao forno, 180ºC, por uns 45 minutos, até assar completamente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313179-bolo-de-banana-com-doce-de-leite.html"
+}

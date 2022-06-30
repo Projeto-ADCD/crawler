@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE CHURROS INVERTIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara (chá) de leite (240 ml)",
+      "150 ml de óleo",
+      "1 e 1/2 xícaras (chá) de açúcar (270 g)",
+      "2 xícaras (chá) de farinha de trigo (280 g)",
+      "1 colher (chá) de canela em pó (1,5 g)",
+      "1 colher (sopa) de fermento químico em pó (12 g)",
+      "1 latas de leite condensado (395g cada)",
+      "Para decorar (opcional)",
+      "1 colher (sopa) de açúcar de confeiteiro ( 5 g)",
+      "1 pitada de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque os ovos, o óleo, o leite e o açúcar. Bata bem até que fique homogêneo.",
+      "Despeje esta mistura em um , adicione e misture aos poucos a farinha de trigo.",
+      "Por último junte a canela e o fermento químico em pó. Misture delicadamente.",
+      "Em uma forma redonda com furo central no tamanho de 22 cm de diâmetro,untada com bastante manteiga despeje o leite condensado e com cuidado para que não se misturem acomode a massa do bolo.",
+      "Leve ao forno preaquecido a 180° C por cerca de 60 minutos ou até espetar o palito no centro do bolo ele sair seco.",
+      "Retire o bolo do forno e aguarde de 10 a 15 minutos antes de desenformar, pois o bolo não pode estar nem muito quente e nem muito frio, isso é importante para que o doce de leite não grude no fundo da forma."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "MULHERES DE OPINIÃO NANY MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312165-bolo-de-churros-invertido.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA DE REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras grandes ",
+      "1 repolho pequeno",
+      "1 cebola ",
+      "suco de meio limão",
+      "350 g de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale a cenoura grosseiramente em uma tigela grande",
+      "Corte o repolho e a cebola em quatro partes e, depois corte cada pedaço em fatias bem finas",
+      "Misture o repolho e a cebola com a cenoura ralada, quebrando-a em fios menores com os dedos",
+      "Misture o suco de limão com a maionese e use este molho para temperar os vegetais",
+      "Prove a salada e tempere-a com sal e pimenta a gosto"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309463-salada-de-repolho.html"
+}

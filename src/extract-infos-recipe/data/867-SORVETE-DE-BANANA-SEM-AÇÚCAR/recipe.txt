@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE DE BANANA SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "250 ml de leite",
+      "1 colher (sopa) de canela ou mel (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana até virar uma papa",
+      "Junte as 200 ml de leite, 1 colher de canela e a banana amassada, misture bem",
+      "Coloque no congelado até congelar",
+      "Tire do congelador coloque na batedeira com as 50 ml e bata até ficar cremoso",
+      "Coloque no congelado, espere congelar e coma"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "130007 MARINA LOPES AMADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311158-sorvete-de-banana-sem-acucar.html"
+}

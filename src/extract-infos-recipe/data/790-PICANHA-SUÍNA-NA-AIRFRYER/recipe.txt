@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PICANHA SUÍNA NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de picanha suína",
+      "50 ml de manteiga de garrafa",
+      "alho-poró (geralmente utilizo um médio inteiro)",
+      "5 colheres (sopa) de sal grosso",
+      "4 colheres (sopa) de mostarda",
+      "chimichurri a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte em fatias diagonais numa grossura de 2 cm aproximadamente. Depois corte em tiras de 2 cm. Reserve.",
+      "Em uma panela acrescente a manteiga e o alho-poró. Mexa bem até ficar bem dourado. Desligue e reserve até esfriar.",
+      "Acrescente o sal grosso, chimichurri e a mostarda.",
+      "Misture bem e adicione na picanha e deixe marinando por 20 minutos.",
+      "Pré aqueça a airfryer em uma temperatura de 200° C",
+      "Acrescente a picanha e mexa de 5 em 5 minutos por aproximadamente 20 minutos ou até ficar bem dourada",
+      "Como resultado terá uma carne extremamente suculenta e saborosa",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TATIANA TORRES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311549-picanha-suina-na-airfryer.html"
+}

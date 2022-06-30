@@ -1,0 +1,34 @@
+{
+  "nome_receita": "KIBE DA ALINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farinha para kibe",
+      "1 kg de carne moída",
+      "1 ovo",
+      "2 cebolas picadinhas",
+      "6 dentes de alho picadinho",
+      "hortelã a gosto",
+      "cheiro-verde a gosto",
+      "sal a gosto",
+      "tempero a gosto",
+      "500 ml de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro hidrate a farinha com a água, por aproximadamente 3 horas ou até esfriar",
+      "Coloque os temperos e misture na massa",
+      "Misture bem",
+      "Em seguida acrescente a carne moída ( usei acém)",
+      "Por último o ovo e o sal (o segredo é o ovo para dar liga a massa)",
+      "Agora só misturar bem e modelar.",
+      "Eu costumo deixar um pouco no congelador por umas 2 horas",
+      "Isso garante que ele não rache e nem encharque na hora que vai fritar",
+      "Pode fazer no forno ou airfryer"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306342-kibe-da-aline.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DELÍCIA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Doce de abacaxi",
+      "1 abacaxi ",
+      "1 xícara de açúcar",
+      "Creme",
+      "1 lata de leite condensado",
+      "1 lata de leite de vaca (medida do leite condensado)",
+      "3 ovos",
+      "Cobertura",
+      "3 ovos",
+      "3 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doce de abacaxi",
+      "Coloque o abacaxi em cubos e o açúcar em uma panela até caramelizar(ficar em ponto de doce) o tempo de caramelizar é o tempo de fazer o creme.",
+      "Creme:",
+      "Em outra panela, adicione o leite, as gemas peneiradas e o leite condensado e mexa até ficar em consistência densa.",
+      "Cobertura:",
+      "Bata as claras em neve. E depois adicione o açúcar e mexa bem até ficar em ponto de suspiro.",
+      "Montagem:",
+      "Pegue uma travessade vidro (redonda ou quadrada) e adicione o creme, o doce de abacaxi e a cobertura. Coloque no freezer e sirva bem geladinho."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CREUSA DE JEJUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308531-delicia-de-abacaxi.html"
+}

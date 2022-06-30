@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE CAFÉ COM CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de café temperatura ambiente",
+      "1/2 xícara de oleo",
+      "1 xícara chocolate em pó 50% cacau",
+      "2 xícaras de açúcar",
+      "2 xícaras de trigo",
+      "1 colher (sopa) fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire a farinha com o chocolate em pó e reserve ",
+      "Bata os ovos com o açúcar até ficar clarinho, adicione o óleo e bata mais um pouco ",
+      "Vai colocando o café com a mistura da farinha com o chocolate jé peneirado até misturar bem e por útimo o fermento .",
+      "Vai ao forno preaquecido por aproximadamente 40 minutos ."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PATRICIA BORELLI OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306246-bolo-de-cafe-com-cacau.html"
+}

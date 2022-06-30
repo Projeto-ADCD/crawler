@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLINHO DE MILHO SUPER FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho em conserva",
+      "2 colheres de sopa de farinha de trigo sem fermento",
+      "Meia colher de café de pó Royal",
+      "Sal , pimenta e cheiro verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho junto com a água da conserva",
+      "Numa tigela, junte todos ingredientes",
+      "Modele os bolinhos com ajuda de duas colheres de sopa",
+      "Aqueça o óleo e frite os bolinhos"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GLAYLTON FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312742-bolinho-de-milho-super-facil.html"
+}

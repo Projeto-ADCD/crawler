@@ -1,0 +1,43 @@
+{
+  "nome_receita": "ESCONDIDINHO DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata",
+      "500 g de peito de frango",
+      "1 lata de milho verde",
+      "1 lata de ervilha",
+      "100 ml de leite",
+      "2 folhas de louro",
+      "1 dente de alho",
+      "2 cebolas médias",
+      "1 colher (sopa) de margarina ou manteiga",
+      "1 copo de requeijão cremoso (200 g)",
+      "200 g de queijo mussarela",
+      "50 g de queijo parmesão ralado",
+      "tempero completo a gosto ",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Numa panela, cozinhe o peito de frango com água e tempero completo a gosto.",
+      "Desfie e reserve.",
+      "Rale o alho e a cebola e doure numa panela, com um fio de óleo.",
+      "Depois acrescente o frango, o milho verde e a ervilha sem a água das latas, as folhas de louro, tempero completo a gosto.",
+      "Deixe ferver por 15 minutos, com o cuidado de não deixar água.",
+      "Purê de batata",
+      "Cozinhe as batatas até ficarem moles (veja com um garfo).",
+      "Faça o purê esmagando as batatas e misturando com a margarina ou manteiga, sal a gosto e o leite morno.",
+      "Fica melhor se bater numa batedeira durante 2 minutos e trocar o leite por uma caixinha de creme de leite.",
+      "Montagem",
+      "Numa forma refratária coloque, pela ordem, a frango (retire as folhas de louro), o queijo mussarela em fatias ou ralado, o requeijão cremoso, o purê de batatas e, finalmente, por cima o queijo ralado.",
+      "Leve ao forno por cerca de 20 minutos.",
+      "Pode ser acompanhado de arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306511-escondidinho-de-frango.html"
+}

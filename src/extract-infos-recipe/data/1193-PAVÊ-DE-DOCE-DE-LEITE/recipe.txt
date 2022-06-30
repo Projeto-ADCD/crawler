@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 lata de creme de leite",
+      "2 latas de leite condensado",
+      "1 lata de leite (a mesma medida da lata de leite condensado)",
+      "2 colheres de amido de milho",
+      "Leite para molhar os biscoitos",
+      "400 g de doce de leite",
+      "1 pacote de biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro pegue a lata de leite condensado, os ovos, o amido e o leite.",
+      "Coloque no fogo e deixe até que fique um creme. Depois reserve.",
+      "Em uma vasilha, coloque primeiro o creme branco.",
+      "Em seguida, mergulhe os biscoitos no leite e coloque sobre o creme branco.",
+      "Depois, coloque o doce de leite sobre ele.",
+      "Vá fazendo isso até encher a vasilha.",
+      "Deixe no congelador durante 2 horas, e está pronto!",
+      "Bom apetite! "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HELLEN MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309431-pave-de-doce-de-leite.html"
+}

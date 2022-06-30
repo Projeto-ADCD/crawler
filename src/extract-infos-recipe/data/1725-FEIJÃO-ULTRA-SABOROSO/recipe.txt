@@ -1,0 +1,48 @@
+{
+  "nome_receita": "FEIJÃO ULTRA SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijao carioca de boa marca",
+      "1 bacon pedaço médio com pouca gordura",
+      "1 linguiça calabresa grande ou média marca sadia",
+      "2 tutanos (ossos bucos) médios",
+      "2 cebolas grandes picadas",
+      "7 dentes de alho grandes amassados",
+      "6 colheres (sopa) de azeite de oliva extravirgem",
+      "1/2 colher (sopa) de manteiga ou margarina sabor manteiga da vigor",
+      "1/2 colher (sopa) de páprica doce",
+      "1/2 colher (sopa) de salsa seca",
+      "1/2 colher (sopa) de louro em pó",
+      "4 folhas de louro médias",
+      "3 colheres (chá) de cominho com pimenta do reino",
+      "3 colheres (chá) de coentro em pó",
+      "1 e 1/2 colheres (sopa) de sal light não muito cheias",
+      "7 colheres (sopa) de cebolinha picada",
+      "7 colheres (sopa) de folhas de coentro picadas",
+      "7 colheres (sopa) de folhas de salsa picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o feijão de molho de um dia para o outro, trocando a água no outro dia e deixando completar o tempo.",
+      "Pique os alhos e frite em azeite de oliva extravirgem",
+      "Coloque o bacon, calabresa cortados em cubinhos e a carne em volta do tutano cortada tb, incluindo os ossos.",
+      "Coloque os temperos, misture e deixe um pouco.",
+      "Depois de fritar um pouco, coloque as cebolas cortadas em cubinhos e deixe redogar.",
+      "Coloque o feijão aos poucos e misturar.",
+      "Complete com água até cobrir 1 dedo do feijão.",
+      "Assim que pegar pressão, deixe por 3 minutos e desligue o fogo. Deixar sair toda a pressão naturalmente.",
+      "Após sair toda pressão, abra, misture bem e veja se precisa completar com mais um pouco de água.",
+      "Cuidado para não exagerar na quantidadede água.",
+      "Leve ao fogo e deixar pegar pressão mais uma vez.",
+      "Quando pegar pressão, deixe mais 3 minutos, desligue o foto e deixar sair a pressão naturalmente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O ideal é utilizar uma panela de pressão grande de 6 ou 7 litros, mas da para fazer com de 4 litros. Este feijão eu congelo em potes e dura pelo menos 1 mês."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "FERNANDO GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307006-feijao-ultra-saboroso.html"
+}

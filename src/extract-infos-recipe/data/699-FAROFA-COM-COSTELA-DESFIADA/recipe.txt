@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA COM COSTELA DESFIADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média picada",
+      "2 tomates",
+      "150 g de costela desfiada",
+      "3 ovos",
+      "1 banana da terra",
+      "1 lata de milho verde",
+      "500 g de farinha amarela ou branca",
+      "2 pacotinhos de tempero para carnes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque 3 colheres de óleo e frite os ovos mexidos",
+      "Após reserve",
+      "Pique a banana, frite e reserve.",
+      "Pique a cebola e o tomate e reserve em uma vasilha separada.",
+      "Faça a costela após desfie e deixe reservada.",
+      "Em uma frigideira Grande coloque 3 colheres de óleo, acrescente a cebola e o tomate, mexa até a cebola começar a dourar",
+      "Coloque aos poucos os ovos mexidos e a costela desfiada, milho e a banana e mexa",
+      "Acrescente o tempero",
+      "Agora coloque a farinha aos poucos e mexa em fogo baixo até ficar uma farofa sequinha acrescentando aos poucos. De preferência para um aspecto mais bonito indico a farinha amarela."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JAQUELINE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312020-farofa-com-costela-desfiada.html"
+}

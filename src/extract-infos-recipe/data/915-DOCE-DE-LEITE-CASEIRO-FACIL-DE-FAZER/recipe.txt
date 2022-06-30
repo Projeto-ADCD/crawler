@@ -1,0 +1,21 @@
+{
+  "nome_receita": "DOCE DE LEITE CASEIRO FACIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite integral",
+      "3 xícaras de açúcar",
+      "1/2 colher (chá) de bicarbonato de sódio ou fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite, o açúcar e o bicarbonato ou fermento químico.",
+      "Misture bem os ingredientes e leve a panela ao fogo médio, deixe ferver e reduzir, mexa com bastante frequência para evitar que grude na panela ou transborde.",
+      "Cozinhe até obter um doce de leite espesso e com tons de caramelo, no meu caso levou 2 horas, mas o tempo pode variar, lembre-se que depois de esfriar ele ficará mais firme."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAWANY VITORIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310934-doce-de-leite-caseiro-facil-de-fazer.html"
+}

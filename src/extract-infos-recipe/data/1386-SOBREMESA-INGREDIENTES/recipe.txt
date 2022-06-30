@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SOBREMESA 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "100 ml de suco de limão",
+      "3 pacotes de biscoito cookie"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o leite condensado com o suco de limão.",
+      "Misture bem e reserve.",
+      "Triture 1 pacote de biscoito tipo cookie e reserve.",
+      "Em uma forma, coloque o fundo com a misture de leite condensado e logo após uma camada de biscoito cookie. ",
+      "Faça camadas alternadas até terminar com uma de massa doce.",
+      "Finalize com o biscoito triturado e leve à geladeira até gelar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308591-sobremesa-3-ingredientes.html"
+}

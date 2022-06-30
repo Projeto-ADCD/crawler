@@ -1,0 +1,40 @@
+{
+  "nome_receita": "SOPA DE PINHÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de pinhão cozido e descascado",
+      "300 g de carne bovina em cubos (músculo, acém ou alcatra) opcional",
+      "Se fizer sem carne deve dobrar a quantidade de pinhão",
+      "200 g de bacon em cubos (opcional)",
+      "1/2 cebola picada",
+      "3 dentes de alho picados",
+      "salsinha a gosto",
+      "sal a gosto",
+      "azeite de oliva/óleo",
+      "1,5 litros de água ou caldo de legumes feito em casa",
+      "torradas ou croutons"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe o pinhão em duas partes",
+      "Uma: triture no processador ou liquidificador, para não virar um grude coloque um fio de óleo na hora de bater.",
+      "Reserve",
+      "Coloque três colheres de azeite ou óleo para esquentar na panela de pressão, frite o bacon e depois retire o excesso de gordura que formar",
+      "Pode separar um pouco do bacon para colocar sobre a sopa na hora de servir",
+      "Depois doure a cebola e alho.",
+      "Se for fazer com carne, coloque depois do bacon frito para refogar, depois disso coloque o pinhão, tanto o triturado quato os cortados ao meio.",
+      "Coloque a água ou caldo de legumes",
+      "Depois que pegar pressão deixe por 20 minutos ou mais, dependendo da carne que estiver sendo usada.",
+      "Se não usar carne só deixar ferver por uns 10 minutos mesmo aberta.",
+      "Coloque a salsinha, o bacon e os croutons e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Uma pimentinha cai bem. Se quiser dar uma encorpada na sopa pegue o mix e dê um passada dentro da panela, coisa rápida. Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ADEMIR BUENO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306326-sopa-de-pinhao.html"
+}

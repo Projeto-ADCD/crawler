@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MAIONESE DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de Atum Sólido em Óleo Gomes da Costa (170g)",
+      "600 g de batata",
+      "80 g de cenoura",
+      "80 g de ervilha",
+      "50 g de azeitonas pretas",
+      "200 g de maionese",
+      "10 g de salsinha",
+      "2 ovos",
+      "sal a gosto",
+      "pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos por 11 minutos e rale no microplane (ou ralador fino) e reserve.",
+      "Cozinhe as batatas ate fiquem macias, escorra, tempere com sal, pimenta e reserve.",
+      "Corte a cenoura em cubos, cozinhe por 6 minutos, resfrie em água gelada e reserve.",
+      "Cozinhe a ervilha por 2 minutos, resfrie em água gelada e reserve.",
+      "Corte as azeitonas ao meio e reserve."
+    ],
+    "FINALIZAÇÃO": [
+      "Coloque em um bowl a maionese, a cenoura, a batata cozida, a ervilha, o ovo, 1/2  lata de Atum Gomes da Costa, o sal, a pimenta e misture delicadamente.",
+      "Em seguida adicione as azeitonas e por último o restante do Atum Gomes da Costa e a salsinha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica do Chef\nTempere a batata com sal e pimenta do reino ainda quente do cozimento para ganhar mais sabor."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GOMES DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314579-maionese-de-atum.html"
+}

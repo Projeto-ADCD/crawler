@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FETTUCCINE ALFREDO COM CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de massa tipo fettuccine",
+      "370 g de camarão cinza grande",
+      "7 colheres (sopa) de manteiga sem sal",
+      "470 g de creme de leite",
+      "1 ½ copo de queijo parmesão ralado",
+      "salsinha para decorar",
+      "sal",
+      "pimenta do reino",
+      "1 pitada de noz moscada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão conforme as instruções da caixa deixando ao dente. Separe a massa.",
+      "Tempere os camarões com sal e pimenta a gosto.",
+      "Em fogo alto em uma frigideira adicione 2 colheres de manteiga e adicione os camarões.",
+      "Refogue os camarões dos dois lados por volta de 3 minutos, quando notar que estão rosados, retire e reserve.",
+      "Na mesma frigideira, adicione 5 colheres de sopa de manteiga.",
+      "Quando a manteiga derreter, adicione o creme de leite e abaixe o fogo para o creme não talhar.",
+      "Mexa por aproximadamente 2 minutos.",
+      "Adicione a noz moscada, o queijo e misture bem.",
+      "Adicione os camarões e a massa.",
+      "Quando tudo estiver bem incorporado desligue o fogo, jogue a salsinha por cima e aprecie sua massa."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LETTÍCIA BRITO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309487-fettuccine-alfredo-com-camarao.html"
+}

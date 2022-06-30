@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DANETE SEM LEITE CONDENSADO E AMIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "1 colher (sopa) de farinha de trigo",
+      "achocolatado a gosto",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a farinha de trigo na metade do leite (ou seja 100 ml)",
+      "Misture o que restou de leite (100 ml) com o achocolatado, açúcar e leve ao fogo até ferver.",
+      "Coloque o leite com o trigo dissolvido.",
+      "Mexa até dar ponto de Danete",
+      "Caso queira como chocolate quente é só usar a metade do trigo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANDRÉA ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307410-danete-sem-leite-condensado-e-amido-de-milho.html"
+}

@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TALHARIM AO MOLHO BRANCO COM TIRAS DE MIGNON A GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de talharim de 500 g",
+      "1 fio de azeite ",
+      "1 cebola grande (bem picadinha)",
+      "2 dentes de alho (bem picadinho)",
+      "sal a gosto",
+      "pimenta-do-reino ou pimenta-calabresa a gosto",
+      "1/2 sachê de tempero de legumes",
+      "noz-moscada (1/2 bolinha ralada)",
+      "4 caixinhas de creme de leite",
+      "200 ml de leite integral ",
+      "1 colher (café) de amido de milho",
+      "1 colher (sopa) de margarina ou manteiga (com sal)",
+      "200 g de queijo gorgonzola",
+      "600 g de filé mignon ou bombom de alcatra (cortado em tiras)",
+      "salsa a gosto",
+      "1 pacote de queijo ralado "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Ferva 1 litro de água com um fio de azeite e um pitada de sal.",
+      "Após a fervura, adicione o macarrão para cozimento por 10 a 15 minutos.",
+      "Reserve"
+    ],
+    "MOLHO": [
+      "Em uma panela média, adicione um fio de azeite, alho e cebola bem picadinhos até dourar. Após, em fogo médio-baixo, acrescente os temperos (noz-moscada/pimenta/de legumes) e sal.",
+      "Mexa bem e misture todos os ingredientes.",
+      "Ainda em fogo médio-baixo, acrescente o creme de leite, uma caixa por vez, mexendo até dissolver bem e ficar em consistência de creme.",
+      "Dissolva o amido no leite e acrescente (ficará em consistência líquida, mexa até engrossar um pouquinho).",
+      "Prove e, se necessário, acerte o sal e a noz-moscada a seu gosto."
+    ],
+    "PROTEÍNA": [
+      "Em uma frigideira, em fogo médio, adicione a manteiga e derreta. Após, acrescente a carne e frite a ponto.",
+      "Após, retire a carne da frigideira e reserve.",
+      "Na mesma frigideira suja em que fritou a carne, acrescente o queijo gorgonzola e mexa até derreter por completo (fogo médio-baixo). Após, acrescente duas conchas do molho branco e misture. Desligue o fogo e salpique a salsa."
+    ],
+    "PARA SERVIR": [
+      "Coloque a quantidade de macarrão que desejar no prato. Aqueça uns segundinhos no micro-ondas. Acrescente o molho branco por cima misturando no macarrão por completo.",
+      "Acrescente uma porção da carne com molho gorgonzola por cima e salpique queijo ralado.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KARINA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313653-talharim-ao-molho-branco-com-tiras-de-mignon-a-gorgonzola.html"
+}

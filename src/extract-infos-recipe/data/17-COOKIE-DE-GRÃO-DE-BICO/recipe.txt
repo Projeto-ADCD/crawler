@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COOKIE DE GRÃO-DE-BICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de grão-de-bico cozido",
+      "1 ovo",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de açúcar mascavo",
+      "½ colher (chá) de fermento em pó",
+      "1 pitada de canela",
+      "Gotas de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o grão-de-bico cozido no liquidificador até que vire uma pasta.",
+      "Passe para um recipiente e misture o ovo, a manteiga, o açúcar, o fermento e a canela e mexa bem, até que fique homogêneo.",
+      "Acrescente gotas de chocolate. Também pode usar barra de chocolate picada.",
+      "Leve para assar em forno preaquecido a 180° por cerca de 15 minutos.",
+      "Retire do forno e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316899-cookie-de-grao-de-bico.html"
+}

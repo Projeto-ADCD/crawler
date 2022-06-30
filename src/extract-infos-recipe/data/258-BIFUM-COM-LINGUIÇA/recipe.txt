@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BIFUM COM LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "120 g de Macarrão Bifum",
+      "2 gomos de Linguiça Defumada",
+      "1/2 xícara (chá) de Cebolinha (picada)",
+      "3 colheres (sopa) de Molho Shoyu",
+      "1 colher (sopa) de Óleo de Gergelim Torrado",
+      "1/4 colher (chá) de Gengibre em pó",
+      "1/colher (chá) de Açafrão da Terra"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão bifum seguindo as instruções do fabricante",
+      "Em uma panela aqueça 1 colher (sopa) de azeite, óleo ou manteiga e junte a cebolinha, 1 dente de alho, gengibre e açafrão da terra em pó e refogue até a cebolinha murchar.",
+      "Junte a linguiça e refogue por 1 minutos, junte 1 colher (sopa) de água tampe a panela.",
+      "Adicione o macarrão bifum, junte o molho shoyu, óleo de gergelim e misture."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALEXANDRE MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313647-bifum-com-linguica.html"
+}

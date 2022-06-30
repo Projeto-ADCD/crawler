@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MOLHO MILANÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de carne moída",
+      "1 colher (sopa) da açúcar",
+      "3 sachês de molho refogado pronto",
+      "2 embalagens de 400 g de purê de tomate ou 900 g de tomates inteiros com pele e sementes passado no liquidificador.",
+      "4 colheres (sopa) de massa de tomate",
+      "1 colher (café) cheia de canela em pó",
+      "1 colher (café) cheia de cravos-da-Índia",
+      "1 colher (café) rasa de noz-moscada ralada",
+      "3 folhas de louro",
+      "1 colher (chá) de orégano",
+      "2 dentes de alho",
+      "1 cebola média picada",
+      "1/2 maço de cheiro-verde (picado bem fino ou triturado no liquidificador com um pouco de água)",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Desejando, pode substituir o purê de tomate por 1 kg de tomates inteiros passado no liquidificador.",
+      "Em uma panela de pressão, derreta o açucar até formar um caramelo castanho claro.",
+      "Coloque na panela um pouco de azeite de olivas, e frite o alho e a cebola. Coloque a carne moída e refogue.",
+      "Adicione o molho de tomate pronto, o purê de tomates, a massa de tomates e um copo a dois, de água.",
+      "Acrescente o sal a gosto, o louro, a canela, os cravos da Índia, o orégano, a noz moscada e o cheiro verde. Adicione a pimenta do reino a gosto.",
+      "Feche a panela de pressão e cozinhe em fogo brando por 20 a 25 minutos. Apague o fogo e deixe a pressão da panela sair naturalmente.",
+      "Abra a panela. Você pode saber se está cozido pela cor. Esse molho não é muito vermelho, ele fica com um tom vermelho escuro.",
+      "Se necessário apure o molho, fervendo e evaporando a água, com a panela destampada, até engrossar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307274-molho-milanes.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃOZINHO DE PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Ingredientes da Massa:",
+      "6 xícaras (chá) de farinha de trigo peneirada (aproximadamente)",
+      "3 xícaras (chá) de água morna",
+      "1/2 xícara (chá) de leite",
+      "1 xícara (chá) de óleo",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "1 tablete de fermento biológico seco (15g)",
+      "1 gema para pincelar",
+      "Óleo para untar",
+      "Recheio:",
+      "200 g de presunto fatiado",
+      "200 g de queijo mussarela fatiado",
+      "1 e 1/2 xícara (chá) de catupiry"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata, no liquidificador, a água, o leite, o óleo, o açúcar, o sal e o fermento até homogeneizar.",
+      "Transfira para uma vasilha funda e acrescente a farinha de trigo aos poucos, sovando até desgrudar das mãos.",
+      "Se necessário adicione mais farinha.",
+      "Divida a massa em 15 bolinhas, cubra com um pano e deixe descansar por 1 hora.",
+      "Abra, cada bolinha, com um rolo, formando um retângulo.",
+      "Coloque meia fatia de presunto, meia fatia de queijo mussarela e 1 colher (chá) de catupiry, sobre cada pedaço de massa e enrole como rocambole, fechando bem as pontas.",
+      "Coloque os pãezinhos em uma forma untada com óleo, pincele com a gema e leve ao forno médio, preaquecido, por uns 25 minutos ou até assar e dourar.",
+      "Retire e sirva."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314540-paozinho-de-presunto-e-queijo.html"
+}

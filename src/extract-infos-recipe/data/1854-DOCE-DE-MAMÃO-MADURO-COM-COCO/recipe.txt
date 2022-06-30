@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DOCE DE MAMÃO MADURO COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 kg de mamão maduro (1 mamão grande)",
+      "3 xícaras (chá) de açúcar",
+      "1 pacote pequeno de coco ralado",
+      "cravo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o mamão",
+      "Retire as sementes",
+      "Bata no liquidificador e leve à panela",
+      "Acrescente o açúcar e o coco ralado",
+      "Cozinhe no fogo baixo mexendo sempre até o ponto desejado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCISCO SILVEIRA MEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306611-doce-de-mamao-maduro-com-coco.html"
+}

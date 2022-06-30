@@ -1,0 +1,42 @@
+{
+  "nome_receita": "MOLHO DE PIMENTA DO BÁRBAROS BBQ",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de pimenta dedo-de-moça",
+      "1/2 cebola",
+      "1 dente de alho grande",
+      "2 colheres (sopa) de azeite",
+      "1 xícara (chá) de vinagre de vinho branco",
+      "1/2 xícara (chá) de água",
+      "1/2 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "2 folhas de louro",
+      "1 canela em rama",
+      "2 cravos-da-índia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela coloque o vinagre, a água, o açúcar, o sal, as folhas de louro, os cravos e a canela. Leve ao fogo médio e deixe cozinhar até ferver.",
+      "Abaixe o fogo e deixe cozinhar por mais 2 minutos para fazer uma infusão.",
+      "Transfira para um recipiente e reserve.",
+      "Corte a cebola e pique o alho.",
+      "Lave e corte as pimentas ao meio e descarte o cabo e as sementes.",
+      "Volte a panela ao fogo médio.",
+      "Quando aquecer, regue com o azeite e junte a cebola.",
+      "Ponha uma pitada de sal e refogue por cerca de 3 minutos.",
+      "Acrescente o alho e mexa por 1 minuto.",
+      "Coloque a pimenta e refogue por mais 2 minutos.",
+      "Regue com a infusão, passando por uma peneira, misture e deixe cozinhar em fogo baixo por cerca de 10 minutos.",
+      "Desligue o fogo e deixe esfriar antes de bater.",
+      "No liquidificador, bata os ingredientes cozidos até triturar bem.",
+      "Passe o molho por uma peneira.",
+      "Depois disso ponha em um pote de vidro esterilizado.",
+      "Na geladeira dura um mês."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "NAYÁ FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306880-molho-de-pimenta-do-barbaros-bbq.html"
+}

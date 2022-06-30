@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SALADA DE MACARRÃO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de peito de frango",
+      "250 g de queijo",
+      "250 g de presunto de peito de perú",
+      "500 g de macarrão parafuso",
+      "400 g de maionese",
+      "1 sachê de tempero pronto",
+      "1 maço de cheiro-verde ou salcinha",
+      "1 pimenta cheiro",
+      "2 colheres de óleo ou azeite",
+      "1 dente de alho médio",
+      "2 colheres de extrato de tomate",
+      "suco de 1 limão médio",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o filé de peito de frango, corte em pequenos cubos e tempere com o suco de limão e sal.",
+      "Refogue em uma panela de pressão o alho cortado, a pimentinha, o tempero pronto e o extrato de tomate e misture o frango.",
+      "Enquanto isso coloque a água para cozinhar o macarrão no fogo com óleo e sal.",
+      "Com as panelas no fogo corte o queijo e o presunto em cubos pequenos, a azeitona e o cheiro-verde e reserve.",
+      "Quando estiverem cozidos o frango e o macarrão deixe esfriar",
+      "Depois misture com os outros ingredientes e coloque a maionese, se desejar pode colocar azeite para finalizar.",
+      "Combina com pratos assados, café bem em um churrasco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KELMA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307319-salada-de-macarrao-facil.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CAPUCCINO CASEIRO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de leite em pó solúvel",
+      "100g de café solúvel em pó (se for granulado, precisa passar no liquidificador)",
+      "100 g de chocolate em pó (NÃO PODE SER ACHOCOLATADO)",
+      "100 g de açúcar refinado",
+      "20 g de canela em pó",
+      "10 g de bicabornato de sódio",
+      "10 g de goma xantana"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa vasilha adicione os ingredientes passando por uma peneira para não criar pelotas. Misture bem com uma colher.",
+      "O ideal é que essa vasilha tenha fechamento hermético. Um, porque fica ótimo pra misturar, pois após incluir os ingredientes basta fechar e ir misturando rodando e sacodindo a vasilha. Dois, porque vai conservar o sabor do seu capuccino por mais tempo. Guardar a mistura na geladeira. O frio também ajuda a conservar o sabor por mais tempo.",
+      "Modo de preparo da bebida:",
+      "2 colheres (sopa) numa xícara de 300ml. Acrescentar um pouco de água quente e misturar bem com um garfo. Depois colocar o restante da água.",
+      "Obs.:",
+      "Bicarbonato de sódio é opcional, porém é ele que vai fazer espuma e também equilibrar o sabor, uma vez que é um pouco salgado;",
+      "Goma Xantana também é opcional. Ela tem a função de deixar cremoso seu capuccino. Encontrada para comprar em lojas de produtos naturais.",
+      "Esses 2 ingredientes é que vão fazer um charme a mais na sua bebida. Vale a pena incluí-los sim na receita."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "GRACIANI VANZAN MATTJIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312486-capuccino-caseiro-cremoso.html"
+}

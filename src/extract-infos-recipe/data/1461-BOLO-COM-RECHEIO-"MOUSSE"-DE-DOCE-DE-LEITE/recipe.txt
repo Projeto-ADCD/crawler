@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BOLO COM RECHEIO \"MOUSSE\" DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de açúcar",
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento em pó",
+      "5 ovos",
+      "4 colheres (sopa) óleo",
+      "Recheio",
+      "1 pote de doce de leite (400 g) ou 1 lata de leite condensado",
+      "1 caixinha de chantili de 200 ml gelada (deixe na geladeira por pelo menos 3 horas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para massa",
+      "(Se optou por usar a lata de leite condensado para o recheio, coloque-a na panela de pressão e deixe por 45-50 minutos a partir do início da pressão)",
+      "Separe as claras dos ovos e reserve a gema, de preferência intactas.",
+      "Preaqueça o forno por 10 minutos em temperatura média (220° C a 250° C).",
+      "Em uma batedeira ou planetária(com a haste globo), bata as claras em neve.",
+      "Em seguida, adicione na batedeira as gemas, 1 por vez, se possível. (Se usar a planetária, após esta etapa, troque para haste leque).",
+      "Em seguida adicione o açúcar à batedeira.",
+      "Adicione o óleo.",
+      "Adicione a farinha de trigo, intercalada com o leite, pois a massa ficará mais pesada.",
+      "Após isso, fora da batedeira, adicione o fermento em pó e misture bem com uma espátula.",
+      "Em uma forma untada de 40 cm, despeje a massa e leve ao forno por 35 a 40 minutos.",
+      "Após pronto, espere o bolo esfriar para desenformar.",
+      "Recheio",
+      "Em uma batedeira ou planetária, bata a caixinha de chantilly (lembre-se: não vai açúcar). Ele estará no ponto quanto estiver todo ondulado(1m30 a 2 minutos).",
+      "Em seguida adicione o doce de leite (se usar a planetária deve trocar a haste para leque). Bata até a mistura ficar homogênea.",
+      "Montagem",
+      "Com o bolo frio, desenforme em uma base(forma maior ou mesa forrada) e corte o bolo ao meio.",
+      "Com uma espátula, coloque o recheio-mousse em uma das partes do bolo, deixando uma camada grossa e uniforme do recheio.",
+      "Em seguida, coloque a outra parte do bolo por cima.",
+      "Opcionalmente, você pode colocar o mousse por fora do bolo.",
+      "Dica: se quiser deixar o bolo mais molhado, você pode furar as duas partes do bolo com o garfo e jogar um pouco de guaraná com uma colher."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RENÉ CLÁUDIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308201-bolo-com-recheio-mousse-de-doce-de-leite.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRANGO COM PEQUI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxa de frango",
+      "3 colheres (sopa) de Margarina Delícia",
+      "1 cebola picada",
+      "3 dentes de alho picados",
+      "1 colher (sobremesa) de açafrão",
+      "1 colher (sobremesa) de páprica doce",
+      "1 pimenta-dedo-de-moça picada",
+      "1 pote de pequi em conserva drenado (330 g)",
+      "500 ml de caldo de frango ",
+      "coentro picado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, derreta a Margarina Delícia e refogue a cebola até murchar.",
+      "Junte o alho, o açafrão, a páprica e a pimenta. Refogue até o alho começaar a dourar.",
+      "Acrescente os pedaços de frango e frite até dourar.",
+      "Junte o pequi e deixe refogar por mais 3 minutos, mexendo de vez em quando para não grudar no fundo da panela.",
+      "Junte aos poucos o caldo de frango, se for preciso acrescente sal e deixe cozinhar até o frango ficar bem macio e os pequis suculentos.",
+      "Desligue o fogo e salpique o coentro."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva com arroz e salada verde"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DELÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312578-frango-com-pequi.html"
+}

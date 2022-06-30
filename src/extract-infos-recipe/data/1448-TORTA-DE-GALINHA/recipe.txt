@@ -1,0 +1,58 @@
+{
+  "nome_receita": "TORTA DE GALINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "120 g de margarina ou manteiga",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de cachaça",
+      "água gelada ",
+      "Recheio",
+      "4 sobrecoxas cozidas e desfiadas",
+      "2 cebolas média picadas",
+      "2 tomates ",
+      "2 dentes de alho ",
+      "3 colheres (sopa) de óleo",
+      "1 xícara (chá) de vinho branco seco",
+      "1 colher (sopa) de farinha de trigo",
+      "3 colheres (sopa) de cebolinha verde ",
+      "2 colheres (sopa) de salsinha ",
+      "1 colher (chá) de cominho",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em uma vasilha funda coloque a farinha de trigo e o fermento, misture.",
+      "Acrescente a manteiga em temperatura ambiente e cortada em pedacinhos.",
+      "Coloque o sal e a cachaça e misture tudo fazendo com que a manteiga incorpore a farinha.",
+      "Acrescente aos pouco a água gelada até obter o ponto da massa.",
+      "Essa deve ser homogênea e lisa.",
+      "Não sove a massa, apenas misture tudo muito bem.",
+      "Reserve.",
+      "Recheio",
+      "Em uma panela funda coloque o óleo e frite a cebola e o alho picados, até dourarem.",
+      "Acrescente a galinha desfiada e deixe fritar um pouco.",
+      "Adicione os tomates sem pele e picados e tempere com sal e pimenta a gosto.",
+      "Misture tudo muito bem e deixe refogar por alguns minutos até o tomate amolecer.",
+      "Dissolva a farinha de trigo no vinho branco e junte ao refogado.",
+      "Mexa bem e deixe cozinhar até o molho engrossar.",
+      "Quando desligar o fogo acrescente a cebolinha e a salsinha picada e misture tudo muito bem.",
+      "Reserve.",
+      "Montagem",
+      "Abra 2/3 da massa com um rolo e forre uma forma refratária com ela.",
+      "Espalhe o recheio e polvilhe com queijo parmesão ralado.",
+      "Abra o resto da massa e cubra e cubra o refratário, grudando bem as bordas, de modo que o recheio fique bem fechado.",
+      "Pincele a massa com uma gema crua e com os retalhos da massa que sobrar enfeite a torta fazendo pequenas florzinhas.",
+      "Leve ao forno médio por uns 35 minutos ou até dourar.",
+      "Sirva em seguida com uma boa salada."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308304-torta-de-galinha.html"
+}

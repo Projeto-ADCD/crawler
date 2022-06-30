@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE CAJÁ SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de polpa de cajá",
+      "3 ovos",
+      "1 xícara de óleo",
+      "2 xícaras de farinha de trigo (sem fermento)",
+      "1 xícara e 1/2 de açúcar",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a polpa, os ovos, o óleo e o açúcar no liquidificador por aproximadamente 3 minutos ou até obter uma massa bem homogênea.",
+      "Numa vasilha coloque a farinha e junte a massa batida no liquidificador",
+      "Mexa bem e por último adicione o fermento em pó",
+      "Mexa e leve ao forno"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MUNDO DA LETÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307294-bolo-de-caja-simples.html"
+}

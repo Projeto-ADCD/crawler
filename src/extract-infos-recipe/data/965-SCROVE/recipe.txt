@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SCROVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxão mole",
+      "1 Cebola picada",
+      "2 Dentes de alho amassado",
+      "1 tablete de caldo",
+      "1 sachê de molho de tomate",
+      "1 caixinha de creme de leite",
+      "óleo",
+      "chimi-churi e sal a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o coxão mole em cubos pequenos",
+      "Em uma panela adicione o óleo e a cebola e deixe dourar, acrescente o alho e o caldo ",
+      "Em seguida adicione a carne e chimi-churi e sal a gosto",
+      "Deixe seca o líquido na panela",
+      "Adicione o molho de tomate e o creme de leite, logo mais o cheiro-verde",
+      "Pronto agora é só servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LETÍCIA AYSLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310690-scrove.html"
+}

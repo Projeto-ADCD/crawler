@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE BAUNILHA COM GOTAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) bem cheia de manteiga macia.",
+      "1 xícara de açúcar (200ml)",
+      "1 ovo grande",
+      "1/2 xícara de leite (100ml)",
+      "1 xícara bem cheia de farinha de trigo",
+      "1/2 xícara de gotas de chocolate (100ml)",
+      "1 colher (chá) de fermento",
+      "1 colher (café) de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré aqueça o forno na temperatura média baixa (entre 200°C a 180°C)",
+      "Adicione as gotas de chocolate em um recipiente, hidrate com um pouco de leite e separe ",
+      "Bata o açúcar e a manteiga até obter uma massa uniforme.",
+      "Acrescente o ovo, depois o leite, a farinha e a baunilha.",
+      "Bata bem até obter uma massa não muito líquida nem muito grossa.",
+      "Remova o excesso de leite das gotas de chocolate, coloque um pouco de farinha, misture e adicione à massa",
+      "Por último, adicione o fermento",
+      "Unte uma assadeira com margarina e polvilhe com farinha.",
+      "Adicione a massa e asse por volta de 20 min a 25 min. ",
+      "Faça o teste do palitinho, se sair limpo estará pronta!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo de cozimento vai depender do seu forno, cor e tamanho da assadeira."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FITA ROSA QUADRINHOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312459-bolo-de-baunilha-com-gotas-de-chocolate.html"
+}

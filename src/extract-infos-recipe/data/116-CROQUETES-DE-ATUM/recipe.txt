@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CROQUETES DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de manteiga ou margarina",
+      "1 colher (sopa) de azeite",
+      "1 cebola média bem picada",
+      "2 latas de atum, escorrido",
+      "5 colheres (sopa) de farinha de trigo peneirada",
+      "100 ml de leite quente",
+      "3 colheres (sopa) de salsinha picada",
+      "1 envelope de Mais Sabor",
+      "1 ovo batido",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (cafezinho) de pimenta do reino",
+      "Farinha de rosca para empanar",
+      "Farinha de trigo para empanar",
+      "Óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, derreta a manteiga com o azeite em fogo alto e refogue a cebola por uns três minutos.",
+      "Junte o atum e deixe refogar por mais uns dois minutos.",
+      "Acrescente, aos pouco, a farinha de trigo peneirada.",
+      "Mexa bem até que a massa desprenda do fundo da panela.",
+      "Adicione o sal, a pimenta, o Mais Sabor e a salsinha picada.",
+      "Molde os croquetes com a mão e passe-os na farinha de trigo, no ovo batido e por fim na farinha de rosca.",
+      "Frite em óleo quente, em fogo médio, até dourar por todos os lados (uns 4 minutos).",
+      "Escorra em papel absorvente e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314394-croquetes-de-atum.html"
+}

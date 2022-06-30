@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães dormidos",
+      "4 colheres de sopa de requeijão",
+      "4 fatias de mussarela",
+      "3 ovos",
+      "1 xícara de leite",
+      "150 g de presunto em cubinhos",
+      "150 g de mussarela em cubinhos",
+      "1 tomate picadinho",
+      "1/2 cebola picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, misture os ovos, o leite, a cebola, o tomate, o presunto e a mussarela em cubinhos",
+      "Tempere com sal e temperos à gosto",
+      "Corte os pães em fatias",
+      "Molhe os pães no leite com uma pitada de sal",
+      "Em uma forma untada, faça uma camada de pão, uma camada da mustura, outra camada de pão e outra da mistura",
+      "Coloque o requeijão e cubra com as fatias de mussarela",
+      "Salpique orégano",
+      "Leve ao forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311730-torta-de-pao.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO FORMIGUEIRO DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras médias",
+      "3 ovos",
+      "1 e 1/2 xícara (chá) de açúcar cristal",
+      "1 xícara (chá) de leite integral",
+      "1 xícara de óleo de girassol (mas pode ser de soja ou do que tiver em casa)",
+      "1/3 de colher (café) de essência de baunilha (opcional)",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (café) rasa de sal",
+      "1 xícara (chá) de chocolate granulado ou de chocolate meio amargo em barra ralado",
+      "1 colher (sopa) cheia de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o açúcar no liquidificador até que fique uma massa mais clara e leve.",
+      "Raspe as laterais do liquidificador para que não fique massa sem ser batida.",
+      "Pique as cenouras em rodelas pequenas de forma que o liquidificador consiga batê-las sem estragar",
+      "Adicione o óleo, o leite, as cenouras e a essência de baunilha no liquidificador e bata por 4 minutos. A massa deve ficar completamente líquida, homogênea, com cor alaranjada e um pouco de bolhas em cima.",
+      "Coloque o conteúdo do liquidificador num recipiente.",
+      "Acrescente o sal e, aos poucos, a farinha de trigo peneirada. Bata bem, até que a massa fique homogênea.",
+      "Adicione o chocolate e misture até ficar uniforme.",
+      "Coloque, por fim, o fermento. Bata pouco, devagar e com cuidado. Mexer em excesso faz com que o bolo não cresça direito.",
+      "Com cuidado, sem movimentos muito bruscos, leve a massa ao forno pré aquecido a 180° C por 15 minutos.",
+      "Minha forma tem aproximadamente 30 cm de diâmetro por uns 6 de altura.",
+      "Leva cerca de 40 minutos no forno.",
+      "Quando estiver pronto, a casa estará cheirando a bolo quente, o topo do bolo ficará levemente dourado e se enfiar um palito de dente na massa, ele sairá limpo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas: se o palito sair com chocolate derretido não tem problema, se sair com massa amarela, o bolo está cru.\nPara checar a situação do seu bolo, evite ficar abrindo a porta do forno enquanto ele ainda estiver crescendo. Se esfriar o forno, o bolo pode perder um pouco do crescimento."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ANNA VILELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310951-bolo-formigueiro-de-cenoura.html"
+}

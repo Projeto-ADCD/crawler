@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE LEITE(AMBROSIA MORENINHO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 l de leite ",
+      "1 colher (sopa) de vinagre",
+      "1 Kg de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cooque os 3 litros de leite em uma panela, acrescente o vinagre e o açúcar..",
+      "Deixar cozinhar em fogo médio, quando ferver o leite vai coalhar e formar gruminhos.",
+      "Deixe cozinhando até que o soro do leite comece a reduzir e fiquem só os gruminhos do doce.",
+      "Ficará moreninho e mais consistente, por fim estará pronto!"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "EDMARIA MARIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312957-doce-de-leite-ambrosia-moreninho.html"
+}

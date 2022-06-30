@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE LIQUIDIFICADOR FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de óleo (120 ml)",
+      "2 colheres (sopa) açúcar",
+      "250 ml de leite morno",
+      "1 colher (café) de sal",
+      "10 g de fermento seco (biológico)",
+      "2 e 1/2 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador exceto a farinha (o leite tem que ser morno, se for quente o fermento não fermenta)",
+      "Após bater no liquidificador, coloque o líquido batido em uma bacia e aos poucos misture a farinha de trigo.",
+      "Vá mexendo com uma colher.",
+      "Misture bem.",
+      "Unte a forma com farinha e manteiga e com a ajuda de uma colher coloque a massa na forma.",
+      "Deixe a massa descansar em um lugar quentinho por 40 minutos.",
+      "Não ultrapasse o tempo de descanso, pois a massa pode selar na hora em que estiver assando.",
+      "Após o tempo de descanso, coloque para assar.",
+      "Não é necessário preaquecer o forno.",
+      "Se quiser que ele cresca mais um pouco no forno, deixe assar na temperatura mais baixa.",
+      "Asse na temperatura de 180° C até dourar"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306974-pao-de-liquidificador-fofinho.html"
+}

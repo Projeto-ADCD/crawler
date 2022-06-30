@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SURPRESA DE UVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de uva roxa sem semente ",
+      "2 caixas de leite condensado",
+      "1/2 lata de leite",
+      "2 colheres (sopa) de manteiga",
+      "2 caixas de creme de leite",
+      "140 g de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire os talinhos das uvas.",
+      "Lave, seque e distribua em uma travessa (de preferência transparente para mostrar as camadas), de maneira que formem uma camada de uvas.",
+      "Leve, em uma panela de fundo largo, o leite condensado, o leite e manteiga, em fogo baixo até formar um brigadeiro mole.",
+      "Despeje o brigadeiro mole em cima das uvas, reserve.",
+      "Derreta o chocolate em banho-maria (ou no micro-ondas se prefeirir).",
+      "Faça um ganache de chocolate, acrescentando o creme de leite ao chocolate derretido.",
+      "Leve a mistura ao fogo baixo até obter um creme bem homogêneo sem deixar o creme ferver.",
+      "Despeje o o ganache em cima do creme branco.",
+      "Leve à geladeira por cerca de 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALINE ZUMBA CYSNE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311202-surpresa-de-uva.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE DE CHOCOLATE DE CORTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "100 ml de creme de leite fresco",
+      "50 g de cacau em pó",
+      "100 g de amido de milho",
+      "150 g de açúcar",
+      "300 g de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes menos o chocolate meio amargo",
+      "Coe e leve ao fogo, depois de engrossar acrescente chocolate picado depois de derretido",
+      "Unte a forma com margarina e leve à geladeira por 4 horas",
+      "Para desenformar se tiver dificuldade aqueça as laterais, peneire cacau em pó ou chocolate por cima.",
+      "Corte com faca aquecida.",
+      "Dica: derreter o chocolate antes de colocar na mistura, isso facilita."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATHALIA RAMOS VIEGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306142-mousse-de-chocolate-de-corte.html"
+}

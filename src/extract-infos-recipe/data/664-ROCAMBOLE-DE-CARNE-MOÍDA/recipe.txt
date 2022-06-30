@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROCAMBOLE DE CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída",
+      "1 ovo inteiro",
+      "1 pacote de creme de cebola",
+      "5 dentes de alho amassados",
+      "200 g de mussarela",
+      "200 g de presunto",
+      "8 fatias de bacon",
+      "3 colheres (sopa) de leite",
+      "1 colher (sopa) de farinha de rosca",
+      "1 cenoura média fatiada em rodelas e cozidas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha junte a carne o ovo, o leite, o creme de cebola e farinha de rosca, misture na ordem indicada e amasse bem até ficar homogêneo.",
+      "Em seguida abra a massa sobre um plástico fazendo um quadrado com a espessura de 1 cm.",
+      "Depois da massa aberta coloque o recheio sobre ela primeiro o bacon, depois o presunto, a cenoura e por ultimo a mussarela faça canudos para não espalhar a mussarela.",
+      "Sempre deixando dois dedos de largura dos lados e quatro dedos para o termino do rocambole feche bem as laterais.",
+      "Pincele um pouco de azeite por cima e leve para assar.",
+      "Obs.: Se quiser preparar um dia antes e deixar na geladeira e assar no dia seguinte pode fazer, outra opção coloque rodelas de batatas largas para assar junto com o rocambole e coloque um pouco de azeite por cima.",
+      "Fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312084-rocambole-de-carne-moida.html"
+}

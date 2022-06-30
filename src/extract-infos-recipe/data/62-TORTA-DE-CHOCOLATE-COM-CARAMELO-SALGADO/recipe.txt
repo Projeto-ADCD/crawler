@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE CHOCOLATE COM CARAMELO SALGADO",
+  "ingredientes": {
+    "MASSA BASE ": [
+      "3/4 de xícara de castanha-do-Pará triturada",
+      "2 xícaras de biscoito de chocolate finamente triturado",
+      "4 colheres (sopa) de manteiga derretida"
+    ],
+    "GANACHE ": [
+      "3 xícaras de chocolate Mendoá 70% Cacau em gotas",
+      "2 caixas de creme de leite"
+    ],
+    "CARAMELO SALGADO ": [
+      "2 xícaras de açúcar cristal",
+      "1 lata de creme de leite sem soro",
+      "1 colher (sopa) de manteiga",
+      "1 colher (chá) de flor de sal (ou sal marinho)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece pela massa base. Misture os biscoitos de chocolate triturados, as castanhas e a manteiga até obter uma farofa úmida. ",
+      "Forre o fundo e as laterais de uma assadeira de torta de 22 cm e leve a massa para assar em forno preaquecido a 180º C por 10 minutos. Retire e deixe esfriar. ",
+      "Para o caramelo: em uma panela funda e larga, em fogo médio/baixo coloque o açúcar e sem mexer espere que derreta completamente até chegar a uma cor levemente dourada.  ",
+      "Acrescente então, aos poucos, o creme de leite sem soro, em temperatura ambiente e a manteiga. Mexa sem parar até que o caramelo fique homogêneo. Desligue o fogo e acrescente o sal, mexa novamente. Ele deve ficar em um ponto de brigadeiro mole. Ao esfriar, ele precisa estar bem firme. ",
+      "Coloque o caramelo ainda quente por cima da massa de torta já assada e fria e espere o caramelo esfriar completamente. Aqui você pode levar a torta para a geladeira para acelerar o processo. ",
+      "Para a ganache: em uma panela, aqueça o creme de leite, desligue o fogo e junte as gotas de chocolate Mendoá 70% Cacau. Mexa até obter uma ganache cremosa e brilhante. ",
+      "Espalhe a ganache por cima do caramelo já frio e leve novamente a torta para esfriar.",
+      "Para decorar, use lascas de chocolate e salpique flor de sal."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314633-torta-de-chocolate-com-caramelo-salgado.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIPOCA SABORIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de milho para pipoca",
+      "2 colheres (sopa) de óleo",
+      "1 colher (sopa) de margarina",
+      "1 colher (café) de creme em pó (pode ser de queijo, de cebola ou de galinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "derreta a margarina no óleo, despeje o milho para pipoca",
+      "mexa de 10 em 10 segundos para não queimar o milho, mesmo após começar estourar, continue mexendo até parar os estouros.",
+      "imediatamente após estourar, despeje o creme em pó por cima das pipocas, feche a tampa da panela, e mexa com vontade, para",
+      "espalhar o creme em pó por toda a pipoca, fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOAO GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307191-pipoca-saborizada.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHÁ DE MEL COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de chá de agua",
+      "1 limão",
+      "2 colheres de sopa de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva em um recipiente a água.",
+      "Desligue o fogo.",
+      "Acrescente o limão espremido",
+      "E por último as colheres de mel.",
+      "Observação:Nunca ferva o mel"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FRANCIELLE BATISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314397-cha-de-mel-com-limao.html"
+}

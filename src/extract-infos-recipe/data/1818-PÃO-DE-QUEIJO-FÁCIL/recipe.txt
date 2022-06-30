@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho azedo",
+      "1 e 1/2 xícara de leite",
+      "1 xícara de queijo parmesão ralado (aproximadamente 150 g)",
+      "3/4 de xícara de óleo ",
+      "1 ovo",
+      "1 colher (sopa) de amido de milho ",
+      "1 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture o polvilho, o amido, o queijo, o ovo e o sal",
+      "Faça uma farofinha e reserve.",
+      "Em uma panela, coloque o leite e o óleo",
+      "Leve ao fogo até levantar fervura.",
+      "Junte a mistura quente à farofinha reservada até obter uma massa lisa e poder modelar os pãezinhos de queijo.",
+      "Coloque as bolinhas em um tabuleiro untado com óleo, distante uma das outras para não grudar.",
+      "Asse no forno, já preaquecido a 180° C, até que fiquem dourado na parte de baixo dos pães.",
+      "Bom apetite"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: pode-se acrescentar linguiça calabresa em pequenos pedaços para dar um toque a mais, no entanto, é opcional."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "DANUBIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306712-pao-de-queijo-facil.html"
+}

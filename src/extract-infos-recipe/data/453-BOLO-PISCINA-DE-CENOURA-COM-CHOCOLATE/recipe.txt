@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO PISCINA DE CENOURA COM CHOCOLATE",
+  "ingredientes": {
+    "MASSA": [
+      "3 cenouras médias raladas",
+      "4 ovos",
+      "2 xícaras (chá) de açúcar",
+      "1/2 xícara (chá) de óleo",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "COBERTURA": [
+      "4 colheres (sopa) de chocolate em pó",
+      "1 caixa de creme de leite",
+      "2 colheres (sopa) de manteiga ",
+      "2 latas de leite condensado"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em um liquidificador, misture a cenoura, o óleo e os ovos.",
+      "Bata tudo.",
+      "Junte o açúcar e bata novamente até misturar tudo muito bem.",
+      "Coloque a mistura em um recipiente e misture a farinha de trigo.",
+      "Junte o fermento e misture com cuidado com uma colher.",
+      "Despeje em forma ballerine, própria para bolo piscina, untada.",
+      "Asse em um forno preaquecido a 180° C até você enfiar uma faca e sair limpa, em torno de 40 minutos. "
+    ],
+    "COBERTURA": [
+      "Em uma panela, adicione a manteiga, o leite condensado e o chocolate em pó (pode usar achocolatado também).",
+      "Mexa em fogo baixo até ponto de brigadeiro mole. ",
+      "Acrescente o creme de leite e mexa bem. ",
+      "Deixe esfriar. ",
+      "Preencha o vão no bolo, deixado pelo molde da sua forma, com o a massa do brigadeiro e polvilhe granulado a gosto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312800-bolo-piscina-de-cenoura-com-chocolate.html"
+}

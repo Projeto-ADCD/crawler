@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BATIDA DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "a mesma medida de cachaça",
+      "1 caixinha de leite de coco",
+      "15 ou mais cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador",
+      "Sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "CRISTIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307266-batida-de-coco.html"
+}

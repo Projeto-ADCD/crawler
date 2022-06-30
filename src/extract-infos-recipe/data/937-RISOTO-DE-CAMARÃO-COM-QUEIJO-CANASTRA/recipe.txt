@@ -1,0 +1,38 @@
+{
+  "nome_receita": "RISOTO DE CAMARÃO COM QUEIJO CANASTRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de óleo ou azeite",
+      "4 dentes de alho grandes picados",
+      "1/2 cebola média picada",
+      "1 tomate médio picado",
+      "5 fatias finas de alho-poró",
+      "400 g de camarões grandes e sem casca",
+      "2 xícaras (chá) de arroz arbóreo",
+      "1 colher (sopa) de manteiga",
+      "1/2 xícara (chá) de vinho branco seco",
+      "1 pitada de pimenta-do-reino",
+      "5 xícaras (chá) de água fervente",
+      "60 g de queijo canastra",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande aqueça o óleo e coloque o alho, a cebola e o alho-poró e refogue-os até murcharem.",
+      "Acrescente o tomate, deixe refogar por 1 minuto e adicione os camarões.",
+      "Deixe refogar por 3 minutos, acrescente metade do vinho branco e refogue por mais 01 minuto.",
+      "Adicione o arroz arbóreo e refogue por 1 minuto junto aos demais ingredientes.",
+      "Coloque o restante do vinho branco, o sal e a pimenta-do-reino, refogue mais 02 minutos, mexendo sempre.",
+      "Cubra com a água fervente e cozinhe em fogo alto e vá mexendo ao longo do cozimento para não grudar.",
+      "Caso seja necessário, pode acrescentar um pouco mais de água.",
+      "Quando o arroz estiver quase no ponto acrescente a manteiga e mexa bem.",
+      "Antes de servir misture o queijo canastra.",
+      "Se preferir pode adicionar cheiro-verde para decoração do prato."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "EDSON LUÍS PIROLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310834-risoto-de-camarao-com-queijo-canastra.html"
+}

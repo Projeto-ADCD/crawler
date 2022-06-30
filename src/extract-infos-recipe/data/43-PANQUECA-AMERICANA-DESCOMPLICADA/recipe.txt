@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PANQUECA AMERICANA DESCOMPLICADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3/4 de 1 xícara de chá de farinha de trigo",
+      "1 colher de margarina derretida",
+      "1 pitada de sal",
+      "2 colheres sopa de açúcar",
+      "1 colher chá de fermento",
+      "3/4 de 1 xícara de chá de leite",
+      "Mel para jogar por cima ou outra cobertura de sua preferência."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma vasilha os ingredientes secos: trigo, sal açúcar e fermento;",
+      "Em outra vasilha misture os líquidos: a manteiga, ovo e leite;",
+      "Junte os dois, a massa fica homogênea.",
+      "Em uma frigideira, coloque em fogo baixo e inté com manteiga, despeje aos poucos no centro da frigideira e deixe dourar um lado e depois vire.",
+      "Dica: entre uma e outra desligue um pouco a frigideira para não ter risco de queimar as panquecas. Elas ficam prontas muito rápido."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANGELICA MARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314728-panqueca-americana-descomplicada.html"
+}

@@ -1,0 +1,48 @@
+{
+  "nome_receita": "BOLO DE CENOURA VULCÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo de cenoura",
+      "2 xícaras de cenoura crua picada (270 g)",
+      "1 copo de óleo de girassol ",
+      "3 ovos ",
+      "2 xícaras de farinha de trigo",
+      "1 e 1/2 xícara de açúcar ",
+      "1 colher (sopa) de fermento químico",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "8 colheres (sopa) de chocolate em pó",
+      "1/2 colher (sopa) de margarina",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a parte líquida da massa ",
+      "Misture bem, para a massa ficar homogênia",
+      "Em outro recipiente, junte a parte sólida da massa",
+      "Lembre-se de peneirar tudo, para ter um bolo mais fofinho",
+      "Depois, junte nesse recipiente a parte líquida",
+      "Misture com cuidado usando um fouet",
+      "Preaqueça o forno a 180° C ",
+      "Unte e enfarinhe uma forma com buraco no meio",
+      "Despeje a massa e dê leves batidas para sair o ar",
+      "Leve ao forno e asse a 180° C por 40 minutos",
+      "Deixe esfriar bem e desenforme",
+      "Cobertura",
+      "Coloque uma panela em fogo médio",
+      "Junte os ingredientes, menos o creme de leite e diminua o fogo",
+      "Mexa até conseguir ver o fundo da panela",
+      "Desligue o fogo e junte o creme de leite",
+      "Mexa bem e espere esfriar um pouco",
+      "Junte a cobertura no bolo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Adicione algumas raspas de laranja na massa.\nFaça o teste do palito para saber se o bolo está pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308979-bolo-de-cenoura-vulcao.html"
+}

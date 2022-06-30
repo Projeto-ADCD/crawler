@@ -1,0 +1,29 @@
+{
+  "nome_receita": "EMPADÃO DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xicara de farinha de trigo",
+      "2 ovos",
+      "sal a gosto",
+      "250 g de margarina",
+      "4 colheres (sopa) de leite gelado",
+      "100 ml de água gelada para dar liga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes para fazer a massa (nao fica em ponto de massa de pão, é uma massa mais grudenta).",
+      "Embale a massa em papel filme e armazene por 30 minutos no congelador.",
+      "Após o congelador, abra metadee da massa na assadeira com auxílio de uma colher ou garfo.",
+      "Cubra a primeira camada de massa com o recheio (frango desfiado/carne moída) uma dica muito boa é adicionar requeijão, catupiry ou cheddar em cima do recheio pra dar um sabor mais marcante.",
+      "Cubra o recheio com a outra metade da massa, com auxílio de garfo para abrir bem os cantinhos da massa, levando ela ate as extremidades da assadeira.",
+      "Bata uma gema de ovo e pincele em cima da massa para dourar.",
+      "Leve ao forno pré aquecido em 180° C por 40 minutos",
+      "Sirva-se! "
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GABRIELA DE PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306730-empadao-de-frango.html"
+}

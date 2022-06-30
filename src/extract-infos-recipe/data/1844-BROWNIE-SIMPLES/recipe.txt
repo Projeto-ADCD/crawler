@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BROWNIE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de farinha de trigo",
+      "200 g de açúcar",
+      "100 g de achocolatado em pó",
+      "100 g de margarina",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina sem deixar ferver",
+      "Adicione todos os ingredientes em uma vasilha",
+      "Misture até formar uma massa homogênea",
+      "Despeje em uma forma e coloque pra assar por 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEONARDO PASQUETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306629-brownie-simples.html"
+}

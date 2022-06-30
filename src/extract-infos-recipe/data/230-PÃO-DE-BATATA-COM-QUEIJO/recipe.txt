@@ -1,0 +1,53 @@
+{
+  "nome_receita": "PÃO DE BATATA COM QUEIJO",
+  "ingredientes": {
+    "MASSA": [
+      "5 g de fermento biológico seco ",
+      "1 colher (sopa) de açúcar ",
+      "80 ml de leite morno",
+      "1 ovo ",
+      "4 colheres (sopa) de creme de leite ",
+      "2 e 1/2 xícaras de farinha de trigo ",
+      "1 colher (sopa) de manteiga sem sal ",
+      "2 batatas inglesas cozidas ",
+      "1 colher (sopa) de sal "
+    ],
+    "RECHEIO ": [
+      "200 g de peito de peru ",
+      "200 g de mussarela ",
+      "salsinha a gosto ",
+      "azeitona a gosto ",
+      "100 g de tomate seco ",
+      "100 g de catupiri "
+    ],
+    "FINALIZAÇÃO": [
+      "1 gema ",
+      "manteiga derretida a gosto ",
+      "salsinha a gosto "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em um recipiente, junte o fermento, o açúcar e o leite morno ",
+      "Misture e reserve por 10 minutos ",
+      "Em outro recipiente, junte o ovo, o creme de leite, o fermento reservado e a farinha (coloque aos poucos) ",
+      "Misture com cuidado e junte a manteiga e as batatas",
+      "Use as mãos para começar a misturas e sovar a massa",
+      "Junte o sal, cubra e deixe a massa descansar por 1 hora"
+    ],
+    "RECHEIO": [
+      "Em um lugar enfarinhado, divida a massa em dois",
+      "Abra os dois pedaços muito bem com um rolo e separe um deles para o recheio e o outro para fechar",
+      "Junte os ingredientes do recheio na ordem, deixando o catupiri por último ",
+      "Repita o processo se for necessário ",
+      "Cubra tudo com a outra parte da massa reservada",
+      "Aperte bem e feche tudo, coloque em uma forma e pincele 1 gema por cima",
+      "Leve ao forno a 180° por 40 minutos ",
+      "Retire do forno, finalize com a manteiga derretida e a salsinha!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313829-pao-de-batata-com-queijo.html"
+}

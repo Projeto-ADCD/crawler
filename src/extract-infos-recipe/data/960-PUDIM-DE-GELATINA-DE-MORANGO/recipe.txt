@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE GELATINA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "2 pacotes de gelatina de morango",
+      "300 ml de leite líquido",
+      "300 ml de água fervendo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a água com a gelatina por 30 segundos no liquidificador",
+      "Depois coloque o creme de leite, o leite condensado e o leite líquido",
+      "Bata tudo por 2 minutos",
+      "Depois coloque em uma forma untada com óleo e coloque 1 hora no congelador",
+      "Depois tire e coloque 4 horas na geladeira",
+      "Desenforme e está pronto para servir "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DAVI VENÍCIUS MINI CHEF",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310715-pudim-de-gelatina-de-morango.html"
+}

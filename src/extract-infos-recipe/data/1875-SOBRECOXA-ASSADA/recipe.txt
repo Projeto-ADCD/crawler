@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SOBRECOXA ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 sobrecoxas",
+      "2 dentes de alho",
+      "1/2 cebola",
+      "sal a gosto",
+      "1 colher de vinagre",
+      "4 colheres de maionese",
+      "azeite a gosto",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte as sobrecoxas com todos os temperos e acomode em a uma forma",
+      "Coloque um pouco de azeite, cubra com papel-alumínio e leve ao forno 160° C por aproximadamente 40 minutos",
+      "Retire o papel-alumínio e deixe dourar",
+      "Vire e deixe dourar o outro lado"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCOS ROBERTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306553-sobrecoxa-assada.html"
+}

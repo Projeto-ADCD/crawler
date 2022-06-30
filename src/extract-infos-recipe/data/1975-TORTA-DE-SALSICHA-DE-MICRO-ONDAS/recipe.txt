@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE SALSICHA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "10 colheres (sopa) de farinha de trigo",
+      "10 colheres (sopa) de leite",
+      "8 colheres (sopa) de óleo",
+      "2 ovos",
+      "2 cubos de caldo knorr , sazón ou outro",
+      "3 colheres (chá) de fermento em pó",
+      "RECHEIO",
+      "3 a 5 salsichas",
+      "15 fatias de queijo picadas",
+      "1 tomate",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande, coloque todos os ingredientes da massa e com a batedeira, bata em velocidade máxima até ela ficar lisa e mole.",
+      "Vire o recheio na massa e misture devagar até a massa cobrir o recheio",
+      "Coloque tudo em um refratário de 28 cm e coloque 25 minutos no micro-ondas",
+      "observação: se você quiser, antes de colocar o refratário no micro-ondas ,coloque queijo parmesão por cima"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "32 PORÇÕES",
+  "autor": "MATTHEUS FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306296-torta-de-salsicha-de-micro-ondas.html"
+}

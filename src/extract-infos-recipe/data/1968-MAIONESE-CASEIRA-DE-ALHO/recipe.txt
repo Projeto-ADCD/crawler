@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho",
+      "cheiro-verde a gosto",
+      "1 xícara de leite (temperatura ambiente)",
+      "óleo de soja",
+      "1 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, o alho e o cheiro-verde no liquidificador e por último, o sal.",
+      "Ligue na velocidade mínima",
+      "Acrescente fios de óleo com cuidado e aos poucos. Você vai usar aproximadamente meio litro de óleo.",
+      "O óleo vai servir para dar o ponto da maionese.",
+      "Quando o liquidificador ficar mais \"fraco\", e não houver redemoinho no meio, significa que está pronto.",
+      "Caso ainda esteja muito líquida, mexa com uma colher, ligue o liquidificador de novo e coloque mais um pouco de óleo.",
+      "Repita (opcional) a opção 6 até dar o ponto que você deseja."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELLA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306315-maionese-caseira-de-alho.html"
+}

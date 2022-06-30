@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PUDIM DE MARIA MOLE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "PUDIM",
+      "1 pacote de maria mole",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 copo pequeno de água morna",
+      "1 copo pequeno de leite",
+      "CALDA",
+      "3 colheres de açúcar",
+      "1/2 copo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "PUDIM",
+      "Coloque no liquidificador a maria mole e acrescente a água morna tampe e bate até dissolver o pó da maria mole.",
+      "Depois acrescente o leite, creme de leite e o leite condensado e bata novamente.",
+      "CALDA",
+      "Misture o açúcar e água e leve ao fogo até ficar com a textura de calda caramelizada.",
+      "MONTAGEM",
+      "Caramelize a forma de pudim e coloque o pudim já batido e leve para geladeira, deixe gerar bem depois desenforme."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312081-pudim-de-maria-mole-facil.html"
+}

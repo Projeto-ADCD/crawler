@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SHITAKE DA MAFU",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de cogumelos shitake",
+      "3 dentes de alho",
+      "1/2 cebola",
+      "3 colheres (sopa) de azeite",
+      "7 ramos de salsinha",
+      "sal a gosto",
+      "50 ml de saquê",
+      "1 colher de molho Tarê",
+      "pimenta-do-reino branca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com um pano úmido (ou papel-toalha), limpe os cogumelos-de-paris e o shitake – não lave sob água corrente, eles absorvem água e perdem o sabor. Corte os cogumelos em 3 fatias grossas. Caso estejam pequenos, corte apenas ao meio.",
+      "Descasque e pique fino os dentes de alho e a cebola. Lave, seque e pique a salsinha.",
+      "Leve uma frigideira grande ao fogo médio. Quando aquecer, regue com o azeite, adicione o alho e mexa por 1 minuto para perfumar, depois adicione a cebola. Junte os cogumelos, tempere com sal e pimenta a gosto e refogue por 2 minutos.",
+      "Junte o saquê e o Molho Tarê. Tampe a frigideira por mais 2 minutos , até que os cogumelos fiquem macios e levemente dourados.",
+      "Desligue o fogo, misture a salsinha picada e sirva a seguir.",
+      "Dica: Fica uma delícia servido com polenta mole, cuscuz marroquino, arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MAFUANE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311100-shitake-da-mafu.html"
+}

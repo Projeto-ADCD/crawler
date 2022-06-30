@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de amido de milho",
+      "1 xícara de leite",
+      "1 xícara de leite",
+      "1 colher de chocolate em pó",
+      "250  de chocolate meio amargo picadinho",
+      "1 colher de sopa de fermento em pó",
+      "açúcar e canela para polvilhar",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture todos os ingredientes exceto o fermento em pó.",
+      "Coloque o óleo para esquentar em fogo baixo.",
+      "Após o óleo quente adicione o fermento em pó e misture.",
+      "Com o auxílio de uma colher vá colocando bolinhas de massa para fritar até ficar bem douradinha.",
+      "Após escorrer um pouco o óleo passe no açúcar com canela",
+      "E é só servir.",
+      "DICA: Sirva com um café feito na hora."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "GUILHERME SABOTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312411-bolinho-de-chuva-de-chocolate.html"
+}

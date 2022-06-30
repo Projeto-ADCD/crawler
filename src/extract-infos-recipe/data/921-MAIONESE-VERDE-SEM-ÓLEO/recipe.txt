@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MAIONESE VERDE SEM ÓLEO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite ligth",
+      "1 pote de Cream Cheese",
+      "cebolinha picada",
+      "salsinha picada",
+      "1 colher (sopa) de limão espremido",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo no liquidificador",
+      "Coloque para gelar durante 2 horas",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TAILA COMPER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310894-maionese-verde-sem-oleo.html"
+}

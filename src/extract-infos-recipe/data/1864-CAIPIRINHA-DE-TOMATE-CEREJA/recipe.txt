@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CAIPIRINHA DE TOMATE CEREJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 tomates cereja",
+      "100 ml de vodka",
+      "2 colheres de açúcar",
+      "1/2 limão thaiti",
+      "pimenta branca moída a gosto",
+      "orégano a gosto",
+      "5 cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os tomates em rodela e os coloque em uma coqueteleira",
+      "Adicione o açúcar, o limão, o orégano e a pimenta.",
+      "Massere os ingredientes e, após, adicione o gelo e a vodca",
+      "Tampe e chacoalhe bastante.",
+      "E está pronto o drink"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUCIA ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306594-caipirinha-de-tomate-cereja.html"
+}

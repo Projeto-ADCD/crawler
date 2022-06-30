@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ARROZ DOCE DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícaras (chá) de arroz",
+      "3 xícaras (chá) de água fervendo",
+      "1/2 xícara (chá) de açucar",
+      "500 ml de leite integral",
+      "1 caixa de leite condensado",
+      "3 colheres (sopa) cheias de leite ninho em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhar o arroz com a água fervendo por 15min em fogo médio",
+      "Quando a água estiver quase seca, adicionar o açucar e o leite, mexendo até ferver",
+      "Quando ferver, adicionar o leite condensado, mexendo até engrossar",
+      "Quando criar cremosidade, adicionar o leite ninho e misturar até dissolver",
+      "Servir quente ou frio com canela em pó"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARÍLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306716-arroz-doce-de-leite-ninho.html"
+}

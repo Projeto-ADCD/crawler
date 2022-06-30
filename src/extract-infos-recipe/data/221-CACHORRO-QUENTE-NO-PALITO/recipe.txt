@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CACHORRO-QUENTE NO PALITO",
+  "ingredientes": {
+    "MASSA ": [
+      "1/2 xícara de leite ",
+      "2 ovos ",
+      "4 colheres (sopa) de óleo ",
+      "3 xícaras de farinha de trigo ",
+      "1 colher (café) de sal ",
+      "1 colher (chá) de fermento químico "
+    ],
+    "RECHEIO ": [
+      "1 cebola",
+      "1/2 pimentão verde",
+      "1/2 pimentão vermelho",
+      "1/2 pimentão amarelo",
+      "2 linguiças defumadas finas ",
+      "200 g de queijo parmesão ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador junte todos os ingredientes da massa com cuidado",
+      "Bate bem e leve a mistura para um recipiente fundo e largo ",
+      "Junte a cebola, os pimentões e misture com uma colher ",
+      "Enfie as linguiças (com atenção) em palitos de churrasco",
+      "Empane as linguiças com essa mistura com cuidado ",
+      "Cubra tudo com o queijo ralado",
+      "Leve para fritar em uma panela com óleo",
+      "Deixe dourar e retire",
+      "Sirva com molhos a gosto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313886-cachorro-quente-no-palito.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de margarina",
+      "8 colheres (sopa) de farinha de trigo",
+      "1 litro de leite quente",
+      "1 cebola ralada",
+      "sal e noz-moscada moída na hora a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela derreta a margarina.",
+      "Acrescente a cebola ralada e deixe amolecer.",
+      "Depois acrescente a farinha e deixe dourar.",
+      "Fora do fogo, misture aos poucos o leite (tenha paciência), sem parar de mexer (para o molho não formar grumos)",
+      "Depois de dissolvido tempere com sal e noz-moscada mexendo sempre.",
+      "Cozinhe por cerca de 10 a 15 minutos em fogo baixo até formar um creme."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDA BARROSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307308-molho-branco.html"
+}

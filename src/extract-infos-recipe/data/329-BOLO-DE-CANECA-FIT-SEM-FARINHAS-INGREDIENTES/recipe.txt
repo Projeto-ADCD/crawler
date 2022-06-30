@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CANECA FIT-SEM FARINHAS-4 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 colher (sopa) cacau em pó 100%",
+      "1 colher (sobremesa) de fermento em pó",
+      "+/- 3 colher(sopa) de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca, bata os ovos com um garfo",
+      "Adicione o fermento e misture novamente",
+      "Misture o mel (quanto mais líquido,melhor),se preciso coloque o mel em banho Maria antes de usar",
+      "Coloque o cacau e mexa bem",
+      "Se você fez tudo certo deve haver um líquido espesso em sua caneca, como a massa de um  bolo",
+      "Se for desenformar, passe para uma caneca untada, caso contrário, sua massa do bolo está pronta",
+      "No forno, Preaqueça em 170°C, coloque a caneca,retirando de 10 em 10 minutos para ver se está tudo certo com a massa (que a essa altura deve ter uma \"barriguinha\" no topo e a aparência líquida por baixo), volte ao forno"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "No meu forno o bolo fica pronto em torno de 35 minutos, quando enfiar a faca ou garfo e ele sair limpo.\nNo microondas: coloque a caneca de 45 em 45 segundos,quando a faca sair limpa,tá pronto!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FELIPE MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313162-bolo-de-caneca-fit-sem-farinhas-4-ingredientes.html"
+}

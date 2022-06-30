@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO ESPECIAL COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farinha de trigo e mais um pouco para polvilhar",
+      "1/2 colher (chá) de fermento biológico seco",
+      "1 colher de açúcar",
+      "1 colher de sal",
+      "2 colheres de azeite",
+      "1 xícara de mussarela picada",
+      "1 xícara de queijo cheddar ralado",
+      "2 colheres de salsinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a farinha, fermento, o açúcar e o sal",
+      "Em outro recipiente misture o azeite com 280 ml de água quente",
+      "Acrescente o liquido aos ingredientes secos.",
+      "Em seguida, trabalhe a mistura com as mãos em uma superficie untada com óleo por cerca de 10 minutos ou até que a massa esteja macia e elástica",
+      "Deixe a massa descansar em uma tigela untada com óleo e coberta com filme plástico por cerca de 1 a 2 horas ou até que dobrede tamanho",
+      "Preaqueça o forno a uma temperatura de 220° C e unte três formas antiaderentes",
+      "De pequenos socos na massa com o punho para retirar o ar e sove-a por 2 minutos",
+      "Passe um pouco de azeite nos dedos , separe uma porção de massa do tamanho de uma bola de golfe e amasse-a sobre uma forma com as mãos",
+      "Repita o processo com o restante da massa formando pãezinhos com cerca de 8 centímetros de diâmetro cada um",
+      "Misture a mussarela e o cheddar e espalhe sobre os pães",
+      "Asse por 8 a 12 minutos ou até que os pães estejam assados e o queijo burbulhando",
+      "Salpique um pouco de salsinha por cima e sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "162 MIN",
+  "rendimento": "36 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309470-pao-especial-com-queijo.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "QUICHE DE FRANGO COM REQUEIJÃO",
+  "ingredientes": {
+    "MASSA": [
+      "500 g de farinha de trigo",
+      "1 colher (sopa) de sal",
+      "2 gemas",
+      "1 ovo inteiro",
+      "300 g de margarina"
+    ],
+    "RECHEIO": [
+      "1 kg de frango desfiado",
+      "2 tomates",
+      "1 cebola picada",
+      "salsa de cebolinha picadas à gosto",
+      "1/2 xícara de azeite",
+      "2 dentes de alho",
+      "pimenta-do-reino a gosto",
+      "300 g de requeijão"
+    ],
+    "COBERTURA": [
+      "1 caixa de creme de leite",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Coloque os ingredientes em uma bacia, misture até não grudar mais na mão. Modelar a massa em uma forma redonda grande ou em forminhas, não deixe nem muito grossa nem muito fina, preaqueça o forno por 10 minutos, na temperatura de 180° C"
+    ],
+    "RECHEIO": [
+      "Em uma panela, coloque azeite, alho, cebola, sal à gosto e faça um refogado, mexa bem e coloque pimenta do reino, sala de cebolinha e quando estiver pronto, acrescente o requeijão no final."
+    ],
+    "COBERTURA": [
+      "Misture bem o creme de leite com o ovo."
+    ],
+    "MONTAGEM": [
+      "Na forma ou nas forminhas com a massa, coloque o recheio e cobertura por cima. Leve ao forno na temperatura de 180° C, por meia hora ou até que esteja dourado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "MARCELO BENTO BRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311817-quiche-de-frango-com-requeijao.html"
+}

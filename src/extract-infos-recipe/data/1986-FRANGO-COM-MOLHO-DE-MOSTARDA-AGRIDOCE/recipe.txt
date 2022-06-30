@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO COM MOLHO DE MOSTARDA AGRIDOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 peito de frango",
+      "2 mexirica pequenas (suco)",
+      "2 colheres (sopa) de mostarda",
+      "1 colher (sopa) de molho inglês",
+      "1 colher (sopa) de hondashi",
+      "1 colher (chá) de pimenta-do-reino",
+      "1 colher (sopa) de açucar",
+      "2 dentes de alho picado",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em cubos e coloque em uma tigela",
+      "Na tigela do frango, adicione a mostarda, o suco das mexiricas, o molho inglês, o hondashi, 1 colher de sopa de azeite e a pimenta do reino e deixe marinando por 10 minutos para absorver o sabor dos temperos.",
+      "Em uma panela, esquente um fio de azeite e coloque o alho para refogar.",
+      "Quando o alho estiver começando a dourar, adicione o frango e todo o “molho” feito pelos temperos misturados, em seguida adicione o açúcar.",
+      "Deixe em fogo médio até o suco secar um pouco e o molho engrossar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIELA NORA VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306262-frango-com-molho-de-mostarda-agridoce.html"
+}

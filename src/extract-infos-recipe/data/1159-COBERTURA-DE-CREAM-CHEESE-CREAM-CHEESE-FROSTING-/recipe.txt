@@ -1,0 +1,26 @@
+{
+  "nome_receita": "COBERTURA DE CREAM CHEESE (CREAM CHEESE FROSTING)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de cream cheese ",
+      "1/2 xícara de margarina sem sal",
+      "1 colher (chá) de extrato de baunilha",
+      "500 g de açúcar de confeiteiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata primeiro o cream cheese e a margarina até misturar bem.",
+      "Após isso, misture o extrato de baunilha e vá adicionando o açúcar aos poucos, bem aos poucos até encorporar bem.",
+      "A cobertura deve ser mantida em geladeira até ser usada.",
+      "Pode ser usada em bolos como red velvet, carrot cake, cupcakes, etc."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O cream cheese tem que ser tipo em pote, não pode ser em copo ou bisnaga"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "DENISE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309556-cobertura-de-cream-cheese-cream-cheese-frosting.html"
+}

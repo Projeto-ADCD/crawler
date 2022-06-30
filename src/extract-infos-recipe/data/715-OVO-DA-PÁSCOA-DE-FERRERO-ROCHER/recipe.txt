@@ -1,0 +1,28 @@
+{
+  "nome_receita": "OVO DA PÁSCOA DE FERRERO ROCHER",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de nutella",
+      "1 caixa de creme de leite",
+      "3 colheres de flocos de arroz",
+      "5 marshmallows",
+      "1 barra de chocolate fracionado",
+      "5 avelãs"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o marshmallow e misture com os flocos de arroz",
+      "Coloque na geladeira na forma do ovo",
+      "Derreta o chocolate fracionado e coloque por dentro e por fora do ovo de flocos de arroz",
+      "Tire o soro do creme de leite e misture com a nutella e coloque na geladeira por 30min",
+      "Coloque o mousse de nutella dentro do ovo e feche com mais chocolate.",
+      "Cubra o ovo com mais uma fina camada de chocolate e coloque um pouco de avelãs trituradas em cima",
+      "Coloque na geladeira até endurecer e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LUANA SLUD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311960-ovo-da-pascoa-de-ferrero-rocher.html"
+}

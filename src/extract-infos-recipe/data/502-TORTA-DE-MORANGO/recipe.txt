@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de biscoito de maizena",
+      "100 g de manteiga sem sal em temperatura ambiente"
+    ],
+    "RECHEIO": [
+      "1 litro de leite",
+      "1 lata de leite condensado",
+      "2 gemas",
+      "5 colheres (sopa) de amido de millho",
+      "2 colheres (sopa) de açúcar",
+      "1 caixa de gelatina sem sabor e incolor"
+    ],
+    "COBERTURA": [
+      "2 caixas de morangos lavados",
+      "1 caixa de gelatina de morango"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata o biscoito no liquidificador até virar uma farofa.",
+      "Derreta a manteiga e acrescente-a sobre a farofa de biscoitos aos poucos.",
+      "Amasse-a com as mãos até virar uma massa homogênea.",
+      "Forre a bandeja com a massa pressionando bem, depois leve ao forno por 5 minutos para assentar bem. Reserve."
+    ],
+    "CREME": [
+      "Misture todos os ingredientes com o fogo desligado para não empelotar.",
+      "Dilua o amido de milho no leite e ponha leite condensado.",
+      "Coloque as gemas, o açúcar e mexa bem.",
+      "Ligue o fogo e continue misturando até engrossar.",
+      "Em outra panela, dissolva a gelatina incolor conforme a embalagem e misture-a com o creme.",
+      "Separadamente, dissolva a gelatina de morango para a cobertura.",
+      "Despeje o creme sobre a massa, coloque os morangos por cima, a gelatina de morango e leve à geladeira até endurecer."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ERICA CASTRO FONCECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312663-torta-de-morango.html"
+}

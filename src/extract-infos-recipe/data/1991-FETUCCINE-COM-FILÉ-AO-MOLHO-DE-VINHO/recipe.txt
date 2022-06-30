@@ -1,0 +1,58 @@
+{
+  "nome_receita": "FETUCCINE COM FILÉ AO MOLHO DE VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão tipo Fetuccine",
+      "4 pedaços de Filé Mignon em cortes tornedor (aproximadamente 1 kg)",
+      "sal e pimenta-do-reino moídos na hora",
+      "Molho Béchamel",
+      "25 g de manteiga",
+      "25 g de farinha de trigo",
+      "500 ml de leite",
+      "noz moscada e sal à gosto",
+      "1 xícara de parmesão ralado",
+      "Molho de Vinho",
+      "1 colher (chá) de açúcar",
+      "100 a 200 ml de vinho tinto",
+      "1/2 cebola picada grosseiramente",
+      "alecrim, tomilho e folhas de louro a gosto",
+      "1 pitada de sal",
+      "1 colher de amido de milho dissolvida em água fervente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fetuccine",
+      "Em uma panela, misture a manteiga e a farinha, de modo a formar uma massa. Não deixe queimar.",
+      "Em seguida, junte o leite mexendo bem, dissolvendo a mistura de farinha com manteiga (chamada Roux branco)",
+      "Misture até o leite engrossar, então tempere com a noz moscada ralada e o sal a gosto (mas não exagere, o sabor deve ser suave.)",
+      "Reserve o molho.",
+      "Em outra panela, coloque a água para ferver com uma pitada de sal, e prepare o macarrão conforme instruções da embalagem (o macarrão deve ficar al dente)",
+      "Quando o macarrão estiver pronto, retire-o da água e, após enxague para interrupção do cozimento, junte-o ao molho béchamel previamente preparado.",
+      "Apenas imediatamente antes de servir, coloque o parmesão no macarrão e ligue em fogo baixo, de modo a derreter o queijo.",
+      "Filé",
+      "Tempere o filé com sal, pimenta e azeite à gosto.",
+      "Enquanto tempera, preaqueça em fogo alto uma grelha ou frigideira antiaderente.",
+      "Coloque o filé na frigideira, alternando os lados em contato com a mesma, visando selar o filé.",
+      "Caso queira a carne bem passada, abaixe o fogo e deixe na grelha por 3 a 4 minutos.",
+      "Reserve os filés num prato.",
+      "Molho de Vinho",
+      "Na mesma grelha que usou para preparar os filés, coloque a cebola, o alecrim e o tomilho. Deixe cozinhar por 2 minutos.",
+      "Em Seguida, adicione o vinho.",
+      "Deixe ferver até o cheiro e sabor de álcool desaparecer.",
+      "Quando todo o álcool evaporar, adicione o amido dissolvido, o açúcar e o sal.",
+      "Ao servir, coe o molho, para nenhuma das partes sólidas ir para o prato.",
+      "Sirva o molho sobre o filé grelhado.",
+      "Dicas",
+      "Não deixe a carne passar muito do ponto, uma carne ao ponto é essencial para manter a maciez",
+      "Ferva bem o molho de vinho para evitar um possível resíduo de sabor alcoólico, que atrapalha o sabor do prato.",
+      "Para preparar corretamente o Roux branco",
+      "Derreta a manteiga primeiro, depois junte a farinha.",
+      "Adicionar o leite no Roux assim que a mistura manteiga e a farinha esteja consistente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIEL CASTELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306242-fetuccine-com-file-ao-molho-de-vinho.html"
+}

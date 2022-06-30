@@ -1,0 +1,50 @@
+{
+  "nome_receita": "TORTA DE MORANGO COM NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farinha de trigo",
+      "4 colheres de margarina gelada",
+      "1/2 colher de sal",
+      "2 colheres de açúcar",
+      "2 colheres de óleo",
+      "100 ml de água gelada",
+      "1/2 colher de fermento em pó"
+    ],
+    "RECHEIO": [
+      "1/2 litro de leite",
+      "1 caixinha de leite condensado",
+      "1 caixinha de creme de leite",
+      "5 colheres de amido de milho desmanchado em 1/2 copo de leite",
+      "2 gemas",
+      "1 colher de baunilha"
+    ],
+    "COBERTURA": [
+      "1 caixinha de morango fresco",
+      "1 xícara de açúcar (200 g)",
+      "150 ml de água",
+      "nozes picadas para enfeitar"
+    ]
+  },
+  "passos": {
+    "MASSA ": [
+      "Misture todos ingredientes",
+      "Sove bem a massa e forre uma forma redonda para torta com a massa (forre bem o fundo e as laterais) em seguida fure toda a massa com um garfo e ponha para assar por uns 10 minutos em forno quente ou até que doure, cuidado para não queimar e ficar dura, retire do forno e deixe esfriar."
+    ],
+    "RECHEIO": [
+      "Coloque o leite em uma panela qndo começar a ferver despeje a amido desmanchado em leite e mecha bem para engrossar em seguida coloque o leite condensado e continue mechendo acrescente o creme de leite as gemas a baunilha e mecha bem deixe cozinhar até soltar do fundo da panela sempre mechendo para não queimar,,",
+      "Deixe esfriar"
+    ],
+    "COBERTURA": [
+      "Lave os morangos e coloque no processador em seguida despeje os morangos batidos em uma panela acrescente o açúcar a agua e deixe cozinhar bem até que vire uma geleia deixe esfriar"
+    ],
+    "MONTAGEM": [
+      "Desenforme a massa da torta em sua forma preferida coloque o creme de amido frio em seguida coloque os morangos em pezinho",
+      "E por cima a geleia de morango",
+      "A recente mais morangos e as nozes em volta leve a geladeira e sirva bem gelada fica uma delícia "
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RITA CARLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310983-torta-de-morango-com-nozes.html"
+}

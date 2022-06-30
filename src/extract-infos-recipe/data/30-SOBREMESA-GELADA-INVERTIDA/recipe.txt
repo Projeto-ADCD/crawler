@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SOBREMESA GELADA INVERTIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de leite ",
+      "12 biscoitos champanhe ",
+      "1 colher (sopa) de manteiga  ",
+      "1 lata de leite condensado ",
+      "2 colheres (sopa) de essência de baunilha ",
+      "2 colheres (sopa) de nesquik ",
+      "250 g de chocolate meio amargo derretido "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma forma com o fundo removível, coloque com cuidado os biscoitos molhados no leite ",
+      "Reserve ",
+      "Em uma panela coloque manteiga e o leite condensado ",
+      "Quando chegar no ponto de brigadeiro, desligue o fogo e reserve em dois recipientes diferentes ",
+      "Em um deles, coloque a essência e no outro o nesquik",
+      "Misture bem os dois ",
+      "Recheie a forma com os biscoitos",
+      "Use o creme branco e depois o de morango ",
+      "Cubra com papel-filme e leve para gelar por 2 horas ",
+      "Desenforme e cubra com o chocolate derretido"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316069-sobremesa-gelada-invertida.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DELÍCIA DE AMENDOCREM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado (395 g)",
+      "1 latas de creme de leite (200 g)",
+      "2 caixas de maria mole",
+      "1 e 1/2 colher (sopa) de amendocrem",
+      "paçoca triturada (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare as caixa de maria mole conforme procedimento da embalagem.",
+      "Adicione ao liquidificador todos os ingredientes, inclusive o preparo da maria mole ainda quente. Bata por 10 minutos",
+      "Coloque a mistura em um refratário e leve a geladeira por 3 horas.",
+      "Ao servir, pode-se adicionar por cima da porção a paçoca triturada."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIANA DUARTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311030-delicia-de-amendocrem.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PEITO DE FRANGO AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango grande",
+      "2 cebolas",
+      "3 tomates",
+      "2 dentes de alho",
+      "200 g de farinha de mandioca",
+      "1 creme de leite",
+      "1 pote de requeijão",
+      "300 g de queijo fatiado",
+      "200 g de queijo ralado na hora"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em filés.",
+      "Tempere ao seu gosto.",
+      "Passe a farinha de mandioca em Todos os filés e frite em óleo bem quente.",
+      "Reserve",
+      "Faça um molho com a cebola, tomate e alho.",
+      "Sal a gosto.",
+      "Reserve.",
+      "Misture o requeijão e o creme de leite.",
+      "Reserve.",
+      "Em seguida, num prato refratário, coloque uma concha do molho, os filés, o restante do molho, uma camada de queijo fatiado, a mistura de creme de leite e requeijão, e polvilhe o queijo ralado por cima.",
+      "Deixe 20 minutos no forno a 180° C",
+      "Sirva quente com arroz branco e saladas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SANDRO FIGUEIREDO CUNDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307014-peito-de-frango-ao-forno.html"
+}

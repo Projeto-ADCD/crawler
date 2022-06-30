@@ -1,0 +1,43 @@
+{
+  "nome_receita": "MACARRÃO COM FRANGO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão penne",
+      "1 kg de frango",
+      "1 1/2 cebola média",
+      "2 colheres (sopa) margarina",
+      "3 dentes de alho",
+      "2 caixas de creme de leite",
+      "1 copo de requeijão",
+      "500 ml de leite",
+      "50 g de parmesão ralado (1 saquinho)",
+      "1 tablete caldo de galinha",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 pitada alecrim seco",
+      "1 pitada de orégano",
+      "manjericão seco a gosto",
+      "colorau (colorífico) a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com sal, colorau, pimenta do reino e orégano e deixe descansar por uns 5 minutos.",
+      "Enquanto isso, refogue na panela de pressão meia cebola e um dente de alho picados.",
+      "Quando estiver dourado, acrescente o frango temperado, meio tablete de caldo de galinha e refogue mais uns 3 a 5 minutos.",
+      "Acrescente um pouco de água (aproximadamente 100 ml) e tampe a panela.",
+      "Deixe cozinhar por 30 minutos.",
+      "Em outra panela coloque as duas colheres de margarina e a cebola picada.",
+      "Quando estiver transparente, coloque os dois dentes de alho picados ou ralados, a outra metade do tablete de caldo, e mexa bem até refogar um pouco.",
+      "Coloque o leite, uma pitada de sal, manjericão seco e o macarrão.",
+      "Mexa bem e várias vezes para o macarrão não grudar.",
+      "Quando ele estiver ficando ao dente, acrescente o frango desfiado, o creme de leite, o requeijão e o alecrim.",
+      "Acrescente o queijo ralado aos poucos e vá provando se o sal está do seu agrado.",
+      "Mexa sempre por mais 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "REBECA BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306353-macarrao-com-frango-cremoso.html"
+}

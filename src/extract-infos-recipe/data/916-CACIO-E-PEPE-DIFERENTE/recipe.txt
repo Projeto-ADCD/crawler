@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CACIO E PEPE DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de queijo mussarela ralado fresco Président",
+      "200 g de spaghetti",
+      "1 colher (café) de pimenta-do-reino moída na hora",
+      "1/2 colher (sopa) de manteiga",
+      "água do cozimento da massa (o suficiente para cobrir o fundo de uma frigideira larga)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa em água com sal conforme indicação da embalagem.",
+      "Cerca de um minuto antes do fim do cozimento, tire a massa, transfira para uma frigideira larga em fogo alto e cubra o fundo da frigideira com a água do cozimento da massa. Adicione o queijo mussarela ralado fresco Président, a pimenta e a manteiga e mexa vigorosamente até os ingredientes formarem um molho cremoso. Adicione mais água do cozimento se o molho ficar muito consistente.",
+      "Sirva imediatamente com uma dose extra de queijo parmesão por cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310929-cacio-e-pepe-diferente.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCE DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 lata leite condensado",
+      "5 colheres (sopa) de leite ninho em pó",
+      "coco ralado ou açúcar de confeiteiro a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture o leite condensado com o leite em pó, até ficar em uma consistência que dê para pegar",
+      "Em seguida faça bolinhas com a mistura ",
+      "Depois passe no açúcar de confeiteiro ou no coco ralado.",
+      "Ponha na fosminha e depois é só se deliciar",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MALU DALTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310582-doce-de-leite-ninho.html"
+}

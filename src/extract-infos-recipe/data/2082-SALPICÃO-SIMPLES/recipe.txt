@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SALPICÃO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango",
+      "1 lata de milho",
+      "1 cenoura ralada",
+      "1 creme de leite",
+      "salsinha a gosto",
+      "uva passas a gosto",
+      "batata palha a gosto",
+      "tempero para o frango a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com os temperos da sua preferência e cozinhe por 15 aproximadamente 15 minutos na pressão",
+      "Descasque e rale a cenoura",
+      "Quando o frango cozinhar, escorra toda a água, feche a panela e balance vigorosamente, assim o frango irá desfiar sozinho.",
+      "Em uma travessa, misture todos os ingredientes, menos a batata palha.",
+      "Cubra com a batata palha."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELLEN OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306067-salpicao-simples.html"
+}

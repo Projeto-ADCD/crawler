@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃEZINHOS DA CLAUDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara e 1/2 de água morna (300 ml)",
+      "1 colher (sopa) de açúcar",
+      "1 ovo",
+      "1 saquinho de fermento biologico seco instantaneo (10 g)",
+      "1/2 xícara de óleo",
+      "1 colher (chá) de sal",
+      "4 xícaras de farinha de trigo (440 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque a agua, o açúcar, o ovo, o fermento, o óleo e o sal.",
+      "Bata somente até obter uma mistura homogenea.",
+      "Passe a mistura para uma tigela e junte a farinha aos poucos, misturando bem, até que a massa fique bem lisa.",
+      "Faça bolinhas com a mao e coloque em uma forma untada e enfarinhada, cubra e deixe crescer ate dobrar de volume. Leve ao forno medio (180° C), preaquecido, por cerca de 30 minutos, ou ate dourar levemente a superficie."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CLAUDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306732-paezinhos-da-claudinha.html"
+}

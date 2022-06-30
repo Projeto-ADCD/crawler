@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SAGU DE BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de sagu",
+      "2 xícaras de água para hidratar o sagu",
+      "1 xícara de açúcar",
+      "2 xícaras de água de cozimento de 2 beterrabas ou suco de 1 beterraba"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o sagu hidratar por 2 horas.",
+      "Leve ao fogo com o açúcar e o suco de beterraba (ou a água de cozimento delas), mexendo sempre até o sagu ficar cozido (transparente).",
+      "Deixar esfriar, colocar num recipiente e leve para geladeira."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROSA RODRIGUEZ RIVERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306102-sagu-de-beterraba.html"
+}

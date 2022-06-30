@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOMBOM DE JENIPAPO COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 jenipapos sem as sementes",
+      "2 colheres (sopa) de coco ralado",
+      "1 xícara de açúcar 240 ml",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os jenipapos no liquidificador com os 100 ml de água. Bata bem até ficar homogêneo.",
+      "Coloque o açúcar, o coco e o jenipapo e leve em fogo baixo mexendo bem para não queimar (aguarde dar o ponto)",
+      "Passe o doce para um prato, deixe esfriar, enrole e passe no açúcar.",
+      "Obs.: Não use mais de 100ml de água.",
+      "Sobre as sementes, não jogue fora, dá para fazer suco e é maravilhoso."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "DELÍCIAS DA TIA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312226-bombom-de-jenipapo-com-coco.html"
+}

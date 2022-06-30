@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÊSSEGOS GRELHADOS COM MEL E ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 pêssegos firmes",
+      "150 g de mel",
+      "6 a 8 ramos de tomilho",
+      "1 colher (sopa) de azeite",
+      "pimenta-preta",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem os pêssegos. Retire os caroços do pêssego: corte ao meio até o caroço, e torça as metades, delicadamente, até que o caroço se desprenda.",
+      "Desfolhe metade dos ramos de ervas, reserve o restante para a decoração.",
+      "Em um bowl grande, coloque os pêssegos, tempere com sal e pimenta, polvilhe as folhas de tomilho e rege com mel. Misture delicadamente com as mãos.",
+      "Aqueça uma frigideira ou chapa de ferro com fundo chanfrado (tipo bistequeira), unte com azeite e coloque os pêssegos com a parte cortada voltados para baixo. Grelhar por cerca de 4 minutos, até que fiquei com a marca da grelha bem evidente. Virar e regar com o mel com ervas que restou no bowl.",
+      "Servir em uma travessa e decorar com os ramos de tomilho reservados. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: servir como acompanhamento para o Tender Frimesa."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRIMESA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314022-pessegos-grelhados-com-mel-e-ervas.html"
+}

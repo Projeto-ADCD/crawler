@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PIZZA DE FRIGIDEIRA COM MASSA DE PANQUECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "queijo ralado a gosto",
+      "100 ml de Leite",
+      "sal a gosto",
+      "1/2 xicara de farinha de trigo ",
+      "molho de tomate e recheio a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o ovo, leite, farinha (vá colocando até a massa ficar cremosa), sal e o queijo ralado",
+      "Unte a frigideira para não correr o risco de grudar",
+      "Coloque a massa e mantenha a frigideira tampada para que o calor também asse a parte de cima",
+      "Cuidado com o tempo para não queimar a parte de baixo.",
+      "Se necessário, vire a massa.",
+      "Em seguida, coloque seu recheio e o queijo e tampe a panela para que derreta."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THAYANNE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307961-pizza-de-frigideira-com-massa-de-panqueca.html"
+}

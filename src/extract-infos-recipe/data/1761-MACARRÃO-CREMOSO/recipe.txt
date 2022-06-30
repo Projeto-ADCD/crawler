@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão espaguete",
+      "2 caixinhas de creme de leite",
+      "1 molho de tomate",
+      "1 tomate médio ",
+      "1 cebola média ",
+      "sal à gosto",
+      "2 colheres (sopa) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão com uma colher (sopa) de óleo e uma pitada de sal por aproximadamente 5 minutos",
+      "Reserve.",
+      "Em uma panela ,coloque o azeite ,a cebola picada e o tomate picado, refogue.",
+      "Adicione o molho de tomate e os cremes de leite, mexendo até tomar consistência.",
+      "E por último adicione o macarrão espaguete",
+      "Mexa bem e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306890-macarrao-cremoso.html"
+}

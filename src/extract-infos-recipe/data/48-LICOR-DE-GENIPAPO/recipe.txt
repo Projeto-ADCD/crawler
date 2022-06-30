@@ -1,0 +1,21 @@
+{
+  "nome_receita": "LICOR DE GENIPAPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de álcool pata licor",
+      "2 genipapo descascado e cortados em cubos",
+      "4 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo e coloque em um vidro",
+      "E deixe por uma semana",
+      "Depois e só coar"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ARLINDO M. F. FILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314703-licor-de-genipapo.html"
+}

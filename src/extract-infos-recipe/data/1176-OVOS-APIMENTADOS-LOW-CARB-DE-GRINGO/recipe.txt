@@ -1,0 +1,32 @@
+{
+  "nome_receita": "OVOS APIMENTADOS LOW CARB DE GRINGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de jalapenos",
+      "1 xícara de queijo ralado",
+      "2 colheres de manteiga",
+      "4 tiras de bacon",
+      "uma pitada de sal",
+      "uma pitada de pimenta do reino",
+      "2 colheres de creme fraiche"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o bacon na frigideira sem óleo em fogo médio até ficar crocante e reserve.",
+      "Enquanto isso, em uma tigela misture ovos e pimenta do reino e jalapenos.",
+      "Coloque em fogo médio e misture sem parar.",
+      "Adicione manteiga quando os ovos estiverem quase cozidos.",
+      "Corte as tiras do bacon e adicione aos ovos.",
+      "Continue misturando até ficar cozido.",
+      "Adicione queijo e continue misturando.",
+      "Quando o queijo estiver derretido retire da frigideira e coloque em uma tigela.",
+      "Adicione o creme fraiche e uma pitada de sal e então misture."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "RYAN LOPEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309489-ovos-apimentados-low-carb-de-gringo.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PICADINHO COM BATATA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Batata Fast Food Bem Brasil ",
+      "500 g de bife em tiras ",
+      "1/4 de pimentão vermelho ",
+      "1/4 de pimentão amarelo ",
+      "1 cebola ",
+      "3 colheres de azeite ",
+      "cheiro-verde a gosto ",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte 500 g de bife em tiras",
+      "Tempere com sal e pimenta-do-reino a gosto, e reserve",
+      "Frite a Batata Fast Food Bem Brasil até ficar crocante por fora e macia por dentro",
+      "Escorra em papel-toalha e reserve",
+      "Leve uma panela ao fogo, adicione o azeite e deixe aquecer",
+      "Deixe a carne selar e adicione a cebola em tiras",
+      "Em seguida, adicione os pimentões em tiras e o cheiro-verde, e salteie",
+      "Sirva com a batata",
+      "Verifique o tempero. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312869-picadinho-com-batata-frita.html"
+}

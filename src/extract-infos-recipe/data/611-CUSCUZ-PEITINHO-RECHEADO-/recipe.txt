@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CUSCUZ PEITINHO (RECHEADO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de flocão",
+      "sal a gosto",
+      "80 ml de água ou leite",
+      "Recheio para o cuscuz",
+      "3 fatias de queijo mussarela ou coalho picadinho ",
+      "100 g de charque frita ",
+      "2 rodela de cebola picadinho",
+      "3 rodelas de tomate picadinho",
+      "coentro ou salsinha a gosto",
+      "1 colher de manteiga",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha coloque a massa de cuscuz o sal e molhe com água ou leite e reserve.",
+      "Pegue a cuscuzeira peitinho unte com manteiga, coloque uma camada de massa.",
+      "Coloque uma camada de recheio queijo, carne, cebola, tomate, coentro ou salsinha",
+      "Coloque outra camada de massa de cuscuz.",
+      "Faça outra camada de recheio.",
+      "Finalize com outra camada de massa e coentro ou salsinha e colher (chá) de manteiga.",
+      "Leve ao fogo por 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOSE ANTONIO DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312338-cuscuz-peitinho-recheado.html"
+}

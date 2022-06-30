@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO ASSADO COM RATATOUILLE DE LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ave Natalliz"
+    ],
+    "RATATOUILLE": [
+      "2 berinjelas ",
+      "2 abobrinhas",
+      "4 tomates italianos ",
+      "2 cebolas roxas ",
+      "3 dentes de alho ",
+      "ervas de provance ou ervas finas a gosto",
+      "3 colheres (sopa) de azeite de oliva ",
+      "4 colheres (sopa) de água ",
+      "200 g de molho de tomate ",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe e quantifique todos os ingredientes e utensílios. ",
+      "Retire a ave Alliz da embalagem e remova o pacote de miúdos do interior. Coloque a ave em uma assadeira e leve ao forno preaquecido a 180º C por aproximadamente 50 minutos para assar. ",
+      "Enquanto a ave assa, corte as berinjelas, os tomates, as abobrinhas e as cebolas em rodelas medias. Depois, corte os dentes de alho em lâminas finas e reserve. ",
+      "Misture em uma vasilha o molho de tomate com a água e tempere com sal e pimenta. Em seguida, despeje esse molho em uma assadeira.",
+      "Sobre esse molho, coloque os legumes cortados intercalando, entre eles, uma rodela de berinjela, uma de abobrinha, uma de cebola, uma de tomate e assim até terminar todos os legumes.",
+      "Sobre eles, coloque as lâminas de alho, regue com o azeite e as ervas, cubra a assadeira com papel-alumínio e leve ao forno preaquecido a 180º C por aproximadamente 20 minutos ou até que os legumes estejam cozidos. ",
+      "Sirva a ave natalliz em uma cama de ratatouille de legumes."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314097-frango-assado-com-ratatouille-de-legumes.html"
+}

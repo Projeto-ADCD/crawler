@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PAVÊ DE DAMASCO E NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite (ou duas caixinhas)",
+      "300 ml de leite integral",
+      "1 colher (sopa) de amido de milho",
+      "1 colher (sopa) de essência de baunilha",
+      "100 g nozes sem casca",
+      "300 g damasco seco",
+      "2 colheres (sopa) de açúcar",
+      "cravo a gosto",
+      "1 pacote de biscoito champanhe",
+      "leite "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os damascos em quatro, reservando alguns para decoração",
+      "Em uma panela coloque os damascos, o açúcar, três cravinhos e cubra com água passando uns dois dedos.",
+      "Deixe ferver até amolecer bem o damasco e a água reduzir bastante.",
+      "Desligue o fogo, retire os cravos e com um mixer bata os damascos.",
+      "Reserve.",
+      "Em outra panela coloque o leite condensado, o creme de leite e o leite integral com o amido dissolvido nele.",
+      "Leve ao fogo mexendo sempre.",
+      "Quando estiver engrossando coloque a essência de baunilha.",
+      "O creme deverá estar na consistência de mingau.",
+      "Em uma travessa coloque uma camada de biscoito embebido no leite.",
+      "Em seguida uma camada do creme.",
+      "Na sequência espalhe o damasco batido, pode colocar tudo.",
+      "Outra camada de biscoito e outra com o restante do creme.",
+      "Pique as nozes grosseiramente e cubra o pavê",
+      "Leve à geladeira por aproximadamente duas horas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ENEIDA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306873-pave-de-damasco-e-nozes.html"
+}

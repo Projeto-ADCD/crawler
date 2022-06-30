@@ -1,0 +1,42 @@
+{
+  "nome_receita": "EMPADÃO DE CAMARÃO",
+  "ingredientes": {
+    "MASSA": [
+      "3 xícaras de farinha de trigo com fermento",
+      "200 g de manteiga",
+      "2 ovos",
+      "4 colheres de leite",
+      "1 gema para pincelar com um pouco de óleo",
+      "sal a gosto"
+    ],
+    "RECHEIO": [
+      "1 kg de camarão sem casca, sem cabeça e sem o rabo",
+      "2 limões",
+      "1 cebola média ralada",
+      "1 tomate pequeno picado",
+      "coentro a gosto",
+      "1 colher rasa (sopa) de extrato",
+      "2 dentes de alho amassados",
+      "1 colher de azeite",
+      "1 colher de amido de milho ",
+      "2 xícaras de catupiry",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Misture a farinha de trigo com os ovos, logo depois a manteiga. Quando estiver tudo bem misturado, coloque o leite e misture mais até que fique uma massa homogênea.",
+      "Coloque o sal a gosto e deixe a massa descansar por 30 minutos. Se for preciso, acrescente mais farinha, até a massa não grudar mais nas mãos."
+    ],
+    "RECHEIO": [
+      "Com o camarão descascado, limpe com limão. Depois coloque na panela com o azeite, alho e a cebola e deixe dourar. Quando dourar jogue o tomate, coentro, extrato e deixe refogar. Coloqueo amido para da uma cremosidade no recheio."
+    ],
+    "MONTAGEM": [
+      "Em uma superfície lisa enfarinhada abrir 2/3 da massa e forrar o fundo e os lados de uma forma de aro removível. Espalhar o recheio frio, o catupiry por cima do recheio e o resto da massa por cima do catupiry. Amassar bem com um garfo toda a lateral. Pincelar o empadão com uma gema misturada em um pouco de óleo. Levar ao forno médio, preaquecido, até o empadão ficar dourado. Desenformar e servir."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "TRAYCE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311265-empadao-de-camarao.html"
+}

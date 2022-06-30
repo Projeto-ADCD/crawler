@@ -1,0 +1,24 @@
+{
+  "nome_receita": "VINAGRETE DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 fatias de abacaxi em cubos",
+      "1 tomate sem sementes em cubos",
+      "1/2 cebola roxa picada",
+      "2 colheres sopa de azeite",
+      "1/2 limão",
+      "sal",
+      "pimenta do reino",
+      "cheiro verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela adicione abacaxi, tomate, cebola e tempere com azeite, limão, pimenta, sal e o cheiro verde e misture muito bem! "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314090-vinagrete-de-abacaxi.html"
+}

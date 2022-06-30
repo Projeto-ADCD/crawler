@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "1/2 de óleo",
+      "1/2 de açúcar",
+      "1/2 de colher (sopa) de sal",
+      "20 g de fermento seco",
+      "4 xícaras de 200 ml de farinha de trigo tradicional",
+      "100 g de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite, o ovos, o açúcar, o óleo, o fermento e o sal d",
+      "Depois de ter batido tudo, junte a farinha de trigo e mexa bem com uma colher de pau",
+      "Depois de mexer bem a massa, passe manteiga na forma",
+      "Coloque a massa e em uma forma de tamanho 20 por 10 deixa ela descansar bem por 1 hora",
+      "Leve pra assar por 40 minutos",
+      "Depois que assado, polvilhe o queijo ralado e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "90 PORÇÕES",
+  "autor": "NATANAEL SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307177-pao-de-queijo.html"
+}

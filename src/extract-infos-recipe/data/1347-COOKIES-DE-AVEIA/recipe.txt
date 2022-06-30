@@ -1,0 +1,33 @@
+{
+  "nome_receita": "COOKIES DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de aveia",
+      "1 xícara de farinha de arroz (ou farinha de trigo)",
+      "1/2 xícara de açúcar mascavo",
+      "2 colheres de açúcar branco",
+      "1 ovo",
+      "1 colher de manteiga derretida",
+      "2 colheres cheias de mel",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro de tudo, preaqueça o forno",
+      "Misture todos os secos em um recipiente",
+      "Faça um buraquinho no meio e acrescente todos os líquidos",
+      "Após ficar uma massa espessa e uniforme faça bolinhas médias",
+      "Coloque as bolinhas em uma forma untada (papel-manteiga ou manteiga, deixe as bolinhas separadas pois ira crescer)",
+      "Coloque no forno por 15 minutos, ou até ficarem douradinhos (205° C)",
+      "Retire da forma, ainda quentinhos (mais fácil de retirar, mas cuidado para não quebrá-los)",
+      "Coloque-os em um potinho de sua preferência",
+      "(não coloque a tampa com os cookies quentes, se não, não endurecem)",
+      "Obs: quanto menor as bolinhas da massa maior a quantidade de cookies."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JÚLIA CANCIAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308788-cookies-de-aveia.html"
+}

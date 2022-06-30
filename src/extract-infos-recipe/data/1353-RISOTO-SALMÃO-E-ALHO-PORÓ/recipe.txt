@@ -1,0 +1,35 @@
+{
+  "nome_receita": "RISOTO SALMÃO E ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g salmão fresco cortado em cubos",
+      "1 cebola",
+      "1 alho poró",
+      "alho",
+      "2 xícaras arroz arbóreo",
+      "150 g de queijo gruyere",
+      "1 caixa creme de leite",
+      "3 caldos de legumes",
+      "50 g manteiga",
+      "100 ml vinho branco seco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Caldo",
+      "Ferva 2 litros de água com 3 tabletes de legumes.",
+      "Se quiser pode colocar no caldo alguns legumes de sua preferência. Eu coloquei algumas folhas do alho-poró picadas e 1 folha de couve.",
+      "Numa panela frite os cubos se salmão com a manteiga por 5 minutos e reserve.",
+      "Na mesma panela frite a cebola, alho e o alho poró.",
+      "Acrescente o arroz arbóreo e frite mais um pouco.",
+      "Acrescente o vinho e deixe evaporar.",
+      "Colocar o caldo aos poucos. 1 concha por vez e mexer. Utilizando aos poucos conforme for reduzindo o caldo. Repetir até o arroz ficar a seu gosto. Misturar o salmão e mexer.",
+      "Colocar o queijo e creme de leite e misturar bem. Se necessário coloque mais um pouco do caldo.",
+      "Desligue e sirva na hora."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KELLY NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308762-risoto-salmao-e-alho-poro.html"
+}

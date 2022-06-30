@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATATA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "450G de Batata Bolinha",
+      "1 colher (sopa) de azeite",
+      "1/2 colher (chá) de sal",
+      "150 g de cream cheese",
+      "50 g queijo gorgonzola",
+      "pitada de sal",
+      "pitada de pimenta caiena",
+      "2 colheres (sopa) de cebolete"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque as batatinhas, adicione o azeite, sal e misture bem. ",
+      "Espalhe as batatinhas em uma assadeira e asse em forno preaquecido a 180° C por cerca de 30 minutos ou até dar uma boa dourada e ela ficar macia. ",
+      "Em uma tigela adicione o cream cheese, limão, pitada de pimenta caiena e sal e misture bem.",
+      "Corte uma abertura na batatinha e recheie com o creme e decore com cebolete picada e tá pronto! "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALLIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314089-batata-recheada.html"
+}

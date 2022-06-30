@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PANQUECAS AMERICANAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher de chá de essência de baunilha",
+      "1 pitada de sal",
+      "1 colher de sopa rasa de óleo",
+      "1/4 xícara de açúcar",
+      "3/4 xícara de leite",
+      "1 xícara de farinha",
+      "1 colher de chá de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, adicione o ovo e a essência e bata com fouet. Depois adicione o sal, óleo, açúcar e bata por mais 1 minuto.",
+      "Adicione o restante colocando o fermento por último e bata novamente.",
+      "Em uma frigideira com teflon, derreta um pouco de manteiga e vá adicionando a massa aos poucos em fogo baixo. Vire quando dourar com a ajuda de uma espátula de silicone."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O preparo é rápido, vá adicionando mais manteiga conforme for fazendo mais panquecas.\nDepois de prontas, coloque no prato e acrescente o que desejar. Sugestões: chocolate derretido, doce de leite, mel, xarope de bordo, frutas..."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NATHALIE RICHTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312728-panquecas-americanas.html"
+}

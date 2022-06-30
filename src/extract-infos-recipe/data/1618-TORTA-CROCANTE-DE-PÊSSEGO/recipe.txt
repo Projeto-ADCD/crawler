@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA CROCANTE DE PÊSSEGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 biscoitos de amido de milho",
+      "1/2 xícara mais 2 colheres (sopa) de açúcar",
+      "1/2 xícara de manteiga derretida",
+      "1 lata de pêssego em calda escorrido",
+      "1 xícara de creme de leite",
+      "1 colher (chá) de extrato/essência de baunilha",
+      "1/2 colher (chá) de extrato de rum",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esmague os biscoitos com um rolo de abrir massa ou no liquidificador.",
+      "Misture 1/2 xícara de açúcar e a manteiga.",
+      "Divida a massa pela metade. Espalhe uma parte da massa no fundo de uma forma.",
+      "Arrume algumas metades de pêssego e salpique o restante da massa. Aqueça o forno previamente a 180º C por 10 minutos.",
+      "Asse a torta por 30 minutos.",
+      "Enquanto isso, bata o creme de leite até que comece a engrossar.",
+      "Misture os extratos/essências de baunilha e rum e as 2 colheres (sopa) de açúcar.",
+      "Continue batendo até que se formem picos bem duros.",
+      "Sirva a torta morna, em pratinhos de sobremesa.",
+      "Sobre cada pedaço, coloque uma metade de pêssego coberta com o creme batido.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307367-torta-crocante-de-pessego.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "TALHARIM AO MOLHO DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de macarrão talharim",
+      "400 g de coxa e sobrecoxa de frango desossadas e picadas",
+      "3 tomates médios picados",
+      "5 dentes de alho picado",
+      "3 colheres (sopa) de alho poró picado",
+      "1/2 cebola picada",
+      "3 colheres de óleo ou azeite",
+      "3 litros de água para o cozimento do talharim",
+      "1/2 litro de água para o molho",
+      "1 pitada de pimenta-do-reino",
+      "sal a gosto para o molho",
+      "1/2 colher (sopa) de sal para o cozimento do talharim",
+      "cheiro-verde a gosto",
+      "40 g do queijo de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o molho:",
+      "Em uma panela média, aqueça as 2 colheres de óleo e acrescente 4 dentes de alho, metade da cebola e refogue até murcharem.",
+      "Acrescente o frango, o sal e a pimenta-do-reino e refogue por 5 minutos, mexendo sempre.",
+      "Adicione os tomates picados e refogue por mais 5 minutos e acrescente a água.",
+      "Após levantar fervura, adicione o cheiro-verde e o alho poró.",
+      "Cozinhe por mais 15 minutos, mexendo sempre.",
+      "Obs: caso queira engrossar um pouco o molho, adicione uma colher (sopa) de colorau.",
+      "Para o preparo do talharim:",
+      "Enquanto o frango cozinha, coloque numa panela grande 3 litros de água, 1/2 colher de sal, 1 colher de óleo, 1 dente de alho e o restante da cebola e aqueça até ferver.",
+      "Insira o talharim e cozinhe por cerca de 8 minutos ou até que fique al dente.",
+      "Tire-o, escorra, coloque em um refratário e despeje o molho sobre ele misturando levemente.",
+      "Polvilhe o queijo de sua preferência por cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDSON LUÍS PIROLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310847-talharim-ao-molho-de-frango.html"
+}

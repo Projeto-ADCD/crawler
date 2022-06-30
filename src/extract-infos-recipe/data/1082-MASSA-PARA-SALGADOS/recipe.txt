@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MASSA PARA SALGADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (240 ml) de leite",
+      "2 colheres (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 sachê de fermento biológico seco (10 g)",
+      "1 ovo",
+      "1/4 de xícara de manteiga ou margarina",
+      "3 xícaras de farinha de trigo aproximadamente",
+      "1 gema para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento, açúcar, leite e 4 colheres (sopa) de farinha de trigo.",
+      "Deixe descansar por 10 minutos.",
+      "Acrescente o ovo, sal, manteiga e a farinha de trigo aos poucos.",
+      "Sove",
+      "Faça bolas, coloque em uma assadeira e deixe descansar por 1 ou 2 horas",
+      "Abra cada bola com a mão ou rolo e recheie a gosto.",
+      "Recheei com mussarela e presunto.",
+      "Fiz pãozinho, enroladinho, pastelzinho e esfirra",
+      "Coloquei em uma assadeira polvilhada com farinha de trigo, pincelei gema e levei em forno preaquecido a 180° C.",
+      "Deixar por aproximadamente 20 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rendimento: 12 salgados."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310016-massa-para-salgados.html"
+}

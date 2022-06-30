@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO FIT DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de cacau em pó",
+      "1 colher (sopa) de xilitol (ou outro adoçante)",
+      "2 colheres (sopa) de aveia em flocos",
+      "1 ovo",
+      "1/2 colher (café) de fermento em pó",
+      "2 colheres (sopa) de água (ou leite desnatado)",
+      "canela em pó a gosto",
+      "granola a gosto",
+      "1 colher (sopa) de pasta de amendoim "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em pó e em seguida os ingredientes líquidos",
+      "Misture até chegar em uma mistura homogênea.",
+      "Leve ao micro-ondas por 1 minuto e 30 segundos.",
+      "Coloque a cobertura de pasta de amendoim por cima."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAMILA CORRÊA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306491-bolo-fit-de-caneca.html"
+}

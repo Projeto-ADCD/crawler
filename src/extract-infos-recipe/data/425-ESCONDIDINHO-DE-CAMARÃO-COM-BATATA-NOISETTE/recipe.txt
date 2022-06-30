@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CAMARÃO COM BATATA NOISETTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de batata noisettes Bem Brasil ",
+      "600 g de camarão ",
+      "5 colheres de azeite ",
+      "2 dentes de alho ",
+      "sal e pimenta-do-reino a gosto ",
+      "1/4 de pimentão vermelho ",
+      "1/4 de pimentão amarelo ",
+      "150 ml de leite de coco ",
+      "cheiro-verde a gosto ",
+      "200 g de mussarela fatiada ",
+      "60 g de pimenta biquinho ",
+      "60 g de coco ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça a fritadeira elétrica conforme a indicação na embalagem",
+      "Adicione a Batata Noisettes Bem Brasil e leve à airfryer por 20 minutos e reserve",
+      "Leve uma panela ao fogo e adicione o azeite e o alho já picado em cubos pequenos",
+      "Adicione o camarão já limpo e sele",
+      "Tempere com sal e pimenta-do-reino a gosto",
+      "Adicione os pimentões em cubos pequenos e a cebola roxa fatiada",
+      "Em seguida, salteie-os e adicione o leite de coco. Reserve",
+      "Forre uma assadeira com metade das Batatas Noisettes e cubra com o creme de camarão",
+      "Adicione cheiro-verde e o restante das batatas",
+      "Em seguida, cubra com a mussarela e leve ao forno até dourar",
+      "Decore com mais cheiro-verde, a pimenta biquinho e o coco ralado",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BEM BRASIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312859-escondidinho-de-camarao-com-batata-noisette.html"
+}

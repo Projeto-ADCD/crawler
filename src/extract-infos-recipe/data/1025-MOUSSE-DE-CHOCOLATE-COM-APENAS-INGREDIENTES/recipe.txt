@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOUSSE DE CHOCOLATE COM APENAS 2 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 caixa de creme de leite",
+      "3 colheres de achocolatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje o creme de leite em um pote",
+      "Adicione o achocolatado e misture",
+      "Coloque no micro-ondas por 30 minutos",
+      "Coloque no congelador por 5 ou 4 minutos e pronto"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GII MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310393-mousse-de-chocolate-com-apenas-2-ingredientes.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MUFFIN DE CENOURA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos (temperatura ambiente)",
+      "2 xícaras de farinha (peneiradas)",
+      "1 colher (sobremesa) de fermento em pó",
+      "2 cenouras médias (aprox. 450 g)",
+      "1/2 xícara de óleo",
+      "1 xícara de açúcar",
+      "pedaços de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador, até ter mistura homogênea: óleo, ovos, açúcar e cenoura em pedaços, descascada.",
+      "Incorpore a mão a farinha e o fermento na mistura.",
+      "Quebre o chocolate em pedaços e incorpore na massa final. Distribua igualmente entre as forminhas.",
+      "Pre aqueça o forno por 10min (180-200 graus) e só abra após 30min. Estará pronto!",
+      "Óleo poderá também ser substituído por manteiga e, para um sabor extra, acrescente extrato de baunilha."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIANA B.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306383-muffin-de-cenoura-com-chocolate.html"
+}

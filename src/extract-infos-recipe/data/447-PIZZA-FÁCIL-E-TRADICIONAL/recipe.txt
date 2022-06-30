@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PIZZA FÁCIL E TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de farinha de trigo",
+      "5 g de fermento seco",
+      "1 xícaras de água morna",
+      "1 colher (chá) de sal",
+      "1 colher (chá) de açúcar",
+      "1 ovo",
+      "1 calabresa",
+      "1 sachê de molho de tomate",
+      "200 g de mozzarella",
+      "orégano seco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento e o açúcar e coloque em 1 xicara de agua morninha, mais para frio do que para quente.",
+      "Mexa bem até que esteja completamente dissolvido o fermento.",
+      "Coloque a xicara em um lugar escuro por 5 min (forno desligado)",
+      "Após os 5 min, junte o conteúdo da xicara com os 600 g farinha de trigo na batedeira ou em uma tigela.",
+      "Coloque o ovo e o sal e mexa com a mão ou na batedeira com o gancho de massas.",
+      "Se massa estiver muito liquida coloque mais farinha aos pouquinhos, se estiver muito seca coloque agua pingando aos poucos.",
+      "Manipule a massa até que ela desgrude dos dedos ou do fundo do recipiente.",
+      "Faça duas bolas e polvilhe farinha de trigo em um recipiente, cubra com pano de prato e em local escuro durante 45 min em temperatura ambiente.",
+      "Unte um tabuleiro ou forma de pizza com azeite ou óleo de soja e abra a pizza esticando com os dedos ate cobrir toda a parte inferior do tabuleiro.",
+      "Passe o molho de tomate e recheie com calabresa em rodelas e batente queijo mozarela.",
+      "Coloque no forno por 18 minutos e aproveite."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "CARLOS AUGUSTO CASTRO PERRIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312812-pizza-facil-e-tradicional.html"
+}

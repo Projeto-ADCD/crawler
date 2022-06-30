@@ -1,0 +1,29 @@
+{
+  "nome_receita": "OVOS COZIDOS EM MOLHO DE TOMATE - SHAKSHUKA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 unidades de ovos",
+      "4 unidades de tomates grandes e maduros ",
+      "1 unidade de cebola grande - picada",
+      "1 unidade de pimentão vermelho ou verde - picado",
+      "3 dentes de alho - amassados",
+      "salsinha, sal, cominho e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira no fogo alto, comece refogando a cebola até ficarem transparente.",
+      "Adicione o pimentão e continue fritando por mais ou menos cinco minutos, em seguida, ponha o alho na frigideira.",
+      "Misture bem e deixe cozinhar, até o alho começar a dourar, com uma cor marrom \"grelhado\".",
+      "Coloque os tomates picados em pedaços de 2 a 3 cm e mexa bem, mantenha em alta temperatura até borbulhar.",
+      "Adicione os temperos e a salsa, baixe o fogo e deixe cozinhando por vinte a trinta minutos, com a panela tampada, até virar uma textura mais homogênea.",
+      "Então faça buracos no molho e coloque os ovos dentro.",
+      "Deixe cozinhando, verificando a cada dois a três minutos, até que os fiquem cozidos.",
+      "Tire do fogo e sirva logo."
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NINA ROSA LEANDRO VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309749-ovos-cozidos-em-molho-de-tomate-shakshuka.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de água morna",
+      "50 ml de óleo",
+      "2 ovos",
+      "1 cebola média",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de sal",
+      "10 g de fermento biológico",
+      "1 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos o trigo.",
+      "Coloque o liquido batido numa bacia e adicione trigo até desgrudar da mão.",
+      "Faça bolinhas e deixe descansar por 40 minutos.",
+      "Passe gema e asse até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GUILHERME ARTUR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309455-pao-de-cebola.html"
+}

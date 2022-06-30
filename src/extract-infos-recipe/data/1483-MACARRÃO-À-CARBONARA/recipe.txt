@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO À CARBONARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de massa caseira ",
+      "sal a gosto",
+      "óleo",
+      "1 gomo de linguiça calabresa ",
+      "1 cebola",
+      "2 dentes de alho ",
+      "1 tomate ",
+      "1 bandeja de queijo mussarela ",
+      "1 colher (sopa) de requeijão",
+      "1 ovo ",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com água quente adicione 500 g de massa caseira acompanhados de um fio de óleo e 3 colheres (café) de sal.",
+      "Em outra panela frite a cebola, o alho e a calabresa picados.",
+      "Quando dourar adicione o tomate sem semente picado e deixe o recheio umedecer.",
+      "Adicione o requeijão, deixe tudo cozinhar e por fim adicione o queijo mussarela picado.",
+      "Escorra a massa caseira e antes de voltar para a panela, quebre um ovo cru e adicione a massa por cima do ovo e tampe.",
+      "Deixe que o ovo cozinhar apenas com o vapor da massa.",
+      "Adicione o recheio e sirva.",
+      "O enfeite do prato é o tempero chimichurri."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NATALYA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308082-macarrao-a-carbonara.html"
+}

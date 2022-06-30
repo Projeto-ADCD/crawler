@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MACARRÃO DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de macarrão espaguete",
+      "1 sachê de molho de tomate",
+      "1/2 cebola grande picada",
+      "azeitona picada a gosto",
+      "mortandela ou presunto a gosto",
+      "1 pacote de queijo ralado desnatado ou qualquer queijo de sua preferência",
+      "1 tomate picado",
+      "salsa ou coentro a gosto",
+      "tempero a gosto",
+      "páprica picante a gosto",
+      "cominho agosto",
+      "sal a gosto",
+      "tomilho a gosto",
+      "azeite a gosto",
+      "1 lata de milho-verde opcional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela cozinhe o macarrão",
+      "Em uma frigideira coloque um fio de azeite e acrescente a cebola e a mortandela ou presunto",
+      "quando a cebola começar a dourar acrescente o tomate a azeitona",
+      "Quando o tomate já estiver solto acrescente o molho de tomate e o milho",
+      "Uma dica os temperos é para ser usados no molho",
+      "Acrescente a salsa ou coentro",
+      "Escorra o macarrão e coloque-o na frigideira e misture os ingredientes",
+      "Acrescente o queijo de sua preferência e depois sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MIHSAD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312496-macarrao-de-frigideira.html"
+}

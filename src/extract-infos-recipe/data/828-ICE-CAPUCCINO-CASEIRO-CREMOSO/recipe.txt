@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ICE CAPUCCINO CASEIRO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (400 ml) de leite gelado, de preferência integral",
+      "4 colheres (chá) rasas (20g) de café em pó solúvel",
+      "4 colheres (chá) rasas (20g) de chocolate em pó",
+      "1 colher (chá) rasa (5g) de canela em pó",
+      "2 colheres (chá) rasas (10g) de açúcar refinado",
+      "1 pitada (2g a 3g) de bicarbonato de sódio",
+      "4 cubos de gelo",
+      "essência de baunilha e chantilly a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, acrescente todos os ingredientes, exceto o gelo",
+      "Bata a mistura até que fique homogênea (cerca de 30 segundos)",
+      "Acrescente o gelo e bata em velocidade alta até que quebre e dissolva (15 a 30 segundos)",
+      "Sirva em canecas ou copos e polvilhe chocolate em pó ou canela para decorar. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIEL PETILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311405-ice-capuccino-caseiro-cremoso.html"
+}

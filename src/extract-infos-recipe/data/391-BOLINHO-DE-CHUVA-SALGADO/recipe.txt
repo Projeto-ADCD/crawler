@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA SALGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "400 ml de leite",
+      "2 colheres (chá) de margarina",
+      "1 colher (sopa) de fermento para bolo",
+      "farinha de trigo",
+      "sal",
+      "coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, bata o ovo muito bem até que ele comece a criar uma espuminha",
+      "Em seguida, acrescente a margarina e bata também",
+      "Coloque o leite e misture, vá acrescentando a farinha de trigo aos poucos até ficar uma massa homogênea não muito mole e nem muito dura",
+      "Teste na colher, se demorar pra cair é por que o ponto está ótimo",
+      "Em seguida, acrescente o sal a gosto e o fermento",
+      "Em uma panela, com oléo já preaquecido, frite "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: o coentro não é necessário caso não goste não coloque Ou também pode ser substituído por queijo ralado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "ALINE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312958-bolinho-de-chuva-salgado.html"
+}

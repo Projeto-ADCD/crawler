@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE BANANA PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 e 1/2 xícara de açúcar",
+      "1 xícara de leite",
+      "1/3 de xícara de óleo",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento químico",
+      "1 colher (café) de canela em pó",
+      "1 colher (café) de essência de baunilha",
+      "2 bananas",
+      "Cobertura",
+      "6 colheres de açúcar (a gosto)",
+      "5 bananas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cobertura",
+      "Unte uma forma média com manteiga e acrescente o açúcar",
+      "Coloque no fogo para derreter e chegar no ponto de caramelo (derreti na própria forma acho mais prático, mas se preferir pode derreter o açúcar em uma panela e colocar na assadeira)",
+      "Coloque as bananas cortadas no comprimento e reserve.",
+      "Massa",
+      "Bata no liquidificador os ovos, o óleo, o leite, o açúcar e a canela.",
+      "Acrescente a farinha de trigo aos poucos e continue batendo até obter uma massa lisa e homogênea.",
+      "Adicione por último o fermento.",
+      "Coloque a massa na forma por cima das bananas.",
+      "Leve para assar em forno médio 180º C preaquecido por aproximadamente 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CAROL CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307158-bolo-de-banana-pratico.html"
+}

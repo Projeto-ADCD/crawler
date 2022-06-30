@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITO GELADO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado ",
+      "1 caixa de creme de leite ",
+      "100 g de amendoim triturado",
+      "20 biscoitos maria ",
+      "500 g de doce de leite ",
+      "amendoim picado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o leite condensado, o creme de leite e o amendoim triturado.",
+      "Misture bem.",
+      "Desligue o fogo quando a mistura estiver cremosa, quase um brigadeiro mole",
+      "Deixe esfriar",
+      "Em uma forma, forre o fundo com os biscoitos ",
+      "Coloque o recheio e cubra com o doce de leite ",
+      "Finalize com o amendoim picado e leve à geladeira por uma hora",
+      "Depois é só servir! "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313844-biscoito-gelado-cremoso.html"
+}

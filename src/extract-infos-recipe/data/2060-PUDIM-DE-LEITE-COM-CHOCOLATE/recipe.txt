@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PUDIM DE LEITE COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o Pudim",
+      "1 leite condensado",
+      "1 creme de leite",
+      "1 xícara de leite em pó",
+      "1 gelatina sem sabor",
+      "Para o Chocolate",
+      "180 g de chocolate",
+      "1 creme de Leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare a gelatina conforme às instruções da embalagem",
+      "Bata no liquidificador a gelatina e os demais ingredientes",
+      "Coloque em uma travessa, cubra com plástico filme e leve ao congelador por 20 minutos",
+      "Em banho-maria, derreta o chocolate com o creme de leite",
+      "Retire o creme do congelador, adicione o chocolate e deixe na geladeira por 10 minutos.",
+      "Está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306104-pudim-de-leite-com-chocolate.html"
+}

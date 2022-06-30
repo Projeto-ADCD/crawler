@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BIFE À PARMIGIANA SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bife de patinho ",
+      "temperos a gosto",
+      "2 ovos",
+      "farinha de rosca",
+      "mussarela fatiada a gosto",
+      "óleo ou manteiga "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o bife a sua maneira deixando-o marinar",
+      "Empane o bife no ovo batido e depois na farinha de rosca",
+      "Faça o processo várias vezes",
+      "Unte uma forma ou refratário com o óleo ou a manteiga e coloque o bife",
+      "Leve ao forno preaquecido em temperatura média por uns 20 minutos.",
+      "Retire do forno cubra o bife com a mussarela.",
+      "Volte ao forno até derreter a mussarela ao seu gosto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use o bife na grossura que desejar. "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JORGE SENNE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308093-bife-a-parmigiana-saudavel.html"
+}

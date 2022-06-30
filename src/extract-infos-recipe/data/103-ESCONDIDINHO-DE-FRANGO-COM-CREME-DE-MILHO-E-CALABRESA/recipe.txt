@@ -1,0 +1,41 @@
+{
+  "nome_receita": "ESCONDIDINHO DE FRANGO COM CREME DE MILHO E CALABRESA",
+  "ingredientes": {
+    "CREME DE MILHO": [
+      "1 copo de milho",
+      "1 copo de requeijão",
+      "200 g de creme de leite"
+    ],
+    "RECHEIO": [
+      "1 kg de frango temperado e desfiado",
+      "1 tablete de caldo de galinha",
+      "3 dentes de alho",
+      "1 cebola",
+      "1 copo de azeitona picada",
+      "8 batatas médias cozidas",
+      "2 pratinhos de mussarela",
+      "orégano a gosto",
+      "4 colheres de extrato de tomate",
+      "1 linguiça calabresa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho, requeijão e creme de leite no liquidificador por cerca de 3 minutos e reserve.",
+      "Após, coloque uma panela no fogo, adicione óleo, cebola e deixe dourar, depois adicione o alho.",
+      "Assim que tudo estiver cozido, coloque todo frango já desfiado na panela.",
+      "Adicione azeitona picada e 4 colheres de extrato de tomate e deixe cozinhar por 5 minutos.",
+      "Por último adicione o creme de milho.",
+      "Misture bem e desligue o forno."
+    ],
+    "MONTAGEM": [
+      "Em uma travessa, coloque uma camada fina de puré de batata, depois acione um pouco do recheio, faça esse camada 2 ou 3 vezes.",
+      "Na última camada de purê de batata, adicione a mussarela, orégano e por último a linguiça calabresa e leve ao forno por 10 minutos, até derreter o queijo.",
+      "Aproveite a refeição."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314442-escondidinho-de-frango-com-creme-de-milho-e-calabresa.html"
+}

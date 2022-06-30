@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SOPA DE JERIMUM COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de jerimum",
+      "500 g de peito de frango",
+      "1 cebola grande",
+      "5 dentes de alho",
+      "1 colher (sopa) de margarina",
+      "500 ml de leite",
+      "100 ml de shoyu",
+      "2 xícaras de água",
+      "sal a gosto",
+      "tempero verde a gosto (coentro, salsa e cebolinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o jerimum no leite em fogo baixo e acrescente o sal a gosto, após o cozimento bata no liquidificador por 5 minutos e reserve.",
+      "Em outra panela cozinhe o peito de frango com água, shoyu e sal a gosto, após cozido desfiar.",
+      "Corte a cebola e lâminas e refolgue com o alho ralado e margarina, até que doure, acrescenta o frango desfiado e refolgue.",
+      "Acrescentar o jerimum batido, mexa até ferver.",
+      "Decore com temperos seco e coentro ou salsa a gosto.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DEIVSON SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311565-sopa-de-jerimum-com-frango.html"
+}

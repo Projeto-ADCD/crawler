@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FLAN DE GELATINA DE FRAMBOESA COM CALDA DE AMORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de gelatina sabor framboesa",
+      "2 xícaras de leite",
+      "1 caixa de creme de leite (200 g)",
+      "1/2 xícara (ou a gosto) de leite condensado"
+    ],
+    "CALDA": [
+      "2 xícaras de amoras",
+      "1/2 xícara de água",
+      "1/2 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo em uma panela os ingredientes da calda.",
+      "Deixe até reduzir um pouco o líquido.",
+      "Desligue o fogo e espere esfriar.",
+      "Dissolva as gelatinas em 1 xícara de leite fervente.",
+      "Coloque no liquidificador com o restante do leite, o leite condensado e o creme de leite.",
+      "Bata e coloque em uma forma levemente untada com óleo.",
+      "Leve à geladeira por umas quatro horas ou deixar de um dia para outro.",
+      "Desenforme e regue com a calda."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310626-flan-de-gelatina-de-framboesa-com-calda-de-amora.html"
+}

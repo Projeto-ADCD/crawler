@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOUSSE DE ABACATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate médio",
+      "200 ml de creme de leite",
+      "300 ml de leite condensado",
+      "1 colher (sopa) de suco de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo até ficar bem cremoso no liquidificador.",
+      "Distribua em 3 taças e leve para gelar por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MARCIA PAULO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306580-mousse-de-abacate.html"
+}

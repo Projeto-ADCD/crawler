@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LIMONADA ROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de suco de limão siciliano (aproximadamente 2 1/2 limões)",
+      "2 xícaras de água",
+      "1 xícara de suco de groselha",
+      "1/4 de xícara de açúcar refinado",
+      "gelo (opcional)",
+      "cerejas para decorar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes num pote de vidro com tampa e chacoalhe bem.",
+      "Sirva em copos com uma cerejinha e bastante gelo (cereja e gelo é opcional)",
+      "Para decorar, corte uma fatia de limão. Tim tim!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MALU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311558-limonada-rosa.html"
+}

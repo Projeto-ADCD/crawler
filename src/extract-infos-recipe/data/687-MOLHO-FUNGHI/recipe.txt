@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MOLHO FUNGHI",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de funghi seco",
+      "300 ml de água morna (para amolecer o funghi)",
+      "300 ml de água (para cozinhar o funghi)",
+      "2 colheres (sopa) de manteiga",
+      "1/2 cebola picada",
+      "1/2 xícara de vinho branco seco",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o funghi de molho em 300 ml de água morna por meia hora e escorra.",
+      "Cozinhe o funghi em um panela com 500 ml de água, até ficar macio.",
+      "Retire e reserve a água.",
+      "Pique o funghi em pedaços pequenos.",
+      "Coloque a manteiga e a cebola numa frigideira e frite até dourar.",
+      "Junte o funghi e refogue por cinco minutos.",
+      "Acrescente o vinho e cozinhe até secar.",
+      "Tempere com o sal e a pimenta-do-reino e adicione metade da água do cozimento, previamente coada em um pano.",
+      "Deixe cozinhar em fogo baixo por dez minutos.",
+      "Use ou congele."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANDERSON LUCIANO SANTOS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312038-molho-funghi.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de biscoito de maisena",
+      "150 g de manteiga ou margarina",
+      "250 g de queijo fresco sem sal",
+      "2 ovos",
+      "1/2 xícara (chá) de açúcar",
+      "1 caixa (200 m) de creme de leite",
+      "1/2 xícara de leite",
+      "1 colher de (chá) de amido de milho",
+      "250 g de goiabada",
+      "1/4 de xicara (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare a massa, por triturar bem a bolacha no liquidificador, até que vire uma farofa.",
+      "Coloque essa farofa numa tigela e misture com as mãos na manteiga ou margarina, até obter uma massa macia e que solte das mãos",
+      "Use essa massa, para forrar uma forma de 27 cm de diâmetro ",
+      "Forre o fundo e as laterais",
+      "Se tiver uma forma desmontável, é melhor. Reserve.",
+      "Prepare o recheio, batendo no liquidificador, os ovos, o queijo, o açúcar, o creme de leite , o leite e o amido de milho, até obter um creme.",
+      "Coloque sobre a massa e leve ao forno por mais ou menos 30 minutos, ou até que fique firme.",
+      "Deixe esfriar e desenforme.",
+      "Para fazer a cobertura, pique a goiabada e coloque numa panela com a água em fogo brando, mexendo até derreter.",
+      "Cubra a torta que já foi assada e leve a geladeira para gelar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELI BRAGA PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308633-torta-romeu-e-julieta.html"
+}

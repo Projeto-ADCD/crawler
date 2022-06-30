@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BATATA RÚSTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas médias",
+      "3 colheres de azeite de oliva",
+      "temperos a gosto (páprica, pimenta do reino, cheiro-verde, alecrim, orégano, manjericão, etc)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas ao meio e depois corte cada pedaço em 3",
+      "Banhe com azeite, temperos (menos o cheiro verde) e sal e misture bem até que toda as batatas estejam cobertas",
+      "Coloque em uma forma (não necessita untar), de forma organizada para que todas as batatas consigam ser assadas igualmente",
+      "Verifique aos poucos e quando estiver macia está pronta",
+      "Retire do forno e salpique o cheiro-verde picado por cima"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "KAROLINA KISCHNER DALZOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308871-batata-rustica.html"
+}

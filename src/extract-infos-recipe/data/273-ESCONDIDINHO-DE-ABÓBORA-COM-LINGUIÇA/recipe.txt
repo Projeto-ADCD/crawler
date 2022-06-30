@@ -1,0 +1,46 @@
+{
+  "nome_receita": "ESCONDIDINHO DE ABÓBORA COM LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de abóbora",
+      "1 kg de linguiça toscana",
+      "1 cebola picadinha",
+      "1 tomate picadinho",
+      "1/4 pimentão amarelo picadinho",
+      "4 colheres de sopa de maionese",
+      "Tempero à gosto",
+      "Sal à gosto",
+      "Cheiro verde à gosto",
+      "100 g de mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a abóbora e pique em cubinhos",
+      "Em uma panela, coloque as abóboras e as linguiças",
+      "Cubra com água, leve ao fogo e quando levantar fervura, aguarde 10 minutos",
+      "Após cozinhar, escorra a água e separe as linguiças das abóboras",
+      "Amasse as abóboras",
+      "Pique as linguiças em cubinhos",
+      "Em uma panela, doure a metade da cebola",
+      "Coloque a abóbora e misture",
+      "Acrescente os temperos, o sal e a maionese e misture bem",
+      "Reserve o purê",
+      "Em outra panela, doure o restante da cebola",
+      "Acrescente a linguiça e frite bem",
+      "Coloque o pimentão e o tomate e misture bem",
+      "Coloque os temperos e o cheiro verde",
+      "Refogue bem",
+      "Em um refratário, coloque a metade do purê de abóbora",
+      "Coloque toda a linguiça",
+      "Cubra com o restante do purê",
+      "Coloque a mussarela por cima",
+      "Leve ao forno por uns 15 minutos, até derreter o queijo",
+      "Sirva com arroz branco! ????"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313531-escondidinho-de-abobora-com-linguica.html"
+}

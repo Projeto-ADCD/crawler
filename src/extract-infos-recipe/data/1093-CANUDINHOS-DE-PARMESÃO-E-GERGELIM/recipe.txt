@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CANUDINHOS DE PARMESÃO E GERGELIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de massa folhada",
+      "1 ovo batido",
+      "100 g ou 1 xícara (chá) de queijo parmesão ralado",
+      "1 colher (sopa) de sementes de gergelim",
+      "1 colher (sopa) de sementes de gergelim pretas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a uma temperatura de 220° C e forre uma forma com papel-manteiga",
+      "Coloque a massa em uma superfície enfarinhada formando um retângulo grande.",
+      "Verifique sempre embaixo para assegurar-se de que a massa não está grudando",
+      "Pincele a superfície da massa com o ovo batido e espalhe pouco mais da metade do parmesão ",
+      "Em seguida, dobre a massa pela metade para cobrir o queijo",
+      "Dobre mais uma vez a massa de maneira que fique com 5 milímetros de espessura",
+      "Então, pincele a a superfície mais uma vez com o ovo batido e polvilhe o restante do queijo parmesão e as sementes de gergelim",
+      "Use uma faca afiada para cortar a massa no formato de pequenos palitos e coloque-os na forma",
+      "Leve ao forno e asse por 15 a 20 minutos ou até que os palitos estejam dourados e assados",
+      "Retire os palitos da forma e coloque-os sobre uma grade para que esfriem um pouco antes de servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309947-canudinhos-de-parmesao-e-gergelim.html"
+}

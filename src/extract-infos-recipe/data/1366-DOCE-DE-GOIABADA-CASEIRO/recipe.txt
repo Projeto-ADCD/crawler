@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE GOIABADA CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de goiaba",
+      "400 g de açúcar refinado",
+      "100 ml de água",
+      "cravo (opcional)",
+      "canela (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as goiabas e corte em 4, tire as sementes com uma ajuda de uma colher pequena e reserve as sementes.",
+      "Bate as sementes no liquidificador com 100 ml de água e penere.",
+      "Coloque todos os ingredientes em uma panela, inclusive o suco das sementes penerada.",
+      "Deixe em fogo médio até reduzir a calda do doce.",
+      "Depois disso estará pronto"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "MIDIAN ALCANTARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308702-doce-de-goiabada-caseiro.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME AMARELO DA VÓ/CREME BELGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "600 ml de leite",
+      "3 gemas",
+      "1 colher (café) de essência de baunilha",
+      "3 claras em neve",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Colocar o leite condensado e o leite em uma panela e cozinhar em fogo medio/baixo (sempre mexendo para não pegar no fundo da panela).",
+      "Colocar as 3 gemas em um recipiente separado, acrescentar uma colher de sopa da mistura dos leites da panela e mexer bem (para dissolver as gemas). Depois de dissolvido, ir juntando essa mistura aos poucos na panela.",
+      "Deixar esfriar e acrescentar o creme de leite e as claras em neve (sempre mexendo para não talhar)",
+      "Acrescentar a essência de baunilha e mexer até engrossar. Quando começar a pegar no fundo da panela é hora de desligar o fogo.",
+      "Colocar em um refratário e levar ao congelador (o melhor é fazer um dia antes de ser servido).",
+      "Na hora de servir, pode enfeitar com morangos, raspas de chocolate ou o que preferir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DENISE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306509-creme-amarelo-da-vo-barra-creme-belga.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOLHO AO SUGO DA TIA MARCELLINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 Embalagens de 520 g, de purê de tomate (passata)",
+      "2 colheres de sopa cheias de massa de tomate",
+      "5 cenouras",
+      "1 maço de cheiro verde (salsa e cebolinha)",
+      "3 ramos de sálvia ou manjericão",
+      "3 folhas de louro",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe e lave o cheiro verde e a sálvia ou manjericão e o louro. Amarre (com barbante ou linha) tudo junto, formando um maço. Se chama \"Bouquet Garni\". Reserve.",
+      "Em uma panela, coloque o purê de tomates, a massa de tomates e acrescente 3-4 copos de água, e as cenouras (limpas e cortadas em pedaços).",
+      "Mergulhe o \"Bouquet Garni\" no líquido, e cozinhe em fogo brando por 40 minutos, ou até que as cenouras fiquem macias.",
+      "Retire o \"Bouquet Garni\", retire a panela do fogo e processe o conteúdo todo (inclusive as cenouras), no liquidificador. Adicione o sal e a pimenta do reino.",
+      "Volte para a panela e vá cozinhando, em fogo brando, mexendo de vez em quando, até engrossar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Minha tia avó Italiana Marcellina é que fazia esse molho, leve e saboroso, de uso geral para massas.\nA receita foi modernizada para usar purê de tomates. A cenoura é usada classicamente nesse molho, para cortar a acidez do tomate."
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALBFNETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312840-molho-ao-sugo-da-tia-marcellina.html"
+}

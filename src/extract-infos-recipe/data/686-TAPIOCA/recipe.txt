@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TAPIOCA",
+  "ingredientes": {
+    "1° OPÇÃO": [
+      "2 bananas prata, sem casca",
+      "1 colher (sopa) de açúcar mascavo",
+      "leite condensado a gosto",
+      "120 g de fatias finas de queijo coalho",
+      "pitadinhas de canela a gosto",
+      "gotas de limão a gosto",
+      "2 xícaras de massa de tapioca pronta",
+      "2 colheres (sopa) de açúcar",
+      "5 colheres (sopa) de Margarina Primor Todo Dia"
+    ],
+    "2° OPÇÃO": [
+      "5 colheres (sopa) de goma de tapioca hidratada (100 g)",
+      "1 colher (sopa) de queijo de coalho ralado (18 g)",
+      "1 colher (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "1° OPÇÃO": [
+      "Recheio",
+      "Corte as bananas ao meio na longitudinal e depois na vertical.",
+      "Pingue algumas gotas de limão sobre elas e reserve.",
+      "Junte os açúcares com a canela e reserve. Em uma frigideira e a fogo baixo, leve a margarina Primor para derreter.",
+      "Coloque metade dos açúcares, disponha as fatias de banana e quando estiverem douradas de um lado, polvilhe o açúcar restante, vire-as e deixe dourar novamente.",
+      "Retire-as e mantenha-as quente. Na mesma frigideira ou sobre uma grelha, coloque as fatias de queijo coalho para derreter. Desligue o fogo e mantenha-as quente.",
+      "Massa",
+      "Em uma frigideira média, revestida com antiaderente e a fogo baixo, leve 1 colher (chá) de margarina Primor para derreter. Coloque a massa de tapioca numa peneira média e com as mãos esfregue-a para que caia na frigideira polvilhando-a por igual.",
+      "Aumente um pouco o fogo e deixe dourar levemente de um lado e depois do outro. Reserve e repita a operação até que todas as tapiocas tenham sido cozidas.",
+      "Montagem",
+      "Sobre a metade de cada tapioca coloque 2 porções de banana e 2 de queijo. Dobre a massa sobre o recheio e regue com leite condensado a gosto."
+    ],
+    "2 OPÇÃO": [
+      "Em uma frigideira de 20cm, antiaderente , espalhe o queijo de coalho e espere começar a derreter",
+      "Cubra com a tapioca e espalhe com um garfo. Cozinhe por cerca de 1 minuto ou até que o queijo esteja bem dourado.",
+      "Vire a tapioca, coloque a margarina, dobre e sirva em seguida.",
+      "DICA",
+      "Experimente dourar o queijo, cubra com a tapioca, com a margarina e dobre, deixando o queijo na parte externa. Cozinhe por mais alguns segundos ou até derreter a margarina."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312040-tapioca.html"
+}

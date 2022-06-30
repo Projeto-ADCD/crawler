@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLACHA DE FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de fubá",
+      "1 xícara de trigo",
+      "1/2 xícara de açúcar",
+      "1 colher de margarina ou manteiga",
+      "1 xícara de leite",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes secos, depois adicione o ovo e margarina ou manteiga e misture com a mão.",
+      "Depois vá colocando aos poucos o leite até dar o ponto de pão.",
+      "Logo que a massa estiver pronta, faça bolinhas e coloque numa forma untada com margarina.",
+      "Coloque no forno preaquecido a 180°c por 20 minutos e depois de assado é só servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "MARIA DE LOURDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312615-bolacha-de-fuba.html"
+}

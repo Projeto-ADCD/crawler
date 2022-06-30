@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BIFE À PARMEGIANNA BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bife (contrafile de preferência)",
+      "500 g de farinha de rosca",
+      "6 ovos",
+      "60 ml de molho shoyu",
+      "300 g de mussarela",
+      "1 sachê de molho de tomate pronto (340 g)",
+      "5 limões",
+      "3 colheres (sopa) de cheiro-verde",
+      "2 colheres (sopa) de páprica",
+      "2 colheres (sopa) de chimichurri sem pimenta",
+      "orégano a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com o molho shoyu, sal, pimenta, cheiro-verde e o chimichurri, deixe marinar no mínimo por 1 hora",
+      "Para a milanesa, em um recipiente plano, adicione metade da farinha de rosca",
+      "Em outro recipiente plano, quebre os ovos e tempere com sal, pimenta-do-reino e a páprica",
+      "Bata tudo com o auxílio de um garfo ou qualquer outro utensílio que facilite isso",
+      "Mergulhe bife por bife seguindo a sequência:",
+      "1º no ovo",
+      "2º na farinha",
+      "Se preferir deixar a casca da milanesa mais grossa e crocante, repita a sequência mais 1 vez em cada bife",
+      "Em uma frigideira com bastante óleo, frite-os, em seguida coloque-os em um recipiente com papel toalha para enxugar o excesso de óleo e transfira-os para o recipiente final (de preferência uma travessa de vidro ou forma de alumínio)",
+      "Despeje o molho de tomate pronto por cima dos bifes, cubra com a mussarela e dê uma pitada de orégano por cima",
+      "Leve ao forno preaquecido a 180° C por aproximadamente 10 minutos para derreter a mussarela",
+      "Fica uma delícia",
+      "Um dos melhores acompanhamentos é arroz branco ou à grega!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311729-bife-a-parmegianna-by-cristiano-grillo.html"
+}

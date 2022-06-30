@@ -1,0 +1,48 @@
+{
+  "nome_receita": "COXA CREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 coxas de frango",
+      "Caldo",
+      "2 litros de água",
+      "2 tomates",
+      "1 cebola ",
+      "1 dente de alho",
+      "pimenta-do-reino a gosto",
+      "1/2 colher (chá) de açafrão em pó",
+      "1 folha de louro",
+      "Massa",
+      "1/2 xícara do caldo do frango",
+      "1 colher (sopa) de farinha de trigo",
+      "1 caixa de creme de leite ",
+      "3 gemas",
+      "1 colher (sopa) de manteiga",
+      "sal a gosto",
+      "Para empanar",
+      "farinha de rosca",
+      "3 claras",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água em uma panela no fogo",
+      "Junte as coxas e os ingredientes do caldo",
+      "Deixe ferver até as coxas estarem cozidas",
+      "Retire as coxas e reserve-as juntamente com o caldo",
+      "Massa",
+      "Em um recipiente, junte 1/2 xícara do caldo reservado e o resto dos ingredientes",
+      "Misture bem até formar um creme homogêneo e reserve",
+      "Para empanar",
+      "Bata as claras em neve",
+      "Passe as coxas na massa, nas claras e, por fim, na farinha de rosca",
+      "Leve para fritar em óleo quente",
+      "Retire quando a crosta estiver dourada e coloque em cima do papel-toalha",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307018-coxa-creme.html"
+}

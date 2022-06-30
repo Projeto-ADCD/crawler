@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PENNE AO MOLHO DE ABOBRINHA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de macarrão penne",
+      "200 g de peito de frango em cubinhos",
+      "1 abobrinha ralada",
+      "1/2 cebola picadinha",
+      "1/2 tomate picadinho",
+      "1/2 caixa de creme de leite",
+      "100 g de mussarela ralada",
+      "tempero e sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o penne até o ponto al dente",
+      "Doure a cebola",
+      "Em seguida, coloque o tomate, o frango e refogue por uns minutos",
+      "Coloque a abobrinha, tempere à gosto, e espere cozinhar bem",
+      "Por último, coloque o creme de leite e a mussarela",
+      "Ainda quente, despeje o molho no macarrão",
+      "Salpique queijo ralado e sirva com um bom vinho!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312710-penne-ao-molho-de-abobrinha-cremosa.html"
+}

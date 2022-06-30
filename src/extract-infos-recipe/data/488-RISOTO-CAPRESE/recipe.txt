@@ -1,0 +1,35 @@
+{
+  "nome_receita": "RISOTO CAPRESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "1 fio de azeite",
+      "1 xícara de arroz arbóreo ou carnarolli",
+      "3/4 xícara de vinho branco seco",
+      "caldo de legumes ou de frango quanto baste (cerca de 1 litro)",
+      "1/2 lata de tomate pelado picado",
+      "1 burrata ou 200g de mussarela de búfala",
+      "1/2 xc de parmesão ralado na hora",
+      "2 colher (sopa) manteiga gelada",
+      "folha de manjericão a gosto",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o caldo sempre aquecido durante o preparo.",
+      "Derreta a manteiga com o fio de azeite e refogue a cebola até ficar transparente. Não deixe queimar.",
+      "Junte o arroz e deixe-o absorver toda essa gordura, mexendo sempre. Não pode agarrar.",
+      "Adicione o vinho e vá mexendo com carinho até evaporar o álcool.",
+      "Coloque 2 conchas do caldo e mexa sempre.",
+      "Acrescente o tomate pelado picado com mais 2 conchas de caldo e mexa bem.",
+      "Verifique se o arroz já está al dente. Se estiver, acrescente o parmesão ralado e a manteiga gelada. Incorpore tudo e jogue o manjericão.",
+      "Sirva com a burrata colocada no meio da panela.",
+      "Caso use mussarela de búfala de bolinha, distribua na panela."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VANESSA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312695-risoto-caprese.html"
+}

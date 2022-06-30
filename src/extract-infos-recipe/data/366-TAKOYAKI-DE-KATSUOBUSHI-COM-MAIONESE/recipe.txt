@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TAKOYAKI DE KATSUOBUSHI COM MAIONESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "2 xícaras de farinha de trigo",
+      "750 ml de água gelada",
+      "2 ovos",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de molho shoyu",
+      "1/2 sachê de hondashi",
+      " ",
+      "Recheio:",
+      "cenoura ralada a gosto",
+      "3 tentáculos de polvo picados",
+      "repolho picado a gosto",
+      "cebolinha picada a gosto",
+      "beni shoga a gosto (gengibre em conserva)",
+      "tenkasu a gosto",
+      " ",
+      "Cobertura:",
+      "katsuobushi (raspas de peixe)",
+      "aonori",
+      "molho para takoyaki",
+      "maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, adicione os ovos, a farinha de trigo, o hondashi, o molho shoyu, o sal e, aos poucos, a água;",
+      "Mexa bem até virar uma massa homogênea e líquida, depois reserve na geladeira por cerca de 20 minutos;",
+      "Na máquina própria para takoyaki, pré-aquecida, passe óleo em cada cavidade para untar;",
+      "Preencha elas com a massa e coloque um pedacinho do tentáculo de polvo em cada uma;",
+      "Adicione também beni shoga, tenkasu, cenoura, repolho, cebolinha e coloque mais massa por cima;",
+      "Cozinhe por cerca de 3 minutos e, como a massa terá ultrapassado o limite das cavidades, com o auxílio de hashis vá cortando e virando as bolinhas;",
+      "Continue virando as bolinhas até dourar todas as superfícies e ficar com o formato redondo;",
+      "Passe para um prato, acrescente por cima o molho para takoyaki, aonori, katsuobushi, maionese e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313084-takoyaki-de-katsuobushi-com-maionese.html"
+}

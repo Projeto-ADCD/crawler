@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "1 bandeja de filé de frango",
+      "1 refil de molho de tomate pronto",
+      "4 espigas de milho",
+      "1 copo de leite desnatado",
+      "1 creme de leite",
+      "1 colher de creme de cebola",
+      "1 colher de manteiga",
+      "queijo ralado ",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola com o filé de frango temperado á seu gosto",
+      "Acrescente o molho de tomate e cozinhe até o ponto de desfiar",
+      "Corte as espigas de milho e cozinhe na panela de pressão por 30 min",
+      "No liquidificador coloque um copo de leite, o milho cozinhado, o creme de leite, uma colher de manteiga, uma colher de creme de cebola e bata até ficar uma mistura homogênea, coloque a mistura numa panela e mexa até soltar",
+      "Num refratário monte as camadas nessa ordem creme de milho, frango desfiado, creme de milho, depois polvilhe com o queijo ralado e a batata palha",
+      "Gratine no forno 200° por 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MANU ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307619-escondidinho-de-creme-de-milho.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE MACAXEIRA CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xxícara de água (100 ml)",
+      "500 g de mandioca ralada",
+      "1 xícara de coco fresco e ralado (80 g)",
+      "1 xícara de leite ou leite de coco (200 ml)",
+      "1 xícara de açúcar (160 g)",
+      "1 colher (chá) de fermento em pó (3 g)",
+      "1 colher (sopa) de farinha de trigo",
+      "1 xícara de açúcar (160 g)",
+      "1 ovo",
+      "4 colheres (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Em uma panela misture o açúcar com a água e leve ao fogo mexendo só até levantar fervura.",
+      "Pare de mexer e cozinhe até obter uma calda dourada.",
+      "Em seguida, despeje em uma forma redonda de 22B x 18F x 7A cm com furo central",
+      "Espalhe com as costas de uma colher"
+    ],
+    "MASSA": [
+      "Em uma tigela misture muito bem todos os ingredientes e despeje na forma reservada.",
+      "Asse no forno preaquecido por cerca de 45 minutos ou até dourar ligeiramente.",
+      "Desenforme morno e sirva em temperatura ambiente"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312027-bolo-de-macaxeira-caramelizada.html"
+}

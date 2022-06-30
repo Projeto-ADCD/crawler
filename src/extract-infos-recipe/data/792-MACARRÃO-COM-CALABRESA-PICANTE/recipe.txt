@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MACARRÃO COM CALABRESA PICANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão",
+      "100 g de molho de tomate",
+      "1/2 cebola",
+      "2 linguiça calabresa",
+      "5 gotinhas de pimenta calabresa liquida",
+      "2 sachês de carne em pó",
+      "1 colher rasa de margarina",
+      "1 dente de alho",
+      "cheiro-verde a gosto",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande coloque o macarrão para cozinha.",
+      "Pique a calabresa em cubinhos pequenos",
+      "Em outra panela coloque uma colher de margarina e frite bem a calabresa.",
+      "Após frita, coloque as cebolas e o alho para dar uma fritada, em seguida coloque o molho de tomate e o sazon e mexa bem, coloque as gotinhas de pimenta e deixa ferver por aproximadamente 3 minutos.",
+      "Acrescente 50 ml de água e deixe ferver por mais 5 minutos.",
+      "Escorra a água do macarrão e volte-o para a panela grande.",
+      "Misture o molho no macarrão.",
+      "E finaliza com queijo parmesão ralado a gosto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUANA VENÂNCIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311544-macarrao-com-calabresa-picante.html"
+}

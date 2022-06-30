@@ -1,0 +1,19 @@
+{
+  "nome_receita": "SUCO LEVE DE AÇAÍ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bolas de Frooty Açaí",
+      "600 ml de suco integral de uva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os 2 ingredientes no liquidificador e bata até a mistura ficar homogênea.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FROOTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306092-suco-leve-de-acai.html"
+}

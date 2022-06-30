@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE AZEITE GALLO EXTRA VIRGEM RESERVA COM FRUTAS VERMELHAS E MOUSSE DE CHOCOLATE BRANCO",
+  "ingredientes": {
+    "MASSA": [
+      "3 ovos",
+      "1 e 1/2 xícara de açúcar ",
+      "250 g de iogurte",
+      "3/4 de xícara de Azeite Gallo Extra Virgem Reserva",
+      "2 e 1/4 de xícara de farinha de trigo",
+      "raspas de laranja",
+      "1 colher (sopa) de fermento em pó",
+      "azeite Gallo de Oliva Tipo Único para untar"
+    ],
+    "RECHEIO": [
+      "600 g de chocolate branco",
+      "200 g de creme de leite fresco",
+      "frutas vermelhas (morango, framboesa e amora)"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Preaqueça o forno a 180° C. Em um bowl grande, misture o Azeite Gallo Extra Virgem Reserva e os outros ingredientes, deixando por último a farinha de trigo e o fermento em pó.",
+      "Despeje a massa em uma forma de 18 cm, untada com Azeite Gallo Tipo Único e farinha. Asse de 35 a 40 minutos ou até colocar um palito e sair limpo. "
+    ],
+    "RECHEIO": [
+      "Derreta o chocolate branco em banho-maria e misture com o creme de leite fresco aquecido.",
+      "Depois de se formar uma ganache homogênea, deixe no freezer por 30 minutos ou até ficar completamente frio. ",
+      "Bata a ganache na batedeira até ficar bem espumosa. Reserve."
+    ],
+    "GELÉIA": [
+      "Em uma panela, acrescente as frutas vermelhas, açúcar e limão espremido. Misture e deixe reduzir. Após esse processo, leve para gelar."
+    ],
+    "MONTAGEM": [
+      "Na mesma forma, só que limpa e com papel acetato, coloque um disco e cubra com a mousse e as frutas. Faça isso até o último disco de bolo. Leve para o freezer por 2 horas ou geladeira por 4 horas.",
+      "Volte, coloque no prato em que for servir, retire o acetato e cubra o bolo com o restante da mousse. Decore como quiser. Bom apetite! :)"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GALLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310412-bolo-de-azeite-gallo-extra-virgem-reserva-com-frutas-vermelhas-e-mousse-de-chocolate-branco.html"
+}

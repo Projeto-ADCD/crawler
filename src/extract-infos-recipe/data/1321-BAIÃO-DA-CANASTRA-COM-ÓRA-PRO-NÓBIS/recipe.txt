@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BAIÃO DA CANASTRA COM ÓRA-PRO-NÓBIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de linguiça de frango ",
+      "300 g de bacon ",
+      "1 cebola média ",
+      "3 dentes de alho ",
+      "2 colheres (sopa) de banha de porco",
+      "4 xícaras (chá) de arroz cozido e temperado ao seu gosto",
+      "3 xícaras de feijão bolinha sem temperar",
+      "150 g de queijo da canastra meia cura",
+      "1 colher (sopa) de pimenta calabresa",
+      "1/2 xícara (chá) de cheiro-verde",
+      "sal a gosto",
+      "40 folhas de óra-pro-nóbis",
+      "6 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela tipo Wok frite a linguiça de frango cortada em rodelas de 5mm na banha de porco até que as extremidades fiquem queimadas",
+      "Em seguida frite o bacon em cubos",
+      "Acrescente a cebola em cubos e o alho amassado e frite 30 segundos",
+      "Coloque o arroz e mexa devagar até incorporar",
+      "Coloque devagar o feijão e incorpore devagar para não desmanchar",
+      "Coloque o queijo picado em pequenos cubos e misture devagar",
+      "Acrescente o cheiro-verde e a pimenta e misture devagar",
+      "Desligue o fogo, coloque as folhas de óra-pro-nóbis rasgadas com a mão e misture com cuidado",
+      "Sirva em porções individuais com um ovo frito com gema mole por cima"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WAGNER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308884-baiao-da-canastra-com-ora-pro-nobis.html"
+}

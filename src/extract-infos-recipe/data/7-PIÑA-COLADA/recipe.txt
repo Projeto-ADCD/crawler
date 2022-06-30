@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PIÑA COLADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "60 ml de Rum de Coco",
+      "5 a 6 fatias de abacaxi fatiado",
+      "açúcar a gosto",
+      "gelo",
+      "creme de leite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Macere o abaxi na sua coqueteleira.",
+      "Adicione o rum de coco, gelo, creme de leite e o açúcar em uma coqueteleira e bata bem.",
+      "Logo após retire o líquido e faça uma coagem dupla em um copo com gelo.",
+      "Decore como preferir"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JÉSSICA ANTUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316925-pina-colada.html"
+}

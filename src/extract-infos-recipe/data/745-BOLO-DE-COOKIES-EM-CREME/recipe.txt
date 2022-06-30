@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE COOKIES EM CREME",
+  "ingredientes": {
+    "MASSA": [
+      "2 ovos",
+      "1 xícara de farinha de trigo",
+      "2 colheres (sopa) de açúcar (a gosto)",
+      "1 colher (sopa) de fermento",
+      "1 barra de chocolate sabor cookies em creme 90 g",
+      "1 caixa de creme de leite"
+    ],
+    "COBERTURA": [
+      "100 ml de creme de leite",
+      "1 barra de chocolate sabor cookies em creme 90 g"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Coloque em uma panela o creme de leite e a barra de chocolate.",
+      "Leve ao fogo até iniciar o derretimento da barra.",
+      "Desligue o fogo e continue mexendo até a barra derreter completamente. Deixe esfriar e reserve. Em uma tigela, bata ligeiramente com o fouet os 2 ovos, adicione a mistura reservada, o trigo e o fermento peneirados e o açúcar.",
+      "Bata com o fouet até misturar bem os ingredientes.",
+      "Transfira para uma forma untada e enfarinhada e leve ao forno a aproximadamente 190° C por 35 minutos mais ou menos (a depender do seu forno e do tamanho da sua forma)."
+    ],
+    "COBERTURA": [
+      "Derreter o chocolate com o creme de leite da mesma forma que foi feito para a massa.",
+      "Sugestão: colocar pedacinhos picados de chocolate meio amargo sobre a massa antes de assar",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA SILVA COUTINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311775-bolo-de-cookies-em-creme.html"
+}

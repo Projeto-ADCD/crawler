@@ -1,0 +1,39 @@
+{
+  "nome_receita": "LOMBO ASSADO AO MOLHO DE MARACUJÁ E ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de lombo",
+      "300 g de bacon fatiado",
+      "2 limões",
+      "2 maracujás",
+      "1 litro d'água",
+      "tomilho",
+      "alecrim",
+      "alho em pó",
+      "manjericão seco",
+      "páprica defumada",
+      "sal a gosto",
+      "manteiga",
+      "mel ou 1 copo americano de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça uma marinada com a água , limão maracujá com as sementes, tomilho, alecrim, alho em pó, manjericão seco, páprica defumada,sal a gosto.",
+      "Ambos os temperos são a gosto. Coloque o lombo, deixe entre 30 a 60 minutos de cada lado.",
+      "Após esse tempo, coloque 4 colheres de sopa de manteiga e 30 ml de óleo em uma panela que caiba o lombo,",
+      "Sele de todos os lados, essa etapa é muito importante para que a carne se mantenha suculenta.",
+      "Reserve o lombo selado.",
+      "Coloque 3 colheres de sopa de farinha de trigo na panela com a manteiga, misture bem e adicione a marinada, mexa até engrossar e reserve.",
+      "Coloque duas colheres sopa de manteiga na assadeira, o lombo e cubra com o bacon fatiado.",
+      "Pincele mel, ou derreta 1 copo americano de açúcar, até ficar dourado, junte uma xícara de café de água para que não endureça após esfriar.",
+      "Pincele sobre o bacon, cubra a assadeira com papel alumínio, leve ao forno por 90 minutos a 180, para saber se está assado, enfie uma faca no meio da carne, encoste nos lábios, se estiver morno está pronto.",
+      "Depois deixe mais 15 minutos sem papel alumínio para dourar, retire do forno, fatie e jogue o molho por cima.",
+      "Sirva com uma farofa, purê ou arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VANESSA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312628-lombo-assado-ao-molho-de-maracuja-e-ervas.html"
+}

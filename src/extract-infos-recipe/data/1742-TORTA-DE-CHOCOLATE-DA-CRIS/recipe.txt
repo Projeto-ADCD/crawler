@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TORTA DE CHOCOLATE DA CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "250 g de manteiga",
+      "3 xícaras de açúcar",
+      "6 gemas",
+      "6 claras",
+      "4 xícaras de trigo",
+      "1 xícara de leite",
+      "150 g de chocolate em pó",
+      "1 colher (sopa) de fermento em pó",
+      "RECHEIO",
+      "200 g de chocolate",
+      "200 g de creme de leite fresco",
+      "COBERTURA",
+      "200 g de manteiga",
+      "8 colheres (sopa) de açúcar",
+      "1 lata de creme de leite",
+      "8 colheres (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Bata as claras em neve",
+      "Bata bem a manteiga com o açúcar",
+      "Junte as gemas uma a uma batendo bem.",
+      "Acrescente o chocolate",
+      "Acrescente o trigo alternando com o leite morno",
+      "Misture, a mão, as claras em neve e o fermento.",
+      "Asse em forma grande por aproximadamente 1 hora e 30 minutos",
+      "RECHEIO",
+      "Derreta o chocolate em banho-maria",
+      "Acrescente o creme de leite fresco",
+      "Coloque uns minutinhos na geladeira antes de rechear o bolo",
+      "COBERTURA",
+      "Bata a manteiga com açúcar até ficar um creme branco",
+      "Adicione o chocolate em pó.",
+      "Coloque o creme de leite sem soro"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICAS: A receita da massa faz um bolo bem grande, você pode utilizar para fazer um ou dois bolos pequenos (ficam menos tempo no forno cerca de 40 minutos) . Se utilizar barras de chocolate ao leite é necessários acrescentar o creme de leite e o chocolate ao fogo (deixar esfriar e endurecer antes de rechear o bolo). A cobertura fica mais saborosa com creme de leite de lata."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAQUEL STUMPF",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306946-torta-de-chocolate-da-cris.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "VINAGRETE COM POLVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de tentáculos de polvo",
+      "1/2 pimentão amarelo",
+      "1/2 pimentão vermelho",
+      "1 tomate",
+      "1/2 cebola",
+      "1/2 cebola roxa",
+      "cheiro-verde a gosto",
+      "azeite a gosto",
+      "vinagre a gosto",
+      "sal a gosto",
+      "pimenta dedo-de-moça a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola roxa bem miúdo e deixe de molho",
+      "Lave bem o polvo",
+      "Corte a cebola branca em pétalas e forte o funda da panela de pressão.",
+      "Coloque o polvo sobre a cebola",
+      "Tampe e cozinhe em fogo baixo, sem água, por 6 minutos após pegar pressão",
+      "Aguarde acabar a pressão para abrir a panela",
+      "Pique os pimentões, o tomate, o cheiro-verde e a pimenta.",
+      "Junte com a cebola roxa escorrida e o polvo frio e cortado em cubos.",
+      "Tempere com azeite, vinagre e sal a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MAISA DE SOUZA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306615-vinagrete-com-polvo.html"
+}

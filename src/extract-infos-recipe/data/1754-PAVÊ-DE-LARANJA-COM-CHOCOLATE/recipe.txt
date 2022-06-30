@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PAVÊ DE LARANJA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o pavê",
+      "1 lata de leite condensado",
+      "Mesma medida de suco de laranja da fruta (uso de 4 à 5 laranjas)",
+      "3 ovos",
+      "50 g de amido",
+      "1 xícara (chá) de açúcar",
+      "150 g de manteiga (de preferência sem sal)",
+      "1 pacote de biscoito maisena ou champanhe",
+      "Para a calda",
+      "5 colheres (sopa) bem cheias de achocolatado em pó ",
+      "2 colheres (sopa) de manteiga sem sal",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o pavê",
+      "No liquidificador junte o leite condensado, os ovos, o suco da laranja, o amido, a manteiga e o açúcar, bata tudo até ficar homogêneo.",
+      "Leve ao fogo brando mexendo sempre, até engrossar. Reserve.",
+      "Para a calda",
+      "Em uma panela, misture a manteiga e o achocolatado, leve ao fogo baixo até a manteiga derreter por completo, mexendo para não queimar.",
+      "Adicione o creme de leite e mexa até obter uma textura homogênea. Reserve.",
+      "Para a montagem",
+      "Coloque uma camada de pavê, uma de maisena e repita o processo até todo o creme acabar.",
+      "Por fim cubra tudo com a calda de chocolate e deixa na geladeira por 4 horas no mínimo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BLENDA GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306918-pave-de-laranja-com-chocolate.html"
+}

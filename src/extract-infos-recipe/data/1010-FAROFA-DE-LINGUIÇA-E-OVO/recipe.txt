@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FAROFA DE LINGUIÇA E OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 linguiça calabresa picadinha",
+      "3 ovos",
+      "5 dentes de alho socado ou picado",
+      "1/2 cebola em tiras ou picada",
+      "250 g de farinha de mandioca",
+      "3 colheres de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite primeiro a linguiça na manteiga.",
+      "Depois acrescente o alho e a cebola e espere dar uma douradinha.",
+      "Quebre os três ovos e mexa até tudo estar bem frito.",
+      "Coloque a farinha de mandioca e mexa, depois de uns 2/3 minutos mexendo apague o fogo.",
+      "Está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JAQUELINE ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310490-farofa-de-linguica-e-ovo.html"
+}

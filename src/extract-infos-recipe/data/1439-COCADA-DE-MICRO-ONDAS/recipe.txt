@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COCADA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "200 g de açúcar",
+      "1 pacote de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Leve ao microo-ondas por 5 minutos.",
+      "Despeje em uma pedra na pia limpa e seca, e espere esfriar.",
+      "Divida em porções e saboreie essa delicia.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ISADORA PALILIUNAS COPPA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308336-cocada-de-micro-ondas.html"
+}

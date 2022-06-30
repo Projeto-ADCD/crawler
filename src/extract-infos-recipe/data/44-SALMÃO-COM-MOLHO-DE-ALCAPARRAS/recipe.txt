@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SALMÃO COM MOLHO DE ALCAPARRAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 posta de salmão de 1 kg",
+      "1 dente de alho amassado",
+      "Azeite, suco de limão, alecrim, sal a gosto",
+      "Rodelas de batata pré-cozidas",
+      "Molho:",
+      "1 colher de sopa de manteiga",
+      "2 colheres de sopa de azeite",
+      "4 colheres de sopa de alcaparras",
+      "Salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o salmão com o suco de limão, o alho o alecrim e o sal.",
+      "Deixe descansar na geladeira por 30 minutos.",
+      "Numa travessa untada coloque as rodelas de batata, o salmão.",
+      "Regue com azeite e leve para assar por 30 minutos coberto com papel alumínio.",
+      "Retire o papel e deixe dourar.",
+      "Molho:",
+      "Em uma frigideira aqueça a manteiga o azeite, coloque as alcaparras escorridas e lavadas (elas são muito salgadas) a salsinha e desligue.",
+      "Retire o salmão do forno.",
+      "Cubra com o molho e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VALÉRIA VALADÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314727-salmao-com-molho-de-alcaparras.html"
+}

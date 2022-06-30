@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COCADA DE CORTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 latas de açúcar (medida da lata de leite condensado)",
+      "100 g de coco seco ralado",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo baixo, o leite condensado, o açúcar e o coco",
+      "Mexa sempre até desprender do fundo da panela, cerca de 15 minutos.",
+      "Despeje no mármore untado e nivele com um rolo de massas também untado.",
+      "Deixe esfriar e corte em quadrados."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307482-cocada-de-corte.html"
+}

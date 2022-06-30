@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PANQUECA DE CALABRESA COM ABOBRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Panqueca",
+      "2 xícaras de chá de leite integral",
+      "4 ovos",
+      "6 colheres de sopa de óleo",
+      "2 colher de chá de sal",
+      "3 xícaras de farinha de trigo",
+      "Molho",
+      "2 linguiças calabresa (400g) ralada",
+      "2 abobrinhas italianas (500g) ralada",
+      "1 lata de molho de tomate",
+      "1 lata de milho",
+      "2 colheres de sopa de ketchup",
+      "Cebola, alho e sal a gosto",
+      "Queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Panqueca",
+      "Bater todos os ingredientes no liquidificador",
+      "Com uma concha, espalhar a mistura em uma frigideira (fogo médio)",
+      "Virar quando estiver dourado",
+      "Reservar.",
+      "Molho",
+      "Dourar o alho e cebola",
+      "Acrescentar a linguiça calabresa ralada. Refogar um pouco",
+      "Acrescentar a abobrinha, em seguida o molho de tomate e o ketchup",
+      "Colocar o milho e sal a gosto",
+      "Deixar cozinhar por 20 minutos",
+      "Montagem",
+      "Em uma tigela, utilize o molho para rechear a panqueca. Use o mesmo molho para cobrir todas as panquecas já recheadas. Salpique com queijo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAMILA MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306682-panqueca-de-calabresa-com-abobrinha.html"
+}

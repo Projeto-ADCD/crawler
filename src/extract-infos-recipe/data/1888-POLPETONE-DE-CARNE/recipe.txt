@@ -1,0 +1,39 @@
+{
+  "nome_receita": "POLPETONE DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1 pão francês amanhecido ralado",
+      "1 batata cozida e espremida",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) rasa de molho inglês",
+      "1 colher (sopa) rasa de sopa de cebola",
+      "1 cebola",
+      "1 ovo",
+      "200 g de queijo mussarela ralada",
+      "100 g de presunto",
+      "sal e temperos a gosto (usei pimenta-do-reino, pimenta síria, páprica picante, molho de pimenta vermelha)",
+      "farinha de rosca para empanar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente grande, coloque a carne, a cebola, o ovo, o pão ralado já umedecido no leite (retirando bem o excesso do leite com o coador se necessário), a batata cozida espremida e a salsinha picadinha.",
+      "Misture bem até obter uma massa homogênea.",
+      "Tempere-a com sal e temperos a gosto.",
+      "Faça uma bolas grandes (pode usar um prato fundo ou forma de hamburguer para ajudar a modelar.",
+      "Faça uma pequena cavidade no polpetone e recheie-o com queijo, presunto e catupiry.",
+      "Feche cuidadosamente, procurando manter o formato redondo.",
+      "Passe-as no ovo e na de farinha de rosca para empanar.",
+      "Celar dos dois lados na frigideira em óleo quente e colocar em uma forma levemente untada com óleo e molho de tomate.",
+      "Coloque molho de tomate em cima também e leve para assar em forno preaquecido a 180º C por cerca de 45minutos.",
+      "Tire o papel-alumínio e coloque uma fatia de mussarela em cima das polpetas e volte ao forno por mais 5 minutos apenas para gratinar o queijo.",
+      "Retire do forno, coloque mais um pouco do molho de tomate e sirva com macarrão espaguete alho e óleo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "FERNANDA NUNES VICENTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306519-polpetone-de-carne.html"
+}

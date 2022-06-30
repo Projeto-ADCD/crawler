@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MANJAR DE COCO COM AMEIXAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de bebida vegetal Ades amêndoas",
+      "35 g de amido de milho ",
+      "90 g de açúcar ",
+      "200 ml leite de coco ",
+      "1 colher (sopa) de essência de baunilha ",
+      "100 g de coco em flocos "
+    ],
+    "CALDA": [
+      "200 g de ameixa seca ",
+      "2 xícaras (chá) de açúcar ",
+      "1 xícara (chá) de água "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe e quantifique todos os ingredientes. ",
+      "Em uma panela, adicione a bebida vegetal Ades amêndoas, amido de milho, açúcar, leite de coco e  a baunilha e mexer fora do fogo até ter dissolvido todo o amido. Depois de dissolver, leve a mistura ao fogo brando e mexa até engrossar. ",
+      "Distribua o manjar em ramequins individuais ou em uma travessa grande, despeje sobre o manjar o coco ralado e leve o manjar a geladeira por aproximadamente 8 horas para firmar bem. "
+    ],
+    "CALDA": [
+      "Coloque o açúcar e a água em uma panela e mexa bem até dissolver todo o açúcar na água. Feito isso, adicione as ameixas e leve a calda ao fogo brando. Deixe cozinhar por aproximadamente 10 minutos e reserve. ",
+      "Sirva o manjar gelado com a calda de ameixas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314516-manjar-de-coco-com-ameixas.html"
+}

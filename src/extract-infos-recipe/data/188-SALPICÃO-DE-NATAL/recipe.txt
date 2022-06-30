@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SALPICÃO DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Frango Defumado Copacol",
+      "200 g de bacon",
+      "1 xícara de milho verde Copacol",
+      "1 xícara de ervilha Copacol",
+      "1 maçã verde grande",
+      "1 pimentão vermelho",
+      "1 cebola roxa média",
+      "2 colheres (sopa) de salsinha",
+      "2 colheres (sopa) de cebolinha",
+      "1/2 xícara de damasco seco",
+      "300 g de maionese",
+      "1 colher (chá) de páprica picante",
+      "1 limão siciliano – raspas",
+      "sal e pimenta à gosto",
+      "8 croissant médios ou mais"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve uma frigideira ao fogo médio, adicione o bacon em cubos e frite até ficarem crocantes. Adicione o milho e a ervilha à frigideira e refogue por 5 minutos, desligue o fogo e deixe esfriar. Reserve.",
+      "Coloque o Frango Defumado Copacol sobre uma tábua de corte e com uma faca, corte e retire toda a pele. Com a ajuda de um garfo, retire toda a carne do frango da carcaça, em forma de lascas. Reserve.",
+      "Em um bowl adicione o frango defumado em lascas, adicione a maçã verde picada, o pimentão vermelho picado, a cebola roxa, a salsinha, a cebolinha e o damasco. Por fim adicione o bacon com milho e ervilha, a maionese, a páprica, as raspas de limão e misture tudo muito bem. Prove a mistura e tempere com sal e pimenta se necessário",
+      "Sirva em um prato grande e sobre uma tábua coloque os croissants cortados ao meio.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "COPACOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314034-salpicao-de-natal.html"
+}

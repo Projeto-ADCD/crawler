@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE BANANA COM UVA PASSA SEM GLÚTEN, SEM LEITE E SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara bem cheia de farinha de arroz",
+      "4 bananas bem maduras",
+      "1/2 colher (sobremesa) de canela de pó",
+      "3 colheres (sopa) de xilitol (opcional)",
+      "1 xícara de uvas passas",
+      "2 colheres de sopa de fermento químico em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes, exceto a farinha e o fermento, no liquidificador.",
+      "Em uma tigela, misture os ingredientes batidos com a farinha até ficar homogêneo. Adicione o fermento em seguida.",
+      "Unte a forma e leve ao forno pré-aquecido 180° por, aproximadamente, 20 minutos.",
+      "Espere esfriar totalmente antes de desenformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para assar, eu uso uma forma de silicone, assim evito ter que enfarinhar. Passo um pouco de margarina sem leite só pra garantir que o bolo realmente não grude.\nMedida da forma: 20 cm de diâmetro por 10 de altura, mais ou menos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TAMARA DE MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307085-bolo-de-banana-com-uva-passa-sem-gluten-sem-leite-e-sem-acucar.html"
+}

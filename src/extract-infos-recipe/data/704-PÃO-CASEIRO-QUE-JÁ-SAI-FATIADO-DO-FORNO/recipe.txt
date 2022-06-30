@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO CASEIRO QUE JÁ SAI FATIADO DO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite morno",
+      "10 g de fermento biológico seco",
+      "3 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de óleo de soja",
+      "1 ovo",
+      "2 colheres (sopa) de margarina",
+      "5 xícaras de farinha de trigo (usei 4 e 1/2 xícaras)",
+      "1 colher (chá) de sal",
+      "1 gema misturada com uma colher de sopa de leite para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite, o açúcar e o fermento, misture bem. Junte o óleo, 1 colher de margarina, o ovo e o sal, e vá colocando a farinha aos poucos até começar a soltar das mãos, juntar a outra colher de margarina, sovar mais um pouco e acrescentando farinha de trigo aos poucos, Quando a massa parar de grudar nas mãos, sovar por mais 10 minutos.",
+      "Separar a massa em duas partes, e abrir cada uma com o rolo de macarrão, enrolar no formato do pão e fatiar cada pão em 12 fatias. Arrumar as fatias dentro de uma forma de pão untada e enfarinhada (usei uma forma de 30x12 cm) e deixar crescer por uma hora.",
+      "Após o pão crescer, pincelar com uma gema misturada com uma colher de sopa de leite e levar para assar em forno pré aquecido a 200 graus por aproximadamente 40 minutos.",
+      "Esperar esfriar um pouco e desinformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "minha xícara é de 250 ml"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "NOSSA COZINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312005-pao-caseiro-que-ja-sai-fatiado-do-forno.html"
+}

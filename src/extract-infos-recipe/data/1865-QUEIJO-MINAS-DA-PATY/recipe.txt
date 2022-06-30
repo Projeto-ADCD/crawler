@@ -1,0 +1,29 @@
+{
+  "nome_receita": "QUEIJO MINAS DA PATY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "4 colheres de vinagre branco (usei de alcool)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite.",
+      "Logo que levantar fervura, dealigue o fogo e misture o vinagre.",
+      "Mexa até talhar e deixe descansar por 5 minutos",
+      "Mexa mais um pouco e misture o sal a gosto",
+      "O soro ficará separado por cima e a massa por baixo",
+      "Pegue uma panela ou bacia, coloque uma peneira e um pano de prato limpo",
+      "Coloque a mistura completa e coe atraves do pano de prato até sair todo o soro",
+      "Aperte por cima do pano de prato até escorrer todo o soro (se quiser um queijo mais seco, tipo ricota, aperte ate escorrer todo o soro",
+      "Coloque em um pote pequeno (pode ser de margarina pequeno) e coloque na geladeira por, pelo menos, 4 horas",
+      "Seu queijo caseiro está pronto",
+      "Fica muito bom"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PATRICIA KAISER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306593-queijo-minas-da-paty.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CORAÇÃO DE FRANGO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coração de frango",
+      "azeite ou óleo para fritar",
+      "pimenta branca a gosto",
+      "pimenta a gosto",
+      "cominho a gosto",
+      "páprica defumada a gosto",
+      "sal a gosto",
+      "1 limão",
+      "1 fio de azeite",
+      "1 cebola grande",
+      "1 pimentão pequeno",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, junte o coração e os primeiros 6 temperos",
+      "Misture bem e deixe descansar por 30 minutos, para os sabores apurarem",
+      "Depois, misture o suco de 1 limão",
+      "Coloque em uma panela de pressão, 1 fio de azeite",
+      "Junte a cebola e o pimentão picado e deixe dourar",
+      "Coloque o coração temperado e deixe dourar um pouco",
+      "Feche a panela e deixe 15 minutos após pegar pressão",
+      "Retire da panela, sirva e finalize com cheiro-verde a gosto",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309082-coracao-de-frango-na-panela-de-pressao.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FEIJÃO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão preto",
+      "suco de 1 limão",
+      "1 folha de louro",
+      "alho e cebola a gosto",
+      "bacon a gosto",
+      "sal a gosto",
+      "cebolinha a gosto",
+      "paio a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o feijão de molho por 12 horas com água e o suco do limão. Ao final desse tempo, descarte todos os grãos que subirem para a superfície.",
+      "Coloque o feijão na panela de pressão e encha de água com até 2/3 da sua capacidade. Adicione uma folha de louro.",
+      "Cozinhe em fogo alto até começar a pegar pressão, depois diminua para o fogo mínimo e mantenha por aproximadamente 15 minutos.",
+      "Em uma frigideira, coloque o bacon, depois o alho e por último a cebola. Refogue até dourar levemente.",
+      "Na mesma frigideira, junte duas conchas generosas com bastante caroço do feijão já cozido e misture para temperar bem.",
+      "Ao formar uma pasta do feijão com o tempero, volte essa mistura para a panela de pressão e tempere o restante. ",
+      "Ligue o fogo, adicione o sal e a cebolinha. Deixe cozinhar por mais 10 minutos, com a panela aberta.",
+      "Enquanto isso frite o paio na frigideira onde foi feito o tempero. Depois de dourado, adicione à panela de pressão, mexa e sirva-se com o feijão quentinho."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312975-feijao-na-panela-de-pressao.html"
+}

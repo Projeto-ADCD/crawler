@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO COM ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 dentes de alho",
+      "5 colheres de sopa de óleo",
+      "1 colher de sopa de mateiga",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1: corte o alho com sal e",
+      "2: deixe o alho virar uma pasta",
+      "3: em uma frigideira bote óleo e o alho",
+      "4: não deixe quiemar",
+      "5: na frigideira bote uma colher de margarina e mexa",
+      "6: depois bote a água para ferver",
+      "7: na água bote sal e óleo",
+      "8: depois bote a massa",
+      "9: quando a massa enstiver na panela bote o alho rapidamente"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ERICK SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316146-macarrao-com-alho.html"
+}

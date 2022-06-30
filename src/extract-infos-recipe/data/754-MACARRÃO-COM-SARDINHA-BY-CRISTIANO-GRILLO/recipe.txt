@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MACARRÃO COM SARDINHA BY CRISTIANO GRILLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão ",
+      "1 cebola média picada em cubinhos",
+      "1 pimentão amarelo picado em cubinhos",
+      "1 pimentão vermelho picado em cubinhos",
+      "1 pimentão verde picado em cubinhos",
+      "2 latas de sardinhas de 250 g (no molho de tomate ou de sua preferência)",
+      "100 g de champignons cortados",
+      "3 sachês de 340 g de molho de tomate com manjericão",
+      "1 colher (sopa) de azeite ou óleo",
+      "3 colheres (sopa) de cheiro-verde",
+      "1 colher (chá) de pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ou frigideira grande, adicione 1 colher (sopa) de azeite ou óleo, e adicione a cebola e os pimentões já cortados em cubinhos, deixe dourar",
+      "Na mesma panela/frigideira, adicione a sardinha com o molho que já vem na lata, amasse bem as sardinhas e deixe cozinhar junto com os demais ingredientes que já estavam na panela em fogo médio ou baixo para não queimar no fundo, sempre misturando bem por aproximadamente 5 minutos",
+      "Depois adicione o molho de tomate com manjericão e a pimenta do reino mantendo em fogo médio por aproximadamente 10 minutos (sempre olhando se não está queimando)",
+      "Em seguida adicione o champignon e se o molho estiver muito grosso, faça o ajuste com água (eu não costumo colocar sal mas fica a critério de cada um ajustar o sal se preferir)",
+      "Em uma outra panela, cozinhe o macarrão até ficar al dente, escorra e transfira para uma travessa",
+      "Finalize o molho com o cheiro verde e despeje sobre o macarrão, misture bem e sirva-o",
+      "Você pode adicionar outros ingredientes ao molho como ervilhas, milho, etc",
+      "Fica uma delícia",
+      "Dispensa até acompanhamentos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CRISTIANO GRILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311726-macarrao-com-sardinha-by-cristiano-grillo.html"
+}

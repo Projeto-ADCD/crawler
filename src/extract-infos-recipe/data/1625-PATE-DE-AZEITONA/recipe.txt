@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PATE DE AZEITONA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de azeitona fatiada",
+      "2 colheres de maionese",
+      "2 polenguinhos",
+      "1 dente de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes",
+      "Processe ou amasse-os",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307344-pate-de-azeitona.html"
+}

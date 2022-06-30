@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PUDIM DE COCO COM IOGURTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o pudim",
+      "1 lata de leite condensado",
+      "1 vídeo de leite de coco",
+      "400 ml de iogurte",
+      "1 envelope de gelatina",
+      "50 g de coco ralado",
+      "Para a calda",
+      "1/2 xícara de açúcar",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o pudim",
+      "Bata no liquidificador o leite condensado, o leite de coco, o iogurte, 30 g do coco ralado (divide o ingrediente parte para o pudim e parte para a calda)",
+      "A gelatina, dissolvida conforme instruções (adiciono ao envelope, 3 colheres de água fria, dissolvo e levo ao micro-ondas por 30 segundos, misturo bem e aplico)",
+      "Bata por 2 minutos e despeje em uma forma, untada com óleo ( eu uso o óleo de coco) . Levar a geladeira por 2 a 3h , até estar firme para ser desenformado",
+      "Calda",
+      "Levo o açúcar ao fogo para derreter, não deixe queimar",
+      "Adicione água e mexa até o açúcar ficar todo líquido",
+      "Adicione os 20 g do coco ralado, mexa",
+      "Deixe esfriar e adicione ao pudim desenformado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HELENA GIORGETTI COUTINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307877-pudim-de-coco-com-iogurte.html"
+}

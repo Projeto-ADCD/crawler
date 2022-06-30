@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE ALHO PORÓ COM REQUEIJÃO",
+  "ingredientes": {
+    "MASSA": [
+      "3 ovos",
+      "1/2 cebola",
+      "1 pacotinho de queijo parmesão ou canastra curado",
+      "1 xícara (chá) de óleo",
+      "1 xícara (chá) leite",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de fermento em pó",
+      "2 xícara (chá) de farinha de trigo"
+    ],
+    "RECHEIO": [
+      "1 alho poró grande picado em rodelas",
+      "1 lata de milho",
+      "10 fatias de mussarela",
+      "azeitona a gosto",
+      "1 pote de requeijão cremoso",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes líquidos e o sal no liquidificador e bata",
+      "Junte aos poucos a farinha de trigo e vá batendo",
+      "Desligue e misture o fermento com uma colher e reserve",
+      "Em um recipiente misture os ingredientes do recheio, menos a mussarela",
+      "Unte uma forma média com óleo e adicione metade da massa, depois adicionar 5 fatias da mussarela",
+      "Adicione aos poucos o recheio e por cima o restante da mussarela",
+      "Coloque o restante da massa e se desejar polvilhe orégano",
+      "Asse por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LETICIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310254-torta-de-alho-poro-com-requeijao.html"
+}

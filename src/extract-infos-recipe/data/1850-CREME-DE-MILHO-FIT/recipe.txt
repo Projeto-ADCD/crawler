@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME DE MILHO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de milho",
+      "200 ml de leite desnatado",
+      "1 colher (sopa) de amido de milho",
+      "cebola, alho, sal e pimenta-do-reino a gosto",
+      "óleo de coco ou azeite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador bata o milho com o leite, o amido dissolvido com uma colher de leite até que esteja bem triturado.",
+      "E se preferir separe um pouco do milho e acrescente ao final da receita para decorar.",
+      "Aqueça a panela com o óleo de coco ou azeite no fogo médio e coloque o alho e cebola para dourar.",
+      "Quando eles começarem a dourar coloque uma pitada de sal, a pimenta-do-reino e o milho batido com o leite e o amido.",
+      "Mexa bem por cerca de 5 a 10 minutos em fogo baixo, até tomar consistência.",
+      "Quando pronto coloque em um pote de vidro pequeno e decore com o milho.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "YASMIN M. BEAUMONT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306617-creme-de-milho-fit.html"
+}

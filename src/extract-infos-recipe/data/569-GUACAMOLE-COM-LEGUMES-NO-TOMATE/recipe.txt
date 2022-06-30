@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GUACAMOLE COM LEGUMES NO TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cenoura em cubinhos",
+      "1/2 chuchu em cubinhos",
+      "1/2 barata em cubinhos",
+      "2 tomates grandes",
+      "1/2 abacate grande",
+      "1/2 cebola branca picada",
+      "azeite",
+      "1/2 limão Taiti",
+      "sal",
+      "salsinha a gosto",
+      "pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os legumes e reserve.",
+      "Pique o abacate.",
+      "Misturando com azeite a cebola e a salsinha, sal a gosto e pimenta-do-reino",
+      "Acrescente os legumes ",
+      "Corte os tomate ao meio, tire às semente, só colocar dentro do tomate e sirva"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIA JOAQUINA DE AMARAL PEREIRA GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312484-guacamole-com-legumes-no-tomate.html"
+}

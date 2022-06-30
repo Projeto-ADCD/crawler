@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MINGAU DE AVEIA SABOR CANJICA/ MATA VONTADE DE DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 ml de leite da sua preferência ",
+      "3 colheres (sopa) de aveia em flocos",
+      "1/2 colher (sopa) de coco ralado",
+      "1/2 colher (sopa) de pasta de amendoim ou amendoim moído",
+      "1 pitada de canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes em uma panela",
+      "Leve ao fogo baixo até levantar fervura",
+      "Misture até engrossar",
+      "Se preferir adoce a gosto",
+      "Também pode decorar com lâminas de coco como eu fiz"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NATÁLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307708-mingau-de-aveia-sabor-canjica-barra-mata-vontade-de-doce.html"
+}

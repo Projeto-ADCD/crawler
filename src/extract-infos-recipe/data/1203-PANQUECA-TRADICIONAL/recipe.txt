@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo tradicional",
+      "2 ovos",
+      "1 xícara de leite",
+      "5 colheres de óleo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, adicione os ovos, o leite e o óleo bata aproximadamente 1 ou 2 minutos.",
+      "Acrescente aos poucos a farinha de trigo, bata por mais 2 ou 3 minutos.",
+      "Acrescente o sal a gosto.",
+      "Em uma frigideira anti aderente, espalhe óleo.",
+      "Pegue uma concha ela vai servir como medida.",
+      "Derrame sobre a panela a massa. Quando as pontas começarem a desgrudar da panela, está no ponto de virar.",
+      "Recheie como quiser."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LAURA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309403-panqueca-tradicional.html"
+}

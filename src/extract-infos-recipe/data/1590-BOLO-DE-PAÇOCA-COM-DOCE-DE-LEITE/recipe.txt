@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE PAÇOCA COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1/3 de xícara de óleo",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "1 xícara de paçoca (4 paçocas)",
+      "2 xícaras de farinha de trigo",
+      "2 colheres (sobremesa) de fermento",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de creme de leite",
+      "5 paçocas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata os ingredientes da massa no liqüidificador, ponha em uma forma untada e leve para assar por 40 minutos.",
+      "Cobertura",
+      "Leve o leite condensado na panela de pressão por 50 minutos em fogo alto, para virar o doce de leite, espere esfriar.",
+      "Misture bem com o creme de leite em uma vasilha até não ver pedacinhos, e ponha em cima do bolo, após triture as paçocas e decore a gosto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALINE GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307491-bolo-de-pacoca-com-doce-de-leite.html"
+}

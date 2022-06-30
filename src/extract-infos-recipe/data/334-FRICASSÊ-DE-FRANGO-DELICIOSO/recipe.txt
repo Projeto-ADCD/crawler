@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média",
+      "2 dentes de alho",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de azeite",
+      "1 lata de milho verde com o líquido",
+      "1 copo de requeijão",
+      "200 ml de creme de leite ou nata",
+      "2 peitos de frango",
+      "100 g de mussarela ou provolone fatiados",
+      "100 g de batata palha",
+      "1 xícara (chá) de água",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda com água, sal e temperos a gosto, coloque os peitos de frango para cozinhar. Quando estiverem cozidos, retire da água, deixe esfriar e depois desfie-os.",
+      "Em outra panela funda, aqueça a manteiga e o azeite e acrescente a cebola e o alho picado. Refogue até a cebola ficar transparente.",
+      "Bata no liquidificador o milho com o líquido, o requeijão, o creme de leite e a água. Reserve.",
+      "Na panela onde foi refogada a cebola, acrescente o peito de frango desfiado, o líquido do liquidificador e sal e pimenta a gosto. Deixe refogar por uns minutos até formar um creme com textura.",
+      "Coloque o refogado em uma travessa refratária, cubra com a mussarela ou o provolone fatiado e por cima distribua a batata palha. Leve ao forno pré-aquecido até borbulhar.",
+      "Se gostar, pode colocar azeitonas pretas ou verdes picadas junto ao refogado de frango.",
+      "Sirva com um arroz branco e uma salada verde."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313150-fricasse-de-frango-delicioso.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "DOCINHO DE UVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de uva verde sem caroço",
+      "2 caixas de leite condensado",
+      "2 caixinhas de creme de leite",
+      "1 barra de chocolate amargo",
+      "1 barra de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela as duas caixas de leite condensado e uma colher de manteiga para não grudar",
+      "Mexa sem parar até dar o ponto de brigadeiro e desgrude da panela",
+      "Espere esfriar e acrescente as uvas",
+      "Na outra panela adicione as duas barras de chocolate e as duas caixas de creme de leite",
+      "Mexa até derreter as barras",
+      "Coloque a misturinha da uva em um refratário e coloque o chocolate por cima",
+      "Leve no freezer por 1 hora"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CLARINHX",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307212-docinho-de-uva.html"
+}

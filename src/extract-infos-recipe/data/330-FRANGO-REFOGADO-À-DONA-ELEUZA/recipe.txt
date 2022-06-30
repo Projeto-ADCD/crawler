@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO REFOGADO À DONA ELEUZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de coxa com sobrecoxa (6 unidades)",
+      "3 cenouras grandes raladas",
+      "2 cebolas fatiadas",
+      "50 g de azeitonas sem caroço picadas",
+      "4 dentes de alho",
+      "2 colheres (sopa) de orégano",
+      "1 colher (sopa) de curry",
+      "1 pitada generosa de pimenta calabresa",
+      "Suco de 1 limão",
+      "Azeite para regar o tempero",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse os dentes de alho descascados e depois pique-os.",
+      "Em um recipiente grande coloque as coxas com sobrecoxa.",
+      "Adicione o alho picado, orégano, curry, pimenta calabresa, o sal e a pimenta do reino e vá misturando tudo. Regue com o suco do limão e o azeite e mexa até ficar bem misturado.",
+      "Com a ponta de uma faca, faça vários furos no frango e reserve por 10 minutos para absorver o tempero. Em uma panela grande coloque as coxas e sobrecoxas e deixe refogar por 10 minutos no fogo médio.",
+      "Reserve o caldo do tempero.",
+      "Adicione a cebola, a cenoura ralada e as azeitonas. Adicione também o caldo do tempero reservado.",
+      "Se necessário, acrescente um pouco de água e deixe refogar por mais 5 minutos.",
+      "Apague o fogo e deixe descansar por 5 minutos.",
+      "Está pronto!",
+      "Sirva com arroz branco ou integral."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "HUMBERTO RAFACHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313157-frango-refogado-a-dona-eleuza.html"
+}

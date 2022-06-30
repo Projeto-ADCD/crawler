@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ARROZ DE FORNO COM SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de Sardinhas com Óleo Gomes da Costa (125g)",
+      "1 xícara (chá) de arroz cru (200g)",
+      "4 colheres (sopa) de molho de tomate pronto (60g)",
+      "cerca de meia xícara (chá) de ervilhas em conserva escorridas (100g)",
+      "1/2 xícara (chá) de palmito em conserva picado (70g)",
+      "cerca de meia xícara (chá) de milho em conserva (100g)",
+      "2 colheres (sopa) de azeitona verde, picada (18g)",
+      "2 ovos cozidos picados (120g)",
+      "1 colher (sopa) de queijo parmesão ralado (10g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o arroz, como de costume, usando o Óleo de Sardinha Gomes da Costa.",
+      "Envolva o molho de tomate no arroz cozido.",
+      "Acrescente as ervilhas, o palmito, o milho e a azeitona. Misture.",
+      "Adicione no arroz as Sardinhas Gomes da Costa e o ovo cozido.",
+      "Coloque o arroz numa forma refratária. Salpique o parmesão pela superfície.",
+      "Leve ao forno médio (180°C) pré-aquecido por cerca de 15 minutos ou até ficar quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Variação\nSubstitua os legumes em conserva por brócolis cozido e temperado com sal."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GOMES DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314575-arroz-de-forno-com-sardinha.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO SANDUÍCHE DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras médias ",
+      "1 beterraba média ralada e cozida",
+      "1 cebola média ",
+      "2 pacotes de pão de forma",
+      "1 peito de frango cozido e desfiado",
+      "1 lata de ervilha",
+      "1 lata de milho",
+      "1 copo de requeijão cremoso",
+      "4 colheres de maionese",
+      "1 xícara de azeitonas sem caroço picadas",
+      "salsinha e cebolinha a gosto",
+      "maionese e batata palha para decorar",
+      "Molho",
+      "1 e 1/2 copo de leite",
+      "100 g de mussarela ralada",
+      "1 colher de amido de milho",
+      "sal e orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o frango desfiado que deverá estar temperado com o milho, a ervilha, a azeitona, a maionese, o requeijão, a cebola, e a salsinha e cebolinha até se formar uma pasta, caso seja necessário e a gosto pode se acrescentar mais maionese, reserve.",
+      "Misture o amido de milho com o leite em uma panela até dissolver bem, em seguida leve ao fogo médio juntamente com os demais ingredientes do molho e mexa até engrossar, reserve.",
+      "Retire todas as cascas do pão, em um refratário ou assadeira de preferência caso deseja desenformar monte o bolo sanduíche nessa sequência: pão de forma, molho, pasta de frango, cenoura ralada, pão de forma, molho, pasta de frango, beterraba ralada, pão de forma, molho, pasta de frango, cenoura ralada, molho, pão de forma, maionese e batata palha.",
+      "Leve à geladeira e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GUSTAVO ALCANTARA PIEKARCZIK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308077-bolo-sanduiche-de-frango.html"
+}

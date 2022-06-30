@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "4 ovos",
+      "1 copo de iogurte natural (200 g)",
+      "a mesma medida do copo do iogurte de óleo",
+      "1 caixa de gelatina sabor limão",
+      "1 pacote de massa pronta para bolo sabor limão",
+      "1 colher (sopa) de fermento em pó",
+      "COBERTURA",
+      "1 lata de leite condensado",
+      "suco de 3 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "PARA MASSA",
+      "Bata no liquidificador os ovos o iogurte e o óleo.",
+      "Acrescente o pó da caixa de gelatina, a massa de bolo pronto e o fermento, bata até misturar bem.",
+      "Unte com margarina e polvilhe com trigo uma forma de buraco (pudim).",
+      "Despeja a massa na forma e leve para assar em forno pré-aquecido 160º graus por 40 minutos.",
+      "Retire do forno, deixe mornar e desenforme.",
+      "PARA COBERTURA",
+      "Bata no liquidificador o leite condensado com os sucos de limões e cubra o bolo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312082-bolo-verde.html"
+}

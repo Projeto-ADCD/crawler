@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ COM CASCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 maçãs vermelhas",
+      "4 ovos (para ficar mais fofinho, mais pode ser 3 também)",
+      "1 xícara de óleo (240 ml)",
+      "2 xícaras de Açúcar (240 ml)",
+      "2 colheres (sopa) de leite",
+      "2 xícaras de trigo (240 ml)",
+      "1 pitada de canela",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligue seu forno, e preaqueça em 180° C por 15 minutos ",
+      "Descasque todas as maçãs, após descascar corte - as em cubos e deixei reservado.",
+      "Pegue as cascas da maçãs e as coloque no liquidificador, junto com os ovos, óleo, leite, açúcar e a pitada de canela. Bata por 3 minutos.",
+      "Pegue a mistura do liquidificador e coloque em uma vasilha, acrescente a farinha de trigo peneirando ela antes de entrar em contato com a mistura.",
+      "Após misturar o Trigo, acrescente os cubos das Maçãs na massa e misture de baixo para cima e de vagar.",
+      "Acrescente o fermento em pó e mexa devagar, no mesmo sentido dos cubos da maçã (debaixo para cima), até se dissolver por completo.",
+      "Unte a forma com óleo, farinha de trigo, açúcar e canela (em um copo coloque um pouco de trigo, 2 colheres (sopa) de açúcar e canela a gosto e misture), salpique a mistura na forma até cobrir por completo.",
+      "Coloque a massa na forma untada, asse-a em 180° C durante 45 minutos, e faça o teste do palitinho para ver se está assado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "BIA TARTARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306497-bolo-de-maca-com-casca.html"
+}

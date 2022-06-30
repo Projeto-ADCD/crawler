@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "150 g de manteiga de leite",
+      "1 xícara (chá) de açúcar refinado",
+      "1 ovo",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de amido de milho",
+      "1/2 colher (chá) de fermento químico",
+      "canela em pó a gosto",
+      "Recheio",
+      "2 xícaras (chá) de leite",
+      "2 gemas",
+      "4 colheres (sopa) de amido de milho",
+      "7 colheres (sopa) de açúcar refinado",
+      "1 colher (sopa) de manteiga de leite",
+      "1 colher (café) de essência de baunilha",
+      "Calda",
+      "4 maçãs pequenas",
+      "8 colheres (sopa) de açúcar refinado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em uma batedeira bata a manteiga, o açúcar e o ovo até virar um creme",
+      "Sobre o creme, adicione os ingredientes secos que são: a farinha, amido e a canela.",
+      "Misture e amasse com a ponta dos dedos até virar uma farofa",
+      "Por último, coloque a massa em uma forma redonda e amasse até preencher todo o fundo da forma, deixando uma borda ao redor da forma.",
+      "Leve a massa ao forno a 180° C, durante aproximadamente 20 minutos, ou até a massa durinha.",
+      "Recheio",
+      "Adicione os ingredientes em uma panela e leve a fogo baixo.",
+      "Mexa constantemente até engrossar.",
+      "Calda",
+      "Descasque as maçãs e corte em fatias finas.",
+      "Coloque em uma panela com o açúcar e cozinhe em fogo baixo até formar uma calda e as maçãs ficarem molinhas.",
+      "Preparo final",
+      "Coloque o recheio sobre a massa já pré-assada e leve ao forno baixo por 10 minutos",
+      "Distribua as maçãs sobre a calda e o recheio.",
+      "E leve ao forno por mais 10 minutos, para finalizar",
+      "Retire do forno, espere esfriar e leve à geladeira.",
+      "Sirva gelada, bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LARISSA MURIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306831-torta-de-maca.html"
+}

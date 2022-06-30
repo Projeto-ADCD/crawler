@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CALDO DE FEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de feijão roxinho",
+      "1/2 cebola",
+      "150 g de bacon",
+      "150 g de calabresa",
+      "sal, pimenta, alho e cebolinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão por 40 minutos, com a capa do Bacon.",
+      "Após cozinhar, tira a capa do bacon e bata tudo no liquidificador.",
+      "Frite o bacon, a calabresa e a cebola.",
+      "Acrescente os temperos e depois misture o feijão.",
+      "Corrija o sal e sirva com cebolinha.",
+      "Fácil e delicioso."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAULO LUCIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312439-caldo-de-feijao.html"
+}

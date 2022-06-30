@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TORTA LEVE DE DAMASCO",
+  "ingredientes": {
+    "MASSA": [
+      "1 pacote de biscoito de aveia e mel",
+      "100 g de margarina"
+    ],
+    "RECHEIO": [
+      "1 colher (sopa) de gelatina em pó sem sabor",
+      "4 colheres de sopa de água",
+      "3 potes de iogurte light tradicional",
+      "2 xícaras (chá) de ricota passada no peneira 500 g",
+      "2 colheres (sopa) de suco de limão",
+      "1/2 xícara (chá) de adoçante culinário"
+    ],
+    "CALDA": [
+      "100 g de damascos secos",
+      "1/2 xícara (chá) de água",
+      "2 colheres (sopa) de adoçante culinário",
+      "1 folha da hortelã"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Em um liquidificador, bata os biscoitos aos poucos até obter uma farofa.",
+      "Retire do liquidificador, junte a margarina e misture bem.",
+      "Forre o fundo de uma forma de aro removível (25 cm de diâmetro) e reserve."
+    ],
+    "RECHEIO": [
+      "Em um recipiente, misture a gelatina com a água e leve ao fogo, em banho-maria até dissolver.",
+      "Em um liquidificador bata o iogurte, a ricota, o suco de limão, o adoçante culinário e por fim acrescente a gelatina dissolvida e bata mais um pouco.",
+      "Coloque a mistura sobre a massa reservada.",
+      "Leve à geladeira por cerca de 4 horas ou até ficar bem firme."
+    ],
+    "CALDA": [
+      "Em uma panela, misture o damasco com a água e o adoçante e deixe cozinhar por cerca de 5 minutos em fogo baixo.",
+      "Deixe esfriar e bata no liquidificador até ficar homogêneo.",
+      "Cubra a torta, decore com a hortelã e sirva."
+    ]
+  },
+  "tempo_de_preparo": "265 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MANUELA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313624-torta-leve-de-damasco.html"
+}

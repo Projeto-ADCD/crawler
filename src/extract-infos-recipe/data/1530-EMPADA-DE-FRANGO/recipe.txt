@@ -1,0 +1,45 @@
+{
+  "nome_receita": "EMPADA DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "600 g de farinha de trigo",
+      "2 ovos",
+      "250 g de manteiga sem sal",
+      "1 colher de fermento em pó",
+      "1 colher (chá) de sal",
+      "Recheio",
+      "1 peito de frango refogado (aproximadamente 300 g)",
+      "2 xícaras de leite frio",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "2 dentes de alho ",
+      "1/2 cebola média ",
+      "2 colheres (sopa) de farinha de trigo (ou amido de milho)",
+      "1 tablete de caldo de legumes",
+      "sal a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture a farinha, manteiga e ovos, depois acrescente o sal e o fermento e misture até que fique uma massa homogênea.",
+      "A massa não deve ficar nem muito mole nem muito quebradiça, regulando com a farinha de trigo até que chegue no ponto ideal.",
+      "Reserve em um plástico para não ressecar.",
+      "Estique metade da massa para forrar a forma, não fique amassando muito pois por conta da manteiga ela vai ficar cada vez mais quebradiça, a outra metade serve para cobrir e decorar.",
+      "Se quiser misture 1 gema com 1 colher de manteiga e pincele em cima para ficar douradinho.",
+      "Obs: não precisa untar a forma, assar em forno médio de 200° C por cerca de 35 a 40 minutos.",
+      "Recheio",
+      "Dissolva a farinha de trigo em 1/2 xícara de leite e reserve.",
+      "Em uma panela, doure o alho e a cebola picados na margarina.",
+      "Adicione o leite com a farinha, mexa um pouco e acrescente o restante do leite.",
+      "Após fervura, adicione o caldo de legumes.",
+      "Mexa, constantemente, até ficar cremoso.",
+      "Acrescente o peito de frango refogado e misture até ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307833-empada-de-frango.html"
+}

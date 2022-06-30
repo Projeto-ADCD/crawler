@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MASSA DE PIZZA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo branca",
+      "500 ml de água",
+      "10 g (1 envelope) de fermento biológico seco",
+      "1 colher (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 ovo",
+      "40 ml [aprox. 2 e 1/2 colheres (sopa)] de óleo ou azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ativar o fermento (procedimento chamado de “esponja”):",
+      "Misturar 100 g de trigo, 100 mL de água e todo o fermento biológico seco (10 g).",
+      "Incorporar bem os ingredientes em um recipiente e cobrir com um pano qualquer.",
+      "Esperar 30 minutos até que ocorra a ativação do fermento.",
+      "Fazer a massa",
+      "Adicione o restante da farinha (900 g), o açúcar, e o sal em um recipiente (bacia, tigela, etc) e misture.",
+      "Adicione o restante da água (400 mL) em temperatura ambiente e o ovo e misture bem.",
+      "Adicione a mistura com o fermento (esponja) e misture.",
+      "Adicione o óleo ou azeite e misture.",
+      "É importante saber que nem toda farinha tem a mesma capacidade de absorção de líquido, logo pode ser que seja necessário um pouco menos ou um pouco mais de água.",
+      "Ao misturar e atingir um ponto na massa em que ela nao grude tanto nas mãos nem esteja muito dura, retire a massa do recipiente e passe-a para uma bancada (pode ser necessário polvilhar um pouco de farinha na bancada para que não grude).",
+      "Sove a massa por cerca de 10 a 15 minutos ate que esteja bem lisa e ligeiramente elástica.",
+      "Divida a massa em 4 partes iguais (faça cortes precisos, sem ficar “serrando” a massa) e posicione-as na bancada com certa distância entre elas.",
+      "Cubra as massas com um pano e deixe-as crescer por cerca de 45 minutos a 1 hora.",
+      "Abra as massas com um rolo ou com as mãos e coloque em uma assadeira.",
+      "Faça furos no fundo da massa com um garfo e coloque no forno pré-aquecido a 270 °C por 5 minutos para pré-assar.",
+      "Em seguida, adicione o recheio de sua preferência e volte para o forno."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MATHEUS GARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306178-massa-de-pizza-caseira.html"
+}

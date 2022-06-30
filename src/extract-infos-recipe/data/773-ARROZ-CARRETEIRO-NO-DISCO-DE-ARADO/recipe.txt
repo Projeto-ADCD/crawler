@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ARROZ CARRETEIRO NO DISCO DE ARADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de bacon cortados em cubos pequenos",
+      "500 g de linguiça fina de frango cortada pedaços de aprox. 2 cm",
+      "500 g de calabresa defumada em cubos pequenos",
+      "500 g de Linguiça suína fina cortada pedaços de aprox. 2 cm",
+      "500 gramas de frango (peito) em cubos pequenos",
+      "500 g de contrafile em cubos pequenos",
+      "4 tomates cortados em cubos sem sementes",
+      "3 cebolas cortadas em cubos",
+      "6 alho amassado e cortado",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Após pre-aquecer o disco de arado, coloque um fio de óleo de soja ou girassol apenas para não grudar o primeiro ingrediente.",
+      "Coloque o bacon e deixe fritar até o ponto anterior a pronto e arraste para a borda do disco, depois coloque a linguiça fina de frango, seguindo o mesmo processo.",
+      "Depois vai repetindo individualmente a calabresa e arraste, depois a linguiça fina e arraste, depois o frango e arraste, depois o contra filé e arraste.",
+      "Quando colocar o tomate, observe que ao começar a murchar, já arraste para a borda. Coloque a cebola, alho e a pimenta (caso queira) e deixe fritar bem, mas sem mudar a cor.",
+      "Essa receita vamos fazer com arroz pronto (4 copos), então após a cebola, alho e cebola estiver no ponto, traga todos os ingredientes novamente para o centro do disco e após misturar bem, vá acrescentando colheres de arroz e misturando, até conseguir uma mistura bem sortida.",
+      "Quando pronto, \"polvilhe\" cheiro-verde por cima e está pronto para consumo.",
+      "Obs: Não fora ensinado a fazer o arroz junto com a carne, pois geralmente discos de arado são rasos e de difícil contenção da água para cozer o arroz."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARCELO BASSO PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311633-arroz-carreteiro-no-disco-de-arado.html"
+}

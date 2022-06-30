@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FIESTA NATALINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 dentes de alho",
+      "1 xícara de salsinha picada",
+      "2 colheres de sopa de ervas finas",
+      "300 ml de suco de laranja",
+      "1/2 garrafa de vinho branco",
+      "1 xícara (chá) de manteiga ou margarina",
+      "1 colher (sopa) de farinha de trigo dissolvida",
+      "1/2 xícara de água",
+      "sal a gosto",
+      "1 unidade de Fiesta Seara",
+      "pimentas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Marinada: pique os dentes de alho e misture com metade da salsinha, sal, pimenta do reino, ervas finas, o suco de laranja e o vinho.",
+      "Deixe o Fiesta  nesse tempero de véspera.",
+      "Na hora de assar, tire da marinada e coloque-o em uma assadeira adequada ao seu tamanho.",
+      "Passe a marinada numa peneira, reserve o líquido e a parte sólida (temperos) separadamente.",
+      "Faça uma manteiga temperada misturando, com um garfo, a manteiga e os temperos sólidos nos quais o Fiesta Seara ficou de molho, acrescentando o restante da salsinha picada.",
+      "Com uma faca de ponta, levante a pele do peito do Fiesta Seara e coloque a manteiga temperada por dentro (a manteiga deve ficar entre a carne e a pele).",
+      "Coloque na forma o líquido da marinada.",
+      "Cubra com papel- alumínio e leve ao forno (200° C) por 2 horas, até que esteja macio.",
+      "Então, descubra e volte ao forno até que esteja dourado por cerca de 30 minutos.",
+      "Retire o Fiesta Seara, coloque a assadeira sobre uma boca do fogão e engrosse o molho que ficou do assado (desengordure, antes de engrossar).",
+      "Para o molho:",
+      "Engrosse com a farinha de trigo dissolvida em 1/2 xícara (chá) de água.",
+      "Se quiser, acrescente mais vinho ou mais suco de laranja, dependendo de seu paladar.",
+      "Se estiver salgado, junte mais água e engrosse com um pouco mais de farinha.",
+      "Decore o Fiesta, e sirva-o com o molho à parte."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARISTELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310527-fiesta-natalino.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SARDINHAS À PORTUGUESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sardinha fresca",
+      "1 copo de azeite ou óleo",
+      "1 colher (sopa) de molho de tomate",
+      "1 colher (chá) de açúcar",
+      "1 colher (café) de pimenta-do-reino",
+      "1 folha de louro",
+      "sal a gosto",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe as sardinhas, conservando-as inteiras.",
+      "Lave muito bem e tempere com sal, pimenta e suco de limão.",
+      "Em uma panela arrume as sardinhas em camadas, deite a folha de louro e regue com o azeite misturado com o molho de tomate e o açúcar.",
+      "Tampe a panela e leve ao fogo brando.",
+      "Deixe cozinhar até ficar só no azeite, até começar a fritar.",
+      "Retire do fogo e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308157-sardinhas-a-portuguesa.html"
+}

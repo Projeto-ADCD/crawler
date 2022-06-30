@@ -1,0 +1,20 @@
+{
+  "nome_receita": "VITAMINA DE BANANA E CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1 colher (sopa) de cacau em pó 70%",
+      "1 copo de leite",
+      "mel a gosto, caso queira adoçar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a banana em pedaços menores e bate junto com os outros ingredientes no liquidificar"
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALÍCIA R.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314192-vitamina-de-banana-e-cacau.html"
+}

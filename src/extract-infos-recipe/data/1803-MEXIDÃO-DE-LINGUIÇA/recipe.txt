@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MEXIDÃO DE LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 gomos de linguiça toscana",
+      "4 colheres (sopa) de óleo",
+      "1 cebola em pétalas",
+      "2 dentes de alho picados",
+      "2 tomates sem sementes picados",
+      "2 batatas em cubos",
+      "1 cenoura em cubos",
+      "1/2 xícara (chá) de vagem picada",
+      "3 xícaras (chá) de água",
+      "sal, pimenta-do-reino e cheiro-verde picado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, cozinhe as linguiças em água fervente por 10 minutos.",
+      "Escorra e corte em rodelas grossas.",
+      "Em uma panela, em fogo alto, aqueça o óleo e frite a linguiça até dourar.",
+      "Junte a cebola, o alho e refogue por 3 minutos.",
+      "Junte os tomates, a batata, a cenoura, a vagem e refogue por 3 minutos.",
+      "Junte a água e cozinhe por 10 minutos em fogo baixo, mexendo de vez em quando ou até amaciar.",
+      "Tempere com sal, pimenta, polvilhe com cheiro-verde e sirva com farinha de milho temperada a parte bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEANDRO GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306747-mexidao-de-linguica.html"
+}

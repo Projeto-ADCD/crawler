@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLACHAS DE POLVILHO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de 500 g de polvilho doce",
+      "1 xícara (chá) de açúcar",
+      "250 g de margarina",
+      "1 xícara (chá ) de farinha de trigo",
+      "3 ovos",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudos os ingredientes numa tigela.",
+      "Quando a massa estiver completamente uniforme, faça tiras não muito grossas com a massa e corte em pedaços.",
+      "Coloque os pedaços numa forma untada (se preferir para que os biscoitos se soltem com facilidade) no forno preaquecido em 180° C.",
+      "Deixe assar por aproximadamente 15 minutos.",
+      "E depois de prontas e frias é só aproveitar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "TAURIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306165-bolachas-de-polvilho-doce.html"
+}

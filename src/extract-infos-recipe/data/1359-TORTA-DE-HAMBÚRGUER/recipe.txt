@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE HAMBÚRGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de óleo",
+      "2 xícaras de leite",
+      "2 colheres (sopa) de fermento em pó",
+      "50 g de queijo ralado",
+      "1 cebola (picadinha)",
+      "1 sachê de tempero pronto",
+      "Recheio",
+      "8 hambúrgueres crus",
+      "1 tomate (cortado em rodelas finas)",
+      "100 g de mussarela (ralada)",
+      "100 g de presunto (ralado)",
+      "2 colheres (sopa) de requeijão",
+      "1/2 cebola (cortada em fatias finas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes da massa no liquidificador, com exceção do fermento",
+      "Quando estiver uma massa homogênea, acrescente o fermento e bata apenas para misturar",
+      "Em uma vasilha à parte, misture o presunto, a mussarela e o requeijão, e reserve.",
+      "Unte um refratário ou forma.",
+      "Coloque metade da massa.",
+      "Coloque por cima, nessa ordem: os hamburguers, a mistura com requeijão, as fatias de tomate e as fatias de cebola",
+      "Coloque a outra metade da massa por cima, polvilhe com queijo parmesão e um pouco de óregano.",
+      "Leve ao forno preaquecido em temperatura média por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308739-torta-de-hamburguer.html"
+}

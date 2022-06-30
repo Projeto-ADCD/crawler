@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO ROSÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "9 colheres (sopa) de creme de leite",
+      "6 colheres (sopa) de ketchup",
+      "15 gotas de molho inglês"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Coloque na geladeira por aproximadamente 10 minutos.",
+      "Em seguida é só saborear."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "de 10 a 15 gotas de molho inglês"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ADRIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307363-molho-rose.html"
+}

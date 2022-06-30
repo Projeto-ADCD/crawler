@@ -1,0 +1,22 @@
+{
+  "nome_receita": "FROZEN DE CACHAÇA LIMÃO E MANJERICÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "3 colheres de açúcar",
+      "gelo",
+      "8 folhas de manjericão",
+      "80 ml de cachaça"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador sem o gelo e coe.",
+      "Após isso, coloque no liquidificador de novo com o gelo para ficar bem refrescante."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "@DRINKDIARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309251-frozen-de-cachaca-limao-e-manjericao.html"
+}

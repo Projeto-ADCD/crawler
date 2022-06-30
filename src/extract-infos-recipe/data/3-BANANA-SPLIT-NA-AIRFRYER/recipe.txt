@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BANANA SPLIT NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas prata",
+      "200 g de chantilly",
+      "100 ml de calda de caramelo",
+      "cereja em calda a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece cortando o meio das bananas de ponta a ponta ",
+      "Coloque elas com cuidado dentro do airfryer ",
+      "Deixe por 20 minutos a 200° C ",
+      "Retire e decore a gosto com chantilly, calda de caramelo e cereja em calda",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316947-banana-split-na-airfryer.html"
+}

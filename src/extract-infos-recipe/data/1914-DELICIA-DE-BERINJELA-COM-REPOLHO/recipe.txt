@@ -1,0 +1,41 @@
+{
+  "nome_receita": "DELICIA DE BERINJELA COM REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas medias",
+      "1/4 de repolho picado",
+      "1 batata-doce pequena",
+      "3 pitadas de páprica doce",
+      "3 pitadas de noz moscada",
+      "50 g de queijo ralado",
+      "100 g de queijo (mussarela, buffala, minas real, canastra)",
+      "3 dentes de alho",
+      "manteiga, azeite, sal e molho shoyu a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o repolho picado por 20 minutos em fogo alto.",
+      "Cozinhe a batata-doce fatiada por 20 minutos em fogo alto.",
+      "Derreta manteiga a gosto e frite os 3 dentes de alho batidos ate dourar",
+      "Coloque a berijela na manteiga derretida com alho.",
+      "Junte o repolho cozido a berijela.",
+      "Coloque 100 ml de água e deixe cozinhar por cerca de 10 minutos, sempre misturando bem.",
+      "Deixe secar a agua.",
+      "Coloque 50 g de queijo ralado, o molho shoyo, a paprica, a nos moscada e o sal.",
+      "Misture.",
+      "Forre um tabuleiro pequeno com a batata doce.",
+      "Cubra com o recheio de berinjela e repolho.",
+      "Coloque o queijo fatiado por cima.",
+      "Coloque 50 g de queijo ralado por cima e reque comazeite.",
+      "Leve ao forno alto por 10 minutos",
+      "Pronto",
+      "É so saborear",
+      "Obs: detalhado, mas é bem facil de fazer"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARCELO MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306453-delicia-de-berinjela-com-repolho.html"
+}

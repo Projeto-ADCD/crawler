@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho azedo",
+      "250 g de polvilho doce",
+      "150 ml de óleo vegetal",
+      "450 ml de água",
+      "4 a 5 ovos (até obter ponto - depende tamanho)",
+      "1/2 colher (chá) de sal",
+      "350 g de queijo meia cura",
+      "50 g de queijo parmesão em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o óleo com 250 ml de água e escalde os polvilhos juntos com o sal",
+      "Mexa com uma colher, pois vai estar muito quente.",
+      "Junte após os 200 ml de água fria restante para esfriar a massa e poder sovar com a mão.",
+      "Junte os ovos até o ponto ideal (a massa escorre lentamente ao apertar com a mão).",
+      "Junte os queijos à massa (misturar sem desintegrar os queijos).",
+      "Faça bolinhas do tamanho que desejar e coloque no tabuleiro com fio de óleo.",
+      "Preaqueça o forno a 200° C e asse por 30 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende 40 pães no tamanho médio\nA sobra pode congelar. Coloque no freezer em forma de pizza ou tabuleiro por 2horas. Depois retire e embale as porções desejadas em saco plástico e guarde no freezer até 3 meses."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LAURO ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306970-pao-de-queijo.html"
+}

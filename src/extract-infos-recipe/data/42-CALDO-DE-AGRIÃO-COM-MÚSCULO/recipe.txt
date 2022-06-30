@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CALDO DE AGRIÃO COM MÚSCULO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 maço de agrião",
+      "1 kg de músculo",
+      "1 cebola",
+      "1 cabeça de alho",
+      "Sal e tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e cozinhe as batatas em água e sal, quando estiver quase cozidas acrescente o maço inteiro de agrião ( limpo) e deixe ele cozinhar com a batata por 10 minutos só.",
+      "Enquanto isso corte o músculo e coloque na panela de pressão para cozinhar com a cebola, o alho e os temperos de sua preferência por aprox 20 minutos ou até que esteja cozido e macio.",
+      "Após esfriar bata no liquidificador as batatas com o agrião e a água da própria batata (esse processo é indispensável para gerar o creme de agrião) depois é só acrescentar o músculo ao creme, se preferir desfie o músculo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JESSICA PAIVA DA ROSA SCHUTTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314736-caldo-de-agriao-com-musculo.html"
+}

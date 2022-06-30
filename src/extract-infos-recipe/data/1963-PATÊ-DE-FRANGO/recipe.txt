@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PATÊ DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango pequeno",
+      "1 caldo de galinha",
+      "1 iogurte natural sem açúcar",
+      "1 maionese pequena",
+      "1 pimenta de cheiro",
+      "2 dentes de alho",
+      "1 cebola pequena",
+      "cebolinha (4 folhas)",
+      "salsa (5 folhinhas)",
+      "1/2 limão médio",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango de preferência com a carcaça e o caldo de galinha.",
+      "Espere esfriar e desfie-o.",
+      "Refogue a cebola ralada ou picada em pequenos cubos, junte o alho a pimenta refogando-os.",
+      "Acrescente o frango e doure até que não veja mais cebola, alho ou pimenta.",
+      "Reserve o frango até esfriar.",
+      "Após esfriar acrescente a maionese e misture",
+      "Acrescente o iogurte e misture",
+      "Adicione a cebolinha e a salsa picadas miúdas.",
+      "Por fim, esprema o limão e adicione a pimenta-do-reino moída na hora, misture e corrija o sal.",
+      "Sirva com pão sírio ou o pão de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CARLOS EDUARDO ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306323-pate-de-frango.html"
+}

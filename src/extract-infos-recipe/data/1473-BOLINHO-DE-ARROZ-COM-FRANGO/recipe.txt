@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de arroz branco cozido",
+      "1 xícara (chá) de frango desfiado",
+      "2 ovos",
+      "1/4 de xícara (chá) de farinha de trigo",
+      "1 colher de (chá) de sal",
+      "1/4 de xícara de cheiro-verde picado",
+      "1/4 colher (chá) de pimenta-do-reino",
+      "1/2 dente de alho",
+      "1 colher (sobremesa) de limão",
+      "1 colher (café) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque o o arroz, o frango, o sal, a pimenta-do-reino, o cheiro-verde e os ovos e misture bem.",
+      "Depois coloque o restante dos ingredientes e misture",
+      "Coloque em outra panela o óleo para esquentar",
+      "Em seguida pegue uma colher coloque a massa e pingue diretamente no óleo quente",
+      "Frite até dourar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ROSANA DOMINGOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308134-bolinho-de-arroz-com-frango.html"
+}

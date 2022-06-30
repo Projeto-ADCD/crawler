@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PEIXE ASSADO COM LEGUMES E MOLHO DE COENTRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "suco de 1/2 limão",
+      "1 dente de alho ",
+      "1 corvina ou peixe de sua preferência",
+      "coentro picado a gosto",
+      "pimenta-do-reino moída na hora a gosto",
+      "300 g de batatas bolinhas cortadas ao meio",
+      "2 cenouras cortadas em rodelas grossas",
+      "100 g de mini cebolas",
+      "50 g de azeitonas verdes",
+      "150 ml de vinho branco seco",
+      "1 colher (chá) de colorau",
+      "2 colheres (sopa) de margarina Primor Todo Dia",
+      "farofa a gosto"
+    ]
+  },
+  "passos": {
+    "MOLHO DE COENTRO": [
+      "No mixer ou no liquidificador, bata o vinho, a margarina Primor, o suco de limão, o alho, a cebola, as folhas de coentro, o sal e a pimenta até formar um molho homogêneo.",
+      "Reserve",
+      "Retire o peixe do forno e regue o peixe com um pouco do molho.",
+      "Volte ao forno a medida que o molho for secando, regue novamente até o peixe ficar no ponto.",
+      "Sirva com farofa e salada de folha."
+    ],
+    "PEIXE": [
+      "Em uma assadeira untada com margarina, faça uma cama com as rodelas de batata e cenoura.",
+      "Sobre essa cama, coloque o peixe e faça alguns cortes na transversal.",
+      "Espalhe o colorau sobre o peixe.",
+      "Tempere com o sumo de limão e a pimenta.",
+      "Reencha os cortes do peixe com farofa.",
+      "Complete a assadeira com as cebolas e as azeitonas.",
+      "Cubra a assadeira com papel-alumínio e leve ao forno preaquecido a 200° C por 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312024-peixe-assado-com-legumes-e-molho-de-coentro.html"
+}

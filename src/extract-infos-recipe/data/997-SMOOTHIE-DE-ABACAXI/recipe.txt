@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SMOOTHIE DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de sustagem sabor baunilha",
+      "3 colheres (sopa) de leite em pó",
+      "1/2 xícara de abacaxi",
+      "1 xícara de água",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Coloque o gelo no final",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FABIANA RODRIGUES DA ROSA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310570-smoothie-de-abacaxi.html"
+}

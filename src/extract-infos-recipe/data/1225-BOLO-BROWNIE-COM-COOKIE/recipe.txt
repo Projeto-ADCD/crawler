@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO BROWNIE COM COOKIE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Cookie ",
+      "4 colheres (sopa) de manteiga sem sal",
+      "1/2 xícara (chá) de açúcar mascavo",
+      "1/4 de xícara (chá) de açúcar",
+      "1 ovo",
+      "1 colher (café) de bicarbonato de sódio",
+      "6 colheres (sopa) cheias de farinha de trigo",
+      "1 xícara (chá) de chocolate amargo picado",
+      "Brownie",
+      "1 e 1/2 xícara (chá) de chocolate meio amargo picado",
+      "4 colheres (sopa) de manteiga sem sal",
+      "2 ovos - 1 xícara (chá) de açúcar ",
+      "2 colheres (sopa) de farinha de trigo",
+      "100 g de castanha-do-pará picado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Brownie",
+      "Derreta o chocolate com a manteiga em banho-maria",
+      "Adicione os ovos e o açúcar",
+      "Adicione a farinha de trigo e a castanha.",
+      "Misture com um fouet e reserve.",
+      "Cookie",
+      "Bata a manteiga com os açúcares ",
+      "Adicione o ovo, o bicarbonato e a farinha e bata bem.",
+      "Incorpore o chocolate ",
+      "Despeje em forma com papel-manteiga untado com manteiga e espalhe",
+      "Por cima espalhe o brownie. ",
+      "Leve ao forno médio preaquecido (180° C) por 40 minutos.",
+      "Espere amornar para desenformar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309314-bolo-brownie-com-cookie.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ARROZ MALUCO - RECEITA SUPER-RÁPIDA E NUTRITIVA PARA O JANTAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de arroz cozido",
+      "4 colheres (sopa) de grão-de-bico cozido",
+      "4 colheres (sopa) de cenoura ralada",
+      "4 colheres (sopa) de tomate picado",
+      "1 ovo",
+      "manteiga ",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo em um prato, salpique com um pouco de sal e pimenta-do-reino",
+      "Misture e leve ao micro-ondas por aproximadamente 30 segundos.",
+      "Depois pique o ovo já cozido e acrescente os outros ingredientes e mexa.",
+      "Leve no micro-ondas por aproximadamente 2 minutos.",
+      "Se desejar, acrescente mais um pouco de pimenta-do-reino e sal."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAFAELA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309576-arroz-maluco-receita-super-rapida-e-nutritiva-para-o-jantar.html"
+}

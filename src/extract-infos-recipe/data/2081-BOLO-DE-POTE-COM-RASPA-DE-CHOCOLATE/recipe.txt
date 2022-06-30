@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE POTE COM RASPA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colheres de leite",
+      "2 colheres de chocolate em pó",
+      "3 colheres rasas de açúcar",
+      "2 colheres de óleo",
+      "1 colher (chá) de fermento em pó",
+      "2 e 1/2 colheres de farinha de trigo",
+      "raspas de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, leite, chocolate em pó, açúcar e o óleo com um garfo.",
+      "Junte o fermento em pó e a farinha de trigo com os outros ingredientes que já estão batidos",
+      "Bata com a colher até virar uma massa lisa e homogênea",
+      "E por último, coloque o pote por três minutos no micro-ondas na potência máxima"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VIVIANE JESUS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306069-bolo-de-pote-com-raspa-de-chocolate.html"
+}

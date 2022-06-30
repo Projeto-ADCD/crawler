@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SMOOTHIE DE MORANGO E BANANA - VITAMÍNICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de aveia",
+      "1/2 banana nanica",
+      "8 Morangos",
+      "200 ml de Leite",
+      "1 Colher (sobremesa) de Mel",
+      "1 Colher rasa (sobremesa) de açucar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave os morangos.",
+      "Adicione todos os ingredientes na batedeira até misturar bem",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FRANCIANE FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309412-smoothie-de-morango-e-banana-vitaminico.html"
+}

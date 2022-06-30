@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CHEESECAKE DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "150 g de cream cheese",
+      "1 caixinha de leite condensado",
+      "1 caixinha e 1/2 de creme de leite",
+      "2 colheres (sopa) de amido de milho",
+      "150 g de biscoito maisena",
+      "2 colheres (sopa) de manteiga",
+      "250 g de doce de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em um processador, triture o biscoito até obter uma farofa fina.",
+      "Adicione a manteiga e bata novamente até incorporar, e está pronta a massa.",
+      "Despeje a massa em uma forma com fundo removível, cobrindo o fundo e também as laterais.",
+      "Faça furinhos com o garfo e leve ao forno por aproximadamente 7 minutos ou até começar a dourar (150° C a 180° C).",
+      "Creme",
+      "Em um liquidificador bata os ovos e acrescente o cream cheese.",
+      "Em seguida, acrescente o leite condensado e o creme de leite e bata novamente.",
+      "Por fim, adicione o amido de milho e bata até incorporar.",
+      "Despeje este creme na forma com a massa já pré assada, e leve novamente ao forno, assando também em fogo baixo (150° C a 180° C) por aproximadamente 30 a 40 minutos (nos últimos 10 minutos ligo o dourador, mas é preciso estar atento ao forno para não queimar).",
+      "O objetivo é assar o creme e torná-lo firme, e não dourar.",
+      "Retire do forno, espere esfriar e leve à geladeira.",
+      "Cobertura",
+      "Misture o doce de leite com meia caixinha de creme de leite e despeje por cima da torta (que já deve estar gelada e bem firme).",
+      "Leve novamente à geladeira, espere gelar, e pronto!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: você pode variar a cobertura, fazendo com goiabada, frutas vermelhas, morangos, etc..."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "KEIT KRELLING",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308098-cheesecake-de-doce-de-leite.html"
+}

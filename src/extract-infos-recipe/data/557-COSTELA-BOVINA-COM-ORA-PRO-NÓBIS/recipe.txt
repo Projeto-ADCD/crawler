@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COSTELA BOVINA COM ORA-PRO-NÓBIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela bovina",
+      "1 cebola grande picada em rodelas",
+      "1 colher (sopa) de sal grosso",
+      "200 g de ora-pro-nóbis picadinho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, jogue um fio de óleo no fundo",
+      "Coloque uma camada de cebola",
+      "Coloque a costela por cima e jogue o sal grosso em toda a carne",
+      "Cubra com o restante das cebolas.",
+      "Tampe a panela e cozinhe na pressão por 30 minutos. Não é necessário colocar água, a cebola e a carne soltarão a água necessária para o cozimento",
+      "Após esse tempo, abra a panela e jogue o ora-pro-nóbis, caso tenha pouca água, coloque um pouco pra que não queime",
+      "Cozinhe na pressão por mais 5 minutos",
+      "Sirva com angu!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312509-costela-bovina-com-ora-pro-nobis.html"
+}

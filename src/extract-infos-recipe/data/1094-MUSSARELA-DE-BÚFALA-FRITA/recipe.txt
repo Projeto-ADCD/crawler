@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MUSSARELA DE BÚFALA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha de trigo",
+      "1 ovo batido",
+      "75 g ou 3/4 de xícara (chá) de farinha de rosca",
+      "4 mussarelas de búfala",
+      "500 ml ou 2 xícaras (chá) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha de trigo, o ovo e a farinha de rosca em três tigelas separadas",
+      "Corte cada bola de mussarela ao meio e seque bem com papel-toalha",
+      "Passe cada pedaço de muçarela com uma das mãos na farinha de trigo, e retire o excesso depois, passe no ovo batido",
+      "Tire os pedaços de muçarela do ovo com a outra mão e passe-os na farinha de rosca",
+      "Espalhe bem a farinha de rosca ao redor do queijo para que toda a superfície fique coberta.",
+      "Se você utilizar uma das mãos para os ingredientes úmidos e a outra para os secos será mais fácil empanar as mussarelas",
+      "Aqueça o óleo em uma panela, em fogo médio",
+      "Coloque as mussarelas empanadas na panela e frite por 4 a 5 minutos ou até que os pedaços fiquem crocantes e dourados",
+      "Forre uma tigela grande com papel-toalha e , ao terminar de fritar as mussarelas, coloque-as na tigela para retirar o excesso de óleo",
+      "Acrescente um pouco de sal para temperar e contemple essa delicia"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIA FRUTUOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309946-mussarela-de-bufala-frita.html"
+}

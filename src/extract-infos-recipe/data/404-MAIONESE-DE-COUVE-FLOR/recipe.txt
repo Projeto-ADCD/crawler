@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MAIONESE DE COUVE-FLOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de couve-flor",
+      "1 colher (sopa) de suco de limão",
+      "1/3 de xícara de azeite",
+      "1 dente de alho",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a couve-flor em pedaços pequenos",
+      "Cozinhe até ficar bem macia",
+      "Em um liquidificador, coloque a couve-flor cozida e os outros ingredientes",
+      "Bata até adquirir uma mistura homogênea e com a consistência desejada"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312926-maionese-de-couve-flor.html"
+}

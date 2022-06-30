@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TAKOYAKI DE POLVO COM GENGIBRE EM CONSERVA",
+  "ingredientes": {
+    "MASSA": [
+      "300 g de farinha de trigo",
+      "1 colher (sopa) de fermento químico",
+      "4 ovos",
+      "100 g de cará cru ralado fino",
+      "1 l de dashi gelado",
+      "1 colher (sopa) de shoyu"
+    ],
+    "RECHEIO": [
+      "400 g de polvo cozido picado",
+      "1 xícara de cebolinha picada",
+      "1/4 de xícara de shoga gari (gengibre marinado no vinagre)",
+      "1/2 xícara de camarão seco picado"
+    ],
+    "COBERTURA": [
+      "katsuobushi (lascas de peixe bonito)",
+      "molho para takoyaki",
+      "maionese",
+      "aonori"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece peneirando a farinha com o fermento, depois adicione o dashi e misture bem",
+      "Em outra tigela, bata os ovos com o cará e depois junte a farinha do passo anterior, adicionando também o shoyu e misture até virar uma massa líquida",
+      "Preaqueça a panela própria para takoyaki e unte ela toda com óleo",
+      "Despeje a massa até completar as cavidades e depois adicione, por cima, o polvo, a cebolinha, o camarão e o gengibre",
+      "Com o auxílio de hashis, corte as massas e vire-as até virarem bolinhas douradas por completo",
+      "Coloque as bolinhas em um prato, adicione o molho, a maionese, as lascas, o aonori e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313086-takoyaki-de-polvo-com-gengibre-em-conserva.html"
+}

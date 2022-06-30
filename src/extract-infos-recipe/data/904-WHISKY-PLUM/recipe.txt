@@ -1,0 +1,22 @@
+{
+  "nome_receita": "WHISKY PLUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de whisky de sua preferência",
+      "8 pedra de gelo",
+      "100 ml de calda de ameixa ",
+      "250 ml de energético de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o whisky,o gelo e a calda de ameixa no liquidificador e bata tudo por 2 minutos",
+      "Coloque em dois copos, em seguida coloque o energético para término da receita",
+      "Se preferir coloque cubos de gelo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SAMUEL SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310964-whisky-plum.html"
+}

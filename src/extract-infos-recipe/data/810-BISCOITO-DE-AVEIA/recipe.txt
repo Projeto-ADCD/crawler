@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de açúcar",
+      "2 avos",
+      "1/2 (sopa) de mel",
+      "2 xicara de trigo",
+      "4 colher (sopa) de aveia",
+      "3 colher (sopa) de manteiga derretida"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes seco numa tigela e mexa.",
+      "Derreta a manteiga e coloque nos ingrediente seco",
+      "Coloque os ingredientes molhado junto com os secos e mexa tudo vai colocando o trigo até ficar na consistência para pegar na mão",
+      "Por último, modele do seu jeito e colocar no forno 180 graus e deixe 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ISADORA CAZOMOTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311476-biscoito-de-aveia.html"
+}

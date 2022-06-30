@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ COM CARNE DE PORCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne de porco (costelinha ou pernil)",
+      "2 tomates",
+      "1 cebola ",
+      "3 dentes de alho",
+      "cheiro-verde a gosto",
+      "gordura de porco ou óleo",
+      "sal a gosto",
+      "2 xícaras de arroz",
+      "4 xícaras de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela a gordura de porco",
+      "Depois acrescente a carne de porco e sal.",
+      "Frite até dourar bem.",
+      "Acrescente o alho picado e a cebola picada na carne já bem frita",
+      "Deixe dar uma fritada e acrescente o tomate bem picadinho de uma derretida e coloque o arroz",
+      "Frite o arroz",
+      "Quando estiver bem mistirado coloque a água quente e deixe semi aberta a panela",
+      "Quando estiver secando a água abaixe o fogo",
+      "Coloque mais um pouquinho de água.",
+      "Tampe e deixe secar.",
+      "Quando estiver pronto, coloque por cima o cheiro-verde picado e sirva."
+    ]
+  },
+  "tempo_de_preparo": "606 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "CIBELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307322-arroz-com-carne-de-porco.html"
+}

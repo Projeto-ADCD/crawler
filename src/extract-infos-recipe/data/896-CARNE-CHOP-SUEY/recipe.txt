@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CARNE CHOP SUEY",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de óleo de gergelim",
+      "500 gramas de alcatra cortada em fatias finas",
+      "3 xícaras (chá) de caldo de carne",
+      "3 cenoura sem casca fatiadas",
+      "2 xícaras (chá) de brócolis em buquês",
+      "4 colheres (sopa) de molho de soja (shoyu)",
+      "2 colheres (sopa) de farinha de trigo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o óleo e frite a carne até dourar.",
+      "Adicione 1 xícara (chá) do caldo de carne, abaixe o fogo e cozinhe até a carne ficar macia.",
+      "Junte a cenoura e 1/2 xícara (chá) de caldo de carne e cozinhe por 5 minutos.",
+      "Acrescente os brócolis e mais 1/2 xícara (chá) de caldo.",
+      "Cozinhe por mais 5 minutos e adicione o molho de soja.",
+      "À parte, em uma frigideira untada com manteiga, doure a farinha e junte o caldo restante.",
+      "Cozinhe por 2 minutos e adicione à panela da carne.",
+      "Tempere com sal e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS R.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311001-carne-chop-suey.html"
+}

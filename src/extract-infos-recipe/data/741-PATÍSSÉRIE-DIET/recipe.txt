@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PATÍSSÉRIE DIET",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "2 gemas",
+      "2 colheres (sopa) de amido de milho",
+      "adoçante em pó para uso culinário ao seu gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o amido com um pouco de leite frio.",
+      "Misture bem, com uma colher, até ficar dissolvido. ",
+      "Numa outra tigela, bata as gemas e adicione o restante do leite, misturando bem, com uma colher de pau.",
+      "Misture o conteúdo da primeira tigela e junte na tigela das gemas.",
+      "Despeje numa panela e leve ao fogo brando, não parando de mexer, até ferver.",
+      "Após, retire a panela do fogo e adicione o adoçante ao seu gosto, experimentando se está ao seu gosto.",
+      "Coloque o creme numa tigela e leve à geladeira.",
+      "Na hora de comer, decore com alguma fruta e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "VERA LUCIA DOS SANTOS QUINTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311815-patisserie-diet.html"
+}

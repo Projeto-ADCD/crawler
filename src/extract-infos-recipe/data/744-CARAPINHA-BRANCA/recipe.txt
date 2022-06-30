@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CARAPINHA BRANCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de amendoim torrado e sem pele",
+      "1 colher (sopa) de amido de milho",
+      "1 xícara de açúcar",
+      "7 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o amido de milho ao amendoim torrado e sem pele",
+      "Leve ao fogo 1 xícara de açúcar com 7 colheres das (sopa) de leite",
+      "Em seguida misture o amendoim torrado e sem pele já misturado com o amido de milho, mexa até desgrudar do fundo da panela",
+      "Despeje numa forma e mexa para não formar blocos grandes da carapinha branca.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANA CRISTINA MALISKA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311780-carapinha-branca.html"
+}

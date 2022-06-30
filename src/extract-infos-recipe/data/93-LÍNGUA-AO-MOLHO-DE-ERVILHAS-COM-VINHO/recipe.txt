@@ -1,0 +1,29 @@
+{
+  "nome_receita": "LÍNGUA AO MOLHO DE ERVILHAS COM VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 língua de vaca de 1 kg ou mais",
+      "1 folha grande ou 2 menores de louro",
+      "1 colher (sopa) cheia de sal "
+    ],
+    "MOLHO": [
+      "3 a 4 dentes de alho fatiados",
+      "1/2 cebola grande ou uma pequena",
+      "1 pacote de molho de tomate, de preferência tipo manjericão",
+      "1 lata de ervilhas (se a língua for grande, mais meia lata)",
+      "1 pouco de vinho tinto seco (qualquer vinho) tipo metade de uma dose"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhar metade de uma panela de pressão com água, louro e sal. Quando ferver, juntar a língua e fechar. Deixar uma hora e meia.",
+      "Retirar a língua, desprezar a água e, depois que esfriar um pouco, tirar toda a pele grossa dela. Cortar em fatias, mais ou menos 3 mm.",
+      "Fazer o molho, colocando um pouco de óleo na mesma panela que cozinhou a língua, fritar o alho, deixar dourar bem, depois jogar a cebola picada por cima. Frita mais um pouco, adiciona o molho de tomate, de metade até todo o pacote, conforme preferir ou seja maior a língua. Cozinhe um pouco, adicione as ervilhas, mexendo um pouco. Junte a língua fatiada, mexa bem, sempre em fogo baixo, por fim acrescente o vinho tinto seco.",
+      "Sirva com arroz e purê de batatas. Salada de folhas."
+    ]
+  },
+  "tempo_de_preparo": "135 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JOSE EDUARDO NOGUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314495-lingua-ao-molho-de-ervilhas-com-vinho.html"
+}

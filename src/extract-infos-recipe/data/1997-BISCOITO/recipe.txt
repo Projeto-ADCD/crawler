@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "2 colheres de manteiga",
+      "2 ovos",
+      "3 xícaras de farinha",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma tigela, adicione o açúcar e a manteiga e misture com um garfo até ficar uma massinha",
+      "Logo em seguida, adicione os ovos e misture até ficar homogêneo",
+      "Adicione a farinha de trigo e o fermento até ficar uma massa pra modelar",
+      "Unte a forma",
+      "Preaqueça a 180° C",
+      "Molde os biscoitos e coloque pra assar",
+      "Deixe por 20 ou mais minutos até ficar dourado em baixo",
+      "E seu biscoito estará pronto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "HADASSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306230-biscoito.html"
+}

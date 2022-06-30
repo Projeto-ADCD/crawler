@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DELÍCIA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "2 colheres de amido de milho",
+      "2 caixas de gelatina sabor morango",
+      "1 bandeja de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o leite, o creme de leite e o leite condensado.",
+      "Mexa em fogo baixo até engrossar",
+      "Coloque esse creme em uma travessa.",
+      "Corte os morangos ao meio e coloque sobre o creme.",
+      "Dissolva as duas caixinhas de gelatina em 300 ml de água fervente e 150 ml de água fria.",
+      "Coloque sobre os morangos e leve para gelar por umas 3 horas aproximadamente.",
+      "Se desejar pode usar em taças separadas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISLAINE OLINIK TOBIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306345-delicia-de-morango.html"
+}

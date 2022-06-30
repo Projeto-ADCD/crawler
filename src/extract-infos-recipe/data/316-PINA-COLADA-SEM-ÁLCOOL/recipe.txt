@@ -1,0 +1,20 @@
+{
+  "nome_receita": "PINA COLADA SEM ÁLCOOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de leite de coco",
+      "100 ml de suco de abacaxi",
+      "3 colheres (sopa) de leite condensado",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313190-pina-colada-sem-alcool.html"
+}

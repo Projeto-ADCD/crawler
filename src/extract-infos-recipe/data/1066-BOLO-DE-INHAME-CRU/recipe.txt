@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE INHAME CRU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras farinha de trigo (130 g)",
+      "2 xícaras de açúcar (150 g)",
+      "1 colher de fermento em pó para bolo",
+      "1/2 colher de bicarbonato de sódio",
+      "1/2 colher de amido de milho",
+      "200 ml de óleo",
+      "4 ovos"
+    ],
+    "COBERTURA": [
+      "200 ml de água",
+      "1/2 lata de leite condensado",
+      "4 colheres de creme de leite",
+      "2 colheres de leite em pó",
+      "2 colheres cheias de amendoim triturado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com margarina e farinha de trigo",
+      "Reserve.",
+      "Aqueça o forno 180° C",
+      "Em uma tigela coloque a farinha o fermento, o bicarbonato e o amido de milho mexa e reserve.",
+      "Bata os ovos, o óleo, açúcar e inhame no liquidificador até ver que ficou bem batido.",
+      "Após isso coloque junto as ingredientes secos, mexa até ficar uma massa bem bonita ",
+      "Ela fica um pouco pesada mas devido ao inhame.",
+      "Coloque na forma e no forno e deixe por 1 hora e 10 minutos isso depende muito do seu forno. O meu ficou esse tempo mesmo ore aquecido. O inhame pesa a massa e demora mais para assar."
+    ],
+    "COBERTURA": [
+      "Misture o leite condensado, creme de leite, leite em pó e a água misture bem até ficar uma calda pouco grossinha para jogar em cima do bolo.",
+      "Após assar desenforme e jogue a calda por cima. É um bolo maravilhoso. Bom apetite espero que goste.",
+      "Obs. Essa mesma massa e do bolo de cenoura eu apenas substitui a cenoura pelo inhame "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRUNA CRUZ DO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310147-bolo-de-inhame-cru.html"
+}

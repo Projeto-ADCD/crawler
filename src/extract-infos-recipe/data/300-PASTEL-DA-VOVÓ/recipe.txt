@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PASTEL DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo.",
+      "1 colher (de sobremesa) de banha",
+      "1 colher (de sobremesa, rasa) de sal",
+      "Água até o ponto de massa firme e homogênea."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para preparar os pastéis, basta misturar bem os ingredientes e abrir a massa com um cilindro.",
+      "Após ter aberto a massa, passe água e recheie. Feche e corte os pastéis ao seu gosto.",
+      "Recheie com uma das nossas sugestões: queijo muçarela e orégano, carne moída com batatinha e cebolinha, calabresa com queijo, peito de frango com requeijão.",
+      "Aperte as beiradas com um garfo com bastante cuidado para não furar o pastel.",
+      "Frite em óleo quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Eu costumo usar nas nossas frituras óleo de coco, pois é mais saudável e deixa tudo sequinho.\nCaso não tenha o cilindro, abra com rolo, mas ela deverá ficar o mais fina possível."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "NOS 2 NA COZINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313317-pastel-da-vovo.html"
+}

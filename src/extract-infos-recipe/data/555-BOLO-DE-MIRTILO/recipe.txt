@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE MIRTILO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara (chá) de água ",
+      "1/2 xícara (chá) de óleo de girassol",
+      "1 e 1/2 xícara (chá) de açúcar mascavo ",
+      "1 pitada de sal",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de farinha integral ",
+      "1 colher (sopa) de fermento químico em pó",
+      "200 g de mirtilo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o açúcar, os ovos, o óleo, a água e o sal.",
+      "Coloque a mistura em uma vasilha e misture as farinhas.",
+      "Por último, misture o fermento.",
+      "Misture a fruta na massa com uma colher de pau.",
+      "Asse em uma assadeira untada e polvilhada com açúcar e canela, em forno médio, até que a parte de cima fique dourada (cerca de 25 minutos)."
+    ]
+  },
+  "tempo_de_preparo": "76 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JAQUELINE AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312511-bolo-de-mirtilo.html"
+}

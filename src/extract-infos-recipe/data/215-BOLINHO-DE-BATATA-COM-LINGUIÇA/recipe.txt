@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLINHO DE BATATA COM LINGUIÇA",
+  "ingredientes": {
+    "MASSA": [
+      "2 batatas grande e cozidas ",
+      "2 xícaras de leite ",
+      "2 colheres (sopa) de manteiga ",
+      "sal a gosto ",
+      "2 xícaras de farinha de trigo "
+    ],
+    "RECHEIO": [
+      "1 colher (sopa) de azeite",
+      "1/2 cebola",
+      "80 g de bacon",
+      "1 linguiça toscana sem pele",
+      "100 g de mussarela",
+      "salsinha a gosto",
+      "2 ovos",
+      "150 g de farinha de rosca"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Amasse as batatas cozidas e reserve em um recipiente ",
+      "Em uma panela, coloque os outros ingredientes da massa",
+      "Misture tudo e, quando formar uma massa homogênea, junte a batata e misture mais uma vez",
+      "Reserve a massa"
+    ],
+    "RECHEIO": [
+      "Em uma panela, coloque o azeite",
+      "Refogue bem a cebola, o bacon e a linguiça ",
+      "Reserve essa parte do recheio",
+      "Abra a massa, coloque o recheio, um pouco da mussarela e a salsinha",
+      "Feche, passe nos ovos e depois na farinha de rosca com cuidado ",
+      "Leve para fritar em óleo",
+      "Retire quando estiverem dourados",
+      "Sirva com molhos a gosto"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313903-bolinho-de-batata-com-linguica.html"
+}

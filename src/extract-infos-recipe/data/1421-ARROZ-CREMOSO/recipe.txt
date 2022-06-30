@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ARROZ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz pronto",
+      "100 g de champignon fatiado",
+      "8 tomates cerejas ",
+      "5 palmitos ",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) de requeijão",
+      "100 g de mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com manteiga e refogue os tomates cerejas cortados ao meio, o champignon e o palmito picado até que todos os ingredientes ficam bem refogados.",
+      "Em seguida, junto o arroz, o creme de leite, o requeijão e a mussarela.",
+      "Espere a mussarela derreter bem e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MIRELLA KHARFAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308435-arroz-cremoso.html"
+}

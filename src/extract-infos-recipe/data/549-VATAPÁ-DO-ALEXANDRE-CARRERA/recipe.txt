@@ -1,0 +1,38 @@
+{
+  "nome_receita": "VATAPÁ DO ALEXANDRE CARRERA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de camarão",
+      "1 azeite de dendê",
+      "2 cebolas grandes picadas",
+      "2 dentes de alho",
+      "1 salsinha picada (100 g)",
+      "1 cebolinha (100 g)",
+      "1 leite de coco",
+      "1 tomate picado",
+      "1 creme de leite",
+      "2 latas de sardinha",
+      "4 pães franceses"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os 4 pães coloque em um recipiente com agua",
+      "gelada e reserve.",
+      "Coloque 100 g de azeite de dendê no fundo de uma panela grande",
+      "e frites os camarões, acrescente cebola e alho.",
+      "Acrescente também os dois tomates picados em cubos.",
+      "Acrescente o resrto do azeite de dendê.",
+      "coloque as 2 latas de sardinha e o leite de coco, acrescente agora o pão",
+      "que vc ajudou a esmagar com as mãos.",
+      "Mexa até ficar tipo um creme grosso, acrescente a salsinha e o creme de leite vá mexendo até ficar consistente",
+      "coloque sal a gosto.",
+      "Esta pronta sua receita.",
+      "Aprendi na Bahia e apenas modifiquei ao meu gosto!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALEXANDRE MORAES SOARES CARRERA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312543-vatapa-do-alexandre-carrera.html"
+}

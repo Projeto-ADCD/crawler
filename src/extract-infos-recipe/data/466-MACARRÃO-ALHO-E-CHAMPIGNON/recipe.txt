@@ -1,0 +1,41 @@
+{
+  "nome_receita": "MACARRÃO ALHO E CHAMPIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de 500 g de macarrão grano duro",
+      "1 colher (sopa) de azeite de oliva (extra virgem, de preferência)",
+      "1 colher (sopa) generosa de manteiga ou margarina",
+      "5 a 6 dentes de alho, a variar do gosto",
+      "1 cebola média",
+      "1/2 lingüiça calabresa",
+      "50 g de bacon",
+      "1 pimentão pequeno",
+      "1 colher (sopa) de azeitonas picadas",
+      "1 colher (sopa) de alcaparras pequenas",
+      "10 tomates cereja cortados (se preferir, sem pele e sem semente)",
+      "100 g de champignon",
+      "1 colher de café de bicarbonato de sódio",
+      "1 latinha de extrato de tomate e ½ do molho Capone",
+      "1 xícara (chá) de água",
+      "orégano, manjerona, salsinha, cebolinha e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque cerca de 4 a 5 litros de água para preparar o macarrão e um fio de óleo ou azeite.",
+      "Enquanto a água para o preparo do macarrão ferve, pique em cubinhos a calabresa, o bacon, a cebola, o alho, o pimentão, o tomate cereja e, se necessário, corte o champignon em fatias finas (como as de pizza).",
+      "Quando a água levantar fervura, jogue 1 colher (sopa) de sal e logo depois o macarrão.",
+      "Enquanto o macarrão cozinha (mexa de vez em quando), aqueça o azeite de oliva em uma frigideira grande, e então jogue o bacon e um pouco depois a lingüiça.",
+      "Após ambos fritarem, coloque a cebola picada e espere dourar.",
+      "Coloque o alho e quando liberar o cheiro do alho coloque 1 colherada de manteiga.",
+      "Acrescente os tomates cereja, as alcaparras, as azeitonas e o pimentão e por último, champignons.",
+      "Deixe alguns instantes e então adicione as latinhas de extrato de tomate, seguida da colher de café de bicarbonato, diluído em 200ml de água (que serve para tirar a acidez do extrato).",
+      "Espere ferver, adicione os temperos, mexa bem e adicione a água.",
+      "Para servir, coloque o macarrão no prato e despeje o molho de acordo com a quantidade necessária com queijo ralado por cima."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LUIZA CRISTINA PRATTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312767-macarrao-alho-e-champignon.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "AMBROSIA VIVALLU",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "400 g de açúcar",
+      "1 litro de leite de preferência fresco",
+      "2 colherers (sopa) de sumo de limão",
+      "3 cravos",
+      "1 canela em pau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos por 2 min",
+      "Ferva o leite até subir e adicione o açúcar, mexa até dissolver",
+      "Adicione os ovos batidos, o limão, a canela, o cravo e não mexa mais",
+      "Coloque em fogo baixo"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIANA ORNELAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313016-ambrosia-vivallu.html"
+}

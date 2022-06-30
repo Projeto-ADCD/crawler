@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DOCE NA AIR FRY (FRITADEIRA SEM ÓLEO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farinha multiuso",
+      "50 g de açúcar",
+      "6 g de fermento instantâneo",
+      "2 gemas de ovo",
+      "200 g de leite morno"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, o açúcar e o fermento.",
+      "Adicione o ovo e o leite morno.",
+      "Mexa até ficar homogêneo e sovar por 10 minutos.",
+      "Deixar descansar por 20 minutos.",
+      "Separe alguns pedaços da massa, da forma e tamanho que quiser.",
+      "Coloque na Air fry por 15 minutos",
+      "Fica ainda melhor com algum recheio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATHÁLIA DONATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311449-pao-doce-na-air-fry-fritadeira-sem-oleo.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTILETE GIGANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo sem fermento",
+      "7 colheres de margarina",
+      "1 leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha em um recipiente",
+      "Adicione a margarina aos poucos e vá misturando a massa com as mãos limpa até ela começa a soltar da suas mãos ate não suja mais.",
+      "Deixe a massa facil de modelar lisa, não muito molhada se caso ficar muito molhada é so adicionar mais um pouco de farinha.",
+      "Depois só pegar uma forma de bolo, e ir modelo a massa na forma com as mãos uma camada nem muito grossa nem tão fina, as paredes da massa na forma não podem ser muito grande.",
+      "Adicione a caixa de leite condensado e coloque no forno",
+      "Vire a cada 20 minutos para não acabar queimando, leite condensado fica com aparência de creme de leite igual a foto.",
+      "Depois de mais ou menos 1 hora dependendo do forno, e fogo baixo, so retirar e esperar esfriar um pouco fica muito fácil de desenformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: se sobrar massa é só fazer uma bolinhas e amassar com o garfo e por no forno também, uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEATRIZ SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306552-tortilete-gigante.html"
+}

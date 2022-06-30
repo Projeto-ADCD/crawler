@@ -1,0 +1,26 @@
+{
+  "nome_receita": "IOGURTE FEITO EM CASA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 copo de iogurte (sabor morango)",
+      "1 pacote de gelatina (sabor morango)",
+      "1/2 lata de leite condensado",
+      "1 e 1/2 copo de água fervendo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite, quando estiver morno, acrescente o iogurte e deixe coalhar cerca de 24 horas.",
+      "No dia seguinte, faça a gelatina e após dissolvida, misture ao leite com iogurte.",
+      "Bata no liquidificador com leite condensado, coloque numa jarra e leve à geladeira, mexendo antes de consumir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode ser feito em outros sabores, combine o sabor do iogurte com o da gelatina."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRICIA PESSONE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307938-iogurte-feito-em-casa.html"
+}

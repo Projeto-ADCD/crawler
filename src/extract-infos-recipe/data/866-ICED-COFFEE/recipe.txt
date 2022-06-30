@@ -1,0 +1,23 @@
+{
+  "nome_receita": "ICED COFFEE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de café solúvel",
+      "2 colheres (sopa) açúcar",
+      "2 colheres (sopa) água",
+      "1 copo de leite (a gosto)",
+      "1 copo de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o café solúvel com o açúcar e com a água até virar um creminho (dica: quando ficar bem clarinho significa que você já pode parar de misturar)",
+      "Depois coloque a mistura no copo de leite com gelo",
+      "E quando acabar você pode decorar o copo com doces e pode colocar dentro para ficar doce algumas coisas como: caramelo, chantilli, nutella, leite condensado e etc"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MANUELA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311166-iced-coffee.html"
+}

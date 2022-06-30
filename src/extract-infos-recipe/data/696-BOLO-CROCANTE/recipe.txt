@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de açúcar refinado",
+      "3 claras",
+      "1 xícara farinha de trigo",
+      "240 ml de leite integral",
+      "3/4 de xícara de amido de milho",
+      "1 colher (sopa) de fermento em pó",
+      "leite condensado a gosto ",
+      "300 g de castanha de caju",
+      "3 gemas",
+      "150 g de Primor Forno e Fogão"
+    ]
+  },
+  "passos": {
+    "CROCANTE DE CAJU": [
+      "Em uma panela leve ao fogo o açúcar e derreta até o ponto de caramelo.",
+      "Acrescente as castanhas de caju e misture até envolver todas as castanhas no caramelo.",
+      "Retire do fogo, espalhe sobre um mármore ou nas costas de uma assadeira untada",
+      "Deixe esfriar, triture grosseiramente a metade do crocante e reserve. A outra metade triture mais fino."
+    ],
+    "MASSA": [
+      "Na batedeira, bata as claras em neve e reserve.",
+      "Ainda na batedeira, bata a margarina com as gemas até obter um creme leve. Diminua a velocidade e adicione a farinha de trigo Primor e o amido, alternando com o leite.",
+      "Sem bater junte o crocante mais fino e o fermento, misture suavemente.",
+      "Coloque em uma forma redonda com cone central, untada e enfarinhada (18x 23 x8cm).",
+      "Asse no forno preaquecido a 180º C por aproximadamente 35 minutos.",
+      "Desenforme morno e depois de frio cubra com o leite condensado e o crocante de castanha de caju."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312025-bolo-crocante.html"
+}

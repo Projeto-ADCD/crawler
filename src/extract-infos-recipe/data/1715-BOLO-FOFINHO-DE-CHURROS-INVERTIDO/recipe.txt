@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO FOFINHO DE CHURROS INVERTIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de farinha de trigo peneirada",
+      "1 e 1/2 xícara de açúcar",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) canela em pó",
+      "1 pitada de sal",
+      "margarina para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, separe as claras, bata em neve com uma pitada de sal e reserve.",
+      "Em outra tigela, misture as gemas com farinha, açúcar, leite, óleo e canela. Bata por 5 minutos até ficar bem homogênea.",
+      "Acrescente as claras e o fermento, misturando sempre devagar.",
+      "Na forma untada com bastante manteiga, acrescente o leite condensado somente no fundo.",
+      "Coloque a massa bem devagar por cima com cuidado para não misturar com o leite condensado.",
+      "Asse em forno preaquecido por 35 minutos.",
+      "Faça o teste do palito e retire do forno.",
+      "Desenforme assim que sair do forno."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "No teste do palito, você espeta um palito de dentes no bolo para verificar se já está assado. Caso saia seco, pode tirar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KARINA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307050-bolo-fofinho-de-churros-invertido.html"
+}

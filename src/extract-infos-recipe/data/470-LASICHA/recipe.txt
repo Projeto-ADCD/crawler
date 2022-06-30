@@ -1,0 +1,42 @@
+{
+  "nome_receita": "LASICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa de lasanha",
+      "500 g de salsicha",
+      "1 pacote de molho de tomate",
+      "1 cebola inteira",
+      "1 pimentão verde",
+      "1 caixinha de creme de leite",
+      "1 colher de farinha de trigo",
+      "100 g de margarina",
+      "pimenta do reino em pó, orégano e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho branco",
+      "Derreta a margarina e frite a farinha de trigo até dourar.",
+      "Em seguida, despeje a caixinha de creme de leite e um copo d'água pequeno, mexendo aos poucos.",
+      "Adicione a pimenta, orégano e o sal. ",
+      "Molho tchan",
+      "Ferva e cozinhe a salsicha inteira e reserve.",
+      "Deixe a cebola e o pimentão bem refogadinho ",
+      "Coloque o molho de tomate e o copo d'água",
+      "Deixe depurar um pouco ",
+      "Desligue o fogo e junte as salsichas cortadas no formato a gosto",
+      "Montagem",
+      "Pense em criar várias camadas, começando e terminando por uma bem molhada para a massa cozinhar direitinho. Primeiro forre a assadeira com molho",
+      "Coloque quantas camadas quiser de massa, molho de salsicha (tchan) e branco, nessa ordem",
+      "Se houver um queijo na geladeira, delícia",
+      "Finalize cobrindo com mais molho",
+      "Asse por 40 minutos em forno médio",
+      "Quando for servir, salpique a batata palha na sua porção, ou em toda a travessa se a larica for grande.",
+      "Curta sua onda bem alimentada e conta aqui se deu certo!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LARI K.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312749-lasicha.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MANJAR BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Manjar",
+      "1 lata de leite condensado",
+      "2 latas de leite (use a lata de leite condensado vazia para medir)",
+      "4 colheres (sopa) de amido de milho",
+      "1 vidro de leite de coco",
+      "100 g de coco ralado",
+      "Calda de Ameixa",
+      "1 xícara de açúcar",
+      "200 g de ameixa-preta sem caroço",
+      "1 xícara (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo médio o leite condensado, o leite e o amido de milho, mexendo sempre.",
+      "Quando estiver cozido, junte o leite de coco, mexendo por 1 minuto, e misture o coco ralado.",
+      "Coloque em uma forma de pudim, molhada e leve para gelar.",
+      "Leve ao fogo baixo o açúcar, as ameixas, a água e cozinhe por 15 minutos ou até que forme uma calda grossa.",
+      "Desenforme o manjar e sirva com a calda."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRENO GASPAR MOREIRA GRAESER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306238-manjar-branco.html"
+}

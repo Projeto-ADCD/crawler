@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLO DE CENOURA COM COBERTURA DE CHOCOLATE (LIQUIDIFICADOR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras médias (descascadas e picadas)",
+      "1 xícara de óleo de soja",
+      "1 xícara de açúcar",
+      "3 ovos",
+      "1 colher (sopa) de fermento em pó",
+      "1 pitada de sal",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de margarina para untar a forma"
+    ],
+    "COBERTURA:": [
+      "1 caixa de leite condensado (395 g)",
+      "3 colheres (sopa) de achocolatado em pó (Toddy)",
+      "1 colher (sopa) de margarina (com ou sem sal)",
+      "1/2 caixa de leite (usar a caixa de leite condensado como medida)",
+      "150 g de chocolate granulado"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata no liquidificador os ovos, o óleo e o açúcar.",
+      "Acrescente as cenouras e bata até que não tenha nenhum pedaço inteiro de cenoura.",
+      "Coloque a mistura em uma tigela e vá adicionando a farinha de trigo aos poucos, batendo a massa com um batedor ou uma colher.",
+      "Adicione o sal e o fermento e misture bem à massa.",
+      "Unte a forma com margarina e farinha de trigo.",
+      "Despeje a massa na forma untada e leve ao forno preaquecido a 200ºC por cerca de 45 min (depende do forno).",
+      "Cobertura:",
+      "Em uma panela, adicione o leite, o leite condensado, a margarina e o achocolatado.",
+      "Leve ao fogo baixo e mexa até engrossar (10 a 15 min).",
+      "Assim que estiver pronta, tire do fogo, aguarde esfriar por uns 10 min e cubra o bolo.",
+      "Decore com chocolate granulado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: se seu liquidificador não for muito forte, recomendo ralar as cenouras antes de bater.\nDica: guarde o bolo na geladeira, fica uma delícia gelado!"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "BRENDA BORGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312685-bolo-de-cenoura-com-cobertura-de-chocolate-liquidificador.html"
+}

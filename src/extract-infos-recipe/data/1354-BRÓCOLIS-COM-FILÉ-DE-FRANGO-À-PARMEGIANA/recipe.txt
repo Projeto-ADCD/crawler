@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BRÓCOLIS COM FILÉ DE FRANGO À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 brócolis inteiro",
+      "1 cebola pequena ",
+      "3 dentes de alho ",
+      "coentro a gosto",
+      "4 filés de frango pequeno ",
+      "1 sachê de molho de tomate",
+      "pedaços de queijo mussarelasa gosto",
+      "queijo ralado a gosto",
+      "1 sachê de tempero ao seu gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o brócolis somente com água não precisa por sal, cozinhe os filés de frango com os temperos, em seguida ponha o molho de tomate e deixe engrossar.",
+      "Em uma tigela coloque o brócolis cortados e o queijo mussarela em pedaços, em seguida despeje o filé de frango com molho e polvilhe com queijo ralado, por fim leve ao forno por 10 minutos ou o que for do seu agrado."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MICHELLE OLIVEIRA MATOS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308761-brocolis-com-file-de-frango-a-parmegiana.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "SOBRECOXA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxa desossada ",
+      "4 dentes de alho",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "100 g de manteiga",
+      "60 g de bacon",
+      "1 cebola picada",
+      "80 g de uvas-passas",
+      "200 g de farinha de mandioca",
+      "salsinha a gosto",
+      "100 ml de suco de laranja",
+      "30 ml de shoyu",
+      "50 ml de mel",
+      "cheiro-verde a gosto",
+      "12 palitos de dente para fechar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a sobrecoxa em um recipiente ",
+      "Tempere com o alho, pimenta e sal ",
+      "Misture bem e reserve",
+      "Em uma frigideira, junte a manteiga ",
+      "Deixe derreter e coloque o bacon",
+      "Junte a cebola, as uvas-passas e, por fim, a farinha ",
+      "Finalize com a salsinha e mexa bem",
+      "Coloque as sobrecoxas em cima de uma tábua e recheie com delicadeza usando a farofa preparada",
+      "Feche com palitos de dente ",
+      "Unte uma forma com óleo e disponha com cuidado as sobrecoxas",
+      "Cubra tudo com papel-alumínio e leve ao forno por 40 minutos ",
+      "Enquanto isso, em uma panela, junte o suco de laranja, o shoyu e o mel",
+      "Mexa e deixe cozinhar por 6 minutos ",
+      "Retire o frango do forno e finalize com o molho por cima"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314010-sobrecoxa-especial.html"
+}

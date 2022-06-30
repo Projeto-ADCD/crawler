@@ -1,0 +1,44 @@
+{
+  "nome_receita": "ESCONDIDINHO DE ESTROGONOFE",
+  "ingredientes": {
+    "PURÊ DE BATATA": [
+      "500 g de batata baroa ",
+      "50 g de manteiga ",
+      "2 colheres (sopa) de requeijāo ",
+      "sal e pimenta a gosto "
+    ],
+    "RECHEIO DE ESTROGONOFE": [
+      "600 g de frango em cubos ",
+      "1 colher (sopa)  de manteiga ",
+      "1/2 colher (sopa) de azeite ",
+      "1 cebola picada ",
+      "3 dentes de alho ",
+      "2 colheres (sopa) de ketchup",
+      "100 g de cogumelos paris ",
+      "1 colher (sopa) de mostarda ",
+      "1 caixa de creme de leite ",
+      "pimenta e sal a gosto",
+      "300 g de mussarela ralada ",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "PURÊ DE BATATA": [
+      "Em uma panela, cozinhe as batatas e amasse com ajuda de amassador",
+      "Adicione manteiga, requeij?o, sal e pimenta. "
+    ],
+    "RECHEIO DE ESTROGONOFE": [
+      "Corte o frango em cubos, tempere com alho, sal e pimenta-do-reino, reserve.",
+      "Em uma panela refogue, com azeite mais a manteiga, a cebola, o frango e os cogumelos fatiados e deixe dourar.",
+      "Adicione o ketchup e a mostarda e em seguida o creme de leite. "
+    ],
+    "MONTAGEM": [
+      "Transfira o estrogonofe para uma travessa média, junte o purê de batata baroa, polvilhe a mussarela ralada e leve ao forno 180° C por 20 minutos. ",
+      "Ao retirar, finalize com batata palha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313319-escondidinho-de-estrogonofe.html"
+}

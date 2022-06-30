@@ -1,0 +1,62 @@
+{
+  "nome_receita": "BOLO DE CAFÉ COM RECHEIO EMBUTIDO (SEM CORTAR)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "100 g de manteiga (mais ou menos 3 colheres)",
+      "1 xícara de açúcar",
+      "50 g de chocolate meio amargo (1/2 barra)",
+      "1/2 xícara de achocolatado",
+      "1 e 1/2 xícara de farinha de trigo peneirada",
+      "1/2 xícara de amido de milho",
+      "1 xícara de leite morno",
+      "1 colher de café",
+      "1 colher de fermento em pó",
+      "Recheio (brigadeiro)",
+      "1 caixa de leite condensado",
+      "1 colher de manteiga",
+      "4 colheres de achocolatado",
+      "1 colher de café",
+      "Cobertura (ganache)",
+      "1 caixa de creme de leite",
+      "1 colher de manteiga",
+      "50 g de chocolate meio amargo (1/2 barra)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Brigadeiro de café",
+      "Em uma panela grossa no fogo médio, adicione a manteiga, o leite condensado e o achocolatado, mexa até ferver bem e ficar denso.",
+      "Em fogo baixo e adicione o café misture um pouco mais e desligue antes do ponto do brigadeiro de colher (se necessário adicione uma colher de leite). Reserve.",
+      "Massa",
+      "Preaqueça o forno em cerca de 240° C.",
+      "Unte uma assadeira com manteiga ou óleo e farinha peneirada.",
+      "Em uma vasilha, misture a farinha, o amido de milho o achocolatado, o açúcar e o fermento.",
+      "Derreta a manteiga em uma panela ao fogo, adicione o leite e chocolate, mexa e desligue para deixá-los morno (cerca de 40° C - possível suportar com o dedo).",
+      "Em um misturador, coloque os ovos e o café e misture, adicione a mistura do leite com manteiga e chocolate, garantindo que não esteja quente demais para não cozinhar os ovos, misture bem por 2 minutos com um fouet ou batedeira.",
+      "Junte e misture tudo, até ficar uma massa homogênea com uma colher ou espátula.",
+      "Coloque 1/3 da massa na assadeira e leve ao forno por 8 a 10 minutos, retire temporariamente do forno e adicione o restante da massa completando a assadeira.",
+      "Adicione o brigadeiro de café por cima da massa mole, que irá descer para o meio do bolo até a parte pré-assada (evite colocar nas paredes da assadeira para soltar da forma sem problemas).",
+      "Devolva ao forno e asse por cerca de mais 35 minutos.",
+      "O tempo varia de acordo com o forno, verifique o ponto com um palito ou garfo.",
+      "Ganache",
+      "Em uma panela ao fogo baixo, derreta a manteiga, adicione o chocolate e o creme de leite. Misture bem e desligue antes de ferver",
+      "Caso necessário ligue o fogo novamente evitando a fervura.",
+      "Após ficar homogêneo, esfrie a panela com água gelada em banho-maria (para ela firmar como cobertura)",
+      "Reserve.",
+      "Finalização",
+      "Após esfriar, retire a massa da forma com cuidado (passe uma faca nas laterais e bata para ajudar). Despeje o ganache por cima.",
+      "Decore com raspas de chocolate ralado e açúcar de confeiteiro e/ou cacau peneirados.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se curtir, comente \nxícara = 200ml\ncolher (sopa)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GUILHERME TUFAILE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306026-bolo-de-cafe-com-recheio-embutido-sem-cortar.html"
+}

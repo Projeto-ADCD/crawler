@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE AIPIM COM AMÊNDOA (AMENDOEIRA SETE COPAS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de aipim ",
+      "1 xícara de açúcar",
+      "100 g de manteiga",
+      "1/2 xícara de coquinho da amêndoa cortadas",
+      "1 pitada de sal",
+      "2 xícaras (chá) de leite",
+      "3 ovos",
+      "1 caixa de leite condensado",
+      "100 g de queijo ralado",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador (o aipim ralado)  exceto as amêndoas cortadas que serão colocadas por último.",
+      "Coloque em forma besuntada e untada e asse por aproximadamente 40 minutos em fogo médio ou até que enfiando um palito ele sai seco.",
+      "Para se extrair o coquinho da amêndoa basta colocar a semente no forno por cerca de 30 minutos e depois quebrar com um martelinho (dá trabalho porém vale muito a pena)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A amendoeira sete copas é a mais normal no território Brasileiro, seu fruto não é muito apreciado e com passar do tempo o coquinho na semente também passou a ser ignorado, porem é saborossimo e muito nutritivo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JOHN WAYNE AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307657-bolo-de-aipim-com-amendoa-amendoeira-sete-copas.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO CAPUCCINO DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "170 g de açúcar",
+      "75 ml de óleo",
+      "140 ml de leite quente",
+      "10 g de café solúvel",
+      "17 g chocolate em pó",
+      "1/2 colher (sopa) de canela em pó",
+      "120 g de farinha de trigo",
+      "1 colher (sopa) rasa fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e reserve.",
+      "Bata as gemas, com o açúcar, e acrescente o óleo, o leite quente, o chocolate, o café solúvel, a canela e o trigo",
+      "Bata bem e acrescente o fermento só misturando, sem bater muito e por último incorpore as claras em neve.",
+      "Coloque numa forma de pudim com buraco no meio que pode ir ao micro-ondas, 6 minutos em potência alta.",
+      "Se desejar faça uma mistura de 1 colher (chá) de canela com 1 colher (sobremesa) de açúcar, e 1 colher (sobremesa) de chocolate em pó e povilhe por cima depois de assado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELI BRAGA PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308634-bolo-capuccino-de-micro-ondas.html"
+}

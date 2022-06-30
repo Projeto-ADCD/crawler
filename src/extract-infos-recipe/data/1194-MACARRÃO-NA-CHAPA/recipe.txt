@@ -1,0 +1,42 @@
+{
+  "nome_receita": "MACARRÃO NA CHAPA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão parafuso colorido",
+      "500 g peito de frango em pedaços",
+      "250 g de bacon picado e frito",
+      "250 g de linguiça calabresa",
+      "100 g azeitona sem caroço",
+      "1 cebola grande picada",
+      "1 cenoura ralada",
+      "1 tomates grande picado",
+      "1/2 pimentão verde picado",
+      "1/2 pimentão amarelo picado",
+      "1/2 pimentão vermelho picado",
+      "1 lata de milho verde",
+      "cheiro-verde",
+      "2 cubos de caldo de galinha",
+      "2 dentes de alho bem picados",
+      "1 pitada de pimenta do reino",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em água e sal, deixe al dente.",
+      "Escorra e reserve.",
+      "Na chapa, coloque o bacon para fritar",
+      "Quando bacon começar a fritar acrescente a linguiça calabresa e o frango",
+      "Tempere com sal e pimento-do-reino a gosto",
+      "Depois de bem frito incluir o pimentão, cenoura, alho, cebola e caldo de galinha",
+      "Assim que os itens acima estiverem refogados adicione milho verde e tomate picado",
+      "Coloque o macarrão e mexa bem, até ficar homogêneo",
+      "Acrescente o cheiro-verde",
+      "Sirva à vontade."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "EVANDRO CORRÊA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309427-macarrao-na-chapa.html"
+}

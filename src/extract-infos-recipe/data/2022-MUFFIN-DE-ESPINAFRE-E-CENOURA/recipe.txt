@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MUFFIN DE ESPINAFRE E CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícara (chá) de óleo",
+      "1 xícara (chá) de leite",
+      "1 pitada de sal",
+      "1/2 lata de molho de tomate",
+      "1 maço de espinafre (só as folhas)",
+      "2 cenouras raladas",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "queijo parmesão ralado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o óleo, o leite e o sal até ficar homogêneo",
+      "Despeje numa tigela e junte o molho de tomate, o espinafre e a cenoura",
+      "Adicione a farinha e o fermento",
+      "Preaqueça o forno a 180° C",
+      "Unte e polvilhe com farinha 12 forminhas para muffins",
+      "Coloque a massa até a metade das cavidades;",
+      "Coloque em uma assadeira e leve ao forno para assar por cerca de 40 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANDRESSA DANTAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306177-muffin-de-espinafre-e-cenoura.html"
+}

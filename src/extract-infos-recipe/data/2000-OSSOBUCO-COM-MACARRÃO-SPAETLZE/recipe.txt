@@ -1,0 +1,53 @@
+{
+  "nome_receita": "OSSOBUCO COM MACARRÃO SPAETLZE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 kg de ossobuco",
+      "3 tomates sem sementes",
+      "2 cebolas médias",
+      "1 pimentão amarelo",
+      "1 pimentão verde",
+      "5 dentes de alho",
+      "1 colher (sopa) de alho-poró",
+      "1 colher (chá) de sal",
+      "1 tominho",
+      "5 colheres (sopa) de azeite de Oliva",
+      "4 ovos",
+      "1 creme de leite de 200 ml",
+      "600 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie o tomate, a cebola, os pimentões, enquanto que, o alho e o alho-poró deverão ser picados",
+      "Refogue na panela de pressão o alho por 1 minuto",
+      "Após, acrescente o alho-poró e aguarde até o alho pegar uma cor amarelada",
+      "Em camadas, coloque 1/3 da cebola, do tomate e dos pimentões",
+      "Coloque a primeira camada de ossobuco",
+      "Em seguida, repita as camadas na mesma ordem",
+      "Ao final, misture o sal, o cominho e a sálvia em um recipiente de 500ml de água e junte na panela de pressão;",
+      "Verifique se a água cobriu todo o ossobuco, se não, complete até cobrir por completo",
+      "Deixe ferver a água por 30 minutos",
+      "Passados 30 minutos, complete de água até cobrir o Ossobuco e feche a panela de pressão;",
+      "Aguarde por até 60 minutos após iniciar a pressão (barulho), mas fique atento para não queimar ao fundo, podendo ocorrer após 50 minutos",
+      "Desligue o fogo e aguarde sair a pressão por 15 minutos",
+      "Nesse intervalo coloque em uma panela grande a água para ferver",
+      "Em um refratário coloque os ovos e o creme de leite e mexa-os até tornaram-se uniformes",
+      "Misture a farinha de trigo e sal a gosto... (pode colocar algum ingrediente a gosto)",
+      "Misturando bem a massa, você vai verificar que ela ficou bem molinha, mas é assim que tem que ficar.",
+      "Com a água fervendo jogue a massa sobre um escorredor de macarrão dentro da panela com a água fervendo",
+      "Você vai ver que a massa vai cair em gotas, mas esse é o objetivo",
+      "Em seguida, a massa vai começar a boiar, esse é o ponto",
+      "Com uma escumadeira retire a massa e a ponha em um recipiente com água gelada",
+      "Repita a operação até cozinhar toda a massa",
+      "Tudo pronto, coloque o ossobuco num pirex com cuidado para não desmontar e leve ao forno para dar uma pequena gratinada",
+      "Numa frigideira grande, unte com azeite e frite a massa",
+      "Após fritar a massa, coloque-a em outra pirex e misture com uma pequena quantidade do molho do Ossobuco;",
+      "Após, é só se servir"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CÉSAR CASTELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306222-ossobuco-com-macarrao-spaetlze.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PANQUECA SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 xícaras de leite",
+      "5 colheres (chá) de aveia em flocos",
+      "4 xícara (chá) de amido de milho",
+      "1 colher de azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite o ovo, azeite e bata por 1 minuto.",
+      "Após coloque o amido de milho e a aveia, bata por mais 3 minutos.",
+      "Deixe descansar no liquidificador mesmo por uns 5 minutos pois a aveia vai engrossar neste período.",
+      "Numa frigideira coloque um pouco de margarina ou manteiga.",
+      "Com a ajuda de uma concha retire do liquidificador e coloque na frigideira, virando os lados até ficarem dourados.",
+      "Coloque o recheio a gosto.",
+      "Caso fique grosso o molho da panqueca misture mais leite.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRISCILA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310189-panqueca-sem-gluten.html"
+}

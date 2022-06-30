@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOPA DE INHAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 kg de inhame",
+      "4 litros de água",
+      "1 cebola grande picada",
+      "1 cabeça de alho picada",
+      "4 colheres de sazon de legumes",
+      "1 colher (sobremesa) de sal",
+      "4 colheres (sopa) de manteiga",
+      "2 kg de carne moida",
+      "1 kg de batata",
+      "500 ml de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os legumes na água e acrescente os temperos",
+      "Frite a carne com cebola e alho",
+      "No liquidificador, bata os legumes e por ultimo acrescente a carne moida e o creme de leite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SIMONE JABER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312704-sopa-de-inhame.html"
+}

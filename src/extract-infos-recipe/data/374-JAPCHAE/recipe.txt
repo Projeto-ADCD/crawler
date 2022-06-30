@@ -1,0 +1,44 @@
+{
+  "nome_receita": "JAPCHAE",
+  "ingredientes": {
+    "DEFAULT": [
+      "75 g de macarrão bifum",
+      "150 g de carne bovina, suina ou de frango",
+      "1 e 1/2 molho choyu",
+      "1 colher de (sopa) açúcar",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "1/2 colher (chá) de olho de gergelim",
+      "alho picado, ralado ou moído a gosto",
+      "cenoura picada",
+      "cebola picada",
+      "pimentão verde picado",
+      "cogumelo shimeji, mogi ou shitake (não e necessário)",
+      "1 colher (sopa) de semente de gergelim branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Encha uma panela com água e deixe ferver",
+      "Coloque o macarrão na água por 6 minutos deixe em fogo brando para que o macarrão não fique grudento e sim soltinho",
+      "Depois de pronto escorra e passe na água corrente depois aperte levemente para sair toda a água",
+      "Reserve o macarrão para depois",
+      "Pegue 150 g de carne bovina, suina ou de frango e corte em tiras bem finas",
+      "Depois de cortada coloque 1 e 1/2 Molho shoyu, 1 colher (sopa) de açúcar, 1/2 colher (chá) de olho de gergelim, alho picado, ralado ou moído a gosto",
+      "Depois misture tudo muito bem com as mãos",
+      "Esquente uma panela antiaderente em fogo médio sem óleo",
+      "E frite a carne ate mudar de cor",
+      "Coloque a carne em uma tigela grande",
+      "Se quiser corte o macarrão, para ficar melhor para comer",
+      "Coloque a carne junto ao macarrão e misture bem",
+      "Com a mesma panela que fritamos a carne, coloque um pouco de óleo de gergelim, a cenoura picada com a cebola e pimentão verde para refogar ate que fiquem macios e depois coloque sal a gosto",
+      "Se desejar, acrescente cogumelo",
+      "Depois coloque as verduras junto ao macarrão e a carne e coloque 1 colher (sopa) de semente de gergelim, óleo de gergelim, pimenta do reino e sal e misture bem",
+      "Sirva-se a vontade"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANTONIO SUEITT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313063-japchae.html"
+}

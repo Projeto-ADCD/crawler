@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MUNGUNZÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de água",
+      "2 cravos",
+      "1/2 xícara de amendoim triturado",
+      "1 vidro de leite de coco",
+      "1 xícara de açúcar",
+      "1/2 xícara de coco ralado",
+      "1 xícara de milho canjica amarela",
+      "1 pau de canela",
+      "1 colher (sopa) de Margarina Primor Todo Dia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cubra o milho com água e deixe de molho de um dia para outro.",
+      "Escorra e coloque o milho em uma panela de pressão com a água (4 xícaras), os cravos e a canela.",
+      "Cozinhe por cerca de 25 minutos contados a partir da fervura. Verifique se o milho está macio.",
+      "Junte os ingredientes restantes, exceto o amendoim.",
+      "Cozinhe até engrossar um pouco. Fora do fogo adicione o amendoim.",
+      "Sirva quente ou fria."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA\nExperimente substituir o açúcar por 1 lata de condensado.\nSubstitua o milho de canjica amarela por milho branco.\nCURIOSIDADE\nEsta receita no Nordeste chama-se mungunzá, mugunzá, mungunzá ou chá de burro. Já no sudeste é conhecida como canjica."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312308-mungunza.html"
+}

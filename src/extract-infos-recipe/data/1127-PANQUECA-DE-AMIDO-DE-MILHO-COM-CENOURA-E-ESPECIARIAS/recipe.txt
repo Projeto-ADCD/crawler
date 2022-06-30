@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PANQUECA DE AMIDO DE MILHO COM CENOURA E ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de amido de milho",
+      "2 xícaras (chá) de leite",
+      "2 ovos",
+      "1/2 cenoura",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (chá) de açafrão da terra",
+      "1/2 colher (chá) de ervas finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o amido de milho no leite e bata todos os ingredientes (use a cenoura ralada) no liquidificador.",
+      "A consistência será líquida.",
+      "Unte uma frigideira antiaderente e deixe em fogo baixo.",
+      "Coloque a mistura na frigideira aquecida, o suficiente para cobrir o fundo da frigideira.",
+      "Quanto menos quantidade colocar, mais fininha a massa vai ficar.",
+      "Espere até observar as bordas ficarem douradas.",
+      "Vire a massa e deixe dourar do outro lado.",
+      "Repita o processo até finalizar o conteúdo do liquidificador.",
+      "Use o recheio de sua preferência.",
+      "Fica super leve e deliciosa e com uma cor linda, além de supernutritiva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "11 PORÇÕES",
+  "autor": "ADRIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309738-panqueca-de-amido-de-milho-com-cenoura-e-especiarias.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SUFLÊ DE ABOBRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 abobrinhas grandes",
+      "3 ovos",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de óleo",
+      "1 cebola picadinha",
+      "1 tomate picadinho",
+      "3 colheres de sopa de queijo ralado",
+      "1 colher de sopa de fermento",
+      "1 gomo de linguiça calabresa picadinha",
+      "100 g de bacon em cubinhos",
+      "Sal, cheiro verde e tempero à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as abobrinhas no ralo grosso.",
+      "Acrescente os ovos, a farinha, o óleo, o sal, o cheiro verde e os temperos. Misture bem.",
+      "Acrescente a cebola, o tomate, o queijo, a calabresa e o bacon. Mexa delicadamente.",
+      "Por último, acrescente o fermento e misture.",
+      "Leve ao forno quente em forma untada.",
+      "Asse por aproximadamente 45 minutos até dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312874-sufle-de-abobrinha.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PUDIM DE CHIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite de coco",
+      "açúcar demerara a gosto",
+      "coco ralado para salpicar",
+      "5 colheres (sopa) de chia",
+      "1 bandeja de morango ou outra fruta de preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recepiente, adoce o leite de coco e reserve.",
+      "Em um refratário, forre com a chia.",
+      "Logo, hidrate a chia com o leite de coco misturando.",
+      "Depois, coloque os morangos e salpique com o coco ralado.",
+      "Leve à geladeira de um dia para o outro ou por um período de 12 horas.",
+      "Tempo hábil de hidratar a chia.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "-30 MIN",
+  "rendimento": "-10 PORÇÕES",
+  "autor": "CARLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310949-pudim-de-chia.html"
+}

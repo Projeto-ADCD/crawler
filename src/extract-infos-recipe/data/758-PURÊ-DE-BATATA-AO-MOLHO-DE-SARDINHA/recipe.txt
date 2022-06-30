@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PURÊ DE BATATA AO MOLHO DE SARDINHA",
+  "ingredientes": {
+    "PURÊ": [
+      "8 batatas médias",
+      "4 sachês de tempero para legumes",
+      "1 creme de leite",
+      "250 ml de leite integral",
+      "sal a gosto"
+    ],
+    "MOLHO": [
+      "2 dentes de alho",
+      "2 colheres (sopa) de margarida",
+      "1 tomate",
+      "1 cebola de cabeça",
+      "1 molho de tomate",
+      "1 sachê de tempero para legumes",
+      "1 lata de sardinha ao óleo de soja",
+      "1 e 1/2 colher (chá) de azeite",
+      "sal a gosto",
+      "orégano e Salsa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas sem casca com sal a gosto",
+      "Após cozinhar, coloque na batedeira as batatas, margarida, sachê de tempero e adicione o creme de leite e o leite aos poucos até obter uma massa cremosa",
+      "Deixe batendo por 5 minutos e desligue a batedeira",
+      "Enquanto isso, vamos para o molho",
+      "Pique o tomate com casca e retire as sementes",
+      "Amasse a sardinha em um prato com o garfo",
+      "Pique a cebola e o alho em pedaços ou rodelas e deixe em uma vasilha e doure em uma frigideira antiaderente com azeite",
+      "Após dourar, coloque o tomate e mexa",
+      "O tomate começara a desmanchar, nesse momento adicione a pomarola, sardinha, sal e o sachê de tempero e mexa em fogo baixo até a fervura e desligue o fogo",
+      "Para aquecer novamente o purê, coloque em uma panela grossa em fogo baixo e mexa ate o ponto que desejar",
+      "Após o molho e o purê aquecido, coloque em uma vasilha alta, decore com o orégano e salsa",
+      "Caso queira, na hora de servir, coloque uma fatia de mussarela, que irá derreter ao colocar o purê por cima",
+      "Sirva com arroz e batata palha"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAVID ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311694-pure-de-batata-ao-molho-de-sardinha.html"
+}

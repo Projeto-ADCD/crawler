@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MASSA ESPECIAL DE CHOCOLATE COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar mascavo (240 ml)",
+      "1/2 xícara de açúcar refinado",
+      "2 ovos",
+      "1 xícara e 1/2 de farinha de trigo",
+      "1/2 xícara de café (coado na hora)",
+      "1/2 xícara de chocolate (usei 50% cacau)",
+      "1/2 xícara de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "1 xícara de leite",
+      "1 pitada de sal",
+      "1 colher (sopa) de vinagre de maçã",
+      "1 caixa de creme de leite (200 ml) para a ganache",
+      "200 g de chocolate em barra (para ganache)",
+      "1/2 colher (sopa) de manteiga (para ganache)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece colocando uma colher (sopa) de vinagre no leite e deixe agir por 5 minutos, ele vai talhar",
+      "Em seguida, coloque os ovos, os dois tipos de açucar e o óleo, e mexa bem até o açúcar sumir.",
+      "Use uma peneira para peneirar a farinha, o chocolate e o sal, e misture bem.",
+      "Agora você adiciona o café e mistura bem. Por último, adicione o fermento.",
+      "Coloque a mistura em uma forma untada e leve em forno preaquecido a 160° C, por cerca de 40 a 45 minutos.",
+      "Faça a ganache dessa forma: coloque o creme de leite para esquentar, assim que começar a ferver, desligue.",
+      "Coloque a manteiga e a barra de chocolate e misture bem até dar o ponto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: A massa fica um pouco líquida, é assim mesmo!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DELÍCIAS DA TIA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/310353-massa-especial-de-chocolate-com-cafe.html"
+}

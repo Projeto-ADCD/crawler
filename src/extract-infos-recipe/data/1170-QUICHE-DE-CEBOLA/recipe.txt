@@ -1,0 +1,48 @@
+{
+  "nome_receita": "QUICHE DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1/2 xícara de azeite de oliva Vale Fértil",
+      "3 colheres (sopa) de farinha de arroz",
+      "2 colheres de farinha de linhaça ",
+      "2 colheres (sopa) de farinha de quinoa ou grão-de-bico",
+      "3 colheres de farinha de amêndoa",
+      "3 colheres de fécula de batata",
+      "1 colher (chá) de sal",
+      "Recheio",
+      "6 cebolas médias fatiadas",
+      "3 colheres (sopa) de azeite de oliva Vale Fértil",
+      "1/2 xícara de azeitonas pretas fatiadas",
+      "1/2 xícara de azeitonas verdes fatiadas",
+      "2 colheres (sopa) de chia hidratada",
+      "1 colher (chá) de sal",
+      "1 colher (café) de noz moscada",
+      "1 colher (chá) de cúrcuma",
+      "Pimenta a gosto",
+      "Cobertura",
+      "3 ovos batidos",
+      "1/2 xícara de queijo parmesão ralado",
+      "1 raminho de alecrim fresco picadinho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo da massa",
+      "Em uma tigela misture todos os secos, faça uma cavidade e coloque os molhados.",
+      "Misture delicadamente, se muito mole ou muito seca, adicione mais farinha ou 1 colher de água respectivamente, faça uma bola e reserve.",
+      "Preparo do recheio",
+      "Refogue as cebolas no azeite até amolecer, adicione todos os demais ingredientes e refogue por mais uns 3 minutos. Reserve.",
+      "Montagem",
+      "Em uma forma de fundo falso (se não tiver pode ser em um pirex ou outro tipo de forma), espalhe bem a massa até ficar uma borda.",
+      "Coloque o recheio, espalhe regularmente e por cima distribua bem a cobertura.",
+      "Leve ao forno preaquecido a 180º C por 30 minutos.",
+      "Retire, deixe esfriar um pouco e solte o fundo da forma dispondo em um prato reto.",
+      "Decore com criatividade."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "VALE FÉRTIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/309504-quiche-de-cebola.html"
+}

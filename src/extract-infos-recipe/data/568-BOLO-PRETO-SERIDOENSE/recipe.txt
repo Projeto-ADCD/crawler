@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO PRETO SERIDOENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,1 kg de rapadura preta (boró)",
+      "200 g de castanha triturada",
+      "500 g de coco ralado fresco",
+      "800 g de farinha de mandioca",
+      "1,5 litro de água",
+      "1 colher (chá) de erva-doce triturada",
+      "1 colher (chá) de cravo triturado",
+      "1 pitada de pimenta-do-reino",
+      "1 pitada de canela em pó",
+      "1 colher (chá) rasa de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Quebre a rapadura em pequenas partes e junte em uma panela com a água. Cozinhe em fogo baixo acrescentando cravo, canela e erva-doce, mexa até derreter a rapadura e após abrir fervura, desligue",
+      "Coe todo conteúdo em outra panela com fogo desligado, adicione os demais ingredientes (coco, castanha) e por último a farinha de mandioca aos poucos para não embolar.",
+      "Por fim, espalhe a massa em forma com papel manteiga ou untada com margarina e asse em formo preaquecido a 200° C por 40 a 50 minutos."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOVAN MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312485-bolo-preto-seridoense.html"
+}

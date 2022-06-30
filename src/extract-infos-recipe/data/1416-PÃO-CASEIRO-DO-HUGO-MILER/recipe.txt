@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO CASEIRO DO HUGO MILER",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de açúcar",
+      "10 g de fermento seco",
+      "1 xícara de leite morno",
+      "1 xícara de água morna",
+      "1 colher de sal",
+      "2 ovos",
+      "2 e 1/2 colheres de banha",
+      "1 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia acrescente o açúcar, o fermento e meia xícara de trigo.",
+      "Adicione o leite e a água morna, misture até dissolver tudo.",
+      "Acrescente o sal e misture, adicione os ovos e a banha e misture bem ate dissolver tudo.",
+      "Coloque o trigo aos poucos e com uma colher de madeira vá mexendo até que desgrude a massa da colher.",
+      "Em uma superfície enfarinhada sove a massa bem até que desgrude da mão e fiquei bem lisa.",
+      "Deixe descansar dentro da bacia com um pano por cima durante 1 hora.",
+      "Após o tempo de descanso, modele o pão no formato que desejar, em uma forma untada, deixe descansar por mais 40 minutos.",
+      "Em seguida aqueça o forno a 200 graus, pincele ovo batido por cima do pão e coloque para assar, até que fique dourado."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "HUGO MILER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308452-pao-caseiro-do-hugo-miler.html"
+}

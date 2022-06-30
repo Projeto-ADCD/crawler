@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "2 laranjas inteiras descascadas e sem sementes",
+      "2 xícaras de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de maizena",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Leve para assar por aproximadamente 45 minutos.",
+      "Dica: faça uma calda para colocar sobre o bolo com 1/2 xícara de açúcar. Leve ao fogo até o ponto de calda."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ERNA GARZLAFF",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313146-bolo-de-laranja.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO SOUZA LEÃO",
+  "ingredientes": {
+    "BOLO": [
+      "2 e 1/2 xícaras (chá) de açúcar",
+      "1 xícara (chá) de água",
+      "180 g de margarina Primor",
+      "1 colher (café) de sal",
+      "500 g de massa puba",
+      "8 gemas",
+      "1 e 1/2 xícara (chá) de leite de coco",
+      "Margarina para untar"
+    ],
+    "CALDA DE RAPADURA": [
+      "1 xícara (chá) de rapadura picada",
+      "1 colher (sopa) de margarina Primor",
+      "1 e 1/2 xícara (chá) de água"
+    ]
+  },
+  "passos": {
+    "BOLO": [
+      "Em uma panela, misture o açúcar e água.",
+      "Leve ao fogo e deixe ferver, sem mexer até formar uma calda rala, sem dourar. Desligue o fogo, misture a margarina Primor e o sal. Deixe esfriar e reserve.",
+      "Em uma tigela, misture a massa puba, e uma a uma as gemas, alternando com o leite de coco.",
+      "Mexa até formar uma massa homogênea.",
+      "Aos poucos e sem parar de mexer, acrescente a calda já fria.",
+      "Passe a massa três vezes em uma peneira fina.",
+      "Despeje em uma forma com furo central de 30cm de diâmetro, levemente untada com margarina.",
+      "Asse em banho-maria no forno preaquecido a 180° C por 1 hora ou até que espetando um palito, saia seco.",
+      "Deixe esfriar e desenforme."
+    ],
+    "CALDA": [
+      "Em uma panela, misture a rapadura picada a margarina Primor e a água.",
+      "Leve ao fogo brando e deixe ferver até formar uma calda.",
+      "Deixe esfriar e despeje sobre o bolo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRIMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312314-bolo-souza-leao.html"
+}

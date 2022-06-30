@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CENOURA COM COCO LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "100 ml de Leite de Coco",
+      "3 colheres (sopa) de Farinha de Coco",
+      "3 colheres (sopa) de adoçante forno e fogão (usei o tal e qual)",
+      "3 colheres (sopa) de coco ralado sem açúcar",
+      "2 colheres (sopa) de manteiga (ou margarina)",
+      "1 Cenoura Grande",
+      "1 Colher (sopa) de Fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque todos os ingredientes, exceto o fermento, e bata.",
+      "Em seguida, adicione o fermento e misture novamente.",
+      "Despeje a massa em uma forma untada com óleo de coco.",
+      "Leve para assar em forno preaquecido a 200º C até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LIDIANE DE LEMOS SOARES PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307268-bolo-de-cenoura-com-coco-low-carb.html"
+}

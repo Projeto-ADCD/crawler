@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FILÉ AO CREME COM PASSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça limpa de filé mignon amarrada com barbante (para manter o formato)",
+      "sal e pimenta-do-reino moída a gosto",
+      "1 colher (sobremesa) de alho",
+      "100 g de manteiga",
+      "1 xícara de chá de cebola picada",
+      "1 colher (sobremesa) de açúcar",
+      "1 xícara (chá) de bacon",
+      "1/2 xícara (chá) de conhaque",
+      "1/2 litro de creme de leite fresco ou requeijão",
+      "200 ml de leite",
+      "1/2 xícara (chá) de uva passa preta",
+      "1/2 xícara (chá) de uva passa branca",
+      "200 g de queijo parmesão ralado",
+      "salsinha ou cebolinha picada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a peça de filé com sal e pimenta a gosto e 1 colher de sobremesa de alho picado e com um barbante amarre a peça para que mantenha o formato redondo. Reserve.",
+      "Em uma assadeira, derreta 100 g de manteiga com 1 colher de açúcar e doure 1 xícara de cebola picada.",
+      "Acrescente 1 xícara de bacon picado e doure levemente.",
+      "Coloque a peça de filé amarrada e deixe que doure ligeiramente por todos os lados, por aproximadamente 10 minutos.",
+      "Assim que tiver dourado, despeje 1/2 xícara de conhaque e acenda com um palito de fosforo para flambar.",
+      "Quando o fogo apagar, retire a peça da assadeira e coloque-a em uma outra assadeira e mantenha no forno a 180º enquanto faz o molho",
+      "Na assadeira onde foi dourada a peça, continue com ela em fogo médio e despeje 1/2 litro de creme de leite fresco com 200ml de leite e as uvas passas e metade do queijo ralado. Deixe ferver por mais ou menos 10 minutos.",
+      "Retire a peça do forno, retire o barbante e corte em medalhão.",
+      "Coloque em um refratário e remonte a peça",
+      "Despeje o molho da assadeira sobre a peça fatiada e salpique o restante do queijo ralado.",
+      "Leve ao forno alto por aproximadamente 10 minutos ou até gratinar.",
+      "Retire do forno e salpique salsinha ou cebolinha picada a gosto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RODRIGO MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/308486-file-ao-creme-com-passas.html"
+}

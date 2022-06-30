@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SUCO VERDE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 fatias de abacaxi",
+      "1 limão [ opcional ]",
+      "2 folhas de couve",
+      "2 copos de água",
+      "gelo à vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o abacaxi, a couve, a água o limão até ficar com uma coloração esverdeada",
+      "sirva nos copos",
+      "adicione o gelo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: pode ficar pequenos pedaços de couve no suco, certifique-se de bater bem, ou utilize uma peneira para retirar, deixar os pedaços não é problema."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VALENTINA SALAZAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/312792-suco-verde-simples.html"
+}

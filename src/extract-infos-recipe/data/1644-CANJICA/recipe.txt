@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CANJICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de canjica de milho",
+      "2 litros de água",
+      "1 xícara (chá) de açúcar",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 litro de leite",
+      "100 g de coco ralado",
+      "cravo-da-índia e canela em casca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe os milhos de canjica de molho por 24 horas.",
+      "Depois, coloque-os na panela de pressão, junto com água, cravo e canela.",
+      "Deixe cozinhar por 45 minutos.",
+      "Junte o leite, o açúcar, o leite condensado e o coco.",
+      "Deixe cozinhar, até a canjica ficar bem cremosa.",
+      "Por último, adicione o creme de leite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "MARINA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307279-canjica.html"
+}

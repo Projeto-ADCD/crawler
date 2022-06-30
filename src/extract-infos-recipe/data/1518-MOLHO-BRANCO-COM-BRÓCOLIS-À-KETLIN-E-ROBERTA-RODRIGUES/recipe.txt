@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO BRANCO COM BRÓCOLIS À KETLIN E ROBERTA RODRIGUES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de farinha de trigo ou amido de milho",
+      "300 ml de leite",
+      "1/2 cebola picada",
+      "3 dentes de alho",
+      "1 colher (sopa) de margarina ou manteiga",
+      "1/2 calabresa (ou salame/ bacon/ linguiça)",
+      "1 pitada de noz moscada ",
+      "1 caldo de legumes",
+      "1/2 brócolis médio",
+      "sal a gosto",
+      "pimenta a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o brócolis para cozinhar em fogo médio com um pouco de sal.",
+      "Em uma travessa, dissolva a farinha de trigo com o leite e reserve.",
+      "Pique a cebola, o alho picado e o salame e frite-os na margarina.",
+      "Em uma panela coloque o leite com a farinha, a cebola, o alho e o salame já fritos e adicione o caldo de legumes, a noz moscada, sal e a pimenta.",
+      "Deixe no fogo médio até engrossar, mexendo sempre.",
+      "Quando estiver pronto, adicione o brócolis e misture bem, está pronto essa delícia!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DIENIFER RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/307935-molho-branco-com-brocolis-a-ketlin-e-roberta-rodrigues.html"
+}

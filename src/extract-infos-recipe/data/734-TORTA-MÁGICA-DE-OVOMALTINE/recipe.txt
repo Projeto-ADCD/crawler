@@ -1,0 +1,43 @@
+{
+  "nome_receita": "TORTA MÁGICA DE OVOMALTINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de biscoito de chocolate",
+      "4 colheres (sopa) de leite",
+      "1 pacote de ovomaltine",
+      "1 lata de leite condensado",
+      "2 lata de creme de leite sem soro",
+      "1 envelope de gelatina sem sabor em pó",
+      "2 potes de iogurte natural (170 g cada)"
+    ]
+  },
+  "passos": {
+    "ETAPA 1": [
+      "Se o seu biscoito for recheado, com o auxílio de uma faca retire o recheio.",
+      "Em seguida triture o biscoito e misture com 2 colheres de sopa de leite. Assim obterá uma massa."
+    ],
+    "ETAPA 2": [
+      "Coloque a massa na forma de 22 cm de diâmetro com fundo removível, e espalhe ate cobrir o fundo, talvez encontre um pouco de dificuldades para cobrir com o auxílio de uma espátula ou colher (use luvas e espalhe com os dedos).",
+      "Reserve na geladeira"
+    ],
+    "ETAPA 3": [
+      "Prepare o recheio:",
+      "Pegue o pacote de gelatina e hidrate como dis a embalagem.",
+      "Após esse processo, no liquidificador, bata o leite condensado, 1 creme de leite sem soro, a gelatina, hidratada e dissolvida de acordo com as instruções da embalagem, e o iogurte.",
+      "Despeje em um pote e coloque 4 colheres de Ovomaltine e misture devagar.",
+      "Coloque sobre a massa e leve à geladeira até firmar."
+    ],
+    "ETAPA 4": [
+      "Prepare a cobertura:",
+      "Em uma panela, misture 2 colheres de sopa de leite , 4 colheres de Ovomaltine até obter uma calda.",
+      "Após esse processo espere esfriar e acrescente 1 creme de leite sem soro ."
+    ],
+    "ETAPA 5": [
+      "Coloque sobre a torta, e polvilhe com ovomaltine se desejar, volte à geladeira e sirva bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALINNE SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/311827-torta-magica-de-ovomaltine.html"
+}
