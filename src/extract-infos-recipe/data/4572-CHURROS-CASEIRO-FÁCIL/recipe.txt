@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CHURROS CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 copo de leite",
+      "1/2 copo de água",
+      "2 colheres de manteiga (ou margarina)",
+      "2 colheres (sopa) de açúcar",
+      "400 g de farinha de trigo",
+      "1 ovo",
+      "açúcar refinado a gosto",
+      "canela em pó a gosto",
+      "1 litro de óleo (para fritar)",
+      "300 g de doce de leite",
+      "2/4 de uma caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, a água, a manteiga e o açúcar em uma panela.",
+      "Mexa em fogo alto até a manteiga derreter, logo em seguida abaixe o fogo ",
+      "Logo após, adicione a farinha aos poucos, até desgrudar da panela.",
+      "Mexa a massa em fogo baixo por 3 minutos.",
+      "Retire do fogo e mexa até ficar morno.",
+      "Acrescente o ovo e mexa bem até ficar homogêneo.",
+      "Espere esfriar e coloque em um saco de confeitar com bico pitanga ou máquina para churros.",
+      "Frite em óleo bem quente, em seguida escorra em papel-toalha e passe no açúcar com a canela, recheio com o recheio a sua escolha (ou use a indicação)",
+      "Indicação de recheio: coloque 300 g de doce de leite em uma vasilha e misture com o creme de leite até ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DU BRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300827-churros-caseiro-facil.html"
+}

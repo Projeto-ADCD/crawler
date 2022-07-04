@@ -1,0 +1,59 @@
+{
+  "nome_receita": "TORTA DE SORVETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de mel",
+      "1/2 xícara (chá) de farinha de trigo peneirada",
+      "50 g de manteiga",
+      "Recheio",
+      "250 ml creme de leite fresco",
+      "250 ml leite",
+      "1 colher (chá) de extrato de baunilha",
+      "200 g de açúcar",
+      "6 gemas",
+      "1 litro de sorvete de creme",
+      "2 caixas de morango",
+      "Cobertura",
+      "400 g de chocolate ao leite picado",
+      "1 e 1/3 de xícara de creme de leite fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Na batedeira bata os ovos e o açúcar",
+      "Adicione o mel e continue batendo até obter um creme firme e claro",
+      "Continue batendo, junte a farinha de trigo e a manteiga",
+      "Coloque em uma assadeira de 25 cm X 35cm forrada com papel-manteiga",
+      "Asse no forno preaquecido a 200º C até dourar",
+      "Deixe esfriar e desenforme",
+      "Recheio",
+      "Em uma panela, adicione o creme de leite, o leite e uma pitada de sal",
+      "Cozinhe até levantar fervura, desligue, adicione o extrato de baunilha e tampe",
+      "Em uma vasilha, bata as gemas com o açúcar até esbranquiçar",
+      "Adicione a metade do líquido quente nas gemas e misture com auxílio de um foet",
+      "Volte para a panela e cozinhe, mexendo sempre, em fogo baixo até o creme engrossar.",
+      "Passe o dedo na colher, se abrir um canal, o ponto está correto",
+      "Transfira para uma tigela, cubra com um plástico filme encostando no creme e leve à geladeira até a hora da montagem",
+      "Tire o sorvete do congelador e bata na batedeira até ficar cremoso, mas sem derreter",
+      "Pique o morango em pedaços, misture ao sorvete e volte ao freezer até a hora da montagem",
+      "Cobertura",
+      "Pique o chocolate e coloque em uma vasilha",
+      "Em uma panelinha esquente o creme de leite até começar a ferver.",
+      "Coloque em cima do chocolate e mexa até derreter todo o chocolate",
+      "Montagem",
+      "Corte a massa em três partes no sentido vertical",
+      "Forre uma fôrma retangular do mesmo tamanho dos pedaços de bolo com filme plástico, deixando sobra nas laterais para poder desenformar.",
+      "Coloque na fôrma um pedaço de bolo, por cima o sorvete, outra parte do bolo e o recheio",
+      "Coloque a última parte do bolo, pressione um pouco com as mãos para moldar no formato da fôrma",
+      "Cubra com o creme de chocolate e leve ao freezer no mínimo por 3 horas antes de servir. "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304776-torta-de-sorvete.html"
+}

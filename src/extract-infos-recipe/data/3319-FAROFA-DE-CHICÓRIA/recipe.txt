@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE CHICÓRIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de chicória",
+      "100 g de bacon",
+      "1/2 linguiça calabresa",
+      "sal a gosto",
+      "1 sachê de tempero pronto para carnes",
+      "salsinha a gosto",
+      "1 cebola grande picada",
+      "3 dentes de alho",
+      "farinha de milho a gosto",
+      "2 colheres (sopa) de manteiga",
+      "pimenta-do-reino ou outra de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a chicória, deixe na vasilha com água e reserve",
+      "Depois coloque o bacon e a calabresa para fritar na manteiga",
+      "Depois de fritos, coloque o alho, a cebola e deixe dourar",
+      "Coloque a chicória (sem água) e os demais ingredientes ",
+      "Até a chicória refogar, desligue o fogo e coloque a farinha de milho, não muito, até que fique meio molhadinho",
+      "E pronto, só servir com arroz"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SUELI BALTAZAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303567-farofa-de-chicoria.html"
+}

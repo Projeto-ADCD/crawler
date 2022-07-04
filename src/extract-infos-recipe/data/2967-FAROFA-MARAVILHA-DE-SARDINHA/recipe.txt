@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA MARAVILHA DE SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos cozidos",
+      "2 latas de sardinha",
+      "3 tomates sem sementes",
+      "1 lata de ervilha",
+      "1 cenoura grande ralada",
+      "1/2 cebola picada",
+      "2 dentres de alho picados",
+      "3 xícaras de farinha de mandioca temperada",
+      "sal e pimenta a gosto",
+      "cheiro-verde picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos, quando estive pronto, reserve",
+      "Em uma panela, frite a cebola e o alho até dourar",
+      "Junte os tomates, os ovos, a ervilha e cozinhe por uns 30 segundos",
+      "Adicione a sardinha picada e limpa, mexa um pouco, adicione a cenoura ralada, coloque o sal e pimenta a seu gosto",
+      "Vá mexendo, depois coloque a farinha de mandioca temperada (pode ser que não seja utilizado as 3 xícaras) ",
+      "Coloque aos poucos",
+      "Até ficar com um aspecto que não fique seco, nem muito molhado.",
+      "Mexa bem e por último, adicione o cheiro-verde e misture."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MICHELE CARLA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304061-farofa-maravilha-de-sardinha.html"
+}

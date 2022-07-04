@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ANÉIS DE CEBOLA EMPANADA BEM FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas grandes",
+      "2 xícaras (chá) de farinha de trigo (sem fermento)",
+      "pimenta-do-reino a gosto (ou outros temperos de sua preferência)",
+      "sal a gosto",
+      "1 xícara (chá) de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as cebolas em rodelas.",
+      "Deixe as cebolas de molho na água por 30 minutos.",
+      "Em uma tigela, coloque a farinha de trigo e tempere-a com sal e pimenta-do-reino a gosto.",
+      "Em outro recipiente, coloque o leite e um pouco de sal.",
+      "Em seguida passe as rodelas de cebola no leite, depois na farinha temperada, passe de novo no leite e por ultimo passe na farinha.",
+      "Após isso, leve as rodelas de cebola empanada para fritar em óleo quente até dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ISA LAURINTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302742-aneis-de-cebola-empanada-bem-facil.html"
+}

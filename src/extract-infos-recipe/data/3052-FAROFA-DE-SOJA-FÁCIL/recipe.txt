@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA DE SOJA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara (chá) de azeite",
+      "1/2 de óleo",
+      "2 xícaras (chá) de soja texturizada",
+      "1 pacote (sopa) creme de cebola",
+      "Alho, cebola e salsa todas desidratadas a gosto",
+      "sal a gosto",
+      "2 xícaras (chá) de farinha de mandioca bijú"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aquecer 1/2 xícara (chá) de azeite e 1/2 de óleo",
+      "Em um recipiente misturar a soja texturizada",
+      "1 pacote (sopa) creme de cebola",
+      "Sal, alho e cebola e salsa tudo desidratado a gosto.",
+      "Coloque no óleo quente e acrescente 2 xícara de farinha de mandioca bijú",
+      "Mexa bem e sirva",
+      "Ótima pra acompanhar churrasco."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TEREZINHA MILANI RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303944-farofa-de-soja-facil.html"
+}

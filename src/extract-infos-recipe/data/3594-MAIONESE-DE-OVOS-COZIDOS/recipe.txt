@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MAIONESE DE OVOS COZIDOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos cozidos (em temperatura ambiente)",
+      "1 caixinha de creme de leite gelado",
+      "1 batata pequena cozida amassada",
+      "2 colheres (sopa) de cheiro-verde",
+      "1/2 xícara (chá) de azeitonas sem caroço",
+      "suco de 1/2 limão",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador os ovos com o creme de leite e bata até virar um creme.",
+      "Depois vá colocando os outros ingredientes, deixando por ultimo a batata amassada.",
+      "Vá colocando a batata aos poucos até engrossar a seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PATRICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303076-maionese-de-ovos-cozidos.html"
+}

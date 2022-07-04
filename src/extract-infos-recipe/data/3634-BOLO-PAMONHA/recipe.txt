@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO PAMONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 lata de milho",
+      "1 lata de fubá",
+      "1 lata de açucar",
+      "1/2 lata de leite",
+      "1/2 lata de óleo",
+      "1 pitada de sal",
+      "1 colher de queijo ralado",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o milho (com a água da lata), o açúcar e o óleo.",
+      "Acrescente o Leite, o fubá, o queijo e o sal, bata novamente.",
+      "Acrescente o fermento.",
+      "Unte uma forma redonda de pudim e assar em forno à 180°C por 40min."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EVERTON DA FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303000-bolo-pamonha.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHANTININHO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500ml chantilly",
+      "100g leite em pó",
+      "50g pó para glacê real",
+      "100 ml de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O Chantilly tem de ter no mínimo 12 horas de geladeira.",
+      "Bata primeiro o chantilly na batedeira, em velocidade baixa e aumente aos poucos, por pelo menos 6 minutos.",
+      "Peneire o leite em pó e o pó para glacê real (peneirar os dois juntos no mesmo recipiente) e acrescente ao chantilly batido.",
+      "Bata até misturar.",
+      "Acrescente o leite condensado.",
+      "Bata até ficar firme."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "ROSE BELCHIÓ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300490-chantininho-facil.html"
+}

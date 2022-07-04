@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COSTELA ASSADA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pedaços de costela grande (de preferência cortada em bifes)",
+      "sal a gosto",
+      "tempero baiano à gosto",
+      "1 limão",
+      "1 dose de conhaque (de sua preferência)",
+      "1 cebola inteira",
+      "4 dentes de alho",
+      "molho shoyu a gosto ",
+      "cebolinha a gosto (por último)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma assadeira ajeite as costelas e coloque as tempere com os ingredientes",
+      "Deixe pegar sabor por 1h hora e leve ao forno pré-aquecido a 200°C",
+      "Quando ficar dourada e cozida bem macia por dentro, está pronto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LARISSA ESTHER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303083-costela-assada-superfacil.html"
+}

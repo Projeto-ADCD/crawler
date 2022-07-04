@@ -1,0 +1,45 @@
+{
+  "nome_receita": "BOLO NUTRITIVO DE BANANA CARAMELADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "4 ovos",
+      "3/4 de xícara de óleo",
+      "3/4 de xícara de leite",
+      "1 colher (sopa) de canela em pó",
+      "3 xícaras de farinha de trigo",
+      "1 xícara e 1/2 de açúcar",
+      "1 pitada de sal",
+      "1 colher (sopa) de mix de sementes e grãos pra salada ",
+      "1 colher (sopa) de sementes de chia",
+      "2 colheres (sopa) de uvas passas",
+      "1 colher (sopa) de fermento em pó",
+      "CARAMELO",
+      "2 xícaras de açúcar",
+      "1/2 xícara de água",
+      "1 colher cheia de manteiga",
+      "12 bananas nanicas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "inicie separando a assadeira de tamanho 24cm x 34cm x 4cm ou similar.",
+      "Preaqueça o forno a 180° C",
+      "Prepare primeiramente o caramelo levando o açúcar ate derreter e ganhar cor de mel.",
+      "Acrescente a manteiga e a água e deixe ferver ate desmanchar e ganhar consistência de mel.",
+      "Despeje na assadeira ainda quente e espalhe. Não precisa untar.",
+      "Forre a assadeira com as bananas cortadas ao meio em tiras, se precisar coloque mais bananas ou corte pedaços menores para preencher os espaços.",
+      "Prepare a massa batendo no liquidificador os ovos, óleo, leite e açúcar",
+      "Despeje numa tigela e acrescente todos os demais ingredientes, por ultimo o fermento.",
+      "Coloque a massa sobre as bananas e leve ao forno.",
+      "Asse até dourar, cerca de 50 minutos a 1 hora de forno.",
+      "Passe uma faca nas bordas do bolo para soltar da lateral da assadeira",
+      "Desvire o bolo numa travessa quando ainda estiver quente para se soltar com facilidade.",
+      "Coma quente ou gelado."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "36 PORÇÕES",
+  "autor": "LUDMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304940-bolo-nutritivo-de-banana-caramelada.html"
+}

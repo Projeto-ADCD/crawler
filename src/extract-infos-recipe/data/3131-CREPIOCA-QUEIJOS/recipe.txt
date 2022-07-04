@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CREPIOCA 3 QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos ",
+      "3 colheres de farinha de tapioca",
+      "6 tomates cereja ",
+      "2 fatias de queijo mussarela Président",
+      "2 fatias de queijo provolone Président",
+      "2 fatias de queijo parmesão Président",
+      "4 colheres de palmito picado",
+      "5 folhas de manjericão ",
+      "1 pitada de sal",
+      "cheiro-verde a vontade "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o sal e a farinha de tapioca",
+      "Em seguida, acrescente os tomates cortados em cubos, o palmito e os 3 queijos picados em cubinhos, o cheiro-verde e o manjericão picados",
+      "Mexa delicadamente",
+      "Despeje uma concha da mistura em frigideira de teflon, sem untar",
+      "Em fogo médio, deixe dourar de um lado e vire com uma espátula de silicone, espere dourar o outro lado e sirva ainda quente",
+      "Em seguida, continue preparando as demais",
+      "Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Sônia Aparecida Batista\nDica: coloque a crepioca enrolada como se fosse uma panqueca, decore com algumas folhas de manjericão. Essa receita é uma ótima opção de café da manhã, pois além de saborosa, é super saudável e nutritiva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303837-crepioca-3-queijos.html"
+}

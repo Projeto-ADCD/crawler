@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GELATINA CREMOSA HOMOGÊNEA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gelatina de qualquer sabor",
+      "500 ml de leite",
+      "1 creme de leite de caixinha",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe 250 ml de leite, aqueça e dissolva a gelatina.",
+      "Depois de dissolver a gelatina no leite quente, junte os 250 ml de leite frio ou em temperatura ambiente e mexa bem.",
+      "Coloque a mistura de gelatina no liquidificador, coloque o creme de leite e bata 1 minuto.",
+      "Coloque o leite condensado a gosto, vá experimentando até ficar no seu gosto o doce.",
+      "Bata bem no liquidificador, cerca de 3 minutos",
+      "Coloque num recipiente com tampa, ou coloque um plástico filme caso a vasilha não tenha tampa.",
+      "Deixe gelar por 4 horas.",
+      "E faça bom proveito.",
+      "Fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "WALMA CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304262-gelatina-cremosa-homogenea.html"
+}

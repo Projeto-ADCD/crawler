@@ -1,0 +1,35 @@
+{
+  "nome_receita": "EMPADINHA ABERTA ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 gemas",
+      "3 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de gordura vegetal",
+      "sal a gosto",
+      "3 colheres (sopa) de queijo parmesão ralado (opcional)",
+      "farinha de trigo até a massa soltar das mãos",
+      "Recheio",
+      "1 lata de leite condensado",
+      "150 g de queijo muçarela ralado",
+      "30 pedacinhos de goiabada ",
+      "gotas de limão a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture tudo e coloque farinha de trigo até soltar das mãos",
+      "Faça uma bola, cubra com papel-filme e coloque na geladeira por 30 minutos",
+      "Depois, forre forminhas de empada com a massa e coloque o recheio.",
+      "Recheio",
+      "Misture o leite condensado com o queijo e as gotas de limão",
+      "Coloque um pedacinho de doce",
+      "Leve ao forno preaquecido a 180° C por 20 minutos ou até dourar o recheio"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "AYSE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302818-empadinha-aberta-romeu-e-julieta.html"
+}

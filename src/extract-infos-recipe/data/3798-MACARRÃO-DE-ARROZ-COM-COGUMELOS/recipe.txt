@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO DE ARROZ COM COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão de arroz japonês (500 g)",
+      "250 g de cogumelos (de qualquer tipo)",
+      "100 g de amendoim torrado",
+      "3 dentes de alho",
+      "200 ml de molho shoyu",
+      "2 colheres de manteiga",
+      "sal e pimenta a gosto",
+      "cebolinha e gergelim para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, ferva a água e cozinhe o macarrão (entre 5 e 8 minutos).",
+      "Reserve um pouco da água do cozimento.",
+      "Corte os cogumelos em lâminas e pique o alho em pedaços pequenos.",
+      "Em uma frigideira ou wok, aqueça a manteiga e doure o alho.",
+      "Acrescente os cogumelos e refogue por aproximadamente 4 minutos.",
+      "Os cogumelos irão soltar água, que é necessária para o cozimento.",
+      "Quando os cogumelos estiverem cozidos, acrescente o molho shoyu e o amendoim.",
+      "Para suavizar o sal do molho shoyu, acrescente um pouco da água do cozimento.",
+      "Acrescente sal e pimenta a gosto.",
+      "Misture o macarrão ao molho.",
+      "Decore com cebolinha e sementes de gergelim."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: se achar que continua muito salgado, coloque uma pitada de açúcar para equilibrar o sabor."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "INÊS REIS ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302664-macarrao-de-arroz-com-cogumelos.html"
+}

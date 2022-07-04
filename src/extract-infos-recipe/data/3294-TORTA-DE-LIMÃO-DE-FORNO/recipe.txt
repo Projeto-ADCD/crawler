@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TORTA DE LIMÃO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito de maisena",
+      "2 claras",
+      "1 colher de manteiga",
+      "suco de 5 limões espremidos ",
+      "2 leites condesados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o biscoito de maisena no liquidificador, deixe em farelos e depois misture com a manteiga até criar uma pasta",
+      "Pegue o leite condesado e misture com o suco de limão e ponha na geladeira",
+      "Depois cubra toda a forma com a pasta de maizena até fazer tipo uma capa e jogue o mousse de limão por cima",
+      "E por último, bata as claras em neve e jogue por cima ate deixar tudo branco",
+      "Coloque no forno, deixe por uns 15 minutos dependo do forno, depois coloque na geladeira por algumas horas até servir "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JÚLIA ALVARENGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303597-torta-de-limao-de-forno.html"
+}

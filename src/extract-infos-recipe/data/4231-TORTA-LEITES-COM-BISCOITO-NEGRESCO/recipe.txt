@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA 4 LEITES COM BISCOITO NEGRESCO",
+  "ingredientes": {
+    "PARA O CREME:": [
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 vidro de leite",
+      "1 vidro de leite de coco",
+      "1 colher de sopa de maizena ou farinha de trigo",
+      "1 pacote de bolacha negresco eclipse ou tradicional"
+    ],
+    "PARA A COBERTURA:": [
+      "1 caixinha de creme de leite",
+      "1 barra de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve as bolchas.",
+      "Dissolva o amido de milho no leite.",
+      "Leve-o com todos os outros ingredientes do creme ao fogo baixo mexendo sempre até engrossar e formar um creme parecido com mingau.",
+      "Deixe esfriar um pouco.",
+      "Quebre as bolachas em mais ou menos 4 pedaços e junte ao creme.",
+      "Misture com delicadeza p não desmanchar as bolachas.",
+      "Coloque em uma travessa."
+    ],
+    "PARA A COBERTURA:": [
+      "Junte o creme de leite com o chocolate e leve ao microondas mexendo bem de 30 em 30 segundos até formar uma ganache.",
+      "Cubra o creme com a ganache e leve a geladeira por pelo menos 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TALITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301540-torta-4-leites-com-biscoito-negresco.html"
+}

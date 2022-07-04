@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOSAICO DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 gelatina incolor",
+      "6 sabores de gelatina diferentes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare as 6 gelatina separadamente e leve para gelar.",
+      "Quando estiver pronta corte em cubos.",
+      "Coloque no liquidificador o leite condensado o creme de leite e bata.",
+      "Prepare a gelatina incolor como diz na embalagem.",
+      "Enquanto bate as coisa no liquidificador adicione a gelatina incolor junto e bata até atingir uma consistência homogênea.",
+      "Em uma bacia coloque os cubos das gelatinas sortidos e coloque o creme por cima e leve a geladeira por 5 horas, depois e só servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "TAÍSA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301128-mosaico-de-gelatina.html"
+}

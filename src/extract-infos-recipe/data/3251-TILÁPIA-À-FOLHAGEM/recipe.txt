@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TILÁPIA À FOLHAGEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tilápia grande",
+      "temperos a gosto ",
+      "3 colheres de vinagre (para o tempero)",
+      "100 g de bacon ",
+      "1 pacote de farofa yoki de sua preferência",
+      "1 lata de milho",
+      "100 g de calabresa",
+      "1 colher de óleo ",
+      "salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça dois cortes em ambos os lados do peixe, tempere a gosto com seu tempero predileto e coloque um pouco de vinagre, reserve",
+      "Frite com um pouco de óleo, o bacon, a calabresa, e o milho",
+      "Depois de fritos misture a farofa.",
+      "Depois de feita a farofa, coloque a salsinha picada e introduza na tilápia já temperada.",
+      "Enrole-a em uma folha de bananeira ou no papel-alumínio",
+      "Asse a tilápia até estar dourada e macia (no forno ou na churrasqueira)",
+      "Bom apetite "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Regiane Cládio Rodrigues de Paula\nNão se esqueça:\n1 folha de bananeira ou papel-alumínio \ncarvão ou assar ao forno"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303660-tilapia-a-folhagem.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTELLONI COM MOLHO CREMOSO DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de tortelloni ou outra massa de preferência",
+      "1 xícara de leite",
+      "2 colheres pequenas de alho triturado (+- 4 dentes)",
+      "1 colher (sopa) de farinha de trigo",
+      "1/3 de xícara de manteiga com sal",
+      "orégano, salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o tortelloni conforme a embalagem e reserve",
+      "Derreta a manteiga em fogo médio",
+      "Acrescente o alho e frite por no maximo 1 minuto para nao amargar",
+      "Acrescente a farinha e mexa por 2 minutos com um ofue oara nao empelotar",
+      "Acrescente o leite e as ervas a gosto e continue misturando ate engrossar",
+      "Coloque sobre a massa"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VANESSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299827-tortelloni-com-molho-cremoso-de-alho.html"
+}

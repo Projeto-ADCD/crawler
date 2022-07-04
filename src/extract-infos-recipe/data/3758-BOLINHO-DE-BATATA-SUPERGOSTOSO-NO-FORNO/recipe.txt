@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLINHO DE BATATA SUPERGOSTOSO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas grandes amassadas",
+      "1 ovo inteiro",
+      "sal a gosto",
+      "tempero de alho e cebola em pasta a gosto (opcional)",
+      "1 pacote de queijo ralado de sua preferência (40 g)",
+      "1 colher (café) de fermento em pó",
+      "2 colheres (sopa) cheias de farinha de trigo",
+      "recheio de sua preferência (eu usei aneis de presunto e queijo fatiados)",
+      "manteiga derretida para untar (usei manteiga pura porque dá um sabor diferente nos bolinhos, mas você pode usar outros produtos para untar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas, escorra e amasse com um garfo",
+      "Junte os outros ingredientes e misture bem para incorporar",
+      "Com a mão levemente enfarinhada, abra porções da massa (1 colher cheia) coloque o recheio e com a ajuda de outra colher, também levemente enfarinhada, enrole a massa moldando o seu bolinho",
+      "Passe os bolinhos levemente por farinha de trigo para empanar e adicione na forma untada com manteiga derretida, envolvendo cada bolinho na manteiga.",
+      "Deixe no forno preaquecido na temperatura de 200° C por aproximadamente 30 minutos, virando os bolinhos na metade do tempo para assar por inteiro",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: ajeitar os bolinhos com espaço entre eles, porque irão expandir pelo uso do fermento"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302766-bolinho-de-batata-supergostoso-no-forno.html"
+}

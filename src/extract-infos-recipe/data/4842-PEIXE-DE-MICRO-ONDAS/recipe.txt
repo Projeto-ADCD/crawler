@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PEIXE DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 filés de peixe \"Saint Peter\" (500 g)",
+      "1 sachê de caldo de camarão",
+      "1 colher (sopa) de azeite de oliva",
+      "1 cebola pequena cortada em rodelas (100 g)",
+      "1/2 pimentão verde pequeno picado (50 g)",
+      "1/2 xícara de polpa de tomate (100 g)",
+      "2 colheres (sopa) de salsa picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário médio, coloque o peixe e faça cortes superficiais nos filés, sem cortá-los até o fim.",
+      "Polvilhe com o caldo e junte o azeite, a cebola, o pimentão e a polpa de tomate.",
+      "Cubra com filme plástico, fazendo alguns furos para a saída do ar e leve ao micro-ondas, em potência média por 8 minutos.",
+      "Retire do micro-ondas, salpique a salsa e sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se desejar, sirva acompanhado de purê de batata ou arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JULIA KAIZER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300118-peixe-de-micro-ondas.html"
+}

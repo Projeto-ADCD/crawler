@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE LEITE ADOCICADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "8 ovos inteiros",
+      "1 colher rasa de sal",
+      "0,5 g de fermento de padaria",
+      "200 gramas de açucar",
+      "2 colheres de manteiga vegetal",
+      "1 xícara de óleo vegetal",
+      "Trigo até chegar ao ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte no liquidificador o óleo o açúcar e os ovos e manteiga. Bata muito bem.",
+      "Em uma bacia, coloque a outra metade do leite morno com o fermento e misture bem e acrescente a mistura do liquidificador. Mexa bem.",
+      "Vá colocando o trigo e o sal aos poucos até dar o ponto.",
+      "Deixe a massa descansar e crescer por uma hora.",
+      "Divida a massa em partes iguais de 650 a 700 gramas e cilindre até a massa ficar lisinha então emrole os pães e deixe crescer novamente e então coloque pra assar em forno aquecido."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não ultrapasse 150º no forno industrial"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DIVANETE GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301271-pao-de-leite-adocicado.html"
+}

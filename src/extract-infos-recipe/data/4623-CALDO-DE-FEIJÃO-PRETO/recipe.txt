@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CALDO DE FEIJÃO-PRETO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão-preto",
+      "1/2 pimenta-de-cheiro picada, sem sementes",
+      "1/2 cebola branca pequena picada",
+      "2 linguiças defumadas, picadas em cubos pequenos",
+      "5 dentes médios de alho batidos com sal",
+      "Salsinha e cebolinha picadas",
+      "1 colher de sopa azeite de oliva extra-virgem"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão de molho de um dia para o outro.",
+      "Escorra toda a água.",
+      "Coloque para cozinhar em uma panela funda, com água ultrapassando os grãos em cerca de três dedos.",
+      "Retire com uma concha toda a espuma que for se formando.",
+      "À medida que a água for secando, reponha com mais e continue retirando a espuma até que o feijão esteja macio.",
+      "Junte o alho batido e a pimenta de cheiro.",
+      "Deixe cozinhar mais um pouco para engrossar o caldo.",
+      "Após, reserve uma caneca do feijão inteiro cozinho e bata o restante no liquidificador.",
+      "Refogue a cebola e os cubos de linguiça no azeite.",
+      "Deixe que a cebola e linguiça deem uma leve fritada.",
+      "Junte o feijão batido e o inteiro.",
+      "Deixe engrossar um pouco.",
+      "Se quiser, enfeite com salsinha e cebolinha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa receita é boa para pessoas que sofrem de desconforto ao consumir feijão. Aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TICIANE DRUMMOND FRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300708-caldo-de-feijao-preto.html"
+}

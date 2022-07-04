@@ -1,0 +1,28 @@
+{
+  "nome_receita": "LIMONADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de agua",
+      "2 limões",
+      "açúcar (quantidade que quiser mas nao coloque muito acucar)",
+      "6 gelos",
+      "se quiser, pode cortar limões em rodelas para colocar em sua limonada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater 1 limão com caaca bem lavado junto com a água no liquidificador",
+      "Bata por 5 segundos no liquidificador",
+      "Coe seu suco em uma peneira",
+      "Adicione o açúcar (pode ser a quantidade que quiser de açúcar)",
+      "Adicione gelo a gosto",
+      "Adicione fatias de limão a gosto",
+      "Mexa seu suco até ele ficar geladinho e com o açúcar bem espalhado",
+      "Importante: esse suco é para tomar na hora porque se nao ele fica quente ou pode amargar"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PROVAZI BR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305819-limonada.html"
+}

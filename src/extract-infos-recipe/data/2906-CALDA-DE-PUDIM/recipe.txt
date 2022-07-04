@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CALDA DE PUDIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque todo o açúcar e leve ao fogo médio.",
+      "Mexa até o açúcar derreter completamente.",
+      "OBS: oaçúcar começa endurecer e ficar pegajoso, mas basta mexer que vai derreter.",
+      "Depois que o açúcar derreter, baixe o fogo e adicione a água aos poucos.",
+      "Nesse momento você deve mexer sem parar.",
+      "Quando o açúcar que endureceu derreter, retire do fogo e transfira para uma tigela.",
+      "Nessa hora a calda vai estar bem líquida, então basta esperar esfriar por cerca de 30 minutos e ela estará bem cremosa.",
+      "Em seguida basta usar sua calda como preferir.",
+      "Guarde na geladeira, num recipiente fechado por até 15 dias."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MAYCON REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304170-calda-de-pudim.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CUPCAKE TRADICIONAL DE MICROONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "2 ovos inteiros",
+      "1 xícara de azeite de oliva",
+      "1 pacote (400g) de mistura para bolo de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite, o azeite e os ovos por cerca de 3 minutos em velocidade máxima.",
+      "Em seguida, despeje em uma tigela os ingredientes batidos e vá acrescentando a mistura para bolo (todo o conteúdo) misture bem até que a massa fique totalmente macia.",
+      "Encaixe a forminha de papel na forma de silicone, encha as forminhas até a metade e leve ao micro-ondas por 2 minutos. Retire e faça o teste com o palito.",
+      "Decore conforme sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ROZICLEIA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302088-cupcake-tradicional-de-microondas.html"
+}

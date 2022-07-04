@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LAMBE DEDO DA VÓ PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "3 colheres de margarina",
+      "1/2 xícara de açúcar",
+      "1 colher de fermento em pó",
+      "farinha até desgrudar da mão",
+      "óleo para fritar",
+      "açúcar e canela para polvilhar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, ponha os ovos e, em seguida, a margarina e o açúcar. Misture bem.",
+      "Adicione o fermento em pó e mexe só para misturar.",
+      "Após isso, ponha a farinha aos poucos e vá sovando até que dê um ponto em que a massa não grude e esteja soltando das mãos.",
+      "Reserve a massa.",
+      "Ponha na frigideira óleo o suficiente, como se fosse fritar pastel.",
+      "Deixa o óleo esquentando e volte para massa.",
+      "Pegue a massa e comece a fazer roscas médias e, com o óleo já quente, ponha para fritar.",
+      "Quando corarem, vire para corar o outro lado. O óleo não deve estar muito quente para não queimá-las.",
+      "Quando já estiver frita, tire e ponha no açúcar com canela."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "JULIANA VINGLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300803-lambe-dedo-da-vo-preta.html"
+}

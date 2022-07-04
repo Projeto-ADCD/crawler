@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PETIT GÂTEAU DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de creme de leite fresco",
+      "200 g de chocolate meio amargo",
+      "3 cenouras ",
+      "1 litro de água",
+      "250 g de açúcar",
+      "200 g de manteiga sem sal",
+      "3 ovos",
+      "250 g de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione o creme de leite fresco e o chocolate meio amargo. ",
+      "Mexa bem até derreter todo o chocolate. ",
+      "Reserve na geladeira até endurecer.",
+      "Em outra panela, adicione a cenoura e a água e deixe cozinhar. ",
+      "Transfira a cenoura para um liquidificador e bata bem. ",
+      "Acrescente um pouco de água se precisar. ",
+      "Reserve na geladeira. ",
+      "Em uma batedeira, misture o açúcar e a manteiga.",
+      "Bata bem. ",
+      "Adicione o ovo e bata por 3 minutos. ",
+      "Acrescente a cenoura reservada. ",
+      "Adicione a farinha de trigo peneirada e o fermento em pó. ",
+      "Misture bem até formar uma massa homogênea. ",
+      "Pegue um pouco da massa e coloque nas forminhas de empada. ",
+      "Retire o recheio da geladeira e coloque um pouco sobre a massa. ",
+      "Preencha com mais um pouco da massa.",
+      "Leve ao forno preaquecido (180° C) por cerca de 25 minutos. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303186-petit-gateau-de-cenoura.html"
+}

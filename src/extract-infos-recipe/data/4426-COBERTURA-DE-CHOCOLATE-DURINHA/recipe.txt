@@ -1,0 +1,22 @@
+{
+  "nome_receita": "COBERTURA DE CHOCOLATE DURINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 colheres de açúcar",
+      "8 colheres de achocolatado",
+      "2 colheres de margarina",
+      "4 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes na panela.",
+      "Leve ao fogo baixo por aproximadamente 10 minutos, até ferver e que fique com a consistência grossa.",
+      "Retire do fogo e jogue por cima do bolo e deixe esfriar para ficar durinha e crocante."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301156-cobertura-de-chocolate-durinha.html"
+}

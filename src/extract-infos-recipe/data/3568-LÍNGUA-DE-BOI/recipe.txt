@@ -1,0 +1,33 @@
+{
+  "nome_receita": "LÍNGUA DE BOI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 língua de boi",
+      "sal",
+      "pimenta e tempero a gosto",
+      "3 tomates maduros cortados",
+      "1 cebola picada",
+      "1 colher (sobremesa) de corante",
+      "3 folhas de louro",
+      "azeite a gosto",
+      "1 colher de manteiga",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água língua o louro e o tempero na panela de pressão por 45min",
+      "Retire a língua coloque em uma vasilha com água gelada, ela irá soltar a aquela \"casca\" externa com muita facilidade",
+      "Após retirar a casca corte a língua em tiras de 1 cm",
+      "Em uma panela com tampa refogue a cebola com o azeite e a manteiga",
+      "Adicione o tomate picado e coloque 6 conchas do caldo da lingua (que está na panela de pressão) coloque o corante, adicione a língua já cortada e deixe por 25 minutos em fogo baixo",
+      "Se necessário coloque mais sal a gosto",
+      "Assim que o caldo reduzir estará pronto",
+      "Sirva com pão francês cortado"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303121-lingua-de-boi.html"
+}

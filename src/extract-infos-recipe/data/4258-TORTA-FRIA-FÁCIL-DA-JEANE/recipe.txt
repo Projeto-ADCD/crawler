@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTA FRIA FÁCIL DA JEANE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de pão de forma sem casca",
+      "2 latas de atum escorrido",
+      "1 xícara (chá) de maionese",
+      "1 colher (chá) de mostarda",
+      "1 xícara de cenoura ralada",
+      "100 g de tomate seco picado",
+      "sal e salsinha a gosto ",
+      "maionese e batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misturar o atum, a maionese, a mostarda, a cenoura, o tomate seco, o sal e a salsinha",
+      "Monte em uma forma de vidro ou prato, em camadas com pão de forma ",
+      "Cubra com a maionese e batata palha",
+      "Leve à geladeira por 30 minutos",
+      "Depois é só servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JEANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301505-torta-fria-facil-da-jeane.html"
+}

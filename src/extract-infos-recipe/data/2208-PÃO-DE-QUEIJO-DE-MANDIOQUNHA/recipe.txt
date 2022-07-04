@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE MANDIOQUNHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de purê de mandioquinha",
+      "3/4 de xícara (chá) de polvilho azedo",
+      "1/2 xícara (chá) de polvilho doce",
+      "1/2 xícara (chá) de parmesão ralado",
+      "3 colheres (sopa) de azeite de oliva",
+      "1 colher (sopa) de chia",
+      "1 colher (chá) de sal rosa/ normal",
+      "1/4 de colher (chá) de cúrcuma/açafrão (opcional)",
+      "água filtrada para dar o pronto se necessário"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes e faça bolinhas",
+      "Leve para assar no forno preaquecido a 180° C por 25 a 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "JEH VIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305711-pao-de-queijo-de-mandioqunha.html"
+}

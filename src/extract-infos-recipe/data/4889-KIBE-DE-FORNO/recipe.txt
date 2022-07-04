@@ -1,0 +1,34 @@
+{
+  "nome_receita": "KIBE DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara (chá) de trigo para quibe",
+      "3 xícara (chá) água quente",
+      "1 tomate sem semente",
+      "1/2 cebola grande ou 1 pequena",
+      "2 dentes de alho",
+      "folhas de hortelã (aproximadamente 1/2 xícara)",
+      "2 colheres (sopa) salsinha",
+      "1/2 de colher (sopa) de sal",
+      "pitada de canela",
+      "pimenta-do-reino a gosto",
+      "azeite a gosto (usei aproximadamente 50 ml)",
+      "500 g de carne moída (usei patinho, mas pode ser qualquer carne)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o trigo de molho na água quente e deixe descansar por 30 minutos.",
+      "Pique miudinho ou use um processador para triturar todos os demais ingredientes (menos a carne).",
+      "Misture esse tempero que foi processado com a carne moída.",
+      "Escorra bem o trigo: você pode usar uma peneira e ir pressionando, enrolar em um pano limpo e torcer ou apertar com as mãos mesmo, o importante é ficar bem sequinho.",
+      "Junte o trigo com a carne e o tempero e misture bem.",
+      "Unte um refratário com azeite espalhe o quibe e leve ao forno preaquecido a 200º C por aproximadamente 35 minutos.",
+      "Rende 6 porções bem generosas ou 8 “de restaurante”."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISLAINE SAMPAIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300009-kibe-de-forno.html"
+}

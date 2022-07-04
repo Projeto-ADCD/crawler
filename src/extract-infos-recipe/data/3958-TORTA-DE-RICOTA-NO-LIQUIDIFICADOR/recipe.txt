@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE RICOTA NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite",
+      "4 ovos",
+      "1/2 xícara (chá) de azeite",
+      "1 xícara (chá) de farinha de trigo",
+      "500 g de ricota",
+      "1 colher (café) de fermento",
+      "pimenta do reino a gosto",
+      "sal a gosto",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes no copo do liquidificador e bata por 5 minutos até ficar homogênea.",
+      "Unte uma forma redonda com fundo removível com farinha e manteiga.",
+      "Despeja a massa em uma camada pela metade da forma.",
+      "Coloque o recheio de sua preferência (linguiça picada, frango, etc)",
+      "Cubra o recheio com o restante da massa.",
+      "Espalhe com uma colher e leve ao forno preaquecido a 180º por 40 minutos.",
+      "Quando estiver dourado, retire e deixe esfriar um pouco e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CLAUDIO MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302296-torta-de-ricota-no-liquidificador.html"
+}

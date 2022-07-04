@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO DE MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de leite",
+      "1 colher (chá) de farinha de trigo",
+      "sal a gosto",
+      "1 creme de leite",
+      "macarrão de sua preferência",
+      "1 colher de manteiga",
+      "1/2 cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão",
+      "Em uma panela doure a cebola na manteiga",
+      "Após dourar a cebola, acrescente o leite, o trigo e o sal",
+      "Misture bem até ferver",
+      "Após ferver, acrescente o creme de leite e deixe no fogo baixo até formar um creme",
+      "Em um recipiente, despeje o macarrão, depois o molho e misture"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIA LUÍSA DOERNER CAVALHEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305491-macarrao-de-molho-branco.html"
+}

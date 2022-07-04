@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PICOLÉ/SORVETE DE LEITE NINHO NO COPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de água fervente",
+      "1 copo de leite em pó",
+      "1/2 copo de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture todos os ingredientes até ficar um líquido um pouquinho cremoso",
+      "Depois disso despeje em copinhos descartáveis",
+      "Coloque no congelador",
+      "Depois de congelado é só saborear."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "EDUARDA ZANOTELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304423-picole-barra-sorvete-de-leite-ninho-no-copo.html"
+}

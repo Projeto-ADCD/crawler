@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MAXIXE DO PARÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maxixe do Pará",
+      "2 tomates",
+      "1 cebola média",
+      "coentro",
+      "2 dentes de alho",
+      "1 caldo de carne",
+      "1 colher (chá) de colorifico",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o maxixe do Pará com água e sal. Logo em seguida, escorra e reserve.",
+      "Refogue o alho, a cebola, o tomate ,o caldo de carne e o coentro e o colorifico.",
+      "Em seguida, acrescente o maxixe do Pará.",
+      "Refogue tudo em fogo baixo de 7 a 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISAEL ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300366-maxixe-do-para.html"
+}

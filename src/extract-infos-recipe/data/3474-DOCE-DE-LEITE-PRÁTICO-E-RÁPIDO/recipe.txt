@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DOCE DE LEITE PRÁTICO E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para fazer em uma bacia (maior quantidade para mais pessoas):",
+      "1 litro de água",
+      "2 copos de açúcar",
+      "2 copos de leite em pó",
+      "Para fazer porções menores no copo: ",
+      "500 ml de água",
+      "100 ml de açúcar",
+      "200 ml de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloca todos os ingredientes na bacia ou no copo e misture",
+      "No copo fica misturando até virar uma camada cremosa",
+      "Na bacia coloca tudo, mistura até virar uma bola",
+      "Quando chegar no ponto, faça em formato de cocada ou bolinho, é de acordo com sua preferência",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MICHELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303287-doce-de-leite-pratico-e-rapido.html"
+}

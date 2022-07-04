@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE MILHO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata ou pacote de milho verde",
+      "2 xícaras de flocão de milho",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de óleo",
+      "1 pitada de sal",
+      "1 pedaço de queijo",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador (menos o fermento e o queijo)",
+      "Se a mistura estiver muito grossa, adicione 1 xícara de leite",
+      "Depois adicione o fermento, unte uma forma com óleo e farinha de trigo",
+      "Coloque toda a mistura, corte os pedaços de queijo e adicione na mistura",
+      "Leve ao forno",
+      "Depois de assado, desgrude da forma e desenforme",
+      "Corte ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRENNDA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305504-bolo-de-milho-com-queijo.html"
+}

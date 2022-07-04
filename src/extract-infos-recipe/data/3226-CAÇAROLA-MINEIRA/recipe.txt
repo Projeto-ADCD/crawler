@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CAÇAROLA MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litros de leite",
+      "4 colheres cheias de manteiga ",
+      "9 colheres de trigo sem fermento",
+      "5 ovos ",
+      "1/2 xícara de açúcar ",
+      "2 colheres de queijo parmesão Président ralado ou flocado",
+      "2 colheres de coco em flocos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes no liquidificador (exceto o coco e o queijo)",
+      "Unte uma forma grande e despeje o líquido na forma",
+      "Salpique o coco e o queijo por cima",
+      "Prqaqueça o forno a 180ºC e deixe assar lentamente",
+      "Deixe corar, retire do forno e deixe esfriar",
+      "Sirva em temperatura ambiente ou resfriada"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Aline Costa "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303703-cacarola-mineira.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ENTRADA DE BERINJELA E REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela média",
+      "2 cebolas médias",
+      "1/4 de repolho tamanho médio",
+      "4 batatas médias",
+      "2 colheres (sopa) de manteiga",
+      "4 colheres (sopa) de shoyu",
+      "1 gema",
+      "1 colherinha (café) de noz-moscada ralada",
+      "50 g de queijo parmesão ralado",
+      "azeite",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o reponho em fatias finas e reserve.",
+      "Corte as cebolas em fatias, cuide para não desmanchar a cebola, reserve.",
+      "Corte a berinjela em fatias da grossura de um dedo e coloque-as em um recipiente com água e sal, para tirar o gosto amargo, reserve.",
+      "Em uma panela média, coloque 2 colheres (sopa) de azeite e refogue o repolho até amolecer e começar a dourar.",
+      "Tempere o refogado de repolho com sal e 2 colheres (sopa) de shoyu, reserve.",
+      "Tempere as fatias de berinjela e as fatias de cebola com azeite, sal, pimenta e shoyu.",
+      "Coloque em uma forma untada e leve ao forno por uns 20 minutos ou até começarem a ficarem douradas, reserve.",
+      "Cozinhe as batatas com água e sal.",
+      "Passe as batatas cozidas, ainda quentes, por um espremedor de batata, acrescente a manteiga e a gema e misture tudo muito bem.",
+      "Tempere o purê com sal, noz-moscada e pimenta, reserve.",
+      "Em recipientes individuais, que possam ir ao forno, untados com azeite, coloque uma porção do refogado de repolho, por cima uma fatia de berinjela e outra de cebola.",
+      "Em um saco de confeitar, coloque o purê de batata e cubra a fatia de cebola e polvilhe queijo parmesão ralado por cima.",
+      "Leve os recipientes ao forno preaquecido a 200º C por uns 15 minutos ou até gratinar.",
+      "Sirva como entrada em uma refeição"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301070-entrada-de-berinjela-e-repolho.html"
+}

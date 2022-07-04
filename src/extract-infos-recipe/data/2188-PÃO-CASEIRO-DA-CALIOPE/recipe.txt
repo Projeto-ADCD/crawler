@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO CASEIRO DA CALIOPE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de água morna (americano) bem cheios (250 ml)",
+      "1 copo de óleo de soja (americano) meio cheio (100 ml)",
+      "1 colher (sopa) de sal rasa",
+      "2 colheres (sopa) açúcar bem cheias",
+      "1/2 cebola média",
+      "30 gramas de fermento biológico seco instantâneo",
+      "1 kg de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a água, o óleo de soja, o sal, o açúcar, a cebola e o fermento até formar a largura de 1 dedo de espuma",
+      "Misture ao trigo e amasse bem até ficar uma massa homogênea e não grudar mais nas mãos.",
+      "Reserve por 20 minutos",
+      "Abra com um rolo de macarrão e coloque o recheio de sua preferência (presunto e queijo, calabresa ou carne moída)",
+      "Leve ao forno a 200° C por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LIANA BARRETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305755-pao-caseiro-da-caliope.html"
+}

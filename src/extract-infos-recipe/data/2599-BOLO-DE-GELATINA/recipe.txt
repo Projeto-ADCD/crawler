@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de açúcar",
+      "3 xícaras de farinha de trigo",
+      "1 pacote de gelatina de amora",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela acrescente todos os ingredientes menos o fermento em pó",
+      "Unte a forma com manteiga, depois acrescente o fermento em pó",
+      "Asse o bolo a 200° C e depois de estar pronto, espere esfriar e desenforme ele frio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MIGUEL IBING CESAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304845-bolo-de-gelatina.html"
+}

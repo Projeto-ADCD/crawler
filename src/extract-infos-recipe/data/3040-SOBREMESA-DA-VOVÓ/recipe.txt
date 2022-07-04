@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SOBREMESA DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "360 g de açúcar refinado",
+      "3 colheres bem cheia de margarina",
+      "2 latinhas creme de leite (200 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira a margarina e o açúcar",
+      "Acrescente aos poucos o creme de leite e continue batendo até que vire um creme espesso.",
+      "Leve o creme ao congelador.",
+      "No dia seguinte já está pronto para servir.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: a receita demora mais ou menos meia hora para ficar pronta."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303965-sobremesa-da-vovo.html"
+}

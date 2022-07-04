@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CRI CRI DE LEITE CONDENSADO, AMENDOIM E NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 gramas amendoim",
+      "1 xícara nozes picadas",
+      "1 lata leite condensado",
+      "1 xícara açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela ao fogo",
+      "Mexa até secar todo o açúcar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VINICIUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301108-cri-cri-de-leite-condensado-amendoim-e-nozes.html"
+}

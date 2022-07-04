@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CHURROS RECHEADO DE LEITE NINHO",
+  "ingredientes": {
+    "MASSA:": [
+      "250 ml de água",
+      "2 colheres (chá) de açúcar",
+      "2 colheres (sopa) de óleo",
+      "1 xícara de farinha de trigo",
+      "2 ovos"
+    ],
+    "RECHEIO:": [
+      "2 gemas ",
+      "1 lata de leite condensado",
+      "100 g de creme de leite",
+      "50 g de leite ninho"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em uma panela, adicione a água, o açúcar e o óleo.",
+      "Misture bem e deixe ferver. ",
+      "Após ferver, desligue o fogo.",
+      "Acrescente a farinha de trigo e me bem até formar uma massa homogênea. ",
+      "Adicione os ovos e mexa bem até a massa ficar lisa. ",
+      "Coloque a massa em um bico de confeiteiro.",
+      "Molde os churros em uma assadeira e leve ao congelador por 45 minutos. ",
+      "Frite os churros em óleo aquecido de 80°C a 180°C."
+    ],
+    "RECHEIO:": [
+      "Em uma panela, acrescente as gemas, o leite condensado, o creme de leite e o leite ninho. ",
+      "Mexa bem até ponto de brigadeiro mole."
+    ],
+    "MONTAGEM:": [
+      "Fure os churros com um canudo para criar espaço para o recheio. ",
+      "Passe numa misture de leite ninho com açúcar. ",
+      "Com o auxílio do bico de confeiteiro, recheie os churros. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303470-churros-recheado-de-leite-ninho.html"
+}

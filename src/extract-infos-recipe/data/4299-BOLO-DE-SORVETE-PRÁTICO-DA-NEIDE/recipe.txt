@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BOLO DE SORVETE PRÁTICO DA NEIDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "5 colheres de chocolate em pó",
+      "7 colheres de leite",
+      "Creme 1",
+      "4 gemas",
+      "1 lata de leite condensado",
+      "2 latas de leite comum",
+      "Creme 2",
+      "4 claras",
+      "1 lata de creme de leite",
+      "5 colheres de açúcar",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Coloque na panela, o chocolate em pó e o leite e misture até dissolver o chocolate",
+      "Leve ao fogo (pode colocar um pouco de açúcar como se fosse fazer caramelo)",
+      "Depois, pegue a calda e coloque em uma forma, untando fundo e lateral, reserve",
+      "Creme 1",
+      "Coloque as gemas, o leite condensado e o leite no liquidificador.",
+      "Bata até misturar bem.",
+      "Coloque a mistura na panela e leve ao fogo.",
+      "Mexa até virar um mingau.",
+      "Deve ser mexido até engrossar (é importante que não borbulhe, senão o bolo não fica cremoso).",
+      "Logo depois coloque a panela em uma bandeja com água fria para esfriar o creme.",
+      "Creme 2",
+      "Coloque a clara na batedeira e bata até virar neve.",
+      "Adicione o creme de leite e o açúcar e bata de novo até misturar bem.",
+      "Adicione o creme 1 e bata de novo até ficar bem misturado.",
+      "Coloque a mistura lentamente na forma caramelizada com a calda de chocolate",
+      "Leve ao freezer e deixe por mais ou menos 24 horas até virar um sorvete.",
+      "Depois de descansar no freezer desenforme o bolo e este estará pronto para comer.",
+      "Bom apetite! Delicioso!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NEIDE RACHEL MACHADO ORNELAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301414-bolo-de-sorvete-pratico-da-neide.html"
+}

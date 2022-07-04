@@ -1,0 +1,60 @@
+{
+  "nome_receita": "BALA DE BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bala tradicional ",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de glucose de milho ",
+      "3 colheres (sopa) de chocolate em pó ",
+      "50 g de chocolate ao leite ou meio amargo fracionado",
+      "açúcar refinado (para empanar)",
+      "Bala de brigadeiro de leite em pó",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de glucose de milho",
+      "1/4 de xícara de leite em pó",
+      "50 g de chocolate branco picado fracionado ",
+      "leite em pó (para empanar)",
+      "Bala de brigadeiro de morango",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de glucose de milho",
+      "1/2 pacote de gelatina de morango ",
+      "1/4 de xícara de água fervente ",
+      "1 colher (sopa) de glucose de milho",
+      "açúcar refinado (para empanar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bala tradicional",
+      "Em uma panela, misture o leite condensado, a margarina, o chocolate em pó e o chocolate em barra",
+      "Leve ao fogo médio, mexendo sem parar até passar um pouco do ponto de brigadeiro",
+      "Desligue o fogo, coloque a massa em um papel-filme e embale-a bem",
+      "Deixe descansar em temperatura ambiente por 6 horas",
+      "Espalhe o açúcar sobre uma bancada",
+      "Desembale a massa e corte-a em fatias de pouco mais de 1 dedo de largura.",
+      "Coloque cada fatia da massa sobre o açúcar e arrume com as mãos, formando um rolinho",
+      "Corte a bala no tamanho desejado e termine de empanar no açúcar.",
+      "Bala de brigadeiro de leite em pó",
+      "Em uma panela, misture o leite condensado, a margarina, o leite ninho e o chocolate branco.",
+      "Leve ao fogo médio mexendo sem parar até passar um pouco do ponto de brigadeiro",
+      "Desligue o fogo, coloque a massa em um papel filme e embale-a bem",
+      "Deixe descansar em temperatura ambiente por 6 horas",
+      "Depois do descanso, corte a bala em fatias de um pouco mais de um dedo de largura",
+      "Enrole a fatia sobre uma bancada, formando um rolinho",
+      "Corte as balas do tamanho desejado e passe-as no leite em pó",
+      "Bala de brigadeiro de morango",
+      "Dissolva a gelatina na água fervente e reserve",
+      "Em uma panela, misture o leite condensado, a margarina e o corante em gel",
+      "Leve ao fogo médio até passar um pouco do ponto de brigadeiro",
+      "Desligue o fogo, junte a gelatina, coloque a massa em um papel filme e embale-a bem",
+      "Deixe descansar por 8 horas",
+      "Espalhe o açúcar sobre uma bancada, coloque cada fatia da massa sobre o açúcar e arrume com as mãos",
+      "Depois do descanso, desembale a massa e corte-a em fatias de pouco mais de 1 dedo de largura.",
+      "Forme um rolinho, corte a bala no tamanho desejado e termine de empanar no açúcar. "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305060-bala-de-brigadeiro.html"
+}

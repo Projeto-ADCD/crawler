@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ESPAGUETE DE ABOBRINHA À BOLONHESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora verde (aprox. 2 kg)",
+      "1 cebola grande",
+      "500 g de carne moída",
+      "1 pacote de molho de tomate tradicional",
+      "300 g de queijo mussarela",
+      "sal, pimenta-do-reino e calabresa a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com um ralador para espaguete de legumes, desfie a abobrinha e coloque para cozinhar em água fervente por 3 minutos, escorra.",
+      "Em uma frigideira, frite a cebola e a carne moída e acrescente o molho de tomate, sal e pimenta a gosto.",
+      "Com a abobrinha já escorrida, acrescente o sal e o azeite a gosto.",
+      "Coloque em um prato a abobrinha, cubra com o molho à bolonhesa, salpique o queijo mussarela e sirva.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILSON NETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304583-espaguete-de-abobrinha-a-bolonhesa.html"
+}

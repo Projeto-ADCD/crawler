@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BABA DE MOÇA PARA RECHEIO DE BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1 vidro de leite de coco",
+      "1 pacote de coco ralado açucarado",
+      "3 gemas de ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, misture o leite condensado, leite de coco e as gemas.",
+      "Mexa sem parar até ver o fundo (por volta de 10 minutos).",
+      "Quando soltar do fundo, jogue o coco ralado e mexa por mais 2 minutos em fogo baixo.",
+      "Desligue e use para rechear seu bolo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HAYSA VELOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302084-baba-de-moca-para-recheio-de-bolo.html"
+}

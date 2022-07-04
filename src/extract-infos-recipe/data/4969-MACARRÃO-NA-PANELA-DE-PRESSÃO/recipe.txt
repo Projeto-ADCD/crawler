@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de macarrão penne ou parafuso",
+      "1 dente de alho",
+      "1/2 cebola",
+      "1 colher (sopa) de azeite",
+      "1/2 gomo de linguiça defumada",
+      "400 ml de água quente",
+      "1 tablete de caldo de carne",
+      "200 ml de creme de leite",
+      "200 ml de molho de tomate",
+      "150 g de queijo mussarela ralado",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, frite o alho e a cebola no azeite",
+      "Adicione a linguiça e o tomate picados e frite bem",
+      "Adicione o molho de tomate e o creme de leite",
+      "Dissolva o caldo de carne na água quente e coloque na panela junto aos outros ingredientes",
+      "Adicione a pimenta-do-reino e o macarrão",
+      "Mexa bem tudo e feche a tampa",
+      "Deixe em fogo baixo e após pegar pressão, conte 5 minutos e desligue",
+      "Coloque o queijo ralado com o macarrão ainda quente para que derreta bem e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TAMIRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299833-macarrao-na-panela-de-pressao.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (café) de açúcar",
+      "tempero como preferir",
+      "1/2 cebola picada",
+      "manjericão a gosto",
+      "250 ml de água",
+      "3 tomates",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os tomates.",
+      "Bata no liquidificador os tomates e a água.",
+      "Em uma panela refogue a cebola, adicione a mistura do liquidificador, sal, açúcar e o tempere como preferir.",
+      "Deixe ferver essa mistura até chegar no ponto que ela vai estar um pouco gracinha e adicione manjericão a gosto.",
+      "Já está pronto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEIDII_MARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304512-molho-de-tomate.html"
+}

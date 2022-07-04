@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PUDIM DE LEITE SEM OVOS E SEM IR AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "10 colheres de açúcar",
+      "1/2 xícara de água",
+      "Pudim",
+      "1 gelatina sem sabor",
+      "10 colheres de água quente",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 lata de leite (medida da lata de leite condensado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Coloque o açúcar em uma panela em fogo médio mexendo até derreter por completo.",
+      "Após derretido, adicione a  xícara de água e mexa até dissolver todo o açúcar.",
+      "Em seguida, coloque em uma travessa ou forma para pudim.",
+      "Pudim",
+      "Dissolva a gelatina em 10 colheres de água quente.",
+      "Em um liquidificador, bata o creme de leite, o leite, o leite condensado e a gelatina dissolvida por 5 minutos em média.",
+      "Coloque na travessa cuidadosamente para não quebrar na hora de virar.",
+      "Colocar na geladeira até ficar durinho.",
+      "Após ficar duro, vire em um recipiente maior que a travessa.",
+      "E se delicie."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LETICIA FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302604-pudim-de-leite-sem-ovos-e-sem-ir-ao-forno.html"
+}

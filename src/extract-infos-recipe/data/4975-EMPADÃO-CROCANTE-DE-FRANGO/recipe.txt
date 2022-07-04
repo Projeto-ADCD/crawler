@@ -1,0 +1,50 @@
+{
+  "nome_receita": "EMPADÃO CROCANTE DE FRANGO",
+  "ingredientes": {
+    "RECHEIO:": [
+      "1 fio de óleo",
+      "1 kg de peito de frango sem osso em pedaços grandes",
+      "sal",
+      "pimenta-do-reino",
+      "1 cebola média picadinha",
+      "1 colher (sopa) de alho picado",
+      "1 e 1/2 xícara (chá) de água (360ml)",
+      "3 colheres (sopa) de extrato de tomate",
+      "1/2 colher (sopa)de coloral em pó",
+      "4 tomates sem sementes picados",
+      "1/2 colher (sopa) de amido de milho diluído em uma colher (sopa) de água",
+      "cheiro verde picado",
+      "1 e 1/2 (copo) de requeijão 300g"
+    ],
+    "MASSA:": [
+      "600 g de farinha de trigo",
+      "300 g de margarina",
+      "1/2 colher (sopa) de sal",
+      "50 g de parmesão ralado fino",
+      "25 ml de água",
+      "1 gema"
+    ]
+  },
+  "passos": {
+    "RECHEIO:": [
+      "Aqueça o óleo em fogo alto na panela de pressão e doure os pedaços de frango (uns 10 minutos).",
+      "Acrescente a cebola e o alho refogue até dourar (uns 5 minutos).",
+      "Despeje a água tampe e deixe cozinhar por 15 minutos após pega pressão.",
+      "Retire a pressão para abrir a panela acrescente o extrato de tomate o coloral o tomate o amido de milho diluído e cozinhe mexendo sempre até o frango desfia e o caldo engrossar.",
+      "Fora do fogo, salpique o cheiro verde a gosto transfira para uma travessa e leve a geladeira por 1 hora ou até esfriar.",
+      "Junte o requeijão e misture bem."
+    ],
+    "MASSA:": [
+      "Misture a farinha, a margarina e o sal com a ponta dos dedos até obter uma farofa separe 1/3 da farofa e misture com o parmesão.",
+      "Reserve.",
+      "Ao resto da farofa, acrescente a água e a gema.",
+      "Misture até obter uma massa homogênea e forre todo o interior de um refratário retangular (34×22×5cm).",
+      "Fure o fundo da massa em diversos pontos com um garfo e leve ao forno médio preaquecido (200°C) por 10 minutos.",
+      "Recheie cubra com a farofa reservada e leve de volta ao forno por mais 1 hora ou até dourar aguarde 20 minutos para corta e servir."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TAMMY REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299821-empadao-crocante-de-frango.html"
+}

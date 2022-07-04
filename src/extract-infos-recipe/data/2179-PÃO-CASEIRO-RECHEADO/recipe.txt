@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO CASEIRO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 tabletes de 15 g de fermento para pão",
+      "2 copos de leite",
+      "1 kg de farinha de trigo",
+      "2 colheres (sopa) rasa de açúcar",
+      "1 colher (sopa) rasa de sal",
+      "1 copo de oleo",
+      "recheio sempre frio e já pronto (frito ou cozido)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento no leite morno",
+      "Acrescente os ovos, óleo, sal e açúcar.",
+      "Misture bem",
+      "Acrescente aos poucos o trigo até que desgrude",
+      "Amasse bem a massa",
+      "Recheie e coloque para assar em forno 220° C preaquecido",
+      "Se quiser pincele com ovo e distribua orégano.",
+      "Deixe mais ou menos 20 a 30 minutos para assar.",
+      "Não é necessário pausa na massa com esse fermento em cubos.",
+      "Se for usar o de saquinho, é necessario esperar a massa crescer depois de rechear "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAPHAELLA AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305776-pao-caseiro-recheado.html"
+}

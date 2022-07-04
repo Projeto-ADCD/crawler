@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE COM ALHO-PORRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farofa com cebola",
+      "3 doces de figo picadinho em cubinho",
+      "6 ovos cozidos picados",
+      "300 g de bacon picado em cubos sem pele",
+      "1 cenoura média ralada grossa",
+      "1 alho-poró grande picadinho",
+      "2 fatias de abacaxi picadinho em cubos sem o miolo",
+      "1 maçã média ralada",
+      "4 colheres (sopa) de azeite",
+      "1 pitada de pimenta calabresa",
+      "1 pitada de sal",
+      "6 dentes de alho picadinho",
+      "salsa picadinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o azeite o bacon e deixe fritar",
+      "Quando estiver frito, retire o bacon reserve",
+      "Doure o alho, coloque a pitada de sal e acrescente o alho-poro e a cenoura",
+      "Misture e acrescente a maçã e o abacaxi",
+      "Deixe ferver por uns 2 minutos e desligue o fogo",
+      "Junte a essa mistura a farofa pronta com a cebola",
+      "Coloque o figo, o bacon, os ovos picados e a salsa",
+      "Misture tudo com cuidado.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: gosto de servir em uma travessa enfeitada com alface tomates e azeitonas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "MARIA EDNA DE OLIVEIRA SILVERIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303820-farofa-agridoce-com-alho-porro.html"
+}

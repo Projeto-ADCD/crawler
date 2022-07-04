@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CHUCHU RECHEADO DE CARNE E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 chuchus grandes",
+      "500 g de carne moída",
+      "1 cebola",
+      "cheiro-verde a gosto",
+      "alho a gosto",
+      "pimentão a gosto",
+      "1 molho de tomate",
+      "200 g de muçarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque, tire o meio branco e pré-cozinhe os chuchus",
+      "Refogue a carne moída, acrescente a cebola, o alho, o cheiro-verde e o pimentão",
+      "Em uma travessa, acomode as 12 partes dos chuchus",
+      "Recheie com a carne moída",
+      "Coloque o molho por cima",
+      "Cubra com fatias de muçarela",
+      "Leve ao forno por 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CARLA SOARES JERONIMO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302788-chuchu-recheado-de-carne-e-queijo.html"
+}

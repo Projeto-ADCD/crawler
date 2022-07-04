@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de queijo meia-cura (ou use 250 g de queijo fresco e 100 g de parmesão)",
+      "1 colher de margarina",
+      "1/2 xícara de água",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "3 a 4 xícaras de farinha de trigo",
+      "2 colheres de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o queijo com a margarina, os ovos e a água juntos no liquidificador (ou processador ou mixer)",
+      "Adicione o açúcar e bata mais um pouco",
+      "Coloque em um outro recipiente e vá adicionando a farinha de trigo até soltar das mãos",
+      "Adicione o fermento e misture",
+      "Faça os biscoitos no formato que preferir",
+      "Preaqueça o forno em 10 minutos",
+      "Deixe no forno de 15 a 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "JOYCE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305952-biscoito-de-queijo.html"
+}

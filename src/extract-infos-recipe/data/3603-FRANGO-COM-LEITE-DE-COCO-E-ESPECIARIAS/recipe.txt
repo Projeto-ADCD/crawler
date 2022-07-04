@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FRANGO COM LEITE DE COCO E ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango cortado (tipo sassami)",
+      "1 vidro de leite coco",
+      "1 colher (sopa) de mostarda",
+      "alho a gosto",
+      "cebola a gosto",
+      "1 pitada de cada especiaria (canela, noz moscada, curry, louro em pó, alecrim em pó, coentro em pó)",
+      "cebolinha desidratada (opcional)",
+      "vinagrete desidratada (opcional)",
+      "páprica picante",
+      "sal a gosto",
+      "pimenta-do-reino ou pimenta rosa",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa de vidro ou forma funda comece temperando o frango com sal, pimenta, alho e a cebola",
+      "Em seguida junte as especiarias, páprica picante, cebolinha e vinagrete desidratada, misture bem.",
+      "Coloque o vidro de leite de coco, depois 1/3 de água (usando o mesmo vidro do leite de coco como medida)",
+      "Cubra com papel alumínio e asse em forno médio (180 a 200°) por 45 minutos.",
+      "Finalize com coentro fresco se preferir. Fica maravilhoso !"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303063-frango-com-leite-de-coco-e-especiarias.html"
+}

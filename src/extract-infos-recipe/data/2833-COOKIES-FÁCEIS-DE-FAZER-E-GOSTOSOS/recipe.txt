@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COOKIES FÁCEIS DE FAZER E GOSTOSOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha",
+      "1/2 colher (chá) de bicarbonato",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de baunilha",
+      "1 xícara de gotinhas de chocolate",
+      "3/4 de barra de manteiga [15 colheres (sopa)]",
+      "1 xícara de açúcar mascavo",
+      "1/2 xícara de açúcar",
+      "1 ovo inteiro + 1 gema"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até formar uma massa homogênea.",
+      "Forme bolinhas numa forma untada.",
+      "Leve ao forno médio, preaquecido, por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304315-cookies-faceis-de-fazer-e-gostosos.html"
+}

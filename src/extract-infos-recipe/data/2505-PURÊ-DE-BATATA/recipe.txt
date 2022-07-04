@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PURÊ DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas grandes",
+      "1 copo (americano) de leite",
+      "2 colheres de manteiga ou margarina",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão cozinhe as batatas sem casca",
+      "Amasse as batatas e reserve",
+      "Em uma panela adicione a manteiga ou margarina e deixe derreter em fogo baixo",
+      "Adicione a batata amassada e mexa para misturar bem",
+      "Adicione o leite aos poucos até chegar na consistência desejada continue mexendo até borbulhar e após isso desligue",
+      "Se quiser adicionar alho na hora que a manteiga ou margarina estiver derretendo deixe doura fica uma delícia"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PALOMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305063-pure-de-batata.html"
+}

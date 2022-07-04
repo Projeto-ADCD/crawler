@@ -1,0 +1,24 @@
+{
+  "nome_receita": "TRUFA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "4 barras de chocolate branco",
+      "1 colher de (sopa) de manteiga",
+      "1 pacote de biscoito (oreo ou negresco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bote o leite comdensado numa panela junto com o chocolate branco e mexa aproximadamente 7 minutos a fogo baixo",
+      "Quando terminar de cozinhar, retire e coloque numa marinez (tigela de vidro) com o papel manteiga la dentro",
+      "Depois quebre todos os biscoitos em pedaços pequenos.",
+      "Bote junto ao leite condensado e mexa.",
+      "Depois bote no congelador por 2 horas"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDUARDO GEREMIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304550-trufa-caseira.html"
+}

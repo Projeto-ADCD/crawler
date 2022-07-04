@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CUECA VIRADA SEQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 e 1/2 xícaras de farinha de trigo",
+      "1/4 de xícara de manteiga (pode usar qualquer gordura: banha, margarina, nata)",
+      "1 xícara de açúcar refinado ou cristal fino",
+      "1/2 xícara de leite (pode ser suco de laranja ou água tambem)",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de cachaca, pinga ou vinagre",
+      "1/2 colher (sopa) de fermento quimico",
+      "3 ovos inteiros",
+      "óleo suficiente para fritar",
+      "açúcar e canela para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até formar uma massa lisa e homogênea",
+      "Coloque em um saco plástico e deixe descansar por pelo menos 10 minutos",
+      "Abra a massa no rolo até a espessura de meio centimetro",
+      "Corte retângulos do tamanho de 3 cm por 8 cm mais ou menos e faça um corte no meio, sem cortar as bordas",
+      "Passe uma das pontas por dentro do corte do meio",
+      "Frite no óleo quente os dois lados até ficar douradinho",
+      "Passe pelo açúcar e canela e pronto",
+      "Ótima opção para lanches ou café da tarde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305299-cueca-virada-sequinha.html"
+}

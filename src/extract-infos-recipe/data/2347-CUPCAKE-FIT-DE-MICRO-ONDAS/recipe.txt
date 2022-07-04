@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CUPCAKE FIT DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana amassada",
+      "1 ovo",
+      "2 a 3 colheres (sopa) de farinha de aveia (a depender do ponto da massa)",
+      "1 colher (sopa) de leite",
+      "1 colherinha de açúcar mascavo",
+      "1 colherinha rasa de óleo",
+      "1 colherinha de fermento químico",
+      "opcional: 1 colher (sopa) de cacau em pó (para bolinho de chocolate)",
+      "opcional: 1 colherinha de café solúvel, além do cacau (para bolinho de capuccino)",
+      "sugestão para cobertura: doce de leite com chocolate",
+      "sugestão para cobertura: doce de goiaba"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ingredientes (exceto fermento)",
+      "Bata (uso o mixer, por ser pouca massa)",
+      "Asse de 5 a 6 minutos no micro-ondas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAULZITO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305439-cupcake-fit-de-micro-ondas.html"
+}

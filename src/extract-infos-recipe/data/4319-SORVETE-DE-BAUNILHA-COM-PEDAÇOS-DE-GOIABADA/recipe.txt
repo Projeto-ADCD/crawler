@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SORVETE DE BAUNILHA COM PEDAÇOS DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite",
+      "3 colheres de baunilha",
+      "3 colheres de açúcar",
+      "goiabada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o creme de leite, a baunilha e o açúcar.",
+      "Em seguida pegue a goiabada e corte em pequenos pedaços.",
+      "Após cortar a goiabada, coloque-a junto aos outros ingredientes.",
+      "Bata todos esses ingredientes no liquidificador.",
+      "Coloque essa mistura em um recipiente.",
+      "OPÇÃO",
+      "Corte mais alguns pedaços de goiabada e coloque no meio da mistura do sorvete.",
+      "Leve essa mistura homogênea para o congelador e deixe ela lá por umas 4 horas.",
+      "Retire do congelador e está pronta para servir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SOFIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301377-sorvete-de-baunilha-com-pedacos-de-goiabada.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo médio",
+      "200 g de farinha branca",
+      "500 g de mandioca cozida",
+      "1/4 de xícara de óleo",
+      "1 colher (café) de sal",
+      "2 colheres (sopa) da agua do cozimento da mandioca",
+      "1 sachê de fermento",
+      "50 g de farinha de trigo para sovar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl, coloque a mandioca ainda morna e amasse-a bem.",
+      "Vá adicionando o trigo, o óleo, o ovo, o sal, a água e o fermento.",
+      "Agregue tudo muito bem e coloque devagar os 50 g restantes de farinha na pia ou qualquer outro lugar que esteja sovando a massa.",
+      "Sove bem e coloque para descansar em um lugar quente, em uma vasilha tampada até dobrar de volume.",
+      "O lugar quente pode ser até próximo a janela, caso o tempo esteja quente. Do contrário, coloque a vasilha tampada dentro de um saco plástico fechado.",
+      "Após o primeiro tempo de crescimento, vá dividindo a massa em bolinhas ou coloque em duas formas de pão de forma. Em bolinhas dá 18 pãezinhos.",
+      "Deixe crescer por mais 40 minutos (a primeira parte eu deixei crescer por 30 minutos).",
+      "Após os 40 minutos, o forno já deverá estar quente por uns 10 minutos e o tempo de assar poderá levar até 1 hora, vai depender do seu forno.",
+      "Eles ficarão bem assadinhos na parte de baixo e douradinhos."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "REGINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301757-pao-de-mandioca.html"
+}

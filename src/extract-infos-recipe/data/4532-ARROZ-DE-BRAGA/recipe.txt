@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ DE BRAGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxa e sobrecoxa de frango em pedaços",
+      "2 dentes de alho picados",
+      "1/2 colher (sopa) de sal e pimenta do reino",
+      "2 colheres (sopa) de azeite",
+      "1 cebola pequena picada",
+      "1 paio picado",
+      "1 xícara de tomate picado",
+      "1 e 1/2 xícara de arroz",
+      "1/4 xícara de cebolinha picada",
+      "4 xícaras de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela média, tempere o frango com o alho, o sal, a pimenta e o azeite. Cubra e deixe marinar por 30 minutos.",
+      "Em uma panela grande, em fogo médio, adicione o frango e frite até dourar, por cerca de 3 minutos. Adicione a cebola e o paio e frite até dourar.",
+      "Adicione o tomate, o arroz, a cebolinha e cozinhe por 5 minutos, até o tomate desmanchar.",
+      "Coloque água, espere ferver e diminua o fogo. tampe a panela e cozinhe por 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DUDA ISPER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300926-arroz-de-braga.html"
+}

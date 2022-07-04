@@ -1,0 +1,43 @@
+{
+  "nome_receita": "OVO DE COLHER: DOCE DE LEITE COM PAÇOCA",
+  "ingredientes": {
+    "CASQUINHA": [
+      "250 g de chocolate ao leite ou meio amargo",
+      "OBS: quantidade de chocolate para 1 casquinha"
+    ],
+    "BRIGADEIRO DE DOCE DE LEITE": [
+      "1 lata de leite condensado",
+      "400g de doce de leite de boa qualidade",
+      "1 colher de manteiga",
+      "OBS: o recheio dá para rechear de 2 a 3 casquinhas.",
+      "Paçocas à gosto",
+      "1 forminha para ovo de Páscoa",
+      "OBS: a referência é uma forma de silicone de 350g"
+    ]
+  },
+  "passos": {
+    "CASQUINHA": [
+      "Derreta o chocolate em banho-maria ou no microondas de 30 em 30 segundos.",
+      "OBS: Se for em banho-maria não deixe a água ferver completamente, quando estiver levantando bolhas, já está na temperatura certa.",
+      "Assim que o chocolate derreter por completo, é preciso dar o choque térmico, então coloque coloque o recipiente com o chocolate derretido em uma vasilha com água em temperatura ambiente e mexa sem parar. Se não tiver termômetro, coloque um pouco do chocolate nos lábios, se sentir que ele está gelado, já está na temperatura certa.",
+      "OBS: Se você usar chocolate fracionado, não precisará dar o choque térmico.",
+      "Se você utilizar a forma com acetato de silicone, apenas coloque o chocolate, a parte de silicone e a outra parte de plástico e leve à geladeira até ficar fosco e desgrudar completamente.",
+      "Se você usar a forma simples, você passa uma camada de chocolate, leve à geladeira e, depois, passe outra camada. Se quiser uma casca bem grossa, passe 3 camadas."
+    ],
+    "RECHEIO": [
+      "Em uma panela, adicione o doce de leite, o leite condensado e a manteiga e mexa muito bem fora do fogo.",
+      "Em seguida, leve em fogo de médio para baixo e mecha muito bem até desgrudar do fundo da panela.",
+      "OBS: Deixe esfriar completamente antes de rechear o ovo, se quiser faça o recheio de um dia para o outro e deixe esfriar fora da geladeira."
+    ],
+    "MONTAGEM": [
+      "Desenforme a casquinha de chocolate.",
+      "Coloque uma pequena quantidade de paçoca esfarelada no fundo do ovo e, em seguida, coloque uma camada do brigadeiro de doce de leite.",
+      "Vá intercalando o recheio com a paçoca esfarelada até que complete toda a casquinha do ovo.",
+      "A decoração é totalmente opcional, podendo ser finalizada com paçocas esfareladas ou com outra decoração de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300285-ovo-de-colher-doce-de-leite-com-pacoca.html"
+}

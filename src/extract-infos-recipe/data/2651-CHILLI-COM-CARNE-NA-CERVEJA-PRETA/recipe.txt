@@ -1,0 +1,47 @@
+{
+  "nome_receita": "CHILLI COM CARNE NA CERVEJA PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "270 g de Carne Moída do Futuro (1 caixa)",
+      "300 g de feijão vermelho cozido",
+      "1 cebola em cubos pequenos",
+      "4 dentes de alho picados",
+      "1 colher (sopa) de azeite",
+      "1 pimentão amarelo pequeno em cubos",
+      "1 pimentão vermelho pequeno em cubos",
+      "1 pimentão verde pequeno em cubos",
+      "1 pimenta dedo de moça fatiada sem sementes",
+      "2 colheres (chá) de sal",
+      "1 colher (chá) de cominho",
+      "1 colher (chá) de páprica doce",
+      "1 colher (chá) de páprica picante",
+      "1 colher (chá) de orégano seco",
+      "1 colher (chá) de cacau em pó",
+      "1 folha de louro",
+      "1 pau de canela",
+      "1 long neck de cerveja preta de qualidade",
+      "1 sachê de molho de tomate",
+      "2 pimentões doces em cubos (opcional)",
+      "1 maço de coentro",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda em fogo baixo comece dourando o alho, a cebola e os talos do maço de coentros bem picadinhos.",
+      "Acrescente metade das pimentas e pimentões em cubos e refogue bem até ficarem macios.",
+      "Adicione, então, a Carne Moída do Futuro junto com a páprica, o cominho, orégano, sal e a folha de louro",
+      "Mexa bem deixando a carne bem dourada e sem líquido algum.",
+      "Entre então com a cerveja preta, o molho de tomate, o pau de canela e o cacau em pó (que pode ser substituído por 50 g de chocolate meio amargo)",
+      "Cozinhe em fogo baixo por 10 minutos e então adicione os feijões e a outra metade dos pimentões e os pimentões doces (se for o caso)",
+      "Cozinhe em fogo baix por 30 minutos.",
+      "Quanto mais tempo de fogo, mais apurado ficarão os sabores (no dia seguinte ao preparo, o chilli estará ainda mais saboroso)",
+      "Espere no mínimo 20 minutos antes de servir.",
+      "Pode ser servido com arroz branco ou chips de tortilla."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304739-chilli-com-carne-na-cerveja-preta.html"
+}

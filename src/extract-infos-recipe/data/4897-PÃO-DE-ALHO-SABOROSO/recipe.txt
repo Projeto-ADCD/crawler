@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DE ALHO SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g margarina",
+      "500 g maionese",
+      "50 g queijo ralado",
+      "6 sachês de tempero pronto de alho",
+      "cheiro-verde a gosto",
+      "pimenta calabresa a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em uma vasilha.",
+      "Faça 4 meio corte nos pães, um ao lado do outro sem",
+      "cortar totalmente.",
+      "Passe generosamente a pasta de alho entre os pães e por cima",
+      "do pão também.",
+      "Coloque na churrasqueira, doure de um lado e depois do outro, retire."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ANGELICA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299994-pao-de-alho-saboroso.html"
+}

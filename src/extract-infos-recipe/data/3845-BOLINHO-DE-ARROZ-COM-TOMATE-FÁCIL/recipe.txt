@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM TOMATE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de arroz já cozido",
+      "1/2 cebola picada",
+      "1/2 tomate picado",
+      "2 ovos",
+      "salsinha e cebolinha a gosto",
+      "trigo até dar o ponto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture todos os ingredientes",
+      "Adicione o trigo até dar o ponto",
+      "Adicione sal a gosto e, se preferir, pode usar orégano.",
+      "Depois de todos os ingredientes bem misturados, frite em óleo quente para que o bolinho fique sequinho",
+      "E está pronto é só servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "WILLIAM SARZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302549-bolinho-de-arroz-com-tomate-facil.html"
+}

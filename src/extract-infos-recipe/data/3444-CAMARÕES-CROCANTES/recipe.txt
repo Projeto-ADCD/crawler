@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CAMARÕES CROCANTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarão rosa grande",
+      "suco de 1 limão",
+      "3 dentes de alho",
+      "1 colher de pimenta calabresa",
+      "sal e pimenta-do-reino a gosto",
+      "1 pão francês dormido",
+      "2 colheres de queijo parmesão ralado",
+      "coentro a gosto",
+      "2 ovos",
+      "2 colheres de leite de coco",
+      "óleo de soja para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o alho e misture ao limão, à pimenta calabresa, pimenta-do-reino e o sal em um vasilha grande com tampa, onde caiba o camarão.",
+      "Descasque o camarão, deixando apenas o rabinho e misture ao tempero preparado no passo anterior.",
+      "No liquidificador, bata o pão, o queijo ralado e o coentro e coloque em uma vasilha.",
+      "Bata os ovos e o leite de coco no liquidicador e transfira para uma vasilha.",
+      "Empane o camarão passando primeiro na mistura do ovo com leite e depois na mistura de pão, queijo e coentro.",
+      "Coloque óleo em uma frigideira funda o bastante para cobrir o camarão quando for fritar e espere o óleo aquecer bem.",
+      "Quando o óleo estiver quente, coloque o camarão até que o empanado fique dourado.",
+      "Sirva quente com molho da sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "BARBARA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303357-camaroes-crocantes.html"
+}

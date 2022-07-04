@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE BANANA COM AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas d’água (nanica) maduras e amassadas",
+      "200 g amendoim moído e levemente torrado (aquecido)",
+      "2 ovos",
+      "1 xícara e 1/2 farinha de aveia ou farinha de trigo",
+      "1 colher de fermento em pó",
+      "canela em pó (opcional)",
+      "uva passa (quantidade a gosto) para adoçar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma de 22 cm e reserve",
+      "Em um bowl coloque as bananas já amassadas, acrescente os ovos e misture.",
+      "Adicione o amendoim e o trigo aos poucos, mexendo sempre até formar uma mistura homogênea e consistente.",
+      "Adicione a canela, misture bem e acrescente o fermento sempre mexendo suavemente",
+      "Coloque a mistura na forma e leve ao forno preaquecido a 180° C por 35 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TATIANA BRAZ DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305375-bolo-de-banana-com-amendoim.html"
+}

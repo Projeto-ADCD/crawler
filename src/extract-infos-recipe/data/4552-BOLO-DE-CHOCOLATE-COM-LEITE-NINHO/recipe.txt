@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "4 colheres (sopa) de chocolate em pó",
+      "2 colheres (sopa) de manteiga",
+      "3 xícaras (chá) de farinha de trigo",
+      "2 colheres (sopa) de fermento",
+      "2 xícaras (chá) de açúcar",
+      "1 xícara (chá) de leite",
+      "1 tablete de chocolate ao leite ou meio amargo",
+      "Calda",
+      "2 colheres de chocolate em pó bem cheias",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite (200 g)",
+      "200 g de leite",
+      "2 colheres (sopa) de manteiga",
+      "leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata por 5 minutos no lidificador os ovos, o leite, a farinha, o açúcar, o chocolate em pó e a manteiga",
+      "Após bater a massa, adicione o fermento e misture novamente até ficar homogêneo ",
+      "Depois quebre o tablete de chocolate e adicione no meio da massa",
+      "Em uma forma untada, despeje a massa e asse em forno preaquecido a 180° C por cerca de 40 minutos",
+      "Calda",
+      "Depeje todos os ingredientes da calda (menos o leite em pó) em uma panela e misture até chegar no ponto de brigadeiro (quando está desgrudando da panela)",
+      "No final, quando o bolo estiver pronto com a calda, salpique o leite em pó por cima"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CACÁ OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300873-bolo-de-chocolate-com-leite-ninho.html"
+}

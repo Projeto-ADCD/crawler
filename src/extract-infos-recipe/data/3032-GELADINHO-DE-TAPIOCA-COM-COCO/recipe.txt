@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GELADINHO DE TAPIOCA COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 coco seco ralado",
+      "1 caixa de leite condensado",
+      "1 copo (americano) de tapioca em grãos",
+      "4 colheres (sopa) de leite em pó (opcional)",
+      "1 pitada de sal",
+      "1,8 litros de água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e rale o coco seco.",
+      "Coloque no liquidificador com 1 litro de água morna e bata bastante para o bagaço ficar fininho.",
+      "Acrescente a tapioca, o leite condensado, a pitada de sal, o leite em pó e o restante da água",
+      "Bata até ficar homogêneo.",
+      "Caso não dê tudo no liquidificador, bata em 2 vezes",
+      "Encha os sacos de geladinho e dê o nó.",
+      "Coloque no congelador, espere endurecer e sirva-se."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O sal acentua o sabor do coco.\nA água morna serve para dissolver mais a gordura do coco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MILLY MACEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303974-geladinho-de-tapioca-com-coco.html"
+}

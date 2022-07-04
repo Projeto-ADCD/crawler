@@ -1,0 +1,48 @@
+{
+  "nome_receita": "VULCÃO DE BATATA COM CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas médias descascadas",
+      "2 colheres (sopa) de manteiga com sal",
+      "2 colheres de leite integral fresco",
+      "sal a gosto",
+      "400 g de carne moída",
+      "1 cebola média",
+      "100 g de linguiça calabresa em cubos",
+      "1 tomate médio",
+      "1 colher rasa de sal",
+      "3 dentes de alho",
+      "pimenta-do-reino a gosto",
+      "cheiro-verde a gosto",
+      "4 colheres de azeite",
+      "5 colheres (sopa) de molho de tomate",
+      "500 g de farofa pronta",
+      "200 g de requeijão bisnaga",
+      "100 g de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas em uma panela em temperatura 200°C por 12 minutos",
+      "Retire-as, escorrendo em uma peneira e aguarda esfriar",
+      "Amasse toda a batata e reserve em um recipiente",
+      "Acrescente a manteiga, o leite e o sal",
+      "Misture tudo até ficar uma massa homogênea e reserve",
+      "Para prepare a carne em uma panela, dore no azeite a linguiça, o alho e a cebola",
+      "Acrescente a carne, o sal, a pimenta-do-reino, o tomate, o cheiro-verde",
+      "Cozinhe por volta de 15 minutos no fogo baixo",
+      "Acrescente o molho de tomate por mais 5 minutos",
+      "Desligue o fogo ",
+      "Agora pegue uma pequena porção de purê e vai modelando na palma da mão e depois apoia no prato e vai fazendo um círculo com toda a massa, deixando um buraco no meio",
+      "Agora que você fez um círculo com a massa, preencha de carne moída dentro",
+      "Com a bisnaga de requeijão, passe em volta do purê",
+      "Coloque em volta sobre o prato a farofa pronta ",
+      "Rale o queijo ralado sobre o vulcão de carne moída",
+      "Agora está pronto e sirva a vontade!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM GOMES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303574-vulcao-de-batata-com-carne-moida.html"
+}

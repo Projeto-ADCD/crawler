@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PICOLÉ DE LIMÃO COM FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 litro de água filtrada",
+      "suco de 3 limões",
+      "4 colheres (sopa) de açúcar",
+      "4 morangos",
+      "1/2 tangerina",
+      "1 carambola",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça o refresco com água, o suco de três liões e o açúcar.",
+      "Coloque as frutas picadas nas formas para picolé com um pouquinho de suco e leve ao congelador até endurecer ",
+      "Tire do congelador e complete com o suco.",
+      "Deixe congelar novamente.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAISSA CHINELATO MATTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300966-picole-de-limao-com-frutas.html"
+}

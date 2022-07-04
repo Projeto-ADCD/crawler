@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 dentes de alho",
+      "300 ml de óleo",
+      "1/2 colher de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o ovo (inteiro), alho e o sal.",
+      "Comece a bater e vá colocando gradativamente o óleo até que fique uma mistura homogênea, assim que ficar consistente já está pronto.",
+      "Sirva e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ENZO AUGUSTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305613-maionese-caseira-de-alho.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TILÁPIA BENEDITINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas grandes asterix",
+      "500 ml de leite",
+      "1/2 copinho de requeijão",
+      "3 cebolas grandes",
+      "8 dentes de alho",
+      "500 g de filé de tilápia",
+      "1 xícara de azeitonas pretas sem caroço",
+      "1 colher (sopa) de farinha de trigo",
+      "1 colher (sopa) de manteiga",
+      "3 folhas de louro",
+      "4 pães amanhecidos ralados",
+      "1/2 xícara de azeite",
+      "1 maço de cheiro-verde picadinho",
+      "sal, pimenta e noz-moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite para esquentar, salgue o mesmo e nele cozinhe as batatas, os dentes de alho inteiros e as postas de tilápia.",
+      "Quando as tilápias estiverem cozidas, retire-as do leite e desfie grosseiramente em lascas num prato.",
+      "Reserve.",
+      "Quando as batatas estiverem cozidas, escorra e reserve leite.",
+      "Na mesma panela amasse as batatas e os dentes de alho e vá acrescentando o leite aos poucos até atingir uma consistência de purê liso e sedoso.",
+      "Acrescente o requeijão, a manteiga, metade do azeite, mexa bem e reserve o purê.",
+      "Em outra panela refogue as cebolas em anéis finos.",
+      "Refogue até ficarem translúcidas, adicione as azeitonas, a tilápia em lascas e o cheiro-verde, acerte o tempero e reserve.",
+      "Na mesma panela que fez o refogado de cebolas e tilápia, acrescente a manteiga e a farinha, cozinhe e aos poucos vá acrescentando o restante do leite que foi usado pra cozinhar as batatas e o louro",
+      "Cozinhe até formar um molho branco não muito consistente.",
+      "Acerte o sal, acrescente noz-moscada e retorne com o refogado de tilápia pra esse creme.",
+      "Reserve.",
+      "Para montagem",
+      "Num refratário, coloque o purê por baixo, regue com bastante azeite, cubra com o creme de tilápia, e feche com um pouco mais de purê.",
+      "Por cima, acrescente o pão ralado, regue com mais azeite e leve ao forno para gratinar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305534-tilapia-beneditina.html"
+}

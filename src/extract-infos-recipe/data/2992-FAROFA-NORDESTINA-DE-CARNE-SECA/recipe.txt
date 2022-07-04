@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FAROFA NORDESTINA DE CARNE SECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de margarina",
+      "1 pacote de carne seca (500 g)",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "sal a gosto",
+      "2 colheres (sopa) de coloral",
+      "1 pacote de farinha de mandioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a carne seca cortada em cubinhos imersas na água e deixe dessalgando por 15 minutos",
+      "Enquanto isso, pique a cebola, o alho e junte as colheres de margarina, o coloral, sal a gosto, deixe refogar e coloque a carne seca pra fritar",
+      "Quando estiver frita (não deixar ressecar muito por isso os pedaços não podem ser tão pequenos por que a carne seca diminui) jogue a farinha de mandioca e mexa bem até ficar toda avermelhada"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MIRNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304021-farofa-nordestina-de-carne-seca.html"
+}

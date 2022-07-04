@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MASSA CARBONARA COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de massa (a sua preferida)",
+      "300g de calabresa",
+      "1 pote de requeijão (200g)",
+      "200g de queijo ralado",
+      "2 caixinhas de creme de leite",
+      "2 ovos",
+      "Óleo",
+      "Sal e temperos a gosto",
+      "Cebola",
+      "Tomate",
+      "Alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque água para ferver, para o preparo da massa.",
+      "Enquanto a agua da massa ferve, frite cebola, alho e tomate, em seguida coloque a calabresa e espere dar uma fritada.",
+      "Bata em uma tigela os dois ovos, e após as calabresas estarem fritadas, junte o ovo a elas. Misture e espere o ovo tomar consistência, estar como um omelete.",
+      "Coloque junto com a calabresa um pote de requeijão, duas caixinhas de creme de leite (gosto da massa bem molhadinha, por isso optei por colocar duas caixinhas de creme de leite) e um pouco do queijo ralado. Coloque seus temperos a gosto (sal, pimenta-do-reino...).",
+      "Não se esqueca de colocar a massa na água, quando a água já estiver fervendo, coloque sal. Quando for colocar a massa na panela para cozinhar, pré aqueça o forno.",
+      "Quando a massa já estiver cozida, coloque em um refratário a massa e em cima da massa o molho. Polvilhe o queijo e coloque no forno por 15 minutos ou até que o queijo esteja derretido."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BRUNA GOLLMANN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301710-massa-carbonara-com-calabresa.html"
+}

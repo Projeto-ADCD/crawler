@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE CREME DE LIMÃO RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 pacote de bolacha de maisena",
+      "4 colheres (sopa) de manteiga derretida",
+      "Creme:",
+      "3 caixas de creme de leite",
+      "1 caixa de leite condensado",
+      "1 suco de limão em pó",
+      "Cobertura:",
+      "300 g de chocolate meio amargo",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Triture a bolacha e derreta a mantega",
+      "Adicione o conteúdo em uma assadeira untada com manteiga, leve ao forno 180°C por 10 minutos"
+    ],
+    "CREME:": [
+      "Bata somente o leite condensado no liquidificador até obter um creme ",
+      "Em uma batedeira coloque o creme de leite e bata até virar chantili",
+      "Em um refratário misture o chantili, o leite condensado e o suco de limão, reserve"
+    ],
+    "MONTAGEM:": [
+      "Derreta o chocolate em bainho-maria e misture o creme de leite",
+      "Coloque por cima da massa o creme de limão e a ganache de chocolate, deixe na geladeira por 2 horas, sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JENNIFER CORTEZ PEDROSO LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303602-torta-de-creme-de-limao-rapida.html"
+}

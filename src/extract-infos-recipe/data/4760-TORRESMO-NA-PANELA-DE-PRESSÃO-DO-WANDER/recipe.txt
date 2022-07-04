@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TORRESMO NA PANELA DE PRESSÃO DO WANDER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de toucinho em cubos ou tiras",
+      "1 copo de requeijão de óleo de soja",
+      "1 colher (sopa) de sal",
+      "1 pacotinho de caldo de carne em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o toucinho e escorra bem. Quanto mais seco estiver, melhor fica.",
+      "Tempere o toucinho e reserve.",
+      "Coloque o óleo na panela de pressão, a princípio no fogo alto, adicione o toucinho na panela e comece a mexer. Deixe fritando e mexa de vez em quando.",
+      "Tampe a panela de pressão, sem a borracha da tampa depois de uns 20 minutos que estiver fritando.",
+      "Balance a panela de pressão de vez em quando para misturar o torresmo.",
+      "Deixe ele pururucar por 10 minutos no máximo, tire a tampa e misture com a colher por mais alguns minutos.",
+      "Retire e deixe secar e escorrer em papel-toalha."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WANDERLEY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300281-torresmo-na-panela-de-pressao-do-wander.html"
+}

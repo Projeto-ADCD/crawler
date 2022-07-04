@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CALDA BASE PARA MOLHAR BOLOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de chá de água",
+      "1/2 xícara de chá de açúcar",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água e o açúcar em uma panelinha",
+      "Mexa o açúcar e a água ainda com o fogo desligado",
+      "Ferva",
+      "Assim que ferver está pronto",
+      "Desligue o forno e reserve em um recipiente, espere esfriar para molhar o bolo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Calda super coringa pra ser usada em qualquer tipo de bolo. É super neutra, uso na intenção de levar umidade para o bolo e ressaltar o sabor do recheio"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARINA BARTASSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303047-calda-base-para-molhar-bolos.html"
+}

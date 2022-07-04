@@ -1,0 +1,38 @@
+{
+  "nome_receita": "STROGONOFF DE GADO DA LI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne bovina (bife coxão mole ou carne de panela)",
+      "1 cebola grande",
+      "1 dente de alho ou a gosto",
+      "Óleo para refogar a cebola",
+      "1 copo de vinho tinto",
+      "1 tomate grande sem casca",
+      "1 caixinha de molho de tomate",
+      "1 vidrinho de champignon ou 1/2 vidro de palmito",
+      "1 creme de leite",
+      "Batata palha à gosto",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a cebola e o alho picadinhos com óleo.",
+      "Coloque a carne cortada em cubos ou tiras finas, como preferir.",
+      "Sal a gosto.",
+      "Coloque o vinho. Após secar um pouco a espuma, coloque o tomate picadinho e sem casca.",
+      "Coloque o molho de tomate até ficar bem vermelho.",
+      "Deixe ferver para misturar.",
+      "Coloque o champignon e deixe cozinhar uns 10 minutos.",
+      "Desligue e coloque o creme de leite. Mexa para misturar bem.",
+      "Sirva com a batata palha, arroz branco e maionese de maçã como sugestão."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Vá provando a maciez da carne, pode variar... aí vá acrescentando água e deixe ferver mais até ficar macia."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "LISIANE FROZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300619-strogonoff-de-gado-da-li.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PANQUECA DE BANANA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "2 ovos",
+      "sal a gosto",
+      "manteiga para dourar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem as bananas",
+      "Misture aos ovos",
+      "Ponha o sal",
+      "Coloque manteiga em uma frigideira e doure a panqueca dos dois lados"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "NICKS SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302275-panqueca-de-banana-simples.html"
+}

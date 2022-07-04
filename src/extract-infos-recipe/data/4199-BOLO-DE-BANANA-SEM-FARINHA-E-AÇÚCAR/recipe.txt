@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLO DE BANANA SEM FARINHA E AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas nanicas únicas amassadas com garfo",
+      "Dois ovos inteiros batidos com garfo",
+      "Uma xícara (chá) de aveia flocos finos",
+      "Uma colher (sopa) de canela em pó",
+      "Uma colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque cada ingrediente, um por vez, em um recipiente e vá misturando tudo aos poucos.",
+      "Deixe o fermento por último.",
+      "Coloque no forno em uma forma redonda ou retangular untada com óleo e farinha de trigo.",
+      "Deixei 20 a 25 minutos no forno."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MIRIAM SESTER RETORTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301595-bolo-de-banana-sem-farinha-e-acucar.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BATATAS COM BACON (SUDUDDSHY)",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g bacon",
+      "10 batatas médias",
+      "200 g de requeijão",
+      "50 g de queijo ralado (parmesão)",
+      "200 g de mussarela",
+      "2 caixas de creme de leite pequena",
+      "tempero a gosto (cebola, alho, pimenta-do-reino, salsa, coentro, etc)",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e reserve",
+      "Molho",
+      "Com a gordura que o bacon eliminou durante a fritura, doure os temperos a seu gosto (cebola, alho, etc...)",
+      "Depois acrescente o creme de leite e deixe cozinhar por 5 minutos em fogo médio ",
+      "Coloque as batatas para cozinhar cortadas em rodelas de aproximadamente 5 cm de espessura, com sal a gosto, até ficarem macias (porém, cuidado para não adicionar muito sal, para que a receita geral não fique muito salgada )",
+      "Após esse processo, coloque-as para escorrer e ficarem \"sequinhas\" - em um escorredor de arroz por exemplo ou o utensílio que você tiver disponível. Reserve",
+      "Montagem do prato ",
+      "Em um refratário grande, passe um fio de azeite e coloque uma porção das batatas encaixando-as",
+      "Em seguida, coloque o bacon e por último uma camada de molho",
+      "Repita a operação e nessa segunda camada, coloque a mussarela e o queijo parmesão ",
+      "Leve ao forno por 10 minutos apenas para dourar os queijos ",
+      "Obs: omolho ao ir ao forno vai subir durante o dourar dos queijos, então indico que use um refratorio alto para não cair molho no forno "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SUSANA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305346-batatas-com-bacon-sududdshy.html"
+}

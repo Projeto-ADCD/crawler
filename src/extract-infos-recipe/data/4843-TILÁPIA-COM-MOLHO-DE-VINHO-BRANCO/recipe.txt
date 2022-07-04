@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TILÁPIA COM MOLHO DE VINHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 filés  de tilápia ",
+      "1/2 xícara de vinho branco suave",
+      "1 copo de requeijão",
+      "1 maço de espinafre",
+      "alho a gosto",
+      "margarina a gosto",
+      "sal e pimenta a gosto",
+      "mostarda a gosto",
+      "limão a gosto",
+      "salsinha a gosto",
+      "páprica picante a gosto",
+      "50 g de amêndoas laminadas "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés com alho, limão, mostarda, sal, salsinha, páprica e azeite, reserve.",
+      "Lave bem o espinafre, retire os talos e corte bem fininho; reserve",
+      "Frite o alho na margarina e acrescente o espinafre, mexendo bastante",
+      "Acrescente o requeijão e o vinho branco e mexa até atingir a consistência desejada",
+      "Quanto mais tempo ficar no fogo, mais encorpado ficará o molho",
+      "Em uma frigideira antiaderente, untada com um fio de azeite, prepare os filés grelhando-os",
+      "Retire o filé da frigideira e coloque em um prato, coloque por cima o molho de requeijao",
+      "Polvilhe as amêndoas laminadas por cima e sirva o peixe com o acompanhamento de sua preferência",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Nesse caso, servi com uma batata assada recheada com bacon, azeitonas e catupiry. Você tambem pode acrescentar ao molho de requeijão cogumelos de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SARA CUSTÓDIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300115-tilapia-com-molho-de-vinho-branco.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MACARRÃO COM SARDINHA DE LATA DA BEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 tomates grandes",
+      "2 dentes de alho",
+      "2 sardinhas enlatadas de sua preferência",
+      "1/2 cebola",
+      "1 caldo de carne",
+      "orégano e tempero baiano a gosto",
+      "1 pacote de espaguetti n° 8",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola e a refogue no óleo até que fique levemente dourada",
+      "Em seguida, acrescente o alho para também dourar.",
+      "Descasce os tomates (tire as sementes se preferir), corte em cubinhos e depois junte com a cebola e alho que você refogou.",
+      "Adicione o caldo de carne e temperos a gosto.",
+      "Aguarde levantar fervura e em seguida adicione a água.",
+      "Dica: neste momento, para tirar a acidez dos tomates eu adiono o sal a gosto e uma colher (sobremesa) de açúcar.",
+      "Tampe a panela e deixe o molho encorpar.",
+      "Pegue as sardinhas, separe-as do óleo que vem junto e reserve.",
+      "Tire a pele cuidadosamente e a espinha.",
+      "Corte-as em “cubinhos” e reserve.",
+      "Acrescente ao molho de tomate metade do óleo das sardinhas ou o quanto desejar.",
+      "Serve apenas para dar mais sabor",
+      "Em seguida, coloque também suas sardinhas em “cubinhos”, mexa e deixe ferver por 5 minutos e depois desligue.",
+      "Cozinhe sua massa al dente.",
+      "Depois de pronta é so escorrer e misturar ao molho"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ISABEL PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302781-macarrao-com-sardinha-de-lata-da-bel.html"
+}

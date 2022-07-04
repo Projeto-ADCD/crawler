@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LEITE CONDENSADO CASEIRO DA MARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "500 g de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Antes de tudo coloque um prato de vidro no congelador",
+      "Coloque em uma panela o leite e o açúcar",
+      "Quando começar a engrossar, tire o prato do congelador e despeje uma gota da mistura",
+      "Se escorrer rápido não está pronto, se demorar a escorrer está quase no ponto",
+      "Pegue a mistura (fria) e bata na batedeira por 5 minutos",
+      "Depois, coloque-a na geladeira e espere 7 minutos",
+      "Está pronto seu leite condensado caseiro, ele pode ser usado para fazer doces e tudo mais"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300796-leite-condensado-caseiro-da-mariana.html"
+}

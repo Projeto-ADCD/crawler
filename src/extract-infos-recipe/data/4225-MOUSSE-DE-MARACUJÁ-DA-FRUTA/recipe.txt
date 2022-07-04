@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOUSSE DE MARACUJÁ DA FRUTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa da grande de leite condensado",
+      "1 caixa de creme de leite",
+      "5 maracujá grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque 3 maracujás e bata. Faça como se fosse um suco, porém sem água e sem açúcar.",
+      "Depois, adicione o leite condensado e o creme de leite e bata uns 2 minutos."
+    ],
+    "CALDA DO MOUSSE:": [
+      "Numa panela, coloque 2 colheres normais de açúcar e coloque os 2 maracujás.",
+      "Leve ao fogo, mexendo até virar uma calda e desligue.",
+      "No copo, coloque uma camada de mousse e uma camada de calda e assim vai até acabar.",
+      "Leve ao congelador e deixe firmar por cerca de 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JAMILLE PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301549-mousse-de-maracuja-da-fruta.html"
+}

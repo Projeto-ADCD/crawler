@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ARROZ DE FRIGIDEIRA COM CARNE MOÍDA E LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz (comum ou parbolizado)",
+      "1 tomate médio em fatias",
+      "200 g de vagem macarrão",
+      "300 g de carne moída",
+      "1 pimentão amarelo médio em fatias",
+      "1 pimentão verde médio em fatias",
+      "1 cebola média em pedaços",
+      "4 dentes de alho picados",
+      "1 cenoura média em pedaços",
+      "salsinha picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com um pouco de azeite, coloque a carne moída e frite até que esteja no ponto.",
+      "Adicione alho e cebola para agregar mais sabor e reserve.",
+      "Comece a dourar em uma panela a cebola e o alho com um pouco de azeite e deixe até dourar.",
+      "Acrescente o tomate e os legumes com um pouco de água junto com a salsinha e cozinhe até que fiquem al dentes.",
+      "Adicione a carne moída, misture e eserve.",
+      "Cozinhe o arroz com um pouco de azeite e alho.",
+      "Quando a água evaporar por completo deixe descansando por 5 minutos.",
+      "Em uma frigideira com azeite em fogo baixo, adicione o arroz e misture.",
+      "Posteriormente acrescente o cozido de legumes junto com a carne moída.",
+      "Frite por alguns 5 minutos.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302832-arroz-de-frigideira-com-carne-moida-e-legumes.html"
+}

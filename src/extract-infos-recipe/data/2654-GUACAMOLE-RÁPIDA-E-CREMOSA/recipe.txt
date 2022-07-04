@@ -1,0 +1,39 @@
+{
+  "nome_receita": "GUACAMOLE RÁPIDA E CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme",
+      "1 abacate médio",
+      "suco de 2 limões",
+      "salsa, cebolinha e/ou coentro a gosto",
+      "1 pitada de sal",
+      "1/2 colher (chá) de açúcar",
+      "2 colheres (sopa) de azeite de oliva",
+      "5 colheres (sopa) de água fria",
+      "1 dente de alho",
+      "1 pimenta dedo-de-moça sem sementes",
+      "Salsa",
+      "1 tomate picado em cubos pequenos",
+      "1 pimentão verde/amarelo picado",
+      "1/2 cebola roxa média",
+      "orégano a gosto",
+      "Toque especial",
+      "2 colheres (sopa) de amendoim torrado, salgado e triturado grosseiramente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, junte todos os ingredientes do molho",
+      "Bata vigorosamente de 3 a 5 minuto (de acordo a sua textura preferida) e reserve",
+      "Junte os ingredientes da salsa com 1 pitada de sal e 1 pitada de açúcar",
+      "Depois, coloque em uma peneira e deixe sair o excesso do sumo",
+      "Agora só sobrepor a salsa ao molho e salpicar o amendoim",
+      "Recomendo comer com batatinhas, quesadilhas e pão tipo Wap",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KAYLA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304736-guacamole-rapida-e-cremosa.html"
+}

@@ -1,0 +1,49 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "100 g de margarina",
+      "1/2 xícara de açúcar",
+      "1 ovo",
+      "2 xícaras de trigo",
+      "1 colher (sopa) de fermento",
+      "Creme:",
+      "1 caixa de leite condensado",
+      "1 caixa de leite (medida da lata de leite condensado)",
+      "1 gema",
+      "4 colheres (sopa) de amido de milho",
+      "1 colher (sopa) de essência de baunilha",
+      "Cobertura:",
+      "400 ml de suco de laranja natural",
+      "3 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de amido de milho",
+      "3 maçãs"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Misture todos os ingredientes com a mão",
+      "Abra a massa em uma forma redonda untada com margarina",
+      "Fure a toda a massa com garfo",
+      "Asse no forno por 10 minutos a 180ºC",
+      "Creme:",
+      "Em uma panela misture todos os ingredientes",
+      "Leve ao fogo",
+      "Mexa até engrossar",
+      "Deixe esfriar",
+      "Cobertura:",
+      "Junte todos os ingredientes na panela",
+      "Leve ao fogo até engrossar",
+      "Espere esfriar",
+      "Corte as maças em fatia",
+      "Montagem: massa, creme, maçã, cobertura",
+      "Leve ao forno por 15 minutos a 180ºC"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303215-torta-de-maca.html"
+}

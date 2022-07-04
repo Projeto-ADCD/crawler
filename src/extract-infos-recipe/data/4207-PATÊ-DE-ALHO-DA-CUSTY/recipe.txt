@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PATÊ DE ALHO DA CUSTY",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 gramas de maionese",
+      "1 caixa de creme de leitr",
+      "1 dente de alho",
+      "1 tablete de tempero pronto da sua preferência",
+      "Salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o alho bem ralado no liquidificador.",
+      "Acrescente a maionese, o tempero pronto, salsinha e cebolinha.",
+      "Bata até atingir uma consistência homogênea."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CUSTODIA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301576-pate-de-alho-da-custy.html"
+}

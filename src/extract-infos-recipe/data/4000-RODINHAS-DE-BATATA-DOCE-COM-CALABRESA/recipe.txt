@@ -1,0 +1,28 @@
+{
+  "nome_receita": "RODINHAS DE BATATA DOCE COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas doce",
+      "1 linguiça calabresa",
+      "alho picado a gosto",
+      "orégano a gosto",
+      "azeite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas doce, aproximadamente 20 minutos na pressão.",
+      "Depois de cozidas, corte em rodinhas de aproximadamente 1 cm.",
+      "Distribua as rodinhas em uma forma.",
+      "Coloque alho picado a gosto em cima das rodinhas.",
+      "Salpique orégano a gosto.",
+      "Corte a linguiça calabresa em rodelas finas e coloque 1 rodela em cada rodinha de batata doce.",
+      "Regue azeite a gosto.",
+      "Leve ao forno a 180ºC por cerca de 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EVOLUINDO EM PAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302225-rodinhas-de-batata-doce-com-calabresa.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE PINHÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pinhão descascado",
+      "1 cebola",
+      "3 dentes de alho",
+      "azeite a gosto",
+      "cheiro-verde",
+      "tempero de sua preferência",
+      "1 pacote de farofa pronta",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o pinhão com sal e limpe-o para tirar a pele",
+      "Adicione azeite na panela, refogue a cebola, o alho",
+      "Acrescente seu tempero e o pinhão",
+      "Refogue bem e jogue a farofa, depois adicione cheiro-verde",
+      "Pronto, fica uma delícia"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303500-farofa-de-pinhao.html"
+}

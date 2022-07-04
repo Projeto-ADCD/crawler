@@ -1,0 +1,68 @@
+{
+  "nome_receita": "ABADEJO AO MOLHO VERMELHO EM CROSTA DE COCO COM PURÊ DE INHAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o peixe",
+      "4 lombos de abadejo de aproximadamente 150 g",
+      "2 colheres (sopa) de azeite",
+      "2 colheres (chá) de pimenta calabresa seca",
+      "sal e pimenta-do-reino a gosto",
+      "Para a crosta",
+      "1 e 1/2 xícara de farinha de trigo",
+      "2 claras de ovos ligeiramente batidas",
+      "100 g de coco ralado seco",
+      "100 g de coco em flocos seco",
+      "Para o molho",
+      "1/2 xícara de folhas de manjericão picado",
+      "1e 1/2 xícara de cebola ralada",
+      "2 dentes de alho picado",
+      "3 colheres (sopa) de azeite de dendê",
+      "1 lata de tomate pelado em cubos",
+      "1 e 1/2 colher (sopa) de farinha de trigo dissolvida em 100 ml de água fria",
+      "200 ml de leite de coco",
+      "sal e pimenta-do-reino  a gosto",
+      "Para o purê",
+      "500 g de inhame",
+      "2 colheres (sopa) de manteiga",
+      "100 ml de creme de leite fresco",
+      "1 colher de cheiro-verde",
+      "sal e pimenta-do-reino",
+      "noz moscada ralada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peixe",
+      "Tempere o peixe com sal, pimenta-do-reino, azeite e pimenta calabresa.",
+      "Deixe marinando em geladeira por aproximadamente 15 minutos.",
+      "Retire da geladeira e passe os pedaços de peixe pela farinha de trigo.",
+      "Retire bem o excesso, passe pelas claras e por último pelo coco.",
+      "Frite em frigideira antiaderente com um fio de azeite, apenas de um lado",
+      "Transfira os lombos para uma assadeira antiaderente ligeiramente untada com azeite. Leve ao forno forte (220° C) para terminar o cozimento por 12 minutos.",
+      "Molho",
+      "Aqueça o azeite de dendê",
+      "Doure a cebola e o alho no azeite de dendê aquecido",
+      "Acrescente o tomate pelado",
+      "Corrija o sal e pimenta-do-reino",
+      "Cozinhe por aproximadamente 20 minutos",
+      "Retire do fogo e passe em um mixer até homogeneizar a mistura",
+      "Volte para o fogão, verta vagarosamente a farinha de trigo dissolvida e deixe engrossar o molho por aproximadamente 10 minutos",
+      "Acrescente o leite de coco, misture bem e acrescente o manjericão.",
+      "Purê",
+      "Descasque os inhames e corte em cubos grandes.",
+      "Ferva na água salgada ate ficar cozido (de 15 a 20 minutos).",
+      "Bata o inhame (ainda quente) no mixer de alimentos com a manteiga",
+      "Despeje em uma panela e, sem parar de mexer, acrescente vagarosamente o creme de leite até atingir a textura ideal (aveludado)",
+      "Acrescente o cheir-verde e misture bem",
+      "Rale noz moscada sobre a mistura e corrija o sal e a pimenta-do-reino",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Apresentação: Coloque o molho em um prato raso, disponha o lombo de abadejo e guarnição com o inhame. Sirva acompanhado de risoto de aspargo e salada de tomate com azeitonas pretas"
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CARLOS HENRIQUE DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300105-abadejo-ao-molho-vermelho-em-crosta-de-coco-com-pure-de-inhame.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COOKIE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3/4 de xícara de açúcar mascavo",
+      "3/4 de xícara açúcar refinado",
+      "200 g manteiga a temperatura ambiente ou derretida",
+      "2 xícaras farinha",
+      "1/2 colher rasa (sopa) de fermento químico ou de bicarbonato de sódio",
+      "1 colher (chá) de sal",
+      "1 ovo e 1 gema",
+      "chocolate picado ou em gotas a gosto (geralmente uso mais ou menos 400 g de chocolate)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bastante a manteiga, os açúcares e os ovos (pode ser na batedeira), até ficar bem uniforme",
+      "Em um recipiente separado, misture os secos (farinha, sal, fermento)",
+      "Adicione os secos aos poucos (preferencialmente peneirando) e mexendo o mínimo/mais leve possível até uniformizar",
+      "Adicione o chocolate e mexa mais um pouquinho",
+      "Preaqueça o forno a 180º C por 10 minutos (e deixe a massa descansando durante esse tempo)",
+      "Faça bolinhas e adicione numa assadeira untada com manteiga ou forrada com papel manteiga, posicionando cada bolinha com espaço entre elas",
+      "Porque elas dão uma espalhada no calor",
+      "Deixe cada fornada aproximadamente 10 minutos no forno",
+      "O ponto é quando eles ainda estão molinhos, mas com uma \"casquinha\" de açúcar por fora",
+      "Depois de tirar do forno, deixe os cookies descansando mais uns 4 a 5 minutinhos",
+      "Por que eles saem realmente bem molinhos e podem acabar desmoronando quando for manusear/comer",
+      "Geralmente eu pego eles com alguma espátula que consiga pegar o cookie inteiro para eles não desmoronarem e para dar espaço na forma para próxima fornada"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GATTICC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305962-cookie.html"
+}

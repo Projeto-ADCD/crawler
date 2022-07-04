@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DOCE DE LEITE COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite integral",
+      "4 xícaras de (chá) de açúcar",
+      "150 g de coco ralado de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma panela mais funda que tiver em casa, despeje o leite e o açúcar na panela no fogo alto",
+      "Quando aparentar fervura, deixe o fogo médio",
+      "Depois que começar a ferver novamente, coloque o coco ralado e deixe ficar bem pastoso",
+      "Lembre-se de ficar sempre mexendo para não enpelotar",
+      "Depois que estiver pastoso e dourado, retire da panela e coloque em um recipiente de sua preferência",
+      "Deixe esfriar e sirva "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KÁRITA MARCELA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301222-doce-de-leite-com-coco.html"
+}

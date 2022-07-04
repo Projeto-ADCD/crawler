@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO PARISIENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão (de qualquer tipo)",
+      "1 caixa de creme de leite",
+      "1/2 sachê de extrato de tomate",
+      "1 caixa de ovos de codorna ou 6 ovos de galinha",
+      "azeitona a gosto",
+      "queijo mussarela a gosto",
+      "presunto a gosto",
+      "1 peito de frango",
+      "1 colher de margarina ou manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque água, sal e azeite ou óleo",
+      "Em outra panela coloque os ovos pra cozinhar",
+      "Asse ou cozinhe o frango (temperos a gosto)",
+      "Coloque o macarrão na água com óleo fervendo e mexa um pouco para que não grude",
+      "Enquanto o macarrão cozinha, corte o presunto e o queijo do tamanho que achar melhor e reserve",
+      "Desfie o frango e reserve assim como o milho, a ervilha, as azeitonas e todos os ingredientes",
+      "Em seguida, descaque os ovos e escorra o macarrão (se estiver no ponto desejado)",
+      "Enquanto o macarrão escorre coloque na panela a margarina ou manteiga com extrato de tomate e o creme de leite, misture até que fique homogêneo",
+      "Em seguida coloque todos os outros ingredientes e misture bem",
+      "Sirva ainda quente"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALICE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300174-macarrao-parisiense.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COSTELA COM VERDURAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 cebolas grandes",
+      "2 dentes de alho",
+      "1 kg de costela bovina",
+      "5 tabletes de caldo",
+      "5 cenouras",
+      "2 chuchus",
+      "5 batatas",
+      "5 pimentas doce"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as cebolas em rodelas e faça uma camada no fundo da panela de pressão",
+      "Coloque o alho em cima da cebola",
+      "Em seguida, coloque toda a carne",
+      "Depois, coloque o tablete de caldo e por último, mais uma camada de rodelas de cebola e e deixe cozinhar na pressão por 30 a 40 minutos",
+      "Enquanto a carne cozinha, corte as verduras do formatos de sua preferência e cozinhe em uma panela separada com água e sal",
+      "Quando terminar o cozimento da carne, adicione a carne em uma travessa com o caldinho que se forma e adicione as verduras cozidas",
+      "Junte a pimenta doce.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ADRIEL CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302735-costela-com-verduras.html"
+}

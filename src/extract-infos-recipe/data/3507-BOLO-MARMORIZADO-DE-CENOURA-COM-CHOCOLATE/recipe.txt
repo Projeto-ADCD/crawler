@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLO MARMORIZADO DE CENOURA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras grandes (descascadas e picadas)",
+      "1 xícara de óleo (milho ou girassol)",
+      "5 ovos",
+      "2 xícaras de açúcar",
+      "3 xícaras de farinha de trigo",
+      "1 xícara de chocolate em pó ",
+      "1 colher (sopa) de fermento",
+      "Calda",
+      "4 colheres de chocolate em pó",
+      "1 colher (sopa) de manteiga (sem sal)",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré aqueça o forno a 180°",
+      "Enquanto isso, bata no liquidificador o óleo com os ovos, a cenoura e o açúcar até ficar uma massa homogênea",
+      "Transfira para uma tigela grande, acrescente aos poucos a farinha de trigo peneirada e bata bem até que se torne uma massa lisa e sem grumos",
+      "Coloque o fermento e apenas misture-o na massa",
+      "Unte uma forma redonda com manteiga e enfarinhe",
+      "Bata na forma de ponta cabeça na pia, para tirar o excesso de farinha",
+      "Adicione 3/4 da massa e reserve",
+      "Com a massa restante misture o chocolate em pó até que se dissolva todo chocolate",
+      "A colheradas, coloque na forma e no final com um garfo misture levemente formando um desenho",
+      "Asse por aproximadamente 40 min e verifique se está pronto com o teste do palito (saiu limpo e seco, estará pronto)",
+      "Calda",
+      "Leve em fogo baixo, todos os ingredientes e misture-os muito bem até formar uma calda espessa",
+      "Despeje a calda sobre o bolo",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas pra um bolo perfeito:\n1- Sempre preaqueça o forno\n2- Disponha sempre ovos e qualquer outro ingrediente em temperatura ambiente\n3- Nunca abra o forno antes dos 30 minutos\n4- Evite (assim que tiver assado) deixa lo próximo a corredor ou janelas, a queda brusca de temperatura faz o bolo murchar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALINE IBAÑEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303230-bolo-marmorizado-de-cenoura-com-chocolate.html"
+}

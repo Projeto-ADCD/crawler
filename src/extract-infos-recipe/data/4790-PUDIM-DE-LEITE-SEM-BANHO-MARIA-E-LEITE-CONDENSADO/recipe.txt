@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PUDIM DE LEITE SEM BANHO MARIA E LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 ovos",
+      "300 g de açúcar refinado",
+      "1 litro de leite",
+      "1 colher de essência de baunilha."
+    ],
+    "CALDA": [
+      "100 g de açúcar",
+      "50 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ovos a uma tigela e bata com um fuê ou garfo até misturarem.",
+      "Em seguida, adicione o leite e mexa até misturar.",
+      "Coloque o açúcar e a baunilha e encha até incorporar. Vai ficar uma mistura bem líquida."
+    ],
+    "CALDA": [
+      "Coloque em uma panela as 100 gramas de açúcar e os 50 ml de água e misture.",
+      "Deixe derreter no fogo até virar caramelo."
+    ],
+    "PARA ASSAR": [
+      "Coloque a mistura do pudim na forma já caramelizada e leve ao forno a 180º.",
+      "Espete um palito e, se sair limpo, retire do forno e deixe esfriar.",
+      "Leve à geladeira e sirva gelado Como que em uma forma em seguida adicione a massa do pudim."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRISCILA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300225-pudim-de-leite-sem-banho-maria-e-leite-condensado.html"
+}

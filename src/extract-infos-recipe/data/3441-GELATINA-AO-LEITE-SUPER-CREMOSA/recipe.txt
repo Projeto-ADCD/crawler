@@ -1,0 +1,24 @@
+{
+  "nome_receita": "GELATINA AO LEITE SUPER CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotinhos de gelatina de morango (pode usar outro sabor)",
+      "500 ml de leite integral fervendo",
+      "500 ml de leite intergral gelado",
+      "1 creme de leite",
+      "1 leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite para ferver e quando ferver, adicione a gelatina",
+      "Assim que a gelatinha dissolver coloque o leite gelado na gelatina ainda quente",
+      "Depois que misturar a gelatinha com o leite quente e gelado, bata no liquidificador ainda morno com o leite condensado e o creme de leite",
+      "Coloque na geladeira e deixe endurecer, fica delicioso e super cremoso."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "JUNIOR SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303364-gelatina-ao-leite-super-cremosa.html"
+}

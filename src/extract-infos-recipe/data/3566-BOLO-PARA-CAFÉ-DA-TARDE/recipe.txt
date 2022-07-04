@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO PARA CAFÉ DA TARDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 xícaras (chá) de farinha de trigo",
+      "2 xícaras (chá) de açúcar",
+      "1/4 de xícara (chá) de óleo",
+      "1/4 de xícara (chá) de margarina",
+      "1 xícara (chá) de leite",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as gemas das claras e bata as claras em neve.",
+      "Adicione o açúcar e bata até ponto de suspiro",
+      "Adicione as gemas e bata.",
+      "Adicione o óleo e a margarina (pode-se colocar em um medidor de meia xícara a margarina e completar o espaço com óleo para facilitar a medida) e bata.",
+      "Adicione o leite quente e bata até ficar homogêneo.",
+      "Peneire o trigo e o fermento e vá mexendo vagarosamente até que a farinha esteja toda integrada na massa.",
+      "Despeje em forma untada e asse em forno a 200°C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KERYN HAPUK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303124-bolo-para-cafe-da-tarde.html"
+}

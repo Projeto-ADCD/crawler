@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA FÁCIL DE BACON E LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 unidades de bacon picadinho",
+      "2 cebolas picadas",
+      "1 dente de alho picadinho",
+      "2 tomates picadinhos",
+      "1 pimentão vermelho pequeno",
+      "1 pimentão verde pequeno",
+      "2 ovos cozidos picados",
+      "1 pacote de farofa pronta",
+      "1 lata de ervilha",
+      "1 lata de milho verde",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média frite o bacon",
+      "Depois acrescente a cebola e o alho, deixando dourarem junto com o bacon",
+      "Acrescente o tomate, os pimentões e o sal",
+      "Vá mexendo até tudo começar a dourar",
+      "Após isso acrescente a farofa e continue mexendo",
+      "Pra dar o toque final acrescente os ovos cozidos e picados, a ervilha e o milho verde",
+      "Só colocar em uma travessa e servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CARINE FERREIRA DE CASTRO ELES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303611-farofa-facil-de-bacon-e-legumes.html"
+}

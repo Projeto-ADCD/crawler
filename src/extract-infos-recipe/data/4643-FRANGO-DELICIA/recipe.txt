@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FRANGO DELICIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de file de frango",
+      "1 pacote de creme de cebola",
+      "1 cx de creme de leite",
+      "1 sachê de maionese",
+      "1 pouco de molho de tomate opcional",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueca o forno",
+      "Tempere o frango como de costume, mas não coloque na panela pois o creme de cebola é salgado.",
+      "Depois, adicione o creme de leite e creme de cebola e a maionese e mexa bem.",
+      "Coloque na assadeira e cubra com papel aluminio e deixe por 30 a 35 minutos.",
+      "Depois, retire o papel e deixe dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "UMA PREMATURA MÃE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300615-frango-delicia.html"
+}

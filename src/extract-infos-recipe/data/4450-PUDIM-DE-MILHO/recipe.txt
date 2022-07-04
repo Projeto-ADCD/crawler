@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PUDIM DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 lata de milho verde sem água",
+      "50 g de coco ralado",
+      "1 lata de leite condensado",
+      "1 colher (sobremesa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador muito bem os ovos, o milho verde e o leite condensado",
+      "Acrescente o coco ralado e o fermento em pó e bata rapidamente",
+      "Coloque em uma forma de furo central de 20 a 25cm, bem untada com manteiga e enfarinhada",
+      "Leve ao fogo por 30 minutos ou até que espetando em palito saia seco"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JHENI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301101-pudim-de-milho.html"
+}

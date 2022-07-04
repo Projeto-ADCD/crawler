@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO LOW CARB FÁCIL DA ÉRICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 colher (sopa) rasa de açafrão (10 g)",
+      "1 xícara de farinha de aveia (120 g)",
+      "3 colher (sopa) de água",
+      "3 colher (sopa) de creme de leite (45 g)",
+      "1 colher (sopa) de fermento em pó (12 g)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador, menos o fermento em pó",
+      "Depois que estiverem na consistência homogênea, adicione o fermento",
+      "Unte uma forma específica para pães (pode ser de silicone) e despeje a massa",
+      "Leve ao forno preaquecido por 20 minutos em temperatura de 200º C",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA:\nO pão pode ser decorado com gergelim preto e branco ou outro tipo de semente\nCongele o pão para que o mesmo dure vários dias.\nCorte-o e enrole com plástico-filme\nOBS: A quantidade de porções depende do tamanho que você irá cortar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ÉRICA TENORIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301307-pao-low-carb-facil-da-erica.html"
+}

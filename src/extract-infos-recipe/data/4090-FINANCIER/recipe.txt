@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FINANCIER",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de manteiga derretida",
+      "120 g de farinha de amêndoas moída",
+      "120 g de farinha de trigo",
+      "4 unidades de clara de ovo",
+      "45 g de farinha de trigo",
+      "120 g de açúcar",
+      "Uma pitada de canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, coloque 1 xícara (chá) de farinha de amêndoas, 1 xícara (chá) de farinha de trigo e o açúcar de confeiteiro e misture.",
+      "Bater levemente as claras em neve até formar uma mistura homogênea. Leve para a geladeira por 40 minutos.",
+      "Misture levemente as claras com as farinhas.",
+      "Derreta a manteiga numa panela de fundo claro. Deixar derreter, mexendo bem.",
+      "A manteiga vai começar a formar uma espuma e estalar. Conforme o barulho diminui, a manteiga vai começar a adquirir uma cor mais escura.",
+      "Quando ela estiver num tom caramelo, desligue a panela, acrescente à massa, e misture bem, até que a massa fique completamente homogênea.",
+      "Colocar em forminhas untadas e farinhadas.",
+      "Coloque para assar na parte mais alta do forno ja preaquecido a 180ºC por cerca de 20 minutos, até que estejam ligeiramente dourados na parte superior."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CRIS VARGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301889-financier.html"
+}

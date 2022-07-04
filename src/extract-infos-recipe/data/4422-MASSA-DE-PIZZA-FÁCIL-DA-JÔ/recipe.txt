@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MASSA DE PIZZA FÁCIL DA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "100ml de água aquecia no micro-ondas",
+      "4 colheres (café) de fermento biológico",
+      "100 ml de leite",
+      "1 ovo",
+      "1/4 de oleo",
+      "1 colher (café) de açúcar",
+      "1 colher (café) de sal",
+      "3 xicaras de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento na água aqueciae, em seguida, coloque em uma tigela com o leite, ovo, oleo, açúcar e sal. Misture tudo.",
+      "Acrescente o trigo e mexa com as mãos até não grudar mais. Enrole a massa num pano de prato.",
+      "Aqueça o micro-ondas por 30 segutos. Depois, coloque a massa enrolada lá dentro por 30 minutos no calor, para a massa inchar e crescer.",
+      "Abra a massa, coloque na assadeira, recheie a gosto e leve para assar por 20 minutos em forno pré-aquecido a 180 graus."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Se quiser congelar, asse metade do tempo, espere esfriar, embale e leve ao congelador."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301165-massa-de-pizza-facil-da-jo.html"
+}

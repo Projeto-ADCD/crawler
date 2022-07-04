@@ -1,0 +1,45 @@
+{
+  "nome_receita": "BOLO SEM FARINHA RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo de coco",
+      "4 ovos",
+      "100 g de coco ralado",
+      "1 lata de leite condensado",
+      "1/2 colher (sopa) de fermento",
+      "1 colher (sopa) de manteiga",
+      "Bolo de chocolate",
+      "6 ovos",
+      "6 colheres (sopa) de achocolatado",
+      "100 g de coco ralado",
+      "2 colheres (sopa) de manteiga em ponto de pomada",
+      "6 colheres (sopa) de açúcar",
+      "1 colher (sopa) de fermento",
+      "Recheio",
+      "400 g de doce de leite",
+      "Cobertura",
+      "7 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de achocolatado",
+      "1 colher (sopa) de manteiga",
+      "1 lata de creme de leite sem soro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolos",
+      "Bata os ingredientes no liquidificador, menos o fermento. ",
+      "Transfira a mistura para uma",
+      "vasilha, junte o fermento e misture delicadamente com auxílio de uma espátula.",
+      "Unte uma forma retangular, despeje a massa e leve ao forno preaquecido a 180º C por cerca de 45 minutos.",
+      "Espere amornar, desenforme os bolos e coloque o recheio.",
+      "Cobertura",
+      "Leve todos os ingredientes ao fogo e mexa até engrossar.",
+      "Despeje no bolo ainda quente e finalize com granulados.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305072-bolo-sem-farinha-recheado.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MEDALHÃO DE FRANGO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg peito de frango",
+      "1 pacote de bacon em fatias",
+      "1 pacote (sopa) creme de cebola (65 g)",
+      "1 colher (sopa) de margarina",
+      "1 vidro de champignon",
+      "1 xícara (chá) de Leite",
+      "10 azeitonas pretas (picadas)",
+      "2 colheres (sopa) de amido de milho",
+      "100 g de mussarela",
+      "pimenta, coentro e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o peito de frango e triture no liquidificador aos poucos usando a tecla pulsar.",
+      "Transfira para um recipiente, junte o creme de cebola, pimenta, coentro e misture bem.",
+      "Faça bolinhas com um pedaco se mussarela dentro e enrole em volta uma tira de bacon, prenda com um palito.",
+      "Acomode os medalhões em uma assadeira untada e leve para assar em forno médio (180º C) por 30 minutos, virando na metade do tempo.",
+      "Para o molho",
+      "Adicione 1 colher (sopa) de margarina na frigideira e refogue rapidamente o champignon fatiado e as azeitonas.",
+      "Junte o Leite com a maisena diluída, tempere com sal, pimenta e misture até engrossar bem, cubra o medalhão com o molho e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALINE MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304651-medalhao-de-frango-recheado.html"
+}

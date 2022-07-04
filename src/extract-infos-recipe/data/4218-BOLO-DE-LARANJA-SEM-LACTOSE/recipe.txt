@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE LARANJA SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de maisena",
+      "1 xícara de suco laranja",
+      "2 colheres de manteiga de soja",
+      "2 colheres (sobremesa) de fermento"
+    ],
+    "CALDA:": [
+      "1 xícara de açúcar",
+      "1/2 de suco de laranja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata açúcar e a mateiga no liquidificador, depois coloque todos ingredientes e misture."
+    ],
+    "CALDA": [
+      "Derreta o açúcar, depois despeje o suco e mexa sem parar em fogo baixo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIA SOUSA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301565-bolo-de-laranja-sem-lactose.html"
+}

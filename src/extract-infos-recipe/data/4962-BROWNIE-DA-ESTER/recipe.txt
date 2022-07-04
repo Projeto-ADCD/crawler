@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BROWNIE DA ESTER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha",
+      "1 xícara de açúcar",
+      "1 xícara de achocolatado",
+      "3/4 de xícara de óleo",
+      "1 barra de chocolate amargo",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as claras e gemas",
+      "Misture as claras com o açúcar",
+      "Derreta no fogo ou micro-ondas o chocolate amargo",
+      "Adicione o chocolate derretido",
+      "Junte o óleo, as claras, o achocolatado, a farinha e misture bem, na mão ou na batedeira.",
+      "Coloque o bolo no forno a 180° C por 20 minutos",
+      "Espete um garfo no bolo e se o garfo sair limpo quer dizer que está pronto",
+      "Senão estiver limpo espere mais 5 minutos",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CHAIA GAMMERMAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299850-brownie-da-ester.html"
+}

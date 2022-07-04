@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PIPOCA COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres de sopa de milho pipoca",
+      "2 colheres de sopa de óleo de milho",
+      "5 colheres de sopa de açúcar cristal",
+      "1/2 xícara de leite ninho",
+      "3 colheres de sopa de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma pipoqueira, coloque o óleo, a pipoca, o açúcar e a àgua.",
+      "Mexa até que estoure tudo, rapidamente vire em uma bacia e polvilhe o leite ninho."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "JOCIANI DALACOSTA FÁVERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300209-pipoca-com-leite-ninho.html"
+}

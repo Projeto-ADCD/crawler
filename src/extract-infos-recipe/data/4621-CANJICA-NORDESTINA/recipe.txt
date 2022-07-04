@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CANJICA NORDESTINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de fubá de milho pré cozido",
+      "2 colheres (chá) de sal",
+      "2 colheres (sopa) de margarina",
+      "1 litro de leite",
+      "200 ml de leite de côco",
+      "1 caixa grande (395 g) de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, misture metade do leite, metade do leite condensado, o sal, a margarina e o leite de côco. Leve ao fogo baixo.",
+      "Misture o restante do leite condensado e do leite e reserve.",
+      "Quando começar a ferver adicione o fubá gradativamente e sempre mexendo para não embolar.",
+      "Vá adicionando a mistura de leite condensado e leite junto o fubá para não ficar muito denso.",
+      "Depois de misturar tudo, sempre mexendo para não embolar, deixe cozinhar por cerca 5 minutos.",
+      "Leve a geladeira por cerca de 1 hora antes de servir.",
+      "Pode ser adicionado canela em pó ainda quente se necessário."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DIOGO GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300710-canjica-nordestina.html"
+}

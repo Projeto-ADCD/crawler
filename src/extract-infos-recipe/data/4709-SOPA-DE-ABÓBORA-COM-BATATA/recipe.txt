@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SOPA DE ABÓBORA COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de abóbora",
+      "1 batata inglesa ",
+      "1 cebola, alho a gosto",
+      "carne a gosto",
+      "tempero de legumes pronto",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a abóbora e a batata em cubos e reserve.",
+      "Corte as cebolas e deixe dourar com o azeite",
+      "Coloque a abóbora e a batata junto com o alho e junte carne para dourar com o tempero.",
+      "Assim que estiver grudando na panela, coloque água quente até cobrir",
+      "Tampe e deixe cozinhar por 15 minutos.",
+      "Desligue e deixe esfriar pra bater tudo no liquidificador.",
+      "Sirva quente e com um toque de queijo ralado (a gosto)",
+      "Simples e fica uma delícia.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "EDJANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300384-sopa-de-abobora-com-batata.html"
+}

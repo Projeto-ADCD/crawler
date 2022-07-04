@@ -1,0 +1,40 @@
+{
+  "nome_receita": "LOMBO ASSADO COM MOLHO DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de lombo (peça)",
+      "1 cebola picada",
+      "4 dentes de alho amassados",
+      "suco de 1 limão",
+      "suco de 3 laranjas",
+      "1/2 xícara de vinagre",
+      "1/2 xícara de azeite",
+      "2 colheres (sopa) de mostarda",
+      "1 colher (chá) de amido de milho",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a cebola, alho, suco de laranja, suco de limão, azeite, vinagre, sal, pimenta e orégano.",
+      "Na peça de lombo, faça pequenos furos com uma faca pequena.",
+      "Em uma tigela, coloque o lombo e a mistura de temperos",
+      "Deixe descansado (mínimo 2 horas, mas o ideal é de um dia para o outro).",
+      "Preaqueça o forno a 200° C",
+      "Coloque o lombo (sem o caldo de temperos) numa assadeira e cubra com papel-alumínio",
+      "Asse por 40 minutos (200°), retire o papel-alumínio e deixe mais 20 minutos ou até dourar.",
+      "O caldo dos temperos, leve à panela para ferver.",
+      "Acrescentar a mostarda e 1 colher (chá) de amido dissolvido em 1/2 xícara de água.",
+      "Deixe ferver, mexendo até virar um molho homogêneo.",
+      "Retire a carne do forno, deixe descansar e fatie",
+      "Sirva o molho em um potinho separado.",
+      "Podem ser colocadas batatas cozidas junto à carne na assadeira até dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAFAEL CALDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305354-lombo-assado-com-molho-de-laranja.html"
+}

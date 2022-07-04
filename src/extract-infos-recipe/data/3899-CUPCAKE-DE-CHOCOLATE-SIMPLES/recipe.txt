@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CUPCAKE DE CHOCOLATE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de açúcar refinado",
+      "1 xícara de farinha de trigo",
+      "6 colheres (sopa) de chocolate",
+      "2 colheres (chá) de fermento",
+      "1 colher (chá) de essência de baunilha",
+      "150 g de manteiga",
+      "2/3 de xícara de leite",
+      "120 g de chocolate picado (opcional)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180°C",
+      "Bata os ovos com açúcar, misture a farinha, o chocolate, o fermento, a baunilha e o leite.",
+      "Derreta a manteiga e adicione à mistura",
+      "Adicione o chocolate picado (opcional)",
+      "Distribua a massa nas forminhas de cupcake e asse por cerca de 20 minutos à 180° C."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você também vai precisar de uma forma de cupcake (para levar ao forno) e forminhas de papel (para colocar a massa dentro)."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LAURA GROTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302415-cupcake-de-chocolate-simples.html"
+}

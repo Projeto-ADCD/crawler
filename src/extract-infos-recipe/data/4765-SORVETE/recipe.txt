@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 leite condensado",
+      "2 cremes de leite",
+      "1 flan (qualquer sabor)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o flan conforme as instruções da embalagem.",
+      "Após esfriar o flan, bata no liquidificador juntamente com o leite condensado e o creme de leite por aproximadamente 3 minutos.",
+      "Deposite o conteúdo em um pote e leve ao congelador até endurecer."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAIANE FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300264-sorvete.html"
+}

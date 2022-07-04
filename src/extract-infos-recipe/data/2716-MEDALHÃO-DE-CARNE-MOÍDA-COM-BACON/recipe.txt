@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MEDALHÃO DE CARNE MOÍDA COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída",
+      "1 ovo",
+      "1 pacote em pó de creme de cebola",
+      "1 cebola ralada",
+      "2 colheres (sopa) de farinha de rosca",
+      "sal a gosto",
+      "pimenta-do-reino, orégano, manjericão, manjerona, chimichurri desidratados a gosto",
+      "12 fatias finas de bacon",
+      "óleo para untar",
+      "1 colher (sopa) farinha panko ou de rosca",
+      "4 dentes de alho amassados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a carne, o ovo, o pó para creme de cebola, a cebola, alho e a panko.",
+      "Tempere com sal, pimenta-do-reino e os temperos desidratados.",
+      "Modele 12 bolas médias de aproximadamente 75 g e achate levemente com as mãos.",
+      "Em volta de cada medalhão, coloque uma fatia de bacon e prenda com um palito de dente.",
+      "Coloque em uma forma untada e leve ao forno preaquecido por 30 minutos, virando na metade do tempo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "KAREN EMANUELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304588-medalhao-de-carne-moida-com-bacon.html"
+}

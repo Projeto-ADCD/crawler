@@ -1,0 +1,50 @@
+{
+  "nome_receita": "BRUSCHETTA COM FONDUE DE BERINJELA COM RICOTA E PROVOLONE PRÉSIDENT",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de berinjela",
+      "1 unidade de pão italiano ",
+      "2 dentes de alho",
+      "60 g de creme de ricota Président",
+      "100 g de provolone Président",
+      "manjericão fresco",
+      "orégano fresco",
+      "60 g de pimentão amarelo",
+      "60 g de pimentão vermelho",
+      "suco de um limão siciliano",
+      "2 tomates",
+      "30 g de coentro",
+      "sal",
+      "cominho",
+      "azeite",
+      "salsinha "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retirar a pele do tomate e dos pimentões",
+      "Para os tomates, utilize o método de colocá-los em água fervente por 10 segundos",
+      "Já os pimentões, devem ser tostados no fogo e depois deixá-los abafados em papel-alumínio ou aqueles saquinhos para armazenar legume",
+      "Reserve os dois",
+      "Em uma travessa, leve a berinjela para assar, até amolecer (uns 30 minutos)",
+      "Enquanto isso, retire a pele e as sementes do tomate e dos pimentões, pique em brunnoise, (cubinho de 1 a 2 mm de lado)",
+      "Coloque em uma panela com um dedo de azeite, junte o dente de alho cotado em lâmina e 4 folhas de manjericão",
+      "Deixe cozinhar por uns 15 minutos",
+      "Retire a berinjela do forno, remova a casca e pique a polpa",
+      "Misture ao primeiro preparo, utilizando apenas um pouco do azeite e o suco do limão",
+      "Acrescente a ricota a gosto, o cominho e as ervas frescas",
+      "Corrija o sal",
+      "Passe um dente de alho nas fatias do pão italiano, que devem ser tostadas em frigideira com azeite",
+      "Cubra a fatia com o fondue de berinjelas, cubra com o queijo provolone ralado e leve em forno às 160°C para gratinar",
+      "Use a criatividade na decoração para servir",
+      "Fica uma delicia."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Raquel Pereira dos Santos Conchetto "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303875-bruschetta-com-fondue-de-berinjela-com-ricota-e-provolone-president.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FEIJÃO CARIOQUINHA DA FÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de feijão carioquinha",
+      "2 batatas médias",
+      "1 cenoura pequena",
+      "1 linguiça calabresa",
+      "1 pedaço de bacon",
+      "1/2 pimentão verde",
+      "1 tomate médio",
+      "1/2 cebola",
+      "1 folha de louro",
+      "1 tablete de caldo de bacon",
+      "2 dentes de alho",
+      "colorau",
+      "1 colher pequena de curry",
+      "sal e pimenta a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão carioquinha para cozinhar até ficar bem macio",
+      "Em outra panela doure o alho adicione o bacon e a calabresa",
+      "Frite em seguida tire um pouco do óleo, pois o bacon solta muita gordura ",
+      "Adicione o feijão cozido, as batatas e as cenouras também cozidas",
+      "Coloque o caldo de bacon e experimente para ver se está bom de sal",
+      "Adicione o louro (pode ser no cozimento do feijão também, eu gosto de colocar depois)",
+      "Adicione também o tomate, o pimentão e o curry ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "FERNANDA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305318-feijao-carioquinha-da-fe.html"
+}

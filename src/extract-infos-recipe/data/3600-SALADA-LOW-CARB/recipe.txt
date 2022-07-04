@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de sardinha",
+      "2 ovos cozidos",
+      "2 tomates",
+      "1 cebola",
+      "pimentão e alho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos",
+      "Corte a sardinha ou amasse",
+      "Pique o tomate, cebola e o alho",
+      "Junte tudo e tempere"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MAAH MIAU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303066-salada-low-carb.html"
+}

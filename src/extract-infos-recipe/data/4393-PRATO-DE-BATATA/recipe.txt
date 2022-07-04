@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PRATO DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas grandes",
+      "Sal a gosto",
+      "Pimenta-do-reino (opcional)",
+      "300 g de mussarela ralada ou fatiada",
+      "1 copo de leite ou creme de leite",
+      "1 colher pq manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie as batatas bem fininhas.",
+      "Unte um pirex retangular com a manteiga.",
+      "Faça camadas de batata, sal e mussarela.",
+      "Finalize com mussarela e jogue o leite ou creme leite.",
+      "Leve ao forno até assar bem.Leve quente a mesa."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIANA MELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301239-prato-de-batata.html"
+}

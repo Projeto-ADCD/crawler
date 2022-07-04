@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO FRITO DA ROÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho azedo",
+      "1/2 xícara de açúcar",
+      "1 pitada de sal",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos e o açúcar.",
+      "Mexa bem.",
+      "Adicione polvilho e a pitada de sal",
+      "Misture com as mãos até dar consistência para ser enrolado.",
+      "Enrole no formato que desejar",
+      "Frite em óleo quente"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "DEBORA RESENDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305090-biscoito-frito-da-roca.html"
+}

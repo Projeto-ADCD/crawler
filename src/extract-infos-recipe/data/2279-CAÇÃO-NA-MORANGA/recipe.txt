@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CAÇÃO NA MORANGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Moranga grande",
+      "1 kg e meio de cação em postas",
+      "100 ml azeite de dendê",
+      "300 ml de leite de coco",
+      "1 Cebola roxa grande",
+      "4 dentes de alho",
+      "1 limão",
+      "Salsinha e cebolinha a gosto",
+      "1 Pimentão Vermelho",
+      "1 Pimentão Amarelo",
+      "1Pimentão Verde",
+      "Azeitona a gosto",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1 Abra a Moranga como se fosse uma tampa, retire as sementes e feche",
+      "2 Coloque a moranga envolta em papel alumínio no forno a 230° C por 1 h e meia até que a parte interna esteja mole e a parte de fora firme",
+      "3 Em uma vasilha coloque as postas de cação salpique sal e limão e reserve por 15 min",
+      "4 Aqueça a panela e adicione o azeite de dendê",
+      "Dourar o alho e a cebola",
+      "5 Coloque as postas de cação e doure os dois lados das postas",
+      "6 Adicione o leite de coco a azeitona a salsinha a cebolinha e os pimentões",
+      "7 Ferva por 10 min na panela com tampa",
+      "8 raspar o interior da moranga com a colher e adicionar ao molho do cação para engrossar o caldo, ferva por mais 5 min e pronto !",
+      "9 coloque a moqueca dentro da moranga e sirva com arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JASON MARCOS REIS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305576-cacao-na-moranga.html"
+}

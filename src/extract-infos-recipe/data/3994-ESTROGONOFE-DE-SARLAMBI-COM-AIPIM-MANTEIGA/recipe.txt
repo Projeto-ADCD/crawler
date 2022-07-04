@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESTROGONOFE DE SARLAMBI COM AIPIM MANTEIGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "sarlambi pegos na areia da praia",
+      "1 cebola",
+      "salsa e coento",
+      "200g de creme de Leite",
+      "3 dentes de alho",
+      "2 colheres de mostarda",
+      "2 colheres de ketchup",
+      "1 sachê de sazon para carnes",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe de molho o sarlambi, depois ferva uma panela grande e coloque eles dentro.",
+      "Espere até as conchas começarem a abrir.",
+      "Coloque de molho na água para sair toda a areia, depois de lavados coloque o limão e reserve eles em uma vasilha.",
+      "Pegue uma panela e coloque o alho amassado e a cebola cortadas em pedaços.",
+      "Se quiser, acrescente 1 pimentão, refogue o tempero e jogue os sarlambi.",
+      "Depois acrescente cheiro verde, o coento e as colheres de mostarda e do ketchup.",
+      "Deixe no fogo uns 20 minutos até pegar gosto e depois coloque o creme de leite e deixe mais 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARCELLY MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302231-estrogonofe-de-sarlambi-com-aipim-manteiga.html"
+}

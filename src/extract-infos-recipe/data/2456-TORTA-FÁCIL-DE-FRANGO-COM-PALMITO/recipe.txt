@@ -1,0 +1,48 @@
+{
+  "nome_receita": "TORTA FÁCIL DE FRANGO COM PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango cozido e desfiado",
+      "1 vidro de palmito",
+      "1 lata de milho (escorrer a água do milho antes de acrescentar ao recheio)",
+      "2 dentes de alho picados",
+      "1 cebola grande picada",
+      "3 tomates picados",
+      "sal e pimenta do reino a gosto",
+      "tempero verde a gosto",
+      "1 copo de requeijão cremoso",
+      "2 copos e 1/2 de leite (medir pelo copo de requeijão)",
+      "12 colheres de farinha de trigo sem fermento",
+      "1/2 copo de óleo",
+      "1 colher (sobremesa) de fermento em pó",
+      "2 colheres de manteiga ou margarina (de marca boa)",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a manteiga ou margarina em uma panela grande, e refogue o alho, a cebola e os tomates até formar um molho de cor avermelhada.",
+      "Após isso, mantenha a panela no fogo e acrescente ao refogado o palmito picado, o milho escorrido e o frango desfiado.",
+      "Mexa bem, até incorporar bem os temperos com os outros ingredientes do recheio.",
+      "Acrescente o requeijão cremoso e misture.",
+      "Prove para poder regular o sal (as vezes não precisa adicionar mais sal, pois o frango já deve ser cozido com sal, e alguns dos demais ingredientes também possuem sal)",
+      "Acrescente pimenta e temperos verdes a seu gosto e está pronto.",
+      "Reserve",
+      "Massa",
+      "Você pode utilizar um liquidificador ou fazer ao modo manual...",
+      "Coloque no liquidificador ou em uma tigela: os ovos, o leite, o óleo, sal a gosto, a farinha de trigo e o fermento em pó e misture bem.",
+      "A massa é assim prática mesmo e pode ser utilizada com diversos outros recheios de sua preferência.",
+      "Montagem",
+      "Coloque metade da massa no fundo de uma travessa grande, acrescente o recheio que está reservado, e cubra com o restante da massa.",
+      "Asse em forno pré aquecido a 200° C por aproximadamente 30 minutos, ou até massa estar de cor dourada.",
+      "Pronto! Agora é só servir e se deliciar com essa maravilha."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Você pode acrescentar outros ingredientes que você gosta no recheio ( azeitona/ ervilha/ mussarela/, e também pode retirar o que você não gostar( palmito/ milho ou frango). Caso preferir, substitua o requeijão por creme de leite.\nOutras opções de recheio para testar com essa massa... Carne, camarão, calabresa com queijo e orégano... Use sua imaginação."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CLÁUDIA SOFIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305174-torta-facil-de-frango-com-palmito.html"
+}

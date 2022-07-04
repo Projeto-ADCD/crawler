@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA MOUSSE DOIS AMORES",
+  "ingredientes": {
+    "MASSA": [
+      "1 pacote de bolacha tipo maisena ou leite (200 g)",
+      "100 g de manteiga Président"
+    ],
+    "RECHEIO": [
+      "500 ml de chantilli",
+      "300 g de goiabada derretida com cerca de 100 ml de água",
+      "1 pote de creme cottage Prèsídent (220 g)"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Triture, no liquidificador, as bolachas",
+      "Passe para uma tigela e acrescente a manteiga, misturando até que forme uma farofa",
+      "Coloque no fundo e laterais de uma forma desmontável (25 cm diâmetro) apertando com as costas de uma colher",
+      "Reserve"
+    ],
+    "RECHEIO": [
+      "Pique e derreta a goiabada, levando a ao fogo baixo com água o suficiente apenas para derretê-la",
+      "Reserve",
+      "Misture o creme cottage ao chantilli (já batido), mexa e acrescente a goiabada derretida e fria",
+      "Coloque a mousse sobre a massa reservada e leve à geladeira até endurecer",
+      "Bom apetite! "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Mônica Aparecida Meira Altino \nDicas: Se preferir asse a massa da torta por 10 mins em fogo baixo. Deixe  esfriar antes  de colocar a mousse. Acrescente, se desejar, 1 colher (sobremesa) da goiabada derretida à massa.\nSe quiser, coloque sobre a mousse já endurecida 100 g goiabada derretida com 100 ml de água (use fria)."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303797-torta-mousse-dois-amores.html"
+}

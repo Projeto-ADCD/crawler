@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MINGAU DE AVEIA TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite integral ou desnatado",
+      "2 colheres (sopa) de aveia em flocos finos",
+      "1 colher de (sopa) de açúcar",
+      "canela para polvilhar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ou fervedor, misturar o leite, a aveia e o açúcar e leve em fogo baixo",
+      "Vá mexendo até engrossar",
+      "Polvilhar a canela por cima e servir"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303373-mingau-de-aveia-tradicional.html"
+}

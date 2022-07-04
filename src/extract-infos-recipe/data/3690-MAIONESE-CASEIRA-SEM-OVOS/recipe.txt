@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MAIONESE CASEIRA SEM OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de amido de milho",
+      "1 caixa de creme de leite",
+      "3 dentes de alho",
+      "1 cebola pequena",
+      "folhas de coentro a gosto",
+      "cebolinha verde a gosto",
+      "orégano a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela dissolva o amido de milho e leve ao fogo até que obter um creme homogêneo.",
+      "Reserve o creme",
+      "Em um liquidificador acrescente o alho, a cebola, o coentro, a cebolinha verde, o orégano e o sal",
+      "Em seguida acrescente o creme de amido de milho.",
+      "Bata tudo até obter um creme",
+      "Caso fique muito grosso adicione água aos poucos até atingir a consistência desejada."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANGELICA SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302905-maionese-caseira-sem-ovos.html"
+}

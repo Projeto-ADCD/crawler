@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 pedaços de frango (3 coxas e 3 sobrecoxas) sem pele",
+      "3 dentes de alho grandes",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "cominho fresco a gosto",
+      "2 ovos inteiros",
+      "3 colheres de leite",
+      "150 g de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com alho, pimenta, cominho, sal e vinagre.",
+      "Deixe descansar por uns 30 minutos.",
+      "Bata os ovos com o leite e reserve.",
+      "Passe o frango no ovo batido e empane com o queijo.",
+      "Certifique-se que ficou todo coberto.",
+      "Coloque numa assadeira e leve ao forno médio até dourar por completo."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOSIANE BARROS GONCALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304533-frango-com-queijo.html"
+}

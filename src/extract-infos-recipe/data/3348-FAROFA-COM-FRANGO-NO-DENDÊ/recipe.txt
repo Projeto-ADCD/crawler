@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA COM FRANGO NO DENDÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de azeite de dendê",
+      "cebola e alho a gosto",
+      "carne de frango (pode ser qualquer parte )",
+      "3 ovos",
+      "bacon a gosto",
+      "pimenta do reino a gosto",
+      "1 lata de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne do frango",
+      "Frite no dendê o bacon, a cebola e o alho",
+      "Assim que dourar, coloque o frango pra cozinhar com um pouco de água",
+      "Assim que estiver mole, coloque a farinha (eu uso farinha de mandioca crua grossa)",
+      "Cozinhe os ovos, pique e misture"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JONATHAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303524-farofa-com-frango-no-dende.html"
+}

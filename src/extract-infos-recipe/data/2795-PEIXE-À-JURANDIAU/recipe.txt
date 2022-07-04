@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PEIXE À JURANDIAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o arroz",
+      "2 xícaras de arroz",
+      "4 xícaras de água",
+      "1 cenoura picada",
+      "1 pimentão verde picado",
+      "3 dentes de alho",
+      "sal a gosto",
+      "1 colher (sopa) de manteiga",
+      "Para o peixe",
+      "4 filés de peixe",
+      "1/2 limão",
+      "sal e pimenta-do-reino a gosto",
+      "2 xícaras de farinha de trigo",
+      "óleo para fritar",
+      "Para o molho do peixe",
+      "3 colheres (sopa) de manteiga com sal",
+      "100 g de alcaparras"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Arroz",
+      "Frite o alho com o sal, acrescente o arroz, a água e leve ao fogo médio.",
+      "Em uma frigideira, coloque a manteiga, a cenoura e o pimentão e refogue.",
+      "Assim que que o arroz estiver pronto, misture bem o refogado da frigideira no arroz.",
+      "Para o peixe",
+      "Depois de o peixe temperado com o sal, pimenta e o limão",
+      "Empane na farinha de trigo.",
+      "Frite em seguida em uma frigideira com um fio de óleo.",
+      "Para o molho do peixe",
+      "Derreta a manteiga, acrescente as alcaparras e coloque sobre os peixes fritos ",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VERONICA APARECIDA FERNANDES SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304418-peixe-a-jurandiau.html"
+}

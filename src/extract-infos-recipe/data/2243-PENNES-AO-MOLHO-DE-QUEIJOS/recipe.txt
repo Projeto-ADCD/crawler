@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PENNES AO MOLHO DE QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de massa pennes ou outra de sua preferência",
+      "1/2 cebola média picada",
+      "1 de xícara (chá) de leite",
+      "1 colher (sopa) de amido de milho",
+      "1 colher (sopa) de manteiga",
+      "3/4 de xícara (chá) de queijo gorgonzola esfarelado",
+      "3/4 de xícara (chá) de queijo mussarela picado",
+      "1/2 xícara (chá) de queijo parmesão ralado",
+      "1 lata de creme de leite",
+      "1 xícara (chá) de cebolinha verde picada",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média refogue a cebola na manteiga.",
+      "Misture o leite e o amido e junte ao refogado.",
+      "Deixe ferver.",
+      "Adicione os queijos.",
+      "Deixe derreter, mexendo sempre.",
+      "Adicione o creme de leite.",
+      "Tempere com sal e pimenta a gosto.",
+      "Cozinhe a massa em uma panela com água fervente.",
+      "A massa deve ficar \"al dente\".",
+      "Coloque a massa em uma travessa e acrescente o molho de queijos.",
+      "Misture tudo muito bem.",
+      "Na hora de servir acrescente a cebolinha picada e misture bem.",
+      "Sirva em seguida acompanhado de uma carne e uma salada verde"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305640-pennes-ao-molho-de-queijos.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de manteiga",
+      "1 limão",
+      "1/2 kg de camarão cinza limpo",
+      "1 cebola roxa picada",
+      "3 dentes de alho",
+      "1 tomate",
+      "1/2 xícara de alho poró",
+      "1 xícara de manga Palmer picada",
+      "2 xícaras de farofa pronta ",
+      "1 xícara de brócolis cozinho e picado",
+      "Sal, cheiro-verde e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o camarão com sal, pimenta e suco de limão. Reserve.",
+      "Em uma frigideira antiaderente grande, frite a cebola, o alho, o alho poró e o tomate em 2 colheres de manteiga e reserve",
+      "Na mesma frigideira, aqueça o restante da manteiga e refogue o camarão até dourar",
+      "Junte tudo e misture por mais um minuto",
+      "Adicione o brócolis cozido e picado e a manga, misture e desligue o fogo",
+      "Acrescente a farofa pronta",
+      "Se necessário, acerte o sal",
+      "Sirva decorada com cebolinha"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RICARDO CRISTIANO MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303514-farofa-de-camarao.html"
+}

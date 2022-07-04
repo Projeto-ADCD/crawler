@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE FRIGIDEIRA - 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colher (sopa) de tapioca",
+      "1 colher (sopa) de requeijão cremoso",
+      "1 pitada de sal (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo e o requeijão em um recipiente e mexa com uma colher até que o ovo se misture com a gema.",
+      "Acrescente a tapioca e mexa bem até que todos os ingredientes se misturem e formem uma massa “líquida”",
+      "Aqueça uma frigideira antiaderente e despeje a mistura.",
+      "Tampe a frigideira e vire quando estiver dourada.",
+      "Retire e sirva como quiser"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIANA SENNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300379-pao-de-queijo-de-frigideira-3-ingredientes.html"
+}

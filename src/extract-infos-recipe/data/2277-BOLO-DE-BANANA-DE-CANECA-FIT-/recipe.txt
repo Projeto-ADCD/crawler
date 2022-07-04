@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE BANANA DE CANECA (FIT)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 banana nanica madura",
+      "1 colher (sopa) de mel",
+      "2 colheres (sopa) de farinha de aveia",
+      "1 colher (sopa) de óleo de coco",
+      "1 colher (chá) de canela em pó",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana em um recipiente, adicione os ingredientes exceto o fermento, misture até incorporar",
+      "Por último adicione o fermento e misture delicadamente.",
+      "Coloque em uma caneca e leve ao micro-ondas por 3 minutos.",
+      "Obs: verifique o tempo de acordo com a potência do seu micro-ondas.",
+      "Retire e verifique se está assado fazendo o teste do palito limpo.",
+      "Adicione uma colher de mel em cima e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THAMYRES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305578-bolo-de-banana-de-caneca-fit.html"
+}

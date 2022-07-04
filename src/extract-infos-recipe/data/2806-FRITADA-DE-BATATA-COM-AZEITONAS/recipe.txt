@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRITADA DE BATATA COM AZEITONAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas médias raladas",
+      "4 ovos batidos",
+      "1 cubo de caldo de galinha",
+      "1 xícara (chá) de leite",
+      "2 colheres (sopa) de salsinha picada",
+      "50 g de azeitonas pretas sem caroço",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o caldo de galinha no leite quente.",
+      "Junte à mistura do leite, os ovos batidos, a batata ralada, a salsinha e as azeitonas cortadas em rodelas e a pimenta.",
+      "Unte uma frigideira e coloque a mistura toda.",
+      "Leve a fogo baixo, com a frigideira tampada.",
+      "Deixe dourar de um lado e depois vire para dourar do outro lado.",
+      "Se você tem uma omeleteira média, use ela como frigideira, assim facilita ao virar para dourar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304395-fritada-de-batata-com-azeitonas.html"
+}

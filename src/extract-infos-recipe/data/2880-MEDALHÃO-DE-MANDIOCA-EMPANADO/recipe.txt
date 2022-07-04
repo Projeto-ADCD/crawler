@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MEDALHÃO DE MANDIOCA EMPANADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca descongelada",
+      "500 g de bacon fatiado",
+      "500 g de farofa Yoki tradicional",
+      "1 colher de sal",
+      "2 litros de água",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente 2 litros de água em uma panela com uma colher de sal",
+      "Assim que levantar fervura, coloque as mandiocas para cozinhar em fogo alto por aproximadamente 25 minutos ou até a mandioca cozinhar.",
+      "Após cozido, despeje toda a água e deixe a mandioca secar em um escorredor por aproximadamente 15 minutos.",
+      "Quando a mandioca estiver seca, corte elas em tiras na espessura de um dedo, enrole cada tira de mandioca em uma fatia de bacon e coloque o palito para segurar (assim facilita a fritura).",
+      "Em uma frigideira com o óleo bem quente coloque os medalhões para fritar",
+      "Quando o bacon tiver bem frito, coloque em papel-toalha para tirar o excesso de óleo. ",
+      "Separe um prato com a farofa Yoki e empane os medalhões na farofa. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: você vai precisar de\n1 pacote de palito de dente\n2 copos (americano) de óleo\nPapel-toalha \nReceita enviada por Maria Clara Piai da Silva"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304237-medalhao-de-mandioca-empanado.html"
+}

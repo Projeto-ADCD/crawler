@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ARROZ COM CARANGUEJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de polpa de caranguejo (carne)",
+      "1/2 kg de Arroz parborizado",
+      "1 lata ou caixa de milho em conserva",
+      "1 lata ou caixa de ervilha em conserva",
+      "1 cuba pequena ovos de codorna (opcional)",
+      "Temperos e cheiro verde (a gosto)",
+      "1 pacote de batata palha",
+      "1 pacote de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a polpa do caranguejo com limão e sal, reserve por no mínimo 30 min.",
+      "Cozinhe o arroz como achar melhor ( eu cozinho com cenoura ralada, fica muito bom)",
+      "Refogue o caranguejo com um pouco de óleo ou azeite com temperos de sua preferência e cheiro verde. Reserve.",
+      "Cozinhe os ovos de cordona",
+      "Com o arroz pronto, misture com o caranguejo já refogado.",
+      "Adicione o milho e a ervilha",
+      "Cubra com os ovos de codorna, batata palha e queijo ralado a gosto",
+      "E só servir!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GRAZIELLA MELISSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301735-arroz-com-caranguejo.html"
+}

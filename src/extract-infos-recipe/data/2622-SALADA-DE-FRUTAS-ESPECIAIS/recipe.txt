@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA DE FRUTAS ESPECIAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 goiabas inteiras",
+      "4 pedaços triangulares de melancia",
+      "2 maçãs",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte em quadradinhos cada fruta.",
+      "Coloque a maçã em um recipiente cada fruta separadamente",
+      "Em uma taça ou copo de sua preferência coloque uma fruta fazendo 3 camadas de frutas",
+      "Quando todas as frutas já estiverem dentro do copo de sua preferência coloque leite condensado no centro do copo e deixe ele descer",
+      "Observação: não coloque muito leite condensado se não ficará muito doce"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "NICOLAS JHOSEF",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304790-salada-de-frutas-especiais.html"
+}

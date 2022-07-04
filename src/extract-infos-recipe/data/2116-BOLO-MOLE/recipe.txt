@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO MOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "1 xícara de açúcar",
+      "3 ovos",
+      "2 colheres de manteiga",
+      "1 pitada de sal",
+      "1 litro de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, o açúcar, os ovos, a manteiga e o sal em uma tigela.",
+      "Depois adicione o leite aos poucos.",
+      "Depois de misturar, bata no liquidificador para dissolver a massa.",
+      "Após isso coloque em uma forma untada com manteiga e leve ao forno preaquecido a 180° C por 1 hora.",
+      "Depois de pronto, leve ao freezer por 15 minutos",
+      "E estará pronto.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ERICK SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305971-bolo-mole.html"
+}

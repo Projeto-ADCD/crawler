@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CONCHIGLIONE DE PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão conchiglione",
+      "600 g de mussarela pedaço",
+      "400 g de presunto pedaço",
+      "1 extrato de molho de tomate",
+      "1 sachê de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa do macarrão em uma panela com água, sal e um fio de óleo por aproximadamente 10 minutos ou até você ver que a massa está al dente.",
+      "Lembre-se que irá ao forno.",
+      "No preparo do molho, adicione o molho de tomate, um pouco do extrato para o molho ficar denso, uma pitada de sal, orégano, pimenta-do-reino ou temperos a gosto, deixe cozinhar.",
+      "O presunto e o queijo precisam ser ralados",
+      "Vá recheando o macarrão com o presunto e o queijo, deixe um pouco do queijo para jogar em cima depois.",
+      "Assim que for recheando, já vai colocando em uma assadeira, pirex ou algo de sua preferência.",
+      "Coloque o molho por cima e o queijo para finalizar.",
+      "Leve ao forno preaquecido a 180° C",
+      "Deixe o queijo derreter e o macarrão cozinhar mais um pouco, aproximadamente 5 a 10 minutos.",
+      "Após pronto, retire do forno e sirva com arroz ou algo de sua preferência, eu gosto de comer só a massa."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "THAUANA BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305160-conchiglione-de-presunto-e-queijo.html"
+}

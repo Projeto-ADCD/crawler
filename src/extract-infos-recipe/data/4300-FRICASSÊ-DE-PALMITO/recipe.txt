@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FRICASSÊ DE PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas pequenas/médias",
+      "300 g de palmito picado",
+      "4 dentes de alho",
+      "1 cebola grande picada",
+      "1 lata de milho verde sem água",
+      "1 pote de requeijão cremoso",
+      "1 caixinha de creme de leite",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "alho granulado a gosto",
+      "200 g de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte em pedaços médios",
+      "Coloque para cozinhar em água fervente por aproximadamente 15 minutos.",
+      "Pique o palmito em pedaços iguais.",
+      "Bata no liquidificador o creme de leite, o milho e o requeijão cremoso.",
+      "Pique o alho e a cebola e doure.",
+      "Acrescente as batatas cozidas, o palmito picado.",
+      "Despeje o creme batido no liquidificador, abaixe o fogo e deixe cozinhar de 3 a 5 minutos, mexendo sempre.",
+      "Acerte o sal, a pimenta-do-reino e o alho granulado.",
+      "Desligue o fogo.",
+      "Coloque o conteúdo em um refratário.",
+      "Salpique por cima bastante mussarela ralada.",
+      "Leve ao fogo até dourar.",
+      "Sirva com batata palha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ADYR SENTO-SÉ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301413-fricasse-de-palmito.html"
+}

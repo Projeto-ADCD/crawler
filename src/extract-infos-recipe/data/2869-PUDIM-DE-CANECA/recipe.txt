@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa ) de açúcar",
+      "1 ovo",
+      "8 colheres (sopa) de leite de caixa integral",
+      "8 colheres (sopa) de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca que possa ser levada ao micro-ondas coloque uma colher (sopa) de açúcar e uma colher (sopa) de água e leve ao micro-ondas",
+      "Coloque de 30 a 30 segundos até virar um caramelo.",
+      "Em outra caneca que também possa ser levada ao micro-ondas coloque o ovo, as oito colheres (sopa) de leite condensado e a oito colheres (sopa) de leite de caixa integral",
+      "Misture bem até ficar uma mistura bem líquida ",
+      "Depois de mexer bem e a mistura ficar bem líquida, coloque a mistura dentro da caneca que está com o caramelo e leve ao micro-ondas por 2 minutos.",
+      "Quando ele estiver bom ele vai ficar douradinho em cima e vai subir",
+      "Se o seu micro-ondas tiver uma potência fraca e ainda não estiver pronto, leve ao micro-ondas novamente por mais 50 segundos até ficar bom."
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIIH FR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304250-pudim-de-caneca.html"
+}

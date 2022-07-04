@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANQUECA DE BANANA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 colher (sopa) de aveia",
+      "2 bananas pratas",
+      "1 pitada de sal",
+      "2 colheres (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as bananas e as amasse dentro de um prato, em seguida, quebre os ovos e os adicione as bananas, já em seguida, bote a aveia.",
+      "Pegue uma frigideira e a unte, em seguida, bote a mistura dentro e frite.",
+      "Bote uma pitadinha de sal."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser,  bote para cozinhar no vapor."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LUIS FEL GAMES 51",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301548-panqueca-de-banana-com-aveia.html"
+}

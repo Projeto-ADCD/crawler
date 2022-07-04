@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALPICÃO DELICIOSO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de peito de frango",
+      "1/2 pimentão vermelho",
+      "1/2 pimentão amarelo",
+      "1/2 pimentão verde",
+      "1 lata de milho",
+      "1 vidro de conserva de palmito",
+      "1/2 cenoura ralada",
+      "1 maçã verde",
+      "1 pote de maionese",
+      "1 colher de limão",
+      "cebolinha",
+      "batata palha",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o peito de frango para cozinhar cerca de 30 minutos.",
+      "Pique em cubinhos os pimentões, palmito, cebolinha e a maçã.",
+      "Em uma vasilha coloque o frango desfiado e todos os ingredientes, misture bem.",
+      "Na montagem, coloque a batata palha por cima."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304120-salpicao-delicioso-e-facil.html"
+}

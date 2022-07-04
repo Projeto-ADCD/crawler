@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA DE ALHO-PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 alhos-porós",
+      "1 cebola média pícada",
+      "1 tablete de caldo de carne",
+      "3/4 xícara (chá) de leite quente",
+      "3 ovos",
+      "1/4 xícara (chá) de óleo",
+      "1/2 xícara (chá) de farinha de trigo",
+      "2 colheres (sopa) de salsinha picada",
+      "2 colheres (sopa) de cebolinha picada",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 xícara (chá) de creme de leite fresco",
+      "2 colheres (sopa) de queijo parmesão ralado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o alho-poró em rodelas finas.",
+      "Pique a cebola.",
+      "Em uma panela pequena coloque 2 colheres de sopa de azeite e acescente a cebola e deixe refogar por uns minutos.",
+      "Acrescente o alho-poró e refogue por uns minutos.",
+      "Tempere com sal e pimenta a gosto.",
+      "Reserve.",
+      "Em uma panela pequena dissolva o caldo de carne no leite quente.",
+      "Adicione os demais ingredientes com exceção do refogado de alho-poró.",
+      "Misture tudo muito bem.",
+      "Acrescente o refogado de alho-poró e misture delicadamente.",
+      "Aqueça o forno em temperatura média.",
+      "Ponha a mistura em um refratário untado e polvilhe com o queijo parmesão ralado.",
+      "Leve ao forno por uns 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305786-torta-de-alho-poro.html"
+}

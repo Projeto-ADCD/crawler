@@ -1,0 +1,31 @@
+{
+  "nome_receita": "RIM BOVINO CASEIRO DA LIDU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 rins bovinos",
+      "1 cebola picada",
+      "2 colheres de óleo",
+      "1 cheiro-verde picado",
+      "1 dente de alho picado",
+      "1 tomate picado",
+      "1 limão",
+      "colorau a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe os rins, lavando bem e retirando a parte branca com os nervos e a gordura.",
+      "Tempere com o alho, a pimenta-do-reino, o limão, o sal e o colorau",
+      "Refogue com o óleo, mexa até o caldo que soltar começar a secar.",
+      "Assim que estiver secando, coloque a cebola, o tomate e o cheiro-verde.",
+      "Espere até o caldo secar, sem deixar secar completamente.",
+      "Sirva com arroz e salada a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GEORGE LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302404-rim-bovino-caseiro-da-lidu.html"
+}

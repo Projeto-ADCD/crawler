@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MACARRÃO INSTANTÂNEO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "salsinha a gosto",
+      "1 linguiça calabresa",
+      "orégano a gosto",
+      "1 miojo de sua prerência",
+      "queijo ralado a gosto",
+      "750 ml da água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a linguiça em óleo quente em fogo alto.",
+      "Corte a linguiça.",
+      "Lave a salsinha e pique elas.",
+      "Cozinhe o miojo em água fervente e adicione o tempero do miojo.",
+      "Escorra a água do miojo, coloque em um prato, adicione o queijo ralado, a linguiça e a salsinha picada e saboreie."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SAMI DANIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304269-macarrao-instantaneo-com-calabresa.html"
+}

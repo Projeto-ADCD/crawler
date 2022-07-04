@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ALFAJOR CASEIRO SUPER FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha de maisena",
+      "1 lata e leite condensado",
+      "100 g de chocolate meio amargo fracionado",
+      "100 g de chocolate branco fracionado",
+      "1 pacotinho de granulado da sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doce de leite\nEm uma panela de pressão coloque a lata de leite condensado sem o rótulo e cubra com água",
+      "Leve ao fogo por aproximadamente 30 a 40 minutos, quando pronto, aguarde esfriar",
+      "Em seguida, pegue as bolachas e passe o doce de leite com a espessura de 3 cm, coloque outra bolacha para formar uma casadinha, ou seja um alfajor",
+      "Depois que fizer isso em todas as bolachas, reserve-as",
+      "Com a ajuda de um um garfo, mergulhe o alfajor no chocolate derretido em banho-maria até que o cubra completamente",
+      "Separe o alfajor em um prato raso forrado com papel manteiga ou um papel toalha resistente",
+      "Por fim, povilhe o granulado de sua preferência para decorar e está pronto seu alfajor"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "REGINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302279-alfajor-caseiro-super-facil.html"
+}

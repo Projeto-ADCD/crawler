@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA DE ALMEIRÃO COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de folhas de almeirão cortadas finas",
+      "1 maçã vermelha com casca",
+      "10 vagens",
+      "1 cenoura",
+      "1 cebola média",
+      "3 dentes de alho",
+      "2 colheres (sopa) de azeite de oliva",
+      "sal, vinagre, salsinha e orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a cenoura e as vagens.",
+      "Pique-as, tempere a seu gosto e reserve.",
+      "Pique também a maçã com casca e reserve.",
+      "Aqueça o azeite de olíva na frigideira, adicione o alho e a cebola bem picados e deixe dourar, mas sem deixar queimar.",
+      "Desligue o fogo e adicione o sal e o orégano.",
+      "Junte o almeirão cortado na frigideira e misture bem.",
+      "Coloque o almeirão no centro de uma travessa.",
+      "Ao redor, coloque de forma alternada pequenas porções de maçã picadas, de vagem e cenoura"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RENATA ALONSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302783-salada-de-almeirao-com-legumes.html"
+}

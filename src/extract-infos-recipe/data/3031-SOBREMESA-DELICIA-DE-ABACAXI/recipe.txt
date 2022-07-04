@@ -1,0 +1,43 @@
+{
+  "nome_receita": "SOBREMESA DELICIA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi",
+      "2 caixa de leite condensado",
+      "2 creme de leite",
+      "2 medidas de leite de vaca (medida da lata de leite condensado)",
+      "6 gemas de ovo",
+      "2 creme de Leite",
+      "1 colher de baunilha",
+      "2 colheres bem cheia de amido de milho",
+      "1 chantili de pacote"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer o creme",
+      "Em uma panela coloque o leite de condensado, leite vaca, as gemas e abaunilha",
+      "Desmanche o amido em um pouco de leite e misture",
+      "Passe as gemas por uma peneira para não deixar com aquela película",
+      "Leve ao fogo até engrossar, deixando por uns 5 minutos para ficar bem cozido, após engrossar e por último coloque o creme de leite",
+      "Mexa bem por 1 minuto no fogo ligado.",
+      "Para o recheio",
+      "Para cozimento do abacaxi, corte em pedaços e retire o miolo",
+      "Coloque 1 xícara de açúcar e leve ao fogo até reduzir a quantidade de líquido do abacaxi.",
+      "Aproximadamente 10 minutos de cozimento.",
+      "Escorra em uma peneira e reserve.",
+      "Bata o chantili conforme indica no verso da embalagem comprada.",
+      "Para a montagem",
+      "Coloque o creme por baixo em uma travessa, em seguida pegue o abacaxi e espalhe fazendo uma camada",
+      "Em seguida coloque o chantili cobrindo tudo e só enfeitar da maneira que desejar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa receita sempre é um sucesso, pois não é muito doce e encontra o equilíbrio entre o creme e o abacaxi.\nVale muito a pena!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "RAFAEL PEDROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303975-sobremesa-delicia-de-abacaxi.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BOLINHO DE MANDIOCA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 raizes de mandioca média crua e ralada",
+      "1 ovo",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem os ingredientes, formando uma massa.",
+      "Frite as colheradas em 2 dedos de óleo, até ficarem douradas.",
+      "Retire com escumadeira e coloque em uma travessa com papel toalha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RENATA SOFIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300275-bolinho-de-mandioca-facil.html"
+}

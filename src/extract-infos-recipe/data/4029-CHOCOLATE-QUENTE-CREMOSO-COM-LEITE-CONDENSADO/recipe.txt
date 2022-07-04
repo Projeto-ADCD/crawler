@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE CREMOSO COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado",
+      "1 caixinha de creme de leite",
+      "3 xícaras de leite (mais cremoso só coloque 2)",
+      "canela a gosto",
+      "chocolate em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o leite condensado e o chocolate em pó em uma panela e deixa esquentar",
+      "Quando começar a ferver, coloque o creme de leite.",
+      "Misture bem e adicione o leite aos poucos, mexendo sempre",
+      "Quando levantar fervura abaixe o fogo.",
+      "Não pare de mexer.",
+      "Adicione a canela em pó e sirva bem quente"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIANA ROBERTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302104-chocolate-quente-cremoso-com-leite-condensado.html"
+}

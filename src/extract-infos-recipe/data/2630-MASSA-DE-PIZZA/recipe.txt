@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MASSA DE PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 copo (americano) de água ou leite",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) rasa de açúcar",
+      "1 colher (sopa) de fermento seco",
+      "orégano e parmesão a gosto",
+      "farinha até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira coloque todos os ingredientes",
+      "Coloque farinha aos pouco até onde a sua batedeira aguentar, depois sove na mão por uns 10 minutos",
+      "Essa parte é muito importante, sovar bem sovado, até não grudar mais (essa quantidade de massa dá para montar duas pizzas.)",
+      "Após isso, deixe descansar por uma hora.",
+      "Na hora de montar a pizza, deixe bem fina na forma, pois ela irá crescer.",
+      "Não precisa preaquecer a massa, eu monto ela direto e deixo assando por uns 40 minutos em 190° C",
+      "Se a forma estiver untada ela sairá muito mais fácil, fácil até para limpar "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CAROL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304773-massa-de-pizza.html"
+}

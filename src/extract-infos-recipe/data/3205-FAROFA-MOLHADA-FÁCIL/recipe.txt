@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA MOLHADA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos cozidos",
+      "200 g de bacon",
+      "200 g de calabresa",
+      "2 cenouras",
+      "100 g de azeitonas verdes",
+      "cheiro-verde",
+      "1 cebola média",
+      "1 lata de milho verde",
+      "100 g farofa pronta temperada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, frite a calabresa e o bacon picadinhos em cubos",
+      "Adicione a cebola picadinha e deixe ela murchar, coloque a cenoura ralada grossa, o milho, a azeitona e mexa bem",
+      "Coloque a farinha temperada e apague o fogo em seguida",
+      "Coloque os ovos cozidos picados e mexa bem",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JULIANA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303738-farofa-molhada-facil.html"
+}

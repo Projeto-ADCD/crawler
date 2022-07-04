@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIPOCA DE LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de milho",
+      "1 xícara de água",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 xícara de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes na panela, exceto pelo leite em pó, misture e deixe em fogo alto, mexa de vez em quando.",
+      "Quando o milho começar a estourar, tampe a panela.",
+      "Assim que retirar a pipoca da panela, coloque em um recipiente, acrescente o leite em pó e mexa."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KELY MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301047-pipoca-de-leite-em-po.html"
+}

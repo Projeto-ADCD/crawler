@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CANECA SIMPLES NO MICROONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher (sopa) de açúcar",
+      "1 colher (sopa) de chocolate em pó",
+      "1/2 colher de leite",
+      "1 colher (sopa) de óleo",
+      "2 colheres de farinha",
+      "1 colher de café de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo, o açúcar e o chocolate em pó na caneca",
+      "Misture bem com um garfo",
+      "Depois acrescente o leite e o óleo",
+      "Misture muito bem",
+      "Coloque a farinha, o fermento e misture",
+      "Leve por 3 minutos no microondas",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BEATRIZ FARIAS PINHEIRO LISBOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303498-bolo-de-caneca-simples-no-microondas.html"
+}

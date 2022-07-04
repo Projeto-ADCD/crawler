@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE MEL DA MILY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de (chá) de leite e 4 ovos",
+      "1 xícara (chá) de glicose de milho",
+      "1/2 kg de farinha de trigo e 1/2 kg de açúcar mascavo",
+      "1/2 colher (sopa) de especiarias: cravo 3g, canela 2g, noz-moscada 2g",
+      "Doce de leite para rechear (1 lata de leite condensado cozida na pressão por 40 minutos)",
+      "Gotinhas de chocolate ao leite para banhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar mascavo e o leite.",
+      "Leve ao fogo até o açúcar mascavo dissolver.",
+      "Passe numa peneira de malha fina.",
+      "Na batedeira coloque os demais ingredientes.",
+      "Bata e vai acrescentando a mistura de açúcar mascavo e leite.",
+      "Bata somente até misturar todos os ingredientes e a massa ficar homogênea.",
+      "Distribua em forminhas para pão de mel untada",
+      "Leve para assar em forno pré-aquecido (180°C) por cerca de 30 minutos ou até o palito sair limpo. Deixe esfriar.",
+      "Recheie com doce de leite.",
+      "Banhe os pães de mel no chocolate derretido (derreter chocolate conforme orientação do fabricante)."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "MILY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301362-pao-de-mel-da-mily.html"
+}

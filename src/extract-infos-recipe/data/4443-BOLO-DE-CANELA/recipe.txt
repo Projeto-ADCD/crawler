@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de farinha de trigo",
+      "1 1/2 de açúcar",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite",
+      "1/2 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o óleo e o leite no liquidificador ou na batedeira.",
+      "Em outra vasilha, misture o açúcar e a farinha de trigo.",
+      "Acrescente a mistura e mexa bem.",
+      "Com a massa homogênea, acrescente a canela e o fermento, mexendo bem.",
+      "Despeje em uma forma untada e asse em forno médio por aproximadamente 40 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use uma forma retangular ou redonda de média para grande."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301122-bolo-de-canela.html"
+}

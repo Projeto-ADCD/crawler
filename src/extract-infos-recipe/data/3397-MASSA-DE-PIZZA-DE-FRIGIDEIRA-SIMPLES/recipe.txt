@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MASSA DE PIZZA DE FRIGIDEIRA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo",
+      "2 colheres (sopa) de azeite",
+      "1/2 xícara de água",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem",
+      "Sove até a massa ficar uniforme",
+      "Abra a massa e ajeite em uma frigideira",
+      "Deixe no fogo baixo até dourar de leve",
+      "Após, vire e coloque o molho",
+      "Recheie de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303444-massa-de-pizza-de-frigideira-simples.html"
+}

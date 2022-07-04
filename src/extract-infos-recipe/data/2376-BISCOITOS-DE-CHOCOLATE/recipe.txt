@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BISCOITOS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1\\2 xícara de farinha de trigo",
+      "1 colher de açúcar",
+      "1 ovo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque num recipiente os ingredientes na ordem que quiser",
+      "Bata até ficar homogêneo",
+      "Coloque no forno a 120° por 30minutos"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALICE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305360-biscoitos-de-chocolate.html"
+}

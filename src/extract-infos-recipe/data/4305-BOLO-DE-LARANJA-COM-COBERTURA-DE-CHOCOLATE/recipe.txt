@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE LARANJA COM COBERTURA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1/2 copo de óleo de soja (100 ml aproximadamente)",
+      "250 ml de suco natural de laranja (suco de aproximadamente 5 laranjas)",
+      "3 xícaras (chá) rasas de farinha de trigo",
+      "1 colher (sopa) cheia de fermento químico em pó",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) bem cheias de leite em pó integral",
+      "3 colheres (sopa) bem cheias de chocolate em pó 70% cacau",
+      "1 lata de água quente (medida da lata de leite condensado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açúcar, o óleo e o suco de laranja.",
+      "Acrescente a farinha de trigo e bata até estar bem misturado",
+      "Acrescente o fermento em pó e misture bem",
+      "Despeje a massa em uma forma média retangular untada e enfarinhada e leve ao forno médio preaquecido para assar por aproximadamente 40 minutos ou até estar dourado",
+      "Cobertura",
+      "Misture o leite condensado ao chocolate em pó",
+      "Dissolva o leite em pó em meia lata de água quente e depois adicione o restante da água quente até completar a lata",
+      "Misture o leite dissolvido ao leite condensado e ao chocolate",
+      "Leve ao fogo alto mexendo sempre",
+      "Após ferver, abaixe o fogo e continue mexendo até a mistura ficar mais encorpada.",
+      "Não é necessário engrossar muito e nem desgrudar da panela, a cobertura fica mais espessa depois de fria.",
+      "Despeje a cobertura ainda morna sobre o bolo espalhando bem.",
+      "Se sobrar cobertura, a mesma pode ser servida em um recipiente separado para quem queira colocar mais cobertura sobre o bolo.",
+      "Sirva o bolo frio ou gelado.",
+      "É uma ótima opção para o lanche da tarde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SHEILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301403-bolo-de-laranja-com-cobertura-de-chocolate.html"
+}

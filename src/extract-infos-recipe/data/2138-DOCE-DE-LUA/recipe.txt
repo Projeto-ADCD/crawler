@@ -1,0 +1,31 @@
+{
+  "nome_receita": "DOCE DE LUA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "2 caixas de creme de leite",
+      "1 copo americano (190 ml) de suco de limão natural",
+      "3 colheres (sopa) de achocolatado em pó",
+      "1 colher (sopa) de chocolate em pó",
+      "3 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1º é feito o brigadeiro:",
+      "Coloque em uma panela 1 caixa de leite condensado, 1 caixa de creme de leite, 3 colheres (de sopa) de achocolatado, 1 colher (sopa) de chocolate em pó e 3 colheres (sopa) de margarina.",
+      "Mexa tudo e leve ao fogão em fogo médio até dar o ponto do brigadeiro.",
+      "Coloque o brigadeiro até a metade de um recipiente de sobremesa e leve ao feeezer para esfriar mais rapido (até 10 minutos)",
+      "Depois desça para a geladeira e faça o mousse.",
+      "2º é o mousse de limão:",
+      "Bata no liquidificador 1 caixa de creme de leite e 1 caixa de leite condensado (durante 5 minutos)",
+      "Depois acrescente o suco de limão aos poucos e bata por mais 1 minuto.",
+      "Despeja o mousse em cima do brigadeiro, enfeite com chocolate ralado ou raspas de limão e leve à geladeira para esfriar.",
+      "Depois de frio, é só servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUIZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305912-doce-de-lua.html"
+}

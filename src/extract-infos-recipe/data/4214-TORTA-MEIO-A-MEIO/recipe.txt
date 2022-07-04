@@ -1,0 +1,48 @@
+{
+  "nome_receita": "TORTA MEIO A MEIO",
+  "ingredientes": {
+    "MASSA:": [
+      "1 e 1/2 pacote e biscoito de maizena",
+      "3 colheres de sopa de manteiga cheias"
+    ],
+    "RECHEIO 1:": [
+      "1 lata de leite condensado",
+      "1 colher de chá de manteiga",
+      "3 colheres de sopa de chocolate em pó ou cacau em pó",
+      "1/2 caixa de creme de leite"
+    ],
+    "RECHEIO 2 :": [
+      "1 lata de leite condensado",
+      "1 colher de sopa bem cheia de coco ralado",
+      "1 colher de chá de manteiga",
+      "1/2 caixa de creme de leite"
+    ],
+    "PARA DECORAR:": [
+      "Granulado de sua preferência."
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Triture os biscoitos de maizena. Depois disso, coloque o biscoito triturado em uma vasilha, acrescente a manteiga e amasse bem até que a massa fique com uma leve consistência.",
+      "Coloque em uma assadeira redonda de fundo removível de 30 cm e vá moldando a massa na assadeira e leve para o forno por 10 minutos ou até dourar",
+      "Após isso, retire do forno e deixe esfriar enquanto você faz os recheios.",
+      "Cada forno tem uma potência diferente então neste caso eu indico que vigie a massa até ela ficar dourada."
+    ],
+    "RECHEIO 1 E 2:": [
+      "Em uma vasilha, dissolva o amido no leite e reserve.",
+      "Já em uma panela, coloque o leite condensado, a manteiga, o chocolate em pó ou o cacau em pó e misture muito bem até unir os ingredientes.",
+      "Leve ao fogo assim que ele ficar em ponto de brigadeiro e depois coloque o amido dissolvido no leite que você deixou reservado. Mexa bem.",
+      "Após esse procedimento, apague o fogo e misture a meia caixa de creme de leite. Misture até obter um creme homogêneo e reserve.",
+      "O modo de preparo dos dois recheios é o mesmo."
+    ],
+    "MONTAGEM:": [
+      "Depois que a massa esfriou, monte na ordem que deseja colocar os recheios.",
+      "Leve para a geladeira e deixe firmar",
+      "Coloque granulado por cima para enfeitar ou opte por morangos ou uvas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301569-torta-meio-a-meio.html"
+}

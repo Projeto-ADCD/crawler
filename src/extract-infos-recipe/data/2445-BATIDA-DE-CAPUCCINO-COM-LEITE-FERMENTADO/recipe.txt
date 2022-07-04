@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BATIDA DE CAPUCCINO COM LEITE FERMENTADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de vodka",
+      "1/2 vidro grande de leite fermentado sabor baunilha ",
+      "4 colheres de leite condensado",
+      "4 colheres de capuccino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Depois é só servir, de preferência bem geladinho.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: É uma receita que testei, não sei se vão gostar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305187-batida-de-capuccino-com-leite-fermentado.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CAMARÃO TROPICAL NO ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi maduro",
+      "500 g camarão limpo descascado",
+      "azeite de dende",
+      "1 vidro pequeno de leite de coco",
+      "2 sachês de tempero pronto",
+      "1 copo pequeno de requeijao",
+      "alho e cebola picados a gosto",
+      "4 fatias de mussarela (opcional)",
+      "batata palha a gosto (opcional)",
+      "1 pacote de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave e corte o abacaxi ao meio, no sentido da coroa, deixando duas metades, onde seré servido o prato",
+      "Retire a polpa das metades do abacaxi, deixando quase só a casca.",
+      "Pique a polpa retirada em cubinhos e separe",
+      "Refoge com azeite de dende (a gosto) a cebola e o alho",
+      "Quando estiverem dourado, coloque o camarão para refogar junto, temperado com os sachês.",
+      "Pode incluir mais temperos a gosto, como pimenta, coentro, só cuidar com o sal porque o sachê pronto ja é salgado",
+      "Depois que o camarão estiver refogado, junte na mesma panela os cubinhos de abacaxi, leite de coco e requeijao, e adicionar aos poucos o queijo ralado (cuidar com o sal)",
+      "Depois que começar a ferver, deixe uns 5 minutos e tire do fogo, distribuindo o cozido nas duas metades do abacaxi para servir",
+      "Se preferir, pode colocar fatias de mussarela e batata palha sobre as metades dos abacaxis e deixar gratinar por uns 10 min no forno a 180° C",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: pode ser servido so ele, ou com arroz, cuzcuz ou batata palha e salada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303812-camarao-tropical-no-abacaxi.html"
+}

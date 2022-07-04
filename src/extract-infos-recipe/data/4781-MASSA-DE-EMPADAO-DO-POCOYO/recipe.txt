@@ -1,0 +1,50 @@
+{
+  "nome_receita": "MASSA DE EMPADAO DO POCOYO",
+  "ingredientes": {
+    "MASSA:": [
+      "400 g de farinha de trigo",
+      "200 g de manteiga gelada",
+      "1 ovo inteiro e 1 gema de ovo batidos para a massa",
+      "sal a gosto (pode ser uma colher de chá)",
+      "6 colheres de sopa de leite",
+      "1 gema de ovo para pincelar a massa"
+    ],
+    "RECHEIO:": [
+      "1 kg de peito de frango",
+      "1 cebola média picadinha",
+      "3 dentes de alho picados e amassados",
+      "2 tomate picado sem pele",
+      "1 copo de requeijão",
+      "2 colher de sopa de azeite",
+      "cheiro verde picado",
+      "1 lata de milho verde",
+      "1 lata de molho de tomate",
+      "1 colher de sopa cheia de farinha de trigo",
+      "3 cubos de caldo de galinha",
+      "azeitonas pretas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma tigela o trigo e a manteiga até que vire uma farofa.",
+      "Acrescente os outros ingredientes e amasse bem até que fique uma massa lisinha.",
+      "Embrulhe em papel filme e leve a geladeira por aproximadamente 30 minutos.",
+      "Use metade da massa para forrar a assadeira e a outra para cobrir o recheio, pincele o empadão com a gema.",
+      "Leve ao forno médio pré-aquecido e asse até dourar, aproximadamente 40 minutos."
+    ],
+    "RECHEIO:": [
+      "Cozinhe o peito de frango, desfie e reserve.",
+      "Numa panela coloque o azeite e frite a cebola, não deixe dourar.",
+      "Coloque o alho e frite mais um pouquinho.",
+      "Acrescente o frango desfiado.",
+      "Dissolva os cubinhos de caldo de galinha em 1/2 xícara de água quente, junte ao refogado.",
+      "Coloque o trigo e mexa sem parar vigorosamente até ficar com uma aparência cremosa.",
+      "Junte os outros ingredientes, mexa bem e está pronto.",
+      "Utilize o recheio já frio para a massa do empadão não embatumar. Troque o milho por palmito, fica muito gostoso."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "MATHEUS POCOYO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300241-massa-de-empadao-do-pocoyo.html"
+}

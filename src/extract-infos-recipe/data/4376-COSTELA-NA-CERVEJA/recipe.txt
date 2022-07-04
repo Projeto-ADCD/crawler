@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COSTELA NA CERVEJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 Kg de costela bovina limpa e cortada em pedaços",
+      "1 cebola grande picada (ou 1 1/3 xícara de chá)",
+      "5 dentes de alho amassados (ou 1 colher de sopa)",
+      "Tomilho debulhado a gosto",
+      "Sal e pimenta-do-reino moída a gosto",
+      "700 ml de cerveja pilsen (ou 2 latas)",
+      "1 pimenta de cheiro picada",
+      "1 colher (sopa) de óleo",
+      "1 maço de agrião cortado em 3 partes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela grande, coloque a costela cortada em pedaços, a cebola, o alho, o tomilho, o sal, a pimenta do reino, a cerveja, a pimenta de cheiro e misture bem para pegar tempero em todos os pedaços.",
+      "Cubra a tigela com plástico filme e leve à geladeira por 8 horas.",
+      "Retire da geladeira, coloque somente os pedaços de costela em uma panela de pressão aquecida em fogo alto com óleo e reserve a marinada.",
+      "Doure de todos os lados por cerca de 20 minutos (coloque os pedaços de costela aos poucos).",
+      "Depois de dourar todos os pedaços, despeje o caldo da marinada junto com os temperos e cozinhe em fogo médio por 30 minutos após pegar pressão ou até ficar macia.",
+      "Apague o fogo, junte o agrião, deixe a panela tampada por 2 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301274-costela-na-cerveja.html"
+}

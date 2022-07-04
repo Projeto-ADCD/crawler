@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CALDO DE MANDIOQUINHA COM FRANGO DIVINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioquinha",
+      "400 g de frango desfiado",
+      "1 cebola média picada",
+      "4 dentes de alho amassados",
+      "2 cubos de caldo de galinha",
+      "1 L de água",
+      "salsinha e cebolinha picadas a gosto",
+      "sal e pimenta a gosto",
+      "4 colheres (sopa) de óleo ou azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte as mandioquinhas em pedaço menores",
+      "Em uma panela, coloque a mandioquinha, água e os dois caldos de galinha",
+      "Ferva até que a mandioquinha esteja macia ao espetar com o garfo",
+      "Após cozida, transfira para o liquidificador com um pouco de água.",
+      "Reserve o restante da água usada no cozimento",
+      "Em uma panela coloque o azeite, a cebola frite um pouco e depois acrescente o alho (frite bem)",
+      "Acrescente o frango desfiado, tempere com o sal e pimenta a gosto (coloque pouco sal, não esqueça que o caldo de frango já possui sal) refogue até que tudo esteja bem misturado",
+      "Adicione a mandioquinha que foi batida no liquidificador, mexa bem se necesário acrescente mais água que foi reservada",
+      "Quando levantar fervura e atingir a consistência desejada, acrescente a salsinha e cebolinha",
+      "Sirva em seguida!",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305748-caldo-de-mandioquinha-com-frango-divino.html"
+}

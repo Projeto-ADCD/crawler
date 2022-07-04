@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO BRANCO DA TIA ADELAIDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de margarina/manteiga",
+      "2 colheres de farinha de trigo",
+      "1 cebola",
+      "3 xícaras de leite",
+      "1 copo de requeijao"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a cebola na manteiga",
+      "Acrescente os demais ingredientes, mexendo até formar uma mistura homogênea",
+      "Se necessário, bata o molho no liquidificador."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LIVIA CANAVEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302293-molho-branco-da-tia-adelaide.html"
+}

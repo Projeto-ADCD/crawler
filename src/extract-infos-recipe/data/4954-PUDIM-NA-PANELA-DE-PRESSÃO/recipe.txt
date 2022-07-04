@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PUDIM NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata leite condensado",
+      "1 e 1/2 lata de leite (medida da lata do leite condensado)",
+      "4 ovos",
+      "1/2 colher (chá) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos ingredientes no liquidificador e bata por uns 2 minutos.",
+      "Despeje em uma forma de furo no meio, caramelizada e que caiba dentro da panela de pressão.",
+      "Coloque uns 3 dedos de água na panela e coloque a forma dentro.",
+      "Tampe a panela e leve ao fogo.",
+      "Após começar a ferver, conte 4 minutos, desligue o fogo e espere sair o ar (não forçar o ar a sair).",
+      "Espere esfriar e leve a geladeira e desenforme."
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "ELIANE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299862-pudim-na-panela-de-pressao.html"
+}

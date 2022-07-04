@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO DE AMENDOIM COM XILITOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "1 xícara de xilitol",
+      "2 xícaras de farinha de amendoim",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com xilitol no liquidificador",
+      "Adicione a farinha aos poucos",
+      "Adicione o fermento",
+      "Leve ao forno preaquecido a 180° C por 25 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MIDANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301496-bolo-de-amendoim-com-xilitol.html"
+}

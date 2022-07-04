@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOPA DE COUVE COM BATATA-DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de couve manteiga picado",
+      "1/2 cebola cortada em cubinhos",
+      "1 batata doce (grande) cortada em cubos médio",
+      "1 colher (sopa) de curry",
+      "1 colher (sopa) de alho em pó",
+      "1 colher (sopa) de fumaça em pó (pode substituir por caldo de carne)",
+      "1 colher (café) de tomilho seco",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola em cubos junto com a couve.",
+      "Quando a cebola estiver transparente e a couve tiver diminuido de volume, acrescente água até a metade da panela.",
+      "Acrescente a batata-doce e os temperos.",
+      "Com a panela semi-tampada e o forno na temperatura média, deixe ferver por cerca de 20 minutos (até a batata-doce estar bem mole)",
+      "Quando a batata-doce estiver molinha, bata tudo no liquidificador e volte para o fogão a fogo baixo por 5 minutos.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANA LUIZA CARDOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300959-sopa-de-couve-com-batata-doce.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOMBOM DE TRAVESSA DA JU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 latas de creme de leite",
+      "100 g de achocolatado",
+      "1 tablete de margarina",
+      "1 caixinha de morangos",
+      "1 barra de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "CREME BRANCO",
+      "Em uma panela, coloque meio tablete de margarina, 1 lata de leite condensado, 1 lata de creme de leite.",
+      "Leve ao fogo ate obter ponto de brigadeiro e reserve.",
+      "BRIGADEIRO DE CREME DE LEITE",
+      "Em uma panela coloque meio tablete de margarina,1 lata de creme de leite e 100 g de achocolatado.",
+      "Leve ao fogo até obter ponto de brigadeiro e reserve.",
+      "Em uma travessa, despeje todo o creme branco.",
+      "Pique os morangos e coloque por cima do creme branco.",
+      "Em seguida, coloque o brigadeiro de creme de leite.",
+      "Rale a barra de chocolate e polvilhe por cima para decorar.",
+      "Leve à geladeira por aproximadamente 2 horas",
+      "Em seguida sirva!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "(O brigadeiro de creme de leite demora um pouco para pegar o ponto, mas da certo.)\n(Essa receita também pode ser feita em quantidades individuais, basta porcionar na quantidade que desejar em potinhos para sobremesa)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JU NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305478-bombom-de-travessa-da-ju.html"
+}

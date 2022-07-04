@@ -1,0 +1,33 @@
+{
+  "nome_receita": "QUIBE RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "2 xícaras de trigo para quibe",
+      "1 cebola",
+      "1 limão",
+      "1/2 xícara de água quente",
+      "1 sachê de tempero pronto para carnes",
+      "pimenta calabresa a gosto",
+      "sal a gosto",
+      "requeijão a gosto",
+      "queijo mussarela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente 1/2 xícara de água, coloque o trigo para quibe em um recipiente e o cubra com a água quente",
+      "Espere o trigo absorver a água",
+      "Após absorver a água, aperte o trigo para quibe, garanta que não esteja pingando água",
+      "Junte o trigo para quibe com a carne moída, tempere com sal, a pimenta calabresa, o tempero pronto, o limão e a cebola picada",
+      "Amasse com as mãos para temperar",
+      "Faça bolinhas e as faça um furo com o dedo",
+      "Recheie os furos feitos com requeijão e coloque mussarela picada por cima",
+      "Unte a forma com azeite de oliva, e coloque os para assar na temperatura de 200°C por 45 minutos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "MARIA EDUARDA FONSECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303314-quibe-recheado.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA DE QUEIJO GIGANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de manteiga Président derretida",
+      "1/2 xícara de água",
+      "100 g de queijo parmesão Président",
+      "2 xícaras de povilho doce",
+      "1 colher fermento em pó",
+      "1 pitada de sal",
+      "300 g de mussarela Président picada "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador adicione os ovos, o óleo de coco ou manteiga, a água e o queijo parmesão",
+      "Em seguida adiciona o povilho doce, o fermento e a pitada de sal",
+      "Bata tudo por 2 minutos",
+      "Unte uma forma com manteiga e povilho e despeje metade da massa que está no liquidificador",
+      "Recheie com a mussarela picada e em seguida despeje o restante da massa",
+      "Asse em forno preaquecido a 180°C por 35 minutos",
+      "Aproveite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Shirley Maria da Silva"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303758-torta-de-queijo-gigante.html"
+}

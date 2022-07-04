@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PATÊ DE ATUM ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de maionese",
+      "salsinha a gosto",
+      "cebolinha a gosto",
+      "1 dente de alho pequeno",
+      "1 pitada de sal",
+      "1 lata de atum natural"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata todos os ingredientes, menos o atum.",
+      "Bata até que esteja tudo bem misturado.",
+      "Escorra o atum até sair toda a água.",
+      "Em um recipiente de vidro com tampa, coloque a mistura do liquidificador e o atum escorrido, misture tudo e coloque na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "NADIELE NOGUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301937-pate-de-atum-especial.html"
+}

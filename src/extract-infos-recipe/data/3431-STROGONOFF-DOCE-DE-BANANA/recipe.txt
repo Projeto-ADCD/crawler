@@ -1,0 +1,21 @@
+{
+  "nome_receita": "STROGONOFF DOCE DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 nata",
+      "1 leite condensado",
+      "3 bananas prata picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater na batedeira a nata e o leite condensado até formar um creme grossinho (se for a batedeira planetária não pode ser na velocidade máxima pois a nata fica coalhada)",
+      "Logo depois, com a ajuda de uma colher, misture as bananas picadas e levar ao congelador por no mínimo 30 minutos ",
+      "Uma receita rápida e deliciosa"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SAYURI IMURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303379-strogonoff-doce-de-banana.html"
+}

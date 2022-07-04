@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COBERTURA DE CHOCOLATE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de achocolatado em pó ",
+      "1 xícara de açúcar ",
+      "1/2 xícara de leite ",
+      "1 colher (sopa) margarina ",
+      "1/2 colher (sopa) de amido de milho "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o amido de milho no leite na xícara mesmo e despeje em uma panela ",
+      "Depois coloque todos os ingredientes e é só mexer até borbulhar",
+      "Quando estiver soltando do fundo da panela está pronto",
+      "Agora é só colocar no seu delicioso bolo e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EFIGÊNIA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301399-cobertura-de-chocolate-cremoso.html"
+}

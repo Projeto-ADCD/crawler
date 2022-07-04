@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOPA DE GRÃO DE BICO COM MANDIOQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de grão-de-bico cozido",
+      "500 g de mandioquinha picada em cubos",
+      "400 g de carne bovina em cubos (cozida separadamente) deixe com caldo na panela",
+      "1 pitada de sal",
+      "2 dentes de alho ralado ",
+      "1 cebola média picada",
+      "cebolinha picada a gosto",
+      "coentro (cheiro-verde) picado",
+      "1 colher (sopa) de azeite ou margarina",
+      "100 g de salsinha",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve 150 g de grão-de-bico bata e 200 g de mandioquinha",
+      "Bata no liquidificador junto com a salsinha",
+      "Frite o alho com azeite ou margarina e acrescente a cebola picada refogue ",
+      "Adicione todos os ingredientes na panela da carne cozida",
+      "Misture o grão-de-bico e a mandioquinha batida.",
+      "Por último a cebolinha e coentro picado e o sal",
+      "Sirva com torradas",
+      " ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "-45 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "JANES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304959-sopa-de-grao-de-bico-com-mandioquinha.html"
+}

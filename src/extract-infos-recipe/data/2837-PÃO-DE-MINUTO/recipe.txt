@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE MINUTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "1 colher de fermento para bolo",
+      "2 colheres de manteiga",
+      "1 ovo",
+      "1 xícara de leite",
+      "1 gema para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ingredientes secos e adicione os outros no centro da mistura com um buraco no meio.",
+      "Modele em bolinhas do tamanho de pão-de-queijo.",
+      "A massa fica levemente grudenta.",
+      "Passe a gema em cada uma.",
+      "Unte a forma e leve ao forno médio preaquecido por 20 minutos ou até que fiquem douradas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304308-pao-de-minuto.html"
+}

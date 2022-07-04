@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SALMON YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de salmão ",
+      "250 g farofa Yoki ",
+      "2 maracujás ",
+      "1/4 de salsa",
+      "600 g de batata",
+      "5 colheres de manteiga",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e coloque para cozinhar na água com sal",
+      "Cozinhe por 30 minutos ou até ficar macia",
+      "Enquanto cozinha as batatas, retire a pele do salmão e faça cortes de 100 g ou o tamanho que preferir",
+      "Tempere os filés com sal e pimenta",
+      "Derreta a manteiga, acrescente a polpa do maracujá e deixe ferver",
+      "Acrescente a farofa yoki e mexa",
+      "Está pronta a crosta do salmão",
+      "Faça um purê com as batatas cozidas e acrescente 3 colheres de manteiga, além de sal e pimenta",
+      "Frite os filés de salmão e reserve",
+      "Coloque em um prato o filé de salmão com a farofa por cima e o purê do lado.",
+      "Sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Genival Ribeiro"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304129-salmon-yoki.html"
+}

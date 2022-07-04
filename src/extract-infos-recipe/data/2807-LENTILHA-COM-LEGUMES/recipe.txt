@@ -1,0 +1,43 @@
+{
+  "nome_receita": "LENTILHA COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de lentilha",
+      "1 linguiça calabresa grossa cortada em fatias",
+      "1/2 xícara (chá) de bacon picado",
+      "2 cebolas médias picadas",
+      "3 dentes de alho picados",
+      "1 cenoura média cortada em meias-luas",
+      "2 batatas grandes cortadas e cubos",
+      "2 folhas de louro",
+      "1 colher (chá) de estragão",
+      "3 xícaras (chá) de água",
+      "2 colheres (sopa) de óleo",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque o óleo a esquentar.",
+      "Junte o bacon e a linguiça e deixe fritar por uns minutos.",
+      "Acrescente as cebolas picadas e o alho.",
+      "Deixe refogar até dourar.",
+      "Coloque na panela, a lentilha, as folhas de louro, o estragão e a água.",
+      "Tempere com sal e pimenta a seu gosto.",
+      "Tampe a panela e deixe cozinhar por uns 15 minutos após o início do chiado.",
+      "Após tire a pressão da panela e abra.",
+      "Acrescente a cenoura e a batata, tampe a panela e leve ao fogo novamente.",
+      "Deixe cozinhar por uns 7 minutos.",
+      "Tire a pressão da panela e abra novamente.",
+      "Verifique se os ingredientes estejam cozidos.",
+      "Verifique o sal e a pimenta e se necessário acrescente mais.",
+      "Se a lentilha ficar com caldo muito grosso acrescente mais um poco de água ou de vinho branco a seu gosto.",
+      "Deixe ferver por um minuto e sirva em seguida.",
+      "Se gostar podes polvilhar com salsinha picada antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304394-lentilha-com-legumes.html"
+}

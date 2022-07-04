@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BISCOITO DE POLVILHO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho azedo",
+      "1 copo (de 300 ml) de óleo de soja ou outro de sua preferência ",
+      "2 copos (de 300 ml) de leite ",
+      "1 copo (de 300 ml) de água ",
+      "4 ovos",
+      "1 colher (sopa) bem rasa de sal",
+      "1 saquinho de erva doce",
+      "queijo minas ralado a vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje todo o polvilho em uma vasilha, misture o sal e reserve o saco plástico, você vai precisar dele",
+      "Ferva o óleo com 1 copo de leite e o copo de água, misture ao polvilho, deixe esfriar",
+      "Ponha os ovos, a erva doce, o queijo",
+      "Misture tudo, vai adicionando o resto do leite aos poucos, a massa deve ficar bem mole, sove bem",
+      "Corte em um dos lados na parte não aberta do saquinho que veio o polvilho, faça um corte de acordo com o diâmetro que você vai querer o biscoito",
+      "Com a ajuda de uma colher coloque parte da massa dentro do saquinho, em uma forma que vai ao forno vai espremendo, ou como se diz na roça, escrevendo os biscoitos",
+      "Leve ao forno em temperatura de 200°C, por 30 minutos, ou até dourar, depois é só comer."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "NILSON ANTONIO GOMES DE MATOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303270-biscoito-de-polvilho-com-queijo.html"
+}

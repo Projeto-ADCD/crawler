@@ -1,0 +1,42 @@
+{
+  "nome_receita": "HAMBÚRGUER X-SALADA SIMPLES E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Alface",
+      "1 kg de carne moída",
+      "1 kg de tomate",
+      "500 g de mussarela",
+      "500 g bacon picado",
+      "sal",
+      "pimenta",
+      "maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a carne com pimenta e sal;",
+      "Deixe descansar 2 a 3 minutos para o sal começar agir;",
+      "Pegue cada hambúrguer com 100 g aproximadamente;",
+      "Molde em forma de uma bola;",
+      "Depois achatar e dar o contorno do padrão do hambúrguer;",
+      "Pegue o pão tradicional de hambúrguer;",
+      "Corte ao meio em proporções iguais;",
+      "Passe maionese em ambas as partes;",
+      "Em uma fatia coloque 1 folha de alface e 2 rodelas de tomate;",
+      "Pegue o hambúrguer e coloque-o na chapa, deixe de 3 a 4 minutos de cada lado (no caso do uso da frigideira, untar com óleo/azeite e deixar em fogo médio);",
+      "Passado 6 minutos na chapa, acrescente o bacon e o queijo;",
+      "Depois coloque o queijo em cima do bacon;",
+      "Pegue uma tampinha pequena para fechar o hambúrguer, o bacon e o queijo para ajudar a derreter mais rápido;",
+      "Com o queijo já derretido, pegue e vá pra montagem.",
+      "Em seguida colocar a parte de cima do pão.",
+      "E depois, só servir"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O legal do bacon é ele ser colocado em toda parte do hambúrguer, para que cada mordida ele esteja presente."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "REIKO OZAWA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302983-hamburguer-x-salada-simples-e-rapido.html"
+}

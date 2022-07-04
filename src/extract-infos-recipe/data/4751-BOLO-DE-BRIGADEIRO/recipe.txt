@@ -1,0 +1,60 @@
+{
+  "nome_receita": "BOLO DE BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de chocolate em pó",
+      "1 colher (sopa) de fermento em pó",
+      "Recheio",
+      "1 lata de leite condensado (395g)",
+      "1 caixa de creme de leite (200g)",
+      "3 colheres (sopa) de chocolate em pó (usei 35%)",
+      "1 colher (sopa) de manteiga",
+      "Cobertura",
+      "200 ml de chantili de chocolate",
+      "Brigadeiros enrolados para decoração",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) de chocolate em pó (usei 35%)",
+      "1 colher de manteiga",
+      "chocolate granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata em uma batedeira os ovos com o açúcar até triplicar de tamanho.",
+      "Quando triplicar adicione o óleo misturado com o leite.",
+      "Desligue a batedeira e bata o resto à mão.",
+      "Bata a farinha com o chocolate em pó (peneirados) delicadamente, até incorporar todo na massa.",
+      "Por último, adicione o fermento em pó.",
+      "Unte muito bem uma forma e enfarinhe. Use papel papel-manteiga no fundo se preferir. Despeje a massa",
+      "Leve ao forno preaquecido a 180º C de 40 a 45 minutos ou até espetar o palito de dente e ele sair limpo",
+      "Recheio",
+      "Em uma panela fora do fogo, coloque todos os ingredientes e mexa muito bem.",
+      "Leve em fogo médio/baixo até engrossar bastante.",
+      "Transfira para um recipiente, cubra e deixe esfriar.",
+      "Brigadeiros p/ decoração",
+      "Em uma panela fora do fogo coloque todos os ingredientes e mexa muito bem",
+      "Leve em fogo médio/baixo até engrossar e soltar do fundo da panela.",
+      "Transfira para um prato untado com margarina e deixe esfriar completamente.",
+      "Enrole eles e passe no granulado.",
+      "Montagem",
+      "Desenforme o bolo depois de frio e corte a massa em 2 partes.",
+      "Coloque um plástico filme na forma em que assou o bolo.",
+      "Molhe a primeira parte da massa com uma calda de sua preferência (usei leite com achocolatado).",
+      "Coloque todo o recheio já frio por cima da passa e, em seguida, o último disco de massa",
+      "Molhe novamente e leve à geladeira por no mínimo 4 a 6 horas.",
+      "Desenforme o bolo em um prato e coloque o chantili batido.",
+      "Por último, adicione os brigadeiros enrolados."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300301-bolo-de-brigadeiro.html"
+}

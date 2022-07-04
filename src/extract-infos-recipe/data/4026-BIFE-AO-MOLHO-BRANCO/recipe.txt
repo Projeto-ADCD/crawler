@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BIFE AO MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 pedaços de bife médios",
+      "óleo",
+      "5 dentes de alho",
+      "1 colher (sopa) de sal",
+      "1 caixa de creme de leite",
+      "1 tomate picado em cubos",
+      "1 cebola picada em cubos",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o alho",
+      "Bata o alho junto com o sal",
+      "Tempere os bifes",
+      "Em fogo médio adicione um pouco de óleo",
+      "Frite os bifes, se o óleo for secando vá adicionando mais",
+      "Em uma frigideira ligada em fogo médio, adicione óleo, a cebola e o tomate",
+      "Mexa até a cebola dourar",
+      "Adicione a pitada de sal e o creme de leite, mexa até ferver o creme",
+      "Em uma tigela adicione o bife e por cima o creme"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL ÂNGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302109-bife-ao-molho-branco.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CREME DE LEITE CONDENSADO COM MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1 xícara de chá de leite",
+      "4 gemas passadas na peneira.",
+      "2 colheres (sopa) de creme de leite",
+      "2 caixinhas de chantili bem gelado",
+      "3 colheres de leite ninho",
+      "2 caixas de morango lavados e cortados no sentido do comprimento em 3 fatias"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Em uma panela coloque o leite condensado, o leite e as gemas peneiradas e leve ao forno medio sem parar de mexer até que desgrude do fundo da panela",
+      "Deixe esfriar.",
+      "Na batedeira bata o chantili até ficar bem firme e acrescente o leite ninho.",
+      "Motagem",
+      "Em um refratário médio de vidro espalhe o morango por todo o fundo.",
+      "Em seguida faça uma camado com todo o creme de leite condensado já frio",
+      "Por último, cubra com o chantili e decore com morangos inteiros.",
+      "Sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIANA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304133-creme-de-leite-condensado-com-morangos.html"
+}

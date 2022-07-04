@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE MILHO, CENOURA E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa pronta ",
+      "200 g de linguiça calabresa fina defumada ",
+      "1 lata de milho verde",
+      "200 g de cenoura ralada",
+      "200 g de bacon defumado sem gordura",
+      "1 cabeça de cebola",
+      "2 dentes de alho picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a cebola, o alho e o óleo na frigideira",
+      "Refogue até dourar",
+      "Adicione a linguiça calabresa e o bacon, deixe fritar",
+      "Adicione a farofa e mexa sem deixar agarrar",
+      "Adicione o milho verde, a cenoura ralada e mexa bem",
+      "Está pronto para ser servido!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CARLOS GUSTAVO E CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303566-farofa-de-milho-cenoura-e-bacon.html"
+}

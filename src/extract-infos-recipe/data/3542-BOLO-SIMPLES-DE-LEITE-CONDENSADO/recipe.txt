@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO SIMPLES DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "3 xícaras de leite",
+      "3 colheres de manteiga",
+      "1 caixinha de leite condensado",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo na batedeira",
+      "Unte uma forma com furo no meio",
+      "Leve ao forno pré-aquecido por cerca de 45 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não vai fermento"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LAIZE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303170-bolo-simples-de-leite-condensado.html"
+}

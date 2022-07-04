@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PANETONE CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1/2 xícara de chá de óleo",
+      "1 ovo",
+      "2 xícara (chá) de leite morno",
+      "1/2 xícara (chá) de açúcar",
+      "1 saquinho de fermento biológico ou 1 e 1/2 tablet de fermento para pão",
+      "Uvas passa",
+      "Frutas cristalizadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, exceto a farinha de trigo e as frutas.",
+      "Misture a farinha e as frutas em uma vasilha.",
+      "Em seguida misture com os líquidos no liquidificador. A consistência fica um pouco mole.",
+      "Unte uma forma com margarina. Coloque a massa até a metade da forma. Cubra e deixe descansar por 40 minutos.",
+      "Em seguida, quando crescer, leve para assar em forno baixo. Quando o garfo sair limpo, já está assado."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELIANA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300717-panetone-caseiro.html"
+}

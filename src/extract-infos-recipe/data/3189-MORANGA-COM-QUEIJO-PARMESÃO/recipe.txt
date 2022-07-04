@@ -1,0 +1,42 @@
+{
+  "nome_receita": "MORANGA COM QUEIJO PARMESÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de azeite de oliva",
+      "1 cebola",
+      "400 ml de tomates pelattis (processados)",
+      "1 dente de alho",
+      "10 folhas de manjericão",
+      "2 colheres de salsa picada",
+      "1 colher de açúcar (para tirar acidez do molho)",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "2 ovos (ligeiramente batidos)",
+      "55 g de pão ralado ou farinha Panko",
+      "1,6 kg de moranga fatiada e descascada",
+      "55 g de manteiga Président mais um pouco para untar",
+      "55 g de queijo parmesão Président ralado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o azeite numa panela grande, adicione a cebola e o alho e deixe refogar em fogo baixo por 5 minutos ou até ficarem moles",
+      "Adicione, mexendo, os tomates, o manjericão, a salsa e o açúcar, e tempere com sal e pimenta",
+      "Deixe ferver por 10-15 minutos ou até engrossar",
+      "Coloque os ovos batidos em um recipiente e a farinha Panko em outro",
+      "Mergulhe as fatias da moranga nos ovos e, em seguida, na Panko e sacuda para retirar o excesso",
+      "Unte uma assadeira com um pouco de manteiga",
+      "Derreta o restante da manteiga em uma panela e frite as fatias até ficarem tostadas por igual",
+      "Transfira as fatias para a assadeira, coloque o molho por cima e polvilhe com queijo parmesão",
+      "Leve ao forno, previamente aquecido a 180°C, durante 30 minutos, até o queijo borbulhar e alourar",
+      "Sirva logo em seguida"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Andressa Alves"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303760-moranga-com-queijo-parmesao.html"
+}

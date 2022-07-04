@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DA EVANILDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo caipira (cru)",
+      "raspas e suco de 1 limão",
+      "1/4 de xícara (chá) de azeite de oliva",
+      "sal e pimenta-do-reino",
+      "óleo de girassol (o suficiente)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, o limão e os temperos no liqüidificador",
+      "Acrescente o azeite e bata só até misturar",
+      "Depois acresecente o óleo aos poucos em fios até ficar cremosa",
+      "Coloque em um potinho para maionese e leve para gelar",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EVANILDE CASSOLA RASTELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300123-maionese-caseira-da-evanilde.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PEIXE FRITO - POSTAS DE PINTADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Kg de pintado em postas de 2 a 3 cm",
+      "2 dentes de alho picadinhos",
+      "1 limão",
+      "1 colher (sopa) rasa de sal",
+      "pimenta-do-reino e outros temperos a gosto",
+      "2 ovos batidos",
+      "1 xícara de farinha de trigo",
+      "1 xícara de fubá",
+      "óleo de soja (dependendo da panela, use quantidade suficiente para imergir as postas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com o sal, alho, pimenta-do-reino e o suco do limão.",
+      "Deixe descansar por 15 minutos.",
+      "Fique a vontade com outros temperos de sua preferência",
+      "Empane os pedacos passando primeiro no ovo e depois na mistura de farinha de trigo com fubá",
+      "Em óleo quente, acomode poucos pedacos, de maneira que fiquem totalmente imersos",
+      "Frite por 2 minutos de cada lado ou até ficar dourado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: acho o pintado o peixe mais saboroso de todos, além de não ter espinhos pequenos. Outras boas opções de peixes para esse preparo:\nDe água doce - Filhote, Traira, Tilapia, Tambaqui, Pacu, Tucunare, Pirarucu, etc.\nDe água salgada: Badejo, Anchova, Tainha, Garoupa, Namorado, Robalo, Porquinho, etc."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDO MONTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304710-peixe-frito-postas-de-pintado.html"
+}

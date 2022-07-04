@@ -1,0 +1,35 @@
+{
+  "nome_receita": "RISOTO NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de azeite",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "250 g de peito de frango cortado em cubos",
+      "50 g de bacon picado",
+      "100 g de linguiça calabresa cortada em rodelas ou picada",
+      "1 xícara de arroz arbóreo",
+      "60 ml de vinho branco seco ou vinagre de maçã",
+      "1 tablete de caldo de galinha dissolvido em 500 ml de água",
+      "sal e pimenta-do-reino a gosto",
+      "50 g de manteiga",
+      "1 xícara de queijo muçarela picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite em uma panela de pressão e frite a cebola e o alho",
+      "Adicione o frango, o bacon e a linguiça e frite",
+      "Adicione o arroz e misture tudo",
+      "Adicione o vinho/vinagre, sal e pimenta e mexa",
+      "Por último, coloque o caldo de galinha, misture e feche a panela",
+      "Leve ao fogo médio e cozinhe por 3 minutos após pegar pressão",
+      "Abre a panela após tirar do fogo, adicione a manteiga e mexa até dissolver por completo",
+      "Para finalizar adicione o queijo e mexa"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TAMIRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302725-risoto-na-panela-de-pressao.html"
+}

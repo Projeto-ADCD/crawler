@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FRANGO ASSADO COM BATATAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1kg de sobrecoxa de frango",
+      "1kg de batata Monalisa",
+      "Azeite de oliva",
+      "Sal",
+      "Pimenta do reino",
+      "Alecrim",
+      "Alho",
+      "Cominho",
+      "Manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas e as sobre coxas em pedaços pequenos e cozinho tudo junto por 10 minutos com sal e pimenta a gosto.",
+      "Refogue em uma panela separada, o alho e o alecrim com manteiga e óleo de oliva e reserve.",
+      "Derreta um pouco de manteiga em uma forma onde irá assar o frango com as batatas.",
+      "Coloque na forma, o frango e as batatas e adicione a manteiga com o alho refogado.",
+      "Cubra com papel alumínio e coloque para assar por 30 minutos.",
+      "Retire o papel alumínio e se preferir, adicione mais manteiga e coloque no forno por mais 15 minutos para dourar.",
+      "Se preferir, utilize o caldo do frango para cozinha arroz como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BRUNO FOSSATTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301526-frango-assado-com-batatas.html"
+}

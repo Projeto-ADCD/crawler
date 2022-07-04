@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE DA LUGOES",
+  "ingredientes": {
+    "MASSA:": [
+      "100 g de manteiga",
+      "3 ovos",
+      "1 e meia xícara (chá) de açúcar",
+      "1 xícara (chá) de chocolate em pó 50% cacau",
+      "1 xícara (chá) de leite",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "meia colher (chá) de bicarbonato de sódio"
+    ],
+    "COBERTURA:": [
+      "1 leite condensado",
+      "100 g de chocolate meio amargo ou achocolatado",
+      "1 colher (sopa) de manteiga",
+      "1 caixinha de creme de leite",
+      "50 g de chocolate granulado para decorar"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em uma batedeira, bata a manteiga, os ovos, o açúcar e o chocolate em pó até ficar homogêneo.",
+      "Desligue a batedeira, junte o leite, a farinha, o fermento e o bicarbonato e misture bem.",
+      "Coloque em uma forma redonda de furo central (23 cm de diâmetro) untada com manteiga e polvilhada com farinha de trigo, e leve ao forno médio-alto (200°C), preaquecido, por cerca de 40 minutos.",
+      "Espere amornar e desenforme."
+    ],
+    "COBERTURA:": [
+      "Em uma panela, coloque o Leite condensado, o Chocolate meio amargo e a manteiga.",
+      "Misture bem e leve ao fogo médio, por cerca de 8 minutos ou até desgrudar do fundo da panela.",
+      "Desligue o fogo, junte o Creme de Leite e misture bem.",
+      "Espere amornar e faça uma camada de brigadeiro em toda volta do bolo e se preferir pode rechear tbm.",
+      "Decore com o granulado."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCIANA GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300984-bolo-de-chocolate-da-lugoes.html"
+}

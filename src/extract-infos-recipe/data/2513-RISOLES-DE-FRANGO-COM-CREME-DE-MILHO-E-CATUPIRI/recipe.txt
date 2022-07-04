@@ -1,0 +1,46 @@
+{
+  "nome_receita": "RISOLES DE FRANGO COM CREME DE MILHO E CATUPIRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos do caldo do cozimento do frango",
+      "3 copos de farinha de trigo sem fermento",
+      "2 colheres (sopa) cheias de manteiga",
+      "1/2 tablete de caldo de galinha",
+      "300 g de frango cozido já temperado e desfiado",
+      "coentro picadinho a gosto",
+      "2 colheres (sopa) de milho verde",
+      "1/2 copo de leite",
+      "1 colher (chá) de farinha de trigo",
+      "2 colheres (sopa) de catupiri",
+      "1/2 colher (sopa) rasa de amido de milho",
+      "500 ml de água",
+      "farinha de rosca para empanar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Ferva o caldo dissolvendo o tablete de caldo de galinha e a manteiga",
+      "Acrescente a farinha de trigo e mexa vigorosamente até desprender do fundo da panela",
+      "Despeje a massa sobre um balcão e sove com a ajuda de uma espátula até que a massa fique uniforme",
+      "Cubra com um pano limpo e coloque um filme plástico por cima para não ressecar",
+      "Creme de milho",
+      "Bata no liquidificador a 1/2 xícara de leite com as duas colheres de milho e uma colher (chá) de farinha de trigo",
+      "Leve ao fogo até engrossar e acrescente o frango",
+      "Retire do fogo e coloque as duas colheres de catupiri",
+      "Teste o sal",
+      "Montagem",
+      "Abra a massa com as mãos com cuidado para não ficar muito fina",
+      "Acrescente o recheio com cuidado para não ultrapassar as bordas",
+      "Corte com um cortador redondo no formato de risoles",
+      "Leve o fogo os 500 ml de água com o amido e deixe engrossar",
+      "Passe os rioles na cola de maisena e depois na farinha de rosca",
+      "Leve ao refrigerador por pelo menos duas horas ou congele",
+      "Frite em óleo quente até dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "TIAKI MIZUKI ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305046-risoles-de-frango-com-creme-de-milho-e-catupiri.html"
+}

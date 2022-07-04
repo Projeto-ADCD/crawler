@@ -1,0 +1,51 @@
+{
+  "nome_receita": "CHEESECAKE DA HELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 pacote de biscoito maisena",
+      "100 g de manteiga light",
+      "Recheio",
+      "3 caixinhas de cream chesse ",
+      "1 lata de leite condensado",
+      "4 ovos",
+      "Calda de frutas vermelhas",
+      "1 xícara de morangos",
+      "1 xícara de amoras ou framboesas",
+      "1 xícara de água",
+      "2 colheres (sopa) conhaque ou rum"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os biscoitos no liquidificador até virar uma farofa.",
+      "Misture a manteiga levemente derretida, até virar uma pasta de fácil manuseio, sem grudar entre os dedos.",
+      "Reserve.",
+      "Recheio",
+      "No liquidificador, bata os ovos com o cream cheese e o leite condensado até virar uma mistura bem homogênea.",
+      "Se quiser, pode colocar algumas gotinhas de baunilha.",
+      "Calda",
+      "Enquanto a torta está no forno, prepare a calda.",
+      "Pique os morangos, amoras ou framboesas e refogue em fogo baixo, acrescentando a água aos poucos.",
+      "Coloque o açúcar, também aos poucos, e deixe as frutas cozinharem até ficarem bem moles, em consistência de uma calda espessa.",
+      "Por fim, coloque o conhaque ou rum e espere evaporar.",
+      "Prove e regule o açúcar, se necessário.",
+      "Reserve até esfriar.",
+      "Montagem",
+      "Preaqueça o forno a 180º C",
+      "Unte com manteiga e farinha uma forma própria para tortas com até 26 cm de diâmetro.",
+      "Forre a base da forma com o biscoito moído fazendo uma camada de cerca de 0,5 cm.",
+      "Forre as laterais com papel manteiga e deixe bem preso na lateral.",
+      "Despeje o recheio na forma e dê suaves batidinhas para tirar as bolhas da torta.",
+      "Observe se as laterais estão desgrudadas do papel manteiga.",
+      "Retire a torta do forno e deixe esfriar.",
+      "Desenforme com cuidado e tire o papel manteiga suavemente.",
+      "Coloque a calda por cima de toda a torta e leva a geladeira por 1 hora",
+      "Bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305300-cheesecake-da-helo.html"
+}

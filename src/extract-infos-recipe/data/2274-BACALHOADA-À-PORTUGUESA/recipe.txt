@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BACALHOADA À PORTUGUESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de lombo de bacalhau do porto (dessalgue em água fria, 36 horas antes do preparo, trocando a água a cada 6 horas) ou se preferir, use lascas de bacalhau",
+      "4 batatas médias cortadas em rodelas relativamente grossas, pré-cozidas",
+      "2 cebolas médias cortadas em rodelas finas (se não gosta de cebola, substitua por alho-poró)",
+      "6 dentes de alho grandes cortados em fatias",
+      "3 ovos cozidos (cozinhar por 10 minutos)",
+      "1 xícara (chá) de salsinha picadinha",
+      "1 pimentão amarelo picado em tiras (se não gosta de pimentão, substitua por tomate)",
+      "1 pimentão vermelho picado em tiras",
+      "150 g de azeitonas pretas sem caroço (se preferir use azeitonas verdes) crua ou ervilha em grãos congeladas já cozidas a parte",
+      "1 xícara (chá) de azeite de oliva extra virgem",
+      "sal se for necessário"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque 2 litros de água para ferver, quando tiver fervendo coloque o bacalhau e deixe a água ferver novamente",
+      "Assim comece a ferver, retire o bacalhau com cuidado para não desmanchar e reserve.",
+      "Na água que cozinhou o bacalhau, coloque as batatas e assim que levantar fervura conte 10 minutos e retire a batata que deve estar ao dente, reserve também.",
+      "Nessa mesma água do cozimento coloque os pimentões ou tomate e quando a água voltar a ferver, marque um minuto e retire também dessa água, reserve ",
+      "Faz o mesmo com o outro pimentão e depois reserve.",
+      "Coloque a cebola nessa mesma água e deixe cozinhando por dois minutos, tire da água do cozimento, separe e reserve.",
+      "Molho de alho",
+      "A parte fazemos um molho de alho, colocamos o azeite na panela em fogo médio e colocamos o alho fatiado",
+      "Se não precisar não coloque sal, se o bacalhau não precisar de sal.",
+      "Montando o bacalhau",
+      "Coloque um pouco de azeite na travessa e espalhe, coloque a cebola, o bacalhau, as batatas, um parte do molho de alho, coloque os pimentões, azeitonas, os ovos cozidos e espalhe o restante do molho de alho",
+      "Regue novamente com azeite e leve ao forno por 180º C, por aproximadamente por 15 minutos ou até o azeite começar a borbulhar.",
+      "Retire do forno polvilhe com salsinha e sirva acompanhado de arroz branco se desejar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305586-bacalhoada-a-portuguesa.html"
+}

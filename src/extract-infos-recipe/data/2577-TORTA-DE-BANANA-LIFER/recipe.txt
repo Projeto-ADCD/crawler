@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE BANANA LIFER",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "400 g farinha de trigo",
+      "150 g açúcar cristal",
+      "3 ovos inteiros",
+      "200 g margarina sem sal",
+      "Recheio",
+      "10 bananas nao muito maduras (nanica)",
+      "1 pitada de canela",
+      "Creme",
+      "500 ml de leite integral",
+      "6 colheres (sopa) de amido de milho",
+      "1 colher (sopa) de essência de baunilha",
+      "180 g de açúcar refinado",
+      "Para decorar ",
+      "doce de leite de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture a farinha, açúcar, margarina e ovos até obter uma massa homogênea.",
+      "Pré-asse em uma forma de aro removível 24 cm",
+      "Até começar a dourar.",
+      "Deixe as bananas picadas em rodelas e reserve.",
+      "Creme ",
+      "Leve o leite ao fogo até levantar fervura",
+      "Junte a essência e o amido já dissolvido no leite até engrossar ",
+      "Após esfriar o creme junte as bananas",
+      "Polvilhe a canela e incorpore na massa que está na forma",
+      "Cubra por último com doce de leite e decore com as bananas por cima, use a criatividade!",
+      "Leve à geladeira por 1 hora",
+      "Só desenformar e pronto.",
+      "Sirva bem gelado ."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELISANGELA LINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304909-torta-de-banana-lifer.html"
+}

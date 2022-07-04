@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BAGEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo",
+      "10 g de fermento seco",
+      "23 g de açúcar",
+      "320 ml de água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Deixe a massa crescer até dobrar de tamanho.",
+      "Modele em forma de rosquinhas.",
+      "Cozinhe em água fervente de 1 a 2 minutos.",
+      "Quanto mais ela cozinha, mais mastigável fica, menos crocante.",
+      "Pincele com ovo, salpique tempero a gosto (alho em flocos, cebola em flocos, gergelim, sal grosso).",
+      "Levar ao forno médio por 20 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304316-bagel.html"
+}

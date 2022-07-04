@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE MELÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 melão grande",
+      "1 limão",
+      "2 paus de canela",
+      "2 cravos-da-índia (ou cravinho)",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o melão em pedaços",
+      "Rale a casca do limão e esprema o suco",
+      "Em uma panela, ponha o melão, as raspas e o suco de limão, a canela em pau, o cravo e o açúcar.",
+      "Deixe cozinhar, mexendo de vez em quando, durante 30 minutos",
+      "Retire do fogo e deixe esfriar antes de colocá-lo em um pote."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FATIMA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305849-doce-de-melao.html"
+}

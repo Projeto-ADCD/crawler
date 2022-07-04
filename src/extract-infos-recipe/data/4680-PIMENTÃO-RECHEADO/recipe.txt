@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PIMENTÃO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 pimentões verdes médios sem semente",
+      "1 pão francês",
+      "1 copo de leite",
+      "500 g de carne moída (patinho ou chan de dentro)",
+      "1 cebola branca pequena picada",
+      "1 tomate picado",
+      "4 dentes de alho picados",
+      "1 maço de tempero verde picado (cebolinha, coentro e salsa)",
+      "1 colher (sopa) de óleo vegetal",
+      "Pimenta e cominho a gosto",
+      "Colorau a gosto",
+      "Azeite de oliva extravirgem a gosto",
+      "Sal e temperos a gosto",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C por 15 minutos",
+      "Corte o pão francês em pedaços pequenos e misture com leite até amolecer, reserve",
+      "Misture a cebola, o tomate, o alho e o sal temperado à carne moída e reserve",
+      "Corte as tampas dos pimentões em forma de rodelas, retire as sementes e reserve (guarde as tampas dos pimentões)",
+      "Coloque o óleo vegetal na panela e leve ao fogo médio, adicione a carne moída já temperada e recheie até a água da carne secar",
+      "Quando a água secar, adicione 1 fio de azeite, o pão misturado ao leite (retirando o excesso de leite do pão), tempero verde, colorau e pimenta-do-reino",
+      "Espere esfriar e recheie os pimentões com a carne, tampando-os novamente",
+      "Coloque os pimentões em um refratário de vidro e regue-os com azeite",
+      "Coloque uma pitada de sal na parte externa dos pimentões, virando-os para que espalhe (opcional)",
+      "Cubra o refratário com papel-alumínio e leve ao forno a 180° C por 30 minutos",
+      "Vire os pimentões e volte ao forno por mais 15 minutos, sem o papel-alumínio"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRE BERRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300445-pimentao-recheado.html"
+}

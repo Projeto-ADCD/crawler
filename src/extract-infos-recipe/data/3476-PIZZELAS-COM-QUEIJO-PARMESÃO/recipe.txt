@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PIZZELAS COM QUEIJO PARMESÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "5 xícaras de farinha de trigo",
+      "1 xícara de leite morno ou o suficiente até a massa dar ponto",
+      "1 colher (sobremesa) de sal",
+      "1 pacotinho de fermento seco para pão",
+      "Molho",
+      "6 tomates",
+      "2 dentes de alho",
+      "1 colher (sopa) de azeite",
+      "sal e orégano a gosto",
+      "óleo para fritura",
+      "Cobertura",
+      "queijo parmesão ralado a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, junte a farinha, o fermento, o sal e adicione o leite morno até a massa soltar das mãos",
+      "Trabalhe bem a massa e leve para descansar por 30 a 40 minutos até dobrar de volume",
+      "Ou faça o teste da bolinha: com um pouco da massa, coloque em um copo com água e assim que ela subir a massa estará pronta para ser aberta.",
+      "Enquanto a massa descansa, faça o molho no liquidificador",
+      "Coloque os tomates lavados, sal, alho, azeite e bata",
+      "Passe para uma panela, coloque o orégano e leve ao fogo para apurar bem",
+      "Deve ficar bem sequinho.",
+      "Depois da massa crescida pegue um pouco da massa e abra com a mão no formato de uma pizza pequena",
+      "Não deve ficar muito fina",
+      "Leve para fritar em óleo quente (não deve deixar muito dourada)",
+      "Retire e deixe escorrer em papel-toalha",
+      "Frite todas as massas e reserve.",
+      "Montagem",
+      "Pizzela, molho de tomate e queijo parmesão ralado por cima"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "IVANI MORI MALVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303279-pizzelas-com-queijo-parmesao.html"
+}

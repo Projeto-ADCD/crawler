@@ -1,0 +1,26 @@
+{
+  "nome_receita": "AMBROSIA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de açúcar",
+      "2 litros de leite",
+      "6 ovos inteiros",
+      "1 colher (sopa) de cravo-da-Índia",
+      "Canela em pau a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite e as gemas.",
+      "Coloque na panela e misture o restante dos ingredientes.",
+      "Mexa um pouco até levantar fervura. Não tampe a panela.",
+      "Baixe o fogo e misture eventualmente para que não grude no fundo da panela.",
+      "Quando ele estiver na cor caramelizada e com os grãos da ambrosia formados está na hora de desligar.",
+      "Reserve em um pote fechado e coloque na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ELISANGELA GODOI FAGUNDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301718-ambrosia-facil.html"
+}

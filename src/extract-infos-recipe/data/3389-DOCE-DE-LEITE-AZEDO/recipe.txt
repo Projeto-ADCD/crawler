@@ -1,0 +1,26 @@
+{
+  "nome_receita": "DOCE DE LEITE AZEDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "7 colheres de açúcar",
+      "vinagre"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Acrescente o leite em uma panela grande",
+      "Pode ser leite azedo ou coloque vinagre para azedá-lo",
+      "Depois que levantar fervura coloque açúcar",
+      "Em fogo baixo, misture com muito cuidado",
+      "Aumente o fogo, logo em seguida abaixe",
+      "Vá mexendo até formar as \"bolinhas\" e assim está pronto para servir",
+      "Pode comer ele frio ou quente",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BARBARA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303459-doce-de-leite-azedo.html"
+}

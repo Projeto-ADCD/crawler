@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 colheres de farinha",
+      "10 colheres de açúcar",
+      "5 colheres de margarina",
+      "1 colher de fermento em pó",
+      "8 bananas",
+      "2 ovos",
+      "1/2 copo de leite",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, o açúcar, a margarina e o fermento em pó ate formar uma farofa",
+      "Descasque e corte as bananas ao meio",
+      "Forre a forma com metade a farofa coloque as bananas e despeje o restante da farofa",
+      "Misture os ovos e o leite e despeje por cima",
+      "Salpique canela",
+      "Leve ao forno por 30 minutos ou até dourar",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SABRINA SANCHES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304416-torta-de-banana.html"
+}

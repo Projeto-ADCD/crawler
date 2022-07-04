@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO DE QUEIJO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de requeijão cremoso (200 g)",
+      "300 g de queijo mussarela",
+      "3 colheres (sopa) de orégano",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela em fogo baixo, misture todos os ingredientes.",
+      "Misture sem parar até o queijo derreter por completo.",
+      "Sirva ainda quente.",
+      "Ideal para molho de massas ou hambúrguer."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303143-molho-de-queijo-facil.html"
+}

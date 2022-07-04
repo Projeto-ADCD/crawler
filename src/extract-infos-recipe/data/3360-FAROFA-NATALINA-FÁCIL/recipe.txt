@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FAROFA NATALINA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "1 linguiça calabresa",
+      "1 pimentão verde",
+      "1 pimentão vermelho",
+      "100 g de uva passa",
+      "farofa pronta temperada (o quanto baste)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Doure a cebola e a linguiça calabresa",
+      "Em seguida junte e aqueça os pimentões picados",
+      "Misture a farofa com todos os ingredientes ",
+      "Por último adicione as uvas passas",
+      "Use a farofa para enfeitar em volta do peru ou chester"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA LUIZA DEUTRICH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303505-farofa-natalina-facil.html"
+}

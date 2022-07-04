@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CAMARÕES NA MORANGA COM QUEIJO GRATINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora grande",
+      "1 kg de camarão médio limpo de preferência sem casca",
+      "1 lata de creme de leite",
+      "2 tomates",
+      "1 cebola",
+      "2 dentes de alho amassado",
+      "400 g de queijo de sua preferência ",
+      "200 g de manteiga ",
+      "lata de leite de coco",
+      "sal",
+      "coentro",
+      "salsinha",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a abóbora, corte a tampa de cima, tire as sementes, lave-a com água corrida",
+      "Passe a manteiga por dentro da abóbora ",
+      "Embrulhe no papel alumínio e leve ao forno e deixe por 45 minutos em 220ºC",
+      "Enquanto a abóbora vai ao forno, refogue os camarões médios com cebola, alho e tomate, outros temperos a gosto, salsinha, coentro e cheiro-verde",
+      "Faça um molho grosso com o tomate, ou se preferir pode usar 1/2 lata de extrato de tomate pronto",
+      "Assim que os camarões começarem a ficar laranjinhas, ou cozidos, coloque o leite de coco e deixe por 10 minutos em fogo baixo com a tampa da panela fechada",
+      "Abra de vez em quando e mexa os camarões",
+      "Após isso, coloque a lata de creme de leite, e desligue o fogo, agora misture bem e estará pronto o recheio.",
+      "Pegue a abóbora, abra a tampa e coloque os camarões dentro da abóbora",
+      "Jogue queijo por cima e leve ao forno para gratinar por 5 minutos e estará pronta sua deliciosa receita"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDRÉ ROSSI MOTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303157-camaroes-na-moranga-com-queijo-gratinado.html"
+}

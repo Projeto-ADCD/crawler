@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FAROFA REFRESCANTE COM LINGUIÇA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha",
+      "1 linguiça sem pele triturada",
+      "2 colheres de sopa manteiga",
+      "1 cebola",
+      "6 dentes de alho",
+      "1 alho poró",
+      "1/2 repolho",
+      "1 gengibre pequeno ralado",
+      "1 colher (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 colher (sopa) de vinagre",
+      "2 colheres de azeite",
+      "1/2 abacaxi assado e picado",
+      "salsinha, cebolinha ou hortelã à gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num refratário rale o repolho e o gengibre, adicione açúcar, sal, vinagre, azeite e reserve",
+      "Numa panela adicione um fio de azeite ou óleo para fritar a linguiça até ficar crocante",
+      "Quando a linguiça estiver crocante adicione a manteiga, cebola e o alho e deixe dourar bem",
+      "Adicione o alho poró e o repolho que estava reservado",
+      "Coloque o abacaxi opcionalmente",
+      "Sal a gosto",
+      "Salsinha, cebolinha ou hortelã a gosto",
+      "E por fim a farinha bem torrainha "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAMILA RONCONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304076-farofa-refrescante-com-linguica-crocante.html"
+}

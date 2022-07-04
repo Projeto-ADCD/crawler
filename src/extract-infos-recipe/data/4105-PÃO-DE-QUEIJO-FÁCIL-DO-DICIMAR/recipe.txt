@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FÁCIL DO DICIMAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho doce",
+      "1 copo 200 ml de leite",
+      "1 copo 200 ml de água",
+      "1 copo 150 ml de óleo",
+      "1 colher bem cheia de sal",
+      "400 g de queijo ralado",
+      "6 a 7 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o polvilho com o sal.",
+      "Ferva o leite junto com a água e o óleo.",
+      "Despeje sobre o polvilho e misture bem.",
+      "Acrescente os ovos, mexendo até obter uma massa homogênea.",
+      "Acrescente o queijo e mexa apenas para misturar na massa.",
+      "Molde bolinhas e leve ao formo por uns 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DICIMAR SOUZA DUARTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301842-pao-de-queijo-facil-do-dicimar.html"
+}

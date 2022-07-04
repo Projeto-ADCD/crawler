@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TORTA BOLACHA NAPOLITANA DELÍCIA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes 50 g de pó para pudim chocolate",
+      "2 pacotes 50g de pó para pudim baunilha",
+      "2 pacotes 50g de pó para pudim morango",
+      "1 pacote 400 g de bolacha maisena ou maria",
+      "1 xícara de leite para molhar as bolachas",
+      "500 ml de leite para cada caixinha de pudim (3 litros total)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe em panelas separadas os pudins conforme instrução de cada caixinha.",
+      "Espere esfriar",
+      "Em um refratário monte as camadas molhando as bolachas maisena no leite ",
+      "Faça 1 camada de bolacha + camada de morango, 1 camada de bolacha + camada de chocolate, 1 camada de bolacha + camada de baunilha",
+      "Decore com pedacinhos de chocolate ao leite ralado ou com a sua cobertura de preferência."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDA SENCI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303971-torta-bolacha-napolitana-delicia-facil.html"
+}

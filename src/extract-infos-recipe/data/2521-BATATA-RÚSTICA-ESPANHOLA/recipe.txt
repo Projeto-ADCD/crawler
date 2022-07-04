@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BATATA RÚSTICA ESPANHOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas grandes limpas e com casca",
+      "4 dentes de alho",
+      "1 ramilhete de alecrim",
+      "1 xícara de azeite de oliva de boa qualidade",
+      "sal a gosto",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as batatas e corte em meias luas",
+      "Descasque e corte os alhos em pedaço grandes",
+      "Esquente o azeite em uma boa frigideira",
+      "Coloque as batatas,o alho e o alecrim e deixe dourar levemente",
+      "Coloque a água e tampe",
+      "Deixe cozinhar até secar a água",
+      "Deixe fritar até dourar as batatas",
+      "Acerte o sal"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SARITA ALVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305032-batata-rustica-espanhola.html"
+}

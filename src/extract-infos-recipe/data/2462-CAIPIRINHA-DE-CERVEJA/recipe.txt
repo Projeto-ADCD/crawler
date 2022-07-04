@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CAIPIRINHA DE CERVEJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 LIMÃO TAITI GRANDE CORTADO EM RODELAS ",
+      "2 COLHERES DE SOPA DE AÇÚCAR RASAS",
+      "1 LATA DE CERVEJA DE 350 ML, DA MARCA DE SUA PREFERÊNCIA",
+      "4 PEDRAS DE GELO"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "CORTE O LIMÃO EM RODELAS,",
+      "COLOQUE AS DUAS COLHERES DE AÇÚCAR, AMASSE",
+      "ACRESCENTE AS 04 PEDRAS DE GELO.",
+      "POR ÚLTIMO COLOQUE OS 350 ML A CERVEJA.",
+      "APRECIE COM MODERAÇÃO, MUITO REFRESCANTE E SABOROSA. SAÚDE !"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KAREN FABIOLA NAVARRO SOTOMAYOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305154-caipirinha-de-cerveja.html"
+}

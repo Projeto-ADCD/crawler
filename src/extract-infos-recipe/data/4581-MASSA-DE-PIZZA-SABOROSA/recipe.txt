@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MASSA DE PIZZA SABOROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara (chá) de leite (temperatura ambiente)",
+      "1/4 de xícara de óleo",
+      "3 colheres (sopa) de açúcar",
+      "1/2 colher (soba) de sal",
+      "1/2 pacotinho de fermento biológico seco (de 10 g) ou 1/2 colher (sopa)",
+      "Mais ou menos 500 g de farinha de trigo (colocar aos poucos)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia junte todos os ingredientes, deixando a farinha por último (que deverá ser colocadas aos poucos até a massa chegar no ponto de sovar)",
+      "Cuidado com a farinha pra massa não ficar pesada.",
+      "Passe para bancada, ligeiramente enfarinhada, e trabalhe a massa até ela ficar macia e elástica (se não der esse ponto, vá pingando leite e incorporando ele a massa até que dê o ponto)",
+      "Coloque para crescer por mais ou menos 1 hora e 30 minutos ou até dobrar de volume em um local bem aquecido",
+      "Depois de crescida, corte a massa em 3 porções e abra em forma de disco com um rolo (ainda na bancada ligeiramente polvilhada com farinha)",
+      "Passe os discos para uma assadeira e faça vários furinhos com um garfo, igual aqueles furinhos de massa de pizza de supermercados (para evitar que a massa cresça fazendo volumes no meio do disco)",
+      "Feito isso, leve os discos ao forno de 10 a 15 minutos em potência alta e pré-asse a massa até o ponto desejado (ou até ficar levemente dourada).",
+      "Depois, com a massa ainda quente, recheio e volte para o forno para terminar de assar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "EDSON SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300811-massa-de-pizza-saborosa.html"
+}

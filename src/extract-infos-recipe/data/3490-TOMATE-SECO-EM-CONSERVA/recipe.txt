@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TOMATE SECO EM CONSERVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de sal",
+      "2 kg tomate carmem",
+      "2 colheres de açúcar",
+      "1 vidro de alcaparras",
+      "azeitona a gosto",
+      "alho poró a gosto",
+      "1 vidro de azeite a escolha",
+      "orégano a gosto",
+      "1 pote de vidro com tampa esterilizado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem os tomates e seque-os com um pano ",
+      "Em seguida corte-os na vertical ",
+      "Em seguida, coloque os tomates cortados em uma forma, posicionando um ao lado do outro com a parte da semente virada para cima",
+      "Salpique açúcar primeiro e depois salpique o sal também",
+      "Leve-os ao forno por 40 minutos",
+      "Retire do forno, vire-os para baixo e salpique mais um pouco de açúcar e mais um pouco de sal",
+      "Leve ao forno por mais 40 minutos",
+      "Asse os tomates até que estejam bem desidratados",
+      "Tempo estimado, tirando de 40 em 40 minutos e virando para que não queime, é de 3 horas de preparo",
+      "Depois disso tire do forno e deixe esfriar bem"
+    ],
+    "MONTAGEM": [
+      "Coloque azeite no pote de vidro esterializado",
+      "Intercale azeite, tomate seco, azeitona, orégano, alcaparras e alho poró",
+      "Novamente mais azeite, tomate seco, orégano, azeitona, alho poró e alcaparras",
+      "Deixe descansar por 12 horas na geladeira no mínimo e depois está pronto para consumo"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MAÁH CAT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303257-tomate-seco-em-conserva.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANQUECA SEM OVO E LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) de farinha de trigo",
+      "1 pitada de sal",
+      "1 pitada de açúcar",
+      "1 e 1/2 copo (americano) de agua",
+      "1 colher (sopa) de margarina/óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a farinha de trigo, o sal, açúcar e a água em um recipiente ",
+      "Misture até ficar homogenêa, ponto de panqueca tradicional",
+      "Em uma frigideira preaquecida, coloque a margarina e deixe derreter",
+      "Acrescente a massa e deixe fritar bem.",
+      "Sirva em seguida",
+      "Recheio a gosto"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "IRENE BERNARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305193-panqueca-sem-ovo-e-leite.html"
+}

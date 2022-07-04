@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CARÁ COM ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de fubá",
+      "100 g de manteiga",
+      "1/2 kg de massa de cará ralado",
+      "1/2 litro de leite",
+      "4 ovos",
+      "150 g de açúcar",
+      "2 colheres (sopa) de fermento em pó",
+      "1 colher (café) de canela em pó",
+      "1 colher (café) de noz-moscada em pó",
+      "1 colher (café) de cravo-em-pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bem os ovos com açúcar, manteiga e ao poucos acrescente o leite, fubá o cará, canela, noz-moscada e cravo.",
+      "Misture bem junte o fermento em pó e misture novamente.",
+      "Despeje em uma forma de bolo redonda e untada.",
+      "Leve para assar em forno médio, preaquecido por 40 minutos, ou até que espetando um palito ele saia limpo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CLAUDIO PINHEIRO AGUIAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304954-bolo-de-cara-com-especiarias.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PATÊ DE QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola pequena picada",
+      "1 colher de margarina",
+      "1 caixa de creme de leite",
+      "1/2 litro de leite",
+      "1 colher (sopa) de maisena",
+      "1 xícara de queijo ralado",
+      "pimenta-do-reino",
+      "1 colher (sobremesa) de sal",
+      "200 g de queijo do reino ralado",
+      "200 g de queijo coalho ralado",
+      "200 g de queijo prato ralado",
+      "200 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, derreta a margarina e acrescente a cebola, o sal e a pimenta-do-reino.",
+      "Quando a cebola estiver bem transparente, acrescente o creme de leite e misture.",
+      "Dissolva a maisena no leite e adicione ao molho.",
+      "Quando o molho estiver com uma consistência firme, acrescente os queijos, mexendo bem, para ele não grudar e derreterem.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OPCIONAL: acrescente atum para transformá-lo em um patê de queijos com atum. "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LINO CAVALCANTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302419-pate-de-queijos.html"
+}

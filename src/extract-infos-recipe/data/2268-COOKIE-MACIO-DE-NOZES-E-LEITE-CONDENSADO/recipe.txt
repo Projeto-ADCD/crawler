@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COOKIE MACIO DE NOZES E LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de farinha de trigo",
+      "100 g de aveia em flocos",
+      "130 g de açúcar mascavo",
+      "10 g de fermento em pó químico",
+      "25 g de manteiga sem sal",
+      "60 ml de leite condensado",
+      "50 g de nozes picadas",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, misture todos os ingredientes secos.",
+      "Derreta a manteiga e despeje sobre os ingredientes secos.",
+      "Acrescente os ingredientes líquidos e misture tudo com as mãos até formar uma massa uniforme.",
+      "Faça bolinhas do tamanho desejado, de preferência usando uma colher de sorvete.",
+      "Coloque as bolinhas numa forma com papel manteiga.",
+      "Se não tiver, pode usar a forma untada com manteiga e enfarinhada.",
+      "Leve ao forno preaquecido a 180° Cs por 30 minutos.",
+      "Retire do forno e deixe os cookies descansando por pelo menos 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALEXANDRE DELAMANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305592-cookie-macio-de-nozes-e-leite-condensado.html"
+}

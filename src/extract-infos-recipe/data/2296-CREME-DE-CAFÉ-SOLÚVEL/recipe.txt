@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREME DE CAFÉ SOLÚVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de água quente",
+      "2 colheres de açúcar",
+      "2 colheres de café solúvel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro ferva a água",
+      "Com o fogo desligado acrescente o açúcar e o café solúvel",
+      "Mexa bem até pegar uma boa concistencia",
+      "Para ser mais rápido basta utilizar uma batedeira ou liquidificador",
+      "Quando o creme já estiver formado é só colocar na geladeira e esperar por 10 minutos",
+      "Quando o creme estiver bem geladinho é só acrescentar umas duas ou três colheres no leite e saborear"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABRIELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305543-creme-de-cafe-soluvel.html"
+}

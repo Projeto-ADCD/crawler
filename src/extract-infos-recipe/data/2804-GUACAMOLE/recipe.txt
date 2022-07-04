@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GUACAMOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate maduro picado",
+      "1/2 cebola",
+      "1 tomate",
+      "1 limão",
+      "1 colher (sopa) de azeite",
+      "2 colheres (sopa) de molho de pimenta (se for muito picante deve ser menos)",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola e o tomate em pedaços bem pequenos.",
+      "Misture todos os ingredientes em uma tigela."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PAMELA NAKANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304399-guacamole.html"
+}

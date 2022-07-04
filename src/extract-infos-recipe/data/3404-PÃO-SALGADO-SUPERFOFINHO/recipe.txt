@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO SALGADO SUPERFOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de farinha de trigo (sem fermento)",
+      "10 g de fermento instantâneo biológico seco",
+      "5 ovos",
+      "1/4 de xícara de óleo",
+      "2 colheres (café) rasas de sal",
+      "14 colheres (café) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque a farinha, o açúcar e o sal",
+      "Misture",
+      "Acrescente o fermento e misture novamente.",
+      "Faça um buraco no centro dos ingredientes secos e coloque os ovos (reserve uma das gemas para pincelar) e o óleo.",
+      "Misture todos os ingredientes fazendo movimentos do interior para o exterior da tigela (se preferir pode utilizar batedeira planetária)",
+      "Amasse bastante até que a massa solte das mãos.",
+      "Divida a massa em seis pedaços e enrole, dispondo os rolos em uma forma de 30 cm de diâmetro.",
+      "Deixe descansar dentro do forno desligado por 2 horas e 30 minutos, respingando água à cada meia hora.",
+      "Pincele a gema.",
+      "Asse em forno 180º C por 25 minutos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JESSICA CORREIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303429-pao-salgado-superfofinho.html"
+}

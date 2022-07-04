@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE COUVE COM BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 couve folha",
+      "4 bananas prata maduras",
+      "2 colheres de manteiga",
+      "1/2 cebola",
+      "bacon e linguica a gosto",
+      "2 pitada de sal",
+      "500 g de farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola bem picada e coloque para dourar com a manteiga.",
+      "Em seguida acrescente a linguica e o bacon bem picado.",
+      "Baixe o fogo e acrescente a couve cortada bem fina para refougar",
+      "Após, adicione a banana em rodelas mexa até unir todos os ingredientes",
+      "Desligue o fogo e acrescente a farinha e o sal",
+      "Agora e so servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAMILA DA SILVA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304015-farofa-de-couve-com-banana.html"
+}

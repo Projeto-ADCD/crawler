@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO COM CARNE MOÍDA FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão tipo ninho",
+      "500 g de carne moída",
+      "150 g de molho de tomate",
+      "barbecue opciona",
+      "1 dente de alho",
+      "1 cebola média",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Macarrão",
+      "Em uma panela, coloque água e um pouco de azeite para esquentar",
+      "Quando estiver chegando a ponto de fervura, insira a massa do macarrão",
+      "Deixe por uns 7 a 8 minutos, testando para que não fique muito cozido, que esteja no ponto",
+      "Após cozido, retire o macarrão, escorra e reserve.",
+      "Carne",
+      "Em uma panela, insira o azeite, a cebola e o alho para dourar em fogo baixo",
+      "Quando a cebola e o alho estiverem douradinhos, insira a carne moída",
+      "Com a carne moída na panela, acrescente o sal e a pimenta-do-reino a gosto.",
+      "Feito isso, misture toda a carne (começará a soltar uma água dela própria, deixe sair toda a água, até que comece a \"fritar\")",
+      "Quando a carne estiver começando a \"fritar\", acrescente o molho de tomate e o barbacue (opcional)",
+      "Deixe cozinhar por uns 7 minutos e retire do fogo",
+      "Coloque em um refratário o macarrão e a carne moída por cima.",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PALOMA SOBRINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305442-macarrao-com-carne-moida-facil-e-rapido.html"
+}

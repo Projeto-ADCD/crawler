@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RISOTO DE BACALHAU COM CURRY CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de lombo de bacalhau dessalgado em lascas",
+      "1 xícara de arroz",
+      "1 cebola média picada",
+      "4 dentes de alho picados",
+      "1 colher (sopa) de curry",
+      "200 ml creme de leite",
+      "1 copo de requeijão ",
+      "150 g parmesão ralado fresco",
+      "100 g azeitonas picadas",
+      "sal e salsinha a gosto",
+      "100 ml molho de tomate ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola, o alho e as lascas de bacalhau com o sal e o curry.",
+      "Acrescente o arroz, o molho de tomate e a água suficiente para o cozimento do arroz.",
+      "Quando estiver quase seco, acescente o creme de leite, o requeijão e o parmesão ralado",
+      "Mexa delicadamente até obter um creme homogêneo.",
+      "Cozinhe por 5 minutos e adicione as azeitonas e a salsinha picadas.",
+      "E pronto, é só servir acompanhado de um bom vinho"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VIVIANE MACHADO DE SÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301372-risoto-de-bacalhau-com-curry-cremoso.html"
+}

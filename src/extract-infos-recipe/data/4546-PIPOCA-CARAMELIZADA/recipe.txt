@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIPOCA CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de milho",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de vinagre",
+      "2 colheres (sopa) de óleo",
+      "2 colheres (sopa) de vinagre branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela e misture",
+      "Coloque a panela em fogo médio e mexa até o primeiro grão estourar",
+      "Feche a panela e vá mexendo com a panela fechada"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "THALIA ARIADNY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300889-pipoca-caramelizada.html"
+}

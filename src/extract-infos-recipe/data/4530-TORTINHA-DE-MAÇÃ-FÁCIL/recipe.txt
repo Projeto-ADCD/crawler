@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTINHA DE MAÇÃ FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa folhada",
+      "3 maçãs",
+      "1 colher (sopa) de manteiga",
+      "3 colheres (sopa) de açúcar",
+      "1/2 limão",
+      "1/2 colher (chá) de canela",
+      "noz-moscada a gosto",
+      "2 colheres (sopa) de água",
+      "1/2 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as maçãs e corte-as em cubinhos.",
+      "Em uma panela, derreta a manteiga e acrescente 2 colheres de açúcar. ",
+      "Mexa bem. ",
+      "Adicione as maçãs e o suco de 1/2 limão. ",
+      "Deixe reduzir um pouco. ",
+      "Acrescente mais 1 colher de açúcar, a canela, e a noz-moscada; mexa bem. ",
+      "Dissolva o amido em 2 colheres de água e adicione à panela. ",
+      "Mexa mais um pouco. ",
+      "Em seguida, leve à geladeira por 20 minutos. "
+    ],
+    "MONTAGEM:": [
+      "Abra a massa folhada e corte em retângulos.",
+      "Coloque um pouco do recheio na metade do retângulo e feche a massa, apertando as laterais, com os dedos, para selar bem.",
+      "Transfira as tortinhas para uma assadeira e leve ao forno preaquecido (180° C) por cerca de 25 minutos. ",
+      "Para finalizar, passe as tortinhas no açúcar e na canela. ",
+      "Sirva quentinho, fica uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300929-tortinha-de-maca-facil.html"
+}

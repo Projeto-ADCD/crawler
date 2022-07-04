@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE GELATINA FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacotinho no sabor que desejar (25 g)",
+      "1 caixa de leite condensado",
+      "2 caixas de creme de leite",
+      "frutas para decorar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes até engrossar",
+      "Coloque em uma vasilha com tampa",
+      "Coloque no congelador por apenas 6 horas"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LORHAYNE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305588-sorvete-de-gelatina-facil-de-fazer.html"
+}

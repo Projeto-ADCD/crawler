@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA MOLHADA E GELADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de mandioca temperada (bacon)",
+      "400 g de pimentão verde",
+      "400 g de pimentão vermelho",
+      "400g de pimentão amarelo",
+      "400 g de azeitona picada em rodelas",
+      "600 g de cenouras raladas",
+      "250 ml de suco de limão",
+      "150 ml de azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todos os pimentões bem pequenos (uso o picador em tiras quadradas pequeno)",
+      "Cenouras raladas bem pequenas.",
+      "Azeitonas fatiadas em rodelas.",
+      "Coloque todos os ingredientes em uma bacia grande e misture.",
+      "Adicione a farinha de mandioca por último.",
+      "A farofa deve ficar bem molhada, adicionando mais azeite e limão conforme o gosto.",
+      "Leve à geladeira.",
+      "A farofa dura mais de 10 dias conservada na geladeira.",
+      "Sirva gelada nas refeições, churrasco ou mesmo pura, é uma delícia.",
+      "Aproveite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DOUGLAS BORGES SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304024-farofa-molhada-e-gelada.html"
+}

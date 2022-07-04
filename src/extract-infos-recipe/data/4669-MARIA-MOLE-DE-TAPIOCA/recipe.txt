@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MARIA MOLE DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 litro de leite",
+      "500 g de tapioca granulada",
+      "1 leite condensado",
+      "2 embalagens de 100g de coco ralado",
+      "1 vidro leite de coco 200ml"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite. Após a fervura, adicione a o leite condensado e a tapioca.",
+      "Mexa sempre até engrossar. Ponha 100g de coco ralado, misture e desligue o fogo.",
+      "Adicione o leite de coco, espere esfriar e ponha na geladeira.",
+      "Após uma hora tire da geladeira, corte em cubos e envolva no coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MAURÍCIO PEREIRA BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300480-maria-mole-de-tapioca.html"
+}

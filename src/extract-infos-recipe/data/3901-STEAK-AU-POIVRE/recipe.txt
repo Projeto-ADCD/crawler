@@ -1,0 +1,27 @@
+{
+  "nome_receita": "STEAK AU POIVRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 medalhões de filé mignon",
+      "1 dose Conhaque",
+      "10 g de pimenta do reino preta em grão",
+      "200 ml creme de leite fresco",
+      "20 g de mostarda tipo Dijon (opcional)",
+      "20 ml azeite",
+      "Sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amarre com barbante as peças de filé para garantir seu formato e tempere com sal",
+      "Quebre as pimentas, distribua sobre uma placa e pressione nas faces superior e inferior dos filés",
+      "Sele todas as faces dos medalhões na frigideira com um pouco de azeite e finalize no forno",
+      "Deglaceie a frigideira com o conhaque, raspando o fundo, adicione o creme de leite e misture no fogo até engrossar",
+      "Finalize o molho com a adição da mostarda (opcional) e sirva sobre a carne assim que sair do forno."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GLAYDSTON DE OLIVEIRA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302412-steak-au-poivre.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "OMELETE DE FORNO FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 fatias de peito de peru",
+      "2 fatias de queijo muçarela",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "1 colher (sopa) de queijo parmesão fresco ralado (não use do saquinho pronto, porque não dá o sabor especial)",
+      "1 raminho de salsa e 1 talo de cebolinha (não é pra usar o molhe inteiro) ou a gosto.",
+      "azeite",
+      "1 colher (chá) de manjericão",
+      "1/2 colher (chá) de fernento químico (aqueles normais pra bolo)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os 4 ovos com um garfo.",
+      "Depois acrescente a pimenta-do-reino, o sal e o fermento e misture bem.",
+      "Trasfira a mistura para um refratário pequeno (usei um quadrado de 20 cm)",
+      "Pique o peito de peru em quadradinhos",
+      "Repita o processo com o queijo muçarela.",
+      "Pique a salsa e a cebolinha.",
+      "Adicione todos os ingredientes já picados e colocando por cima de todo o ovo no refratário.",
+      "Espalhe o manjericão por cima e adicione um fio de azeite por cima de toda o refratário.",
+      "Não misture os ingredientes, apenas coloque.",
+      "Aqueça o forno por 2 minutos em 180º C e após coloque o omelete.",
+      "Deixe por mais 10 minutos ou até dourar e está pronto.",
+      "Aproveite, pois o sabor fica divino."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KARLA THAMIRIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302099-omelete-de-forno-facil-e-gostoso.html"
+}

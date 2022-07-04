@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA DOS DEUSES",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacon",
+      "1 lata de milho verde",
+      "1 cenoura ralada",
+      "500 g de carne-seca dessalgada",
+      "cheiro-verde picado a gosto",
+      "óregano",
+      "sal e pimenta a gosto",
+      "3 xícaras de farinha de mandioca tradicional",
+      "1/2 cebola picada",
+      "3 dentes de alho picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a carne seca em um refratário com água de um dia para o outro",
+      "No dia seguinte, quando for preparar a farofa, frite o bacon e assim que fritar, retire o bacon e reserve",
+      "Tire também um pouco da gordura que juntar",
+      "Na mesma panela, que foi frito o bacon, doure a cebola e o alho",
+      "E em uma panela de pressão, cozinhe a carne-seca por 15 minutos",
+      "Caso ainda esteje dura com esse tempo deixar mais 5 minutos.",
+      "Assim que dourar o alho e a cebola junte o milho verde, a carne-seca, o bacon e a cenoura ralada",
+      "Mexa e coloque um pouco de óregano, sal e pimenta a seu gosto",
+      "Coloque aos poucos a farinha de mandioca tradicional, mexendo sempre",
+      "Se necessario, não coloque as 3 xícaras de farinha ou, se necessário, acrescente um pouco mais até o ponto (nem seco ,nem muito molhado. Geralmente as 3 xicaras da certo)",
+      "Assim que estiver no ponto,acrescente o cheiro-verde e misture."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MICHELE CARLA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304080-farofa-dos-deuses.html"
+}

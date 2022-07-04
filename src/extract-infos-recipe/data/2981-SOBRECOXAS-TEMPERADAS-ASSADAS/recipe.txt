@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SOBRECOXAS TEMPERADAS ASSADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxas",
+      "4 dentes de alho",
+      "1 colher (sopa) rasa de sal",
+      "1 colher (café) de orégano",
+      "1 colher (café) de açafrão",
+      "1 colher (café) de páprica doce ou coloral",
+      "1 colher (café) de pimenta calabresa",
+      "suco de 1 limão",
+      "2 colheres (sopa) de maionese",
+      "2 colheres (sopa) de extrato de tomate",
+      "5 batatas inglesas descascadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as sobrecoxas em uma vasilha e acrescenta água fervendo",
+      "Escorra a água e coloque o suco do limão",
+      "Com ajuda de um pilão, amasse o alho com o sal",
+      "Coloque nas sobrecoxas essa pasta de alho e os demais ingredientes (coloral, açafrão, orégano, pimenta calabresa, maionese e extrato)",
+      "Misture tudo nas sobrecoxas e coloque elas em uma forma de alumínio ou em uma travessa",
+      "Coloque as batatas e tampe com papel-alumínio",
+      "Leve ao forno por 40 minutos",
+      "Retire o papel alumínio e deixe dourar com o grill do forno ligado por mais uns 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAMIRIS MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304035-sobrecoxas-temperadas-assadas.html"
+}

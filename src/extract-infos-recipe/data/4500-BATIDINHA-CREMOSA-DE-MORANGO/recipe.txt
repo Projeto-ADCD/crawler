@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATIDINHA CREMOSA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de creme de leite",
+      "1 caixa de leite cndensado",
+      "2 polpas de 250 g de morango",
+      "1 bandeja de morangos frescos",
+      "1/2 copo de leite",
+      "açúcar para fazer a calda de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte em um liquidificador as polpas, o creme de leite e o leite condensado",
+      "Por último acrescente o leite e bata tudo por 10 minutos para misturar bem.",
+      "Leve ao congelador e deixe por 26 minutos.",
+      "Em uma panela coloque os morangos cortados em cubos, 100 ml de água filtrada e 5 colheres de açúcar até formar uma calda",
+      "Reserve e deixe esfriar ao mesmo tempo do creme",
+      "Por último coloque a calda suavemente por cima do creme."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LAMARCK DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300973-batidinha-cremosa-de-morango.html"
+}

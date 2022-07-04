@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ DE LIMÃO MUITO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "60 ml de suco de limão",
+      "2 caixas de creme de leite",
+      "biscoitos champanhe (quantidade vai depender do tamanho de seu recipiente)",
+      "leite",
+      "raspas de limão",
+      "raspas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num recipiente, coloque o leite condensado e o suco de limão.",
+      "Mexa com uma batedeira. No final, dê um toque com uma espátula.",
+      "Adicione as natas. Mexa um pouco com a espátula e, depois, mexa com uma batedeira.",
+      "Passe os biscoitos champagne por leite e disponha-os numa forma até fazer uma camada. Coloque cerca de metade do preparado anterior por cima dos biscoitos e espalhe bem.",
+      "Depois, coloque mais biscoitos na forma até fazer uma nova camada e ponha a outra metade do preparado, sem se esquecer de espalhar bem.",
+      "Depois, acrescente raspas de limão e chocolate",
+      "Coloque na geladeira durante duas horas."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DOMENICA CAROLINA CASSIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300128-pave-de-limao-muito-facil.html"
+}

@@ -1,0 +1,20 @@
+{
+  "nome_receita": "MOUSSE PROTEICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 claras ",
+      "1 barra de chocolate 60% cacau "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve ",
+      "Derreta o chocolate no micro-ondas até ficar homogêneo ",
+      "Misture o chocolate nas claras e leve à geladeira"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANA ORTEGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301395-mousse-proteico.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SOBREMESA DE CHOCOLATE FEITA COM TRIGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "6 colheres de farinha de trigo bem cheias",
+      "açúcar a gosto",
+      "6 colheres de achocolatado (chocolate 50%)",
+      "1 pitada de canela (opcional) ",
+      "50 g de barra de chocolate (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador para não empelotar, depois coloque em uma panela leve ao fogo mexa sem para até engrossar",
+      "Depois que engrossar mexa mais um pouco para cozinhar a farinha.",
+      "Próximo passo, coloque numa travessa coloque um plástico em cima para cobrir todo chocolate deixe na geladeira para criar consistência",
+      "Se quiser coloque granulado ou calda de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BARBARA PERES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305084-sobremesa-de-chocolate-feita-com-trigo.html"
+}

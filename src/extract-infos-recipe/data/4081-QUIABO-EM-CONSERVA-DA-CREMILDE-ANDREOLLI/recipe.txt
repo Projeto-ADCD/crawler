@@ -1,0 +1,39 @@
+{
+  "nome_receita": "QUIABO EM CONSERVA DA CREMILDE ANDREOLLI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de quiabos pequenos",
+      "1,5 L de água filtrada",
+      "500 ml de vinagre branco",
+      "3 colheres (sopa) de sal",
+      "1 colher de coentro em grão (opicional )",
+      "1 colher de endro (opicional)",
+      "1 colher de semente de mostarda (opicional)",
+      "16 folhas de louro",
+      "8 vidros de conserva, limpos",
+      "2 panos de prato",
+      "1 panela grande",
+      "2 L de água para fervura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as hastes dos quiabos e lave-os bem. Em cada vidro, coloque aprox. 250 gramas de quiabos enfileirados e 2 folhas de louro.",
+      "Em um recipiente, junte a água filtrada, o vinagre, o sal, misture e reserve.",
+      "Em outro recipiente, junte o coentro, a mostarda e o endro, misture e reserve.",
+      "Em cada vidro, coloque uma colher de chá dos temperos secos e complete com a mistura líquida.",
+      "Feche bem a tampa.",
+      "Em uma panela grande, coloque os panos de prato e os vidros, de maneira que protejam o fundo e as laterais para não quebrarem.",
+      "Complete a panela com água até 2/3 da altura.",
+      "Ferva em fogo brando até mudar a cor dos quiabos. Quando estiverem verde escuro, retire do fogo e deixe esfriar.",
+      "Sirva frio."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode ser consumido de imediato, mas dura até 2 anos!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANDRÉIA LUIZA ANDREOLLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301934-quiabo-em-conserva-da-cremilde-andreolli.html"
+}

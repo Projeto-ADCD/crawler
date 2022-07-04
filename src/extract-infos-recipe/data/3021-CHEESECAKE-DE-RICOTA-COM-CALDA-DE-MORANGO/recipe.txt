@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CHEESECAKE DE RICOTA COM CALDA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 xicaras de farinha de trigo",
+      "2 colheres de margarina",
+      "4 colheres de crem de leite",
+      "Recheio",
+      "1 lata de leite condensado",
+      "500 g de ricota",
+      "2 colheres de requeijao ou cream cheese",
+      "1/2 caixa de creme de leite",
+      "Calda",
+      "1 caixa de morangos",
+      "2 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Amasse todos os ingredientes com a mão até desgrudar da mão",
+      "Se necessário, acrescente margarina até dar o ponto",
+      "Forre uma forma de fundo removivel e fure com garfo, leve pra assar por cerca de 15 minutos, reserve",
+      "Recheio",
+      "Bata no liquidificador todos os ingredientes e coloque sobre a massa",
+      "leve para assar por 20 a 30 minutos para saber se está pronto",
+      "Perceba se as bordas estão firmes e o centro deve estar meio mole ainda",
+      "Deixe esfriar e leve à geladeira, cubra com calda de morangos e sirva",
+      "Calda",
+      "Pique os morangos e leve ao fogo com o açúcar até criar uma calda",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: minha forma tem 25 cm de diametro e a massa foi suficiente, se sua forma for maior acrescente um pouco de massa, caso falte faca uma quantia menor para as bordas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATALIA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303987-cheesecake-de-ricota-com-calda-de-morango.html"
+}

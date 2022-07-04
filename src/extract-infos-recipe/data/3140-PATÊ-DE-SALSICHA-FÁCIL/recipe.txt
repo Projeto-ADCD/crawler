@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PATÊ DE SALSICHA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de creme de leite",
+      "8 salsichas",
+      "1 sachê de maionese (de sua preferência)",
+      "1 colher (chá) de orégano",
+      "1 colher (chá) de chumichuri",
+      "1 colher (sopa) de pasta de alho [2 cebolas para 6 cabeças de alho e 1/2 copo (americano) de óleo]"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave e cozinhe as salsichas por 4 minutos",
+      "Em seguida, coloque a maionese, o creme de leite, a pasta de alho, cebola o orégano e o chumychuri",
+      "Corte as salsichas em rodelas aos poucos até virar um creme (obs: eu não coloco óleo, porque na pasta de alho já vai óleo o suficiente)",
+      "Pronto fica uma delícia para comer com pães e bolachas salgadas"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "500 PORÇÕES",
+  "autor": "EDY OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303827-pate-de-salsicha-facil.html"
+}

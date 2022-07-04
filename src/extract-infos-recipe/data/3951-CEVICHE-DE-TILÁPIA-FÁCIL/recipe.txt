@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CEVICHE DE TILÁPIA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 filés de tilápia",
+      "4 limões",
+      "1 cebola roxa grande picada em cubos",
+      "sal a gosto",
+      "pimenta biquinho a gosto",
+      "salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os filés em cubos.",
+      "Deixe marinado no suco dos limões com o sal.",
+      "Após 20 minutos, adicione a cebola, a pimenta e a salsinha.",
+      "Deixe descansar por 10 minutos",
+      "Corrija o sal, se necessário.",
+      "Nesse momento adicionei o caldo da conserva de pimenta biquinho e mais salsinhas frescas.",
+      "Caso os ingredientes não estejam bem gelados, coloque no freezer por 5 minutos",
+      "Sirva em porções individuais, ou em um refratário único."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HERA LUANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302314-ceviche-de-tilapia-facil.html"
+}

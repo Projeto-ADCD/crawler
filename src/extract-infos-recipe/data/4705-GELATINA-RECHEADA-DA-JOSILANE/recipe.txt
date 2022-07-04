@@ -1,0 +1,33 @@
+{
+  "nome_receita": "GELATINA RECHEADA DA JOSILANE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sachês de gelatina incolor",
+      "1 lata de leite condensado",
+      "200 ml de leite",
+      "1 caixa de creme de leite",
+      "2 caixas de gelatina sabor da sua preferência",
+      "250 ml de água fervente",
+      "250 ml de água gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Hidrate a gelatina incolor conforme a embalagem",
+      "No liquidificador, bata o leite condensado, o leite, o creme de leite e a gelatina incolor hidratada por 3 minutos",
+      "Coloque em uma forma redonda com furo",
+      "Leve à geladeira por 2 horas ou até que esteja firme",
+      "Dissolva as 2 caixas de gelatina na água fervente",
+      "Misture a água gelada",
+      "Deixe esfriar bem",
+      "Com uma espátula desgrude o recheio da forma",
+      "Acrescente a gelatina afastando o recheio até que ele boie",
+      "Leve à geladeira por 4 horas",
+      "Desenforme e sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JOSILANE CIRILO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300391-gelatina-recheada-da-josilane.html"
+}

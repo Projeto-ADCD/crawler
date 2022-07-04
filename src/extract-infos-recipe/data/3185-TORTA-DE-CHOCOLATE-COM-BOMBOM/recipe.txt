@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA DE CHOCOLATE COM BOMBOM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 barra de chocolate meio amargo de 1 kg",
+      "8 caixas de creme de leite",
+      "1 pacote de bombons ouro branco (pacote grande) ",
+      "6 pacotes de biscoito maisena ",
+      "1 caixa de chantilly para preparo (1 litro)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale o chocolate meio amargo de modo que fique granulado",
+      "Coloque todo creme de leite uma panela grande e misture até ficar quente (certifique-se que não irá queimar o fundo da panela, portanto é necessário que não pare de mexer a colher)",
+      "Desligue o fogo, coloque o granulado de chocolate e continue misturando até se tornar uma cor homogênea ",
+      "Deixe esfriar",
+      "Cubra a bandeja com biscoito maisena inteiro se necessário até nas laterais, despeje o creme de chocolate até que cubra a base de baixo dos biscoitos (altura de um dedo 1,5 cm)",
+      "Cubra novamente com biscoitos ou o bombom se preferir",
+      "Após a camada de biscoito despeje novamente mais uma camada do creme",
+      "No final da bandeja, pode moer o biscoito no liquidificador até ficar em pó e colocar por cima da última camada de chocolate (lembrando que dá pra colocar chantilly e/ou coco ralado)",
+      "Leve à geladeira e deixe de 3 a 5 horas",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: Na substituição do biscoito pode se colocar bolo, na base de cima pode se colocar coco ralado, granulado, bombom (o ouro branco fica sensacional), confete estilo M&M's, chantilly de preparo (o que parece uma caixa de leite)"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PAULO DRUMOND ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303766-torta-de-chocolate-com-bombom.html"
+}

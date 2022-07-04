@@ -1,0 +1,56 @@
+{
+  "nome_receita": "BOLO BOMBOM DE CHOCOLATE COM RECHEIO DE MORANGO E LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "2 xícaras (chá) de açúcar",
+      "1 e 3/4 de xícaras (chá) de farinha trigo sem fermento",
+      "1/2 xícara (chá) de chocolate em pó",
+      "3/4 de xícara (chá) de leite",
+      "1 colher (sopa) de fermento",
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de leite em pó",
+      "1 colher (sopa) de manteiga",
+      "1 e 1/2 lata de creme de leite",
+      "1 caixa morango",
+      "400 g de chocolate em barra",
+      "granulado para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pão de ló de chocolate",
+      "Separe as 5 claras das 5 gemas, bata na batedeira as claras até obter ponto de neve.",
+      "Acrescente as 5 gemas e continue batendo,",
+      "Acrescente o açúcar e misture bem.",
+      "Diminua a rotação da batedeira para o menor e acrescente a farinha trigo sem fermento",
+      "Acrescente 1/2 xícara (chá) de chocolate em pó (se colocar achocolatado diminua a quantidade de açúcar se não fica muito enjoativo),",
+      "Acrescente 3/4 de xícara de leite",
+      "E por último, depois que todos os ingredientes estiverem bem misturados, acrescente 1 colher de (sopa) de fermento.",
+      "Unte a forma com margarina e trigo (ou se preferir, com papel-manteiga, ou substitua o trigo por chocolate em pó, fica uma delícia)",
+      "Coloque para assar no forno a 180º C por aproximadamente 35 minutos ou até ficar no ponto (eu uso assadeira alta e redonda com 20 cm)",
+      "Recheio",
+      "Coloque 1 lata de leite condensado na panela",
+      "Acrescente 1 colher (sopa) de manteiga",
+      "Acrescente 2 colheres (sopa) de leite em pó",
+      "Quando estiver no ponto de brigadeiro, desligue o fogo e acrescente 1/2 lata de creme de leite",
+      "Corte os morangos e seque-os com papel-toalha para não soltarágua no recheio.",
+      "Misture os morangos picados com o brigadeiro de leite ninho.",
+      "Cobertura",
+      "Derreta o chocolate em banho-maria ou de 30 em 30 segundos no micro-ondas",
+      "Acrescente, depois de derretido, 1 lata de creme de leite e reserve",
+      "Montagem",
+      "Desenforme o bolo e com o auxílio de uma faca, faça um circulo no centro do bolo.",
+      "Tire esse miolo e coloque o recheio.",
+      "Cuidado para não fazer muito fundo e nem tão próximo das laterais (o bolo que vai dar sustentação para todo o resto)",
+      "Do miolo, tire uma tampa e tampe acima do recheio.",
+      "Cubra todo o bolo com a cobertura",
+      "Polvilhe com granulado",
+      "Decore com morangos a gosto"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301458-bolo-bombom-de-chocolate-com-recheio-de-morango-e-leite-ninho.html"
+}

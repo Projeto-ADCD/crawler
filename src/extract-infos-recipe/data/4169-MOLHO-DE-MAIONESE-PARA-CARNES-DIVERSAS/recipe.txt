@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO DE MAIONESE PARA CARNES DIVERSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/4 xícara de azeite",
+      "1/2 cebola picada",
+      "1/2 tomate picado",
+      "1 colher (sopa) pimentão verde picado",
+      "1 colher (sopa) de catchup",
+      "1 colher (sopa) de mostarda",
+      "6 colheres (sopa) de maionese",
+      "Pitada de orégano",
+      "Pitada de sal",
+      "Pimenta a gosto",
+      "Cheiro verde",
+      "1/2 xícara de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente a panela com azeite. Coloque a cebola para dourar. Acrescente sal, orégano e pimenta a gosto.",
+      "Dourada s cebola, acrescente o pimentão. Deixe fritar um pouco, sempre mexendo. Acrescente o tomate picado. Deixe fritar até começar a querer grudar no fundo.",
+      "Baixe o fogo. Acrescente a mostarda e o catchup. Mecha e deixe ferver um pouco sempre mexendo.",
+      "Acrescente a maionese. Mexa bem e acrescente a água.",
+      "Quando levantar fervura (em fogo baixo), desligue e acrescente o cheiro verde a gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "OMAR FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301687-molho-de-maionese-para-carnes-diversas.html"
+}

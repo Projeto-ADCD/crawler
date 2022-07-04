@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE MOLHADINHO E AERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha",
+      "3/4 de xícara de cacau 100% em pó",
+      "1 xícara de açúcar mascavo",
+      "1 colher (chá) de bicarbonato",
+      "2 colhers (sopa) de leite em pó",
+      "1 pitada de sal para realçar o sabor",
+      "2 ovos inteiros",
+      "2 colheres (sopa) de óleo",
+      "5 colheres (sopa) de mel",
+      "2 xícaras (chá) de erva doce (ponha duas xícaras de água para ferver, adicione 1 colher de sopa de erva doce e espere esfriar pra usar na receita)",
+      "1 colher de sopa de fermento químico (branco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes secos, menos o fermento.",
+      "Bata tudo em velocidade média ou na mão com fouet, e por último, misture o fermento delicadamente.",
+      "Ponha pra assar, em forma untada e enfarinhada, média por uns 45 minutos em forno 160 a 180 graus.",
+      "Quando tiver aquele cheirinho maravilhoso, fure com uma faca e veja se a massa está sequinha."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "STANLEY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301702-bolo-de-chocolate-molhadinho-e-aerado.html"
+}

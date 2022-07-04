@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de creme de leite",
+      "1 colher (sobremesa) de manteiga",
+      "200 g de queijo gorgonzola (aproximadamente)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o queijo gorgonzola em pedaços pequenos para que derreta mais rápido",
+      "Coloque todos os ingredientes na panela em fogo médio e mexa até o queijo gorgonzola derreter",
+      "Prontinho",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Serve 6 porções (+ - 6 conchas médias ) ou 4 generosas porções"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BÁRBARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300893-molho-gorgonzola.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PURÊ DE BATATAS COM MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 xícara (chá) de leite",
+      "300 g de mussarela ralada",
+      "1 colher (sopa) de orégano (opcional)",
+      "sal a gosto",
+      "2 colheres de manteiga ou margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas para cozinhar na panela de pressão até ficarem macias.",
+      "Espere esfriar um pouco, descasque-as e as amasse ou esprema com um espremedor de batatas em uma tigela, reserve",
+      "Em uma panela em fogo baixo, derreta a manteiga ou margarina coloque as batatas amassadas/ou espremidas e mexa um pouco",
+      "Adicione o leite aos poucos enquanto mexe, em seguida adicione a mussarela ralada, o sal e o orégano",
+      "Mexa até tudo ficar bem distribuído",
+      "Passe para uma tigela ou refratário espere amornar e sirva.",
+      "Bom apetite",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KEILA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302431-pure-de-batatas-com-mussarela.html"
+}

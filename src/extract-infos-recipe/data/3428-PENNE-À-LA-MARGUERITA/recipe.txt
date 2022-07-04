@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PENNE À LA MARGUERITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão penne grano duro",
+      "3 litros de água",
+      "150 g de mussarela de búfala em rodelas",
+      "50 g de tomate seco hidratado",
+      "150 g de presunto de parma",
+      "10 tomates cereja cortados ao meio",
+      "1/2 maço de manjericão fresco",
+      "1/4 de xícara (chá) de azeite extra virgem",
+      "sal e azeite para cozimento da massa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa na água com sal e fios de azeite retirar no ponto “al dente”, deixando escorrer em seguida",
+      "Numa forma refratária deposite a massa e misture o presunto de parma, o azeite, o tomate seco e o manjericão",
+      "Por cima espalhe a mussarela e o tomate cereja",
+      "Cubra com papel alumínio e leve ao forno (180ºC) por 10 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CARLOS HENRIQUE DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303384-penne-a-la-marguerita.html"
+}

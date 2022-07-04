@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CHEESECAKE FRUTOS VERMELHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cream cheese (270 g)",
+      "1 leite condensado",
+      "2 natas",
+      "6 folhas de gelatina",
+      "400 g de bolacha maria",
+      "100 g de manteiga com sal",
+      "375 g de doce extra de frutos vermelhos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a gelatina na água fria para hidratar por alguns minutos",
+      "Bata as natas até ficarem em castelo",
+      "Junte o leite condensado, o cream cheese e as natas",
+      "Depois remova as folhas de gelatinas que foram colocadas anteriormente na água e coloque num recipiente e leve-as ao micro-ondas durante 20 segundos",
+      "Em seguida junte-as aos outros ingredientes lentamente com a batedeira a funcionar",
+      "Triture as bolachas e depois regue-as com a manteiga derretida para formar uma base da cheesecake e deixe na geladeira por 10 minutos",
+      "Deixa na geladeira por no mínimo 8 horas"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EMMANUEL SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304251-cheesecake-frutos-vermelhos.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PAVÊ DE PRESTÍGIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de maizena",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 medida (use a lata como medida) de leite",
+      "50 g de coco ralado fresco",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de chocolate em pó",
+      "1 pacote e 1/2 de biscoito de maizena",
+      "Leite para umedecer os biscoitos",
+      "Chocolate granulado para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a maizena no leite e adicione o leite condensado e o creme e leite.",
+      "Misture até ficar homogêneo.",
+      "Divida esse creme em duas partes iguais.",
+      "Na primeira metade, junte o coco ralado e metade da manteiga, leve ao fogo brando até engrossar.",
+      "Deixe esfriar.",
+      "Na segunda parte, junte o chocolate em pó e o restante da manteiga.",
+      "Leve ao fogo brando, mexendo sempre, até engrossar.",
+      "Deixe esfriar.",
+      "Em um refratário médio, monte uma camada com os biscoitos umedecidos no leite.",
+      "Cubra com metade do creme de chocolate, coloque mais uma camada de biscoito umedecido no leite, cubra com metade do creme de coco.",
+      "Repita a operação, terminando com creme de coco sempre intercalando com os biscoitos umedecidos.",
+      "Jogue o chocolate granulado por cima.",
+      "Leve à geladeira e espere firmar antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MEURHY KRILOW",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301322-pave-de-prestigio.html"
+}

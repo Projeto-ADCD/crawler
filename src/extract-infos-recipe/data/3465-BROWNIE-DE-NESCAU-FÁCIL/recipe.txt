@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BROWNIE DE NESCAU FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "200 g de manteiga derretida",
+      "1 xícara de açúcar",
+      "2 xícaras de achocolatado em pó ",
+      "1 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em um pote os ovos, o açúcar e a manteiga derretida e misture bem",
+      "Depois adicione o achocolatado em pó, misture, depois vá colocando aos poucos a farinha de trigo",
+      "Misture bem até ficar uma massa homogênea",
+      "Com uma forma untada com manteiga e achocolatado, adicione toda a massa, e coloque ao forno pré-aquecido a 180°C",
+      "Quando a massa estiver assada dá uma casquinha por cima o brownie estará pronto!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303307-brownie-de-nescau-facil.html"
+}

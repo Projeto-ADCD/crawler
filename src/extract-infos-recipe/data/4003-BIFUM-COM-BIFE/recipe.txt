@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BIFUM COM BIFE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Preparo do Bifum",
+      "200 g de macarrão de arroz bifum",
+      "500 ml de água",
+      "Molho",
+      "1 bife de coxão mole picado",
+      "1 cebola picada",
+      "1 tomate picado sem sementes",
+      "1 dente de alho picado",
+      "1/2 copo de água",
+      "2 ovos cozidos",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho",
+      "Tempere e frite em uma frigideira as iscas do bife, junte a cebola picada e o alho e doure.",
+      "Adicione a carne com as cebola já fritas e um pouco de água (1/2 copo) e deixe ferver.",
+      "Assim que ferver, abaixe o fogo, adicione um pouco de sal e coloque o tomate.",
+      "Deixe por 1 minuto.",
+      "Massa bifum",
+      "Ferva a água, assim que entrar em ebulição desligue o fogo.",
+      "Coloque a massa bifum e deixe por 2 minutos para hidratar, dando mexidas com um garfo.",
+      "Tire a massa da água quente e dê um choque térmico com água fria.",
+      "Montar o prato",
+      "Junte o molho na massa bifum e ferva por meio minuto ou pouco mais.",
+      "Adicione o ovo cozido por cima, cortado em rodelas ou picado (faz toda diferença).",
+      "Sirva.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: é ótimo para aproveitar pedaços de carne que sobram da refeição anterior, é só picar, adicionar um pouco de água para dar caldo e juntar ao bifum."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CAROLINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302216-bifum-com-bife.html"
+}

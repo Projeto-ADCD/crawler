@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE BANANA DA MARILÚ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas médias",
+      "3 ovos",
+      "1 xícara (chá) de óleo",
+      "1 xícara (chá) de açúcar",
+      "1 colher (sopa) de fermento em pó",
+      "100 g de farinha de rosca",
+      "açúcar e canela para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, menos a farinha de rosca.",
+      "Coloque em um recipiente, junte a farinha de rosca e mexa bem.",
+      "Levar ao forno por cerca de 20 minutos em uma forma untada e enfarinhada.",
+      "Polvilhar açúcar e canela em pó e voltar ao forno por mais 2 a 3 min, para assentar a canela"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303109-bolo-de-banana-da-marilu.html"
+}

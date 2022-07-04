@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SUCO DE COUVE E AMORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve média",
+      "4 amoras",
+      "1 ramo de hortelã",
+      "5 limões",
+      "1 litro de água gelada",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire o limão e coloque tudo em um liquidificador",
+      "Bata por 2 minutos",
+      "Acrescente açúcar a gosto",
+      "E pronto"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCOLINO FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303234-suco-de-couve-e-amora.html"
+}

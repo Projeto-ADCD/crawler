@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PURÊ DE BATATA BAROA COM LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata baroa",
+      "1 e 1/2 copo de leite coco",
+      "3 colheres (sobremesa) de azeite de oliva (de preferencia extra virgem)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas baroa em água e sal (de preferência no sal rosa do himalaia)",
+      "Escorra e esprema ou amasse as batatas.",
+      "Adicione com ela ainda quente o leite de coco e o azeite.",
+      "Caso deseje, vá acrescentando mais leite de coco para que o purê fique mais mole."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JURANDYR FONSECA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300177-pure-de-batata-baroa-com-leite-de-coco.html"
+}

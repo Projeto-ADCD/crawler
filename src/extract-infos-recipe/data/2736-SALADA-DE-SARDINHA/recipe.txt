@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALADA DE SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 latas de sardinha (molho de tomate de preferência)",
+      "5 tomate grandes cortados em rodelas",
+      "2 cebolas em rodelas",
+      "200 g de azeitona sem caroço",
+      "alface a gosto cortado",
+      "coentro a gosto picado",
+      "3 limões",
+      "1 sachê de tempero de salada ou sal opcional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire as sardinhas das latas",
+      "Em uma tigela, acrescente as sardinhas e os limões e reserve",
+      "Em outra tigela, acrescente o alface, os tomates, as cebolas, o coentro e as azeitonas",
+      "Adicione na 2° tigela o sal ou o tempero de salada ",
+      "Acrescente as sardinhas e está pronto",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Duração 2 dias"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KAROK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304546-salada-de-sardinha.html"
+}

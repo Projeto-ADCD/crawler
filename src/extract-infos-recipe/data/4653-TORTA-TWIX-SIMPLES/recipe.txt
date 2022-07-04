@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TORTA TWIX SIMPLES",
+  "ingredientes": {
+    "BISCOITO": [
+      "100 g de manteiga",
+      "1/4 de xícara de açúcar mascavo",
+      "1 xícara de farinha de trigo",
+      "1/4 de xícara de açúcar refinado",
+      "3 colheres (sopa) de chocolate em pó"
+    ],
+    "CARAMELO": [
+      "200 g de creme de leite fresco",
+      "200 g de açúcar",
+      "200 g de manteiga"
+    ],
+    "CHOCOLATE": [
+      "300 g de chocolate ao leite",
+      "1/2 xícara de creme de leite sem soro",
+      " "
+    ]
+  },
+  "passos": {
+    "BISCOITO": [
+      "Na batedeira, misture a manteiga e o açúcar mascavo. ",
+      "Bata bem.",
+      "Junte a farinha de trigo, o açúcar e o chocolate em pó.",
+      "Misture bem até formar uma farofinha homogênea. ",
+      "Transfira a massa para uma forma com papel-manteiga e firme bem com a ponta dos dedos,. ",
+      "Faça furos com o garfo e leve ao forno preaquecido (180° C) por cerca de 15 minutos. "
+    ],
+    "CARAMELO": [
+      "Leve o creme de leite ao fogo e deixe levantar fervura, reserve. ",
+      "Em outra panela, adicione o açúcar e deixe caramelizar. ",
+      "Adicione a manteiga e mexa bem. ",
+      "Acrescente o creme de leite fervido e mexa bem.",
+      "Retire a forma com o biscoito do forno e despeje o caramelo sobre a massa. ",
+      "Leve à geladeira por 1 hora.  "
+    ],
+    "CHOCOLATE": [
+      "Derreta o chocolate em banho-maria. ",
+      "Adicione o creme de leite e mexa bem.",
+      "Retire a torta da geladeira e despeje o chocolate sobre o caramelo. ",
+      "Volte à geladeira por 6 horas. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300552-torta-twix-simples.html"
+}

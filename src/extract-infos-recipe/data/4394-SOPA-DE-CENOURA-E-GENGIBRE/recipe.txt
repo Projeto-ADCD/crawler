@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOPA DE CENOURA E GENGIBRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Duas colheres de chá de óleo",
+      "Uma cebola roxa picada",
+      "Uma colher de chá de gengibre cru ralado",
+      "700 g de cenoura cortada em cubos",
+      "Meia xícara de caldo de legumes",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "1/4 de xícara de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça óleo em uma panela grande. Adicione a cebola gengibre ralado e refogue por dois minutos.",
+      "Acrescente a cenoura, o caldo de legumes, o sal e a pimenta.",
+      "Deixe cozinhar por aproximadamente 10 minutos, até que a cenoura fique macia.",
+      "Deixe esfriar um pouco e bata grosseiramente utilizando o mixer ou liquidificador.",
+      "Retorne para panela e acrescente o creme de leite, misture bem e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ERIKA GONZAGA SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301236-sopa-de-cenoura-e-gengibre.html"
+}

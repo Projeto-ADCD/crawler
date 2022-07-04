@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE BANANA COM ABACATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate maduro",
+      "3 bananas nanicas maduras",
+      "1/2 caixa leite condensado",
+      "4 limões (suco coado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater todos os ingredientes no liquidificador.",
+      "Em seguida coloque no freezer pra gelar bem.",
+      "Uma hora deve ser suficiente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JANINE SPONHOLZ OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302968-sorvete-de-banana-com-abacate.html"
+}

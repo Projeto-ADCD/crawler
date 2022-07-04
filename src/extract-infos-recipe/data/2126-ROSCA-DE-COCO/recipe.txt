@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROSCA DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "60 g de fermento biológico",
+      "1 xícara (chá) de açúcar refinado",
+      "1 colher (sopa) de manteiga margarina",
+      "1/2 xícara de óleo",
+      "3 ovos",
+      "2 xícaras (chá) de leite morno",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amorne o leite",
+      "Coloque no liquidificador, os ovos, o açúcar, o sal a margarina e o óleo o leite morno e o fermento",
+      "Bata todos o ingredientes, menos a farinha",
+      "Coloque em uma tigela a metade da farinha de trigo e o líquido",
+      "Misture aos poucos e sove bem a massa até que desgrude das mãos",
+      "Faça as rosquinhas e deixe descansar até que dobre de volume.",
+      "Leve para assar em forno 180° C por 30 minutos ou até que esteja dourada, não precisa untar a forma",
+      "Depois de assadas faça uma calda com uma xícara de açúcar e 1/2 de água",
+      "Passe por cima das roscas e polvilhe coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "NIDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305951-rosca-de-coco.html"
+}

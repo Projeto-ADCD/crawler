@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHOS ASSADOS (BANANA COM AVEIA) DO LÚCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas nanica ou prata",
+      "2 ovos",
+      "1/2 xícara de açúcar",
+      "1 xícara de aveia",
+      "1/2 colher (sobremesa) de fermento em pó",
+      "1 colherinha (café) de canela em pó",
+      "manteiga para untar as forminhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem as bananas e misture os ovos, açúcar, aveia, canela em pó e o fermento em pó.",
+      "Unte com manteiga as forminhas de fazer empadas (grandes) ",
+      "Coloque a massa, polvilhe um pouco de canela por cima e leve ao forno médio por aproximadamente 20 minutos.",
+      "O tempo no forno vai depender do tipo de fogão."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305191-bolinhos-assados-banana-com-aveia-do-lucio-cezar.html"
+}

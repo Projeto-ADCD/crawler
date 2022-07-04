@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO INTEGRAL DE MAÇÃ E BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 maçãs descascadas e picadas",
+      "3 bananas picadinhas",
+      "3 xícaras de farinha de trigo integral",
+      "1 xícara de açúcar demerara",
+      "200 ml de óleo (uso de girassol)",
+      "1 colher (sopa) de canela em pó",
+      "2 colheres de fermento",
+      "200 ml de leite (uso semi desnatado)",
+      "1 limão espremido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o limão no leite e deixe descansar por 10 minutos.",
+      "Bata os ovos, o óleo, o leite, o açúcar e a canela no liquidificador.",
+      "Junte com as frutas e o fermento e mexa bem (não bata as frutas, apenas misture)",
+      "Coloque em assadeira untada e asse por 50 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRISCILA FONSECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302739-bolo-integral-de-maca-e-banana.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GELINHO DE AMENDOIM E BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de amendoim torrado sem pele e sem sal",
+      "2 bananas médias bem maduras",
+      "2 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de leite condensado",
+      "1 pitadinha de sal",
+      "1 xícara de água",
+      "açúcar apenas para corrigir a doçura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o amendoim no liquidificador até virar uma farinha.",
+      "Faça isso aos poucos e mexa com uma colher para garantir que todos os grãos serão moídos.",
+      "Coloque a parte.",
+      "Misture todos os demais ingredientes e bata no liquidificador.",
+      "Vá colocando a farinha de amendoim aos poucos, sempre batendo, até homogeneizar com os outros ingredientes.",
+      "Coloque em forminhas e leve ao congelador por seis horas pelo menos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELIUDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305587-gelinho-de-amendoim-e-banana.html"
+}

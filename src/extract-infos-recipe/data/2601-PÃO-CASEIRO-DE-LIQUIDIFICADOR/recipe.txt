@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO CASEIRO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 e 1/2 xícaras de farinha branca",
+      "200 ml de leite morno",
+      "100 ml de óleo",
+      "2 ovos",
+      "1 colher (sobremesa) de sal",
+      "2 colherea (sopa) de Açúcar",
+      "1 pacote de fermento seco (10 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o ovo, óleo, açúcar, sal, o leite e o fermento.",
+      "Coloque em uma bacia a mistura do liquidificador e vá acrescentando a farinha aos poucos e misturando bem",
+      "A massa tem uma textura mole!",
+      "Usar uma forma de pudim de 30 cm, unte com óleo e farinha",
+      "Coloque a massa mole na forma e deixe crescer por 30 minutos",
+      "Se o tempo estiver frio, deixe creacer por 1 hora",
+      "Leve ao forno por 45 minutos a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GRACIELA PACCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304841-pao-caseiro-de-liquidificador.html"
+}

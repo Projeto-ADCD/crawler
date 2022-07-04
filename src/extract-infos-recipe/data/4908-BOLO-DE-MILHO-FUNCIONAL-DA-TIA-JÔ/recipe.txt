@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE MILHO FUNCIONAL DA TIA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 latas de milho com a água",
+      "1 xícara de fubá",
+      "1 xícara farinha de coco (opcional)",
+      "1/2 xícara de açúcar demerarar ou mascavo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos e o milho por 2 minutos.",
+      "Em seguida, acrescente os demais ingredientes e bata por 5 minutos.",
+      "Por último, acrescente o fermento e dê uma leve batida .",
+      "Unte a forma com óleo e farinha leve ao forno pre aquecido por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOSEANE MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299971-bolo-de-milho-funcional-da-tia-jo.html"
+}

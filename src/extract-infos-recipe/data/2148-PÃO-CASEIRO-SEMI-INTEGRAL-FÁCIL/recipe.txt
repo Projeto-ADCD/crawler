@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO CASEIRO SEMI-INTEGRAL FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo inteiro",
+      "1 xícara (chá) leite morno",
+      "1/2 xícara (chá) óleo",
+      "1 sachê de fermento biológico seco (10 g)",
+      "4 colheres (sopa) açúcar",
+      "1 colher (café) sal",
+      "2 xícaras (chá) farinha de trigo integral",
+      "2 xícaras (chá) farinha de trigo branca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata os líquidos (leite morno, ovo, óleo), o açúcar e o fermento, na velocidade mínima por 30 segundos.",
+      "Em uma vasilha, coloque o resto dos ingredientes (as farinhas e o sal), mexa com uma colher para misturá-los",
+      "Junte o conteúdo líquido do liquidificador na vasilha com os sólidos e mexa-os com a colher até ficar uma coisa só",
+      "Sove sua massa com as mãos limpas e secas até que a mesma descole dos seus dedos (se não descolar coloque aos poucos farinha e siga sovando até desgrudar)",
+      "Ligue o forno na temperatura mínima por 15 segundos e desligue",
+      "Coloque sua massa dentro da mesma vasilha coberta por um pano de prato limpo e seco para descansar dentro do forno desligado por aproximadamente 1 hora ou até dobrar de tamanho",
+      "Após o descanso, sove mais um pouquinho com as mãos, separe em dois pedaços (pães) ou como preferir",
+      "Pré aqueça o forno na temperatura mínima (120º C) por 10 minutos",
+      "Coloque os pães para assar e vá subindo a temperatura a cada 10 minutos (120º C>150º C>180º C), até o total de 40 minutos ou até ficarem dourados em cima",
+      "Em uma xícara (chá) coloque dois dedos de água temperatura ambiente e 1 colher (café) de açúcar e misture",
+      "Após retirar os Pães do forno, pincele a água com açúcar na parte de cima para não ficar com a casca muito dura, está pronto! Bom apetite!",
+      "Se não for comer na hora, enrole-os em um pano de prato limpo e seco, para evitar que ressequem e endureça a casca."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TITA PITSCH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305877-pao-caseiro-semi-integral-facil.html"
+}

@@ -1,0 +1,48 @@
+{
+  "nome_receita": "TORTA SALGADA DA LIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de leite (usar a medida da mesma xícara para os demais ingredientes)",
+      "1/2 xícara de óleo",
+      "2 colheres (sopa) de amido de milho ",
+      "2 xícaras de farinha de trigo integral",
+      "1 colher (sopa) de fermento em pó",
+      "Sal a gosto (use pouco para aproveitar o sabor dos ingredientes do recheio)",
+      "1 lata de milho",
+      "1 lata de seleta de legumes",
+      "6 fatias de queijo",
+      "6 fatias de apresuntado",
+      "1 tomate",
+      "1 pacote de azeitonas sem caroço (120 g)",
+      "Temperos à gosto (orégano, manjericão, ervas finas, etc)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "RECHEIO",
+      "Em uma tigela à parte coloque o milho e a seleta de legumes, misture delicadamente com uma colher.",
+      "Em seguida pique em cubinhos o queijo, o apresuntado, o tomate e as azeitonas. Após picar misture ao milho e à seleta delicadamente.",
+      "Por fim, acrescente os temperos à gosto.",
+      "Reserve.",
+      "MASSA",
+      "No liquidificador bata os ovos, o leite e o óleo durante 2 minutos.",
+      "Acrescente à massa ainda no liquidificador o amido de milho, a farinha de trigo integral e o sal a gosto até a massa ficar homogênea. Por último, coloque o fermento em pó e bata mais um pouco.",
+      "Separe uma forma, a indicada é do tipo retangular comprida, mas qualquer outra também dá certo, desde que não seja muito baixa, pois sua torta irá crescer um pouco!",
+      "Unte a forma com óleo (passe bem no fundo e também aos lados) e polvilhe um pouco de trigo, pode ser do integral mesmo, essa técnica ajuda para que a torta não grude no fundo da forma.",
+      "Após untada a forma, despeje uma pequena quantidade da massa cobrindo o fundo da forma.",
+      "Depois, coloque o recheio, distribuindo o mesmo por toda a forma.",
+      "Por fim, cubra tudo com o restante da massa.",
+      "Pré-aqueça o forno por 3 minutos.",
+      "Leve para assar em forno médio (170°C a 190°C) por 40 minutos ou até dourar a parte de cima da massa.",
+      "Retire do forno, espere esfriar e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Prepare o recheio antes da massa."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "LIS SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302417-torta-salgada-da-lis.html"
+}

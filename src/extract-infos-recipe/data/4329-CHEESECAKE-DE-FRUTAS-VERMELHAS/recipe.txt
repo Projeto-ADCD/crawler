@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CHEESECAKE DE FRUTAS VERMELHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Base",
+      "1 e 1/2 pacote de biscoito maisena ",
+      "50 g de manteiga sem sal derretida",
+      "Creme",
+      "1,25 kg de cream cheese",
+      "50 g de creme de leite fresco",
+      "300 g de açúcar",
+      "5 ovos",
+      "2 gemas",
+      "essência de baunilha",
+      "raspas de limão",
+      "45 g de trigo",
+      "Calda",
+      "2 e 1/2 xícaras de morango",
+      "suco de 1 limão",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Base",
+      "Faça um farofa e forre uma forma de aro removível.",
+      "Coloque na geladeira por 10 minutos.",
+      "Creme",
+      "Misture o cream cheese com o creme de leite e reserve.",
+      "Bata os ovos com o açúcar, depois acrescente as gemas com a baunilha e por último o trigo com as raspas de limão.",
+      "Em seguida, misture com o creme e despeje sobre a massa",
+      "Leve ao forno a 100° C e deixe assar por 1 hora.",
+      "Depois de assado, deixe na geladeira por 24 horas.",
+      "Calda",
+      "Leve tudo ao fogo e deixe ferver.",
+      "Na hora de servir, espalhe sobre a torta e pronto"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VILLONI ALIMENTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301364-cheesecake-de-frutas-vermelhas.html"
+}

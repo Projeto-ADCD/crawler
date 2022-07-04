@@ -1,0 +1,50 @@
+{
+  "nome_receita": "BURGUER DO B10",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de patinho moído",
+      "300 g de peito bovino moído",
+      "300 g de costela bovina moída",
+      "200 g da gordura da costela ou do peito (peça para moer tudo junto no açougue)",
+      " ",
+      "300 g Queijo prato",
+      "50 g manteiga",
+      "1 litro de leite",
+      "50 g de farinha de trigo",
+      "300 g de bacon",
+      "pão de hamburguer ou de sua preferência",
+      "sal e pimenta-do-reino (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Burguer/Blend",
+      "Vá ao açougue e peça para o açougueiro moer a carne duas vezes junto com a gordura.",
+      "Não esqueça de preparar o blend no mesmo dia que for fazer os hambúrgueres – quanto mais fresca a carne, melhor.",
+      "Separe 180 g de carne para cada hambúrguer, esta quantidade de carne com um pão de 80g.",
+      "Antes de moldar seu hambúrguer, jogue a carne de uma mão à outra por umas 5 vezes.",
+      "Isso vai retirar um pouco do ar e dar liga à carne. Evita que o hambúrguer quebre na churrasqueira.",
+      "Pontos do hambúrguer",
+      "Mal passado – 2 minutos 30 segundos a 3 minutos de cada lado",
+      "Ao ponto – 3 minutos 30 segundos de cada lado",
+      "Bem passado – 4 minutos a 4 minutos 30 segundos de cada lado",
+      "Doure o bacon da brasa de acordo com seu gosto.",
+      "Molho",
+      "Em fogo baixo adicione a manteiga e a farinha.",
+      "Mexa bem e vá adicionando o leite aos poucos (tem que ter paciência).",
+      "O molho deve ficar com uma consistência um pouco mais liquida do que deseja. Tempere com sal e pimeira a gosto.",
+      "Por último acrescente o queijo e continue mexendo até o ponto desejado.",
+      "Deixe-o em banho-maria até a montagem.",
+      "Montagem ",
+      "Sele o pão com manteiga em uma frigideira ou na grelha, essa casquinha que forma impede que o pão absorva muito suco da carne e amoleça.",
+      "Coloque o blend, o bacon, cubra com molho, feche com o pão e vá ser feliz."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Caso queira DUPLO, TRIPLO ou QUADRÚPLO repita o processo quantas vezes sua fome necessitar. "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BRUNO MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305345-burguer-do-b10.html"
+}

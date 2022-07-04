@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO CASEIRO DOCE DE ROÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 g de fermento biológico para pão",
+      "1 kg de fubá de trigo sem fermento",
+      "3 ovos",
+      "4 colheres de margarina",
+      "2 copos de açúcar",
+      "água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque numa vasilha 250 g de trigo sem fermento e as 10 g do fermento biológico, um pouco de água morna não quente, numa temperatura que aguente o dedo na água.",
+      "Deixa a massa num ponto que não fique nem fina nem grossa.",
+      "Deixe descansar essa massa para inchar no sol.",
+      "Depois que inchar acrescente o restante do trigo, bata os ovos com a margarina no liquidificador e misture junto com a massa que estava reservada.",
+      "Amassa e bate bastante por uns 30 minutos, depois é só modelar os pães.",
+      "Deixe na forma novamente para inchar no sol.",
+      "Após inchar no tamanho de preferência é só colocar pra assar no forno pré-aquecido."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "43 PORÇÕES",
+  "autor": "NEIDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302576-pao-caseiro-doce-de-roca.html"
+}

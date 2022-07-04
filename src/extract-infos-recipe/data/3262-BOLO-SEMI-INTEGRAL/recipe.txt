@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO SEMI INTEGRAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farinha de trigo integral",
+      "1/2 xícara de farinha de trigo",
+      "1/2 xícara de fubá",
+      "1 e 1/2 xícara de açúcar mascavo",
+      "2 ovos",
+      "1/2 xícara de óleo de girassol",
+      "1 xícara de água morna",
+      "7 colheres (sopa) de mel",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa batedeira, coloque a farinha integral, a farinha de trigo, o fubá, o açúcar mascavo, os ovos, o óleo e o mel",
+      "Bata acrescentando a água até obter uma mistura homogênea",
+      "Após acrescentar a canelá em pó, bata e acrescente o fermento em pó",
+      "Coloque a massa numa assadeira untada no forno preaquecido à 180°C"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JOÃO APARECIDO RODRIGUES DE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303645-bolo-semi-integral.html"
+}

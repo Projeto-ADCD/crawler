@@ -1,0 +1,27 @@
+{
+  "nome_receita": "RABADA COM MANJERICÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de rabada limpa",
+      "4 cebolas grandes",
+      "1 cabeça de alho grande",
+      "2 pimentões",
+      "1 maço de salsinha e coentro",
+      "hortelã, colorau e cominho a gosto",
+      "1 maço de manjericão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os temperos no liquidificador e acrescente o coloral, o sal a gosto e o cominho",
+      "Na panela de pressão, coloque a rabada e o tempero",
+      "Deixe cozinhar só 10 minutos com os temperos, abra a panela e coloque água até cobrir a carne",
+      "Deixe cozinhar por mais 10 minutos, abra e se já estiver boa, acrescente o manjericão, deixe ferver",
+      "Sirva com arroz"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DANIELE PS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300185-rabada-com-manjericao.html"
+}

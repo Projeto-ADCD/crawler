@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SUFLÊ DE CENOURA COM FARINHA DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras",
+      "2 ovos",
+      "1/2 xícara de leite",
+      "2 colheres (sopa) de farinha de aveia",
+      "2 colheres (sopa) de margarina",
+      "2 colheres (sopa) de queijo parmesão",
+      "1 colher (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as cenouras com água e sal.",
+      "Misture todos os demais ingredientes e bata no liquidificador até obter uma mistura homogênea.",
+      "Acrescente as cenouras cozidas e bata até misturar bem.",
+      "Unte um refratário com margarina e despeje a mistura.",
+      "Asse no forno a 180° C por 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MICHELE LEITE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300195-sufle-de-cenoura-com-farinha-de-aveia.html"
+}

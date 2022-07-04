@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CUSCUZ PAULISTA DE ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) alho-poró fatiado",
+      "2 xícaras (chá) de molho de tomate",
+      "2 dentes de alho picado",
+      "2 cebolas picada",
+      "2 ovos cozidos fatiados",
+      "1 vidro de palmito fatiado (500 g)",
+      "1 pacote de farofa Yoki tradicional (500 g)",
+      "10 tomates cereja para decorar",
+      "6 azeitonas pretas para decorar",
+      "açafrão a gosto",
+      "sal a gosto",
+      "azeite",
+      "pimenta-do-reino a gosto",
+      "salsinha picada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque azeite em uma panela e junte o alho picado e a cebola picada",
+      "Depois da cebola dourar, junte o alho-poró e deixe refogar",
+      "Coloque o molho de tomate e o palmito e deixe cozinhar por cinco minutos.",
+      "Tempere com sal, pimenta e açafrão",
+      "Deixe cozinhar em fogo médio até começar a engrossar",
+      "Junte a farofa Yoki e a salsinha, misture com uma uma colher até começar a dourar e desgrudar da panela",
+      "Unte uma forma e decore o fundo com o ovo, o tomate cereja, o palmito e as azeitonas",
+      "Coloque a mistura na forma.",
+      "Espere esfriar e desenforme seu cuscuz"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Sergio Coelho Receitas"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303786-cuscuz-paulista-de-alho-poro.html"
+}

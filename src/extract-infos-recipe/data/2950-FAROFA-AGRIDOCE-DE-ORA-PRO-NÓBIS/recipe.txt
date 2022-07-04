@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE DE ORA-PRO-NÓBIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farofa pronta tradicional",
+      "1 xícara (chá) de cogumelo shiitake fatiado",
+      "1 xícara (chá) de abacaxi picado em cubinhos",
+      "24 folhas grandes de ora-pro-nóbis fatiadas em quadradinhos",
+      "8 dentes de alho espremido",
+      "2 colheres (sopa) de molho de soja shoyu",
+      "10 azeitonas pretas sem caroço",
+      "1 colher (sopa) de gergelim preto",
+      "3 colheres (sopa) de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve os cogumelos a fogo alto com o shoyu.",
+      "Retire do fogo quando o mesmo já tiver se incorporado ao fungo e reserve.",
+      "Em uma frigideira grande e em fogo médio, aqueça duas colheres de azeite de oliva e refogue quatro dentes de alho.",
+      "Quando o mesmo dourar, adicione o abacaxi.",
+      "Cozinhe o abacaxi até o mesmo reduzir ligeiramente de volume.",
+      "Reduza o fogo, adicione a farofa e o cogumelo.",
+      "Retire do fogo quando a mistura ficar homogênea e levemente dourada.",
+      "Adicione as azeitonas e o gergelim.",
+      "Reserve.",
+      "Em uma frigideira em fogo médio, aqueça 1 colher de sopa de azeite e refogue 4 dentes de alho até começar a dourar.",
+      "Adicione então o ora-pro-nóbis e cozinhe até murchar ligeiramente.",
+      "Retire do foto, misture à farofa e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIEL NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304084-farofa-agridoce-de-ora-pro-nobis.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PIAMONTESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 copo 200ml de arroz",
+      "200 g de mussarela desfiada",
+      "1 sachê de champion (60 g)",
+      "30 g queijo ralado",
+      "2 colher (sopa) de manteiga",
+      "200 ml de creme de leite",
+      "Alho e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz normalmente.",
+      "Aqueça o champion na manteiga com fio de azeite e, em seguida, ponha dentro da panela já com o arroz cozido.",
+      "Acrescente a mussarela o queijo ralado e o creme de leite.",
+      "Mexa no mesmo sentido sempre.",
+      "Sirva com frango grelhado na chapa temperado no limão e raspas de limão para a decoração."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAMON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300735-piamontese.html"
+}

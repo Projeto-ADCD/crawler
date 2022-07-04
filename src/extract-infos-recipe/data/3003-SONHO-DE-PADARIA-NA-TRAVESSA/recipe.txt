@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SONHO DE PADARIA NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "9 ovos",
+      "1 + 1/2 xícara de açúcar",
+      "3 colheres (chá) de essência de baunilha",
+      "2 + 1/4 de xícara de farinha de trigo",
+      "100 ml de água",
+      "2 colheres (sopa) de açúcar",
+      "600 g de doce de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira, bata os ovos com o açúcar.",
+      "Vá colocando o açúcar aos poucos.",
+      "Adicione a essência de baunilha e bata mais um pouco.",
+      "Acrescente a farinha de trigo aos poucos.",
+      "Bata até formar uma massa homogênea.",
+      "Transfira para uma travessa untada e enfarinhada.",
+      "Leve ao forno preaquecido (180° C) por 25 minutos.",
+      "Faça uma calda com água e açúcar.",
+      "Leve os dois ingredientes ao fogo e espere o açúcar derreter.",
+      "Retire a  massa do forno e corte em em duas partes. ",
+      "Coloque a base na travessa e molhe com a calda.",
+      "Adicione o doce de leite e feche com a outra parte da massa. ",
+      "Finalize com açúcar de confeiteiro."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304007-sonho-de-padaria-na-travessa.html"
+}

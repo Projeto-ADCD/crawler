@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BRIGADEIRO DE FORNO FÁCIL E CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "7 colheres (sopa) de chocolate em pó",
+      "2 colheres de amido de milho",
+      "3 gemas",
+      "400 ml de leite integral",
+      "granulado de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture o leite condensado, a manteiga, o chocolate em pó, o amido de milho, as gemas e o leite.",
+      "Mexa bem até ficar homogêneo",
+      "Despeje em um refratório, untado com manteiga",
+      "Leve ao forno a 180° C por 50 minutos ou até endurecer",
+      "Retire do forno e leve à geladeira por 1 hora ou até esfriar",
+      "Cubra com granulado de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAUREN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302424-brigadeiro-de-forno-facil-e-cremoso.html"
+}

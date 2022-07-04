@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PUDIM DE CAFÉ ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 lata de leite condensado (400 g)",
+      "250 ml de café especial coado sem adoçar (de preferência bem concentrado)",
+      "1 colher (sopa) de farinha de trigo (opcional)",
+      "Calda",
+      "1 xícara de açúcar",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, prepare a calda caramelizada, juntando o açúcar com uma parte da água e mexa até ficar uma calda quase grossa.",
+      "Aos poucos, adicione o restante da água, mexa mais um pouco até chegar no ponto.",
+      "Desligue o fogo e deixe esfriar por completo.",
+      "Transfira essa calda caramelizada para a forma própria para pudim (cerca de 22 cm de diâmetro) e reserve.",
+      "Bata todos os ingredientes no liquidificador e leve com cuidado para a forma já com a calda.",
+      "Cubra a forma com papel-alumínio e leve ao forno preaquecido a 200° C assando em banho-maria por aproximadamente 1 hora.",
+      "Retire o papel-alumínio nos últimos 20 minutos para dourar por cima.",
+      "Deixe esfriar um pouco e desenforme.",
+      "Leve à geladeira por pelo menos 2 horas antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "MÁRCIA VARELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301790-pudim-de-cafe-especial.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO DE CARNE MOÍDA COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de carne moída",
+      "batatas cruas raladas a gosto",
+      "1 ovo",
+      "tempero a gosto ",
+      "salsinha e cebolinha a gosto",
+      "farinha de rosca ou de trigo até dar liga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne moída em uma vasilha, adicione a batata ralada crua e os demais ingredientes",
+      "Tempere a gosto",
+      "Com uma colher, coloque para fritar no óleo quente",
+      "Depois de frito, sirva",
+      "Por fora a batata fica crocante e por dentro cozidinha, uma delícia, sem contar que rende muito!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VITORIA STRAVATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303770-bolinho-de-carne-moida-com-batata.html"
+}

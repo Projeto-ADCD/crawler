@@ -1,0 +1,23 @@
+{
+  "nome_receita": "TEMPERO PARA CARNE VERMELHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de azeite",
+      "sal a gosto",
+      "1 dente de alho picado",
+      "pimenta-doreino a gosto",
+      "suco de 1/2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Misture muito bem na carne",
+      "Deixe marinando e depois de algum tempo cozinhe a peça à vontade"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "COZINHA PRÁTICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302375-tempero-para-carne-vermelha.html"
+}

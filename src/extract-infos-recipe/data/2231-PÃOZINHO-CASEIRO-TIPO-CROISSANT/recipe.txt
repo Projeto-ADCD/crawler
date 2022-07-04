@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃOZINHO CASEIRO TIPO CROISSANT",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha especial para pães (sem fermento)",
+      "2 colheres (sopa) de açúcar",
+      "1/2 colher de sal",
+      "1 colher bem cheia de margarina",
+      "250 ml de leite aproximadamente em temperatura ambiente",
+      "20 g de fermento biológico ou 30 g de fermento fraco",
+      "queijo mussarela para rechear (opcional)",
+      "1 gema para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque: a farinha, açúcar, sal e fermento.",
+      "De uma pré-misturada nós ingredientes.",
+      "Em seguida coloque os ovos, o leite e margarina.",
+      "Sove bem a massa por aproximadamente 10 a 15 minutos.",
+      "Deixe a massa descansar coberta por um pano de prato por aproximadamente 20 minutos.",
+      "Dívida a massa ao meio e abra uma das partes da massa com um rolo fazendo um disco.",
+      "Corte o disco e formato de pizza ",
+      "Na base maior da massa, de um pequeno corte, para auxiliar na hora de enrolar ",
+      "Opções de recheio: queijo, presunto, goiabada, frango ou um de sua preferência, entretanto deve ser recheio mais seco, sem caldos ou algum líquido .",
+      "Em cada fatia de massa, coloque seu recheio preferido e enrole da parte maior para a menor, fazendo o formato de croissant.",
+      "Modele todos e deixe descansar por mais aproximadamente 20 minutos, pincele com uma gema e asse em forno preaquecido por aproximadamente de 15 a 20 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: essa massa não se trata de massa folhada, portanto seria um croissant com massa de pão ou um \"falso\" croissant."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "LUIZA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305658-paozinho-caseiro-tipo-croissant.html"
+}

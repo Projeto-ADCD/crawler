@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BEEF BOURGUIGON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de acém ou patinho cortado em cubos",
+      "500 g de bacon cortado em cubos",
+      "4 cenouras picadas tamanho médio",
+      "5 batatas picadas tamanho médio",
+      "6 dentes de alho",
+      "200 g cogumelo paris e/ou champignon (o que encontrar mais fácil) os dois juntos também ficam excelentes",
+      "500 ml vinho tinto",
+      "500 ml caldo de carne",
+      "azeite",
+      "sal e pimenta a gosto",
+      "cheiro-verde picado (salsa, coentro, cebolinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com sal e pimenta a gosto",
+      "Frite a carne no azeite até dourar todos os lados, retire da panela e faça o mesmo com o bacon",
+      "Assim que o bacon dourar volte com a carne para a panela e coloque metade do caldo de carne e metade do vinho ",
+      "Cozinhe por 30 minutos",
+      "Agora coloque os vegetais, o alho, o resto do caldo de carne e do vinho",
+      "Acerte o sal e a pimenta-do-reino a gosto e cozinhe por mais 1 hora em fogo baixo.",
+      "Deixe o cogumelo e o cheiro-verde por último (guarde um pouco do cheiro-verde para decorar a finalização)",
+      "Sirva com arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304831-beef-bourguigon.html"
+}

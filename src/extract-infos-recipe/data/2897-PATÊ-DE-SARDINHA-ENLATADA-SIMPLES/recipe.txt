@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PATÊ DE SARDINHA ENLATADA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de sardinha enlatada com óleo",
+      "10 colheres de maionese pronta",
+      "1 pitada de sal",
+      "3 colheres de ketchup"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa adicione todos os ingredientes",
+      "Mexa tudo muito bem",
+      "Coloque na geladeira por aproximadamente 10 minutos",
+      "Está pronto para servir",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "NICOLLY KATIONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304196-pate-de-sardinha-enlatada-simples.html"
+}

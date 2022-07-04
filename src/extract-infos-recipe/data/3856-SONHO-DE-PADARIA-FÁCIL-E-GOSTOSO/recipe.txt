@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SONHO DE PADARIA FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de trigo",
+      "3 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de açúcar",
+      "10 g de fermento seco para pães",
+      "2 gemas",
+      "água até dar ponto",
+      "1 xícara de leite morno",
+      "açúcar de confeiteiro a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a manteiga e o fermento ao leite morno e mexa bem",
+      "Acrescente o açúcar",
+      "Adicione as gemas juntamente com a mistura ao trigo",
+      "Adicione água até dar ponto",
+      "Sove a massa por aproximadamente 10 minutos",
+      "Boleie com a palma das mãos as bolinhas e deixe na forma por 1 hora até crescer",
+      "Asse no forno preaquecido a 180° C por 20 minutos ou até dourar",
+      "Depois de assados, frite os pães em óleo quente até ficarem dourados (não se preocupe, não vão encharcar)",
+      "Passe no açúcar de confeiteiro e recheie com seu doce de preferência."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VANESSA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302509-sonho-de-padaria-facil-e-gostoso.html"
+}

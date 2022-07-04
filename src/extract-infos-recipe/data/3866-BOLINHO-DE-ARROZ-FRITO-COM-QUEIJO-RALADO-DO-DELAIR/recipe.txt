@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ FRITO COM QUEIJO RALADO DO DELAIR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cozido",
+      "1 ovo",
+      "2 colheres (sopa) de queijo ralado",
+      "2 colheres (sopa) de salsa e cebolinha picadinha",
+      "1/4 de uma cebola média a grande picadinha",
+      "1 porção de tempero de ervas a gosto",
+      "2 a 3 colheres (sopa) de farinha de trigo para dar liga",
+      "sal a gosto",
+      "óleo para fritura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela, o arroz e o ovo e misture bem.",
+      "Depois, acrescente os outros ingredientes.",
+      "Depois de tudo bem misturado, com uma colher, vá formando os bolinhos.",
+      "Frite em óleo bem quente e escorra em papel-toalha "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DELAIR CAETANO GOMES Fº",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302470-bolinho-de-arroz-frito-com-queijo-ralado-do-delair.html"
+}

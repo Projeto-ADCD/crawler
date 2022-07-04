@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BODE ASSADO NA PANELA DE PRESSÃO COM CEBOLA E BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne de bode",
+      "5 cebolas grandes em rodelas",
+      "4 batatas grandes cortada em pedaços grandes,",
+      "2 tabletes de tempero pronto sabor carne",
+      "2 dentes de alho",
+      "1 colherzinha de cominho",
+      "1 colherzinha de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro tempere a carne com os dois dentes de alho e o cominho",
+      "Em seguida coloque as cebolas forrando o fundo da panela de pressão",
+      "Coloque a carne por cima e esfarele os dois tabletes de tempero pronto por cima e coloque o azeite de oliva e tampe a panela",
+      "Quando tiver pegando pressão conte os 35 minutos",
+      "Depois desligue e acrescente as batatas e coloque mais 3 minutos",
+      "Depois e só desligar e servir",
+      "E dê uma conferida no sal"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CARLINHOS CUNHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302903-bode-assado-na-panela-de-pressao-com-cebola-e-batata.html"
+}

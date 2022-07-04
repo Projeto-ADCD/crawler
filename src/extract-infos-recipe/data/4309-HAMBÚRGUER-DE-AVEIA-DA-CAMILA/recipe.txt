@@ -1,0 +1,24 @@
+{
+  "nome_receita": "HAMBÚRGUER DE AVEIA DA CAMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de aveia",
+      "2 colheres de farinha de trigo",
+      "temperos e sal a gosto",
+      "água pra dar o ponto",
+      "cebola e alho picadinhos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha, a aveia, a cebola, o alho e os temperos e de uma mexida para misturar.",
+      "Vá colocando a água aos poucos e mexendo até virar uma pasta bem grudenta",
+      "Pegue colheradas dessa pasta, coloque em uma frigideira antiaderente com um fiozinho de óleo ou azeite.",
+      "Modele com a colher e deixe dourar dos dois lados."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CAMILA_SILLVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301394-hamburguer-de-aveia-da-camila.html"
+}

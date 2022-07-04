@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BANANA AMASSADA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "2 colheres (de sopa) de leite condensado",
+      "1 colher (de chá) de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a banana em um pote e leve ao microondas por 30 segundos",
+      "Coloque a canela e o leite condensado",
+      "Está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LARA VIUDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303481-banana-amassada-especial.html"
+}

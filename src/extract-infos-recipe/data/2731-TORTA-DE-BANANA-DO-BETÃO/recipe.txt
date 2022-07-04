@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA DE BANANA DO BETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas cortadas na horizontal para a cobertura",
+      "1 xícara de açúcar ",
+      "1 xícara de água",
+      "canela em pó a gosto",
+      "Massa",
+      "3 ovos",
+      "1 xícara de água",
+      "1 xícara de óleo",
+      "2 xícaras de açúcar",
+      "3 xícaras de farinha de trigo",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no fundo de uma forma as bananas cortadas",
+      "Polvilhe um pouco de canela",
+      "Faça uma calda com a água e o açúcar e cubra as bananas ",
+      "Bata no liquidificador os ovos e a água por 1 minuto na potência alta.",
+      "Abaixe a potência do liquidificador e acrescente os outros ingredientes da massa (o açúcar, o óleo, a farinha de trigo e por ultimo o fermento)",
+      "Despeje essa massa batida sobre as bananas na forma (que já estão com a calda de açúcar) e coloque para assar em forno preaquecido por aproximadamente 40 minutos a 180° C, ou até dourar na sua preferência",
+      "Após assar, basta virar sobre uma forma e servir.",
+      "Gelado fica mais gostoso.",
+      "Apreciem"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304559-torta-de-banana-do-betao.html"
+}

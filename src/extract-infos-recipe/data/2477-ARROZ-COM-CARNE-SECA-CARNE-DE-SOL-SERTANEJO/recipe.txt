@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ARROZ COM CARNE-SECA/CARNE DE SOL - SERTANEJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne de sol",
+      "500 g arroz (usei parbolizado)",
+      "cebola roxa a gosto",
+      "manteiga da terra (caso tenha)",
+      "caldo de legumes (opcional)",
+      "5 dentes de alho",
+      "queijo coalho a gosto",
+      "200 ml leite",
+      "Água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dessalgue a carne, cozinhe e depois desfie",
+      "Pique o alho e cebola",
+      "Refogue o alho e a cebola na manteiga da terra, depois adicione a carne de sol desfiada e refogue",
+      "Adicione o arroz ainda cru, misture bem e depois adicione a água e o caldo de legumes",
+      "Deixe cozinhar o arroz",
+      "Perto do arroz ficar cozido, adicione os 200 ml de leite",
+      "Quando o arroz terminar de cozinhar, adicione o queijo e deixe tampado para derreter",
+      "Só servir"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KAMYLLE MOURÃO CAVALCANTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305117-arroz-com-carne-seca-barra-carne-de-sol-sertanejo.html"
+}

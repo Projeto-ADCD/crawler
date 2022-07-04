@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE IOGURTE DE MORANGO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "1 iogurte de morango ",
+      "3 copos (medida do copo de iogurte) de farinha",
+      "2 copos (medida do copo de iogurte) de açúcar",
+      "2 colheres de (café) de fermento",
+      "1/2 copo (medida do copo de iogurte) de óleo",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece separando as claras da gema de ovo",
+      "Depois bata muito bem as claras em neve num recipiente a parte",
+      "Depois num outro recipiente, comece batendo muito bem as gemas, em seguida vá adicionando o óleo, a farinha, o fermento e o iogurte, continue batendo",
+      "Por fim junte as claras batidas em neve",
+      "Despeje a massa numa forma untada (com manteiga e farinha) ",
+      "Leve ao forno preaquecido a 180°C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CATIA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303729-bolo-de-iogurte-de-morango-facil.html"
+}

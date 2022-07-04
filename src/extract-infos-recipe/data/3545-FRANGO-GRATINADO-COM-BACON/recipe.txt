@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FRANGO GRATINADO COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "1 caixa de bacon fatiado",
+      "100 g de requeijão",
+      "250 g de queijo mussarela",
+      "parmesão para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peito de frango já cortado em bifes",
+      "Forre uma forma com bacon fatiado",
+      "Acomode os bifes de peito",
+      "Passe o requeijão sobre os bifes",
+      "Coloque as fatias de mussarela ",
+      "Polvilhe com queijo parmesão ralado",
+      "Leve ao forno a temperatura de 200°C por 30 minutos",
+      "Sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRACEMA REZENDE DE OLIVEIRA ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303166-frango-gratinado-com-bacon.html"
+}

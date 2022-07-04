@@ -1,0 +1,48 @@
+{
+  "nome_receita": "PIZZA DE COXINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola",
+      "2 dentes de alho",
+      "500 ml de água",
+      "250 g de peito de frango",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 ramo de salsinha",
+      "1 ramo de tomilho",
+      "100 ml de leite",
+      "10 g de manteiga",
+      "250 g de farinha de trigo",
+      "70 g de requeijão",
+      "água para empanar",
+      "farinha de rosca para empanar ",
+      "massa para pizza",
+      "100 g de molho de tomate",
+      "300 g de mussarela",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, refogue a cebola e o alho.",
+      "Adicione a água, o peito de frango, sal, pimenta, tomilho e salsinha.",
+      "Deixe até o frango cozinhar. ",
+      "Retire os ingredientes da água. ",
+      "Nessa mesma panela, acrescente o leite, a manteiga e misture bem. ",
+      "Adicione a farinha de trigo e mexa até formar uma massa homogênea. ",
+      "Desfie o peito de frango. ",
+      "Abra a massa em uma superfície com farinha de tirgo e sove-a.",
+      "Abra um pouco da massa na mão, recheie e feche, formando a coxinha.",
+      "Passe as coxinhas na água e logo em seguida na farinha de rosca. ",
+      "Frite em óleo quente e reserve. ",
+      "Abra a massa de pizza e adicione o molho de tomate e a mussarela.",
+      "Coloque as coxinhas sobre a mussarela.",
+      "Leve ao forno preaquecido (180° C) por cerca 10 minutos. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303297-pizza-de-coxinha.html"
+}

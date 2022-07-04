@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PASTA DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 dentes de alho espremido",
+      "1 caixinha de creme de leite",
+      "1 colher de (sopa) de manteiga",
+      "1 colher (sopa) rasa de farinha de trigo",
+      "2 colheres (sopa) de suco de limão",
+      "1 pitada de sal",
+      "1 pitada de orégano",
+      "2 colheres de (sopa) de cebolinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga para derrete em fogo baixo e depois refogue o alho um pouco, nem precisa dourar.",
+      "Em seguida coloque a farinha de trigo e mexa sem parar até virar uma pastinha",
+      "Depois coloque a metade da caixinha do creme de leite e continue mexendo até virar uma massa que desgrude da panela",
+      "Desligue o fogo.",
+      "No liquidificador bata a massa com a outra metade do creme de leite e os restantes dos ingredientes por 2 minutos e já está pronto"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA FLÁVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304753-pasta-de-alho.html"
+}

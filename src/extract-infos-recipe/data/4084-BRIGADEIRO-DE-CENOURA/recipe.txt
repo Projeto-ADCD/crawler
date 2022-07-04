@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BRIGADEIRO DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 cenoura ralada",
+      "1 colher (sopa) de manteiga sem sal ou margarina",
+      "250 g de granulado de chocolate ou colorido (de acordo com a sua preferência)",
+      "1 colher (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a cenoura ralada, o leite condensado, o leite em pó e misture bem.",
+      "Feito isso, acenda o fogo e acrescente a colher (sopa) de manteiga sem sal ou margarina e vá mexendo em fogo.",
+      "Mexa até que chegue ao ponto de enrolar ou quando passar a espátula consiga ver o fundo da panela limpo.",
+      "Em um refratário untado com margarina, disponha o brigadeiro até que este esfrie.",
+      "Após, unte as mãos com margarina e faça o formato do brigadeiro. Passe-os no granulado de sua preferência.",
+      "Disponha em forminhas para festa de aniversário."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser, antes de enrolar leve-os para gelar por mais ou menos 1 hora, a consistência é surreal para enrolar."
+    ]
+  },
+  "tempo_de_preparo": "0 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SÓ SAUDÁVEL SAUDÁVEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301923-brigadeiro-de-cenoura.html"
+}

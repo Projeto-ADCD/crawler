@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CARNE SECA NA MORANGA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne seca dessalgada, cozida e desfiada",
+      "1 abóbora moranga média",
+      "2 latas creme de leite sem soro",
+      "250 g muçarela fatiada",
+      "250 g queijo cremoso catupiri",
+      "1 cebola grande cortada fininha",
+      "1 colher manteiga",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dessalgue a carne por 24 horas, trocando a água por 5 vezes",
+      "Cozinhe coberta de água na pressão por 40 minutos",
+      "Reserve o caldo.",
+      "Desfie a carne e reserve",
+      "Tire a tampa da moranga, o miolo e o caroço.",
+      "Envolva a abóbora em alumínio e coloque em forno médio pra assar, de cabeça pra baixo.",
+      "Asse por 45 minutos, desvire e retire o alumínio.",
+      "Asse por mais 40 minutos, ou até ficar macio.",
+      "Em uma panela, refogue a cebola na manteiga, coloque a carne seca e duas conhas do caldo do cozimento.",
+      "Quando secar, coloque creme de leite, acerte o sal e a pimenta.",
+      "Recheie a abóbora fazendo camadas alternadas de molho, muçarela e colheradas de catupiri",
+      "Leve ao forno 20 minutos antes de servir.",
+      "Acompanha arroz branco e batata palha."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CRISTIANA MENTZINGEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302570-carne-seca-na-moranga-superfacil.html"
+}

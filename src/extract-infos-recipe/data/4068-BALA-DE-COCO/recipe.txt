@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BALA DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 vidro de leite de coco (escolha um com maior teor de gordura)",
+      "1 vidro de água (do vidro de leite de coco)",
+      "1 kg de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma panela com fundo grosso.",
+      "Depois de bem misturado, leve ao fogo baixo, sem mexer. No meu fogao, eu gasto 19 minutos.",
+      "Tire o ponto da calda em uma vasilha com água fria. A calda tem que ficar quebradiça.",
+      "Despeje a massa em um mármore untado com margarina (não pode ser manteiga).",
+      "Passe margarina nas mãos e comece a puxar a bala ainda quente.",
+      "Puxe até ficar bem branquinha.",
+      "Depois, corte as balas com tesoura.",
+      "Espere as balas esfriarem e guarde em uma vasilha fechada ou em saco plástico."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ULTIMO FABIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301978-bala-de-coco.html"
+}

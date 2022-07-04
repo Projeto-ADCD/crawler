@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PIXAIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cocos grandes ralado",
+      "500 g de açúcar",
+      "1 ovo",
+      "500 g de trigo",
+      "100 g de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o trigo com a margarina, o ovo e o açúcar",
+      "Acrescente o coco ralado aos poucos e misture bem com a mão",
+      "Unte uma forma grande com margarina ou óleo.",
+      "Coloque a massa no formato de sua preferência.",
+      "Coloque no forno por cerca de 1 hora."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SIMONE DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302319-pixaim.html"
+}

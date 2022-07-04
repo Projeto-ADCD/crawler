@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO FUNCIONAL DE BANANA E MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas pequenas bem maduras",
+      "1 maçã",
+      "1/2 xícara de óleo (ou gordura de coco)",
+      "1 xícara de açúcar mascavo",
+      "3 ovos",
+      "2 xícaras de aveia fina",
+      "1 colher (sopa) fermento químico para bolo",
+      "canela a gosto",
+      "1/2 xícara de iogurte natural (ou iogurte de kefir, caspian, etc)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate no liquidificador as bananas, os ovos, o óleo, 1/2 maçã cortada bem pequena, o açúcar e bate. Depois coloca o iogurte e bate novamente",
+      "Reserva.",
+      "Numa vasilha bota a aveia, a outra metade da maçã, e se tiver nozes, castanhas, avelãs , uva passa, etc .",
+      "Misture com o líquido do liquidificador.",
+      "Depois de misturar coloque o fermento e incorpore tudo.",
+      "Bote na forma (quase não cresce) e asse por 40 minutos em forno baixo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Eu botei mais uma banana e açúcar e canela por cima pra ficar apetitoso."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAMARIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305126-bolo-funcional-de-banana-e-maca.html"
+}

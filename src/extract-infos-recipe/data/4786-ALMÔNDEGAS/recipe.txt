@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ALMÔNDEGAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne picada",
+      "2 colheres (sopa) de azeite (30 ml)",
+      "1 chávena de cebola bem picada (60 g)",
+      "1 ovo",
+      "150 g de pão ralado",
+      "sal q.b.",
+      "pimenta-preta q.b.",
+      "395 g de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a carne com o ovo, a cebola, o sal, um pouco de azeite (ou óleo) e a pimenta.",
+      "Junte pão ralado até conseguir enrolar as almôndegas.",
+      "Faça pequenas bolas.",
+      "Numa panela com um pouco de azeite, frite as almôndegas, terminando de fritar em lume alto.",
+      "Retire as almôndegas e reserve.",
+      "Noutra panela, aqueça o molho de tomate em lume brando.",
+      "Na panela das almôndegas, elimine o excesso de azeite e coloque o molho de tomate, colocando as almôndegas a cozinhar durante alguns minutos.",
+      "Cerca de 15 minutos depois, as almôndegas estarão totalmente cozidas e o prato estará pronto.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300232-almondegas.html"
+}

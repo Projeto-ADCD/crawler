@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COSTELINHA SUÍNA COM BARBECUE HEMMER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 kg de costelinha suína",
+      "1 e 1/2 xícara de barbecue",
+      "1 limão",
+      "5 dentes de alho amassado",
+      "Pimenta do reino a gosto",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Um dia antes, em um refratário com tampa, coloque a costelinha e tempere com sal, pimenta do reino, alho amassado e o limão.",
+      "Feche o refratário e deixe na geladeira por 12 horas .",
+      "Depois das 12 horas marinando, pegue uma panela com água e deixe ferver a água, adicione a costelinha e deixe ferver por 30 minutos .",
+      "Pré aqueça o forno a 180º por 10 minutos.",
+      "Coloque a costelinha na assadeira, coloque no forno e asse por cerca de 40 minutos.",
+      "Assim que ver que está assadinha, retire do forno e coloque o barbecue.",
+      "Volte ao forno por 15 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva com arroz branco e uma salada verde ."
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JULIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300308-costelinha-suina-com-barbecue-hemmer.html"
+}

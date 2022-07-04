@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BRIGADEIRO GOURMET",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "100g de chocolate meio amargo",
+      "100g de chocolate ao leite",
+      "1/2 colher de manteiga",
+      "100g de granulado (de sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela de fundo grosso, misture todos os ingrediente ante de ligar o fogo.",
+      "Ligue o fogo em temperatura mínima e vá mexendo sem parar, mas com cuidado.",
+      "Está pronto quando o brigadeiro desgrudar da panela, totalmente.",
+      "Coloque num prato e reserve 1 hora na geladeira, ou até esfriar.",
+      "Finalize fazendo bolinha e passando no granulado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica, quando mais redondinho ficar, mais bonito vai ficar seu trabalho."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "DEBORA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301517-brigadeiro-gourmet.html"
+}

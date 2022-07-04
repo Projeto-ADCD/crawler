@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela",
+      "1 abobrinha verde",
+      "1 Tomate inteiro",
+      "1 pimentão vermelho",
+      "1 cebola inteira",
+      "1 pimentão amarelo",
+      "1 brócolis não muito grande",
+      "chimichurri a gosto",
+      "sal a gosto",
+      "pimenta preta moida a gosto",
+      "1 pacote de macarrão espaguete"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinha o macarrão com sal e óleo a gosto em água fervida.",
+      "Pique todos os legumes.",
+      "Depois do macarrão pronto escoa ele e na mesma panela que foi feito o macarrão derreta a margarina/manteiga ou óleo (como preferir)",
+      "Coloque todos os legumes dentro.",
+      "Refogue-o com o sal, a pimenta preta e o chimichurri.",
+      "Feito isso, coloque o macarrão jumto com os legumes.",
+      "E está pronto.",
+      "É só se deliciar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PATYY SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305774-macarrao-com-legumes.html"
+}

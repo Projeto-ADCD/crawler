@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO MOLE DA NATI NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado",
+      "1 vidro de leite de coco",
+      "1 vidro de leite",
+      "3 ovos",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo sem fermento",
+      "2 colheres (sopa) de margarina",
+      "2 colheres de queijo coalho ou coco fresco ralado (eu prefiro queijo, dá uma quebrada no açúcar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture o açúcar no liquidificador, caso não use refinado (eu faço assim).",
+      "Após separar todos os ingredientes preaqueça o forno a 240° C (médio).",
+      "Com o açúcar já triturado, acrescente todos os outros ingredientes e bata por cerca de 2 minutos.",
+      "Como nunca compro farinha com fermento é opcional acrescentar 1 colher (chá) de fermento depois que todos os outros já foram batidos, é só usar o pulsar para dar uma misturada.",
+      "Despeje o liquido em uma forma já untada e enfarinhada (sim, fica bem líquido)",
+      "Comece com o forno médio (240° C) e após uns 40 minutos coloque no baixo (190° C).",
+      "No meu forno ficou pronto em 65 minutos, como os fornos variam bastante, após os 50 minutos é bom ficar olhando de vez enquanto para não queimar.",
+      "Nos minutos finais coloquei em fogo alto (290° C) para acelerar e dar uma douradinha.",
+      "Se for fazer o teste do palito, ele sairá um pouco grudento, afinal é um bolo mole.",
+      "Depois que apagar o fogo ele dá uma murchadinha.",
+      "Eu fiz o meu de noite e só desenformei no dia seguinte, depois de bem frio.",
+      "Esse bolo é uma delícia e não vai durar muito tempo na mesa."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATÁLIA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301461-bolo-mole-da-nati-no-liquidificador.html"
+}

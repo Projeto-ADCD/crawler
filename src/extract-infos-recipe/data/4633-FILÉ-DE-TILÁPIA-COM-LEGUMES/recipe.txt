@@ -1,0 +1,45 @@
+{
+  "nome_receita": "FILÉ DE TILÁPIA COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de filé de tilápia",
+      "4 batatas rosa médias",
+      "2 cebolas médias",
+      "2 dentes de alho",
+      "1 abobrinha italiana pequena",
+      "1 berinjela pequena",
+      "2 tomates sem pele médios",
+      "250 g de queijo mussarela em fatias",
+      "1 limão siciliano (suco)",
+      "1 colher (sopa) de manjericão desidratado",
+      "1 colher (sopa) de orégano",
+      "Azeite de oliva",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a tilápia com sal, pimenta, alho, e limão e deixe maceras pelo menos por umas duas horas.",
+      "Corte as cebolas em fatias não muito finas e coloque em uma vasilha com água quente por uns 5 minutos.",
+      "Escorra a água das cebolas e tempere-as com sal e pimenta a gosto. Reserve.",
+      "Corte a abobrinha italiana em fatias de espessura média e tempere-as com sal, pimenta e manjericão. Reserve.",
+      "Corte a berinjela em fatias não muito finas e coloque-as em uma vasilha com água e sal para tirar o gosto amargo das mesmas.",
+      "Retire as berinjelas da água e as tempere com sal, pimenta e manjericão. Reserve.",
+      "Descasque as batatas e corte-as em fatias da grossura de um dedo e coloque-as a cozinhar em água e sal por uns 5 minutos.",
+      "Não deixe as batatas cozinhar muito.",
+      "Corte os tomates em fatias finas e as tempere com sal e pimenta.",
+      "Unte um refratário fundo com azeite e distribua uma camada de cebola, por cima coloque uma camada de batata, em seguida distribua os filés de tilápia.",
+      "Cubra os filés com outra camada de cebola.",
+      "Acrescente os tomates, as berinjelas e por último as abobrinhas.",
+      "Regue tudo com um pouco de azeite e orégano.",
+      "Por cima de tudo distribua as fatias de mussarela e se quiser salpique com orégano.",
+      "Cubra o refratário com papel alumínio e leve ao forno pré-aquecido a 200 ºC por uns 30 minutos.",
+      "Após esse tempo retire o papel alumínio e deixe gratinar por mais uns 15 minutos.",
+      "Retire do forno e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300691-file-de-tilapia-com-legumes.html"
+}

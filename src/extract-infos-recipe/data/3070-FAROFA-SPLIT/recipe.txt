@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA SPLIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 bananas nanicas verdes descascadas e cortadas ao meio",
+      "500 g de farofa tradicional ",
+      "100 g de amendoim picado",
+      "400 ml de óleo de soja",
+      "1 pimentão vermelho picado",
+      "1 pimentão amarelo picado",
+      "1 pimentão verde picado",
+      "100 ml de água",
+      "16 tomates cereja",
+      "200 g de palitos de trigo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os pimentões em formato de pequenos circulos, refogue em óleo e água e reserve",
+      "Aqueça o óleo até ferver, frite as bananas e escorra em papel-toalha",
+      "Disponha as bananas fritas em uma travessa de modo que fiquem com 3 centimetros de distância uma da outra",
+      "Preencha os espaços entre as bananas com a farofa pronta tradicional ",
+      "Coloque por cima da farofa os pequenos circulos de pimentão colorido",
+      "Salpique com o amendoim picado",
+      "Faça o toque final enfeitando com os tomates cereja e espetando os palitos ",
+      "Está pronta a versão salgada da banana split"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SILVANA BLANGUE SCHLINK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303923-farofa-split.html"
+}

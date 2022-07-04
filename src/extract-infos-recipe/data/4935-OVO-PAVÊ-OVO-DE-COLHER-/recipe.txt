@@ -1,0 +1,44 @@
+{
+  "nome_receita": "OVO PAVÊ (OVO DE COLHER)",
+  "ingredientes": {
+    "CREME DE BAUNILHA:": [
+      "250 ml de leite",
+      "250 gramas creme de leite",
+      "1/2 lata leite condensado",
+      "25 gramas amido de milho",
+      "1 gema",
+      "1 colher de sopa extrato de baunilha"
+    ],
+    "GANACHE:": [
+      "1 caixa creme de leite",
+      "200 gramas chocolate meio amargo",
+      "Ingredientes montagem:",
+      "1 ovo de páscoa (você pode fazer o seu ou comprar)",
+      "biscoitos champne",
+      "leite",
+      "geleia de sua preferencia",
+      "Decoração de sua preferencia"
+    ]
+  },
+  "passos": {
+    "CREME DE BAUNILHA:": [
+      "Misture todos os ingredientes e leve ao fogo baixo, mexendo sem parar. Quando o creme engrossar, conte um minuto, mexendo bem, e então desligue o fogo.",
+      "Transfira o creme para uma tigela, cubra com plástico filme em contato e leve à geladeira até ele gelar por completo.",
+      "Na hora da montagem, retire o creme da geladeira e bata na batedeira para que ele fique aerado."
+    ],
+    "GANACHE:": [
+      "Junte o creme de leite e o chocolate e leve ao banho-maria até obter um creme homogêneo.",
+      "Espere a ganache chegar em temperatura ambiente para usá-la."
+    ],
+    "MONTAGEM:": [
+      "Cubra o fundo de cada metade de ovo de Páscoa com um pouco de creme.",
+      "Em seguida, mergulhe os biscoitos champagne no leite e arrume-os sobre o creme.",
+      "Passe uma camada de geleia e repita os passos anteriores, finalizando com uma camada de biscoito chamapgne.",
+      "Cubra o ovo com a ganache de chocolate, alisando bem. Leve à geladeira por no mínimo 2 horas e, na hora de servir, decore."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CARLA PATRICIA DO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299917-ovo-pave-ovo-de-colher.html"
+}

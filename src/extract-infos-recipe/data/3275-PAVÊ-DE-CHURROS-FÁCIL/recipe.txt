@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ DE CHURROS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 latas de leite condensado",
+      "1 lata de creme de leite",
+      "1 litro de leite",
+      "1 pacote de bolacha de leite",
+      "maisena",
+      "cereal de churros",
+      "canela em pó a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer o doce de leite, coloque para cozinhar as latas de leite condensado separadamente, por meia hora na panela de pressão com água até cobrar a lata (uns 2 dedos de água pra cima)",
+      "Após o leite condensado cozinhar (espere esfriar completamente para abrir a lata) misture com creme de leite e canela a gosto",
+      "No fogo, coloque 1 litro de leite e 1 lata de leite condensado, para fazer o creme branco, mexendo sempre para não grudar no fundo",
+      "Dilua 1 colher de maisena no leite e vá adicionando aos poucos no creme (não pare de mexer) até ele começar a engrossar"
+    ],
+    "MONTAGEM": [
+      "Molhe a bolacha no leite e faça a primeira camada em um refratário de vidro grande",
+      "Em seguida coloque o doce de leite, novamente a bolacha, depois o creme branco, bolacha, doce de leite e finalizar com o cereal de churros e polvilhar canela por cima",
+      "Servir gelado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MAYARA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303624-pave-de-churros-facil.html"
+}

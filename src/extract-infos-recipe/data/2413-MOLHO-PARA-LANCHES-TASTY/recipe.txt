@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOLHO PARA LANCHES TASTY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de maionese",
+      "2 pepinos em conserva (picles)",
+      "2 colheres (chá) de vinagre branco",
+      "2 colheres (chá) de açúcar",
+      "3 pitadas de sal",
+      "2 colheres (sopa) de cebola picada",
+      "1 colheres (sopa) de mostarda",
+      "1 colheres (sopa) de molho inglês",
+      "2 colheres (sopa) de ketchup",
+      "1/2  dente de alho",
+      "1/2 limão",
+      "3 colheres (sopa) de óleo",
+      "2 colheres (sopa) de páprica doce",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Até chegar no estado desejado"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EDGAR GIARDINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305272-molho-para-lanches-tasty.html"
+}

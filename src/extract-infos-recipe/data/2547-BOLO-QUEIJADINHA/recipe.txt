@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO QUEIJADINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "3 ovos inteiros",
+      "1 copo de leite integral (equivale a 250 g)",
+      "1 copo de trigo (equivale a 250 g)",
+      "1 garrafa de leite de coco (200 ml)",
+      "1/2 xícara de açúcar",
+      "3 colheres (sopa) de margarina",
+      "1 colher de sopa de fermento químico",
+      "1 pacote de coco ralado (50 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por uns 3 minutos, exceto o fermento que deve ser colocado depois e batido rapidamente ",
+      "Depois coloque em uma forma de buraco untada e enfarinhada.",
+      "Preaqueça o forno por 10 minutos, coloque o bolo e deixe por aproximadamente 35 minutos (depende do forno de cada um)",
+      "Após esse tempo, faça o teste do palito para ver se saiu seco.",
+      "Se sair seco está bom.",
+      "Obs: a textura desse bolo fica diferente dos bolos normais, fica como um pudim."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIA LÚCIA A. SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304970-bolo-queijadinha.html"
+}

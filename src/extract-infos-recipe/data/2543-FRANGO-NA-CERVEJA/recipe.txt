@@ -1,0 +1,44 @@
+{
+  "nome_receita": "FRANGO NA CERVEJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 coxas de frango",
+      "4 sobre-coxas de frango",
+      "1 colher (sopa) de mostarda",
+      "5 dentes de alho amassados",
+      "2 cebolas grandes picadas",
+      "4 colheres (sopa) de maionese",
+      "1/2 xícara (chá) de vinagre branco",
+      "1 colher (sopa) de orégano",
+      "1 colher (sopa) de ervas-finas",
+      "1 lata de cerveja branca",
+      "12 batatas pequenas redondas sem casca",
+      "manteiga para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela funda misture a mostarda, os alhos amassados, as cebolas picadas, a maionese, o vinagre branco, o orégano e as ervas-finas.",
+      "Acrescente sal e pimenta na mistura, a gosto.",
+      "Passe esta mistura nas coxas e sobrecoxas de frango.",
+      "Leva o frango temperado ao refrigerador e deixe marinar de um dia para o outro.",
+      "Em uma panela com água e sal cozinhe as batatas por uns 7 minutos, contados depois de ferver a água.",
+      "Elas não devem ficar cozidas.",
+      "Unte uma forma refratária com a manteiga e distribua os pedaços de frango.",
+      "Lembre-se de colocar o frango com a pele virada para baixo.",
+      "Por cima coloque o molho da marinada e a cerveja.",
+      "Distribua as batatas semi-cozidas entre os pedaços de frango.",
+      "Leve ao forno pré-aquecido em temperatura alta por uns 35 minutos.",
+      "Retire o refratário do forno e com o auxílio de uma concha retire o excesso de líquido que vai se formar.",
+      "Reserve este líquido.",
+      "Vire os pedaços de frango e as batatas e coloque novamente o refratário no forno.",
+      "Deixe cozinhar por mais uns 35 minutos ou até a pele do frango dourar.",
+      "Com o líquido reservado do cozimento você pode usar para fazer um pirão para acompanhar o frango.",
+      "Sirva o frango com o pirão e uma boa massa com molho vermelho."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304979-frango-na-cerveja.html"
+}

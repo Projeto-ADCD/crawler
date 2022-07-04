@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE UVA COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de uva congelada",
+      "1 pacote de morango congelado",
+      "600 ml de água",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a àgua no liquitificador",
+      "Coloque os morangos no liquitificador e misture",
+      "Logo depois acrecente as uvas e misture",
+      "Se quiser acrecente o açucar e bata no liquitificador para misturar"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BIA UCHOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304425-suco-de-uva-com-morango.html"
+}

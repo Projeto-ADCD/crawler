@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE HAMBÚRGUER DA GABRIELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 copo (americano) de óleo de soja",
+      "6 colheres (sopa) de açúcar",
+      "3 copos (americano) de leite",
+      "2 colheres (sopa) de fermento biológico seco",
+      "1 colher (sopa) de sal",
+      "1 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o óleo de soja, o açúcar, o leite e o fermento no liquidificador em velocidade baixa por 3 minutos.",
+      "Transfira a mistura para uma recipiente e acrescente a farinha aos poucos e o sal.",
+      "Mexa com uma colher de pau",
+      "Acrescente a farinha até dar o ponto, sem grudar nas mãos",
+      "Deixe descansar, coberto com um pano, por 1 hora e 30 minutos",
+      "Modele os pães e deixar descansar por mais 1 hora",
+      "Asse em forno preaquecido a 180° C por aproximadamente 30 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300950-pao-de-hamburguer-da-gabriela.html"
+}

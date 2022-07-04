@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FILÉ DE TILÁPIA AO BALSÂMICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cortes de filé de tilápia ",
+      "vinagre balsâmico",
+      "2 colheres (sobremesa) pimenta biquinho  ",
+      "4 azeitonas verdes recheadas ",
+      "gergelim a gosto",
+      "1 cenoura orgânica pequena",
+      "1 colher (sobremesa) ramas de cenoura ",
+      "manjericão ou salsa a gosto",
+      "2 colheres (sopa) rasas de manteiga",
+      "2 colheres (sopa) rasas de cebola desidratada "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga na frigideira e deixe derreter um pouco",
+      "Acrescente a cebola desidratada e deixe dourar ",
+      "Corte a cenoura em tiras e acrescente e deixe tostar um pouco",
+      "Acrescente as azeitonas picadas em rodelas e misture bem",
+      "Tempere as tilápias com sal e pimenta do reino e acrescente os files na frigideira em cima do refogado de cenoura e cebola desidratada.",
+      "Deixe a tilápia crostar um pouco na manteiga e refogado e acrescente o vinagre balsâmico (2 giros da garrafa sobre a frigideira)",
+      "Acrescente o restante dos ingredientes (gergelim sobre as tilápias e ramos de cenoura cortados, pimenta biquinho e manjericão ou salsa)",
+      "Deixe no fogo baixo por uns minutos até perceber que a tilápia está branquinha e macia",
+      "Vire as tilápias pra que encroste os ingredientes e pegue sabor dos dois lados",
+      "Tampe a frigideira e deixe por mais alguns minutos até que o peixe atinja o ponto desejado e sirva à seguir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JORDANA MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301218-file-de-tilapia-ao-balsamico.html"
+}

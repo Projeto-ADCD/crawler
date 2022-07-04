@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PATÊ DE ATUM TEMPERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de maionese ",
+      "2 colheres de creme de leite",
+      "1/2 pimentão amarelo picado",
+      "1 lata de atum",
+      "3 cebolinhas picadas",
+      "1/2 tomate picado",
+      "orégano a gosto",
+      "pimenta a gosto",
+      "sal a gosto",
+      "tempero pronto a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes em uma tigela/vasilha e mexa até ficarem bem misturados",
+      "Está pronto, bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIA SALES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303512-pate-de-atum-temperado.html"
+}

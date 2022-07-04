@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BOLINHAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 barras de chocolates",
+      "2 colheres (sopa) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta as barras de chocolate em banho-maria",
+      "Depois coloque as 2 colheres de creme de leite",
+      "Depois faça pequenas bolinhas",
+      "Depois coloque na geladeira por 5 minutos"
+    ]
+  },
+  "tempo_de_preparo": "9 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JHENI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300995-bolinhas-de-chocolate.html"
+}

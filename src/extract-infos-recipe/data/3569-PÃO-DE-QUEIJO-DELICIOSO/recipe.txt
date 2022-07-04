@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce",
+      "100 g de queijo ralado",
+      "220 ml de leite",
+      "110 ml de água",
+      "110 ml de óleo",
+      "1 colher (café) de sal",
+      "2 ovos médios"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa travessa reserve o polvilho doce",
+      "Ferva o leite, a água, o óleo e o sal",
+      "Quando levantar fervura jogue imediatamente sobre o polvilho e vá mexendo bem",
+      "A seguir jogue os 2 ovos batidos previamente e incorpore à massa",
+      "Acrescente o queijo ralado, mexa bem até conseguir sovar um pouquinho com as mãos (a massa solta das mãos",
+      "Unte uma forma com óleo, vá fazendo as bolinhas e acomodando na forma deixando espaço entre as bolinhas",
+      "Leve ao forno pré-aquecido à 180°C por mais ou menos 25 minutos (varia de forno pra forno)"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "34 PORÇÕES",
+  "autor": "VALQUÍRIA SAPATA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303120-pao-de-queijo-delicioso.html"
+}

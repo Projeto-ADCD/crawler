@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE GELATINA REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gelatina de sua preferência",
+      "4 colheres (sopa) de açúcar",
+      "1 litro de água gelada",
+      "1 xícara (café) de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloca para esquentar uma xícara (café) de água para ferver por aproximadamente 2 minutos",
+      "Coloque a gelatina de sua escolha na água quente e mexa até ficar dissolvida",
+      "Após dissolver, coloque 1 litro de água gelada, continue a mexer por 1 minuto",
+      "Coloque tudo na garrafa, sirva-se e aproveite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JOÃO VICTOR ALMEIDA LUNARDINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303714-suco-de-gelatina-refrescante.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SUPER CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de leite",
+      "1/2 caixinha de creme de leite",
+      "2 colheres (sopa) de achocolatado",
+      "2 colheres (sopa) de açúcar",
+      "1 colher de café de amido de milho",
+      "Canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos ingredientes, menos o creme de leite.",
+      "Quando ferver, desligue e acrescente o creme de leite.",
+      "Agora é só servir."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "DANNY KITTY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300401-chocolate-quente-super-cremoso.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLO CAPPUCCINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de trigo",
+      "1 xícara (chá) de açúcar",
+      "3 ovos",
+      "3 colheres (sopa) de chocolate em pó",
+      "1/2 xícara (chá) de óleo",
+      "1 xícara (chá) de leite",
+      "1 colher (sobremesa) de café solúvel",
+      "1 colher (café) canela",
+      "1 colher (sopa) de fermento",
+      "Calda",
+      "1 xícara de café sem açúcar",
+      "1 colher (café) de canela em pó",
+      "2 colheres (sopa) de chocolate em pó",
+      "açúcar a gosto",
+      "Cobertura",
+      "1 caixinha de creme de leite",
+      "300 g de chocolate ao leite (ou 3 colheres (sopa) de Nutella)",
+      "1 colher (café) de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma colher de pau, misture todos os ingredientes",
+      "Coloque em uma forma untada e enfarinhada, leve para assar em forno pré-aquecido a 180° de 30 a 40 minutos"
+    ],
+    "CALDA": [
+      "Misture tudo e reserve",
+      "Despeje no bolo depois de assado"
+    ],
+    "COBERTURA": [
+      "Prepare a ganache com o creme de leite e o chocolate (ou esquente um pouco a Nutella e misture com o creme de leite)",
+      "Acrescente a canela e reserve",
+      "Coloque no bolo depois de frio"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "ANANDA MAYA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303260-bolo-cappuccino.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE QUEIJO COM GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 xícara (chá) de leite",
+      "1/2 xícara (chá) de óleo",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1 xícara (chá) de fubá",
+      "1/2 xícara (chá) de queijo parmesão ralado",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1 xícara (chá) de goiabada picada",
+      "Óleo e farinha de trigo para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos, o leite, o óleo, o açúcar, o fubá e o queijo até ficar homogêneo.",
+      "Despeje em uma vasilha, adicione a farinha, o fermento e misture bem.",
+      "Despeje a massa em uma forma de 24 cm de diâmetro untada e enfarinhada e espalhe a goiabada picada por cima.",
+      "Leve ao forno médio, preaquecido, por 30 minutos ou até assar e dourar.",
+      "Retire, deixe amornar e desenforme.",
+      "Pode cobrir com goiabada cremosa e requeijão cremoso."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROSANGELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300272-bolo-de-queijo-com-goiabada.html"
+}

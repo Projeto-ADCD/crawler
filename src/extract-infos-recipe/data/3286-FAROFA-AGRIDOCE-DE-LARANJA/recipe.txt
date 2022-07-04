@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de mandioca torrada ",
+      "1 xícara (chá) de suco de laranja",
+      "1 tablete de caldo de bacon",
+      "1/2 cebola picadinha",
+      "1 colher (sobremesa) de açúcar",
+      "1/2 xícara (chá) de cheiro verde picadinho",
+      "1/4 de xícara de óleo para fritar a cebola",
+      "1/2 xícara de uva passa (opcional)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a cebola no óleo, junte o cheiro verde esfarele o caldo de bacon misture na fritura, junte o suco de laranja",
+      "Mexa e deixe o caldo dissolver bem",
+      "Ainda no fogo deixe o suco de laranja quase secar e junte as uvas passas",
+      "Espere secar o caldo e desligue o fogo (deve secar bem senão a farinha vira um grude)",
+      "Espere amornar, misture a farinha de mandioca e junte o sal",
+      "O sal não deve prevalecer muito, deve ficar levemente adocicada com sabor de laranja"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ótima para acompanhar churrascos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELIZABETE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303608-farofa-agridoce-de-laranja.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM DA GABY",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "1 caixa de creme de leite",
+      "2 colheres (sopa) de amido de milho",
+      "30 g de chocolate ao leite",
+      "2 colheres (sopa) de doce de leite",
+      "1 caixa de pudim de coco",
+      "opcional: wafer para decorar ou raspas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela ou leiteira, coloque os 500 ml de leite e o pudim.",
+      "Leve ao fogo mexendo sempre para não embolar.",
+      "Quando iniciar a fervura e borbulhar abaixe o fogo.",
+      "Em uma vasilha, mexa até dissolver o creme de leite e o amido de milho frio",
+      "Quando não tiver mais bolinhas, misture na panela com o pudim e acrecentar o doce de leite e o chocolate então cozinhe até virar um creme consistente,quando comecar a borbulhar está pronto.",
+      "Em uma xícara ou taça, coloque o pudim",
+      "Decore com wafer e sirva",
+      "Pode beber ou comer com colher."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KUMA HOWAITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305966-pudim-da-gaby.html"
+}

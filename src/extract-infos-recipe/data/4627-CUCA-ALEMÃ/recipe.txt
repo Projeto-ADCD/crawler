@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CUCA ALEMÃ",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "1 xícara de óleo",
+      "1 xícara de açúcar",
+      "2 xícara de farinha de trigo",
+      "2 maçã picada",
+      "1/2 xícara de uva passas",
+      "1/2 xícara de frutas cristalizadas",
+      "1 colher de canela em pó",
+      "1 colher fermento em pó"
+    ],
+    "COBERTURA": [
+      "1 xícara de farinha de trigo",
+      "1 xícara de açucar",
+      "2 colher de manteiga gelada"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata no liquidificador o óleo, ovos e as maçãs.",
+      "Em um recepiente, coloque o liquido batido e acrescente restante dos ingredientes",
+      "Misture tudo."
+    ],
+    "COBERTURA": [
+      "Misture a farinha com o açúcar.",
+      "Coloque a manteiga.",
+      "Com as mãos, vá misturando até ficar uma farofa.",
+      "Em uma assadeira untada, coloque a massa.",
+      "Polvilhe a farofa por cima.",
+      "Leve ao forno 50 minutos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "-6 PORÇÕES",
+  "autor": "SERGIO COELHO RECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300704-cuca-alema.html"
+}

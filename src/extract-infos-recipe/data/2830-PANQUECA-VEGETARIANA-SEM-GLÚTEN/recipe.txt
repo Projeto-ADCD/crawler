@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PANQUECA VEGETARIANA SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 ovo",
+      "1 xícara de leite",
+      "1 xícara de farinha de arroz",
+      "1 pitada de sal",
+      "1 colher (sopa) de cebola picada",
+      "1 colher (sopa) de óleo de girassol",
+      "2 colheres (sopa) de polvilho doce",
+      "Recheio",
+      "1/2 lata de ervilha",
+      "1 cenoura ralada",
+      "1/2 cebola",
+      "óleo",
+      "sal",
+      "2 colheres (sopa) de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate bem os ingredientes da massa no liquidificador",
+      "Coloque a massa cuidadosamente numa frigideira teflon untada com óleo",
+      "Deixe em fogo médio e assim que as bordas começarem a soltar, vire com uma espátula",
+      "Para o recheio, doure bem a cebola em outra frigideira e depois coloque a cenoura ralada já temperada com sal",
+      "Coloque dois dedinhos de água pra ajudar a cozinhar e tampe",
+      "Depois junte na cenoura a ervilha e deixe esquentar",
+      "Após isso, coloque o requeijão na cenoura",
+      "Recheie as panquecas e se quiser coloque por cima molho de tomate com parmesão",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: quem for vegano é só não usar o requeijão e substituir o leite da massa por água ou leite vegetal\nSe usar água, bote bastante cebola"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "HELLEN ARANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304323-panqueca-vegetariana-sem-gluten.html"
+}

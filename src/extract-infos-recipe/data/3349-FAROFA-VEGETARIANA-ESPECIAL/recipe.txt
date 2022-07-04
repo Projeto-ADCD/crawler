@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA VEGETARIANA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de gergelim torrado",
+      "100 g de linhaça torrada",
+      "250 g de proteína da soja grossa",
+      "500 g de farofa pronta",
+      "30 g de creme de cebola",
+      "5 colheres (sopa) de azeite ou banha",
+      "Sal (se necessário)",
+      "manjericão, orégano ou manjerona (o que preferir, mas usar só um tipo)",
+      "250 g de batata palha fina",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, em fogo baixo, torrar o gergelim, a linhaça e reservar",
+      "Coloque o azeite ou banha, acrescente a proteína da soja com o creme de cebola, mexendo sempre, até que a proteína fique crocante",
+      "Misture a farofa pronta tradicional e deixe dourar mais um pouco, colocando o manjericão, orégano ou manjerona (o que preferir), se estiver in natura melhor",
+      "Desligue a panela, misture a batata palha fina e acerte o sal, se necessário",
+      "Dá um toque especial nos pratos de Natal e fim de ano, juntamente com figos ou pêssegos em calda"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELENI SALETE SEIFFERT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303522-farofa-vegetariana-especial.html"
+}

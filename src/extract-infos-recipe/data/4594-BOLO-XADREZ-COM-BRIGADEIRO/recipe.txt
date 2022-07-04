@@ -1,0 +1,65 @@
+{
+  "nome_receita": "BOLO XADREZ COM BRIGADEIRO",
+  "ingredientes": {
+    "BOLO BRANCO:": [
+      "3 ovos",
+      "1+ 1/2 xícara de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "2 + 1/2 xícara de farinha de trigo",
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento"
+    ],
+    "BOLO DE CHOCOLATE:": [
+      "3 ovos",
+      "1+ 1/2 xícara de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de leite",
+      "1/2 xícara de chocolate em pó",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "BRIGADEIRO:": [
+      "2 colheres (sopa) de manteiga ",
+      "2 latas de leite condensado",
+      "4 colheres (sopa) de chocolate em pó",
+      "1 caixa de creme de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "BOLO BRANCO:": [
+      "Em uma batedeira, bata bem os ovos, o açúcar e a manteiga.",
+      "Adicione a farinha de trigo, o leite e o fermento. ",
+      "Misture com a ajuda de um fouet.",
+      "Transfira para uma forma quadrada (30 x 20 cm) untada e polvilhada.",
+      "Leve ao forno preaquecido (180° C) por cerca de 30 minutos. "
+    ],
+    "BOLO DE CHOCOLATE:": [
+      "Em uma batedeira, bata bem os ovos, o açúcar e a manteiga.",
+      "Adicione a farinha de trigo, o chocolate em pó, o leite e o fermento. ",
+      "Misture com a ajuda de um fouet.",
+      "Transfira para uma forma quadrada (30 x 20 cm) untada e polvilhada.",
+      "Leve ao forno preaquecido (180° C) por cerca de 30 minutos. "
+    ],
+    "BRIGADEIRO:": [
+      "Em uma panela, adicione a manteiga, o leite condensado e o chocolate em pó.",
+      "Mexa em fogo baixo até ponto de brigadeiro mole. ",
+      "Acrescente o creme de leite e mexa bem. ",
+      "Deixe esfriar. "
+    ],
+    "MONTAGEM:": [
+      "Monte o seu bolo com o auxílio de um aro de 30 x 20 cm.",
+      "Corte os dois bolos em tiras. ",
+      "Dentro do aro, posicione a primeira tira de bolo branco.",
+      "Cole com brigadeiro uma tira de bolo de chocolate ao lado e siga alternando até terminar. ",
+      "Passe uma camada de brigadeiro sobre essa primeira camada.",
+      "Repita o processo de colar as tiras de bolo, mas lembre-se de, agora, começar com a tira de bolo de chocolate.",
+      "Assim que terminar, retire o aro e cubra todo o bolo com o brigadeiro restante. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300777-bolo-xadrez-com-brigadeiro.html"
+}

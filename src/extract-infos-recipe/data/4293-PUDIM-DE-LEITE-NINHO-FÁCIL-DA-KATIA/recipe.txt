@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PUDIM DE LEITE NINHO FÁCIL DA KATIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "1/2 xícara de açúcar ",
+      "Pudim",
+      "1 lata de leite condensado ",
+      "1 caixa de creme de leite ",
+      "9 colheres (sopa) de leite ninho ",
+      "3 ovos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Coloque o açúcar na panela de pudim, depois leve ao fogo e espere derrete o açúcar, reserve.",
+      "Pudim",
+      "Bata os ingredientes no liquidificador depois coloque na panela reservada ",
+      "Depois coloque a panela de pudim no banho-maria e deixe cozinhar",
+      "Quando estiver cozido, espere esfriar e desenforme ",
+      "Depois deixe um pouco na geladeira e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KATIA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301432-pudim-de-leite-ninho-facil-da-katia.html"
+}

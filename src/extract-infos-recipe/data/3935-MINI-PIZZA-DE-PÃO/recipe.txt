@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MINI PIZZA DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fatia de pão",
+      "2 fatias de queijo",
+      "2 colheres (sopa) de ketchup",
+      "1 fatia de tomate",
+      "1 pitada de orégano",
+      "2 calabresas fatiadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No pão, adicione o ketchup e logo depois adicione o queijo e o orégano sobre ele ",
+      "Depois junte o tomate no pão e a calabresa",
+      "Em seguida, coloque em um prato resistente e leve ao micro-ondas por 1 minuto e 30 segundos",
+      "Depois disso, sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOAO PEDRO LINDOLFO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302339-mini-pizza-de-pao.html"
+}

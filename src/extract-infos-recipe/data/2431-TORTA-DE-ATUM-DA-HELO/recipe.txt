@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE ATUM DA HELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola",
+      "1 lata de ervilha",
+      "2 latas de atum",
+      "1 lata de ervilha",
+      "2 tomates",
+      "1/2 copo de óleo",
+      "1 lata de milho",
+      "1 colher (sopa) de fermento",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma",
+      "Pique bem a cebola e o tomate",
+      "Coloque em uma tigela o atum, a cebola, o tomate, o leite, a farinha, a ervilha (tire a água primeiro) e o milho (tire a água primeiro)",
+      "Preaqueça o forno 280º C",
+      "Coloque o fermento e mexa tudo por 5 minutos ou bata no liquidificador",
+      "Pronto, coloque para assar no forno por 45 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305237-torta-de-atum-da-helo.html"
+}

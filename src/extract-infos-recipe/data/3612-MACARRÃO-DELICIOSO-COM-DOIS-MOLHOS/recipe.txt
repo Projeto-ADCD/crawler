@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MACARRÃO DELICIOSO COM DOIS MOLHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ninhos de macarrão talharim",
+      "1 dente de alho",
+      "1/2 cebola",
+      "bacon ralado",
+      "balabresa ralada a gosto",
+      "orégano",
+      "pimenta calabresa a gosto",
+      "sal a gosto",
+      "100 g de frango desfiado",
+      "100 g de queijo",
+      "50 g de presunto",
+      "coentro a gosto",
+      "milho a gosto",
+      "1 sachê de molho de tomate ",
+      "1 sachê de molho branco",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão e reserve",
+      "Numa panela funda acrescente o azeite, o bacon, a calabresa, a cebola e alho frite até dourar",
+      "Acrescente o frango, o queijo e presunto e mexa até que o queijo derreta",
+      "Logo após acrescente os molhos, o milho, o orégano, sal e a pimenta calabresa",
+      "Acrescente o coentro deixe ferver e sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ALINE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303046-macarrao-delicioso-com-dois-molhos.html"
+}

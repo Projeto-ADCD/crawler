@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DE CARNE MOÍDA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída (patinho de preferência)",
+      "300 g de farinha biju branca",
+      "suco de 2 limões pequenos",
+      "3 dentes de alho ralado ou picadinhos",
+      "1 cebola média ralada",
+      "azeitonas verdes picadas a gosto",
+      "óleo",
+      "1 colher (café) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a carne juntamente com o alho e a cebola, frite bem",
+      "Após, acrecente o sal, as azeitonas e a farinha aos poucos, deixando a farofa úmida",
+      "Em seguida, junte as cebolinhas e salsichas picadinhas e por último o suco do limão",
+      "Sirva com churrasco, arroz branco e salada verde."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DIANA APARECIDA DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303916-farofa-de-carne-moida-simples.html"
+}

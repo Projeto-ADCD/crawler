@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MORANGUINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "1 caixinha de gelatina de morango",
+      "açúcar de cristal",
+      "folhinhas de manjericão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite condensado, a manteiga, a gelatina e mexa até ponto de brigadeiro. ",
+      "Retire do fogo e deixe esfriar.",
+      "Enrole no formato de um morango, passe no açúcar cristal e decore com as folhinhas de manjericão."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305728-moranguinho.html"
+}

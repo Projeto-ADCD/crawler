@@ -1,0 +1,54 @@
+{
+  "nome_receita": "PERNIL SUÍNO À LA VANIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pernil suíno de 7 a 10 kg",
+      "5 cebolas grandes cortadas em rodelas",
+      "10 dentes de alho amassados com sal a gosto",
+      "1 copo de vinho tinto seco (100 ml)",
+      "2 limões",
+      "1 abacaxi picadinho",
+      "50 ml de barbecue",
+      "1 pimentão vermelho picadinho",
+      "1 pimentão amarelo picadinho",
+      "1 pimentão verde picadinho",
+      "15 pimentas biquinho",
+      "pimenta calabresa a gosto",
+      "pimenta-do-reino e sal a gosto",
+      "1 maço de salsa picadinha",
+      "1 maço de cebolinha picadinha",
+      "1 pacote de farofa mexicana Yoki",
+      "500 de farinha",
+      "200 g de frutas cristalizadas",
+      "50 ml de óleo",
+      "100 ml de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o pernil 3 dias antes com o alho amassado, o vinho vinho, o suco dos limões, metade do abacaxi, o barbecue, a pimenta calabresa, a pimenta-do-reino, o sal e 50 ml do azeite. ",
+      "Coloque em um saco e vire uma vez ao dia",
+      "Espalhe as cebolas em um tabuleiro de alumínio e coloque o pernil",
+      "Regue com 50 ml de óleo e os 50 ml de azeite.",
+      "Feche tudo com papel-alumínio e asse por de 1 hora e 30 minutos a 2 horas em uma temperatura de 180° C",
+      "Retire do forno e retire o papel-alumínio",
+      "Acrescente os pimentões, as pimentas biquinho, revirando umas cebola e o óleo por cima",
+      "Volte ao forno por mais ou menos 1 hora para assar e dourar o pernil, sem o papel-alumínio",
+      "Retire do forno e salpique um pouco de salsa e cebolinha",
+      "Confira o ponto e volte por mais 10 minutos para dar o toque final.",
+      "Retirar do forno e retire o pernil do tabuleiro",
+      "Coloque o pernil na travessa final",
+      "Leve o tabuleiro ao fogo médio e junte o restante do abacaxi, as frutas cristalizadas, a salsa e a cebolinha",
+      "Acrescente a farofa mexicana Yoki e as 300 g de farinha",
+      "Mexa e veja o ponto do sal, se precisar, acrescentar o restante da farinha",
+      "Coloque na travessa ao lado do pernil e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Mariavania Fabricio de Oliveira"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303780-pernil-suino-a-la-vania.html"
+}

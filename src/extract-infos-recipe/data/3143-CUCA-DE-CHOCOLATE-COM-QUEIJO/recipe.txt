@@ -1,0 +1,50 @@
+{
+  "nome_receita": "CUCA DE CHOCOLATE COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo ",
+      "50 g de açúcar",
+      "10 g sal",
+      "4 ovos ",
+      "130 g de manteiga",
+      "10 g fermento seco",
+      "300 ml de água"
+    ],
+    "COBERTURA (FAROFA)": [
+      "50 g de açúcar",
+      "50 g de fubá",
+      "50 g de farinha de trigo",
+      "50 g margarina",
+      "canela (opcional)"
+    ],
+    "RECHEIO": [
+      "500 g de queijo mussarela mas pode ser outro de sua preferência",
+      "300 g de chocolate ao leite ou meio amargo "
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em uma vasilha grande adicione a água, o açúcar, o sal, a manteiga, os ovos e o fermento seco, misture bem",
+      "Acrecente a farinha de trigo aos poucos e vai mexendo",
+      "Quando não der para mexer, coloque a sua massa em uma bancada enfarinhada e sove por aproximadamente 15 minutos ou até que ela fique lisinha e enxuta",
+      "Agora coloque sua massa em uma vazilha e cubra com um pano e leve sua massa para descansar por uns 20 minutos",
+      "Depois que a massa descansou, vamos rechear nossa cuca",
+      "Em uma bancada, divida a sua massa no tamanho desejado da sua cuca (eu corto com 350 g a 450 g para ficar um tamanho bom)",
+      "Abra sua massa não muito fina nem muito grossa",
+      "Depois de aberta a sua massa coloque o queijo mussarela (você pode usar outros queijos) e  em cima do queijo coloque o chocolate, você pode colocar o chocolate derretido ou em pedaços",
+      "Agora enrole sua massa sempre fechando as pontas pra não vazar",
+      "Coloque seu pão em uma forma, leve para descansar por aproximadamente uns 30 a 40 minutos (depende do calor onde você mora)",
+      "Depois que a massa crescer coloque a farofinha por cima e leve para assar em forno preaquecido a 180°C por uns 30 a 45 minutos dependendo do seu forno"
+    ],
+    "FAROFA:": [
+      "Adicione tudo em uma vasilha e misture até fica uma farofa úmida"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Bruno "
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303819-cuca-de-chocolate-com-queijo.html"
+}

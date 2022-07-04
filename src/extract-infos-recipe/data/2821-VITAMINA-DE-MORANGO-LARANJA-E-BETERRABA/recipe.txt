@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE MORANGO, LARANJA E BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de suco de laranja",
+      "6 morangos",
+      "1 colher (sopa) de beterraba picada",
+      "4 colheres (sopa) de neston 3 cereais "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304354-vitamina-de-morango-laranja-e-beterraba.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO CHINÊS TRÊS XÍCARAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 sobrecoxas de frango desossadas",
+      "7 dentes de alho fresco",
+      "50g gengibre fresco",
+      "pimenta dedo de moça a gosto",
+      "3/4 xícara de manjericão fresco",
+      "30ml de cachaça",
+      "30ml de molho de soja (shoyu)",
+      "30ml de óleo de gergelim torrado",
+      "1 e 1/2 colher (sopa) de açúcar mascavo",
+      "2 colher (sopa) de óleo vegetal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a sobrecoxa com sal ou tempero da sua preferência.",
+      "Depois, sele o frango em uma frigideira até ficar dourado. Em outra panela, coloque óleo de gergelim e açúcar mascavo.",
+      "Mexa até dissolver, depois coloque o gengibre, alho e pimenta dedo de moça.",
+      "Após 1 minuto, adicione o frango reservado, o molho shoyu e a cachaça até diminuir o líquido.",
+      "Por último, adicione manjericão fresco e tampe a panela por 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TAINARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301728-frango-chines-tres-xicaras.html"
+}

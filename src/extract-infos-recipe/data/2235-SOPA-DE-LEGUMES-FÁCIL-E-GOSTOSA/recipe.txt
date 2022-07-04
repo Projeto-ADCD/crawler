@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SOPA DE LEGUMES FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pimentas de cheiro picadas",
+      "3 dentes de alho picados",
+      "coentro a gosto picado",
+      "3 batatas inglesas médias cortadas em pedaços grandes",
+      "Obs: deixando as batatas em pedaços grandes ela ficam firmes depois do cozimento",
+      "1 banda de pimentão grande em pedaços grosseiros",
+      "2 tomates pequenas cortadas em pedaços grosseiros",
+      "2 cebolas picadas em pedaços grosseiros",
+      "Obs: gosto mais da cebola roxa",
+      "1 metade de um chuchu cortado em pedaços grosseiros",
+      "1 cenoura grande cortada em rodelas",
+      "Obs: faz uma rodelinha mais grossa pas ela ficar mais firme",
+      "2 caldos de tempero para quem gosta (qualquer sabor)",
+      "1 pitada de sal a gosto",
+      "1 colherzinha (chá) de açafrão",
+      "1 colher (chá) de coloral",
+      "1 colher (chá) de tempero",
+      "1 colherzinha de óleo (ou azeite)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aqueça o óleo em fogo baixo e adicione o alho até dourar.",
+      "Quando o alho estiver dourado acrescente todos os outros legumes e todos os tempeiros.",
+      "Espere dois minutos e adicione 1 litro de água.",
+      "Coloque uma colher de vinagre e coloque os dois cubos de tempero",
+      "Agora coloque em fogo alto, tampe a panela e deixe cozinhar por cerca de 20 minutos",
+      "Depois dos 20 minutos acrescente o macarrão de sua escolha a gosto e espere mais 10 minutos",
+      "Desligue a panela.",
+      "Sirva em seguida obs: eu coloco um pouco de coentro"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BRUNO VIEGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305651-sopa-de-legumes-facil-e-gostosa.html"
+}

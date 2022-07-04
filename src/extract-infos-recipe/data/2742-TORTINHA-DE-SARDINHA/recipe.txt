@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTINHA DE SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "1 e 1/2 xícara de óleo de soja",
+      "3 ovos inteiros",
+      "1 pacote de 50 g de queijo ralado",
+      "1 colher (chá) de sal",
+      "500 g de farinha de trigo peneirada",
+      "2 colheres (sopa) de fermento",
+      "3 latas de sardinhas",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "cheiro-verde",
+      "azeitona picada",
+      "1/2 pimentão verde picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Em uma panela coloque 2 colheres (sopa) de óleo deixe esquentar, adicione a cebola e o alho refogue bem",
+      "Adicione a sardinha a azeitona e o pimentão misture bem (não necessita por sal porque a sardinha e a azeitona já contém sal)",
+      "Por último, adicione o cheiro-verde a gosto",
+      "Tampe a panela e deixe esfriar.",
+      "Massa",
+      "Bata no liquidificador os ovos, o óleo, o leite, o sal por durante 3 minutos até obter uma mistura homogênea",
+      "Depois adicione aos poucos a farinha de trigo e vá batendo até obter tipo um creme",
+      "Logo depois desligue o liquidificador e adicione o queijo ralado e o fermento",
+      "Misture bem com uma colher",
+      "Em uma forma untada com óleo e trigo despeje um pouco da massa",
+      "Depois coloque o recheio e cubra-o com a massa",
+      "Polvilhe um pouco de orégano por cima, coloque no forno preaquecido por 10 minutos a 180° C",
+      "Deixe assar por 30 a 40 minutos depois desligue o forno e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRUNO PRADO MARIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304538-tortinha-de-sardinha.html"
+}

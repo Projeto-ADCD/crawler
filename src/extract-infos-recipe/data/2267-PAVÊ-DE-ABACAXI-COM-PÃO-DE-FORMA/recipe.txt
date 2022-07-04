@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI COM PÃO DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi",
+      "2 xicaras de açúcar",
+      "1/2 pacote de pão de forma",
+      "2 barras de chocolate de sua preferência",
+      "2 caixas de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o abacaxi em cubos",
+      "Leve ao fogo medio o acabaxi e o açúcar e deixe ferver até engrossar",
+      "Forre sua forma com o pão de forma e em seguida coleque seu doce de acabaxi",
+      "Derreta as barras de chocolate com creme de leite e cubra o doce",
+      "Leve à geladeira até esfriar "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "NAWYNE MENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305594-pave-de-abacaxi-com-pao-de-forma.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "OMELETE DE FORNO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "5 colheres (sopa) farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 copo de leite",
+      "300 g de presunto picadinho",
+      "1 cebola média picada",
+      "1 tomate sem semente picado",
+      "alho, orégano, cheiro-verde, pimenta e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, junte a farinha, o fermento e o leite.",
+      "Misture a seguir, os demais ingredientes.",
+      "Unte uma forma com margarina e farinha.",
+      "Leve ao forno, por mais ou menos 30 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: Se quiser, pede acrescentar ingredientes como pimentão, vagem picadinha, milho, cenoura e ervilha; fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CANAL DA TIA ZÊ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302286-omelete-de-forno-superfacil.html"
+}

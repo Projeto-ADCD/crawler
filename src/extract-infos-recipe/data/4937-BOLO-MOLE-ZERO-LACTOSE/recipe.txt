@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO MOLE ZERO LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado zero lactose",
+      "2 latas de leite de vaca zero lactose (medida da lata de leite condensado)",
+      "A mesma medida de farinha de trigo",
+      "A mesma medida de açúcar",
+      "3 ovos inteiros",
+      "2 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bem todos os ingredientes no liquidificador por 2 minutos",
+      "Unte a forma com manteiga e farinha e coloque a massa",
+      "Leve ao forno médio, preaquecido, por cerca de 40 minutos ou até dourar.",
+      "Pegue um garfo ou um palito e perfure o bolo para saber se ele ficou com a consistência de pudim"
+    ]
+  },
+  "tempo_de_preparo": "42 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CAMILA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299904-bolo-mole-zero-lactose.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA PARA CHURRASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz cozido",
+      "2 ovos",
+      "1 cenoura ralada",
+      "cebola e alho picados a gosto",
+      "2 escolheres de azeite",
+      "100 g de bacon",
+      "1 pacote de farofa de soja pronta",
+      "500 g de farinha de mandioca",
+      "50 g de azeitona"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon, o alho e cebola e quando estiverem dourados coloque os ovos",
+      "Mexa até ficarem bem pedacinhos.",
+      "Coloque a cenoura, deixe murchar um pouco e em seguida coloque o arroz e as azeitonas picadas",
+      "Junte as farofas e mexa bem para os ingredientes se integrarem.",
+      "Pronta para mais um sucesso."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARIA VAGNA DOS SANTOS OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304005-farofa-para-churrasco.html"
+}

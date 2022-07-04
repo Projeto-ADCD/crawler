@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE ALHO PARA CHURRASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho",
+      "200 ml de leite",
+      "1 envelope de sachê pronto de legumes",
+      "1 pitada de sal",
+      "óleo até dar o ponto",
+      "suco de 1/2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o alho, o leite , sal e o sachê no liquidificador.",
+      "Bata e acrescente o óleo até dar o ponto de maionese.",
+      "Bata mais um pouco, acrescentando o suco de limão.",
+      "O limão deixa o creme com uma consistência ótima."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "IRINEU CESAR BARBIERI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299995-creme-de-alho-para-churrasco.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "DELÍCIA DE BOLO DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 copo de suco natural de limão ",
+      "1/2 copo (requeijão) de óleo de soja",
+      "3 copos (requeijão) de farinha de trigo",
+      "1 e 1/2 copo (requeijão) de açúcar",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura (opcional)",
+      "1 colher (sopa) de margarina",
+      "1 caixinha de leite condensado",
+      "1 saquinho de suco de limão",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Junte os ovos, o suco de limão, o óleo e o açúcar e bata no liquidificador",
+      "Acrescente aos poucos a farinha de trigo.",
+      "Quando obter uma mistura homogênea acrescente o fermento e bata por mais um minuto.",
+      "Despeje a massa em uma forma untada e leve ao forno preaquecido em 180° C por aproximadamente 40 minutos.",
+      "Cobertura",
+      "Em uma panela, coloque a margarina, o leite condensado e o suco de limão em pó",
+      "Leve ao fogo baixo mexendo até obter a textura de brigadeiro",
+      "Após isso, espere esfriar um pouco e adicione o creme de leite e mexendo bem.",
+      "Finalize com raspas de limão para deixar o bolo mais bonito.",
+      "Bom apetite!!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CARLA JANIELLES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301487-delicia-de-bolo-de-limao.html"
+}

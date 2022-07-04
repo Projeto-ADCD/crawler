@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BANANA CARAMELIZADA DA CANECA NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "açúcar a gosto",
+      "canela a gosto",
+      "1/2 dedo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca corte as bananas",
+      "Acrescente o açúcar, a canela e a água",
+      "Leve ao micro-ondas por 1 minuto e 30 segundos, sempre olhando para não deramar.",
+      "Espere esfriar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SAMUEL ROCKER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300330-banana-caramelizada-da-caneca-no-micro-ondas.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FAROFA FRIA PRIMAVERA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras grandes",
+      "1 xícara de azeite ou de óleo",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "300 g de bacon",
+      "1 calabresa",
+      "2 xícaras de farofa temperada ",
+      "2 xícaras de farinha de milho amarela ",
+      "6 ovos cozidos",
+      "2 tomates sem semente",
+      "1 maço de cheiro-verde",
+      "1 lata de milho",
+      "1 pacote de uvas passas (opcional)",
+      "200 g de azeitona sem caroço ou fatiada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon em cubos",
+      "Corte a calabresa em cubos",
+      "Ralar as cenouras tipo em espiral",
+      "A cebola corte as bem batidinhas",
+      "Na panela com um fio de óleo doure os dentes de alho e frita o bacon em seguida a calabresa e reserve",
+      "Num refratário colocar as cenouras raladas, acrescente o bacon com a calabresa e a cebola, a azeitonas, o milho, tomate cortados em quadradinhos, as uvas passas, os ovos cortados, o cheiro-verde",
+      "Misture as 2 xícaras de farofa temperada, a farinha de milho amarela e a xícara de azeite ou de óleo, fica ao seu gosto a escolha do azeite ou do óleo",
+      "Mistura bem todos os ingredientes e é só servir",
+      "Essa farofa é excepcional"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MICHELLI COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303846-farofa-fria-primavera.html"
+}

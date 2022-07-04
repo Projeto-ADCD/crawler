@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ DE MANGA COM CEREAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 manga picada (de qualquer qualidade, quanto menos fiapos melhor)",
+      "1 pacote de bolacha de maisena",
+      "cereais a gosto (granola, aveia, uva-passa, linhaça, frutos secos ou flocos de milho)",
+      "Creme do pavê",
+      "150 ml de leite",
+      "150 ml de leite condensado (ou 1/2 embalagem de leite condensado)",
+      "150 ml de creme de leite (ou metade da embalagem)",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, junte o leite condensado, o creme de leite, o ovo e o leite",
+      "Leve a mistura ao fogo médio, mexendo sem parar até virar um creme homogênio",
+      "Para essas quantidade leva em torno de 30 minutos ou menos",
+      "Pegue as bolachas de maisena molhe levemente no leite e coloque no recipente onde vai servir",
+      "Faça uma camada de bolacha e em seguida adicione uma camada do creme",
+      "Depois espalhe as mangas picadas e adicione os cereais.",
+      "Repita essa sequência quantas vezes quiser (para essa quantidade de ingredientes apenas duas camadas)",
+      "Leve à geladeira até ficar firme, sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EMELLI KAUANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303677-pave-de-manga-com-cereais.html"
+}

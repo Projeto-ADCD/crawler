@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos (americano) de polvilho azedo",
+      "1 copo (americano) de polvilho doce",
+      "2 colheres (chá) de sal",
+      "1/2 copo (americano) de óleo",
+      "1 e 1/2 copo (americano) de leite integral",
+      "2 ovos ",
+      "1 e 1/2 copo (americano) de queijo mussarela Président ralada",
+      "1 copo (americano) de queijo parmesão ralado",
+      "4 dentes de alho sem o miolo ralados "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o polvilho azedo, o polvilho doce e o sal em um recipiente e misture bem",
+      "Em uma panela, coloque o leite e o óleo",
+      "Leve ao fogo até levantar fervura",
+      "Despeje a mistura lentamente sobre os secos que estão misturados no recipiente",
+      "Com auxílio de uma colher de pau, vá misturando até esfriar",
+      "Após esfriar, acrescente os ovos, amassando até incorporá los",
+      "Acrescente o alho ralado e amasse até misturá-lo na massa",
+      "Por último, adicione os queijos ralados misturando pouco para que possam ficar gratinados ",
+      "Faça bolinhas e leve ao forno em uma forma untada com óleo até dourarem "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303817-pao-de-queijo-de-alho.html"
+}

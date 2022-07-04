@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ESFIHA (RECHEIO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1 xícara de cebola picada",
+      "1 e 1/2 xícara de tomates sem sementes picados",
+      "3 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de hortelã picado",
+      "Caldo de 2 limões",
+      "Sal, pimenta do reino, pimenta síria a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo todos os ingredientes em um recipiente",
+      "Recheie a esfirra. Ela pode ser aberta ou fechada."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "ANA PAULA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301192-esfiha-recheio.html"
+}

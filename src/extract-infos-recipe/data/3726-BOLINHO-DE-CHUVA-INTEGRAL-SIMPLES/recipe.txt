@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA INTEGRAL SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha integral",
+      "1 xícara de amido de milho",
+      "2 ovos",
+      "1/4 de xícara leite desnatado",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Coloque, por último, o fermento.",
+      "Com o auxilio de uma colher frite a massa em óleo quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DAYANE PORTUGAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302828-bolinho-de-chuva-integral-simples.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CHURROS DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres de sopa de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "1/8 de colher (chá) de fermento em pó",
+      "1/16 colher (chá) de bicarbonato de sódio (é bem pouco bicarbonato )",
+      "1/4 de colher (chá) de canela",
+      "3 colheres (sopa) de leite",
+      "1 colher (sopa) de óleo vegetal",
+      "Algum recheio de sua preferência, chocolate, doce de leite, etc."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingrediente secos em uma tigela que possa ir ao micro-ondas.",
+      "Depois, adicione os ingredientes molhados e misture bem.",
+      "Em seguida, adicione o seu recheio no meio da massa.",
+      "Leve ao micro-ondas por aproximadamente 45 segundos (mas pode variar de cada micro-ondas).",
+      "Misture em uma outra tigela um pouquinho de canela e o dobro de açúcar e coloque por cima (opcional)."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FERNANDA GRIEBLER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300737-churros-de-caneca.html"
+}

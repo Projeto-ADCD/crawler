@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE DE LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de creme de leite gelado",
+      "1 caixinha de leite condensado",
+      "5 colheres (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador ou na batedeira bata, o creme de leite (gelado) por 5 minutos.",
+      "Acrescente o leite condensado e as colheres do leite em pó.",
+      "Despeje em um recipiente e leve à geladeira por 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MICAELE DANTAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299952-sorvete-de-leite-em-po.html"
+}

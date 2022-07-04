@@ -1,0 +1,45 @@
+{
+  "nome_receita": "VINAGRETE DE FEIJÃO FRADINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de feijão fradinho cozido",
+      "1 cebola branca média",
+      "2 folhas de louro",
+      "4 tomates picados sem pele e sem semente",
+      "1 cebola roxa picada",
+      "1/2 pimentão amarelo",
+      "10 colheres (sopa) de azeite extra virgem",
+      "1 colher (sopa) de suco de limão",
+      "1 colher (sopa) de mel",
+      "1 e 1/2 colher (sopa) de salsinha picada ou coentro picado",
+      "1 colher (sopa) de cebolinha picada",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque o feijão fradinho, a cebola branca e a folha de louro e cubra com água.",
+      "Tampe e leve ao fogo alto.",
+      "Assim que pegar pressão, abaixe o fogo e deixe cozinhar por 10 minutos.",
+      "Enquanto isso, prepare o vinagrete.",
+      "Descasque e corte a cebola roxa em cubos pequenos.",
+      "Lave, seque e corte o pimentão amarelo ao meio, descarte as sementes e corte a metade em cubos pequenos.",
+      "Guarde a outra metade na geladeira.",
+      "Lave, seque, retire a pele e corte os tomates ao meio, descarte as sementes e corte em cubos pequenos.",
+      "Lave, seque e pique fino as folhas de salsinha ou coentro.",
+      "Transfira tudo para uma tigela grande, misture sem temperar e reserve.",
+      "Desligue o fogo, verifique o ponto do feijão (não muito al dente), escorra em uma peneira e passe sob a água fria para interromper o cozimento.",
+      "Escorra bem e espere o feijão esfriar em temperatura ambiente.",
+      "Junte o feijão aos outros ingredientes, tempere com o azeite, o suco de limão misturado com o mel, sal e pimenta a gosto.",
+      "Misture delicadamente e sirva a seguir.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: preparar de véspera fica melhor ainda."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JHONAS ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302747-vinagrete-de-feijao-fradinho.html"
+}

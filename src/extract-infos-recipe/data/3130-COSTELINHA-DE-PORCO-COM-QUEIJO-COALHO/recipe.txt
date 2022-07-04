@@ -1,0 +1,49 @@
+{
+  "nome_receita": "COSTELINHA DE PORCO COM QUEIJO COALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costelinha de porco",
+      "2 colheres de gordura de porco",
+      "alho",
+      "cebola",
+      "salsinha ",
+      "cebolinha",
+      "3 tomates picados sem semente",
+      "1 pimentão vermelho picado",
+      "1/2 pimenta dedo de moça",
+      "200 g de queijo coalho Président",
+      "3 toletes de palmito",
+      "1 lata de ervilha",
+      "2 copos de vinho tinto seco de boa qualidade",
+      "1 limão",
+      "1 laranja exprimida ",
+      "sal a gosto",
+      "chimichurri a gosto",
+      "3 a 4 xícaras de arroz parboilizado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separar a costelinha em pedaços com osso",
+      "Tempere com o alho, a cebola, o molho chimichurri, 1 limão e 1 laranja expremidos",
+      "Deixe marinar por 4 a 5 horas",
+      "Em uma panela funda, de preferência de ferro, coloque a banha de porco, a cebola, o alho para dourar e a pimenta dedo de moça",
+      "Coloque a costelinha para selar e deixe até dourar, com todo tempero",
+      "Coloque tomates picados, o pimentão, a salsinha a gosto e regule o sal",
+      "Use um pouco de pimenta-do-reino ou calabresa, despeje vinho tinto e água quente se necessário (caso pegue no fundo da panela, vá colocando aos poucos na medida da necessidade) por 1 hora",
+      "Verifique se a costelinha está macia, do contrário aumente este tempo",
+      "Lave bem o arroz deixando escorrer",
+      "Quando perceber que a carne está macia, coloque o arroz, deixando uns 2 minutos para dar uma fritada e em seguida coloque água fervente até cobrir o arroz, tampando a panela ",
+      "Quando perceber que a água secou na altura do arroz, coloque o palmito cortado em rodelas, as 200 g de queijo coalho cortado quadradinho, a ervilha, dando uma mexida para misturar estes ingredientes",
+      "Tampe e deixe em fogo baixo por 10 minutos",
+      "Após este tempo, desligue o fogo deixando secar bem o arroz, salpique salsinha e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Sérgio Della Maggiori"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303838-costelinha-de-porco-com-queijo-coalho.html"
+}

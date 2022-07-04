@@ -1,0 +1,25 @@
+{
+  "nome_receita": "COXA DE FRANGO CROCANTE AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 coxas de frango sem pele",
+      "3 xícaras de farinha de rosca",
+      "3 colheres de temperos (ervas) a seu gosto",
+      "1 pitada de pimenta do reino",
+      "3 a 4 gemas de ovo (só as gemas)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha de rosca aos temperos (ervas) seu gosto e a pimenta-do-reino",
+      "Passe as coxas nas gemas batidas e as envolva na mistura da farinha temperada",
+      "Distribuas em uma forma e coloque-as para assar.",
+      "Asse em forno médio preaquecido a 170º C a 190º C por aproximadamente 35 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROSIMEIRE JACINAVICIUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304056-coxa-de-frango-crocante-ao-forno.html"
+}

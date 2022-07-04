@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FAROFA DE FRANGO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa pronta temperada",
+      "1 cebola cortada em cubos ou em rodelas finas",
+      "100 g de margarina",
+      "150 g de calabresa em cubos pequenos",
+      "1 peito de frango cozido e desfiado",
+      "1 pitadinha de sal",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a panela em fogo baixo derreta a margarina",
+      "Coloque a cebola, o cheiro-verde e uma pitadinha de sal",
+      "Em seguida acrescente o peito de frango e a calabresa, tampe e deixe refogar por 5 minutinhos",
+      "Acrescente a farofa pronta, mexa bem e já pode saborear sua farofa"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "11 PORÇÕES",
+  "autor": "VANILCE CHAGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303584-farofa-de-frango-facil.html"
+}

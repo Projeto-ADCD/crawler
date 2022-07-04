@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO CASEIRO MACIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "2 ovos",
+      "125 ml de óleo ou manteiga sem sal",
+      "250 ml de água morna",
+      "250 ml de leite morno",
+      "1/2 xícara de açúcar cristal ou refinado",
+      "1 colher (sopa) rasa de sal",
+      "2 pacotes de fermento seco de 10g cada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, para ativar o fermento, coloque em uma bacia pequena o leite, a água morna, e o açúcar e mexa até dissolver.",
+      "Em seguida, coloque os 2 pacotes de fermento e mexa até dissolver.",
+      "Cubra com uma tampa e deixe por 4 minutos.",
+      "Enquanto isso, coloque em uma bacia grande a farinha, os ovos, o óleo, o sal e mexa.",
+      "Quando o fermento já estiver ativado (4 minutos), misture na massa e sove.",
+      "Quando bem sovado, cubra com uma toalha e deixe crescer por 1 hora e 30 minutos.",
+      "Sove a massa novamente e divida em 3 partes, enrole o pão e coloque em uma forma podendo ser untada com óleo e farinha.",
+      "Deixe descansar por mais 40 minutos e asse em 200°C ou até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "BRUNA DRIUSSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302000-pao-caseiro-macio.html"
+}

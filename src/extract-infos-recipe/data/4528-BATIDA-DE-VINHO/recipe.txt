@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BATIDA DE VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "1/2 caixa de leite condensado",
+      "2 copos de vinho tinto suave",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o limão e corte-o em 4 partes.",
+      "Coloque no liquidificador.",
+      "Adicione o gelo e o leite condensado.",
+      "Ligue o liquidificador para quebrar um pouco o gelo e misturar o leite condensado com o limão.",
+      "Acrescente os copos de vinho e mais gelo e bata novamente."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THIAGO ZIMMERMANN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300934-batida-de-vinho.html"
+}

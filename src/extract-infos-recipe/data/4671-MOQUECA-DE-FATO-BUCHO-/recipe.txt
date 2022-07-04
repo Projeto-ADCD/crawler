@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MOQUECA DE FATO (BUCHO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 kg de fato (bucho)",
+      "100 gramas de camarão seco defumado",
+      "100 gramas de castanha de caju",
+      "1 cebola grande picada",
+      "1 pimentão grande picado",
+      "2 tomates grandes maduros picados",
+      "Coentro a gosto",
+      "Leite de um coco seco",
+      "2 colheres (sopa). de azeite doce",
+      "1/2 xícara de azeite de dendê",
+      "1 colher (sopa) de extrato de tomate",
+      "Pimenta do reino a gosto",
+      "Pimenta de cheiro",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o bucho tirando todo o sebo.",
+      "Corte em pequenas tiras.",
+      "Lave com limão.",
+      "Coloque no fogo para uma leve fervura.",
+      "Escorra e lave novamente no vinagre.",
+      "Na panela (usei a de pressão) ponha o bucho, a cebola, tomate, pimentão, coentro, pimenta de reino, extrato de tomate e o sal.",
+      "Dê uma leve refogada para apurar os sabores.",
+      "Coloque água que cubra os ingredientes.",
+      "Deixe pegar pressão por 20 minutos depois deste tempo introduza o restante dos ingrediente. Essa é a hora de conferir o sal. Mais 10 minutos de fogo está pronto.",
+      "Com o caldo faça um pirão."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DIZZY CESAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300468-moqueca-de-fato-bucho.html"
+}

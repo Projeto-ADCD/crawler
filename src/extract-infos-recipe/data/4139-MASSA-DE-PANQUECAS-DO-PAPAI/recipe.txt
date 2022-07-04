@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MASSA DE PANQUECAS DO PAPAI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de leite",
+      "3 ovos",
+      "1 colher (chá) de margarina",
+      "1 colher (chá) de fermento (opcional)",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, em baixa velocidade por 3 minutos.",
+      "Desligue o liquidificador, para sua segurança, desligue também da tomada, e com auxílio de uma colher, retire o excesso de farinha das laterais do copo do liquidificador.",
+      "Bata novamente por mais 3 minutos e/ou ficar levemente cremoso.",
+      "Em uma frigideira, no fogo baixo, untada com um pouco de margarina ou um fio de óleo, coloque a massa.",
+      "Para colocar a massa na frigideira, utilize uma concha, tomando o cuidado para massa não ficar grossa. Vire de um lado para o outro.",
+      "Use recheios de sua preferência."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestões de recheio: carne moída, frango desfiado, queijo e presunto, camarão, mel, seleta de legumes."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PAULO ALEXANDRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301749-massa-de-panquecas-do-papai.html"
+}

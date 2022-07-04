@@ -1,0 +1,34 @@
+{
+  "nome_receita": "EMPADÃO DE CARNE DE PORCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de banha de porco",
+      "Aproximadamente 4 xícaras de farinha de trigo",
+      "1/2 xícara de água morna",
+      "2 gemas (uma para a massa e outra para pincelar por cima do empadão)",
+      "1 colher (café) bem cheia de sal",
+      "2 colheres (café) de fermento em pó",
+      "Aproximadamente 1/2 kg de carne de porco temperada e assada ao seu gosto fria e desfiada (sem caldo, somente a carne desfiada)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bem na batedeira uma gema, a manteiga e a banha.",
+      "Adicione a água morna e bata mais um pouco.",
+      "Com a batedeira desligada , adicione a farinha de trigo (peneirada), o sal e o fermento em pó, amassando com as mãos até sentir que a massa sai das mãos.",
+      "Deixe a massa descansar por uns 10 minutos.",
+      "Divida a massa e, com a metade, forre uma forma de aproximadamente 25 x 15cm.",
+      "Espalhe o recheio (totalmente frio).",
+      "Com o restante da massa, faça placas com o auxilio das mãos e vá cobrindo o recheio, fazendo a tampa do empadão.",
+      "Pincele com a gema de ovo e leve ao forno médio por aproximadamente 20 munitos ou até que doure."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo de forno depende do tipo de fogão."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300467-empadao-de-carne-de-porco.html"
+}

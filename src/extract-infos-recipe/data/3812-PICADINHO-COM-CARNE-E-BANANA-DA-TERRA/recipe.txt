@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PICADINHO COM CARNE E BANANA DA TERRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "650 g de coxão mole picadinho em cubinhos",
+      "1 pitada de sal",
+      "1 pitada de pimenta-do-reino",
+      "2 colheres de manteiga",
+      "1 cebola média picadinha",
+      "3 bananas da terra maduras bem firmes, picadas igual os cubinhos da carne",
+      "2 xícaras (chá) de salsinha picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, tempere a carne com sal e pimenta.",
+      "Na panela, coloque a manteiga e leve ao fogo",
+      "Assim que estiver bem quente, frite a carne até formar caldo do suco da carne.",
+      "A seguir, junte a cebola e misture bem aos poucos",
+      "Coloque água quente e deixe cozinhar até ficar cozida.",
+      "Depois de bem cozida e pouco caldo espesso, junte as bananas e mexa com cuidado",
+      "Deixe por 2 minutos.",
+      "Retire do fogo, misture a salsinha e sirva com arroz.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEUDA M.V.XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302598-picadinho-com-carne-e-banana-da-terra.html"
+}

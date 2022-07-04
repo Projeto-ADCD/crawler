@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ROSCA SUPERFOFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3 colheres de fermento biológico seco",
+      "2 xícaras de açúcar",
+      "1 xícara de leite morno",
+      "1 xícara de água morna",
+      "1/2 xícara de óleo",
+      "farinha de trigo até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande despeje o fermento e o açúcar e misture.",
+      "Despeje o leite, a água morna e o óleo e os ovos mexa bem.",
+      "Acrescente a farinha até ir dando ponto (a massa ficará mais mole) o ponto ideal da massa será após ser sovada até desgrudar das mãos.",
+      "Deixe a massa descansar até dobrar o tamanho.",
+      "Após enrole as tranças colocando na forma deixando crescer mais uns 40 minutos.",
+      "Asse em forno baixo aproximadamente 160° C ou até dourar.",
+      "Se preferir faça uma calda com açúcar e passe nas roscas ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FABIANA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305674-rosca-superfofa.html"
+}

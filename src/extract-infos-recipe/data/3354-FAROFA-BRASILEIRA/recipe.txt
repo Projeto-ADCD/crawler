@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de margarina",
+      "1 xícara de bacon picadinho",
+      "1 xícaca de alho poró",
+      "1 cebola picada",
+      "1 xícara de castanha-do-Pará picada",
+      "1 xícara de tomate picadinho",
+      "3 bananas ouro picadas",
+      "1/2 pacote de 500g de farofa pronta temperada",
+      "1 pitada de pimenta-do-reino",
+      "sal a gosto",
+      "cebolinha fresca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e pique todos os ingredientes em pedaços pequenos e reserve",
+      "Coloque a manteiga numa panela média e leve ao fogo médio",
+      "Quando derreter, junte a cebola, alho poró, tomate e o bacon",
+      "Tempere com uma pitada de sal e pimenta-do-reino, refogue até dourar o bacon",
+      "Acrescente a banana picada e castanha-do-Pará e refogue por mais 1 minuto para perfumar",
+      "Adicione a farofa e misture delicadamente por 1 minuto - por último com cuidado na crescente a cebolinha fresca",
+      "Prove e acerte o sal e a pimenta",
+      "Sirva a seguir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "RICARDO CRISTIANO MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303513-farofa-brasileira.html"
+}

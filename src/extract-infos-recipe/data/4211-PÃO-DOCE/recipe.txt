@@ -1,0 +1,50 @@
+{
+  "nome_receita": "PÃO DOCE",
+  "ingredientes": {
+    "MASSA:": [
+      "1 copo de leite",
+      "1 colher (chá) de açúcar",
+      "2 tabletes de fermento biológico",
+      "1 ovo",
+      "3 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de azeite ou de manteiga",
+      "700 g de farinha de trigo",
+      "1 colher (chá) de sal"
+    ],
+    "RECHEIO:": [
+      "2 colheres (sopa) bem cheias de manteiga em temperatura ambiente",
+      "6 colheres de açúcar",
+      "canela (por cima da massa e pode ser adicionada a gosto)"
+    ],
+    "CALDA:": [
+      "2 xícaras (chá) de açúcar",
+      "2 xícars (chá) de leite"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Coloque em uma vasilha o leite morno, a colher de chá de açúcar, o fermento biológico e deixe levedar (de preferência em um lugar mais quente e fechado como o microondas e por cima da vasilha, coloque um pano quente).",
+      "Depois de levedado acrescente o ovo, as três colheres de sopa de açúcar, o azeite (ou manteiga), o sal e por último a farinha de trigo.",
+      "Amasse muito bem, cubra com um pano (pode ser quente) e deixe crescer (nunca contei o tempo, entretanto, pode deixar mais de meia hora para ela crescer pois quanto mais tempo ela ficar crescendo mais fofa a massa fica).",
+      "Depois de acrescida, abra a massa e deixe a espessura em aproximadamente meio centímetro (ao abrir a massa deve deixa-la de preferencia sem furos ou mesmo demasiadamente fina).",
+      "A seguir espalhe o recheio e adicione na superfície da massa, com o recheio já espalhado, a canela e enrole como rocambole.",
+      "Divida em pedaços iguais (pode ser dividida em seis, sete, oito, depende de quanto de massa você possui) coloque em uma forma redonda untada com manteiga, de forma que os pedaços fiquem em pé.",
+      "Antes de levar eles ao forno pode pincelá-los com gema de ovo, porém não é necessário ficando a cargo daquele que está cozinhando.",
+      "Leve para assar e deixe até que fiquem levemente dourados, após retirado do forno, enquanto ainda estão quentes, aplique a calda."
+    ],
+    "RECHEIO:": [
+      "Bata duas colheres de sopa de manteiga com seis colheres de sopa de açúcar até ficar cremoso.",
+      "Depois que o recheio está cremoso pode adicionar frutas ou somente deixar o recheio tradicional."
+    ],
+    "CALDA:": [
+      "Leve ao fogo duas xícaras de chá de açúcar com duas xícaras de leite até que esse caldo engrosse, aplique ainda quente sobre a massa assada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Na foto o recheio é de creme de avelã e também já fiz adicionando uva passa, maçã e outras frutas, porém o mais tradicional feito por mim é o escrito acima na receita."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA CAROLINA ZUFFO SECCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301572-pao-doce.html"
+}

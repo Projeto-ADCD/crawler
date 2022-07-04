@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLINHO DE BACALHAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau",
+      "100 g de manteiga",
+      "2 colheres (sopa) de azeite",
+      "1 cebola média ralada",
+      "800 g de batata cozida e amassadas",
+      "5 gemas peneiradas e batidas",
+      "7 colheres (sopa) de farinha de trigo",
+      "1 xícara de leite",
+      "2 colheres (sopa) de cheiro verde picado",
+      "sal a gosto",
+      "óleo para fritar",
+      "farinha de rosca para empanar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aquecer o azeite juntamente com manteiga e dourar a cebola",
+      "Acrescente as batatas, as gemas, o bacalhau e misture bem",
+      "Dissolva a farinha e o leite, despeje sobre a massa e misture com uma colher de pau até soltar do fundo da panela",
+      "Tempere com sal e cheiro verde, deixe esfriar",
+      "Modele os bolinhos e passe por gemas batidas, farinha de rosca",
+      "Frite em óleo quente"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIA CLARA SOUSA DA SILVA SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302951-bolinho-de-bacalhau.html"
+}

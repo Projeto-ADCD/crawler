@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LINGUIÇA DE PEQUI",
+  "ingredientes": {
+    "DEFAULT": [
+      "01 kg peito de frango",
+      "120 gramas de pequi",
+      "12 Gr de alho",
+      "1,5 sal de cura",
+      "7 Gr de páprica picante",
+      "12 gr de cebola em pó",
+      "2 Gr de noz moscada",
+      "Tripa natural ou colágeno",
+      "1 copo de água gelada",
+      "6 Gr de sal",
+      "10 Gr Bacon em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Moer o peito de frango em disco grosso",
+      "Lavar bem a tria natural, no casa de colágeno não precisa.",
+      "Mistura todos ingredientes na carne",
+      "Colocando água os pouco até que a massa fique homogênea.",
+      "Depois deixe a massa descansar por 12 horas",
+      "Coloquei a massa no canhão embutidor encha a tripa",
+      "Em uma frigideira untada com óleo é aquecida coloque linguiça deixe 10 minutos em fogo baixo depois vire deixe mais 10.",
+      "E bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SERGIO CICERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305067-linguica-de-pequi.html"
+}

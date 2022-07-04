@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SOBREMESA DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gelatinas de qualquer sabor",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado",
+      "2 copos de 200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os dois copos de água pra ferver",
+      "Adicione à gelatinas em um pote e dissolva a gelatina na água ferventada.",
+      "Bata no liquidificador a gelatina dissolvida na água quente com o leite condensado e o creme de leite",
+      "Depois, só colocar para gelar"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANGELICA ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304038-sobremesa-de-gelatina.html"
+}

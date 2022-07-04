@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BRIGADEIRÃO DE 20 MINUTOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite",
+      "4 colheres (sopa) de achocolatado ou chocolate em pó",
+      "1 colher (sopa) de margarina",
+      "3 ovos",
+      "chocolate granulado para enfeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador e bata por 5 minutos.",
+      "Enquanto isso, coloque em uma panela grande que caiba a forma de pudim um dedo de água para fazer o banho-maria",
+      "Deixe quase ferver e coloque a forma untada e polvilhada com chocolate",
+      "Coloque a mistura do liquidificador dentro da forma e deixe no fogo baixo por 20 minutos com a panela tampada",
+      "Obs: A panela vai ficar balançando mas não se preocupe é assim mesmo.",
+      "Tem a opção de fazer no forno também: De 40 minutos a 1 hora com papel alumínio e no banho-maria.",
+      "Espete com a faca e se sair limpa já está bom. Leve à geladeira por 4 horas e jogue o granulado por cima"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANGELINA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302712-brigadeirao-de-20-minutos.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE JENIPAPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 jenipapos maduros",
+      "1 lata de leite condensado (395 g)",
+      "1 lata de creme de leite ",
+      "300 ml de água filtrada "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os jenipapos, retirando apenas a pele.",
+      "Corte-os em quatro e retire o miolo com as sementes, deixando só a polpa",
+      "Bata no liquidificador com 300 ml de água filtrada",
+      "A massa resultante, coe em uma peneira fina para extrair apenas o suco.",
+      "Bata em um liquidificador por aproximadamente 3 minutos os ingredientes: o suco concentrado do jenipapo, o leite condensado e o creme de leite (como opção, usar creme de leite gourmet)",
+      "Coloque em uma tijela de vidro e leve à geladeira por aproximadamente 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RENATO MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300997-mousse-de-jenipapo.html"
+}

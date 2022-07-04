@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PAVÊ 2 CHOCOLATES DO ED",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 ml de leite",
+      "1 barra de chocolate branco (opcional com amendoim) ",
+      "1 barra de chocolate preto meio amargo",
+      "1 lata de leite condensado",
+      "4 colheres (sopa) de amido de milho",
+      "6 colheres de achocolatado em pó",
+      "9 gotas de essência de baunilha",
+      "1 copo (americano) de coco ralado",
+      "5 colheres de leite em pó",
+      "opcional: morangos, gotas de chocolate"
+    ]
+  },
+  "passos": {
+    "CREME BRANCO DE BAUNILHA:": [
+      "Coloque em uma panela com o fogo ligado 400ml de leite, a metade da lata de leite condensado, 9 gotas de essência de baunilha e o copo de coco ralado.",
+      "Mexa em um sentido só até levantar fervura e adquirir consistência de um mingau.",
+      "Quando estiver com textura de mingau, coloque a barra de chocolate branco e mexa até derreter.",
+      "Reserve o creme branco."
+    ],
+    "CREME DE CHOCOLATE PRETO:": [
+      "Adicione em uma panela 400ml de leite, 4 colheres (sopa) de maisena, 1/2 lata de leite condensado, 6 colheres de achocolatado em pó.",
+      "Mexa em um sentido só até começar a ferver e formar um mingau.",
+      "Ao ficar firme, desligue o fogo e coloque a barra de chocolate preto e mexa até derreter tudo. Reserve."
+    ],
+    "MONTAGEM:": [
+      "Em uma tigela, com a ajuda de uma colher, coloque 1 a camada de creme branco de baunilha.",
+      "Em seguida, adicione 5 colheres de leite em pó.",
+      "Depois, coloque o creme de chocolate preto.",
+      "Deixe 40 minutos na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ARION GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301941-pave-2-chocolates-do-ed.html"
+}

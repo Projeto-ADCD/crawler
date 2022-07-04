@@ -1,0 +1,27 @@
+{
+  "nome_receita": "XAROPE DE GENGIBRE, LIMÃO E MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pedaço de gengibre (5 cm)",
+      "3 rodelas de limão",
+      "3 colheres (sopa) de açúcar",
+      "3 colheres (chá) de mel",
+      "1 alho descascado (se muito grande usar meio)",
+      "2 copos de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca, queime o açúcar e logo em seguida coloque a água e dê uma mexida",
+      "Coloque o restante dos ingredientes e depois de levantar fervura, deixe em fogo médio por 5 minutos",
+      "Escorra em uma garrafa e conserve na geladeira"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Caso achar que está faltando açúcar, dose na hora de tomar com açúcar ou mel\nComo tomar: esquente uma xícara toda hora de ir dormir\nXarope bom para quem está com gripe, tosse, etc..."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "WENDY GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303250-xarope-de-gengibre-limao-e-mel.html"
+}

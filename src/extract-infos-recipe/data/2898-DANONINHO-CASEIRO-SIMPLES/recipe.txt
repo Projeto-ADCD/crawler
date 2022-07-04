@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DANONINHO CASEIRO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "2 caixas de creme de leite",
+      "1 copo de iogurte natural ou integral",
+      "2 pacotes de suco em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador exceto o suco",
+      "Depois adicione o suco e bata por mais 2 minutos",
+      "Passe para um refratário ou pequenas taças e sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ISABELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304195-danoninho-caseiro-simples.html"
+}

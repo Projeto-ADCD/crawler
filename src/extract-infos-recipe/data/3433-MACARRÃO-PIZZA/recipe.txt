@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de mussarela",
+      "400 g de presunto",
+      "1 pacote de macarrão tipo penne",
+      "1 tomate",
+      "1 cebola",
+      "orégano a gosto",
+      "sal a gosto",
+      "maionese a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão com sal a gosto",
+      "Enquanto isso pique todos os ingredientes em cubos não muito grandes, escorra o macarrão e misture com os ingredientes",
+      "Adicione a maionese o orégano, misture bem e leve ao forno até derreter o queijo",
+      "Retire do forno e sirva ainda quente"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JULIANA MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303375-macarrao-pizza.html"
+}

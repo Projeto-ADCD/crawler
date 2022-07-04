@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PETIT GATEAU ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de queijo gruyère Président",
+      "100 g de manteiga Président",
+      "2 ovos",
+      "2 gemas",
+      "100 g de açúcar",
+      "30 g de farinha",
+      "100 g de goiabada",
+      "100 ml de água",
+      "100 ml de vinho tinto"
+    ]
+  },
+  "passos": {
+    "PETIT GATEAU:": [
+      "Leve o queijo e a manteiga para derreter em banho-maria, reserve",
+      "Bata bem os ovos com o açúcar na batedeira e, ao finalizar, acrescente a farinha e o queijo derretido com a manteiga e mexa até obter uma mistura homogênea",
+      "Unte forminhas com manteiga e preencha com a massa",
+      "Leve para a geladeira para gelar por 30 minutos",
+      "Em seguida, leve para o forno para assar a 220°C, de 5 a 8 minutos"
+    ],
+    "CALDA DE GOIABADA:": [
+      "Leve a goiabada, o vinho tinto e a água para o fogo",
+      "Deixe reduzir até que a goiabada derreta e obtenha ponto de fio"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Felipe Malacrida Rumão dos Santos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303809-petit-gateau-romeu-e-julieta.html"
+}

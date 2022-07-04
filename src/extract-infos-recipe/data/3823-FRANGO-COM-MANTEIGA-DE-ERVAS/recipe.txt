@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO COM MANTEIGA DE ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 filés de peito de frango",
+      "suco de 1/2 limão",
+      "2 a 3 dentes de alho",
+      "2 colheres (sopa) de manteiga amolecida",
+      "4 colheres (chá) de manjericão desidratado",
+      "4 colheres (chá) de orégano desidratado",
+      "2 colheres (chá) de alecrim desidratado",
+      "2 colheres (sopa) de óleo",
+      "2 colheres (sopa) de azeite de oliva",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com o suco do limão, alho triturado, sal e pimenta e deixe de molho entre 5 a 10 minutos.",
+      "Enquanto isso, prepare a manteiga: só misturar bem a manteiga com as ervas.",
+      "Pré-aqueça o forno a 220ºC",
+      "Passe metade da manteiga de ervas nos filés, na parte de cima.",
+      "Esquente uma frigideira e coloque o óleo.",
+      "Quando tiver quente, coloque em fogo médio e , então, coloquei os frangos com o lado que você passou a manteiga para baixo.",
+      "Cubra com uma tampa e deixe cozinhar por 5 a 7 minutos.",
+      "Passado esse tempo, espalhe o azeite de olive em uma forma.",
+      "Retire o frango da frigideira e passe o resto da manteiga de ervas do outro lado e transfira para a forma, com o lado da manteiga virado para baixo.",
+      "Coloque no forno e asse por 15 minutos.",
+      "Retire e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RENATA HAMMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302584-frango-com-manteiga-de-ervas.html"
+}

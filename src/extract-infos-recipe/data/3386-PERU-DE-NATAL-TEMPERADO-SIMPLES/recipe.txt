@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PERU DE NATAL TEMPERADO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peru inteiro descongelado",
+      "2 xícaras (chá) de manteiga ",
+      "1 cebola ",
+      "3 dentes de alho",
+      "2 limões ",
+      "1 garrafa de vinho tinto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "ervas finas a gosto"
+    ]
+  },
+  "passos": {
+    "DESCONGELAMENTO": [
+      "Com 48 horas de antecedência, coloque o peru (sem abrir a embalagem) dentro de uma assadeira ou travessa e leve-o à geladeira"
+    ],
+    "MARINADA": [
+      "Em um recipiente, despeje o vinho, o alho cortado, a cebola, o suco dos limões e os demais temperos (incluindo o sal, mas com cuidado para não exagerar)",
+      "Reserve com um papel-filme e deixe na geladeira por 2 horas"
+    ],
+    "PERU": [
+      "Preaqueça o forno por 15 minutos e, enquanto isso, retire o peru descongelado da embalagem sem esquecer de tirar o saco de miúdos de dentro",
+      "Passe manteiga por toda a parte exterior do peru, sobre a pele e, com cuidado, descole a pele da carne e passe manteiga no espaço entre a pele e a carne do peru",
+      "Em seguida, deposite o peru em uma assadeira e despeje a marinada sobre ele ",
+      "Cubra seu peru com papel-alumínio e leve a assadeira ao forno à temperatura média (210ºC) por 1 hora e 20 minutos",
+      "Depois desse tempo, tire o peru do forno e pincele mais manteiga sobre sua pele. Com a ajuda de uma concha, despeje o líquido que está no fundo da assadeira sobre o peru e volte-o ao forno. Repita este processo de 30 em 30 minutos até o termômetro levantar (leva cerca de 1h e 30 minutos)",
+      "Quando estiver pronto, deixe seu peru descansar por 20 minutos antes de servir "
+    ],
+    "MOLHO": [
+      "Para fazer o molho, retire o líquido do fundo da assadeira e transfira para uma panela",
+      "Adicione 1 colher (sopa) de farinha de trigo e misture bem. Ligue o fogo e mexa sem parar até engrossar e ficar cremoso",
+      "Para aromatizar, você pode adicionar suco de 1 laranja e as raspas da casca dessa laranja"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para deixar seu Natal ainda mais suculento, não esqueça de caprichar nos acompanhamentos na hora de servir seu peru temperado: batatas assadas com ervas, maçã assada e abacaxi grelhado são ótimos exemplos de acompanhamentos para servir na mesa. Basta fazer uma \"caminha\" e colocar seu peru em cima, fica incrível!\nQue tal fazer um peru de Natal recheado? Para isso, aposte em recheios mais \"molhadinhos\" que impedem com que a carne resseque como farofa de miúdos, farofa de banana ou algum tipo de terrine!\nNão se preparar para fazer seu peru de Natal pode causar uma confusão na cozinha, por isso é muito importante não se esquecer de descongelar o peru com antecedência. Se ele estiver congelado, você não vai conseguir prepará-lo.\nFique atento ao peru natalino enquanto ele estiver no forno: é preciso garantir um peru assado por completo, mas é necessário ter cuidado para que a carne não resseque. Dessa forma, além de seguir a recomendação de besuntar o peru com manteiga a cada meia hora, leve ao forno uma forma com água junto com a assadeira do peru. A água vai impedir que ele resseque dentro do forno e você garante um peru suculento!\nUm peru bem temperado é fundamental, por isso, você pode adicionar ervas frescas à marinada como manjericão, tomilho, alecrim, sálvia ou qualquer outro tipo de erva que gostar e tiver em casa. Mas se você quer um peru simples, fique no básico ensinado pela receita que não tem erro, ele vai sair delicioso de qualquer forma!\nAgora que você sabe como fazer peru de Natal simples e temperado, confira outras receitas para completar a ceia de Natal como tender, chester, rabanada, farofa natalina, arroz de Natal, pavê de chocolate, pudim de leite e muito mais no TudoGostoso!"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303464-peru-de-natal-temperado-simples.html"
+}

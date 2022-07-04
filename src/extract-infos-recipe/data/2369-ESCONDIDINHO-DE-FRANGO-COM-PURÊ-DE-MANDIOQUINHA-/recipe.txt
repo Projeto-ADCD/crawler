@@ -1,0 +1,44 @@
+{
+  "nome_receita": "ESCONDIDINHO DE FRANGO (COM PURÊ DE MANDIOQUINHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 mandioquinhas grandes cozidas no vapor",
+      "3 batatas grandes cozidas no vapor",
+      "1 copo de requeijão",
+      "2 caixinhas de creme de leite",
+      "2 envelopes de caldo de legumes",
+      "1 cebola media picadinha",
+      "3 dentes de alho picados",
+      "sal e pimenta-do-reino a gosto",
+      "1 peito de frango cozido e bem desfiado",
+      "manteiga e azeite para refogar",
+      "salsinha fresca ou desidratada (a gosto)",
+      "1 xícara de leite + 1 colher de farinha de trigo diluída (pode substituir por amido de milho se preferir)",
+      "3 tomates pequenos, picados, sem pele e sem sementes.",
+      "150 g de mussarela fatiada",
+      "1 lata de milho verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe na panela de pressão o peito de frango e desfie todinho o frango. Reserve.",
+      "Refogue em uma panela média, a cebola picada, o alho picado, 1 envelope de caldo de legumes ou de frango, sal, pimenta-do-reino e salsinha a gosto",
+      "Acrescente o frango desfiado, as azeitonas picadas, 1 lata de milho verde (sem a água) e os tomates picados.",
+      "Quando estiver bem refogado, misture as 2 colheres cheias de requeijão no refogado e despeje a xícara de leite com a farinha já diluída",
+      "Deixe refogar mais dois minutinhos, mexendo bem.",
+      "Por último acrescente 1 caixinha de creme de leite misture bem com o fojo desligado. Reserve.",
+      "Cozinhe as mandioquinhas e as batatas (cortadas em pedaços) no vapor.",
+      "Amasse bem com um garfo misturando as batatas e as mandioquinhas, até que vire um purê firme",
+      "Coloque 1 colher (sobremesa) cheia de manteiga, 1 envelope de caldo de legumes, 4 colheres bem cheias de requeijão, a salsinha e pimenta-do-reino a gosto.",
+      "Se necessário adeque o sal, por ultimo misture com 1 das caixinhas de creme de leite e reserve.",
+      "Montagem",
+      "Unte com azeite um refratário de vidro médio",
+      "Cologue o refogado todo no refratário, acrescente as fatias de mussarela sobre o refogado de frango (cubra todas as partes com a mussarela) e cubra com o purê de mandioquinha com batatas.",
+      "Polvilhe farinha de rosca e leve ao forno médio (180° C) por 40 minutos aproximadamente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANIELA L MENDES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305374-escondidinho-de-frango-com-pure-de-mandioquinha.html"
+}

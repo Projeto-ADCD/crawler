@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO DE COENTRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 coppos (americano) de coentro",
+      "1 caixa de creme de leite",
+      "2 xícaras (chá) de leite",
+      "2 xícaras (chá) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o coentro em uma panela de pressão",
+      "Em seguida junte o creme de leite, a água e o leite",
+      "Depois adicione duas xícaras de chá de leite",
+      "Misture bem (ou bata no liquidificador em potência baixa por no máximo 5 minutos antes de colocar na panela)",
+      "Tampe a panela de pressão e coloque em fogo alto por 10 minutos",
+      "Retire após os 10 minutos, se tiver pegado pressão, espere a pressão sair",
+      "Coloque no liquidificador",
+      "Bata no liquidificador por 2 minutos em potência alta",
+      "Cozinhe em uma panela normal por 20 minutos em fogo alto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BOOBLE SHOTTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302358-molho-de-coentro-facil.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE FRUTAS COM BANANA E MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "1 banana",
+      "6 morangos",
+      "1 colher (sopa) pela metade de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque a banana e os morangos, logo após coloque o leite",
+      "Bata tudo por cerca de 3 minutos",
+      "Você pode colocar o açúcar a gosto, mas não será necessário mais que meia colher",
+      "Sirva-se e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LUIZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303609-vitamina-de-frutas-com-banana-e-morango.html"
+}

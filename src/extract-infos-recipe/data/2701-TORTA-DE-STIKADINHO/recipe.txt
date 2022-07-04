@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE STIKADINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "200g de Bolacha Maria (mais ou menos 40 bolachas)",
+      "150g de Margarina ou Manteiga derretida",
+      "DANONINHO CASEIRO",
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "200 g de iogurte natural",
+      "1 pacote de suco em pó sabor morango",
+      "GANACHE DE CHOCOLATE",
+      "1 barra de chocolate ao leite ",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MODO DE PREPARO: MASSA",
+      "Leve as bolachas a um processador até que fiquem com textura de farofa",
+      "Derreta a manteiga no microondas",
+      "Acrescente a manteiga a massa e bata até incorporar",
+      "Coloque a massa em uma forma com fundo removível",
+      "Leve a massa ao forno a 200° C por 5 minutos",
+      "DANONINHO CASEIRO",
+      "Coloque todos os ingredientes no liquidificador e bata até ficar homogêneo",
+      "Depois coloque o danoninho dentro da massa",
+      "GANACHE",
+      "Pique o chocolate deixando todos os quadradinhos separados",
+      "Coloque em um recipiente de vidro e leve ao micro-ondas, de 30 em 30 segundos até que derreta completamente",
+      "Adicione o creme de leite e mexa bem",
+      "Cubra o danoninho com a ganache",
+      "Após isso, deixe a torta na geladeira por mais ou menos 1 hora",
+      "Desenforme e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RAFAELA MONDADORI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304617-torta-de-stikadinho.html"
+}

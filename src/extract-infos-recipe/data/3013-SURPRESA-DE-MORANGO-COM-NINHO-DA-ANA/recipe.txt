@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SURPRESA DE MORANGO COM NINHO DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 latinha (ou caixinha) de leite condensado",
+      "2 caixinhas de creme de leite (200 g)",
+      "1 e 1/2 xícaras de leite em pó",
+      "2 sachês de gelatina sem sabor (24 g)",
+      "2 gelatinas sabor morango",
+      "250 ml de água fria",
+      "200 ml de água quente",
+      "morangos para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passo 1",
+      "No liquidificador coloque o leite condensado, o creme de leite, o leite em pó e a gelatina sem sabor já diluída conforme as orientações da embalagem",
+      "E bata por 2 minutos.",
+      "Passo 2",
+      "Unte a forma com um fio de óleo, transfira o creme de ninho já batido para ela.",
+      "Cubra a forma de leve à geladeira por 2 horas para que fique firme.",
+      "Passo 3",
+      "Dissolva as gelatinas de morango usando os 250 ml de água fria e os 250 mll deágua quente",
+      "Despeje-a sobre a forma já com o creme de ninho endurecido, cubra com um papel-alumínio ou insufilme e deixe por mais 3 horas.",
+      "Use os morangos e até mesmo cerejas para decorar!",
+      "Decore a gosto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303996-surpresa-de-morango-com-ninho-da-ana.html"
+}

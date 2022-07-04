@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE CANECA DE CHOCOLATE SEM OVO E SEM FERMENTO COM CALDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "6 colheres (sopa) de farinha de trigo",
+      "3 colheres (sopa) de achocolatado em pó",
+      "8 colheres (sopa) de leite",
+      "1 e 1/2 colher de manteiga ou margarina",
+      "suco de 1/2 laranja",
+      "4 pitadas de bicarbonato de sódio",
+      "Calda",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "2 colheres (sopa) de achocolatado em pó",
+      "3 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture a farinha, o achocolatado, o leite, a margarina e o suco de laranja até a massa ficar homogênea.",
+      "Misture agora o bicarbonato de sódio até incorporar a massa.",
+      "OBS: é necessário a laranja ou outra fonte de ácido para que o bicarbonato funcione como o fermento e faça o bolo crescer. Escolhi a laranja porque com o chocolate fica muito gostoso.",
+      "Essa massa da para duas canecas normais ou uma caneca grande como a da foto.",
+      "Despeje a massa nas canecas e coloque em potência máxima por 3 minutos e trinta segundos no micro-ondas. OBS: se quiser pode misturar diretamente na caneca.",
+      "Para 1 receita da caneca menor só usar metade da quantidade de ingredientes.",
+      "Calda",
+      "Misture o achocolatado, o leite e a margarina em um recipiente e leve por 30 segundos na potência máxima do micro-ondas.",
+      "Retire, mexa mais um pouco e coloque por mais 15 segundos, retire, mexa mais um pouco e coloque por mais 10 segundos.",
+      "Dessa forma a calda não vão transbordar",
+      "Se tiver um recipiente maior, menos chance de transbordar a calda dentro do micro-ondas.",
+      "Com a calda ainda quente, despeje no bolo para ele ficar bem molhadinho."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LUIZ RODRIGUES DA SILVA JUNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301367-bolo-de-caneca-de-chocolate-sem-ovo-e-sem-fermento-com-calda.html"
+}

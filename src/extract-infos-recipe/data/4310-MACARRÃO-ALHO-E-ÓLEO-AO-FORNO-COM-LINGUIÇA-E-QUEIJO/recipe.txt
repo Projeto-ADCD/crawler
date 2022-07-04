@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO ALHO E ÓLEO AO FORNO COM LINGUIÇA E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão de sua preferência",
+      "1 cebola picada",
+      "1 tomate em pedaços",
+      "4 dentes de alho picados",
+      "240 g de linguiça defumada de pedaços",
+      "100 g de queijo parmesão em cubos",
+      "10 tomates cereja",
+      "azeite de oliva",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola com um pouco de azeite e sal de deixe até caramelizar misturando em intervalos.",
+      "Adicione os pedaços de linguiça e misture.",
+      "Após 5 minutos, reserve.",
+      "Inicie o cozimento do macarrão e quando estiver al dente coloque em um pirex.",
+      "Acrescente o refogado ao macarrão junto com azeite e misture.",
+      "Posteriormente, adicione os cubos de queijo parmesão e os tomates tanto cereja e o comum.",
+      "Leve ao forno por 15 minutos de 210° C a 240º C",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301391-macarrao-alho-e-oleo-ao-forno-com-linguica-e-queijo.html"
+}

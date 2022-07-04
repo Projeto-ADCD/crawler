@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MOQUECA DE PEIXE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 postas de peixe sororoca ou piramutaba (900 g)",
+      "1 cebola cortada em rodelas",
+      "1 tomate cortado em rodelas",
+      "1/2 pimentão em rodelas",
+      "2 dente de alho amassado",
+      "1/2 vidro de leite de coco",
+      "1 colhe de (sopa) azeite de dendê a gosto",
+      "1 colher (chá) de colorau",
+      "1/2 xícara (chá) de molho de tomate",
+      "coentro picado a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o peixe e reserve",
+      "Em uma panela aqueça o azeite de dendê e coloque metade da cebola, do alho, do tomate e do pimentão e refogue um pouco ",
+      "Em seguida acrescente as postas de peixe e coloque o restante da cebola, do alho, do tomate e do pimentão, o molho de tomate, o colorau, o leite de coco, o coentro e o sal ",
+      "Deixe cozinhar por 20 minutos e sirva com arroz branco "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "VANUBIA PATRICIA COSTA DINIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303433-moqueca-de-peixe-facil.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ARROZ CARRETEIRO DELICIOSO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz lavado, escorrido e seco (250 ml)",
+      "500 g carne-seca",
+      "1 cenoura pequena ralada",
+      "1 lata de ervilha",
+      "4 dentes grandes de alho espremidos",
+      "2 cebolas médias cortadas em meia lua",
+      "2 colheres (sobremesa) de gordura de porco ou óleo",
+      "sal a gosto",
+      "água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      " Corte a carne-seca em lascas bem finas.",
+      "Leve para ferver por três vezes, trocando a água, para tirar o sal.",
+      "Escorra e reserve.",
+      "Em uma panela de pressão, coloque 1 colher de gordura e, assim que aquecer, coloque a metade do alho para fritar.",
+      "Assim que o alho estiver dourado, coloque a carne-seca.",
+      "Quando começar a querer fritar, coloque água suficiente para cozinha e acerte o sal.",
+      "Tampe a panela e deixe cozinhar por uns 30 minutos na pressão.",
+      "Enquanto a carne cozinha, coloque o resto da gordura em uma panela.",
+      "Coloque o alho e deixe fritar.",
+      "Após, coloque o arroz para refogar.",
+      "Assim que estiver no ponto para colocar água, coloque a cenoura, o sal e a água para o cozimento.",
+      "Quando a carne estiver cozida, abra a panela e deixe no fogo para secar a água restante do cozimento, dando uma leve fritadinha nela.",
+      "Coloque as cebolas e vá mexendo de vez em quando até que fiquem cozidas.",
+      "Coloque a ervilha e mexa mais um pouco.",
+      "Desligue o fogo.",
+      " Agora é só acrescentar o arroz pronto, envolvendo-o na carne-seca e servir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TERESINHA DE JESUS GONÇALVES BITTENCOURT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302223-arroz-carreteiro-delicioso-e-facil.html"
+}

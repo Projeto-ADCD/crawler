@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM COCO ORIGINAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de açúcar",
+      "2 xícaras de farinha de rosca",
+      "2 xícaras chocolate em pó",
+      "250 g de manteiga ou margarina",
+      "4 ovos grandes (pois não leva leite)",
+      "1 coco grande ralado coco fresco e não de pacote",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o forno a 180º C",
+      "Bata bem a margarina, o açúcar e as gemas até formar um creme bem homogêneo",
+      "Depois junte a farinha de rosca, o coco, o chocolate em pó e misture bem na mão",
+      "Adicione o fermento misture bem e por último as claras em neve mexendo devagar até misturar com toda massa",
+      "Leve ao forno em forma untada e enfarinhada.",
+      "O tempo de cozimento depende muito da potência do forno, então o ideal é depois de 30 minutos você dar uma olhada como está a sua massa (o ponto certo é quando enfiamos uma faca e ela sai limpa)",
+      "Geralmente esse bolo demora uma hora pra assar no meu forno, então depende muito da qualidade do forno pra determinar esse tempo.",
+      "Também aconselho colocar em uma forma de furo, pois por ser um bolo pesado ele demora mesmo para assar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Estou enviando essa receita porque não achei aqui no TudoGostoso e essa é a original e podem fazer porque vocês vão simplesmente amar!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300928-bolo-de-chocolate-com-coco-original.html"
+}

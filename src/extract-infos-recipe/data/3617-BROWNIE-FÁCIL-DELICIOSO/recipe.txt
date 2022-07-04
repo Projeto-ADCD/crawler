@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BROWNIE FÁCIL DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de manteiga",
+      "2 xícaras (chá) de chocolate em pó",
+      "1 e 1/4 de farinha de trigo (com fermento)",
+      "2 xícaras (chá) de açúcar",
+      "4 ovos",
+      "2 pitadas de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture ovos com açúcar",
+      "Agregue o resto dos ingredientes na mistura até formar um creme uniforme",
+      "Despeje em uma assadeira (untada) e leve ao forno médio por 40 min",
+      "Retire e se você quiser corte no tamanho do brownie ou deixe em forma de bolo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303037-brownie-facil-delicioso.html"
+}

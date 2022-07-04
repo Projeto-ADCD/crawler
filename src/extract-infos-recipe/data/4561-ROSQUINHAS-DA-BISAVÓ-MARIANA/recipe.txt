@@ -1,0 +1,23 @@
+{
+  "nome_receita": "ROSQUINHAS DA BISAVÓ MARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de polvilho azedo",
+      "1 colher (sopa) cheia de açúcar",
+      "Uma pitada de sal",
+      "1 ovo grande ou 2 pequenos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes secos em uma vasilha.",
+      "Misture o(s) ovo(s) aos ingredientes secos e sovar até pegar consistência.",
+      "Faça pequenas bolinhas para poder rolar a massa.",
+      "Forme os tubinhos de massa em rosquinhas e frite em óleo em temperatura média."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "RAPHAEL CASTELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300846-rosquinhas-da-bisavo-mariana.html"
+}

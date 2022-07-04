@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CHÁ DE AMENDOIM (SEM LEITE CONDENSADO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de amendoim torrado sem sal",
+      "1 colher (sobremesa) rasa de amido de milho (maisena)",
+      "1 xícara de água quente",
+      "1 litro de leite",
+      "2 xícaras de açúcar",
+      "1 pau de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata o amendoim com a água quente.",
+      "Após triturar (fica quase uma pasta), acrescente 2 xícaras de leite e o amido.",
+      "Bata mais um pouco.",
+      "Em uma panela, adicione o açúcar, o leite a canela em pau e a mistura do liquidificador.",
+      "Leve ao fogo baixo, mexendo até ferver."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Quanto mais ferver, mais grosso fica. Se quiser mais grosso, quase tipo um mingau, acrescente mais amido."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300715-cha-de-amendoim-sem-leite-condensado.html"
+}

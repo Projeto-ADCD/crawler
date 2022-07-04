@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÉ-DE-MOLEQUE DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de amendoim torrado",
+      "250 g de castanhas-do-pará cortadas ao meio",
+      "1 lata de leite condensado (395 g)",
+      "1 e 1/2 xícara (chá) de açúcar demerara",
+      "1 xícara (chá) de açúcar mascavo",
+      "manteiga para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário alto, misture o amendoim com a castanha, o leite condensado e os açúcares e leve ao micro-ondas em potência alta por 10 minutos",
+      "Mexa a cada 2 minutos ou até obter um doce cremoso.",
+      "Imediatamente, despeje sobre um papel-alumínio untado com a manteiga e espere até o completo endurecimento.",
+      "Corte da forma que desejar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAMELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300345-pe-de-moleque-de-micro-ondas.html"
+}

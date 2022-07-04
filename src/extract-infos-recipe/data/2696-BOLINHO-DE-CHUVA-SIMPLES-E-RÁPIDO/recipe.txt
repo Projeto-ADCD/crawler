@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA SIMPLES E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 e 1/4 de xícaras de trigo",
+      "1 copo de leite",
+      "1 xícara de açúcar",
+      "1 colher (sopa) de fermento em pó",
+      "açúcar e canela em pó para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma tigela, bata bem com um garfo ou um batedor, até ficar bem lisinha",
+      "É importante colocar trigo até a massa ficar bem homogênea, não pode ficar muito mole.",
+      "Com a ajuda de duas colheres, vá colocando na panela com óleo quente, tire quando ficar dourado os dois lados.",
+      "Você pode polvilhar com canela e açúcar.",
+      "Serve bem de 5 a 6 pessoas."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KELLY FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304630-bolinho-de-chuva-simples-e-rapido.html"
+}

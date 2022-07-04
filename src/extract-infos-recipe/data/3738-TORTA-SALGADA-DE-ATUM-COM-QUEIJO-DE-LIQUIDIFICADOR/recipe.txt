@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA SALGADA DE ATUM COM QUEIJO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "3 ovos",
+      "2 e 1/2 xícaras de leite frio",
+      "1 xícara de óleo",
+      "2 colheres (sopa) de requeijão",
+      "1 colher (sopa) rasa de fermento",
+      "1 colher (chá) de sal",
+      "3 colheres (sopa) de queijo parmesão ralado",
+      "Recheio",
+      "2 latas de atum",
+      "3 tomates maduros picados",
+      "1 cebola média picada",
+      "250 g de muçarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes da massa no liquidificador.",
+      "Despeje a metade da massa batida em uma forma untada e polvilhada com farinha.",
+      "Coloque o recheio: os tomates, a cebola, o atum e a muçarela.",
+      "Cubra com o restante da massa e polvilhe com queijo parmesão.",
+      "Asse em forno preaquecido."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCINE FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302806-torta-salgada-de-atum-com-queijo-de-liquidificador.html"
+}

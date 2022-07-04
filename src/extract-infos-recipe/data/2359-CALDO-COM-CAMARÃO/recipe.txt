@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CALDO COM CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras grandes",
+      "2 batatas médias",
+      "2 cebolas grandes",
+      "1 pimentão vermelho",
+      "2 tomates grandes",
+      "1 colher de extrato de tomate",
+      "1 dente de alho",
+      "1 colher (chá) de corante",
+      "2 colheres de azeite doce",
+      "coentro a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caçarola, aqueça o azeite doce e refogue as cebolas e alho.",
+      "Em seguida adicione os tomates, cenouras, batatas, coentro, corante e extrato de tomate.",
+      "Cubra o refogado com 1 litro de água, acrescentando sal e pimenta a gosto e deixe cozinhar por 30 minutos em fogo médio.",
+      "Após cozido, bata o refogado no liquidificador por 2 minutos.",
+      "Em uma frigideira, frite os camarões em alho e azeite doce acrescentando pimenta vermelha.",
+      "Sirva o caldo em prato fundo com uma porção dos camarões e limão.",
+      "Dica: pão de alho como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JAMILE KOLLAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305411-caldo-com-camarao.html"
+}

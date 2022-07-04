@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE BANANA COM PASSAS DO LUCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 bananas prata ou outra do seu gosto",
+      "1 vidro de leite de coco (200 ml)",
+      "1 caixa de leite condensado de 395g",
+      "1/2 xícara de passas sem sementes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as bananas com o leite de coco e leite condensado.",
+      "Coloque num recipiente e adicione por cima as passas.",
+      "Leve ao congelador por aproximadamente 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300831-sorvete-de-banana-com-passas-do-lucio-cezar.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BISCOITO ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo",
+      "3 ovos",
+      "2 colheres (sopa) de leite",
+      "3 colheres (sopa) de óleo",
+      "3 colheres (sopa) de manteiga",
+      "1 colher (chá) de fermento químico em pó",
+      "1 colher (chá) de sal",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno.",
+      "Bata em uma batedeira o leite, o óleo, o açúcar, o sal, a margarina e os ovos.",
+      "Vá adicionando o trigo aos poucos.",
+      "Adicione o fermento químico em pó e bata novamente.",
+      "Depois que a massa pegar uma consistência, sove em uma superfície lisa e limpa até que a massa fique bem homogênea.",
+      "Enrole da maneira que achar melhor e colocar pra assar.",
+      "Forno a 180° C por mais ou menos 30 minutos, vai depender do seu forno.",
+      "O ponto ideal é quando os biscoitos estiverem levemente dourados."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FRANCIELLEN QUEDEVEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304953-biscoito-assado.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOBREMESA GOSTOSA DE BOLACHA/BISCOITO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1/2 xícara de suco de um limão",
+      "2 a 3 pacotes de biscoito de chocolate recheado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje o leite condensado e o limão numa vasilha e mexa até criar uma mistura homogênea de textura grossa.",
+      "Quebre um pacote da sua bolacha e misture.",
+      "Unte a travessa onde deseja colocar a sua sobremesa com um pouco (só um pouco mesmo) da sua mistura",
+      "Em seguida, coloque uma camada de bolacha (dessa vez sem quebrar), passe outra camada da mistura",
+      "Mais uma de bolacha e mais uma da sua mistura.",
+      "Deixe na geladeira por aproximadamente 35 a 40 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se tiver sobrado bolacha, quebre por cima da última camada de mistura antes de levar a geladeira"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DÁVILA MOARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305447-sobremesa-gostosa-de-bolacha-barra-biscoito-recheado.html"
+}

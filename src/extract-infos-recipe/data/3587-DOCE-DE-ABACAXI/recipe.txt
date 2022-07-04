@@ -1,0 +1,27 @@
+{
+  "nome_receita": "DOCE DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi médio",
+      "2 gelatinas de abacaxi ou sem sabor",
+      "1 leite condensado",
+      "1 creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o abacaxi em pedaço pequenos, e deixe cozinha por 4 minutos",
+      "Após cozido escorra a água.",
+      "Não jogue a água que cozinhou o abacaxi fora, deixe para fazer a gelatina.",
+      "Após cozinhar o abacaxi coloque na geladeira para esfriar.",
+      "Faça a gelatina (com a água do abacaxi) e coloque para bater no liquidificador com o creme de leite e o leite condensado por uns 5 minutos",
+      "Depois que bater pegue o abacaxi, forre o fundo da forma com os pedaços de abacaxi e despeje o líquido do liquidificador.",
+      "Após feito isso tampe a forma com papel alumínio e leve na geladeira por uns 30 minutos",
+      "Feito isso é só servir e saborear."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSY GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303100-doce-de-abacaxi.html"
+}

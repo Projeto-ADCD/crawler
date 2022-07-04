@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PASTELZINHO DE VODKA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) ou 480 g de farinha de trigo",
+      "2 colheres (sopa) de oleo",
+      "1 copo (americano) de água morna ou 3/4 de xícara (chá)",
+      "2 colheres (chá) de sal",
+      "4 colheres (sopa) de vodka",
+      "Recheio",
+      "250 g de carne moída refogada a gosto ou 250 g de queijo mussarela ralada no ralo grosso com tomate picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, coloque a farinha de trigo, o óleo, a água morna, o sal e a vodka ",
+      "Sove bem até formar uma massa homogênea.",
+      "Transfira a massa para uma bancada enfarinhada e sove por mais ou menos 5 minutos ou até a massa ficar homogênea.",
+      "Abra a massa com um rolo ou cilindro ate ficar bem fina.",
+      "Com uma faca corte retângulos ou discos do tamanho que preferir",
+      "Coloque o recheio no meio e dobre a massa formando o pastel.",
+      "Com um garfo, aperte nas bordas para fechar bem.",
+      "Frite os pasteis em óleo quente até dourar.",
+      "Retire e escorra em papel absorvente.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RACHEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305367-pastelzinho-de-vodka.html"
+}

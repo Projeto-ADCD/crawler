@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PUDIM CREMOSO E FÁCIL DO CHRISTIAN",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas 395 g de leite condensado",
+      "1 caixinha 200 g de creme de leite",
+      "8 gemas de ovos",
+      "750 ml de leite",
+      "250 g ou 1 xícara de açúcar",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Coloque o açúcar na panela e deixe derreter em fogo baixo",
+      "Misture de vez em quando para não queimar, até formar uma calda um pouco escura, em seguida adicione a água aos poucos com cuidado",
+      "Mexa até virar uma calda bem lisa, deixe esfriar alguns segundos até sair todas as bolhas e coloque na forma onde vai assar o pudim e deixe a calda esfriar na forma.",
+      "Massa",
+      "Coloque o leite condensado, o creme de leite e as gemas peneiradas",
+      "Misture bem em um pote, adicione o leite e mexa mais um pouco",
+      "Depois coloque toda a mistura na forma onde está a calda e cubra com papel-alumínio a forma do pudim.",
+      "Deixe assar em banho-maria com a água quente no forno à 180° C graus por 1 hora e 30 minutos ou até quando colocar um palito ou faca e sair limpo.",
+      "Deixe gelar de um dia para o outro e é só desenformar em um prato.",
+      "Esquente uns 15 segundos a parte de baixo da forma na boca do fogão para soltar o pudim mais fácil da forma."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301308-pudim-cremoso-e-facil-do-christian.html"
+}

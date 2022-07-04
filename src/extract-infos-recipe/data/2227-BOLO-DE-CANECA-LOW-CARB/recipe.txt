@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CANECA LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana nanica",
+      "1 ovo",
+      "1 colher (sopa) de farinha de aveia",
+      "1 colher (café) de canela em pó",
+      "1 colher (café) de cacau em pó se preferir, não é necessário"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana com um garfo.",
+      "Adicione o ovo e bata como se fosse um omelete.",
+      "Adicione a farinha de aveia e a canela em pó e misture bem.",
+      "Coloque a mistura em uma caneca de louça.",
+      "Leve no micro-ondas por 2 minutos.",
+      "Espere esfriar e aproveite.",
+      "Obs: se quiser pode decorar com 2 rodelas de banana e canela em pó."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARCELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305671-bolo-de-caneca-low-carb.html"
+}

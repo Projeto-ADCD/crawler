@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO LOWCARB DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picada",
+      "1 alho puxado",
+      "1 colher (sobremesa) de ervas",
+      "1 pacote de queijo ralado (50 g)",
+      "4 ovos",
+      "4 colheres (sopa) de leite em pó integral",
+      "12 colher (sopa) de farinha lowcarb (uso uma mistura de amêndoas e castanha de caju)",
+      "1/2 colher (sobremesa) de sal (cuidado se seu queijo ralado for muito salgado)",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes, exceto o fermento",
+      "Depois de obter uma mistura homogênea, acrescente o fermento",
+      "Coloque em uma forma de bolo inglês",
+      "Asse em forno preaquecido a 180° C por 25 minutos a 30 minutos, ou até quando ficar um garfo e saia limpo"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANDREA FIALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305076-pao-lowcarb-de-cebola.html"
+}

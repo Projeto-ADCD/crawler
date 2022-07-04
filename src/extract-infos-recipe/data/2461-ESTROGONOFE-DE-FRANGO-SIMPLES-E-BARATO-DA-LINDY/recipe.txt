@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO SIMPLES E BARATO DA LINDY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de frango cortado em cubos (tempere com sal, corante e cominho)",
+      "1 caldo de galinha",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) de queijo ralado",
+      "1/2 xícara de molho de tomate ",
+      "1 lata de dueto (milho verde e ervilha)",
+      "2 colher (sopa) de óleo",
+      "1 colher (sobremesa) de corante",
+      "1 colher (sobremesa) de pimenta-do-reino/cominho",
+      "1/2 cebola picada",
+      "1/4 de pimentão picado",
+      "2 dentes de alho machucados",
+      "coentro a gosto",
+      "1 pitada de sal a gosto ou tempero completo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione a cebola, o pimentão, o alho, o coentro c/ o corante, cominho, sal a gosto ou tempero completo e o tablete de galinha",
+      "Misture tudo e refogue no óleo em fogo médio.",
+      "Adicione os cubos de frango e misture bem.",
+      "Adicione água até cobrir todo o frango e deixe cozinhar.",
+      "Após cozido e já fervendo, despeje o molho de tomate de sabor e mexa bem.",
+      "Quando abaixar o volume do caldo, já com o molho de tomate de sabor, despeje o creme de leite e o queijo ralado.",
+      "Deixe por mais 3 minutos e depois despeje o dueto.",
+      "Desligue o fogo e está pronto.",
+      "Opcional: Sirva com arroz branco e batata palha"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LINDY STEINY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305156-estrogonofe-de-frango-simples-e-barato-da-lindy.html"
+}

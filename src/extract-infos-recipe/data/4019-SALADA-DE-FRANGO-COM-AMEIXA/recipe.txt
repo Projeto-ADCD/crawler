@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SALADA DE FRANGO COM AMEIXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800g peito de frango",
+      "200g ameixa seca",
+      "200g uva passa",
+      "250g azeitona sem caroço (1 sachê)",
+      "1 maço de couve (5 folhas)",
+      "1 lata de milho",
+      "200g ricota, queijo minas ou provolone (em cubinhos)",
+      "2 colheres (sopa) de manteiga",
+      "1 cebola grande",
+      "3 dentes de alho",
+      "suco de duas laranjas",
+      "azeite de oliva",
+      "chimichurri"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em cubinhos, coloque numa tigela com o suco das 2 laranjas e meia colher de sopa rasa sal, misture bem, reserve e deixe por 10 minutos.",
+      "Corte o abacaxi, a ricota ou o queijo de sua preferência em cubinhos.",
+      "Tire os talos da couve, corte em tiras finas depois pique, meia cebola deve ser picada, machuque o alho e reserve tudo em vasilhas separadas.",
+      "Coloque um fio de azeite numa frigideira grande antiaderente e despeje o frango, vá mexendo até que fique consistente, deixe no fogo até secar a água que solta do frango e do suco de laranja, coloque o frango em oura vasilha.",
+      "Na mesma frigideira acrescente azeite, um pouco da manteiga, a metade da cebola, o alho e quando a cebola estiver transparente acrescente a couve picada, volte com o frango e vá mexendo.",
+      "Nesse momento, acrescente o restante da manteiga, o chimichurri (pode substituir por tomilho ou orégano) mexa mais um pouco e reserve.",
+      "Quando frango estiver morno, acrescente tudo que você cortou em cubinhos: a ricota, queijo minas ou provolone, o abacaxi, a azeitona, o milho, as ameixas e as uvas passa, finalize com a outra metade da cebola picada e azeite a gosto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROSERVAL DU CARMU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302125-salada-de-frango-com-ameixa.html"
+}

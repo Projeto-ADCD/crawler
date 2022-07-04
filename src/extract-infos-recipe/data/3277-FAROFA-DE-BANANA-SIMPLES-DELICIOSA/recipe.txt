@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FAROFA DE BANANA SIMPLES DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bacon",
+      "1 kg de farinha de mandioca",
+      "5 bananas-da-terra",
+      "1 cebola grande",
+      "farinha de trigo para empanar a banana"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e reserve",
+      "Frite a banana e reserve",
+      "Depois frite a cebola na manteiga, adicione todos os ingredientes e misture tudo",
+      "Por último, experimente o sal, salpique um pouco de cheiro-verde e está pronto pra saborear"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "SALETE ADILES SAMULEWESKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303622-farofa-de-banana-simples-deliciosa.html"
+}

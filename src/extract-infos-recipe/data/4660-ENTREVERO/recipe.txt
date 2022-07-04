@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ENTREVERO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de bacon picado em cubos",
+      "250 g de calabresa em cubos",
+      "250 g de frango picado em cubos",
+      "250 g de patinho bovino picado em cubos",
+      "250 g de lombo suíno picado em cubos",
+      "750 g de pinhão cozido descascado e picado em cubos",
+      "2 cebolas grandes picadas",
+      "1 pimentão picado (de sua preferência)",
+      "1 cabeça de brócolis picada",
+      "pimenta a gosto",
+      "cebolinha e salsinha a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere as carnes ao seu gosto",
+      "Frite o bacon e a calabresa e depois reserve",
+      "Frite o frango, o patinho bovino e o lombo suíno",
+      "Adicione a cebola, o pimentão,o brócolis e deixe refogar um pouco",
+      "Adicione o pinhão",
+      "Adicione o bacon e a calabresa que você reservou",
+      "Adicione a cebolinha, a salsinha e os demais temperos a sua escolha",
+      "Prepare esse prato usando um disco que ficará melhor ou uma frigideira grande"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANDRE THEISS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300533-entrevero.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LINGUIÇA NO PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 linguiças toscana",
+      "1 xícara parmesão ralado",
+      "200 g requeijão",
+      "1/2 cebola cortada em cubos",
+      "2 dentes de alho",
+      "4 pães franceses",
+      "50 g de bacon em cubos",
+      "150 g de mussarela ralado",
+      "cheiro-verde, pimenta e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece retirando a pele das linguiças e reserve.",
+      "m uma frigideira no fogo médio, frite os cubos de bacon.",
+      "Junte as linguiças e os temperos e refogue bastante.",
+      "Coloque o alho, a cebola e dê mais uma bela dourada em tudo.",
+      "Desligue o fogo e junte a mistura o queijo parmesão e o requeijão.",
+      "Misture tudo muito bem e reserve.",
+      "Abra os pães de acordo com o seu gosto.Com o auxílio de uma faca, faça cortes da sua preferência: no topo do pão, na lateral ou até mesmo retirando toda a parte de cima, como se fosse uma tampa.",
+      "Tire um pouco do miolo e recheie os pães com todo a mistura reservada.",
+      "Disponha-os em uma travessa e salpique queijo mussarela por cima de tudo.",
+      "Leve ao forno por pelo menos 20 minutos ou até dourar completamente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "THAINAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305548-linguica-no-pao.html"
+}

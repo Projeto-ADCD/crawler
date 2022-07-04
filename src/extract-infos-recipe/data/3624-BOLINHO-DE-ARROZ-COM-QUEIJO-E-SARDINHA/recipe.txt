@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM QUEIJO E SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo com fermento",
+      "1 lata de sardinha",
+      "queijo mussarela ralado a gosto",
+      "tomate cereja a gosto",
+      "manjericão a gosto",
+      "1 colher (sopa) amido de milho",
+      "1/2 xícara de leite",
+      "arroz cozido (o quanto quiser, depende da quantidade de bolinhos que queira fazer)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o arroz cozido com um garfo",
+      "Pegue a xícara de leite e misture com o arroz",
+      "Coloque o amido de milho, manjericão, tomate picado pequeno e a sardinha bem amassada.",
+      "Vá adicionando a farinha de trigo aos poucos até ficar no ponto ",
+      "Feito isso, unte sua mão com óleo para não grudar a massa",
+      "Pegue uma colher e vá fazendo bolinhas, fure a bolinha e coloque o queijo dentro e feche",
+      "Coloque o óleo em uma panela para esquentar, coloque os bolinhos esperando dourar um lado depois o outro.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "KARLA MICHELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303015-bolinho-de-arroz-com-queijo-e-sardinha.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ARROZ DE FORNO RAPIDINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de arroz cozido e temperado",
+      "1 lata de milho com ervilha",
+      "1 lata de seleta de legumes",
+      "1 caixinha de molho pronto de 4 queijos",
+      "100 g de queijo prato ou mussarela fatiada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Desprenda o arroz já cozido e temperado, coloque em um refratário",
+      "Adicione as latas de legumes e o molho 4 queijos.",
+      "Mexa bem todos os ingredientes.",
+      "Em uma forma untada com azeite, adicione uma porção de arroz e distribua pela forma, coloque uma camada de queijo fatiado sem deixar espaços",
+      "Acrescente uma nova camada de arroz e por cima corte em cubinhos o restante do queijo fatiado",
+      "Coloque por cima a última camada de arroz.",
+      "Leve o arroz ao forno ja preaquecido por 10 minutos a180° C",
+      "Deixe de 15 a 20 minutos e estará pronto.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: use forma 27,5cm X 18,5cm"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ROSY ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304573-arroz-de-forno-rapidinho.html"
+}

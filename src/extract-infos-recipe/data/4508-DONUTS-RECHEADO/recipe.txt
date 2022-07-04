@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DONUTS RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite morno",
+      "1 sachê de fermento biológico",
+      "1/2 xícara (chá) de açúcar",
+      "2 colheres cheia de manteiga",
+      "2 ovos inteiro",
+      "1 pitada de sal",
+      "5 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o leite morno, o sachê de fermento biológico e a manteiga e mexa até a manteiga derreter",
+      "Adicione o açúcar os ovos e o sal.",
+      "Coloque a farinha de trigo aos poucos",
+      "Até poder sovar a massa.",
+      "O potno cert é quando a massa gruda no dedo, mas não fica massa nenhuma (não adicione mais farinha pois a massa pode ficar seca)",
+      "Deixe descansar por 30inutos e abra a massa até ficar na espessura de 1 dedo",
+      "Corte com no formato desejado e deixe descansar por mais 30 minutos",
+      "A gordura não pode estar muito quente nem muito fria.",
+      "Coloque um pedacinho de massa e quando começar a dourar está no ponto.",
+      "Lembrando de não deixar a temperatura aumentar pois o bolinho pode ficar cru",
+      "Espere esfriar, corte e coloque o recheio de sua preferência e a cobertura que preferir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DAIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300961-donuts-recheado.html"
+}

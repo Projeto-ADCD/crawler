@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE BANANA SUPERSIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 e 1/2  xícaras de açúcar",
+      "26 a 30 bananas maduras amassadas (usei médias)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o açúcar em uma uma panela em fogo médio, mexendo sem parar.",
+      "Derreta o açúcar por completo.",
+      "Em seguida, adicione as bananas amassadas e mexendo sem parar.",
+      "Até dar o ponto desejado.",
+      "Troque o recipiente e pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LETICIA FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302605-doce-de-banana-supersimples.html"
+}

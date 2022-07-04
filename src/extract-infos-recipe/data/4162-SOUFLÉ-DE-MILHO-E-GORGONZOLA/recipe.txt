@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SOUFLÉ DE MILHO E GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho drenado",
+      "100 g de queijo gorgonzola",
+      "3 xícaras (chá) de leite",
+      "3 colheres (sopa) de farinha de trigo peneirada",
+      "2 ovos (gemas e claras separadas)",
+      "1 colher (sopa) de azeite",
+      "1 colher (café) de noz-moscada ralada",
+      "1 colher (café) de cominho em pó",
+      "5 folhas de manjericão fresco",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no copo do liquidificador todos os ingredientes da receita, menos as duas claras.",
+      "Bata tudo muito bem.",
+      "Cuidado com a quantidade de sal pois o queijo gorgonzola já é salgado.",
+      "Bata as claras em neve e acrescente-as no copo do liquidificador e misture manualmente e com delicadeza.",
+      "Unte um refratário médio com azeite e coloque a mistura.",
+      "Leve a forma ao forno pré-aquecido a 170ºC por aproximadamente 35 minutos ou até dourar.",
+      "Antes de servil polvilhe com salsinha picada",
+      "Se quiser servir como uma entrada, coloque a massa em vasilhas individuais untadas e leve ao forno."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301700-soufle-de-milho-e-gorgonzola.html"
+}

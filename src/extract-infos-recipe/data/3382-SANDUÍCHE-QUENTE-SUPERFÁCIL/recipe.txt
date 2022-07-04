@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SANDUÍCHE QUENTE SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 fatias de pão sem casca",
+      "2 colheres (sopa) de maionese",
+      "2 colheres (sopa) de requeijão",
+      "1/2 copo de leite",
+      "8 fatias de presunto",
+      "4 fatias de muçarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um retratário retangular ou quadrado compativel com a cavidade do forno, forme uma camada de pão",
+      "Passe metade da maionese, do requeijão e leite e cubra com o presunto",
+      "Forme outra camada igual e cubra a última camada com queijo",
+      "Leve ao micro-ondas ou no forno por 3 minutos na potência alta"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUARA TELLES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303473-sanduiche-quente-superfacil.html"
+}

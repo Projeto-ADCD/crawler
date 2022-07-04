@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BATATA GRATINADA COM BACALHAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau dessalgado e desfiado",
+      "2 colheres (sopa) de azeite",
+      "1 cebola picada",
+      "3 dentes de alho picados",
+      "azeitonas picadas a gosto",
+      "Molho Branco",
+      "3 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de farinha de trigo",
+      "3 xícaras de leite",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente uma frigideira com o azeite e refogue a cebola com o alho, até ficar levemente dourada",
+      "Adicione o bacalhau e deixe cozinhar por 10 minutos, acrescente as azeitonas",
+      "Para o molho branco, esquente uma panela com a manteiga, adicione a farinha e mexa com um fouet por alguns segundos",
+      "Acrescente o leite, o sal e continue mexendo até engrossar e ferver",
+      "Misture o bacalhau refogado com o molho branco.",
+      "Montagem",
+      "Em um refratário faça camadas com as batatas e a mistura do molho branco com bacalhau",
+      "Finalize com queijo ralado a gosto e leve ao forno a 200° C por 40 a 50 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAQUEL SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300086-batata-gratinada-com-bacalhau.html"
+}

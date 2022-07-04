@@ -1,0 +1,34 @@
+{
+  "nome_receita": "OVO RECHEADO COM TORTA DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de chocolate branco derretido ",
+      "200 g de leite condensado",
+      "60 ml de suco de limão",
+      "50 g de biscoito maisena",
+      "Merengue suíço",
+      "1 clara",
+      "2 xícaras (chá) de açúcar",
+      "raspas de limão para enfeitar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite condensado com o suco de limão até ficar um creme consistente.",
+      "Triture os biscoitos no processador.",
+      "Utilize uma forma de ovo de páscoa para moldar o chocolate branco derretido",
+      "Reserve na geladeira até endurecer.",
+      "Retorne com o chocolate já moldado, coloque a farofa de biscoito e espalhe",
+      "Por cima, coloque o creme de limão",
+      "Junte a clara e o açúcar em banho- maria até que o açúcar derreta por completo (4 minutos aprox.)",
+      "Retire quando o processo tiver finalizado.",
+      "Ainda morno e com uma batedeira, dê o ponto de bico firme.",
+      "Espalhe sobre o creme de limão ou use um bico de confeiteiro",
+      "Enfeite com raspinhas de limão. "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305306-ovo-recheado-com-torta-de-limao.html"
+}

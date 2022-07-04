@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ DE OVOMALTINE FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 latas de creme de leite",
+      "3 latas de leite condensado",
+      "1 lata de leite ",
+      "6 ovos",
+      "1 pacote de ovomaltine ",
+      "8 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça uma papa com o leite condensado, as gemas e o leite.",
+      "Depois de engrossar, deixe esfriar e acrescente 2 latas de creme de leite.",
+      "Bata as claras até o ponto de neve, depois acrescente o açúcar e a lata de creme de leite restante e misture.",
+      "Montagem ",
+      "Coloque em um pirex de vidro, de forma intercalada, o creme da primeira etapa, o ovomaltine, novamente o creme e o creme da segunda etapa.",
+      "Finalize com o ovomaltine por cima.",
+      "Leve à geladeira.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CHRISTIANNE BELFORT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302535-pave-de-ovomaltine-facil-e-delicioso.html"
+}

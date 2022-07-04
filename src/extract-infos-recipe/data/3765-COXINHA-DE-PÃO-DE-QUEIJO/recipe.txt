@@ -1,0 +1,38 @@
+{
+  "nome_receita": "COXINHA DE PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de azeite",
+      "1/2 cebola picada",
+      "3 dentes de alho",
+      "300 g de frango desfiado",
+      "1 xícara de extrato de tomate",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "2 colheres (sopa) de salsinha",
+      "1 xícara de queijo parmesão",
+      "3 xícaras de polvilho azedo",
+      "1/2 xícara de polvilho doce",
+      "2 xícaras de requeijão"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Em uma panela, aqueça o azeite e refogue a cebola e o alho. ",
+      "Acrescente o frango desfiado e o extrato de tomete e misture bem. ",
+      "Tempere com pimenta-do-reino, sal e salsinha; reserve. "
+    ],
+    "MASSA": [
+      "Em uma tigela, misture  o queijo parmesão, o polvilho azedo, o polvilho doce e o requeijão.",
+      "Misture bem até formar uma massa homogênea. ",
+      "Abra um pedaço da massa na mão e recheie. ",
+      "Feche a massa, moldando a coxinha. ",
+      "Acomode as coxinhas em uma assadeira e leve ao forno preaquecido (180° C), por cerca de 30 minutos. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302740-coxinha-de-pao-de-queijo.html"
+}

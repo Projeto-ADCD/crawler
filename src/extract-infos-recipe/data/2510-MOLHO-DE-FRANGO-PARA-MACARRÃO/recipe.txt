@@ -1,0 +1,40 @@
+{
+  "nome_receita": "MOLHO DE FRANGO PARA MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 creme de leite ",
+      "1 requeijao",
+      "1 copo de leite (200 ml)",
+      "1 calda de galinha",
+      "2 colheres (sopa) de amido de milho",
+      "300 g de frango cozinhado e desfiado ",
+      "1/2 cebola picada",
+      "1 dente de alho ",
+      "1 colher de margarina",
+      "1 colher de óleo",
+      "pitada de sal",
+      "queijo a gosto ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue a cebola e o alho e refogue na margarina e no óleo em uma panela média",
+      "Quando a cebola dourar coloque o leite, os creme de leite e o requeijao",
+      "Dissolva o caldo sabor galinha em um pouco de água quente e acrescente ",
+      "Em seguida, acrescente o frango desfiado e mexa",
+      "Em seguida, coloque o amido dissolvido em 1 colher de água e acrescente até engrossar ",
+      "Veja se precisa de sal ",
+      "Por último coloque o queijo e pronto ",
+      "Sempre uso esse molho por cima da massa ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva sempre quente e coloque ketchup a gosto "
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALIINE LEALL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305055-molho-de-frango-para-macarrao.html"
+}

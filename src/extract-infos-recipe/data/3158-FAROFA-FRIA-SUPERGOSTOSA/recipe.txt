@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA FRIA SUPERGOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola cortada bem pequena",
+      "1 tomate picado bem pequeno",
+      "1 ovo cozido e picado",
+      "1 cenoura ralada",
+      "azeitonas picada a gosto",
+      "1 copo de farinha de milho",
+      "1 copo de farinha de mandioca torrada",
+      "1 colher (sobremesa) de molho de pimenta vermelha ",
+      "sal a gosto",
+      "2 colheres de vinagre",
+      "3/4 de xícara de óleo",
+      "1 pacotinho de nozes picadas",
+      "1 pacotinho de uvas passa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture as cebolas cortadas, o tomate picado, o ovo cozido picado, a cenoura ralada e as azeitonas.",
+      "Depois coloque 1 copo de farinha de milho, 1 copo de farinha de mandioca torrada, o molho de pimenta, sal, 2 colheres de vinagre, 3/4 de xícara de óleo e mexa tudo.",
+      "Por fim coloque as nozes picadas e as uvas passa.",
+      "Servir com lombo assado ou a carne de sua preferência.",
+      "Se quiser pode dobrar a receita."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ZUMADAR DE FATIMA CORDIBELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303799-farofa-fria-supergostosa.html"
+}

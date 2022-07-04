@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PURÊ DE BATATA DA CAMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Kg de batatas",
+      "100 g de manteiga sem sal",
+      "sal a gosto",
+      "100 ml de leite integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas e faça um purê com o espremedor",
+      "Passe por uma peneira fina para deixar mais macio",
+      "Devolva em uma panela",
+      "Adicione a manteiga e o leite e mexa bem em fogo médio até adquirir uma consistência boa",
+      "Ajuste o sal"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAMILA VIVAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300347-pure-de-batata-da-camila.html"
+}

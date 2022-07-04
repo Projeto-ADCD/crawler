@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SUNOMONO (PEPINO AGRIDOCE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pepinos japoneses médios",
+      "1 copo de açúcar (250 ml /copo de requeijão)",
+      "1 copo de água filtrada",
+      "1 copo de vinagre de álcool",
+      "1 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem os pepinos",
+      "Corte as extremidades e fatie bem fininho",
+      "Em um escorredor de macarrão, deixe as fatias de pepino",
+      "Adicione o sal e misture com as mãos.",
+      "Deixe o pepino desidratar no escorredor por aproximadamente 30 minutos.",
+      "Coloque para ferver a água com o açúcar, deixe ferver por 2 minutos e espere esfriar.",
+      "Adicione o vinagre à mistura de água/açúcar e coloque os pepinos ja desidratados de molho nessa mistura",
+      "Normalmente em 15 minutos os pepinos já estão com sabor agridoce, porém nessa receita se deixar um tempo maior o sabor se acentua.",
+      "Eu costumo deixar marinado por 2 horas ou mais.",
+      "Se quiser que acentue o sabor doce, diminua a quantidade de vinagre",
+      "Ja testei com outros tipos de vinagre e o sabor não é o mesmo, o de álcool é o mais indicado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCOS MAZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304117-sunomono-pepino-agridoce.html"
+}

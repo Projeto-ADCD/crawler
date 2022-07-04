@@ -1,0 +1,34 @@
+{
+  "nome_receita": "YAKISOBA FÁCIL DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bandeja de brócolis",
+      "1 bendeja de couve-flor",
+      "3 cenouras médias",
+      "1 vidro médio de cogumelos em conserva",
+      "1 pacote de macarrão instantâneo para yaskisoba",
+      "2 sachês de molho para yakisoba",
+      "500 g de carne patinho",
+      "10 colheres de shoyu",
+      "200 g de repolho",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte todos os legumes e os cozinhe até ficarem ao dente.",
+      "Coloque o macarrão para cozinhar logo em seguida.",
+      "Em uma panela grande, coloque a cebola e o azeite, até que ela doure",
+      "Em seguida, coloque um pouco de tempero (bem pouco, pois no shoyu tem bastante sal e pode salgar seu yakisoba)",
+      "Despeje a carne cortada em tiras.",
+      "Assim que a carne cozinhar, coloque as verduras que reservou cozidas",
+      "Coloque 10 colheres de shoyu e o macarrão.",
+      "Por último, coloque os dois sachês de molho para yakisoba e os cogumelos.",
+      "Espere 2 minutos e está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BRUNA NICOLLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303295-yakisoba-facil-de-carne.html"
+}

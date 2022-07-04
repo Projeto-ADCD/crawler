@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CALDO DE CHUCHU",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 chuchus",
+      "1 cebola",
+      "3 dentes de alho",
+      "1 colher de sopa de cebolinha",
+      "2 colheres (sobremesa) de tempero baiano (Cominho, pimenta do reino, coentro pimenta vermelha, orégano peruano, alho flocos, pimenta Jamaica, amido de milho vitaminado, cúrcuma raiz)",
+      "1 colher (sopa) bem rasa de açafrão (também conhecido como cúrcuma)",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água para ferver.",
+      "Corte e cebola e o alho e refogue.",
+      "Descasque e pique o chuchu em cubos.",
+      "Coloque o chuchu, o tempero e sal a gosto.",
+      "Adicione a água e tampe a panela de pressão.",
+      "Deixe na pressão por 10 minutos (após ter pego pressão).",
+      "Bata no liquidificador."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: pode-se acrescentar calabresa, ovo cozido ou algum ingrediente de preferência"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JÚLIA PINHEIRO DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300598-caldo-de-chuchu.html"
+}

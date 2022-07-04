@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PAVÊ DE MORANGO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 leite condensados",
+      "2 cremes de leite",
+      "1 copo grande de leite",
+      "1 suco de morango",
+      "1 copo (americano) de açúcar",
+      "1 gelatina de morango",
+      "2 cartelas de morango",
+      "2 limões",
+      "1 leite de coco (200 ml) ",
+      "2 copos de leite em pó",
+      "2 colheres de emulsificante",
+      "3 colheres (sopa) de chocolate em pó",
+      "300 g de chocolate em barra",
+      "2 pacotes de bolacha de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador 1 leite condensado, 1 creme de leite, 1 copo grande de leite, 1 copo de suco de morango, 1 gelatina de morango dissolvida em 250 ml de água quente"
+    ],
+    "COBERTURA:": [
+      "Leve ao fogo 2 cartelas de morangos picados, 1 copo americano de açúcar, 2 limões espremidos e mexa até a calda engrossar",
+      "Quando engrossar coloque na geladeira e reserve",
+      "Na batedeira: 1 leite condensado, 1 creme de leite, 1 leite de coco, 2 copos grandes de leite em pó, 2 colheres de emulsificante, bater até virar um glacê, depois dividir em duas porções",
+      "Em uma das porções, acrescente 3 colheres de chocolate em pó, 300g de chocolate em barra derretido em banho-maria, bata tudo até misturar bem e reserve"
+    ],
+    "MONTAGEM:": [
+      "Numa forma de vidro grande, coloque 1 cartela de morangos picados, 2 pacotes de bolacha de maisena por cima, em seguida a mistura batida no liquidificador",
+      "Leve para geladeira por 30 minutos ou até gelar bem",
+      "Depois de gelado, acrescente o glacê de chocolate, por cima o glacê branco, e para finalizar jogue a calda de morango"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROSA ASSIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303605-pave-de-morango-com-chocolate.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA DE FÍGADO DE GALINHA COM ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa pronta ",
+      "500 g de figado de galinha cozido, temperado e picado em cubinhos",
+      "1 cebola média de picada em cubos",
+      "4 dentes de alho picado",
+      "1 colher de óleo de soja",
+      "1 colher de manteiga",
+      "200 g de abacaxi picado em cubos",
+      "cheiro-verde a gosto",
+      "1 cubo de caldo de galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o óleo, aqueça e refogue o alho e a cebola",
+      "Acrescente o fígado já cozido e temperado, a manteiga e deixe dourar",
+      "Junte o caldo de galinha, a farofa e mexa por 5 minutos em fogo médio ",
+      "Desligue o fogo e acrescente o abacaxi e o cheiro-verde",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIANA APARECIDA VIEIRA COELHO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304077-farofa-de-figado-de-galinha-com-abacaxi.html"
+}

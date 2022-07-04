@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FILÉ DE FRANGO A PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 de leite",
+      "1 kg de filé de frango desossado",
+      "1 farofa pronta ",
+      "500 g de presunto",
+      "500 g de mussarela",
+      "2 molhos de tomate",
+      "orégano, sachê de temepro pronto, alho, cebola e sal a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o filé de frango com cebola picadinha, sachê de tempero, orégano, alho e sal a gosto.",
+      "E reserve.",
+      "Em uma panela coloque alho, sal e os molhos de tomate, ferva bem e reserve.",
+      "Bata os ovos com leite em uma vasilha e passe o filé temperado em outra vasilha",
+      "Coloque a farofa e passe bem os filés.",
+      "Em uma panela coloque o óleo e frite os filés empanados.",
+      "Em uma travessa, coloque um pouco do molho e em seguida o filé",
+      "Por cima coloque o presunto e a mussarela e novamente o molho, faça isso em camadas até encher a travessa.",
+      "Leve ao forno por 20 minutos e pode servir.",
+      "Não esqueça da farofa acompanhamento perfeito que não pode faltar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NAIARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303952-file-de-frango-a-parmegiana.html"
+}

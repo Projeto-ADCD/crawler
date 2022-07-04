@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CHILLI DA TAI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g feijão cozido (Uso sempre o carioquinha, mas o vermelho também fica bom. Só não faço com feijão preto.)",
+      "500g carne moída",
+      "1 tomate bem maduro picado",
+      "2 cebolas médias picadas",
+      "6 dentes de alho grandes picados",
+      "1 pimentão vermelho pequeno picado",
+      "1 pimentão amarelo pequeno picado",
+      "1 colher (café) de pimenta calabresa",
+      "1 colher (café) de pimenta-do-reino",
+      "30/40 ml de molho de pimenta",
+      "Sal a gosto",
+      "Cebolinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão separado, somente com sal (no máximo, louro). Cozinhe por menos tempo, pra que fique 'al dente'.",
+      "Numa panela grande, refogue a cebola até começar a muchar. Depois, acrescente o alho e o tomate.",
+      "Após reduzir um pouco, junte os pimentões. Em fogo baixo, pra que cozinhem.",
+      "Coloque o sal na carne (ao menos uma parte) antes de juntar, enquanto os vegetais mucham na panela.",
+      "Junte a cebolinha picada.",
+      "Após os vegetais estarem pré cozidos, junte a carne moída.",
+      "A carne deve ser bem refogada, em fogo baixo. Será aproximadamente uns 20 minutos.",
+      "Quando perceber que a carne está pronta, acrescente o feijão cozido, aos poucos, com uma concha, sem o caldo.",
+      "Todo o processo deve ser feito em fogo baixo, mexendo sempre.",
+      "Após juntar o feijão, a mistura ficará grossa. Então, aos poucos, coloque um pouco de caldo do feijão."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TAISE MUNIZ ROMANELLI NOGUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301162-chilli-da-tai.html"
+}

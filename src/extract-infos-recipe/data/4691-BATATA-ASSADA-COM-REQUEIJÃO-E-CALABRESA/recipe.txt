@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATATA ASSADA COM REQUEIJÃO E CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas médias",
+      "1 colher (sopa) de sal grosso",
+      "1 copo de requeijão",
+      "1 calabresa",
+      "200 g de mussarela",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as batatas, fure com uma faca, embrulhe em papel-alumínio com um pouco de sal grosso e leve ao forno alto por 40 minutos",
+      "Corte a calabresa em cubos pequenos, misture o requeijão e reserve.",
+      "Abra só um pouquinho do alumínio, faça um corte e abra um pouco as batatas.",
+      "Adicione a mistura do requeijão e salpique a mussarela e o orégano em cima",
+      "Leve ao forno por 5 minutos para derreter a mussarela."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SIMONE TOESCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300411-batata-assada-com-requeijao-e-calabresa.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BOMBOM DE TORRADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães adormecidos",
+      "100 g de açúcar",
+      "500 g de chocolate fracionado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os pães em torrada e salpique açúcar por cima, leve para assar.",
+      "Derreta o chocolate em banho-maria e banhe as torradas colocando elas em papel-manteiga (pode ser uma folha besuntada no óleo)",
+      "Leve para gelar e sirva.",
+      "obs: não é usual, mas fiz chocolate com torrada de queijo parmesão"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOHN WAYNE AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304712-bombom-de-torradas.html"
+}

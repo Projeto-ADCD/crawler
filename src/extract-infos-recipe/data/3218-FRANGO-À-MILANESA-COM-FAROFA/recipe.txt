@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO À MILANESA COM FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 filés de frango",
+      "2 xícaras de trigo",
+      "2 ovos",
+      "2 colheres de leite",
+      "2 xícaras de farofa",
+      "6 colheres de banha de porco pra fritar",
+      "sal e pimenta",
+      "pápica picante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés com sal e pimenta e reserve",
+      "Misture os ovos com o leite e uma pitada de sal",
+      "Coloque o trigo numa travessa, tempere com uma pitada de sal",
+      "Por último junte a farofa com uma pitada de pápica picante",
+      "Passe os filés no trigo, depois no ovo e por último na farofa",
+      "Frite a 180ºC na banha de porco",
+      "Quando dourar, retire da panela e coloque no papel-toalha"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIANA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303713-frango-a-milanesa-com-farofa.html"
+}

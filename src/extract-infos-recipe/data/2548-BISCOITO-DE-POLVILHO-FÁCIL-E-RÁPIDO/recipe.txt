@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BISCOITO DE POLVILHO FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de polvilho azedo",
+      "2 ovos",
+      "100 ml de óleo em temperatura ambiente",
+      "200 ml de água fervida",
+      "sal a gosto",
+      "orégano (opcional)",
+      "salsa desidratada",
+      "açafrão (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo o óleo e a água até ferver",
+      "Em uma vasilha acrescente o polvilho e o sal",
+      "Acrescente os líquidos quentes sobre o polvilho e misture com as mãos, até se soltar da vasilha ",
+      "Bata o ovo na batedeira e junte na mistura",
+      "Acrescente aos poucos a água",
+      "Mexa bastante pra massa ficar consistente",
+      "Unte a assadeira e leve pra assar por 20 minutos forno preaquecido 180° C",
+      "Ou até que fiquem levemente dourados",
+      "Dica: faça formatos com saco de confeiteiro.",
+      "Bom apetite!",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "80 PORÇÕES",
+  "autor": "ROSANGELA NEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304968-biscoito-de-polvilho-facil-e-rapido.html"
+}

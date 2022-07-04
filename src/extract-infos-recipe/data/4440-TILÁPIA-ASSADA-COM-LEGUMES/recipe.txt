@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TILÁPIA ASSADA COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 gramas de filé de tilápia",
+      "6 batatas pequenas",
+      "1 pimentão (de sua preferência)",
+      "1 cebola média",
+      "6 dentes de alho",
+      "1 cenoura",
+      "1 tomate",
+      "2 ovos",
+      "salsinha",
+      "cebolinha",
+      "azeite de oliva",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Temperar os filés de tilápia ao seu gosto com sal, ervas e pimenta. Reserve.",
+      "Cozinhe as batatas e a cenoura em uma panela. No momento que estiverem al dente remova-os e corte as mesmas em rodelas.",
+      "Ferva água e inicie o cozimento dos ovos. Guarde assim que estiverem no ponto e corte em rodelas.",
+      "Corte em rodelas o alho, cebola, pimentão e tomate e guarde para a montagem.",
+      "Adicione azeite à uma forma e coloque os filés de tilápia, adicione o alho sobre.",
+      "Nas laterais da forma, adicione as rodelas de batata e cenoura.",
+      "Inicie a adição dos pedaços de cebola, ovo, pimentão e tomate.",
+      "Acrescente as ervas de sua preferência junto com azeite e sal.",
+      "Leve ao forno a 210 – 240 ºC por um período de 30 minutos",
+      "Sirva junto com uma guarnição de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301127-tilapia-assada-com-legumes.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MASSA DE TORTA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 copo (americano) de farinha de trigo",
+      "1 copo de leite (ou até o ponto cremoso da massa)",
+      "1 xícara (chá) de queijo ralado",
+      "1 ovo",
+      "1 xícara (chá) de óleo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador leve o trigo, o leite, bata, adicione o queijo, o ovo, o óleo e bata novamente.",
+      "Se quiser adicione sal (leve em consideração o tempero do recheio, pois a massa é fina).",
+      "Verifique se a massa está rala e pode se espalhar movimentando a forma, se estiver dura, adicione mais leite.",
+      "Por fim adicione o fermento em pó (faça a massa após o recheio, para não perder o efeito do fermento).",
+      "Unte a forma com margarina e trigo.",
+      "Espalhe uma fina camada, coloque o recheio. E adicione sobre o recheio outra fina camada.",
+      "Pode levar de 30 a 40 minutos para assar, depende pela quantidade de recheio e espessura da forma."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIA MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302244-massa-de-torta-cremosa.html"
+}

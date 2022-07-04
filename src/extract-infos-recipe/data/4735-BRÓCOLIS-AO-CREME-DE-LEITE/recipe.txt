@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BRÓCOLIS AO CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Brócolis",
+      "creme de leite",
+      "alho e sal",
+      "óleo",
+      "mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, separe os brócolis, em \"buquês\", e cozinhe.",
+      "Após, tire da panela e na mesma, coloque o óleo e frite o alho e sal.",
+      "Acrescente na fritura o brócolis.",
+      "Depois, coloque o creme de leite e deixe um pouco.",
+      "Coloque tudo em alguma assadeira e acrescente a mussarela.",
+      "Deixa até a mussarela derreter. E pronto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GABI RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300332-brocolis-ao-creme-de-leite.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SALADA KRI-KRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farofa com pimenta",
+      "1 cebola média picada",
+      "1 pimentão vermelho picado",
+      "1 tomate sem pele e sem semente picado",
+      "1 maçã verde pequena picada",
+      "2 ovos cozidos picados",
+      "1/2 xícara de azeitonas picadas",
+      "2 colheres (sopa) de salsinha picada",
+      "2 colheres de azeite de oliva",
+      "Sal a gosto",
+      "folhas de escarolas para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa misture a farinha, a cebola, o tomate o pimentão, as azeitonas, maçã verde e os ovos",
+      "Mexa bem devagar",
+      "Tempere com vinagre e sal a gosto",
+      "Decore com folhas de escarola e salpique a salsinha"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROSI SALETE DE OLIVEIRA KRAIESKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304078-salada-kri-kri.html"
+}

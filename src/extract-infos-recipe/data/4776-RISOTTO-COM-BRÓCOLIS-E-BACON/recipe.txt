@@ -1,0 +1,39 @@
+{
+  "nome_receita": "RISOTTO COM BRÓCOLIS E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de brócolis (500 g)",
+      "2 l de água com sal a gosto",
+      "1 cebola média picada",
+      "200 g de arroz para risoto (sem lavar)",
+      "1/2 copo de vinho branco seco",
+      "50 g de manteiga",
+      "100 g de queijo ralado",
+      "100 g de bacon picado",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "pitada de noz-moscada",
+      "cebolinha picada para salpicar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o brócolis e coloque até os talos para cozinhar.",
+      "Quando cozidos retire os brócolis da água (preserve a água) e corte somente a parte verde do brócolis bem picadinho.",
+      "Reserve o talo e triture no processador. Se preferir pode picar na faca, mas achei mais fácil assim.",
+      "Deixe a panela da água com o fogo baixo aceso pois usará esta água para fazer o risoto",
+      "Numa frigideira grande, refogue com azeite a cebola picada e acrescente o arroz. Misture um pouco e a crescente o vinho e mexa.",
+      "Acrescente o brocolis picado e o talo triturado, sempre mexendo.",
+      "Va mexendo e acrescendo 2 conchas da água fervente (água do brócolis) cada vez que a água vai secando na panela.",
+      "Numa panela a parte frite o bacon e reserve.",
+      "Acrescente os temperos (noz-moscada e pimenta-do-reino) e verifique o sal.",
+      "Coloque a água aos poucos até o arroz ficar cozido.",
+      "Quando o arroz ficar cozido, desligue o fogo e acrescente a manteiga, o queijo ralado e o bacon. Misture tudo até ficar homogêneo.",
+      "Salpique a cebolinha picada por cima e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TATIANA FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300248-risotto-com-brocolis-e-bacon.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO AO SUGO E MANJERICÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de macarrão fetuccine",
+      "10 tomates italianos maduros, sem casca e talo",
+      "1 cebola processada ou picada",
+      "4 dentes de alho fatiado longitudenalmente",
+      "10 azeitonas verdes fatiadas",
+      "manjericão, cominho e sal a  gosto",
+      "6 colheres de azeite",
+      "queijo parmesão ou grana padano ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os tomates e cubos e coloque-os em uma panela com tampa",
+      "Leve ao fogo baixo e espere dissolver de 15 a 20 minutos",
+      "Utilizando uma peneira, coe os tomates dissolvidos com ajuda de uma colher para prensar",
+      "Em outra panela, coloque o azeite e o alho.",
+      "Deixe em fogo baixo de 3 a 5 minutos e, depois, despeje a cebola processada e as folhas de manjericão.",
+      "Em fogo baixo, espere dourar com a panela fechada.",
+      "Adicione o molho de tomate, cominho e sal e misture por mais 1-2 minutos.",
+      "Cozinhe o macarrão, sirva dois pratos e coloque o molho por cima.",
+      "Para finalizar, coloque o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARCOS SALVADOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300147-macarrao-ao-sugo-e-manjericao.html"
+}

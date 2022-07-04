@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LINGUINE COM CAMARÃO BRANCO AO MOLHO ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 camarões brancos descascados",
+      "6 tomates maduros sem pele",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "500g de linguine",
+      "1 colher (sopa) de manteiga",
+      "Pimenta-do-reino",
+      "Pimenta rosa",
+      "1 colher (sopa) de azeite",
+      "1 colher (sobremesa) de vinho branco seco",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os camarões com sal, pimenta do reino e pimenta rosa a gosto.",
+      "Em uma frigideira funda, coloque a manteiga e o azeite e deixe esquentar em fogo alto.",
+      "Coloque os camarões aos poucos para grelhar, virando quando estiverem prontos. Reserve.",
+      "Na mesma frigideira que grelhou os camarões, doure a cebola e o alho picados, junte os tomates e deixe cozinhar, formando um molho espesso.",
+      "Coloque sal a gosto e uma pitada de pimenta calabresa.",
+      "Junte os camarões grelhados e coloque o vinho. Deixe cozinhar por uns 10 a 15 minutos e desligue.",
+      "Cozinhe o macarrão linguine e quando estiver pronto, escorra e coloque em uma travessa.",
+      "Coloque o molho com o camarão por cima e decore, se desejar, com salsinha ou cebolinha picada. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANTONIO CARLOS FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301250-linguine-com-camarao-branco-ao-molho-especial.html"
+}

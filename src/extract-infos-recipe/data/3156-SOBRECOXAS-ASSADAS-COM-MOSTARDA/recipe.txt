@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SOBRECOXAS ASSADAS COM MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 a 8 sobrecoxas",
+      "sal e pimenta-do-reino a gosto",
+      "fio de azeite",
+      "1 colher (sopa) de colorau",
+      "1/2 colher (chá) de tomilho desidratado",
+      "1/2 colher (chá) de manjericão",
+      "30 ml (aproximadamente) de vinagre vermelho",
+      "1 colher (sopa) de mostarda dijon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma vasilha e deixe marinando por pelo menos 30 minutos",
+      "Em uma assadeira de vidro untada com azeite, coloque as sobrecoxas",
+      "Cubra com papel-alumínio e leve ao forno médio preaquecido por 30 a 35 minutos.",
+      "Retire o papel-alumínio e, se precisar, deixe mais 10 minutos para dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SEAN OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303803-sobrecoxas-assadas-com-mostarda.html"
+}

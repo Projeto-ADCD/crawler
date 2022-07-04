@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PURÊ DE BATATA À MODA FRICASSÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata inglesa cozidas",
+      "500 g de queijo mussarela Président",
+      "1 colher (sopa) de manteiga Président",
+      "2  colheres de leite ",
+      "1 peito de frango desfiado ",
+      "temperos a gosto",
+      "2 calabresas (opcional)",
+      "100 g de queijo parmesão Président "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Desfie o peito de frango e tempere com temperos de sua preferência (tomate, cebola, alho, cheiro verde, salsinha), separe-o em um recipiente",
+      "Pegue as batatas já cozidas,  amasse-as e coloque em uma panela em fogo baixo",
+      "Acrescente uma pitada de sal, a colher de manteiga e o leite, mexa durante 5 minutos fazendo uma mistura homogênea",
+      "Frite a calabresa e misture ao purê de batata quando estiver pronto",
+      "Pegue uma tigela de sua preferência para montar a receita",
+      "Inicie colocando uma camada de purê no fundo da tigela e logo após adicione fatias de mussarela até cobrir o purê",
+      "Jogue uma camada de frango por cima da mussarela e faça isso sucessivamente até acabar os ingredientes",
+      "Após sua receita montada, espalhe o queijo parmesão em cima e leve ao forno a 180° por 15 minutos ou até dourar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Eduarda Barros"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303810-pure-de-batata-a-moda-fricasse.html"
+}

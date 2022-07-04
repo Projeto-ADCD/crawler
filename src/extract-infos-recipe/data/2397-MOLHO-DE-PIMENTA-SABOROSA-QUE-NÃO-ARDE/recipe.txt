@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MOLHO DE PIMENTA SABOROSA QUE NÃO ARDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "15 pimentas dedo-de-moça",
+      "2 cebolas médias picadas",
+      "2 dentes de alho",
+      "tempero baiano",
+      "3 colheres (sopa) de azeite",
+      "200 ml vinagre branco",
+      "sal a gosto",
+      "1 molho de tomate de saquinho de 340 g",
+      "folhas de louro",
+      "ramos de salsa ou coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire as sementes e a fibra branca de dentro da pimenta.",
+      "Bata todos os ingredientes no liquidificador, bata bem",
+      "Se ficar muito grosso coloque um pouco mais de vinagre branco",
+      "Está pronto para o consumo.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende muito! Quase 800 ml\nConserve em geladeira.\nDica: se você tirar sementes e a fibra, o molho não arde.\nÓtimo para quem gosta do sabor da pimenta, mas não gosta da picância."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCIO DOROTEU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305316-molho-de-pimenta-saborosa-que-nao-arde.html"
+}

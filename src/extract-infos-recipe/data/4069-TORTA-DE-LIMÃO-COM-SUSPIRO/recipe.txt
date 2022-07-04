@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE LIMÃO COM SUSPIRO",
+  "ingredientes": {
+    "PARA A MASSA:": [
+      "1 e 1/2 pacote de biscoito de maisena",
+      "150 g de margarina sem sal"
+    ],
+    "PARA O MOUSSE:": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "Suco de 3 limões"
+    ],
+    "PARA O SUSPIRO:": [
+      "3 claras",
+      "10 colheres (sopa) de açúcar",
+      "Raspas dos limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o preparo da massa, bata os biscoitos no liquidificador até virar uma farinha.",
+      "Derreta a margarina e misture bem com o biscoit.",
+      "Coloque na forma, espalhando com as mãos e apertando bem.",
+      "Para o preparo do mousse, bata no liquidificador o leite condensado, o creme de leite e o suco dos limões por aproximadamente 5 minuto.",
+      "Coloque por cima da massa e reserve.",
+      "Na batedeira, bata as claras até que fiquem em ponto de suspiro.",
+      "Sem parar de bater, acrescente o açúcar aos poucos e continue batendo até formar picos.",
+      "Coloque por cima do mousse, espalhe e faça picos com uma colher.",
+      "Coloque as raspas dos limões.",
+      "Leve em forno a 180ºC por aproximadamente 20 minutos ou até que fique dourado.",
+      "Leve à geladeira de um dia pro outro e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINNA GABRIEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301976-torta-de-limao-com-suspiro.html"
+}

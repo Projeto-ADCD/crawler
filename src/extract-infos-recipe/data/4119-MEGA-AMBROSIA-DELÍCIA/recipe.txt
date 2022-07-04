@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MEGA AMBROSIA DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 litros de leite (não pode estar gelado)",
+      "1,5 kg de açúcar",
+      "9 ovos",
+      "1 colher (sopa) de cravo",
+      "canela em pau a vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite e os ovos, bata e coloque em uma panela funda.",
+      "Junte a essa mistura o açúcar, o cravo e a canela.",
+      "Deixe em fogo alto até ferver mexendo devagar as vezes.",
+      "Quando ferver baixe o fogo, misture novamente e deixe.",
+      "Mas nunca esquecendo de mexer as vezes para que não grude no fundo da panela.",
+      "Quando estiver granulada e com cor caramelada tá na hora de desligar e colocar em um recipiente de vidro.",
+      "Deixe sempre na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "ELISANGELA GODOI FAGUNDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301810-mega-ambrosia-delicia.html"
+}

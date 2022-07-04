@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CARRÉ COM TOMATES E ALECRIM",
+  "ingredientes": {
+    "PARA TEMPERAR A CARNE": [
+      "250 g de carré com osso",
+      "1/2 colher (sopa) de sal",
+      "Pimenta-do-reino a gosto",
+      "Orégano a gosto",
+      "1/4 de cebola picada",
+      "3 dentes de alho",
+      "1 colher (sopa) de azeite"
+    ],
+    "PRA O MOLHO": [
+      "2 tomates picados",
+      "1 colher de sopa rasa de alecrim",
+      "2 colheres de sopa de azeite",
+      "Uma pitada de sal"
+    ],
+    "PARA DECORAR": [
+      "1 talo de cebolinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, coloque o carré, adicione o sal, a pimenta-do-reino, o orégano e o alho e misture.",
+      "Em uma frigideira, no fogo médio, adicione o azeite, a cebola picada em seguida o carré.",
+      "Deixe até chegar ao ponto desejado. Retire o da frigideira e ponha em um prato ou recipiente que desejar servir.",
+      "Na mesma frigideira, adicione o azeite e o tomate, em seguida, adicione o alecrim e o sal mexa um pouco e jogue por cima do carré.",
+      "Para decorar, corte com uma tesoura o talo de cebolinha em cima do molho e bom apetite ."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SANDRINHO SOUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300695-carre-com-tomates-e-alecrim.html"
+}

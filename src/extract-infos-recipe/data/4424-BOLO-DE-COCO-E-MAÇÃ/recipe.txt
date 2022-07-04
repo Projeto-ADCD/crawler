@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE COCO E MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de manteiga sem sal a temperatura ambiente",
+      "1 xícara (chá) de açúcar mascavo",
+      "2 ovos",
+      "5 colheres (sopa) de leite",
+      "2 maças médias, descascadas e cortadas em cubinhos",
+      "2 xícaras (chá) de farinha de trigo peneirada",
+      "2 colheres (chá) de fermento em pó",
+      "1 colher (chá) de bicarbonato em pó",
+      "1 colher (chá) de canela em pó",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa funda, bata a manteiga até que fique cremosa.",
+      "Junte o açúcar mascavo e bata bem.",
+      "Acrescente os ovos, um de cada vez e bata bem.",
+      "Junte as maçãs picadas e o leite e misture tudo.",
+      "À parte, misture a farinha de trigo, o coco ralado, o fermento em pó, o bicarbonato e a canela.",
+      "Acrescente à mistura anterior e misture tudo muito bem.",
+      "Despeje em uma forma de bolo inglês untada.",
+      "Deixe descansar por uns 20 minutos.",
+      "Aqueça o forno em temperatura moderada (170º).",
+      "Leve o bolo ao forno por uns 45 minutos.",
+      "Deixe esfriar na forma por uns 10 minutos antes de desenformar.",
+      "Se gostar, passe glucose de milho por cima do bolo e polvilhe amêndoas laminadas."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301163-bolo-de-coco-e-maca.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "MACARRONADA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Macarrão",
+      "3 ovos",
+      "1/2 colher de fermento químico",
+      "1 kg de farinha de trigo",
+      "100 ml de leite integral",
+      "Molho",
+      "2 cebolas",
+      "3 dentes de alho",
+      "10 tomates",
+      "1 colher (chá) de açúcar",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Macarrão:",
+      "Misture todos os ingredientes ate formar uma massa;",
+      "Abra a massa;",
+      "Corte no formato desejado;",
+      "Cozinhe em água fervente;",
+      "Coloque para escorrer.",
+      "Molho:",
+      "Bata os tomates no liquidificador;",
+      "Peneire essa massa de tomate;",
+      "Rale a cebola;",
+      "Corte o alho;",
+      "Refogue a cebola e o alho em uma panela com óleo;",
+      "Tempere a cebola e o alho com o sal e a pimenta;",
+      "Transfira o molho para a panela e ferva o molho até engrossar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRO FAZSOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303111-macarronada-caseira.html"
+}

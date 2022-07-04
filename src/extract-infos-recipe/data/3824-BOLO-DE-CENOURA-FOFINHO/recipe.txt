@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLO DE CENOURA FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "250 g de cenoura picada (pode colocar entre 230 g e 250 g de cenoura)",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de açúcar",
+      "1 colher de sopa de fermento químico em pó",
+      "1 xícara de óleo",
+      "1 pitada de sal",
+      "3 ovos",
+      "Cobertura",
+      "1 caixinha de 200 ml de creme de leite",
+      "5 colheres de sopa de chocolate em pó",
+      "6 colheres de açúcar",
+      "2 colheres de manteiga ou margarina (de preferência sem sal)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de preparo da massa (muita atenção, seguir os passos é essencial para o bolo ficar fofinho):",
+      "Primeiro pré-aqueça o forno com temperatura de 180ºC à 200ºC.",
+      "Pegue os ovos e separe as gemas das claras.",
+      "Bata as claras em neve e reserve (bater as claras em neve deixará a massa solta e fofinha).",
+      "No liquidificador coloque as gemas, as cenouras picadas, o óleo, o açúcar e o sal.",
+      "Bata por 3 minutos até que esteja tudo bem triturado.",
+      "Após batida, pegue a mistura e coloque em uma bacia.",
+      "Pegue a farinha e peneire dentro da mistura (peneirar a farinha faz com que a massa fique mais solta) e misture delicadamente para não ativar o glúten da farinha.",
+      "Agora acrescente o fermento em pó e logo em seguida acrescente as claras em neve e mexa delicadamente (Seu bolo irá ficar muito fofinho)",
+      "8. Acrescente o bolo em uma forma untada com manteiga e farinha e leve ao forno entre 180º C e 200º C por 40 minutinhos ou enfie um palito no seu bolo, se sair sequinho, estará pronto.",
+      "Modo de preparo da cobertura:",
+      "Acrescente em uma panela o creme de leite, o chocolate em pó, o açúcar e a manteiga",
+      "Mexa todos os ingredientes antes de levar ao fogo para o chocolate não empelotar.",
+      "Cozinhe em fogo médio/baixo por cerca de 10 minutos ou até que levante pequenas bolhinhas em sua calda.",
+      "Pode colocar ainda quente no bolo.",
+      "Assim que esfriar, é só comer "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAYANE TEIXEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302583-bolo-de-cenoura-fofinho.html"
+}

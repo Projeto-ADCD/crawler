@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO RECHEADO DE CREME BRANCO COM MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 xícara e meia (chá) de açúcar",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "1 colher (sopa) de fermento químico em pó",
+      "Recheio",
+      "1 caixinha de creme de leite",
+      "1 caixinha de leite condensado",
+      "A mesma medida da lata, de leite",
+      "1 colher (sopa) de amido de milho",
+      "1 gema",
+      "1 caixinha de morangos frescos",
+      "Cobertura",
+      "300 ml de chantilly",
+      "3 morangos cortados o meio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque na batedeira os ovos e o açúcar e bata por aproximadamente 5 minutos",
+      "Em seguida adicione a farinha de trigo peneirado intercalando com o leite",
+      "Por último acrescente o fermento químico e misture até incorporar na massa",
+      "Em seguida coloque no forno pré-aquecido a 180° por no mínimo 35 minutos",
+      "Recheio",
+      "Dissolva o amido de milho no leite, coloque todos os ingredientes em uma panela e leve ao fogo mexendo bem até engrossar.",
+      "Assim que engrossar desligue o fogo e deixe esfriar, em seguida adicione os morangos picados e recheie o bolo",
+      "Cobertura",
+      "Bata o chantilly em ponto de bico de modo que ele não caia da colher",
+      "Com os morangos cortados ao meio coloque em cima do bolo"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "EMERSON MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302953-bolo-recheado-de-creme-branco-com-morangos.html"
+}

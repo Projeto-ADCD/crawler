@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATATA SUÍÇA DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "400 g de bacon",
+      "200 g de cream cheese",
+      "1 copo de requeijão",
+      "300 g de queijo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré-cozinhe as batatas com sal por 1 hora e 30 minutos após a fervura ",
+      "Rale as batatas na parte grossa do ralador para que fiquem fios de batata.",
+      "Frite o bacon sem pele e acrescente o requeijão e o cream cheese.",
+      "Coloque sal a gosto na batata, unte uma forma com óleo.",
+      "Faça a primeira camada com batata, cubra com queijo e coloque o recheio, queijo novamente e a última camada de batata.",
+      "Asse em fogo alto até que a batata fique molinha por dentro e crocante por fora."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GISLAINE RIBACK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302493-batata-suica-de-forno.html"
+}

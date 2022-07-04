@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PIPOCA DE CHOCOLATE SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de pipoca",
+      "3 colheres rasas de achocolatado ",
+      "1/2 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes na panela",
+      "Ligue o fogo em temperatura alta (se for potente, média) ",
+      "Mexa até que os primeiros milhos estourem.",
+      "Quando os milhos começarem a estourar, tampe a panela e sacuda de vez em quando, para que não queime o fundo da panela.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LARISSA CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305133-pipoca-de-chocolate-superfacil.html"
+}

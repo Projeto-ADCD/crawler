@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO ALHO E ÓLEO COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de espaguete",
+      "3 dentes de alho picados",
+      "1/4 xícara de azeite",
+      "1 colher (sobremesa) de colorau",
+      "1 xícara (chá) de bacon picado",
+      "1 colher de (chá) de orégano a gosto",
+      "queijo parmesão ou montanhês ralado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o bacon na panela e deixe até fritar, mexendo de vez enquando, tire do óleo e reserve",
+      "Cozinhe o macarrão em água com sal, por 1 minuto a mais do tempo mínimo indicado na embalagem",
+      "Escorra e jogue água fria para parar o cozimento, escorra e reserve",
+      "Frite o alho no azeite, quando estiver dourando acrescente o colorau, mexa até desmanchar",
+      "Acrescente o macarrão e mexa até que esteja todo envolvido com o alho e o colorau",
+      "Desligue o fogo, acrescente o orégano, o bacon e o cheiro-verde e misture",
+      "Sirva com o queijo ralado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCIANE CHEDID GRANERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303537-macarrao-alho-e-oleo-com-bacon.html"
+}

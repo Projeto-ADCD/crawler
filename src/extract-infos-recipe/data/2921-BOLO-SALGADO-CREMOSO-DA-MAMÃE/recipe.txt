@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO SALGADO CREMOSO DA MAMÃE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "4 xícaras (chá) de leite",
+      "2 colheres (sopa) de margarina",
+      "1/2 xícara (chá) de amido de milho",
+      "2 xícaras (chá) de farofa de milho pronta yoki",
+      "1/2 xícara de (chá) de queijo meia cura ralado",
+      "1 pitada de noz-moscada",
+      "2 colheres de (sopa) de requeijão cremoso",
+      "1 colher de (sopa) de queijo parmesão ralado.",
+      "sal a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, 2 xícaras do leite, o requeijão cremoso e a margarina",
+      "Passe a mistura para uma tigela e junte o amido",
+      "Junte o restante do leite, o queijo meia cura ralado, a farofa pronta, o queijo parmesão ralado o sal a gosto, a noz-moscada e o fermento",
+      "Misture bem com um fue.",
+      "Coloque em uma assadeira grande (40 × 28cm) untada e enfarinhada.",
+      "Leve ao forno preaquecido por 45 minutos ou até que espetando um palitos ele saía limpo",
+      " Retire do forno deixe esfriar, corte em quadrados e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Rita de cassia nobrega dos reis"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304136-bolo-salgado-cremoso-da-mamae.html"
+}

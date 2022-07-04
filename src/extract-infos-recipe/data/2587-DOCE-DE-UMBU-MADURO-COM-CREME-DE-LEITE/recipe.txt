@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DOCE DE UMBU MADURO COM CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de umbu maduro",
+      "500 g de açúcar",
+      "1/2 litro de água",
+      "1 latinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os umbus por 5 minutos, com o meio litro de água.",
+      "Depois de cozido e frio, bata no liquidificador, para separar os caroços.",
+      "Coe em uma coadeira, ou peneira para separar a massa dos caroços.",
+      "Pega a massa e coloque na panela para cozinhar por 15 minutos junto com o açúcar",
+      "Mexendo sempre, até que sinta uma consistência cremosa",
+      "Aí coloca o creme de leite e misture, no fogo baixo por uns 5 minutos e está pronto o seu doce.",
+      "Sirva com torradas ou sozinho",
+      "Um doce delicioso",
+      "Pode ser guardado em vidros na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NEUZA CLEMENTE DA SILVA CLEMENTE DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304884-doce-de-umbu-maduro-com-creme-de-leite.html"
+}

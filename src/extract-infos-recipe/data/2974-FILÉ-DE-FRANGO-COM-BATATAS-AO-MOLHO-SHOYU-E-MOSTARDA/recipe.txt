@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FILÉ DE FRANGO COM BATATAS AO MOLHO SHOYU E MOSTARDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de frango",
+      "4 colheres (sopa) de molho shoyu",
+      "6 colheres (sopa) de mostarda",
+      "coloral a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "orégano a gosto",
+      "2 tomates maduros em rodelas",
+      "1 cebola roxa em rodelas",
+      "3 batatas grandes em rodelas",
+      "1/2 pimentão",
+      "1 pimenta de cheiro",
+      "coentro a gosto",
+      "cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bowl tempere o filé de frango com coloral, pimenta-do-reino, sal, orégano e a mostarda, deixe marinando",
+      "Corte em rodelas o tomate o pimentão a cebola e a batata e reserve",
+      "Em um recipiente tempere as batatas fatiadas com o sal, pimenta-do-reino, orégano e reserve",
+      "Em um frigideira grande ou uma outra panela de sua preferência adicione uma quantidade de óleo que cubra o fundo da frigideira e adicione o filé de frango já temperado por cima",
+      "Coloque o tomate, o pimentão, a cebola e as batatas",
+      "Adicione o molho shoyu e 1/2 xícara de água filtrada e tampe para cozinhar",
+      "Durante o processo adicione se necessário óleo e o molho shoyu e por fim acerte o sal.",
+      "Sirva quente!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "YASNAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304048-file-de-frango-com-batatas-ao-molho-shoyu-e-mostarda.html"
+}

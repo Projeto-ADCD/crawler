@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ESFIHA SHOW DO MARCIO GOMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 gramas fermento fresco",
+      "3 ovos",
+      "1 xícara de óleo",
+      "500 ml leite morno",
+      "1 colher de sopa de sal",
+      "2 colher de sopa de açúcar",
+      "Farinha de trigo até dar o ponto aproximadamente 1 kilo",
+      "700 gramas carne moída",
+      "Cebola",
+      "Tomate",
+      "Alho",
+      "Cheiro Verde",
+      "Limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande misture, sal, açúcar, ovos , óleo e o fermento.",
+      "Adicione o leite morno aos poucos até ficar tudo dissolvido.",
+      "Acrescente farinha aos poucos e sempre mexendo até ficar uma massa mole.",
+      "Jogue essa massa mole em uma superfície lisa e com as mãos rasgue a massa em um movimento de vai e volta, sempre acrescentando farinha até dar o ponto de sovar.",
+      "Quando a massa estiver lisa, deixe descansar até dobrar de tamanho.",
+      "Faça bolinhas e recheie com a carne moída."
+    ],
+    "RECHEIO": [
+      "Temperada carne com cebola, sal, limão cheiro verde e tomate, reserve na geladeira.",
+      "Não refogue, recheie a esfiha com a carne crua já temperada com limão.",
+      "Depois de fechada a esfiha, pincele com gema de ovo batida"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MARCIO GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300304-esfiha-show-do-marcio-gomes.html"
+}

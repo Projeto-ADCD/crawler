@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA BANOFFEE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de biscoito de maisena",
+      "100 g de manteiga sem sal derretida",
+      "300 g de creme de leite fresco",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (chá) de essência de baunilha",
+      "400 g de doce de leite",
+      "2 unidades de banana-nanica em rodelas",
+      "100 g de chocolate em raspas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Base",
+      "Em um processador, triture as bolachas.",
+      "Adicione a manteiga derretida e misture mais um pouco.",
+      "Retire do processador e coloque em uma forma de fundo removível.",
+      "Vá pressionando a base e os lados.",
+      "Leve para assar por 15 minutos em forno preaquecido a 180° C (dependendo do forno, pode ser que precise ficar um tempinho a mais).",
+      "Retire do forno e espere esfriar.",
+      "Chantili",
+      "Em uma batedeira, bata o creme de leite (que precisa estar frio) com o açúcar e a essência de baunilha, até ponto de chantili (quando formar um pico no globo da batedeira).",
+      "Montagem",
+      "Adicione o doce de leite, as bananas em rodelas por cima e, por fim, o chantili",
+      "Para decorar, adicione raspas de chocolate.",
+      "Leve ao freezer por 1 hora.",
+      "Retire da forma e sirva."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARLON CHRIST",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304367-torta-banoffee.html"
+}

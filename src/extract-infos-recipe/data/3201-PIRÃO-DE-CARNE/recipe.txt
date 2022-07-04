@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PIRÃO DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg músculo bovino limpo e cortado em tiras",
+      "óleo para refogar a carne",
+      "500 ml água fervente",
+      "1 cebola grande",
+      "4 dentes de alho picados",
+      "6 folhas de louro",
+      "4 tomates inteiros",
+      "farofa pronta (suficiente para dar o ponto)",
+      "sal e pimenta do reino à gosto",
+      "cebolinha e salsa picadas à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o músculo com sal e pimenta-do-reino 2 horas antes de levar ao fogo",
+      "No liquidificador, bata os tomates e a cebola",
+      "Reserve",
+      "Numa panela de pressão, refogue a carne no óleo e, assim que estiver quase frita, acrescente o molho de tomate batido no liquidificador, quando ferver, abaixe o fogo e deixe apurar o sabor por 5 minutos",
+      "Acrescente a água e as folhas de louro",
+      "Tampe a panela de pressão e deixe cozinhar, sob pressão, por 15 minutos",
+      "Enquanto isso, frite os dentes de alho picado numa frigideira com óleo e reserve",
+      "Espere a pressão sair, destampe a panela e volte ao fogo baixo",
+      "Prove o sal e acrescente mais, se necessário",
+      "Ainda sob o fogo baixo, acrescente, aos poucos, a farofa pronta mexendo sempre, até dar uma consistência cremosa, porém não muito firme",
+      "Desligue o fogo, acrescente o alho frito e misture",
+      "O alho frito separadamente e misturado na etapa final dá um toque especial no sabor",
+      "Coloque numa travessa e salpique cebolinha e salsa a gosto",
+      "Está pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JACQUELINE TEIXEIRA MAULER MEGIOLARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303743-pirao-de-carne.html"
+}

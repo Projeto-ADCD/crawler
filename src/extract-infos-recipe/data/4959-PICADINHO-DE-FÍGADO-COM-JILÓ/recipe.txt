@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PICADINHO DE FÍGADO COM JILÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de fígado de boi picado em tiras",
+      "5 jiló médio",
+      "1 colher de café de óleo",
+      "2 dentes de alho picado",
+      "1/2 cebola grande",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o jiló em rodelas grandes e cozinhe aldente em água com uma pitada de sal, depois escorra-o.",
+      "Doure o alho no óleo e acrescente o fígado e o sal a gosto.",
+      "Depois de cozido, coloque a cebola.",
+      "Desligue e acrescente o jiló."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ELAINE CRISTINA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299855-picadinho-de-figado-com-jilo.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLACHA DE NATA SEM OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos de amido (200 ml)",
+      "1 copo de farinha de trigo",
+      "1 copo de açúcar",
+      "300 ml de nata",
+      "3 colheres de manteiga ou margarina",
+      "1 pitada de sal",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a nata, o açúcar, a manteiga, o sal a farinha de trigo e 2 copos de amido",
+      "Sove a massa, acrescente o fermento em pó e adicione o outro copo de amido até a massa ficar homogênea e não grudar na mão",
+      "Faça bolinhas, achate um pouco com o garfo e coloque para assar em forno preaquecido a 180° C por10 minutos",
+      "Sirva a vontade "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "DEYSE RAMIRO DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300791-bolacha-de-nata-sem-ovos.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE CAFÉ COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1/2 xícara de óleo",
+      "2 xícaras de açúcar",
+      "1 xícara de chocolate em pó",
+      "2 xícaras de café pronto",
+      "4 xícaras de farinha de trigo",
+      "1 colher de fermento em pó",
+      "3 ovos",
+      "1 pouco de essência de baunilha (opcional)",
+      "Cobertura",
+      "1 colher de margarina/manteiga",
+      "1 lata de leite condensado",
+      "5 colher de café pronto",
+      "5 de chocolate em pó",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata os ovos, o óleo, o açúcar e a essência de baunilha até ficar um creme.",
+      "Adicione o chocolate em pó e o café, acrescente a farinha de trigo e o fermento em pó",
+      "Bata bem.",
+      "Leve ao forno para assar em forma untada por 30 minutos.",
+      "Cobertura",
+      "Em uma panela coloque a margarina, o leite condensado, o chocolate em pó e o café.",
+      "Leve ao fogo sem parar de mexer e deixe cozinhar até ficar cremoso, despeje o creme ainda quente em cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DIENIFER GOLDSCHMIDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305254-bolo-de-cafe-com-chocolate.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO MÁGICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 colher (sopa) de fermento em pó",
+      "2 colheres de (sopa) de canela em pó",
+      "3 colheres (sopa) de manteiga",
+      "2 xícaras (chá) de açúcar",
+      "1 xícara de (chá) de leite",
+      "2 xícaras de farinha de trigo",
+      "açúcar e canela para finalizar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece batendo as claras em neve e reserve.",
+      "Bata as gemas com o açúcar e a manteiga.",
+      "Acrescente a farinha aos poucos, junto com o leite, o fermento e a canela.",
+      "Junte também as claras em neve.",
+      "Despeje a mistura em uma forma untada e enfarinhada.",
+      "Leve ao forno preaquecido por 30 a 40 minutos.",
+      "Desenforme o bolo ainda morno.",
+      "Finalize com um pouco de açúcar e canela por cima. ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: você sabia que pode usar a canela para muitas outras coisas? Esse ingredientes poderoso pode ser usado para eliminar formigas da cozinha, para diminuir o colesterol e até como esfoliante de pele. \nEliminar formigas: coloque um pouco do pó da canela por onde os bichinhos costumam passar, você vai ver como elas desaparecem! \nDiminuir o colesterol: consuma pelo menos 1/2 colher de canela por dia. Isso pode ajudar a diminuir seu colesterol. \nEsfoliante de pele: misture um pouco de canela com mel e passe na pele. Deixe por alguns minutos, lave e veja os resultados incríveis. \nQuer saber onde mais você pode usar a canela (praticamente em tudo)? Ela é um tempero maravilhoso e muito usado na cozinha! Mas nessa matéria do blog você conhece algumas das combinações mais usadas. Clique aqui e veja!\nVeja tambem:\nBolo churros: apaixone-se por essa receita maravilhosa\nBenefícios da canela para a saúde: confira"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302609-bolo-magico.html"
+}

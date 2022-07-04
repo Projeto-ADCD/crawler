@@ -1,0 +1,47 @@
+{
+  "nome_receita": "MANJAR DE COCO COM MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Manjar de coco",
+      "1 lata de leite condensado",
+      "1 creme de leite",
+      "1 vidro de leite de coco",
+      "100 g de coco ralado",
+      "1 xícara (chá) de amido de milho",
+      "1 litro de leite",
+      "1 colher (chá) de essência de baunilha (opcional)",
+      "Calda de morango",
+      "500 g de morango lavados e sem o talinho verde",
+      "1/2 limão",
+      "2 colheres (sopa) de água",
+      "1 xicara rasa de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Manjar de coco",
+      "Coloque no liquidificador todos os ingredientes e bata bastante até que fique bem misturado.",
+      "Despeje em uma panela boa antiaderente toda a mistura e ligue o fogo, de preferência no fogo médio.",
+      "Use uma colher de pau ou de silicone para mexer o manjar o tempo inteiro",
+      "O tempo de preparo no fogo depende, é em torno de 20 minutos, até que o manjar não esteja mais liquido e que esteja em uma textura mais firme",
+      "Despeje em uma forma de alumínio grande com um furo no meio que esteja untada com água gelada para que não grude.",
+      "Deixe gelar por umas 2 horas no congelador",
+      "Calda de morango",
+      "Coloque em uma panela uma boa parte dos morangos, por volta de 300 g.",
+      "E reserve o restante para decoração do lado do manjar.",
+      "Adicione o limão, açúcar e o pouquinho de água",
+      "Ligue o fogo e cozinhe por pouco tempo, só o tempo de derreter o açúcar e formar a calda",
+      "Porém, não deixe o morango derreter, ele tem que continuar firme porém com uma calda de morango gostosa.",
+      "Após pronto, deixe na geladeira até esfriar e dar a hora de desenformar o manjar de coco.",
+      "Montagem do manjar com os morangos:",
+      "Deseforme o manjar em uma forma para bolo grande",
+      "Coloque os morangos cozidos por cima de todo o manjar, com bastante calma.",
+      "Coloque os morangos crus que sobraram fatiados bem fininho do lado do manjar, para que o manjar fique inteiro coberto por morangos.",
+      "Despeje a calda de morango no meio e leve para a geladeira até que fique bem geladinho"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EDUARDO NEIVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304287-manjar-de-coco-com-morangos.html"
+}

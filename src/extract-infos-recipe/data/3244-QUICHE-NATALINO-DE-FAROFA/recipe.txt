@@ -1,0 +1,47 @@
+{
+  "nome_receita": "QUICHE NATALINO DE FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa ",
+      "1 pacote de 500 g de farofa de milho Yoki",
+      "1 pote de iogurte natural",
+      "200 g de manteiga ou margarina para forno",
+      "1 ovo e 1 gema",
+      "Recheio",
+      "2 latas de creme de leite",
+      "4 ovos",
+      "3 colheres grandes de amido de milho",
+      "1/2 pimentão verde em tiras finas",
+      "1/2 pimentão vermelho em tiras finas",
+      "2 tomates sem pele e sem caroço em quadradinhos",
+      "1 lata de ervilhas",
+      "1/2 xícara de alho poró em rodelas finas",
+      "300 g de tender picado",
+      "sal, pimenta-do-reino e noz-moscada moída a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture todos os ingredientes da massa. ",
+      "Abra a massa com um rolo e coloque em uma forma de aro removível. ",
+      "Deixe na geladeira por 1 hora",
+      "Leve para assar por 10 minutos em forno médio preaquecido",
+      "Recheio",
+      "No liquidificador, bata o creme de leite, os ovos e as 3 colheres de amido de milho.",
+      "Transfira para um pirex e misture os demais ingredientes.",
+      "Despeje sobre a forma com a massa.",
+      "Asse por 30 minutos aproximadamente.",
+      "Retire e deixe esfriar. ",
+      "Decoração",
+      "Cubra com batata palha, tomate cerejas e folhas de manjericão ou salsa para decorar (opcional)"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Margarete Antunes"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303667-quiche-natalino-de-farofa.html"
+}

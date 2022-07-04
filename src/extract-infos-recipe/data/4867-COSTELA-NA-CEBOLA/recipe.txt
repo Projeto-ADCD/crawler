@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COSTELA NA CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela bovina (já limpa)",
+      "6 cebolas grande",
+      "coentro a gosto",
+      "pimenta de cheiro a gosto",
+      "2 caldos de carne",
+      "2 sachês de tempero pronto de carne",
+      "1 colher (sopa) de colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com sal a gosto e reserve",
+      "Corte as cebolas em rodelas",
+      "Corte picadinho o caldo de carne",
+      "Em uma panela de pressão forre o fundo com 3 cebolas cortadas",
+      "Coloque a carne",
+      "Adicione as outras 3 cebolas cortadas",
+      "Coloque o sachê de tempero, o caldo picadinho, a pimenta de cheiro a gosto, o colorau e o coentro",
+      "Tampe e deixe cozinhar por 20 minutos",
+      "Abra, mexa e coloque mais 10 ou 15 minutos",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo vai depender da chama do fogão e de sua panela de pressão "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JESSIKA X FRANCISCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300047-costela-na-cebola.html"
+}

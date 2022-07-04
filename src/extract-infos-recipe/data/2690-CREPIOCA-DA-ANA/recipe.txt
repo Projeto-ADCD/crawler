@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREPIOCA DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 colheres de goma de tapioca",
+      "1 colher se requeijão",
+      "1 colher de queijo mussarela ralada (sugestão)",
+      "sal a gosto",
+      "margarina para untar frigideria"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes e bata à mão com garfo",
+      "Unte frigideira com margarina",
+      "Coloque a mistura na frigideira untada e espere até dar uma leve dourada, vire a crepioca para dourar do outro lado."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304646-crepioca-da-ana.html"
+}

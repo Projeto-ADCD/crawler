@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BERINJELA RECHEADA AO TAHINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "270 g de Carne Moída do Futuro (1 caixa)",
+      "3 berinjelas médias",
+      "5 dentes de alho picados",
+      "1/2 colher (chá) de pimenta síria",
+      "1 cebola roxa grande em fatias finas",
+      "3 colheres (sopa) de azeite",
+      "1 colher (chá) de alecrim seco",
+      "1 maço de cebolinha picada",
+      "3 colheres (sopa) de tahine (molho de gergelim)",
+      "3 colheres (sopa) de água gelada",
+      "suco de 1 limão tahiti",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira em fogo médio refogue 3 dentes de alho em 1 colher (sopa) de azeite até dourar.",
+      "Adicione a Carne Moída do Futuro com 1/2 colher (chá) de pimenta síria, sal e pimenta.",
+      "Assim que a carne começar a dourar, desligue o fogo e adicione as cebolas roxas bem fininhas.",
+      "Esse será o recheio, reserve.",
+      "Lave bem as berinjelas, certifique-se de que não tenham nenhum buraco e corte-as ao meio no sentido do comprimento.",
+      "Sem retirar a polpa, faça cortes em toda a polpa, formando losangos, tomando cuidado para não romper a casca.",
+      "Isso vai permitir que a berinjela pegue mais tempero e asse mais rapidamente.",
+      "Regue com azeite, tempere com 1 dente de alho bem picado, sal, pimenta e alecrim.",
+      "Asse em forno médio (180°C) por 40 minutos e reserve.",
+      "Em uma tigela misture o tahine com o alho restante bem picado, a água gelada, azeite e o suco de limão.",
+      "Mexa bem até que se forme um molho com a consistência de maionese.",
+      "Adicione mais ou menos água para atingir a consistência que preferir.",
+      "Para montagem, coloque o recheio reservado por cima das berinjelas assadas.",
+      "Sirva com o molho de tahine, limão fresco e cebolinha picada."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304740-berinjela-recheada-ao-tahine.html"
+}

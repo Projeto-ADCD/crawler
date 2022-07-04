@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MILK SHAKE SEM LEITE DE OVOMALTINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de leite em pó",
+      "4 gelos grandes",
+      "2 ou 3 colheres (sopa) de açúcar de sua preferência",
+      "3 colheres de ovomaltine",
+      "3 gotas de leite de coco",
+      "1/2 copo (americano) de leite de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue um copo de 250 ml coloque primeiro o leite em pó, o leite e o açúcar",
+      "Coloque tudo no liquidificador",
+      "E ponha o leite de coco"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RODRIGO CANDELARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305074-milk-shake-sem-leite-de-ovomaltine.html"
+}

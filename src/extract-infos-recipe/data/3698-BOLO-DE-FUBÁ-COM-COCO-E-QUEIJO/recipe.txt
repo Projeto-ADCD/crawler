@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM COCO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de milharina ",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de óleo de milho",
+      "1 xícara de leite",
+      "1 xícara de açúcar cristal",
+      "3 ovos",
+      "200 g de coco fresco",
+      "100 g de queijo parmesão ralado",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o coco e acrescente aos poucos os demais ingredientes, exceto o fermento",
+      "Bata com o auxílio de uma colher até obter uma mistura homogênea.",
+      "Misture o fermento na massa, coloque em uma forma redonda com furo, untada e efarinha",
+      "Leve para asssar em forno preaquecido a 180° C durante 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MAXWEL DE SOUZA FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302889-bolo-de-fuba-com-coco-e-queijo.html"
+}

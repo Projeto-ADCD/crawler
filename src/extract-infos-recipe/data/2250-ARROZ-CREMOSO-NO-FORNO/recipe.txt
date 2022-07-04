@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ARROZ CREMOSO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de milho verde escorrido",
+      "1 caixa de creme de leite (200 g)",
+      "4 xícaras (chá) de arroz branco cozido",
+      "2 xícaras (chá) de frango cozido e desfiado",
+      "1 xícara (chá) de azeitona preta picada",
+      "2 tomates sem sementes picados",
+      "sal e salsa picada a gosto",
+      "1 xícara (chá) de queijo provolone ralado",
+      "1 chouriço picado",
+      "1 cenoura picada ou ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata 1 lata de milho e o creme de leite por 1 minuto.",
+      "Despeje em uma tigela, adicione o milho restante, o chouriço,a cenoura ,o arroz, o frango, a azeitona, o tomate, sal, salsa e misture até ficar homogêneo.",
+      "Transfira para um refratário médio, polvilhe com o provolone e leve ao forno médio,",
+      "Preaqueça por 10 minutos ou até gratinar.",
+      "Retire do forno e sirva."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HELANE KASSANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305629-arroz-cremoso-no-forno.html"
+}

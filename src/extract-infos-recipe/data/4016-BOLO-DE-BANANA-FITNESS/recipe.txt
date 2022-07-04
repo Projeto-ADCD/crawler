@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE BANANA FITNESS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas prata ou nanica bem maduras",
+      "3 ovos inteiros",
+      "2 xícaras de aveia em flocos",
+      "3 colheres cheias de pasta de amendoim",
+      "1 colher (sopa) de fermento",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque em uma forma untada.",
+      "asse por 30 minutos no forno a 200º em forma redonda (de pudim).",
+      "O tempo pode variar de acordo com a forma."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JULIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302130-bolo-de-banana-fitness.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOPA DE DOBRADINHA COM BANANA VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 bananas verdes",
+      "1,5 kg de dobradinha de boi cortada em tiras",
+      "1 cebola grande picadinha ",
+      "1 colher (sopa) de chimichurri ",
+      "3 dentes de alho ",
+      "1 colher de corante",
+      "sal e pimenta-do-reino a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Afervente a dobradinha, escorra e lave bem, reserve ",
+      "Refogue o alho na panela de pressão até começar a dourar.",
+      "Acrescente o corante, a cebola, a pimenta e o chimichurri ",
+      "Coloque a dobradinha e conte 40 minutos após pegar pressão ",
+      "Acrescente a banana verde picada em rodelas ",
+      "Coloque mais água e tampe a panela de pressão para cozinhar mais 20 minutos, contados após pegar pressão",
+      "Saboreie"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WENDERSON MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301416-sopa-de-dobradinha-com-banana-verde.html"
+}

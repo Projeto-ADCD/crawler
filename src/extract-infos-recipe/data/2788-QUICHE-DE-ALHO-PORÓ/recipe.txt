@@ -1,0 +1,38 @@
+{
+  "nome_receita": "QUICHE DE ALHO-PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g farinha de trigo",
+      "1/2 pote margarina",
+      "1 e 1/2 colher de sop de manteiga",
+      "1 copo de alho poró cortado em rodelas fininhas (a parte branca e verde)",
+      "1 e 1/2 copo de creme de leite fresco",
+      "4 ovos grandes",
+      "2 colheres (chá) de tomilho fresco ou 1/2 colher (chá) se for seco",
+      "1 pitada de noz-moscada",
+      "1 e 1/4 de queijo parmesão fresco ralado (parmigiano-regiano recomendado)",
+      "1/4 colher (chá) de sal",
+      "1/4 colher (chá) pimenta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem a farinha de trigo e a margarina.",
+      "Depois de bem misturado e formado uma massa homogênea, forre a forma no fundo e nas laterais",
+      "Preasse a massa",
+      "Derreta a manteiga e doure o alho-poró em fogo medio por aproximadamente 15 minutos.",
+      "Não deixe dourar.",
+      "Tempere com sal e pimenta-do-reino a gosto.",
+      "Misture bem em um bowl médio o creme de leite, os ovos, o tomilho, a noz-moscada, o queijo ralado, o sal e a pimenta.",
+      "Retire a massa do forno, cubra com o alho-poró já refogado e temperado e em seguida despeje o creme por cima.",
+      "Asse por aproximadamente 50 minutos 180° C, ou até ficar dourado e firme.",
+      "A massa vai crescer e diminuir depois q retirado do forno",
+      "Dica importante: se caso a massa rachar quando pré-assada misture farinha de trigo e agua e cubra os espacos antes de rechear. Isso evitará que o recheio vaze e o quiche grude na forma.",
+      "Sirva quente ou morno"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MONIQUE MASCARENHAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304427-quiche-de-alho-poro.html"
+}

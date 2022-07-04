@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MOUSSE DE BRIGADEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 claras de ovos",
+      "3 colheres de açúcar",
+      "1 creme de leite",
+      "1 colher cheia de manteiga",
+      "1 leite condensado",
+      "8 colheres (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, retire a clara de 3 ovos e coloque em uma panela junto com o açúcar",
+      "Deixe em fogo baixo e mexa sem parar por 2 minutos",
+      "Se a clara cozinhar, não dá certo ",
+      "Agora coloque os ovos com açúcar em uma batedeira e bata por 1 minuto, depois adicione o creme de leite e bata por mais 2 minutos.",
+      "Agora faça O brigadeiro.",
+      "Em uma panela, coloque o leite condensado e 1 colher de manteiga",
+      "Leve ao fogo baixo.",
+      "Mexa até a manteiga derreter e adicione o chocolate em pó.",
+      "Mexa bem até começar a borbulhar muito.",
+      "Retire do fogo e junte com o creme que você fez no começo",
+      "Bata na batedeira por 5 minutos.",
+      "Depois, leve à geladeira por 3 horas e esté pronto.",
+      "Obs: pode fazer no liquidificador."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MY GAMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302553-mousse-de-brigadeiro-facil.html"
+}

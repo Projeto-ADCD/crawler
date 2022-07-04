@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO EM FARFALLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão farfalle",
+      "2 caixas de creme de leite de 200 g",
+      "300 g de filé de frango em cubos",
+      "1 cebola em pedaços",
+      "4 dentes de alho picados",
+      "1 lata de milho verde",
+      "4 tomates cereja",
+      "1 sachê de molho de tomate",
+      "azeite de oliva",
+      "3 colheres (sopa) de molho shoyu",
+      "orégano a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola com um pouco de sal junto com os cubos de frango, o azeite e o molho shoyu.",
+      "Deixe até que doure.",
+      "Acrescente o molho de tomate e misture.",
+      "Aguarde 3 minutos e adicione o creme de leite e posteriormente o milho.",
+      "Deixe no fogo por 3 minutos sempre misturando em intervalos e reserve.",
+      "Cozinhe o macarrão lembrando-se de salgar a água, deixe no fogo pelo tempo indicado na embalagem.",
+      "Em um refratário, coloque o macarrão com um pouco de azeite e adicione o estrogonofe sobre o mesmo.",
+      "Acrescente para finalizar os tomates cereja.",
+      "Sirva e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301870-estrogonofe-de-frango-em-farfalle.html"
+}

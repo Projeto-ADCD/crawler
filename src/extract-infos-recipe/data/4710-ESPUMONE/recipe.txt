@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ESPUMONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de leite de vaca",
+      "1 lata de creme de leite (tem que ser lata mesmo)",
+      "3 ovos (separar as gemas das claras )",
+      "10 colheres de achocolatado",
+      "5 colheres de leite",
+      "Calda de pudim"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro de tudo, coloque o creme de leite para gelar no congelador (pra facilitar a retirada do soro).",
+      "Faça a calda de pudim e coloque em uma forma de furo, leve ao congelador até q fique firme o suficiente para cobrir com outra calda (cerca de 10 min).",
+      "Faça uma mistura com o achocolatado e as colheres de leite, despeje sobre a calda já firme e leve novamente ao congelador.",
+      "Bata no liquidificador as 3 gemas, o leite condensado e a medida de leite.",
+      "Leve ao fogo e cozinhe até engrossar (vai ficar com aparência de talhado, mas não está).",
+      "Depois de cozido, deixe esfriar e leve novamente no liquidificador e bata com o creme de leite já sem soro.",
+      "Bata as claras em neve e misture no seu creme. Coloque sobre as caldas já geladas e leve ao congelador até o dia seguinte."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARYANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300383-espumone.html"
+}

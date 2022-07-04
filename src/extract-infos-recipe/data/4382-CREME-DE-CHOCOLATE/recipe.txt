@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CREME DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite integral",
+      "1/2 xícara de maisena",
+      "1/2 xícara de açúcar",
+      "3 gemas de ovos peneiradas",
+      "1 e 1/2 colher (sopa) de margarina ou manteiga",
+      "3 colheres (sopa) de chocolate em pó meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tijela bata as gemas com metade do açúcar até ficar um creme claro e homogêneo, depois adicione a maisena até incorporar.",
+      "Em uma panela coloque o leite e o açúcar que sobrou para ferver. Quando começar a ferver desligue o fogo.",
+      "Adicione metade do leite fervido a mistura da gema e mexa bem.",
+      "Adicione a mistura na panela com o que sobrou do leite fervido e ligue em fogo médio e mexa até engrossar. Desligue o fogo, misture o chocolate e mexa até incorporar bem o chocolate.",
+      "Leve à geladeira por 1h, depois bata bastante antes de utilizar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301265-creme-de-chocolate.html"
+}

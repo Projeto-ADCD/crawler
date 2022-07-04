@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE NOZES SIMPLES E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) rasa de manteiga",
+      "2 colheres (sopa) de óleo",
+      "3 dentes de alho",
+      "2 colheres (sopa) de bacon picadinhos",
+      "1 pitada de pimenta calabresa",
+      "100 g de castanhas do Pará trituradas",
+      "100 g de nozes trituradas",
+      "100 g de uvas passas branca",
+      "2 xícaras de farinha de mandioca grossa",
+      "tempero verde a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, coloque a manteiga e o óleo",
+      "Em seguida, coloque o alho, o bacon e a pimenta",
+      "Vá mexendo e colocando as nozes, as castanhas e as uvas passas",
+      "Tempero verde e o sal a gosto",
+      "Por últim, coloque a farinha",
+      "Mexa para misturar bem e sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARGARETH MONTEIRO AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303833-farofa-de-nozes-simples-e-facil.html"
+}

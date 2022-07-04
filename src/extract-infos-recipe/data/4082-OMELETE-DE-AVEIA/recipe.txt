@@ -1,0 +1,22 @@
+{
+  "nome_receita": "OMELETE DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 colheres de aveia",
+      "1 banana grande",
+      "Tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana, adicione os ovos e a aveia.",
+      "Adicione tempero a gosto.",
+      "Frite na frigideira."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANGÉLICA CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301933-omelete-de-aveia.html"
+}

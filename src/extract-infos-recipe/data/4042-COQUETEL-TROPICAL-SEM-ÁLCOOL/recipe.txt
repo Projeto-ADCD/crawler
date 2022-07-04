@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COQUETEL TROPICAL SEM ÁLCOOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 litro de água gelada",
+      "300 g de acerolas",
+      "100 g de abacaxi",
+      "3 laranjas médias",
+      "1 limão siciliano",
+      "1 limão do haiti",
+      "2 maracujás",
+      "1 polpa de manga",
+      "1 polpa de caju",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece colocando as polpas no liquidificador.",
+      "Acrescente tudo deixando as laranjas e os limões por último.",
+      "Descasque as laranjas e os limões.",
+      "Tire sementes, bagaços e ultize apenas a polpa de dentro (para não amargar)",
+      "Bata no liquidificador cerca de 3 a 5 minutos",
+      "Coe e acrescente o açúcar de sua preferência.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: quanto menos açúcar mais gostoso fica"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LU MENESES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302078-coquetel-tropical-sem-alcool.html"
+}

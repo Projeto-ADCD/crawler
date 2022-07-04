@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ESCONDIDINHO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "2 gemas peneiradas",
+      "1/3 do pacote de biscoito maisena ou leite",
+      "2 caixas de morangos picados (reserve alguns para enfeitar)",
+      "suco de 2 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o suco dos limões, com uma 1 lata de leite condensado e uma de creme de leite.",
+      "Coloque em um refratário médio e junte os biscoitos",
+      "Disponha os morangos picados e deixe na geladeira.",
+      "Leve ao fogo a outa lata de leite condensado, o creme de leite e as duas gemas peneiradas",
+      "Mexa até formar um mingau e logo em seguida, ainda quente, coloque por cima do morango.",
+      "Leve à geladeira por 30 minutos, enfeite e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CLEUVER ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300228-escondidinho-de-morango.html"
+}

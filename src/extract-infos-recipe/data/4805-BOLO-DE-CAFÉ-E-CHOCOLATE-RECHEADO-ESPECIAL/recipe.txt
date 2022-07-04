@@ -1,0 +1,62 @@
+{
+  "nome_receita": "BOLO DE CAFÉ E CHOCOLATE RECHEADO ESPECIAL",
+  "ingredientes": {
+    "MASSA:": [
+      "6 colheres (sopa) cheias de margarina",
+      "2 xícaras de açúcar",
+      "4 ovos",
+      "1 pitada de sal",
+      "6 xícaras de farinha de trigo",
+      "1 e 1/2 xícaras de leite morno com",
+      "3 colheres (sopa) de café solúvel",
+      "3/4 de xícara de cacau em pó",
+      "2 colheres (sopa) de fermento"
+    ],
+    "RECHEIO 1:": [
+      "cocada mole",
+      "1 colher de manteiga",
+      "2 xícaras de coco ralado",
+      "1 litro de leite condensado",
+      "50 g de chocolate branco",
+      "1/2 caixa de creme de leite",
+      "2 colheres de leite líquido"
+    ],
+    "RECHEIO 2 E 3 (USAM A MESMA BASE DE CHANTININHO):": [
+      "500 ml de chantilly batido",
+      "1 xícara de leite em pó peneirado e misturado ao chantilly",
+      "300 g de chocolate meio amargo",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata a margarina e açúcar até obter um creme fofo.",
+      "Acrescente os ovos, a pitada de sal e o chocolate em pó.",
+      "Dilua o café solúvel no leite morno.",
+      "Incorpore aos poucos o leite e a farinha de trigo.",
+      "Misture o fermento delicadamente.",
+      "Divida a massa em duas formas (de preferência de mesmo aro) e leve ao forno a 200° por 40 minutos ou até o palito sair limpo.",
+      "Depois de assado, deixar esfrie completamente.",
+      "Divida cada um dos bolos na horizontal.",
+      "Molhe com uma calda: leite com baunilha, chá de cravo, canela e anis com açúcar... Fica a seu critério."
+    ],
+    "RECHEIO 1:": [
+      "Coloque na panela de fundo grosso a manteiga, o coco, o leite condensado, o chocolate branco e o creme de leite, mexendo até obter o ponto de brigadeiro. Quando atingir o ponto, acrescente as duas colheres de leite para deixar mais fluído."
+    ],
+    "RECHEIO 2:": [
+      "Bata o chantilly conforme instrução do pacote e ao final acrescentar o leite em pó peneirado aos poucos."
+    ],
+    "RECHEIO 3:": [
+      "Derreta o chocolate meio amargo e unir ao creme de leite (ganache).",
+      "Pegue parte do recheio 2 e misture com este ganache até ficar homogêneo."
+    ],
+    "MONTAGEM DO BOLO:": [
+      "Base de bolo com o recheio de cocada; mais uma parte do bolo e cobre com recheio 3; mais bolo e cobre com o 2;",
+      "Finalize com a última parte por cima e cubra com o que sobrou do recheio 2."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "LAÍS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300201-bolo-de-cafe-e-chocolate-recheado-especial.html"
+}

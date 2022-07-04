@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FRANGO XADREZ FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sobrecoxas sem pele cortada cubos (temperadas com sal e pimenta preta e marinadas por no mínimo 2 horas)",
+      "1 cebola cortada em cubos de aproximadamente 2 cm",
+      "2 pimentões (vermelho/verde) em cubos",
+      "salsão em cubinhos a gosto (opcional)",
+      "óleo de gergelim a gosto (prefira o importado)",
+      "cebolinha verde picada a gosto",
+      "1/2 copo de molho de soja (shoyu)",
+      "2 colheres rasas (sopa) de amido de milho",
+      "1 colher (sopa) de açúcar",
+      "1 punhado de amendoim",
+      "sementes pretas de gergelim para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Desosse as sobrecoxas e coloque em uma panela de pressão os ossos com partes restantes do frango para cozinhar com 3 copos de água",
+      "Assim que pegar pressão, conte 15 minutos, desligue e deixe esfriar",
+      "Dilua nesse caldo o açúcar e o amido e reserve.",
+      "Em uma frigideira antiaderente ou uma wonk, aqueça um fio de óleo de gergelim, frite levemente o amendoim e reserve",
+      "Ainda com a panela bem quente, adicione mais um fio de óleo e frite a cebola por 2 minutos",
+      "Reserve e faça o mesmo procedimento com os pimentões, frite e reserve.",
+      "Com mais um fio de óleo e a panela bem quente, frite muito bem os cubos de sobrecoxas",
+      "Misture bem para aproveitar o calor da panela",
+      "Assim que estiver bem frito, adicione os legumes (anteriormente refogados) e continue fritando",
+      "Adicione o shoyu e na sequência o caldo com o amido e o açúcar devidamente diluídos",
+      "Misture muito bem o caldo antes de levar a frigideira",
+      "Assim que o caldo começar a engrossar, acrescente o amendoim e misture um pouco mais",
+      "Acrescente a cebolinha e o gergelim para enfeitar, sirva bem quente com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ALINE IBAÑEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303184-frango-xadrez-facil-de-fazer.html"
+}

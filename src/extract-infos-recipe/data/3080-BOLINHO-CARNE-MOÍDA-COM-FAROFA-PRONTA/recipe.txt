@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO CARNE MOÍDA COM FAROFA PRONTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída",
+      "1 xicara de farofa pronta de sua preferência",
+      "salsa e cebolinha a gosto",
+      "1 dente de alho bem picadinho",
+      "cebola picadinha bem fininha a gosto",
+      "1 ovo",
+      "sal a gosto (se necessário)",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo, a salsa, a cebolinha, o alho e a cebola na carne moída",
+      "Misture bem e acrescente a farofa para dar liga na massa, de forma que consiga moldar os bolinhos, verifique o sal",
+      "Após essa etapa, é só moldar e fritar o bolinhos em óleo bem quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANDRESSA T C PESSIMILIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303909-bolinho-carne-moida-com-farofa-pronta.html"
+}

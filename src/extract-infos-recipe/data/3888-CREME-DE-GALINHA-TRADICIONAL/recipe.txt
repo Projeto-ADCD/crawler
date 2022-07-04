@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CREME DE GALINHA TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "Verduras a gosto (tomate, cebola, pimentão, pimenta-de-cheiro, cheiro-verde)",
+      "alho, pimenta-do-reino, cominho e açafrão a gosto",
+      "1 colher de corante (colorau) (opcional)",
+      "2 a 4 tabletes de caldo de galinha (opcional)",
+      "2 sachês de tempero para aves (opcional)",
+      "3 litros de leite",
+      "1 xícara de trigo (sem fermento)",
+      "1 xícara de amido de milho",
+      "2 caixas de creme de leite",
+      "1/2 garrafa de leite de coco (opcional)",
+      "1 lata de milho verde (ou quantidade a gosto)",
+      "1/2 lata de ervilha (ou quantidade a gosto)",
+      "1 pacote de azeitonas picadas (ou quantidade a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o frango quase como de costume, mas caprichando no alho, pimenta-do-reino, cominho, açafrão, corante e nas verduras (cebola, tomate, pimentão, pimenta de cheiro, e cheiro verde)",
+      "Faça conforme o seu gosto, mas em maior quantidade, pois isso que dará o sabor ao creme",
+      "Adicione ao cozimento, os tabletes de caldo de galinha (opcional para quem gosta de sabor mais intenso)",
+      "Após cozido, retire o frango e reserve o caldo",
+      "Desfie o frango cozido, ou coloque em uma panela e amasse com a ponta de uma colher grande, o efeito é o mesmo e mais prático",
+      "No liquidificador, bata o caldo com as verduras cozidas até ficar bem liquidificado (não sugiro peneirar e deve-se tomar cuidado para não ficar nenhum ossinho)",
+      "Depois, com a panela no fogo, misture o caldo com frango desfiado",
+      "Quando ferver, junte o trigo e o amido já batidos com leite frio no liquidificador",
+      "Mexendo sempre",
+      "Quando engrossar, coloque os outros ingredientes (milho, ervilha, azeitona, leite de coco, menos o creme de leite)",
+      "Se precisar, acerte o creme, para afinar acrescente leite, para engrossar acrescente amido dissolvido com leite",
+      "Acerte o sal",
+      "Cozinhe até não ter mais sabor de \"trigo cru\"",
+      "Quando o creme estiver bem cozido, sem sabor de \"trigo cru\", apague o fogo e misture o creme de leite",
+      "Pronto"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SOBRINHO, AMAURI MELO.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302430-creme-de-galinha-tradicional.html"
+}

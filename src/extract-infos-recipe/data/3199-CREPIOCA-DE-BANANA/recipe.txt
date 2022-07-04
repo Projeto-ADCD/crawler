@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CREPIOCA DE BANANA",
+  "ingredientes": {
+    "MASSA:": [
+      "1 ovo",
+      "1 colher (sopa) de farinha de aveia ou amêndoas",
+      "2 colheres (sopa) de polvilho doce",
+      "1 banana amassada"
+    ],
+    "RECHEIO:": [
+      "Banana ou outra fruta de sua preferência",
+      "Mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador ou no prato mesmo.",
+      "Unte a frigideira antiaderente com manteiga ou óleo de coco, coloque a massa e deixe corar dos dois lados.",
+      "Depois recheie com banana e mel a gosto."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAMILA DE PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303746-crepioca-de-banana.html"
+}

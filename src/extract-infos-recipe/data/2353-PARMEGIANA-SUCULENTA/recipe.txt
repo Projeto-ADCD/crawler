@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PARMEGIANA SUCULENTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de alcatra (bife)",
+      "1 pimentão em cubos",
+      "1 tomate em cubos",
+      "1 cebola em rodelas",
+      "1 molho de queijos (200 g)",
+      "1 molho de tomate (200 g)",
+      "molho chiplote a gosto",
+      "orégano a gosto",
+      "300 g queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o bife e deixe de um dia para o outro.",
+      "Em um frigideira aquecida coloque os bifes para fritar (não deixe o bife fritar muito para não ficar seco)",
+      "Sobreponha os bifes fritos em uma travessa de vidro e reserve",
+      "Na mesma frigideira coloque as cebolas para refogar, em seguida acrescente o chiplote ",
+      "Coloque as cebolas com molho chiplote sobre os bifes na travessa e reserve",
+      "Em outra panela refogue o pimentão e o tomate.",
+      "Em seguida cubra com molho de tomate.",
+      "Cubra as cebolas com esse molho de tomates e pimentões.",
+      "Por cima coloque o molho branco e queijo mussarela.",
+      "Decore com óregano.",
+      "Leve ao forno a 280° C por 10 minutos para gratinar.",
+      "Sirva quente com arroz"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARINA ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305427-parmegiana-suculenta.html"
+}

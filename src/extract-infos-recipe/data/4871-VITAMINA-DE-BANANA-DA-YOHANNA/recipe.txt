@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE BANANA DA YOHANNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "1/2 de xícara de leite",
+      "açúcar a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em um liquidificador",
+      "Bata muito bem",
+      "Pronto, é só se servir"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "YOHANNA JESUS DE SOUSA CAVALCANTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300040-vitamina-de-banana-da-yohanna.html"
+}

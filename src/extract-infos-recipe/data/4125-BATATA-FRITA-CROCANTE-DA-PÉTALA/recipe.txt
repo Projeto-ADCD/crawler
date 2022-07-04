@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATATA FRITA CROCANTE DA PÉTALA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas inglesa",
+      "1 limão",
+      "água até cobrir as batatas",
+      "sal a gosto",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas da forma que quiser",
+      "Coloque-as em um recipiente com a água e o limão ",
+      "Deixe na geladeira por 10 minutos",
+      "Coloque em uma panela o óleo e espere ficar quente",
+      "Retire as batatas da geladeira e com um pano seque-as (a batata precisa ficar bem seca)",
+      "Coloque elas para fritar",
+      "Retire, adicione o sal e deguste sua batata crocante"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PÉTALA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301779-batata-frita-crocante-da-petala.html"
+}

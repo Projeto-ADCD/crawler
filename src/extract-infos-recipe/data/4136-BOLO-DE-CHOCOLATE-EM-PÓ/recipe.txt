@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de chocolate em pó",
+      "1 xícara de óleo (canola, se possivel)",
+      "1 xícara de água",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "1 pitada de bicarbonato de sódio (para deixar escurinho)",
+      "manteiga, farinha e chocolate para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré-aqueça o forno a 180°C.",
+      "Unte uma forma com manteiga e uma misturinha de farinha e chocolate.",
+      "Em uma tigela coloque o açucar, o chocolate em pó, os ovos e o óleo.",
+      "Com um fuê, bata bem.",
+      "Aos poucos acrescente a farinha e a água, alternadamente, batendo apenas para misturar.",
+      "Adicione o bicarbonato e o fermento.",
+      "Asse por aproximadamente 30 minutos.",
+      "Deixe descansar fora do forno por 15 minutos para não rachar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANDREY CERRI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301755-bolo-de-chocolate-em-po.html"
+}

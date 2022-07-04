@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO LIMÃO SICILIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão siciliano",
+      "1 garrafinha creme de leite fresco (500 ml)",
+      "sal",
+      "1 colher (sopa) de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale o limão siciliano e frite com um fio de azeite, deixe dourar",
+      "Em uma outra panela, adicione o creme de leite fresco e a raspa do limão já preparado, acrescente sal a gosto",
+      "Por último, adicione o suco do limão espremido",
+      "Quando isso estiver pronto, tire 1 xicara de café, adicione o trigo e mexa bem",
+      "Devolva a xícara do molho acrescentado do trigo para a panela e mexa bem"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISABELA GONDIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301853-molho-limao-siciliano.html"
+}

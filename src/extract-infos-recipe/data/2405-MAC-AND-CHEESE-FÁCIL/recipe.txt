@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MAC AND CHEESE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão (500 g)",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de farinha de trigo",
+      "2 xícaras de leite integral",
+      "200 g de mussarela ralada ou picada",
+      "200 g de cheddar",
+      "100 g de parmesão ralado",
+      "sal, pimenta e noz-moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em 5 litros de água.",
+      "Enquanto cozinha o macarrão:",
+      "Em uma panela leve a manteiga, após derretida acrescente a farinha de trigo.",
+      "Acrescente o leite morno e mexa bem para não empelotar.",
+      "Caso empelote, é só passar em uma peneira.",
+      "Mexa sempre até ferver.",
+      "Quando engrossar acrescente os queijos.",
+      "Tempere com sal, pimenta e noz-moscada.",
+      "Misture o molho no macarrão e está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA PAULA DESTRO STEIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305297-mac-and-cheese-facil.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE LEITE FIT FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de xilitol",
+      "4 ovos",
+      "2 xícaras de farinha de aveia",
+      "700 ml de leite desnatado",
+      "1 colher (sopa) de amido de milho",
+      "1/2 xícara de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes no liquidificador e bata por 3 minutos",
+      "Despeje em uma forma (usei uma forma redonda) e cubra com papel-alumínio",
+      "Leve ao forno para assar em banho-maria na temperatura de 200° C por aproximadamente 40 minutos",
+      "Espete sempre com um garfo para ver se a massa está durinha.",
+      "Lembrando que esse bolo tem consistência parecida com a de um pudim de pão e, por isso, o garfo nunca sairá completamente limpo.",
+      "Assim que estiver quase pronto, retire o papel-alumínio e deixe dourar levemente a parte de cima do bolo.",
+      "Desenforme ainda quente para que não haja problema do bolo quebrar.",
+      "Cuidado para não se queimar",
+      "Sirva e aproveite!",
+      "Espero que gostem!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA 1: caso goste, salpique um pouco de canela assim que desenformado, fica delicioso para quem gosta.\nDICA 2: Por este bolo ter uma consistência muito parecida com pudim, se preferir, antes de colocar a massa na forma, derreta 9 colheres de xilitol para fazer uma calda. Coloque na massa e leve ao forno seguindo as instruções da receita, assim quando desenformar, terá calda e aparência de pudim, além de ficar muito saboroso."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA KATHERINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302272-bolo-de-leite-fit-facil.html"
+}

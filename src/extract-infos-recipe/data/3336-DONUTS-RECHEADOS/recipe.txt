@@ -1,0 +1,37 @@
+{
+  "nome_receita": "DONUTS RECHEADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite morno",
+      "1 colher (sopa) de manteiga",
+      "1 pacote de fermento biológico seco",
+      "2 colher (sopa) de açúcar",
+      "1 pitada de sal",
+      "3 ovos",
+      "3 xícara de farinha de trigo"
+    ],
+    "CREME:": [
+      "3 colheres (sopa) de amido de milho",
+      "800 ml de leite",
+      "200g chocolate amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira o leite com a manteiga, o fermento e o açúcar",
+      "Adicione o sal e os ovos e 2 xícaras de farinha",
+      "Tire da batedeira e sove com mais 1 xícara de farinha por 10 minutos",
+      "Deixe descansar por 1 hora",
+      "Divida a massa em 8 bolinhas e asse em forno 180° por 35 minutos",
+      "Passe em açúcar confeiteiro"
+    ],
+    "CREME:": [
+      "Leve ao fogo o leite e o amido e deixe ferver por 2 minutos",
+      "Desligue o fogo, acrescente o chocolate e recheie os donuts"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SIMONE TOESCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303538-donuts-recheados.html"
+}

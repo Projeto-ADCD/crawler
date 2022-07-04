@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ABÓBORA PAULISTA COM ACELGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora paulista",
+      "1/2 maço de acelga",
+      "1/2 cebola",
+      "alho a gosto",
+      "óleo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a cebola no óleo",
+      "Quando estiver transparente, junte o alho até dourar",
+      "Acrescente a abóbora cortada em cubos",
+      "Depois de 5 minutos junte a acelga cortada em tiras, tempere e tampe a panela",
+      "Mexa de 5 em 5 minutos, até a abóbora desmanchar "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CURTINDO UMA LARYS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301435-abobora-paulista-com-acelga.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BEM CASADO TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "100 de açúcar peneirado",
+      "200 gramas de trigo peneirado",
+      "100 ml de leite",
+      "1 colher de cafe de essência de baunilha",
+      "20g de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixar o forno pre aquecendo a 180 graus celsius.",
+      "Bater as claras em neve e reservar.",
+      "Bater bem o açucar e as gemas, ate ficar cremoso.",
+      "Depois, misturar o trigo(case use a fécula também, pode misturar agora) junto com o leite. Bater bem.",
+      "Depois colocar a essência de baunilha. Bater pra misturar.",
+      "Misturar as claras em neve e misturar na mao, sem batedeira pra não perder a estrutura das claras.",
+      "Por ultimo, colocar o fermento e misturar com a espatula também.",
+      "Colocar na assadeira untada com manteiga e forrada com papel manteiga.",
+      "Colocar pra assar.",
+      "O ideal e assar um dia antes de cortar pra ele nao se desfazer. O descanso da uma consistência melhor.",
+      "Depois e so rechear conforme a sua preferencia."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Alternativa para deixar o bolo mais fofinho: diminuir o trigo para 160g e adicionar 30g de fécula de batata."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "DANILO E THAIS TONEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300214-bem-casado-tradicional.html"
+}

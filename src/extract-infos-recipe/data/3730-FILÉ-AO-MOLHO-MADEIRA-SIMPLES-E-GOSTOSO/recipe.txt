@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FILÉ AO MOLHO MADEIRA SIMPLES E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "sal a gosto",
+      "azeite",
+      "600 g de filé mignon (em forma de medalhões finos)",
+      "1 tablete de caldo de carne",
+      "1 xícara (chá) de água fervente",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de farinha de trigo",
+      "1/2 xícara (chá) de vinho madeira ou qualquer vinho tinto seco",
+      "1/2 xícara (chá) de champignons em conserva fatiados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite os filés, temperados apenas com sal, na manteiga e após estarem dourado, reserve-os.",
+      "Na panela em que fritou os filés, coloque o azeite e doure os cogumelos fatiados",
+      "Acrescente a manteiga até que derreta",
+      "Acrescente a farinha de trigo e mexa sem parar até a mistura ficar douradinha",
+      "Adicione o caldo de carne dissolvido na água fervente e mexa bem",
+      "Junte o vinho, misture e deixe ferver por cerca de 2 minutos",
+      "Desligue o fogo e sirva o filé com o molho"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOAO BATISTA NETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302821-file-ao-molho-madeira-simples-e-gostoso.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA MOLHADINHA DA VÓVO LIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates bem maduros",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo bem picadinhos",
+      "2 linguiças calabresa bem picadinhas",
+      "100 g de bacon picado",
+      "azeitonas a gosto",
+      "1 cebola picadinha",
+      "cheiro-verde a gosto",
+      "1 lata de milho",
+      "100 g de ervilha fresca",
+      "azeite a gosto  ",
+      "2 pacotes de farofa pronta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande, frite a linguiça e o bacon no azeite",
+      "Junte a cebola, os pimentões e refogue bem",
+      "Junte o milho, as ervilhas, as azeitonas e deixe cozinhar até os tomates soltarem bastante água",
+      "Desligue o fogo e vá juntando a farofa aos poucos e por último o cheiro-verde",
+      "A farofa precisa ficar úmida. É um ótimo acompanhamento para o churrasquinho dos fins de semana ou festas de final de ano, é um sucesso essa farofa!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: apague o fogo enquanto tem bastante líquido, não deixe secar!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELIAMAR DAMINI DA SILVA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303520-farofa-molhadinha-da-vovo-lia.html"
+}

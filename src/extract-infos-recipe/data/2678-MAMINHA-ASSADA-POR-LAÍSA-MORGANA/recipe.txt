@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MAMINHA ASSADA POR LAÍSA MORGANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de maminha",
+      "2 colheres (sopa) de chimichuri",
+      "1 colher (sopa) de açafrão",
+      "1 colher (sopa) de páprica defumada",
+      "1 colher (sopa) de alecrim",
+      "pimenta-do-reino a gosto",
+      "2 colheres (sopa) de mostarda dijon",
+      "fio de azeite",
+      "sal a gosto",
+      "1 colher (sopa) de alho desidratado",
+      "1 cebola média picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma forma untada com azeite, coloque a maminha e adicione os ingredientes",
+      "Coloque no forno a 18° C",
+      "Aguarde entre 35 a 45 minutos",
+      "Corte seguindo o fio da carne e sirva"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARINA FIUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304673-maminha-assada-por-laisa-morgana.html"
+}

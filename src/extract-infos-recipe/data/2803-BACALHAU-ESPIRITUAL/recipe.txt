@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BACALHAU ESPIRITUAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de bacalhau desfiado",
+      "3 gemas",
+      "1 litro de leite",
+      "1 colher (sobremesa) de molho inglês",
+      "1 colher (sopa) de coentro",
+      "6 colheres (sopa) de farinha de trigo",
+      "150 g de manteiga",
+      "2 cebolas médias",
+      "2 cenouras grandes",
+      "100 g de queijo parmesão",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as cenouras, espreme-se e deixa de lado (o suco não é necessário).",
+      "Doure a cebola com a metade da manteiga.",
+      "Coloque o bacalhau e o molho inglês refogando bastante.",
+      "Acrescente a cenoura já espremida e deixe de lado.",
+      "Em outra panela doure a outra parte da manteiga com a farinha de trigo.",
+      "Acrescente o leite aos poucos mexendo sempre para não enrolar.",
+      "Quando ferver, junte as gemas, cozinhe mais um pouco e acrescenta-se o queijo parmesão ralado.",
+      "Junte esta mistura passada na peneira ao bacalhau.",
+      "Quando esfriar, junte uma lata de creme de leite (sem soro) e uma colher (sopa) de coentro.",
+      "Coloque em um recipiente untado e leve ao forno polvilhado com farinha de rosca."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDA LEITE NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304400-bacalhau-espiritual.html"
+}

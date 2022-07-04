@@ -1,0 +1,46 @@
+{
+  "nome_receita": "CHARUTO OU MALFUFO SÍRIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cabeça de repolho grande",
+      "1 maço de couve",
+      "500 g patinho moído",
+      "100 g gordura moída de peito bovino",
+      "2 xícaras de arroz",
+      "4 tomates médios maduros",
+      "1 cebola média",
+      "1 colher de chá de açúcar",
+      "200 g de manteiga de Leite com sal",
+      "1/2 maço de salsinha bem picadinha",
+      "Sal e pimenta à gosto"
+    ]
+  },
+  "passos": {
+    "PREPARO DAS FOLHAS:": [
+      "Retire o miolo (centro) do repolho com uma faca, fazendo um corte pelo talo em forma de cone, cuidando para manter as folhas mais inteiras o possível;",
+      "Em uma panela grande mergulhe a cabeça de repolho, e enquanto aferventa e amolece, vá removendo com um pegador folha por folha e dispondo em uma assadeira;",
+      "Na mesma água afervente e amoleça as folhas de couve, e também reserve;"
+    ],
+    "PREPARO DO RECHEIO:": [
+      "Coloque o arroz de molho em 1 litro de água fervente por 15 minutos e escorra bem;",
+      "Bata no liquidificador 2 tomates, a cebola, o açúcar e 1 colher de sopa de sal. Caso goste de qualquer pimenta esse é o momento de adicionar;",
+      "Aqueça a manteiga numa panelinha o suficiente para derreter;",
+      "Junte tudo em um recipiente, o arroz, a carne, a salsinha, a manteiga e a mistura do liquidificador e misture bem. Confira o sal de maneira que fique um pouquinho a mais, supondo que também precisará temperar as folhas de repolho e couve."
+    ],
+    "MONTAGEM:": [
+      "Corte as folhas em pedaços uniformes, no tamanho aproximado de 15x15cm, retirando os talos e dispondo-os no fundo das panelas, uma de repolho e outra de couve;",
+      "Em cada folha coloque uma colher de sopa farta de recheio, e enrole de forma a ficar o mais apertadinho possível, como uma trouxinha;",
+      "Vá acomodando os charutos de forma espiral, formando camada sobre camada;"
+    ],
+    "COZIMENTO:": [
+      "Bata no liquidificador os outros 2 tomates com 750 ml de água e 1/2 colher de sopa de sal;",
+      "Distribua proporcionalmente nas duas panelas e ligue o fogo alto;",
+      "Ao invés das tampas use pratos que se encaixem o melhor possível nas panelas, de maneira que pressionem os charutos para não desenrolarem durante a fervura;",
+      "Desligue quando a água secar e está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDO MONTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300896-charuto-ou-malfufo-sirio.html"
+}

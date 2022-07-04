@@ -1,0 +1,32 @@
+{
+  "nome_receita": "DOCE GELADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pote de doce de leite",
+      "1 pote de nata",
+      "1 colherinha de café",
+      "1 colher (sopa) de emustab",
+      "1 lata de leite condensado",
+      "a mesma medida da lata de leite condensado de leite gelado",
+      "1 creme de leite",
+      "6 colheres (sopa) de leite em pó",
+      "1 colher (sopa) de emustab",
+      "ovomaltine a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1ª camada",
+      "Bata na batedeira os quatro primeiros ingredientes",
+      "Reserve e salpique ovomaltine por cima",
+      "2ª camada",
+      "Bata na batedeira os demais ingredientes, exceto ovomaltine",
+      "Despeje sobre a primeira camada e salpicar ovomaltine novamente",
+      "Coloque no freezer"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JÚLIA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304696-doce-gelado.html"
+}

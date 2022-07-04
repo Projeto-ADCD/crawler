@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PANQUECA DE BANANA E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas prata madura",
+      "1 ovo",
+      "3 colheres (sopa) de aveia em flocos finos",
+      "canela em pó a gosto",
+      "1 colhere (sopa) de açúcar ou se preferir mel para adoçar (com mel fica muito bom)",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Essa receita pode ser feita de 2 maneira, liquidificador e manual se preferir que a banana fique em pedaços",
+      "Liquidificador",
+      "Bata primeiro o ovo, as bananas, o açúcar ou mel e a canela",
+      "Bata até ficar homogêneo e com o liquidificador ligado adicione aos poucos a aveia",
+      "Manual (a mão) ",
+      "Em um recipiente amasse bem as bananas em seguida adicione o ovo, o mel ou açúcar e a canela",
+      "Misture bem e coloque a aveia ",
+      "Fritar",
+      "Depois de ter feito a massa vamos fritar: pegue uma colher ou concha ",
+      "Unte com óleo a frigideira, espere esquentar em fogo médio",
+      "Em seguida pegue com a concha ou a colher e coloque a massa espere uns 2 minutos ou quando estiver firme para virar",
+      "Repita isso várias vezes.",
+      "Dica; coloque mel após fritar em cima das panquecas fica sensacional"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KAH DALANORA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304223-panqueca-de-banana-e-aveia.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TACOS / FAJITAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de Rap10",
+      "300 g de peito frango",
+      "300 g de filé bovino",
+      "1 pimentão vermelho",
+      "1 pimentão amarelo",
+      "1 pimentão verde",
+      "1/2 cebola",
+      "PARA A GUACAMOLE",
+      "1/2 cebola roxa",
+      "1/2 tomate",
+      "1 abacate",
+      "1 limão (suco)",
+      "coentro a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango e o filé bovino em tirinhas pequenas, tempere com sal e pimenta, reserve;",
+      "Corte os pimentões e a cebola em tirinhas, refogue no azeite.",
+      "Para o guacamole, corte a tomate e a cebola roxa em cubinhos pequenos.",
+      "Em um recipiente, amasse o abacate, coloque a cebola roxa, o tomate, o coentro, o suco do limão, sal e pimenta.",
+      "Asse as tirinhas de carne e frango.",
+      "Aqueça um frigideira, adicione o Rap10 e siga as instruções de preparo na embalagem.",
+      "Monte o seu taco do jeito que preferir (eu coloco o guacamole, depois os pimentões e por último a carne e o frango)"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RUANE TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305878-tacos-barra-fajitas.html"
+}

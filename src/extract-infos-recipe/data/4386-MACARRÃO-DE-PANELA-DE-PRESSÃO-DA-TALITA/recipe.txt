@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO DA TALITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "3 dentes de alho",
+      "1 pacote de macarrão (penne ou parafuso)",
+      "1 molho de tomate",
+      "2 sachês de tempero pronto (carne ou legumes)",
+      "sal e pimenta-do-reino a gosto",
+      "300 g de mussarela picada",
+      "300 g de presunto picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique e refogue o alho e a cebola dentro da panela de pressão",
+      "Adicione o macarrão, água (até cobrir passando mais ou menos um dedo do macarrão), molho de tomate, os dois sachês, sal e pimenta a gosto.",
+      "Misture, tampe a panela e desligue 4 minutos após a panela pegar pressão.",
+      "Acressente a mussarela e o presunto picado.",
+      "Misture, verifique o sal e a pimenta e se necessário acrescente mais um pouco."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TALITA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301255-macarrao-de-panela-de-pressao-da-talita.html"
+}

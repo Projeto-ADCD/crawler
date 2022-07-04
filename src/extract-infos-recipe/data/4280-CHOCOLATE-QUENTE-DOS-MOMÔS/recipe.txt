@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE DOS MOMÔS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de amido de milho",
+      "3 colheres (sopa) de chocolate (50% cacau)",
+      "100 g de leite condensado",
+      "100g de creme de leite",
+      "1 colher (sopa) de licor de chocolate ou conhaque"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa tudo em fogo médio",
+      "Sem deixar atingir o ponto de fervura",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301474-chocolate-quente-dos-momos.html"
+}

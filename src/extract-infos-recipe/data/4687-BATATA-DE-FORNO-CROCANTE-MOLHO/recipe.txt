@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BATATA DE FORNO CROCANTE + MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Batata",
+      "1 kg de batatas (cerca de 8 unidades médias)",
+      "2 ramos de alecrim",
+      "50 g de manteiga cortada em cubos",
+      "3 colheres (sopa) de azeite",
+      "mix de pimenta ralado (pode ser substituído por pimenta-do-reino)",
+      "sal a gosto",
+      "3 dentes de alho com casca",
+      "Molho",
+      "3 dentes de alho assados",
+      "2 colheres (sopa) de maionese",
+      "1/2 colher (sopa) de mostarda",
+      "1 colher (chá) de mel",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Batata",
+      "Em uma panela, coloque água suficiente para cozinhar as batatas e deixe fervendo",
+      "Enquanto a água ferve, descasque as batatas e corte em 4 partes (se for pequena corte em 3)",
+      "É importante cortar as batatas do mesmo tamanho para que eles cozinhem por igual.",
+      "Em seguida coloque-as na água fervente e cozinhe por exatos 10 minutos.",
+      "Escorra as batatas e passe-as por água fria.",
+      "Coloque-as em um refratário e tempere com sal, pimenta-do-reino e alecrim.",
+      "Adicione também os dentes de alho com a casca.",
+      "Espalhe a manteiga em cubos e regue com um fio de azeite.",
+      "Asse em forno a 250º C por cerca de 30 minutos",
+      "Retire o refratário, vire as batatas e verifique o sal (se estiverem muito brancas, aumente a temperatura do forno)",
+      "Leve ao forno por mais 30 minutos ",
+      "Molho",
+      "Na metade do tempo de forno ou quando o alho estiver cozido e cremoso, retire-os do refratário e amasse com um garfo",
+      "Junte a maionese, a mostarda, o mel e tempere com sal e pimenta-do-reino.",
+      "Agora é só misturar até que fique homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUAN DOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300427-batata-de-forno-crocante-mais-molho.html"
+}

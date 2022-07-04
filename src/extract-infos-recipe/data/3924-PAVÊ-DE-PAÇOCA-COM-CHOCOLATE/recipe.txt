@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PAVÊ DE PAÇOCA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "recheio de paçoca",
+      "300 ml de leite",
+      "2 colheres (sopa) de amido de milho",
+      "1/2 lata de leite condensado",
+      "1/2 lata de creme de leite",
+      "4 paçocas (já trituradas)",
+      "recheio de chocolate",
+      "300 ml de leite",
+      "2 colheres (sopa) de amido de milho",
+      "1/2 lata de leite condensado",
+      "1/2 lata de creme de leite",
+      "200 g de chocolate em barra",
+      "camadas",
+      "1 pacote de bolacha de leite ou maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio de paçoca",
+      "Em uma panela, junte todos os ingredientes",
+      "Mexa bem em fogo baixo até virar um mingau ",
+      "Reserve na geladeira",
+      "Recheio de chocolate",
+      "Em uma panela, junte todos os ingredientes",
+      "Mexa bem em fogo baixo até virar um mingau ",
+      "Reserve na geladeira",
+      "Montagem",
+      "Coloque uma camada do creme de chocolate em um recipiente",
+      "Depois faça camadas de bolachas de leite ou maisena (sem recheio) molhadas no leite",
+      "Coloque uma camada do creme de paçoca e vai intercalando com bolachas e os cremes.",
+      "Depois das camadas montadas, decore do seu gosto e deixe por 3 horas na geladeira antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "MAYARA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302365-pave-de-pacoca-com-chocolate.html"
+}

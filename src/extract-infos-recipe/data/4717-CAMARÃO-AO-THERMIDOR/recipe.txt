@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CAMARÃO AO THERMIDOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite",
+      "800 g de camarão já descascado de tamanho médio",
+      "2 cebolas médias picadas",
+      "2 colheres de sobremesa de sal",
+      "2 colheres de sobremesa de açafrão",
+      "200 g de margarina",
+      "200 ml de vinho branco",
+      "4 dentes de alho picados",
+      "200 g de farinha de trigo",
+      "1 limão",
+      "100 ml de azeite de oliva extra virgem",
+      "100 ml de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo médio, misture a farinha de trifo a margarina e o leite com 1 pitada de sal e o açafrão. Mexa para não empelotar.",
+      "Acrescente o vinho e deixe no fogo por 5 minutos.",
+      "Coloque o creme de leite e meuxa bem.",
+      "Separe o molho para preparar o camarão.",
+      "Em uma frigideira grande em fogo médio, coloque o azeite ,o alho ,a cebola e 1 pitada de sal, refogue até dourar a cebola.",
+      "Acrescente o camarão e flambe com um pouco de vinho.",
+      "Coloque um pouco de açafrão.",
+      "Coloque o tudo no molho e deixe cozinhar por mais 5 minutos.",
+      "Depois, leve ao microondas por 2 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "THAMINE HATEM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300367-camarao-ao-thermidor.html"
+}

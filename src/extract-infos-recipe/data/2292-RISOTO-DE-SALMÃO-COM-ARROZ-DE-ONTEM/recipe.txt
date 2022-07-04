@@ -1,0 +1,28 @@
+{
+  "nome_receita": "RISOTO DE SALMÃO COM ARROZ DE ONTEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) arroz de ontem",
+      "1/2 xícara (chá) água",
+      "2 latas de salmão",
+      "1 caixa de creme de leite",
+      "3 colheres (sopa) catupiri",
+      "3colheres (sopa) salsinha",
+      "sal (usei 2 pitadas)",
+      "2 colheres (sopa) azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o arroz, acrescente a água e vai mexendo até secar.",
+      "Em outra panela, coloque os outros ingredientes e mexa até ficar com consistência cremosa.",
+      "Coloque na panela do arroz e misture tudo por cerca de cinco minutos com a colher de pau.",
+      "Sirva com batata palha.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RICARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305551-risoto-de-salmao-com-arroz-de-ontem.html"
+}

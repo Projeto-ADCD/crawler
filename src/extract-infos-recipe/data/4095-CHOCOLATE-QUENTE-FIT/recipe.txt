@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 ml de leite desnatado",
+      "1 colher (sobremesa) de amido de milho",
+      "1 colher (sopa) de cacau em pó 100 %",
+      "1 colher (sobremesa) de xilitol"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o amido de milho no leite.",
+      "Transfira para uma panela e adicione o cacau em pó e o xilitol.",
+      "Mexa bem em fogo baixo e deixe engrossar um pouco. ",
+      "Está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301878-chocolate-quente-fit.html"
+}

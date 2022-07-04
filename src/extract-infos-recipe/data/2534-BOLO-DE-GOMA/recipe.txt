@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE GOMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 de xícara de leite",
+      "1/2 de xícara de óleo",
+      "3 ovos",
+      "2 xícaras de goma de mandioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve o leite para ferver",
+      "Em uma vasilha, coloque a goma e despeje o leite fervido em cima",
+      "Misture e espere a mistura esfriar.",
+      "Depois de fria, acrescente 3 ovos, sal a gosto e misture",
+      "Unte uma forma com óleo ou margarina, adicione a mistura e leve ao forno por cerca de 30 minutos.",
+      "O correto é ficar observando sem abrir o forno.",
+      "O ponto do bolo depende da preferência de cada um, às vezes mais branquinho, às vezes mais dourado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CHRISTIANNE BELFORT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305004-bolo-de-goma.html"
+}

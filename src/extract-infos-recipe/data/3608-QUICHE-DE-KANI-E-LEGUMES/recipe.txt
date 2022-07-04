@@ -1,0 +1,48 @@
+{
+  "nome_receita": "QUICHE DE KANI E LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 xícara (chá) de farinha de trigo",
+      "1 gema",
+      "4 colheres (sopa) de margarina",
+      "1 colher (café) de sal",
+      "1 caixinha de creme de leite",
+      "Recheio:",
+      "1 cebola média ralada",
+      "3 colheres (sopa) de óleo",
+      "1 cenoura ralada",
+      "200 g de brócolis",
+      "125 g de kani kana desfiado",
+      "Cobertura:",
+      "2 ovos",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Numa vasilha, misture bem os 4 primeiros ingredientes com 2 colheres (sopa) de creme de leite até obter uma massa homogênea",
+      "Forre o fundo e as laterais de uma forma com fundo removível pequena e fure o fundo com um garfo",
+      "Leve ao forno médio por cerca de 15 minutos",
+      "Reserve",
+      "Recheio:",
+      "Refogue a cebola, a cenoura e o brócolis no óleo",
+      "Junte o kani e misture",
+      "Recheie a massa reservada",
+      "Cobertura:",
+      "Em um liquidificador bata os ovos com o restante do creme de leite",
+      "Cubra a massa recheada e polvilhe com o queijo parmesão ralado",
+      "Asse em forno médio por cerca de 25 minutos ou até dourar",
+      "Sirva quente",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: se preferir, substitua o kani por presunto ou peito de peru"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "AMANDA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303053-quiche-de-kani-e-legumes.html"
+}

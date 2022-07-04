@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PACU À MILANESA RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peixe pacu inteiro, sem cabeça, sem escama e limpo",
+      "temperos de sua preferência (eu utilizei sal, limão, pimenta do reino e coentro)",
+      "150 g de mussarela",
+      "120 g de batata palha",
+      "200 g de requeijão ou catupiry",
+      "50 g de azeitona picada",
+      "100 g de palmito picado",
+      "farinha de trigo para empanar",
+      "palitos de dentes para \"costurar\""
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe (por dentro e por fora) com os temperos de sua preferência e deixe-o marinando por no mínimo 24 horas",
+      "Recheie o peixe com a mussarela, a azeitona e o palmito picado",
+      "Feche o peixe, costurando-o com os palitos de dentes (eu cortei uma tira dele, e após fiz várias tirinhas como se fossem postas, e fui espetando essas tiras com os palitos de dentes para fechá-lo)",
+      "Empane na farinha de trigo e frite em óleo quente, em fogo médio",
+      "Após, deixe-o escorrer",
+      "Coloque o peixe já frito em uma assadeira, adicione o requeijão ou catupiry por cima e cubra-o com batata palha",
+      "Leve ao forno baixo por 20 minutos",
+      "Após, sirva-se",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DAIANE RIMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303158-pacu-a-milanesa-recheado.html"
+}

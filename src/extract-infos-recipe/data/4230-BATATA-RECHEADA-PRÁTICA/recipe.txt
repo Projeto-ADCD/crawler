@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BATATA RECHEADA PRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 batatas pequenas",
+      "4 dentes de alho picado",
+      "1 cebola picada",
+      "120 g de linguiça defumada em pedaços",
+      "1 tomate em pedaços",
+      "orégano",
+      "azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas ao meio e cozinhe-as com um pouco de sal na água fervente e deixe até que estejam bem cozidas. Retire e remova a polpa das batatas fazendo com que pareçam “conchas”. Reserve ambas.",
+      "Para o recheio refogue o alho e a cebola com um pouco de azeite até dourar. Adicione a linguiça e misture. Deixe por 10 minutos e reserve.",
+      "Em uma forma coloque as batatas e coloque o recheio em cada uma. Adicione um pouco de azeite e acrescente pedaços de tomate e orégano.",
+      "Leve ao forno por 15 minutos a 210/240ºC.",
+      "Prepare um purê com a polpa da batata para servir junto como guarnição."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301542-batata-recheada-pratica.html"
+}

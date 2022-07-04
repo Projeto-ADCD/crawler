@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CHURRASQUINHO MISTO COM FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g contra filé cortado em cubos",
+      "200 g linguiça calabresa",
+      "4 dentes de alho",
+      "pimenta-do-reino a gosto",
+      "1 cheiro-verde",
+      "sal a gosto",
+      "500 g de farofa pronta tradicional",
+      "1 molho de alface",
+      "1 tomate",
+      "1 cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com o alho batido, sal, pimenta-do-reino, cheiro-verde e alecrim a gosto.",
+      "Coloque 2 colheres de óleo na frigideira em fogo médio, acrescente a linguiça calabresa cortada em cubos e logo após a carne cortada em cubos.",
+      "Lave e corte a alface, o tomate e a cebola",
+      "Tempere com azeite, vinagre e sal a gosto.",
+      "Abra a embalagem da farofa tradicional pronta e sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "27 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "WILLIAM GOMES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303829-churrasquinho-misto-com-farofa.html"
+}

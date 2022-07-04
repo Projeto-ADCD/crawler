@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TALHARIM AO MOLHO BRANCO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g linguiça calabresa",
+      "300 g macarrão tipo espaguete",
+      "35 g manteiga",
+      "6 g farinha de trigo",
+      "200 ml leite",
+      "50 g queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a linguiça em cubos médios",
+      "Em uma panela frite a linguiça e reserve.",
+      "Na mesma panela adicione água e ferva o macarrão até ficar ao dente.",
+      "Escorra o e reserve.",
+      "Dissolva a farinha de trigo no leite.",
+      "Derreta a manteiga em uma panela.",
+      "Acrescente o leite e mexa bem até engrossar.",
+      "Adicione a carne a carne e o macarrão e misture bem.",
+      "Polvilhe o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "DERMENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301390-talharim-ao-molho-branco-com-calabresa.html"
+}

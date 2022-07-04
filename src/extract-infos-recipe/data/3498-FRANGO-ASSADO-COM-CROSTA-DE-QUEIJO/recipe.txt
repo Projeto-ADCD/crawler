@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FRANGO ASSADO COM CROSTA DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxas e sobrecoxas de frango",
+      "3 dentes de alho",
+      "1 colher (sopa) de açafrão-da-terra (cúrcuma)",
+      "3 colheres (sopa) de salsinha picadinha",
+      "coentro verde a gosto",
+      "suco de 1 limão",
+      "pimenta-do-reino a gosto",
+      "2 colheres (sopa) bem cheias de extrato de tomate",
+      "1 colher (sopa) de molho de maionese",
+      "2 xícaras de queijo parmesão ralado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as coxas de frango nas juntas",
+      "Retire os excessos de pele e gordura",
+      "Lave bem com água com um suco de um limão",
+      "Escorra bem, enxugue com papel toalha para tirar o excesso de água e tempere com o sal, alho, pimenta e a maionese",
+      "Deixe descansar nesse tempero por uns 10 minutos",
+      "Em outra vasilha, misture o extrato de tomate, o açafrão e as ervas picadinhas",
+      "Envolva cada pedaço de frango com essa mistura e cubra com o queijo ralado apertando para formar uma crosta",
+      "Coloque em uma forma untada levemente com azeite e leve ao forno bem quente por uns trinta minutos, ou até as crostas dos pedaços de frango estiverem bem douradas",
+      "Sirva bem quente com arroz branco ou purê de batata ou de mandioquinha"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TON ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303247-frango-assado-com-crosta-de-queijo.html"
+}

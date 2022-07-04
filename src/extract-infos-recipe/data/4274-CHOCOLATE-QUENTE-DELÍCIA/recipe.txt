@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1/2 lata de leite condensado",
+      "1/2 pacote de ovomaltine",
+      "1/2 xícara de cacau em pó ou chocolate em pó",
+      "2 colheres (sopa) rasas de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela e leve ao fogo.",
+      "Misture até engrossar e deixe por mais 5 minutos para ferver."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MIRIAM BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301483-chocolate-quente-delicia.html"
+}

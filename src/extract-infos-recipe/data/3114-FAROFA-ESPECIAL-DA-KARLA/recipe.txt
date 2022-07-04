@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA ESPECIAL DA KARLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de linguiça calabresa",
+      "1/2 kg de bacon",
+      "1 dúzia de ovos",
+      "500 g de margarina",
+      "1 vidro de azeitonas picadas",
+      "1 lata de milho verde",
+      "200 g de uvas passas",
+      "500 g de farinha rosca ",
+      "1 pacote de farofa pronta tradicional ",
+      "1 pacote de batata palha ",
+      "1 kg de farinha amarela",
+      "6 cenouras médias raladas",
+      "4 cebolas brancas raladas",
+      "cebola verde a gosto",
+      "1 pitada de fermento em pó",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon, desmanche a linguiça calabresa dos gomos e frite bem",
+      "Após, misture a margarina, frite a cenoura, cebola branca, misture milho, azeitonas e as uvas passas.",
+      "Em uma frigideira a parte, faça uma omelete com os ovos, 1 pitada de sal e 1 pitada de fermento em pó",
+      "Pique a omelete e adicione na panela da farofa",
+      "Coloque a farinha de rosca, a farofa pronta, farinha e batata palha",
+      "Misture bem no final e acrescente a cebolinha verde, pronto."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "KARLA DOS SANTOS MAYER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303859-farofa-especial-da-karla.html"
+}

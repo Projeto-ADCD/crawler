@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BRUSCHETTA DE TOMATE CEREJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "180 g de tomate cereja",
+      "2 dentes de alho",
+      "1/2 cebola",
+      "orégano a gosto",
+      "azeite a gosto",
+      "pão italiano tipo baguete"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no processador o alho e cebola e reserve.",
+      "Corte o tomate cereja, adicione o orégano a gosto mais o azeite",
+      "Coloque a mistura processada do alho e cebola e misture bem.",
+      "Obs: não coloco sal, pois o adocicado do tomate mais as misturas já fica ótimo.",
+      "Preaqueça o forno por 10 minutos.",
+      "Corte o pão italiano em fatias (6 a 7 fatias), coloque em uma forma untada com azeite",
+      "Coloque o antepasto de tomate nas fatias de forma generosa, salpique com mais orégano, coloque o parmesão a gosto e regue as bruschettas com azeite.",
+      "Leve ao forno por aproximadamente 20 minutos, olhe com 10, sempre avaliando a parte de baixo da bruschetta (não deve ficar com aspecto escuro e sim de assado)",
+      "Fique atento, pois o parmesão não derrete.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "HELCIO BIACCHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302746-bruschetta-de-tomate-cereja.html"
+}

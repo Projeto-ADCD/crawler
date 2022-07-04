@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BROA DE POLVILHO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 copo (americano) 200 ml de óleo",
+      "1/2 colher (chá) de sal",
+      "polvilho doce até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o óleo, ovos e o sal no liquidificador.",
+      "Vá colocando aos poucos o polvilho doce até ficar uma massa mais grossa, parecendo massa de bolo. Ao chegar em um ponto de massa de bolo, pare de bater.",
+      "Se você tiver forminhas pequenas, unte com óleo e trigo e use-as.",
+      "Despeje a massa aos poucos na forminha, não enchendo completamente pois eles crescem muito. Se não tiver forminhas pequenas, use uma forma retangular normal de bolo.",
+      "Unte uma forma com óleo e trigo. Caso for usar forma retangular, para uma receita, você terá que assar em mais de uma fornalha.",
+      "Em caso de forma retangular, com uma colher você vai fazer os bolinhos e ir colocando na forma. Lembre-se que eles tem que ficar distante uns dos outros pois eles vão crescer.",
+      "Em um forno pré-aquecido, coloque para assar em uma temperarura de 220º, até ele rachar por cima e ficar dourado. Vigie pois é muito rapido."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "TAMIRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299720-broa-de-polvilho-doce.html"
+}

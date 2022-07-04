@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO DE CARNE DA BEBÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de patinho moído",
+      "2 pães de cachorro-quente",
+      "1 ovo",
+      "1 copo (200 ml) de leite",
+      "3 dentes de alho",
+      "sal e pimenta-do-reino a gosto",
+      "salsinha a gosto",
+      "1 e 1/2 colher (sopa) de molho inglês",
+      "azeite para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne moída com o alho picado, sal, pimenta, salsinha e molho inglês.",
+      "Reserve.",
+      "Esfarele e embeba os dois pães em um prato fundo com leite.",
+      "Junte a carne, a mistura do pão e acrescente um ovo.",
+      "Misture bem.",
+      "Unte um refratário de vidro com azeite (10 x 20 x 30 cm) e despeje a mistura uniformemente.",
+      "Leve ao forno pré aquecido a 240º C por 30minutos nesta mesma temperatura ou até perceber que a carne dourou e, ao espetar com um garfo, este não saia sujo.",
+      "Caso o refratário seja diferente, o tempo de forno pode mudar, mas é só ficar atento ao aspecto da carne.",
+      "Sirva quente no proprio refratário.",
+      "Pode acompanhar saladas e o tradicional arroz com feijão.",
+      "Obs: o pão de cachorro quente pode ser substituido por qualquer outro pão de preferência, contanto que na mesma proporção aproximada"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ÉRICA BANTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305176-pao-de-carne-da-bebe.html"
+}

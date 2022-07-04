@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE COALHADA NATURAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 copo (americano) de leite",
+      "1/2 copo (americano) de óleo de girasol",
+      "1 copo (americano) de açúcar",
+      "1 copo (americano ) de amido de milho",
+      "1 copo ( americano) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "2 copos (americano) de coalhada",
+      "mateiga e trigo para untar a forma"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro bata no liquidificador todos os ingredientes líquidos",
+      "Depois acrescente o açúcar e bata por uns 30 segundos",
+      "Em seguida adicione o amido de milho e bata até misturar",
+      "Daí coloque a farinha de trigo aos poucos e vá batendo até misturar tudo",
+      "Coloque o fermento em pó e pulsar três vezes",
+      "Despeje a massa na forma, despeje a coalhada sobre a massa e leve ao forno pré aquecido a 180° C por cerca de 45 minutos.",
+      "Se você preferir pode misturar a coalhada na massa antes de levar ao forno, mas isso não deixará o bolo aerado como na foto."
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GEOVANE SANTOS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304946-bolo-de-coalhada-natural.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PAQUECA DOCE ❤",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "1 ovo",
+      "1 colher (sopa) de manteiga derretida",
+      "1 colher (sopa) de sal",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos levemente, junte o leite, a manteiga e o açúcar",
+      "Adicione a farinha de trigo, o fermento (se a farinha já não conter) e o sal.",
+      "Note que vai ficar um pouco espessa, o que é normal para este tipo de panqueca",
+      "Modele as panquecas em uma frigideira antiaderente untada com manteiga.",
+      "Sirva com mel, geleia, frutas ou iogurte"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA JULIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299881-paqueca-doce.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ENROLADINHO DE PÃO DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de salsicha",
+      "3 ovos batidos no garfo",
+      "2 pacotes de pão de forma",
+      "farinha de rosca para empanar",
+      "200 g de queijo",
+      "200 g de presunto ou apresuntado",
+      "orégano a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma superfície plana, amasse o pão de forma com o auxílio de um rolo (até ficar bem fininho)",
+      "Depois do pão fininho, coloque o queijo e o presunto e o orégano.",
+      "Após colocar o queijo, presunto e o oregano, coloque uma salsicha já lavada e sequinha , em cima dos ingredientes a cima.",
+      "Enrole bem o pão com os ingredientes na salsicha (para que forme um cilindro ou o famoso enroladinho)",
+      "Use 2 pães no enroladinho, quando terminar de enrolar um pão, continue com um outro onde acabou o anterior.",
+      "Após ter enrolados os pães com os ingredientes, passe no ovo batido e posteriormente, passe na farinha de trigo e leve na frigideira já quente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JORDAN SILVESTRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299714-enroladinho-de-pao-de-forma.html"
+}

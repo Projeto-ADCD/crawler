@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE DE CHOCOLATE CASEIRO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colheres (sopa) de chocolate em pó ",
+      "1 pacote de biscoito de chocolate sem recheio (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o leite condensado com o creme de leite e com o chocolate em pó até que o chocolate em pó esteja completamente misturado aos outros ingredientes.",
+      "Despeje a mistura num recipiente e deixe no freezer por 24h ou até 30h",
+      "Retire o recipiente e, pronto, pode se servir!",
+      "Opcional: Pegue o pacote de biscoitos e cubra o sorvete com os biscoitos. É importante que esse passo seja feito após congelar o recipiente."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CABRA ITTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303637-sorvete-de-chocolate-caseiro-simples.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CANELA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "4 colheres (sopa) de margarina",
+      "2 xícaras (chá) de açúcar",
+      "5 bananas médias maduras",
+      "1 colher (sopa) de canela em pó",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de leite",
+      "1 colher (sopa) de fermento químico em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira ou na mão, bata os ovos junto com a margarina e o açúcar",
+      "Bata bem até ficar homogêneo",
+      "Em outro recipiente, amasse 4 bananas (a 5° é para enfeitar o bolo)",
+      "Misture as bananas amassadas na massa e em seguida misture a canela, mexendo sempre muito bem",
+      "Misture aos poucos a farinha de trigo e o leite e por último acrescente o fermento em pó",
+      "Para montagem do bolo, unte e enfarinhe uma forma (indicado a de 30 cm), forre o fundo da forma com papel manteiga, corte a banana que sobrou em rodelas finas, passe elas no açúcar e coloque elas no fundo da forma",
+      "Despeje a massa sobre as bananas na forma e leve para assar em forno preaquecido por 10 minutos a 200 °C",
+      "Deixe assar por 40 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: você pode colocar mais ou menos canela, vai do gosto de cada um.\nOBS: após os 40 minutos, antes de desligar o forno, fure o meio do bolo com uma faca. Se sair \"limpo\" pode retirar, se sair com massa ainda, deixe por mais alguns minutos no forno para assar. O tempo de forno varia de acordo com a funcionalidade de cada eletro."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELLEN DA SILVA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302349-bolo-de-banana-com-canela-facil.html"
+}

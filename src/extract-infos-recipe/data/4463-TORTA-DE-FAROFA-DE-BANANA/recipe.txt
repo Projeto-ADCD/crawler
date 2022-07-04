@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE FAROFA DE BANANA",
+  "ingredientes": {
+    "MASSA:": [
+      "2 copos (180 ml) de farinha de trigo com fermento",
+      "2 copos (180 ml) de açúcar",
+      "1 colher (sopa) de fermento",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "1 colher (sopa) de canela em pó"
+    ],
+    "CREME:": [
+      "1 copo (180 ml) de açúcar",
+      "4 ovos",
+      "1 copo (180 ml) de leite",
+      "5 bananas maduras cortadas (fatiadas ou em rodelas)"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Misture todos os ingredientes da massa até formar uma farofa, garantindo que todas as bolinhas de manteiga tenham sido misturadas.",
+      "Reserve."
+    ],
+    "CREME:": [
+      "Peneire os ovos para retirar a película que envolve a gema. Em seguida, misture-os ao leite e o açúcar até virar um líquido sem aderência.",
+      "Reserve.",
+      "Feito isso, despeje metade da farofa em uma forma untada apenas com manteiga, e coloque as bananas cortadas por cima da farofa.",
+      "Despeje metade do creme por cima das bananas, e logo após o restante da farofa, e creme.",
+      "Finalize povilhando açúcar e canela sobre a torta.",
+      "Assar em fogo médio por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LISSYANE YASMIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301046-torta-de-farofa-de-banana.html"
+}

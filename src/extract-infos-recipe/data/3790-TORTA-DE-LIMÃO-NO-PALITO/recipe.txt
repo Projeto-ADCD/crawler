@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA DE LIMÃO NO PALITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de creme de leite fresco",
+      "200 g de leite condensado",
+      "1 colher (sopa) de raspas de limão",
+      "suco de 1/2 limão",
+      "50 g de biscoito maria",
+      "1 colher (sopa) de manteiga derretida",
+      "3/4 de xícara de açúcar",
+      "4 claras"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, misture o creme de leite fresco, o leite condensado, as raspas de limão e o suco de limão.",
+      "Reserve na geladeira por 15 minutos.",
+      "Triture o biscoito maria e misture com a manteiga derretida; reserve. ",
+      "Coloque o creme em formas de picolé. ",
+      "Adicione a farofinha de biscoito.",
+      "Coloque o palito e leve ao congelador por 3 horas. ",
+      "Em banho-maria, misture o açúcar com as claras e misture bem até dissolver o açúcar. ",
+      "Leve ao congelador por 20 minutos.",
+      "Bata na batedeira até ponto de merengue. ",
+      "Retire os picolés do congelador e mergulhe-os no merengue. ",
+      "Utilize um maçarico para formar uma casquinha crocante (opcional).",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302680-torta-de-limao-no-palito.html"
+}

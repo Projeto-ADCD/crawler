@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PICOLÉ DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de chocolate em pó",
+      "1 lata de leite condensado",
+      "2 latas de leite (medida da lata de leite condensado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes",
+      "Coloque em formas próprias para picolé",
+      "Leve ao freezer e espere gelar "
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DYLCE VEIGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303097-picole-de-chocolate.html"
+}

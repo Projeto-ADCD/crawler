@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA SALGADA DE ATUM E GELEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de pão de forma sem casca",
+      "2 latas de atum",
+      "1 lata de milho verde",
+      "1 pote de geleia de morango ou uva",
+      "2 latas de creme de leite",
+      "1 saco de batata palha 160 g",
+      "1 pote de maionese de 400 ml",
+      "salsa, cebola e azeitona a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o atum com maionese, cebola, azeitona picadinha e cheiro (reserve)",
+      "Triture o milho, acrescente a maionese e cheiro-verde (reserve)",
+      "Numa travessa, coloque uma camada em baixo de 6 fatias de pães de forma.",
+      "Passe creme de leite para umideça as fatias.",
+      "Passe a mistura do atum.",
+      "Coloque outra camada de pão de forma, passe o creme de leite e coloque uma quantidade de geleia.",
+      "Coloque outra camada de pão de forma, passe o creme de leite e uma camada de milho.",
+      "Repita até o tamanho que achar ideal.",
+      "Termine com a camada de milho.",
+      "Depois coloque em volta uma camada fina de maionese e por último a batata palha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANGELA RAMALHEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304152-torta-salgada-de-atum-e-geleia.html"
+}

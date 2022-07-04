@@ -1,0 +1,31 @@
+{
+  "nome_receita": "POLPETONE RECHEADO COM QUEIJO PRATO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de queijo Président",
+      "1 xícara (chá) de azeite",
+      "2 xícaras (chá) de farinha de trigo",
+      "300 g de carne moída (patinho ou músculo)",
+      "2 ovos",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com azeite, sal e pimenta-do-reino.",
+      "Divida a carne em quatro porções e faça 4 bolinhas médias.",
+      "Amasse um pouco a bolinha e recheie com o queijo, feche com a outra parte da bola de carne.",
+      "Passe em um prato com farinha e depois no ovo batido, repita o processo mais uma vez.",
+      "Aqueça o azeite em uma frigideira e frite os polpetones dos dois lados.",
+      "Quando estiver pronto, reserve.",
+      "Em uma panela a parte, coloque o molho de tomate de sua preferência para cozinhar e adicione o polpetone.",
+      "Cozinhe mais um pouco e pronto",
+      "Sirva com um queijo ralado por cima.",
+      "Acompanha uma massa também"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "COZINHA CHIC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302842-polpetone-recheado-com-queijo-prato.html"
+}

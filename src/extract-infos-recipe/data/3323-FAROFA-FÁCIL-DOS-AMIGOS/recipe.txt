@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA FÁCIL DOS AMIGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de acém cozido",
+      "5 cenouras médias",
+      "1 kg de farinha temperada de milho",
+      "500 g de farinha de mandioca temperada",
+      "500 g de farinha de mandioca",
+      "500 g de bacon picado",
+      "400 g de linguiça defumada",
+      "2 latas de milho verde",
+      "5 dentes de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o acém e desfie",
+      "Rale a cenoura, cozinhe por 2 minutos e coloque na água gelada para dar um choque e ficar al dente",
+      "Pique o alho em pedaços bem pequenos ou bata no pilão de alho",
+      "Frite o bacon e a linguicinha defumada e reserve",
+      "Em uma panela, frite o alho, acrescente a carne desfiada com um pouco de caldo, o bacon, a linguicinha, a cenoura ralada, o milho e coloque aos poucos as farinhas alternadas e devagar",
+      "Desligue o fogo e mexa até ficar soltinha e molhadinha ",
+      "Sirva com churrasco ou acompanhado com arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ELITANIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303560-farofa-facil-dos-amigos.html"
+}

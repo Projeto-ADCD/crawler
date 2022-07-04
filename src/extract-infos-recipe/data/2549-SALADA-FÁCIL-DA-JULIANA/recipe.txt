@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SALADA FÁCIL DA JULIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tomate",
+      "alface a gosto",
+      "6 vagens",
+      "batata palha a gosto",
+      "1 cenoura",
+      "15 g de castanha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as vagens por 5 minutos em água bem quente",
+      "Depois de frias, corte-as em pequenos pedaços e reserve.",
+      "Corte o tomate em cubinhos e reserve.",
+      "Rale toda a cenoura e reserve.",
+      "Rague as folhas de alface e reserve.",
+      "Corte as castanhas e reserve.",
+      "Em uma tigela junte todos os insumos e misture-os.",
+      "Acrescente batata palha até sentir-se satisfeito.",
+      "Regue com um molho para saladas de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "IURI FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304964-salada-facil-da-juliana.html"
+}

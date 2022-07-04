@@ -1,0 +1,46 @@
+{
+  "nome_receita": "GELATINA RECHEADA SIMPLES",
+  "ingredientes": {
+    "RECHEIO": [
+      "2 envelopes de gelatina incolor em pó",
+      "100 ml de água",
+      "1 xícara de leite",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite"
+    ],
+    "GELATINA": [
+      "250 ml de água quente",
+      "2 caixas de gelatina de morango",
+      "250 ml de água gelada"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Misture a gelatina incolor em pó e a água. ",
+      "leve ao fogo e mexa até dissolver a gelatina, mas não deixe ferver.",
+      "No liquidificador, misture o leite, o leite condensado, o creme de leite e a gelatina dissolvida. ",
+      "Bata até ficar homogêneo. ",
+      "Despeje em uma forma de furo no meio, untada com óleo. ",
+      "Leve à geladeira por 1 hora."
+    ],
+    "GELATINA": [
+      "Em uma tigela, dissolva a gelatina de morango na água quente.",
+      "Acrescente a água gelada e misture bem. ",
+      "Deixe a gelatina esfriar."
+    ],
+    "MONTAGEM ": [
+      "Desenforme o recheio da forma e reserve.",
+      "Despeje a gelatina de morango na forma. ",
+      "Acomode o recheio na gelatina.",
+      "Afunde um pouco o recheio na gelatina para que ela cubra a base do doce. ",
+      "Leve à geladeira por cerca de 4 horas. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Curtiu essa receita de gelatina recheada? Agora que você já sabe como fazer gelatina recheada simples, que tal tentar também um docinho? Confira essa deliciosa receita de docinho de leite ninho!\n   "
+    ]
+  },
+  "tempo_de_preparo": "0 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300389-gelatina-recheada-simples.html"
+}

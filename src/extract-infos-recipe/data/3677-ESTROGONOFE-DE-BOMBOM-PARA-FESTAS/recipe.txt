@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ESTROGONOFE DE BOMBOM PARA FESTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 latas de leite condensado",
+      "3 copo de leite",
+      "18 gemas",
+      "3 colheres de margarina",
+      "18 colheres de chocolate em pó",
+      "9 claras",
+      "3 lata de creme de leite",
+      "40 bombons",
+      "300 g de nozes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite condensado, o leite, as gemas, o chocolate e a margarina.",
+      "Fique mexendo sempre até engrossar.",
+      "Quando estiver bem grosso o creme desligue o fogo e deixe esfriar.",
+      "Na batedeira bata as claras em neve.",
+      "Acrescente as claras em neve ao creme de chocolate com o fogo desligado.",
+      "Coloque também junto o creme de leite, sem o soro, os bombons picados e as nozes.",
+      "Misture bem.",
+      "Leve para a geladeira"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MAURICIO BORBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302929-estrogonofe-de-bombom-para-festas.html"
+}

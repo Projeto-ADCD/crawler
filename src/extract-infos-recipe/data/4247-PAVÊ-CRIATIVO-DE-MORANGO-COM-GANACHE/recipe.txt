@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PAVÊ CRIATIVO DE MORANGO COM GANACHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 refratário de vidro pequeno/médio",
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 suco em pó de morango",
+      "1 pacote de bolacha Champagne ou Maizena",
+      "1 copo de leite frio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Batar no liquidificador o leite condensado, 1 caixa de creme de leite e o suco em pó por aproximadamente 4 minutos.",
+      "Regue as bolachas no leite e montar uma camada no refratário.",
+      "Intercale a bolacha e o mousse de morango.",
+      "Pique o chocolate e coloque-o em um recipiente de adequado e leve-o ao micro-ondas por 1 minuto.",
+      "Tire, mexa com uma colher ou espátula de madeira. Se não derreter completamente, volte ao micro-ondas por mais 20 segundos, sempre tirando e misturando bem até que esteja completamente derretido.",
+      "Acrescente 1/2 caixa de creme de leite e misturar bem até que o chocolate fique completamente homogêneo.",
+      "Despeje o ganache sobre a última cobertura do pavê.",
+      "Se quiser decorar, pode deixar um pouco do chocolate picado para salpicar sobre o ganache, ou chocolate granulado, morangos e etc.",
+      "Leve para gelar por pelo menos 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROSANGELA BEZERRA MASSARICO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301521-pave-criativo-de-morango-com-ganache.html"
+}

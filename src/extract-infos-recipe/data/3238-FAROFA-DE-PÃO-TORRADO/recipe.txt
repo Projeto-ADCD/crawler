@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FAROFA DE PÃO TORRADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 pão duros cortados em fatias ",
+      "5 cebolas cortadas bem finas ",
+      "farofa pronta ou farinha a gosto",
+      "azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça torradas com os pães duros com um pouco de azeite e orégano",
+      "Em uma frigideira, leve as cebolas para fritar até dourarem",
+      "Bata as torradas até virarem um farelo",
+      "Em uma frigideira, acrescente todos os ingredientes e mexa bem "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIÂNGELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303673-farofa-de-pao-torrado.html"
+}

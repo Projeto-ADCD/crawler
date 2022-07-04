@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO BRANCO JABURAGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "1/2 xícara de amido",
+      "2 xícaras de de açúcar",
+      "1 e 1/2 xícara de farinha de trigo",
+      "1/2 xícara de leite",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador (menos o fermento)",
+      "Depois acrescente o fermento e bata até que ele seja incorporado.",
+      "Coloque em forma untada e enfarinhada.",
+      "Leve ao forno por uns 30 a 40 minutos a 180° C a 200° C"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RENATA PAGANOTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305999-bolo-branco-jaburaga.html"
+}

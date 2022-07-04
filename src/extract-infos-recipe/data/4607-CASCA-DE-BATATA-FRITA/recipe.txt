@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CASCA DE BATATA FRITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata ou mais",
+      "óleo",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as batatas.",
+      "Esquente o óleo na frigideira.",
+      "Retire a casca da batata.",
+      "Frite as cascas.",
+      "Adicione sal depois de fritas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA CELINY MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300741-casca-de-batata-frita.html"
+}

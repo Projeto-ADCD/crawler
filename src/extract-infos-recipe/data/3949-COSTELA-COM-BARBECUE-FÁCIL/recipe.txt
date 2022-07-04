@@ -1,0 +1,37 @@
+{
+  "nome_receita": "COSTELA COM BARBECUE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela suina",
+      "1 limão",
+      "8 dentes de alho (em média)",
+      "1 colher (chá) de pimenta-do-reino (ou a gosto)",
+      "sal a gosto",
+      "1 tablete de caldo de costela",
+      "1 molho barbecue pronto de sua preferência "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro prepare o tempero em um recipiente",
+      "Esprema o limão (deixe apenas o suco), coloque a pimenta-do-reino, sal a gosto, o alho moido e o tablete de costela e reserve.",
+      "Em uma assadeira, passe um pouco de azeite para a costela não grudar, coloque a costela e faça pequenos furos com uma faca para o tempero entrar com mais facilidade na carne.",
+      "Agora, pegue o tempero já preparado antes e passe com as mãos por toda a costela, dos dois lados",
+      "Após feito isso, corte a cebola em rodelas e posicione sobre a costela (não colocar em baixo, pois quando for por forno vai acabar queimando a cebola)",
+      "Com a costela já temperada, cubra a assadeira com papel-aluminio e leve ao forno por 1 hora a 180° C.",
+      "Após 1 hora no forno, retire a assadeira e vire o outro lado da costela para ela assar por igual.",
+      "Passados 1 hora e 30 minutos, a costela já estará suculenta e quase pronta",
+      "Nesse momento, retire o papel-aluminio e volte-a para o forno para dourar a parte de cima.",
+      "Quando estiver com o aspecto dourado em cima e macia por dentro, já está pronta",
+      "Nesse momento, retire novamente do forno e cubra com barbecue",
+      "Coloque no forno por mais 3 minutos (suficiente para esquentar o barbecue) e pronto, sua costela está pronta para consumo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Em média o tempo maximo para assar é de 2 horas (utilizo forno elérico) pode levar menos tempo dependo do forno. Não coloque em forno alto pois vai assar por fora e ficar cru dentro."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LARISSA QUEIROZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302316-costela-com-barbecue-facil.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MISTURINHA DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de queijo prato",
+      "500 g de carne acém (ou da sua preferência)",
+      "1 kg de batata inglesa",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas em tirinhas",
+      "Depois coloque a batata para cozinhar e depois frite (reserve)",
+      "Faça a carne do seu jeito",
+      "Depois de pronta, despeje o creme de leite e misture (reserve).",
+      "Pegue uma travessa e coloque a mistura com a carne",
+      "Depois, por cima, coloque as batatas fritas",
+      "E finalize com as fatias de queijo ",
+      "Leve ao forno por aproximadamente 15 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LETÍCIA MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305366-misturinha-de-carne.html"
+}

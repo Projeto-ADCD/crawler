@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CANJIQUINHA DO GABRIEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de canjiquinha",
+      "150 g de bacon",
+      "300 g de miolo de acém moído",
+      "1 colher (chá) bem cheia de sal",
+      "200 g de linguiça calabresa",
+      "salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque a canjiquinha e água até cobrir, deixe em fogo médio",
+      "Pique o bacon em cubos e a linguiça bem fina.",
+      "Em uma frigideira, com fogo médio e um pouco de óleo, frite o bacon até corar",
+      "Faça o mesmo com a linguiça",
+      "Depois junte a carne, adicione o sal e frite bem.",
+      "Depois reserve todos esses ingredientes.",
+      "Quando a panela de pressão começar a fazer barulho, conte 15 minutos.",
+      "Depois de contar, deixe o vapor sair e, feito isso, despeje todos os ingredientes já fritos lá, misture bem",
+      "Caso fique sem sal adicione algumas pitadas.",
+      "Depois é só servir, se quiser dar um gostinho a mais adicione um pouco de cebolinha e salsinha no seu prato."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL ÂNGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300970-canjiquinha-do-gabriel.html"
+}

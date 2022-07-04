@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE PRÁTICO DA BETINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de leite (a gosto)",
+      "2 colheres de chocolate em pó",
+      "açúcar a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em panela, junte leite e o chocolate em pó",
+      "Deixe 5 minutos no fogão",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "BETINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301876-chocolate-quente-pratico-da-betina.html"
+}

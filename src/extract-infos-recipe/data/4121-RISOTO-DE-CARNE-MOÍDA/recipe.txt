@@ -1,0 +1,39 @@
+{
+  "nome_receita": "RISOTO DE CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande picada",
+      "1 dente de alho picado",
+      "2 colheres (sopa) de manteiga sem sal",
+      "400 g de carne moída",
+      "2 xícaras de arroz agulinha sem lavar ou arbóreo",
+      "1 xícara (chá) de vinho branco seco",
+      "2 cubos de caldo de costela",
+      "1 lata de milho escorrido",
+      "2 colheres (sopa) de salsinha picada",
+      "3 colheres (sopa) de cebolinha verde picada",
+      "4 xícaras (chá) de água",
+      "30 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, derreta a manteiga.",
+      "Acrescente a cebola picada e o alho e deixe fritar por uns minutos.",
+      "Acrescente a carne moída e deixe fritar até dourar.",
+      "Acrescente a cebolinha e a salsinha picada.",
+      "Junte o arroz e deixe fritar por uns minutos.",
+      "Junte o milho verde e deixe cozinhar um pouco.",
+      "Acrescente o vinho branco e deixe que o mesmo incorpore ao arroz.",
+      "Aqueça a água e dissolva os caldos de carne.",
+      "Adicione este caldo aos poucos ao arroz e vá mexendo com uma colher de pau.",
+      "Deixe cozinhar até que o arroz fique \"al dente\".",
+      "Polvilhe com o queijo parmesão ralado e sirva em seguida.",
+      "Se quiser, polvilhe salsinha picada sobre o risoto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301799-risoto-de-carne-moida.html"
+}

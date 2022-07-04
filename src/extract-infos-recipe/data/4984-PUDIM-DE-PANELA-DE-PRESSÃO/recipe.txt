@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PUDIM DE PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 lata de leite condensado",
+      "1 lata de leite (medida da lata de leite condensado)",
+      "6 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador por 5 minutos",
+      "Coloque dois dedos de água em uma panela de pressão, unte uma forma com caramelo",
+      "Coloque a forma ainda vazia na panela de pressão e adicione a receita na forma",
+      "Cubra bem a forma de pudim com papel-alumínio para não entrar água no pudim",
+      "Feche a tampa e depois que começar a chiar a válvula da panela, deixe por mais 7 minutos",
+      "Deixe esfriar e retire da panela de pressão a forma de pudim e coloque na geladeira por 4 horas ou congelador por 30 minutos, desenforme e sirva",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A panela de pressão é com as abas para fora e a forma de alumínio para pudim precisa caber dentro da panela. Se tiver uma forma mais alta que caiba as duas receitas não tem problema é o mesmo tempo."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JONIN EDUARDO FRANK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299783-pudim-de-panela-de-pressao.html"
+}

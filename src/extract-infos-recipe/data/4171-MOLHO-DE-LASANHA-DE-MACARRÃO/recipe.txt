@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOLHO DE LASANHA DE MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Queijos variados (minas, cheddar, cream chese, etc)",
+      "500 ml de leite",
+      "1/2 tablete de caldo pronto sabor galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bote o leite na panela com o caldo pronto.",
+      "Adicione os queijos.",
+      "Mexa tudo até derreter"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "NÃO DECIDI MEU RUMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301682-molho-de-lasanha-de-macarrao.html"
+}

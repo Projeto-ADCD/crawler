@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO CASEIRO FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de água morna ",
+      "1 colher (sobremesa) de fermento para pão",
+      "1 ovo inteiro",
+      "1 colher rasa de sal",
+      "2 colheres (sopa) de açúcar",
+      "1/2 copo de azeite",
+      "1 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dilua o fermento para pão na água morna em uma vasilha grande",
+      "Acrescente o ovo, o açúcar, o sal e o óleo e misture com uma colher",
+      "Aos poucos vá colocando a farinha de trigo, até que a massa fique homogênea",
+      "Misture com as mãos (a massa deve ser desgrudar das mãos)",
+      "Sove bem a massa e deixe descansar por uma hora",
+      "Dica: você pode dividir a massa em pequenos pães ou fazer um pão inteiro (deixe por mais 40 minutos a massa descansar)",
+      "Leve ao forno por 150° C ou 200° C e por um tempo de 30 a 40 minutos, se quiser use uma gema para pincelar os pães antes de levá-los ao forno",
+      "Aproveite esses pães fofinhos"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "OH HOFSTÄTTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304100-pao-caseiro-fofinho.html"
+}

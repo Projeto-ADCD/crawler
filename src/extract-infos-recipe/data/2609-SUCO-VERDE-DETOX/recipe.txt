@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUCO VERDE DETOX",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve com talo",
+      "10 folhas de hortelã",
+      "1 colher (chá) de açúcar",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador",
+      "Se quiser depois é só colocar gelo"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALLINYNHA SOUSA II",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304815-suco-verde-detox.html"
+}

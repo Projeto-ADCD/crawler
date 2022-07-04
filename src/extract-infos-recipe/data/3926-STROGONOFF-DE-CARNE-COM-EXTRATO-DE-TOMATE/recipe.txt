@@ -1,0 +1,32 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE COM EXTRATO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de coxão mole cortado em tiras",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "3 colheres (sopa) de óleo",
+      "1 colher (sopa) de farinha de trigo",
+      "sal e temperos a gosto",
+      "2 colheres (sopa) de extrato de tomate",
+      "200 ml de água",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o alho e a cebola em fogo médio",
+      "Aumente para fogo alto e acrescente a carne.",
+      "Mexa para que não grude e cozinhe por igual.",
+      "Quando toda a água da carne tiver sumido, acrescente o extrato de tomate.",
+      "Deixe refogar por 1 minuto.",
+      "Polvilhe a farinha de trigo e mexa bem para que a farinha não fique crua (leva mais ou menos 2 minutos)",
+      "Acrescente a água aos poucos, mexendo sempre.",
+      "Quando começar a ferver, pode desligar e acrescentar o creme de leite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TATHIANA BARCHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302359-strogonoff-de-carne-com-extrato-de-tomate.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SALADA FRESCA DE REPOLHO E ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 repolho",
+      "1 caixa de creme de leite (opcional)",
+      "6 colheres (sopa) de maionese",
+      "1 pacote de uva passa (opcional)",
+      "1 abacaxi grande",
+      "5 maçãs",
+      "5 colheres de (sopa) de vinagre ou 1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as maçãs em cubos e deixe de molho no vinagre ou limão (evita que fiquem escuras)",
+      "Corte o abacaxi em cubos e reserve",
+      "Corte o repolho em tiras finas",
+      "Lave as maçãs em água corrente",
+      "Junte todos os ingredientes em uma travessa e coloque na geladeira",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANTONIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303223-salada-fresca-de-repolho-e-abacaxi.html"
+}

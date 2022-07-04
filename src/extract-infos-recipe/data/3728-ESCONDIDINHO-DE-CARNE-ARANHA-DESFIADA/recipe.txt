@@ -1,0 +1,42 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE ARANHA DESFIADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 batatas grandes",
+      "500 g de carne aranha ou de sua preferência",
+      "2 colheres de manteiga",
+      "1 copo de leite (pode ser em pó)",
+      "1 colher (chá) rasa de cominho",
+      "1 pacote de queijo ralado",
+      "1 e 1/2 cebola",
+      "3 alhos",
+      "1 a 2 tomates",
+      "tempero pronto a gosto",
+      "azeite",
+      "1 colher (chá) de colorau",
+      "2 colheres de coentro ou salsinha",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne aranha com cominho, colorau, tempero completo, salsinha ou coentro, alhos, pimenta-do-reino e sal a gosto.",
+      "Em uma panela de pressão, refogue a cebola e os tomates picados com um fio de azeite até dourar a carne.",
+      "Após dourar, acrescente 2 copos de água e deixe ferver em fogo baixo por 30 minutos, abrindo de vez enquando para ver a textura da carne e para não deixar secar o molho.",
+      "Assim que estiver molinha, desfie a carne e coloque a salsinha ou coentro",
+      "Deixe com um pouco de molho para não ficar muito seca e reserve.",
+      "Cozinhe as batatas inteiras com sal a gosto sem a casca até ficar bem molhinha",
+      "Em uma panela, refogue metade de uma cebola .",
+      "Amasse as batatas e misture tudo, aos poucos acrescente o leite mexendo em fogo baixo",
+      "Acrescente a salsinha ou coentro, sal a gosto e desligue o fogo.",
+      "Em um refratário, faça uma camada do purê e depois a carne toda e mais outra camada de purê.",
+      "Adicione queijo ralado por cima e leve ao forno alto para dourar por 15 minutos.",
+      "Agora é só servir."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANI DANIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302824-escondidinho-de-carne-aranha-desfiada.html"
+}

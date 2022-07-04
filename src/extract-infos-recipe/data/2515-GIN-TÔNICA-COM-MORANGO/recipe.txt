@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GIN TÔNICA COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 morangos",
+      "4 grãos de pimenta preta",
+      "1 e 1/2 dose de gin seco",
+      "raspas de limão taiti",
+      "água tônica",
+      "gelo a vontade"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na coqueteleira, macere os morangos com os grãos de pimenta",
+      "Em uma taça própria para gin, coloque os morangos e as pimentas maceradas",
+      "Complete a mesma taça com gelo",
+      "Coloque o gin e complete a taça com água tônica"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305042-gin-tonica-com-morango.html"
+}

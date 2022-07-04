@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TAÇA DE NATAL SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 fatias de bolo pronto",
+      "50 g de uvas passas",
+      "4 ameixas cortadas ao meio",
+      "1 caixa de leite condensado",
+      "2 caixinhas de creme de leite",
+      "4 limões espremidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata o leite condensado, creme de leite e o suco de limão natural",
+      "Assim que terminar de bater, reserve.",
+      "Após isso, pegue uma taça de acrílico e adicione 4 fatias de bolo no fundo e modele",
+      "E em seguida adicione a mousse de limão",
+      "Em seguida coloque as uvas passas entrelaçadas e adicione mais fatias de bolos.",
+      "Após isso adicione mais creme de limão e para decorar adicione algumas ameixas cortadas ao meio (opcional)",
+      "E está pronto a sua taça, fica uma delícia e superfácil de fazer e é superprática, não gasta muito",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA CAROLINA SOUZA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304062-taca-de-natal-superfacil.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE COM NESCAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de achocolatado em pó",
+      "2 xícaras de leite",
+      "4 colheres (sopa) de leite condensado",
+      "1 colher (sopa) de amido de milho",
+      "1/2 xícara de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, despeje o leite e o amido de milho.",
+      "Misture bem até dissolver o amido de milho.",
+      "Em seguida acrescente o leite condensado, o achocolatado em pó e misture tudo.",
+      "Leve ao fogo médio, mexendo sem para até levantar fervura.",
+      "Em seguida, desligue o fogo e adicione o creme de leite.",
+      "Mexa para misturar bem e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARCOS ROBERTO ZANETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301942-chocolate-quente-com-nescau.html"
+}

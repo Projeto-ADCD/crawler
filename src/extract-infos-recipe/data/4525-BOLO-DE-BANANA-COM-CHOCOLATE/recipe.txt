@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "2 xícaras de farinha",
+      "2 bananas em rodelas ",
+      "1 colher (sopa) de fermento",
+      "1/2 xícara de açúcar",
+      "3 ovos",
+      "4 colheres de chocolate em pó",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture os ingredientes secos",
+      "Depois os ovos, o leite e as bananas",
+      "Preaqueça o forno em 200° C",
+      "Unte a forma com margarina",
+      "Coloque a massa na forma",
+      "Espere 40 minutos",
+      "E retire a massa do forno",
+      "E já pode comer"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA CLARA GROPELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300939-bolo-de-banana-com-chocolate.html"
+}

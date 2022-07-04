@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRONADA SIMPLES COM MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão parafuso cozido",
+      "1 cebola",
+      "1 tomate",
+      "1 pimentão",
+      "1 cheiro-verde",
+      "2 colheres (sopa) de margarina",
+      "1 extrato de tomate",
+      "1 caixa de creme de leite",
+      "500 g de queijo ou o quê preferir"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a tomate, cebola, pimentão, cheiro-verde e a margarina em uma panela leve ao fogo e refogue",
+      "Depois, coloque o extrato de tomate e deixe cozinhar por 4 minutos",
+      "Coloque o creme de leite e as verduras já cozidas em um liquidificador e bata tudo por 5 minutos",
+      "Depois adicione o molho e o queijo ao macarrão cozido e sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GEANE PEREIRA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302838-macarronada-simples-com-molho.html"
+}

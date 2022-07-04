@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLINHO DE CENOURA COM COBERTURA DE BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura grande ou 2 pequenas",
+      "2 ovos",
+      "1/2 xícara de leite",
+      "1/2 xícara de açúcar",
+      "1 colher chá de fermento",
+      "1/2 farinha de trigo ou até dar ponto."
+    ],
+    "PARA A COBERTURA:": [
+      "1 lata de leite condensado",
+      "4 colheres sopa de achocolatado em pó",
+      "1 colher chá de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale a cenoura ou corte em pedaços bem pequenos.",
+      "Bata no liquidificador os ovos, o leite, o açúcar e a cenoura.",
+      "Despeje numa bacia tudo o que bateu no liquidificador. Acrescente o fermento e a farinha de trigo aos poucos.",
+      "Agora é só fritar no óleo quente."
+    ],
+    "PARA A COBERTURA:": [
+      "Ponha na panela o leite condensado, o nescau e a margarina. Mexa em fogo baixo, quando estiver soltando do fundo da panela pode desligar.",
+      "Feito isso e só passar o bolinho no brigadeiro e esta pronto!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAYNÁ FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300204-bolinho-de-cenoura-com-cobertura-de-brigadeiro.html"
+}

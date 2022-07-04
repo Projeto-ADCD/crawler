@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE BATATA RECHEADO ECONÔMICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas médias inglesas (também dá certo com outra)",
+      "1 ovo",
+      "1 colher (sopa) de azeite ou manteiga derretida",
+      "1 xícara de farinha de arroz ou trigo",
+      "1 pitada de sal",
+      "Opcional: pode colocar 1/2 colher (sopa) de fermento em pó",
+      "Recheio a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas e amasse bem.",
+      "Em uma tigela, misture todos os ingredientes até obter uma massa homogênea. Fica grudando mesmo, ok?",
+      "Unte as mãos com azeite ou manteiga derretida, pegue quantidade suficiente para fechar o pãozinho de forma que não fique com muita massa.",
+      "Recheie a gosto.",
+      "Unte uma assadeira com um pouco de azeite e coloque os salgados de forma que a parte em que o pão foi fechado fique para baixo.",
+      "Pincele uma gema por cima deles.",
+      "Asse em forno, preaquecido a 180°C por 20 minutos.",
+      "Pode colocar orégano ou gergelim em cima."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "AMANDA FERRARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301921-pao-de-batata-recheado-economico.html"
+}

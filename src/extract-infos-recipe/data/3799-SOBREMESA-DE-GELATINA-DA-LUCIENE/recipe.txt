@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOBREMESA DE GELATINA DA LUCIENE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1ª camada",
+      "1 caixinha de gelatina de cereja                          ",
+      "200 ml de água quente  ",
+      "200 ml de água fria  ",
+      "2ª camada",
+      "1 caixinha de gelatina de maracujá",
+      "200 ml de água quente",
+      "1 caixa de creme de leite   ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1ª camada",
+      "Dissolva a gelatina de cereja na água quente.",
+      "Misture a gelatina já dissolvida em água fria",
+      "Despeje em uma forma de flan ou de pudim untada",
+      "Leve à geladeira para gelar e endurecer e reserve.",
+      "2ª camada",
+      "Dissolva a gelatina de maracujá em água quente e depois bata essa mistura no liquidificador",
+      "Acrescente o creme de leite e bata mais um pouco.",
+      "Despeje a mistura por cima da gelatina de cereja.",
+      "Deixe na geladeira por 1 hora aproximadamente, ou até que fique firme.",
+      "Desenforme e sirva gelado.",
+      "Pode ser servido com calda de cereja em pedaços."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CLAUDIA AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302654-sobremesa-de-gelatina-da-luciene.html"
+}

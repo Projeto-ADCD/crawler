@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE LIMÃO COM COBERTURA DA BEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 copos de açúcar",
+      "2 copos de farinha de trigo",
+      "4 ovos",
+      "1 copo de água com suco de 1/2 limão",
+      "1 colher (sopa) de fermento",
+      "Cobertura",
+      "4 xícaras (chá) de leite",
+      "4 colheres de maisena",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite, sem soro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Bater as claras em neve.",
+      "Juntar as gemas e o açúcar e bater bem.",
+      "Acrescentar a farinha, a água e por último o fermento.",
+      "Levar para o forno, em forma untada e enfarinhada.",
+      "Cobertura:",
+      "Misture tudo e leve ao fogo até engrossar.",
+      "Deixe esfriar e misture o creme de leite sem soro."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303110-bolo-de-limao-com-cobertura-da-bel.html"
+}

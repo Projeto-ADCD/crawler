@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SALADA COZIDA COMPLETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas cortadas em cubinhos",
+      "2 xícaras de vagem picada",
+      "1 cenoura picada em cubinhos",
+      "1 cebola picada",
+      "1 lata de milho",
+      "200 g de queijo branco em cubinhos",
+      "1/2 xícara de salsinha picada",
+      "4 colheres de maionese",
+      "folhas de alface para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os legumes na água com uma pitada de sal até ficarem macios.",
+      "Escorra e deixe esfriar.",
+      "Numa tigela coloque os legumes, a cebola, o milho, o queijo branco, a salsinha e a maionese.",
+      "Mexa bem e coloque numa travessa decorando com as folhas da alface.",
+      "Sirva frio."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOÃO VITOR LUVISON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304669-salada-cozida-completa.html"
+}

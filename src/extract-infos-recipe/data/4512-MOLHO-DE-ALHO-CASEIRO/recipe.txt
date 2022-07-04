@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOLHO DE ALHO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 requeijão",
+      "1 maionese",
+      "5 dentes de alho",
+      "orégano a gosto",
+      "queijo Ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o requeijão com a maionese em um recipiente ",
+      "Esprema os 5 dentes de alho e junte na mistura do creme de requeijão e da maionese",
+      "Adicione o orégano e o queijo raldo a gosto",
+      "Mexa e sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DALILÉIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300956-molho-de-alho-caseiro.html"
+}

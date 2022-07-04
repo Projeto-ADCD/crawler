@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO SALGADO DE LIQUIDIFICADOR DE SALSICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 colheres (sopa) de farinha de trigo",
+      "3 ovos inteiros",
+      "1 xícara (chá) de azeite",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) de fermento",
+      "2 copos (americano) de leite",
+      "Recheio",
+      "500 g de salsichas",
+      "3 colheres (sopa) de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes (menos o recheio) no liquidificador até obter uma consistência cremosa.",
+      "Unte um refratário com manteiga e despeje a massa.",
+      "Distribua o recheio e leve ao forno médio preaquecido",
+      "Deixe a 180° C por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "REBEKAH THOMAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302491-bolo-salgado-de-liquidificador-de-salsicha.html"
+}

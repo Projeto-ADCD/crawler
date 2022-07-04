@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FAROFA VEGETARIANA DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farofa com soja yoki",
+      "3 colheres (sopa) de manteiga de boa qualidade",
+      "100 g de amêndoas laminadas",
+      "100 g de uva passa branca",
+      "100 g de cogumelos fatiados",
+      "1 cebola grande em pedaços pequenos",
+      "4 pimentões vermelhos assados ou em conserva fatiados",
+      "200 g de azeitonas verdes fatiadas",
+      "1 colher (café) de garan masala (tempero opcional)",
+      "1 galho de tomilho",
+      "salsa e cebolinha a gosto",
+      "alface, phisalys e pimenta biquinho para decorar",
+      "batata palha Yoki para decorar",
+      "6 damasco secos fatiados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      " Aqueça a manteiga até dourar bem e acrescente as amêndoas",
+      "Doure bem, adicione a cebola e doure",
+      "Junte o garan masala, a uva passa branca, o damasco, o cogumelo, a azeitona, os pimentões e mexa bem",
+      "Junte a farofa com soja Yoki, o tomilho, a salsinha e cebolinha picados",
+      "Misture bem e  corrija o sal se necessário.",
+      "Arrume alface em uma travessa, coloque a farofa e decore com batata palha Yoki, pimenta biquinho, phisalys e salsinha a gosto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Silvana Virginia da Silva Lima"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303942-farofa-vegetariana-de-natal.html"
+}

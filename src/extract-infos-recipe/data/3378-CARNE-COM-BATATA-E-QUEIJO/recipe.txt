@@ -1,0 +1,47 @@
+{
+  "nome_receita": "CARNE COM BATATA E QUEIJO",
+  "ingredientes": {
+    "BATATA:": [
+      "2 batatas asterix",
+      "2 colheres (sopa) de azeite",
+      "sal a gosto",
+      "1 colher (chá) de colorau",
+      "1 colher (chá) de alho em pó"
+    ],
+    "CARNE:": [
+      "225 g de patinho",
+      "sal a gosto",
+      "1/2 colher (chá) de pimenta-do-reino",
+      "1/2 colher (chá) de orégano",
+      "2 dentes de alho",
+      "1/2 xícara de suco de laranja",
+      "1/4 de xícara de suco de limão",
+      "1/2 xícara de mussarela",
+      " "
+    ]
+  },
+  "passos": {
+    "BATATAS:": [
+      "Corte as batatas em palitos",
+      "Tempere com azeite, sal, colorau e alho em pó; misture bem.",
+      "Leve ao forno preaquecido (220° C) por cerca de 30 minutos. "
+    ],
+    "CARNE:": [
+      "Coloque os bifes de patinho em uma tigela.",
+      "Adicione o sal, pimenta-do-reino, orégano, alho, suco de laranja e suco de limão.",
+      "Misture bem e deixe marinar por 20 minutos. ",
+      "Aqueça uma frigideira com 1 colher (sopa) de óleo.",
+      "Frite os bifes dos dois lados. ",
+      "Retire da frigideira e corte em tiras. "
+    ],
+    "MONTAGEM: ": [
+      "Em um bowl, coloque uma parte da carne e uma parte das batatas. ",
+      "Repita o processo até completar o bowl. ",
+      "Adicione 1 xícara de mussarela e leve ao forno preaquecido (180° C) por cerca de 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303479-carne-com-batata-e-queijo.html"
+}

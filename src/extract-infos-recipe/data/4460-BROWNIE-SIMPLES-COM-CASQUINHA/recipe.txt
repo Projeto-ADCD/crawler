@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BROWNIE SIMPLES COM CASQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de chocolate em pó (mínimo) 30% de cacau",
+      "8 colheres (sopa) de manteiga",
+      "1 xícara de farinha de trigo sem fermento",
+      "1 colher (chá) de fermento",
+      "3/4 colher (chá) de essência de baunilha",
+      "3/4 de colher (chá) de sal",
+      "1 e 1/2 xícara de açúcar",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, misture todos ingredientes secos (farinha, açúcar, sal, fermento, chocolate).",
+      "Derreta a manteiga sem deixar ferver.",
+      "Bata os ovos levemente com um garfo.",
+      "Despeje aos poucos os ingredientes líquidos nos ingredientes secos (baunilha, manteiga e os ovos).",
+      "Misture até formar uma massa.",
+      "Despeje numa forma untada de no mínimo aro 18 para que fiquem altas as fatias do brownie.",
+      "Coloque no forno pré aquecido por 30 minutos a 180 graus."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAIZA MYRELLE SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301050-brownie-simples-com-casquinha.html"
+}

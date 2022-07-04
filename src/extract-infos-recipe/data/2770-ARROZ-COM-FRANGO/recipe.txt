@@ -1,0 +1,46 @@
+{
+  "nome_receita": "ARROZ COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pimentão verde picado",
+      "1/2 pimentão vermelho picado",
+      "1 cebola picada",
+      "1 tomate s/ semente picado",
+      "1/2 cenoura ralada",
+      "cebolinha a gosto",
+      "1 kg de asinha de frango ou parte do frango que preferir",
+      "1 sachê de milho escorrido",
+      "2 colheres (sopa) de molho de tomate pronto",
+      "3 dentes de alho picado",
+      "1 caldo de galinha",
+      "pimenta-do-reino a gosto",
+      "colorau a gosto",
+      "sal a gosto",
+      "3 xicaras de arroz"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com o tempero que desejar.",
+      "Começe dourando o frango na panela que fará seu arroz.",
+      "Enquanto ele doura, coloque as 6 xícaras de água para ferver junto com o caldo de galinha.",
+      "Após o frango dourar, retire-o, coloque num refratário e reserve.",
+      "Na mesma panela, começa dourando a cebola e o alho.",
+      "Em seguida, depois da cebola ja estar transparente coloque os pimentões e deixe refogar una 4 minutos.",
+      "Logo depois dos pimentões, acrescente o tomate e a cenoura ralada e deixe refogar mais uns minutinhos.",
+      "Acrescente em seguida o milho, e um pouco de colorau para dar uma cor nesse refogado.",
+      "Em seguida acrescente o arroz, e deixe fritar um pouco.",
+      "Coloque o molho de tomate de mais uma mexida e junte a água já fervida.",
+      "Volte o frango que douramos e acerte o sal.",
+      "Deixe em fogo baixo, semi tampado.",
+      "Mexa de vez em quando, e quando estiver quase secando verifique se o arroz não está duro."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se gostarem de arroz com frango mais molhado que é o meu caso, acrescente mais uma xicara de água e espere dar uma “secada”. E quando estiver no ponto desligue o fogo e jogue a cebolinha."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GIOVANNA LETÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304470-arroz-com-frango.html"
+}

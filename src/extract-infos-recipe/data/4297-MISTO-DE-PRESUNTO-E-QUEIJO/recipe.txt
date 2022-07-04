@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MISTO DE PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tabletes de fermento de pão (30 g)",
+      "2 ovos",
+      "1 xícara (chá) de leite",
+      "2 colheres (chá) de sal",
+      "1/4 de xícara (chá) de margarina",
+      "5 xícaras (chá) de farinha de trigo",
+      "Recheio",
+      "150 g de presunto fatiado",
+      "150 g de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o fermento, os ovos, os leite, o sal e a margarina.",
+      "Junte a farinha aos poucos e misture.",
+      "Amasse até formar uma massa lisa.",
+      "Faça bolinhas e cubra com o pano.",
+      "Deixe crescer.",
+      "Abra cada bolinha e ponha uma fatia de queijo e outra de presunto.",
+      "Modele os pãezinhos e coloque em uma assadeira untada.",
+      "Deixe descansar por aproximadamente 10 minutos",
+      "Pincele com gema e asse em forno médio."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MAYELLY ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301424-misto-de-presunto-e-queijo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALAME DE CHOCOLATE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de castanha de caju",
+      "100 g de rosquinha de leite",
+      "100 g de chocolate em pó",
+      "100 g de açúcar",
+      "1 ovo batido",
+      "100 g de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture as castanhas de caju e as rosquinhas de leite.",
+      "Em um recipiente, misture todos os ingredientes. ",
+      "Coloque em um papel-filme e enrole formando o salame. ",
+      "Leve ao freezer até endurecer."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302779-salame-de-chocolate-facil.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE POTE DE CHOCOLATE COM BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bolo pronto simples de chocolate",
+      "Recheio e cobertura",
+      "2 caixas de leite condensado",
+      "1 caixa de creme de leite",
+      "3 colheres de margarina",
+      "6 colheres (sopa) de chocolate em pó",
+      "raspas de chocolate para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina e acrescente o leite condensado, o creme de leite e o chocolate em pó",
+      "Deixe por 10 minutos ou em fogo baixo até dar o ponto de bico, deixe esfriar.",
+      "Para a montagem, acrescente uma camada de bolo e uma camada do recheio",
+      "Repita o mesmo processo até chegar na quantidade desejada no pote",
+      "Finalize com uma camada do mesmo recheio como cobertura e para o toque final, decore com raspas de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "ELANE DO NASCIMENTO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302392-bolo-de-pote-de-chocolate-com-brigadeiro.html"
+}

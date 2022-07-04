@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PIZZA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de farinha de trigo",
+      "1/2 xicara de leite",
+      "2 pitadas ou 1 colher bem pequena de sal e açúcar",
+      "2 colheres (sopa) de óleo",
+      "1 ovo",
+      "1/2 colher (sopa) rasa de fermento",
+      "1/2 colher de margarina",
+      "Molho de tomate",
+      "Queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente não muito pequeno, coloque o ovo e bata.",
+      "Adicione o óleo, o sal, açúcar e leite.",
+      "Coloque metade da quantidade da farinha de trigo, pois fica mais fácil de mexer.",
+      "Misture bem.",
+      "Coloque o outro restante da farinha de trigo.",
+      "Coloque o fermento.",
+      "Mexa bem até ficar um massa bem cremosa.",
+      "Pegue um prato, coloque a margarina para untar.",
+      "Pegue mais um pouco de farinha de trigo e salpique bem pouquinho mesmo em todo o prato.",
+      "Coloque a massa no prato e com uma colher de sopa espalhe bem a massa (procure deixar as beiradas bem grossinhas de massa).",
+      "Deixe por 4 minutos no micro-ondas.",
+      "Se o meio estiver mole, deixe no micro-ondas por mais meio minuto.",
+      "Para o recheio grudar na massa coloque o molho de tomate em seguda o queijo.",
+      "Em seguida, adicione o que mais quiser na pizza.",
+      "Colo que no micro-ondas por meio minuto até o queijo mussarela derreter. "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARTINA DAL PIZZOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300364-pizza-de-micro-ondas.html"
+}

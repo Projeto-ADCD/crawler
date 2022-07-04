@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE NATAL FÁCIL E TEMPERADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de bacon picado",
+      "1 colher de manteiga",
+      "1/2 xícara de uvas passas pretas",
+      "1 pacote de batata palha",
+      "3 xícaras de farinha de mandioca",
+      "1 pitada de sal do himalaia",
+      "2 ovos cozido picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon na própria gordura até que fique bem douradinho",
+      "Adicione a manteiga e depois a farinha de mandioca",
+      "Deixe dar uma leve dourada na farinha e acrescente as uvas passas e o ovo cozido picado",
+      "Acerte o sal e coloque a batata palha, misture tudo",
+      "Sirva quentinha ou fria",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARLENE PEDROSO FELIZARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303816-farofa-de-natal-facil-e-temperada.html"
+}

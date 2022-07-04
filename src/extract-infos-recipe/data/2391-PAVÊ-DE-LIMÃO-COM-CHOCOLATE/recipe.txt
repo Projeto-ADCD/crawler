@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PAVÊ DE LIMÃO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de biscoito maisena",
+      "1/2 copo de suco de limão puro",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado",
+      "pedaços de chocolate a gosto",
+      "raspas de chocolate para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Umideça a maisena com um pouco de água e em seguida unte um refratário médio",
+      "Bata no liquidificador o creme de leite, o leite condensado, o suco de limão puro e os pedaços de chocolate",
+      "Depois de batido, coloque o creme por cima do biscoto maisena",
+      "Decore com as raspas de chocolate",
+      "E deixe na geladeira por 3 a 4 horas",
+      "Sirva bem gelado e bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA DE PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305325-pave-de-limao-com-chocolate.html"
+}

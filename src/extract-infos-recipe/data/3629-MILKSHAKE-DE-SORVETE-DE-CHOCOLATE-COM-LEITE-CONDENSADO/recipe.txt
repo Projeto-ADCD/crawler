@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MILKSHAKE DE SORVETE DE CHOCOLATE COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bolas de sorvete de chocolate",
+      "2 xícaras de leite",
+      "3 colheres de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as bolas de sorvete, as xícaras de leite e as colheres de leite condensado em um liquidificador",
+      "Bata em baixa velocidade até ficar cremoso",
+      "Espalhe leite condensado no recipiente que for tomar e derrame o milkshake dentro.",
+      "Fica uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "PRISCILA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303005-milkshake-de-sorvete-de-chocolate-com-leite-condensado.html"
+}

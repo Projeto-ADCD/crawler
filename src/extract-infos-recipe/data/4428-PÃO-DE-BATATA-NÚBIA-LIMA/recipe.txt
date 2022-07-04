@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE BATATA NÚBIA LIMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovos",
+      "5 batatas pequenas",
+      "200ml de leite morno",
+      "2 colheres de manteiga",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "1/4 de xícara de óleo",
+      "1 fermento biológico seco (10g)",
+      "800g de farinha de trigo ou até dar o ponto de desgrudar da mão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata até amolecer.",
+      "Reserve e amasse a batata até virar um purê homogêneo.",
+      "Junte todos os ingredientes e adicione por último a farinha aos poucos.",
+      "Sove a massa até dar o ponto de desgrudar da mão e deixe descansar por 10 minuto até dobrar o tamanho.",
+      "Após, faça os pãezinhos e deixe descansar novamente até dobrar o tamanho.",
+      "Depois, leve ao forno a 200º e deixe assar de 25 a 30 minutos, dependendo do forno.",
+      "Após assado e ainda quente, pincele com manteiga para dar um brilho."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "NUBIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301151-pao-de-batata-nubia-lima.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE MEXIRICA DO LUCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 mexiricas",
+      "4 ovos",
+      "1 xícara de óleo",
+      "2 xícaras de açúcar",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "1colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1 xícara de suco de mexirica",
+      "2 xícara de açúcar",
+      "1 colher (sobremesa) de amido de milho",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as mexiricas (que devem ser grandinhas) e retire o excesso de fibras da cascas e dos gomos também.",
+      "Retire todas sementes.",
+      "Bata muito bem no liquidificador as cascas, os gomos, os ovos e o óleo.",
+      "Coloque esse líquido em uma tijela e adicione a farinha de trigo e o açúcar.",
+      "Mexa bem.",
+      "Por último, coloque o fermento em pó e mexa delicadamente.",
+      "Unte uma forma com óleo e polvilhe com farinha de trigo.",
+      "Coloque a massa e leve ao forno médio por aproximadamente 45 minutos ou até que fique douradinho (o tempo de forno dependerá do tipo de fogão)",
+      "Calda",
+      "Coloque em uma panela todos os ingredientes e leve ao fogo",
+      "Deixe ferver por alguns minutos até dar o ponto de calda.",
+      "Obs: Você pode colocar a calda por cima do bolo ou deixá-la em um potinho e colocar nas fatias do bolo quando for servi-lo."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301412-bolo-de-mexirica-do-lucio-cezar.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "FAROFA SURPRESA DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farofa tradicional ",
+      "70 g de bacon cortado em cubos",
+      "1/2 cebola média roxa picada",
+      "4 colheres (sopa) de nozes pecan picadas",
+      "4 damascos picados em cubo",
+      "4 colheres (sopa) de uva passas preta",
+      "1 colher (chá) de mel",
+      "4 colheres (sopa) de maçãs desidratadas e picadas",
+      "10 cerejas naturais picadas e sem caroço",
+      "7 cerejas naturais para decorar",
+      "1 fatia de goiabada, picada e empanada com a farofa",
+      "1 colher (chá) de vinho madeira",
+      "4 nozes inteiras para decorar",
+      "50 g de fios de ovos para decorar o prato"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira antiaderente, frite o bacon cortado em cubos em fogo médio até dourar e reserve o bacon.",
+      "Na mesma frigideira e na gordura do bacon, frite meia cebola roxa média em fogo médio até dourar.",
+      "Assim que a cebola dourar, adicione 1 colher (chá) de vinho madeira",
+      "Em fogo baixo até o vinho incorporar na cebola.",
+      "Acrescente 1 colher (chá) de mel.",
+      "Adicione o bacon reservado.",
+      "Acrescente as 10 cerejas picadas, os 4 damascos picados, as 4 colheres (sopa) de uva passas preta, 4 colheres (sopa) de maçãs desidratadas e picadas e as 4 colheres (sopa) de nozes pecan trituradas ",
+      "Mexa sempre em fogo médio.",
+      "Por último acrescente a fatia de goiabada picada e empanada e as 200 g da farofa tradicional temperada",
+      "Mexa delicadamente sem parar em torno de 1 minuto, em fogo médio até misturar bem todos os ingredientes.",
+      "Aí é só decorar o prato: usei uma forma com formato de pinheiro para colocar a farofa,nas bordas foi utilizado 50 g de fios de ovos para decorar e dar uma sabor especial pra esta farofa",
+      "As 4 nozes para fazer a base do pinheiro e as cerejas naturais para decorar.",
+      "Caso não tenha nenhuma forma de Natal (não tem problema), coloque em um prato redondo deixando uma borda para colocar o fio de ovos.",
+      "Esta receita é para os amantes de farofa doce e uva passa com o sabor e o aroma surpresa da cereja "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JANICE TERESINHA VINGERT DO AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304063-farofa-surpresa-de-natal.html"
+}

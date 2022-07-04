@@ -1,0 +1,51 @@
+{
+  "nome_receita": "COLOMBA PASCAL / TORTA COLOMBA DI PASQUA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos separados por gemas e claras",
+      "120 g de açúcar",
+      "100 g de manteiga sem sal (temperatura ambiente)",
+      "190 ml de leite",
+      "375 g de farinha",
+      "14 g de fermento em pó",
+      "laranja ralada",
+      "suco de laranja",
+      "limão ralado",
+      "1 colher de chá de essência de amêndoa",
+      "65 gr gotas de chocolate amargo 75% (mais 1 colher de sopa de farinha)",
+      "30 gr de amêndoas enroladas",
+      "2 moldes de 500 g de papel tipo Colomba"
+    ],
+    "DECORAÇÃO": [
+      "250 gr de chocolate branco",
+      "40 g de amêndoas torradas",
+      "pequenas lascas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré-aqueça o forno a 180ºC",
+      "Bata as claras até ficarem firmes e reserve.",
+      "Bata as gemas com o açúcar até obter um creme de cor pálida.",
+      "Em seguida, adicione a manteiga cortada pedacos, bata e termine de adicionar a outra parte.",
+      "Adicione a essência de amêndoas e misture, adicione as raspas de limão, as raspas de laranja, o leite e mexa bem. Misture manualmente.",
+      "Peneire a farinha juntamente com o fermento. Misture com espátula de borracha. Adicione o suco de laranja e misture.",
+      "Adicione as claras por partes, misture com movimentos de envelopamento, até que todas estejam misturadas.",
+      "Misture as gotas de chocolate amargo com uma colher de farinha e adicione à mistura em duas partes. Remova com movimentos sempre envolventes.",
+      "Passe os dois moldes com manteiga.",
+      "Adicione metade da massa da mistura em cada um, cerca de 520 g em cada molde",
+      "Coloque algumas amêndoas enroladas. Coloque os moldes em uma bandeja de metal.",
+      "Leve o forno pré-aquecido a 180ºC, coloque a bandeja no meio e leve ao forno por cerca de 45 minutos ou até que você prove com um palito no centro, ele sai limpo.",
+      "Uma vez cozido, retire do forno e coloque para esfriar em um rack. Enquanto isso, vamos preparar a cobertura."
+    ],
+    "COBERTURA": [
+      "Derreta o chocolate branco em banho-maria.",
+      "Quando a Colomba estiver fria, adicione o chocolate derretido em metades em cada um e espalhe o chocolate com a ajuda de uma espátula.",
+      "Coloque amêndoas torradas e um pouco de pequenas lascas de chocolate branco."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "POESÍA CULINARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300007-colomba-pascal-barra-torta-colomba-di-pasqua.html"
+}

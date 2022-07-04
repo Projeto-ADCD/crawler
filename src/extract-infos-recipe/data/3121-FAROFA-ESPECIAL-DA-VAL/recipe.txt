@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA ESPECIAL DA VAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa pronta tradicional ",
+      "2 colheres de azeite",
+      "2 dentes de alho triturados",
+      "1 cebola roxa grande bem picada",
+      "1 xícara (chá) de bacon picado",
+      "1 xícara (chá) de linguiça suína bem picadinha",
+      "3 bananas-da-terra picadas",
+      "2 ovos cozidos e picados",
+      "1 lata de milho verde em conserva sem a água",
+      "1 vidro de azeitonas picadas",
+      "1 cenoura ralada",
+      "100 g de uvas passas",
+      "1 xícara (chá) de cheiro verde picados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela frite o bacon e a linguiça até que dourem e reserve",
+      "Em outra panela coloque o azeite e frite o alho e a cebola roxa, em seguida coloque as bananas-da-terra picadas e mexa",
+      "Acrescente a cenoura ralada e misture bem",
+      "Coloque o ovo cozido picado, o milho verde, as azeitonas, as uvas passas e o cheiro-verde",
+      "Misture tudo e deixe refogar bem",
+      "Por último coloque a farofa pronta tradicional e mexa novamente",
+      "Não precisa colocar sal pois o bacon a linguiça e a farofa já são temperados, mas se achar que precisa pode colocar",
+      "Coloque numa travessa de vidro e sirva como acompanhamento, e está pronta a sua deliciosa farofa, que é ideal para servir na ceia de Natal"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "VALDILENE FERREIRA DA SILVA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303847-farofa-especial-da-val.html"
+}

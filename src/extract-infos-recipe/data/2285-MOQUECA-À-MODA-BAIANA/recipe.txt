@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MOQUECA À MODA BAIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de porquinho",
+      "1 pimentão verde",
+      "1 pimentão vermelho",
+      "2 tomates maduros",
+      "2 cebolas",
+      "3 dentes de alho",
+      "1/2 xícara de coentro com cebolinha",
+      "azeite de dendê a gosto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "2 vidros de leite de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque um fio de azeite adicione a cebola em rodelas até dourar",
+      "Em seguida, acrescente o alho e dê mais uma dourada.",
+      "Acrescente em ordem o tomate e os pimentões, tempere com sal e pimenta-do-reino a gosto.",
+      "Acrescente o azeite de dendê e por último os files",
+      "Acrescente o leite de coco e deixe em cozimento em fogo baixo até apurar.",
+      "Finalize com o coentro.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ORLANDO JOSE PINTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305564-moqueca-a-moda-baiana.html"
+}

@@ -1,0 +1,44 @@
+{
+  "nome_receita": "ESFIHA CASEIRA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 kg de farinha de trigo",
+      "20 g de fermento biológico (para pão)",
+      "3 copos de água morna",
+      "1 xícara de óleo",
+      "1 colher (sopa) de açucar",
+      "1 e 1/2 colher (sopa) de sal",
+      "Recheio",
+      "1 kg de linguiça",
+      "500 g de queijo",
+      "orégano a gosto",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em uma bacia grande despeje o trigo, o fermento, o óleo, a açúcar e o sal",
+      "Aos poucos vá despejando a água morna (se necessário acrescente mais trigo ou mais água)",
+      "Mexa com a mãos em seguida em uma mesa enfarinhada sove a massa até ela ficar lisa e soltando das mãos",
+      "Deixe crescer por pelo menos 1 hora.",
+      "Recheio",
+      "Cozinhe as linguíças e em seguida pique em pequenos pedaços.",
+      "Modo preparo",
+      "Sove a massa por mais 5 minutos após ela ter crescido",
+      "Corte em pequenos pedaços",
+      "Com a ajuda de um rolo, abra a massa até ela ficar bem fininha",
+      "Coloque uma fatia do queijo e com o auxílio de 1 colher coloque a linguíça",
+      "Lembre-se de por o recheio bem no meio da massa e em seguida puxe as laterais para fechar para dar o formato de esfiha.",
+      "Em uma forma untada com óleo ou margarina, coloque-as",
+      "Separe uma gema de ovo para pincelar por cima e em seguida polvilhe o orégano",
+      "Deixe crescer por mais 20 minutos",
+      "Asse em fogo médio, preaquecido por 5 minutos"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ELINE INACIO DE FARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301288-esfiha-caseira-simples.html"
+}

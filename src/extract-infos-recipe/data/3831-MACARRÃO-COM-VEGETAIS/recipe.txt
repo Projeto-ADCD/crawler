@@ -1,0 +1,49 @@
+{
+  "nome_receita": "MACARRÃO COM VEGETAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha",
+      "1 berinjela média",
+      "1 pimentão de cada cor",
+      "10 vagens cortadas em fatias diagonais",
+      "flores de 1/2 couve-flor",
+      "flores de 1/2 brócolis",
+      "3 tomates cortados em cubos",
+      "8 pimentas doces (chapéu de frade) cortadas em 4",
+      "azeite",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "alecrim a gosto",
+      "orégano a gosto",
+      "1 maço de cheiro verde picado",
+      "2 folhas de louro",
+      "1 cabeça de alho",
+      "2 cebolas grandes",
+      "500 g de espaguete n°8",
+      "curry a gosto (opcional)",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte todos os legumes em cubinhos, exceto o brócolis é a couve-flor que devem ser usados com as flores separadas, sem cortar.",
+      "Em uma forma retangular e funda, tempere todos esses vegetais com os condimentos incluindo as ervas.",
+      "O alho deve ser triturado naquele espremedor que a gente conhece.",
+      "Regue-os generosamente com azeite",
+      "Misture bem",
+      "Cubra a forma com papel alumínio e leve ao forno em temperatura média de 160°C/180°C por aproximadamente 30/40 minutos ou até que todos os vegetais estejam cozidos e macios.",
+      "Enquanto os vegetais estiverem no forno, cozinhe o macarrão em água, sal e óleo para não grudar.",
+      "Após o cozimento do macarrão, adicione a ele o quanto baste de queijo ralado e junte os legumes já prontos retirados do forno.",
+      "Sirva quente.",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas: \nPode-se grelhar um filé de frango para acompanhar\nVinho branco acompanha muito bem!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MAC VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302575-macarrao-com-vegetais.html"
+}

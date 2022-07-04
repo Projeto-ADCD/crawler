@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLINHOS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para os bolinhos",
+      "2 e 1/4 de xícara (chá) de farinha de trigo (225 g)",
+      "1 xícara (chá) de açúcar (90 g)",
+      "2 colheres (chá) de fermento em pó",
+      "1 pitada de sal",
+      "1 ovo batido",
+      "2/3 de xícara (chá) de leite (150 ml)",
+      "1/4 de xícara (chá) de óleo (50 ml)",
+      "1 colher (chá) de essência de baunilha (opcional)",
+      "Para a cobertura de chocolate",
+      "1 colher (sopa) de manteiga",
+      "1/2 xícara (chá) de leite (120 ml)",
+      "5 ou 7 colheres de chocolate em pó",
+      "1 xícara (chá) de açúcar (110 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para os bolinhos",
+      "Aqueça o forno a 200º C",
+      "Arrume 12 forminhas de papel (resistentes ao forno) em uma assadeira.",
+      "Peneire numa tigela a farinha, o açúcar, o fermento em pó e o sal.",
+      "Bata o ovo, o leite, o óleo e a essência de baunilha (opcional)",
+      "Acrescente à mistura de ingredientes secos e mexa tudo até ficar uma massa homogênea",
+      "Coloque a mistura nas forminhas de papel e asse por 20 minutos até dourarem.",
+      "Retire do forno e deixe esfriar por 5 minutos. Então retire os bolinhos da assadeira e coloque-os sobre uma superfície fria e plana para que esfriem completamente.",
+      "Para a cobertura de chocolate",
+      "Em uma panela coloque o açúcar, o chocolate em pó, a manteiga e o leite .",
+      "Leve ao fogo brando e cozinhe mexendo sempre até a mistura ferver e ficar homogênea.",
+      "Coloque uma colherada da cobertura sobre cada bolinho."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "RAISSA LIMA DE ALBUQUERQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302441-bolinhos-de-chocolate.html"
+}

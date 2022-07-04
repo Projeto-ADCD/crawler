@@ -1,0 +1,49 @@
+{
+  "nome_receita": "MASSA DE PIZZA FÁCIL",
+  "ingredientes": {
+    "MASSA": [
+      "15 colheres (sopa) cheias, de farinha de trigo",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "1 saché de fermento em pó para pão",
+      "200 ml de água morna",
+      "2 colheres (sopa) de óleo"
+    ],
+    "SUGESTÃO DE RECHEIO": [
+      "1 tomate maduro",
+      "4 colheres de sopa de molho de tomate pronto",
+      "200 g de presunto picado",
+      "150 g de muçarela",
+      "1/2 xícara de azeitona picada",
+      "1 cebola pequena cortada em rodelas",
+      "400 g de catupiry",
+      "orégano e azeitona preta a gosto para finalizar."
+    ]
+  },
+  "passos": {
+    "MASSA (2 PIZZAS GRANDES):": [
+      "Misture em uma tigela a farinha, sal, açúcar e o fermento.",
+      "Abra um espaço no centro dos ingredientes secos e coloque o óleo e a água.",
+      "Misture de vagar, com uma colher, do centro para fora em movimento circular até formar a massa e descolar da tigela.",
+      "Amasse com as mãos por 8 minutos e faça duas bolas e deixe descansar por 25 minutos.",
+      "Obs.: Se precisar, coloque mais farinha até a massa soltar um pouco das mãos (isso pode variar de acordo com a marca)."
+    ],
+    "MOLHO:": [
+      "Pique o tomate em pedaços bem pequenos e misture o molho pronto. Acerte o sal se achar necessário."
+    ],
+    "MONTAGEM:": [
+      "Pré aqueça o forno em temperatura máxima (300º)",
+      "Após o descanso da massa, abra com um rolo em formato circular e coloque em uma forma redonda.",
+      "Espalhe o molho por toda a massa sem ultrapassar a borda.",
+      "Coloque o presunto, muçarela, azeitona picada, cebola e catupiry.",
+      "Coloque no forno na parte superior por em média 8 minutos (vai depender do forno).",
+      "Se necessário, gire a forma na metade do tempo pois a parte do fundo do forno é mais quente.",
+      "Retire do forno e coloque orégano e azeitonas pretas a gosto.",
+      "O recheio pode variar de acordo com o seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ERIC MUNHOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301568-massa-de-pizza-facil.html"
+}

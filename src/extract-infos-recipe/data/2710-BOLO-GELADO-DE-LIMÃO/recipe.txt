@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO GELADO DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos (claras e gemas separadas)",
+      "2 xícaras (chá) de açúcar",
+      "1 xícara (chá) de suco de limão",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó químico",
+      "margarina e farinha de trigo para untar",
+      "Calda",
+      "2 xícaras (chá) de refrigerante de limão",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 caixa de gelatina em pó sabor limão",
+      "1 xícara (chá) de água fervente",
+      "raspas de casca de limão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira bata as claras em neve acrescente as gemas, o açúcar, o suco, a farinha e o fermento, mexendo a cada adição",
+      "Coloque em uma forma de 22cm x 30cm untada e enfarinhada",
+      "Leve ao forno médio preaquecido por 30 minutos ou até que ao enfiar um palito ele saia limpo",
+      "Retire do forno",
+      "Regue com o refrigerante e reserve",
+      "No liquidificador bata os ingredientes da cobertura menos as raspas de limão",
+      "Espalhe a cobertura sobre o bolo na forma e polvilhe com raspas de limão",
+      "Leve à geladeira por 4 horas e sirva"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KATIA FELIPPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304602-bolo-gelado-de-limao.html"
+}

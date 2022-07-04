@@ -1,0 +1,40 @@
+{
+  "nome_receita": "MACARRÃO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão",
+      "1 e 1/2 pote de maionese (750 g)",
+      "3 tomates grandes",
+      "1 pedaço médio de bacon",
+      "2 linguiças calabresa",
+      "4 a 5 dentes de alho",
+      "sal a gosto",
+      "azeite extra virgem",
+      "1 cebola média",
+      "200 g de mussarela (ou o queijo de sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon, a cebola e os tomates em cubos médios (mais ou menos 1 cm)",
+      "Corte também a linguiça em rodelas e meia lua e reserve",
+      "Em uma panela, coloque água e sal (sem óleo) e espere a água levantar fervura",
+      "Quando isso acontecer, adicione o macarrão na água e deixe cozinhando por mais ou",
+      "menos 6 minutos, reserve. (uando o macarrão chegar no ponto certo leve",
+      "ao escorredor e coloque água fria para esfriar do macarrão, caso contrário ele continuará",
+      "cozinhando)",
+      "Frite o bacon com bastante azeite, depois adicione o as rodelas de linguiça",
+      "e o alho triturado",
+      "Em um recipiente, coloque a maionese e as frituras (com azeite e tudo) e misture",
+      "bem",
+      "Em uma travessa, coloque o macarrão e a maionese temperada por cima",
+      "Com uma colher de pau, misture de baixo para cima tomando cuidado para não quebrar o macarrão.",
+      "Adicione o queijo por cima da travessa tendo o cuidado de cobrir toda ela.",
+      "Leve ao forno preaquecido por cerca de 30 ou 40 minutos, dependendo do seu fogão."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LE PABLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299989-macarrao-com-queijo.html"
+}

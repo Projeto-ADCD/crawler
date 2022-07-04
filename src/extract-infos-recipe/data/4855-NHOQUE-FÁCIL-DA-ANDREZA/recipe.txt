@@ -1,0 +1,41 @@
+{
+  "nome_receita": "NHOQUE FÁCIL DA ANDREZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Nhoque",
+      "1 Kg de batatas cozidas e amassadas",
+      "3 xícaras de farinha de trigo",
+      "1/2 xícara de leite integral",
+      "2 ovos",
+      "sal a gosto",
+      "Molho",
+      "500 g de carne moída",
+      "1 cebola pequena",
+      "2 dentes de alho amassados",
+      "salsinha a gosto",
+      "sal e pimenta a gosto",
+      "1/2 xícara de azeitonas sem caroços e picadas",
+      "2 sachês de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve as batatas cozidas e amassadas para um recipiente grande e acrescente o leite, os ovos e o sal a gosto, misture bem",
+      "Depois, vá acrescentando farinha de trigo e sove até dar o ponto e desgrudar dos dedos (a massa tem que ficar lisa).",
+      "Espalhe farinha na mesa e faça rolinhos com a massa utilizando as mãos e depois corte em cubinhos com uma faca",
+      "Em uma panela com água fervendo coloque os cubinhos aos poucos e deixe cozinhar até eles começarem a flutuar, então retire e coloque em um escorredor de macarrão.",
+      "Coloque os cubinhos aos poucos e retire para que não grude, repita o processo até que cozinhe todos",
+      "Molho",
+      "Refogue alho e a cebola e depois acrescente a carne moída",
+      "Mexa até a carne ficar soltinha",
+      "Acrescente as azeitonas cortadas e tempere com sal e pimenta a gosto.",
+      "Por último, acrescente o molho e a salsinha a gosto",
+      "Deixe cozinhar em média uns 5 minutos em fogo baixo.",
+      "Em um refratário de sua preferência, coloque os nhoques e cubra-os com o molho."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDREZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300085-nhoque-facil-da-andreza.html"
+}

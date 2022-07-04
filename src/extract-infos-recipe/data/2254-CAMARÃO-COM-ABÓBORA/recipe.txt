@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CAMARÃO COM ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de camarão",
+      "1 abóbora pequena (eu usei butternut squash - pode usar a de sua preferência)",
+      "3 colheres (sopa) de azeite de dendê",
+      "1/2 lata de tomate pelado",
+      "cebola e alho a gosto",
+      "coentro (usei em pó) e pimenta preta a gosto",
+      "1 vidro de leite de coco",
+      "1 lata de creme de leite",
+      "Parmesão para cobrir",
+      "cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a abóbora em pedaços no azeite de dendê, coentro, pimenta e sal",
+      "Coloque água até cobrir e deixe ferver até amolecer a abóbora.",
+      "Na panela mesmo mexa até virar um purê.",
+      "Em outra panela, refogue 1/2 cebola e os camarões no azeite.",
+      "Até cozinhá-los.",
+      "Na panela com purê coloquei: 1 lata de leite de coco, 1/2 lata de tomate pelado e 1 lata de creme de leite.",
+      "Junte os camarões.",
+      "Se tiver muito líquido, pegue um copo do caldo e misture 1 colher (sopa) de maisena e adicione.",
+      "Cozinhe até ficar cremoso.",
+      "Verifique se sal, pimenta e coentro está do seu gosto.",
+      "Quando cremoso, coloque numa forma e coloque cebolinha e parmesão em cima.",
+      "Forno por uns 15 minutos só pra gratinar"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "THAÍS DA COSTA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305622-camarao-com-abobora.html"
+}

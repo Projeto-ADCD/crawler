@@ -1,0 +1,36 @@
+{
+  "nome_receita": "COMPOTA DE MANGA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de açúcar demerara ou cristal",
+      "1 xícara (chá) de água",
+      "4 mangas bem maduras",
+      "1 colher (chá) de cravos da Índia",
+      "1 colher (chá) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar e a água na panela, leve ao fogo médio até formar o caldo de caramelo, em ponto de fio fino.",
+      "Enquanto forma o caldo, descasque as mangas e corte em fatias finas.",
+      "Deixe reservado na tigela.",
+      "Acrescente ao caldo os caroços, mexa bem adicionando a canela e o cravo da índia.",
+      "Mexa bem por 5 minutos.",
+      "Adicione as mangas fatiadas, misture bem e deixe em fogo baixo por mais 15 minutos, com tampa da panela semi aberta para sair vapor.",
+      "Desligue o fogo, mexa bem para descolar as sobras das polpas dos caroços.",
+      "Deixe esfriar para retirar os caroços.",
+      "Quando o doce estiver frio poderá armazenar em um vidro e manter na geladeira.",
+      "Atenção: como não há conservantes, dependendo da umidade do local e luz poderá mofar.",
+      "Modo de servir",
+      "Apenas a compota",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Também, combinada com bolo de laranja ou sorvete de creme."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDREA A.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304297-compota-de-manga-facil.html"
+}

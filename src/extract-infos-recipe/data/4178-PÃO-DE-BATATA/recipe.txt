@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "1 ovo",
+      "1 colherinha de sal",
+      "2 colheres de manteiga",
+      "1 xícara de leite",
+      "2 colheres de fermento de pão",
+      "2 batatinhas médias cozidas",
+      "4 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes no liquidificador, exceto a farinha de trigo. Despeje em uma vasilha grande.",
+      "Coloque de xícara em xícara a farinha de trigo e vá mexendo.",
+      "Quando bem misturado, passe a manteiga na forma, ponha a massa na forma e deixe descansar por 2 horas.",
+      "Em seguida, ponha ela no forno até ficar douradinha.",
+      "Quando estiver assada, você pode adicionar queijo ralado e manteiga por cima."
+    ]
+  },
+  "tempo_de_preparo": "122 MIN",
+  "rendimento": "52 PORÇÕES",
+  "autor": "LAURA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301659-pao-de-batata.html"
+}

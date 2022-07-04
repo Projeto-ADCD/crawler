@@ -1,0 +1,20 @@
+{
+  "nome_receita": "GELEIA DE ABACAXI COM CASCA E GENGIBRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi médio com casca",
+      "gengibre e canela em pau a gosto",
+      "200 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o abacaxi com casca, o gengibre, a canela e o açúcar em uma panela",
+      "Deixe ferver por 1 hora, está pronta sua geleia"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROZILENE MARTINS DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299782-geleia-de-abacaxi-com-casca-e-gengibre.html"
+}

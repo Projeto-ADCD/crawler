@@ -1,0 +1,41 @@
+{
+  "nome_receita": "ROSCA DE MUSSARELA PRÉSIDENT",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 e 1/2 xícara de farinha de trigo aproximadamente (xícara de 240 ml)",
+      "2 ovos ",
+      "sal a gosto",
+      "1 xícara de leite morno (240 ml)",
+      "2/3 de xícara de óleo (160 ml)",
+      "1 envelope de fermento biológico instantâneo (10 g)",
+      "1 gema para pincelar",
+      "Recheio:",
+      "400 g de mussarela Président ralada ",
+      "1 xícara de azeitonas fatiadas",
+      "orégano a gosto para polvilhar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento com o leite",
+      "Acrescente os outros ingredientes",
+      "Vá adicionando a farinha de trigo aos poucos até soltar das mãos",
+      "Misture bem e sove",
+      "Cubra e deixe descansar por 20 minutos",
+      "Divida em 2 partes e abra com o rolo",
+      "Em cada parte espalhar metade da mussarela ralada e metade das azeitonas",
+      "Enrole cada parte como rocambole e corte em 5 pedaços",
+      "Coloque em 2 formas (5 pedaços em cada uma) de cone central untadas e enfarinhadas",
+      "Deixe descansar até dobrar o volume",
+      "Pincele gema e leve em forno preaquecido a 180°C, deixe por aproximadamente 25 minutos ou até dourar",
+      "Desligue o forno, retire as formas e polvilhe orégano"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Maria F. N. Vechi"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303707-rosca-de-mussarela-president.html"
+}

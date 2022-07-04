@@ -1,0 +1,42 @@
+{
+  "nome_receita": "SALPICÃO DE BACALHAU FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau dessalgado, cozido e desfiado",
+      "1/2 lata de milho em conserva",
+      "1/2 lata de grão-de-bico em conserva",
+      "1/2 lata de ervilha em conserva",
+      "1 cenoura crua ralada",
+      "1 pimentão vermelho sem pele e cortado em tiras",
+      "1 pimentão amarelo sem pele cortado em tiras",
+      "2 tomates médios sem sementes e sem casca picados",
+      "2 ameixas vermelhas picadas",
+      "2 pêssegos firmes picados",
+      "1 cebola grande piada",
+      "3 dentes de alho picados",
+      "200 g de maionese",
+      "azeitonas picadas a gosto",
+      "salsinha picada a gosto",
+      "1 pacote de batata palha",
+      "azeite a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela pequena refogue a cebola e o alho por uns minutos.",
+      "Acrescente o bacalhau e deixe refogar por uns 2 minutos, sempre mexendo.",
+      "Deixe esfriar.",
+      "Em uma travessa funda coloque o bacalhau refogado e acrescente os demais ingredientes, exceto a batata palha.",
+      "Misture tudo muito bem e delicadamente.",
+      "Tempere com sal e pimenta.",
+      "Cuidado para não salgar demais pois o bacalhau já é salgado.",
+      "Leve ao refrigerador por no minimo 2 horas.",
+      "Na hora de servir cubra o salpicão com a batata palha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303966-salpicao-de-bacalhau-facil.html"
+}

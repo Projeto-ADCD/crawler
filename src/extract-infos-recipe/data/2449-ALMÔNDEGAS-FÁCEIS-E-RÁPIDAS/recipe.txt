@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ALMÔNDEGAS FÁCEIS E RÁPIDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g carne moída",
+      "1 cebola pequena",
+      "3 dentes de alho",
+      "3 colheres (sopa) de óleo",
+      "2 colheres cheias de farinha de rosca (ou 1 de farinha de trigo)",
+      "1 pitada (ponta de faca) de pimenta-do-reino",
+      "1 pitada (ponta de faca) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e o alho",
+      "Coloque a carne em um bowl ou numa bacia, e adicione a cebola e o alho e as colheres de óleo",
+      "Misture com as mãos",
+      "Adicione o sal e a pimenta-do-reino",
+      "Adicione a farinha de rosca (na ausência da farinha de rosca use 1 colher de farinha de trigo)",
+      "Misture novamente até ficar uniforme",
+      "Com as mãos úmidas faça pequenas bolas de carne",
+      "Alternativa: FRIGIDEIRA",
+      "Esquente a frigideira em fogo médio e adicione 3 colheres (sopa) de óleo",
+      "Distribua as almôndegas na frigideira e deixe selar por 3 minutos",
+      "Vire as almôndegas e deixe selar por mais 3 minutos",
+      "Tampe a frigideira e mexa a panela toda a cada 2 minutos",
+      "Alternativa: MOLHO TOMATE",
+      "Quando o molho de tomate estiver a meio caminho de ficar pronto, coloque as almôndegas cruas",
+      "Elas irão cozinhar no próprio molho",
+      "A farinha de rosca garante que ela não desmanche no molho"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GUILHERME S. GIBERTONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305182-almondegas-faceis-e-rapidas.html"
+}

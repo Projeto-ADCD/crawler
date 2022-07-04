@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CACHORRO-QUENTE COM BACON DA CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de salsicha",
+      "200 g de bacon",
+      "1 lata de milho",
+      "2 cebolas médias",
+      "1 dente de alho",
+      "3 tomates médios",
+      "1 pimentão pequeno",
+      "2 sachês de molho de tomate 340 g (recomendo fugini champignon)",
+      "1/2 caixa de creme de leite",
+      "1/2 copo de requeijão cremoso",
+      "cheiro-verde a gosto",
+      "sal, pimenta e chimichurri a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon em pequenos pedaços e frite (necessário acrescentar um pouco de óleo), retire cerca de 70% do bacon e reserve.",
+      "Na mesma panela doure a cebola e o alho.",
+      "Acrescente o pimentão e o tomate e deixe refogar.",
+      "Acrescente o molho de tomate e se necessário um pouco de água.",
+      "Ao alcançar o ponto de fervura, acrescente a salsicha (de preferência cortada).",
+      "Quando o molho ferver novamente, acrescente o milho, o cheiro-verde, o creme de leite, o requeijão e os temperos a gosto e o bacon reservado.",
+      "Assim que o molho incorporar todos os ingredientes estará pronto",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs. Deixem para adicionar o sal por último, pois muitos ingredientes como a salsicha e o bacon são salgados.\nObs². Caso o molho fiquei muito ácido, uma pitada de açúcar resolve o problema "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CRIS ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301019-cachorro-quente-com-bacon-da-cris.html"
+}

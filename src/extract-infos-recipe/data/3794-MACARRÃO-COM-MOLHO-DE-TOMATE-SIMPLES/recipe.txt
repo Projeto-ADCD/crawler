@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO DE TOMATE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão (qualquer tipo)",
+      "1 pacote de molho de tomate",
+      "1 fio de óleo",
+      "sal a gosto",
+      "temperos a gosto",
+      "800 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a massa e a água em uma panela e espere ferver",
+      "Quando estiver pronto, ponha em um recipiente esburacado (para sair a água e secar).",
+      "Coloque o molho de tomate junto com o óleo e deixe ferver.",
+      "Com o molho já fervido, coloque o macarrão (já seco), o sal e o tempero e deixe ferver.",
+      "Quando estiver pronto, coloque em um prato e tenha um bom apetite"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Que tal preparar uma deliciosa receita de macarrão com molho de tomate em um almoço de domingo com a família? A gente tem certeza que você vai amar.\nAlém dessa versão, existem muitas outras receitas com macarrão para variar o cardápio. Macarrão à bolonhesa, macarrão com molho branco, macarrão com frutos do mar, macarrão de forno... se joga em todos os nossos preparos e aproveite o sabor."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LARA SGS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302674-macarrao-com-molho-de-tomate-simples.html"
+}

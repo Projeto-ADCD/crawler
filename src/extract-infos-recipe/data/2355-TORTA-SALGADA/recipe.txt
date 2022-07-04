@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA SALGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3/4 de xícara de óleo",
+      "2 xícaras de leite",
+      "1/2 xícara de amigo de milho ",
+      "3 colheres (sopa) de queijo ralado ou 1 tablete de caldo de galinha",
+      "1 colher (chá) de sal",
+      "1 e 1/2 xícara de farinha de trigo",
+      "2 colheres (sopa) de fermento em pó",
+      "orégano (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador primeiro os ingredientes líquidos",
+      "Depois adicione os secos e bata bastante",
+      "Juntar por último o fermento, bater em nível baixo ou misturar com uma colher",
+      "Despejar metade da massa em forma untada e enfarinhada",
+      "Adicione o recheio de sua preferência (frango, palmito, carne moída, legumes, salsicha, atum, calabresa)",
+      "Cubra com o restante da massa",
+      "Polvilhe orégano ou queijo ralado se desejar",
+      "Leve ao forno preaquecido, asse em 180° C por aproximadamente 30 minutos ou até que fique dourada "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "CAROL MENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305423-torta-salgada.html"
+}

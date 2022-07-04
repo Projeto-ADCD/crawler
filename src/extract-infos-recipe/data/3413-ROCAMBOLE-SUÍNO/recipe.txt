@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ROCAMBOLE SUÍNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de lombo suíno aberto igual a um grande bife (você mesmo pode abrir o lombo ou peça ao açougueiro)",
+      "sal batido com alho a gosto",
+      "1 limão espremido",
+      "2 colheres (sopa) de shoyu",
+      "100 g de azeitona sem a conserva",
+      "100 g de tomate seco sem a conserva",
+      "100 g de mussarela fatiada",
+      "100 g de presunto fatiado",
+      "molho barbecue",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o lombo já aberto como um grande bife e tempere com o sal com alho, o limão e o shoyu",
+      "Reserve",
+      "Em um mixer bata a azeitona e o tomate seco sem a conserva",
+      "Abra o lombo, coloque primeiro uma camada de presunto, depois faça uma camada com a batida de tomate com tomate seco e por último coloque a camada de mussarela",
+      "Enrole o lombo apertando bem com cuidado e coloque palitos de dente com espaço de 1 cm do início ao fim",
+      "Cubra com papel-alumínio e leve ao forno a 200°C por 35 minutos",
+      "Retire o papel-alumínio e deixe por mais 10minutos",
+      "Retire do forno e passe o molho barbecue por cima espalhando bem",
+      "Corte seguindo a posição dos palitos colocados",
+      "Pronto!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303414-rocambole-suino.html"
+}

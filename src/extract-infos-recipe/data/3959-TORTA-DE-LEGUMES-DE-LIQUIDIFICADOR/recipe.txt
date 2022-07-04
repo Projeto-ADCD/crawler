@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE LEGUMES DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "1/2 xícara (chá) de leite",
+      "3 ovos",
+      "2 xícaras (chá) de farinha de trigo",
+      "1/2 xícara (chá) de óleo",
+      "150 g de mussarela ralada",
+      "50 g de queijo parmesão ralado",
+      "1 colher de fermento",
+      "1 cubo (triturado) de caldo de legumes",
+      "sal à gosto",
+      "RECHEIO:",
+      "1 lata de milho verde",
+      "50 g de azeitona preta",
+      "1 xícara (chá) de ervilha",
+      "1/2 xícara (chá) de cheiro verde",
+      "1 tomate picado",
+      "1 colher (chá) de orégano",
+      "300 g de ricota"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um copo de liquidificador e bata por pelo menos 5 minutos.",
+      "Em uma tigela misture todos os ingredientes do recheio e mexa bem.",
+      "Em um tabuleiro retangular despeje a massa até a metade.",
+      "Coloque o recheio por cima.",
+      "Despeje o restante da massa e leve ao forno preaquecido a 180º por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CLAUDIO MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302295-torta-de-legumes-de-liquidificador.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ARROZ DOCE FÁCIL E SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de arroz lavado",
+      "2 copos de água",
+      "10 colheres (sopa) açúcar",
+      "1 copo de leite",
+      "2 colheres (sopa) leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, cozinhe o arroz com a água",
+      "Após estar cozido, bote o açúcar.",
+      "Logo em seguida, ponha o leite e o leite em pó.",
+      "Deixe no fogo por 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELLI TOSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301691-arroz-doce-facil-e-simples.html"
+}

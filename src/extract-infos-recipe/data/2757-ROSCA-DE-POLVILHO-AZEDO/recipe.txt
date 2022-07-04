@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ROSCA DE POLVILHO AZEDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de polvilho azedo",
+      "1 unidade de gema de ovo",
+      "1/2 copo de azeite",
+      "1/2 copo de leite",
+      "sal a gosto",
+      "1/2 copo de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma tigela e por último acrescente a água quente",
+      "Bata até formar uma massa homogênea",
+      "Coloque a massa dentro de um saco plástico fazendo um pequeno furo em uma das pontas ",
+      "Em uma forma, modele a rosca na sua preferência, não precisa untar ",
+      "Coloque em forno preaquecido 250° C",
+      "Deixe assar até dourar "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304505-rosca-de-polvilho-azedo.html"
+}

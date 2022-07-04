@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DIET DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de farelo de aveia",
+      "1 xícara de acholatado diet",
+      "1/2 xícara de óleo (coco, canola, soja)",
+      "1 colher (sopa) de adoçante culinário",
+      "1 xícara de leite desnatado",
+      "1 colher (sopa) bem cheia de fermento",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Preaqueça o forno a 200° C e asse o bolo.",
+      "Unte a forma com óleo e polvilhe farelo de aveia.",
+      "Quando a faca ou o palito sair limpo, o bolo estará pronto.",
+      "Fica molhadinho e forma uma casquinha crocante como um brownie"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CRISTIANI FARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304288-bolo-diet-de-chocolate.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FRANGO COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 kg de filé de frango",
+      "2 tomate",
+      "4 batatas médias",
+      "1 colher (sopa) de mostarda",
+      "1 cebola",
+      "orégano a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "1 dente de alho",
+      "1 colher (sopa) de vinagre",
+      "Óleo (quanto basta)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com a mostarda, sal e o vinagre. Deixe 10 minutos no tempero.",
+      "Coloque o óleo em uma panela e deixe esquentar.",
+      "Coloque o frango na panela e deixe dourar.",
+      "Em um lidificador, bata o tomate a cebola e o alho.",
+      "Quando dourar, adicione o molho no frango e deixe o tomate cozinhar.",
+      "Quando cozinhar, coloque um pouco de água e adicione a batata.",
+      "Quando a batata cozinhar, desligue o fogo e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NOEMI MARINHO TORQUATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302032-frango-com-batata.html"
+}

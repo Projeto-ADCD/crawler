@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3/4 de de xícara (chá) de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de fermento em pó",
+      "1 xícara (chá) de leite",
+      "2 xícaras (chá) de farinha de trigo",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, junte os ovos, a manteiga, o açúcar e o sal e misture muito bem.",
+      "Acrescente alternadamente à mistura o leite e a farinha de trigo, mexendo sempre com uma colher.",
+      "Junte o fermento e misture bem.",
+      "Numa panela média, coloque bastante óleo e leve ao fogo alto para aquecer.",
+      "Quando o óleo estiver quente, abaixe o fogo.",
+      "Com duas colheres (sobremesa), modele os bolinhos.",
+      "Encha uma das colheres com a massa e passe de uma colher para a outra, até que a massa fique com um formato arredondado.",
+      "Com cuidado, coloque pequenas porções de bolinhos no óleo quente.",
+      "Deixe fritar até que os bolinhos fiquem dourados.",
+      "Com uma escumadeira, retire os bolinhos e coloque sobre um prato forrado com papel-toalha.",
+      "Num prato fundo, coloque açúcar e canela em pó e misture bem.",
+      "Passe os bolinhos por essa mistura até envolvê-los completamente.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "GABRYELLA R. BRANDÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305026-bolinho-de-chuva.html"
+}

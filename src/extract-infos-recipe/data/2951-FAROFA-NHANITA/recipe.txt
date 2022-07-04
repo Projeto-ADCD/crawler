@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA NHANITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas grandes picadinha em cubos",
+      "1 colher (sopa) bacon picado miudinho",
+      "1 colher (sopa) de óleo (usei óleo de milho)",
+      "1 colher (sopa) manteiga",
+      "2 dentes de alho espremidos",
+      "4 colheres (sopa) azeitonas pretas picadas",
+      "4 ovos cozidos picados",
+      "4 bananas marmelo cortadas em cubos e fritos até dourar (usei 1/3 xícara de óleo para fritar)",
+      "1 pimenta dedo de moça média picada miudinha e sem sementes",
+      "3 xícaras (chá) de farofa tradicional",
+      "cebolinha e manjericão fresco a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite os cubos de banana, coloque sobre papel toalha para retirar o excesso de óleo e reserve",
+      "Em uma panela, junte o óleo e o baycon e frite até dourar",
+      "Acrescente a cebola e deixe murchar, junte o alho e deixe mais uns 3 minutos",
+      "Acrescente a manteiga, a azeitona, a pimenta e mexa por mais 3 minutos",
+      "Junte a farofa, mexa mais um pouco e desligue o fogo",
+      "Finalize acrescentando os ovos picados, a banana frita a cebolinha e folhinhas de manjericão à gosto",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: não adicionei sal, pois o bacon, a azeitona e a farofa já são suficientes para temperar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA BERNADETE NUNES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304083-farofa-nhanita.html"
+}

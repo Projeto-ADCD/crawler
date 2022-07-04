@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE MANTEIGA FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 tablete de manteiga em temperatura ambiente",
+      "2 xícaras de açúcar",
+      "1 xícara de leite morno",
+      "2 xícaras de farinha de trigo peneirada",
+      "1 colher (sopa) de fermento em pó peneirado",
+      "1 colher (chá) de essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira ou liquidificador, primeiro bata os ovos, o açúcar e a manteiga até obter um creme.",
+      "Se quiser, pode colocar a essência de baunilha para dar um gostinho no bolo.",
+      "A seguir, vá alternando entre o leite morno e a farinha com fermento peneirados",
+      "Bata até a massa ficar homogênea.",
+      "Unte uma forma com furo ao meio.",
+      "Asse o bolo em forno preaquecido a 180° C por 30 minutos, com dourador ligado.",
+      "Você pode colocar uma cobertura se desejar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "RAQUEL PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300157-bolo-de-manteiga-fofinho.html"
+}

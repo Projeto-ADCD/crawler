@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de leite",
+      "1 ovo",
+      "1 colher de óleo",
+      "1 colher de margarina/manteiga derretida",
+      "6 colheres de farinha de trigo",
+      "2 colheres de açúcar",
+      "1/2 colher de fermento",
+      "3 colheres de achocolatado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes líquidos (o ovo, o óleo, o leite e a manteiga ou margarina derretida) dentro da caneca e misture tudo",
+      "Coloque o trigo aos poucos e misture bem",
+      "Pegue o resto dos ingredientes secos (o açúcar, o fermento e o achocolatado) e coloque eles dentro da caneca também",
+      "Após colocar todos os ingredientes, misture eles até formar uma mistura homogênea.",
+      "Coloque no micro-ondas com um prato em baixo por 3 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: caso comece a transbordar desligue o micro-ondas espere a massa assentar e ligue ele novamente"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PATOGAYMER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304786-bolo-de-caneca.html"
+}

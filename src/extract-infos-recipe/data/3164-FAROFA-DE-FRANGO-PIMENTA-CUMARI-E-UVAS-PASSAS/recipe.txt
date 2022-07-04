@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA DE FRANGO, PIMENTA CUMARI E UVAS PASSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de frango cozido com sal e desfiado",
+      "1 e 1/2 xícara de de farofa Yoki tradicional",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "2 colheres (sopa) de manteiga",
+      "1/2 xícara de uvas passas",
+      "1 pimenta cumari amarela sem sementes picadinha",
+      "1 colher (sobremesa) de páprica defumada",
+      "salsinha e cebolinha picada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça a manteiga e refogue o alho e a cebola.",
+      "Acrescente o frango desfiado e refogue mais um pouco.",
+      "Junte a pimenta cumari picadinha, as uvas passas, a páprica e a farofa Yoki.",
+      "Mexa e desligue o fogo.",
+      "Misture a salsinha e cebolinha.",
+      "Sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Maria F. N. Vechi"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303792-farofa-de-frango-pimenta-cumari-e-uvas-passas.html"
+}

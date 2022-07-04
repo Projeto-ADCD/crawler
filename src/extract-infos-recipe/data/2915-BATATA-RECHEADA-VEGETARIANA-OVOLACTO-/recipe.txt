@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BATATA RECHEADA VEGETARIANA (OVOLACTO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas grandes",
+      "1/2 cenoura ralada no ralo grosso",
+      "2/4 de xícara de repolho",
+      "3/4 de cenoura picada",
+      "1 dente de alho",
+      "queijo ralado a gosto",
+      "sal e temperos a gosto",
+      "cebolinha e salsinha a gosto",
+      "3/4 de xícara de pimentão",
+      "3/4 de xicara de tomate",
+      "2 colheres de leite",
+      "2 colheres (sopa) de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as batatas e faça furos com um garfo.",
+      "Coloque para cozinhar com a casca até ficar macia mas não muito mole",
+      "Enquanto cozinha, refogue a cebola numa frigideira até ficar translúcida e adicione o alho, o tomate e o pimentão.",
+      "Adicione a cenoura, o repolho e os temperos que desejar (usei o sachê de legumes) e refogue até a cenoura ficar macia",
+      "Adicione 2 colheres (sopa) de molho de tomate e refogue mais um pouco para incorporar, reserve.",
+      "Retire as batatas da água e quando estiverem mornas faça um buraco no meio com o auxilio de uma faca, retire o maximo de miolo que conseguir sem quebrar nem furar a batata",
+      "Com esse miolo, amasse, adicione 2 colheres de leite, uma pitada de sal e queijo ralado a vontade para fazer um purê",
+      "Misture o refogado no purê e recheie as batatas até o topo, cubra com queijo ralado, cebolinha e salsinha à vontade",
+      "Leve para o forno ou para a airfryer em 180° C por aproximadamente 7 a 10 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HELENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304148-batata-recheada-vegetariana-ovolacto.html"
+}

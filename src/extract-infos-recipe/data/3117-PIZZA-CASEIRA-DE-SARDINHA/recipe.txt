@@ -1,0 +1,42 @@
+{
+  "nome_receita": "PIZZA CASEIRA DE SARDINHA",
+  "ingredientes": {
+    "MASSA:": [
+      "4 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de óleo",
+      "2 ovos",
+      "leite (o suficiente para amolecer a massa)",
+      "sal a gosto",
+      "1 pitada de açúcar",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "RECHEIO:": [
+      "4 dentes de alho",
+      "2 latas de sardinha",
+      "1 sachê de molho de tomate",
+      "1 cebola cortada em tiras ou cubos",
+      "temperos da sua preferência",
+      "azeitonas em rodelas a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Misture a farinha, o óleo, os ovos, o sal, o açúcar e o fermento",
+      "Vá colocando o leite aos poucos até a massa ficar homogênea (misture com as mãos)"
+    ],
+    "RECHEIO:": [
+      "Frite a cebola e o alho",
+      "Após coloque as sardinhas amassadas com um garfo, o molho de tomate, os temperos, a azeitona",
+      "Deixe levantar fervura e desligue o fogo"
+    ],
+    "MODO DE FAZER:": [
+      "Forre um tabuleiro com a massa (não precisa deixar grossa)",
+      "Não é necessário untar o tabuleiro",
+      "Jogue o molho de sardinha por cima da massa e leve em forno 200ºC por aproximadamente 30 minutos ou até que massa esteja cozida (espete com um garfo para saber)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303853-pizza-caseira-de-sardinha.html"
+}

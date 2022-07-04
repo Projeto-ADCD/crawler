@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE FUBÁ EM MENOS DE UMA HORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 copo de óleo",
+      "1 copo de leite",
+      "1 copo de açucar",
+      "1 copo de fubá amarelo",
+      "1 copo de trigo",
+      "1 colher (sopa) de fermento ",
+      "coco ralado, erva doce ou goiabada a gosto (opcional)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ingredientes líquidos no liquidificador e bata bem",
+      "Depois, junte os secos com os líquidos e misture bem",
+      "Adicione o fermento",
+      "Despeje em uma forma untada com óleo e leve para o forno por 40 min."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: o copo medida deve ser o mesmo"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARILENE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302560-bolo-de-fuba-em-menos-de-uma-hora.html"
+}

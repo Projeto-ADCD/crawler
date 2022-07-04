@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CUPCAKE DE CHOCOLATE SIMPLES E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "3/4 de colher de (sopa) de fermento em pó",
+      "200 g de açúcar",
+      "6 g de açúcar",
+      "200 g de farinha",
+      "2 colheres de chá de baunilha",
+      "5 ml de leite",
+      "2 colheres de (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a manteiga com açúcar e bata, junte um ovo de cada vez, e adicione a baunilha e bata de novo",
+      "Misture a farinha e o fermento e depois junte a massa aos poucos",
+      "Faça o mesmo com o leite",
+      "Misture o chocolate com a água aos poucos junte o chocolate com a metade da massa",
+      "Despeje nas forminhas sem encher completamente asse a 180°C por 20 a 25 minutos",
+      "Deixe esfriar e use sua cobertura favorita e depois adicione pedrinhas de chocolate"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "KARINA VITORIA DA CONCEIÇÃO LEMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303009-cupcake-de-chocolate-simples-e-rapido.html"
+}

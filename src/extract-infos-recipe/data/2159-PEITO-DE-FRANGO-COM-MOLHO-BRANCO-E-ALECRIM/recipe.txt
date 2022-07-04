@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PEITO DE FRANGO COM MOLHO BRANCO E ALECRIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "30 g de queijo ralado",
+      "1 colher (sopa) de alecrim",
+      "1 colher (chá) de pimenta-do-reino",
+      "1 cebola amassada",
+      "2 dentes de alho",
+      "3 colheres de molho de tomate",
+      "1 caixa de creme de leite",
+      "4 farias de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Num recipiente, misture a cebola (não use toda, separe um pouquinho para depois), o alho, queijo ralado, alecrim, pimenta-do-reino e o molho de tomate.",
+      "Vai virar uma pastinha.",
+      "Corte o peito de frango em fatias finas e tempere as fatias com a pasta.",
+      "Numa assadeira de vidro, unte com azeite e coloque o frango",
+      "Eu arrumei bonitinho, mas pode colocar por cima se a assadeira for pequena.",
+      "Cubra a assadeira com papel laminado e leve ao forno em 200º C por 15 minutos.",
+      "Apos os 15 minutos tire o papel laminado e deixe “secar” um pouco.",
+      "Eu deixei por 5 minutos",
+      "Enquanto isso, leve um pouco de cebola e alho numa panela",
+      "Refogue com manteiga e quando a cebola estiver transparente coloque o creme de leite.",
+      "Tire o frango do forno (não desligue o forno), coloque o molho branco que foi feito e depois cubra com as fatias de queijo mussarela e volte ao forno",
+      "Se seu forno tiver modo gratinar, coloque nele e deixe por 10 minutos.",
+      "Se não tiver, coloque por 15 minutos em 150º C"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CLARICE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305816-peito-de-frango-com-molho-branco-e-alecrim.html"
+}

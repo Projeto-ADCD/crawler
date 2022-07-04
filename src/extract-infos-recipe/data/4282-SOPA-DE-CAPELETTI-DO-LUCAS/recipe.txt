@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SOPA DE CAPELETTI DO LUCAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de capeletti de frango",
+      "1 kg de peito de frango cortado em cubos",
+      "1 cebola grande ",
+      "2 dentes de alho ",
+      "2 batatas médias ",
+      "2 cenouras médias ",
+      "4 caldos de galinha",
+      "sal a gosto",
+      "cheiro-verde a gosto",
+      "água fervendo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e o alho (se preferir, triture em um processador de alimentos)",
+      "Rale a batata e a cenoura cruas e reserve (se preferir, triture em um processador de alimentos)",
+      "Em uma panela grande, frite a cebola e alho em óleo de cozinha (cuidado com a quantidade de óleo, somente o suficiente para fritar a cebola e o alho, sua sopa pode ficar gordurosa se exagerar)",
+      "Quando estiverem quase selados, coloque o peito de frango em cubos e continue a fritar",
+      "Nesse momento acrescente dois caldos de galinha, mexa bem e continue fritando",
+      "Quando o peito estiver selado coloque cerca de um litro de água fervendo na panela",
+      "Acrescente também a batata e a cenoura",
+      "Espere levantar fervura e adicione o capeletti, soltando um a um para não grudar",
+      "Diminua o fogo e prove o sabor, se necessário acrescente mais caldo de galinha ou sal",
+      "Deixe o capeletti cozinhar e cuide do ponto, a sopa estará pronta quando a massa atingir o ponto que você preferir",
+      "Quando o capeletti estiver cozido adicione o cheiro-verde e volte a provar o sabor, caso seja necessário adicione mais caldo ou sal",
+      "Feito isso, é só servir!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: a cenoura e a batata podem ser até mesmo picadas, porém triturar ou ralar fazem com que deixem o caldo mais espesso e com que o capeletti ganhe mais atenção no prato!\nVocê também pode usar folhas de louro ou pimenta para temperar sua sopa."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301471-sopa-de-capeletti-do-lucas.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "QUIBE ASSADO FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída (patinho)",
+      "250 g de trigo para quibe",
+      "1 cebola grande cortada em cubinhos pequenos",
+      "250 g de maionese",
+      "1 xícara de hortelã picado",
+      "1/2 maço de cheiro-verde picadinho",
+      "pimenta síria a gosto",
+      "3 tomates picados em cubinhos pequenos",
+      "sal a gosto",
+      "3 dentes de alho espremidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o trigo num vasilhame e coloque água quente até cobrir totalmente",
+      "Deixe por 1 hora ou até hidratar.",
+      "Em seguida coloque o trigo numa peneira até sair completamente a água e reserve.",
+      "Junte a carne com os demais tempero e misture bem.",
+      "Em seguida coloque o trigo e novamente misture.",
+      "Colocar em forma untada com azeite e levar ao forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LIDIANE DA SILVA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305517-quibe-assado-facil-e-gostoso.html"
+}

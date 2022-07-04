@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PANQUECA AMERICA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de leite",
+      "1 xícara de farinha",
+      "2 colheres (sopa) de açúcar",
+      "1 pitada de sal",
+      "1 colher (chá) de óleo",
+      "1 colher de sobremesa de essência de baunilha",
+      "1/4 de unidade de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela o ovo e o leite e misture até virar um liquído de cor bege amarelado.",
+      "Depois, coloque aos poucos a farinha até virar uma massa um pouco grossa.",
+      "Nessa massa grossa, coloque o açúcar, o óleo, o sal e a essência de baunilha.",
+      "Depois de misturar tudo, coloque o fermento.",
+      "Quando estiver tudo misturado, coloque a frigideira no fogo (frigideira antiaderente) e deixe por 30 segundos em fogo alto.",
+      "Depois de 30 segundos, coloque em fogo baixo e coloque duas colheres de sopa para cada panqueca.",
+      "Quando ficar com bolinhas, vire-a (ela desgruda sozinha).",
+      "Depois é so colocar no prato deixar esfriar um pouco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser, adicione corante alimentício liquído para deixar divertido, mas cuidado para não exagerar e fazer a massa desandar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ISABELLA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299806-panqueca-america-doce.html"
+}

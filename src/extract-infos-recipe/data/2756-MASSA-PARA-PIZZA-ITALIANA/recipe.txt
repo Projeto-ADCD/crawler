@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA PARA PIZZA ITALIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo",
+      "5 g de fermento biológico seco",
+      "275 ml de água fresca",
+      "20 ml de azeite",
+      "10 g de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente acrescente a farinha de trigo, sal, fermento biológico, água, azeite e misture bem a massa.",
+      "Sove a massa por 10 minutos, depois acrescente um plástico em cima e deixe descansar 10 minutos.",
+      "Depois deste processo corte a massa em dois, faça uma bolinha e deixe-a fermentar por 1 hora.",
+      "Abra a massa com a mão ou com um rolo (como preferir).",
+      "Tome cuidado ao adicionar o sal e o açúcar pois se eles entrarem em contato pode acontecer uma fermentação.",
+      "Caso tiver um dia quente, adicione água gelada no lugar de fresca.",
+      "E já está pronta."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "LEIDII_MARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304507-massa-para-pizza-italiana.html"
+}

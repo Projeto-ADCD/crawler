@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GRÃO DE BICO AO MOLHO DE QUEIJO COM CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de grão de bico",
+      "1/2 kg de camarão pequeno",
+      "Molho",
+      "1 cebola ralada",
+      "3 colheres de farinha de trigo",
+      "2 colheres de margarina",
+      "500 ml de leite",
+      "sal a gosto",
+      "noz moscada a gosto ",
+      "500 g de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a cebola ralada, a manteiga e deixe a cebola dourar",
+      "Em seguida, coloque a farinha de trigo, o leite, o sal e a noz moscada ",
+      "Quando o molho branco estiver pronto, acrescente o camarão já frito junto com o grão-de-bico cozido",
+      "Ponha na travessa e coloque o queijo por cima",
+      "Leve ao forno por 20 minutos",
+      "Sirva com uma deliciosa salada"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIA NEILIA SOARESDE ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303261-grao-de-bico-ao-molho-de-queijo-com-camarao.html"
+}

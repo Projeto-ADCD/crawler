@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE BISCOITO DA VOVÓ VONETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 ovos",
+      "1 colher (sopa) de amido de milho",
+      "1 caixa de creme de leite ",
+      "2 copos (requeijão) de leite de vaca",
+      "1 e 1/2 pacote de biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador as gemas, o amido, o leite condensado e o leite de vaca.",
+      "Depois de batido no liquidificador coloque em uma panela e leve ao fogo",
+      "Mexa até levantar fervura.",
+      "Em um recipiente, faça as camadas com o biscoito de maisena e o creme ainda quente.",
+      "Uma de biscoito outra do creme.",
+      "A última camada tem que ser a do creme.",
+      "Use as claras batidas em neve e misture o creme de leite .",
+      "Cubra a torta e deixe esfriar na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FABRÍCIA DORNAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305410-torta-de-biscoito-da-vovo-vonete.html"
+}

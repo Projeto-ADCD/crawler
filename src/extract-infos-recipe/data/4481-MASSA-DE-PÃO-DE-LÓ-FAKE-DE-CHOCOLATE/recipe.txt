@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MASSA DE PÃO DE LÓ FAKE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1/2 xícara de açúcar",
+      "1 xícara de leite quente",
+      "1 xícara de amido de milho",
+      "2 xícaras de trigo",
+      "1 xícara de achocolatado em pó",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve, adicione 1 xícara de açúcar, bata novamente e reserve.",
+      "Em outro recipiente coloque as 4 gemas com 1/2 xícara de açúcar e bata bem, em seguida adicione o leite quente, o amido, o trigo e o achocolatado e bata por mais cerca de 10 minutos.",
+      "Após a mistura estar bem homogênea, adicione as claras em neve e o fermento e misture (não use a batedeira nesta etapa, a massa deve ficar bem airada) o suficiente para dissolver o fermento.",
+      "Despeje a massa em uma assadeira untada de sua preferência.",
+      "Leve ao forno preaquecido médio/alto (180º C) por 30 minutos ou até que inserindo um palito no meio do bolo, o mesmo saia limpo e seco.",
+      "Retire do forno e deixe descansar por alguns minutos.",
+      "Desenforme ainda morno.",
+      "O recheio vai da preferência de cada um, na foto utilizei brigadeiro"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "CRIS ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301018-massa-de-pao-de-lo-fake-de-chocolate.html"
+}

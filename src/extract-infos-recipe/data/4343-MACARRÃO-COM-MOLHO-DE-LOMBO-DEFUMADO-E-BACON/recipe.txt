@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO DE LOMBO DEFUMADO E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g macarrão",
+      "100 g lombo defumado cortado em cubos",
+      "50 g bacon cortado em cubos",
+      "1 pimentão verde, amarelo e vermelho",
+      "cebola e alho a gosto",
+      "2 cubos de caldo de carne",
+      "2 colheres (sopa) extrato de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon até soltar a gordura",
+      "Refogue a cebola junto com o bacon até ficar transparente, então junte o alho e deixe refogar mais um pouco",
+      "Acrescente o lombo defumado e frite até criar um fundo grudado na panela",
+      "Tempere com pimenta-do-reino",
+      "Acrescente o extrato de tomate e refogue",
+      "Utilize umas 4 conchas da água do macarrão e mexa até soltar o fundo",
+      "Acrescente os cubos de caldo de carne e mexa até começar a engrossar o molho",
+      "Misture os pimentões picados em tiras e cozinhe até começarem a ficar transparentes",
+      "Misture o molho ao macarrão e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "REGYS BORGES DA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301330-macarrao-com-molho-de-lombo-defumado-e-bacon.html"
+}

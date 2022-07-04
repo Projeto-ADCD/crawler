@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MACARRÃO COM BACON, OVO E LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Macarrão do formato de sua preferência",
+      "5 dentes de alho",
+      "1 tomate",
+      "1 cebola",
+      "1 cenoura",
+      "1 pimentão",
+      "2 ovos",
+      "Folhas de repolho",
+      "Azeite de oliva",
+      "Bacon",
+      "Ervas frescas ou desidratadas",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Realize o corte em rodelas os legumes e em pequenos pedaços as folhas de repolho.",
+      "Tempere os mesmos e adicione azeite em uma panela e inicie o cozimento em fogo baixo, Não é preciso adicionar água.",
+      "Quando estiver no ponto ideal guarde para uso posterior.",
+      "Inicie o cozimento dos ovos. Assim que estiverem prontos remova a casca e corte em rodelas, reserve.",
+      "Faça o corte do bacon em fatias finas e comece a fritar em uma frigideira. Quando estiverem bem dourados, reserve.",
+      "Comece o cozimento do macarrão e interrompa quando estiverem al dente.",
+      "Adicione azeite em uma frigideira grande e adicione o macarrão logo em seguida os legumes junto com o ovo cozido. Misture e por final acrescente as tiras de bacon.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301150-macarrao-com-bacon-ovo-e-legumes.html"
+}

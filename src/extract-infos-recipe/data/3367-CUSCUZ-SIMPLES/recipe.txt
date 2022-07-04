@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CUSCUZ SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "300g de milharina",
+      "100 ml de água (ou leite)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a milharina em uma bacia",
+      "Misture com o sal",
+      "Adicione água (ou leite) as poucos",
+      "Deixe descansar por 3 minutos",
+      "Encha a cuscuzeira de água e bote a mistura",
+      "Espere até ficar pronto"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BEATRIZ FARIAS PINHEIRO LISBOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303497-cuscuz-simples.html"
+}

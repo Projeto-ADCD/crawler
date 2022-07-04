@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE ABACAXI COM GENGIBRE E HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara (chá) de abacaxi picado",
+      "2 colheres (sopa) de leite em pó",
+      "1 fatia fina de gengibre",
+      "5 folhas de hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes com 1 xícara (chá) de água.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304360-vitamina-de-abacaxi-com-gengibre-e-hortela.html"
+}

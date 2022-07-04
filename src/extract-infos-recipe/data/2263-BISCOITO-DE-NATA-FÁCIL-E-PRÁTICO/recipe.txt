@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BISCOITO DE NATA FÁCIL E PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/3 de xícara de amido de milho",
+      "200 g de leite condensado",
+      "1/3 de xícara de nata"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até ficar uma massa homogênea que não grude nas mãos.",
+      "Faça bolinhas e coloque em uma forma untada com manteiga para assar a 180º C por 20 minutos",
+      "Ou até na parte de baixo ficar levemente dourada"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "OLIVIA MARIELSE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305608-biscoito-de-nata-facil-e-pratico.html"
+}

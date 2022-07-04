@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE FRANGO COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de peito de frango",
+      "1/4 de xícara de bacon picado",
+      "1 lata de milho",
+      "1 lata pequena de extrato de tomate",
+      "2 xícaras de leite",
+      "1 xícara de oleo",
+      "2 colheres (sopa) de manteiga",
+      "5 ovos",
+      "2 batatas cozidas amassadas",
+      "2 xicaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1 sache de catupiri",
+      "200 g de mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon.",
+      "Refogue o frango com alho e cebola.",
+      "Adicionar o extrato de tomate e o milho.",
+      "Finalize com salsinha.",
+      "Reserve",
+      "Bata a massa no liquidificador",
+      "Monte a torta em um refratário, untado e enfarinhado.",
+      "Metade da massa, recheio, queijo mussarela, catupiry e a outra metade da massa.",
+      "Leve ao forno ate assar e dourar a massa"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "REBECCA CORRÊA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304257-torta-de-frango-com-batata.html"
+}

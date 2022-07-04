@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SUCO DE CUPUAÇU CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de polpa de cupuaçu",
+      "500 ml de leite gelado",
+      "1/2 lata de leite condensado",
+      "cubos de gelo se desejar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque o leite gelado e adicione o leite condensado e a polpa de cupuaçu",
+      "Bata em velocidade média por aproximadamente dois minutos",
+      "Coloque em taças e adicione o gelo"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KÉSSYA FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301374-suco-de-cupuacu-cremoso.html"
+}

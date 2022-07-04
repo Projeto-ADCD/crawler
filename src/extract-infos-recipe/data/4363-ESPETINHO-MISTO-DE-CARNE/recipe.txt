@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ESPETINHO MISTO DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de alcatra em cubos",
+      "300 g de peito de frango em cubos",
+      "1 pimentão amarelo",
+      "1 cebola grande",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a alcatra e o frango em cubos de até 4 cm.",
+      "Tempere os cubos com sal e pimenta-do-reino a gosto.",
+      "Corte a cebola e o pimentão em pedaços de cerca de 3cm.",
+      "Monte espetinhos alternando entre a alcatra, o frango, pimentão e a cebola.",
+      "Em uma grelha elétrica, asse os espetinhos até o ponto desejado.",
+      "Sirva em seguida e boa refeição."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAMON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301299-espetinho-misto-de-carne.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CARNE ASSADA DOS DEUSES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de peito bovino",
+      "2 colheres de azeite",
+      "2 cabeças alho",
+      "1 lata cerveja (300 ml)",
+      "2 cebolas",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 tomate",
+      "2 tabletes de caldo de carne",
+      "300 g de azeitonas verdes",
+      "250 g de massa de tomate",
+      "300 g de salsa e cebolinha",
+      "1 linguiça calabresa",
+      "250 g de bacon fatias",
+      "200 g de cogumelos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com a faca e com cuidado, faça um buraco de ponta a ponta no peito já limpo",
+      "Introduza a linguiça e reserve",
+      "E uma vasilha, coloque o alho, o tablete dissolvido (ferva 3 dedos de água e derreta), 1 colher de azeite e a cerveja",
+      "Misture tudo, coloque em um saco junto com o peito e deixe descansar por no mínimo 2 horas (eu prefiro deixar mais tempo, pois quanto mais tempo mais sabor)",
+      "Após o tempo de descanso, leve para pressão por aproximadamente 40 minutos após a pressão",
+      "Retire o caldo e coloque em uma assadeira ou tabuleiro, despeje o molho de tomate, a azeitona, o cogumelo, o pimentão, o tomate e a cebola já picados",
+      "Arrume do seu jeito e em seguida coloque 1 colher de azeite por cima da carne",
+      "Cubra com papel-alumínio, deixe no forno por aproximadamente 15 minutos e pronto, se delicie"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRISCILA GUIMARAES SENDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302684-carne-assada-dos-deuses.html"
+}

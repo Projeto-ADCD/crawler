@@ -1,0 +1,23 @@
+{
+  "nome_receita": "REFRIGERANTE DE LIMÃO CASEIRO DA RAISSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "1 garrafa de água gasosa",
+      "adoçante ou açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esprema o limão em um copo",
+      "Adicione a água gasosa",
+      "Adicione o adoçante ou açúcar a gosto",
+      "Misture bem.",
+      "Boa bebida "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAISSA CHINELATO MATTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300967-refrigerante-de-limao-caseiro-da-raissa.html"
+}

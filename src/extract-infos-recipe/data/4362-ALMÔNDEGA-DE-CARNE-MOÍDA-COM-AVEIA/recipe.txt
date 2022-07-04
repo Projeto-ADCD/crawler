@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ALMÔNDEGA DE CARNE MOÍDA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída magra",
+      "8 colheres (sopa) de aveia em flocos finos",
+      "1 ovo",
+      "2 tomates médios picados sem a semente",
+      "1 cebola média",
+      "1 colher (sopa) de orégano",
+      "1 colher (sopa) de salsinha picada",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os tomates, a cebola e a salsinha.",
+      "Em um recipiente, coloque a carne moída, o ovo e a aveia em flocos e misture bem, usando as mãos.",
+      "Adicione o tomate, a cebola e a salsinha e tempere com o sal e a pimenta-do-reino a gosto e misture bem.",
+      "Faça pequenas bolinhas com a mistura e acomode em uma assadeira antiaderente.",
+      "Leve ao forno preaquecido por 25 minutos.",
+      "Sirva em seguida e boa refeição"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAMON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301300-almondega-de-carne-moida-com-aveia.html"
+}

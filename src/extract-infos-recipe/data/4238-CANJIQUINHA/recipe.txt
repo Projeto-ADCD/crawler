@@ -1,0 +1,35 @@
+{
+  "nome_receita": "CANJIQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de costelinha de porco (já temperada com limão, tempero pronto sabor amii e pimenta do reino)",
+      "1 cebola grande (picada)",
+      "4 dentes de alho ( picados)",
+      "1 xícara e 1/2 de água ( temperatura ambiente )",
+      "3 colheres (sopa) de óleo de milho ou azeite extra virgem",
+      "3 colheres (sopa) de molho inglês",
+      "300 g de canjiquinha (lavada como arroz)",
+      "1 linguiça calabresa grande (picada)",
+      "250 g de bacon (picado)",
+      "1 e 1/2 litro de água (à ferver)",
+      "1 folha de louro",
+      "1 caldo de costela (em cubo ou pó)"
+    ]
+  },
+  "passos": {
+    "COSTELINHA": [
+      "Em uma panela de pressão, aqueça o óleo, doure a cebola até murchar, acrescente o alho e doure.",
+      "Em seguida, adicione a costelinha e frite um pouco. Quando começar a ganhar cor, adicione o molho inglês, misture e deixe fritar por 3 minutos.",
+      "Adicione 300 ml de água em temperatura ambiente, a folha de louro e feche a panela de pressão. Após pegar pressão, conte 20 minutos e desligue.",
+      "Numa frigideira, frite o bacon (sem acrescentar óleo, pois irá soltar a própria gordura). Escorra em papel tolha e com a gordura que soltou do bacon, frite a calabresa. Depois, também escorra em papel toalha e reserve.",
+      "Em seguida, ferva 1 e 1/2 litro de água.",
+      "Após ter desligado a panela de pressão e o vapor ter saído, abra a panela e com uma escumadeira, retire a costelinha e reserve num prato.",
+      "Dissolva a canjiquinha no caldo de cozimento da costelinha até dissolver bem. Acrescente a água fervida e o caldo de costela em cubo ou em pó, misture, tampe a panela de pressão e cozinhe por 20 minutos após pegar pressão. Passado esse tempo, desligue.",
+      "Abra a panela, e mexa a canjiquinha, pois pode ter grudado um pouco no fundo. Acrescente metade do cheiro verde picado, a costelinha, a linguiça e o bacon que estavam reservados. Misture e finalize com o restante do cheiro verde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LETICIA CAMARGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301532-canjiquinha.html"
+}

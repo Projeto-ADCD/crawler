@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MASSA DE PANQUECA DA KAKAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite integral",
+      "2 ovos",
+      "4 colheres (sopa) de óleo",
+      "1 colher (chá) de sal",
+      "1/2 xícara de de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador e bata.",
+      "Após isso, pegue uma colher e mexa (porque fica grudado um pouco de farinha de trigo)",
+      "Pegue a frigideira e coloque um pouco de óleo com papel-toalha, passe em tudo",
+      "Coloque a massa na frigideira e deixe dourar (é só um pouco viu)",
+      "Depois faça seu recheio",
+      "Coma e sabore"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KAKAU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299949-massa-de-panqueca-da-kakau.html"
+}

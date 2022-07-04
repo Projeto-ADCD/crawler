@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MILHO CREMOSO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho (medida da lata de milho)",
+      "1 lata flocão de milho (medida da lata de milho)",
+      "1 lata de açúcar (medida da lata de milho)",
+      "1 garrafinha de leite de coco ",
+      "1/2 lata de óleo (medida da lata de milho)",
+      "1 colher de fermento ",
+      "3 ovos ",
+      "1 saco de coco ralado ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador, exceto o coco ralado",
+      "Bata por alguns minutos até você perceber que misturou bem todos os ingredientes",
+      "Após bater, acrescente o coco ralado e bata apenas para misturar ou misture com a colher, não triture o coco.",
+      "Preaqueça o forno a 180° C por 15 minutos ",
+      "Deixe assar a 180° C por 40 minutos ou até ficar douradinho.",
+      "Caso ainda não esteja dourado com 40 minutos, deixe mais 10 minutos, mas fique vigiando",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "BÁRBARA MELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300892-bolo-de-milho-cremoso-de-liquidificador.html"
+}

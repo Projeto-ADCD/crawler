@@ -1,0 +1,45 @@
+{
+  "nome_receita": "CAMARÃO CREMOSO COM AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de camarão sem a casca",
+      "azeite a gosto",
+      "2 dentes de alho",
+      "1 cebola picada",
+      "350 g de molho de tomate pronto",
+      "coentro a gosto ou cheiro-verde",
+      "50 g de amendoim em pó ou triturado como preferir (opcional)",
+      "100 g de queijo branco sem sal",
+      "50 g de coco ralado",
+      "200 g de creme de leite sem soro",
+      "orégano a gosto (salsinha)",
+      "1 lata de milho verde e ervilha",
+      "ketchup a gosto (opcional)",
+      "1 limão pequeno",
+      "sal a gosto",
+      "50 g manteiga",
+      "100 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Camarão",
+      "Em uma bacia coloque o camarão, o sal e o limão e reserve",
+      "Molho branco",
+      "Em uma panela, coloque a manteiga e derreta",
+      "Acrescente a farinha de trigo e o creme de leite",
+      "Acrescente o coco ralado e reserve",
+      "Preparo do camarão",
+      "Em panela coloque o azeite, acrescente o alho, a cebola e o camarão, refogue",
+      "Logo após, acrescente o molho pronto de tomate, o coentro ou cheiro-verde, o milho verde e a ervilha, o orégano ou salsinha, o ketchup.",
+      "Junte o molho branco e o amendoim",
+      "Deixe ferver e retire do fogo",
+      "Logo após, acrescente o queijo",
+      "E pode servir quente ou morno"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KAROK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304545-camarao-cremoso-com-amendoim.html"
+}

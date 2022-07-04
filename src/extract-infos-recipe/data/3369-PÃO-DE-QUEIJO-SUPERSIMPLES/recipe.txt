@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE QUEIJO SUPERSIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de polvilho azedo",
+      "500 ml de leite",
+      "100 ml de azeite",
+      "sal a gosto",
+      "3 ovos",
+      "150 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o polvilho em uma tigela e reserve",
+      "Em uma panela junte o leite, o azeite e o sal, leve para o fogo até levantar fervura e escalde o polvilho",
+      "Quando esfriar, intercale os ovos com o queijo amassando a massa com as mãos",
+      "Quando tiver uma mistura homogênea, faça bolinhas, coloque-as em uma forma untada",
+      "Asse em forno pré-aquecido a 200°C até ficarem dourados"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "BRUNA LANIUS SAUERESSIG",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303494-pao-de-queijo-supersimples.html"
+}

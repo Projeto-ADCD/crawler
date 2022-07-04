@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO PARA TORRADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates",
+      "1 cebola bem pequena",
+      "250 g de maionese",
+      "1 pequeno pedaço de pimentão verde (sem sementes)",
+      "1 pitada de sal",
+      "6 colheres de sal",
+      "8 colheres de óleo ou azeite",
+      "3 folhas de cebolinha",
+      "1 pedacinho de pimenta dedo de moça",
+      "1 pequeno dente de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, exceto a maionese, por 2 minutos.",
+      "Adicione a maionese",
+      "Conserve na geladeira por até 2 dias"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VITÓRIA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301316-molho-para-torradas.html"
+}

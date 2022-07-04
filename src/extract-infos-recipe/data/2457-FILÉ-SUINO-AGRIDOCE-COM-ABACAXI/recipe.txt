@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FILÉ SUINO AGRIDOCE COM ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "400g filé de porco",
+      "1 pimentão verde pequeno",
+      "1 pimentão vermelho pequeno",
+      "1 cebola grande",
+      "1/2 xícara de água",
+      "4 col. sopa de açúcar demerara",
+      "2 col. sopa de molho de soja",
+      "1 col. sopa de vinagre",
+      "1/2 xícara de molho de tomate",
+      "1 col. de sopa de amido de milho",
+      "1/2 abacaxi",
+      "Azeite de oliva para refogar",
+      "Sal a gosto",
+      "Pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o filé de porco em cubos e tempere com sal e pimenta do reino a gosto",
+      "Com um fio de azeite na panela, frite os cubos de filé",
+      "Acrescente à panela a cebola e os pimentões ao mesmo tempo, todos cortados em cubos grandes",
+      "Quando a panela apresentar uma crosta (sem deixar queimar), acrescente a aguá e dissolva esse conteudo, que dará bastante sabor",
+      "Quando os vegetais tiverem murchado um pouco (mas nao ao ponto de ficarem moles), acrescente o açúcar demerara",
+      "Após misturar bem o açúcar, acrescente o molho de tomate, o molho de soja e o vinagre",
+      "Dissolva o amido de milho em 1/2 copo com água e acrescente à panela",
+      "Adicione o 1/2 abacaxi cortado em cubos e mantenha o cozimento em fogo baixo por aproximadamnete 10 minutos",
+      "Sirva quente, com arroz. Para os que gostam de pratos apimentados, este também fica saboroso com pimenta."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ÉRICA BANTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305170-file-suino-agridoce-com-abacaxi.html"
+}

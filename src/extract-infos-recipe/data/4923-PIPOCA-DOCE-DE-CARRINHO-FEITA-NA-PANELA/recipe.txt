@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PIPOCA DOCE DE CARRINHO FEITA NA PANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de milho para pipoca",
+      "1 xícara de açúcar",
+      "1e 1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece fazendo a calda em uma panela.",
+      "Coloque o açúcar e a água e deixe ferver por 20 minutos, ou até que as bordas da panela comecem a cristalizar",
+      "Adicione corante na calda se quiser e deixe repousando",
+      "Estoure a pipoca do jeito que preferir e coloque em um recipiente",
+      "Adicione a calda aos poucos na pipoca e mexa para misturar bem",
+      "Pronto, sua pipoca doce está pronta e é igualzinha a do carrinho do pipoqueiro."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ENDILY CANDIDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299943-pipoca-doce-de-carrinho-feita-na-panela.html"
+}

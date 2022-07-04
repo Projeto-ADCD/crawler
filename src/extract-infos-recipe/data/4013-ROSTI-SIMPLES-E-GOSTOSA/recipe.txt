@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ROSTI SIMPLES E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata cozida inteira, esfriada e descascada",
+      "1 cebola grande",
+      "sal e pimenta-do-reino",
+      "4 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as batatas e a cebola na parte grossa do ralador e misture com bastante sal e pimenta.",
+      "Derreta metade da margarina em uma frigideira e junte a mistura de batata.",
+      "Achate a mistura com uma espátula e cozinhe sobre fogo moderado por 5 minutos.",
+      "Coloque um prato sobre a frigideira e vire de forma que o rosti fique no prato.",
+      "Raspe a frigideira e derreta o restante da margarina.",
+      "Frite o outro lado do rosti por 5 minutos.",
+      "Coloque sobre uma travessa aquecida e sirva.",
+      "Para uma refeição completa, sirva com ovos fritos em cima."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302134-rosti-simples-e-gostosa.html"
+}

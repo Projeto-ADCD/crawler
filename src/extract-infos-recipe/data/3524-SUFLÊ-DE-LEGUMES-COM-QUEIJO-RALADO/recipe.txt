@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SUFLÊ DE LEGUMES COM QUEIJO RALADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de espinafre picado",
+      "1 xícara de repolho picado",
+      "1 xícara de cenoura crua ralada",
+      "1 colher de salsa picadinha",
+      "1 xícara de leite quente",
+      "3 colheres de queijo ralado muçarela ",
+      "3 colheres de farinha de trigo",
+      "1 colher de manteiga",
+      "2 ovos",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, bata os ovos e misture todos os ingredientes",
+      "Unte uma assadeira de tamanho médio com manteiga e despeje o conteúdo da tigela na assadeira",
+      "Polvilhe queijo ralado parmesão por cima",
+      "Leve ao forno a 210º C para assar por 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RUBRIANE DOS SANTOS DA ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303202-sufle-de-legumes-com-queijo-ralado.html"
+}

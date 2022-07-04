@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TRUFAS DE BEIJINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de chocolate em barra meio amargo (de preferencia que não necessite temperagem)",
+      "100 g de chocolate branco (para decorar as trufas)",
+      "2 latas de leite condensado",
+      "200 g de coco ralado",
+      "1 colher (sopa) de manteiga sem sal",
+      "forminhas para trufas",
+      "papel manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro em uma panela, adicione as duas latas de leite condensado com o coco e a colher de manteiga.",
+      "Leve ao fogo baixo até que desgrude do fundo da panela espere esfriar.",
+      "Derreta o chocolate em banho-maria, molhe as forminhas retire o excesso e leve à geladeira por 5 minutos.",
+      "Após esse tempo, coloque o recheio e depois feche o fundo da forminha com chocolate, leve ao freezer por 5 minutos e desenforme.",
+      "Derreta o chocolate branco e reserve.",
+      "Com o papel-manteiga, faça um cone coloque o chocolate branco e decore as trufas."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "BIEL TUBER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301592-trufas-de-beijinho.html"
+}

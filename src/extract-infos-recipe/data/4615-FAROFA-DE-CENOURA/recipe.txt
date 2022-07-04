@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura média ralada",
+      "1 linguiça calabresa",
+      "1 pedaço de bacon",
+      "Farinha de mandioca",
+      "2 dentes de alho",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon e a linguiça em cubos.",
+      "Corte o alho e refogue-o. Em seguida, acrescente a linguiça e o bacon e deixe fritar.",
+      "Depois de fritar o bacon e a linguiça, acrescente a cenoura e refogue.",
+      "Em seguida, acrescente a farinha em fogo baixo para não queimar.",
+      "Adicione sal a gosto",
+      "Se quiser, pode adicionar umas folhas de salsinha ou coentro agosto."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ELIANA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300718-farofa-de-cenoura.html"
+}

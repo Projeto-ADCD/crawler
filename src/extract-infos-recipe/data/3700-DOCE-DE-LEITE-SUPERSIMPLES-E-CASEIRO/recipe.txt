@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE LEITE SUPERSIMPLES E CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "1 colher de margarina ou manteiga",
+      "3 colheres de açúcar",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o açúcar em uma panela que esteja seca",
+      "Deixe derreter até virar um mel",
+      "Coloque a margarina (vai ficar um pouco fino, mas é assim mesmo)",
+      "Junte o leite condensado e mexa até ficar grosso (muito grosso mesmo)",
+      "Espere secar e depeje em um recipiente",
+      "Leve à geladeira por 30 minutos "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CLÁUDIA SALDANHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302883-doce-de-leite-supersimples-e-caseiro.html"
+}

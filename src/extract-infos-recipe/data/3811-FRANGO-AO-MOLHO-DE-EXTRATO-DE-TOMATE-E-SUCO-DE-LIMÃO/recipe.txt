@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRANGO AO MOLHO DE EXTRATO DE TOMATE E SUCO DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 limão",
+      "2 dente de alho",
+      "1 cebola",
+      "1 pimentão",
+      "2 sachês de tempero pronto",
+      "1/2 copo de extrato de tomate tradicional",
+      "colorau a gosto",
+      "vinagre ",
+      "molho de alho a gosto",
+      "sal a gosto",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os sachês no frango",
+      "Depois, coloque o colorau, o vinagre, o molho de alho, o suco de limão, os dentes de alho picados e o sal ",
+      "Coloque em uma panela óleo e o frango para dourar",
+      "Enquanto frita, pegue uma bacia pequena e pique dentro o pimentão, a cebola e o cheiro-verde",
+      "Quando estiver bem dourado, junte o extrato de tomate e deixe mais 10 minutos.",
+      "Depois disso, junte os temperos picados",
+      "Abaixe o fogo para não correr o risco de queimar e deixe por mais 5 minutos ou até a cebola dourar",
+      "Após, apague o fogo e está pronto para servir e saborear"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JESSICA ALDENI MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302600-frango-ao-molho-de-extrato-de-tomate-e-suco-de-limao.html"
+}

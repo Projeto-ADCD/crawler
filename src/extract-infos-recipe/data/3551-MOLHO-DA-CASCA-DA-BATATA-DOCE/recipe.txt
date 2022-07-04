@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO DA CASCA DA BATATA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g batata-doce",
+      "50 ml de azeite",
+      "200 ml creme de leite",
+      "100 ml de água",
+      "150 g de maionese",
+      "1 unidade de alho",
+      "100 g de cebola",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as batatas e leve para cozinhar.",
+      "Depois de cozidas, retire as cascas.",
+      "Reserve as batatas para acompanhar com molho",
+      "Refolgue a casca da batata-doce cozida, com azeite, cebola e alho.",
+      "Bata no liquidificador o refogado da casca com outos ingredientes.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Textura: cremosa\nDica: nada de lixo, reaproveitamento de alimentos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIANA GUEDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303155-molho-da-casca-da-batata-doce.html"
+}

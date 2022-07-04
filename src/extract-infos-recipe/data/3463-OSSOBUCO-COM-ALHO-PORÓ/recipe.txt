@@ -1,0 +1,36 @@
+{
+  "nome_receita": "OSSOBUCO COM ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ossobucos (mais ou menos 1 kg)",
+      "2 cebolas grandes picadas grosseiramente",
+      "3 dentes de alho grandes picados",
+      "4 tomates grandes picados grosseiramente",
+      "1 alho-poró cortado em fatias finas",
+      "1 lata de molho de tomate pronto",
+      "4 colheres (sopa) de vinho branco seco",
+      "1 colher (sopa) de sálvia picada",
+      "1 colher (sopa) de manjericão fresco picado",
+      "2 colheres (sopa) de óleo",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe os ossobucos e corte com uma faca afiada a nervura que envolve o ossobuco, pois ela encolhe ao cozinhar",
+      "Tempere os ossobucos com sal, pimenta, a sálvia picada, o manjericão picado e o vinho branco e deixe marinar por no mínimo 2 horas",
+      "Em uma panela de pressão, coloque o óleo e acrescente metade da cebola picada",
+      "Por cima coloque os ossobucos com o que ficou da marinada",
+      "Cubra com o resto da cebola, os alhos picados, os tomates picados e o molho de tomate.",
+      "Não há necessidade de colocar água",
+      "Leve a panela de pressão ao fogo alto até começar a chiar",
+      "Abaixe o fogo e deixe cozinhar por uns 50 minutos",
+      "Desligue o fogo e deixe a pressão da panela sair naturalmente",
+      "Depois desse tempo sirva o ossobuco acompanhado de um purê de batata e uma salada de sua preferência"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303309-ossobuco-com-alho-poro.html"
+}

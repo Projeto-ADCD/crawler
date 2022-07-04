@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PAVÊ DE MORANGO COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de morangos",
+      "1 caixa de leite condensado",
+      "1 e 1/2 caixa de creme de leite",
+      "6 colheres (sopa) de leite em pó",
+      "1 colher (sopa) de manteiga sem sal",
+      "1 pacote de biscoito de maisena",
+      "leite para umedecer os biscoitos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o creme",
+      "Na panela misture a manteiga, o leite condensado e o leite em pó.",
+      "Sempre em fogo baixo até soltar do fundo da panela.",
+      "Tire do fogo e acrescente o creme de leite.",
+      "Misture.",
+      "Transfira para uma tigela (preferência de vidro) e deixe esfriar para usar.",
+      "Corte os morangos em fatias, descartando as folhas.",
+      "Montagem",
+      "Em uma forma quadrada (20 x 20) faça uma camada de biscoitos umedecidos no leite, uma camada de creme, uma camada de morangos e repita esse processo finalizando com o creme.",
+      "Para decorar passe pela peneira o leite em pó",
+      "Cubra com filme plástico e leve à geladeira por 2 a 3 horas.",
+      "Na hora de servir decore com morangos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PRISCILA CALMON DE ABREU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305677-pave-de-morango-com-leite-ninho.html"
+}

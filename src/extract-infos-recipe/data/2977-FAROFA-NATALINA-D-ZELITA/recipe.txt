@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA NATALINA D. ZELITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml azeite",
+      "2 colheres de manteiga com sal",
+      "2 dentes de alho",
+      "sal a gosto",
+      "1 cebola média picada",
+      "1 linguiça calabresa médica picada",
+      "1 cenoura grande ralada",
+      "2 tomates grandes picado (sem pele e sem sementes)",
+      "1 xícara de damasco picado",
+      "1/2 xícara de uva-passa",
+      "250 g de farofa de milho ",
+      "250 g de farofa com cebola ",
+      "cheiro-verde para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, derreta a manteiga e adicione o azeite.",
+      "Frite a calabresa com a cebola em fogo baixo.",
+      "Adicione a cenoura, o tomate, o damasco e a uva-passa.",
+      "Refogue tudo e adicione a farofa de milho e a Farofa com cebola ",
+      "Misture tudo e finalize com cheiro-verde."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ZELITA ANA AGUIAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304041-farofa-natalina-d-zelita.html"
+}

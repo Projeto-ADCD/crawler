@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PIPOCA DOCE DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de milho de pipoca",
+      "1 fio de óleo",
+      "2 colheres (sopa) de açúcar bem cheia",
+      "2 colheres (sopa) leite em pó bem cheia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque numa pipoqueira o óleo, o milho e o açúcar.",
+      "Mexa até estourar o milho.",
+      "Despeje numa vasilha, coloque o leite em pó e sacuda para misturar."
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SIMONE TOESCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304941-pipoca-doce-de-leite-ninho.html"
+}

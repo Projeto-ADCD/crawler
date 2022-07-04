@@ -1,0 +1,51 @@
+{
+  "nome_receita": "TORTA DE COCO COM SUSPIRO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "12 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de fermento em pó",
+      "6 colheres (sopa) de manteiga",
+      "4 colheres (sopa) de leite integral",
+      "1 pitada de sal",
+      "casca de 1 laranja ralada",
+      "Recheio",
+      "1 colher (sopa) de manteiga",
+      "1 pitada de sal",
+      "casca ralada de uma laranja",
+      "2 colheres (sopa) de coco ralado",
+      "1 xícara (chá) de açúcar",
+      "2 gemas",
+      "2 colheres (sopa) de amido de milho dissolvido em pouco de leite frio",
+      "2 xícaras (chá) de leite",
+      "Cobertura",
+      "2 claras de ovo batida em neve",
+      "3 colheres (sopa) de açúcar",
+      "suco de 1/2 limão",
+      "coco ralado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture todos os ingredientes e amasse bem",
+      "Depois forre uma forma untada e ajeite bem a massa com a mão.",
+      "A seguir, leve para assar em forno preaquecido para assar até dourar e reserve.",
+      "Recheio",
+      "Em uma panela, misture todos ingredientes e leve ao fogo baixo mexendo bem até ficar um creme homogêneo.",
+      "Retire do fogo e reserve.",
+      "Cobertura",
+      "Bata as claras na batedeira até ficar bem firme, aos poucos e delicadamente, acrescente o açúcar e o suco de limão.",
+      "Bata novamente até o ponto de suspiro.",
+      "Finalizar",
+      "Coloque o recheio sobre a massa reservada.",
+      "Acrescente o suspiro sobre o recheio e leve ao forno baixo só para gratinar o suspiro.",
+      "A seguir, decore com coco ralado e sirva fria"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEUDA M.V.XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302592-torta-de-coco-com-suspiro-no-forno.html"
+}

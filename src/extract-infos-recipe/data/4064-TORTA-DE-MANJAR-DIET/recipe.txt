@@ -1,0 +1,55 @@
+{
+  "nome_receita": "TORTA DE MANJAR DIET",
+  "ingredientes": {
+    "LEITE CONDENSADO DIET (RENDE 1 PORÇÃO)": [
+      "1 xícara (chá) de leite em pó desnatado",
+      "1/4 xícara (chá) de água fervente",
+      "1/2 xícara (chá) de adoçante em pó para forno e fogão",
+      "1 colher (sopa) de margarina light"
+    ],
+    "CALDA DE AMEIXA DIET": [
+      "12 ameixas pretas secas sem adição de açúcar com caroço",
+      "1 xícara (chá) de água",
+      "1 colher (sopa) de adoçante em pó para forno e fogão"
+    ],
+    "MASSA": [
+      "8 colheres (sopa) de farinha de trigo",
+      "1 ovo inteiro",
+      "1 colher sopa de fermento em pó",
+      "2 colheres (sopa) de margarina sem sal"
+    ],
+    "MANJAR DIET": [
+      "1 xícaras (chá) de leite desnatado",
+      "4 colheres (sopa) de coco ralado",
+      "4 colheres (sopa) de amido de milho",
+      "350 ml de leite de coco",
+      "1 porção de leite condensado diet"
+    ]
+  },
+  "passos": {
+    "LEITE CONDENSADO DIET": [
+      "Bata todos os ingredientes no liquidificador, espere esfriar e utilize para preparar o manjar."
+    ],
+    "CADA DE AMEIXA DIET": [
+      "Leve uma panela ao fogo com as ameixas e a água, até ferver.",
+      "Retire do fogo, adicione o adoçante e mexa bem."
+    ],
+    "MASSA": [
+      "Misture todos os ingredientes com a mão até formar uma massa homogênea.",
+      "Abra a massa em uma forma com fundo falso.",
+      "Se preferir, use uma colher, fazendo bordas tipo \"coroa\".",
+      "Faça uns furinhos com o garfo pra não estufar o meio.",
+      "Coloque papel manteiga com feijões e coloque sobre a massa para assar em forno preaquecido em 180º por uns 8 a 10 minutos."
+    ],
+    "MANJAR": [
+      "Dissolva o amido com o leite desnatado.",
+      "Coloque todos os ingredientes numa panela e leve ao fogo, mexendo sempre até engrossar e formar um creme.",
+      "Despeje o manjar sobre a massa assada, e leve à geladeira durante 2 horas, no mínimo.",
+      "Desenforme, decore com as ameixas e a calda e sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GLEDIR BERNARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301988-torta-de-manjar-diet.html"
+}

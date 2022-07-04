@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CAFÉ GELADO NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de (sopa) de sorvete de creme",
+      "1 xícara de café",
+      "2 colheres a gosto de chocolate em pó",
+      "500 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador e bata por 1 minuto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISABELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301025-cafe-gelado-no-liquidificador.html"
+}

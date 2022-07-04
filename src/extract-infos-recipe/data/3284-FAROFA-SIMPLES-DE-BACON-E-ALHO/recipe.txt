@@ -1,0 +1,22 @@
+{
+  "nome_receita": "FAROFA SIMPLES DE BACON E ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de farinha amarelinha",
+      "400 g de bacon",
+      "4 dentes de alho",
+      "1 cebola roxa",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e acrescente o alho e a cebola roxa até dourar",
+      "Em seguida acrescente a farinha e mexa até ficar crocante"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IVONETE MARIA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303610-farofa-simples-de-bacon-e-alho.html"
+}

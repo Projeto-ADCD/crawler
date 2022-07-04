@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DANONINHO CASEIRO (DIVERSOS SABORES)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 copo de iogurte natural (170 g ou 200 g)",
+      "1 embalagem de suco em pó (sabor de sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata juntos todos os ingredientes no liquidificador até ter uma boa consistência",
+      "Despeje em um recipiente de sua preferência ",
+      "Leve para gelar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VICTOR MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305883-danoninho-caseiro-diversos-sabores.html"
+}

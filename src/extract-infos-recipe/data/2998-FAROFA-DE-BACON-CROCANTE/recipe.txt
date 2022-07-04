@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DE BACON CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farofa pronta de milho ",
+      "1/2 xícara de bacon picadinho",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de açúcar",
+      "1 cebola média",
+      "1/2 xícara de castanha do pará triturada",
+      "salsinha a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e reserve",
+      "Numa frigideira adicione uma colher de manteiga e o açúcar adicione a cebola picada em rodelas finas",
+      "Vá mexendo em fogo baixo até as cebolas ficarem caramelizadas e crocantes e reserve",
+      "Em uma panela em fogo baixo adicione o bacon, a farofa, as castanhas trituradas, a cebola e a manteiga e mexa por 3 minutos",
+      "Desligue o fogo e adicione o sal e a salsinha a gosto",
+      "Bom apetite",
+      "Bem acompanhado com costelinha suína na cerveja "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GRAZIELLE GUIMARÃES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304014-farofa-de-bacon-crocante.html"
+}

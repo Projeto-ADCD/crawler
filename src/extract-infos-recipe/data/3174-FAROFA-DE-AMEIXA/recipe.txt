@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE AMEIXA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "1 maçã",
+      "15 ameixas sem caroços",
+      "15 azeitonas verde sem caroços",
+      "1 ovo",
+      "1 pacote de farofa tradicional pronta Yoki (500 g) "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a banana, a maçã, a azeitona e a ameixa em pedaços pequenos.",
+      "Frite o ovo e misture com todos os ingredientes",
+      "Coloque a farofa tradicional Yoki aos poucos, sem deixar que fique muito seco.",
+      "Apesar da grande quantidade de produtos doces, a azeitona equilibra o sabor."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Luiz Carlos Silva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303781-farofa-de-ameixa.html"
+}

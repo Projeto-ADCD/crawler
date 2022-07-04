@@ -1,0 +1,48 @@
+{
+  "nome_receita": "RABANADA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pães de sal (francês)",
+      "250 ml de leite ",
+      "1 caixa leite condensado ",
+      "5 g de gengibre (1 raspa)",
+      "2 colher (chá) de canela em pó",
+      "2 colher (sopa) de baunilha essência",
+      "1 colher (chá) de cravo em pó ",
+      "1 colher (chá) rasa de noz moscada ",
+      "3 ovos inteiros",
+      "óleo para fritar",
+      "Recheio:",
+      "1 pote de doce de leite ou geleia (o que preferir)",
+      "Cobertura:",
+      "1/2 xícara de açúcar refinado",
+      "1 colher (sopa) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite e o leite condensado",
+      "Adicione o gengibre, a noz moscada, a canela, a baunilha e o cravo",
+      "Misture tudo e leve ao fogo até levantar fervura.",
+      "Após ferver, coloque em um recipiente e cubra com papel-filme, sem deixar que o plástico encoste no leite ao finalizar",
+      "Reserve na geladeira até o próximo dia.",
+      "Já no próximo dia, bata os ovos em uma batedeira até que os ovos dobrem de tamanho.",
+      "Corte os pães em fatias de aproximadamente 1 cm (1 dedo).",
+      "Com o açúcar, misture em um recipiente junto com a canela e reserve.",
+      "Passe os pães já cortados de leve no leite aromatizado e em seguida nos ovos batidos (não encharque o pão no leite) e os reserve em uma travessa.",
+      "Com o óleo já quente, coloque as fatias para fritar (no máximo duas por vez para não abaixar a temperatura do seu óleo)",
+      "Alguns segundos de cada lado é o suficiente para fritar cada fatia",
+      "Escorra o excesso de óleo em papel-toalha.",
+      "Com o doce de leite ou geleia, faça sanduíches de rabanadas e as polvilhe no açúcar e canela.",
+      "Sirva em seguida.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "As fatias de pão podem ser cortadas mais grossas com 2 cm para os que gostam de trabalhar com bico de confeitar, basta apenas após fritar fazer um pequeno corte em sua lateral e preencher com o recheio e em seguida passar no açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MADSON LEANDRO NASC SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300679-rabanada-recheada.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MOLHO DE SALADA DA MARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de ketchup",
+      "1 colher (sopa) de mostarda",
+      "1 colher (chá) de mel",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes",
+      "Misture e está pronto",
+      "Coloque na sua salada"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIANA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301644-molho-de-salada-da-mariana.html"
+}

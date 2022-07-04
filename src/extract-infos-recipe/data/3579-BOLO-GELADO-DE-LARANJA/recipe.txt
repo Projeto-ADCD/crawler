@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO GELADO DE LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "6 ovos",
+      "3 xícaras (chá) de farinha de trigo",
+      "3 xícaras (chá) de açúcar",
+      "2 colheres (sopa) de fermento",
+      "1 copo de suco de laranja",
+      "Cobertura:",
+      "2 copos de leite",
+      "1 vidro de leite de coco",
+      "4 colheres (sopa) de açúcar",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Bata 4 claras em neve.",
+      "Junte as gemas, bata bem.",
+      "Junte o açúcar e continue batendo.",
+      "Junte os demais ingredientes.",
+      "Leve ao forno em forma untada e enfarinhada.",
+      "Cobertura:",
+      "Junte o leite e o leite de coco.",
+      "Fure o bolo com um garfo, ainda quente, e despeje o leite e o leite de coco misturados.",
+      "Bata as claras em neve, junte o açúcar e coloque em cima do bolo.",
+      "Polvilhe o coco ralado e leve para gelar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303108-bolo-gelado-de-laranja.html"
+}

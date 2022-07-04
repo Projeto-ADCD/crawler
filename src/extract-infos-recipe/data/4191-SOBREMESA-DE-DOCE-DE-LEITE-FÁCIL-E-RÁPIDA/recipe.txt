@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SOBREMESA DE DOCE DE LEITE FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de doce de leite",
+      "1 caixinha de creme de leite",
+      "biscoito de maisena",
+      "Paçoca (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o doce de leite com o creme de leite até ficar homogêneo.",
+      "Quebre os biscoitos (com a mão mesmo) em pedacinhos e misture com o creme.",
+      "Para finalizar, acrescente paçoca para enfeitar ou amendoim moído."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LISIANE FROZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301623-sobremesa-de-doce-de-leite-facil-e-rapida.html"
+}

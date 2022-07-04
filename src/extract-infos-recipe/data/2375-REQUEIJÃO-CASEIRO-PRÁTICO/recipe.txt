@@ -1,0 +1,30 @@
+{
+  "nome_receita": "REQUEIJÃO CASEIRO PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral (pode ser de caixinha, mas tem que ser integral)",
+      "5 colheres de vinagre de álcool",
+      "2 colheres bem cheias de margarina (manteiga fica mais gostoso)",
+      "sal a gosto",
+      "1 colher de queijo (opcional, não é obrigatório)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente 900 ml de leite até ferver",
+      "Desligue o fogo e coloque o vinagre",
+      "Mexa com uma colher até começar a talhar e tampe.",
+      "Deixe descansar por 3 minutos",
+      "Coe o soro numa peneira.",
+      "Escorra até parar de sair o soro da pasta",
+      "Coloque essa massa no liquidificador, acrescente os outros ingredientes e bata por 2 minutos.",
+      "Coloque num pote com tampa e deixe na geladeira.",
+      "É melhor deixar gelar para começar a comer.",
+      "Obs: cuidado com o sal se sua margarina for com sal."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305361-requeijao-caseiro-pratico.html"
+}

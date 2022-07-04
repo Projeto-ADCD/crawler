@@ -1,0 +1,61 @@
+{
+  "nome_receita": "TERRINA DE LENTILHA À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Terrina",
+      "1 e 1/2 xícara (chá) de lentilha",
+      "5 colheres (sopa) de azeite",
+      "1 folha de louro",
+      "1 cebola grande picada",
+      "2 dentes de alho picados",
+      "2 talos de aipo picados",
+      "1 pimentão vermelho ou amarelo sem pele picado",
+      "2 cenouras médias picadas",
+      "1 cubo de caldo de carne",
+      "50 g de manteiga ou margarina",
+      "1/2 xícara (chá) de farinha de trigo",
+      "3 ovos",
+      "1/2 xícara (chá) de cebolinha verde bem picada",
+      "1/2 xícara (chá) de nozes pecan picadas",
+      "100 g de bacon fatiado",
+      "1/2 colher (sopa) de molho inglês",
+      "sal, pimenta-do-reino e molho de pimenta a gosto",
+      "Molho",
+      "3 tomates médios maduros",
+      "1 colher (sopa) de manjericão fresco picado",
+      "1 colher (sopa) de vinagre balsâmico",
+      "2 colheres (sopa) de azeite",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo da terrina",
+      "Ponha a lentilha de molho em uma tigela com 2 xícaras (chá) de água fria, por uns 30 minutos.",
+      "Numa panela grande, aqueça o azeite, junte a folha de louro, o alho picado e a cebola picada e refogue por uns 5 minutos.",
+      "Acrescente ao refogado da cebola, o pimentão, o aipo e a cenoura picada e deixe cozinhar em fogo médio por uns 10 minutos.",
+      "Acrescente a mistura a lentilha com a água que estava de molho, o cubo de caldo de carne, mais 2 xícaras (chá) de água quente e deixe ferver por uns 40 minutos, reserve.",
+      "Em uma panela pequena, derreta a manteiga ou margarina e junte a farinha de trigo até formar uma pasta.",
+      "Junte aos pouco, a esta pasta, a lentilha cozida.",
+      "Misture tudo muito bem.",
+      "Deixe esfriar um pouco a mistura.",
+      "Bata os 3 ovos ligeiramente batidos e misture com a lentilha.",
+      "Acrescente as nozes picadas.",
+      "Revise o sal e tempere com pimenta-do-reino, molho inglês e molho de pimenta a gosto.",
+      "Unte uma forma de bolo inglês e forre com papel-manteiga untado também.",
+      "Forre o fundo da forma com as fatias de bacon.",
+      "Cubra com a metade da massa.",
+      "Faça uma camada com as demais fatias de bacon e complete com o restante da massa de lentilha.",
+      "Leve ao forno preaquecido, em banho-maria, por uns 50 minutos.",
+      "Preparo do molho",
+      "Tire a pele e as sementes dos tomates e corte-os em cubinhos.",
+      "Junte o manjericão picado, o vinagre balsâmico, o azeite, o sal e a pimenta.",
+      "Misture tudo muito bem.",
+      "Sirva a terrina fria com o molho."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304166-terrina-de-lentilha-a-minha-moda.html"
+}

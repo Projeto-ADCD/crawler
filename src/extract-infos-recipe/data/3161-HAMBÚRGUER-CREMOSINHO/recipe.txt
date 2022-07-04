@@ -1,0 +1,35 @@
+{
+  "nome_receita": "HAMBÚRGUER CREMOSINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de queijo mussarela Président",
+      "50 g de parmesão Président",
+      "50 g de provolone Président",
+      "750 g de carne moída",
+      "200 g de bacon em fatias",
+      "5 folhas de alface",
+      "1 tomate em rodelas",
+      "1 cebola roxa em rodelas",
+      "5 pães de hambúrguer",
+      "1 caixa de creme de leite",
+      "sal e pimenta-do-reino a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modele a carne em formato de hambúrguer",
+      "Em uma panela, adicione a mussarela, o parmesão, o provolone e o creme de leite",
+      "Leve ao fogo e mexa até que forme um creme",
+      "Em uma frigideira, frite o bacon",
+      "Logo em seguida, coloque o hambúrguer e salpique sal e pimenta a gosto na carne",
+      "Monte o lanche: coloque o pão, o alface, o tomate, a cebola, o hambúrguer, o creme de queijo, bacon e feche com a outra metade do pão"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Larissa Oliveira "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303795-hamburguer-cremosinho.html"
+}

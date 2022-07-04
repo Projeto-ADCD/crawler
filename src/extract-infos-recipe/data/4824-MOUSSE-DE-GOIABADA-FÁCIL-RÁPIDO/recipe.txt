@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE GOIABADA FÁCIL/RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 colheres de água",
+      "1 caixa de leite condensado",
+      "2 caixinhas de creme de leite",
+      "1 goiabada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque o cremes de leite , o leite condensado, a goiabada e a água",
+      "Bata durante 3 minutos ",
+      "Despeje o mousse em um recipiente ",
+      "Leve o mousse ao congelador durante 1 hora",
+      "Quando já estiver durinho, coloque o mousse na parte de baixo da geladeira para não correr o risco de empedrar ",
+      "E está pronto o seu mousse, bom apetite! "
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROSEANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300151-mousse-de-goiabada-facil-barra-rapido.html"
+}

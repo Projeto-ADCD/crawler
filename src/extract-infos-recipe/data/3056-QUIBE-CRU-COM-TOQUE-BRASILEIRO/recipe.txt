@@ -1,0 +1,33 @@
+{
+  "nome_receita": "QUIBE CRU COM TOQUE BRASILEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de patinho moído duas vezes",
+      "400 g de trigo de quibe",
+      "1 cebola grande picadinha",
+      "1 maço de hortelã picadinho",
+      "3 colheres (sopa) de zhatar ",
+      "1 xícara (chá) de farofa Yoki com cebola ",
+      "1 xícara (chá) de azeite de oliva",
+      "3 colheres (sopa) de pimenta síria",
+      "800 ml de água filtrada morna",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o trigo até que a água fique bem clarinha.",
+      "Em seguida, deixe ele de molho na água filtrada por no mínimo duas horas em água morna.",
+      "Escorra bem o trigo e junte a ele os demais ingredientes, deixando o sal por último.",
+      "Misture tudo até que fique homogêneo, acerte o sal.",
+      "Faça quibes grandes, sirva com azeite, limão e pão sírio. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Karine Mori Matucita"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303940-quibe-cru-com-toque-brasileiro.html"
+}

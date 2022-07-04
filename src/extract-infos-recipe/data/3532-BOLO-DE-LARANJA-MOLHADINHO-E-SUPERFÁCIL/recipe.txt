@@ -1,0 +1,48 @@
+{
+  "nome_receita": "BOLO DE LARANJA MOLHADINHO E SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos médios em temperatura ambiente",
+      "2,3 g de sal (2,5 ml)",
+      "240 ml de suco de laranja (3 laranjas grandes)",
+      "220 g de açúcar demerara",
+      "2 xícaras (chá) de farinha de trigo branca (252 g)",
+      "1 colher (sopa) de fermento em pó para bolo (12 g)",
+      "raspas da casca de 2 laranjas",
+      "1/2 xícara (chá) de óleo vegetal (120 ml)",
+      "Cobertura",
+      "suco de 2 laranjas",
+      "75 g de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos por 20 segundos",
+      "Acrescente o sal sem desligar o liquidificador e continue batendo",
+      "Acrescente o suco de laranja sem desligar o liquidificador e continue batendo",
+      "Acrescente o açúcar sem desligar o liquidificador e deixe bater por mais 2 minutos.",
+      "Despeje o conteúdo batido em uma tigela grande (4 litros)",
+      "Em outra tigela, misture as duas farinhas com o fermento em pó, usando uma colher",
+      "Acrescente os ingredientes secos à tigela com os ingredientes líquidos, aos poucos, misturando sempre a cada adição para incorporar totalmente (use um fouet)",
+      "Acrescente as raspas de 2 laranjas e misture bem",
+      "Acrescente o óleo e misture bem",
+      "Verta a massa em uma forma redonda 22 cm com fundo forrado com papel-manteiga e laterais untadas.",
+      "Leve para assar por 35 minutos a 180° C; 5 minutos a 160° C e 5 minutos com forno desligado.",
+      "45 minutos dentro do forno sem abrir.",
+      "Use a grade de baixo do forno.",
+      "Retire do forno e corte o bolo em pedaços quadrados, sem retirar da forma.",
+      "Fure o bolo com um palito ou com garfo para a cobertura penetrar.",
+      "Cobertura",
+      "Em uma panela, coloque o suco de 2 laranjas e 75 g de açúcar",
+      "Leve ao fogo médio.",
+      "Deixe ferver por aproximadamente 3 a 5 minutos enquanto e misture um pouco para ajudar o açúcar a derreter",
+      "Retire do fogo e derrame sobre o bolo ainda quente.",
+      "Deixe o bolo esfriar para servir.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "DUARTE LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303188-bolo-de-laranja-molhadinho-e-superfacil.html"
+}

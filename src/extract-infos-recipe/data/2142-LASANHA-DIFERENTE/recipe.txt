@@ -1,0 +1,38 @@
+{
+  "nome_receita": "LASANHA DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "2 cebolas",
+      "4 batatas",
+      "3 tomates",
+      "1 cenoura",
+      "2 dentes de alho",
+      "sal a gosto",
+      "óleo",
+      "pimenta-do-reino",
+      "1 sachê de tempero de carne",
+      "1 sachê de tempero de legumes",
+      "azeite",
+      "azeitonas preta",
+      "azeitonas verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a carne moída com oleo, 1 cebola picada, alho, sal a gosto, o sachê de carne, pimenta-do-reino, cheiro-verde opcional.",
+      "Separe. Corte os legumes em fatias de 2 a 3 mm",
+      "Comece a montar um uma wok ou frigideira funda com tampa, comece pelas cebolas fatiadas e o tomate, cenoura o pimentão é opcional",
+      "Cubra com uma camada de carne moída, repita a operacão até que termine todos engredientes ",
+      "Finalize com cheiro-verde e azeitonas preta e verde espalge o sachê de legumes por cima e finalize com azeite",
+      "Tampe e leve em fogo baixo e, se necessário, coloque um pouco de água para cozinhar os legumes"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "obs: podendo variar a cenoura, com xuxu, abobrinha ou outro legume a seu gosto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ARY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305907-lasanha-diferente.html"
+}

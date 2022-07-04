@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ MÃE E FILHA",
+  "ingredientes": {
+    "MASSA:": [
+      "400g de bolacha de maisena",
+      "250g de margarina"
+    ],
+    "RECHEIO:": [
+      "5 maçãs grandes",
+      "2 caixas de leite condensado de 395g"
+    ],
+    "COBERTURA:": [
+      "1 caixa de 200g chantilly",
+      "1/4 de maçã fatiada para decorar"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Triture as bolachas, reserve em uma cuba plástica e adicione 250g de margarina derretida.",
+      "Transfira para forma de fundo falso e pré-asse a massa em forno a 250º por 10 minutos."
+    ],
+    "RECHEIO:": [
+      "Corte as maçãs em cubinhos ou fatias finas (a critério) e reserve.",
+      "Junte as duas caixas de leite condensado e leve ao fogo até levantar fervura.",
+      "Adicione as maçãs e mexa por 40 minutos.",
+      "Adicione o recheio na massa e asse no forno a 180º por 15 minutos.",
+      "Espere esfriar e leve à geladeira, quando gelar adicione chantilly e decore com as maçãs."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LETICIA CONDURÚ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299860-torta-de-maca-mae-e-filha.html"
+}

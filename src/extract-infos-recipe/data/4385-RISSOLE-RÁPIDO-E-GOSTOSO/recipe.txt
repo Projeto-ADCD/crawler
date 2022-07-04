@@ -1,0 +1,32 @@
+{
+  "nome_receita": "RISSOLE RÁPIDO E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo peneirada",
+      "2 colheres (sopa) cheia de margarina",
+      "1 pitada de sal",
+      "2 xícaras de leite ou água para a massa",
+      "2 xícaras de água para umedecer a massa",
+      "farinha de rosca (para empanar)",
+      "óleo (para fritar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos (menos a farinha de rosca e o óleo) os ingredientes em uma panela larga (a massa fica encorpada, não muito mole e nem dura demais).",
+      "Leve ao fogo médio e misture até a massa cozinhar ou desprender do fundo da panela cozida.",
+      "Adicione a massa pronta na mesa limpa e cubra por cima com papel-filme para não endurecer a massa e formar casca, quando estiver resfriando, sove a massa até sentir que está macia (aproximadamente 5 minutos sovando).",
+      "Pegue uma bolinha da massa no tamanho de uma ameixa, abra a massa com um rolo e corte com um fundo de copo de acordo com o tamanho desejado e recheie a seu gosto.",
+      "O tamanho do fundo do copo que usei foi de 4 cm diâmetro.",
+      "Passe na água ou leite, em seguida, na farinha de rosca e frite em óleo quente e escorra.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas:\nEssa massa serve também para fazer coxinha, pastelzinho, bolinho de queijo.\nO recheio de frango ou de carne tem que estar bem sequinho, senão espirra o óleo.\nSe for fazer bolinhos de queijo, aperte bem o queijo na massa para não estourar no óleo quente.\nPara o bolinho de queijo, dê preferência para o queijo minas; se desejar, polvilhe cebolinha no queijo ou orégano.\nSe desejar no lugar do sal, pode colocar o caldo do sabor do recheio, mas cuidado para não ficar salgado e com sabor muito forte."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "VERINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301257-rissole-rapido-e-gostoso.html"
+}

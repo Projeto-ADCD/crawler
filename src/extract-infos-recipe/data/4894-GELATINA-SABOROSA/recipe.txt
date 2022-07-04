@@ -1,0 +1,20 @@
+{
+  "nome_receita": "GELATINA SABOROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Duas caixas de gelatina",
+      "Dois copos de gua ferveida",
+      "Dois copos de guaraná gelado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Disolva a gelatina na água fervida e acrescente o guaraná gelado.",
+      "Leve à geladeira para firmar."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NARA DINIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300003-gelatina-saborosa.html"
+}

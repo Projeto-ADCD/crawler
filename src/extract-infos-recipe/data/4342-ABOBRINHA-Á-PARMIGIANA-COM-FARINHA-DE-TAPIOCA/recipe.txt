@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ABOBRINHA Á PARMIGIANA COM FARINHA DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) de massa de tapioca",
+      "1/2 abobrinha",
+      "1 xícara de queijo mussarela ralado",
+      "6 fatias de queijo coalho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro bata o ovo com a farinha de tapioca e reserve",
+      "Corte a abobrinha em rodelas e mergulhe-as na mistura",
+      "Com a frigideira bastante quente, asse a abobrinha e depois coloque-as em um pote de vidro",
+      "Coloque o queijo mussarela por cima da abobrinha e em seguida o queijo coalho",
+      "Preaqueça o forno e em seguida ponha o pote por 5 minutos ou mais até os queijos derreterem",
+      "Caso queira colocar no micro-ondas, asse o queijo coalho e depois coloque por cima",
+      "Coloque no micro-ondas por 1 minuto"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA LUÍZA MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301332-abobrinha-a-parmigiana-com-farinha-de-tapioca.html"
+}

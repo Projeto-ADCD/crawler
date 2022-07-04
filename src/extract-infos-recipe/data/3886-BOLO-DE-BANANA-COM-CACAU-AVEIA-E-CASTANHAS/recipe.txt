@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CACAU, AVEIA E CASTANHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para massa",
+      "6 bananas tipo nanica bem maduras e amassadas em purê",
+      "4 ovos",
+      "1 xícara de chá de farinha de trigo",
+      "1 xícara de chá de aveia em flocos finos",
+      "2 colheres (sopa) bem cheias de cacau em pó",
+      "4 colheres (sopa) de açúcar",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite desnatado ",
+      "1 colher (sobremesa) canela em pó a gosto",
+      "1 e 1/2 colher (sopa) de fermento em pó",
+      "Para a cobertura",
+      "1 lata de leite condensado sem lactose",
+      "2 colheres (sopa) bem cheias de cacau em pó",
+      "1 colher (sopa) de manteiga",
+      "Mix de castanhas moídas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, coloque a banana amassada e bata com os ovos",
+      "Depois de homogêneo, coloque a canela e o açúcar, continue sempre batendo",
+      "Adicione aos poucos o óleo, o leite, o cacau, a aveia, a farinha, e o fermento, nessa ordem, sempre batendo até ficar homogêneo antes de adicionar o próximo ingrediente.",
+      "Coloque a massa em uma forma previamente untada e enfarinhada, de 30 cm, redonda, leve ao forno preaquecido em 180 a 200° C, por aproximadamente 40 minutos, ou até que espere um garfo e saia seco.",
+      "Retire do forno, espere amornar, desenforme, cubra com o brigadeiro e com o mix de castanhas.",
+      "Para cobertura",
+      "Coloque os ingredientes em uma panela e leve ao fogo médio, sempre mexendo",
+      "O ponto é de brigadeiro mole, quando a mistura começa a soltar das laterais e do fundo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SAMIRA ABREU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302433-bolo-de-banana-com-cacau-aveia-e-castanhas.html"
+}

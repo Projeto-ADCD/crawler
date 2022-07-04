@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de óleo com um dedo a menos",
+      "1 xícara de leite (ou quanto for necessário)",
+      "1 xícara de farinha de trigo",
+      "2 xícaras de polvilho doce ou azedo",
+      "1 colher (sobremesa) de sal",
+      "1 xícara bem cheia de queijo ralado",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os 6 primeiros itens no liquidificador até ver que misturou bem. Não bata muito, se você bater muito vai ficar borrachudo. A textura da massa é densa, espessa.",
+      "Depois que terminar de bater, coloque dentro do liquidificador o queijo ralado e o fermento químico.",
+      "Misture tudo com uma colher.",
+      "Unte a forma com margarina e farinha. Não unte com óleo porque queima a massa.",
+      "Coloque a massa na assadeira e polvilhe orégano por cima.",
+      "Leve para assar no forno a 200°C por 40 a 50 minutos ou até a faca sair limpinha."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA PAULA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301193-bolo-de-queijo.html"
+}

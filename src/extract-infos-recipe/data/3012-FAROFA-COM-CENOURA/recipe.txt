@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA COM CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farofa de milho ",
+      "4 ovos cozidos",
+      "2 cenouras médias raladas",
+      "2 colheres de banha de porco",
+      "1/2 cebola picada",
+      "cheiro-verde a gosto",
+      "200 g de bacon em pedacinhos frito"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e reserve a parte",
+      "Coloque na frigideira a banha e a cebola picada, frite até dourar",
+      "Em seguida coloque a cenoura ralada e refogue um pouco",
+      "Acrescente a farofa de milho, o cheiro-verde e os ovos cozidos picados.",
+      "Decore a farofa com ovos cozidos e cheiro-verde.",
+      "Está pronto pra servir"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303997-farofa-com-cenoura.html"
+}

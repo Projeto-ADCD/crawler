@@ -1,0 +1,33 @@
+{
+  "nome_receita": "LANCHE DE PRESUNTO E QUEIJO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de pão de forma",
+      "250 g presunto",
+      "300 g de mussarela",
+      "500 g de maionese",
+      "1 copo de requeijão",
+      "1 tomate",
+      "orégano",
+      "extrato de tomate",
+      "leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire as cascas do pão de forma e reserve",
+      "Em um liquidificador bata a maionese e o requeijão e reserve assim que ficar homogêneo",
+      "Com um ralador, separe 100 g de mussarela para a cobertura",
+      "Unte o refratário (de preferência quadrado para ficar uniforme) com o extrato de tomate",
+      "Molhe o pão com leite e adicione o creme por cima",
+      "Faça uma camada com mussarela e presunto",
+      "Siga alternando as camadas até acabar",
+      "Quando acabar as camadas, coloque presunto a mussarela ralada na cobertura e decore com o tomate",
+      "Leve ao forno por 25 minutos e sirva"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "YAN HOOU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303528-lanche-de-presunto-e-queijo-facil.html"
+}

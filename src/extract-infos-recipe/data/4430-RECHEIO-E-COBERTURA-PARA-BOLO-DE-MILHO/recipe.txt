@@ -1,0 +1,22 @@
+{
+  "nome_receita": "RECHEIO E COBERTURA PARA BOLO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bolo de milho pronto",
+      "1 pote de curau",
+      "1 pote pequeno de sorvete de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bolo ao meio na horizontal.",
+      "Espalhe bem o curau e feche o bolo.",
+      "Derrreta metade do sorvete e espalhe por todo o bolo usando um garfo para penetrar o caldo dentro do bolo.",
+      "Por fim, passe o restante do sorvete ainda cremoso por cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MAURICIO MAURO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301142-recheio-e-cobertura-para-bolo-de-milho.html"
+}

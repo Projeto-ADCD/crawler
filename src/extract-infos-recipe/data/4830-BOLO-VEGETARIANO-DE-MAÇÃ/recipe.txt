@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO VEGETARIANO DE MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos separados",
+      "300 ml de leite vegetal (feito com 200 ml de água e 10 castanhas/amêndoas aproximadamente)",
+      "todo o resíduo das castanhas/amêndoas",
+      "1 colher (sopa) de óleo",
+      "1 xícara de açúcar mascavo",
+      "4 maçãs com casca pequenas picadas",
+      "1 colher (chá) de essência de baunilha",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de aveia em flocos",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e reserve.",
+      "Em outro recipiente, bata todos os demais ingredientes (exceto o fermento), juntando na ordem da lista de ingredientes, agregando aos poucos.",
+      "Junte as claras em neve delicadamente e por fim o fermento.",
+      "Unte uma forma com manteiga, farinha e aveia",
+      "Coloque a massa e polvilhe um pouco de açúcar e canela (opcional).",
+      "Asse em forno médio de 30 a 40 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: O leite de castanhas/amêndoas é preparado deixando as sementes de molho por 8 horas. Escorra e bata no liquidificador com água limpa e coe, separando o resíduo e o leite. Pode ser armazenado por 5 dias em geladeira."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANGELICA SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300141-bolo-vegetariano-de-maca.html"
+}

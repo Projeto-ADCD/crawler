@@ -1,0 +1,44 @@
+{
+  "nome_receita": "PURÊ BURGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1 fio de azeite",
+      "1/2 colher (chá) de alecrim fresco picado",
+      "1/2 colher (chá) de orégano",
+      "1/4 de colher (chá) de pimenta calabresa",
+      "pimenta-do-reino e sal a gosto",
+      "1/2 xícara de bacon picado",
+      "2 cebolas roxas picadas",
+      "1 colher (sopa) de molho inglês",
+      "1 kg de batata cozida e amassada ",
+      "100 ml de leite",
+      "2 colheres (sopa) de manteiga amolecida",
+      "mussarela a gosto",
+      "2 ovos batidos com sal",
+      "1 xícara de farinha de rosca "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne moída com azeite, alecrim, orégano, calabresa, sal e pimenta.",
+      "Misture bem e modele os hambúrgueres.",
+      "Prense bem a carne",
+      "Aqueça a frigideira com um pouco de óleo e frite os hambúrgueres dos dois lados, reserve.",
+      "Na mesma frigideira, coloque o molho inglês e com auxílio de uma espátula, desgrude tudo que ficou na frigideira.",
+      "Coloque a cebola e deixe até amolecer, reserve.",
+      "Frite o bacon, retire e deixe descansando no papel-toalha para retirar o excesso de gordura.",
+      "Em uma tigela, misture a batata com o leite, a manteiga, a pimenta-do-reino e o sal.",
+      "Misture bem.",
+      "Unte a mão com azeite.",
+      "Abra um pouco do purê de batata na mão e coloque o hambúrguer, um pouco do bacon frito, cebola e mussarela a gosto.",
+      "Feche com mais um pouco do purê.",
+      "Passe no ovo levemente batido com sal e logo em seguida passe na farinha de rosca.",
+      "Frite em óleo quente e pronto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304430-pure-burguer.html"
+}

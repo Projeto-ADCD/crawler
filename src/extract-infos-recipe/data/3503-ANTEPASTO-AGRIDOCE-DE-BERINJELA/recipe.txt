@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ANTEPASTO AGRIDOCE DE BERINJELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas grandes",
+      "1 pimentão vermelho médio",
+      "1 pimentão verde médio",
+      "1 pimentão amarelo médio",
+      "1 cabeça de alho média",
+      "1 cebola grande",
+      "1 e 1/2 copo de azeite de oliva extra virgem",
+      "200 g de uvas passa",
+      "200 g de azeitona sem caroço ",
+      "1 colher (sobremesa) rasa de sal",
+      "4 colheres (sopa) de vinagre"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a berinjela em quadradinhos médios e reserve num recipiente com água (até cobrir) e vinagre",
+      "Pique ou rale a cebola e depois refogue no azeite até dourar",
+      "Em seguida, acrescente o alho picado (ou batido no pilão) e espere dourar um pouco",
+      "Acrescente os pimentões picados em pedaços pequenos e refogue até que os ingredientes estejam cozidos (molinhos)",
+      "Acrescente a azeitona e refogue um pouco com os demais ingredientes (3 minutos aproximadamente)",
+      "Acrescente a berinjela (escorrida), o sal e tampe a panela",
+      "Vá acompanhando o processo de cozimento até que a berinjela esteja plenamente cozida e sem água (você deve perceber que os ingredientes estão banhados apenas no azeite)",
+      "Caso vá grudando no fundo da panela, acrescente um pouco de água para soltar do fundo",
+      "Ao final, acrescente as uvas passas, tampe a panela e deixe esfriar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PRISCILA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303237-antepasto-agridoce-de-berinjela.html"
+}

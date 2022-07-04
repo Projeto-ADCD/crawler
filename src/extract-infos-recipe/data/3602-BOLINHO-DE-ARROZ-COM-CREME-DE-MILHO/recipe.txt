@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cozido",
+      "1 lata de milho sem a água",
+      "1 ovo",
+      "8 colheres de leite",
+      "4 colheres de farinha de trigo",
+      "1 colher (sopa) de amido de milho",
+      "1/2 cenoura ralada",
+      "coentro a gosto",
+      "cebolinha a gosto",
+      "sal",
+      "pimenta",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata a lata de milho, o leite, o ovo, o amido de milho e o sal até virar um creme e reserve.",
+      "Em um refratário misture o arroz, a cenoura ralada, o coentro e a cebolinha",
+      "Adicione a creme de milho, mexa bem e vá colocando a farinha aos poucos até ficar uma massa homogênea",
+      "Aqueça o óleo e com a ajuda de uma colher coloque os bolinhos para fritar.",
+      "Sirva com molho de pimenta ou mostarda!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303064-bolinho-de-arroz-com-creme-de-milho.html"
+}

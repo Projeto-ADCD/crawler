@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PANQUECA DE ATUM COM CENOURA RALADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de atum sem óleo",
+      "2 cenouras raladas (podem ser duas cenouras grandes)",
+      "2 ovos",
+      "4 colheres de farinhas",
+      "1/2 cebola",
+      "40 g de queijo ralado",
+      "4 tomates cerejas ou meio tomate normal",
+      "azeitonas a gosto",
+      "sal a gosto (podem colocar temperos naturais a gosto também)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um pote misture a cenoura ralada e o atum e reserve",
+      "Bata no liquidificador a farinha, ovos, cebola, sal, leite, tomate e o queijo.",
+      "Misture o conteúdo do liqüidificador com a cenoura e o atum.",
+      "Em uma frigideira antiaderente coloque duas colheres e faça elas como panquecas (caso não tenha frigideira antiaderente coloque uma gota de óleo)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303635-panqueca-de-atum-com-cenoura-ralada.html"
+}

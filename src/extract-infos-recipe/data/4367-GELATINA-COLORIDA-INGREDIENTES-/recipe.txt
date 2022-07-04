@@ -1,0 +1,26 @@
+{
+  "nome_receita": "GELATINA COLORIDA (5 INGREDIENTES)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "200 ml de leite",
+      "12 g de gelatina sem sabor e incolor",
+      "2 sabores de gelatina com sabor (eu usei morango e abacaxi)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare as gelatinas com sabor (250 ml de água quente e 150 ml de água gelada )",
+      "Ambos sabores em recipientes diferentes",
+      "Coloque na geladeira",
+      "Bata no liquidificador o leite condensado, o leite e a gelatina sem sabor já preparada (como explica no pacote)",
+      "Pique a gelatina em pedacinhos e coloque em um recipiente",
+      "Em seguida despeje o conteúdo do liquidificador e deixe gelar",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRENE MASSALAI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301294-gelatina-colorida-5-ingredientes.html"
+}

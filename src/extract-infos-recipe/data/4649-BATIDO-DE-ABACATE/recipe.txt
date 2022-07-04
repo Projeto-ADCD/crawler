@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATIDO DE ABACATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 abacates",
+      "1 colher de açúcar",
+      "3 colheres de leite ninho",
+      "1 xícara de leite."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os abacates em um liquidificador",
+      "Mexa e bata bem",
+      "Veja se a textura está homogênea",
+      "Coloque o açúcar, o leite ninho e o leite",
+      "Bata e mexa muito bem",
+      "Sirva-se",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "9 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALANISMATIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300584-batido-de-abacate.html"
+}

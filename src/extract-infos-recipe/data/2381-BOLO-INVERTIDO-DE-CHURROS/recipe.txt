@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO INVERTIDO DE CHURROS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de leite (temperatura ambiente)",
+      "3/4 de xícara de óleo",
+      "1 colher de canela",
+      "1 colher de fermento em pó",
+      "2 latas de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte bem a forma com margarina (pode colocar bastante)",
+      "Despeje o leite condensado na forma",
+      "Bater no liquidificador óleo, ovos, leite e o açúcar por uns 4 minutos",
+      "Despeje essa mistura em uma bacia e acrescente a farinha aos poucos (importante peneirar antes pra massa ficar fofinha e leve)",
+      "Coloque a canela e o fermento mexendo delicadamente",
+      "Despeje levemente na forma com leite condensado",
+      "Asse em fogo médio por aproximadamente 50/60 minutos (vai depender de cada forno)",
+      "Retire do forno, aguarde por 20 minutos e desinforme"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ASHELEYANE WHITE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305352-bolo-invertido-de-churros.html"
+}

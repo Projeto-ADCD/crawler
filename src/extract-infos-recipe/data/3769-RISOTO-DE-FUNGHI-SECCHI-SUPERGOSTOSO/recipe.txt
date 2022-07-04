@@ -1,0 +1,45 @@
+{
+  "nome_receita": "RISOTO DE FUNGHI SECCHI SUPERGOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 g de funghi secchi (cogumelos secos)",
+      "1 cebola grande",
+      "5 folhas de sálvia",
+      "2 e 1/2 xícaras de arroz arbóreo",
+      "1 xícara (chá) de vinho branco seco",
+      "1 litro de caldo de carne",
+      "2 colheres (sopa) de manteiga sem sal",
+      "2 colheres (sopa) de azeite",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque 1 litro de água para ferver em uma panela funda.",
+      "Acrescente 2 tabletes de caldo de carne (ou faça um caldo de sua preferência)",
+      "Deixe ferver por uns 15 minutos.",
+      "Reserve e mantenha sempre quente.",
+      "Em uma panela pequena, coloque os funghi secchi de molho com 1/2 xícara (chá) do vinho branco seco e 1/2 xícara (chá) de água",
+      "Leve ao fogo até aquecer (não precisa deixar ferver) e reserve.",
+      "Quando esfriar, retire os fungui secchi e corte-os em pedaços pequenos.",
+      "Corte a cebola ao meio e fatie-as em tiras finas.",
+      "Em uma panela de fundo grosso, coloque 1 colher (sopa) de manteiga e 2 colheres (sopa) de azeite.",
+      "Quando esquentar acrescente as cebolas fatiadas e deixe refogar por uns 10 minutos.",
+      "Acrescente os funggi e o arroz.",
+      "Deixe cozinhar por uns 15 minutos, sempre mexendo.",
+      "Acrescente o vinho branco e o líquido que sobrou da hidratação dos funggi.",
+      "Deixe cozinhar, em fogo baixo, por mais alguns minutos até o vinho ser absorvido pelo arroz.",
+      "Acrescente a sálvia picada.",
+      "Aos poucos, vá acrescentando o caldo de carne e deixe o arroz absorver.",
+      "Junte o caldo de concha em concha, sempre mexendo.",
+      "Quando o arroz estiver \"al dente\", apague o fogo e acrescente a outra colher de manteiga e mexa bem.",
+      "Acrescente o queijo parmesão ralado e mexa bem.",
+      "Tampe a panela de deixe o arroz descansar por 5 minutos.",
+      "Sirva em seguida, acompanhado de mais queijo parmesão ralado e de uma boa salada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302733-risoto-de-funghi-secchi-supergostoso.html"
+}

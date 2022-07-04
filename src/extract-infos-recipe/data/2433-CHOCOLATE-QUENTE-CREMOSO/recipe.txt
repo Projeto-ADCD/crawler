@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 ml de leite",
+      "1 colher (sopa) rasa de amido de milho",
+      "3 colheres (sopa) de achocolatado em pó",
+      "1 colher (sopa) de açúcar",
+      "1/4 de xícara de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve todos os ingredientes, exceto o creme de leite, ao fogo",
+      "Mexa até engrossar e começar a borbulhar.",
+      "Transfira para uma xícara e misture o creme de leite.",
+      "Se preferir, pode adicionar canela em pó e/ou chantili"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "STAR FAKE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305229-chocolate-quente-cremoso.html"
+}

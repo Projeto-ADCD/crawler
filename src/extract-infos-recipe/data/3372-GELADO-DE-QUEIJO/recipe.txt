@@ -1,0 +1,21 @@
+{
+  "nome_receita": "GELADO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote pequeno de requeijão cremoso",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador até que fique uma mistura homogênea",
+      "Leve ao freezer e quando congelar, coloque por cima o acompanhamento da sua preferencia",
+      "Sugiro brigadeiro comum ou goiabada derretida no fogo"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KATIUSCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303491-gelado-de-queijo.html"
+}

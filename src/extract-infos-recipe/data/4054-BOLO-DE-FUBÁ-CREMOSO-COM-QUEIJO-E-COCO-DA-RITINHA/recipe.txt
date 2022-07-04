@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE FUBÁ CREMOSO COM QUEIJO E COCO DA RITINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 copo de leite",
+      "1/2 copo (americano) de óleo",
+      "1 copo de queijo",
+      "100 gramas de coco",
+      "1 copo (americano) de açúcar",
+      "1 copo (americano) de fubá",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador e unte a forma e coloque para assar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa a massa fica bem mole"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LÁZARA WELYANE MARTINS GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302018-bolo-de-fuba-cremoso-com-queijo-e-coco-da-ritinha.html"
+}

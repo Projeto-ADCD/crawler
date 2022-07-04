@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CORAÇÃO ENFAROFADO GAÚCHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coração de frango",
+      "15 ml de molho shoyu",
+      "1/2 colher (sopa) de sal fino",
+      "orégano a gosto",
+      "pimenta-do-reino a gosto",
+      "200 g de farofa pronta Yoki temperada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os corações inteiros em uma tijela e misture todos os ingredientes, menos a farofa temperada YOKI",
+      "Deixe os corações no tempero por 30 minutos",
+      "Após, escorra o excesso de molho",
+      "Coloque a farofa em outra tijela",
+      "Coloque os corações já temperados na farofa, empanando-os bem",
+      "Espete os corações enfarofados em espeto para coração ",
+      "Asse os corações na churrasqueira de 15 a 20 minutos, em carvão sem labareda virando para assar dos dois lados ",
+      "Poderá ser servido com pão de alho",
+      "Feito de pão francês temperado com a mistura de 1 sachê de maionese, pitada de sal, orégano, salsa picada e 4 dentes de alho picado para 10 pães.",
+      "Asse os pães também na churrasqueira por alguns minutos até ficar crocante e levemente tostado"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Bruna Aguiar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304132-coracao-enfarofado-gaucho.html"
+}

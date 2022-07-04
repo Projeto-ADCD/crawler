@@ -1,0 +1,38 @@
+{
+  "nome_receita": "POLPETONE RECHEADO À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de patinho moído",
+      "100 g de bacon moído (opcional)",
+      "cebola em cubos a gosto",
+      "Alho amassado a gosto",
+      "1 pacote de creme de cebola",
+      "sal a gosto",
+      "Azeite",
+      "temperos seco a gosto",
+      "1 ovo",
+      "coentro a gosto",
+      "Para empanar",
+      "2 ovos",
+      "Farinha de rosca",
+      "Recheio",
+      "100 g de queijo de sua preferência",
+      "molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture todos os ingredientes da carne",
+      "Misture bem até dar o ponto de liga.",
+      "Faça bolinhas, amasse ao meio com as pontas dos dedos, recheeie com o queijo (usei minas padrão e cheddar), feche as bolinhas e amasse-a.",
+      "Após elas estarem montadas, passe na farinha de rosca, nos ovos batidos, e na farinha de rosca de novo.",
+      "Coloque em óleo quente em fogo médio e doure os dois lados.",
+      "Após a fritura, coloque numa assadeira com molho e cubra com mussarela.",
+      "Levar ao forno para gratinar por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEATRIZ LENSO ROBSON GIOVANNINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305146-polpetone-recheado-a-parmegiana.html"
+}

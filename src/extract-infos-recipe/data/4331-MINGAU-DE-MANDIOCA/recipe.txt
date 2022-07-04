@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MINGAU DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite de coco",
+      "4 colheres de cúpula de mandioca fina (tapioca)",
+      "4 colheres de cúpula de mandioca granulada",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo todos os ingredientes, adicionando a cúpula aos pouucos",
+      "Mexa até formar a textura do mingau e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MARCELLO AUGUSTO FERREIRA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301361-mingau-de-mandioca.html"
+}

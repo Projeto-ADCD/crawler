@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MAIONESE PARA LANCHE LEVEMENTE PICANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de maionese",
+      "1/2 colher (chá) de molho de mostarda",
+      "1/2 colher (chá) de páprica picante",
+      "1/2 colher (chá) de molho inglês",
+      "pimenta-do-reino moida a gosto",
+      "Opcional: um pouquinho de wasabi para dar aquela picância extra"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos ingredientes em um bowl e misture bem.",
+      "Sirva em seguida.",
+      "Coloque na geladeira em um recipiente fechado para conservar."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "IGOR VILELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303151-maionese-para-lanche-levemente-picante.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FAROFA FÁCIL COM CENOURA E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos cozidos picados",
+      "1 cenoura pequena ralada",
+      "4 gomos de linguiça fresca",
+      "500 g de farofa pronta da marca de sua preferência",
+      "150 g de óleo de soja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o óleo em uma panela média.",
+      "Quando o óleo estiver bem quente, coloque as linguiças sem pele e frite-as bem.",
+      "Quando a linguiça estiver bem frita, coloque a farofa pronta de sua preferência, deixando-a bem úmida.",
+      "Misture bem e coloque a cenoura ralada e os ovos picados.",
+      "Pronta pra servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ELAINE CRISTINA PEDROSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303148-farofa-facil-com-cenoura-e-linguica.html"
+}

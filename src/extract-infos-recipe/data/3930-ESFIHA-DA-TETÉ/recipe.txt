@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ESFIHA DA TETÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 mg de farinha de trigo",
+      "1 ovo",
+      "250 ml de água morna",
+      "1 pacotinho de fermento biológico",
+      "30 ml de óleo",
+      "3 colheres de (sopa) de açúcar",
+      "1 colher de (chá) de sal",
+      "recheio a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até desgrudar das mãos (menos os do recheio)",
+      "Deixe descansar por 1 hora",
+      "Em seguida recheie a massa",
+      "Leve ao forno até dourar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SKF OFICIAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302348-esfiha-da-tete.html"
+}

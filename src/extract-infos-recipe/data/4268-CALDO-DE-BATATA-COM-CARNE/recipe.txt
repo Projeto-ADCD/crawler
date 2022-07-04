@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CALDO DE BATATA COM CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "800g de coxão mole bovino (ou outra carne bovina magra)",
+      "300g de bacon",
+      "1 e 1/2 cebola",
+      "3 dentes de alho",
+      "800g de batata",
+      "1 xícara (chá) de queijo ralado",
+      "salsinha a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne bovina na panela de pressão, juntamente com sal e um dente de alho.",
+      "Cubra com água e leve ao fogo alto. quando começar a ferve abaixe o fogo e mantenha cozinhando por 15 minutos.",
+      "Após cozido retire a carne da panela e reserve o caldo que ficou do cozimento.",
+      "Pique ou desfie a carne e reserve.",
+      "Descasque as batatas e corte em pequenos pedaços.",
+      "Coloque em uma panela, cubra com água, salgue e cozinhe até que estejam moles.",
+      "Após cozidas deixe esfriar, mas mantenha junto com a água do cozimento na panela.",
+      "Bata no liquidificador o caldo do cozimento da carne, as batatas e a água do cozimento das batatas.",
+      "Reserve o caldo que se formará.",
+      "Corte o bacon em cubos e pique a cebola e o alho.",
+      "Inicialmente frite o bacon em uma panela grande.",
+      "Após o bacon fritar, coloque a cebola e os dois dentes de alho para fritar junto.",
+      "Se sobrar muita gordura do cozimento será necessário retirar com uma colher.",
+      "Quando todos estiverem fritos acrescente o caldo das batatas.",
+      "Coloque a pimenta.",
+      "Cozinhe em fogo médio, sempre mexendo para não grudar.",
+      "Acrescente mais sal, se necessário.",
+      "Acrescente a salsinha picada e cozinhe por 10 minutos.",
+      "Já no prato, acrescente o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301493-caldo-de-batata-com-carne.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "MOLHO DE PIMENTA DO RUBIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "25 pimentas dedo de moça (com sementes)",
+      "4 folhas de louro frescas",
+      "1 cabeça de alho",
+      "1 cebola grande",
+      "3 colheres de alho frito",
+      "1 colher (sopa) rasa de colorau",
+      "1 pimentão vermelho",
+      "2 colheres (sopa) média de salsa desidradata",
+      "1 colher (sobremesa) rasa de canela em pó",
+      "1 colher (sopa) de pimenta preta em grãos",
+      "1 fio generoso de azeite",
+      "Banha de porco (opcional)",
+      "1/2 molho de tomate em saquinho",
+      "1 colher (café) de goma xanatana",
+      "600 ml de água (mais ou menos, depende de quão grosso está no liquidificador)",
+      "sal",
+      "1 pitada de tempero baiano em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passo 1:",
+      "Pique as cebolas em rodelas, descasque os dentes de alho, cortes o pimentão em tiras grosseiras, junte as folhas de louro e metade das pimentas cortadas ao meio e sem o cabo e refogue bastante na banha de porco (uma colher).",
+      "Refogue até começar a pegar no fundo, mexendo as vezes para descolar do fundo.",
+      "A intenção é que pegue no fundo para ficar com um gosto de tostado.",
+      "No final coloque o molho de tomate, mexa mais um pouco e desligue.",
+      "Passo 2",
+      "Coloque no copo do liquidificador: o refogado, os 600 ml de água, o resto da pimenta (sempre abra-as ao meio antes para ver se não está estragada dentro), o tempero baiano, a canela, o azeite, pimenta em grãos, a salsa desidratada, o alho frito, o sal e o colorau.",
+      "Bata bem, uns 5 minutos no máximo, no final coloque a goma xantana",
+      "Bata mais uns 20 segundos e está pronto o molho de pimenta do rubia."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "THIAGO RUBIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305320-molho-de-pimenta-do-rubia.html"
+}

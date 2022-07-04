@@ -1,0 +1,62 @@
+{
+  "nome_receita": "BERINJELA À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas médias",
+      "2 ovos cozidos",
+      "2 ovos cru",
+      "200 g de bacon picado e frito",
+      "200 g de queijo parmesão ralado grosso",
+      "100 g de azeitonas pretas picadas",
+      "2 cebolas picada",
+      "salsa e cebolinha picadas a gosto",
+      "sal a gosto",
+      "1 xícara (chá) de farofa tradicional Yoki"
+    ],
+    "MOLHO": [
+      "1 kg de tomate maduros (se preferir use tomates pelados enlatados)",
+      "1 cebola picada",
+      "3 dentes de alho socados",
+      "1 pitada de açúcar",
+      "sal a gosto",
+      "temperos de sua preferência (orégano, manjericão...)",
+      "água suficiente para o molho"
+    ]
+  },
+  "passos": {
+    "PREPARO DA BERINJELA": [
+      "Frite o bacon e reserve",
+      "Corte a ponta da berinjela, cerca de 2 dedos da haste",
+      "Reserve a tampinha",
+      "Retire a polpa com cuidado para não perfurar a pele.",
+      "Pegue a polpa da berinjela e pique bem e coloque em uma tigela.",
+      "Acrescente a salsinha, a cebolinha, a cebola cortada em cubinhos, sal, azeitonas pretas picadas, os ovos crus, o queijo ralado grosso, o bacon reservado e aproximadamente 1 xícara (chá) de farofa tradicional Yoki.",
+      "Misture muito bem.",
+      "Por último acrescente os ovos cozidos e picados.",
+      "Coloque este recheio, dentro da cavidade das berinjelas.",
+      "Aperte bem para que caiba bastante recheio..",
+      "Pegue a tampinha da berinjela reservada e com ajuda de palitos de dente, tampe a berinjela. Reserve."
+    ],
+    "MOLHO": [
+      "Afervente os tomates.",
+      "Retire a pele e as sementes e pique.",
+      "Reserve.",
+      "Coloque numa panela um fio de azeite, as cebolas e frite ligeiramente",
+      "Acrescente os alhos e refogue.",
+      "Agora acrescente os tomates, a pitada de açúcar, o sal e os temperos a gosto e refogue.",
+      "Adicione a água suficiente para o preparo do molho.",
+      "Deixe apurando até engrossar o molho.",
+      "Em seguida, coloque as berinjelas reservadas e deixe cozinhando em panela tampada, até que as cascas da berinjela fiquem macias.",
+      "Vire as berinjelas na metade do tempo de cozimento, com cuidado para não perfurá-las.",
+      "Para servir, corte em fatias grossas acompanhadas pelo molho do cozimento e fatias de pão.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Elaine Villalva Creatto"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304234-berinjela-a-minha-moda.html"
+}

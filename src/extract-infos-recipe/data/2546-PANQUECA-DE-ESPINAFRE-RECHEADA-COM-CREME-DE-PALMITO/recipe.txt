@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PANQUECA DE ESPINAFRE RECHEADA COM CREME DE PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Panqueca de espinafre",
+      "2 ovos",
+      "1/2 xícara (chá) de amido de milho",
+      "1/2 xícara (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de margarina ou manteiga",
+      "1 e 1/2 xícara (chá) de leite",
+      "Um punhado de espinafre",
+      "Sal a gosto",
+      "Creme de palmito",
+      "2 colheres bem cheias de amido de milho",
+      "1 tablete de caldo de galinha",
+      "1 caixa de creme de leite",
+      "Meio copo de requeijão cremoso",
+      "1 colher de manteiga ou margarina",
+      "500 ml de leite",
+      "Uma cebola pequena",
+      "Um vidro de palmito picado em pedaços pequenos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater tudo no liquidificador os ingredientes da massa da panqueca.",
+      "Usando uma concha pequena como medida, levar cada porção de massa à frigideira aquecida. Fritar as panquecas e reservar.",
+      "Levar ao liquidificador o amido, o caldo de galinha, o creme de leite, o requeijão, o leite e a metade do palmito. Bater até ficar um creme.",
+      "Levar ao fogo a margarina para derreter, colocar a cebola para cozinhar. Após, Colocar o restante do palmito e o creme. Cozinhar, mexendo sempre, até engrossar.",
+      "Monte as panquecas colocando o creme de palmitos e um pouco de queijo mussarela."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TERESINHA DE JESUS GONÇALVES BITTENCOURT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304972-panqueca-de-espinafre-recheada-com-creme-de-palmito.html"
+}

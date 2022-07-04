@@ -1,0 +1,37 @@
+{
+  "nome_receita": "COXINHA FÁCIL DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "1 tablete de caldo de galinha",
+      "1 pitada de sal",
+      "1 e 1/2 xícara de farinha de trigo",
+      "1 ovo",
+      "1 colher de margarina",
+      "recheio a gosto",
+      "água e farinha de rosca para empanar",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o leite, o caldo de galinha, o sal e deixe ferver.",
+      "Adicione a farinha de trigo e mexa bem até a massa do fundo da panela começar a dourar",
+      "Retire do fogo, adicione o ovo e mexa bem.",
+      "Coloque a massa em uma superfície lisa, unte as mãos com margarina e \"sove\" a massa até ficar bem homogênea",
+      "Quando a massa estiver quase fria comece a modelar e rechear.",
+      "Para empanar, passe a coxinha na água e na farinha de rosca.",
+      "Coloque o óleo em uma panela, deixe esquentar e abaixe o fogo para o mínimo.",
+      "Esse passo é importante para que as coxinhas não estourem e não fiquem cruas.",
+      "Agora é só fritar e se deliciar",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não é bom fritar muitas coxinhas ao mesmo tempo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KELLY MARTINS ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303197-coxinha-facil-de-leite.html"
+}

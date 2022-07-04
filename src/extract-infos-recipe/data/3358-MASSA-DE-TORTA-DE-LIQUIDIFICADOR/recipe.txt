@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MASSA DE TORTA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de leite",
+      "2 ovos",
+      "3/4 de xícara de óleo",
+      "3 colheres (sopa) de queijo ralado",
+      "11 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) fermento em po",
+      "recheio da sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador deixando o fermento por último",
+      "Asse uma parte da massa em uma forma untada no forno a 200°C por 10 minutos",
+      "Coloque o recheio de sua preferência e o restante da massa e asse até dourar"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TAYANE M. FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303507-massa-de-torta-de-liquidificador.html"
+}

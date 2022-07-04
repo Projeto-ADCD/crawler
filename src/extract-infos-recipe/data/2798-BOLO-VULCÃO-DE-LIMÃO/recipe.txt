@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO VULCÃO DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "2 colheres (sopa) de margarina sem sal",
+      "2 xícaras de açúcar",
+      "3 xícaras de farinha de trigo",
+      "1 pacotinho de gelatina de limão",
+      "2 limões",
+      "1 copo de leite quente",
+      "Cobertura",
+      "1 e 1/2 caixa de leite condensado",
+      "1 colher (chá) de margarina sem sal",
+      "1 caixinha de creme de leite",
+      "2 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque os ovos, adicione o açúcar e misture bem (não vai na batedeira)",
+      "Acrescente a margarina e o leite quente para ajudar a dissolver (o leite é opcional mas ajuda a deixar o bolo mais fofinho) e misture novamente",
+      "Coloque a farinha e depois a gelatina, misture e acrescente o suco de 2 limões",
+      "No final acrescente o fermento, misture tudo e coloque numa forma redonda e untada no forno por entre 30 e 40 minutos a 200° C",
+      "Cobertura",
+      "Leve o leite condensado e a margarina a uma penela e mexa até ficar no ponto de brigadeiro",
+      "Depois de pronto, desligue o fogão e acrescente o creme de leite e o suco de 2 limões"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "HIKKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304411-bolo-vulcao-de-limao.html"
+}

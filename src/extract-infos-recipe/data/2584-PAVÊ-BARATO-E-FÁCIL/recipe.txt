@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PAVÊ BARATO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "3 limões",
+      "1 pacote de biscoito maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esprema os limões em cima do leite condensado.",
+      "Mexa com uma colher até formar tomar consistência (não usar fogo).",
+      "Em um refratário, arrume uma camada de biscoitos e outra de creme de limão, alternadamente.",
+      "Leve à geladeira por no mínimo 4 horas."
+    ]
+  },
+  "tempo_de_preparo": "158 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SANDRA VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304895-pave-barato-e-facil.html"
+}

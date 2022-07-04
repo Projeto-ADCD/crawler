@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO NUTRITIVO DE FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de fermento em pó",
+      "1 batata doce",
+      "1 batata grande",
+      "1/2 copo de leite",
+      "2 ovos inteiros",
+      "1 copo (americano) de farinha de trigo",
+      "1 copo (americano) de fuba",
+      "1 caixinha de creme de leite",
+      "1 envelope de sazon de alho",
+      "4 colheres de manteiga",
+      "cheiro verde a gosto",
+      "sal a gosto",
+      "1 cenoura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os legumes para cozinhar.",
+      "Depois de cozido, faça um purê.",
+      "Coloque dentro da vasilha da batedeira.",
+      "Coloque os outros ingredientes. Bata tudo, colocando por último o fermento.",
+      "Leve para assar por 35 a 40 minutos. Coloque um palito para ver se está bom. Se está sair seco está pronto.",
+      "Deixe esfriar para desenformar. Eu fiz em forma Redonda, mas pode ser em qualquer de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ÉRICA LISANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301754-pao-nutritivo-de-fuba.html"
+}

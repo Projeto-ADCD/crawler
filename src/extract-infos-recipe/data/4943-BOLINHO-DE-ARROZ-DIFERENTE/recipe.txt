@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de arroz cozido",
+      "2 ovos",
+      "aveia em flocos finos até obter o ponto de bolinho",
+      "1/2 cebola picadinha",
+      "cubos de queijo mussarela (ou de sua preferência)",
+      "1 colher cheia de azeite",
+      "queijo parmesão à gosto",
+      "orégano ou salsa/cebolinha à gosto",
+      "sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo muito bem, até obter o ponto de bolinho.",
+      "Disponha em uma frigideira média com tampa.",
+      "Dourando o lado de baixo, vire e doure o outro."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ALINE SOBREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299891-bolinho-de-arroz-diferente.html"
+}

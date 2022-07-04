@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE FUBÁ DE COPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo americano de leite",
+      "1 copo (menos 2 dedos) de óleo",
+      "1 copo de fubá bem cheio",
+      "1 copo de farinha de trigo",
+      "3 ovos",
+      "1 copo de queijo ralado",
+      "1 colher de fermento em pó",
+      "1 copo de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o açúcar os ovos e o óleo no liquidificador por 2 minutos, depois adicione os demais ingredientes",
+      "Por último adicione o fermento",
+      "Asse em forno aquecido a 180°C em uma forma média com furo no meio"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LIDIA NARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303650-bolo-de-fuba-de-copo.html"
+}

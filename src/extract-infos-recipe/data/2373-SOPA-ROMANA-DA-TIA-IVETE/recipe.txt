@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SOPA ROMANA DA TIA IVETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de manteiga ou margarina",
+      "1/2 xícara de bacon",
+      "1cebola média",
+      "3 batatas médias",
+      "1 molho de tomate pronto",
+      "2 tabletes ou sachês de caldos de carne ou galinha ou legumes (conforme preferência)",
+      "2 xícaras de feijão cozido",
+      "10 salsichas (em rodelas)",
+      "1/2 pacote (250 g) de macarrão da preferência de forma pequena ",
+      "cheiro-verde a gosto",
+      "pimenta-do-reino a gosto",
+      "sal para corrigir (a gosto)",
+      "água para cozimento (quanto baste)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a manteiga e o bacon e frite",
+      "Adicione a cebola picada e frite por cerca de 5 minutos",
+      "Adicione a batata, o molho e a água (aproximadamente 2 copos) para cozer a batata, cerca de 10 minutos.",
+      "Quando a batata estiver ao dente, adicione a salsicha, o feijão cozido, o macarrão, e a pimenta-do-reino",
+      "Adicione mais água, cerca de 4 a 5 copos",
+      "Mexa durante o cozimento do macarrão para não grudar no fundo",
+      "Quando o macarrão estiver no ponto, adicionar o cheiro-verde.",
+      "Adicione a água conforme o gosto, para não secar a sopa, nem para deixá-la com muita água.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GIOVANA VITTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305365-sopa-romana-da-tia-ivete.html"
+}

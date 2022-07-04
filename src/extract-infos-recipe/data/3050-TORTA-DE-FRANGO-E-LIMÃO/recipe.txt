@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TORTA DE FRANGO E LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farofa pronta Yoki tradicional",
+      "300 g de farinha de trigo",
+      "500 g de manteiga ou margarina morna e sem sal",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de açúcar",
+      "1 kg de peito de frango sem osso",
+      "1 sachê de molho de tomate",
+      "suco de 1 limão",
+      "raspas de limao a gosto",
+      "2 dentes de alho",
+      "1 cebola picada",
+      "azeite a gosto",
+      "sal a gosto",
+      "1 colher (chá) de alecrim",
+      "1 colher (chá) de chimichurri",
+      "pimenta-do-reino a gosto",
+      "2 tomates sem pele e sem semente",
+      "3 claras em neve"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farofa pronta Yoki, a farinha de trigo, a manteiga ou margarina, o sal e o açúcar",
+      "Primeiro com uma colher e depois com o auxilio das mãos até formar uma massa lisa",
+      "Abra a massa com um rolo de macarrão ou uma garrafa e coloque sobre a assadeira",
+      "Leve para assar em temperatura baixa por 5 minutos",
+      "Retire do forno e reserve",
+      "Em uma panela, despeje o azeite, doure a cebola e em seguida o alho",
+      "Despeje o frango e os temperos, depois de pronto, acrescente o molho de tomate, o suco do limao e o tomate picado",
+      "Despeje sobre a massa e cubra com as claras em neve e as raspas de limao.",
+      "Leve para assar em fogo baixo até que a cobertura esteja dourada"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: JOSE ANTONIO CUNHA"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303946-torta-de-frango-e-limao.html"
+}

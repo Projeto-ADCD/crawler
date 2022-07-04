@@ -1,0 +1,26 @@
+{
+  "nome_receita": "DOCINHO SURPRESA DE UVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "3 colheres (sopa) de margarina",
+      "3 colheres (sopa) leite em pó",
+      "2 gotas de corante alimentício em gel verde",
+      "margarina para untar",
+      "45 uvas thompson sem caroço",
+      "açúcar para passar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve uma panela ao fogo médio com o leite condensado, a margarina, o leite em pó e o corante, mexendo até engrossar e desgrudar do fundo da panela",
+      "Despeje em um prato untado e deixe esfriar",
+      "Abra pequenas porções da massa nas mãos untadas, coloque uma uva no meio e feche, modelando bolinhas",
+      "Passe por açúcar, coloque em forminhas de papel e sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "VENUS NYAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303404-docinho-surpresa-de-uva.html"
+}

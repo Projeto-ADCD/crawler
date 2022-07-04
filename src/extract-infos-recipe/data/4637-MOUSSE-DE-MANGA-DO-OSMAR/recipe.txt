@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE MANGA DO OSMAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "5 mangas espada",
+      "1 pacote de gelatina sem sabor 12 g",
+      "3 colheres (sopa) de água quente",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture muito bem a gelatina na água quente e leve à geladeira por 4 horas ou até ficar consistente",
+      "Batas as mangas já cortadas e acrescente a gelatina",
+      "Despeje o conteúdo no liquidificador",
+      "Misture o creme de leite",
+      "Experimente a mistura para ver o quanto de açúcar vai precisar"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "OSMAR FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300678-mousse-de-manga-do-osmar.html"
+}

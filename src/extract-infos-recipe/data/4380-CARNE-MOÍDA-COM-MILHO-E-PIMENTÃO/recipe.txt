@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CARNE MOÍDA COM MILHO E PIMENTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de carne moída",
+      "200 g de milho verde",
+      "1 pimentão (cor de sua preferência) em pedaços pequenos",
+      "1 cebola picada",
+      "1 tomate em pedaços pequenos",
+      "4 dentes de alho para a carne",
+      "2 dentes de alho para o arroz",
+      "salsinha",
+      "arroz",
+      "azeite de oliva",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Inicie refogando a cebola e o alho com azeite até dourar.",
+      "Acrescente a carne moída e misture.",
+      "Continue misturando em intervalos para desmanchar a mesma até o momento que estiver bem cozido.",
+      "Adicione sal e pimenta nesta etapa.",
+      "Pique a salsinha em pedaços pequenos.",
+      "Acrescente a carne moída e misture.",
+      "Em seguida adicione os pedaços de pimentão e tomate e misture em intervalos por 10 minutos.",
+      "O tempo de cozimento depende se você quiser que o pimentão esteja al dente ou não.",
+      "Adicione mais água se for necessário.",
+      "Comece o preparo do arroz refogando o alho com azeite e comece a fritura do arroz por 20 segundos e acrescente água fervente e um pouco de sal.",
+      "Deixe cozinhando até a água secar completamente e reserve por 10 minutos.",
+      "Sirva junto com a carne moída."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301270-carne-moida-com-milho-e-pimentao.html"
+}

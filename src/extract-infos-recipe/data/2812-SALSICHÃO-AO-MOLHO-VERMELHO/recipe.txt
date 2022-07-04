@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALSICHÃO AO MOLHO VERMELHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 salsichões de porco (borrússia)",
+      "1 cebola grande picada",
+      "4 tomates grandes, sem pele e sem sementes, picados",
+      "1 cubo de caldo de carne",
+      "1 colher (sopa) de óleo",
+      "3 colheres (sopa) de salsinha picada",
+      "sal, se necessário, e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, com água, afervente por uns 10 minutos os salsichões.",
+      "Em outra panela funda, acrescente o óleo e a cebola picada e deixe dourar.",
+      "Junte os tomates e deixe refogar bem.",
+      "Acrescente o caldo de carne dissolvido em 1 xícara (chá) de água fervente.",
+      "Misture bem e experimente o molho.",
+      "Se necessário acrescente sal e pimenta.",
+      "Junte os salsichões ao molho e deixe cozinhar por 20 minutos com panela tampada.",
+      "Retire do fogo e sirva em uma travessa funda, polvilhado com a salsinha picada.",
+      "Acompanha um arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304380-salsichao-ao-molho-vermelho.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres (sopa) de milho flocão",
+      "2 colheres (sopa) de azeite de oliva",
+      "1 colher (sopa) de leite em pó",
+      "1/2 colher (chá) de fermento",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com um garfo",
+      "Bata bem",
+      "Coloque na chapa ou frigideira antiaderente",
+      "Deixe dois minutos está pronto"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WEINY LAURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305950-pao-de-milho.html"
+}

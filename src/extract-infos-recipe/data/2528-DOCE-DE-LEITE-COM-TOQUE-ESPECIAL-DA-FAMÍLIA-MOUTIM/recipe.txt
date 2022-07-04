@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE LEITE COM TOQUE ESPECIAL DA FAMÍLIA MOUTIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de doce de leite de sua preferência",
+      "1 lata de creme de leite com soro",
+      "1 caixa de bis"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário de vidro, coloque o doce de leite e o creme de leite com soro.",
+      "Misture bem, até ficar homogêneo.",
+      "Leve o refratário tampado ao congelador por aproximadamente uma hora.",
+      "Retire o refratário do congelador, pique os bis e os coloque por cima ao servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIANNA MOUTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305023-doce-de-leite-com-toque-especial-da-familia-moutim.html"
+}

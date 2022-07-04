@@ -1,0 +1,45 @@
+{
+  "nome_receita": "ESFIHA DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 colheres (sopa) ou 1 sachê de fermento seco para pão (biológico)",
+      "2 colheres (chá) de sal",
+      "2 colheres (sopa) de açúcar",
+      "1 copo (americano) de leite morno",
+      "1/2 copo (americano) de óleo",
+      "1 copo (americano) de água morna",
+      "750 g de farinha de trigo",
+      "1 ovo para pincelar",
+      "Recheio",
+      "750 g de carne moída",
+      "1 tomate picadinho",
+      "1 cebola média picada",
+      "1 e 1/2 colher (chá) de sal",
+      "pimenta-do-reino a gosto",
+      "suco de 2 limões",
+      "Pimenta síria a gosto (faz toda a diferença)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque o fermento, a água, o leite, o sal e o açúcar;",
+      "Deixe descansar por aproximadamente 5 minutos (o fermento vai começar a espumar)",
+      "Acrescente o óleo",
+      "Vá acrescentando a farinha aos poucos",
+      "Transfira a mistura para uma bancada enfarinhada e sove até soltar das mãos",
+      "Caso seja necessário, acrescente mais farinha",
+      "Deixe a massa descansar até dobrar de tamanho",
+      "Abra a massa com um rolo, recheie com a carne e feche no formato triangular",
+      "Por cima das esfihas pincele o ovo",
+      "Coloque para assar em forma untada e enfarinhada até que as esfihas fiquem douradinhas",
+      "Temperatura do forno: 200 graus",
+      "Recheio",
+      "Misture todos os ingredientes"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CLAUDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300443-esfiha-de-carne.html"
+}

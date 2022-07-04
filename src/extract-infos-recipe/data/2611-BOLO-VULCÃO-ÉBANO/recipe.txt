@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO VULCÃO ÉBANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras (chá) de farinha de trigo",
+      "3 xícaras (chá) de açúcar",
+      "1 xícara (chá) de achocolatado em pó solúvel 100% cacau",
+      "1/2 xícara (chá) de óleo",
+      "2 xícaras (chá) de água fervente",
+      "Cobertura",
+      "420 g de cobertura fracionada, chocolate meio amargo, picado",
+      "3 colheres (sopa) de achocolatado em pó solúvel 100% cacau",
+      "1 xícara (chá) de leite",
+      "3 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata clara em neve e reserve.",
+      "Coloque o restante no liquidificador e bata,",
+      "Adicione a clara e o fermento, bata novamente, após,",
+      "Numa forma ja untada, despeje a massa na assadeira e coloque no forno para assar a 180° C por 35 minutos.",
+      "Calda",
+      "Pique metade do chocolate e coloque em uma panela: a barra de chocolate, o achocolatado, o leite e o açúcar, mexa por 15 minutos.",
+      "Deixe em temperatura ambiente e ponha no bolo, coloque o restante do chocolate no bolo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JÚLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304811-bolo-vulcao-ebano.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "ROSQUINHA DE SÃO JOÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de fermento em pó",
+      "farinha de trigo para enrolar, até não grudar nas mãos (cerca de 1kg)",
+      "açúcar com canela para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes, colocando a farinha aos poucos até desgrudar das mãos.",
+      "Faça as rosquinhas e frite em óleo quente.",
+      "Polvilhe açúcar com canela"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303105-rosquinha-de-sao-joao.html"
+}

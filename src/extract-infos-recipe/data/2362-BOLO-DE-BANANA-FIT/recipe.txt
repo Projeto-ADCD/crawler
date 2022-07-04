@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE BANANA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas",
+      "2 ovos",
+      "1 xícara de aveia flocos finos",
+      "1 xícara de passas ou castanhas",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse as 4 bananas com garfo",
+      "Bata os 2 ovos em recipiente separado (não precisa ser em neve)",
+      "Junte os ovos às bananas e misture",
+      "Acrescente a aveia, as passas e misture.",
+      "Acrescente o fermento e misture",
+      "Unte forma com manteiga (não precisa trigo)",
+      "Leve ao forno aquecido por aproximadamente 20 minutos ou até o garfo sair limpo."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FABRÍCIA DORNAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305408-bolo-de-banana-fit.html"
+}

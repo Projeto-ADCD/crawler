@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO CANJIQUINHA COM TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 e 1/2 xícara de leite",
+      "1 xícara de açúcar",
+      "100 g de coco ralado",
+      "3 colheres de manteiga",
+      "2 xícaras de goma hidratada de mandioca (tapioca)",
+      "2 xícaras de canjiquinha (deixar de molho por pelo menos 2 horas)",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por aproximadamente 3 minutos",
+      "Por último coloque o coco ralado e o fermento",
+      "Coloque em forma untada e asse em forno já aquecido com temperatura de 180°C"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O importante é assim que bater no liquidificador colocar logo no tabuleiro e no forno, pois a canjiquinha tende a se concentrar no fundo do liquidificador não deixando a mistura homogênea."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JOHN WAYNE FLÁVIA AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303371-bolo-canjiquinha-com-tapioca.html"
+}

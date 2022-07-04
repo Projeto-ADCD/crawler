@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLINHO DE BATATA-DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "500 g de batata-doce",
+      "250 g de farinha de aveia",
+      "1 pitada de sal",
+      "orégano a gosto",
+      "Recheio",
+      "1 lata de atum ralado (caso prefira frango é só colocar no lugar)",
+      "1 colher (sopa) de cebolinha",
+      "1 colher (sopa) de cebola",
+      "1 colher (sopa) de pimentão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Cozinhae a batata doce no vapor para não reter água do cozimento",
+      "Após cozida, descasque, amasse e junte ao restante dos ingredientes.",
+      "Recheio",
+      "Junte todos os ingredientes numa frigideira e cozinhe por 5 minutos",
+      "Após todas as etapas feitas, moldar a massa em forminhas sem necessidade de ser untadada, rechea-las e ir ao forno de 10 à 15 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAYNARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304685-bolinho-de-batata-doce.html"
+}

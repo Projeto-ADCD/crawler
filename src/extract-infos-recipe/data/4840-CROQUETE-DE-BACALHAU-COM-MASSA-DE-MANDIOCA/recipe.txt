@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CROQUETE DE BACALHAU COM MASSA DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bacalhau",
+      "500 g de mandioca",
+      "3 colheres (sopa) de óleo",
+      "1 cebola grande picada",
+      "2 dentes de alho amassados",
+      "4 tomates grandes e picados",
+      "1 xícara de farinha de trigo",
+      "1 xícara de salsa e cebolinha picadas",
+      "sal e pimenta a gosto",
+      "Para empanar",
+      "água e farinha de trigo ou de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacalhau em pedaços, deixe de molho na água e reserve na geladeira.",
+      "Trouque sempre a água para que dessalgue",
+      "Ferva o bacalhau, escorra, tire a pele, os espinhos, desfie e reserve",
+      "Cozinhe a mandioca até que fique macia. Escorra e passe pelo espremedor ou amasse bem com o auxílio de um garfo",
+      "Em uma panela, esquente o óleo e refogue a cebola, o alho e os tomates",
+      "Adicione o bacalhau (sal se necessário), pimenta, a salsa e cebolinha e refogue por alguns minutos",
+      "Adicione a mandioca e a farinha de trigo e mexa até formar uma massa homogênea",
+      "Deixe esfriar",
+      "Pegue pequenas porções e molde os croquetes. Passe-os na água e em seguida na farinha de trigo ou de rosca",
+      "Frite-os em óleo bem quente em uma panela que tenha óleo suficiente para cobrir os croquetes",
+      "Quando já estiverem dourados, retire-os com uma escumadeira",
+      "Deixe escorrer em papel-toalha e sirva como de preferência"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GISELE MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300124-croquete-de-bacalhau-com-massa-de-mandioca.html"
+}

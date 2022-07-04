@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COSTELA COZIDA NA CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 kg de costela (levemente temperada com alho e sal)",
+      "4 a 5 cebolas grande",
+      "2 tabletes de caldo de costela",
+      "5 gomos de linguiça toscana",
+      "3 batatas grandes",
+      "tempero pronto para carnes a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as cebolas e as batatas em rodelas grossas",
+      "Pique a linguiça toscana em rodelas (grossas para não desmanchar)",
+      "Desmanche os anéis de cebola e coloque no fundo da panela de pressão forrando (reserve um pouquinho da cebola para jogar por cima antes de fechar a panela)",
+      "Coloque uma a uma, a costela por cima da cebola, adicione um pouco de tempero pronto para carnes",
+      "Adicione a linguiça picada e as batatas, jogue o tablete de caldo e tempero por cima",
+      "Por último, jogue o restante dos anéis de cebola",
+      "Tampe a panela e leve ao fogo alto",
+      "Após pegar pressão deixe mais meia hora no fogo",
+      "Depois de pronto despeje em um refratário e misture levemente para pegar tempero"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANY AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303466-costela-cozida-na-cebola.html"
+}

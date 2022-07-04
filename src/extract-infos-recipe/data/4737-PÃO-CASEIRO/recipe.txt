@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo aproximadamente",
+      "1 e 1/2 xícara de leite morno",
+      "1/2 xícara (chá) de água morna",
+      "1/2 xícara (chá) de oleo",
+      "4 colheres (chá) de açucar",
+      "1 colher (chá) de sal",
+      "2 ovos",
+      "30 g de biológico fresco ou 10 g de seco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, dissolva o fermento no açúcar, acrescente o sal com os ingredientes liquidos e os ovos e misture bem.",
+      "Acrescente aos poucos a farinha até formar uma massa macia e sove a massa.",
+      "Deixe descansar por 1 hora",
+      "Após o crescimento, divida a massa, enrole da forma que desejar, coloque nas formas e deixe crescer até dobrar de volume.",
+      "Leve para assar por 30 minutoa",
+      "Retire o pão e pincele leite para ficar macio, se desejar pode pincelar gema de ovo também"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MEURIL PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300327-pao-caseiro.html"
+}

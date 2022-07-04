@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CANECA FIT COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de farinha de trigo (comum ou integral)",
+      "2 colheres (sopa) de flocos finos de aveia",
+      "3 colheres (sopa) de leite de vaca",
+      "3 colheres (sopa) de óleo de cozinha",
+      "2 colheres de achocolatado ou 3 de chocolate em pó",
+      "1/2 colher (café) de fermento em pó",
+      "1 ovo",
+      "3 colheres (sopa) de açúcar ou adoçante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque numa caneca o ovo, o açúcar e o chocolate ou achocolatado",
+      "Misture até ficar homogêneo (de preferência use um garfo para misturar)",
+      "Coloque o leite e o óleo",
+      "Misture novamente (de preferência com um garfo)",
+      "Coloque a farinha e os flocos, dê uma misturada, após coloque o fermento",
+      "Misture a massa até ficar homogênea",
+      "Leve no microondas por três minutos",
+      "Coloque um prato por baixo da caneca para evitar que suje o microondas"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PEPE G. PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303457-bolo-de-caneca-fit-com-aveia.html"
+}

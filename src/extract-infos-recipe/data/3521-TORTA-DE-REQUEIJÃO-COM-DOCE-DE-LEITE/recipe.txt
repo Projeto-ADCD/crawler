@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA DE REQUEIJÃO COM DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 copo de farinha de trigo",
+      "1/2 copo de chocolate solúvel",
+      "1/2 copo de açúcar",
+      "1 ovo",
+      "2 colheres (sopa) de margarina",
+      "1 colher (sobremesa) de fermento em pó",
+      "Recheio",
+      "2 copos de requeijão cremoso tradicional (200 g)",
+      "400 g de doce de leite",
+      "1 colher (sopa) de gelatina sem sabor (dissolvida em 5 colheres de água quente)",
+      "1 colher (chá) de essência baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture tudo muito bem e abra em uma forma de aro removível, untada e polvilhada com farinha",
+      "Leve para assar em forno médio por 15 minutos.",
+      "Desenforme ainda morno e reserve",
+      "Recheio",
+      "Na batedeira, bata o requeijão com o doce de leite, por 10 minutos",
+      "Depois, acrescente a baunilha e a gelatina dissolvida e bata mais um pouco.",
+      "Coloque sobre a massa assada e leve para gelar por 5 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RITA DE CASSIA XAVIER PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303207-torta-de-requeijao-com-doce-de-leite.html"
+}

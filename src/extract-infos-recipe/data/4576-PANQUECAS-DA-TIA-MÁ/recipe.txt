@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PANQUECAS DA TIA MÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de farinha de trigo",
+      "5 ou 6 colheres (sopa) de açúcar",
+      "2 e 1/2 colheres (chá) de fermento químico",
+      "1 ovo",
+      "2 colheres (sopa) de óleo",
+      "1 copo de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Unte com óleo ou margarina",
+      "Adicione uma concha da mistura e vire quando criar bolhas",
+      "Aqueça uma frigideira em fogo baixo"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HIAGO CAVALCANTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300820-panquecas-da-tia-ma.html"
+}

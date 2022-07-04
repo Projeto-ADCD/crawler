@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COALHADA FRESCA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite de vaca (fresco)",
+      "1 pitada de sal",
+      "1 fío de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o litro de leite para coalhar no sol durante um ou dois dias no máximo",
+      "Depois de coalhado pegue um pano e coloque o leite coalhado para escorrer.",
+      "Depois de escorrido, coloque essa massinha dentro de um recipiente, acrescente uma pitada de sal e o fío de azeite de oliva",
+      "Misture tudo com uma colher.",
+      "Pronto, já pode ser servido com torradinhas ou pão francês."
+    ]
+  },
+  "tempo_de_preparo": "2880 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305040-coalhada-fresca-superfacil.html"
+}

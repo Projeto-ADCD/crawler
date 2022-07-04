@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara (chá) de oléo",
+      "2 xícaras (chá) de açúcar",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de raspas de limão",
+      "1 colher (sopa) de fermento em pó",
+      "100 g de goiabada cortada em cubos pequenos",
+      "1/2 xícara (chá) de aguá"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, coloque os ovos, óleo, a água e as raspas de limão e bata até misturar tudo.",
+      "Depois acrescente o açúcar, a farinha de trigo e bata novamente",
+      "Adicione a goiabada e bata para misturar",
+      "Adicione o fermento e misture com a ajuda de uma colher.",
+      "Coloque a massa em uma forma untada com azeite e polvilhada com farinha de trigo.",
+      "Asse em forno preaquecido a 180 C durante 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ELEN DAIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300794-bolo-de-goiabada.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PANQUECA SIMPLES E PRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "2 ovos",
+      "1 xícara de farinha de trigo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo no liquidificador e bata por aproximadamente 2 minutos",
+      "Unte a frigideira levemente",
+      "Coloque aproximadamente uma concha cheia da mistura",
+      "Após deslizar na frigideira virar do outro lado",
+      "Recheie e enrole cuidadosamente",
+      "De preferência, leve ao forno para incrementar"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "REBEKA ROMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305626-panqueca-simples-e-pratica.html"
+}

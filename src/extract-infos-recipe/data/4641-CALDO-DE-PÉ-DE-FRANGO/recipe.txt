@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CALDO DE PÉ DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pé de frango",
+      "1/2 kg de mandioca",
+      "alho",
+      "açafrão",
+      "cebola",
+      "1 colher de óleo",
+      "1 caldo de galinha",
+      "1 pimenta bode",
+      "sal a gosto",
+      "cheiro verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe bem os pés de frango (escalde com água quente e limão).",
+      "Em uma panela, coloque o óleo, alho e a cebola, deixe dourar e depois acrescente o açafrão.",
+      "Após isso, acrescente o pé de frango e refogue bastante.",
+      "Depois, acrescente 1 litro de água fervente juntamente com o caldo de galinha e a pimenta.",
+      "Enquanto isso, cozinhe à parte a mandioca com um pouco de sal até derreter.",
+      "Bata no liquidificador, junte tudo e deixe cozinhar por mais 30 minutos colocando sal até chegar ao ponto.",
+      "Acrescente o cheiro verde."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELO NOLETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300626-caldo-de-pe-de-frango.html"
+}

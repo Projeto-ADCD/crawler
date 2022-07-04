@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO COM GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 colheres de manteiga",
+      "2 xicaras de açúcar",
+      "1 pitada de sal",
+      "2 sachês de fermento",
+      "200 ml de leite morno",
+      "50 g de coco ralado",
+      "800 g de farinha de trigo",
+      "Recheio",
+      "300 g de goiabada ou pode ser chocolate "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o açúcar,os ovos, o fermento a manteiga o coco e o sal e bata bem até ficar bem misturado",
+      "Aí acrescente o trigo aos poucos e faça uma farofa",
+      "Acresecente o leite e o trigo aos poucos até a massa desgrudar da beirada do recipiente",
+      "Amasse bem por uns 8 a 10 minutos e deixe descansar por uma hora",
+      "Após, reparta a massa em 4 partes iguais e abra a massa com rolo até ficar com espessura de meio centimentros ",
+      "Acrecente a goiabada em cubinhos sobre a superfície inteira da massa, enrole a massa até o final é deixe descansar por mais 20 minutos",
+      "Depois de descansar e coloque ao forno de com a temperatura 220° C",
+      "Deixe até que os pães fique dourados"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NEIA FLORES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304047-pao-com-goiabada.html"
+}

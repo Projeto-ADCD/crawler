@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA MOUSSE DE MARACUJÁ E CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa chocolate",
+      "1 mistura para bolo sabor chocomousse ",
+      "3 ovos",
+      "3 colheres (sopa) de margarina ou manteiga",
+      "1 xícara (chá) de leite",
+      "Mousse maracujá",
+      "1 garrafa (500 ml) de polpa de maracujá",
+      "2 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 gelatina incolor",
+      "Cobertura de chocolate",
+      "1 tablete de chocolate meio amargo (100 g)",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Prepare a massa do bolo conforme as instruções da embalagem e reserve",
+      "Mousse de maracujá",
+      "Bata no liquidificador a polpa, o leite condensado e o creme de leite.",
+      "Prepare a gelatina incolor conforme as instruções da embalagem e adicione no liquidicador junto com os demais ingredientes.",
+      "Cobertura de chocolate",
+      "Misture o chocolate picado com o creme de leite em um refratário de vidro e leve ao micro-ondas de 1 em 1 minuto, mexendo sempre.",
+      "Montagem",
+      "Após do bolo assado, dividir ao meio.",
+      "Em uma forma de fundo removível, coloque uma camada do bolo, por cima adicione a metade da mousse de maracujá, outra camada do bolo e a restante da mousse.",
+      "Leve à geladeira por 3 horas.",
+      "Cubra com a cobertura de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANESSA REIS ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304040-torta-mousse-de-maracuja-e-chocolate.html"
+}

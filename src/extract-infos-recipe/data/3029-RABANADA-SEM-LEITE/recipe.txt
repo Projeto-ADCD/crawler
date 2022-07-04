@@ -1,0 +1,31 @@
+{
+  "nome_receita": "RABANADA SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão para rabanada",
+      "500 ml de água",
+      "3 paus de canela",
+      "300 g de açúcar",
+      "2 ovos",
+      "óleo ou margarina",
+      "canela em pó e açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a água, os 300 g de açúcar e a canela em pau num recipiente",
+      "Ferva por aproximadamente 5 minutos.",
+      "Após, deixe esfriar.",
+      "Corte o pão em fatias",
+      "Bata os ovos até ficarem homogêneos",
+      "Aqueça uma frigideira com o óleo ou margarina (conforme preferência)",
+      "Mergulhe as fatias na calda até ficarem bem ensopadas e ao retirar, esprema levemente para tirar o excesso",
+      "Passe a fatia no ovo e frite",
+      "Quando estiverem bem douradinhas, coloque numa travessa e polvilhe com canela e açúcar a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303977-rabanada-sem-leite.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BRIGADEIRÃO DE NINHO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) de manteiga ou margarina",
+      "3 ovos",
+      "10 colheres (sopa) cheias de leite ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por 3 minutos.",
+      "Unte apenas com manteiga uma forma com furo para micro-ondas",
+      "Leve por 10 minutos ao micro-ondas, espere esfriar e leve à geladeira até gelar.",
+      "Sirva a seguir.",
+      "Delicie-se"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELAYNNE LESSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305605-brigadeirao-de-ninho-facil.html"
+}

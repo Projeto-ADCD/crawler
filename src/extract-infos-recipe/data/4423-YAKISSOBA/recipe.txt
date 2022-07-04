@@ -1,0 +1,44 @@
+{
+  "nome_receita": "YAKISSOBA",
+  "ingredientes": {
+    "MASSA": [
+      "200g de macarrão para Yakissoba",
+      "2 litros de água",
+      "Azeite para fritar a massa"
+    ],
+    "YAKISSOBA": [
+      "1 bife picado em cubinhos",
+      "1/2 peito de frango em cubinhos",
+      "2 colheres de azeite",
+      "1/2 xícara de brócolis",
+      "1 xícara de repolho",
+      "1/2 xícara de tomate",
+      "1/2 xícara de pimentão",
+      "1 cebola pequena cortada em pétalas",
+      "5 vagens picadas"
+    ],
+    "MOLHO": [
+      "1 cubo de caldo de carne dissolvido em uma xícara de água",
+      "1 colher de amido de milho",
+      "1/2 xícara de shoyo",
+      "1 colher de molho inglês (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água em uma panela, quando levantar fervura, coloque o macarrão por 6 minutos, mexa algumas poucas vezes (2 a 3). Após, escorra bem o macarrão.",
+      "Na mesma panela, coloque o azeite e frite o bife e o frango por 1 minuto a 2 em fogo alto, reserve.",
+      "Após retirar a carne da panela, e reserve em outro recipiente, coloque um pouco de óleo na panela e comece a refogar os legumes em fogo médio.",
+      "Primeiro a cebola. Quando começar a dourar, acrescente o brócolis. Após 1 minuto, coloque o restante dos legumes: pimentão, as vagens, o tomate, e o repolho.",
+      "Misture bem e retire do fogo e coloque em outro recipiente (pode ser o da carne).",
+      "Em uma panela grande, aqueça o azeite (o suficiente para umedecer todo o fundo da panela), e frite o macarrão. Após escorrer, dê leves misturadas (em média 30 segundos a 1 minuto, vária de acordo com a quantidade de macarrão a cada fritada)",
+      "Por fim, adicione na panela que utilizou para fritar os legumes, o shoyo, o amido e o caldo de carne (e o molho inglês se utilizou) leve em fogo baixo ao fogo, mexendo sempre até engrossar (média de 2 a 4 minutos).",
+      "Junte a panela do molho ainda no fogo, a carne os legumes, mexa, e acrescente o macarrão e misture bem. Tire do fogo e sirva-se.",
+      "Após mistura tudo, óleo de gergelim sobre o Yakissoba dá um sabor especial. Acrescente legumes da sua preferência (couve-flor fica bem saboroso)"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "WANDER CAMPANHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301164-yakissoba.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DE MASSA MOLE (SALGADO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 colher (sopa) de sal",
+      "4 colheres(sopa) de açúcar",
+      "1 xícara (240 ml) de óleo",
+      "600 ml de água morna",
+      "50 gramas de fermento biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque a farinha de trigo aos poucos.",
+      "Assim que desgrudar das mãos, a massa poderá ser enformada.",
+      "Unte a assadeira com óleo.",
+      "Deixe descansar até a massa crescer, aproximadamente 35 minutos.",
+      "Leve ao forno por 40 minutos, em média."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "NOSSO PÃO DE CADA DIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300004-pao-de-massa-mole-salgado.html"
+}

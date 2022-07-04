@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CARNE MALUCA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de lagarto",
+      "2 dentes de alho amassados",
+      "2 colheres (sopa) de óleo",
+      "sal a gosto",
+      "Para o molho:",
+      "2 cebolas médias cortadas em rodelas bem finas",
+      "1 pimentão verde picado",
+      "1/4 de xícara de azeitona sem caroço cortadas em fatias",
+      "2 tomates grandes sem pele ou sementes picados",
+      "1 xícara de azeite",
+      "1/4 de xícara de vinagre",
+      "1/4 de xícara de salsinha picada",
+      "2 colheres (sopa) de cebolinha picada",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe a carne, tempere com sal a gosto e alho",
+      "Numa panela, doure a carne no óleo de todos os lados",
+      "Junte 1 e 1/4 de xícara de água e cozinhe lentamente até a carne ficar macia (em panela de pressão uns 50 minutos, depois da fervura)",
+      "Retire a carne depois de pronta e deixe esfriar",
+      "Enquanto isso, prepare o molho misturando todos os ingredientes",
+      "Corte a carne em fatias bem finas",
+      "Numa travessa, alterne as camadas de carne e o molho",
+      "Deixe tomar gosto na geladeira, por 24 horas, coberta com filme plástico."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ELAINE CATARINA DE SOUZA CARNEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303558-carne-maluca-facil.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TIRA GOSTO PARA CANA (CAHAÇA), FEIJÃO VERDE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de feijão verde",
+      "2 sachês de temperos prontos",
+      "1 requeijão",
+      "1 creme de leite",
+      "300 g de queijo",
+      "coentro a vontade",
+      "1 cebola média",
+      "4 dentes de alho",
+      "1 xícara de leite",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão na pressão junto dos sachês de tempero pronto por 25 minutos.",
+      "Depois, refogue em cubinhos a cebola e o alho com o azeite.",
+      "Em seguida, com o feijão já escorrido, misture todos os ingredientes numa panela.",
+      "Ao final corte o queijo em cubinhos e deixe ferver."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAMARCK DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300415-tira-gosto-para-cana-cahaca-feijao-verde-cremoso.html"
+}

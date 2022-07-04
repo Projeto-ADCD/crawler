@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SORVETE DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho sem soro",
+      "1 caixa de creme de leite",
+      "3/4 de uma lata de leite condensado",
+      "500 ml de leite",
+      "1 colher (sopa) rasa de emustab",
+      "1 colher (sopa) rasa de super liga neutra"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todo o conteúdo da lata de milho verde sem o soro no liquidificador juntamente com o creme de leite até formar um creme homogêneo.",
+      "Leve o creme à batedeira, adicionando também o leite condensado, a liga e o leite",
+      "Bata até ficar homogêneo.",
+      "Leve ao congelador até que fique consistente",
+      "Leve a mistura à batedeira novamente adicionando o emustab e bata por aproximadamente 5 minutos.",
+      "Leve a mistura novamente ao congelador até que endureça ao ponto de sorvete.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: o creme de milho feito no primeiro passo pode ser coado pra não ficar pequenas casquinhas no sorvete e é preciso cuidado pra não levar à batedeira a mistura muito congelada no passo 3 para não danificar o aparelho. O tempo correto de congelamento nesse passo depende muito de cada congelador, então o ideal é verificar periodicamente a consistência para que não endureça demais."
+    ]
+  },
+  "tempo_de_preparo": "600 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DIOVANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299761-sorvete-de-milho.html"
+}

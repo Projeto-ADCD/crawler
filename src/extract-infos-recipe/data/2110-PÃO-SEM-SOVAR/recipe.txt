@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO SEM SOVAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 ml leite morno",
+      "2 ovos",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (café) de sal",
+      "10 g de fermento biológico seco",
+      "2 colheres (sopa) de margarina",
+      "500 g farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o leite, ovos, açúcar, sal, fermento e margarina no liquidificador",
+      "Passe para uma tigela e adicione a farinha aos poucos mexendo com a colher",
+      "A massa fica mole e grudenta, não dá para modelar",
+      "Unte uma forma com margarina e farinha",
+      "Coloque a massa na forma, cobra bem com um pano de prato e deixe descansar num local abafado por uns 30 minutos (a massa quase dobra de tamanho)",
+      "Use um ovo com meia colher (sopa) de leite para pincelar na massa",
+      "Leve ao fogo preaquecido a 180° C por 40 a 50 minutos (até dourar)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BIANCA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305986-pao-sem-sovar.html"
+}

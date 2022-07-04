@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CREME DE CHOCOLATE COM CHANTILI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme",
+      "1 caixa de leite condensado",
+      "5 colheres de achocolatado em pó",
+      "5 colheres de margarina",
+      "Chantili",
+      "1 caixa de creme de leite",
+      "3 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Mexa tudo até sair bolinhas da margarina",
+      "Depois deixe descansar por 5 minutos",
+      "Chantili",
+      "Bata tudo na batedeira até ficar homogêneo",
+      "Depois, deixe no congelador durante 30 minutos",
+      "Após isso, bata na batedeira até ficar consistente",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ALDICEIA BRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302887-creme-de-chocolate-com-chantili.html"
+}

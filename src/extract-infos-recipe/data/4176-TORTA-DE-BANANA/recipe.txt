@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TORTA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos (claras e gemas separadas)",
+      "1 xícara (chá) de leite integral",
+      "1 e meia caixa de leite condensado",
+      "1 colher (sopa) de margarina",
+      "1 colher (sopa) de amido de milho",
+      "1 colher (sopa) de essência de baunilha",
+      "4 bananas amassadas (usei banana prata)",
+      "2 bananas picadas",
+      "20 colheres (sopa) de açúcar refinado",
+      "1 dose de conhaque"
+    ]
+  },
+  "passos": {
+    "CREME COZIDO (BASE DA TORTA)": [
+      "Numa panela, coloque as gemas peneiradas, o leite condensado, o leite com o amido de milho já dissolvido, a margarina e a essência de baunilha.",
+      "Ainda com o fogo desligado, mexa tudo até ficar homogêneo.",
+      "Acenda o fogo, e em fogo baixo cozinhar a mistura até formar um creme espesso. É importante o fogo baixo para não encarossar.",
+      "Assim que estiver pronto, transfira para um refratário e reserve."
+    ],
+    "DOCE DE BANANA (SEGUNDA CAMADA DA TORTA)": [
+      "Coloque as bananas amassadas numa panela e acrescente 6 colheres do açúcar refinado. Cozinhe mexendo sem parar.",
+      "É importante observar a cor, assim que começar a ferver e já estiver escurecendo, acrescente o conhaque.",
+      "Deixe cozinhar até que o álcool evapore, sem parar de mexer, se não queima.",
+      "Assim que estiver bem caramelizado, transfira o doce para o refratário, sobre o creme reservado."
+    ],
+    "SUSPIRO (TERCEIRA CAMADA)": [
+      "Batas as claras na batedeira para encorporar o ar.",
+      "Quando estiver em ponto de neve, acrescente 9 colheres de açúcar (se preferir mais doce, o açúcar é a vontade) e bata até o ponto de suspiro.",
+      "Coloque esta mistura sobre o doce de banana no refratário e leve pra assar em forno pré aquecido a 220 graus.",
+      "O tempo vai variar de forno pra forno. Só tem que observar quando estiver dourada, já pode retirar."
+    ],
+    "BANANA CARAMELIZADA (QUARTA E ÚLTIMA CAMADA)": [
+      "Numa panela, em fogo baixo, 5 colheres de açúcar e mexa até caramelizado, acrescente meia xícara de água quente (se necessário, acrescente mais um pouco. Essa medida é meio no olho).",
+      "Assim que a cristalização do açúcar derreter e o caramelo estiver homogêneo, acrescente as bananas picadas e cozinhe até que elas fiquem macias, mas que não se desfaçam. Esse processo é bem rápido.",
+      "Após retirar a torta do forno, para finalizar, acrescente a banana caramelizada à torta e leve pra gelar. Geladeira é opcional, mas eu prefiro essa torta gelada."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CARLA BRIANESE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301677-torta-de-banana.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "SHIMEJI EMPANADO CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de shimeji fresco (1 bandeja)",
+      "sal e pimenta a gosto",
+      "alho e cebola em pó a gosto ",
+      "1 xicara de farinha de trigo ",
+      "1 colher (chá) de bicabornato de sódio ",
+      "1/2 xícara de água ou o quanto bastar",
+      "sal a gosto  ",
+      "farofa pronta de milho Yoki para empanar ",
+      "óleo para fritar ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Higienize os cogumelos conforme a embalagem e corte a parte mais grossa ",
+      "Separe em pequenos conjuntos, mantendo os cogumelos unidos pela base ",
+      "Forre um prato com papel-toalha",
+      "Disponha os cogumelhos e cubra com mais um papel-toalha",
+      "Leve ao micro-ondas por aproximadamente 2 minutos ",
+      "Esse processo vai fazer com que retire o excesso de água do cogumelo",
+      "Aperte com cuidado para extrair o máximo de água",
+      "Em seguida, coloque os cogumelos em um recipiente e tempere com sal, pimenta, alho e cebola em pó a gosto (coloque o tempero seco que você gosta)",
+      "Em um recipiente prepare a massa com o trigo, bicabornato e pitada de sal ",
+      "Coloque água até que fique uma massa mole e homogenea (não deve ficar muito líquida nem muito pesada)",
+      "Em um prato coloque a farofa de milho Yoki para empanar ",
+      " Passe o cogumelo na massa e depois na farofa, repita esse processo mais uma vez para que  fique uma camada grossa e crocante ",
+      "Frite em óleo quente até dourar ",
+      "Cuidado que pode espirrar óleo devido ao cogumelo possuir água em sua composição "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Ana Carolina dos Santos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304238-shimeji-empanado-crocante.html"
+}

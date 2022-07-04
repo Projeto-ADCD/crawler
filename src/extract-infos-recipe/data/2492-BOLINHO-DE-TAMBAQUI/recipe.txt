@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO DE TAMBAQUI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 de uma banda de tambaqui (aprox. 300 g)",
+      "1 ovo",
+      "1/2 xícara de farinha de trigo",
+      "cheiro-verde a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe o filé do peixe e desfie.",
+      "Misture o peixe já desfiado com o ovo, a farinha de trigo, o cheiro-verde e sal a gosto.",
+      "Se ficar muito mole coloque mais farinha de trigo ou se ficar muito seco coloque mais um ovo.",
+      "Faça bolinhas com as mãos e frite em óleo ou fritadeira elétrica.",
+      "Rende aprox. 20 bolinhos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VEYDA NERY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305082-bolinho-de-tambaqui.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SOBREMESA DE NEGRESCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "150 ml de suco do limão",
+      "2 pacote de negresco ou oreo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma vasilha o leite condensado com o limão, até dobrar o tamanho e ficar um creme homogêneo.",
+      "Depois triture uns 5 biscoitos e junte com o creme.",
+      "Em seguida faça a montagem.",
+      "Coloque na travessa o creme, 10 biscoitos inteiros, de novo o creme, o biscoito, o creme novamente e por último biscoitos triturado para decorar.",
+      "Leve para o congelador por 30 minutos e está pronto.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LARISSA MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304567-sobremesa-de-negresco.html"
+}

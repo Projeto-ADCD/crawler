@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce ou azedo",
+      "2 colheres (sopa) de margarina",
+      "300 ml de leite",
+      "1 colher (sopa) de sal",
+      "3 ovos",
+      "200 g de queijo ralado (usei cheddar em barra)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite com a margarina e o sal.",
+      "Disponha o polvilho em uma vasilha de plástico e coloque a mistura",
+      "Misture bem.",
+      "Acrescente os ovos e o queijo, continue misturando.",
+      "Unte uma parte de sua mesa ou balcão com farinha para sovar a massa.",
+      "Sove bastante até que esteja homogênea.",
+      "Faça as bolinhas e coloque para assar a 200° C"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: se a massa ficar muito mole, adicione um pouco mais de polvilho."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "PATRÍCIA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305859-pao-de-queijo.html"
+}

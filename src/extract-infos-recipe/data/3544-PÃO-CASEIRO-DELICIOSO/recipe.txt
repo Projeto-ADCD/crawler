@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO CASEIRO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "550 g de trigo",
+      "3 ovos",
+      "60 g de açúcar",
+      "9 g de sal",
+      "90 g de óleo",
+      "20 g de fermento seco",
+      "180 ml de água gelada",
+      "20 g de melhorador para pão (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos, o açúcar, o óleo, a água, o fermento e o melhorador em uma bacia",
+      "Adicione o trigo aos poucos",
+      "Quando estiver colocado metade do trigo acrescente então o sal",
+      "Termine de adicionar o trigo",
+      "A massa não deve grudar nas mãos, mas não é aconselhável por o trigo todo de uma vez para não ficar pesada",
+      "Amasse a massa até que ela fique em ponto de véu (pega uma bolinha e vai abrindo com a mão até que ela fique meio transparente e não rasgue)",
+      "Deixe crescer até dobrar de tamanho",
+      "Divida em dois pedaços e abra com o rolo",
+      "Enrole, coloque numa forma e deixe crescer até dobrar o tamanho novamente",
+      "Passe 1 ovo batido por cima e coloque pra assar a 200°C por mais ou menos 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DAY RUIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303168-pao-caseiro-delicioso.html"
+}

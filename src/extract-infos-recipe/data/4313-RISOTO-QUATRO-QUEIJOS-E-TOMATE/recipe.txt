@@ -1,0 +1,37 @@
+{
+  "nome_receita": "RISOTO QUATRO QUEIJOS E TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de azeite de oliva extra virgem",
+      "1 alho amassado",
+      "200 g de arroz",
+      "1 cálice de vinho branco",
+      "1 tomate cortado em fatias finas",
+      "1 litro de água",
+      "sal a gosto",
+      "50 g de queijo parmesão",
+      "50 g de queijo emental",
+      "50 g de queijo provolone",
+      "40 g de queijo gorgonzola",
+      "ervas finas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque o azeite de oliva e a linguiça caipira e frite a linguiça",
+      "Quando estiver quase frita, acrescente a manteiga e o alho amassado e frite até dourar",
+      "Quando o alho estiver dourado, acrescente o arroz e frite por 3 minutos, mexendo sempre para não grudar",
+      "Acrescente o vinho branco e continue mexendo",
+      "Adicione o tomate",
+      "Acrescente a água aos poucos, sem parar de mexer",
+      "Tempere com o sal (não esqueça que os queijos têm sal naturalmente)",
+      "Antes de finalizar o cozimento, quando ainda houver um pouco de água acrescente os queijos e as ervas finas e mexa até os queijos ficarem bem derretidos",
+      "Desligue o fogo e mexa um pouco até ficar no ponto de servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DERMENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301388-risoto-quatro-queijos-e-tomate.html"
+}

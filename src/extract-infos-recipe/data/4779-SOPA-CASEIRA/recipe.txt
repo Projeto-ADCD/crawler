@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SOPA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de água",
+      "600 g de carne para sopa",
+      "150 g de macarrão ",
+      "1 colher (sopa) de azeite para fritar a carne",
+      "1 colher (sopa) de sal",
+      "1 colher de colorau",
+      "1 cebola",
+      "2 dentes de alho picados",
+      "1 colher (chá) de pimenta-do-reino para temperar a carne",
+      "2 batatas",
+      "2 batatas salsa",
+      "1 cenoura",
+      "3 tomates maduros sem pele e sem sementes",
+      "1 mão de salsinha picada",
+      "Fatias de pães de centeio para acompanhar a sopa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque o azeite",
+      "Após aquecido, coloque a carne, já salgada e cortada em pedaços em forma de bifes para fritar",
+      "Adicione a cebola e o alho para fritar em volta da carne.",
+      "Assim que a carne selar e a cebola fritar, adicione o tomate cortado em pedacinhos junto com a cebola e o alho",
+      "Acrescente ainda o colorau sobre os tomates.",
+      "Adicione a batata, a cenoura e a batata salsa e coloque a água aos poucos",
+      "Deixe cozinhar até que as verduras estejam quase cozidas.",
+      "Coloque o macarrão e deixe cozinhar até que amoleça, mantendo sempre bastante caldo.",
+      "Antes de servir salpique a salsinha sobre a sopa.",
+      "Sirva em pratos fundos com o pão de centeio.",
+      "É uma ótima refeição para apreciar nos dias frios"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HESTEVARD MARTIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300243-sopa-caseira.html"
+}

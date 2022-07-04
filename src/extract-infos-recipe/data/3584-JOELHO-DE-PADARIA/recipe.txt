@@ -1,0 +1,33 @@
+{
+  "nome_receita": "JOELHO DE PADARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo.",
+      "1 xícara e 1/2 de água morna",
+      "15 g de fermento biológio seco (em pó) ou 10 g de fermento biológico em tablete.",
+      "2 colheres (sopa) de queijo parmesão.",
+      "1/2 colher (sopa) de sal",
+      "1/2 colher (sopa) de açucar",
+      "1 gema (para pincelar)",
+      "Recheio vai à gosto: Calabresa, frango, queijo com presunto, requeijão cremoso e etc."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes, menos a farinha de trigo e a gema.",
+      "Após tudo bem misturado vá acrescentando a farinha aos poucos e mexendo com uma colher de pau.",
+      "Quando a massa estiver bem homogênea, coloque em cima de uma bancada e sove por uns 10 minutos.",
+      "Após isso, deixe a massa descansar dentro de um recipiente coberto com filme plástico por 30 minutos.",
+      "Vá pegando pedaços da massa, coloque em cima de uma bancada e estique com um rolo de forma que a massa fique comprida (tipo para enrolar para rocambole).",
+      "Coloque o recheio no meio da massa e enrole.",
+      "Após a massa fechada e em formato comprido, vá cortando com a ajuda de uma faca para que fique em pedaços menores.",
+      "Pincele com a gema (Se quiser salpique com um pouco de queijo parmesão por cima da gema).",
+      "Leve ao forno pré-aquecido à 220 graus (não coloque o forno muito baixo) por uns 40 minutos ou até dourar (isso vai depender do seu forno, fique de olho).",
+      "Pode ser feito em forno elétrico."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303103-joelho-de-padaria.html"
+}

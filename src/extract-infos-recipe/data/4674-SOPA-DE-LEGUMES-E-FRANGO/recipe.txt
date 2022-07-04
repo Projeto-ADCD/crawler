@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOPA DE LEGUMES E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha",
+      "1 cenoura",
+      "1 beringela",
+      "1 chuchu",
+      "1/2 brócolis",
+      "1/2 couve flor",
+      "Salsinha",
+      "Cebolinha verde",
+      "2 tabletes de tempero pronto de caldo de galinha",
+      "500g de peito de frango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o peito de frango para cozinhar na panela de pressão junto com caldo de galinha e deixe ferver em torno de 20 a 30 minutos. ",
+      "Depois de cozinhar o peito, abra a panela e coloque todos os legumes picados ou ralados.",
+      "Se achar necessário coloque mais um caldo ou sal.",
+      "Coloque na pressão novamente e deixe ferver por mais 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISLAINE ROMANIUK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300459-sopa-de-legumes-e-frango.html"
+}

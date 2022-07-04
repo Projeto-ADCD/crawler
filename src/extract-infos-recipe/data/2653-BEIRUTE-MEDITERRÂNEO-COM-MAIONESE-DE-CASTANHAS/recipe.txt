@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BEIRUTE MEDITERRÂNEO COM MAIONESE DE CASTANHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 Almôndegas do Futuro (1 caixa)",
+      "1 colher (sopa) de mel",
+      "2 colheres (sopa) de azeite",
+      "100 g de castanha de caju crua",
+      "3 colheres (sopa) de água gelada",
+      "suco de 1 limão",
+      "1 colher (chá) de alho em pó",
+      "1 cebola roxa em rodelas finas",
+      "1 pepino em fatias finas",
+      "1 molho de alface crespa",
+      "3 unidades de pão pita",
+      "1/2 maço de cebolinha picadinha",
+      "sal e pimenta-do-reino e limão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque as castanhas de caju cruas e cubra com água.",
+      "Deixe de molho por 4 horas e escorra.",
+      "Coloque as castanhas no liquidificador com a água gelada, o suco de limão, 1 colher (sopa) de azeite, o alho em pó, sal e pimenta a gosto.",
+      "Bata até atingir a consistência desejada (com mais ou menos água).",
+      "Essa é a maionese que acompanha nosso sanduíche, reserve.",
+      "Coloque as Almôndegas do Futuro numa assadeira, tempere com sal e pimenta, pincele com azeite e mel",
+      "Leve ao forno preaquecido a 180° C por 20 minutos, reserve.",
+      "Coloque a cebola roxa fatiada de molho na água gelada por 10 minutos, isso vai diminuir o sabor forte das cebolas.",
+      "Escorra e reserve.",
+      "Para montar o sanduíche",
+      "Em uma fatia de pão pita passe a maionese de castanhas, acomode por cima as almôndegas assadas, as fatias de pepino, a cebola roxa, a cebolinha e a alface.",
+      "Use limão como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304737-beirute-mediterraneo-com-maionese-de-castanhas.html"
+}

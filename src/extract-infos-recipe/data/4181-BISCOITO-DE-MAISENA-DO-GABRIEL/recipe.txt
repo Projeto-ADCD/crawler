@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BISCOITO DE MAISENA DO GABRIEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote 500 g amido de milho",
+      "1 lata de leite condensado",
+      "200 g margarinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e continue misturando até formar uma massa homogênea (no início parece que não vai misturar, mas continue)",
+      "Faça bolinhas um pouco maior que uma bola de gude e amasse no formato de um biscoito",
+      "Coloque para assar por 20 minutos, espere esfriar e delicie-se."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GABRIEL COLMAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301654-biscoito-de-maisena-do-gabriel.html"
+}

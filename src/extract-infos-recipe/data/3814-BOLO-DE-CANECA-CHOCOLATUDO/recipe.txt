@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CANECA CHOCOLATUDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) colheres de Nescau",
+      "3 colheres (sopa) de óleo",
+      "1 colher (café) pra fermento de bolo (se for pouco 1/2 colher (café) a mais)",
+      "4 colheres (sopa) de leite",
+      "4 colheres (sopa) de trigo",
+      "3 colheres de açúcar mascavo ou demerara",
+      "1 ovo inteirinho (não precisa separa gema)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os secos menos o fermento",
+      "Adicione os líquidos",
+      "Por último o fermento e misture até fica homogêneo",
+      "Leve por 3 minutos no microondas, mas se seu microondas não for muito bom leve por 4 minutos, sempre olhando"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KAWANA KNZ ZACARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302596-bolo-de-caneca-chocolatudo.html"
+}

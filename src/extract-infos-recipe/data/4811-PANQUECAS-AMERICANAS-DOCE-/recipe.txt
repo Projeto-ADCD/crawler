@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PANQUECAS AMERICANAS (DOCE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de farinha de trigo",
+      "3 colheres de fermento em pó",
+      "3 colheres de açúcar",
+      "300 ml de leite",
+      "1 ovo",
+      "manteiga para fritar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em um recipiente",
+      "Misture tudo muito bem",
+      "Frite na manteiga",
+      "Coloque a cobertura que você desejar"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DAIANA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300188-panquecas-americanas-doce.html"
+}

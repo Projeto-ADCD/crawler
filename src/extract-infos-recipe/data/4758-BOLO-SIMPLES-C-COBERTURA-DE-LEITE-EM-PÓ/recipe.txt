@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO SIMPLES C/ COBERTURA DE LEITE EM PÓ",
+  "ingredientes": {
+    "MASSA": [
+      "3 Ovos",
+      "1/2 Xícara de Leite",
+      "1/2 Xícara de Óleo",
+      "1 Xícara de Açúcar",
+      "2 Xícaras de Farinha de Trigo",
+      "1 Colher (sopa) de Fermento em Pó"
+    ],
+    "COBERTURA": [
+      "1 Lata de Leite Condensado",
+      "2 Colheres (sopa) Cheias de Leite e Pó",
+      "1 Colher (sopa) de Manteiga"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata as claras em neve e reserve.",
+      "Coloque na batedeira as gemas e o açúcar a bata até espumar.",
+      "Junte o óleo e bata mais um pouco.",
+      "Intercale a farinha (peneirada) com o leite até acabar os dois.",
+      "Quando estiver uma massa bem bonita e homogênea, coloque as claras em neve e misture deº licadamente, de baixo para cima.",
+      "Junte o fermento em pó, e coloque em uma forma untada e enfarinhada, de preferência com papel manteiga no fundo.",
+      "Leve em forno pré-aquecido a 180º por 40-45 minutos, ou até passar no teste do palito."
+    ],
+    "COBERTURA": [
+      "Em uma canela coloque o leite condensado, o leite em pó e a manteiga e misture muito bem fora do fogo.",
+      "Depois de bem misturado, leve em fogo médio para baixo e mexa muito bem até engrossar, não precisa soltar do mundo da panela.",
+      "Coloque ainda quente encima do bolo.",
+      "(Opcional) coloque um pouco de leite em pó em uma peneira e polvilhe por cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300284-bolo-simples-c-barra-cobertura-de-leite-em-po.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DE MINUTO COM ESSÊNCIA DE BAUNILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de trigo",
+      "200 g de açúcar",
+      "125 g de margarina",
+      "2 ovos",
+      "leite para dar o ponto [aproximadamente 1 dedo de copo (americano)]",
+      "essência de baunilha a gosto",
+      "2 colheres (sopa) rasa de fermento para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar, a margarina, os ovos e a essência de baunilha até formar um creme",
+      "Acrescente o trigo, o fermento e o leite até dar o ponto de massa",
+      "Unte uma forma com óleo e separe a massa em forma de rolinhos de aproximadamente 60 g cada.",
+      "Passe uma gema de ovo em cima da massa na forma ",
+      "Leve para assar em forno preaquecido a 180° C por aproximadamente 23 minutos ou até que eles estejam douradinho"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALINE LAZARINI DE ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302385-pao-de-minuto-com-essencia-de-baunilha.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CONTRA FILÉ AO MOLHO MOSCAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 Kg de contra file ou outra de sua preferência",
+      "Sal e pimenta do reino a gosto",
+      "1 colher (sopa) de manteiga",
+      "3 colheres (sopa) de mostarda",
+      "3 colheres (sopa) de molho shoyo",
+      "1 colher de sobremesa de cafe",
+      "1 cebola picada",
+      "3 dentes de alho cortado em lâminas",
+      "200 g de creme de leite",
+      "Cheiro verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com sal e pimenta-do-reino a gosto.",
+      "Aqueça uma frigideira com óleo ou azeite até que fique bem quente.",
+      "Coloque o alho e os bifes um de cada vez até que doure cada lado. Não deixe muito tempo para não perder a maciez e a suculência da carne.",
+      "Reserve os bifes em um prato a parte.",
+      "Ainda com o fogo da frigideira ligado e com a sobra do óleo, o alho, a manteiga e a cebola, mexa bem pra refogar bastante.",
+      "Acrescente o creme de leite, a mostarda e o shoyo e mexa até encorpar bem.",
+      "Veja se esté bom de sal. Caso precise, adicione umas pitadas a gosto coloque o café.",
+      "Desligue o fogo e mexa bem.",
+      "Corte os bifes em tiras, coloque o molho por cima e acrescente o cheiro verde."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SIDNEI JUNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300849-contra-file-ao-molho-moscafe.html"
+}

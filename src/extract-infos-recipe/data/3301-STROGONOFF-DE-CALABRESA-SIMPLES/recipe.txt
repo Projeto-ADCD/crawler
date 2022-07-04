@@ -1,0 +1,24 @@
+{
+  "nome_receita": "STROGONOFF DE CALABRESA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 calabresa cortada",
+      "1 caixinha de creme de leite",
+      "1 molho de tomate",
+      "1 cebola picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média coloque a cebola picada e o óleo, em seguida deixa a cebola dourar um pouco",
+      "Quando a cebola tiver dourado um pouco coloque a calabresa cortadas em rodelas na panela e deixa fritar um pouco",
+      "Em seguida, coloca o molho de tomate, logo depois o creme de leite, se ficar muito líquido o molho",
+      "Coloque um pouco de amido de milho, mexa e deixe um pouco no fogo",
+      "Sirva com batata palha, fica uma maravilha"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MILENA ALEIXOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303590-strogonoff-de-calabresa-simples.html"
+}

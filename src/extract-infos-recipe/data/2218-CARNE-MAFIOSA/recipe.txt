@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CARNE MAFIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 peitos de frango",
+      "2 bocados de carne de porco",
+      "1 lata de salsichas",
+      "1 pimento vermelho",
+      "2 tomates sem sementes",
+      "1 cebola",
+      "1 dente de alho",
+      "1/2 cerveja",
+      "1 folha de louro",
+      "salsa",
+      "1/2 limão",
+      "pimenta preta",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa frigideira, ponha azeite com 1 cebola picada e o pimento também picado",
+      "Ponha a meia cerveja",
+      "Depois ficar bem frito, para a carne aos quadrados com o tempero e o louro na frigideira",
+      "Acrescente o tomate picado",
+      "Tempere a carne com meio limão e 1 dente de alho",
+      "Depois de vem cozinhado acrescente as salsichas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "CLÁUDIA TEIXEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305692-carne-mafiosa.html"
+}

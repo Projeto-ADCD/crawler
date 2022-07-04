@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FAROFA DA VÓ MARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão fradinho",
+      "2 gomos de linguiça calabresa picada em cubos pequenos",
+      "1 pimentão grande picado",
+      "2 tomates grandes picado",
+      "1 cebola grande picada",
+      "500 g de bacon picado",
+      "2 dentes de alho amassados",
+      "1 kg de farinha temperada ",
+      "sal a gosto",
+      "pimenta a gosto",
+      "páprica picante a gosto",
+      "2 sachês de tempero pronto",
+      "1 maço de coentro picado",
+      "cebolinha a gosto picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão por aproximadamente 20 minutos, até q fique macio",
+      "Após o cozimento, escorra e reserve",
+      "Em uma panela grande, frite o bacon em 1 xícara de óleo, deixe em fogo alto até que fique dourado ",
+      "Após fritar, retire e reserve",
+      "Na mesma gordura, frite a calabresa até dourar, retire e reserve",
+      "Na mesma gorduaca frite o alho, a cebola, o pimentão, o tomate, a linguiça, o bacon e os temperos",
+      "Refogue em fogo baixo por aproximadamente 30 minutos",
+      "Mexa e acrescente o feijão",
+      "Refogue mais uns 5 minutos e desligue o fogo",
+      "Acrescente a farinha temperada e misture, pronto"
+    ]
+  },
+  "tempo_de_preparo": "110 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ELAINE CUBAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303884-farofa-da-vo-maria.html"
+}

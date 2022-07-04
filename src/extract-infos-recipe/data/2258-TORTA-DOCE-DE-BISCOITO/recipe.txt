@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DOCE DE BISCOITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de biscoito com recheio",
+      "2 caixas de leite condensado",
+      "2 caixinhas de creme de leite",
+      "suco de 3 limões",
+      "se quiser para substituir os limões use gelatina incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture as bolachas com recheio no liquidificador até ficar em pó e separe 4 bolachas para o acabamento",
+      "Coloque elas no recipiente escolhido para a receita",
+      "Triture as bolachas que você separou para o acabamento (elas tem que ser sem recheio)",
+      "Coloque no liquidificador as duas caixas de leite condensado e as duas caixinhas de creme de leite com o suco de limão ou gelatina incolor",
+      "Despeje pelas bolachas (com recheio)",
+      "Coloque na geladeira por duas a três horas",
+      "Depois de duas a 3 horas, polvilhe biscoito triturado sem recheio em cima da torta"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANG BEATRIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305617-torta-doce-de-biscoito.html"
+}

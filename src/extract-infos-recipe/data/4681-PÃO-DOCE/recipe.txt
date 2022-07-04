@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de farinha de trigo",
+      "600 g de açúcar",
+      "2 ovos",
+      "240 ml de leite",
+      "3 colheres (chá) de manteiga",
+      "14 g de fermento biológico",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, o açúcar, os ovos e a manteiga e bata.",
+      "Misture o fermento e a farinha de trigo.",
+      "Misture os ingredientes líquidos com os ingredientes em pó.",
+      "Reserve em local ensolarado até crescer.",
+      "Coloque na forma e asse por 30 minutos.",
+      "pincele com caramelo ou ovo."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NAYARA VIEIRA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300444-pao-doce.html"
+}

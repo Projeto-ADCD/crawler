@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE PÃO DE QUEIJO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos médios",
+      "1/2 xícara de manteiga derretida",
+      "1/2 xícara de água",
+      "100 g de queijo parmesão",
+      "2 e 1/2 xícara de polvilho doce",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento em pó",
+      "300 g de mussarela para o recheio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve a mussarela para o recheio",
+      "O restante dos ingredientes bata tudo no liquidificador por 2 minutos deixando o fermento por último",
+      "Unte uma forma com manteiga e polvilho",
+      "Coloque metade da massa",
+      "Coloque o queijo mussarela por cima da massa",
+      "Despeje o restante da massa",
+      "Leve ao forno pré-aquecido em 180°C por 35 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ELAINE KODAMA HIGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303461-bolo-de-pao-de-queijo-facil.html"
+}

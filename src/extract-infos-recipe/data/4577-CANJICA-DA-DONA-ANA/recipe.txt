@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJICA DA DONA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícara (chá) de canjica amarela",
+      "1 xícara (chá) amendoim torrado picado ou triturado",
+      "1 xícara (chá) de açúcar",
+      "1 litro de leite integral",
+      "1 lata de leite condensado",
+      "1 pacote de coco ralado (100 g)",
+      "cravo e canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a canjica de molho na água por 24 horas",
+      "Transfira a canjica para uma panela de pressão e coloque água até a cobrir bem de preferência uns 5 dedos pra cima.",
+      "Adicione o cravo e a canela e cozinhe por 45 minutos.",
+      "Acrescente o açúcar, o leite, o leite condensado e o amendoim",
+      "Com a panela destampada, cozinhe até engrossar a canjica quando estiver quase pronta acrescente o coco ralado para finalizar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "RAFAEL KASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300818-canjica-da-dona-ana.html"
+}

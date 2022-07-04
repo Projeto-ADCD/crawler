@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO COM LINGUIÇA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de macarrão espaguete",
+      "1 linguiça calabresa ou paio",
+      "1 tempero pronto de sua preferência",
+      "2 colheres de manteiga",
+      "1 caixa de creme de leite",
+      "óleo",
+      "sal",
+      "1 sachê ou lata de extrato de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água para ferver em fogo alto",
+      "Corte a linguiça em cubos e reserve",
+      "Com a água fervendo adicione 2 colheres de óleo e 1 de sal",
+      "Utilize panela ainda quente do macarrão e coloque a manteiga para derreter é adicione o tempero pronto",
+      "Adicione a linguiça e aguarde ela ficar crocante",
+      "Adicione o extrato de tomate e refogue em fogo baixo",
+      "Adicione o macarrão e, assim que ele estiver solto, escorra",
+      "Adicione o creme de leite, prove o refogado antes de colocar o macarrão e depois mexa bem para que fique uniforme",
+      "Sirva e se delicie "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "YAN HOOU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302566-macarrao-com-linguica-facil.html"
+}

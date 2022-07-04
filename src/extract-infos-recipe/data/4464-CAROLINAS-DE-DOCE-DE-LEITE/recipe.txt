@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CAROLINAS DE DOCE DE LEITE",
+  "ingredientes": {
+    "MASSA": [
+      "80 ml de água",
+      "100 ml de leite",
+      "70g de manteiga sem sal (precisa ser manteiga)",
+      "1 colher (sopa) de açúcar",
+      "1 pitada de sal",
+      "1 xícara de farinha de trigo",
+      "3 ovos"
+    ],
+    "RECHEIO": [
+      "Doce de leite pastoso à gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, leve ao fogo a água, o leite, o açúcar e o sal. Mexa muito bem e espere esquentar um pouco.",
+      "Em seguida, coloque a manteiga e mexa até derreter. Depois disso, coloque a farinha de trigo toda de uma vez.",
+      "Mexa muito bem até desgrudar da panela e até que a panela crie um fundo de massa.",
+      "Coloque essa mistura ainda quente na batedeira e adicione os ovos, um de cada vez, batendo cada um em intervalos de 2 a 3 minutos.",
+      "O ponto da massa é quando ela fica bem lisinha e leve.",
+      "Transfira toda a massa para um saco de confeitar e faça um furo médio, ou coloque um bico de confeitar (usei o bico pitanga grande).",
+      "Unte uma forma com manteiga e faça bolinhas com a massa do tamanho de sua preferência. Leve em forno pré-aquecido, 180º por 35-40 minutos, até ficarem douradas.",
+      "Quando esfriar, coloque o doce de leite em um saco de confeitar, faça pequenos furos em baixo das carolinas e introduza o doce de leite.",
+      "Por fim polvilhe com açúcar refinado, ou de confeiteiro, ou mergulhe em cobertura fracionada de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301045-carolinas-de-doce-de-leite.html"
+}

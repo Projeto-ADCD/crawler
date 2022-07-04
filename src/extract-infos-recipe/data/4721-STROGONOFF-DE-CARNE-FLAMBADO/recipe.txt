@@ -1,0 +1,32 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE FLAMBADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bisnaga de ketchup",
+      "500 g de filé mignon",
+      "1 lata de creme de leite",
+      "1 pitada de açúcar",
+      "1 pitada de sal para o molho e sal a gosto para temperar a carne",
+      "1/2 cebola picada",
+      "2 colheres de sopa de manteiga",
+      "1 dose de conhaque",
+      "100 gm de cogumelo champinhom",
+      "1 fio de azeite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a manteiga, sal, a cebola e o filé mignon e refogue.",
+      "Depois, acrescente o conhaque para flambar a carne: é só inclinar um pouco a panela perto da chama do fogão até ele pegar fogo.",
+      "Acrescente o ketchup, uma lata de creme de leite, uma pitada de sal e de açúcar e o champingnon.",
+      "Mexa em fogo alto até a cor do Ketchup mudar de vermelho para laranja, assim que mudar de cor, cozinhe por mais 8 minutos em fogo baixo. O molho ficará pouco mais grosso."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Tome cuidado pois as chamas sobem bastante, caso não se sinta seguro, apenas acrescente só 1/2 dose do conhaque sem flambar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAINIER TULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300360-strogonoff-de-carne-flambado.html"
+}

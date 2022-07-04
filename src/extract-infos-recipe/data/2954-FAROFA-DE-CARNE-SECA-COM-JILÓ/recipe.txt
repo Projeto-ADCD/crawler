@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA DE CARNE SECA COM JILÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa de milho",
+      "1 cebola média cortada em cubos pequenos",
+      "4 dentes de alho picadinhos",
+      "200 g de carne seca (já cozida e desfiada)",
+      "5 jilós em fatias",
+      "1 banana da terra em cubos",
+      "1 colher de azeite",
+      "1 colher de manteiga",
+      "cheiro-verde a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira frite as rodelas de jiló temperadas com sal, em fogo médio",
+      "Pique em cubos e reserve",
+      "Frite as bananas e reserve",
+      "Doure em uma panela o alho, a cebola com o azeite",
+      "Acrescente a carne já cozida e desfiada",
+      "Junte o jiló, a banana, a farofa de milho e a colher de manteiga",
+      "Mexa por uns 5 minutos em fogo médio",
+      "Desligue, acrescente o cheiro verde e sirva "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JULIANA APARECIDA VIEIRA COELHO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304079-farofa-de-carne-seca-com-jilo.html"
+}

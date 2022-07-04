@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GALINHADA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango",
+      "1 pimentão",
+      "1 cebola",
+      "2 caixas de creme de leite",
+      "1 tomate",
+      "1 alho",
+      "1 ou 2 colheres de tempero adobo",
+      "800 g de queijo",
+      "1 pacote de azeitona",
+      "5 ovos",
+      "1 pitada de sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito e depois de cozido desfie e despeje numa panela",
+      "Numa panela adicione a cebola, o alho, o pimentão e tomate",
+      "Depois de dar uma fervida ponha o sal e o tempero adobo",
+      "Cozinhe os ovos e adicione logo",
+      "Por último, ponha numa travessa, adicione as azeitonas e o queijo e leve no forno por 30 minutos "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ELISA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303172-galinhada-cremosa.html"
+}

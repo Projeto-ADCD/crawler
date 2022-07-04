@@ -1,0 +1,59 @@
+{
+  "nome_receita": "SMASH BURGUER, SEU BURGUER IGUAL DAS HAMBURGUERIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 porções de 120 g de costela moída",
+      "pão de hamburguer",
+      "manteiga",
+      "molho barbecue",
+      "2 fatias de queijo cheddar processado",
+      "2 fatias de bacon",
+      "sal a gosto"
+    ],
+    "MAIONESE VERDE:": [
+      "2 ovos",
+      "1 colher de chá de mostarda",
+      "pitada de sal",
+      "1 colher de sopa de suco de limao",
+      "óleo",
+      "salsinha",
+      "cebola a gosto"
+    ],
+    "FAROFA DE SOJA CROCANTE:": [
+      "1 copo (americano) ou 150 ml óleo de milho",
+      "2 copos (americanos) de soja texturizada",
+      "30 g creme de cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passe manteiga no pão e coloque na chapa ou frigideira ja quente.",
+      "Assim que o pão estiver dourado retire. Frite o bacon deixe bem dourado e retire direto para o papel toalha.",
+      "Com a frigideira bem quente faça uma bolinha de hamburguer tipo almôndega e coloque na frigideira e a amasse o máximo que conseguir.",
+      "Coloque sal e deixe tres minutos, vire e coloque sal do outro lado também e coloque o cheddar por cima e tampe a panela por 2 ou 3 minutos.",
+      "Na chapa sempre será dois minutos de cada lado com ela bem quente, após os 3 minutos retire o hamburguer e deixe descansar por 1 minuto no prato."
+    ],
+    "MAIONESE VERDE:": [
+      "Bata tudo por uns 30 segundos no liquidificador menos o óleo a salsa e a cebola.",
+      "Após 30 segundos adicione o óleo em fio ate obter uma mistura cremosa.",
+      "Desligue o liquidificador e adicione a salsa e a cebola e bata mais um pouco jorrando o fio de óleo aos poucos, até ficar bem firme.",
+      "Reserve, use e guarde na geladeira por 5 dias."
+    ],
+    "FAROFA CROCANTE DE SOJA TEXTURIZADA:": [
+      "Coloque o óleo em uma panela e deixe esquentar, adicione o creme de cebola e deixe fritar ate dourar e sempre mexendo.",
+      "Coloque a soja e mexa ate ela sugar o óleo, cuidado para não queimar.",
+      "Retire direto para um recipiente com papel toalha pra sugar o execesso de óleo e espere esfriar, guarde no refratario de preferencia de vidro.",
+      "Válido por uns 15 dias."
+    ],
+    "MONTAGEM:": [
+      "Passe a maionese no pão, coloque o hamburguer descansado por 1 minuto, coloque as duas fatias de bacon e por cima o barbecue, e por último a farofa crocante e tampe o lanche com o pão."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Por que descansar a carne? Para que excesso de água da carne saia e não molhe o pão."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAFAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300206-smash-burguer-seu-burguer-igual-das-hamburguerias.html"
+}

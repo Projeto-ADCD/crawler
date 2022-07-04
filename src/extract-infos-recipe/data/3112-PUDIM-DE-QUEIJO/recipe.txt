@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 ml de leite",
+      "1 xícara (chá) de açúcar",
+      "6 ovos",
+      "1 colher (sopa) de fermento em pó",
+      "250 g de queijo minas Président ralado",
+      "1 xícara de farinha de trigo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificdor os ovos, acrescente o açúcar e o leite, bata mais",
+      "Acrescente a farinha e bata até misturar bem, por último acrescente o queijo minas Président e o fermento e bata só para misturar",
+      "Unte um tabuleiro médio e coloque a mistura",
+      "Leve direto ao forno, não precisa de banho-maria, em temperatura média até que fique dourado"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Luciene R. Miranda\nObs: ele estufa quando está assando, depois abaixa."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303863-pudim-de-queijo.html"
+}

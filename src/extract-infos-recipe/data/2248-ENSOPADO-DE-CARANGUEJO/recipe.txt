@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ENSOPADO DE CARANGUEJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne de caranguejo",
+      "2 tomates maduros",
+      "1 pimentão pequeno",
+      "2 cebolas pequenas",
+      "150 ml de polpa de tomate",
+      "100 ml de leite de coco",
+      "azeite a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as cebolas, o tomate e o pimentão e refogue com azeite e sal a gosto.",
+      "Junte a carne de caranguejo e mexa.",
+      "Adicione o molho de tomate e misture bem.",
+      "Deixe ferver um pouco para que o excesso de água evapore e adicione o leite de coco.",
+      "Misture bem e deixe ferver por cerca de 5 minutos.",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOSÉ WILSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305633-ensopado-de-caranguejo.html"
+}

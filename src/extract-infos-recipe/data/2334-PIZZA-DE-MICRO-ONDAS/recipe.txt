@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PIZZA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres de óleo",
+      "1 colher de sal",
+      "1 colher de açúcar",
+      "1/2 xicara de leite",
+      "1 xícara de farinha de trigo",
+      "1 colher rasa de fermento",
+      "1 colher de molho de tomate",
+      "1/2 xícara de azeitona",
+      "1 kg de queijo ralado",
+      "1 massa de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em um refratário coloque os ovos, óleo, leite, sal, açúcar, farinha de trigo e mexa até criar uma massa homogênea.",
+      "Em seguida, adicione o fermento e mexa mais um pouco.",
+      "Coloque a massa direto sobre o prato do micro-ondas a espalhando.",
+      "E coloque no micro-ondas por 4 minutos",
+      "Recheio",
+      "Depois da massa pronta cubra com molho de tomate, adicione queijo ralado, azeitona e orégano",
+      "E volte para o micro-ondas por 2 minutos"
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JEH SENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305458-pizza-de-micro-ondas.html"
+}

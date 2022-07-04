@@ -1,0 +1,22 @@
+{
+  "nome_receita": "LEITE CONDENSADO CASEIRO PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de água fervente",
+      "2 colheres (sopa) de manteiga sem sal",
+      "2 xícaras de leite em pó integral ",
+      "2 xícaras de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por 5 minutos.",
+      "Pronto",
+      "Armazene em potes fechados."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRÉA GUAYANAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302113-leite-condensado-caseiro-pratico.html"
+}

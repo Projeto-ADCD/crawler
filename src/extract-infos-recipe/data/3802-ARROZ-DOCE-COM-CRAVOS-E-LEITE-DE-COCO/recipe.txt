@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ARROZ DOCE COM CRAVOS E LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz (bem lavado e escorrido )",
+      "1,5 litros de leite",
+      "1 vidro de leite de coco (200 ml)",
+      "50 g de coco ralado",
+      "1 caixa de leite condensado (395 ml)",
+      "cravos-da-india a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o arroz para cozinhar no leite e alguns cravos",
+      "Quando estiver al dente, coloque o leite de coco, o coco ralado e o leite condensado e deixe ferver por mais alguns minutos, até que o arroz fique molinho",
+      "Sirva quentinho e, se gostar, com um pouco de canela em pó."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302619-arroz-doce-com-cravos-e-leite-de-coco.html"
+}

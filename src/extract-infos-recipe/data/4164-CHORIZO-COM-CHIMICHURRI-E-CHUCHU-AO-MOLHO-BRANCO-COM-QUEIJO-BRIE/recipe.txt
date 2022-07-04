@@ -1,0 +1,58 @@
+{
+  "nome_receita": "CHORIZO COM CHIMICHURRI E CHUCHU AO MOLHO BRANCO COM QUEIJO BRIE",
+  "ingredientes": {
+    "DEFAULT": [
+      "bifes de chorizo - 2 dedos de espessura (com gordura)",
+      "molho chimichurri",
+      "1 chuchu",
+      "250 gramas de queijo brie",
+      "queijo parmessão",
+      "leite",
+      "1 colher (café) cheia de maizena (amido de milho)",
+      "temperos a gosto: eu utilizei alho espremido, sal do himalaia, ervas finas, alecrim e páprica.",
+      "pimenta-do-reino",
+      "pimenta calabresa",
+      "requeijão cremoso",
+      "cebola",
+      "azeite",
+      "manteiga",
+      "mostarda dijon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e esprema cerca de 3 ou 4 dentes de alho, para o molho de queijo.",
+      "Descasque e deixe inteiro mais 6 dentes para a carne (medida para dois bifes - esses alhos perdem o ardor)",
+      "Corte a cebola, em pedaços pequenos ou rale, se preferir.",
+      "Cozinhe o chuchu por 15 minutos em panela tampada.",
+      "Deu os 15 minutos do chuchu, resfrie e reserve.",
+      "Tempere o chorizo a gosto, eu coloquei: ervas italianas, pimenta-do-reino, pouquíssimo sal do himalaia (tem o toque do salt bae no final), pimenta calabresa. Reserve.",
+      "Chuchu esfriou? Com o chuchu descascado, corte-o em finas fatias.",
+      "Corte o bife direto da peça inteira em bifes de 2 dedos de espessura, com a gordura.",
+      "Coloque na panela manteiga e azeite para forrar o fundo, mescle os dois na quantidade que entender suficiente, sem exagerar.",
+      "Toste nesta mistura o alho espremido e parte da cebola, 1/4 da cebola picada ou ralada.",
+      "Fritada a cebola e o alho, coloque uma colher de amido de milho e leite, cerca de 200 ml, cerca de uma xícara inteira.",
+      "Coloque cerca de 3 colheres (sopa) de requeijão cremoso, se achar que não deu liga, coloque um pouquinho mais.",
+      "Coloque todo o queijo brie e  cerca de 2 colheres (sopa) de parmessão.",
+      "Coloque cerca de 1 colher (sopa) de mostarda dijo.",
+      "Não pare de misturar para não grudar no fundo da panela.",
+      "Adicione páprica, pimenta-do-reino, pimenta calabresa, tudo a gosto, mas pouco. Vai com cuidado, adicione um pouco de sal do himalaia também e vai misturando.",
+      "Jogue as tiras finas de chuchu e continue misturando, até achar que está num ponto bom."
+    ],
+    "CHORIZO:": [
+      "Enquanto finaliza o chuchu, coloque em uma frigideira funda, ou panela própria para selar carnes, 1 colher (chá) cheia de manteiga e azeite até forrar o fundo em uma fina camada.",
+      "Jogue o restante do 1/4 de cebola picadinha ou ralada, para tostar e soltar a aguá.",
+      "Jogue os dentes de alho descascados, mas inteiros, na frigideira/panela.",
+      "Sele por cerca de 30 segundos, não mais que 1 minuto, cada lado da carne.",
+      "Coloque galhos de alecrim para saborizar junto à carne.",
+      "Selados os lados da carne, jogue um pouco, cerca de 1/2 copo de requeijão, de àgua e tampe a carne para cozinhar, com um ramo de alecrim em cima dela, e tampe a panela.",
+      "Passados 2 minutos, vire a carne e repita o processo.",
+      "Finalizado o processo, caso entenda que a carne está muito crua ou que ficará vermelha, deixe por não mais que um ou dois minutos cozinhando, caso contrário ela ficará dura (bem passada).",
+      "Enfeite o prato com um galho de alecrim, sirva a carne com o molho chimichurri em cima, e um galho de alecrim em cima, um dente de alho ao lado, ou dois se desejar, o chuchu com molho branco e queijo brie ao lado, formando um desenho junto à carne, e salada a gosto se assim desejar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAPHAEL CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301698-chorizo-com-chimichurri-e-chuchu-ao-molho-branco-com-queijo-brie.html"
+}

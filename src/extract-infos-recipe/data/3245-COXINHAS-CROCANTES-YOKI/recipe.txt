@@ -1,0 +1,37 @@
+{
+  "nome_receita": "COXINHAS CROCANTES YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxinhas da asa de frango",
+      "2 dentes de alho espremidos",
+      "3 colheres (sopa) de shoyu",
+      "1 colher (sopa) de mel",
+      "1 colher (sopa) de ketchup",
+      "sal e pimenta-do-reino a gosto",
+      "1 fio de óleo de canola ou girassol",
+      "pimenta-do-reino a gosto",
+      "2 xícaras de farofa de milho Yoki",
+      "cebolinha picada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela, as coxinhas de asa de frango e tempere com o alho, o shoyu, o sal e a pimenta-do-reino a gosto, o ketchup, o mel e um fiozinho de óleo. ",
+      "Misture muito bem e deixe marinando por 30 minutos. ",
+      "Preaqueça o forno a 200º C por 10 minutos. ",
+      "Unte uma assadeira com um pouquinho de óleo. ",
+      "Coloque a farofa em uma vasilha e passe as coxinhas na farofa (como se fosse um empanado)",
+      "Disponha tudo na assadeira, de forma que fiquem separadas e tenha um espacinho entre elas. ",
+      "Leve ao forno por 40 minutos ou até que as asinhas estejam douradas (pode variar de forno pra forno). ",
+      "Retire as coxinhas da assadeira e coloque no prato onde serão servidas",
+      "Salpique por cima a cebolinha picada e pronto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Julianna Nascimento Holanda"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303666-coxinhas-crocantes-yoki.html"
+}

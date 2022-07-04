@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA HOLANDESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha maisena",
+      "2 colheres de sopa de margarina",
+      "1 caixa de leite condensado",
+      "3 gemas de ovo",
+      "Leite (a mesma medida da caixa de leite condensado)",
+      "1 sachê de gelatina sem sabor",
+      "150 g de chocolate meio amargo",
+      "1 caixa de creme de leite",
+      "1 pacote de biscoito calipso ou tortinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a bolacha de maisena no liquidificador e bata ela até formar uma farinha.",
+      "Depois em uma tigela adicione a margarina na temperatura ambiente e mexa com as mãos até você apertar e ficar uma massinha firme.",
+      "Coloque no fundo da forma pressionando para ficar firme.",
+      "Adicione as bolachas ao redor da forma e reserve na geladeira.",
+      "Em uma panela adicione o leite condensado, as gemas e o leite.",
+      "Mexa bem até formar uma espécie de mingau.",
+      "Depois em uma xícara coloque o sachê de gelatina sem sabor, 4 colheres de sopa de água e leve ao microondas por 15 segundos.",
+      "Depois adicione ao creme de leite condensado, gemas e leite.",
+      "Espere esfriar um pouco e depois despeje na forma com as bolachas.",
+      "Leve para a geladeira por 3 horas.",
+      "Depois de firme, derreta o chocolate meio amargo no microondas ou em banho maria, logo após adicione o creme de leite, misture bem e despeje na forma.",
+      "Agora só esperar mais umas 3 hora e é só desenformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A forma precisa ter o fundo removível"
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIANA GORNICKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300365-torta-holandesa.html"
+}

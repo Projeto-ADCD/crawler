@@ -1,0 +1,26 @@
+{
+  "nome_receita": "YAKISOBA SIMPLES E BARATO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 pacotes de macarrão instantâneo",
+      "3 ovos cozidos",
+      "1/2 Repolho pequeno",
+      "2 tomates",
+      "500 g de salsicha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos e reserve",
+      "Coloque a salsicha picada para cozinhar",
+      "Depois de cozida, acrescente o macarrão instantâneo na mesma água do cozimento da salsicha",
+      "Junte o tomate, o repolho e deixe cozinhar",
+      "Depois do macarrão cozido, acrescente o tempero do macarrão instantâneo e os ovos cozidos e picados",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALESSANDRA APARECIDA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303674-yakisoba-simples-e-barato.html"
+}

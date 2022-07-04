@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SOPA DE COUVE FLOR ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de Azeite",
+      "2 xícaras de cebola picada",
+      "8 xícaras floretes de couve flor",
+      "3/4 xícara de cenoura picada",
+      "1 colher (chá) de gengibre cru",
+      "1 colher (chá) de sal",
+      "2 dentes de alho picados",
+      "1 colher (chá) sementes de cominho",
+      "1 colher (sopa) suco de limão",
+      "4 xícara de água quente",
+      "1/4 xícara cebolinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pre aqueca o forno. Unte um Tabuleiro Grande com 1 colher de azeite e espalhe os floretes de cover flor.",
+      "Tempere com metade do sal e leve ao forno por 30 minutos, mexendo na metade do tempo.",
+      "Enquanto isso, em uma panela grande, coloque o restante do azeite e refogue a cebola e o alho por cinco minutos.",
+      "Adicione o gengibre e as sementes de cominho e cozinhe por mais um minuto.",
+      "Acrescente 7 xícaras da couve-flor já assada e a água quente à panela.",
+      "Aumente o fogo e, quando levantar fervura, reduza a chama e deixe cozinhar com a panela semi tampada por 15 a 20 minutos.",
+      "Bata a sopa com o mixer ou em um processador. Acrescente o suco de limão e misture bem.",
+      "Sirva com o restante da couve-flor assada por cima e salpique com a cebolinha."
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ERIKA GONZAGA SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301234-sopa-de-couve-flor-assada.html"
+}

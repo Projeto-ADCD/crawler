@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA GELADA OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 pacotes biscoito negresco ou 3 de Oreo (aproximadamente 280 g)",
+      "2 colheres (sopa) de manteiga derretida",
+      "Sorvete",
+      "110 g cream cheese",
+      "1/2 lata leite condensado",
+      "2 claras em neve",
+      "3 gotas de essência de baunilha",
+      "Calda",
+      "1 barra de chocolate amargo",
+      "1 caixa creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Triture a bolacha (com recheio) no liquidificador e transfira para um forma de 25 cm de diametro.",
+      "Acrescente a manteiga derretida e misture.",
+      "Com as mãos, preencha o fundo e laterais da forma.",
+      "Leve a freezer.",
+      "Sorvete",
+      "Em um bowl, misture o leite condensado com o cream cheese e a baunilha até formar um creme",
+      "Bata claras em neve e incorpore ao creme obtido.",
+      "Não misture muito para deixar \"aerado\".",
+      "Adicione o sorvete sobre a massa e leve ao freezer por cerca de 4 horas.",
+      "Se preferir cubra o sorvete com outra camada (+ 1 pacote) de biscoito triturado",
+      "Cobertura",
+      "Em banho-maria, derreta a barra de chocolate e adicione o creme de leite.",
+      "Mexa até que o chocolate predomine.",
+      "Para servir",
+      "Após as 4 horas de congelador observe se o creme endureceu.",
+      "Com uma espatula, retire uma fatia e sirva com a calda quente.",
+      "É possível que seja desenformado inteiro, mas a calda deverá ser servida sobre cada fatia"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305552-torta-gelada-oreo.html"
+}

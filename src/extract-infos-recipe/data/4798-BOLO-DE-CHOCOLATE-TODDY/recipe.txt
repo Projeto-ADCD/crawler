@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE TODDY",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de bebida achocolatada",
+      "1 xícara de leite",
+      "1 colher (sopa) de manteiga",
+      "2 xícaras de farinha de trigo",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos, a bebida achocolatada, o leite, e a manteiga e bata na batedeira ou na mão.",
+      "Aacrescente a farinha e bata mais um pouco.",
+      "Por último, adicione o fermento mexendo.",
+      "Coloque a mistura numa forma untada com manteiga e farinha.",
+      "Asse por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "REGIANE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300213-bolo-de-chocolate-toddy.html"
+}

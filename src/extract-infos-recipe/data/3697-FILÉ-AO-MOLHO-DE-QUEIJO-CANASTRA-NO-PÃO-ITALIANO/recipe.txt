@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FILÉ AO MOLHO DE QUEIJO CANASTRA NO PÃO ITALIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé mignon",
+      "1/4 de peça de queijo canastra",
+      "1 pacote pequeno de parmesão ralado",
+      "300 ml de leite",
+      "200 g de creme de leite fresco",
+      "pitada de cheiro-verde",
+      "1 colher (sopa) de pimenta síria",
+      "1 colher (sopa) de zaatar",
+      "sal a gosto",
+      "1 pão italiano grande"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela em fogo médio o leite e o creme de leite",
+      "Quando aquecer, junte os queijos e o cheiro-verde e mexa até ter consistência cremosa.",
+      "Reserve",
+      "Corte o filé em cubos e tempere com a pimenta siria, zaatar e o sal.",
+      "Coloque em uma frigideira grande e grelhe até aingir o ponto desejado, eu prefiro bem rosado por dentro",
+      "Quando o filé estiver pronto, junte o molho e misture",
+      "Abra uma tampa no pão e tire todo o miolo.",
+      "Despeje o filé dentro do pão.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANIEL ABOOD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302891-file-ao-molho-de-queijo-canastra-no-pao-italiano.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BATATA RÚSTICA COZIDA DA PAOLLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas médias",
+      "1 pitada de sal",
+      "1/2 sachê de tempero pronto",
+      "2 colheres (sopa) de molho de tomate",
+      "1/2 colher (sopa) de margarina",
+      "1/2 colher (sopa) de orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a batata ao meio",
+      "Depois ao meio de novo e, em seguida, corte em quadradinhos",
+      "Cubra com àgua e adicione uma pitada de sal.",
+      "Em seguida, tampe a panela e deixe cozinhar por aproximadamente 15 minutos.",
+      "A batata tem que ficar firminha, não pode estar desmanchando",
+      "Em seguida, adicione a margarina, o tempero pronto, o molho de tomate e o orégano",
+      "Mexa uns dois minutinhos com o fogo ligado e pronto, está pronto para servir!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa é uma porçao única e um prato super-rápido, para aqueles dias que estamos querendo um almoço ou janta bem rapidinhos!\nEspero que gostem! Eu usei de acompanhamento arroz, batata palha e ketchup."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PAOLLA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305186-batata-rustica-cozida-da-paolla.html"
+}

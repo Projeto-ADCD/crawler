@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FONDUE DE QUEIJO CREMOSO SEM VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de queijo muçarela",
+      "200 g de queijo prato",
+      "20 g de queijo parmesão ralado",
+      "1/2 copo de requeijão",
+      "150 ml de leite",
+      "1 colher (sopa) rasa de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo baixo esquente 100 ml de leite e requeijão",
+      "Acrescente os queijos aos poucos até derreterem e adicione o amido de milho dissolvido no leite",
+      "Mexa até ficar cremoso",
+      "Coloque na panela de fondue"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ELAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301824-fondue-de-queijo-cremoso-sem-vinho.html"
+}

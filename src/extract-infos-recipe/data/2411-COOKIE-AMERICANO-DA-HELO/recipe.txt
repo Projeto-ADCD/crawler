@@ -1,0 +1,34 @@
+{
+  "nome_receita": "COOKIE AMERICANO DA HELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de manteiga sem sal em temperatura ambiente",
+      "3/4 de xícara de açúcar",
+      "1/2 xicara de açúcar mascavo (é opcional mas se voce quiser um toque especial pode colocar)",
+      "1 ovo",
+      "1 e 3/4 de xicara (chá) de farinha de trigo",
+      "1 xicara (chá) de farinha de trigo",
+      "500 g de chocolate em cubinhos (ou pode ser em barra picado)",
+      "1 colher (chá) de essência de baunilha",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar mascavo (opcional), o açúcar, a manteiga e a essência de baunilha (se quiser cookie de chocolate coloque o chocolate em pó)",
+      "Bata os ovos e coloque ele junto com os outros ingredientes e vá batendo aos poucos",
+      "Acrescente a farinha aos poucos com uma peneira e bata na mão ou na batedeira",
+      "Por último acrescente o fermento e misture só para incorpora-lo a massa",
+      "Depois da massa bem misturada acrescente o chocolate em cubinho (ou barra picado)",
+      "Forme bolinhas pequenas e asse o forno preaquecido (250º C) de 15 a 20 minutos",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "SE VOCE QUISER UM COOKIE DE CHOCOLATE ACRESCENTE 1/4 DE XÍCARA DE CHOCOLATE EM PÓ"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "22 PORÇÕES",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305278-cookie-americano-da-helo.html"
+}

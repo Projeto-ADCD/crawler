@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ROCAMBOLE DE CARNE FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída da sua preferência",
+      "1 sachê de creme de cebola",
+      "1 caixinha de creme de leite",
+      "1/2 cenoura",
+      "1/2 cebola",
+      "200 g de mussarela",
+      "200 g de presunto",
+      "1 tomate",
+      "fatias de bacon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne em uma vasilha, junte o creme de cebola e o creme de leite e misture bem, reserve",
+      "Em seguida, corte a cebola, rale a cenoura e pique o tomate, tempere a gosto",
+      "Abra a carne em cima de um papel-filme e coloque as fatias de presunto, as fatias de mussarela e coloque os legumes temperados no meio da carne aberta",
+      "Junte a carne aberta como se fosse dobrar ao meio ",
+      "Coloque as fatias de bacon (opcional) ",
+      "Leve ao forno por 50 minutos e está pronto uma deliciosa carne recheada "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATO THAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304582-rocambole-de-carne-facil-e-gostoso.html"
+}

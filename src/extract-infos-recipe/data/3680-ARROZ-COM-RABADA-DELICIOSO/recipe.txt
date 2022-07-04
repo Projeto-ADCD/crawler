@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ARROZ COM RABADA DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de rabada de boi",
+      "1 cebola grande picada ",
+      "1 tomate picado ",
+      "1 cenoura picada pequena",
+      "1 colher (sobremesa) de corante ",
+      "300 ml de vinho tinto seco",
+      "1 litro de água ",
+      "1 tablete de caldo de carne",
+      "sal com alho a gosto ",
+      "salsinha e cebolinha picadas a gosto ",
+      "3 copos de arroz comum"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a rabada com sal e alho a gosto",
+      "Sele a carne já na panela de pressão e coloque a colher de corante",
+      "Adicione os legumes cortados, coloque a água, o vinho, o tablete de caldo de carne e a salsinha e a cebolinha",
+      "Deixe na pressão por 40 minutos (ponto para carne sair do osso com facilidade)",
+      "Separe a carne, desfie, coe o caldo e coloque o que foi coado junto com a carne desfiada",
+      "Leve o caldo para geladeira por 60 minutos",
+      "Quando a gordura subir, retire com uma concha",
+      "Prepare o arroz normalmente, porém uitilize o caldo da rabada ao invés de água",
+      "No segundo caldo, coloque a carne e os legumes junto e deixe o arroz chegar no ponto desejado (quantidade de caldo a ser usado no arroz é igual a se fosse utilizar água)",
+      "Sirva quente e aproveite esse mundo de sabores com um prato simples, porém perfeito"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302925-arroz-com-rabada-delicioso.html"
+}

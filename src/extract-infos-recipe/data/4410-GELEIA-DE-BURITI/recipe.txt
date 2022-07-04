@@ -1,0 +1,27 @@
+{
+  "nome_receita": "GELEIA DE BURITI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polpa de buriti (massa)",
+      "1 xícara de açúcar demerara",
+      "2 xícaras de água",
+      "1/2 colher de sopa de gengibre ralado",
+      "1 pimenta dedo de moça",
+      "1 casca de canela",
+      "1 limão tamanho médio",
+      "1 dente de alho",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a polpa de buriti descongelada, a pimenta dedo de moça bem picadinha e sem sementes, o dente de alho inteiro, o gengibre ralado, o açúcar, a água, a casca da canela, o suco do limão e uma pitada de sal.",
+      "Misture todos os ingredientes, em seguida, leve ao fogo médio e mexa.",
+      "Quando começar a ferver, retire o alho e continue mexendo até chegar ao ponto de geleia."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRUNO TEIXEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301183-geleia-de-buriti.html"
+}

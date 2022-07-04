@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHEESECAKE DE TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de bolacha tipo maria",
+      "4 colheres de margarina",
+      "1 caixa de leite condensado",
+      "300 g de cream cheese",
+      "1 lata de leite condensado",
+      "1 ovo inteiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture a bolacha e misture com a margarina",
+      "Disponha em uma assadeira a massa de bolacha de maisena",
+      "Misture todos outros ingredientes na batedeira",
+      "Asse por 30 a 40 minutos ou até que você toque e não grude na mão",
+      "Jogue por cima uma geleia de sua preferência"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELA LAMARQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302965-cheesecake-de-travessa.html"
+}

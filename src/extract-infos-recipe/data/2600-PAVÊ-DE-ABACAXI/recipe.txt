@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 latas de creme de leite",
+      "400 ml de leite ou (2 xícaras)",
+      "1 abacaxi cortado em cubos",
+      "1 colher (bem cheia) de amido",
+      "50 g de coco ralado",
+      "2 pacotes de bolacha maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o abacaxi em cubos e leve ao fogo em 1 litro de água e 1 xícara de açúcar",
+      "Cozinhe por 20 minutos",
+      "Depois de cozido retire toda água e reserve.",
+      "Em uma panela coloque o leite condensado, creme de leite, o leite e o amido.",
+      "Misture bem e leve ao fogo alto mexendo sempre até levantar fervura",
+      "Em seguida coloque o abacaxi e deixe cozinhar por 8 minutos em fogo baixo.",
+      "Retire do fogo e reserve",
+      "Em uma travessa faça um camada de creme e outra de bolacha até acabar o creme",
+      "Depois só polvilhar coco ralado e levar à geladeira por 6 horas ou de um dia para o outro."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304843-pave-de-abacaxi.html"
+}

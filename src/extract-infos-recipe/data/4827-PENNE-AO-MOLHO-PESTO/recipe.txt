@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PENNE AO MOLHO PESTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão penne grano duro",
+      "110 ml de azeite extra virgem",
+      "1 dente de alho grande",
+      "80 g de queijo parmesão ralado na hora (pode substituir por um bom queijo coalho)",
+      "8 castanhas de caju torradas",
+      "1 maço de manjericão (2 mãos cheias de folhas)",
+      "pimenta-do-reino moída a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o alho, descarte o seu miolo (parte mais clara, esbranquiçada) e pique o restante.",
+      "Com auxílio de um mixer, processe o azeite, o alho, as castanhas, o queijo ralado, a pimenta e o sal.",
+      "Após essa primeira mistura, prove o sabor e ajuste o sal e a pimenta.",
+      "Por fim, acrescente o manjericão e pulse algumas vezes.",
+      "Cozinhe o penne conforme a recomendação da embalagem, escorra a água de cozimento e misture o macarrão ainda quente ao molho (não leve ao fogo)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LORENA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300146-penne-ao-molho-pesto.html"
+}

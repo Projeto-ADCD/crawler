@@ -1,0 +1,45 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SIMPLES DA IRENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o chocolate quente",
+      "800 ml de leite",
+      "4 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) bem cheia de amido de milho",
+      "2 gemas de ovo sem pele",
+      "essência de baunilha a gosto",
+      "Para o chantili",
+      "2 claras",
+      "8 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de creme de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela as 2 gemas sem pele, o amido de milho e 1/2 copo",
+      "do leite (para diluir o amido)",
+      "Mexa para desmanchar os grumos e acrescente o restante",
+      "do leite",
+      "June o achocolatado e reserve.",
+      "Enquanto isso, bata as claras em neve e coloque o açúcar de 2 em 2 colheres, aos poucos",
+      "Bata por aproximadamente uns 20 minutos ou até as claras ficarem brilhantes e não cairem",
+      "da colher, com o açúcar desmanchado.",
+      "Acrescente a essência de baunilha",
+      "Após as claras estarem prontas, coloque na panela os ingredientes do achocolatado",
+      "no fogo e mexa até levantar fervura",
+      "Deixe por uns 5 min e desligue o fogo.",
+      "Coloque as claras em neve com açúcar, já prontas na xícara e despeje o chocolate",
+      "quente por cima",
+      "Cubra com mais uma colher de clara em neve.",
+      "Sirva com uma colher.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Tem que gostar de doce"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "IRENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300947-chocolate-quente-simples-da-irena.html"
+}

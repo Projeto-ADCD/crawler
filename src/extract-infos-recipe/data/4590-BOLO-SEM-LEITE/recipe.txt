@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos (claras em neve)",
+      "2 copos (requeijão) de açúcar refinado (se não tiver pode ser o cristal )",
+      "1 xícara (chá) de água para bater as gemas.",
+      "1 pitada de sal",
+      "1/2 xícara de óleo (qual você quiser)",
+      "3 copos de (requeijão) de farinha de trigo (sem fermento)",
+      "1 colher (sopa) de fermento em pó para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as gemas com a água e acrescente o açúcar, o óleo e a farinha de trigo.",
+      "Coloque os ingredientes e vai batendo para que fiquem bem misturados.",
+      "E por último, misture as claras em neve.",
+      "Leve ao forno para assar em forno preaquecido por 5 minutos",
+      "Quando colocar um palito e esse sair limpo o bolo está pronto.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Como a massa é clara, fiz meu bolo com duas cores. Separei metade e coloquei achocolatado em uma parte. Coloquei a massa clara em baixo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROSANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300788-bolo-sem-leite.html"
+}

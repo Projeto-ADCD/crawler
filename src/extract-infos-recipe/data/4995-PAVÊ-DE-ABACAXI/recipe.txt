@@ -1,0 +1,44 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI",
+  "ingredientes": {
+    "DOCE:": [
+      "1 abacaxi picado sem o miolo",
+      "2 xícaras de açúcar",
+      "1 xícara de água"
+    ],
+    "CREME:": [
+      "500 ml de leite",
+      "3 gemas",
+      "1/2 xícara de açúcar",
+      "2 colheres (sopa) de amido de milho",
+      "1/2 colher (sopa) de essência de baunilha",
+      "chantilly batido"
+    ],
+    "MONTAGEM:": [
+      "biscoito de maisena",
+      "coco ralado",
+      "leite pra molhar as bolachas"
+    ]
+  },
+  "passos": {
+    "DOCE:": [
+      "Picar o abacaxi em quadradinhos e colocar na panela com a água e deixar ferver por uns 30 mim e reserve."
+    ],
+    "CREME:": [
+      "Ferva o leite e reserve.",
+      "Bata as gemas com o açúcar até dar uma esbranquiçada e acrescente a Maizena e a baunilha, junte o leite fervido.",
+      "Coloque a mistura na panela e mexer até engrossar.",
+      "Com uma escumadeira, pegue o abacaxi e misture no creme e leve na geladeira até esfriar, com um plástico filme em contato para não criar película.",
+      "Depois que o creme esfriar, acrescente 3 colheres de sopa do chantilly batido no creme, ele vai ficar cremoso e leve."
+    ],
+    "MONTAGEM:": [
+      "Em uma vasilha, coloque um pouco do creme, uma camada de biscoito maisena passado no leite, outra camada do creme, biscoito, e continue fazendo as camadas com todo o creme.",
+      "A última camada tem que ser de creme, e em cima do creme, coloque uma camada de chantilly batido e salpique coco ralado.",
+      "Leve à geladeira por pelo menos 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA CLAUDIA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299756-pave-de-abacaxi.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MILKSHAKE FÁCIL DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 polpa de maracujá",
+      "250 ml de leite",
+      "2 colheres (sopa) de açúcar",
+      "leite condensado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite, a polpa e o açúcar até ficar cremoso.",
+      "Coloque o leite condensado a gosto na hora de servir"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUNARA MARCELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305955-milkshake-facil-de-maracuja.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200ml de leite gelado",
+      "500ml de óleo",
+      "2 colheres do suco do limão ou vinagre branco",
+      "Um pedacinho de cebola",
+      "1 dente de alho",
+      "Um punhadinho de salsa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adidione o leite e o limão (ou vinagre) no liquidificador e deixe em repouso por 5 minutos.",
+      "Acrescente o restante dos ingredientes, com apenas um pouco do óleo e bata para misturar.",
+      "Vá acrescentando o restante do óleo em fio, até dar ponto de maionese.",
+      "Dicas de ouro: o liquidificador deve estar totalmente seco. Bata sempre na velocidade alta. No começo parece que vai dar errado por causa da consistência aguada, mas no final dá certo.",
+      "Se quiser incrementar ainda mais, acrescente também orégano, manjericão ou o tempero de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIEL AMBRÓZIO AYRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301529-maionese-caseira-de-leite.html"
+}

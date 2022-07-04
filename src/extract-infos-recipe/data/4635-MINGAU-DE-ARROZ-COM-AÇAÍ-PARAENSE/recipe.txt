@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MINGAU DE ARROZ COM AÇAÍ PARAENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de arroz comum",
+      "3 litros de açaí",
+      "1/2 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz em 1,5 litro de água (ou até que a água cubra o arroz), com meia colher de sal, mexendo de vez em quando para não grudar no fundo da panela.",
+      "Quando amolecer bem mas ainda estiver empapado, adicione os três litros de açaí, misturando bem.",
+      "Se o açaí estiver grosso vc precisará de mais um litro de açaí."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "ELIDA MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300683-mingau-de-arroz-com-acai-paraense.html"
+}

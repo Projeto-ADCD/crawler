@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MANJAR DE COCO COM CALDA MOUSSE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite de coco",
+      "600 ml de leite",
+      "100 g de amido de milho ",
+      "1 caixinha de creme de leite (opcional)",
+      "200 g de coco ralado seco",
+      "2 xícaras de açúcar refinado (pode ser substituído por 1 caixinha de leite condensado)",
+      "Calda ",
+      "200 ml de Leite condensado",
+      "3 colheres (sopa) de creme de leite",
+      "2 colheres (sopa) de pó para sorvete ou pó para sobremesa morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo",
+      "Leve para a panela o coco, o amido dissolvido no leite e o leite de coco, mexa bem ",
+      "Ligue o fogo médio e mexa até engrossar bem, adicione o creme de leite ",
+      "Deixe esfriar.",
+      "Unte uma forma de furo no meio com óleo ou óleo de coco ",
+      "Leve para gelar até firmar ",
+      "Solte as laterais com os dedos desenforme e leve para gelar bem",
+      "Calda preparo",
+      "Num bowl coloque leite condensado junto com creme de leite, adicione 1 colher pó de sobremesa ",
+      "Retire a sobremesa da geladeira adicione a calda com auxílio de 1 colher ",
+      "Leve para gelar se preferir.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CHEF CONFEITEIRA RAQUEL BARBOSA DOS SANTOS.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304565-manjar-de-coco-com-calda-mousse-de-morango.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MASSA DE PIZZA SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de polvilho doce",
+      "1 1/2 xícara de farinha de arroz",
+      "2 colheres de chá de açúcar",
+      "1 colher de chá de sal",
+      "3 colheres de azeite ou óleo",
+      "1 colher de chá de goma xantana",
+      "2 ovos ligeiramente batidos",
+      "180 ml de água morna",
+      "1 envelope de 10g de fermento biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro acrescente os ingredientes secos: o polvilho, a farinha de arroz, o açúcar e o sal.",
+      "Misture bem e reserve.",
+      "Na água morna, desolva o fermento muito bem e acrescente nas farinhas, acrescente depois os ovos batidos e mexa com a colher",
+      "Depois, acabe de mexer com as mãos até formar uma massa lisa que solte dos dedos.",
+      "Unte uma assadeira de pizza com óleo e abra a massa na forma até ficar bem fina.",
+      "Se quiser a massa bem fininha rende duas assadeiras ou se não deixe com menos de um dedo de espessura.",
+      "Deixe a massa descansar por 20 minutos coberta com um pano depois fure com um garfo e coloque para assar no forno bem quente por 10 minutos.",
+      "Depois disso pode rechear com cobertura que quiser."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA PAULA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305752-massa-de-pizza-sem-gluten.html"
+}

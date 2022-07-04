@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TORTA DE FRANGO NA FRIGIDEIRA",
+  "ingredientes": {
+    "RECHEIO": [
+      "500 g de peito de frango cozido e desfiado",
+      "1 tomate maduro em cubos pequenos sem sementes",
+      "1 cebola em cubos pequenos",
+      "1/2 xícara (chá) de azeite",
+      "1 lata de ervilha",
+      "1 lata de milho",
+      "2 caixinhas de creme de leite",
+      "1 maço de cheiro-verde bem picado",
+      "1 colher (chá) de sal",
+      "pimenta-do-reino a gosto",
+      "noz-moscada a gosto"
+    ],
+    "MASSA": [
+      "2 xícaras de farinha de trigo",
+      "100 g de manteiga gelada",
+      "1/2 xícara de água gelada (pode variar)",
+      "1 colher (chá) sal",
+      "1 gema para pincelar"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Numa panela ou frigideira que possa ir ao forno, refogue no azeite a cebola e o alho, deixe",
+      "dourar e junte o frango desfiado e deixe dourar bem com o sal, a pimenta e a noz-moscada.",
+      "Acrescente o tomate, o milho,a ervilha e o creme de leite (se preferir um recheio com mais",
+      "caldo, adicione água ou caldo de frango), desligue o fogo e reserve a panela com o recheio."
+    ],
+    "MASSA": [
+      "Misture todos os ingredientes bem rápidos, sem sovar muito até ficar",
+      "homogêneo e leve para descansar no congelador por 15 minutos."
+    ],
+    "MONTAGEM": [
+      "Depois de descansada, basta abrir a massa por cima da panela que está o recheio,",
+      "cobrindo o recheio inteiro por dentro da panela.",
+      "Faça alguns cortes na massa para não estufar e decore com o excedente de massa.",
+      "Pincele com a gema batida e leve para assar no forno preaquecido a 180º C, por cerca de 30 minutos ou até que fique dourada."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303004-torta-de-frango-na-frigideira.html"
+}

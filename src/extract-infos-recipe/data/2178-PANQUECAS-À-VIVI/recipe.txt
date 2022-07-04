@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PANQUECAS À VIVI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 e 1/2 xicara de farinha de trigo",
+      "1 xicara de leite",
+      "4 colheres (sopa) de óleo",
+      "1 cebola",
+      "cheiro-verde (salsinha e cebolinha)",
+      "sal",
+      "700 g de carne moida",
+      "1 molho de tomate",
+      "100  de mussarela",
+      "1 colher (chá) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque no liquidificador os ovos, o leite, o trigo, 1/2 cebola, uma pitada de sal e o cheiro-verde",
+      "Bata tudo até que ficar homogenêo e então adicione o fermento ",
+      "Bata mais um pouco.",
+      "Use uma frigideira, aqueça coloque um fio de oleo e uma concha da massa, espalhe virando a frigideira, deixe dourar de um lago e vire fazendo mesmo processo",
+      "Reserve os discos.",
+      "Recheio",
+      "Em uma panela coloque a carne moida, um dente de alho picadinho, 1/2 cebola picadinha e deixe fritar quando dourar",
+      "Adicione uma colher (chá) de sal e o molho de tomate.",
+      "Montando as panquecas:",
+      "Coloque uma colher e 1/2 de carne moída em cada uma e enrole",
+      "Coloque em uma forma",
+      "Por fim, coloque o queijo por cima e leve ao forno por 10 minutos em 180° C."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VIVIAN VILELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305778-panquecas-a-vivi.html"
+}

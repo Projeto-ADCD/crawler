@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA TEMPERADA FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de mandioca para farofa",
+      "2 cebolas picadas",
+      "8 dentes de alho picados",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "cominho a gosto",
+      "1 ramo de cheiro-verde picado",
+      "100 g de bacon picado pequeno",
+      "50 g de manteiga",
+      "2 colheres de azeite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela pequena todos os ingredientes (exceto a farinha) e deixe fritar bastante até que fique tudo bem frito",
+      "O bacon derreterá e fritará junto com todos os outros ingredientes, o bacon ficará crocante",
+      "Reserve e depois que esfriar coloque na geladeira, ficará uma pasta",
+      "Em uma panela grande e com uma colher de pau torre/desitrate a farinha, mexendo sem parar, até que a farinha fique bem torrada, com cuidado para não queimar",
+      "Quando a farinha estiver bem torrada e crocante, desligue o fogo e coloque a toda pasta que estava na geladeira e mexa, misturando até que a pasta derreta totalmente e hidrate a farinha que estava desidratada",
+      "Prove para sentir o sal e adicione mais se achar necessário",
+      "Pronto é só servir com churrasco, carne assada, frango, peru de natal... combina com tudo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "PALOMA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303582-farofa-temperada-facil-de-fazer.html"
+}

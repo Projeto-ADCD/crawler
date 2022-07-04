@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO CASEIRO RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 xícaras de água morna",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de sal",
+      "1 ovo",
+      "1 xícara de oléo",
+      "1 kilo de farinha de trigo",
+      "50 gramas de fermento biológico",
+      "500 gramas de pressunto",
+      "500 gramas de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento biológico na água morna.",
+      "Leve ao liquidificador, o açúcar, o sal, o ovo, o oléo e a água com o fermento e bata por alguns minutos.",
+      "Coloque essa mistura em um recepiente grande e vá acrescentando a farinha de trigo aos poucos, comece a misturar com as mãos ( a quantidade suficiente de trigo se dá quando a massa nao grudar em suas mãos).",
+      "Sove bem a massa por aproximadamente 10 minutos.",
+      "Deixe a massa descancar por 1 hora.",
+      "Divida a massa por partes e abra com a ajuda do rolo e recheie a mesma, enrole os pães e deixe descancar por mais 40 minutos.",
+      "Pincele o pão com uma gema de ovo.",
+      "Leve ao forno por 40 minutos ou até a casca ficar dourada."
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TEREZINHA SIMÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301522-pao-caseiro-recheado.html"
+}

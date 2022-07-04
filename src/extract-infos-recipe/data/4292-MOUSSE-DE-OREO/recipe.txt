@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha oreo",
+      "1 lata de leite condensado (395 g)",
+      "1 garrafa de creme de leite fresco (500 ml)",
+      "1 pacote de gelatina sem sabor",
+      "2 colheres de chocolate em pó",
+      "1 copo de leite integral (200 ml)",
+      "chocolate granulado para enfeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado, o leite, o creme de leite e o chocolate e bata no liquidificador até que se misture todos os ingredientes e dissolva o chocolate.",
+      "Enquanto isso, hidrate e a gelatina sem sabor, conforme o procedimento informado na embalagem",
+      "Com a gelatina dissolvida, junte a mistura já pronta e bata por mais 1 minuto.",
+      "Não bata muito no liquidificador pois pode fazer com que a gelatina perca o seu efeito.",
+      "Retire o conteúdo do liquidificador e coloque em um refratário, e leve à geladeira por aproximadamente 3 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301434-mousse-de-oreo.html"
+}

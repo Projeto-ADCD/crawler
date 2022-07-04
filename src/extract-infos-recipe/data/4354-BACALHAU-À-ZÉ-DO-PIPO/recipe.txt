@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BACALHAU À ZÉ DO PIPO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bacalhau em lascas",
+      "500g de batata",
+      "1 litro e 1/2 de leite",
+      "3 cebolas",
+      "1 colher de manteiga ou margarina",
+      "2 folhas de louro",
+      "1 pacote de azeitonas pretas",
+      "1 pote de maionese",
+      "2 colheres de azeite",
+      "Sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o bacalhau já dessalgado com leite. Assim que começar a ferver, desligue e reserve. Cozinhe as batatas já descascadas e em água já com sal.",
+      "Faça um purê consistente, pode ficar pedaçudo.",
+      "Use o leite que ferveu o bacalhau. Deve estar morno ou em temperatura ambiente, nunca gelado ou quente.",
+      "Adicione manteiga e acerte o sal caso precise.",
+      "Corte a cebola em rodelas o mais fino possível. Refogue com manteiga, azeite e as folhas de louro, sempre mexendo.",
+      "Quando estiver cozida, acrescente de 1 a 2 conchas do leite que ferveu o bacalhau e mexa até ficar cremoso. Reserve."
+    ],
+    "MONTAGEM:": [
+      "Em uma travessa, começe com o bacalhau, em segundo o purê, terceiro com a cebola, quarto com a maionese e em quinto coloque a azeitona preta para decoração.",
+      "Pré aqueça o forno em 250° por 5 minutos.",
+      "Em forno a 180° asse o bacalhau por aproximadamente 1 hora e 20 minutos. O tempo vai sempre variar de forno pra forno."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRI CAVALCANTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301313-bacalhau-a-ze-do-pipo.html"
+}

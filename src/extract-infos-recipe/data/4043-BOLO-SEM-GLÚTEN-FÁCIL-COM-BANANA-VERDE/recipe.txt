@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO SEM GLÚTEN FÁCIL COM BANANA VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de farinha de banana verde",
+      "125 g de maisena",
+      "4 colheres (sopa) de açúcar cristal",
+      "2 ovos",
+      "100 ml de leite",
+      "1 colher (sopa) de manteiga",
+      "3 colheresc (sopa) de achocolatado",
+      "1 colher (sopa) de fermento em pó",
+      "50 g de coco ralado sem açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Por último, coloque o fermento e misture.",
+      "Leve em uma forma untada, em forno baixo, por aproximadamente 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VERONICA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302076-bolo-sem-gluten-facil-com-banana-verde.html"
+}

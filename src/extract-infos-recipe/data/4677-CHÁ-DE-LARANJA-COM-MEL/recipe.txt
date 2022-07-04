@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHÁ DE LARANJA COM MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de água",
+      "1 laranja",
+      "2 colheres (sopa) de mel"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água até começar a borbulhar.",
+      "Esprema a laranja e adicione o suco e depois o mel na xícara que for usar.",
+      "Adicione a água quente e mexa por 30 segundos."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAPHAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300454-cha-de-laranja-com-mel.html"
+}

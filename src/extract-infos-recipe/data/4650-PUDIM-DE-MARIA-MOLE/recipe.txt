@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PUDIM DE MARIA MOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Maria Mole",
+      "1 vidro de leite côco",
+      "1 cx de leite condensado",
+      "200 ml de leite integral quente",
+      "Coco ralado para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a maria mole no leite quente e reserve.",
+      "Bata no liquidificador o leite de coco e leite condensado por 30 segundos e depois adicione a maria mole dissolvida no leite e bata por mais 2 minutos.",
+      "Coloque a mistura em uma forma redonda de buraco untada somente com óleo e leve para geladeira e deixe em média 5 horas ou até endurecer.",
+      "E depois é só desinformar e decorar com coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDREZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300583-pudim-de-maria-mole.html"
+}

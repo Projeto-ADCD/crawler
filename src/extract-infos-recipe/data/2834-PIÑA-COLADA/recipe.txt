@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PIÑA COLADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "30 ml de rum branco",
+      "80 ml de suco de abacaxi",
+      "30 ml de leite de coco",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata com gelo todos os ingredientes.",
+      "Sirva num copo grande com gelo picado."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304311-pina-colada.html"
+}

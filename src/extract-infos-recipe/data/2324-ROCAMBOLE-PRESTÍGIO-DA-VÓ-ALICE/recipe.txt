@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ROCAMBOLE PRESTÍGIO DA VÓ ALICE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras (chá) bem cheias de leite em pó",
+      "2 xícaras (chá) bem cheias de achocolatado em pó",
+      "1/2 lata/caixinha de leite condensado",
+      "Recheio",
+      "1/2 lata/caixinha de leite condensado",
+      "25 a 50 g de Coco Ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes da massa em uma vasilha e misture bem",
+      "Misture até dar um ponto meio mole meio duro mas que não gruda na mão. Se necessário, adicione um pouco de leite como ou leite condensado",
+      "Espalhe no plástico filme formando uma carreira no meio e coloque outro pedaço de plástico por cima, deixando as bordas sem massa. Espalhe com o rolo cuidadosamemte",
+      "Recheio",
+      "Misture em um pote pequeno o coco ralado e o leite condensado e espalhe por cima da massa",
+      "Enrole com cuidado e corte as extremidades",
+      "Polvilhe coco e leite em pó por cima",
+      "Deixe na geladeira por algum tempo ou coma imediatamente"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Utensílios:\nPlástico filme\nVasilha pra massa\nPote pequeno\nPrato para servir\nColher e faca\nRolo de macarrão (pode ser uma garrafa de vinho o um cerveja)"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALL RECIPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305486-rocambole-prestigio-da-vo-alice.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BROWNIE LOW CARB SUPERGOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 barras de chocolate 70% (200 g)",
+      "3 colheres de manteiga",
+      "1 xícara de farinha de amêndoas",
+      "4 ovos",
+      "3 colheres de xilitol (ou açúcar demerara)",
+      "1 xícara de castanhas picadas/amêndoas laminadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga com o chocolate picado no micro-ondas (aos poucos, de 30 em 30 segundos).",
+      "Depois, acrescente os 4 ovos, a farinha e o xilitol.",
+      "Misture e coloque em uma forma pequena, untada com manteiga e cacau.",
+      "Despeje as castanhas/amêndoas por cima.",
+      "Leve ao forno por 15 a 20 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não cresce igual bolo e ao espetar o palito ainda sai um pouquinho de massa grudada.\nDê uma olhada na receita tradicional de brownie para ver que a low carb não perde em nada para ela!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LETICIA ARITA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302792-brownie-low-carb-supergostoso.html"
+}

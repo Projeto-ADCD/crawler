@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE MARACUJÁ COM CHANTILI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "3 caixas de creme de leite",
+      "3 maracujá",
+      "1 pacote de gelatina incolor",
+      "1 caixinha de chantili"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador os maracujás, o leite condensado e o creme de leite",
+      "Bata e dissolva em água quente a gelatina incolor",
+      "Coloque no liquidificador",
+      "Logo em seguida coloque em uma refratária e leve ao congelador por 20 minutos",
+      "Bata o chantili na batedeira por aproximadamente 10 minutos e decore como preferir"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RENATA TANAKA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305722-mousse-de-maracuja-com-chantili.html"
+}

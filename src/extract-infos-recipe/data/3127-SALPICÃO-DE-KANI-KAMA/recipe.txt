@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALPICÃO DE KANI KAMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de kani kama desfiado",
+      "1 cenoura média ralada",
+      "2 talos de salsão cortado",
+      "2 maçãs picadas",
+      "1 lata de palmito fatiado fino (também pode desfiar)",
+      "1 lata de milho (fizemos com minimilho, nesse caso, cortado em tiras)",
+      "1 vidro de champignon cortado em lâminas",
+      "1 colher (sopa) de cebola ralada",
+      "1 colher (café) de alho ralado",
+      "cebolinha e salsinha picadas a gosto",
+      "suco de um limão",
+      "1 colher (café) de mostarda",
+      "200 g de maionese",
+      "batata-palha para enfeitar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes (menos a batata palha), deixando o suco de limão e a maionese para o final",
+      "Enfeite com batata palha",
+      "Essa receita é muito simples, leve e gostosa!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LYGIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303841-salpicao-de-kani-kama.html"
+}

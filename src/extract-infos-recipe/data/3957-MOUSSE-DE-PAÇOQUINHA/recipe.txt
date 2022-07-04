@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOUSSE DE PAÇOQUINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de gelatina incolor",
+      "250 ml de leite",
+      "1/2 xícara (chá) de açúcar",
+      "1 caixa de creme de leite",
+      "10 paçoquinhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina em 5 colheres (sopa) de água, mexa bem e leve ao micro-ondas por 30 segundos.",
+      "Em um liquidificador, adicione a gelatina, o leite, o creme de leite, o açúcar, o creme de leite e as 10 paçoquinhas.",
+      "Bata por 1 minuto em seguida despeje no recipiente que desejar (travessa, copo plástico, taças, etc).",
+      "Leve à geladeira (não congelador) por 2 horas.",
+      "Ao retirar, coloque paçoquinhas picadas ou amendoim picado por cima e nivele com um pincel.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CLAUDIO MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302297-mousse-de-pacoquinha.html"
+}

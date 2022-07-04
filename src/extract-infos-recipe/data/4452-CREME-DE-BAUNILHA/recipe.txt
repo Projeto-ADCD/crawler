@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREME DE BAUNILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado",
+      "5 gotas de essência de baunilha",
+      "1/2 de leite gelado ou ambiente",
+      "1 e 1/2 tablete de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o leite condensado e o leite e mexa bem. Depois, acrescente a manteiga.",
+      "Quando começar a borbulhae, coloque a essência de baunilha e mexa sempre em fogo médio para alto.",
+      "Quando estiver quase desgrudando do fundo da panela, desligue o fogo e mexa por mais ou menos 2 minutos.",
+      "Leve para a geladeira por 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LAYSNE CAMPOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301093-creme-de-baunilha.html"
+}

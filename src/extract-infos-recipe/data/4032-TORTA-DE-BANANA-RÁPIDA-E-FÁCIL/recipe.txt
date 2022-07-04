@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE BANANA RÁPIDA E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha",
+      "2 xícaras de açúcar",
+      "1 colher de fermento",
+      "2 ovos inteiros batidos",
+      "1 copo de leite",
+      "5 colheres de manteiga ou margarina",
+      "5 bananas cortadas na horizontal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha, o açúcar e o fermento como se fosse uma farofa e reserve.",
+      "Derreta a margarina ou manteiga ",
+      "Depois de derretida, adicione o leite os ovos batidos e mexa bem.",
+      "Em uma forma (eu faço em uma quadrada 20 x 20 cm), faça uma camada com a farofa e outra com a banana intercalando até acabar",
+      "Faça mais ou menos 3 camadas e por último depeje por cima a mistura de leite, margarina e ovos por sem mexer (você pode fazer pequenos furos por cima, mas não mexa muito)",
+      "Coloque para assar até dourar.",
+      "Mais ou menos forno de 180° C por 40 minutos.",
+      "Dependendo do forno."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA PAULA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302097-torta-de-banana-rapida-e-facil.html"
+}

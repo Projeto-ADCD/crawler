@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FLAN DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 colher (sopa) de baunilha",
+      "1 pacote de gelatina sem sabor (12 g)",
+      "Calda de morango",
+      "1 caixa de morango fresco",
+      "suco de 1/2 limão",
+      "1/2 xícara de açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para preparar o flan",
+      "Bata no liquidificador o leite condensado, o creme de leite e a baunilha por uns 3 minutos.",
+      "Hidrate a gelatina com 5 colheres (sopa) de água e leve ao micro-ondas por 15 segundos",
+      "Adicione a gelatina enquanto bate os demais ingredientes no liquidificador.",
+      "Despeje a mistura em forma com furo central previamente \"untada\" com água.",
+      "Leve para gelar.",
+      "Para o preparo da calda",
+      "Lave e pique os morangos e leve ao fogo com o suco de limão e o açúcar.",
+      "Deixe ferver até ficar com textura de xarope.",
+      "Fica uma calda grossinha mas com pedacinhos de morango.",
+      "Após uns 30 minutos de geladeira, desenforme o flan e adicione a calda de morango já fria."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALESSANDRA PRECRIMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304260-flan-de-morango.html"
+}

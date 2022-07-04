@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SORVETE CASEIRO SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral",
+      "1 caixinha de creme de leite",
+      "2 pacotes de suco em pó sem açúcar (sabor da sua esolha)",
+      "1 colher (sopa) rasa de liga neutra",
+      "1 colher (sopa) de emulsificante",
+      "pedaços de fruta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes, com excessão do emulsificante por 5 minutos no liquidificador.",
+      "Tranfira para um refratário e deixe por 3 horas no freezer até começar a cristalizar as laterais",
+      "Coloque metade da mistura na batedeira e adicione meia colher (sopa) do emulsificante",
+      "Bata por 5 minutos, subindo a rotação da batedeira conforme for incorporando a base",
+      "Repita o procedimento com a outra metade"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: para meu gosto não precisou adoçar mais.\nObs: rende 7 litros de sorvete, por isso se quiser repartir a receita pela metade e fazer 2 sabores também dá\nObs: se for adicionar frutas cozinhe-as antes para não soltar água no sorvete"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "THAIS CASTILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305323-sorvete-caseiro-sem-acucar.html"
+}

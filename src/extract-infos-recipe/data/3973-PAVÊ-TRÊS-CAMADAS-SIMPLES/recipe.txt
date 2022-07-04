@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PAVÊ TRÊS CAMADAS SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "CREME AMARELO",
+      "1 lata/caixa de leite condensado (395 g)",
+      "1 lata/caixa de leite (usa a mesma medida de leite condensado)",
+      "3 gemas",
+      "1 colher de amido de milho (dissolvido no leite)",
+      "CREME DE CHOCOLATE",
+      "1 lata/caixa de leite condensado (395 g)",
+      "1 lata/caixa de leite (use a mesma medida de leite condensado)",
+      "1 gema",
+      "1 colher de amido de milho (dissolvido no leite)",
+      "2 colheres (sopa) de achocolatado ou qualquer outro chocolate em pó",
+      "CREME BRANCO",
+      "4 claras",
+      "4 colheres (sopa) de açúcar refinado",
+      "1 caixa/lata (200g)",
+      "bolacha maisena e leite para umedecer"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o preparo do creme amarelo, misture o leite com o amido de milho até dissolver",
+      "Depois coloque numa panela a mistura e acrescente os demais ingredientes e misture de novo",
+      "Ligue o fogo e vá mexendo o creme até obter uma textura mais consistente, desligue o fogo e reserve.",
+      "Para o preparo do creme de chocolate, misture o leite com o amido de milho até dissolver",
+      "Depois coloque numa panela a mistura e acrescente os demais ingredientes e misture de novo",
+      "Ligue o fogo e vá mexendo o creme até obter uma textura mais consistente, desligue o fogo e reserve.",
+      "Para o preparo do creme branco coloque as claras numa batedeira e bata em faixa por uns 5 minutos",
+      "Depois acrescente o açúcar e bata mais um pouco e por último misture o creme de leite, reserve.",
+      "Numa travessa de sua escolha ou vasilha plastica, coloque o creme amarelo, molhe a bolacha no leite e coloque sobre o creme, posteriormente acrescente o creme de chocolate por cima, depois repita o passo com a bolacha e por último acrescente o creme branco",
+      "Leve a geladeira, freezer ou congelador, como preferir, deixe por 1 hora ou até gelar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MAIELEN ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302273-pave-tres-camadas-simples.html"
+}

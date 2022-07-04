@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BEIJINHO DE COCO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "50 g de coco ralado",
+      "1 colher de margarina",
+      "50 g de coco ralado para confeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione em um recipiente o leite condensado e misture com o coco e a margarina",
+      "Leve ao fogo e espere o beijinho dar o ponto (igual ao do brigadeiro)"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "MIRLY ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302868-beijinho-de-coco-simples.html"
+}

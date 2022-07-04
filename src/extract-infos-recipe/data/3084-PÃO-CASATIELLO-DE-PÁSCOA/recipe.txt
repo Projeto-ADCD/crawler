@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO CASATIELLO DE PÁSCOA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de água morna",
+      "1 xícara (chá) de banha suína",
+      "1 colher (sopa) de pimenta-do-reino",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de açúcar",
+      "100 g de queijo ralado",
+      "60 g de fermento biológico fresco",
+      "farinha de trigo (o necessário para amassar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento em 1 colher (sopa) de açúcar",
+      "Misture o fermento já líquido em 1 copo de água morna e 1 xícara (chá) de farinha de trigo",
+      "Deixe descansar (fica como um mingau mole)",
+      "Em uma panela, coloque 1 copo de água, junte a banha e leve ao fogo para derreter",
+      "Acrescente o sal, a pimenta-do-reino e 50 g de queijo ralado",
+      "Junte ao fermento que estará levedando e vá colocando a farinha de trigo até que dê para amassar (massa mole)",
+      "Separe a massa em duas partes, dê um formato de rolo e faça um tipo de rosca, trançando os dois rolos",
+      "Coloque em uma forma de furo em cima da massa coloque os dois ovos (crus), um de cada lado por cima dos mesmos cruze duas tirinhas de massa e deixe descansar",
+      "Faça uma bolinha de massa e coloque em um copo de água fria, quando a bolinha subir leve a forma ao forno preaquecido em temperatura média por aproximadamente 40 minutos ou até dourar",
+      "Salpique com queijo ralado e pimenta-do-reino",
+      "Obs: caso queira pode rechear com calabresa, queijo ou escarola refogada"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DOUGLAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303903-pao-casatiello-de-pascoa.html"
+}

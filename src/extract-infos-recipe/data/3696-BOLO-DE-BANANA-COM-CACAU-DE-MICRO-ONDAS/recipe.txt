@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE BANANA COM CACAU DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana nanica madura",
+      "1 ovo",
+      "1 colher de cacau em pó",
+      "15 g de aveia em flocos finos ",
+      "1/2 colher (café) de fermento em pó",
+      "1 pitada de canela em pó ou a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana e reserve.",
+      "Em outro pote ou caneca (resistente à micro-ondas) bata o ovo com um garfo até misturar a gema com a clara.",
+      "Adicione os demais ingredientes: aveia, cacau, a banana, canela, misture bem, e por último acrescente o fermento em pó.",
+      "Coloque o recipiente ou caneca no micro-ondas por 3 minutos.",
+      "Retire, coloque em um prato de sobremesa para servir."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAROLINE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302892-bolo-de-banana-com-cacau-de-micro-ondas.html"
+}

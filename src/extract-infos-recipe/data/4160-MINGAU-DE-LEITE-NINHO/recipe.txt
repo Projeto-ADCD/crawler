@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MINGAU DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 ml de leite integral",
+      "1,5 colher (sopa) de açúcar comum",
+      "4 colheres (sopa) de leite em pó de sua preferência",
+      "2 colheres (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma panela com fogo baixo.",
+      "Mexa até os ingredientes se dissolverem enquanto o leite está morno.",
+      "Em seguida aumente o fogo e continue mexendo até atingir a consistência desejada.",
+      "Retire do fogo e sirva quente.",
+      "Se preferir, pode polvilhar em cima leite em pó ou chocolate branco ralado.",
+      "Dica: ao misturar os ingredientes na panela, prove a misture antes de começar a dar liga, assim você pode ajustar ao seu paladar.",
+      "Esse mingau pode servir de base para recheio de bolo."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDUARDO PLACIDO SANTIAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301704-mingau-de-leite-ninho.html"
+}

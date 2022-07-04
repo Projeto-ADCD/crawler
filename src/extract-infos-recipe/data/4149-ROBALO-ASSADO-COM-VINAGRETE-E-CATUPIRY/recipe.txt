@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ROBALO ASSADO COM VINAGRETE E CATUPIRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 robalo",
+      "3 limões",
+      "Catupiry",
+      "Vinagrete",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra o robalo pelas costas e o espalme.",
+      "Após estar limpo (não tire as escamas), deixe marinar por 10 minutos com sal e o suco dos limões.",
+      "Coloque na churrasqueira (fogo baixo/médio ou altura elevada) com as escamas viradas na grelha.",
+      "Após 20 minutos ou quando a parte superior estiver quente, acrescente o caputiry.",
+      "Em seguida, quando o catupiry estiver quente acrescente o vinagrete e um pouco de azeite.",
+      "Quando o vinagrete estiver começando a murchar está no ponto de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FELIPE AUGUSTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301727-robalo-assado-com-vinagrete-e-catupiry.html"
+}

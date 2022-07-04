@@ -1,0 +1,38 @@
+{
+  "nome_receita": "OVO DE PALHA ITALIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de chocolate branco",
+      "500 g de chocolate meio amargo",
+      "350 ml de leite condensado",
+      "1 biscoito de maisena ou maria em farofa",
+      "4 colheres (sopa) de chocolate em pó ou achocolatado",
+      "açúcar refinado",
+      "leite em pó",
+      "chantilly a gosto",
+      "1 colher (sopa) de margarina ou manteiga",
+      "forma de ovo de páscoa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione o leite condensado a margarina e o chocolate em pó.",
+      "Misture tudo com o fogo desligado.",
+      "Depois de tudo bem misturado, ligue o fogão em fogo baixo.",
+      "É importante saber que não pode parar de mexer.",
+      "Quando estiver na textura de brigadeiro, ou seja, que você consiga ver o fundo da",
+      "panela, adicione o biscoito e desligue o fogo.",
+      "Reserve.",
+      "Para o ovo, iremos derreter os chocolates em banho-maria.",
+      "Após o chocolate derreter por completo, iremos coloque em uma forma própria para",
+      "ovos de páscoa.",
+      "Leve à geladeita para endurecer (não é bom ficar muito fino e nem muito grosso).",
+      "Após endurecer, você pode pegue o seu recheio e os ingredientes restantes e monte",
+      "do seu jeito."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "FEFE MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299739-ovo-de-palha-italiana.html"
+}

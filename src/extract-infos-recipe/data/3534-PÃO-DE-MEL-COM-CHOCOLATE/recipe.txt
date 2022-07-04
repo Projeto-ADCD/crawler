@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO DE MEL COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de trigo",
+      "1 xícara de açúcar mascavo",
+      "1 xícara de achocolatado em pó",
+      "2 colheres (sopa) de mel",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (café) de bicarbonato de sódio",
+      "1 copo de leite",
+      "1 colher (sopa) de fermento ",
+      "1 barra de chocolate meio amargo, que seja temperado (500 g)",
+      "1 pote de doce de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire os ingredientes secos em um recipiente de sua preferência",
+      "Acrescente o mel e o leite (morno)",
+      "Misture até a massa ficar homogênea (sem batedeira)",
+      "Coloque o fermento e misture (sem batedeira)",
+      "Preaqueça o forno 20 minutos a 180° C",
+      "Retire em 20 minutos ou até você espetar com um palito e ele sair limpo",
+      "Deixe esfriar e recheie ele com o doce de leite",
+      "Divida a forma em 15 pães de mel",
+      "Deixe o chocolate derreter em banho-maria em um recipiente de vidro (resultado melhor do chocolate)",
+      "Mergulhe o pão de mel no chocolate até ele ficar todo coberto",
+      "Faça isso em todos eles",
+      "Coloque o papel-manteiga em cima da mesa ou bancada",
+      "Deixe eles descançando até o chocolate endurecer",
+      "Pronto "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA LUIZA LEVANDOVSKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303185-pao-de-mel-com-chocolate.html"
+}

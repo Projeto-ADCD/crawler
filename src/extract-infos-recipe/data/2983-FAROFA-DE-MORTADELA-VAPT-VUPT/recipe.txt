@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE MORTADELA VAPT-VUPT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farofa tradicional ",
+      "200 g de mortadela defumada",
+      "1 cebola média picada",
+      "2 dentes de alho",
+      "1/2 pimenta dedo de moça sem semente (opcional)",
+      "1 colher (sopa) de azeite ou óleo",
+      "1 limão (suco)",
+      "1 pitada de sal",
+      "salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as fatias de mortadela, o alho e a cebola.",
+      "Refogue esses ingredientes com o óleo por uns 5 a 10 minutos ou até que a cebola fique mais transparente.",
+      "Acrescente o limão, a pitada de sal e a pimenta (caso goste de um pouco de picância)",
+      "Mexa e deixe cozinhar até que o sumo do limão seque.",
+      "Acrescente a farofa e as ervas frescas, misture e desligue o fogo.",
+      "Decore com tomates cereja e salsinha.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: use salaminho no lugar da mortadela para variar.\nFica uma delícia.\nBom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RENATA ODORISSIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304031-farofa-de-mortadela-vapt-vupt.html"
+}

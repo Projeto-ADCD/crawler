@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLINHO DE MANDIOCA COM BACALHAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau desfiado",
+      "500 g de mandioca amassada",
+      "1 cebola picada",
+      "2 ovos batidos",
+      "1 xícara de farinha de rosca",
+      "sal a gosto",
+      "1 colher (sobremesa) de páprica picante",
+      "1 colher (sopa) de corante",
+      "cheiro-verde picado (salsa, cebolinha e manjericão)",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com azeite refogue a cebola picada, após refogar coloca o bacalhau e deixe dourar",
+      "Misture em uma bacia a mandioca amassada, o bacalhau, os ovos batidos, a farinha de rosca, a páprica e o cheiro-verde",
+      "Misture bem e porcione como desejar e leve ao freezer",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: frite congelado e não faça porções grandes para evitar que fique queimado por fora e congelado por dentro"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303530-bolinho-de-mandioca-com-bacalhau.html"
+}

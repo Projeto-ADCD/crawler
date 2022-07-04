@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MELHOR ARROZ DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de arroz",
+      "1 litro de água",
+      "1 leite condensado",
+      "1 creme de leite",
+      "3 cravos",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela a água com o leite condensado e misture para dissolver",
+      "Coloque o arroz e misture",
+      "Junte os 3 cravos.",
+      "Quando ferver, abaixe o fogo e mexa de vez em quando até o caldo reduzir.",
+      "Apague o fogo e coloque o creme de leite.",
+      "Coloque na travessa e polvilhe a canela"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SVE BREDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305417-melhor-arroz-doce.html"
+}

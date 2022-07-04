@@ -1,0 +1,40 @@
+{
+  "nome_receita": "VATAPÁ DE FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de farinha de castanha de cajú",
+      "150 g de farinha de camarão seco",
+      "100 g de farinha de amendoim torrado e sem casca ",
+      "400 g de farofa com temperos suaves Yoki ",
+      "2 cebolas branca média ",
+      "5 dentes de alho ",
+      "1 xícara (chá) de azeite de dendê ",
+      "2 litros leite de coco",
+      "sal a gosto ",
+      "tempero verde a gosto ",
+      "água se necessário"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador a cebola e o alho até que vire uma pasta, se preferir pode colocar um pouco de água junto para bater junto.",
+      "Coloque o alho e a cebola já batidos em uma panela grande",
+      "Bata no liquidificador a farofa Yoki e as farinhas de castanha de cajú, amendoim e camarão com 1 litro de leite de coco",
+      "Misture bem aos ingredientes que já estão na panela",
+      "Depois de misturar bem, acrescente o restante do leite de coco o sal e o gengibre a gosto ",
+      "Leve ao fogo médio e mexa sem parar até que comece a ganhar consistência",
+      "Depois acrescente o azeite de dendê até ganhar o ponto de ver o fundo da panela ",
+      "Depois de pronto, coloque no recipiente desejado e polvilhe os temperos verde a gosto ",
+      "Dica: pode ser servido com o próprio bolinho de acarajé, ou com moqueca de camarão e bacalhau ou com galinha caipira cozida",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Elizabeth Nascimento dos Santos Menezes"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304134-vatapa-de-farofa.html"
+}

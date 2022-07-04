@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE TAPIOCA GRANULADA SEM OVO E SEM FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 ml de leite quente",
+      "500 g de tapioca granulada",
+      "1 leite de coco (200 ml)",
+      "1 caixinha de leite condensado (395 g)",
+      "1 xícara de açúcar",
+      "50 g de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha coloque todo o conteúdo do pacote da tapioca.",
+      "Adicione o açúcar, ferva o leite e coloque junto a tapioca ainda quente.",
+      "Mexa a mistura e deixe descansar por 8 até 10 minutos (o leite quente praticamente vai cozinhar a tapioca).",
+      "Depois do descanso, adicione o leite de coco, o leite condensado, mexa bem e por último adicione o coco ralado.",
+      "Unte a forma (modelo pudim) com apenas manteiga, margarina ou óleo (vai de sua preferência)",
+      "Cubra a massa na forma com papel-alumínio, leve à geladeira por aproximadamente 2 horas e desinforme.",
+      "Cobertura: ",
+      "Leite condensado a gosto e coco ralado (opcional)"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRUNA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302443-bolo-de-tapioca-granulada-sem-ovo-e-sem-forno.html"
+}

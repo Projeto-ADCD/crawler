@@ -1,0 +1,35 @@
+{
+  "nome_receita": "STROGONOFF DE FRANGO LCFM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de peito de frango em cubo",
+      "150g de abacaxi em cubo",
+      "1 cenoura triturada",
+      "1 cebola picada",
+      "2 dentes de alho amassados",
+      "1/2 caixa de creme de leite",
+      "Coentro a gosto",
+      "Cebolinha a gosto",
+      "2 colheres de sopa de margarina",
+      "2 colheres de sopa de molho de tomate",
+      "250ml de água",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com Sal e pimenta do reino. (Ou de sua preferência) e reserve.",
+      "Numa panela, doure a cebola e alho junto com a margarina.",
+      "Acrescente o frango e refogue.",
+      "Acrescente o coentro, a cebolinha,a cenoura e o abacaxi e continue a refogar por 5 minutos em fogo baixo. O frango irá soltar água.",
+      "Acrescente o molho de tomate.",
+      "Acrescente a água e deixe cozinhar por 20 minutos.",
+      "Acerte o sal e acrescente o creme de leite e deixe cozinha por mais 5 minutos.",
+      "Este prato pode ser servido com purê de abóbora e arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUIS CARLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301580-strogonoff-de-frango-lcfm.html"
+}

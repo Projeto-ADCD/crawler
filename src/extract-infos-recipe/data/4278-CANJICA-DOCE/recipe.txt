@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJICA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de milho para canjica",
+      "2 leite condensado",
+      "1 leite de coco",
+      "1 creme de leite",
+      "1 litro leite integral",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhar o milho por aproximadamente 1:30hs na panela de pressão (até o milho ficar macio).",
+      "Após retirar o excesso de água.",
+      "Acrescentar todos os ingredientes, exceto o creme de leite.",
+      "Ferver até engrossar aproximadamente 1 hora e meia.",
+      "Mexer sempre pois tente a queimar o fundo da panela e derramar.",
+      "Quando estiver com aparência cremosa, desligar e acrescentar o creme de leite, mexer bem e esta pronto."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LUCIENE BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301477-canjica-doce.html"
+}

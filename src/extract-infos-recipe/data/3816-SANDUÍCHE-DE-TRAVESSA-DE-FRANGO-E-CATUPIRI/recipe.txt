@@ -1,0 +1,49 @@
+{
+  "nome_receita": "SANDUÍCHE DE TRAVESSA DE FRANGO E CATUPIRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio",
+      "200 ml leite de coco",
+      "20 fatias de pão de forma sem casca",
+      "500 g peito de frango cozido e bem desfiado",
+      "1 tomate grande sem sementes",
+      "1 pimentão verde picadinho",
+      "1 pitada de sal",
+      "1 cebola média picadinha",
+      "coentro picadinho a gosto",
+      "2 colheres (sopa) de azeite",
+      "350 g de muçarela",
+      "1/2 colher (sopa) de colorau",
+      "Creme",
+      "200 ml leite de coco",
+      "1 pitada de sal",
+      "3 colheres (sopa) de amido de milho",
+      "1 xícara (chá) de queijo catupiri",
+      "3 colheres (sopa) de mostarda",
+      "4 xícaras (chá) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Coloque o azeite na panela, leve ao fogo, refogue a cebola, tomate, pimentão e o coentro e misture bem.",
+      "A seguir, junte o frango cozido e desfiado, colorau, sal e refoque bem",
+      "A sequir, junte o leite de coco e mexa bem",
+      "Deixe no fogo baixo por 30 minutos.",
+      "Creme",
+      "Coloque o leite de coco na panela e leve ao fogo",
+      "Acrescente o sal, amido de milho e o leite",
+      "Misture bem até o creme engrossar.",
+      "Retire do fogo, junte o catupiri e a mostarda, misture novamente.",
+      "Montagem",
+      "Unte um refratário e espalhe parte do creme",
+      "Coloque fatias do pão lado a lado e a seguir o recheio.",
+      "Novamente fatias do pão por cima e espalhe fatias de muçarela",
+      "Leve ao forno quente para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEUDA M.V.XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302593-sanduiche-de-travessa-de-frango-e-catupiri.html"
+}

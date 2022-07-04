@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALSICHÃO ASSADO COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de salsichão",
+      "1/2 cebola",
+      "Sal e temperos a gosto",
+      "Batatas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pré aqueça o forno em fogo baixo por 10 min antes.",
+      "Lave os salsichões, descasque as batatas e corte-as ao meio.",
+      "Em um recipiente próprio para forno, adicione os salsichões, as batas e a cebola picada.",
+      "Adicione papel alumínio, e retire quando a água secar para dourada.",
+      "Sirva e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRENDA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300904-salsichao-assado-com-batata.html"
+}

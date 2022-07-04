@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TORTA DE SARDINHA DO BETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1 e 1/2 copo leite",
+      "1 copo de óleo",
+      "2 copos de farinha de trigo",
+      "1 colher de fermento em pó",
+      "pitada de sal",
+      "Recheio ",
+      "4 latas de sardinha",
+      "1 cebola grande picada",
+      "2 dentes de alho",
+      "100 g de azeitonas picadas",
+      "1 lata de seleta de legumes",
+      "1 envelope de tempero pronto",
+      "salsinha a gosto",
+      "pitada de colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata todos os ingredientes no liquidificador por 4 minutos, na sequência: ovos, leite, óleo, farinha e fermento.",
+      "Recheio",
+      "Abra as latas de sardinha, retire os espinhos e reserve.",
+      "Use o óleo da sardinha para fritar a cebola e o alho.",
+      "Deixe dourar e apague o fogo.",
+      "Acrescente as sardinhas, a seleta de legumes, a salsinha, as azeitonas picadas e o tempero pronto.",
+      "Mexa bem e reserve.",
+      "Coloque uma pitada de coloral.",
+      "Leve para assar em forno preaquecido a 180° C por aproximadamente 40 minutos.",
+      "Em uma forma untada, coloque metade da massa, em seguida espalhe o recheio e cubra com o restante da massa.",
+      "Essa massa fica liquida ok, mas bem espessa, bem grossa.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: deixe esfriar para servir, pois o gosto apura e fica mais saboroso. Use o óleo da sardinha em lata para fritar a cebola e o alho. Fica divino. Pode ser usado recheio de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304585-torta-de-sardinha-do-betao.html"
+}

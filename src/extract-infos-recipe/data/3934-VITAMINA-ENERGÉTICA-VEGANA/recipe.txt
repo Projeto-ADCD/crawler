@@ -1,0 +1,25 @@
+{
+  "nome_receita": "VITAMINA ENERGÉTICA VEGANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas nanicas maduras",
+      "1/2 abacate",
+      "4 colheres (sopa) aveia",
+      "1 colher (sopa) chia",
+      "4 colheres (sopa) amendoim moído",
+      "2 colheres (sopa) cacau",
+      "1 litro de água gelada (pode colocar cubos de gelo também)",
+      "1/2 colher (chá) spirulina em pó (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte tudo",
+      "Bata todos os ingredientes em um liquidificador até virar uma vitamina."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FLÁVIA FARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302340-vitamina-energetica-vegana.html"
+}

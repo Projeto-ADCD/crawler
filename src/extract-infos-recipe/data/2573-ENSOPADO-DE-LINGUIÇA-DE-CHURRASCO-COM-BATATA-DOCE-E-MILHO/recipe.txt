@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ENSOPADO DE LINGUIÇA DE CHURRASCO COM BATATA-DOCE E MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 linguiças de churrasco",
+      "1 espiga de milho cortada em pedaços",
+      "1 batata-doce cortada em cubos",
+      "3 dentes de alho grandes",
+      "1 cebola pequena picada",
+      "1 colher (sopa) de molho ou extrato de tomate",
+      "sal a gosto",
+      "cheiro-verde a gosto",
+      "ervas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fervente as linguiças por alguns minutos para que saia um pouco da gordura",
+      "Reserve enquanto esfria.",
+      "Após esfriar, corte em rodelas.",
+      "Adicione a cebola na panela, com um fio de azeite e com a linguiça, comece a dourar em fogo médio",
+      "Adicione o alho ralado (picado ou batido), continue refogando até que doure mais um pouco,",
+      "Adicione o milho, a batata-doce, o molho de tomate, os temperos e um pouco de água",
+      "Abaixe o fogo e tampe a panela e deixe cozinhando em fogo bem baixo, mexendo de vez em quando, até que a batata e o milho estejam cozidos.",
+      "Se necessário, vá adicionando mais um pouco de água, sem excesso, apenas para ajudar no cozimento."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SAMIRA ABREU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304918-ensopado-de-linguica-de-churrasco-com-batata-doce-e-milho.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SOPA FÁCIL DE CREME DE ALHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas",
+      "9 dentes de alho",
+      "1 copo da água do cozimento da batata",
+      "1 copo de leite",
+      "1 maço de alho-poró",
+      "2 cebolas cortadas em cubos",
+      "200 ml de creme de leite",
+      "noz moscada, sal e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas",
+      "Após cozidas, bata no liquidificador com a água, o leite e alho.",
+      "Em uma panela, refogue a cebola junto com o alho-poró",
+      "Depois, junte à panela a mistura do liquidificador e deixe apurar",
+      "Adicione o sal e a noz moscada",
+      "Depois de apurar, desligue o fogo e acrescente o creme de leite.",
+      "Polvilhe cebolinha picada para servir.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão para servir: croutons"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDA FLORIDO CALDERON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302602-sopa-facil-de-creme-de-alhos.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LASANHA DE BACALHAU SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacalhau desfiado",
+      "1 pacote de massa para lasanha integral",
+      "azeitonas pretas sem caroço",
+      "1 cebola",
+      "1 dente de Alho",
+      "1 tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola, o alho, os pimentões e o tomate",
+      "Acrescente o bacalhau desfiado, as azeitonas e a noz moscada",
+      "Coloque o creme de leite",
+      "Corrija o sal",
+      "Unte um refratário e monte a lasanha em camadas: molho, massa da lasanha e queijo",
+      "Por último polvilhe com queijo ralado e leve ao forno",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão de acompanhamento: salada de rúcula"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MÁRCIO SOUZA BEYER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303902-lasanha-de-bacalhau-superfacil.html"
+}

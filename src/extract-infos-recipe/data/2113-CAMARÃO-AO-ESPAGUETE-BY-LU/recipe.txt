@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CAMARÃO AO ESPAGUETE BY LU",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de espaguete 5 furadinho",
+      "500 g de camarão rosa descascado limpo médio",
+      "2 colheres (sopa) de manteiga",
+      "1 cebola pequena",
+      "4 dentes de alho",
+      "2 colheres (sopa) de salsinha",
+      "10 tomates cereja",
+      "100 g de creme de leite",
+      "sal e pimenta a gosto",
+      "100 g de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque água para ferver",
+      "Em uma frigideira grande coloque uma colher (sopa) de manteiga e frite o alho picadinho, quando estiver dourado coloque a cebola.",
+      "Quando a cebola estiver dourada inclua os camarões e acrescente sal e pimenta além da salsinha.",
+      "Deixe cozinhar por 10 minutos e acrescente os tomates cereja.",
+      "Deixe cozinhar bem e inclua mais uma colher de manteiga.",
+      "Inclua o creme de leite e cozinhe mais 5 minutos.",
+      "Escorra bem o espaguete e misture na frigideira, por mais 3 minutos.",
+      "Sirva com queijo parmesão"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCIANA VERDINELLI PIÑERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305976-camarao-ao-espaguete-by-lu.html"
+}

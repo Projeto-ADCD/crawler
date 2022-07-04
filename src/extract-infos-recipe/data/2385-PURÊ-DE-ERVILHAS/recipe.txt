@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PURÊ DE ERVILHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de evilhas congeladas",
+      "1 cebola média picada",
+      "2 colheres (sopa) de manteiga",
+      "1/4 de xícara (chá) de água",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela derreta a manteiga em fogo médio, acrescente a cebola e a refogue até murchar.",
+      "Acrescente as ervilhas congeladas, misture e tempere com sal e pimenta-do-­reino a gosto.",
+      "Refogue por cerca de 5 minutos para descongelar e aquecer.",
+      "Acrescente a água e deixe cozinhar por mais 2 minutos, até a ervilha ficar macia.",
+      "Transfira as ervilhas (com o líquido do cozimento) para o copo do mixer (ou liquidificador) e bata até formar um purê.",
+      "Prove e acerte o sal.",
+      "Transfira para uma tigela e sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIE RUIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305340-pure-de-ervilhas.html"
+}

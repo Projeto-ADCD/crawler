@@ -1,0 +1,59 @@
+{
+  "nome_receita": "COSTELINHA DE PORCO COM BATATAS RÚSTICAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de costelinha de porco ",
+      "300 ml de vinho branco seco",
+      "sal a gosto",
+      "1 colher (sopa) de óleo",
+      "2 colheres (sopa) de cebola",
+      "1/2 xícara de açúcar mascavo",
+      "1/2 xícara de vinagre branco",
+      "2 colheres (sopa) de molho inglês",
+      "2 xícaras de ketchup",
+      "1 folha de louro",
+      "1 colher (sopa) de chili em pó",
+      "1/2 xícara de água",
+      "pimenta-do-reino a gosto",
+      "8 batatas asterix",
+      "sal grosso a gosto",
+      "1 cabeça de alho",
+      "1 ramo de alecrim",
+      "pimenta-do-reino a gosto",
+      "páprica doce a gosto",
+      "1/4 de xícara de azeite"
+    ]
+  },
+  "passos": {
+    "COSTELINHA E MOLHO": [
+      "Em uma travessa, coloque a peça de costelinha e adicione o vinho branco seco. ",
+      "Deixe marinar por 2 horas. ",
+      "Em seguida, tempere a peça com sal e leve para ferver por cerca de 10 minutos em uma panela com bastante água. ",
+      "Após esse tempo, acomode a peça em uma assadeira , cubra com papel-alumínio e leve ao forno preaquecido (180° C) por 40 minutos.",
+      "Em uma panela, aqueça o óleo e refogue a cebola. ",
+      "Adicione o açúcar mascavo deixe ele dissolver.",
+      "Acrescente o vinagre branco, o molho inglês e o ketchup; mexa bem.",
+      "Adicione a folha de louro, o chili em pó e a água.",
+      "Deixe cozinhar por cerca de 30 minutos.",
+      "Tempere com sal e pimenta-do-reino e misture bem até formar um molho espesso. ",
+      " Peneire o molho e está pronto.",
+      "Após os 30 minutos, retire a costelinha do forno e  pincele o molho.",
+      "Volte ao forno (200° C) por 10 minutos. ",
+      "Retire a peça do forno, pincele o molho novamente e cubra a assadeira com papel-alumínio. ",
+      "Retorne ao forno (180° C) por 5 minutos. "
+    ],
+    "BATATAS": [
+      "Corte as batatas em 4, no sentido do comprimento. ",
+      "Aqueça uma panela com água e sal grosso a gosto.",
+      "Adicione as batatas e cozinhe por 8 minutos. ",
+      "Retire as batatas e acomode-as em uma travessa.",
+      "Acrescente o alho, o alecrim, o sal grosso, a páprica doce e o azeite. ",
+      "Cubra a travessa com papel-alumínio e leve ao forno preaquecido (180° C) por cerca de 40 minutos. ",
+      "Sirva a costelinha com as batatas rústicas e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "190 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301935-costelinha-de-porco-com-batatas-rusticas.html"
+}

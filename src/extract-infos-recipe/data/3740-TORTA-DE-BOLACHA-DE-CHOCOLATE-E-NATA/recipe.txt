@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE BOLACHA DE CHOCOLATE E NATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme",
+      "1 lata de leite condensado",
+      "1 pote de nata",
+      "2 colheres de emustab",
+      "Massa",
+      "1 pacote de bolacha de chocolate ",
+      "Cobertura",
+      "100 g de chocolate ao leite",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a nata com o leite condensado até misturar e ficar um creme liso.",
+      "Em seguida, acrescente o emustab e bata até virar um creme grosso (porém leve).",
+      "A montagem é simples",
+      "Primeira camada de creme e outra de bolacha",
+      "Cobertura",
+      "Coloque as 100g de chocolate em uma vasilha e acrescente o creme de leite.",
+      "Misture e coloque 30 em 30 segundos no micro-ondas até derreter e virar o creme.",
+      "Depois é só finalizar na torta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "NATASHA GONÇALVES DE MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302802-torta-de-bolacha-de-chocolate-e-nata.html"
+}

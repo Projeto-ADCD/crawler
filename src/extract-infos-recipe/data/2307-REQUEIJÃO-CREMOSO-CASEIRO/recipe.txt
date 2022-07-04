@@ -1,0 +1,29 @@
+{
+  "nome_receita": "REQUEIJÃO CREMOSO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral",
+      "4 colheres de Vinagre",
+      "1 colher (sopa) de sal",
+      "1 colher de margarina ou manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite",
+      "Quando levantar fervura, separe metade do leite em uma xícara",
+      "Após levantar fervura, desligue o fogo e misture o vinagre até coalhar ",
+      "Em um recipiente fundo, coloque uma peneira e um pano ou pode ser um filtro de papel",
+      "Coloque a coalhada, aperte bem até sair todo líquido amarelo no liquidificador",
+      "Junte a coalhada, o leite morno reservad, o sal e a margarina",
+      "Bata até ficar lisa",
+      "Coloque em um pote de vidro e deixe esfriar totalmente",
+      "Coloque na geladeira e deixe por aproximadamente 2 horas",
+      "Tem a validade de 5 dias"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "AMANDA SILVA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305520-requeijao-cremoso-caseiro.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CAÇÃO NORDESTINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,7 kg de cação",
+      "3 tomates sem semente",
+      "1 cebola grande",
+      "coentro a gosto",
+      "alho a gosto",
+      "suco de limão",
+      "1/2 pimentão",
+      "azeite de dendê a gosto",
+      "pimenta-do-reino a gosto",
+      "tempero baiano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com suco de limão, pimenta-do-reino, alho picado, sal e tempero baiano",
+      "Deixe descansar por umas duas horas aproximadamente",
+      "Em uma panela sele o peixe com azeite de dendê e reserve em um refratário ou assadeira",
+      "Na mesma panela que selou refogue a cebola, o tomate o pimentão",
+      "Junte o coentro e os temperos",
+      "Desligue o fogo e acrescente uma caixinha de creme de leite",
+      "Coloque esse molho por cima do peixe e leve par gratinar ao forno"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MONICA NIETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305553-cacao-nordestino.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SANDUÍCHE DE OVO ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fatia de pão de forma",
+      "1 colher (chá) rasa de margarina (manteiga) com sal",
+      "1 ovo médio",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No centro do pão, faça um buraco com forma de empadinha ou algo do tamanho.",
+      "Em uma frigideira pequena, ponha a manteiga e deixe derreter",
+      "Espalhe por toda frigideira",
+      "Coloque a fatia de pão com o buraco, logo em seguida, ponha o ovo no buraco com sal e orégano.",
+      "Depois de algum tempo, verifique se o ovo está em consistência firme na parte debaixo do pão",
+      "Vire após o lado ser virado estar em consistência firme, o sanduíche estará pronto."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GIOVANA FREES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305991-sanduiche-de-ovo-especial.html"
+}

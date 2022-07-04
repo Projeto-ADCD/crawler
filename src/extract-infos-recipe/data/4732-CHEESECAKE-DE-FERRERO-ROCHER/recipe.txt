@@ -1,0 +1,47 @@
+{
+  "nome_receita": "CHEESECAKE DE FERRERO ROCHER",
+  "ingredientes": {
+    "BASE": [
+      "150 g de biscoito de maisena",
+      "50 g de avelãs tostadas",
+      "80 g de manteiga sem sal"
+    ],
+    "RECHEIO": [
+      "400 g de cream cheese",
+      "3/4 de xícara de açúcar",
+      "200 g de creme de avelã",
+      "2 colheres (sopa) de melado",
+      "1 + 1/2 xícara de creme de leite fresco",
+      "bombons Ferrero Rocher a gosto"
+    ],
+    "GANACHE": [
+      "200 g de chocolate amargo ou ao leite",
+      "1/2 xícara de creme de leite fresco ou de lata"
+    ]
+  },
+  "passos": {
+    "BASE": [
+      "Triture os biscoitos e as avelãs no processador.",
+      "Depois, coloque a manteiga e misture no processador.",
+      "Coloque a mistura em uma forma de fundo removível, apertando-a com os dedos para formar a base da torta.",
+      "Leve à geladeira."
+    ],
+    "RECHEIO": [
+      "Bata o cream cheese, o açúcar e o creme de avelã.",
+      "Depois, misture o melado e reserve.",
+      "Bata o creme de leite fresco até chegar em ponto de chantili.",
+      "Despeje 1/3 do chantili com o creme que estava reservado e, depois, adicione o restante do chantili e misture.",
+      "Despeje metade do recheio sobre a base de biscoitos.",
+      "Coloque os bombons cortados ao meio e, depois, despeje o restante do recheio.",
+      "Leve ao congelador por 2 horas."
+    ],
+    "GANACHE": [
+      "Em banho-maria, derreta o chocolate, despeje o creme de leite e misture.",
+      "Despeje a ganache sobre o cheesecake e enfeite com avelã picada."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300340-cheesecake-de-ferrero-rocher.html"
+}

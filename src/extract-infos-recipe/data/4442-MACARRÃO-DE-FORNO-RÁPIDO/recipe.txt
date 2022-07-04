@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO DE FORNO RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de Macarrão Penne",
+      "400g queijo mozarela inteiro",
+      "400g de presunto inteiro",
+      "1 caixinha de creme de leite",
+      "100 g de queijo ralado",
+      "1 molho de tomate",
+      "Orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em uma água fervente ate ficar al dente.",
+      "Escorra a água e coloque o macarrão em um recipiente.",
+      "Em uma tigela, corte o presunto e a mozarela em cubos, em seguida coloque o creme de leite e o molho de tomate.",
+      "Misture tudo.",
+      "Em um refratário, despeje o molho em cima do macarrão e leve ao forno.",
+      "Espere o queijo dourar, com o forno aquecido em uns 200° por 10 a 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LINDY RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301124-macarrao-de-forno-rapido.html"
+}

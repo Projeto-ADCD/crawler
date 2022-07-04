@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DELÍCIA DE FRUTAS VERMELHAS AO VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de creme de leite",
+      "1 caixa de leite condensado",
+      "200 g ou mais de frutas vermelhas picadas",
+      "1 caixa de gelatina sabor morango",
+      "1 sachê de gelatina sem sabor",
+      "150 ml de vinho tinto seco (pode ser o suave, mas pode deixar a sobremesa mais doce)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as frutas e coloque em uma forma que seja possível desenformar.",
+      "Derreta a gelatina sabor morango em 200 ml de água quente e misture à 200 ml de água gelada.",
+      "Coloque na forma e leve à geladeira até endurecer.",
+      "Coloque no liquidificador o creme de leite, o leite condensado e o vinho.",
+      "Dissolva a gelatina sem sabor em 50 ml de água e após 5 minutos ligue o fogo baixo sem deixar ferver.",
+      "Após a dissolução coloque a gelatina sem sabor junto aos outros ingredientes no liquidificador.",
+      "Bata por 3 minutos e coloque na forma com a gelatina e as frutas endurecidas.",
+      "Leve à geladeira e deixe endurecer.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Uma sugestão: Para tirar da forma pode se colocar rapidamente em banho-maria por alguns segundos para soltar da forma."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "FABIO MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302574-delicia-de-frutas-vermelhas-ao-vinho.html"
+}

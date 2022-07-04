@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE DE NEGRESCO DA ANNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de negresco",
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 caixinha de pudim de côco ou baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire o recheio dos biscoitos negresco e coloque no liquidificador",
+      "Misture o leite condensado, as duas caixas de creme de leite e bata até ficar homogênio",
+      "Coloque a mistura numa panela e dissolva o pacote de pudim, leve ao fogo sempre mexendo até engrossar",
+      "Coloque o mousse em uma travessa e espere esfriar",
+      "Enquanto isso, quebre os biscoitos em pedaços não muito pequenos e reserve",
+      "Quando o mousse estiver morno misture os biscoitos em pedaços.",
+      "Se desejar coloque pedaços maiores por cima para decorar",
+      "Leve para à geladeira por 3 horas e sirva"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HELENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303973-mousse-de-negresco-da-anna.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ESCONDIDINHO DE LINGUIÇA BLUMENAU",
+  "ingredientes": {
+    "RECHEIO:": [
+      "600 g de linguiça Blumenau",
+      "2 cebolas picadas",
+      "2 dentes de alho picados",
+      "100 ml de molho de tomate",
+      "50 g de requeijão tipo Catupiry",
+      "1 colher (sopa) de salsinha picada",
+      "1 colher (sopa) de cebolinha picada",
+      "Ingredientes para o purê de batata:",
+      "Purê de batata 1 kg batata rosa",
+      "150 ml de leite",
+      "2 colheres (sopa) de manteiga",
+      "Pimenta-do-reino, noz-moscada e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a linguiça, a cebola e o alho até dourar.",
+      "Misture com o molho de tomate e o requeijão.",
+      "Ferva por mais alguns minutos e finalize com as ervas frescas. Distribua em 4 formas de ramekins.",
+      "Com o restante dos ingredientes prepare um purê de batata cremoso e coloque por cima da linguiça refogada.",
+      "Cubra com o queijo e asse no forno a 180° por, aproximadamente, 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANICK OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301275-escondidinho-de-linguica-blumenau.html"
+}

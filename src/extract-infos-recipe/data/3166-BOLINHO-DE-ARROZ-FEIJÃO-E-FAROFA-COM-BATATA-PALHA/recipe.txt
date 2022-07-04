@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ, FEIJÃO E FAROFA COM BATATA PALHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de feijão preto ",
+      "250 g de arroz integral ",
+      "100 g de farofa com batata palha Yoki ",
+      "1 cebola roxa média",
+      "2 dentes de alho",
+      "2 colher (chá) de azeite de oliva",
+      "1/2 xícara (chá) de cebolinha",
+      "sal, pimenta e chimichurri a gosto ",
+      "200 g de queijo muçarela  ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão de molho por 3 horas e depois coloque para cozinhar na panela de pressão por 30 minutos. ",
+      "Deixe o arroz integral de molho por 2 horas e, em seguida, coloque o arroz para cozinhar em três copos de água em uma panela por 40 minutos.",
+      "Após o cozimento do arroz e do feijão, deixe esfriar e reserve. ",
+      "No processador, coloque o alho e a cebola e pulse até ficar picadinho.",
+      "Tire do processador e coloque em uma tigela.",
+      "Na tigela acrescente o azeite, a cebolinha, o sal, a pimenta e o chimichuri e reserve.",
+      "Coloque no processador o feijão preto e processe até que fique homogêneo.",
+      "Coloque o feijão processado e o arroz integral na tigela.",
+      "Misture com as mãos e vá adicionando aos poucos a farofa com batata palha (prove e, caso seja necessário, acrescente mais sal)",
+      "Pegue um pouco da massa e modele em formato de bola",
+      "Abra um buraco no meio, adicione um pedaço de queijo muçarela e modele novamente em formato de bola.",
+      "Depois de uma leve achatada no meio do bolinho. ",
+      "Unte uma forma com azeite e coloque os bolinhos. ",
+      "Preaqueça o forno por 10 minutos.",
+      "Asse os bolinhos por 30 minutos a 200° C"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Cosme Aparecido Macedo "
+    ]
+  },
+  "tempo_de_preparo": "250 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303790-bolinho-de-arroz-feijao-e-farofa-com-batata-palha.html"
+}

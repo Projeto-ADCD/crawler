@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PAVÊ DE PÊSSEGO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de pêssego em calda",
+      "1 caixa de bolacha champanhe",
+      "1 caixa de leite condensado",
+      "150 mL de leite",
+      "1 colher de amido de milho",
+      "1 caixa de creme de leite",
+      "20 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escorra o pêssego e reserve a calda em um refratário mais fundo.",
+      "Corte o pêssego em cubinhos e reserve. (se quiser, reserve um pêssego inteiro para decorar).",
+      "Dissolva o amido de milho no leite e despeje em uma panela",
+      "Adicione o leite condensado e 3 colheres cheias da calda do pêssego",
+      "Leve ao fogo baixo sem parar de mexer até engrossar e virar um creme liso.",
+      "Adicione o pêssego picadinho ao creme.",
+      "Para a montagem",
+      "Molhe a bolacha na calda de pêssego rapidamente para que não fique muito molhada.",
+      "Comece com uma camada de bolacha e intercale ente bolacha e creme.",
+      "A última camada deve ser de creme.",
+      "Polvilhe o coco ralado em cima da última camada (de creme).",
+      "Corte o pêssego e decore."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANIELLE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305359-pave-de-pessego-facil.html"
+}

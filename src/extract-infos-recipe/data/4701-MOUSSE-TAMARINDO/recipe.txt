@@ -1,0 +1,20 @@
+{
+  "nome_receita": "MOUSSE TAMARINDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colher de polpa de tamarindo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador e bata até ficar cremoso.",
+      "Coloque em uma bacia e deixe no congelador sirva após ficar durinho."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JEIELI KLEIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300398-mousse-tamarindo.html"
+}

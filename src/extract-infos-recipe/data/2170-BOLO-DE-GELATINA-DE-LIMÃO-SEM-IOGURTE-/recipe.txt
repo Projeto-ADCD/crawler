@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE GELATINA DE LIMÃO (SEM IOGURTE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo:",
+      "3 ovos",
+      "2 xícaras de farinha de trigo (200ml)",
+      "1 xícara de açúcar (200ml)",
+      "1/2 xícara de óleo (100ml)",
+      "1 colher de fermento em pó",
+      "1 pacote de gelatina de limão",
+      "Cobertura:",
+      "1 lata de leite condensado",
+      "1/2 xícara de suco de limão (200ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolo:",
+      "Esquente o leite, dissolva o pacote de gelatina de limão e reserve",
+      "Bata os ovos e o açúcar",
+      "Após dissolver o açúcar, acrescente o óleo, o leite e misture",
+      "Acrescente a farinha de trigo e o fermento em pó e bata até obter uma massa homogênea",
+      "(Leve ao forno por aproximadamente 40 minutos, use uma faca ou palito de churrasco para verificar se já esta assado)",
+      "Cobertura:",
+      "Em um recipiente limpo, misture o leite condensado e o suco de limão, misturando com uma colher até obter um creme consistente",
+      "Acrescente a cobertura ao bolo apenas quando este estiver frio",
+      "Aproveite a casca do limão e raspe um pouco sobre o bolo já com cobertura, tomando cuidado para não raspar a parte branca, pois senão poderá amargar o bolo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DANIELLE CONCEIÇÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305795-bolo-de-gelatina-de-limao-sem-iogurte.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MACARRÃO COM QUEIJO SUPER-RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão instantâneo",
+      "1/2 sachê de tempero de carne",
+      "4 fatias de queijo mussarela",
+      "500 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão sem o tempero disponibilizado com o mesmo",
+      "Despeje a água do cozimento fora, depois adicione metade de um sachê de tempero de carne",
+      "Coloque o queijo em pedaços pequenos e mexa até o queijo derreter por completo no macarrão",
+      "Retire do fogo e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOÃO PEDRO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303907-macarrao-com-queijo-super-rapido.html"
+}

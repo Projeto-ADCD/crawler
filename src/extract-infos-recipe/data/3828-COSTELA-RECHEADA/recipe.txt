@@ -1,0 +1,33 @@
+{
+  "nome_receita": "COSTELA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "costela de 5 kg desossada",
+      "bacon em tiras",
+      "2 batatas doce cortadas em tira",
+      "1 cenoura",
+      "1 e 1/2 cebola cortada em rodelas",
+      "salsinha a gosto",
+      "6 tabletes de caldo de costela",
+      "alho a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os 6 tabletes de caldo de costela, 1 cabeça de alho e azeite.",
+      "Amasse tudo em recipiente para untar os dois lados da costela.",
+      "Pegue o bacon em tiras e forrar a parte interna da manta da costela.",
+      "Coloque a batata doce e a cenoura cortada em tiras, logo depois acrescente as rodelas de cebola e a salsinha.",
+      "Coloque sal a gosto.",
+      "Enrole a manta e amarre firme com bartante.",
+      "Coloque mais algumas fatias de bacon e mais salsinha na parte externa da costela.",
+      "Levar ao forno por 4 horas a 200°C",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SERGIO MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302578-costela-recheada.html"
+}

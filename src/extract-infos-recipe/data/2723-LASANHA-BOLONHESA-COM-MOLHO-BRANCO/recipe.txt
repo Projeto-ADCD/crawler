@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LASANHA BOLONHESA COM MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de massa fresca para lasanha",
+      "400 g de carne moída",
+      "1 sachê de molho pronto sabor bolonhesa",
+      "300 g de queijo mussarela fatiado",
+      "1 caixinha de creme de leite",
+      "1 cebola média",
+      "3 dentes de alho amassados",
+      "1 colher (sopa) de óleo de girassol ou soja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare a carne em uma panela, refogando a cebola e o alho no óleo.",
+      "Adicione o molho de tomate na carne após ela perder toda sua água e começar a grudar na panela.",
+      "Adicione um pouco de água para dar mais molho.",
+      "Coloque no fundo de um refratário médio 2 colheres cheias da carne, adicione 1 fatia da massa para lasanha, por cima acrescente 2 colheres de creme de leite e adicione 2 fatias de mussarela.",
+      "Termine o refratário fazendo a montagem como no passo a passo anterior até que acabe o molho de carne moída.",
+      "Leve ao forno 180° C por 30 minutos tampada com papel-alumínio",
+      "Depois por 10 minutos para gratinar.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "THAMIRIS MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304575-lasanha-bolonhesa-com-molho-branco.html"
+}

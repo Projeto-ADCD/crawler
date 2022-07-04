@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA RECHEADO COM BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de açúcar",
+      "2 ovos",
+      "2 copos de farinha (copo de 200 ml)",
+      "1/2 copo de amido de milho (copo de 200 ml)",
+      "1 copo de leite (copo de 200 ml)",
+      "1 colher (sopa) de fermento",
+      "Recheio",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 colher de margarina",
+      "2 colheres de achocolatado ou chocolate de sua preferência",
+      "chocolate granulado para polvilhar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolinho chuva",
+      "Junte todos os ingredientes e bata até ficar uma massa bem cremosa.",
+      "Logo após, frite em óleo quente e reserve",
+      "Recheio",
+      "Coloque na panela a margarina, o creme de leite, o leite condensado e o achocolatado.",
+      "Cozinhe até ficar no ponto de brigadeiro para o recheio.",
+      "Corte os bolinhos ao meio, recheie com o brigadeiro e, se desejar, coloque o chocolate granulado em cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KAREN FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302418-bolinho-de-chuva-recheado-com-brigadeiro.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "OVOS MEXIDOS COM ARROZ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 fatia de mortadela",
+      "1/2 xícara de leite",
+      "1 colher (sopa) de margarina",
+      "1/2 colher (sopa) de maionese",
+      "1 xícara de arroz já cozido",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro bata os ovos com o leite, o sal e a pimenta-do-reino.",
+      "Depois frite  os ovos em uma frigideira aquecida com a manteiga, sem parar de mexer",
+      "Quando o ovo estiver bem mexido apague o fogo.",
+      "Em seguida, em uma panela misture a maionese, o arroz e a mortadela e mexa até ficar tudo misturadinho, e a mortadela estiver fritinha.",
+      "Quando estiver pronto, é só misturar o ovo e pronto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ABBGUEDESS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300428-ovos-mexidos-com-arroz-cremoso.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de farinha de trigo",
+      "1 copo de açúcar refinado",
+      "1 copo de queijo curado ralado",
+      "2 copos de leite frio",
+      "3 ovos",
+      "1 colher (sopa) rasa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o açúcar com os ovos.",
+      "Misture os outros ingredientes e leve para assar em forma untada com manteiga."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JESSYCA SILVA ESPIRITO SANTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303126-bolo-rapido.html"
+}

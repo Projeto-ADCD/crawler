@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOUSSE SEM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de água quente",
+      "1 xícara (chá) de açúcar",
+      "3 xícaras (chá) de leite em pó (Sua preferência)",
+      "1 caixa de creme de leite",
+      "1 saquinho de suco (sabor preferido)",
+      "2 xícaras de água fria",
+      "½ xícara de leite em pó para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque os 3 primeiros ingredientes e deixe bater por uns 2 minutos.",
+      "Depois acrescente o creme de leite, o saquinho de suco e a água fria, e deixe bater por mais 2 minutos.",
+      "Por último acrescente o leite em pó, bata por mais 1 minuto pra finalizar e só colocar em um recipiente e levar a geladeira por umas 3 horas.",
+      "Rende quase 2 potes de sorvete."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FRAN CÂNDIDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302979-mousse-sem-leite-condensado.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite Condensado",
+      "2 xícaras de leite (240 ml)",
+      "3 ovos",
+      "1 e 1/2 xícaras de açúcar (240 ml)",
+      "2 colheres (sopa) de manteiga",
+      "2 xícaras de farinha de trigo sem fermento (240 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos ingredientes no liquidificador, bata por uns dois minutos até obter uma massa bem homogênea.",
+      "Aqueça o forno e, enquanto isso, unte a forma com manteiga e farinha",
+      "Coloque a mistura na forma e leve para assar.",
+      "Passados 30 minutos, faça o teste do palito."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KELLY SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300168-bolo-de-leite.html"
+}

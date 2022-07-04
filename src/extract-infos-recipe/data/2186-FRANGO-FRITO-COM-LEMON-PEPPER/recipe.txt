@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FRANGO FRITO COM LEMON PEPPER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxinha da asa",
+      "1 colher (sopa) rasa de vinagre tinto",
+      "1 dente de alho picado",
+      "2 e 1/2 colheres (sopa) de lemon pepper",
+      "1 colher (chá) de glutamato de sódio ",
+      "1 colher (chá) de coentro em pó",
+      "1e 1/2 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário, coloque as coxinhas, o vinagre e o alho e misture.",
+      "Depois coloque o lemon pepper, o glutamato, o sal e o coentro e misture bem, até que todas as coxinhas estejam com o tempero.",
+      "Deixe as coxinhas com o tempero descansarem na geladeira por pelo menos 1 hora antes de fritar.",
+      "Frite em óleo não muito quente",
+      "Sirva com arroz branco e salada."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LARISSA CAROLINE BUSSOLA LACERDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305759-frango-frito-com-lemon-pepper.html"
+}

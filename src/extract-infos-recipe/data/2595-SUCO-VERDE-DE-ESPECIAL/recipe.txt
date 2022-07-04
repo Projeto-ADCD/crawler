@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO VERDE DE ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Maracujá",
+      "3 folhas de couve",
+      "1/3 de limão",
+      "3 colheres de açúcar ou adoçante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o maracujá com a água por 30 segundos e coe",
+      "Após coado, adicione novamente no liquidificador o suco com o restante dos ingredientes",
+      "Bata e pronto.",
+      "Eu normalmente já sirvo assim, mas se preferir coe novamente e sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "VERENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304857-suco-verde-de-especial.html"
+}

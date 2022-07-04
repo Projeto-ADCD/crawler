@@ -1,0 +1,23 @@
+{
+  "nome_receita": "ESFIRRA DE MASSA FOLHADA E PRESUNTO CRU",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g massa folhada cortada",
+      "100 g presunto cru fatiado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma e reserve",
+      "Coloque uma lâmina da massa folhada sobre o prato",
+      "Coloque uma fatia de presunto cru em cima e dobre até ficar um pouco menor que a massa folhada",
+      "Dobre a massa folhada em formato de triângulo (unindo duas pontas opostas)",
+      "Coloque as massas sobre a forma",
+      "Asse a 200º C por 10minutos ou até que tenham ficado crocantes"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DERMENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301385-esfirra-de-massa-folhada-e-presunto-cru.html"
+}

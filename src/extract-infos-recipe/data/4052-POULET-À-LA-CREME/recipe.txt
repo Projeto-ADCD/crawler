@@ -1,0 +1,34 @@
+{
+  "nome_receita": "POULET À LA CREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sobrecoxas de frango",
+      "2 coxas de frango",
+      "1 cenoura",
+      "1 alho-poró",
+      "1/2 litro de água",
+      "açafrão em pó",
+      "1/2 L de creme fraiche (ou 250 ml de creme de leite fresco e 250 ml de leite)",
+      "500 g de cogumelos",
+      "sal",
+      "pimenta-do-reino",
+      "tomilho fresco",
+      "manjerona",
+      "azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, refogue alho-poró e a cenoura no azeite.",
+      "Adicione o açafrão dissolvido em água morna e coloque o frango já temperado com sal e pimenta.",
+      "Cozinhe por 15 minutos, regando de vez em quando com água.",
+      "Em seguida, adicione os cogumelos, tomilho e manjerona e cozinhe por mais 5 minutos em fogo baixo.",
+      "Despeje o creme fraiche e, em seguida, misture e deixe curtir bem em fogo médio por 10 minutos.",
+      "Despeje em um refratário e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MANU S. PALMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302026-poulet-a-la-creme.html"
+}

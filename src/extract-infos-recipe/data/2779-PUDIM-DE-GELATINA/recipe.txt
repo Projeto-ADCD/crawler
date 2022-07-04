@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PUDIM DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "2 caixinhas de gelatina (sabor de sua preferência)",
+      "1 caixinha de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 colher (sopa) de óleo de cozinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o leite",
+      "Adicione a gelatina ainda com o fogo ainda ligado e mexa até dissolver",
+      "Coloque essa mistura no liquidificador e adicione o leite condensado e o creme de leite",
+      "Bata tudo por 5 minutos",
+      "Unte a forma de pudim com o óleo de cozinha",
+      "Coloque a mistura na forma e leve ao congelador até firmar.",
+      "Desenforme o pudim e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TAYNARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304443-pudim-de-gelatina.html"
+}

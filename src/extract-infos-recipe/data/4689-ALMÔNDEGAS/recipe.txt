@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ALMÔNDEGAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "2 cebolas grandes picadas",
+      "pimenta-do-reino",
+      "gotas de pimenta vermelha \"tabasco\" (opcional)",
+      "2 pães molhados espremidos e moídos com a carne",
+      "1 ovo",
+      "salsa e cebolinha picadas",
+      "1 colher (sopa) de manteiga",
+      "farinha de rosca para empanar",
+      "óleo para fritar",
+      "2 colheres (sopa) bem cheias de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo, faça bolinhas, passe na farinha de rosca e frite no óleo.",
+      "Depois de prontas, pode servir com macarrão ou colocar no molho de macarrão."
+    ]
+  },
+  "tempo_de_preparo": "0 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "BRUNO MALTEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300413-almondegas.html"
+}

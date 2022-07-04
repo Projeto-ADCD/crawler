@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SUFLÊ DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi",
+      "1 lata de creme de leite",
+      "1 pudim de coco",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o abacaxi, tire os olhinhos dele , coloque em uma vasilha e esprema o abacaxi.",
+      "Com o caldo do abacaxi faça um mingal com o pudim de coco ",
+      "Coloque o açúcar a gosto.",
+      "Pegue o abacaxi espremido e coloque neste mingal.",
+      "Por último, acrescente o creme de leite e misture tudo devagar e coloque para gelar.",
+      "Atenção: se quiser fazer mais quantidade, só dobrar a receita"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JULIAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305314-sufle-de-abacaxi.html"
+}

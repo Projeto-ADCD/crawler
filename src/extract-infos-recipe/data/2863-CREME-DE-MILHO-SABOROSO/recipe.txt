@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CREME DE MILHO SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho escorrido",
+      "2 xícaras (chá) de leite",
+      "1 cebola média picada",
+      "1 colher (sopa) de manteiga",
+      "1 colher (chá) de azeite de oliva",
+      "2 dentes de alho picados",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 tablete de caldo de galinha",
+      "1 colher (sopa) de molho inglês",
+      "1 lata de creme de leite",
+      "1 colher (sopa) de manjericão picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho com o leite no liquidificador.",
+      "Em uma panela média coloque a manteiga e o azeite para esquentar.",
+      "Acrescente a cebola e o alho picado e deixe refogar por uns minutos.",
+      "Adicione a farinha de trigo e deixe dourar um pouco.",
+      "Misture o creme de milho com a cebola refogada.",
+      "Acrescente o tablete de caldo e o molho inglês.",
+      "Misture bem até dissolver completamente e deixe cozinhar por uns 10 minutos.",
+      "Se ficar muito espesso, acrescente um pouco de leite.",
+      "A mistura deve ficar cremosa.",
+      "Acrescente o creme de leite e o manjericão picado.",
+      "Misture tudo muito bem e desligue o fogo.",
+      "Sirva em seguida.",
+      "É um ótimo acompanhamento para bifes a milanesa de frango."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304258-creme-de-milho-saboroso.html"
+}

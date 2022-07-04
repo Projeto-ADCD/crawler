@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BATATA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas grandes",
+      "1/2 pedaço de bacon",
+      "1 linguiça calabresa",
+      "3 colheres (sopa) de requeijão",
+      "1 cebola picada",
+      "100 g de queijo mussarela ralado",
+      "queijo ralado a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as batatas para cozinhar mas não deixe ficarem muito moles.",
+      "Após o cozimento, deixe esfriarem enquanto fazem o próximo passo.",
+      "Em uma refratária redonda de vidro coloque o bacon, calabresa e cebola picada junto ao requeijão e mussarela.",
+      "Após, corte as batatas ao meio sem separá-las e retire o recheio, colocando-o junto aos itens acima, fazendo uma grande mistura ",
+      "Coloque sal a gosto.",
+      "O forno deve estar aquecido a 270° C durante 5 minutos e após, é só incluir o recheio nas batatas e colocá-las em uma refratária de sua preferência ao forno por mais ou menos 10 minutos.",
+      "E é só aproveitar a delícia do seu prato "
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELLY VALENTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304787-batata-recheada.html"
+}

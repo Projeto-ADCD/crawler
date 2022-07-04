@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PANNA COTTA DO BRUNECCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de creme de leite fresco",
+      "1 vagem de baunilha",
+      "8 folhas de gelatina",
+      "80 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, coloque as folhas de gelatina de molho em água gelada de 10 a 15 minutos ou segundo as instruções da embalagem.",
+      "A seguir, corte a vagem de baunilha no cumprimento e com a ponta da faca \"raspe\" as sementes.",
+      "Em uma panela, junte o creme de leite fresco ao açúcar e adicione as sementes e a sua vagem para aromatizar a mistura",
+      "Aqueça esta mistura líquida de creme de leite fresco, açúcar, sementes e vagem de baunilha no fogo baixo sem deixar ferver",
+      "Uma vez que a mistura começar a ferver, retire do fogo e retire a vagem.",
+      "Nesse meio tempo, a hidratação da gelatina estará pronta, tire da água e junte à mistura de creme de leite fresco aquecido.",
+      "Misture bem o todo até que a gelatina tenha derretido e não haja grumos",
+      "Disponha a mistura em forminhas com a capacidade de 150 ml com uma concha.",
+      "Leve à geladeira e deixe repousar por ao menos 5 horas.",
+      "Antes de servir a Panna cotta, faça a imersão das forminhas por alguns segundos em água quente para ajudar a desenforma-las.",
+      "Sirva assim ou em modo natural, elas também podem ser acompanhadas à uma salsa de caramelo, frutas frescas ou coulis de frutas vermelhas"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BRUNECCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301634-panna-cotta-do-brunecco.html"
+}

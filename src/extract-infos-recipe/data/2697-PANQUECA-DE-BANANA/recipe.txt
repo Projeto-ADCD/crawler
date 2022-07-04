@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PANQUECA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 xícara de açúcar",
+      "1 banana média bem madura",
+      "2 xícaras de trigo",
+      "300 ml de leite",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Deixe por último o fermento.",
+      "Unte uma frigideira com olho ou manteiga, bem pouco.",
+      "Aqueça a frigideira e colocar na massa de pouco em pouco no centro, não necessita espalhar a massa.",
+      "Você pode cobrir com 3 colheres (sopa) de mel",
+      "Ou uma colher de manteiga."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "KELLY FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304629-panqueca-de-banana.html"
+}

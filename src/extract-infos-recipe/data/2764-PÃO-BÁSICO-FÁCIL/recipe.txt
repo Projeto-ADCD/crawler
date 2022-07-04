@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO BÁSICO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "2 sachês de fermento biológico seco instantâneo",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de sal",
+      "125 ml (½ copo) de óleo",
+      "2 ovos inteiros",
+      "450 ml (2 copos) de leite morno",
+      "farinha de trigo para sovar",
+      "manteiga derretida para dourar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, despeje a farinha e o fermento seco e misture bem.",
+      "Abra um buraco no meio da mistura de farinha e coloque o açúcar, o sal, os ovos e o óleo",
+      "Misture os ingredientes, dentro do buraco, sem misturar com a massa, formando uma pasta quase líquida, como papinha de bebê.",
+      "A parte, morne o leite ao ponto de mamadeira (por a mão dentro do leite e ficar a temperatura da pele)",
+      "Misture o leite morno na bacia, com a papa e a farinha e amasse até que a massa desgrude da bacia e da mão.",
+      "Adicione farinha, se for necessário.",
+      "Sem descansar, depois que a massa estiver desgrudando, enfarinhe a superfície onde vai trabalhar a massa e sove-a até ela ficar do seu gosto e não grudar na mão.",
+      "Modele os pães ao seu gosto.",
+      "Em uma forma, forre com papel manteiga (ou enfarinhe, mas não unte) e coloque seus pães, deixando espaço entre eles para que dobrem de tamanho.",
+      "Deixe os pães descansarem cobertos ou dentro do forno frio por, no mínimo, 50 minutos ou até dobrarem de tamanho.",
+      "Lembre-se em dias e lugares frios, pode levar mais tempo, daí a importância de estarem cobertos ou em um lugar fechado.",
+      "Depois que os pães estiverem crescidos, acenda o forno e deixe-os assar, em temperatura de 180º C (médio baixo) por 40 minutos.",
+      "Retire a forma do forno e pincele seus pães com a manteiga derretida.",
+      "Devolva os pães ao forno e deixe de 5 a 10 minutos ou até atingir a cor que você desejar.",
+      "Desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAULA FERRARI BARCAROLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304482-pao-basico-facil.html"
+}

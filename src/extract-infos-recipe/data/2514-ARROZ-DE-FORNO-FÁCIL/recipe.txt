@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ARROZ DE FORNO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cozido",
+      "200 g de presunto cortado em cubinho",
+      "200 g de mussarela cortada em cubinho",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "1 potinho de azeitona",
+      "200 g de mussarela fatiada",
+      "1 vidro de requeijão",
+      "1 saquinho de batata palha",
+      "1 colher de manteiga (unte refratário)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture o arroz cozido, com a seleta de milho, a ervilha, as azeitonas, os cubos de presunto, a mussarela, a batata palha e o vidro de requeijão.",
+      "Depois de tudo misturado transfira-o para o refratário untado com a manteiga e cubra essa mistura com as fatias de mussarela.",
+      "Leve ao forno preaquecido e deixe lá, até que a mussarela esteja dourada.",
+      "Pronto",
+      "Já pode serví-lo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: coloquei o tempo, mais ou menos que acredito que fique pronto, mas as vezes pode levar menos tempo. A porção foi baseada no tanto de pessoas que tenho em casa, mas mesmo assim ainda sobra um pouco"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305043-arroz-de-forno-facil.html"
+}

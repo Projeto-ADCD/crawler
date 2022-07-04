@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SPUMONI DE MELANCIA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite (sem soro)",
+      "5 colheres (sopa) de açúcar",
+      "4 xícaras (chá) de suco de melancia",
+      "2 pacotes de gelatina sem sabor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina conforme a orientação da embalagem",
+      "Acrescente todos os ingredientes e bata no liquidificador",
+      "Distribua em copos e deixe gelar",
+      "Sirva frio"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "(;",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303664-spumoni-de-melancia-superfacil.html"
+}

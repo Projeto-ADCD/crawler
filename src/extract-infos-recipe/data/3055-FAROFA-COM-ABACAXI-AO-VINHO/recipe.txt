@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA COM ABACAXI AO VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picada",
+      "2 cenouras raladas",
+      "1/2 alho-poró picado",
+      "150 g de azeitonas verdes picadas",
+      "salsinha e cebolinha a gosto",
+      "200 g de farofa de mandioca Yoki",
+      "1/2 lata de abacaxi em calda",
+      "1 cálice de vinho tinto",
+      "1 colher de manteiga",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola, alho-poró e a cenoura e reserve.",
+      "Corte em pedaços médios o abacaxi e reserve um pouco da calda (1/4 de xícara).",
+      "Em uma panela coloque a cebola, alho-poró, manteiga e tempero e leve para refogar bem.",
+      "Junte a cenoura, um pouco da calda do abacaxi e refogue mais um pouco.",
+      "Enquanto refoga os legumes em uma frigideira, coloque os pedaços de abacaxi e deixe grelhar.",
+      "Aos poucos conforme for ficando levemente douradas vire-as.",
+      "Junte o cálice de vinho e deixe grelhar bastante, reserve.",
+      "Após refogar junte a azeitona e a  farofa de mandioca aos poucos e misture bem.",
+      "Coloque os pedaços de abacaxi grelhado e deixe por alguns segundos na panela."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Sarah"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303941-farofa-com-abacaxi-ao-vinho.html"
+}

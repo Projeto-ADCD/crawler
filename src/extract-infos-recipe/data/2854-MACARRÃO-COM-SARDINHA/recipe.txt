@@ -1,0 +1,41 @@
+{
+  "nome_receita": "MACARRÃO COM SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de macarrão do tipo casareccia (ou outra massa curta de grano duro)",
+      "1 e 1/2 xícara (chá) de tomate sweet grape (200 g)",
+      "1 lata de sardinha em óleo (125 g)",
+      "2 colheres (sopa) de vinho branco",
+      "1/4 de xícara (chá) de azeite",
+      "raspas de 1 limão siciliano",
+      "1 folha de louro seca",
+      "sal e pimenta-do-reino moída na hora a gosto",
+      "2 ovos cozidos para servir",
+      "salsinha picada a gosto para servir"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve uma panela média com água ao fogo alto para ferver.",
+      "Lave, seque e corte os tomates ao meio, no sentido da largura.",
+      "Abra as latas de sardinha, transfira os filés para um prato e, com um garfo, descarte a espinha central.",
+      "Passe os ovos cozidos pelo espremedor de batatas para formar uma farofinha, reserve.",
+      "Assim que a água ferver, acrescente 1 colher (sopa) de sal e junte o macarrão.",
+      "Misture e deixe cozinhar pelo tempo indicado na embalagem, ou até ficar al dente.",
+      "Enquanto o macarrão cozinha, aproveite para preparar o molho.",
+      "Leve uma frigideira grande com 1/4 de xícara (chá) de azeite ao fogo médio.",
+      "Quando aquecer, junte a folha de louro, os tomates e refogue por 2 minutos até começarem a murchar.",
+      "Regue com o vinho branco, junte as sardinhas e misture bem.",
+      "Acrescente as raspas de limão, tempere com sal e pimenta a gosto e deixe cozinhar por 5 minutos, mexendo de vez em quando para formar um molho rústico – os tomates e as sardinhas vão desmanchar parcialmente.",
+      "Desligue o fogo e reserve.",
+      "Assim que o macarrão estiver cozido, reserve ½ xícara (chá) da água do cozimento.",
+      "Escorra e transfira o macarrão ainda quente para a frigideira.",
+      "Misture com o molho delicadamente e junte aos poucos a água do cozimento para deixar o molho mais fluído.",
+      "Sirva a seguir, polvilhado com a farofinha de ovos e salsinha."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GILBERTO AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304276-macarrao-com-sardinha.html"
+}

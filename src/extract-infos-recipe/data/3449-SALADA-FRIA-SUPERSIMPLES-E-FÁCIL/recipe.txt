@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA FRIA SUPERSIMPLES E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde",
+      "2 maçãs fuji cortadas em cubo",
+      "1 xícara de melão cortados em cubos",
+      "100 g de lombo canadense fatiado",
+      "100 g de uva passa",
+      "4 colheres de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte tudo em um recipiente",
+      "Mexa bem todos os ingredientes",
+      "Coloque na geladeira até a hora de servir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAIO LEMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303340-salada-fria-supersimples-e-facil.html"
+}

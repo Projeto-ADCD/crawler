@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA DE FRANGO RÁPIDA E DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo",
+      "3 ovos",
+      "2 xícaras de leite",
+      "1 xícara de óleo",
+      "2 colheres (sopa) de fermento em pó",
+      "1 tablete ou pacotinho de caldo de galinha",
+      "1 caixa pequena de molho de tomate",
+      "Recheio ",
+      "800 g de frango desfiado",
+      "2 cebolas picadas",
+      "2 tomates picados",
+      "cebolinha e salsinha a gosto",
+      "4 dentes de alho picados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes da massa.",
+      "Em uma tigela, coloque a massa e o frango e mexa bem.",
+      "Em uma forma untada e enfarinhada, coloque o que estava na tigela",
+      "Despeje os ingredientes do recheio por cima",
+      "Leve ao forno preaquecido a 180° C, por aproximadamente 40 a 60 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GABRIEL ÂNGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302108-torta-de-frango-rapida-e-deliciosa.html"
+}

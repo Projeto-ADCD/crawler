@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SUCO VERDE COM INHAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 folhas de couve",
+      "500 ml de água",
+      "1 cenoura",
+      "2 maçãs",
+      "1 pedaço médio de gengibre",
+      "5 folhas de alface",
+      "2 inhames pequenos crus e descascados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte todos os ingredientes em pedaços pequenos (antes de cortar o gengibre descasque-o)",
+      "Misture tudo no liquidificador junto com a água",
+      "Bata até que esteja homogêneo",
+      "Está pronto para beber"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WWW.FACEBOOK.COM/CADERNODERECEITA.EUMESMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304677-suco-verde-com-inhame.html"
+}

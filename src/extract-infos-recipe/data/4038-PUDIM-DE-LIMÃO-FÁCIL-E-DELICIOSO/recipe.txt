@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PUDIM DE LIMÃO FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "4 limões",
+      "2 pacotes de gelatina sem sabor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, coloque o leite condensado, o creme de leite e o suco de 4 limões no liquidificador.",
+      "Bata por aproximadamente 3 minutos até ficar bem homogêneo.",
+      "Em seguida, hidrate as gelatinas sem sabor como manda a embalagem.",
+      "Coloque as gelatinas sem sabor já hidratadas no liquidificador e bata por mais 1 minuto.",
+      "Forre o fundo de uma forma de buraco central com raspas de limão.",
+      "Despeje a mistura e leve à geladeira por 4 horas ou deixe de um dia para o outro, que fica melhor ainda."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ADRIANA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302087-pudim-de-limao-facil-e-delicioso.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE GOMA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amido de milho",
+      "3 colheres (sopa) de manteiga",
+      "2 ovos",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até formar uma massa uniforme e que não gruda nas mãos",
+      "Modele como desejar",
+      "Leve ao forno pré-aquecido a 180°C",
+      "Aguarde de 15 a 20 minutos e retire quando os bolinhos estiverem dourados na parte de baixo",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS.: Eles devem seguir branquinhos na parte de cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "PATRICIA GUERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303437-bolinho-de-goma-simples.html"
+}

@@ -1,0 +1,47 @@
+{
+  "nome_receita": "BOLO DE COCO COM RECHEIO E CALDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "50 g de manteiga sem sal",
+      "350 g de farinha",
+      "150 g de açúcar",
+      "1 colher (sopa) de fermento",
+      "Recheio",
+      "50 g de manteiga",
+      "1 lata de leite condensado",
+      "1/2 caixa de creme de leite",
+      "200 g de coco ralado",
+      "Calda",
+      "1/2 lata de leite condensado",
+      "300 ml de leite de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata todos os ingredientes em uma batedeira por 5 minutos",
+      "Unte uma forma redonda e despeje a massa",
+      "Preaqueça o forno em 180° C e asse a massa por 35 minutos",
+      "Depois de assado, retire a forma e deixe esfriar, faça furos com um garfo delicadamente.",
+      "Corte o bolo no meio com ajuda de uma linha",
+      "Recheio",
+      "Em uma panela em fogo baixo, adicione a manteiga e logo em seguida o leite condensado",
+      "Adicione 100 g de coco ralado e misture",
+      "Despeje o creme de leite, misture e desligue o fogo.",
+      "Calda",
+      "Misture os dois ingredientes em um recipiente.",
+      "Finalização",
+      "Em um a travessa, coloque delicadamente a parte de baixo do bolo",
+      "Despeje metade da calda uniformemente",
+      "Adicione toda o recheio e cubra com o outro pedaço de bolo;",
+      "Despeje o resto da calda por cima",
+      "Cubra o bolo com o resto de coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MIRIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302799-bolo-de-coco-com-recheio-e-calda.html"
+}

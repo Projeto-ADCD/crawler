@@ -1,0 +1,54 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ AMERICANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "8 xícaras (chá) de farinha de trigo",
+      "2 colheres de manteiga sem sal",
+      "1 ovo",
+      "1 colher (sopa) de fermento em pó",
+      "Doce de maçã ",
+      "4 maçãs descascadas e raladas",
+      "1 colher (sopa) de canela",
+      "4 colheres de açúcar",
+      "Creme",
+      "1 lata de leite condensado",
+      "1 lata de leite integral (mesma medida da lata de leite condensado)",
+      "2 colheres de amido de milho",
+      "Cobertura",
+      "1 maçã",
+      "Calda",
+      "suco de 4 laranjas",
+      "2 colheres (sopa) de açúcar refinado",
+      "2 colheres (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Misture os ingredientes com a mão até formar uma massa homogênea",
+      "Abra a massa em uma forma de fundo removível",
+      "Faça furos na massa com um garfo",
+      "Asse por 10 minutos em forno preaquecido"
+    ],
+    "DOCE DE MAÇÃ: ": [
+      "Coloque no fogo os ingredientes do doce e cozinhar até secar a água da maçã",
+      "Espere esfriar e coloque sobre a massa"
+    ],
+    "CREME:": [
+      "Coloque no fogo os ingredientes do creme até engrossar",
+      "Espere esfriar e coloque sobre o doce"
+    ],
+    "COBERTURA:": [
+      "Fatie as maçãs bem finas e coloque por camadas sobre o creme"
+    ],
+    "CALDA:": [
+      "Coloque os ingredientes da calda no fogo até engrossar um pouco",
+      "Despeje sobre as fatias",
+      "Leve para gelar por no mínimo 4 horas"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANIELA ORLANDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303607-torta-de-maca-americana.html"
+}

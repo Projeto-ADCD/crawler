@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BOLO DE CANELA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 colheres de margarina",
+      "6 colheres de canela",
+      "4 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma com margarina",
+      "Coloque todos os ingredientes no liquidificador e bata por 2 minutos",
+      "Leve para assar por 40 minutos em uma temperatura de 180° C"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SOPHIA MENDES RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302637-bolo-de-canela-simples.html"
+}

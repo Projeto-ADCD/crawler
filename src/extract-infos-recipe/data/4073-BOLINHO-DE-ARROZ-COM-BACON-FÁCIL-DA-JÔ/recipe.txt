@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM BACON FÁCIL DA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cozido",
+      "bacon a gosto",
+      "muçarela a gosto",
+      "salsinha e pimenta (opcional)",
+      "3 colheres (sopa) de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture o arroz no processador ou liquidificador.",
+      "Coloque na tigela, misture o bacon já frito, o queijo e os temperos que desejar.",
+      "Acrescente de 2 a 3 colheres (sopa) de trigo só para dar a liga para fazer as bolinhas.",
+      "Depois de pronto, faça as bolinhas e frite em óleo quente.",
+      "Deixe escorrer o óleo e sirva como aperitivo ou acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301966-bolinho-de-arroz-com-bacon-facil-da-jo.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "DOCE DE ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora cabotiá",
+      "cravos a gosto",
+      "3 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corta a abóbora em cubos",
+      "Coloque em uma panela adicione o açúcar e o cravo e deixe no fogo",
+      "Mexa de vez em quando",
+      "Adicione 1/2 xícara de água e deixe",
+      "Quando formar o caldo e abóbora estiver mole",
+      "Dê uma amassada para não ficar muitos pedaços",
+      "Desligue o fogo e adicione coco ralado",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "THAYNARA GEDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305797-doce-de-abobora.html"
+}

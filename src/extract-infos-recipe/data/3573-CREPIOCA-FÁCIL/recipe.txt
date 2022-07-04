@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREPIOCA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de farinha de tapioca",
+      "1 colher (chá) de manteiga",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos e a farinha",
+      "Em uma frigideira coloque a manteiga para não grudar",
+      "Derrame a mistura na frigideira",
+      "Fique virando para não queimar",
+      "E sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KAUA CRAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303115-crepioca-facil.html"
+}

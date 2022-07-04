@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CARNE COM CALABRESA E PROVOLONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg e 1/2 de patinho moido",
+      "2 ovos",
+      "1/2 xícara de farinha de rosca",
+      "1/2 pacote de creme de cebola",
+      "Salsinha e cebolinha à gosto",
+      "Sal e pimenta à gosto",
+      "2 unidades de calabresa defumada (grande) fatiadas",
+      "150g de queijo provolone"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a carne, ovos, farinha, creme de cebola e temperos à gosto.",
+      "Unte uma forma redonda de furo com um pouco de óleo.",
+      "Forre com uma parte da carne preparada, intercalamdo com a calabresa fatiada e o provolone.",
+      "Cubra novamente com mais carne até encher toda forma.",
+      "Cozinhe por 40 minutos em 230° ou até assar por completo.",
+      "Desenforme e salpique queijo se preferir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SANDRA RAMOS DUARTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301567-bolo-de-carne-com-calabresa-e-provolone.html"
+}

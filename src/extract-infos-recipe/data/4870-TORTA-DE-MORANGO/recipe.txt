@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de morangos ",
+      "200 g de leite condensado",
+      "100 g creme de leite ",
+      "60 g de margarina ",
+      " 2/4 de xícaras de farinha de trigo",
+      "100 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro misture a farinha de trigo e a margarina em um pote e sove a massa",
+      "Depois pegue um rolo e abra a massa",
+      "Coloque a massa aberta em uma assadeira de vidro (que possa ir no forno)",
+      "Ligue o forno a 180° C e leve a massa",
+      "Pegue uma panela e coloque o leite condensado, o creme de leite e o leite líquido e deixe numa forma homogênea",
+      "Quando pronto, tire a massa do forno após 50 minutos “dependendo do fogao” e despeje o brigadeiro branco",
+      "Corte os morangos e coloque na torta"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "POLLYANNA PORTO DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300042-torta-de-morango.html"
+}

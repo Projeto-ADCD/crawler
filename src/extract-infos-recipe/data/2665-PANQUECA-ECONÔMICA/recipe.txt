@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PANQUECA ECONÔMICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) farinha de trigo",
+      "1 xícara (chá) leite",
+      "1 ovo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite, o ovo, a farinha de trigo e o sal.",
+      "Bata por cerca de 1 minuto ou até homogenizar a massa.",
+      "A massa fica com o aspecto líquido, parecido com uma vitamina de banana.",
+      "Aqueça uma frigideira antiaderente e coloque um pouquinho de óleo, apenas para untar.",
+      "Pegue a massa com o auxílio de uma concha ou copo e distribua na frigideira de forma que todo fundo fique preenchido, cerca de 1/2 xícara de massa.",
+      "Isso vai depender do tamanho da frigideira.",
+      "O ideal é que a massa não fique muito grossa.",
+      "Quando a massa cozinhar, ela vai começar soltar nas extremidades, este é o momento de virar e deixar só mais um pouco.",
+      "Retire a panqueca e continue o processo até terminar toda massa.",
+      "Recheie a gosto."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALIETE RIBEIRO BARBOSA DOS SANTOS CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304703-panqueca-economica.html"
+}

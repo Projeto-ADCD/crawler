@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COSTELA ASSADA NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de costela",
+      "500 g de linguiça toscana",
+      "4 cebolas grande",
+      "4 tomates grandes",
+      "páprica picante a gosto",
+      "sal grosso a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque metade da cebola e tomates no fundo da panela de pressão",
+      "Passe o sal grosso na costela e coloque na panela",
+      "Coloque a linguiça toscana e o resto da cebola",
+      "Leve ao fogo por 40 minutos",
+      "Após os 40 minutos, abra a panela e dê uma olhada, se estiver molinha está no ponto",
+      "Leve no forno por 15 minutos só para dar uma douradinha",
+      "Pronto, é só servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DIDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304563-costela-assada-na-pressao.html"
+}

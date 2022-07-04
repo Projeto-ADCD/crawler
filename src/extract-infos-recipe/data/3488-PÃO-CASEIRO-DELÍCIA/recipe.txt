@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO CASEIRO DELÍCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de trigo",
+      "20 g de sal",
+      "130 g de açúcar",
+      "10 g de fermento biológico",
+      "20 g de leite condensado",
+      "20 g de azeite",
+      "2 ovos inteiros",
+      "10 g de parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o trigo na batedeira e misture com o açúcar e o fermento",
+      "Adicione o sal e o leite condensado",
+      "Acrescente todos os outros ingredientes e deixe bater até ponto de véu",
+      "Faça bolinhas de mais ou menos 20g e coloque para fermentar durante 1 hora",
+      "Asse a 180°C por 20 minutos",
+      "O pão fica branquinho",
+      "Você pode rechear com requeijão, pincelar com manteiga e polvilhar com parmesão"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "MACIEL GOMES SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303259-pao-caseiro-delicia.html"
+}

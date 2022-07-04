@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BOLO DE ANIVERSÁRIO - MOUSSE DE CHOCOLATE C/ MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "6 ovos",
+      "2 xícaras de açúcar",
+      "250 ml de leite quente",
+      "2 xícaras",
+      "4 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "Recheio",
+      "100 g de manteiga sem sal (tem que ser manteiga)",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite sem soro (tem que ser lata)",
+      "200 g de chocolate em pó 50%",
+      "200 ml de chantili gelado",
+      "12 g de gelatina incolor sem sabor",
+      "2 caixinhas de morangos",
+      "Decoração",
+      "800 ml de chantilly",
+      "brigadeiros a gosto",
+      "morangos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Bata as claras em ponto de neve e em seguida acrescente as gemas.",
+      "Bata um pouco e acrescente o açúcar e bata por uns 3 minutos.",
+      "Em seguida acrescente todo o leite quente (não pode estar fervendo).",
+      "Desligue a batedeira e acrescente aos poucos a farinha de trigo (peneirada).",
+      "Por último coloque o fermento em pó.",
+      "Coloque em uma forma untada e enfarinhada ou com fundo de papel manteiga e leve em forno preaquecido à 180º C por aproximadamente 40 a 45 minutos.",
+      "Recheio:",
+      "Na batedeira bata a manteiga em temperatura ambiente com o leite condensado até que a manteiga se dissolva por completo.",
+      "Em seguida, coloque o creme de leite e bata até ficar um creme bem homogêneo.",
+      "Coloque o chocolate em pó e bata muito bem e reserve.",
+      "Em outro pote bata o chantilly até ponto firme e acrescente no creme de chocolate e reserve.",
+      "Hidrate e gelatina incolor usando as instruções da embalagem e depois acrescente ela no mousse.",
+      "Montagem:",
+      "Na mesma forma que assou o bolo, forre ela com papel-alumínio, parte a massa 2 vezes (3 quadrados de bolo).",
+      "Coloque a primeira parte da massa, umedeça a massa com uma calda de sua preferência, coloque metade dos morangos picados e metade do mousse por cima.",
+      "Após fazer isso com todo o bolo, leve à geladeira por no mínimo 5 horas.",
+      "Desenforme da forma e cubra-o com chantilly.",
+      "A decoração é a gosto"
+    ]
+  },
+  "tempo_de_preparo": "360 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301296-bolo-de-aniversario-mousse-de-chocolate-c-barra-morangos.html"
+}

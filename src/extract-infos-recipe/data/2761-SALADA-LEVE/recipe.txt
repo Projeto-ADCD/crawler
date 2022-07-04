@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SALADA LEVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 folhas de alface crespa rasgadas",
+      "3 folhas de alface roxa rasgadas",
+      "1/4 de manga cortada em tiras",
+      "1/4 de maçã nacional com casca em tiras",
+      "1/4 de tomate cortado em tiras",
+      "1 punhado de amendoim",
+      "6 castanhas de caju",
+      "Molho",
+      "1 colher (sobremesa) de azeite de oliva extravirgem",
+      "1 colher (chá) de vinagre de maçã preferencialmente ou sumo de um limão",
+      "sal a gosto",
+      "pimenta-do-reino opcional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Disponha as folhas de alface previamente lavadas e escorridas e seguida regue com um pouco do molho.",
+      "Misture.",
+      "Em seguida disponha as tiras de manga , maçã e tomate.",
+      "Distribua as castanhas e amendoins"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: dobre a quantidade à medida que aumentar o número de pessoas.\nse não for para comer na hora, coloque o molho somente quando for servir para não murchar as folhas de alface.\npode acompanhar qualquer tipo de proteína animal\nserve dietas detox, vegetariana, e vegana."
+    ]
+  },
+  "tempo_de_preparo": "-10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304486-salada-leve.html"
+}

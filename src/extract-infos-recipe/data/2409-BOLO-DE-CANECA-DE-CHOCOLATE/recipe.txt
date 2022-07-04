@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CANECA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha de trigo",
+      "3 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de chocolate em pó",
+      "1/2 colher (sopa) de fermento em pó",
+      "1 ovo",
+      "3 colheres (sopa) de leite",
+      "1/2 colher (chá) de essência de baunilha (opcional)",
+      "3 colheres (sopa) de manteiga ou margarina derretida"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, junte todos os ingredientes sólidos (farinha, açúcar, chocolate e fermento) e misture bem até ficar homogêneo.",
+      "Peneire os ingredientes sólidos para outro recipiente.",
+      "Agora, coloque o restante dos ingredientes (ovo, leite, manteiga e essência) e misture bem até ficar uma massa homogênea.",
+      "Dica: você pode untar a caneca com margarina/ manteiga para o bolo não grudar nela.",
+      "A massa serve duas porções, então distribua ela em duas canecas.",
+      "Para garantir q seu bolo não ficará seco, respingue água por cima (é beem pouco).",
+      "Leve cada caneca 1 minuto e 30 segundos no micro-ondas.",
+      "Obs: você pode não peneirar os ingredientes sólidos, porém corre o risco de ficar alguma bolota de farinha ou açúcar no bolo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "NICOLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305286-bolo-de-caneca-de-chocolate.html"
+}

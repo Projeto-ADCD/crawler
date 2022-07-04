@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO FÁCIL DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite integral",
+      "1 pacote de creme de cebola",
+      "1 copo de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma panela o creme de cebola e o leite, mexendo bem",
+      "Leve ao fogo baixo, mexendo sempre até engrossar",
+      "Junte o requeijão e misture bem",
+      "Apague o fogo e sirva, quente ou frio",
+      "Fica ótimo com carnes, assados, saladas e ainda pode substituir o bechamel em diversas preparações"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRÍCIA PINHEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303629-molho-facil-de-cebola.html"
+}

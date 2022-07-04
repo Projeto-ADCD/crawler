@@ -1,0 +1,26 @@
+{
+  "nome_receita": "DOCE DE CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (sopa) de manteiga",
+      "canela a gosto (opcional)",
+      "você pode colocar 2 colheres de açúcar e 1 de achocolatado ao invés de 3 de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque que o creme de leite, a manteiga e o açúcar em uma panela.",
+      "Mexa bem até que todos os ingredientes fiquem homogêneos.",
+      "Deixe subir fervura até que ele fique com consistência de caldo de bolo.",
+      "Deixe esfriar e coloque em alguma vasilha, prato, etc, de vidro",
+      "Deixe esfriar por 1 hora na geladeira",
+      "Depois de pronto coloque a canela por cima."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANA JULIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304768-doce-de-creme-de-leite.html"
+}

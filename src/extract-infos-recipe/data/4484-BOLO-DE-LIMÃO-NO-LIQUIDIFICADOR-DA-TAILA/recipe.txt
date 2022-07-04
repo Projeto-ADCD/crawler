@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE LIMÃO NO LIQUIDIFICADOR DA TAILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "2 xícaras de açúcar",
+      "3/4 de xícara de leite",
+      "suco de 2 limões (coados)",
+      "3 xícaras de farinha de trigo",
+      "1 pacotinho de fermento químico",
+      "Cobertura",
+      "1 caixa leite condensado",
+      "suco de 2 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos, o azeite, o açúcar, o leite e o suco de limão (suco da fruta)",
+      "Bata até misturar e depois acrescente a farinha de trigo (peneirada) e bata novamente por uns 5 minutos.",
+      "Depois de batido, coloque o fermento e misture bem com a colher.",
+      "Coloque a massa em uma forma untada com margarina e farinha.",
+      "Temperatura do forno a 200° C",
+      "Tempo de cozimento de 35 minutos (fure com um palito para confirmar se está cozido)",
+      "Cobertura",
+      "Bata no liquidificador o leite condensado com o suco do limão até ficar mais durinho.",
+      "Depois de desenformar o bolo coloque a cobertura e acrescente as raspas de limão a gosto."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TAILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301014-bolo-de-limao-no-liquidificador-da-taila.html"
+}

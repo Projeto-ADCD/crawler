@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO INSTANTÂNEO COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola pequena picada",
+      "30 g de bacon picado",
+      "1 pacote de macarrão instantâneo (sabor carne)",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em água fervente, coloque o macarrão e deixe 3 minutos",
+      "Após isso, escorra e reserve.",
+      "Em uma frigideira, coloque um fio de óleo e refogue a cebola (não precisa ficar totalmente refogada, se não queima depois)",
+      "Acrescente o bacon e frite-o.",
+      "Desligue o fogo e junte o macarrão.",
+      "Vá acrescentando aos poucos o tempero do próprio miojo e mexendo (use apenas meio pacote)",
+      "Pronto",
+      "Bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BELLA PHANTOMHIVE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305790-macarrao-instantaneo-com-bacon.html"
+}

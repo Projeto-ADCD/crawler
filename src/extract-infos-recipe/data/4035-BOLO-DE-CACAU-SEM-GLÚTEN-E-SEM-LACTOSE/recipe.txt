@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CACAU SEM GLÚTEN E SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha sem glutén",
+      "1/2 xícara de amido de milho",
+      "1/2 xícara de farinha de coco",
+      "3 colheres cheias de cacau em pó",
+      "2 xícaras de açúcar",
+      "1 pitada de sal",
+      "3 ovos (separadas as claras das gemas)",
+      "2 colheres de óleo de coco",
+      "1 xícara de leite de coco frio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os secos, farinha, amido de milho, farinha de coco, cacau em pó, açúcar e sal.",
+      "Bata os ingredientes secos com três gemas, as duas colheres de óleo, e o leite frio. Vai ficar uma massa lisa. Reserve.",
+      "Bata as claras em neve com cinco gotas de suco de limão, incorpore 1/3 à massa anteriormente reservada.",
+      "Quando ela ficar maleável, incorpore os 2/3 reatantes com delicadeza para nao perder o ar.",
+      "Ponha numa forma untada e leve ao forno pré-aquecido a 180º/220º por 30 minutos, dependendo da potencia do forno."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DENISE KLELIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302091-bolo-de-cacau-sem-gluten-e-sem-lactose.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOUSSE DE CHOCOLATE SUPERFÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de creme de leite",
+      "5 colheres de chocolate em pó",
+      "3 claras de ovo em neve",
+      "chantilly (opicional)",
+      "2 colheres de leite condensado",
+      "230 g de granulado (opicional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o creme de leitee o leite condensado por 7 minutos à mão",
+      "Adicione o chocolate em pó e bata por mais 2 minutos",
+      "Adicione as claras em neve e mexa bem por 2 minutos",
+      "Coloque a mistura no congelador por 3 horas até ficar consistente",
+      "Para servir adicione chantilly e granulado (opicional)",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "85 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ZINHA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303248-mousse-de-chocolate-superfacil-e-rapido.html"
+}

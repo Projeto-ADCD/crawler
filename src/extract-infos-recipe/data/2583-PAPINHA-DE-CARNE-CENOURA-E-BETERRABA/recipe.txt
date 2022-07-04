@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PAPINHA DE CARNE, CENOURA E BETERRABA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de carne de primeira",
+      "1/2 beterraba",
+      "2 cenouras pequenas",
+      "1 cebola pequena",
+      "1 colher de óleo vegetal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a carne em 4 pedaços",
+      "Corte a cebola, cenoura e a beterraba em pedacos de 1x1cm",
+      "Na panela de pressão, refogue a cebola com o oléo, após acrescente a carne e refogue",
+      "Acrescente a cenoura e a beterraba",
+      "Cubra tudo com água e duas pitadas de sal",
+      "Cozinhe na pressão por 20 minutos",
+      "Abra a panela, se restar muita agua deixe no fogo com a tampa aberta, só para diminiur um pouco da agua, sem deixar secar",
+      "Após, retire a carne e passe no processador",
+      "A cenoura e a beterraba amasse com o garfo",
+      "Junte a carne processada com os legumes amassados e misture",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende 5 porçoes de 120 ml, pode ser congelado ate 20 dias."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALINE GONSALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304898-papinha-de-carne-cenoura-e-beterraba.html"
+}

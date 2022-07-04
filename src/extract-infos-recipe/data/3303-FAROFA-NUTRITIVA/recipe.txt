@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA NUTRITIVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 dentes de alho bem cortadinhos",
+      "1 cebola cortada pequena",
+      "casca de uma banana cortada bem pequena",
+      "1/2 abobrinha ralada",
+      "1 cenoura ralada",
+      "1/2 batata doce roxa com a casca ralada (ralar por último para não escurecer)",
+      "3 colheres (sopa) de manteiga",
+      "1/2 colher (sobremesa) de sal",
+      "1 colher (sopa) de cúrcuma em pó (açafrão-da-terra)",
+      "temperos verdes a gosto (manjericão, cheiro-verde, nirá, orégano)",
+      "1 xícara de farofa pronta de milho",
+      "2 xícaras de farofa pronta tradicional de mandioca",
+      "15 folhas de Major Gomes (Talinum paniculatum) ou duas folhas de couve cortadas finamente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a manteiga, a cebola e o alho, assim que fritar adicione os legumes ralados, a casca da banana e refogue",
+      "Acrescente 1 xícara de água, sal e as ervas",
+      "Deixe refogar por alguns minutos",
+      "Não pode cozinhar muito, deve ficar al dente",
+      "Coloque o Major Gomes ou couve picadinha e, por último, as farofas de milho e tradicional, mexendo com cuidado apenas envolvendo a farofa no refogado",
+      "Esta farofa fica bem úmida e saborosa"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DENIZE NAPIER PEREIRA DE OLIVEIRA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303586-farofa-nutritiva.html"
+}

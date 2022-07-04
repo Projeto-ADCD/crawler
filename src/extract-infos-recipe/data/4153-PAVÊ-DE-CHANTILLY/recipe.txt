@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PAVÊ DE CHANTILLY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha maizena",
+      "1 caixinha de leite condensado",
+      "1 creme de leite 200ml",
+      "1 chantilly 200ml",
+      "leite para molhar as bolachas",
+      "8 colheres de leite ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o chantilly e reserve.",
+      "Bata o leite ninho, leite condensado, creme de leite até ficar homogêneo.",
+      "Em um refratário misture o chantilly e o creme, reserve.",
+      "Molhe as bolachas e coloque as no refratário montando camadas na sequência creme-bolacha-creme-bolacha.",
+      "Deixe gelar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "11 PORÇÕES",
+  "autor": "LAURA DREEW",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301720-pave-de-chantilly.html"
+}

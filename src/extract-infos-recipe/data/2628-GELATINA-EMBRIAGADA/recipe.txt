@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GELATINA EMBRIAGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de gummy bears",
+      "600 ml de vodka",
+      "suco de 2 laranjas (200 ml)",
+      "suco de 2 limões (60 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os gummy bears em um bowl",
+      "Coloque vodka até os gummy bears ficarem imersos",
+      "Adicione também o suco de laranja e de limão",
+      "Deixe na geladeira por 2 horas coberto com plástico filme para o álcool não evaporar"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304775-gelatina-embriagada.html"
+}

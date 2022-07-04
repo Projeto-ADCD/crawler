@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PATÊ DE CREAM CHEESE COM ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 dentes de alho amassados",
+      "2 xícaras de abacaxi em lata picado (reserve a calda)",
+      "200 g de cream cheese",
+      "1 colher (chá) de cebola triturada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela média faça o patê misturando o cream cheese, o abacaxi picado, o alho e a cebola.",
+      "Se quiser acrescente a calda do abacaxi.",
+      "Mantenha o patê na geladeira até a hora de servir."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANNE MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299709-pate-de-cream-cheese-com-abacaxi.html"
+}

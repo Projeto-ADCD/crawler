@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FEIJOADA DE FRUTOS DO MAR SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de feijão branco",
+      "500 g de lula",
+      "500 g de mexilhão",
+      "500 g de polvo",
+      "500 g de camarão",
+      "sal e pimenta-do-reino a gosto",
+      "suco de limão a gosto",
+      "6 colheres de óleo",
+      "2 cebolas",
+      "4 dentes de alho",
+      "1 pimentão vermelho",
+      "3 tomates"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Selecione o feijão e deixe-o de molho de um dia para outro.",
+      "Tempere o frutos do mar com suco de limão, sal e pimenta.",
+      "Cozinhe o feijão até ficar bem macio.",
+      "Cozinhe o frutos dos mar em uma panela por 18 minutos.",
+      "Esquente o óleo e refogue o alho amassado, a cebola e o tomate (sem pele e sem sementes) picados.",
+      "Junte os frutos do mar e cozinhe com o feijão por mais alguns minutos."
+    ]
+  },
+  "tempo_de_preparo": "48 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA EUNICE B. ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302731-feijoada-de-frutos-do-mar-simples.html"
+}

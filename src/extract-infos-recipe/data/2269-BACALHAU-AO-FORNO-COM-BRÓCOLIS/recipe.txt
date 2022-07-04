@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BACALHAU AO FORNO COM BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bacalhau de qualidade",
+      "4 ovos",
+      "1 cebola média",
+      "brócolis a gosto",
+      "1 xícara de azeite",
+      "azeitonas a gosto",
+      "1 kg de batata cozida e amassada em purê",
+      "50 g de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o bacalhau dessalgando por 2 dias na geladeira, trocando a água todo dia.",
+      "Depois cozinhe por 20 minutos, tire as peles e espinhas, mas deixe lascas grandes.",
+      "Cozinhe o brócolis al dente e os ovos",
+      "Em um pirex untado com azeite, coloque as cebolas cortada em rodelas finas, o bacalhau, as azeitonas, o brócolis cozido al dente e os ovos cortados em rodelas.",
+      "Cubra com o purê de batatas, polvilhe o queijo ralado.",
+      "Pode enfeitas com algumas azeitonas e rodelas de ovo cozido.",
+      "Leve ao forno quente por 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ADRIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305591-bacalhau-ao-forno-com-brocolis.html"
+}

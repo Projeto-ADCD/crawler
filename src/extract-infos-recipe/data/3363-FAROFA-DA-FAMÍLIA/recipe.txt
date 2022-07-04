@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DA FAMÍLIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 calabresa",
+      "2 ovos",
+      "1 cenoura ralada",
+      "3 colheres de óleo",
+      "2 colheres de margarina",
+      "cheiro-verde",
+      "orégano a gosto",
+      "sal a gosto",
+      "1 cebola picada",
+      "1 pacote de farofa pronta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o óleo pra esquentar",
+      "Acrescente a calabresa picada pra fritar",
+      "Depois junte a cebola e os ovos",
+      "Quando estiver tudo cozido, misture a margarina, a cenoura, o cheiro-verde e a farofa",
+      "Por último adicione o orégano e o sal"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROSENELI DIAS PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303502-farofa-da-familia.html"
+}

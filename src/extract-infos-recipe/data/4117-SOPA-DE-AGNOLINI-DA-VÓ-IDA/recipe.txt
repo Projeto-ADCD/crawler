@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SOPA DE AGNOLINI DA VÓ IDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pedaços de osso com carne",
+      "1 carcaça de galinha",
+      "4 litros de água",
+      "8 folhas de sálvia fresca ou desidratada",
+      "6 folhas de manjericão fresco ou desidratado",
+      "3 tabletes de caldo de galinha caipira",
+      "2 colheres (sopa) de vinagre tinto",
+      "500 g de agnolini industrializado ou se preferir feito em casa",
+      "pimenta a gosto",
+      "50 g de queijo parmesão ralado",
+      "4 colheres (sopa) de salsinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande coloque a água para ferver.",
+      "Quanto iniciar a fervura acrescente os ossos de carne e a carcaça de galinha.",
+      "Deixe ferver por no mínimo 1 hora.",
+      "Vá acrescentando a água quente conforme o caldo vá reduzindo.",
+      "Retire os ossos e a carcaça.",
+      "Acrescente os tabletes de caldo de galinha, a sálvia, o manjericão e a pimenta.",
+      "Deixe ferver por uns minutos.",
+      "Prove o caldo para ver se necessita mais sal.",
+      "Acrescente o agnolini e deixe cozinhar até ficar \"al dente\"",
+      "No final acrescente o vinagre, apague o fogo e deixe a sopa repousar por uns 5 minutos.",
+      "Sirva a sopa em cumbucas, polvilhando queijo parmesão e salsinha por cima.",
+      "Acompanha um bom vinho tinto."
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301815-sopa-de-agnolini-da-vo-ida.html"
+}

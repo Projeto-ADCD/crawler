@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CARNE MOÍDA COM PIMENTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de carne moída",
+      "2 pimentões verde",
+      "1 colher (sopa) de manteiga",
+      "3 dantes de alho",
+      "1/2 cebola pequena",
+      "Temperos a gosto de sua preferência",
+      "1/2 limão",
+      "1/2 sachê de molho de tomate",
+      "1/2 pacotinho de queijo ralado",
+      "1 copo (americano) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os dois pimentões em quadrados médios.",
+      "Refogue o alho e a cebola na manteiga.",
+      "Acrescente a carne muida.",
+      "Refogue a carne por 5 minutos.",
+      "Acrescente os pimentões picados e os temperos.",
+      "Refogue por 3 minutos.",
+      "Acrescente o molho de tomate e um copo (americano) de água.",
+      "Cozinhe por 5 minutos.",
+      "Depois de desligado, acrescente o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAFEELA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302242-carne-moida-com-pimentao.html"
+}

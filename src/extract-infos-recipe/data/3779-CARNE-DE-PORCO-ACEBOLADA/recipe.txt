@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CARNE DE PORCO ACEBOLADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 celola cortada em pequenos cubos",
+      "1 dente de alho",
+      "500 g de carne de porco",
+      "sal e pimenta-do-reino a gosto",
+      "óleo para dourar ",
+      "200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro coloque o óleo e a cebola picada na panela e deixa-a dourar",
+      "Depois coloque o alho e mexa bem",
+      "Em seguida, adicione a carne, o sal e a pimenta-do-reino",
+      "Deixe a carne dourar",
+      "Coloque a água e deixe ferver",
+      "Quando a água secar, frite-a bem e está pronto para servir.",
+      "Bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ANA LAURA DE OLIVEIRA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302723-carne-de-porco-acebolada.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BROWNIE FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de chocolate em pó 50%",
+      "1 xícara de achocolatado",
+      "150 g de farinha de aveia",
+      "1 colher (sopa) de mel",
+      "2 colheres (sopa) de óleo de coco",
+      "2 colheres (sopa) cheias de manteiga",
+      "1/2 xícara (chá) de água",
+      "3 colheres (sopa) de nozes picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, derreta o óleo e a manteiga em fogo baixo e quando derreter, desligue o fogo.",
+      "Acrescente o chocolate e o achocolatado e misture até dissolver.",
+      "Coloque os ovos aos poucos e mexa bastante.",
+      "Junte o mel e a água.",
+      "Acrescente as nozes e leve ao forno preaquecido a 180°C em uma forma untada e deixe no forno por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SOFIA SILVA ABRÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300686-brownie-fit.html"
+}

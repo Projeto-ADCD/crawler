@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROSCAS FRITAS DE PADARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "150 g de manteiga",
+      "300 ml de leite",
+      "1 colher de (café) de sal",
+      "6 colheres de açúcar",
+      "20 g de fermento biológico seco",
+      "trigo até dar ponto (mais ou menos 1,3 kg)",
+      "óleo p fritar",
+      "canela com açúcar para polvilhar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia coloque o leite, fermento, ovos, açúcar, sal e a manteiga.",
+      "Misture bem e vá acrescentando o trigo aos poucos até ficar uma massa homogênea.",
+      "Coloque na mesa e sove a massa salpicando trigo até ficar uma massa lisa",
+      "Abra a massa com um rolo não muito fina",
+      "Use cortador do tamanho que desejar e faça o furo do meio com um bico de confeitar",
+      "Frite em óleo não muito quente até dourar dos dois lados",
+      "Depois de fritar, polvilhe com canela e açúcar se desejar.",
+      "Boa receita"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "JULIANA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304126-roscas-fritas-de-padaria.html"
+}

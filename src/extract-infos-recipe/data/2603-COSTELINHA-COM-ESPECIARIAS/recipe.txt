@@ -1,0 +1,38 @@
+{
+  "nome_receita": "COSTELINHA COM ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 de costelinha de porco",
+      "TEMPERO DAS COSTELINHAS",
+      "10 gramas de canela em pó",
+      "10 gramas de paprica doce",
+      "5 ml de gengibre ralado (só o suco)",
+      "5 grama de cominho",
+      "1 pitada de noz moscada",
+      "1 pimenta dedo de moça sem semente e picada",
+      "Raspa de 1 limão siciliano",
+      "Suco de 1 limão siciliano",
+      "Sal a gosto",
+      "PARA O MOLHO:",
+      "3 colheres de sopa de óleo",
+      "1 colheres de chá de gengibre ralado",
+      "2 dentes de alho bem picado",
+      "2 colheres de shoyu light",
+      "2 pimentas dedo de moça sem semente e picadas",
+      "60 ml de mel",
+      "75 ml de cerveja preta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MODO DE PREPARO DA MARINADA",
+      "Em uma tigela misture todos as especiarias ate obter uma pasta úmida e homogênea, em seguida esfregue as costelinha 1 a 1 e deixe descansar na geladeira por 1 horas, para que todas as especiarias solte seus sabores e odores; apos 2 horas coloque em uma forma para assar, cubra com papel alumínio e asse por cerca de 1 hora em fogo médio. (140 graus). Em quanto isso prepare o molho.",
+      "MODO DE PREPARO DO MOLHO",
+      "Pegue uma panela funda e aqueça o azeite e junte o gengibre e o alho. Frite ate começa a dourar o alho e em seguida adicione todos os outros ingredientes restantes do molho, deixe m fogo baixo e cozinhe o molho por 2 a 3 minutos para que solte todos os sabores. Apos 1 hora de cozimento das costelinhas, retira-as do forno e misture no molho ate todas estarem bem envolvidas. Logo após volte-as a assadeira e cubra novamente com papel alumínio e deixe assar em fogo médio por mais 35 minutos ou ate ficarem bem macias."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CHEF AILTON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304834-costelinha-com-especiarias.html"
+}

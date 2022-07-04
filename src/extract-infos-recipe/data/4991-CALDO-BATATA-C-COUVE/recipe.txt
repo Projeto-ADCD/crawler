@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CALDO BATATA C/ COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batata",
+      "2 dentes de alho",
+      "1 cebola",
+      "300 g de carne (a gosto)",
+      "1 tablete de caldo de galinha ou sal a gosto",
+      "1 maço de couve"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas descascadas em 500 ml agua ",
+      "Refogue o alho e a cebola em uma panela com 1 fio de óleo",
+      "Adicione a carne picada e frite ",
+      "Junte batata com a carne em um liquidificador e bata até formar um creme.",
+      "Volte tudo para a paneta em fogo baixo e adicione a couve cortada",
+      "Ai é só servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "JEAN RICARDO GROBE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299765-caldo-batata-c-barra-couve.html"
+}

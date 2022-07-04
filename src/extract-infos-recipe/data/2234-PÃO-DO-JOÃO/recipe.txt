@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO DO JOÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 gemas",
+      "1 e 1/2 xícara leite",
+      "1 colher rasa (sopa) sal",
+      "1/2 xícara de açúcar",
+      "5 xícaras de farinha (se precisar mais 1/2 xícara)",
+      "1 e 1/2 colher (sopa) de manteiga",
+      "1 sachê de fermento de pão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Morne o leite junto da manteiga até a manteiga derreter",
+      "Deixe esfriar até ficar morno a uma temperatura que você possa manter o dedo no leite",
+      "Junte as gemas, o leite com manteiga coloque o o sal e o açúcar.",
+      "Misture bem",
+      "Coloque as 4 xícaras de farinha peneirada, depois vá colocando o restante da farinha peneirada até dar ponto.",
+      "Sove a massa",
+      "Tire uma bolinha e coloque na água, deixe a massa descansar até a bolinha subir",
+      "Divida a massa em duas, estique ao ponto de véu e enrole colocando em uma assadeira untada e enfarinhada.",
+      "Deixe mais uma bolinha separada e coloque na água, assim que subir preaqueça o forno a 180° C durante 5 a 10 minutos ",
+      "Pincele água sobre os pães e coloque no forno a 180 C, demora de 50 a 55 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RICARDO ZIGLIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305653-pao-do-joao.html"
+}

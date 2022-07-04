@@ -1,0 +1,23 @@
+{
+  "nome_receita": "TEMPERO DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 dentes grandes de alho",
+      "1/2 cebola pequena picada",
+      "2 colheres (sobremesa) cheia de sal",
+      "110 ml a 120 ml de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes no liquidificador",
+      "Reserve na geladeira",
+      "Use para temperar carnes, frangos, bistecas.",
+      "Rende 1 copinho de requeijão"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GIOVANNA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304662-tempero-de-alho.html"
+}

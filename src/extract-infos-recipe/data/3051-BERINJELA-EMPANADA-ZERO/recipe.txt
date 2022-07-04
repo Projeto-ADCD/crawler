@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BERINJELA EMPANADA ZERO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela",
+      "1 gema de ovo",
+      "azeite",
+      "sal gosto",
+      "1 xícara de farofa de soja Yoki"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a berinjela e fatie ao seu gosto",
+      "Coloque uma pitada de sal na gema e mexa um pouco com a colher para misturar",
+      "Passe na gema as fatias da berijela e polvilhe com a farofa de soja da Yoki",
+      "Após polvilhada, reserve",
+      "Coloque um pouco de azeite em uma frigideira a fogo medio e em seguida coloque as fatias de berinjela polvilhada",
+      "Frite ao seu gosto.",
+      "Após prontas, podem ser acompanhaas de um purê de batata doce"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Denise Serafim Torres"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303945-berinjela-empanada-zero.html"
+}

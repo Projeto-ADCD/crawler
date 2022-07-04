@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FRALDINHA ASSADA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de fraldinha de 1 kg",
+      "mostarda a gosto",
+      "sal a gosto a gosto",
+      "chimichuri a gosto",
+      "6 batatas descascadas e partidas ao meio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a fraldinha com sal, chimichuri e coloque em uma refratário",
+      "Em seguida coloque as batatas partidas ao redor da fraldinha",
+      "E por último, espalhe a mostarda por cima",
+      "Leve ao forno coberto por um papel-alumínio."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDER MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305701-fraldinha-assada-facil.html"
+}

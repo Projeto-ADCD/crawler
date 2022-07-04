@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CANJICA MARAVILHOSA DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de milho de canjica",
+      "1 e 1/2 lata de leite condensado",
+      "400 g de leite em pó",
+      "1 coco seco (fica a critério tirar ou não a casquinha)",
+      "cravo e canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o milho de molho por no mínimo 12 horas.",
+      "Lave e coloque para cozinhar em panela de pressão por mais ou menos 30 minutos",
+      "Verifique se o milho está cozido (depende um pouco da panela o tempo de cozimento), escorra toda aquela água da panela, lave o milho cozido e reserve",
+      "No liquidificador, bata o coco, a água, o leite em pó (coloque aos poucos, pode ser necessário fazer um 2 vezes) e o leite condensado (a primeira lata pode ser toda, a segunda depende do gosto de cada um).",
+      "Coloque o milho reservado em uma panela e despeje a mistura do liquidificador",
+      "Insira a água e leite em pó até que fique saboroso.",
+      "Deixe ferver.",
+      "Coloque cravo e canela a gosto.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: coloque menos leite condensado e acrescente colheres de doce de leite."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA PESSOA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301771-canjica-maravilhosa-da-ana.html"
+}

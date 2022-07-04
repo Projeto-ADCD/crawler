@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE FARINHA DE ARROZ FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara (chá) de leite",
+      "1 xícara (chá) de óleo de milho (quase cheia)",
+      "1 xícara (chá) de açúcar",
+      "1 xícara (chá) de farinha de arroz",
+      "1 xícara (chá) de fubá",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes na batedeira ou no liquidificador",
+      "Unte com óleo de milho uma forma com furo central e polvilhe fubá",
+      "Despeje a massa",
+      "Leve ao forno preaquecido a 180º C por aproximadamente 50 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CRIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305138-bolo-de-farinha-de-arroz-facil-de-fazer.html"
+}

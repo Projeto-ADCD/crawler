@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MACARRÃO BOLONHESA COM LINGUIÇA NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão (formato a gosto)",
+      "Azeite de oliva",
+      "manjericão a gosto(fresco ou desidratado)",
+      "1 sachê de molho de tomate",
+      "200 g de carne moída",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ferva a água para dar início ao cozimento do macarrão",
+      "Corte as linguiças em rodelas e preaqueça a frigideira para dourar as mesmas com azeite.",
+      "Reserve assim que estiver no ponto.",
+      "Em outra panela, cozinhe com pouca água a carne moída e adicione sal e a pimenta a gosto",
+      "Adicione o molho de tomate na panela da carne moída e junte manjericão para dar um sabor especial.",
+      "Assim que o macarrão estiver cozido adicione o mesmo a uma forma, adicione azeite e misture",
+      "Adicione o molho bolonhesa e misture.",
+      "Posteriormente adicione a linguiça sobre o macarrão",
+      "Leve ao forno de 210° C a 240º C e aguarde 10 minutos",
+      "Sirva e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301102-macarrao-bolonhesa-com-linguica-no-forno.html"
+}

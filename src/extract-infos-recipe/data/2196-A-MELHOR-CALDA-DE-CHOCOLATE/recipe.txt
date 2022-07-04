@@ -1,0 +1,29 @@
+{
+  "nome_receita": "A MELHOR CALDA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de manteiga (com ou sem sal)",
+      "1 lata de leite condensado",
+      "1 colher de amido de milho",
+      "1 xicara de leite",
+      "3 colheres cheias de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ou leiteira, leve as 3 colheres de manteiga e derreta a fogo baixo",
+      "Em seguida adicione o leite condensado e misture com a manteiga já derretida",
+      "Pegue a xícara com leite e misture com uma colher de amido até dissolver completamente.",
+      "Depois disso, misture com os demais ingredientes na panela",
+      "Misture bem todos os ingredientes e acrescente as 3 colheres de chocolate em pó.",
+      "Vai comecar a ferver, então mexa sem parar para não queimar no fundo",
+      "Depois de uns 5 minutinhos mexendo, a calda vai engrossar então está pronta!",
+      "Sirva como cobertura para seu bolo ",
+      "Obs: o amido que vai deixar a calda grossinha e perfeita, se tirar, a calda fica mais líquida."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BIBI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305736-a-melhor-calda-de-chocolate.html"
+}

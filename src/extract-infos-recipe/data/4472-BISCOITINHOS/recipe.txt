@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BISCOITINHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de margarina",
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de amido de milho",
+      "1 e 1/4 de xícara de açúcar",
+      "Geleia (opcional, escolha o sabor de sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes, menos a geleia.",
+      "Faça bolinhas e achate com um garfo ou abra a massa com um rolo e corte com cortadores de biscoito.",
+      "Coloque-os em uma assadeira sem untar. Leve ao forno por 20min ou até ficarem douradinhos em baixo.",
+      "Depois de frios passe a geleia no fundo de um biscoito e cole outro do mesmo formato (se for usar goiabada pode por na massa antes de ir ao forno é só fazer um barquinho na massa e por um pedacinho de goiabada)."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "VIVIANE MARISE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301033-biscoitinhos.html"
+}

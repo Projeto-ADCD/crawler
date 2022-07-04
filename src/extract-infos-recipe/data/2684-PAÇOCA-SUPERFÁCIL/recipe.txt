@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PAÇOCA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim moído e torrado",
+      "2 xícaras de açúcar",
+      "1/2 xícara de farinha de trigo",
+      "1/2 colher (chá) de sal (adicione mais a gosto)",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes em um vasilha até a cor ficar uniforme",
+      "Coloque na forma e pressione bem para moldar",
+      "Remova da forma"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EMANOEL BRUNO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304656-pacoca-superfacil.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CAPONATA DE BERINJELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas grandes",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 cebola roxa grande",
+      "3 dentes de alho amassados",
+      "100 g de azeitonas verdes (picadas)",
+      "1 colher de uva passa preta",
+      "1 colher de uva passa branca",
+      "oregano a gosto",
+      "sal a gosto",
+      "pimenta do reino a gosto",
+      "salsinha e cebolinha a gosto",
+      "azeite para refogar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as berinjelas e corte em fatias no comprimento",
+      "Refoque numa frigideira com um fio de azeite dourando os 2 lados",
+      "Corte em quadradinhos pequenos (reserve)",
+      "Refogue a cebola picada fina, o alho amassado os pimentões picados em quadradinhos pequenos",
+      "Junte o orégano e azeite",
+      "Junte as berinjelas as azeitonas e as uvas passa",
+      "Refogue mexendo com cuidado e acerte o sal e a pimenta",
+      "Acrescente a salsinha e a cebolinha",
+      "Termine de refogar",
+      "Deixe esfriar e coloque na geladeira",
+      "Sirva com torradas ou pão integral"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAPITO MARCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305916-caponata-de-berinjela.html"
+}

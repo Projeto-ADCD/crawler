@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ALMÔNDEGAS RECHEADAS YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de patinho moído",
+      "1 ovo batido",
+      "1 cebola bem picadinha",
+      "1/2 xícara de cheiro-verde bem picadinho",
+      "100 g de farofa de milho Yoki",
+      "sal e pimenta-do-reino a gosto",
+      "150 g de queijo muçarela em cubos",
+      "6 colheres (sopa) de óleo para selar",
+      "500 g de molho de tomate caseiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque o patinho moído, o ovo, a cebola, o cheiro-verde, o sal e pimenta a gosto e misture muito bem.",
+      "Acrescente a farofa aos poucos e continue misturando até dar ponto de enrolar (pode ser que precise de mais ou de menos farofa).",
+      "Pegue porções da massa, coloque um cubo de queijo no meio e forme bolinhas.",
+      "Coloque o óleo em uma frigideira e sele as almôndegas.",
+      "Em uma panela, coloque o molho de tomate e as almôndegas",
+      "Mexa de vez em quando, deixe cozinhar por 10 minutos e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: João Paulo Pires de Melo"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303788-almondegas-recheadas-yoki.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE NATAL GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa de mandioca temperada ",
+      "100 g de uvas passas pretas",
+      "100 g de ameixas em calda sem caroço",
+      "1 lata de pêssego em calda",
+      "1 lata de figos em calda",
+      "150 g  de manteiga",
+      "1 cebola grande picada em cubos",
+      "1 copo de cereja em calda",
+      "100 g de nozes",
+      "100 g de castanhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aqueça a manteiga e coloque as passas e as ameixas até encorpar",
+      "Frite a cebola e vá mexendo para não queimar.",
+      "Coloque a farofa de mandioca e vá mexendo",
+      "Em seguida acrescente o pêssego cortado ao meio, os figos também cortados, um pouco da cereja (pode colocar o caldo da cereja), as nozes picadas e as castanhas picadas",
+      "Se você achar que está seca pode colocar um pouco da calda do pêssego.",
+      "Reserve um pouco para enfeite do pêssego, figo, cereja, nozes e castanha.",
+      "Enfeite a gosto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROSAQUEL GONÇALVES DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304016-farofa-de-natal-gostosa.html"
+}

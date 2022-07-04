@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo pequeno",
+      "4 colheres (sopa) de leite",
+      "3 colheres (sopa) de óleo",
+      "2 colheres (sopa) rasas de chocolate em pó",
+      "4 colheres (sopa) rasas de açúcar",
+      "4 colheres (sopa) rasas de farinha de trigo",
+      "1 colher (café) rasa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo na caneca e bata bem com um garfo.",
+      "Acrescente o óleo, o açúcar, o leite, o chocolate e bata mais",
+      "Acrescente a farinha e o fermento e mexa delicadamente até incorpar.",
+      "Leve por 3 minutos no micro-ondas na potência máxima."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305477-bolo-de-caneca.html"
+}

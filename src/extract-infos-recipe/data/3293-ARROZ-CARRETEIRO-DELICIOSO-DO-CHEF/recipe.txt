@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ARROZ CARRETEIRO DELICIOSO DO CHEF",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de Frescal (contra-filé preferencialmente)",
+      "4 tomates",
+      "1 pimentão vermelho",
+      "1 pimentão Amarelo",
+      "1 cebola grande",
+      "sal a gosto (deixar para o final pois o Frescal já é salgado)",
+      "azeite",
+      "1 xícara de arroz parborizado",
+      "100 g de queijo ralado tipo parmesão",
+      "1/2 xícara de salsa picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque 2 colheres de azeite e frite a cebola juntamente com o tomate (todos picados)",
+      "Em seguida, junte o Frescal (também picado no mesmo tamanho)",
+      "Junte os pimentões picados e mexa todos os ingredientes com uma colher de pau",
+      "Quando o tomate estiver em forma de molho junte o arroz",
+      "Cubra com água e deixe cozir por cerca de 20 minutos conferindo o ponto do arroz",
+      "Verifique o ponto do sal fazendo a correção conforme o paladar, se necessário",
+      "Desligue o fogo, coloque a salsa e por final o queijo parmesão",
+      "Sirva junto com uma salada e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LEANDRO LOLLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303598-arroz-carreteiro-delicioso-do-chef.html"
+}

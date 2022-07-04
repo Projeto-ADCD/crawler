@@ -1,0 +1,34 @@
+{
+  "nome_receita": "RISOTO COM QUEIJO BOLIVIANO (ARROZ COM QUEIJO BOLIVIANO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz",
+      "5 xícaras de água",
+      "1 cebola inteira e descascada",
+      "1 pimentão inteiro",
+      "100 mg de manteiga",
+      "1/2 xícara de azeite",
+      "1 copo de leite integral",
+      "4 xícaras de queijo meia cura em lascas",
+      "sal a gosto",
+      "2 colheres (sopa) de cheiro-verde (salsinha e cebolinha) picadas",
+      "2 dentes de alho inteiros e descascados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ferva a água com a cebola, pimentão e alho durante 10 minutos",
+      "Retire tudo e na água e adicione o arroz e  o azeite",
+      "Cozinhe por mais 30 minutos sem deixar secar em fogo médio a baixo.",
+      "Coloque o leite, manteiga e queijo.",
+      "Mexa em fogo alto até começar a misturar sem homogeneizar.",
+      "Retire corrija o sal, coloque o cheiro-verde e misture.",
+      "Sirva imediatamente.",
+      "É um ótimo acompanhamento para churrasco"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FAUSTO JOSÉ SOLÍS CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304481-risoto-com-queijo-boliviano-arroz-com-queijo-boliviano.html"
+}

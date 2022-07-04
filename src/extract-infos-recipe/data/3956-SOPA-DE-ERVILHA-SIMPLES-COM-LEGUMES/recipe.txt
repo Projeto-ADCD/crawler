@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SOPA DE ERVILHA SIMPLES COM LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "240 g linguiça defumada fininha",
+      "2 latinhas de ervilha",
+      "4 batatas pequenas",
+      "2 cenouras",
+      "1 saquinho de tempero para legumes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a cenoura e as batatas picadas para cozinhar, adicionando o saquinho de tempero para legumes.",
+      "Corte a linguiça defumada e frite.",
+      "Bata a ervilha no liquidificador com a medida de uma latinha de água.",
+      "Quando os legumes cozinharem, adicione o creme de ervilha",
+      "Quando começar a ferver, adicione a linguiça defumada.",
+      "Tempere a seu gosto e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "38 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANNA ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302300-sopa-de-ervilha-simples-com-legumes.html"
+}

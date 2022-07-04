@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FEIJÃO DE MARIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de feijão carioca",
+      "1/2 xícara de chá de charque",
+      "4 dentes grandes de alho",
+      "6 folhas de chicória",
+      "1 maço de cheiro verde",
+      "1 cebola",
+      "óleo de girassol",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o feijão e ponha para ferver em fogo alto na panela de pressão fechada com água cerca 3 dedos acima do feijão.",
+      "Quando a panela começar a chiar, tire a pressão. Neste ponto, a água deve ter evaporado até ficar na mesma linha que o feijão.",
+      "Adicione água novamente (choque térmico) até ficar uns 2 a 3 dedos acima do feijão.",
+      "Ponha o feijão para ferver novamente por 15 minutos em fogo alto.",
+      "Enquanto isso pique a cebola, alho, cheiro verde e a chicória. O charque deve ser picado em pedaços bem pequenos do tamanho de uma ervilha se possível.",
+      "Separe estes picados em 2 porções e frite 1 delas com o óleo em uma panela separada. O ponto é quando o alho ficar quase amarelo.",
+      "Considere também começar a fritar quando faltar uns 2 a 3 minutos da fervura do feijão.",
+      "Tire a pressão do feijão, mas mantenha o fogo acesso, pegue 2 conchas dele sem caldo e adicione aos ingredientes que estão fritando, adicionando também a porção restante dos picados.",
+      "Frite até dourar o alho mexendo de vez em quando para não queimar.",
+      "Adicione os ingredientes da fritura à panela de pressão. Coloque sal a gosto e deixe ferver por mais uns 5 minutos ou até o caldo encorpar e/ou o feijão ficar na moleza ideal."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSIEL TONY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301051-feijao-de-marido.html"
+}

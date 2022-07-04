@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ NATALINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "1 litro de leite integral",
+      "2 barras de chocolate branco (120g cada barra)",
+      "2 barras de chocolate meio amargo (120 g cada barra)",
+      "4 colheres (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o creme branco",
+      "Em uma panela, acrescente meio litro de leite, 2 colheres do amido de milho, meia lata de leite condensado, 1 caixa de creme de leite e 1 barra e meia do chocolate branco.",
+      "Leve tudo isso para o fogo até começar a borbulhar, conte mais 2 minutos, desligue e deixe reservado em uma vasilha.",
+      "Para o creme de chocolate",
+      "Faça o mesmo processo.",
+      "Deixe a meia barra do chocolate para decorar.",
+      "Reserve em uma vasilha e espere até esfriar.",
+      "Em uma travessa ou qualquer recipiente, vai intercalando creme branco e de chocolate.",
+      "Por último coloque os chocolates que sobraram ralado ou em pedaços por cima do pavê.",
+      "Leve à geladeira até servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "THAMIRIS MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304033-pave-natalino.html"
+}

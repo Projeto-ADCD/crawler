@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MINGAU DE CREMOGEMA SUPERSIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite ",
+      "2 colheres de cremogema",
+      "1 colher de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em uma panela (da sua preferência)",
+      "Logo após, misture todos os ingredientes",
+      "Ligue o fogo e mexa até ficar grossinho (a cremogema pode ficar na sua preferência de textura)",
+      "Espere esfriar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "GRAZIELLY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302798-mingau-de-cremogema-supersimples.html"
+}

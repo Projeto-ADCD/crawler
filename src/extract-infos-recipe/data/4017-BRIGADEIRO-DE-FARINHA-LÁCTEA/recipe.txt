@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BRIGADEIRO DE FARINHA LÁCTEA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "3 colheres (sopa) de farinha láctea",
+      "farinha láctea para enrolar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado, manteiga e as 3 colheres de farinha láctea na panela em fogo médio.",
+      "Mexa por volta de 5 a 7 minutos para dar ponto de brigadeiro, desgrudando do fundo da panela.",
+      "Após dar o ponto, espere esfriar, enrole e passe na farinha láctea."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "THALIA PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302127-brigadeiro-de-farinha-lactea.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "POLENGUINHO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 ml de leite integral",
+      "300 g de queijo ricota frescal",
+      "1 colher (sopa) de manteiga",
+      "50 g de queijo parmesão",
+      "1 pacote de gelatina incolor sem sabor hidratada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, misture todos os ingredientes. ",
+      "Transfira essa mistura para uma travessa forrada com plástico-filme. ",
+      "Leve à geladeira por 12 horas. ",
+      "Corte em quadradinho e conserve na geladeira. "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "28 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301756-polenguinho-caseiro.html"
+}

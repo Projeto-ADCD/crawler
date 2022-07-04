@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BAIÃO DE DOIS CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "450g de feijão carioca ou o de sua preferência",
+      "450g de arroz parboilizado",
+      "350g de carne de sol em cubos",
+      "350g de bacon em cubos",
+      "350g linguiça calabresa em cubos sem a pele",
+      "350g de queijo coalho em cubos maiores",
+      "1 caixa de creme de leite",
+      "1 maço de coentro picado",
+      "1 maço de cebolinha picado",
+      "2 cebolas roxas picadas",
+      "4 dentes de alho amassado",
+      "3 colheres de óleo",
+      "1 colher (sopa) rasa de coloral",
+      "1 colher (sopa) rasa de cominho",
+      "Sal e pimenta a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque o feijão para cozinhar com um pouco de sal, por 5 minutos de pressão.",
+      "Enquanto isso, leve ao fogo para refogar a cebola, alho, carne, bacon e calabresa, quando dourar coloque na panela junto com o feijão e adicione o coloral, cominho, sal e pimenta a gosto e volte a colocar na pressão por mais 5 minutos.",
+      "Depois adicione o arroz na panela junto com o feijão e deixe na pressão por 10 minutos. Abra a panela e em fogo médio adicione o creme de leite, coentro, cebolinha, mexa e deixe até engrossar o caldo.",
+      "Desligue o fogo e por fim adicione o queijo em cubos e pode servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301264-baiao-de-dois-cremoso.html"
+}

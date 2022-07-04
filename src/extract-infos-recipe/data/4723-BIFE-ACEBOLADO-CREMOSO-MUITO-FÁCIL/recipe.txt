@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BIFE ACEBOLADO CREMOSO MUITO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bifes grossos",
+      "3 dentes de alho picados",
+      "Sal e pimenta-do-reino a gosto",
+      "8 colheres (sopa) de azeite",
+      "3 cebolas em rodelas",
+      "2 colheres (sopa) de molho inglês",
+      "6 colheres (sopa) de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os bifes com o alho, sal e pimenta.",
+      "Aqueça uma frigideira grande em fogo alto com metade do azeite e frite os bifes até dourarem dos dois lados.",
+      "Retire e coloque em uma travessa.",
+      "Volte a frigideira ao fogo médio com o azeite restante e frite a cebola até dourar, misture o molho inglês e a maionese.",
+      "Espalhe sobre os bifes."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ISA LAURINTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300355-bife-acebolado-cremoso-muito-facil.html"
+}

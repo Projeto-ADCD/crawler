@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COSTELINHA NA CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg costelinha de porco",
+      "1 cebola grande picada em cubos médios",
+      "2 dentes de alho grandes bem socados com pouco sal",
+      "3 colheres (sopa) molho shoyu",
+      "2 colheres (sopa) rasas de óleo",
+      "1 colher (sopa) rasa de colorau",
+      "1 pitada generosa de orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, misture o alho, o colorau, orégano e o molho.",
+      "Adicione a carne e misture bem, reserve.",
+      "Em uma panela média, coloque o óleo e a cebola picada",
+      "Quando a cebola dourar acrescente a carne misturando bem.",
+      "Tampe e deixe cozinhar.",
+      "Vá virando a carne até que a água da cebola seque.",
+      "A carne então estará cozida e frita, bem dourada.",
+      "Pronta pra servir."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IVANILDOSDCV PEREIRA DE SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303805-costelinha-na-cebola.html"
+}

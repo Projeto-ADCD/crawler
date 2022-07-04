@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA FESTIVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura",
+      "5 bananas prata",
+      "5 espetos de queijo coalho",
+      "1 calabresa",
+      "100 g bacon",
+      "2 colheres (sopa) de manteiga",
+      "1 pimenta cambuci",
+      "1/2 limão taiti",
+      "3 acerolas picadas",
+      "cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Processe a cenoura e reservar.",
+      "Em uma frigideira alta coloque a manteiga, aqueça e acrescente as bananas em rodelas",
+      "Doure as bananas dos dois lados, pingando o meio limão e reserve",
+      "Na mesma frigideira, doure dos dois lados o queijo coalho cortado em cubinhos e reserve",
+      "Na mesma frigideira frite o bacon e calabresa",
+      "Junte a cenoura com a pimenta cambuci em cubinhos e mexa por 3 minutos",
+      "Acrescente a farofa tradicional",
+      "Diminua o fogo, acrescente a banana, o queijo e acerola picada",
+      "Misture com a colher.",
+      "Desligue o fogo.",
+      "Acrescente a cebolinha picada e decore.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELIANE TERESINHA VAZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303978-farofa-festiva.html"
+}

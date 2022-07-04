@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BATIDA DE SKOL BEATS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latinhas de skol beats ",
+      "1 limão",
+      "1 forminha de gelo (utiliza inteira)",
+      "1 caixinha de leite condensado (não precisa usar toda não, vai a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture as latinhas de Skol beats, o limão e os cubos de gelo no liquidificador e deixe bater ",
+      "Assim que ficar uma misturinha homogênea comece a misturar com o leite condensado ",
+      "Está pronto para saborear "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "JHULY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303242-batida-de-skol-beats.html"
+}

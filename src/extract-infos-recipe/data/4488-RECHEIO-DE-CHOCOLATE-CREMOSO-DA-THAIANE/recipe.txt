@@ -1,0 +1,21 @@
+{
+  "nome_receita": "RECHEIO DE CHOCOLATE CREMOSO DA THAIANE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 latas de leite condensado",
+      "600g de creme de leite",
+      "200g de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes em uma panela grande",
+      "Leve ao fogo baixo e mexa sempre ",
+      "É um recheio demorado e deve ferver por aproximadamente 20 a 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAIANERECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301002-recheio-de-chocolate-cremoso-da-thaiane.html"
+}

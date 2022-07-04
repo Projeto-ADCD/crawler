@@ -1,0 +1,30 @@
+{
+  "nome_receita": "NHOQUE SEM LEITE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 colheres (sopa) de manteiga",
+      "360 ml de água (2 copos pequenos)",
+      "2 colheres (café) de sal",
+      "trigo até dar o ponto de enrolar na mesa",
+      "1/2 colher (sopa) de fermento",
+      "parmesão ralado para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia junte os ovos, a água, a manteiga e o sal.",
+      "Mexa bem para desfazer os ovos e a manteiga.",
+      "Acrescente farinha de trigo aos poucos e 1/2 colher (sopa) de fermento para bol",
+      "Quando começar a ficar firme, enfarinhe a mesa, enrole e estique",
+      "Corte vários pedacinhos (se preferir, pode colocar em seu acessório de moldar nhoque)",
+      "Em uma panela com água, coloque 2 colheres (sopa) de óleo",
+      "Ao levantar fervura, coloque os nhoques, espere até que eles comecem a boiar e retire do fogo.",
+      "Faça o molho de sua preferência e aproveite para salpicar queijo parmesão ralado por cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KELLY FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302230-nhoque-sem-leite-facil.html"
+}

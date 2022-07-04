@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MANJAR DE LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Manjar",
+      "1 vidro de leite de coco (200ml)",
+      "1 lata de leite condensado",
+      "1 litro de leite",
+      "1 xícara (chá) de maisena",
+      "100g  de coco ralado sem açúcar",
+      "Calda",
+      "1 lata de ameixas em calda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma redonda com furo no meio.",
+      "Coloque todos ingrediantes em uma panela e mexa bem até misturat e dissolver tudo.",
+      "Em seguida, leve ao fogo baixo, mexendo sempre até engrossar.",
+      "Despeje na forma, ainda quente e cubra com papel filme. Deixe esfriar e leve à geladeira.",
+      "Após gelado, desenforme e coloque a ameixa em calda decorando o manjar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VIVIANE REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304767-manjar-de-leite-de-coco.html"
+}

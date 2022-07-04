@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FAROFA DE NATAL FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 gramas de calabresa",
+      "600 gramas de bacon",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1 lata de milho verde",
+      "3 cebolas médias",
+      "6 ovos",
+      "8 dentes de alho",
+      "1 cheiro verde",
+      "300 gramas de uvas passas escura",
+      "1 vidro médio de azeitona sem caroço ",
+      "1 pacote de farofa pronta "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire a pele do bacon e da calabresa e corte em cubinhos",
+      "Como também corte as cebolas, os pimentões, o cheiro-verde e amasse os dentes de alho.",
+      "Numa panela grande, frite o bacon e a calabresa.",
+      "Quando estiverem no ponto, afaste-os e coloque no centro da panela os ovos pra fritarem.",
+      "Tempere com sal os ovos.",
+      "Em outra panela, coloque um fio de azeite e refogue os pimentões, a cebola, o alho e adicione pimenta, se gostar, dedo de moça ou calabresa.",
+      "Após este tempero secar o caldo, acrescente à panela com o bacon, a calabresa e os ovos fritos.",
+      "Mexa bem, verifique o tempero e acrescente o milho verde e a azeitona escorridos",
+      "Desligue o fogo, acrescente as uvas passas e, por último, acrescente a farofa",
+      "Coloque em formas, bandejas de vidro e decore com o cheiro-verde.",
+      "Ideal pra acompanhar peru assado, Chester ou churrasco de carne bovina."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "JOSÉ AMADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303557-farofa-de-natal-facil-e-gostosa.html"
+}

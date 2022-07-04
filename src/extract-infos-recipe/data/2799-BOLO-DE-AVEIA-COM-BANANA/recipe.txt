@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLO DE AVEIA COM BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas grandes",
+      "3 ovos",
+      "2 colheres de fermento em pó",
+      "2 xícaras de aveia",
+      "8 gotas adoçante",
+      "1 colher açúcar mascavo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificar.",
+      "Preaqueça o forno, unte a forma com manteiga e polvilhe farinha de aveia misturada com uma colher rasa de açúcar mascavo.",
+      "Deixe assar por 40 minutos na temperatura de 180° C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PEDRO DIEGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304406-bolo-de-aveia-com-banana.html"
+}

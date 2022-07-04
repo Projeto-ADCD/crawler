@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SPAGHETTI AO VINHO DO CHEF MAC",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de spaghetti n°8",
+      "600 ml de água",
+      "600 ml de vinho tinto seco",
+      "sal a gosto",
+      "cheiro-verde a gosto",
+      "6 a 10 dentes de alho picados",
+      "azeite a gosto",
+      "1 cebola bem picada",
+      "3 colheres (sopa) de óleo",
+      "tomates cereja para decorar",
+      "alecrim a gosto",
+      "pimenta-do-reino a gosto",
+      "manjericão a gosto",
+      "orégano a gosto",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água com sal e óleo e inicie o cozimento do macarrão",
+      "Na metade do tempo de cozimento, adicione os 600 ml de vinho e cozinhe o macarrão ate estar \"al dente \"",
+      "Macarrão cozido, escorra e passe rapidamente pela torneira e reserve",
+      "Frite o alho e a cebola até que o alho esteja dourado no azeite",
+      "Tempere o macarrão com as ervas e a pimenta-do-reino",
+      "Polvilhe o queijo e sirva quente",
+      "Decore o prato com os tomates cereja e polvilhe com cheiro-verde",
+      "Sirva acompanhado de vinho"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MAC VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303858-spaghetti-ao-vinho-do-chef-mac.html"
+}

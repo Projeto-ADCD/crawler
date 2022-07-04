@@ -1,0 +1,47 @@
+{
+  "nome_receita": "BOLO 3 CHOCOLATES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 xícaras de farinha de trigo com fermento",
+      "4 xícaras de açúcar",
+      "3 xícaras de água fervente",
+      "1 xícaras de óleo",
+      "6 ovos claras separadas",
+      "1 pitada de sal",
+      "2 xícaras de cacau alcalino ou chocolate em pó",
+      "Caldinha",
+      "300ml de leite",
+      "2 colheres de chocolate em pó ou Nescau",
+      "Creme de chocolate",
+      "1 litro de leite",
+      "1/2 xícara de cacau alcalino ou chocolate em pó",
+      "1 colher de manteiga ou margarina",
+      "3 colheres de amido de milho",
+      "1 caixa de leite condensado",
+      "1/2 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata as claras em neve com uma pitade de sal",
+      "Bata as gemas, o óleo e açúcar até mudar de cor e textura",
+      "Adicione a farinha, a água e o cacau e misture bem até ficar homogêneo",
+      "Introduza as claras aos poucos na massa até se desmanchar por completo",
+      "Asse em forma untade e enfarinhada por aproximadamente 45 minutos",
+      "Caldinha",
+      "Misture os dois ingredientes e fure o bolo todo e jogue em cima molhando todos os pontos dele",
+      "Creme",
+      "Derreta a manteiga e adicione o leite condensado e deixe cozinhar por 1 minuto sempre mexendo",
+      "Depois adicione o leite, o açúcar, o cacau e deixe esquentar até quase começar a ferver",
+      "Pegue um pouco da mistura e dissolva o amido de milho e em seguida coloque a mistura",
+      "Mexa sem parar por 5 minutos ou até virar um creme grossinho, então desligue o fogo e continue a mexer por uns 3 minutos",
+      "Adicione o creme em cima do bolo e tampe com papel alumínio e leve a geladeira por 2 horas"
+    ]
+  },
+  "tempo_de_preparo": "95 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LÍDIA AGUIAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303075-bolo-3-chocolates.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CARNE AO MOLHO DE VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne bovina fatiada (alcatra ou fraldinha)",
+      "1 garrafa de um bom vinho tinto (merlot preferencialmente)",
+      "150 g de manteiga de leite",
+      "2 cebolas",
+      "2 tabletes de caldo de carne",
+      "4 dentes de alho picados",
+      "1 cenoura grande picada em quadradinhos pequenos",
+      "azeite, sal, pimenta-do-reino, pimenta rosa e cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela quente regue com um fio de azeite",
+      "Rofogue a cebola e o alho",
+      "Acrescente a carne e deixe selar",
+      "Acrescente a cenoura e refogue um pouco",
+      "Regue com o vinho e aguarde levantar fervura",
+      "Acrescente os cubos de caldo de carne, deixe derreter",
+      "Acrescente a manteira de leite e misture",
+      "Tempere com pimenta-do-reino e sal a gosto",
+      "Aguarde que o líquido reduza e vire um molho espeço",
+      "Disponha tudo em um pires e salpique cheiro verde e a pimenta roda e sirva."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "REGYS BORGES DA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305908-carne-ao-molho-de-vinho.html"
+}

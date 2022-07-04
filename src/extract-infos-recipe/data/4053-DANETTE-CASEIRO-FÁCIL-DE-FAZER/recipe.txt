@@ -1,0 +1,26 @@
+{
+  "nome_receita": "DANETTE CASEIRO FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de leite",
+      "1/2 xícara de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de amido de milho",
+      "4 colheres (sopa) de chocolate em pó",
+      "3 colheres (sopa) de cacau em pó",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite, o leite condensado, a manteiga, o amido de milho, o chocolate em pó, o cacau e mexa até engrossar.",
+      "Depois, coloque a mistura numa tigela e deixe amornar.",
+      "Coloque o creme de leite e misture até ficar homogêneo.",
+      "Cubra com papel-filme e leve à geladeira por 2 horas antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302024-danette-caseiro-facil-de-fazer.html"
+}

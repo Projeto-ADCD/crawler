@@ -1,0 +1,23 @@
+{
+  "nome_receita": "“BROWNIE” DE CANECA SEM FERMENTO E SEM OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha",
+      "3 colheres (sopa) de achocolatado",
+      "4 colheres (sopa) de leite",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a farinha e o achocolatado e misture bem",
+      "Coloque o leite e a manteiga e misture até ficar tudo bem misturado",
+      "Coloque em uma caneca e depois leve para o micro-ondas por 3 minutos",
+      "E pronto e só saborear se quiser coloque uma calda e vai ficar melhor ainda!"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BEATRIZ MAZZI TONIOLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300945-brownie-de-caneca-sem-fermento-e-sem-ovo.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "STEAK À DIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bife",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "80 g de manteiga",
+      "3 cálices de conhaque",
+      "2 colheres (sopa) de molho inglês",
+      "2 colheres (sopa) de mostarda",
+      "3 colheres (sopa) de molho de tomate",
+      "1/2 cebola",
+      " 5 champignons",
+      "4 colheres (sopa) de salsinha",
+      "2 xícaras de arroz cozido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o bife com sal e pimenta-do-reino.",
+      "Em uma frigideira, aqueça a manteiga e frite o bife dos dois lados.",
+      "Adicione o conhaque (pode flambar, se preferir, fica uma delícia!).",
+      "Reserve o bife.",
+      "Na mesma frigideira, adicione o molho inglês, a mostarda, o molho de tomate  e a cebola; misture bem.",
+      "Acrescente o champignon e a salsinha.",
+      "Reserve metade do molho. ",
+      "Na panela, misture o arroz ao molho. ",
+      "Sirva o bife com o arroz e o molho reservado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302800-steak-a-diana.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA MISTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacon",
+      "1 linguiça calabresa grosa",
+      "100 g de fígado de frango",
+      "pimentão vermelho,verde e amarelo",
+      "2 dentes de alho",
+      "1 cebola pequena",
+      "1 tomate sem pele",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todos os ingredientes",
+      "Comece fritando o alho e a cebola",
+      "Após adicione o bacon",
+      "Logo após a linguica e o fígado",
+      "Coloque os pimentões e o tomate tempere com sal e pimenta",
+      "Por último a farofa pronta",
+      "Misture bem e está pronta fica uma delícia"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DENISE DA SILVA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303969-farofa-mista.html"
+}

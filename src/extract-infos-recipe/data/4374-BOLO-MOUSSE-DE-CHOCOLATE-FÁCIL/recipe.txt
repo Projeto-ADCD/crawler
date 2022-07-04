@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO MOUSSE DE CHOCOLATE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "120 g de farinha de trigo",
+      "30 g de cacau em pó",
+      "150 g de açúcar",
+      "80 ml de óleo",
+      "100 ml de leite",
+      "1 ovo",
+      "1 colher (chá) de fermento em pó",
+      "250 g de chocolate ao leite",
+      "200 g de manteiga",
+      "5 gemas",
+      "100 g de açúcar",
+      "5 claras",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a farinha de trigo, o cacau e o açúcar. ",
+      "Acrescente o óleo, o leite e o ovo; misture bem.",
+      "Por fim, adicione o fermento em pó e mexa para incorporar. ",
+      "Despeja a massa em uma forma untada e enfarinhada.",
+      "Leve ao forno preaquecido (180° C) por 15 minutos.",
+      "Derreta o chocolate ao leite com a manteiga. ",
+      "Em uma batedeira, misture o açúcar com a manteiga.",
+      "Acrescente o chocolate derretido e volte a bater.",
+      "Batas as claras em neve. ",
+      "Adicione as claras em neve na mistura de chocolate e mexa bem. ",
+      "Retire o bolo do forno e coloque a mousse por cima. ",
+      "Leve à geladeira, por cerca de 2 horas.",
+      "Está pronto!",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "140 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301277-bolo-mousse-de-chocolate-facil.html"
+}

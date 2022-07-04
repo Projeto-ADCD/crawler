@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA LOWCARB DE FRANGO E BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango desfiado",
+      "1 brócolis cozido e esmagado",
+      "4 ovos",
+      "tempero verde a gosto",
+      "pimenta preta a gosto ",
+      "sal somente para cozinhar o frango e o brócolis",
+      "chimichurri a gosto",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo deixando o fermento por último",
+      "Coloque farinha na forma para não grudar no fundo",
+      "Deixe assando por 20 minutos no forno elétrico a 150° C",
+      "A textura dele tem que ficar firme e fofinha"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305053-torta-lowcarb-de-frango-e-brocolis.html"
+}

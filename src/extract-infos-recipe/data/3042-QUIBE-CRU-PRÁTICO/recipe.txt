@@ -1,0 +1,31 @@
+{
+  "nome_receita": "QUIBE CRU PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de quibe",
+      "1 kg de carne moída",
+      "1 tempero pronto com pimenta",
+      "4 cebolas",
+      "1 masso de cebolinha e salsinha",
+      "pimenta vermelha a gosto",
+      "1 masso hortelã",
+      "3 limões ",
+      "azeite",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque a farinha de trigo e cubra com água morna",
+      "Depois, pique a cebolinha, salsinha, hortelã, cebola e pimenta",
+      "Escorre bem a água da farinha de quibe",
+      "E misture todos os ingredientes.",
+      "Junte a carne moída, cebola, cebolinha, salsinha, hortelã, pimenta.",
+      "Acrescente o tempero pronto com pimenta e sal a gosto"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAYLA MONIQUE TONIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303963-quibe-cru-pratico.html"
+}

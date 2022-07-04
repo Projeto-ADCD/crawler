@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FAROFA DE CEBOLA E CENOURA SUPERPRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola pequena picada",
+      "1 cenoura média ralada",
+      "5 colheres (sopa) de óleo",
+      "farinha de mandioca crua até dar o ponto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira grande e funda, adicione o óleo e a cebola.",
+      "Quando a cebola começar a dourar, adicione a cenoura ralada",
+      "Quando perceber que a cenoura ficou um pouco mais molinha, adicione a farinha e o sal.",
+      "Mexa em fogo baixo até a farinha dourar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LARISSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305185-farofa-de-cebola-e-cenoura-superpratica.html"
+}

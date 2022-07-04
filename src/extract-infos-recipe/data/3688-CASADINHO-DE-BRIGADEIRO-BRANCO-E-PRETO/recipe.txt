@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CASADINHO DE BRIGADEIRO BRANCO E PRETO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Metade branca:",
+      "1 lata de leite condensado",
+      "1 colher (chá) de margarina",
+      "3 gemas sem pele",
+      "Metade preta:",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) de chocolate em pó",
+      "1 colher (sobremesa) de margarina",
+      "açúcar para enrolar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para os dois brigadeiros o modo de preparo é o mesmo.",
+      "Faça um de cada vez.",
+      "Leve todos os ingredientes ao fogo mexendo sempre para não grudar no fundo da panela.",
+      "Quando começar a desgrudar da panela, retire do fogo e deixe esfriar.",
+      "Faça duas bolinhas pequenas, uma de cada brigadeiro, então junte-as e enrole novamente.",
+      "Passe no açúcar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "ANA AMÉLIA TANNÚS ROTUNDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302909-casadinho-de-brigadeiro-branco-e-preto.html"
+}

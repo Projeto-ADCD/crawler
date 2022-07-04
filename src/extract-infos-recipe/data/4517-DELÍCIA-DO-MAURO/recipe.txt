@@ -1,0 +1,38 @@
+{
+  "nome_receita": "DELÍCIA DO MAURO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "leite líquido (mesma medida do leite condensado)",
+      "1 gema",
+      "2 colheres de amido de milho",
+      "1 colher de manteiga",
+      "nozes a gosto",
+      "1 barra de chocolate ao leite",
+      "1 caixa de creme de leite",
+      "1 pacote de biscoito de maisena",
+      "3 colheres (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a base de biscoito",
+      "Triture os biscoitos de maisena até virarem um pó e misture com 3 colheres de manteiga até virar uma massa.",
+      "Em seguida, leve a massa por alguns minutos ao forno, até ficar douradinha.",
+      "Creme de nozes",
+      "Leve o leite condensado, 1 colher de manteiga, o leite liquido, o amido de milho e a gema ao fogo e mexa até engrossar.",
+      "Em seguida, acrescente as nozes e mexa mais um pouco, reserve.",
+      "Ganache",
+      "Pique a barra de chocolate ao leite em pedacinhos e leve ao micro-ondas por 1 minuto.",
+      "Mexa e, quando o chocolate estiver derretido, acrescente a caixa de creme de leite.",
+      "Mexa até ficar homogêneo.",
+      "Faça a montagem como um pavê",
+      "Primeiro a base de biscoito, depois o creme de nozes e por cima a ganache de chocolate.",
+      "Decore com uns pedaços de nozes e coloque na geladeira para servir a sobremesa fria."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIA EMMANUELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300949-delicia-do-mauro.html"
+}

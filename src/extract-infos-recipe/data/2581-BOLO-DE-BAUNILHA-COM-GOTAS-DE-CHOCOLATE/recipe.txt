@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE BAUNILHA COM GOTAS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo",
+      "1 e 1/2 xícara (chá) de açúcar cristal",
+      "1 xícara (chá) de leite",
+      "2 ovos grandes",
+      "2 colheres (sopa) bem cheias de manteiga (se possível sem sal)",
+      "1 xícara de amido de milho",
+      "1 xícara (chá) de gotas de chocolate ou a seu gosto",
+      "1 colher (sopa) rasa de fermento em pó",
+      "algumas gotas de essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno na temperatura médio/baixo (180° C)",
+      "Em um pote grande, adicione a manteiga e o açúcar.",
+      "Bata na batedeira ou com uma colher até obter uma massa homogênea.",
+      "Adicione os ovos e bata novamente.",
+      "Com uma peneira adicione aos poucos a farinha intercalando com o leite e misture bem.",
+      "Adicione o amido usando a peneira e bata até obter uma massa lisa e homogênea.",
+      "Junte as gotas de chocolate e essência de baunilha e misture bem.",
+      "Por último, adicione fermento e bata levemente.",
+      "Unte uma assadeira de alumínio com manteiga e despeje por cima um pouco de farinha.",
+      "Despeje a massa e leve ao forno médio/baixo (180° C) por 25 a 30 minutos.",
+      "Para verificar se está pronto, faça o teste do palito.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: assadeiras pretas assam mais rápido. A farinha pode alterar a consistência do seu bolo, use de boa qualidade. Leite usado foi com 1.5% de gordura e sem lactose. Se não tiver ovos grandes adicione um pouco mais de leite. Foi usado amido de milho com farinha de arroz"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304902-bolo-de-baunilha-com-gotas-de-chocolate.html"
+}

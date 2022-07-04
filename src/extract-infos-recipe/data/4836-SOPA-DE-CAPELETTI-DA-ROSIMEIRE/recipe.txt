@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SOPA DE CAPELETTI DA ROSIMEIRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de água",
+      "1 tablete de caldo",
+      "500 g de capeletti de queijo",
+      "1 xícara de leite",
+      "1 pacote de sopa creme de queijo",
+      "100 g de queijo parmesão ralado",
+      "100 g de mussarela ralada",
+      "cheiro-verde a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água e dissolva o tablete de caldo.",
+      "Coloque o capeletti e deixe cozinhar por 5 minutos.",
+      "Enquanto isso, misture o leite frio com o creme de queijo.",
+      "Após, 5 minutos de cozimento do capeletti coloque o leite frio com o creme de queijo diluído",
+      "Espere ferver e mexa de 4 a 5 minutos",
+      "Coloque o parmesão e a mussarela.",
+      "Salpique cheiro-verde a gosto e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROSIMEIRE MONEGATTO BALDICEROTTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300135-sopa-de-capeletti-da-rosimeire.html"
+}

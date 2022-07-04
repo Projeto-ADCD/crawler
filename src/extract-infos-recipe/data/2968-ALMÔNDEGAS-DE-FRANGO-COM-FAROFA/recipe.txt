@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ALMÔNDEGAS DE FRANGO COM FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de peito de frango",
+      "1 a 2 litros de água",
+      "2 folhas de louro",
+      "1 dente de alho",
+      "1 cebola média",
+      "50 g de manteiga ou margarina",
+      "50 g de farinha de trigo",
+      "sal a gosto",
+      "1 litro de óleo para fritar",
+      "2 ovos para empanar",
+      "salsinha/cebolinha",
+      "1 pacote de 200 g de farofa tempero suave"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango na água com o louro",
+      "Depois desfie o frango e reserve o caldo",
+      "Corte o alho e a cebola bem picados",
+      "Em uma panela refogue com um pouco de óleo o alho",
+      "Depois a cebola e junte o frango desfiado",
+      "Coloque a manteiga e uma pouco da água do cozimento (150 ml)",
+      "Ajuste sal e coloque metade da farofa e a farinha de trigo",
+      "Cozinhe até soltar da panela",
+      "Desligue o fogo e junte a salsinha/cebolinha",
+      "Espere esfriar e modele as almôndegas",
+      "Passe no ovo e no restante da farofa",
+      "Frite em óleo quente até dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "ROBERTA DUARTE DA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304060-almondegas-de-frango-com-farofa.html"
+}

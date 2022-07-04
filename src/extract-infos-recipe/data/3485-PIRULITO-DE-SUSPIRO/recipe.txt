@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PIRULITO DE SUSPIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de açúcar refinado",
+      "4 claras médias",
+      "1 colher (chá) de raspas de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve as claras e o açúcar em banho-maria até sumir as pedrinhas do açúcar",
+      "Após leve para uma batedeira junto com as raspas de limão ou alguma essência de sua preferência",
+      "Bata até ficar picos firmes",
+      "Separe as porções que você precisa para colorir e misture delicadamente com uma colher",
+      "Após coloque em uma assadeira com papel manteiga e modele a seu gosto",
+      "O tempo de forno é de 95 minutos a temperatura de 90°C com forno entreaberto",
+      "Os suspiros precisam secar e não assar"
+    ]
+  },
+  "tempo_de_preparo": "95 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303262-pirulito-de-suspiro.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE NOZES E AÇÚCAR MASCAVO SEM OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de açúcar mascavo",
+      "4 xícaras de farinha de trigo peneirada",
+      "3 colheres de mel",
+      "1 e 1/3 de xícara de leite morno",
+      "1 xícara de nozes moída (em pedacinhos) ou castanha do Pará",
+      "1 colher cheia de fermento",
+      "suco de 1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata sempre na mão, nunca na batedeira",
+      "Misture o açúcar e a farinha.",
+      "Misture as nozes (se for castanha do Pará, coloque mais 1/3 de xícara de leite)",
+      "Misture o leite",
+      "Misture a margarina e o mel",
+      "Dissolva o fermento no suco do limão e misture na receita",
+      "É uma massa cremosa e pesada, não fica líquida",
+      "Coloque para assar em forno preaquecido a 205° C por 40 minutos",
+      "Esse bolo, por ser uma receita bem pesada, por isso cresce bem pouco",
+      "Deixe 1 dedo mais ou menos de espaço pra crescer é suficiente.",
+      "Então pode colocar em uma forma alta e menor.",
+      "Quando a faca/palito sair limpo, está pronto",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: nunca coloque na geladeira.\nEle em temperatura ambiente dura até 10 dias e não fica duro, se guardar em vasilha com tampa.\nÉ muito saboroso, não necessita de cobertura alguma.\nNão coloque mais castanha do que a receita indica se não, ficará enjoativo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "SABRINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305093-bolo-de-nozes-e-acucar-mascavo-sem-ovos.html"
+}

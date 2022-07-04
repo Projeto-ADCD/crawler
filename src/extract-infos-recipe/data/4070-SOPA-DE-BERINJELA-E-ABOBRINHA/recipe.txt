@@ -1,0 +1,40 @@
+{
+  "nome_receita": "SOPA DE BERINJELA E ABOBRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela grande sem casca",
+      "1 abobrinha média",
+      "1 cenoura cortada em rodelas e cozida",
+      "1 tomate grande sem pele e sem sementes",
+      "3 ramos de salsão picado",
+      "1 litro de água",
+      "1 cubo de caldo de carne",
+      "3 colheres (sopa) de azeite",
+      "1 cebola média picada",
+      "1 dente de alho picado",
+      "salsinha picada a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a berinjela e a abobrinha em cubos.",
+      "Coloque a berinjela em uma vasilha funda com água e sal para tirar o amargo.",
+      "Deixe de molho por uns 10 minutos.",
+      "Escorra a água das berinjelas.",
+      "Coloque a berinjela e a abobrinha em uma vasilha funda e tempere com sal e azeite.",
+      "Coloque a berinjela e abobrinha temperadas em uma forma retangular.",
+      "Cubra com papel alumínio e leve ao forno, pré-aquecido, por uns 20 minutos.",
+      "Retire do forno e bata no liquidificador com a cenoura, o tomate, o caldo de legumes e a água.",
+      "Reserve.",
+      "Em uma panela funda, em fogo médio, coloque o azeite e refogue a cebola picada, o alho e o salsão picado.",
+      "Adicione o creme do liquidificador e cozinhe por uns 10 minutos após levantar fervura.",
+      "Tempere com sal e pimenta se necessário.",
+      "Sirva em cumbucas individuais e polvilhe com a salsinha picada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301975-sopa-de-berinjela-e-abobrinha.html"
+}

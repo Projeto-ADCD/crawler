@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE FRANGO FÁCIL DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "500 ml de leite",
+      "240 ml de óleo de soja",
+      "4 xícaras de farinha de trigo",
+      "1 colher (chá) de sal",
+      "4 ovos inteiros",
+      "2 colheres (sopa) de fermento",
+      "Recheio",
+      "2 peitos de frango sem osso cozido",
+      "3 dentes de alho grande picado",
+      "1/2 cebola picada",
+      "300g de requeijão",
+      "1/2 pimentão picado",
+      "1/2 calabresa picada e frita",
+      "1/2 colher (chá) de caldo de galinha em pó",
+      "1/2 colher (chá) de tempero baiano",
+      "1/4 colher (chá) cominho em pó",
+      "1/4 colher (chá) de coentro em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Cozinhe todos os ingredientes, exceto o pimentão, o requeijão e a calabresa;",
+      "Após cozinhar o frango, caso fique excesso de caldo, retire e reserve;",
+      "Desfie o frango e coloque o pimentão, requeijão e calabresa frita.",
+      "Caso fique seco, colocar um pouco do caldo que foi reservado (não colocar muito, não deve ficar excesso do caldo no fundo da panela).",
+      "Massa",
+      "Bata todos os ingredientes no liquidificador.",
+      "Montagem da torta",
+      "Unte a forma com manteiga;",
+      "Coloque metade da massa na forma, colocar todo recheio e colocar o restante da massa.",
+      "Asse a 200ºC em forno pré-aquecido por 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PATRICIA FERNANDES LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303122-torta-de-frango-facil-de-liquidificador.html"
+}

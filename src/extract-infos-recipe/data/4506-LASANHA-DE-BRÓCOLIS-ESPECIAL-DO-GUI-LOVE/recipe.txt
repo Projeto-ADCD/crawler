@@ -1,0 +1,57 @@
+{
+  "nome_receita": "LASANHA DE BRÓCOLIS ESPECIAL DO GUI LOVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Molho bechamel",
+      "2,5 litros de Leite",
+      "2 cebolas médias",
+      "130 g de manteiga",
+      "130 g de farinha",
+      "noz-moscada a gosto",
+      "sal a gosto",
+      "Lasanha",
+      "1 pacote de massa fresca",
+      "1 kg de brócolis",
+      "400 g de bacon",
+      "400 g de peito de frango fatiado (ou Peito de Peru)",
+      "400 g de mussarela fatiada",
+      "200 g de mussarela para ralar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo do molho",
+      "Derreta a manteiga em uma panela. (Um molho branco tradicional)",
+      "Rale 1 cebola e junte com a manteiga para refogar.",
+      "Refogue em fogo baixo até que ela murche bem, sem deixar a manteiga queimar.",
+      "Depois da cebola já refogada, adicione aos poucos a farinha e deixe fritar um pouco.",
+      "Vai formar um tipo de massinha, não tem problema, é isso mesmo.",
+      "Após, esquente o leite, sem ferver e adicione aos poucos à panela que está com a manteiga, a cebola e a farinha.",
+      "Vá adicionando aos poucos e utilizando um fouet, não pare de mexer em nenhum momento.",
+      "Tempere com sal e noz-moscada a gosto.",
+      "Mexa por aproximadamente 30 minutos e está pronto.",
+      "Lasanha",
+      "Comece fritando o bacon, até que fique bem crocante.",
+      "Usando uma escumadeira, retire da panela e reserve.",
+      "Deixe a panela com o óleo do bacon, você vai utilizá-la.",
+      "Coloque água para ferver e coloque o brócolis para cozinhar até que esteja bem macio.",
+      "Pique o brócolis em pedaços bem pequenos, inclusive o talo, e reserve.",
+      "Pique a cebola em pedaços pequenos ou rale.",
+      "Usando a panela do bacon, descarte metade do óleo que formou e frite a cebola no restante.",
+      "Depois da cebola bem refogada no óleo, acrescente o brócolis picado, sal e refogue um pouco para dar sabor.",
+      "Montagem",
+      "Em uma assadeira grande e, de preferência alta (use a que você tiver a disposição), comece colocando o molho branco.",
+      "Faça uma camada com a massa e, por cima da massa, mais um pouco do molho branco.",
+      "Faça uma camada com o peito de frango fatiado, um camada com a mussarela fatiada e cubra com mais um pouco do molho branco.",
+      "Repita as camadas de acordo com a sua assadeira, essa receita dá até 3 camadas.",
+      "Finalize com o molho branco e a mussarela ralada.",
+      "Leva ao forno preaquecido a 230° C por 30 minutos para derreter o queijo e terminar de cozinha a massa.",
+      "Depois e só chamar a rapaziada pra mesa e receber os elogios.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GUILHERME VECCHIO GUARNIERI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300964-lasanha-de-brocolis-especial-do-gui-love.html"
+}

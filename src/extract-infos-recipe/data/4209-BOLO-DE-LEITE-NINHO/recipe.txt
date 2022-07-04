@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE LEITE NINHO",
+  "ingredientes": {
+    "PARA A MASSA:": [
+      "4 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de leite ninho",
+      "1 xícara de água",
+      "1 xícara de óleo",
+      "3 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento para bolos"
+    ],
+    "SUGESTÃO DE CALDA:": [
+      "2 xícara de leite liquido",
+      "1 xícara de leite ninho",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata os ovos na potência máxima por uns dois minutos.",
+      "Acrescente o açúcar e deixe bater até ficar um creme clarinho.",
+      "Acrescente o leite ninho e bata só para misturar. Reserve",
+      "Em uma panelinha coloque a água e o óleo para esquentar, não precisa ferver. Reserve",
+      "Na bacia da batedeira, acrescente 1 xícara de farinha de trigo e misture delicadamente com a ajuda de um fuê ou colher, alterne o trigo com a água e óleo morno.",
+      "Depois de acrescentar todos os ingredientes e misturar bem, coloque o fermento.",
+      "Despeje a massa em uma forma untada com manteiga e farinha e leve ao forno a 180º por 30 a 35 mins.",
+      "Calda:",
+      "Coloque todos os ingredientes em uma panelinha e deixe ferver, mexa para o leite não subir.",
+      "Deixa esfriar um pouco e coloque por cima do bolo. Fica bem molhadinho.",
+      "Obs: Se preferir pode fazer um brigadeiro de sua preferência para colocar por cima, essa massa combina com tudo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MRCAKETHE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301574-bolo-de-leite-ninho.html"
+}

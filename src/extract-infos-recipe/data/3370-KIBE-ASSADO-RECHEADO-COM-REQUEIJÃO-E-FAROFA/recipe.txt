@@ -1,0 +1,46 @@
+{
+  "nome_receita": "KIBE ASSADO RECHEADO COM REQUEIJÃO E FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de trigo para kibe",
+      "2 litros de água quente",
+      "1 kg de carne moída magra",
+      "1 cebola grande bem picada",
+      "5 dentes de alho amassados",
+      "4 maços de manjericão",
+      "1 maço de hortelã",
+      "15 colheres (sopa) de azeite",
+      "sal e pimenta à gosto",
+      "azeite para untar",
+      "RECHEIO:",
+      "2 copos de requeijão de búfala",
+      "200 g de mussarela em cubos",
+      "10 colheres de farofa pronta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Antes de começar, deixe o kibe em uma vasilha com a água bem quente durante 15 a 20 minutinhos",
+      "Enquanto isso, misture todos os ingredientes em um recipiente",
+      "Se puder, amasse com a mão o manjericão e a hortelã, antes de colocar, para intensificar ainda mais o aroma",
+      "Escorra a água do kibe (uma dica: coloque o kibe em um pano de prato limpo e aperte bem, pois assim você consegue deixar ainda mais sequinho)",
+      "Misture o kibe com os outros ingredientes e amasse tudo muito bem"
+    ],
+    "RECHEIO:": [
+      "Misture todo o conteúdo dos dois copos de requeijão de búfala com a farofa, até que você veja o requeijão tomando uma nova cor.",
+      "Após ver a mistura ficar quase homogênea, adicione a mussarela em cubos bem pequenos e misture outra vez"
+    ],
+    "MONTAGEM:": [
+      "Pegue um refratário de vidro e unte com azeite, espalhando bem",
+      "Em seguida, coloque metade do kibe no refratário de modo a acomodar bem amassadinho",
+      "Pegue a mistura de recheio e espalhe em todo o kibe com uma colher, até cobrir tudo",
+      "Em seguida coloque a outra metade do kibe por cima e espalhe até cobrir o recheio",
+      "Pré-aqueça o forno e depois coloque para assar por 15 minutos à 220°C para não secar muito e ficar com o sabor intenso da carne",
+      "Agora é só servir"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABRIEL LOPES GHM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303493-kibe-assado-recheado-com-requeijao-e-farofa.html"
+}

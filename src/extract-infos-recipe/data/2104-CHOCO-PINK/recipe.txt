@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CHOCO PINK",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 colheres (sopa) de manteiga",
+      "1 pacote de suco de morango ",
+      "5 colheres (sopa) de essência de cereja/morango",
+      "4 colheres (sopa) de corante alimentício (vermelho)",
+      "2 e 1/2 xícara (leite) de farinha de trigo",
+      "1 xícara (leite) de açúcar refinado",
+      "2 colheres (sobremesa) de fermento em pó",
+      "300 ml de leite desnatado/integral",
+      "1 pitada de sal",
+      "1/2 limão espremido",
+      "1 pacote de granulado sabor chocolate",
+      "Recheio",
+      "300 ml de chamtili",
+      "Cobertura",
+      "1 caixa de leite condensado ",
+      "1 caixa de creme de leite ",
+      "4 colheres de achocolatado",
+      "2 colheres (sopa) de manteiga "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o auxílio de uma batedeira, bata os ovos, farinha, leite e a açúcar até obter uma mistura homogênea, em seguida acrescente a manteiga, tang, suco de meio limao, sal, essência e fermento, bata até misturar todos os ingredientes.",
+      "Em seguida acrescente a manteiga, o suco em pó, suco de meio limao, sal, essência e fermento, bata até misturar todos os ingredientes.",
+      "Acrescente então o corante até ficar na tonalidade que deseja, lembrando que quando for para o forno a massa tende a escurecer.",
+      "Por último, acrescente o granulado e mexa com o auxílio de uma espátula até que a massa e o granulado se misturem bem.",
+      "Unte uma forma com manteiga e farinha de trigo, despeje a massa na forma e leve ao forno pré aquecido a 180° C por 40 minutos.",
+      "Em quanto isso com o auxílio da batedeira bata o chantili em velocidade alta durante 6 minutos, até atingir o ponto desejado, reserve e leve a geladeira.",
+      "Em uma panela acrescente 2 colheres de manteiga, leite condensado e 4 colheres de achocolatado, mexa em fogo baixo até atingir o ponto de brigadeiro",
+      "Assim que atingir o ponto, retire do fogo e acrescente o creme de leite, mexa até ficar homogêneo, reserve e leve a geladeira.",
+      "Após os 40 minutos, retire o bolo do forno e deixe-o esfriar, corte-o ao meio, rechei com chamtilly, reposicione o topo do bolo e o cubra com o brigadeiro gelado, confeite com o granulado por cima."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SABRINA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306003-choco-pink.html"
+}

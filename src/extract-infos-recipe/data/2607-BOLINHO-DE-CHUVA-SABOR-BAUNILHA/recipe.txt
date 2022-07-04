@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA SABOR BAUNILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) essência de Baunilha",
+      "2 copos (americano) de farinha de trigo",
+      "1/2 copo (americano) de leite",
+      "1 colher bem cheia (sobremesa) de fermento em pó",
+      "500 ml de óleo de girassol para fritar",
+      "1 colher (sopa) de açúcar refinado ou confeiteiro",
+      "1 collher (chá) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo junto com a açúcar, depois adicione a essência de baunilha, mexa até misturar bem.",
+      "Adicione o leite e mexa mais um pouco.",
+      "Coloque um copo de farinha de trigo e misture até dissolver, em seguida coloque mais um copo de farinha de trigo misture e comece a bater a massa até ficar homogênea.",
+      "Enquanto isso coloque o óleo para esquentar, não pode ficar muito quente, deve estar em torno de 65° C.",
+      "Adicione o fermento em pó e mexa.",
+      "Use uma colher (sopa) como medida para fazer os bolinhos, para isto, basta pegar a massa com a colher e pingar no óleo a panela não pode ser grande, pois a medida que a massa é pinga no óleo",
+      "A profundidade deve ser suficiente para que a massa gire e forme os bolinhos, ou seja, a massa deve nada no óleo, isso é o que permitirá que o bolinho asse por dentro, pois o bolinho vai virando sozinho aos poucos",
+      "As vezes é preciso virar.",
+      "O óleo não pode superaquecer, por isso, frite em fogo baixo.",
+      "Quando estiver dourados estão prontos, na primeira fritura recomenda-se abrir um bolinho para ter certeza que assou por dentro, caso esteja cru basta desligar o óleo para esfriar um pouco antes de voltar a fritar novamente.",
+      "A medida que for fritando os bolinhos coloque-os num escorredor de alumínio (pode ser de macarrão, ou cuzcuzeira), isso vai deixar os bolinhos crocantes por fora.",
+      "Com os bolinhos já fritos retire do escorredor e coloque-os numa tigela.",
+      "Misture o açúcar refinado com a canela em pó e polvilhe sob os bolinhos.",
+      "Estão prontos, podem ser servidos com café ou chá.",
+      "O modo de preparo foi detalhado para que você acerte a receita, mas é super-rápido pra fazer."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "GEOVANE SANTOS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304823-bolinho-de-chuva-sabor-baunilha.html"
+}

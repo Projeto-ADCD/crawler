@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COSTELA NA PRESSÃO COM CEBOLAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1kg de costela bovina",
+      "1kg de cebolas brancas",
+      "4 tabletes de caldo carne",
+      "4 dentes de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe a costela em pedaços grandes e reserve.",
+      "Corte as cebolas em rodelas grossas.",
+      "Forre o fundo da panela de pressão com parte das rodelas de cebola e vá alternando com a costela, após acrescente os tabletes e os dentes de alho apenas descascados.",
+      "Deixe ferver por cerca de uma hora na pressão, sirva com um bom baião de feijão verde."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAMARCK DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300412-costela-na-pressao-com-cebolas.html"
+}

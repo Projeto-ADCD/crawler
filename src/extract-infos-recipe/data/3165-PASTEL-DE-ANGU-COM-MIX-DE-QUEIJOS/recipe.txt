@@ -1,0 +1,44 @@
+{
+  "nome_receita": "PASTEL DE ANGU COM MIX DE QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de fubá",
+      "1 litro de água",
+      "sal a gosto",
+      "1 colher (sopa) de polvilho azedo",
+      "1 saquinho ou pano de prato",
+      "300 g de queijo mussarela Président picada",
+      "300 g de queijo azul Président picado",
+      "300 g de queijo parmesão Président picado",
+      "300 g de queijo gruyére Président picado ",
+      "óleo da sua preferência "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe toda a água ferver e adicione sal",
+      "Em seguida, deixe em fogo médio e adicione o fubá, mexendo sem parar, para não criar pelotinhas",
+      "Quando já estiver cremoso e desgrudando da panela, desligue o fogo",
+      "Tire a massa pronta da panela e leve para uma superfície fria, como o mármore",
+      "Abra delicadamente a massa com as mãos e espere esfriar um pouco",
+      "Adicione uma colher (sopa) de polvilho azedo",
+      "Sove a massa, sempre das pontas para o meio",
+      "Quando todo o polvilho já estiver aderido, enrole toda a massa em um saquinho ou em um pano de prato",
+      "Tire um pedaço de massa equivalente a um pastelzinho",
+      "Abra a massa com os dedos, não deixando nem muito grossa e nem muito fina (não use o rolo, porque irá grudar)",
+      "Quando estiver aberta, é hora de rechear: em cada pastel, coloque um pouquinho de cada queijo Président: mussarela, queijo azul, parmesão e gruyére",
+      "Depois feche a massa, use a boca de um copo para cortar as bordas de maneira uniforme e repita o processo até o fim da massa",
+      "Quando todos os pastelzinhos estiverem prontos, leve ao frezer até congelar (isso vai ajudar que os pastéis não abram na hora da fritura)",
+      "Quando estiverem congelados, basta ferver o óleo em uma frigideira e coloque os pastéis",
+      "Mantenha em fogo médio e fique atento para fritar ambos os lados sem queimar",
+      "Deixe os pastéis escorrerem o óleo em um papel toalha e agora é só se deliciar!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Luisa Pinheiro"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303791-pastel-de-angu-com-mix-de-queijos.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA DE FEIJÃO FRADINHO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de feijão fradinho cozido (não deixar muito mole)",
+      "1 cenoura ralada",
+      "1 pimentão verde em cubos",
+      "1 tomate cortado em cubos",
+      "2 ovos cozidos",
+      "sal e azeite a gosto",
+      "10 azeitonas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Depois de picados, tempere a gosto"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302850-salada-de-feijao-fradinho-simples.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 g fermento biológico seco",
+      "3 colheres (sopa) açúcar",
+      "200 ml água morna",
+      "50 ml azeite",
+      "orégano e molho de tomate a gosto",
+      "1 pitada de sal",
+      "400 g farinha trigo",
+      "300 g calabresa fatiada",
+      "500 g mussarela ralada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento, o açúcar e a água morna",
+      "Reserve por 15 minutos tampado com um pano",
+      "Acrescente à mistura, o azeite, o sal e mexa acrescentando a farinha de trigo aos poucos",
+      "Mexa com a mão até dar o ponto de não grudar nas mãos e na vasilha",
+      "Reserve tampado por 45 minutos",
+      "Corte a massa em 2 partes, abra a primeira em uma superfície enfarinhada e forre em um tabuleiro de fundo removível até nas laterais",
+      "Passe o molho de tomate e acrescente um pouco do queijo, um pouco da calabresa e salpique o orégano",
+      "Com a outra parte abra e alterne camadas de massa, molho, queijo, calabresa e orégano, até que a última camada seja de recheio",
+      "Leve ao forno a 180° C por 40 minutos e depois de assada retire a lateral"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIANA SARTI DO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299828-bolo-de-pizza.html"
+}

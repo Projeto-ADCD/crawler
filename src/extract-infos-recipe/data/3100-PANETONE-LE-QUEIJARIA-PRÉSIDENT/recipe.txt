@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PANETONE LE QUEIJARIA PRÉSIDENT",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farinha de trigo",
+      "80g de manteiga",
+      "60 g de açúcar",
+      "2 ovos",
+      "20g de fermento biológico fresco",
+      "100 g de queijo provolone em cubos Président",
+      "50 g de queijo parmesão ralado Président",
+      "água gelada para dar ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, faça uma mistura com o fermento, um pouco de farinha e água, reserve (espere dobrar de volume)",
+      "Misture a farinha, o açúcar, a manteiga e os ovos e a mistura já feita",
+      "Coloque a água até dar o ponto (deixe com textura de massa de pão) ",
+      "Junte todos os queijos",
+      "Leve para assar, em forno a 180° C, por cerca de 40 minutos a 1 hora, dependendo do forno"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Catiane dos Santos Cabral"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303876-panetone-le-queijaria-president.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CARNE MOÍDA COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída (usei acém )",
+      "1/2 cebola branca bem picadinha",
+      "5 talinhos cebolinha verde",
+      "5 talinhos de cheiro-verde",
+      "sal, pimenta-do-reino branca e páprica picante a gosto",
+      "2 batatas médias raladas no ralo grosso e cruas",
+      "1 dente de alho bem picadinho, ralado no ralo fino ou bem socado no pilão",
+      "fatias de bacon a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola, a cebolinha e a salsinha bem miúdos",
+      "Junte o dente de alho e tempere com sal e pimenta-do-reino branca",
+      "Misture muito bem com a batata ralada e a páprica, prove o sal",
+      "Misture também a carne moída e prove novamente",
+      "Não esqueça que a batata rouba um pouco e sal, coloque mais uma pitadinha",
+      "Numa forma de bolo inglês untada com óleo de milho ou manteiga ou margarina, vá colocando a massa de carne",
+      "Após cobrir com bacon e levar ao forno preaquecido a médio",
+      "Deixe de 40 a 50 minutos (depende do forno)",
+      "Vai ficar com um pouco de líquido no fundo",
+      "Desligue e aguarde uns 10 minutos para tirar o líquido.",
+      "Fatie e sirva com salada e arroz."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELO GAIARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304981-bolo-de-carne-moida-com-batata.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SORVETE DE LICOR DE CASSIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de creme de leite fresco",
+      "400 ml de licor de marula",
+      "200 ml de leite integral",
+      "5 colheres (chá) de açúcar",
+      "2 colheres (chá) de ágar ágar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o creme de leite na batedeira com as 5 colheres de açúcar até dar o",
+      "ponto de chantili",
+      "Despeje o chantili com a ajuda de uma espátula dentro do copo do liquidificador",
+      "Coloque o licor de marula",
+      "E por último os 200 ml de leite integral",
+      "Bata por cerca de 5 minutos ",
+      "Coloque as 2 colheres de ágar ágar e misture bem",
+      "Transfira a mistura do liquidificador para a sorveteira por cerca de 30 minutos ou até engrossar a massa.",
+      "Isso vai depender do modelo e a potência da sorveteira utilizada",
+      "Quando estiver no ponto, guarde o sorvete em um recipiente de 1 litro e deixe gelar",
+      "no freezer por no mínimo 4 horas"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA CAROLINA DINIZ OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300825-sorvete-de-licor-de-cassis.html"
+}

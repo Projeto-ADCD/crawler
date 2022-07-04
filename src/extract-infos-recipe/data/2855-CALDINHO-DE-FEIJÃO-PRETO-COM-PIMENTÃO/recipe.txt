@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CALDINHO DE FEIJÃO PRETO COM PIMENTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de feijão-preto cozido (com o caldo)",
+      "1 e 1/2 xícara (chá) de caldo de legumes caseiro (ou água)",
+      "1/2 pimentão vermelho",
+      "1/2 cebola",
+      "1 dente de alho",
+      "1 colher (sopa) de azeite",
+      "sal e pimenta-do-reino moída na hora a gosto",
+      "salsinha picada para servir",
+      "caldo de limão a gosto para servir"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e pique fino a cebola e o alho.",
+      "Lave, seque e corte o pimentão ao meio, descarte as sementes e corte uma das metades em cubos pequenos.",
+      "Aproveite a outra metade em outra preparação.",
+      "Leve uma panela média ao fogo médio.",
+      "Quando aquecer, regue com o azeite, acrescente a cebola e tempere com uma pitada de sal.",
+      "Refogue até murchar, junte o pimentão picado e refogue por mais 2 minutos.",
+      "Por último, acrescente o alho e mexa por 1 minuto para perfumar.",
+      "Adicione o feijão cozido, regue com o caldo de legumes caseiro (ou água) e misture bem.",
+      "Tempere com sal e pimenta a gosto e deixe cozinhar até ferver.",
+      "Desligue o fogo e bata com um mixer na própria panela até ficar liso (se preferir, bata no liquidificador",
+      "Nesse caso, segure a tampa com um pano de prato para evitar que o vapor quente empurre e abra a tampa).",
+      "Sirva a seguir com salsinha picada e caldo de limão."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GILBERTO AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304275-caldinho-de-feijao-preto-com-pimentao.html"
+}

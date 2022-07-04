@@ -1,0 +1,63 @@
+{
+  "nome_receita": "FRANGO RICO COM FAROFA DE QUIABO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Frango",
+      "1 frango médio cortado",
+      "1 bandeja de moela (1 kg)",
+      "1/2 bandeja de fígado (1/2 kg)",
+      "01 bandeja de coração (1 kg)",
+      "1 pimentão picado",
+      "4 tomates picados",
+      "2 cebolas picadas",
+      "10 dentes de alho amassados",
+      "Sal e pimenta a gosto",
+      "½ colher (sobremesa) tomilho (opcional)",
+      "½ xícara de cheiro verde picado",
+      "250 ml de óleo de soja para fritura",
+      "150 ml de água",
+      "100 ml de azeite",
+      "50 ml de shoyo",
+      " ",
+      "Farofa de quiabo",
+      "15 a 20 quiabos",
+      "1 cebola grande picada",
+      "1/2 xícara de cheiro verde picado",
+      "100 ml de azeite",
+      "01 pimenta verde ou vermelha picada (opcional)",
+      "farinha de mandioca ou de milho (200 a 300 g)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "FRANGO": [
+      "Tempere o frango, a moela e o coração (exceto o fígado) com sal e metade do alho amassado e deixe descansar por 10 minutos.",
+      "Em uma panela de pressão tamanho grande (acima de 7 l), coloque o óleo e espere esquentar.",
+      "Feito isso, vá colocando porções pequenas de frango, moela e coração para dourarem até ficarem sequinhos.",
+      "Retire o frango frito e reserve.",
+      "Repita o processo com o restante do frango e miúdos temperados.",
+      "Ao término da fritura, quando morno ou frio o óleo da panela, retire-o totalmente. Coloque o azeite e o alho nesta mesma panela e aguarde murchar um pouco, logo após, acrescente o tomates, o pimentão, a cebola e o tomilho.",
+      "Quando quase dourados, adicione o shoyo e deixe por mais um minuto. Neste molho adicione a água e mexa. Adicione o frango, os miúdos que foram fritos juntamente com o frango e o fígado. Mexa e deixe ferver.",
+      "Tampe a panela de pressão e espere 20 minutos de cozimento sob pressão.",
+      "Desligue a panela. Aguarde a pressão escapar normalmente e em seguida, abra a panela, acerte o sal.",
+      "Se houver muito molho, deixe por alguns minutos a panela no fogo sem a pressão, até que alcance uma consistência ideal.",
+      " "
+    ],
+    "FAROFA DE QUIABO": [
+      "Lave os quiabos e seque-os bem.",
+      "Em uma tábua, corte-os em rodelas fininhas e reserve.",
+      "Em uma panela, coloque o azeite e deixe esquentar, mas não muito.",
+      "Despeje os quiabos e não mexa, para evitar liga.",
+      "Os quiabos devem cozinhar no azeite sem desmancharem-se por cerca de 10 minutos.",
+      "Em seguida, acrescente a cebola, o sal, a pimenta de cheiro (opcional) e doure-os um pouco. Desligue, espere amornar.",
+      "Acrescente o cheiro verde, a farinha de mandioca ou de milho à gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "No momento da fritura, não preencher totalmente o fundo da panela com o frango e miúdos, pois assim, procedendo, evita-se que o frango acumule água, grude e desmanche.\nO ponto ideal da farofa é uma farofa úmida, por isso, ser importante incorporar a farinha aos poucos.\nPara Servir, despeje o frango em uma travessa e salpique cheiro verde bem picadinho. Sirva com arroz e farofa de quiabo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARGARIDA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305990-frango-rico-com-farofa-de-quiabo.html"
+}

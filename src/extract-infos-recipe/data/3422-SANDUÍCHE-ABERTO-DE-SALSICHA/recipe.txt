@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SANDUÍCHE ABERTO DE SALSICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de salsicha",
+      "1 vidro de pepino em conserva",
+      "1 pacote de queijo",
+      "1 pão de forma",
+      "Para a maionese:",
+      "2 ovos",
+      "azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a salsicha cozida, o queijo e o pepino, coloque em uma bacia e reserve",
+      "Bata a maionese e misture nos outros ingredientes",
+      "Passe no pão de forma e sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MALEFICENT DARKNESS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303402-sanduiche-aberto-de-salsicha.html"
+}

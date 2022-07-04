@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ALMÔNDEGA DE GRÃO-DE-BICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de azeite",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "pimenta-do-reino a gosto",
+      "1 colher (chá) de cominho em pó",
+      "1/2 xícara de cenoura",
+      "1 xícara de grão-de-bico",
+      "1 ovo",
+      "1 xícara de farinha de rosca",
+      "1/4 de xícara de cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o grão-de-bico de molho por 12 horas.",
+      "Em seguida, cozinhe por 20 minutos na panela de pressão e escorra a água.",
+      "Em uma panela, aqueça o azeite e refogue a cebola e o alho.",
+      "Acrescente o sal, a pimenta-do-reino, o cominho e a cenoura.",
+      "Tranfira essa mistura para um processador e adicione o grão-de-bico, o ovo, a farinha de rosca, a pimenta-do-reino e o cheiro-verde. ",
+      "Bata bem até formar uma massa homogênea. ",
+      "Leve à geladeira por 1 hora.",
+      "Depois, faça bolinhas com a massa e sele-as em uma panela com azeite. ",
+      "Transfira as almôndegas para uma travessa e leve ao forno preaquecido (200° C), por cerca de 10 minutos. ",
+      "Sirva com molho de tomate e aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300407-almondega-de-grao-de-bico.html"
+}

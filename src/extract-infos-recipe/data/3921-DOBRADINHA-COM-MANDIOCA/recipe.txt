@@ -1,0 +1,45 @@
+{
+  "nome_receita": "DOBRADINHA COM MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bucho",
+      "1 kg de mandioca",
+      "300g de linguiça calabresa",
+      "300 g de carne-seca",
+      "300 g de bacon",
+      "1 pimentão amarelo",
+      "1 pimentão vermelho",
+      "1 tomate",
+      "1 cebola",
+      "2 limões taiti",
+      "tempero de sal e alho a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o bucho bem limpo e pique em quadradinhos pequenos ou em tiras",
+      "Coloque o bucho em uma panela com água para ferver",
+      "Esprema os limões sobre o bucho e coloque-os para ferver junto",
+      "Quando começar a fervura, aguarde por 5 minutos e troque por água fria, levando ao fogo novamente",
+      "Repita esse passo por mais 5 vezes ou até que o cheiro do bucho desapareça",
+      "Enquanto o bucho ferve, pique bem pequeno o bacon, a carne-seca e a calabresa",
+      "Dessalgue a carne-seca e separe",
+      "Coloque o bacon em uma panela com pouca água (para não grudar) e mexa até fritar na própria banha e ficar bem sequinho",
+      "Frite a carne-seca na mesma banha que o bacon deixou",
+      "Frite também a calabresa",
+      "Separe os três ingredientes",
+      "Pique a cebola, o tomate e os pimentões",
+      "Doure a cebola e depois adicione os tomates e as carnes (bacon, carne-seca e calabresa)",
+      "Cozinhe a mandioca até ficar firme (não pode ser muito macia)",
+      "Já com o bucho cozido, adicione todos os ingredientes na panela e mexa bem devagar, para que a mandioca não derreta",
+      "Deixe ferver por 10 minutos (ou a seu gosto) para apurar o sabor",
+      "Adicione pimenta-do-reino e tempero de sal e alho a gosto",
+      "Sirva bem quente"
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LEONARDO BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302373-dobradinha-com-mandioca.html"
+}

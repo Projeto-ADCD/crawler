@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SALGADINHO FIT DE BATATA DOCE COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata doce",
+      "100 g de frango desfiado",
+      "3 colheres de aveia",
+      "sal a gosto",
+      "1 ovo pra empanar os bolinhos",
+      "3 colheres de aveia pra empanar os bolinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata",
+      "Amasse a batata",
+      "Adicione o frango desfiado e a aveia ",
+      "Amasse até formar uma massa firme",
+      "Coloque um recheio de sua preferência",
+      "Bata o ovo",
+      "Passe o bolinho no ovo",
+      "Passe na aveia e reserve",
+      "Você pode assar os bolinhos no forno (10 minutos a 180°C) ou na airfryer (10 minutos a 200°C) "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATTY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303301-salgadinho-fit-de-batata-doce-com-frango.html"
+}

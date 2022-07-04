@@ -1,0 +1,44 @@
+{
+  "nome_receita": "FRANGO COM AMÊNDOAS DE DAMASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 filés de peito de frango com 2 cm de altura",
+      "1 medida de 120 ml de amêndoas de damasco",
+      "20 tomates cereja",
+      "1 colher (sopa) mostarda amarela",
+      "1 limão siciliano",
+      "sal a gosto",
+      "1 colher (café) de coentro desidratada*",
+      "1 colher (café) de cebola desidratada*",
+      "1 colher (café) de alho desidratado*",
+      "1 colher (café) de aipo desidratado*",
+      "1 colher (café) de manjericão desidratado*",
+      "1 colher (café) de mostarda desidratada*",
+      "1 colher (café) de salsa desidratada*",
+      "pimenta-do-reino moída na hora a gosto",
+      "Azeite para fritar",
+      "120 ml de água filtrada",
+      "*ou use tempero pronto sem adicao de sodio."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés de frango com sal, limão espremido e os temperos secos.",
+      "Deixe descansar por 30 minutos em temperatura ambiente.",
+      "Esquente o azeite em uma frigideira antiaderente e leve 2 filés por vez.",
+      "Frite 3 minutos de cada lado até ficar dourado",
+      "Quando o fundo da frigideira estiver seco e e bem dourado, despeje 60 ml de água e mexa com uma espatula de madeira, desgrudando a crosta do fundo.",
+      "Coloque metade dos tomates cereja, estoure-os com a espatula e mexa tudo",
+      "Adicione metade da mostarda, abaixe o fogo e deixe a água secar.",
+      "Retire os filés junto com os tomates e reserve.",
+      "Despeje o restante da água na frigideira e coloque metade das amêndoas.",
+      "Reduza até ficar um creme.",
+      "Retire este molho e despeje por cima dos filés.",
+      "Repita a operação para os outros 2 filés e sirva com arroz basmati."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "WAGNER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300385-frango-com-amendoas-de-damasco.html"
+}

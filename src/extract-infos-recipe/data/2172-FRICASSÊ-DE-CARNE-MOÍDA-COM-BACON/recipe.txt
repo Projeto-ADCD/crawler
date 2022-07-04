@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FRICASSÊ DE CARNE MOÍDA COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "100 g de bacon",
+      "1 caixinha de creme de leite",
+      "1 copo de requeijão cremoso",
+      "1 lata de milho verde",
+      "200 g de queijo mussarela",
+      "1 batata palha",
+      "1 tomate",
+      "1 cebola",
+      "3 dentes de alho",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon em cubos pequenos e frite, tire o excesso de óleo;",
+      "Junte ao bacon a cebola e o alho triturados para refogar;",
+      "Coloque a carne e tempere com sal e pimenta a gosto, acrescente o tomate;",
+      "Deixe a carne cozinhar em fogo baixo, quando começar a soltar água, tire o líquido da panela e reserve em outro recipiente (a carne deve ficar bem sequinha);",
+      "No liquidificador bata o caldo da carne, o requeijão cremoso, o creme de leite e o milho verde escorrido por 3 minutos;",
+      "Em um refratário coloque a carne e a massa, por cima coloque o queijo;",
+      "Leve ao forno até o queijo gratinar, finalize com batata palha."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SARA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305788-fricasse-de-carne-moida-com-bacon.html"
+}

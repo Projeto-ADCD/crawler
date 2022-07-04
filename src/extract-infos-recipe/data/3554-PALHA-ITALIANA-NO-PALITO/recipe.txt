@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PALHA ITALIANA NO PALITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "4 colheres (sopa) de achocolatado em pó ",
+      "1 colher (sopa) de manteiga ou margarina",
+      "1 pacote de biscoito maisena",
+      "chocolate meio amargo a gosto (pode branco, vai da sua preferência. O ao leite pode deixar muito enjoativo)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite condensado, o achocolatado e a manteiga",
+      "Em fogo médio, misture até dar o ponto de brigadeiro (quando tiver soltando do fundo da panela)",
+      "Quando chegar ao ponto, desligue o fogo e coloque os biscoitos maisena (triturados) no brigadeiro, misture até que se une por inteiro",
+      "Depois reserve.",
+      "Enquanto o seu brigadeiro esfria, pique o chocolate meio amargo e derreta de 20 em 20 minutos no micro-ondas ou em banho-maria até estar totalmento derretido",
+      "Logo após, faça bolinhas de brigadeiros e coloque-os nos palitos de picolé",
+      "Por fim, banhe os docinhos no chocolate derretido e decore como quiser.",
+      "Eu coloquei a farofa do biscoito maisena por cima"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "LOREN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303150-palha-italiana-no-palito.html"
+}

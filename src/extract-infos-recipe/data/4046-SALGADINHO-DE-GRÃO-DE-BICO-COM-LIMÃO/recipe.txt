@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SALGADINHO DE GRÃO-DE-BICO COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de grão-de-bico cozido e escorrido (aproximadamente 500 g)",
+      "1 ovo inteiro",
+      "sal a gosto",
+      "5 colheres (sopa) de farinha de trigo",
+      "3 dentes de alho amassados",
+      "50 g de queijo ralado da sua preferência (pode ser parmesão, muçarela ou prato)",
+      "50 ml de sumo do limão coado",
+      "pimenta-do-reino, orégano e páprica a gosto",
+      "2 colheres (sopa) de salsa e cebolinha bem picadinhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse o grão-de-bico até que formar uma pasta.",
+      "Pode ser com um mixer ou com um espremedor de batatas",
+      "Não tem problema caso fique alguns pedacinhos",
+      "Acrescente os demais ingredientes",
+      "Misture muito bem",
+      "Faça bolinhas com as mãos ou com o auxílio de 2 colheres.",
+      "Se ficar muito mole, coloque mais uma colher de trigo.",
+      "Aqueça uma frigideira funda com óleo para fritar.",
+      "Os bolinhos precisam devem ficar submersos.",
+      "Também pode utilizar fritadeira elétrica ou sem óleo (a vapor)",
+      "Deixe dourar e retire para escorrer em papel-toalha"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "DANIELA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302060-salgadinho-de-grao-de-bico-com-limao.html"
+}

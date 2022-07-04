@@ -1,0 +1,22 @@
+{
+  "nome_receita": "VITAMINA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de suco de laranja gelado",
+      "1 colher (sopa) de beterraba crua e ralada",
+      "4 colheres (sopa) de neston 3 cereais",
+      "2 colheres (sopa) de açúcar mascavo",
+      "2 cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no copo do liquidificador e bata.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304361-vitamina-especial.html"
+}

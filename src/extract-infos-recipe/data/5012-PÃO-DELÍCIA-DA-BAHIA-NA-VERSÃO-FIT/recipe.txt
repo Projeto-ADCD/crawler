@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO DELÍCIA DA BAHIA NA VERSÃO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo integral",
+      "100 ml de óleo de coco",
+      "45 g de açúcar demerara",
+      "10 g de sal",
+      "1 ovo",
+      "2 sachês de fermento biológico",
+      "350 ml de leite sem lactose morno",
+      "50 g de manteiga sem lactose derretida",
+      "queijo ralado a gosto",
+      "200 g de qualquer queijo sem lactose em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha funda, adicione metade do leite com o fermento, o óleo, o açúcar,",
+      "o ovo e o sal.",
+      "Mexa bem",
+      "Adicione a farinha aos poucos e sove com as mãos, sempre que necessário adicione",
+      "um pouco da outra metade do leite",
+      "Divida a massa em porções de 20 g e adicione 1 cubinho de queijo no centro, em",
+      "seguida faça as bolinhas",
+      "Coloque em uma assadeira grande untada com óleo ou com papel-manteiga, deixe um",
+      "espaço de 0,5 cm entre elas",
+      "Espere até a massa dobrar de tamanho (40 a 60 minutos)",
+      "Asse no forno com temperatura baixa (170° C) de 20 a 25 minutos",
+      "Ao retirar os pães, pincele manteiga e adicione queijo ralado a gosto "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "BRUNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299703-pao-delicia-da-bahia-na-versao-fit.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO MESCLADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "200 ml de leite morno",
+      "1/2 xicara de óleo",
+      "1 colher (chá) de essência de baunilha",
+      "2 xicaras de açucar",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "3/4 de xícara de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o óleo, o açúcar, a farinha de trigo e a essência de baunilha até virar uma massa homogênea",
+      "Acrescente o fermento e bata por 20 segundos",
+      "Divida a massa em duas vasilhas e em uma delas acrescente o chocolate em pó e misture",
+      "Em uma forma untada despeje primeiro metade da massa branca, depois a de chocolate e cubra com o restante da massa branca",
+      "Leve ao forno médio (200° C) por 30 minutos, após isso abra o forno e espete com um garfo, se o garfo sair limpo desligue o forno",
+      "Deixe a forma dentro do forno por aproximadamente 10 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FRANCIELE MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305522-bolo-mesclado.html"
+}

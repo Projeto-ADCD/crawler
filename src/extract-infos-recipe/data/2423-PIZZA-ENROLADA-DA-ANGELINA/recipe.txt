@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PIZZA ENROLADA DA ANGELINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de fermento biológico fresco",
+      "900 g de farinha de trigo",
+      "250 ml de óleo de soja",
+      "250 ml de leite morno",
+      "2 ovos",
+      "1 colher (sobremesa) de sal",
+      "1 colher (sobremesa) de açúcar",
+      "Recheio",
+      "500 gramas de presunto",
+      "500 g de mussarela",
+      "1 sachê de molho de tomate",
+      "3 tomates cortados em rodelas",
+      "2 cebolas cortadas em rodelas",
+      "orégano a gosto",
+      "gema para pincelar",
+      "margarina para untar a forma",
+      "farinha de trigo para polvilhar na forma"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento com o açúcar e o sal.",
+      "Acrescente um pouco de leite morno para ajudar a dissolver.",
+      "Coloque a farinha de trigo na mesa, deixando um buraco no meio.",
+      "Acrescente todos os ingredientes da massa e misture com as mãos sem sovar muito.",
+      "Coloque em um recipiente e cubra com pano úmido.",
+      "Deixe descansar por 2 horas.",
+      "Coloque em assadeira untada com margarina e polvilhada com farinha de trigo.",
+      "Leve ao forno 200° C por aproximadamente 30 minutos.",
+      "Divida a massa em 6 porções.",
+      "Abra cada porção com um rolo em formato retangular.",
+      "Recheie com mussarela, presunto, molho de tomate, cebola, tomate e orégano."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANGELINA BELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305252-pizza-enrolada-da-angelina.html"
+}

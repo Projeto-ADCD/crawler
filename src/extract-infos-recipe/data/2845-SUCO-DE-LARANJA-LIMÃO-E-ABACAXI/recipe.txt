@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE LARANJA, LIMÃO E ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 limões",
+      "6 laranjas",
+      "1 abacaxi",
+      "600 ml de água",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, faça o suco de laranja com limão",
+      "Depois, pegue o abacaxi corte em fatias e acrescente ao suco",
+      "Bata no liquidificador e pronto "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GASPAR SERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304294-suco-de-laranja-limao-e-abacaxi.html"
+}

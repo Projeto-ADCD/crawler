@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MINI PIZZA DE PÃO DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 fatias de pão de forma",
+      "1 colher (sobremesa) de molho de tomate sabor pizza",
+      "200 g de mussarela ralada ou fatiada",
+      "tomate em rodelas a gosto",
+      "orégano e chimi churri a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma forma de alumínio grande, disponha as 6 fatias de pão de forma, como se fossem massas de pizza",
+      "Leve ao forno preaquecido a 200° C por uns 5 minutos, apenas para dar uma leve tostada. (cuidado para não queimar)",
+      "Retire do forno e espalhe, aproximadamente, 1 colher (sobremesa) de molho pronto sabor pizza.",
+      "Espalhe a mussarela, coloque as fatias de tomate e salpique orégano e chimi churri a gosto.",
+      "Volte ao forno, agora apenas para derreter o queijo. Q",
+      "uem gostar, pode colocar presunto, calabresa, ou frango desfiado.",
+      "Use a imaginação."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "DANIEL FERNANDA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304598-mini-pizza-de-pao-de-forma.html"
+}

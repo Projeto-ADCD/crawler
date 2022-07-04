@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA DE ARROZ DA VÓ VANDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de arroz cozido (pode ser sobras)",
+      "1 cenoura ralada",
+      "30 g de uva passa",
+      "50 g de azeitonas sem caroço picada",
+      "2 ovos cozidos picados",
+      "sal, 3pimenta vermelha picada e cheiro-verde a gosto",
+      "1/2 colher de coloral",
+      "1/2 cebola picada",
+      "azeite o quanto baste",
+      "farofa tradicional o quanto baste"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande, coloque azeite no fundo, espere amornar e junte a cenoura, pimenta e a cebola.",
+      "Deixe até amaciar um pouco.",
+      "Diminua a chama e acrescente o coloral e misture até diluir.",
+      "Junte o arroz e mexa até incorporar bem.",
+      "Acrescente os ovos, azeitonas e uvas passa e misture novamente, sempre com a chama baixa.",
+      "Aumente o fogo e vá adicionando a farofa tradicional, sal e intercalando com azeite se necessário para ficar úmida.",
+      "Junte o cheiro-verde, prove o sal e acrescente mais se necessário.",
+      "Sirva acompanhado com churrasco."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SANDRA REGINA DO CARMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304001-farofa-de-arroz-da-vo-vanda.html"
+}

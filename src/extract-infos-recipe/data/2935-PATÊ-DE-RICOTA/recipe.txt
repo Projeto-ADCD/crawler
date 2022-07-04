@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PATÊ DE RICOTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de queijo ricota",
+      "1 potinho pequeno de maionese de limão",
+      "ervas finas a gosto",
+      "sal a gosto",
+      "1 colher (sopa) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, amasse a ricota e misture com a maionese",
+      "Com um garfo ou no processador bata bem a ricota e a maionese até formar uma mistura uniforme",
+      "Adicione o azeite aos poucos, junto com as ervas finas e o sal",
+      "Vá provando até alcançar o sabor de sua preferência.",
+      "Este patê não possui sabor muito acentuado, combina com palitinhos de padaria e bolachas salgadas",
+      "Se quiser pode incluir um pedaço pequeno ee provolone ou gorgonzola para deixar com sabor mais acentuado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARCOS MAZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304118-pate-de-ricota.html"
+}

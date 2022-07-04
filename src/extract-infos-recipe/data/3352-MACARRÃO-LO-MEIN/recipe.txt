@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO LO MEIN",
+  "ingredientes": {
+    "DEFAULT": [
+      "130 g de macarrão Lo Mein",
+      "4 colheres (sopa) de óleo vegetal",
+      "110 g de camarão ou 270g de peito de frango (sem osso e sem pele) em cubos",
+      "2 copos de vegetais de sua preferência (recomendo: alface, repolho, cenoura e cebola)",
+      "2 colheres (sopa) de molho Szechuan"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque água em uma panela grande e esquente no fogo médio-alto até começar a ferver",
+      "Coloque o macarrão e deixe por 6-7 minutos, mexendo de vez em quando",
+      "Escorra a água e enxague o macarrão por 30 segundos com água fria",
+      "Coloque 2 colheres (sopa) de óleo em uma frigideira, e esquente no fogo médio",
+      "Quando o óleo começar a fazer barulho, coloque a carne",
+      "Vire a carne a cada 1 minuto e meio até atingir o ponto desejado",
+      "Remova a carne da panela e coloque 2 colheres (sopa) de óleo na frigideira",
+      "Após aproximadamente 30 segundos coloque os vegetais na frigideira, mexa bem, e após 30 segundos coloque respectivamente a carne, o macarrão e o molho",
+      "Mexa por 7 minutos ou até que o molho esteja distribuído de forma homogênea e tudo esteja adequadamente frito"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HILÁRIO FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303518-macarrao-lo-mein.html"
+}

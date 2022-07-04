@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CANJICA / MUGUNZÁ / CHÁ DE BURRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de milho para canjica de 500 g",
+      "2 vidros de leite de coco de 500 ml",
+      "2 latas (ou caixa) de leite condensado",
+      "2 litros de leite",
+      "2 litros de água fervente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela de pressão coloque a água para ferver.",
+      "Despeje o milho numa bacia pequena e lave o milho.",
+      "Acrescente o milho lavado à água, quando estiver fervendo.",
+      "Cozinha o milho em panela de pressão em fogo baixo, após a panela pegar pressão, por cerca de 30 minutos.",
+      "Após 20 minutos sempre mexa a panela para ver se ainda tem água e para o milho não grudar no fundo da panela.",
+      "Acrescente os dois litros de leite, as duas garrafas de leite de coco e as duas latas de leite condensado.",
+      "Mexa em fogo baixo por volta de 25 minutos até que o caldo fique grosso em ponto de mingau.",
+      "Caso goste, você pode acrescentar 8 cravos-da-índia, eu prefiro sem.",
+      "Prefiro um pouquinho de canela (a gosto) na hora de servir.",
+      "Esta receita pode ser servida quente ou gelada, vai da sua preferência.",
+      "Eu particularmente gosto das duas formas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "THIAGO ASSIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305541-canjica-barra-mugunza-barra-cha-de-burro.html"
+}

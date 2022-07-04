@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MOQUECA DE OVOS SIMPLES E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "1 pimentão",
+      "1 cebola",
+      "2 tomates",
+      "4 dentes de alho",
+      "coentro a gosto",
+      "400 ml leite de coco",
+      "azeite de dendê",
+      "250 ml de água",
+      "1 limão",
+      "sal a gosto ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os temperos em tiras e separe em dois.",
+      "Doure o alho já amassado, com 3 colheres (sopa) de azeite",
+      "Em seguida, coloque em tiras os pimentões, a cebola e o tomate",
+      "Deixe por 2 minutos e acrescente 100 ml de água",
+      "Cozinhe por mais 3 minutos e acrescente as claras dos ovos e, quando elas cozinharem, acrescente as gemas.",
+      "Coloque mais uma camada das tiras de pimentão, cebola e tomate",
+      "Em seguida, coloque o leite de coco, o coentro, gotas de limão e sal a gosto",
+      "Obs: eu coloco mais azeite de dendê na finalizaçao. E coloco depois do coentro, para dar uma cor"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SARAH MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302265-moqueca-de-ovos-simples-e-facil.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BATATA RÚSTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas",
+      "1 cabeça de alho",
+      "1 ramo de alecrim",
+      "sal grosso a gosto",
+      "pimenta-do-reino a gosto",
+      "1/4 xícara de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre uma assadeira grande com papel alumínio.",
+      "Lave as batatas e corte-as em oito.",
+      "Disponha as batatas na assadeira.",
+      "Adicione os dentes de alho.",
+      "Coloque o ramo de alecrim.",
+      "Adicione o sal e a pimenta-do-reino.",
+      "Regue com azeite e misture bem.",
+      "Cubra a assadeira com papel alumínio.",
+      "Asse em forno preaquecido por 180ºC por aproximadamente 30 a 35 minutos, até que as batatas estejam macias.",
+      "Retire o papel alumínio e retorne ao forno por mais 15 minutos para que as batatas fiquem douradas.",
+      "Retirar do forno e servir como acompanhamento ou petisco."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MERCADÃO MERCEARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301995-batata-rustica.html"
+}

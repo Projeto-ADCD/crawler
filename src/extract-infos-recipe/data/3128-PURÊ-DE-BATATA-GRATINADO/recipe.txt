@@ -1,0 +1,51 @@
+{
+  "nome_receita": "PURÊ DE BATATA GRATINADO",
+  "ingredientes": {
+    "MOLHO BECHAMEL:": [
+      "600 ml de leite",
+      "1/2 cebola",
+      "1 cravo",
+      "1 folha de louro",
+      "1 dente de alho inteiro (apenas amassado com a faca)",
+      "sal e pimenta branca moída ao gosto"
+    ],
+    "ROUX (PARA ENGROSSAR O MOLHO):": [
+      "30 g de manteiga Président",
+      "30 g de farinha de trigo "
+    ],
+    "OUTROS INGREDIENTES:": [
+      "6 batatas grandes",
+      "400 g de queijo mussarela Président ralada ",
+      "queijo parmesão Président a gosto",
+      "500 g de bacon",
+      "sal e pimenta branca a gosto",
+      "água ou caldo de frango (para cozinhar as batatas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o bacon em cubos, frite em uma panela adicionando um fio de óleo e, após frito, reserve",
+      "Primeiro adicione água (com sal) ou caldo de frango a uma panela de pressão e cozinhe as batatas com casca até ficarem macias ",
+      "Em uma panela adicione o leite, o alho amassado e espete a folha de louro na cebola usando o cravo",
+      "Em fogo médio deixe ferver, tendo cuidado para não espumar e vazar da panela",
+      "Em outra panela adicione a manteiga e derreta",
+      "Adicione a farinha e mexa, cozinhe a farinha um pouco, mas não dê muita cor à mistura e aos poucos adicione o leite quente, peneirando o mesmo (não pare de mexer enquanto adicionar para não empelotar)",
+      "Após engrossar, tempere com pimenta branca e sal",
+      "Preaqueça o forno a 200º C por 15 minutos",
+      "Tire as cascas das babatas e amasse em uma vasilha",
+      "Adicione 3/4 do molho bechamel, misture, adicione mais ou menos 250 g de mussarela e o bacon, misture novamente",
+      "Caso necessário, tempere com sal e pimenta branca",
+      "Adicione a mistura a uma forma e espalhe mais um pouco de mussarela em cima",
+      "Despeje o restante do molho bechamel, adicione a restante da mussarela e parmesão a gosto e cubra a forma",
+      "Deixe no forno até o queijo gratinar",
+      "Muito bom para se comer como prato principal ou servir com carnes"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por José Luiz de Carvalho Góes Junior"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303840-pure-de-batata-gratinado.html"
+}

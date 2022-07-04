@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE BANANA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "1 xícara de farinha",
+      "1/2 xícara de açúcar",
+      "1/2 colher (sopa) de fermento",
+      "1 ovo",
+      "1/2 xícara de leite",
+      "3 colheres (sopa) de margarina",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture farinha, açúcar e fermento.",
+      "Separado, bata o ovo, junte a margarina e o leite.",
+      "Em uma forma pequena, redonda de pizza, adicione uma camada dos ingredientes secos, pique ou fatie bananas e coloque por cima junto com canela.",
+      "Cubra as bananas com o resto dos ingredientes secos e depois coloque os molhados.",
+      "A mistura de leite precisa cobrir toda a farinha por cima, não deixando formar ilhas de farinha seca.",
+      "A massa imita a textura da massa folhada.",
+      "Não precisa untar a forma.",
+      "Leve ao forno médio, preaquecido, por 30 minutos ou até ficar dourado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304306-torta-de-banana-facil.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE MAISENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "250 g de maizena",
+      "250 g de fubá",
+      "3 colheres (chá) de manteiga",
+      "200 g de açúcar",
+      "200 ml de leite",
+      "2 colheres (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o açúcar e os ovos por 1 minuto",
+      "Acrescente o leite, a manteiga, a maizena, o fubá e bata por mais 5 minutos",
+      "Desligue coloque o fermento e mexa com a colher",
+      "Coloque em uma forma 22x15 untada e asse por 40 minutos por 240°C"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALINE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303366-bolo-de-maisena.html"
+}

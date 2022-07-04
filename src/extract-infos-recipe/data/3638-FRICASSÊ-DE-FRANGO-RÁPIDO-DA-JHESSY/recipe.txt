@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO RÁPIDO DA JHESSY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito ou filé de frango sem osso",
+      "1 cebola picada",
+      "1 tomate picado",
+      "azeitona a gosto",
+      "200 g de mussarela ralada",
+      "1 lata de milho",
+      "1 copo de requeijão",
+      "1 copo de água",
+      "batata palha a gosto",
+      "1 tablete de caldo galinha",
+      "1 sachê de tempero pronto sabor legumes",
+      "salsinha e pimenta do reino e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango com o caldo de galinha",
+      "Desfie o frango e refogue em uma panela com a cebola e o tomate picados, coloque o tempero pronto e acerte o sal se precisar",
+      "Reserve",
+      "No liquidificador bata a lata de milho, a água, o creme de leite e o requeijão.",
+      "Misture o creme ao frango e leve ao fogo até aquecer.",
+      "Despeje em um refratário e cubra com mussarela e batata palha.",
+      "Leve ao forno até gratinar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JHESSICA CIBELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302992-fricasse-de-frango-rapido-da-jhessy.html"
+}

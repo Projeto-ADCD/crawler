@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ENROLADINHO DE SALSICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "2 colheres (sopa) de margarina ou manteiga",
+      "1 pitada de sal",
+      "1 cubo de caldo de galinha",
+      "2 xícaras de farinha de trigo",
+      "8 salsichas inteiras"
+    ],
+    "PARA EMPANAR:": [
+      "Farinha de rosca ou bolacha cream cracker triturada",
+      "Leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo o leite, a margarina, o sal e o cubo de galinha e deixe esquentar até a margarina derreter por completo.",
+      "Quando o leite já estiver em esquentado, acrescente a farinha de trigo e mexa até desgrudar da panela e deixe mornar.",
+      "Depois, cubra toda a salsicha com a massa, passe no leite e na farinha de rosca.",
+      "Frite com óleo até dourar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JOSIELE DÉBORA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299984-enroladinho-de-salsicha.html"
+}

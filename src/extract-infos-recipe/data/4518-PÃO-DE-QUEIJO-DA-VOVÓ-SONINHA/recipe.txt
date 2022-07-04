@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DA VOVÓ SONINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de queijo meia cura ralado fino",
+      "500 g de polvilho doce",
+      "300 ml de leite integral",
+      "200 ml de óleo de soja",
+      "100 ml deágua",
+      "1 colher (sopa) rasa de sal",
+      "4 ovos vermelhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o leite, o óleo, a água e o sal até levantar fervura",
+      "Em um recipiente, junte a mistura com o polvilho e mexa (não precisa ficar tão homogêneo)",
+      "Deixe esfriando até ficar morno",
+      "Adicione os ovos e sove com uma mão, misturando bem",
+      "Acrescente o queijo e volte a sovar até obter uma massa bem lisinha",
+      "Modele bolinhas com 1 colher (sobremesa) da massa (ou a seu critério), untando as mãos com óleo e dispondo-as em uma forma antiaderente (mantendo 2 cm de distância entre elas)",
+      "Asse em forno preaquecido a 230° C de 30 a 40 minutos ou até dourar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: Rede aproximadamente 50 pães de queijo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDO MONTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300948-pao-de-queijo-da-vovo-soninha.html"
+}

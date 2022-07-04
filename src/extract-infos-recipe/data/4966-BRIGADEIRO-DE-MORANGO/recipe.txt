@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BRIGADEIRO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bandejinha de morango",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o morango com a água em uma panela e mexa até tudo desmanchar ",
+      "Adicione o leite condensado",
+      "Mexa até dar ponto de brigadeiro e desgrudar do fundo da panela "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "JULIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299840-brigadeiro-de-morango.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MACARRÃO CHINÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "600 ml de água",
+      "1 pitada de sal",
+      "10 ml de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque a farinha de trigo e o sal e acrescente a água aos poucos",
+      "Mexa até dissolver, tampe e deixe descansar por 15 minutos",
+      "Mexa ela por 2 minutos e deixe descansar novamente por 15 minutos",
+      "Mexa novamente, corte em 4 pedaços, pegue os disco que você abriu e corte em tiras finas",
+      "Estique tudo até ficar comprido e coloque dentro de uma panela com água fervendo, para poder cozinhar.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "47 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "IDENILTON SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299698-macarrao-chines.html"
+}

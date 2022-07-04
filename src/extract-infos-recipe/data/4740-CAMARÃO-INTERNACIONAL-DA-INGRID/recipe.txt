@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CAMARÃO INTERNACIONAL DA INGRID",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de camarão cinza tamanho médio",
+      "200 g de mussarela cortada em cubos",
+      "100 g de mussarela fatiada",
+      "200 g de presunto cortado em cubos",
+      "1 lata de ervilhas",
+      "1 copo de requeijão",
+      "1 limão",
+      "2 xícaras de arroz cru",
+      "1 caixa de creme de leite",
+      "sal e temperos a gosto",
+      "3 colheres (sopa) de leite integral",
+      "1 pacote de batata palha extra fina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe os camarões e tempere com o suco do limão, sal e os temperos de sua preferência (eu usei, manjericão, orégano e salsa).",
+      "Deixe os camarões marinando por 15 minutos.",
+      "Enquanto isso coloque 5 xícaras de água para ferver.",
+      "Quando a água estiver fervendo coloque os camarões dentro para cozinhar (inclusive com o caldo que ficar no recipiente enquanto marinava).",
+      "Depois de 5 a 10 minutos cozinhando o camarão (ele precisa ficar rosadinho) escorra o camarão porém reserve a água pois irá utilizá-la para cozinhar o arroz.",
+      "Em uma panela coloque azeite e alho para refogar e quanto estiver bem quente refogue o arroz junto.",
+      "Utilize a água do camarão para cozinhar o arroz.",
+      "Enquanto o arroz cozinha, faça o molho começando pelo requeijão, leite e o presunto picado.",
+      "Deixe refogando por uns 2 minutos.",
+      "Depois acrescente a ervilha, o creme de leite, a mussarela picada e os camarões.",
+      "Desligue e aguarde o arroz ficar pronto (o ideal é o arroz ficar meio “papa”)",
+      "Quando o arroz ficar pronto despeje o arroz em uma travessa e misture o molho.",
+      "Cubra a mistura com mussarela e a batata palha em volta (eu coloquei um pouco de parmesão em cima da mussarela para gratinar)",
+      "Leve ao forno preaquecido (180° C) por aproximadamente de 15 a 20 minutos para gratinar e derreter a mussarela.",
+      "Retire do forno e sirva "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "INGRID ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300322-camarao-internacional-da-ingrid.html"
+}

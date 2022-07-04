@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE LIMÃO DO COSME",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de biscoito de maisena",
+      "2 ovos",
+      "4 colheres (sopa) de margarina",
+      "1 latta de leite condensado",
+      "1 caixa de creme de leite",
+      "1/2 pacote de gelatina sabor limão",
+      "suco de um limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture os biscoitos até virar uma farinha",
+      "Em seguida coloque em uma bacia com a margarina e os ovos.",
+      "Misture tudo até formar uma massa homogênea.",
+      "Coloque a massa na forma de fundo removível e espalhe fazendo bordas laterais.",
+      "Coloque no forno preaquecido por 20 minutos ou quando estiver assada.",
+      "Retire do forno a massa e deixe esfriar.",
+      "Recheio",
+      "Bata no liquidificador a lata de leite condensado, creme de leite, 1/2 pacote de gelatina dissolvida na água morna e o suco de um limão.",
+      "Bata aproximadamente por 3 minutos.",
+      "Depois despeje na massa e leve à geladeira por duas horas."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RENATA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304392-torta-de-limao-do-cosme.html"
+}

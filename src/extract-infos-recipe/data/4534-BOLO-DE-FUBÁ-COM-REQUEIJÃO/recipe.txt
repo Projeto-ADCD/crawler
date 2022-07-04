@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de leite",
+      "1 xícara de óleo",
+      "1 xícara de açúcar",
+      "1 copo de requeijão",
+      "1 xícara de fubá",
+      "1 xícara de farinha de trigo",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Despeje tudo numa forma de furo central, untada com óleo e esfarinhada com fubá.",
+      "Leve ao forno pré-aquecido a 200 graus po, aproximadamente 35 minutos.",
+      "Espere esfriar, desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MIRNA RUBIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300921-bolo-de-fuba-com-requeijao.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "STROGONOFF ESPECIAL DE MIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Kg de iscas de mignon",
+      "70 g de manteiga",
+      "3/4 de xícara de cebola",
+      "sal a gosto",
+      "1 colher (chá) de páprica (eu uso 1/2 colher de páprica picante e 1/2 colher de páprica doce)",
+      "1 colher (chá) de molho inglês",
+      "conhaque (+ ou - 1/3 de xícara)",
+      "200 g de champignon fatiado",
+      "1 colher de farinha de trigo",
+      "250 ml de creme de leite (uso metade de nata e metade de creme de leite de caixinha)",
+      "1 colher (sopa) de mostarda amarela",
+      "1/2 colher (sopa) de mostarda escura",
+      "1/2 xícara de ketchup"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma colher de manteiga e refogue a cebola e os cogumelos, caso não sejam em conserva.",
+      "Junte a mostarda, o ketchuo e a farinha.",
+      "Mexa e reserve em uma frigideira grande, derreta a manteiga restante com óleo e doure a carne aos poucos para não juntar água.",
+      "Flambe com o conhaque.",
+      "Tempere com sal, páprica e molho inglês.",
+      "Junte a mistura de ketchup, mostarda e farinha.",
+      "Acrescente um pouco de água e deixe cozinhar.",
+      "Por fim, junte o creme de leite e os cogumelos se for em conserva."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CHARLES BONISSONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300066-strogonoff-especial-de-mignon.html"
+}

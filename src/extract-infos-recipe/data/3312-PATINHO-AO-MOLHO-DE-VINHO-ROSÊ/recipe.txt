@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PATINHO AO MOLHO DE VINHO ROSÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de patinho sem osso",
+      "2 copos de leite frio (aproximadamente 600ml)",
+      "1 colher (sopa) de amido de milho",
+      "3 colheres (sopa) de catchup",
+      "3 colheres (sopa) de mostarda",
+      "2 colheres (sopa) de extrato de tomate",
+      "1 colher (sopa) de requeijão cremoso",
+      "1 sachê de tempero pronto sabor carne",
+      "1 cebola média",
+      "2 colheres (sopa) de vinho rosê",
+      "óleo para fritar a carne",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "CARNE:": [
+      "Corte a carne em tiras não muito finas, em um recipiente rale metade da cebola e reserve o restante",
+      "Adicione as tiras de carne, o sal, a pimenta e o tempero (se preferir adicione também um fio de óleo e uma colher de sopa de água)",
+      "Misture bem a carne para que pegue o máximo de tempero e deixe descansar por 30 minutos para apurar o sabor",
+      "Em uma panela rale o restante da cebola junte um pouco de óleo e doure, quando a cebola estiver dourada adicione a carne aos poucos e vá mexendo para que frite por igual",
+      "Quando a carne estiver frita e com pouco água, retire-a da panela e reserve"
+    ],
+    "MOLHO:": [
+      "Em um recipiente junte o leite e o amido e dissolva, depois adicione o extrato de tomate, a mostarda e o catchup",
+      "Misture bem e coloque na mesma panela onde fritou a carne, mexa vem até que levante fervura e depois adicione o requeijão mexendo até que se dissolva ao molho",
+      "Em seguida adicione a carne em tiras e o vinho rosê, cozinhe por 5 minutos mexendo sempre, ou até que o molho engrosse um pouco",
+      "Sirva com batata-palha e arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MONKEY CHANNEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303576-patinho-ao-molho-de-vinho-rose.html"
+}

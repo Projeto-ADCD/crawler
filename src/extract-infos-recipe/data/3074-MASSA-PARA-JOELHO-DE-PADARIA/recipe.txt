@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MASSA PARA JOELHO DE PADARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "500 g de farinha de trigo sem fermento",
+      "1 e 1/2 xícara de água",
+      "1/2 xícara de óleo",
+      "15 g de fermento biológico seco (saquinho)",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "1/2 colher (sopa) de sal",
+      "1/2 colher (sopa) de açúcar",
+      "gema para pincelar",
+      "Recheio",
+      "Calabresa, frango, queijo e presunto, requeijão cremoso ou qualquer ingrediente da sua preferência."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes, menos a farinha",
+      "Depois de tudo misturado, coloque a farinha aos poucos",
+      "Sove a massa por uns 10 minutos ou até que fique bem homogênea",
+      "Deixe descansar por 30 minutos com um papel-filme por cima",
+      "Abra a massa em uma bancada, recheie e faça tipo um rocambole",
+      "Corte com a faca em pequenos pedaços",
+      "Pincele com as gemas",
+      "Leve ao forno até dourar",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: para economizar farinha de trigo, você pode untar a bancada com óleo para abrir a massa"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303915-massa-para-joelho-de-padaria.html"
+}

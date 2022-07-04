@@ -1,0 +1,37 @@
+{
+  "nome_receita": "JARDINEIRA DE FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 frango cortado em pedaços",
+      "2 tomates pelados cortados em pequenos cubos",
+      "3 colheres do suco dos tomates pelados",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "1 copo de ervilhas congeladas",
+      "1 cenoura pequena cortada em pequenos cubos",
+      "cogumelos inteiros",
+      "2 colheres de polpa de tomate",
+      "1 colher (chá) de colorau",
+      "1 colher (chá) de tempero para aves",
+      "salsa picada",
+      "mistura de tempero de cebola e salsa",
+      "sal",
+      "azeite",
+      "2,5 ml de vinho branco",
+      "água",
+      "3 batatas médias cortadas em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes e temperos num tacho ou panela e leve para cozinhar em fogo brando, durante cerca de 20 minutos.",
+      "Junte, então, as ervilhas, a cenoura e os cogumelos e deixe cozinhar por mais cerca de 15 minutos.",
+      "Por último, acrescente as batatas, um pouquinho de água e deixe cozinhar em fogo brando até as batatas se apresentarem cozidas e o molho reduzir.",
+      "Corrija os temperos, deixe apurar por mais 1 ou 2 minutos e sirva de imediato, acompanhada de uma salada de alface."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RUTE MARLENE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301788-jardineira-de-frango.html"
+}

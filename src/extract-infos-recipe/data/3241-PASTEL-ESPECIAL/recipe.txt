@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PASTEL ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de farinha de trigo",
+      "1 xícara (chá) de farofa suave Yoki",
+      "1 caixa de creme de leite",
+      "1 vidro de palmito cortado em rodelinhas",
+      "cebolinha cortada bem fininha a gosto",
+      "1 pitada de orégano",
+      "1 pitada de sal e pimenta-do-reino",
+      "1 copo de leite ",
+      "2 colheres (sopa) de farinha de trigo",
+      "2 xícaras de óleo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque a farinha de trigo e a farofa no liquidificador ou processador, para ficar bem fininha. ",
+      "Caso não tenha, pode peneirar.",
+      "Coloque em uma tigela e adicione o creme de leite aos poucos, até formar uma massa uniforme e que não grude nas mãos",
+      "Em uma panela, adicione o palmito, a cebolinha, o leite, a farinha, o orégano, o sal e a pimenta",
+      "Misture bem e leve ao fogo médio para virar um creme",
+      "Abra a massa com auxílio de um rolo e corte com uma tigelinha ou copo para fazer os pastéis.",
+      "Adicione o creme e feche os pastéis com auxílio de um garfo em toda volta.",
+      "Esquente o óleo em fogo alto (se colocar no baixo pode deixar encharcado) e coloque os pastéis um de cada vez",
+      "Quando estiver douradinho, vire do outro lado com auxílio de uma espátula ou escumadeira "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Raquel Anjos"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303670-pastel-especial.html"
+}

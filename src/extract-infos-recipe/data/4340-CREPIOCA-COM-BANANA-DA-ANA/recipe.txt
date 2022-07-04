@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CREPIOCA COM BANANA DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo ",
+      "3 colheres de goma de tapioca",
+      "1 banana grande ",
+      "1 banana grande (para colocar depois)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador ou em um mixer, coloque a goma de tapioca, um ovo e uma",
+      "banana grande",
+      "Depois de bater os ingredientes, coloque óleo em uma frigideira e coloque",
+      "a massa que você bateu ",
+      "Quando soltar, vire ",
+      "Depois coloque o crepe no prato e corte outra banana, para colocar no dentro do crepe. ",
+      "Caso queira colocar canela e açúcar, coloque"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA JÚLIA DE ABREU MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301340-crepioca-com-banana-da-ana.html"
+}

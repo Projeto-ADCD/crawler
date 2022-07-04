@@ -1,0 +1,51 @@
+{
+  "nome_receita": "NHOQUE DE ABÓBORA COM RAGU",
+  "ingredientes": {
+    "NHOQUE:": [
+      "500 g de abóbora",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 gema de ovo",
+      "1 pitada de sal e pimenta-do-reino a gosto",
+      "50 g de queijo parmesão ralado ou mozarela.",
+      "Orégano e salsinha á gosto."
+    ],
+    "RAGU:": [
+      "250 ml de molho de tomate",
+      "3 a 4 gomos de linguiça toscana",
+      "1 cebola picada",
+      "2 a 3 dentes de alhos picados",
+      "2 tomates sem pele picados",
+      "sal, pimenta do reino e orégano a gosto"
+    ]
+  },
+  "passos": {
+    "MODO DE PREPARO DO NHOQUE:": [
+      "Antes de preparar a receita, lave a abóbora e retire as sementes e descasque.",
+      "Em seguida, corte-a em pedaços não muito grandes e leve para cozinhar com pouca água.",
+      "Quando a abóbora estiver macia, retire-a da panela.",
+      "Com um amassador de batatas ou um garfo grande, amasse bem a abóbora até formar um purê.",
+      "Coloque o purê em um recipiente e acrescente o sal, a pimenta-do-reino a gosto. Misture bem.",
+      "Adicione a gema de ovo e o queijo parmesão ralado e misture bem até incorporá-los.",
+      "Por último, acrescente a farinha de trigo aos poucos, misturando bem até obter uma massa homogênea.",
+      "Faça rolinhos com massa em um recipiente ou mesa enfarinhada e vá cortando em cubinhos formando os nhoques.",
+      "Em uma panela com água fervente e bastante sal, coloque os nhoques para cozinhar. Quando eles subirem e boiarem, estão prontos.",
+      "Coloque em um recipiente e reserve."
+    ],
+    "MODO DE PREPARO DO RAGU:": [
+      "Retire o invólucro (a pele) das linguiças e com os dedos separe os pedaços de carne.",
+      "Com uma faca, pique a carne e reserve.",
+      "Retire as cascas dos dentes do alho e da cebola, pique muito bem para temperar o molho.",
+      "Em uma panela funda com um fio de azeite, refogue o alho e a cebola.",
+      "Adicione o sal, pimenta do reino. misture muito bem e coloque os pedaços picados de linguiça.",
+      "Cozinhe por cinco minutos, até que a carne esteja bem cozida.",
+      "Adicione o molho de tomate, depois é só tampar a panela e deixar o molho engrossar por 5 a 10 minutos, mexendo de vez em quando.",
+      "Corrija o sal, apague o fogo e adicione os pedaços de tomates e orégano.",
+      "Tampe a panela por mais 2 a 3 minutos para que os pedaços de tomates possam amolecer.",
+      "Agora é só colocar o molho de ragu sobre o nhoque e acrescentar um pouco de queijo ralado e servir em seguida."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDREZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300582-nhoque-de-abobora-com-ragu.html"
+}

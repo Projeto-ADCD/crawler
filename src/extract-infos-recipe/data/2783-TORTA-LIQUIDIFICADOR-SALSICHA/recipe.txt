@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA LIQUIDIFICADOR SALSICHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "12 colheres (sopa) farinha de trigo",
+      "3 colheres (sopa) de queijo parmesão",
+      "2 xícaras (chá) de leite",
+      "1 xícara (chá) de óleo",
+      "3 ovos",
+      "sal",
+      "2 colheres (sopa) de fermento",
+      "Recheio",
+      "300 g de salsicha em rodela",
+      "1 cebola picada",
+      "1 lata de ervilha",
+      "1 lata de milho",
+      "2 tomates sem pele picado",
+      "orégano",
+      "sal a gosto",
+      "salsa e cebolinha picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque no liquidificador a farinha, o queijo, leite, óleo, os ovos, sal e o fermento.",
+      "Bata bem e reserve.",
+      "Recheio",
+      "Coloque em uma vasilha a salsicha, a cebola, a ervilha, o milho, os tomates, orégano, sal, salsinha e cebolinha.",
+      "Misture como se fosse uma salada.",
+      "Após untar a assadeira, despeje a massa e por cima o recheio.",
+      "Leve ao forno preaquecido até dourar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304434-torta-liquidificador-salsicha.html"
+}

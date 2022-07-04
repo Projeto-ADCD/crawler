@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DE LINGUIÇA APIMENTADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg linguiça apimentada (sem pele)",
+      "1 pacote de farofa tradicional ",
+      "6 cebolas grandes",
+      "6 tomates grandes (sem pele)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture as cebolas e reserve",
+      "Triture os tomates (com semente) e reserve",
+      "Em uma panela grande, coloque a linguiça apimentada (sem a pele) deixando fritar em fogo alto.",
+      "Reserve.",
+      "Usando a mesma panela, adicione um pouco de óleo para refogar a cebola até murchar (fogo alto de 5 a 10 minutos)",
+      "Em seguida, coloque os tomates deixando apurar por cerca de 5 a 10 minutos em fogo alto.",
+      "Pegue a linguiça apimentada e coloque nessa panela com a cebola e o tomate, misturando-os.",
+      "Agora, vá adicionando a farofa tradicional aos poucos, mexendo até que obtenha uma mistura úmida."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "NÁDIA DE ALMEIDA PRADO GALLEGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304074-farofa-de-linguica-apimentada.html"
+}

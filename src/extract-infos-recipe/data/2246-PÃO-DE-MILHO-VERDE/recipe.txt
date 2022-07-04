@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO DE MILHO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde",
+      "1 medida da lata de milho em água",
+      "1 medida da lata de milho em leite",
+      "1/2 medida da lata de milho em óleo de canola ou de milho",
+      "6 colheres (sopa) de açúcar demerara",
+      "1 colher (café) de sal",
+      "1 medida da lata de milho em fubá",
+      "1,5 kg aproximadamente de farinha de trigo",
+      "2 colheres (sopa) de fermento biológico seco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o milho, a água, o leite, o açúcar, o fubá, o óleo, o açúcar e o sal. Reserve.",
+      "Misture o fermento biológico e a farinha de trigo, acrescente o milho batido com os outros ingredientes.",
+      "Sove a massa até obter uma textura homogênea e lisa.",
+      "Pode ser sovado na panificadora elétrica, é bem mais fácil, mas precisa ajudar misturando um pouco no início.",
+      "Deixe descansar por 1 hora",
+      "Divida a massa em 3 partes, abra com um rolo e enrole para modelar os pães.",
+      "Deixe descansar por mais 30 minutos.",
+      "No clima mais frio e necessário mais 1 hora.",
+      "Molhe os pães com água utilizando um pincel.",
+      "Espalhe fubá peneirado por cima.",
+      "Os pães devem ser colocados para assar em uma forma grande e coberta com fubá ou trigo para o pão não grudar.",
+      "Assar por aproximadamente 25 minutos a temperatura de 200° C.",
+      "Ou até a sua preferência na cor da casca."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JACKELINE ALVES VILAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305635-pao-de-milho-verde.html"
+}

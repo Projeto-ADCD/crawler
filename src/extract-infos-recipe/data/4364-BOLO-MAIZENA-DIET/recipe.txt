@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO MAIZENA DIET",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 claras",
+      "2 gemas",
+      "2 colheres (sopa) adoçante",
+      "6 colheres (sopa) de amido de milho",
+      "100 ml de creme de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve, incorporando o creme de leite e o adoçante.",
+      "Certifique-se que o adoçante foi completamente dissolvido.",
+      "Incorpore as gemas e em seguida o amido de milho",
+      "A consistência cremosa indica o final do preparo.",
+      "Neste preparo o fermento não é necessário.",
+      "A forma a ser utilizada dependerá da proporção da receita que será preparada.",
+      "A quantidade desta é para uma forma retangular pequena de no maximo 20 cm.",
+      "Forno preaquecido a 200° C, forma preparada somente com papel-manteiga."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUZIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301298-bolo-maizena-diet.html"
+}

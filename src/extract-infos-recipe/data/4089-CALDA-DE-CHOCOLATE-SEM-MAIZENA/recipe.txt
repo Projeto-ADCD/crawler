@@ -1,0 +1,19 @@
+{
+  "nome_receita": "CALDA DE CHOCOLATE SEM MAIZENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "500 g de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque todos os ingredientes e deixe ferver por 5 minutos",
+      "Depois mexa com a colher e deixe ferver até engrossar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "KEYLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301893-calda-de-chocolate-sem-maizena.html"
+}

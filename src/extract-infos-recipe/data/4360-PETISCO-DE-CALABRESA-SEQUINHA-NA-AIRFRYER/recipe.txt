@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PETISCO DE CALABRESA SEQUINHA NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 calabresas grossas",
+      "1 colher (sopa) de óleo",
+      "pimenta-do-reino moída a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a calabresa ao meio, depois ao meio mais uma vez, de forma que exista 4 pedaços grandes.",
+      "Ao realizar esse procedimento, corte os pedaços em cubos.",
+      "Adicione o óleo, a pimenta e o orégano.",
+      "Caso não goste da pimenta e orégano, não será necessário.",
+      "Feito isso, ligue sua airfyer em 25 minutos, e dê uma olhadinha de vez em quando pra poder mexer a calabresa.",
+      "Aqueça sua airfryer em 200° C por 5 minutos.",
+      "Com cuidado, coloque toda a quantidade de linguiça na bandeja.",
+      "Elas ficarão sequinhas e crocantes.",
+      "Se desejar, coloque um pouco de cebola por cima aos 20 minutos.",
+      "Bom proveito!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ROSA MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301304-petisco-de-calabresa-sequinha-na-airfryer.html"
+}

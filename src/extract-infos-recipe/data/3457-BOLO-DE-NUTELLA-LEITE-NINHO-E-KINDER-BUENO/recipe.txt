@@ -1,0 +1,51 @@
+{
+  "nome_receita": "BOLO DE NUTELLA, LEITE NINHO E KINDER BUENO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de açúcar refinado",
+      "60 ml de leite em temperatura ambiente",
+      "2 ovos inteiros médios",
+      "2 colheres (sopa) de óleo",
+      "1/2 colher (chá) de fermento",
+      "1/2 colher de essência de baunilha",
+      "Recheio Nutella",
+      "3 colheres de creme de avelã",
+      "1/2 caixinha de creme de leite",
+      "Cobertura de leite Ninho",
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 xícara de leite em pó",
+      "1 xícara de leite",
+      "1 colher (sopa) de margarina sem sal"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "No liquidificador adicione os ovos, o leite, o óleo, a essência e o açúcar",
+      "Bata por uns 3, 4 minutinhos em velocidade máxima",
+      "Transfira para uma tigela e com a ajuda de uma colher, acrecente a farinha, coloca a metade, mexe e depois acrecente a outra metade e por último acrescente o fermento",
+      "Pré-aqueça o forno a 180° por 10 minutos"
+    ],
+    "BRIGADEIRO LEITE NINHO": [
+      "Acrescente o leite condensado, o leite, o leite em pó e a manteiga",
+      "Mexa fora do fogo pra agregar os ingredientes",
+      "Depois leve ao fogo médio, mexa até formar um brigadeiro antes do ponto de enrolar",
+      "Retire do fogo e acrescente o creme de leite, cubra com papel-filme e leve pra geladeira"
+    ],
+    "CREME DE NUTELLA": [
+      "Acrescente o creme de avelã e o creme de leite",
+      "Mexa até ficar com uma consistência mais molinha"
+    ],
+    "MONTAGEM": [
+      "Pra montar você coloca o creme que você fez com o creme de avelã no buraco do bolo",
+      "Deixa 2 dedos antes do topo e depois acrecente o brigadeiro de leite Ninho por cima",
+      "Daí é só acrescentar o Kinder Bueno em cima pra decorar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARINO NETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303319-bolo-de-nutella-leite-ninho-e-kinder-bueno.html"
+}

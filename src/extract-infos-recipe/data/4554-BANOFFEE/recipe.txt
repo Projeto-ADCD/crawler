@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BANOFFEE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 a 4 bananas prata maduras",
+      "350g de doce de leite pronto (de boa qualidade)",
+      "1 pacote de biscoito de maisena ou de leite maltado",
+      "60 g de manteiga derretida",
+      "400 ml creme de leite fresco bem gelado (Pode ser substituído por suspiros inteiros ou triturados)",
+      "100 g de açúcar de confeiteiro (se optar por suspiros – mais fácil – desconsiderar o açúcar)",
+      "Cacau em pó ou raspas de chocolate para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture em migalhas o biscoito e misture com a manteiga derretida.",
+      "Cubra uma forma de fundo removível de cerca de 22/ 24 cm com esta massa, suba um pouco nas laterais.",
+      "Cubra a massa com o doce de leite.",
+      "Corte as bananas em rodelas e disponha sobre o doce de leite.",
+      "Cubra com o creme de chantilly ou com os suspiros inteiros ou triturados."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300871-banoffee.html"
+}

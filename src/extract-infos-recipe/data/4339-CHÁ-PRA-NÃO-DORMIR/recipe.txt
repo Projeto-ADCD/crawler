@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CHÁ PRA NÃO DORMIR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê de chá mate de limão ",
+      "açúcar a gosto",
+      "300 ml de água fervida"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o chá mate de limão na água",
+      "Adicione açúcar a gosto"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DAYSE SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301341-cha-pra-nao-dormir.html"
+}

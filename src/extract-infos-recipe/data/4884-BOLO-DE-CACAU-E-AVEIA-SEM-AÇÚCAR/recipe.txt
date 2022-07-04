@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CACAU E AVEIA SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xicaras de chá de aveia",
+      "4 bananas",
+      "1/2 xicara de chá de uva passa",
+      "2 colheres de sopa de mel",
+      "2 colheres de sopa de fermento",
+      "canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador três bananas, os ovos e o fermento.",
+      "Em seguida misture com a aveia, o cacau, a canela e o mel.",
+      "Despeje em uma forma untada e coloque as uvas passas e pedaços de uma banana na massas.",
+      "Leve ao forno."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISLAINE KRAMER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300016-bolo-de-cacau-e-aveia-sem-acucar.html"
+}

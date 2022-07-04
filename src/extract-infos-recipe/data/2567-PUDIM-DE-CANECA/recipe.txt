@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PUDIM DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "1 colher (sopa) de açúcar",
+      "1 colher (sopa) de água",
+      "Pudim",
+      "1 ovo",
+      "1/2 xícara (chá) de leite",
+      "1/2 xícara (chá) de leite condensado",
+      "1/2 colher (chá) de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca coloque a água e o açúcar e misture bem.",
+      "Leve ao micro-ondas por 1 minuto em potência alta.",
+      "Retire e mexa a caneca, mas sem tocar no líquido.",
+      "Volte para o micro-ondas e, de 30 em 30 segundos, mexa a caneca até dar o ponto de caramelo claro.",
+      "Em um bowl misture todos os ingredientes com auxílio de um fouet até ficar homogêneo.",
+      "Coloque a mistura na caneca, tomando o cuidado de não passar da metade delas",
+      "Leve ao micro-ondas por 1 minuto em potência alta.",
+      "Retire e verifique a consistência, se ainda estiver mole, leve ao micro-ondas a cada 30 segundos até atingir o ponto",
+      "Retire, tampe e deixe descansar por 5 minutos",
+      "Leve à geladeira por pelo menos 2 horas e sirva."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304932-pudim-de-caneca.html"
+}

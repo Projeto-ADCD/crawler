@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SANDUÍCHE AZEDINHO DO DUDU",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 fatias de pão de forma",
+      "azeitonas fatiadas a gosto",
+      "1 colher média (sopa) de maionese",
+      "mostarda a gosto",
+      "molho para tempero de limão e/ou de alho",
+      "40 g de presunto fatiado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Começe distribuindo a maionese nos dois pães de form, até que fiquem com quantias parecidas de maionese misturadas nos pães.",
+      "Depois faça o mesmo com a mostarda",
+      "Coloque de acordo com seu gosto os molhos.",
+      "Distribua nos pães as fatias das azeitonas e do presunto.",
+      "E por último, saboreie o gostinho \"azedinho\" do pão com recheio"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUIS EDUARDO ALBANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303954-sanduiche-azedinho-do-dudu.html"
+}

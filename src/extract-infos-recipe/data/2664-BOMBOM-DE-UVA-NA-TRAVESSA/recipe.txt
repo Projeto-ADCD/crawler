@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BOMBOM DE UVA NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de uvas mais durinhas",
+      "Creme branco",
+      "1 lata de leite condensado",
+      "300 ml de leite",
+      "2 gemas peneiradas",
+      "2 e 1/2 colheres (sopa) cheias de amido de milho",
+      "1 xícara de leite em pó",
+      "1/2 caixa de creme de leite",
+      "gotas de essência baunilha",
+      "Creme de chocolate",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga",
+      "1 barra de chocolate meio amargo",
+      "1/2 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Modo de preparo do creme branco",
+      "Em uma panela, fora do fogo, coloque o leite condensado, o leite, as gemas peneiradas, o amido de milho e o leite em pó",
+      "Misture tudo e leve ao fogo alto, mexendo sempre, até chegar ao ponto de brigadeiro duro (passar a colher no fundo e ver se forma um corredor)",
+      "Abaixe o fogo e mexa mais uns 2 minutos",
+      "Após atingir o ponto, desligue o fogo e adicione a meia caixa de creme de leite e as gotas de baunilha",
+      "Misture tudo, coloque em um recipiente, cubra com papel filme e leve para a geladeira até ficar totalmente gelado.",
+      "Modo de preparo creme de chocolate",
+      "Coloque a barra de chocolate para derreter com a manteiga (de 30 em 30 segundos no micro-ondas, mexendo entre uma vez e outra para não queimar, até ficar todo derretido)",
+      "Após derreter o chocolate, em uma panela, fora do fogo, junte o leite condensado e o chocolate derretido",
+      "Misture e leve ao fogo, mexendo sempre, até atingir o ponto de brigadeiro duro (passe a colher no fundo e ver se forma um corredor)",
+      "Abaixe o fogo e mexa mais uns 2 minutos, desligue o fogo e adicione a meia caixa de creme de leite",
+      "Misture bem, coloque em um recipiente, cubra com papel filme e leve para a geladeira até ficar totalmente gelado.",
+      "Montagem",
+      "Colocar o creme branco gelado no fundo da tigela e em cima do creme colocar as uvas cortadas ao meio, acima das uvas jogar o creme de chocolate gelado e por para gelar por umas 2h. Pode por algumas raspas de chocolate por cima para finalizar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "SAMARA EMÍLIA PARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304704-bombom-de-uva-na-travessa.html"
+}

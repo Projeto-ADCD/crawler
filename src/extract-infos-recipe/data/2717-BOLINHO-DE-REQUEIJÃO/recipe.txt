@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLINHO DE REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "500 g requeijão caseiro",
+      "3 colheres (sopa) de farinha de trigo",
+      "cheiro-verde a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um recepiente",
+      "Caso precise, adicione mais trigo aos poucos até obter uma consistência para fazer o formato dos bolinhos",
+      "Frite em óleo quente até que fique dourado",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RENATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304586-bolinho-de-requeijao.html"
+}

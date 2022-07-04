@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO VERDE DETOX",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve sem o talo",
+      "2 fatias de abacaxi",
+      "suco de 1 limão",
+      "folhas de hortelã a gosto",
+      "1 pedaço pequeno de gengibre",
+      "150 ml de água mineral ou 150ml de água de coco",
+      "2 colheres de melado de cana (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador (menos o melado de cana).",
+      "Adoce se preferir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ROSANGELA PORTELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302580-suco-verde-detox.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COSTELA NO FORNO DO NIVALDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de costela ripa",
+      "sal grosso branco",
+      "1 cebola média",
+      "2 dentes de alho",
+      "3 colheres (sopa) de molho shoyu",
+      "2 colheres (sopa) de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque um pouco de sal grosso, a cebola e o alho picadinho.",
+      "Acrescente o azeite, o shoyu e misture.",
+      "Passe essa mistura moderadamente em toda a carne.",
+      "Envolva ou coloque a carne no papel celofane e feche-o bem.",
+      "Leve ao forno preaquecido a 200° C, por 90 minutos ou até que esteja dourada.",
+      "Retire o papel e retire o excesso de sal grosso.",
+      "Sirva em seguida, com arroz e uma saladinha se preferir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NIVALDO PEREIRA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300946-costela-no-forno-do-nivaldo.html"
+}

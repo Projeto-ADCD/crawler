@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BAURU DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 ovo",
+      "500 g de farinha de trigo",
+      "1/2 xícara de óleo (120 ml) ",
+      "2 colheres (sopa) de açúçar",
+      "1 colher (sopa) de sal",
+      "25 g de fermento biológico",
+      "Recheio",
+      "300 g de mussarela",
+      "200 g de presunto",
+      "100 g de linguiça de pernil",
+      "4 tomates",
+      "1 cebola",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos a farinha",
+      "Em um recipiente coloque a mistura do liquidificador e acrescente aos poucos a farinha",
+      "Coloque em uma assadeira untada com óleo e deixe descansar por 35 minutos (até a massa crescer)",
+      "Acrescente os ingredientes do recheio, acima da massa",
+      "Leve ao forno por 40 minutos em média"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode acrescentar ou retirar ingredientes a gosto"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "NOSSO PÃO DE CADA DIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300027-bauru-de-forno.html"
+}

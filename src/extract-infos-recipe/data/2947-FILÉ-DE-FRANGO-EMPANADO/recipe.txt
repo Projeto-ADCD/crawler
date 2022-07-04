@@ -1,0 +1,43 @@
+{
+  "nome_receita": "FILÉ DE FRANGO EMPANADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango",
+      "2 dentes de alho",
+      "curry a gosto",
+      "sal a gosto",
+      "150 g de mussarela",
+      "150 g de presunto",
+      "1 tomate",
+      "1 e 1/2 cebola",
+      "1 colher (sopa) de azeite",
+      "1/2 copo de água",
+      "1 ciolher (sopa) de extrato de tomate",
+      "orégano a gosto",
+      "300 g farofa tradicional",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em filé,tempere com curry, sal e 1 dente de alho.",
+      "Deixe descansar por 5 minutos.",
+      "Enquanto isso prepare o molho refogando 1 dente de alho e azeite",
+      "Depois acrescente o tomate a cebola cortados em cubos pequeno e o extrato de tomate",
+      "Mexa e acrescente a água.",
+      "Bata os ovos e em um recipiente coloque a farofa tradicional e mergulhe o filé no ovo",
+      "Passe na farafa temperada e frite em fogo baixo.",
+      "Após seque o filé em papel-toalha.",
+      "Em um pirex acrescente um pouco do caldo do molho, em seguida arrume os filés e por cima coloque presunto, queijo, molho e salpique orégano.",
+      "Leve ao forno até o queijo derreter e pronto, pode servir.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "ATENÇÂO: fica crocante,c om sabor maravilhoso e sequinho."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KARINA RAMIRO COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304087-file-de-frango-empanado.html"
+}

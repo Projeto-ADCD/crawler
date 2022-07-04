@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE LIMÃO FEITO COM GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara (chá) de açúcar",
+      "1/2 xícara (chá) de óleo",
+      "1 xícara (chá) de leite",
+      "1 sachê de gelatina sabor limão",
+      "1 pitada de sal",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "1 caixa de leite condensado",
+      "2 ou 3 limões espremidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ovos, o açúcar e o óleo. Mexa, até misturar bem.",
+      "Em seguida, adicione o leite, a gelatina e uma pitada de sal, misture novamente.",
+      "Despeje a farinha de trigo aos poucos, e continue mexendo.",
+      "Por fim, coloque o fermento e misture delicadamente",
+      "Despeje a massa em uma forma untada e leve ao forno preaquecido a 180°, por 40 ou 45 minutos.",
+      "Rale os limões e reserve a raspa.",
+      "Corte os limões e esprema.",
+      "Em uma tigela, coloque o leite condensado e vá adicionando o suco do limão aos poucos, mexendo sempre.",
+      "Leve à geladeira."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA PAULA BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302126-bolo-de-limao-feito-com-gelatina.html"
+}

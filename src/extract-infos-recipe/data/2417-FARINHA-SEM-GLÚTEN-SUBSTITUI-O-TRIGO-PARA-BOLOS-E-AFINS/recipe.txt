@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FARINHA SEM GLÚTEN - SUBSTITUI O TRIGO PARA BOLOS E AFINS",
+  "ingredientes": {
+    "DEFAULT": [
+      "350 g de farinha de arroz branco",
+      "150 g de farinha de arroz integral",
+      "300 g de amido de milho",
+      "150 g de fécula de mandioca",
+      "50 g de fécula de batata",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e armazene em uma vasilha adequada para preparos futuros.",
+      "Ela pode ser usada nas receitas que exijam trigo, substituindo está farinha.",
+      "Contudo, nem sempre as medidas são equivalentes.",
+      "Por exemplo: se a receita original pede 1 xícara de farinha de trigo, você utilizará aproximadamente 1 e 1/2 xícara desta mistura, ou mais.",
+      "É necessário observar bem o ponto da massa.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Na falta da fécula de mandioca ou de batata, uma pode substituir a outra.\nBasta que mantenha a quantidade original\nTestei em algumas receitas de bolo depois que descobrimos que a minha esposa é intolerante ao glúten. Deu certo! Espero que funcione para vocês também."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARCUS LEMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305264-farinha-sem-gluten-substitui-o-trigo-para-bolos-e-afins.html"
+}

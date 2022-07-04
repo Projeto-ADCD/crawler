@@ -1,0 +1,39 @@
+{
+  "nome_receita": "VACA ATOLADA DA BIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela bovina",
+      "500 g de mandioca crua descascada e cortada em pedaços médios",
+      "3 cubos de caldo de carne ou costela",
+      "1 tomate maduro sem sementes picado",
+      "2 cebolas grandes cortadas em rodelas",
+      "4 dentes de alho triturados",
+      "1 colher (sopa) de páprica picante",
+      "3 colheres de óleo de soja ou azeite",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "pimenta verde a gosto (opcional)",
+      "cebolinha verde picada",
+      "água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a costela com sal e pimenta-do-reino.",
+      "Dissolva os caldos de carne em aproximadamente 1 litro de água fervente.",
+      "Em uma panela de pressão, aqueça o óleo e doure a costela.",
+      "Após a costela estiver dourada, acrescente 1 cebolas, 2 dentes de alho, a páprica e a pimenta verde, refogue junto com a costela.",
+      "Após refogar, acrescente a água com o caldo, tampe a panela e deixe cozinhar por 40 minutos em fogo baixo.",
+      "Após cozinhar por 40 minutos, acrescente a mandioca, o restante da cebola e do alho, o tomate e a cebolinha, ajuste o sal.",
+      "Acrescente mais água, até cobrir os ingredientes.",
+      "Tampe a panela e deixe cozinhar por mais 30 minutos em fogo baixo.",
+      "Decore com cebolinha verde.",
+      "Pode ser servido com arroz branco.",
+      "Obs.: o tempo de cozimento pode variar de acordo com a qualidade dos ingredientes e intensidade da chama do fogão."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "BIA MACEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305729-vaca-atolada-da-bia.html"
+}

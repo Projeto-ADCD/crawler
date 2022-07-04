@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALADA DE VERÃO COM BATATA PALHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 folhas alface",
+      "1 xícara repolho",
+      "2 folas de acelga",
+      "1 cenoura",
+      "2 tomates sem sementes",
+      "1/2 cebola",
+      "se quiser pode acrescentar verduras de sua preferencia ou maçã e uva passa.",
+      "Molho",
+      "3 colheres de maionese",
+      "1 colher de mostarda",
+      "sal a gosto",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todas as verduras meio grossas",
+      "Cozinhe a cenoura e corte em palitos",
+      "Pique o tomate e a cebola em quadradinhos.",
+      "Em seguida, acrescente a maionese, a mostarda e o sal a gosto.",
+      "Salpique batata palha."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SIRLENE CELINA WEBER SINKOC",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303540-salada-de-verao-com-batata-palha.html"
+}

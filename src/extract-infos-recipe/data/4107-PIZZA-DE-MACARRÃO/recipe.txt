@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PIZZA DE MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão cozido",
+      "450 g de molho de pizza ou molho bolonhesa",
+      "250 g de muçarela",
+      "250 g de presunto",
+      "3 únidade ovos",
+      "1 cebola",
+      "1 pimentão",
+      "1 tomate",
+      "20 ml de óleo",
+      "5 g de fermento pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, coloque o macarrão, acresente os ovos e o fermento. Bata até formar uma mistura homogênea.",
+      "Unte uma forma de pizza grande com manteiga e farinha.",
+      "Despeje toda a mistura na forma, espalhando bem.",
+      "Leve ao forno a 180ºC por 20 minutos.",
+      "Feito isso, retire a massa e recheie com molho, queijo, presunto, cebola, tomate e pimentão.",
+      "Leve ao forno por mais 20 a 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "3045 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ITALO PEDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301835-pizza-de-macarrao.html"
+}

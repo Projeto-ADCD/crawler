@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ACARAJÉ DE MILHO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 espigas de milho",
+      "sal a gosto",
+      "pimenta (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as espigas e corte-as retirando o milho",
+      "Coloque o milho no liquidificador e bata até formar uma massa homogênea",
+      "Em seguida, vire a massa em um recipiente e tempere com sal a gosto e pimenta (a pimenta é opcional)",
+      "Com o auxílio de uma colher, modele a massa e coloque-a em óleo quente para fritar",
+      "Assim que estiver frito, retire e está pronto",
+      "Depois, é só saborear!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LARISSA EVELYN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303828-acaraje-de-milho-verde.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SPAGHETTI A LA NORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de spaghetti",
+      "2 colheres (sopa) de azeite",
+      "3 dentes de alho picados",
+      "1 berinjela em cubos pequenos",
+      "300 g de tomate cereja cortados ao meio",
+      "sal a gosto",
+      "pimenta do reino agosto",
+      "manjericão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com água para cozinhar o spaghetti.",
+      "Quanto a água levantar fervura, acrescente bastante sal e o macarrão.",
+      "Siga as instruções para cozinhá-ló al dente.",
+      "Reserve 3 conchas de água do cozimento.",
+      "Reserve.",
+      "Em outra panela aqueça o azeite, frite o alho, acrescente a berinjela, os tomates, tempere com sal e pimenta do reino agosto.",
+      "Acrescente a água reservada do cozimento da massa.",
+      "Deixe cozinhar por alguns minutos, desligue o forno e acrescente o spagheitti cozido é quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica da Chef: Para tirar o amargo da berinjela, deixe ela picada em água salgado por 30 minutos, retire da água é lave para tirar o sal e utilize"
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "BRUNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300307-spaghetti-a-la-norma.html"
+}

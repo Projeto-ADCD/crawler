@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "1 xícara de maisena ou farinha de trigo",
+      "2 xícaras de leite",
+      "1 colher (chá) de alho triturado",
+      "1 colher (sopa) de cebola picada",
+      "1 caixinha de creme de leite",
+      "1 pacote de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o alho, a cebola e a manteiga.",
+      "Enquanto isso, em uma xícara, misture a maisena ou farinha de trigo e 1 xícara de leite, até que não tenha mais nada no fundo da xícara.",
+      "Quando a cebola estiver douradinha, coloque a mistura do leite e a maisena ou farinha na panela e mecha por 2 minutos.",
+      "Após isso, coloque o resto do leite na panela, juntamente com o queijo ralado.",
+      "Quando estiver com um consistência melhor, adicione 2/3 de creme de leite.",
+      "Adicione sal a gosto e na hora de servir coloque o resto da caixinha de creme de leite e misture."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISABELLA BERGER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300733-molho-branco.html"
+}

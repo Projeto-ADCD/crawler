@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE FRAMBOESA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de gelatina de framboesa",
+      "400 ml de leite morno",
+      "1 lata de leite condensado",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina no leite",
+      "No liquidificador, misture o leite condensado e o creme de leite",
+      "Depois acrescente a misturinha do leite com a gelatina",
+      "Bata por mais ou menos 2 minutos",
+      "Unte a forma com óleo vegetal para não grudar",
+      "Leve a geladeira por mais ou menos 2 horas ou ao congelador por 30 minutos",
+      "E já está pronto o seu pudim de framboesa"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANY FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303563-pudim-de-framboesa-facil.html"
+}

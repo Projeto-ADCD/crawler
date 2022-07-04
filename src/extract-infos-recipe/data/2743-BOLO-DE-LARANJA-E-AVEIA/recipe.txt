@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE LARANJA E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de aveia",
+      "1/2 xícara de farinha integral",
+      "1 xícara de açúcar mascavo ou demerara",
+      "1/2 xícara de leite",
+      "2 laranjas descascadas e sem sementes",
+      "3 ovos",
+      "20 ml de óleo de coco ou manteiga",
+      "1 colher (sopa) de fermento para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as duas laranjas, coe e reserve o suco",
+      "Bata no liquidificador os ovos, o óleo de coco, o suco, o leite, a aveia e o açúcar",
+      "Acrescente a farinha integral aos poucos para não empelotar a massa",
+      "Unte uma forma média com óleo de coco ou manteiga e asse por 35 minutos em temperatura de 180° C",
+      "Depois de pronto aguarde 10 minutos para não abaixar a massa, desenforme e se delicie"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FABIANA STENGER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304536-bolo-de-laranja-e-aveia.html"
+}

@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SOPA (TORTA) PANTANEIRA DO DAVID",
+  "ingredientes": {
+    "DEFAULT": [
+      "15 espigas de milho verde cortado",
+      "500 ml leite",
+      "1 colher (sopa) fermento",
+      "3 ovos",
+      "3 cebolas picadas em cubinhos",
+      "2 tomates picados em cubinhos",
+      "1 pimentão médio cortado em tirinhas",
+      "150 g azeitona sem caroço picada",
+      "cheiro verde",
+      "1 linguiça calabresa cortada em cubinhos",
+      "500 g de queijo meia cura",
+      "200 g de bacon picado em cubinhos",
+      "1 xícara de óleo",
+      "sal a gosto (lembrando que os ingredientes já contém sal)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o milho e bata no liquidificador aos poucos com o leite e os ovos. Coloque em uma travessa e reserve.",
+      "Coloque a metade do óleo em uma panela e frite o bacon. Quando ele começar dourar, acrescente a calabresa e frite junto.",
+      "Quando a calabresa estiver começando a dourar, acrescente a cebola, assim que ficar transparente desligue o fogo e acrescente o restante de óleo.",
+      "Pegue este refogado e misture ao milho batido.",
+      "Acrescente nesta etapa o queijo meia cura em cubinhos, o tomate, o cheiro verde, a azeitona e o pimentão. (Obs: reserve 1/3 desses ingredientes para colocar por cima, após colocar na assadeira).",
+      "Agora é só untar uma assadeira com margarina, e trigo, e levar para assar em forno pré-aquecido por aproximadamente 1 hora."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      " O milho não pode ser novinho como para refogar, precisa ser mais amarelinho."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DAVID ISHY DE MATOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300339-sopa-torta-pantaneira-do-david.html"
+}

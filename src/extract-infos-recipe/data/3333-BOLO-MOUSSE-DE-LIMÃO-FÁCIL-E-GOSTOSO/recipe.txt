@@ -1,0 +1,57 @@
+{
+  "nome_receita": "BOLO MOUSSE DE LIMÃO FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 xícara (chá) de açúcar",
+      "1/2 xícara (chá) de água",
+      "1 colher (sopa) de óleo",
+      "1 e 1/2 xícara (chá) farinha",
+      "1 colher (sobremesa) de fermento químico",
+      "1 pitada de sal",
+      "Calda",
+      "1/2 xícara (chá) de açúcar",
+      "1 xícara (chá) de água",
+      "suco de 1 limão",
+      "Mousse",
+      "2 latas de leite condensado",
+      "2 latas caixinhas de creme de leite",
+      "suco de 2 limões",
+      "1 colher (sopa) de gelatina incolor sem sabor",
+      "raspas de limão para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata as claras em neve e reserve",
+      "Na batedeira, bata as gemas com o sal e o açúcar até ficar claro",
+      "Adicione a farinha e a água aos poucos, batendo rapidamente",
+      "Adicione o fermento e bata rapidamente desligando a batedeira, incorpore as claras em neve com a ajuda de um fouet",
+      "Asse em uma forma redonda untada e polvilhada, de 25 cm com fundo removivel, por aproximadamente 40 minutos a 180° C",
+      "Aguarde esfriar e faça o mousse",
+      "Calda",
+      "Ferva o açúcar com a água e o limão por 5 minutos.",
+      "Coloque para esfriar",
+      "Mousse",
+      "No liquidificador, coloque o creme de leite e leite condensado, com o liquidificador ligado acrescente o suco de limão, batendo por aproximadamente 5 minutos e desligue",
+      "Hidrate a gelatina com 3 colheres (sopa) de água, após hidratada coloque no micro-ondas por 40 segundos, mexa até diluir bem.",
+      "Ligue o liquidificador, acrescente a gelatina e bata por 2 minutos.",
+      "Montagem",
+      "Ainda na forma, umideça a massa com a calda já fria, despeje o mousse sobre a massa, acertando para que fique uniforme.",
+      "Cubra com papel-filme e coloque na geladeira de 4 a 6 horas.",
+      "Após gelar, polvilhe com a raspa do limão.",
+      "Retire da forma e com o auxílio de 2 espátula coloque na bandeja.",
+      "Sirva gelado",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: para não ficar amargo raspe somente a parte fina da casca, evitando chegar na parte branca do limão"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIANE CHEDID GRANERO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303541-bolo-mousse-de-limao-facil-e-gostoso.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLINHO DE FUBÁ E TRIGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) de farinha de trigo",
+      "2 copos (americanos) de fubá",
+      "1/2 copo (americano) de leite",
+      "1 copo de açúcar",
+      "2 ovos",
+      "1 pitada de sal",
+      "1 pitada de fermento pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes.",
+      "Aqueça bem óleo e frite os bolinhos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "STEPHANY PINK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301342-bolinho-de-fuba-e-trigo.html"
+}

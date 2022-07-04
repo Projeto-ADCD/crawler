@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ROSCA DE TRANÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 copo de óleo (americano)",
+      "2 copos de leite (americano)",
+      "1 copo de água (americano)",
+      "2 ovos",
+      "1 pitada de sal",
+      "7 colheres de açúcar",
+      "2 colheres bem cheia de fermento biológico",
+      "erva-doce a gosto (opcional)",
+      "farinha até dar o ponto (mais ou menos 1,5 kg)",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "coco ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Colocar todos os ingredientes no liquidificador",
+      "Depois de bem batido, coloque numa bacia e acrescente a farinha aos poucos",
+      "Amasse bem, misture e, se quiser, coloque a erva-doce",
+      "Faça as tranças",
+      "Deixe crescer na assadeira até dobrar o volume",
+      "Asse em forno moderado",
+      "Depois de assada fure as tranças e cubra com o leite condensado e regue com o coco ralado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se quiser rechear as tranças com goiabada fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANIELLE LYRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304292-rosca-de-tranca.html"
+}

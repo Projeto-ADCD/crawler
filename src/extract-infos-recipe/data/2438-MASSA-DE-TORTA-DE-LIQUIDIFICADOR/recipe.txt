@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MASSA DE TORTA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 copos de leite",
+      "1 xícara de óleo",
+      "2 copos de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes.",
+      "Espalhe metade da massa em forma retangular umtada com manteiga, em seguida distribua o recheio de sua preferência e o restante da massa.",
+      "Asse em forno médio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANA PAULA DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305208-massa-de-torta-de-liquidificador.html"
+}

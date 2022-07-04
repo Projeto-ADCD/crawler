@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PANQUECAS SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "1 xícara de farinha de trigo",
+      "1 colher (chá) de manteiga",
+      "Extrato de baunilha",
+      "1 ovo",
+      "Açucar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes e frite com uma colher de chá de manteiga."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva acompanhado com mel, nutella ou açucar em pó.\nNão adicione manteiga na massa."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANNIKA LALGY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301690-panquecas-simples.html"
+}

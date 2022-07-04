@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PAVÊ GELADO DE CREME BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga sem sal",
+      "1 litro de leite",
+      "3 colheres (sopa) de maisena",
+      "1 lata de leite condensado",
+      "3 gemas peneiradas",
+      "1 caixa de creme de leite",
+      "2 pacotes de bolacha maisena ou bolacha de leite",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, acrescente a manteiga, a maisena dissolvida no leite, o leite condensado e as gemas",
+      "Mexa bem em fogo baixo até engrossar",
+      "Não pare de mexer em nenhum momento para não empelotar",
+      "Desligue o fogo e acrescente o creme de leite",
+      "Mexa bem até a mistura ficar homogênea",
+      "Separe um recipiente fundo e coloque um pouco de leite",
+      "Molhe as bolachas nesse leite até umedecer bem",
+      "Em uma travessa, monte o pavê da seguinte maneira: bolachas molhadas no leite, creme de pavê, bolachas, creme de pavê, bolachas, creme de pavê (a última camada deve ser que creme de pavê)",
+      "Por último, acrescente o coco ralado por cima do pavê",
+      "Deixe gelar bem, de preferência de um dia para o outro."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ISABEL DUARTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304018-pave-gelado-de-creme-branco.html"
+}

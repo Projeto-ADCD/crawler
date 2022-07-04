@@ -1,0 +1,31 @@
+{
+  "nome_receita": "DONUTS AMERICANOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite morno",
+      "5 colheres (sopa) de açúcar",
+      "2 ovos",
+      "1 colher (sopa) de fermento biológico seco instantâneo",
+      "4 xícara de farinha de trigo",
+      "1 pitada de sal",
+      "1 colher (chá) de essência de baunilha",
+      "75 g de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira acrescente o leite, o açúcar, os ovos, e o fermento e misture",
+      "Em seguida coloque a farinha, a pitada de sal, a essência de baunilha e a manteiga e bata até a massa ficar completamente lisa e homogênea",
+      "Coloque a massa em uma vasilha, tampe e deixe descansar por 30 minutos em um lugar quente",
+      "Após 30 minutos, abra a massa em uma espessura média e corte-a em formato redondo (dica: ultilizar copo)",
+      "depois que cortar toda a massa, deixar descansar por mais 20 minutos.",
+      "Fritar em óleo quente até dourar.",
+      "Decoração a gosto (cobertura de chocolate e granulado colorido, açúcar de confeiteiro).",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ISABELLA DE SOUZA MORAIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303397-donuts-americanos.html"
+}

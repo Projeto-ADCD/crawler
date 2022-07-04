@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA NATALINA DE AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de manteiga",
+      "100 g de bacon picadinho",
+      "100 g de linguiça calabresa picadinha",
+      "1 xícara (chá) de nozes picadas",
+      "1 xícara de amendoim torrado sem pele (opcional)",
+      "1 cebola bem picadinha ",
+      "2 maçãs picadas com a casca",
+      "1/2 xícara (chá) de passas sem semente ou, se preferir, use damasco",
+      "3 colheres (sopa) de salsinha bem picada",
+      "2 xícaras (chá) de farofa tradicional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga em uma panela, junte a cebola e deixe fritar até ficar levemente dourada",
+      "Acrescente o bacon, a linguiça, as passas ou damasco e deixe amolecer um pouco",
+      "Desligue o fogo, acrescente as maçãs picadas, a salsinha e a farofa tradicional, misture tudo muito bem",
+      "Volte a panela ao fogo e deixe a farofa esquentar bem, mas sempre mexendo para não queimar",
+      "Acrescente as nozes e o amendoim (opcional), desligue o fogo",
+      "Decoração: Enfeite a farofa com ramos de salsinha, nozes, tomates cereja ou da forma que você preferir. Se quiser acrescente na decoração o amendoim e as nozes para dar um toque diferente e crocante."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SANDRA M C SOUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303759-farofa-natalina-de-amendoim.html"
+}

@@ -1,0 +1,45 @@
+{
+  "nome_receita": "AUTÊNTICA PAELLA ESPANHOLA DE FRUTOS DO MAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 dentes de alho",
+      "3 tomates",
+      "2 cebolas",
+      "1 pimenta americana",
+      "1 sépia (na falta, usar lula)",
+      "700 g de garoupa ou pargo limpo ou qualquer outro peixe de mar bom de caldo (não use peixes sanguíneos e nem tainha)",
+      "1,5 litros de água",
+      "300 g de conchinha (coquile, amêixoa...)",
+      "mexilhão para enfeitar",
+      "1 colher (chá) de cominho moído",
+      "1 pimentão seco [pode substituir por 1 colher (sopa) de páprica doce]",
+      "1 colher (sopa) de cúrcuma em pó",
+      "8 punhados de arroz espanhol bomba (na falta, usar arroz cateto, mas não fica igual)",
+      "1 punhado de salsinha",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o peixe e a água em uma panela e cozinhe até formar caldo",
+      "Deixe as conchas na água com sal para soltar a areia",
+      "Em um tacho grande, refogue no azeite o alho, a cebola, a pimenta e o tomate (nessa ordem)",
+      "Acrescente todos os temperos secos, a salsinha e refogar mais um pouco",
+      "Acrescente a sépia e refogue",
+      "Separe o peixe do caldo",
+      "Limpe a carne cozida do peixe, tirando a espinha e a pele",
+      "Coloque o arroz no tacho e refogue junto",
+      "Quando os grãos de arroz ficarem transparentes, acrescente o caldo na proporção de 1 para 3",
+      "Incorpore as conchas e deixe cozinhar sem mexer até secar",
+      "Pode decorar com pimentões vermelhos assados e rodelas de limão por cima",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Atenção: esta receita é originária do sul da Espanha. Existem muitas variações de paella por toda a geografia espanhola."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SARITA ALVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305033-autentica-paella-espanhola-de-frutos-do-mar.html"
+}

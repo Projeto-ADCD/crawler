@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO COM MAIONESE E BATATA RÚSTICA ASSADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa e sobrecoxa ",
+      "1 kg de batata inglesa ",
+      "1 pote de maionese",
+      "4 sachês de tempero pronto",
+      "suco de um limão ",
+      "pimenta calabresa a gosto ",
+      "sal e pimenta a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe a coxa da sobrecoxa",
+      "Tempere a maionese com o sal, a pimenta, os sachês e o suco do limão ",
+      "Pique a batata",
+      "Em uma panela, tempere todas as coxas e as sobrecoxas e a batata com a maionese ",
+      "Coloque em uma travessa e leve ao forno 180° C",
+      "Sirva-se "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CEM NOÇÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301820-frango-com-maionese-e-batata-rustica-assados.html"
+}

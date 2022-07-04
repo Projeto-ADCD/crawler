@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLO SEM GORDURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "2/5 xícaras açúcar",
+      "2/5 xícaras farinha de trigo",
+      "2 colheres de fermento em pó",
+      "2 copos de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador e bata por um minuto ",
+      "Unte a forma com manteiga",
+      "Pré aqueça o forno a 180º",
+      "Asse por 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIA DOS SANTOS ROLDAO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300829-bolo-sem-gordura.html"
+}

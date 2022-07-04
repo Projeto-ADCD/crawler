@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PÃO 100% INTEGRAL ANA LOPES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo integral (440g)",
+      "1 colher (sopa) de açúcar mascavo (15g)",
+      "1 colher (sopa) e meia de fermento biológico seco(10g) ou 40g de fermento fresco.",
+      "3 colheres (sopa) de aveia em flocos (opcional)",
+      "1 colher (chá) de sal (10g)",
+      "1/2 xícara de azeite de oliva (170ml)",
+      "1 e 1/2 xícara de água (400ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para fazer o nosso pão integral vamos precisar de um recipiente grande para fazer a mistura dos ingredientes, lembrando que você também pode fazer no liquidificador ou na batedeira.",
+      "Vamos começar colocando toda a nossa água, o azeite de oliva, o fermento, o açúcar mascavo e o sal.",
+      "Misture tudo.",
+      "Coloque a aveia em flocos e misture novamente.",
+      "Agora vamos começar a colocar a farinha aos poucos.",
+      "Coloque algumas colheres, e mexa, adicione mais colhere e mexa novamente, faça isso até terminar de misturar toda a farinha.",
+      "O segredo dessa massa é incorporar a farinha aos poucos.",
+      "Misture e mexa muito bem a massa pois nós não vamos sovar ela.",
+      "Após misturar bem, está pronta a massa. A consistência dela será bem elática e bem pegajosa.",
+      "Podemos passar ela para uma forma untada ou com papel manteiga, estou usando uma forma retangular para fazer pão de forma.",
+      "Podemos granular a parte de cima do nosso pão com aveia em flocos ou qualquer outro tipo de cereal ou semente que você tiver.",
+      "Deixe a massa descansar por 1 hora para poder crescer. Atenção nessa hora, pois caso esteja muito quente na sua casa, a probabilidade do seu pão crescer antes da hora é grande. Caso isso aconteça, pode levar pro forno mesmo antes de completar 1 hora.",
+      "Eu costumo deixar a massa descansando dentro de um saquinho plástico para não entrar ar e manter a temperatura.",
+      "Agora podemos levar o nosso pão integral ao forno.",
+      "Deixe assar em forno pré aquecido a 180 graus por 40 a 45 minutos.",
+      "Antes de tirar do forno, confira com uma faquinha espetando no meio do pãozinho para ver se está pronto. Se a faca sair sequinha, pode desligar o forno, caso contrário deixe mais um pouco."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301281-pao-100-porcento-integral-ana-lopes.html"
+}

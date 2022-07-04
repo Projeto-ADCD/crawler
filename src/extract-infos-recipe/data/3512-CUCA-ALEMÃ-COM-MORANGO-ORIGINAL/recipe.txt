@@ -1,0 +1,49 @@
+{
+  "nome_receita": "CUCA ALEMÃ COM MORANGO ORIGINAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1/2 colher (sopa) de fermento seco biológico",
+      "1/2 colher (sopa) de açúcar",
+      "150 ml de água morna",
+      "1 ovo",
+      "1 colher (sopa) de banha de porco",
+      "80 ml de leite morno",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de óleo",
+      "1/2 xícara de açúcar",
+      "3 xícaras de trigo",
+      "Cobertura:",
+      "2 bandejas de morango",
+      "1 caixa de leite condensado",
+      "Farofa:",
+      "1 xícara de açúcar",
+      "1 xícara de trigo",
+      "raspa de 1 limão",
+      "gotas de essência de baunilha a gosto",
+      "2 colheres (sopa) de banha de porco",
+      "2 colheres (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Misture, fermento, açúcar e água, mexa e deixe descansar por 15 minutos",
+      "Acrescente o ovo, a banha, o leite, o sal, o óleo, o açúcar e o trigo",
+      "Mexa tudo com as mãos",
+      "Deixe descansar por 30 minutos coberto",
+      "Unte a forma com margarina",
+      "Abre a massa na forma retangular",
+      "Descanse a massa por 20 minutos na forma",
+      "Corte os morangos na metade",
+      "Enfileire por cima da massa",
+      "Cubra os morangos com o leite condensado",
+      "Coloque a farofa mistura por cima de tudo",
+      "Asse no forno por 30 minutos a 180ºC"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303221-cuca-alema-com-morango-original.html"
+}

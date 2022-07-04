@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PIZZA DE MICRO-ONDAS DA RAISSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de leite",
+      "2 colheres de azeite",
+      "3/4 de xícara de farinha com fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo muito bem.",
+      "Coloque por 3 minutos no micro-ondas.",
+      "Coloque o recheio de sua preferência.",
+      "Coloque por mais 1 minuto e 30 segundos no micro-ondas.",
+      "Está pronta a sua receita!",
+      "Bom apetite! "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "RAISSA CHINELATO MATTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300965-pizza-de-micro-ondas-da-raissa.html"
+}

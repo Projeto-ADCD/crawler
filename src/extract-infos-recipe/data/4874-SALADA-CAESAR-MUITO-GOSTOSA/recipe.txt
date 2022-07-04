@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SALADA CAESAR MUITO GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 alface americana ou crespa",
+      "3 copos Repolho",
+      "1 cenoura",
+      "1 manga",
+      "5 nuggets",
+      "5 ovos cozidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o alface picado, rale a cenoura e o repolho e corte a manga em pedaços.",
+      "Frite os nuggets e corte em pedacinhos também.",
+      "Cozinhe os ovos e corte em rodelas.",
+      "Misture tudo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opção de molho: bata 4 colheres de maionese com meia cebola, orégano e sal a gosto. Não exagere no molho pois ele é um pouco forte."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LIZZANDRA LUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300035-salada-caesar-muito-gostosa.html"
+}

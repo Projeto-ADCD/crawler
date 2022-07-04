@@ -1,0 +1,24 @@
+{
+  "nome_receita": "AMÊNDOA DE PÁSCOA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de água",
+      "2 xícaras de açúcar",
+      "1 pacote de 500 g de amendoim",
+      "1 colher (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje todos os ingredientes em uma panela grossa e deixe ferver aproximadamente por 30 minutos sem mexer.",
+      "Quando estiver em ponto de secagem da água, mexa sem parar.",
+      "O amendoim irá açucarar e então começa a caramelização e o processo de torragem do amendoim.",
+      "Mexa até o amendoim envolver-se todo no açúcar.",
+      "Quando começar a açucarar pela segunda vez, estará pronto, tire da panela e despeje em uma forma para esfriar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MAGALI INACIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299802-amendoa-de-pascoa-caseira.html"
+}

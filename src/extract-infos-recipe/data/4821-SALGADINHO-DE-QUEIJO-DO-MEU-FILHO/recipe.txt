@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SALGADINHO DE QUEIJO DO MEU FILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g farinha de trigo",
+      "100 g manteiga",
+      "100 g queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com a mão.",
+      "Comece com a farinha de trigo, depois, adicione o queijo ralado e misture.",
+      "Por ultimo, acrescente a manteiga ou margarina e misture com a mão até dar o ponto de de abrir a massa.",
+      "Faça as bolinhas e marque com o garfo.",
+      "Leve ao forno de 180 graus e deixe assar por 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANDREA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300162-salgadinho-de-queijo-do-meu-filho.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PANQUECA DE BANANA SEM OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de farinha de aveia",
+      "4 bananas nanicas",
+      "2 colheres (sopa) de leite",
+      "1 colher (chá) de chia",
+      "1 colher (sobremesa) de xilitol"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Em uma frigideira antiaderente, coloque um pouco de azeite e despeje a massa.",
+      "Vire-a até que os dois lados estejam dourados."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA LUÍSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302427-panqueca-de-banana-sem-ovos.html"
+}

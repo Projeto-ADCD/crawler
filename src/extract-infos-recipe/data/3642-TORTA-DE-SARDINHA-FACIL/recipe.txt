@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE SARDINHA FACIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos inteiros",
+      "3 xícaras de farinha de trigo",
+      "1 xícara de óleo",
+      "3 xícaras de leite sal a gosto",
+      "Recheio",
+      "3 latas de sardinha",
+      "5 ovos dois tomates",
+      "uma cebola",
+      "4 alhos",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "um sachê de tempero pronto de frango ou de carne",
+      "cheiro-verde a gosto",
+      "sal a gosto",
+      "queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes da massa no liquidificador por 3 minutos",
+      "Unte a forma com óleo e farinha de trigo",
+      "Coloque uma camada da massa",
+      "Depois colocar todo o recheio, acrescente o restante da massa por cima e polvilhe o queijo ralado",
+      "Leve ao forno por aproximadamente 40 minutos em 200°C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DANI LATIFA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302985-torta-de-sardinha-facil.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CHICO BALANCEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas",
+      "2claras ( mais 6 colheres de açúcar)",
+      "250 ml de leite (de sua preferência)",
+      "1 leite condensado",
+      "3 colheres de amido de milho",
+      "1 colher de margarina",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira derreta o açúcar e coloque num refratário",
+      "Em uma panela com o fundo grosso coloque o leite, o amido de milho, o leite condensado, e as gemas mexa bem antes de ir ao fogo",
+      "Ligue no fogo médio e mexa bem até engrossar coloque no refratário por cima do açúcar derretido espere esfriar",
+      "Bata na batedeira as claras em neve com as colheres de açúcar",
+      "Coloque por cima do creme",
+      "Leve ao forno preaquecido por 15 minutos",
+      "Coloque no freezer por aproximadamente por 1 hora",
+      "E depois é só servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JAQUE BERNARDINI DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306005-chico-balanceado.html"
+}

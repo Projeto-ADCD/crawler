@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) rasa de sal",
+      "2 canecas de água morna",
+      "1 colher de sopa de margarina",
+      "2 colheres de sopa de fermento biológico seco"
+    ],
+    "OPCIONAL": [
+      "3 colheres de sopa de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande (bacia) coloque água morna, açúcar, margarina, banha e o fermento.",
+      "Deixe essa mistura tampada por 10 minutos para descansar.",
+      "Após, adicione o trigo aos poucos e o sal e sovar bastante até a massa ficar homogênea e soltar das mãos.",
+      "Deixe a massa tampada e descansando por 2 horas, até dobrar de tamanho.",
+      "Corte a massa ao meio, enrolar como rocambole, colocar em 2 formas de assar pão.",
+      "Deixe descansar por mais 1 hora até crescer um pouco acima da borda da forma.",
+      "Coloque para assar em forno pré-aquecido a 200º graus, de 30 a 40 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Após assar, cobrir com pano de prato para não secar a casca dos pães."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "HESTEVARD MARTIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300242-pao-caseiro-facil.html"
+}

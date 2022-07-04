@@ -1,0 +1,26 @@
+{
+  "nome_receita": "COSTELINHA SUÍNA NA CACHAÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costelinha suína",
+      "150 ml de cachaça",
+      "2 raminhos de alecrim",
+      "1 cebola grande picada",
+      "4 dentes de alho",
+      "salsinha picada a gosto",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque o alho picado, a cebola picada, o alecrim, a cachaça, salsinha picada, sal e pimenta-do-reino a gosto",
+      "Junte a costelinha suína e deixe marinado por trinta minutos",
+      "Coloque em uma assadeira e leve ao forno coberto com papel alumínio, por aproximadamente 1 hora"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LARISSA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303656-costelinha-suina-na-cachaca.html"
+}

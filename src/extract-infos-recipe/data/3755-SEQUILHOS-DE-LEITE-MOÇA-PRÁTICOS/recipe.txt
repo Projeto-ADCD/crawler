@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SEQUILHOS DE LEITE MOÇA PRÁTICOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite moça",
+      "500 g de amido de milho",
+      "200 g de margarina (com sal ou sem sal)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes em uma vasilha grande",
+      "Misture com as mãos até a massa ficar brilhante e uniforme",
+      "Preaqueça seu forno a 200° C",
+      "Enrole em bolinhas do tamanho que você preferir",
+      "Coloque pra assar até dourar em baixo"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "JÚLIA DE LUCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302773-sequilhos-de-leite-moca-praticos.html"
+}

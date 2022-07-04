@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CHEESECAKE DE DANONINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bandeja (6 unidades) de danoninho sabor morango",
+      "200 ml de chantilli para bater",
+      "200 g de bolacha/biscoito maisena (1 pacote) ",
+      "2 colheres (sopa) de margarina com sal",
+      "1 pacote de gelatina de morango (75 g)",
+      "100 ml de leite",
+      "raspas de chocolate amargo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Em uma batedeira, bata o chantilli até chegar ao ponto bem consistente",
+      "Em seguida, adicione os frascos de danoninho.",
+      "Bata tudo junto e reserve.",
+      "Em seguida esquente 50 ml de leite quase ao ponto de ferver e dilua a gelatina por completo.",
+      "Depois, acrescente mais 50 ml de leite frio na gelatina.",
+      "Feito isso, junte a gelatina diluída ao recheio e bata novamente.",
+      "Massa",
+      "Triture as bolachas/biscoitos em um processador ou liquidificador até que se chegue ao ponto de farelo.",
+      "Em seguida, derreta a margarina e misture ao farelo até que se atinja uma consistência homogênea.",
+      "Feito isso, passe para uma forma de preferência arredondada (com fundo removível se possível)",
+      "Pressione a massa contra a forma com um copo liso ou alguma superfície plana até que a massa fique compacta e preencha todo o fundo da fôrma.",
+      "Coloque o recheio sobre a massa espalhando sobre a forma por completo.",
+      "Polvilhe com raspas de chocolate e leve à geladeira por pelo menos 4 horas.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "340 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JUNIO CAMARGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303487-cheesecake-de-danoninho.html"
+}

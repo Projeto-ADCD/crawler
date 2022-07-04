@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MANJAR DOS DEUSES FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 coco seco",
+      "500 ml de água",
+      "1 litro de leite integral",
+      "1 caixa de leite condensado",
+      "4 colheres de amido de milho",
+      "1 xícara de açúcar",
+      "ameixas sem caroço"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o coco no liquidificador com água.",
+      "Não coe, deixe bem grosso.",
+      "Coloque em uma panela o leite integral, o coco batido, o leite condensado e o amido de milho.",
+      "Ferva em fogo brando até engrossar.",
+      "Depois reserve em um refratário."
+    ],
+    "CALDA:": [
+      "Coloque o açúcar em uma panela em fogo brando.",
+      "Depois que ficar dourado, coloque água bem devagar, cuidado pra não se queimar.",
+      "Coloque as ameixas por cima e depois acrescente o caramelo.",
+      "Deixe na geladeira por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "EUDES GUILHERME",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303920-manjar-dos-deuses-facil.html"
+}

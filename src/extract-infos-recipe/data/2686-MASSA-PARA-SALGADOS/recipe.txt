@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA PARA SALGADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo",
+      "1 colher de óleo",
+      "1 colher (sopa) de sal",
+      "2 cubos de caldo de galinha",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a água, ligue o fogo e coloque o sal, o óleo e o caldo de tempero",
+      "Mexa até dissolver o caldo de galinha e espere ferver",
+      "Quando ferver coloque a farinha de trigo e mexa sem parar no começo, parece que vai dar errado mais não vai (é só mexer muito até virar uma massa e desgrudar do fundo da panela)",
+      "Depois de virar uma massa, espalhe um pouco de farinha de trigo na mesa e coloque a massa em cima",
+      "Polvilhe um pouco de farinha de trigo em cima e deixe esfriar",
+      "Depois de frio e só sovar com as mãos",
+      "Pronto dá para fazer coxinha, enroladinho e bolinha de queijo e muito mais"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RAILANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304653-massa-para-salgados.html"
+}

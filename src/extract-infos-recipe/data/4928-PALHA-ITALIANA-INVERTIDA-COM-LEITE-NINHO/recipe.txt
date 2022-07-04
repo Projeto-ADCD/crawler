@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PALHA ITALIANA INVERTIDA COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas (ou latas) de leite condensado",
+      "2 pacotes de biscoito Negresco",
+      "8 colheres de sopa de Leite Ninho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado e o Leite Ninho.",
+      "Leve ao fogo baixo e mexa até desgrudar da panela, mas não deixe chegar a ponto de brigadeiro para não ficar muito duro.",
+      "Desligue o fogo, quebre os biscoitos (com o recheio) bruscamente e junte a massa.",
+      "Transfira a massa para um pirex ou tabuleiro untado com margarina e deixe esfriar.",
+      "Corte em quadradinhos e envolva-os com Leite Ninho."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "INGRID VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299938-palha-italiana-invertida-com-leite-ninho.html"
+}

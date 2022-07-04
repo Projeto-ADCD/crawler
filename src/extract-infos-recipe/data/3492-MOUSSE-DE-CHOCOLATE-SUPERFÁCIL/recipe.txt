@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE CHOCOLATE SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de chocolate picado",
+      "6 ovos (claras e gemas separadas)",
+      "80 g de açúcar",
+      "50 g de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate junto com a manteiga em banho-maria",
+      "Depois de tudo derretido, retire do fogo e misture as gemas uma a uma (recomendo peneirar as gemas pra evitar aquele cheirinho de ovo)",
+      "Em outra tigela, bata as claras em neve junto com o açúcar",
+      "Quando as claras estiverem firmes, acrescente delicadamente no creme de chocolate mexendo de baixo pra cima até incorporar bem (recomendo misturar 1/3 das claras a cada vez)",
+      "Despeje em um pote grande ou em potinhos individuais e leve pra gelar por no minimo 4 horas",
+      "Pode adicionar castanhas e frutas vermelhas por cima na hora de servir, fica lindo"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MÔNICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303255-mousse-de-chocolate-superfacil.html"
+}

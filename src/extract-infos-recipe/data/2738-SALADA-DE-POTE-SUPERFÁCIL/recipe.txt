@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SALADA DE POTE SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de molho para salada de sua preferência",
+      "1 cenora ralada",
+      "1 beterraba ralada",
+      "1 cebola roxa",
+      "1 lata de milho verde",
+      "1 pepino cortado em rodelas",
+      "5 tomates cereja ou 1 tomate picado",
+      "2 colheres (sopa) de quinoa",
+      "6 ovos cozidos ou ovos de codorna",
+      "repolho a gosto",
+      "alface americana a gosto",
+      "filé de frango grelhado cortado em tiras a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para montar a salada de pote as camadas na devida ordem são essenciais.",
+      "1ª camada: o molho",
+      "2ª camada: a cenoura, a beterraba e a cebola roxa",
+      "3ª camada: o milho verde, o pepino, o tomate cereja, o ovo cozido e a quinoa",
+      "4ª camada: o repolho e a alface americana",
+      "5ª camada: o frango"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LUANA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304544-salada-de-pote-superfacil.html"
+}

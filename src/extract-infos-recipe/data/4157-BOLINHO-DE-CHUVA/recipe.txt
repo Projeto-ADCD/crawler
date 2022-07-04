@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de leite",
+      "3 xícaras de trigo",
+      "1 colher (chá) de fermento",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (sopa) de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até obter uma massa mole e homogênea.",
+      "Numa panela com o óleo quente, vá colocando as bolinhas de bolinho. Quando dourarem, retire.",
+      "Polvilhe os bolinhos com açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOSIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301713-bolinho-de-chuva.html"
+}

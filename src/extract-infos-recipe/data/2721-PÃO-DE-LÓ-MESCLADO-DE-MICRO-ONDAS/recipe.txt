@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO DE LÓ MESCLADO DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 copos (americano) de açúcar",
+      "2 copos (americano) de trigo",
+      "1 colher de fermento em pó",
+      "1 copo (americano) de leite morno",
+      "5 colheres de chocolate 50% cacau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o açúcar até virar uma espuma",
+      "Já com a batedeira desligada e com a ajuda de um fouet, misture o trigo e o leite aos poucos e delicadamente",
+      "Com a massa já homogênea, divida a massa em duas partes",
+      "Numa parte da massa acrescente o chocolate em pó e misture delicadamente",
+      "Divida a colher do fermento para as duas massas e misture delicadamente",
+      "Use uma forma de silicone ou recipiente para micro-ondas",
+      "Unte a forma com óleo e intercale as massas",
+      "Leve ao micro-ondas por 8 a 10 minutos",
+      "Após retirar o bolo do micro-ondas deixe esfriar por apenas 8 minutos e desenforme",
+      "A cobertura fica a critério, o bolo também pode ser recheado e coberto com chantili ou de sua preferência",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: também pode ser feito somente com chocolate, só acrescentar mais chocolate 50% cacau na massa ou fazer a massa tradicional mesmo branquinha."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA CLAUDIA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304577-pao-de-lo-mesclado-de-micro-ondas.html"
+}

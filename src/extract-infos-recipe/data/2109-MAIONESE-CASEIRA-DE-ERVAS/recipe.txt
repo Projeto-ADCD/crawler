@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MAIONESE CASEIRA DE ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos inteiros",
+      "350 ml óleo de girassol gelado (aproximadamente)",
+      "1 colher (sobremesa) de sal",
+      "1 limão espremido",
+      "1 colher (sobremesa) de mostarda",
+      "4 colheres de cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque os ovos, o sal, o limão, a mostarda e 2 colheres de cheiro-verde.",
+      "Acresecente o óleo aos poucos, em fios até ficar na consistência de maionese.",
+      "Use o óleo gelado para ajudar a incorporar melhor a receita.",
+      "Quando ficar pronto, acrescente o restante do cheiro-verde e bata levemente somente para incorporar.",
+      "Pode substituir o cheiro-verde por tomate seco, azeitonas pretas, alho ou o sabor que preferir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CRISTIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305987-maionese-caseira-de-ervas.html"
+}

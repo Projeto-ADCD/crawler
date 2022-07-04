@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CAPUCCINO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de chocolate em pó",
+      "2 colheres (sopa) de café solúvel",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HELENILSON BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301683-capuccino-caseiro.html"
+}

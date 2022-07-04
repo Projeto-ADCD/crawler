@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BROWNIE PERFEITO E SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1/2 xícara de achocolatado",
+      "1/2 xícara de chocolate em pó",
+      "150 g de chocolate ao leite",
+      "nozes ou castanhas a gosto",
+      "6 colheres (sopa) rasas de margarina",
+      "1/2 colher (chá) de fermento",
+      "1 e 1/4 de xícara de farinha de trigo sem fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione os ovos e o açúcar na batedeira e bata por cerca de 5 minutos.",
+      "Pique 100 g do chocolate e derreta em banho-maria, reserve 50g em pedaços para incorporar a massa no final.",
+      "Retire o chocolate do banho-maria adicionando a margarina, o achocolatado e o chocolate em pó nesse recipiente.",
+      "Com a batedeira ainda ligada adicione essa mistura, e depois a farinha.",
+      "Retire da batedeira e coloque o fermento, as nozes se tiver, e os pedaços de chocolate.",
+      "Forre o tabuleiro com papel-manteiga e preaqueça o forno por 5 minutos a 200º C.",
+      "O tempo médio de assar é 30 minutos, mas varia de forno para forno",
+      "Verifique com um palito, que deve sair levemente úmido e em cima do brownie fica uma casquinha!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LARYSSA DO NASCIMENTO PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299941-brownie-perfeito-e-simples.html"
+}

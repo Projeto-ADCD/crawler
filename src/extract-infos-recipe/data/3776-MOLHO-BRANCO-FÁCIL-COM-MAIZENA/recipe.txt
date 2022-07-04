@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOLHO BRANCO FÁCIL COM MAIZENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média",
+      "1 dente de alho",
+      "500 ml de leite líquido",
+      "2 colheres (sopa) de margarina ou manteiga",
+      "noz-moscada ralada a gosto",
+      "2 colheres (sopa) de maizena (amido de milho)",
+      "1 tablete de caldo de galinha",
+      "100 g de queijo muçarela ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola em cubos bem pequenos e rale o alho.",
+      "Em uma panela, acrescente a cebola e a margarina e deixe dourar",
+      "Quando algumas cebolas estiverem dourando, coloque o alho e refogue mais um pouco.",
+      "Em uma vasilha (fora do fogo) com o leite, acrescente as 2 colheres de maizena, misture bem e despeje na panela com o alho e a cebola refogados",
+      "Coloque o caldo e misture até levantar fervura",
+      "Quando levantar fervura, deixe por mais 2 minutos.",
+      "Desligue o fogo e rale a noz moscada e o queijo ralado",
+      "Misture bem e sirva."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KESSIA FABIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302726-molho-branco-facil-com-maizena.html"
+}

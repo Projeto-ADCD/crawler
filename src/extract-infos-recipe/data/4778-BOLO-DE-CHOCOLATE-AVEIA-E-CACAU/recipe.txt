@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE, AVEIA E CACAU",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de aveia em flocos",
+      "1 xícara de farinha de trigo",
+      "1 xícara de chocolate em pó",
+      "1/2 xícara de cacau em pó",
+      "1 colher de canela em pó",
+      "1/2 xícara de margarina",
+      "1/2 xícara de leite",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve",
+      "Adicione o açúcar, a margarina e as gemas",
+      "Coloque a farinha, a aveia, o achocolatado, o cacau e o leite",
+      "Adicione a canela e o fermento",
+      "Coloque em uma forma untada e leve ao forno médio por cerca de 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "VALDEMIR PENTEADO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300244-bolo-de-chocolate-aveia-e-cacau.html"
+}

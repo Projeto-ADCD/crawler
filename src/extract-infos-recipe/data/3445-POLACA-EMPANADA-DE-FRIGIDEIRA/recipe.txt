@@ -1,0 +1,29 @@
+{
+  "nome_receita": "POLACA EMPANADA DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polaca",
+      "farinha de trigo (para empanar)",
+      "2 ovos médios",
+      "orégano desidratado a gosto",
+      "sal e pimenta a gosto",
+      "azeite de oliva para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peixe em fatias e tempere com sal e ervas de sua preferência",
+      "Quebre os ovos e misture-os ",
+      "Misture o orégano na farinha de trigo para dar um sabor especial",
+      "Misture aos poucos as fatias de peixe na mistura de ovo e leve as mesmas ao trigo",
+      "Empane com a farinha de trigo",
+      "Em uma frigideira com um pouco de azeite, frite a polaca empanada até que esteja dourada",
+      "Lembre-se sempre de virar as fatias e adicionar mais azeite se for necessário.",
+      "Sirva junto com algum molho que goste ou limão e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303355-polaca-empanada-de-frigideira.html"
+}

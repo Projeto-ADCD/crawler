@@ -1,0 +1,45 @@
+{
+  "nome_receita": "TORTINHA MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de queijo minas Président",
+      "200 g de creme de ricota Président",
+      "150 g parmesão ralado Président",
+      "150 ml de leite integral",
+      "1 colher (sopa) de manteiga",
+      "350 g creme de leite",
+      "300 g de farinha de trigo com fermento peneirada",
+      "3 colheres de amido de milho",
+      "2 gemas",
+      "2 colheres (sopa) de manteiga ",
+      "2 colheres (sopa) de alho, de cebola roxa e de cheiro-verde",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa vasilha ou pirex, coloque os 300 g de farinha de trigo com fermento peneirada",
+      "Abra um buraco no meio e acrescente 2 colheres (sopa) de manteiga e misture",
+      "Acrescente aos poucos o creme de leite (200 g) até desgrudar das mãos",
+      "Leve à geladeira por 20 minutos",
+      "Num recipiente, coloque o leite integral e as 3 colheres de amido, misture e reserve ",
+      "Numa panela, coloque 1 colher (sopa) de manteiga e doure a cebola e o alho",
+      "Desligue o fogo e acrescente a mistura do leite com o amido e as gemas",
+      "Em fogo médio, misture até engrossar",
+      "Desligue o fogo, acrescente o queijo minas, 150 g de creme de leite, o creme de ricota e o cheiro-verde",
+      "Reserve",
+      "Retire a massa da geladeira e abra em forminhas para tortinhas ou empadas (formas crespas ou lisas n° 3 ou 4)",
+      "Preaqueça o forno a 180ºC e asse por 10 minutos",
+      "Retire do forno, recheie com o creme e polvilhe o queijo parmesão",
+      "Asse por volta de 10 a 15 minutos (até dourar a massa)",
+      "Sirva quente"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Clarissa Batista Rodrigues"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303794-tortinha-mineira.html"
+}

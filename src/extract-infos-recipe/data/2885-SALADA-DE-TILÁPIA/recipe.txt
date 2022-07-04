@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SALADA DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de tilápia",
+      "1 cebola picada",
+      "1/2 pimentão verde fatiado",
+      "1/2 pimentão amarelo fatiado",
+      "1/2 pimentão vermelho fatiado",
+      "50 g de tomate cereja (cortados ao meio)",
+      "150 g de macarrão parafuso cozido",
+      "azeite",
+      "tempero, alho e sal a gosto",
+      "coloral (uma ponta rasa de colher)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a tilápia com alho e sal",
+      "Coloque fios de azeite e o coloral na frigideira em fogo médio",
+      "Grelhe a tilápia virando de um lado para o outro até secar e dourar",
+      "Em seguida, misture a tilápia para que fique em pedaços pequenos",
+      "Acrescente a cebola e mexa por 5 minutos",
+      "Acrescente os pimentões e o tomate cereja, abafe com a tampa por 5 minutos",
+      "Acrescente o macarrão parafuso cozido e mexa",
+      "Verifique o sal",
+      "Sirva de preferência quente"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IONE MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304230-salada-de-tilapia.html"
+}

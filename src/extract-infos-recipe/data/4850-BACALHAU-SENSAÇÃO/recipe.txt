@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BACALHAU SENSAÇÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de bacalhau dessalgado e desfiado",
+      "4 batatas grandes",
+      "1 requeijão",
+      "1 creme de leite",
+      "1 cebola pequena (ralada)",
+      "coentro picadinho",
+      "2 dentes de alho amassados",
+      "300 gr de queijo mussarela (pode substituir por prato)",
+      "meio pacote de queijo ralado",
+      "3 colheres de leite em pó",
+      "2 colheres de margarina",
+      "orégano à gosto.",
+      "azeite para refogar o bacalhau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça um purê de batatas com o leite e a margarina. Reserve.",
+      "Refogue o bacalhau com o azeite, o coentro, a cebola, o alho e sal a seu gosto.",
+      "Misture o creme de leite com o requeijão.",
+      "Em uma travessa, coloque o purê, depois o bacalhau, depois a mistura do creme de leite e requeijão, por cima o queijo mussarela, o queijo ralado e o orégano.",
+      "Leve ao forno por mais ou menos 20 minutos ou até gratinar o queijo."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MICHELE CINTRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300093-bacalhau-sensacao.html"
+}

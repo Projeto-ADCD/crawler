@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CALDO DE BATATA BAROA DA LINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fio de azeite",
+      "1 cebola média",
+      "4 dentes de alho",
+      "1 kg de batata baroa",
+      "200g de frango desfiado",
+      "200 g de bacon",
+      "1 gomo de linguiça paio",
+      "2 colheres de requeijão",
+      "1/2 caixa de creme de leite",
+      "queijo mussarela ralado agosto",
+      "torradas a gosto",
+      "sal e cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata baroa com sal e caldo de galinha até que fique bem macia, assim que amornar bata no liquidificador com a água do cozimento",
+      "Em uma panela funda, coloque para dourar a cebola ralada e o alho triturado, misture bacon e paio em cubos e deixe ir dourando",
+      "Acrescente o creme batido a panela e deixe ferver 5 minutos, mexendo sempre pra não grudar no fundo",
+      "Desligue o fogo, coloque o requeijão, o creme de leite e o cheiro-verde",
+      "Ao servir, salpique mussarela por cima"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LINA FRANÇA CALDEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301301-caldo-de-batata-baroa-da-lina.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CEBOLA CARAMIZADA PARA HAMBÚRGUER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola roxa cortada em fatias não muito finas",
+      "1 colher (sobremesa) de manteiga sem sal",
+      "1/2 colher (sopa) de açúcar mascavo",
+      "canela em pó a gosto",
+      "1 colher (sopa) de shoyu"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça rapidamente uma panela larga e adicione a manteiga.",
+      "Quando começar a derreter acrescente a cebola e cozinhe em fogo médio, mexendo sempre.",
+      "Quando a cebola estiver dourada junte o molho shoyu, o açúcar e a canela e cozinhe até dourar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KÁTIA FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300194-cebola-caramizada-para-hamburguer.html"
+}

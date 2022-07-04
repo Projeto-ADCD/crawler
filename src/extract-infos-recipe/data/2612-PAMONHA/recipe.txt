@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PAMONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 espigas de milho",
+      "1 colher (sopa) de margarina",
+      "1 xícara de leite",
+      "1 pitada de sal",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os grãos das espigas e bata bem no liquidificador com os demais ingredientes.",
+      "Depois, coloque em forma assadeira ou refratário untado com margarina.",
+      "Cubra com papel-alumínio e asse no forno em banho-maria por aproximadamente 1 hora ou até que, espetando um palito, ele saia limpo"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CARLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304810-pamonha.html"
+}

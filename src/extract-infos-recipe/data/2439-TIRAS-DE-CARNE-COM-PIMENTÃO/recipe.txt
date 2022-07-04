@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TIRAS DE CARNE COM PIMENTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de tiras de carne",
+      "3 dentes de alho",
+      "1 colhes (sopa) de azeite",
+      "sal a gosto",
+      "1/2 cebola",
+      "1/2 pimentão",
+      "1 colher (sopa) de molho inglês"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere as tiras de carne com alho e sal",
+      "Frite no azeite ate dourar, depois coloque as tiras de pimentão e cebola.",
+      "Coloque o molho inglês e mexa por 1 minuto e desligue."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRESSA YNUMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305202-tiras-de-carne-com-pimentao.html"
+}

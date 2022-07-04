@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CUCA SIMPLES FOFINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "2 colheres (sopa) de manteiga ou margarina em temperatura ambiente",
+      "1 colher (chá) de essência de baunilha (opcional)",
+      "1 xícara de leite",
+      "4 xícaras de farinha de trigo",
+      "2 colheres (sopa) de fermento em pó químico",
+      "Para a farofa",
+      "1 xícara de açúcar",
+      "1 xícara de farinha de trigo",
+      "canela a gosto",
+      "2 colheres (sopa) bem cheias de manteiga ou margarina em temperatura ambiente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata primeiro os ovos, o açúcar e a manteiga até formar um creme esbranquiçado.",
+      "Coloque a essência, se desejar dar um gostinho mais acentuado no bolo (opcional)",
+      "Em seguida, acrescente o leite.",
+      "Continue batendo.",
+      "Aos poucos vá acrescentando a farinha de trigo e batendo.",
+      "Use uma espátula para ajudar a misturar a massa.",
+      "Por último, acrescente o fermento e bata.",
+      "Unte uma forma com manteiga e farinha e despeje a massa.",
+      "Reserve.",
+      "Para a farofa",
+      "Coloque todos os ingredientes numa tigela e vá mexendo até formar uma farofinha.",
+      "Espalhe a farofa no bolo e leve ao forno preaquecido em 180° C entre 30 a 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RAQUEL PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305539-cuca-simples-fofinha.html"
+}

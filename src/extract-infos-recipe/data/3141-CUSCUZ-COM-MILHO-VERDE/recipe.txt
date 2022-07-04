@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CUSCUZ COM MILHO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farinha de cuscuz",
+      "1 lata de milho verde",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho verde no liquidificador",
+      "Logo depois, coloque o milho verde batido dentro da massa de cuscuz e acrescente a pitada de sal",
+      "Deixe descansar por 10 minutos.",
+      "Logo depois peque a cuscuzeira e coloque até enche-la",
+      "Deixe no fogo por 15 minutos.",
+      "E se sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CAMILA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303821-cuscuz-com-milho-verde.html"
+}

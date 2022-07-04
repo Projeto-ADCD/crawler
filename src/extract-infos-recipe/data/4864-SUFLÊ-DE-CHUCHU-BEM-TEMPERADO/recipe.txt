@@ -1,0 +1,40 @@
+{
+  "nome_receita": "SUFLÊ DE CHUCHU BEM TEMPERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 a 5 chuchus",
+      "1 copo de leite",
+      "1 colher de farinha de trigo",
+      "1/2 cebola picadinha",
+      "1 colher alho amassado",
+      "sal a gosto",
+      "1 cenoura ralada grosso",
+      "200 g de peito de peru ou presunto (opcional)",
+      "200 g de queijo ralado",
+      "4 claras em neve",
+      "4 gemas",
+      "2 colheres de manteiga ou margarina",
+      "orégano, salsa e cebolinha a gosto",
+      "1/2 cubo de caldo (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os chuchus, coloque em uma panela com agua até cobri-los e acrescente o sal e tablete de caldo",
+      "Cozinhe até ficarem bem macios",
+      "Em outra panela, doure a cebola na manteiga, acrescente o alho e  a farinha de trigo",
+      "Mexa até a farinha ficar com uma espuma esbranquiçada, uns 2 minutos",
+      "Acrescente o leite e mexa mais 5 minutos.",
+      "Escorra o chuchu e misture ao molho branco.",
+      "Acrescente as gemas, o presunto picadinho, o orégano, a salsa, a cebolinha e o queijo ralado.",
+      "Por último, misture lentamente as claras em neve",
+      "Leve ao forno em uma assadeira.",
+      "Ele não irá crescer, apenas diminuir, secando agua",
+      "Asse em fogo alto a 200 C ou mais, por aproximadamente 40 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300057-sufle-de-chuchu-bem-temperado.html"
+}

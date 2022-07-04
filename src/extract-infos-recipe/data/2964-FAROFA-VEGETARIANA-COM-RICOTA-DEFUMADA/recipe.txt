@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA VEGETARIANA COM RICOTA DEFUMADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa com soja (200 g)",
+      "100 g de ricota defumada picada em cubinhos",
+      "1/3 de xícara (chá) ou 80 ml de azeite de oliva",
+      "1/2 cebola picada",
+      "1/2 xícara (chá) ou 50 g de azeitonas picadas",
+      "1 xícara (chá) ou 100 g de cenoura ralada",
+      "1/2 lata de milho",
+      "1/2 lata de ervilha",
+      "3 ovos cozidos picados",
+      "sal, orégano e cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo baixo, frite os cubinhos da ricota defumada no azeite até dourar.",
+      "Acrescente a cebola e as azeitonas (todos picados) e continue fritando por 5 minutos.",
+      "Em seguida, acrescente a cenoura, o milho e a ervilha",
+      "Mexa mais um pouco, até que todos os ingredientes estejam bem envolvidos no azeite.",
+      "Apague o fogo e acrescente a farofa com soja e os ovos cozidos picados.",
+      "Misture tudo muito bem.",
+      "Corrija o sal a seu gosto e tempere com orégano e cheiro-verde."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "FANNY LANATOVITZ MODOLO TIENGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304065-farofa-vegetariana-com-ricota-defumada.html"
+}

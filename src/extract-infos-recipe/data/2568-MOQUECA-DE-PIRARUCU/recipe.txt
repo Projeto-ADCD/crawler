@@ -1,0 +1,45 @@
+{
+  "nome_receita": "MOQUECA DE PIRARUCU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pirarucu",
+      "2 pimentões verde",
+      "2 pimentões vermelho",
+      "2 pimentões amarelo",
+      "2 tomates grandes",
+      "2 cebolas grandes",
+      "400 ml de leite de coco",
+      "3 colheres de azeite",
+      "3 colheres de azeite-de-dendê",
+      "2 tabletes de caldo de peixe",
+      "3 colheres de molho shoyu",
+      "3 limões",
+      "4 dentes de alho",
+      "10 g de açafrão",
+      "cheiro-verde e cebolinha",
+      "pimenta de cheiro",
+      "pimenta-do-reino",
+      "pimenta dedo-de-moça"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peixe em cubos grandes, acrescente azeite, shoyu, açafrão, o alho, os limões, pimenta-do-reino e a pimenta de cheiro,",
+      "Misture tudo e deixe marinar na parte de baixo da geladeira por pelo menos 2 horas",
+      "Sele os cubos de peixe já marinados em uma panela bem quente e reserve",
+      "Em uma panela aqueça o creme de leite, dissolva os tabletes do caldo de peixe e reserve",
+      "Corte as cebolas, tomates e pimentões em rodelas grandes",
+      "Forre o fundo da panela de barro com metade das cebolas, tomates e pimentões",
+      "Disponha o peixe já marinado por cima desta camada",
+      "Monte outra camada com o restante das cebolas, tomates e pimentões",
+      "Despeje o líquido da marinada, o leite de coco preparado previamente e o azeite de dendê na panela",
+      "Tempere com sal a gosto",
+      "Tampe a panela e deixe cozinhar por 35 minutos ou até que peixe esteja cozido",
+      "Despeje o cheiro-verde e a pimenta dedo de moça por cima e sirva."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "REGYS BORGES DA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304931-moqueca-de-pirarucu.html"
+}

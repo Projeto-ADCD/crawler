@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MASSA BÁSICA PARA SALGADO FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos (300 ml) de leite",
+      "3 colheres (sopa) de manteiga ou margarina",
+      "1 cubo de caldo de galinha (cortado em pedacinhos para facilitar na dissolução)",
+      "sal a gosto",
+      "3 copos (300 ml) de farinha de trigo",
+      "recheio de sua preferência",
+      "ovo e farinha de rosca para empanar",
+      "recheio de sua preferência",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela leve ao fogo o leite, a manteiga ou margarina, o caldo de galinha e o sal.",
+      "Quando levantar fervura abaixe o fogo, adicione a farinha de trigo e mexa bem.",
+      "Cozinhe por mais alguns instantes até soltar do fundo da panela.",
+      "Retire do fogo.",
+      "Despeje a massa em uma bancada e sove até adquirir uma consistência lisa e macia.",
+      "Com a massa ainda morna modele os salgados com o recheio escolhido.",
+      "Empane no ovo previamente batido e na farinha de rosca.",
+      "Frite aos poucos em óleo quente.",
+      "Dica: sempre modele com a massa ainda morna, porque depois de fria, pode ressecar um pouco."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "JOSELAINE DA SILVA CARDOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304724-massa-basica-para-salgado-frito.html"
+}

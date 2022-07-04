@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOLHO DE COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "manteiga",
+      "alho",
+      "cebola",
+      "200g de cogumelos frescos",
+      "pimenta do reino (pimenta preta)",
+      "sal",
+      "1 caixa de creme de leite (natas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande em fogo médio, adicione a manteiga. Quando ela derreter, adicione a cebola e o alho e frte até as cebolas ficaram translúcidas, quase transparentes. ",
+      "Depois adicione os cogumelos (fatiados ou inteiros) e refogue por mais cinco minutos.",
+      "Em seguida, junte os cogumelos reservados, tempere com sal e pimenta a gosto e deixe ferver de 7 a 10 minutos, dependendo da consistência do molho que você desejar.",
+      "Retire 3/4 dos cogumelos e reserve, adicione as natas (creme de leite) e bata com a varinha (mixer)."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EMANUELE LANGE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300165-molho-de-cogumelos.html"
+}

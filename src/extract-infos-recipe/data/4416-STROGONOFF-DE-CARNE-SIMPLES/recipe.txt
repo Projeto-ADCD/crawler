@@ -1,0 +1,26 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g filé de carne",
+      "2 dentes de alho",
+      "1 cebola grande",
+      "2 tomates maduros",
+      "1/2 lata de extrato de tomate",
+      "1 caixinha de creme de leite",
+      "Sal e óleo à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a carne em cubinhos e frite no óleo e alho.",
+      "Acrescente a cebola e os tomates picados e o sal.",
+      "Deixe cozinhar até ficar um molho grosso, coloque o extrato de tomate e cozinhe em fogo baixo por mais 10 minutos.",
+      "Por último, acrescente o creme de leite e mexa bem"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "HEMMANUELLY VARGAS MEISER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301175-strogonoff-de-carne-simples.html"
+}

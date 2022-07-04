@@ -1,0 +1,26 @@
+{
+  "nome_receita": "REPOLHO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite",
+      "2 xícaras de repolho ralado no ralo grosso",
+      "2 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de manteiga derretida",
+      "2 colheres (sopa) de leite quente",
+      "Sal e tempero à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o leite da xícara em uma panela, e em seguida acrescente o repolho.",
+      "Deixe ferver e aguarde cozinhar por aproximadamente 2 minutos.",
+      "Em um recipiente à parte, misture a manteiga, a farinha e as 2 colheres de leite.",
+      "Acrescente ao repolho e aguarde cozinhar por mais uns 3 minutos ou até engrossar, mexendo sem parar.",
+      "Tempere à gosto."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301121-repolho-cremoso.html"
+}

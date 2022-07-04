@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CAFÉ E CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 xícara de açúcar demerara",
+      "2 e 1/2 xícara de farinha de trigo",
+      "2 colheres (sopa) de manteiga ",
+      "1 xícara de café bem forte amargo ",
+      "2 colheres (café) de canela em pó",
+      "3 colheres (sopa) de leite condensado (opcional)",
+      "4 colheres (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira as claras do ovo até ponto de neve",
+      "Em seguida adicione as gemas, o açúcar, a canela, a manteiga e o leite condensado (opção para quem gosta do bolo mais doce), e bata em velocidade média até formar um creme.",
+      "Acrescente aos poucos a farinha de trigo e, ao mesmo tempo, o café tomando o cuidado para deixar a massa pastosa.",
+      "Finalmente, acrescente o fermento em pó, mexendo bem para homogeneizar.",
+      "Asse em forno médio (190°) por 35 minutos. Use forma redonda."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RENATO MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300913-bolo-de-cafe-e-canela.html"
+}

@@ -1,0 +1,79 @@
+{
+  "nome_receita": "PORCHETTA RECHEADA DE FRANGO COM FAROFA YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 barriga de porco (panceta) de mais ou menos 2,5 kg",
+      "1 frango inteiro com pele e desossado",
+      "1/2 maço de salsinha",
+      "1/2 maço de cebolinha",
+      "1 talo de alho poró",
+      "uvas passas brancas ou pretas a gosto",
+      "6 dentes de alho",
+      "1/2 unidade de pimentão amarelo ",
+      "1/2 unidade de pimentão vermelho",
+      "farinha de mandioca torrada Yoki",
+      "1/2 pacote de farofa de milho Yoki",
+      "1 pedaço de bacon (200 g)",
+      "1 cebola ",
+      "250 g de manteiga sem sal",
+      "sal",
+      "pimenta-do-reino",
+      "1 tomate",
+      "nozes a gosto"
+    ],
+    "MARINADA PARA CARNES": [
+      "6 litros de água",
+      "300 g de sal ",
+      "180 g de açúcar refinado",
+      "10 g de curry",
+      "2 g de pimenta-do-reino",
+      "5 g de páprica doce ou picante",
+      "5 g de açafrão",
+      "2 g de pimenta calabresa",
+      "10 g de alho"
+    ]
+  },
+  "passos": {
+    "MARINADA:": [
+      "Adicione 6 litros de água em uma panela",
+      "Adicione a água, o sal, o açúcar, o alho picadinho (brunoise), o curry, a pimenta-do-reino moída, a páprica picante, o açafrão, a pimenta calabresa",
+      "Afervente a mistura em fogo baixo e deixar esfriar (levar ao refrigerador), este passo é para homogeneizar a mistura e deixar o sabor mais uniforme",
+      "Adicione a mistura a uma bacia ou recipiente para adicionar as carnes",
+      "Adicione o frango e barriga suína, leve à geladeira",
+      "Deixe marinando por 12 a 14 horas",
+      "Após este tempo, retire da marinada e deixar escorrer."
+    ],
+    "PREPARO DA FAROFA:": [
+      "Em uma panela de ferro ou antiaderente, em fogo baixo, adicionar 25 g de manteiga e deixe derreter",
+      "Separe a gordura do bacon e corte em cubinhos",
+      "Adicione à manteiga até derreter bastante e começar a dourar",
+      "Adicione a cebola picadinha (brunoise) e refogue até ficarem translúcidas",
+      "Adicione o alho picadinho (brunoise), até dourar, neste processo deve-se mexer o tempo inteiro, para extrair o máximo de sabor",
+      "Adicione a carne do bacon cortada em cubos (macedone) e reforgue até começarem a dourar",
+      "Adicione o pimentão picadinho (brunoise), o tomate picadinho (brunoise), o alho poró picadinho (hachet) e incorpore ao refogado",
+      "Abaixe mais o fogo e adicione a farinha de mandioca Yoki, a farofa de milho temperada Yoki, as nozes bem quebradinhas, as uvas passas e incorpore aos demais ingredientes",
+      "Adicione a salsinha e a cebolinha picadinhas (hachet) e incorpore aos ingredientes",
+      "Abra com a colher um buraco ao centro da panela e adicionar toda a manteiga restante, deixar derreter, sem deixar queimar no fundo e incorpore à farofa, é importante que esteja úmida ou bem amanteigada, tendo em vista que ainda passara por processo de cocção no forno e irá secar um pouco (caso necessário adicionar mais um pouco de manteiga)",
+      "Adicionar o sal e a pimenta-do-reino, pouco a pouco até acertar o ponto, ou conforme o gosto"
+    ],
+    "PREPARO DA PORCHETTA:": [
+      "Em uma superfície, abrir a barriga suína com a pele para baixo (sobre a superfície), (caso a barriga tenha muita carne, com o auxílio de uma faca, corte como no preparo de lombo falso, deixando uma aba de carne para enrolar, mas o ideal é que a barriga seja bem fina e com uma capa de gordura integra sobre toda a peça)",
+      "Abra a carne de frango, sobre a barriga suína, com a pele do frango para baixo",
+      "Adicione a farofa sobre a carne de frango, e espalhe bem, no formato das carnes, deixando um dedo e meio das bordas",
+      "Enrole como um rocambole, pressionando bem para prensar as carnes e a farofa, é importante ao enrolar que a pele da barriga suína fique para cima, cobrindo toda a peça uniformemente",
+      "Amarre bem com um barbante",
+      "Leve ao forno à 160°C por aproximadamente 4 horas",
+      "Deixe 2 horas e 30 minutos coberta com papel laminado para cozinhar bem as carnes, após este período, pincele um pouco de manteiga sobre a pele da barriga e deixe o restante do tempo (observação: A carne nesta temperatura ficará assada e suculenta, mas é necessário que a pele esteja bem dourada e sequinha)",
+      "Após assar, pururuque a pele como achar melhor: utilizando um pururucador, a salamandra, imergindo a panchetta inteira em óleo quente (fritar), jogando óleo quente, jogando cachaça ou utilizando maçarico",
+      "Corte em fatias e sirva.",
+      "Sugestão: se fizer um molho barbacue de frutas vermelhas ou uvas tintas e brancas, acompanha muito bem devido o contraste da acidez com a barriga, o frango e a farofa."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Marcos Bruno de Carvalho Bertolin"
+    ]
+  },
+  "tempo_de_preparo": "1140 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304246-porchetta-recheada-de-frango-com-farofa-yoki.html"
+}

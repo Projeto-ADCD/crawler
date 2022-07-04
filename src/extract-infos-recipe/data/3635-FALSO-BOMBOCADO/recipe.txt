@@ -1,0 +1,23 @@
+{
+  "nome_receita": "FALSO BOMBOCADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "2 latas de leite condensado",
+      "1 pacote de 100 g de coco ralado",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater todos os ingredientes no liquidificador por 3 minutos",
+      "Adicionar o fermento em pó e bater ligeiramente",
+      "Untar uma forma com furo no meio",
+      "Levar ao forno por 40 minutos, aproximadamente"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIANGELA R.BUONO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302999-falso-bombocado.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA DE PANQUECAS DELICIOSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite líquido",
+      "2 ovos",
+      "1 colher de (sopa) de óleo",
+      "1 pitada de sal",
+      "1 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea.",
+      "Depois, leve a mistura pra fritar em porções pequenas, distribuindo na frigideira em fogo médio",
+      "Vai soltando com uma espátula até conseguir virar o lado",
+      "Apertando até fritar os dois lados e separa no prato",
+      "Recheio a gosto",
+      "Obs: meu recheio foi de carne moída.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROSANGELA NEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304976-massa-de-panquecas-deliciosas.html"
+}

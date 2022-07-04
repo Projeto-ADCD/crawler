@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PEIXE PORQUINHO FRITO COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kilo de peixe porquinho (limpo e sem cabeça)",
+      "sal a gosto",
+      "pimenta-do-reino em pó a gosto",
+      "2 ovos",
+      "farinha de trigo",
+      "3 limões médios",
+      "1 colher (sopa) de açafrão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com os limões, o sal, e a pimenta do reino e deixe curtir por pelo menos 2 horas, para o tempero se infiltrar no peixe (costumo deixar de um dia para o outro).",
+      "Bata os ovos e reserve.",
+      "Em outro recipiente coloque a farinha de trigo, e o açafrão, e misture.",
+      "Passe o peixe na farinha, nos ovos, e novamente na farinha de trigo.",
+      "Frite em fogo médio/alto até que doure."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANYELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299980-peixe-porquinho-frito-com-limao.html"
+}

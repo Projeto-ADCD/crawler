@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MUFFIN DE AVEIA FITNESS NA MÁQUINA DE CUPCAKE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 banana média",
+      "3 colheres (sopa) de aveia em flocos",
+      "1/2 colher (sobremesa) de fermento em pó",
+      "40 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem a banana com um garfo",
+      "Acrescente na banana amassada o ovo e misture bem",
+      "Misture no creme que formou da banana com o ovo a aveia em flocos",
+      "Misture bem e, aos poucos, adicione a água",
+      "Por último acrescente o fermento e mexa levemente",
+      "Coloque em formas individuais para assar na máquina de cupcake elétrica por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ROSINEIDE RITA DO NASCIMENTO GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302479-muffin-de-aveia-fitness-na-maquina-de-cupcake.html"
+}

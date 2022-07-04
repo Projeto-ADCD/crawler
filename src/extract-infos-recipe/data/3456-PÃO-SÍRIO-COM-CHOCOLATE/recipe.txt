@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO SÍRIO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "chocolate ao leite a gosto",
+      "1 pão sírio ",
+      "1 colher de doce de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra o pão sírio no meio",
+      "Passe a colher de doce de leite no pão sírio",
+      "Corte o chocolate e coloque no pão",
+      "Cuidado para não estourar o recheio",
+      "Coloque o pão na chapa (sanduicheira)",
+      "Tire depois que o chocolate estiver derretido",
+      "Pronto",
+      "É só comer"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IVONETE DE OLIVEIRA PEDRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303320-pao-sirio-com-chocolate.html"
+}

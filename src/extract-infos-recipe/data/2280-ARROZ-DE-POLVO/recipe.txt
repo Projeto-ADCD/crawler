@@ -1,0 +1,45 @@
+{
+  "nome_receita": "ARROZ DE POLVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de tentáculos de polvo",
+      "6 dentes de alho",
+      "2 cebolas médias",
+      "2 xícaras de atriz parboilizado",
+      "5 xícaras caldo do cozimento do polvo diluído com água",
+      "2 xícaras de vinho tinto",
+      "sal a gosto",
+      "3 colheres de (sopa) de manteiga",
+      "3 colheres de (sopa) de azeite extra virgem"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Polvo",
+      "Pegue os tentáculos já limpos e coloque no vinho, com sal por 1 hora.",
+      "Depois coloque os tentáculos sobre rodelas de 1 cebola dentro da panela de pressão , junto com o caldo do vinho no qual ele ficou.",
+      "Depois que pegar pressão, baixe o fogo, conte 10 minutos e desligue",
+      "Não leva água, apenas o vinho que ele ficou repousado.",
+      "Se cozinhar de menos, fica borrachudo.",
+      "Se cozinhar demais, fica duro ",
+      "Após retirar da pressão corte os tentáculos em pedacinhos.",
+      "Numa panela à parte pegue 1 colher de manteiga e 1 de azeite ",
+      "Refogue metade de uma cebola e 3 dentes de alho picados.",
+      "Quando dourar, dê uma refogada rápida no polvo e reserve ",
+      "Arroz",
+      "Pegue meia cebola picada e 3 dentes de alho picados e refogue com 1 colher de manteiga e 2 de azeite.",
+      "Após dourar adicione o arroz",
+      "Refogue",
+      "Adicione 2 xícaras do caldo de cozimento do polvo dissolvido em água, em fogo baixo.",
+      "Quando secar adicione as outras 3 xícaras",
+      "Quando estiver quase secando, adicione o polvo refogado e misture tudo ",
+      "Quando secar totalmente adicione mais uma colher de manteiga",
+      "Coloque um pano em cima da panela e coloque uma tampa para abafar .",
+      "Sirva quente e com azeite para regar "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUCILA T'OYÁ GIGAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305574-arroz-de-polvo.html"
+}

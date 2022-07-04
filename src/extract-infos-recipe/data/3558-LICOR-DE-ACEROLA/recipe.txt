@@ -1,0 +1,20 @@
+{
+  "nome_receita": "LICOR DE ACEROLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de acerola",
+      "1 litro de cachaça",
+      "800 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Juntar tudo em um recipiente (preferencialmente de vidro) com tampa, deixar 15 dias, mexendo uma a duas vezes por dia",
+      "Rende aproximadamente 1,5 L"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FERNANDO SIEVERDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303135-licor-de-acerola.html"
+}

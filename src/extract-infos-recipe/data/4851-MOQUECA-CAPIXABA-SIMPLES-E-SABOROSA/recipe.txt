@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MOQUECA CAPIXABA SIMPLES E SABOROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5kg de cação",
+      "3 maços de coentro",
+      "2 maços de cebolinha",
+      "3 cebolas",
+      "2 tomates grandes",
+      "1 pimentão",
+      "3 limões",
+      "2 xícaras de azeite",
+      "2 colher de sopa de pimenta do reino",
+      "5 dentes de alho",
+      "1 colher de coloral",
+      "1 vidro de leite de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque 1,5kg de cação de molho com água e extrato de suco de dois limões.",
+      "Triture uma cebola, um maço de coentro, um maço de cebolinha, 5 dentes de alho e 2 colher de sopa de sal.",
+      "Em seguida, coloque uma xícara de azeite na panela quente e jogue a pasta trirurada deixando a fritar.",
+      "Logo após, forre a panela com os pedaços de peixe aonde fique todos empilhados.",
+      "Em seguida, jogue uma colher de sopa se pimenta do reino envolvendo o peixe todo.",
+      "Depois disso, forre os pedaços de peixe com rodelas dos dois tomate, das duas cebolas e pimentão e jogue a outra colher de sopa de pimenta do reino os dois maços de coentro e a cebolinha com a outra xícara de azeite e o extrato do limão.",
+      "Deixe cozinhar por cerca de 20 minutos.",
+      "Em seguida acrescente o vidro de coco de leite e deixe cozinhar por mais meia hora a 40 minutos.",
+      "Sirva com arroz e um belo pirão, que pode ser feito com proprio caldo da moqueca, caso queira o pirão, acrescente dois copos de água após cozinha 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FELIPE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300090-moqueca-capixaba-simples-e-saborosa.html"
+}

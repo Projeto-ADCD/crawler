@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos (separada as gemas das claras)",
+      "1 lata de leite condensado ",
+      "5 maçãs",
+      "manteiga para untar uma forma redonda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as maçãs e corte em tiras.",
+      "Misture o leite condensado com as gemas peneiradas.",
+      "Unte uma forma redonda, espalhe as fatias de maçã e cubra com o creme de leite condensado com gemas.",
+      "Cubra com papel-alumínio e leve ao forno de 180° C por 30 minutos.",
+      "Batas as claras em neve e cubra a torta cozinha, leve ao forno para dourar.",
+      "Aproximadamente 5 minutos.",
+      "Sirva quente ou fria."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ADRIANA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304649-torta-de-maca.html"
+}

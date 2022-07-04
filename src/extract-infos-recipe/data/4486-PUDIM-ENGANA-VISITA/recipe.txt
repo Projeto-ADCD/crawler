@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PUDIM ENGANA VISITA",
+  "ingredientes": {
+    "PUDIM": [
+      "3 ovos",
+      "10 colheres (sopa) de açúcar",
+      "500 ml de leite integral",
+      "12 unidades de bolacha de maisena",
+      "essência de baunilha a gosto"
+    ],
+    "CALDA": [
+      "1 xícara de chá de açúcar",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Coloque o açúcar e a água na panela e leve ao fogo até ficar ficar na cor de caramelo.",
+      "Quando ficar pronto, tire do fogo e coloque 1 colher (sopa) de água.",
+      "Mexa bem e despeje na forma de pudim.",
+      "Espalhe por completo na forma, untando-a bem com a calda."
+    ],
+    "PUDIM": [
+      "Bata todos os ingredientes no liquidificador, inclusive as bolachas.",
+      "Bata bem e despeje na forma.",
+      "Coloque numa forma com furo no meio e leve ao fogo em banho-maria por 40 minutos ou até espetar o pudim e sair limpo.",
+      "Espere esfriar e desenforme."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MONIQUE DA SILVA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301010-pudim-engana-visita.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MASSA DE TORTA TIPO ROCAMBOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de açúcar",
+      "1 copo de leite morno (200 ml)",
+      "1 colher (sopa) de fermento biológico seco",
+      "1 colher (sopa) de manteiga",
+      "1 ovo",
+      "500 g de farinha de trigo (ou até dar o ponto)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte em uma bacia o açúcar, o fermento, o leite morno, o ovo e a manteiga e misture",
+      "Vá acrescentando a farinha aos poucos até dar o ponto de desgrudar das mãos",
+      "Coloque a massa em um local quente da cozinha e deixe descansar por meia hora",
+      "Passado este tempo abra a massa e coloque o recheio de sua preferência e enrole como um rocambole",
+      "Deixe descansar nas formas untadas por meia hora ",
+      "Após o tempo ou até elas estiverem bem grandes ligue o forno a 180º e deixe assando por meia hora ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALEXSANDRO CHAUD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302867-massa-de-torta-tipo-rocambole.html"
+}

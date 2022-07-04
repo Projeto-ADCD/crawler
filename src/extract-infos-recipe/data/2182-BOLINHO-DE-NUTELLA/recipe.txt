@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BOLINHO DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha de trigo",
+      "4 colheres (sopa) de Nutella",
+      "2 ovos",
+      "2 colheres (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forminha do bolinho",
+      "Misture todos os ingredientes e despeje em forminhas para cupcake, até a metade.",
+      "Leve ao forno preaquecido a 180° C  por 15 minutos ou até firmar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305771-bolinho-de-nutella.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO SUPER FÁCIL DE CHOCOLATE",
+  "ingredientes": {
+    "MASSA:": [
+      "2 xícaras de farinha de trigo peneirada (dá leveza para a massa)",
+      "2 claras em neve",
+      "2 gemas sem a pele (retirando a pele, não adere tanto o gosto de ovo)",
+      "5 colheres de açúcar",
+      "2 xícaras de leite",
+      "1 xícara de achocolatado ou chocolate em pó",
+      "meia colher de fermento"
+    ],
+    "1º OPÇÃO DE COBERTURA:": [
+      "1 tablete de chocolate da sua preferência (eu usei o meio amargo para equilibrar)",
+      "colocar em uma panela e deixar derreter um pouco, retire do fogo e mexa até ficar tudo homogêneo."
+    ],
+    "2º OPÇÃO DE COBERTURA:": [
+      "1 xícara de leite",
+      "2 colheres de manteiga ou margarina (uso sem sal)",
+      "1 xícara de achocolatado ou cacau em pó (caso use o cacau, acrescentar 2 colheres de açúcar)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire a farinha de trigo, acrescente as gemas e mexa bem.",
+      "Logo em seguida, acrescente o açúcar e depois os demais ingredientes.",
+      "Pegue a massa e coloque junto com a clara em neve, mexendo em movimentos de baixo pra cima, para que fique bem fofinho.",
+      "Coloque em uma forma untada com manteiga e chocolate em pó para a massa não grudar.",
+      "Leve ao forno preaquecido a 180º graus.",
+      "Deixe em torno de 30 a 35 minutos, ou até a casa ficar com cheirinho de bolo.",
+      "Espete um palito e se sair limpo, o teu bolinho já está pronto.",
+      "Deixe esfriar e depois despeje a calda."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LAI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300010-bolo-super-facil-de-chocolate.html"
+}

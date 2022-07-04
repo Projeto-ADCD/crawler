@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BIFE À ROLÊ DE CHURRASQUEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de bombom de alcatra",
+      "100 g bacon fatiado",
+      "150 g muçarela fatiada",
+      "100 g parmesão fatiado",
+      "75 g presunto parma fatiado",
+      "5 g de tomilho",
+      "4 pimentas biquinho",
+      "sal grosso a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte 8 fatias de espessura 0,5 cm de alcatra com aproximadamente 25 cm de comprimento por 4 cm de largura, tempere com tomilho e reserve.",
+      "Corte a muçarela, o parmesão, presunto e o bacon com a mesma largura de 4 cm. .",
+      "Faça a montagem em uma bancada, começando com o bacon, duas tiras de alcatra (uma em seguida da outra), muçarela, parmesão e presunto parma.",
+      "Coloque a pimenta biquinho na ponta e comece enrolando em volta dela até completar toda a tira",
+      "Coloque um palito de churrasco atravessado e depois amarre com um barbante em volta.",
+      "Coloque na churrasqueira numa distância de 40 cm da brasa, passe sal grosso em cada lado e vire o espeto a cada 5 minutos.",
+      "Após 30 minutos, baixe a grelha para 25 cm da brasa para dourar o bacon por 3 minutos, pronto é só servir."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELO GOBERTO AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303339-bife-a-role-de-churrasqueira.html"
+}

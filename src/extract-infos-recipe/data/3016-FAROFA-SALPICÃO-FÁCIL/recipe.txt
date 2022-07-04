@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA SALPICÃO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa com batata palha",
+      "300 g de peito de frango, cozido e desfiado",
+      "200 g de presunto cozido ralado (em ralo grosso)",
+      "100 g de cebola roxa picadinha",
+      "150 g (1 batata grande) de batatas cozidas (não cozinhar muito, se não desmancha)",
+      "150 g (1 cenoura grande) de cenoura ralada em ralo grosso",
+      "50 g de pimentão amarelo picadinho",
+      "50 g de hortelã picadinha",
+      "50 g de salsinha picadinha",
+      "1 caixinha de creme de leite sem soro (pode usar uma lata, contando que retire o soro)",
+      "5 colheres de maionese de sua preferência",
+      "1 colher (chá) rasa de mostarda",
+      "1 colher (café) rasa de sal (uso o rosa)",
+      "50 g de uva passas (opcional)",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture o creme de leite, a maionese e a mostarda",
+      "Misture bem e reserve.",
+      "Em outro recipiente, misture todos os demais ingredientes.",
+      "Acrescente a mistura de creme de leite, a maionese e a mostarda",
+      "Misture bem e sirva"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELAINE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303993-farofa-salpicao-facil.html"
+}

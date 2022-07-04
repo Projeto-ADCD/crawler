@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GELADO GOURMET DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "6 maracujás",
+      "1 litro de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o maracujá sem adicionar água e, após, peneire e reserve metade das sementes",
+      "Bata o leite condensado puro por 3 minutos no liquidificador, após isso adicione o creme de leite e bater por mais 3 minutos",
+      "Por fim misture a poupa dos maracujás, as sementes, o leite e a mistura do liquidificador",
+      "Adicione nos saquinhos (deixar 5 dedos para poder fechar) ou em forminhas de picolé espetar o palito.",
+      "Deixe gelar e sirva em seguida",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARÍLIA BARROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304417-gelado-gourmet-de-maracuja.html"
+}

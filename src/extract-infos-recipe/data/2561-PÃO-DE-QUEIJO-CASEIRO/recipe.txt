@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE QUEIJO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce",
+      "2 copos (americano) de agua",
+      "2 copos (americano) de óleo",
+      "2 copos (americano) de leite",
+      "1 colher (sobremesa) rasa de sal",
+      "2 pacotinho de queijo parmesão ralado",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela musture o leite, óleo, sal, e a agua",
+      "Deixe ferver",
+      "Retire do fogo, e numa vasilha, misture junto com o polvilho",
+      "E misture bem com a mão, e depois que ficar morno misture os ovos e o queijo ralado",
+      "Com a mão untada de óleo faça bolihas",
+      "E coloque em uma forma untada com óleo, a 180° C durante 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LARISSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304942-pao-de-queijo-caseiro.html"
+}

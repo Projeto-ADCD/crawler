@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESPAGUETE COM ESPINAFRE E OVO DE CODORNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de espaguete",
+      "8 ovos de codorna",
+      "sal a gosto",
+      "50 ml de azeite",
+      "1 dente de alho",
+      "100 g de bacon",
+      "2 tomates maduros",
+      "espinafre a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão até ficar al dente",
+      "Descasque o alho",
+      "Lave bem o espinafre e os tomates",
+      "Corte o bacon em cubos e os ovos de codorna ao meio",
+      "Doure o alho e o bacon no azeite",
+      "Acrescente o macarrão",
+      "Acrescente os ovos de codorna, espinafre e tomate.",
+      "Mexa bem e tempere com sal a gosto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISADORA GUIMARÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305091-espaguete-com-espinafre-e-ovo-de-codorna.html"
+}

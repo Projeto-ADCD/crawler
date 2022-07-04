@@ -1,0 +1,40 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM RECHEIO",
+  "ingredientes": {
+    "MASSA:": [
+      "4 ovos",
+      "4 colheres (sopa) de chocolate em pó",
+      "2 colheres (sopa) de manteiga",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícaras (chá) de açúcar",
+      "2 colheres (sopa) de fermento",
+      "1 xícara (chá) de leite"
+    ],
+    "CALDA:": [
+      "2 colheres (sopa) de manteiga",
+      "7 colheres (sopa) de chocolate em pó",
+      "2 latas de creme de leite com soro",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em um liquidificador adicione os ovos, o chocolate em pó, a manteiga, a farinha de trigo, o açúcar e o leite, depois bata por 5 minutos.",
+      "Adicione o fermento e misture com uma espátula delicadamente.",
+      "Em uma forma retangular untada, despeje a massa e asse em forno médio (180 ºC) por cerca de 40 minutos."
+    ],
+    "CALDA:": [
+      "Em uma panela, aqueça a manteiga e misture o chocolate em pó até que esteja homogêneo.",
+      "Acrescente o creme de leite e o leite condensado e misture bem até obter uma consistência cremosa.",
+      "Desligue o fogo e deixe esperando por 5 minutos."
+    ],
+    "MONTAGEM:": [
+      "Corte o bolo ao meio, nivele-os, despeje a calda e empilhe-os.",
+      "Usando uma espátula, passe a calda que sobrou dos lados e em cima."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOÃO VICTOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301571-bolo-de-chocolate-com-recheio.html"
+}

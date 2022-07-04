@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PANQUECA DE CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "100 ml de leite (usei integral)",
+      "5 colheres rasas (sopa) de farinha de trigo (sem fermento)",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (chá) de canela",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma vasilha e bata bem até ficar uma massa homogênea.",
+      "Em uma frigideira, antiaderente, coloque um pouco de óleo para fritar, use o suficiente para untar e adicione mais caso sua frigideira não seja antiaderente.",
+      "Despeje a massa em pequenas quantidades, virando até dourar.",
+      "A massa fica bem fininha."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANGÉLICA ROQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300217-panqueca-de-canela.html"
+}

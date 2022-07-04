@@ -1,0 +1,40 @@
+{
+  "nome_receita": "GRATINADO DE BATATA E BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 batatas inglesa ",
+      "1 buquê de brócolis",
+      "1 caixa de creme de leite",
+      "200 ml de leite",
+      "2 colheres (sopa) de margarina ",
+      "1 colher (sopa) de farinha de trigo",
+      "400 g de queijo",
+      "sal e temperos a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o brócolis e as batatas com casca separados com água e sal",
+      "Em uma panela, coloque a margarina e a farinha de trigo em fogo brando",
+      "Dissolva a farinha na margarina ",
+      "Acrescente o leite e mexa até engrossar ",
+      "Acrescente o creme de leite ",
+      "Tempere com sal e temperos a gosto",
+      "Reserve o molho branco",
+      "Unte uma forma ou marinex ",
+      "Pegue as batatas e corte em fatias ou rodelas e preencha toda a forma",
+      "Coloque o brócolis cortados em fatias acima das batatas",
+      "Despeje uma quantia do molho branco",
+      "Coloque queijo fatiado acima do molho",
+      "Repita o processo do início com as batatas brócolis e molho branco.",
+      "E por último, uma camada de queijo",
+      "Ligue o forno na temperatura 220° C e o dourador por 25 minutos até gratinar o queijo.",
+      "Deslique o dourador e deixe mais 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "THAÍS BARCELLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301880-gratinado-de-batata-e-brocolis.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHANTILLY DE CREME DE LEITE DE CAIXINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 creme de leite",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de emulsificante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve o creme de leite ao congelador e deixe ficar bem gelado",
+      "Leve a batedeira e junte o açúcar e o emulsificante",
+      "Bata em velocidade média até o ponto de bico (quando não cai da colher)"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LETICIA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302262-chantilly-de-creme-de-leite-de-caixinha.html"
+}

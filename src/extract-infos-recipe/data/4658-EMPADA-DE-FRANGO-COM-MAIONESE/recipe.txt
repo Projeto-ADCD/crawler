@@ -1,0 +1,30 @@
+{
+  "nome_receita": "EMPADA DE FRANGO COM MAIONESE",
+  "ingredientes": {
+    "MASSA": [
+      "4 ovos",
+      "1 kg de farinha de trigo",
+      "800 g de margarina ou manteiga",
+      "sal a gosto"
+    ],
+    "RECHEIO": [
+      "1 Peito de Frango grande desfiado e temperado",
+      "3 colheres de Sopa de Maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue os 4 ovos e separe as claras das gemas. Reserve as claras.",
+      "Misture todos os ingredientes (gemas, pitada de sal, farinha de trigo e a manteiga) num recipiente grande até formar uma massa consistente e lisa.",
+      "Misture o peito de frango com a maionese até ficar bem cremoso.",
+      "Molde e recheie nas formas de empada.",
+      "Pincelar com 1 gema de ovo.",
+      "Asse por aproximadamente 20 minutos.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "LARISSA SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300535-empada-de-frango-com-maionese.html"
+}

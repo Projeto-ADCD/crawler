@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ESTROGONOFE DE CARNE COM CHAMPIGNON SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola pequena em cubos",
+      "1 dente de alho picado",
+      "1/2 xicara (chá) de champignon em conserva fatiado",
+      "7 colheres (sopa) de ketchup",
+      "4 caixas de creme de leite",
+      "1 kg de carne",
+      "2 colheres (sopa) azeite",
+      "1 saco de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique bem a cebola e coloque em uma panela média com azeite em fogo médio",
+      "Assim que tiver tudo bem frito, adicione o alho",
+      "Corte a carne em cubos pequenos e coloque pra fritar junto com a cebola e o alho",
+      "Quando ficar bem douradinho, deixe em fogo baixo",
+      "Assim que a carne estiver do seu agrado, adicione creme de leite e ketchup",
+      "Quando estiver pronto, sirva com a batata palha e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IZA TONAKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302557-estrogonofe-de-carne-com-champignon-simples.html"
+}

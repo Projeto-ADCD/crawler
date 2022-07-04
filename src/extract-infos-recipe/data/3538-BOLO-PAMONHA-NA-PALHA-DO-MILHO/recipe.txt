@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO PAMONHA NA PALHA DO MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 espigas grandes de milho ou 3 latas de milho sem a água",
+      "100 ml de leite de coco",
+      "150 ml de leite condensado",
+      "220 g de açúcar ou 1 copo (americano)",
+      "50 g de queijo ralado",
+      "50 g de coco ralado",
+      "220 ml de leite integral ou 1 copo (amercicano)",
+      "3 colheres (sopa) de margarina em temperatura ambiente",
+      "2 ovos inteiros",
+      "100 g de fubá",
+      "100 g de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os milhos, retire os grãos e coloque no liquidificafor com o leite",
+      "Bata por 3 minutos e depois acrescente todos os ingredientes",
+      "Bata tudo por mais 2 minutos e arrume palhas de milho na assadeira (você vai precisar de palhas do milho fervidas por 10 minutos em água morna para amolecer a palha) de forma que cubra toda a assadeira",
+      "Coloque a mistura do liquidificador em cima da palha e leve ao forno preaquecido por uns 60 minutos (até ficar corado em cima)",
+      "obs esse bolo é mole só fica pronto depois q retirar do forno e deixar uns 20mins esfriar ,ai sim desenforme com cuidado ,se quiser deixar uns 30 mins na geladeira fica melhor ainda tem consistência de pamonha ,maravilhoso!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: esse bolo é mole só fica pronto depois que retirar do forno e deixar uns 20 minutos esfriar. Aí sim desenforme com cuidado! Se quiser deixar uns 30 minutos na geladeira fica ainda melhor, com consistência de pamonha, maravilhoso!\nUse uma forma de aro 18 e furo central untada com margarina e polvilhada com trigo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELICIANE GUEDES BARRETO DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303176-bolo-pamonha-na-palha-do-milho.html"
+}

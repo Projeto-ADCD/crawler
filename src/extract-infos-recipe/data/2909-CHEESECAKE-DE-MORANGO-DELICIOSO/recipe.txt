@@ -1,0 +1,50 @@
+{
+  "nome_receita": "CHEESECAKE DE MORANGO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Base",
+      "200 g de biscoito maria",
+      "1 xícara (chá) de manteiga ou margarina sem sal",
+      "Recheio",
+      "300 g de queijo ricota ou cream cheese",
+      "1 lata de leite condensado",
+      "1 xícara (chá) bem cheia de leite",
+      "5 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de amido de milho",
+      "Cobertura",
+      "300 g de morangos (ou outra fruta de preferência)",
+      "1/2 xícara (chá) de açucar",
+      "suco de 1/2 limão médio",
+      "1 pitada de sal",
+      "1 colher (chá) de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Base",
+      "Moa o biscoito maria em um liquidificador ou mixer até obter consistência de farinha.",
+      "Derreta a manteiga ou margarina (não há necessidade de derreter por completo, pode ser em temperatura ambiente, estando cremosa o suficiente para misturar com o biscoito moído).",
+      "Numa assadeira com fundo removível, misture bem a manteiga com o biscoito moído até obter uma massa.",
+      "Cubra toda a base e um pouco das laterais com a massa, mantendo estabilidade na distribuição.",
+      "Leve para assar em forno elétrico em temperatura de até 180º C entre 10 e 15 minutos (a depender da potência do forno), reserve.",
+      "Recheio",
+      "Bata todos os ingredientes no liquidificador (cream cheese, leite condensado, leite, açúcar, amido de milho).",
+      "Distribua na forma sob a base já assada.",
+      "Leve ao forno em temperatura de 180º C (preaquecido) por até 40 minutos (a depender da potência do forno).",
+      "A massa estará pronta quando um círculo amarelo se formar por cima dela ou quando ao espetar uma faca esta sair com pouca massa grudada.",
+      "Cobertura",
+      "Lave bem e corte os morangos em pedaços irregulares.",
+      "É importante deixar pedaços grandes de morangos para que eles não dissolvam completamente no cozimento.",
+      "Numa panela leve ao fogo médio todos os ingredientes (morango, açúcar, suco de limão, pitada de sal e essência de baunilha).",
+      "Deixar cozinhar por aproximadamente 25 minutos e mexa de vez em quando, até obter a consistência de uma calda de morangos com pedaços.",
+      "Finalização",
+      "Deixe a cobertura esfriar um pouco e despeje sobre o cheesecake já assado.",
+      "Leve à geladeira por no mínimo 6 horas",
+      "Desenforme e sirva"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "WILLIAMSELAU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304165-cheesecake-de-morango-delicioso.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PUDIM COM BISCOITO SEM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "400 ml de leite",
+      "12 colheres (sopa) de açúcar",
+      "10 biscoitos de maisena",
+      "açúcar pra fazer o caramelo na forma"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente bata os ovos, o leite, o açúcar e a bolacha no liquidificador por mais ou menos 5 minutos.",
+      "Logo em seguida, em uma forma de pudim, derreta a quantidade desejada de açúcar para o caramelo.",
+      "Depois que tudo estiver batido, acrescente a mistura na forma com o caramelo.",
+      "Deixe cozinhar em banho-maria por 1 hora e 30 minutos.",
+      "Deixe esfirar para desenformar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GABRIELA SILVA PAULI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299716-pudim-com-biscoito-sem-leite-condensado.html"
+}

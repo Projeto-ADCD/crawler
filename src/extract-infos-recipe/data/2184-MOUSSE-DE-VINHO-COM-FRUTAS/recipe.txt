@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOUSSE DE VINHO COM FRUTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 sachês de gelatina sem sabor",
+      "1 taça de vinho tinto seco ou suave 300 ml",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "morangos ou a fruta de sua preferência picados a gosto (usei morangos e uvas)",
+      "1 caixa de gelatina de morango ou do sabor da fruta selecionada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina de fruta conforme recomendação da embalagem",
+      "Em uma forma grande, com as frutas picadas no fundo, despeje na forma a gelatina diluida",
+      "Leve à geladeira e espere endurecer",
+      "Após isso prepare a segunda parte",
+      "Coloque o leite condensado e o creme de leite no liquidificador",
+      "Faça o mesmo com o vinho",
+      "Disolva a gelatina sem sabor em 50 ml de água, espere 5 minutos e ligue o fogo (não deixe ferver)",
+      "Inclua a gelatina sem sabor já disolvida",
+      "Bata por alguns minutos.",
+      "obs: não use os ingredientes gelados na segunda parte, pois coagula a gelatina sem sabor antes da mistura ficar pronta",
+      "Tempo de preparo desta receita é estimado."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FERGUSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305769-mousse-de-vinho-com-frutas.html"
+}

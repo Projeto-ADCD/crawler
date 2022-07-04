@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO FRITO DE TAPIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de tapioca",
+      "2 xícaras de farinha de milho",
+      "2 ovos",
+      "1 xícara de água",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a farinha de tapioca com a farinha de milho e o sal.",
+      "Adicione os ovos e mexa ",
+      "Se preferir use as mãos para mexer.",
+      "Vá colocando água aos poucos até dar ponto.",
+      "Modele e frite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "AMANDA FREGOLÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305249-bolinho-frito-de-tapioca.html"
+}

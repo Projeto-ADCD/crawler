@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PAVÊ SUPERESPECIAL DE 3 CAMADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Primeira camada",
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "6 gemas",
+      "Segunda camada",
+      "2 barras de chocolate de sua preferência",
+      "creme de leite até dar ponto",
+      "Terceira camada",
+      "6 claras restantes batidas em neve com 3 colheres de açúcar",
+      "morangos e uvas verdes a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado, o creme de leite e as gemas e leve ao fogo até engrossar.",
+      "Caso precise, acrescente um pouco de amido de milho dissolvido em um pouco de leite para ajudar a engrossar mais rápido.",
+      "Para a segunda camada derreta as barras em banho-maria e acrescente um pouco de creme de leite.",
+      "Para a terceira bata as claras em neve junto com o açúcar (seja com um fouet ou com a batedeira)",
+      "Monte o seu pavê começando pela primeira camada e decore com as frutas",
+      "Leve ao congelador até gelar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MACELLE PEDROZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302713-pave-superespecial-de-3-camadas.html"
+}

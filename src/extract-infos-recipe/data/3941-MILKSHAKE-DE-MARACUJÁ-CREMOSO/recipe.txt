@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MILKSHAKE DE MARACUJÁ CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de leite gelado",
+      "1 colher (sopa) de leite em pó (15 g)",
+      "2 bolas de sorvete de creme (cerca de 70 g)",
+      "1/4 de xícara de suco concentrado de maracujá (50 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Bata tudo muito bem em um liquidificador ou mixer.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ps.: Como o suco de maracujá é concentrado e não tem açúcar, então não é uma bebida muito doce. Para quem gosta de algo mais docinho, acrescentar 1 colher de açúcar na mistura."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RENATA LEONEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302329-milkshake-de-maracuja-cremoso.html"
+}

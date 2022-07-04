@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANQUECA FÁCIL DA MAMÃE TÂNIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de farinha de trigo cheio",
+      "1 copo de leite",
+      "1 ovo",
+      "1 pitada de sal",
+      "óleo para fritar",
+      "recheio da panqueca a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes",
+      "Se precisar, adicione àgua para que a massa não fique grossa",
+      "Esquente o óleo e frite as panquecas",
+      "Cada uma esquivale a 4 colheres da massa.",
+      "Após, recheie com o que preferir"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LIVIA CANAVEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302292-panqueca-facil-da-mamae-tania.html"
+}

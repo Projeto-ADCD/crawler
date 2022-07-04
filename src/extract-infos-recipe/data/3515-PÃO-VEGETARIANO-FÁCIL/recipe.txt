@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PÃO VEGETARIANO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fermento biológico",
+      "1 ovo ou 1/2 cenoura previamente batida no liquidificador com o leite (pode ser 1 maçã cozida no lugar da cenoura também)",
+      "200 ml de leite vegetal ou de vaca morno, não fervido ",
+      "400 g farinha de trigo",
+      "1 pacote pequeno de azeitona",
+      "1 lata de ervilha",
+      "alho e cebola a gosto",
+      "2 colheres (sopa) de margarina vegetal",
+      "1 colher de óleo ou azeite",
+      "1 colher (sopa) de açúcar",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse com o garfo e o açúcar o fermento",
+      "Acrescente o leite e o ovo ou a mistura de maçã com leite",
+      "Coloque metade da farinha de trigo e mexa com o garfo",
+      "Acrescente sal a gosto",
+      "Ponha os temperos e mexa muito bem",
+      "Coloque a ervilha e a azeitona também",
+      "A massa deve ficar firme principalmente se for sem ovo e com leite vegetal",
+      "Coloque massa até ficar bem pesada para mexer a massa",
+      "Coloque a massa na forma do pão e deixe no forno desligado até dobrar o tamanho",
+      "Retire do forno para ligá-lo e preaquecê-lo por 10 minutos",
+      "Ponha o pão no forno por 45 minutos",
+      "Deixe esfriar um pouco antes de cortar"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303216-pao-vegetariano-facil.html"
+}

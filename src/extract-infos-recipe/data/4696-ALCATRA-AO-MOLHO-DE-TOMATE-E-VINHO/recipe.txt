@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ALCATRA AO MOLHO DE TOMATE E VINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de Alcatra",
+      "1 tomate grande",
+      "1 cebola grande",
+      "1 cenoura média",
+      "1 pacote de 190 g de molho de tomate",
+      "1 colher de de tempero de alho e sal",
+      "Sal a gosto",
+      "Pimeta-do-reino a gosto",
+      "1 colher de óleo",
+      "100 ml de vinho tinto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com a pimenta do reino e o tempero e alho e sal. Em seguida leve a panela com óleo ate a carne ficar bem cozida.",
+      "Durante o cozimento da carne, adicione a cenoura cortada em rodelas.",
+      "Quando a carne estiver quase pronta, adicione o vinho.",
+      "Após 3 minutos aproximandamente, adicione o sal, tomate e a cebola picados.",
+      "Mexa os ingredientes ate o tomate e a cebola amolecer e adicione o molho de tomate.",
+      "Tampe a panela e deixe ferver por 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAFAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300403-alcatra-ao-molho-de-tomate-e-vinho.html"
+}

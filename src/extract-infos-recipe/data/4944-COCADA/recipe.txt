@@ -1,0 +1,21 @@
+{
+  "nome_receita": "COCADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de coco ralado",
+      "2 copos de açúcar",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o leite condensado na panela, o açúcar e o coco ralado e mexa até desgrudar da panela. O processo bem parecido com o brigadeiro.",
+      "Após isso, unte uma forma e despeje a cocada.",
+      "Depois de frio, corte os pedaços."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CAROLINE CLAUDINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299887-cocada.html"
+}

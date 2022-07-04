@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOUSSE DE LEITE NINHO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "2 caixas de creme de leite",
+      "2 xícaras de leite ninho ",
+      "leite ninho a gosto para decorar",
+      "1 gelatina em pó incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina em pó incolor em 5 colheres de água em um recipiente ",
+      "Deixe descansar por 5 minutos.",
+      "Em seguida, coloque por aproximadamente 30 segundos no micro-ondas ou se preferir no fogão, reserve.",
+      "Bata no liquidificador o leite condensado, os cremes de leite e o leite ninho por aproximadamente 3 minutos.",
+      "Em seguida, acrescente a gelatina e continue batendo por mais 1 minuto.",
+      "Despeje em uma vasilha e se preferir pode peneirar um pouquinho de leite ninho por cima da sobremesa para dar um toque especial.",
+      "Leve à geladeira por aproximadamente 40 minutos ou até endurecer.",
+      "Se o recipiente não tiver tampa pode cobrir com papel-filme para não pegar os cheiros de comida da geladeira."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALESSANDRA MARTELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302408-mousse-de-leite-ninho-superfacil.html"
+}

@@ -1,0 +1,56 @@
+{
+  "nome_receita": "BOLO DE LEITE EM PÓ COM CHOCOLATE BRANCO",
+  "ingredientes": {
+    "MASSA:": [
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento em pó",
+      "3 xícaras de farinha de trigo",
+      "3 xícaras de acúcar refinado",
+      "3 ovos",
+      "4 colheres (sopa) de manteiga ou margarina"
+    ],
+    "RECHEIO E CALDA:": [
+      "1 gema",
+      "10 gotas de essência de baunilha",
+      "4 colheres (sopa) de açúcar refinado",
+      "1/2 lata de leite condensado",
+      "1 lata de creme de leite gelado e sem soro",
+      "200 gramas de manteiga ou margarina (sem sal)",
+      "20 colheres (sopa) de leite em pó"
+    ],
+    "DECORAÇÃO:": [
+      "2 barras de chocolate branco",
+      "Refrigerante de guaraná de sua prefêrencia"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata o açúcar, a margarina e os ovos em uma batedeira.",
+      "Acrescente a farinha de trigo, o leite e bata novamente.",
+      "Por último, acrestente o fermento e bata o suficente para misturar-se na massa. Despeje em uma forma untada com farinha de trigo.",
+      "Asse por mais ou menos 40 minutos."
+    ],
+    "CALDA E RECHEIO:": [
+      "Bata tudo na batedeira e reserve na geladeira."
+    ],
+    "DECORAÇÃO:": [
+      "Rale o chocolate branco em pedaços mais grossos e reserve na geladeira para não derreter."
+    ],
+    "MONTAGEM:": [
+      "Corte o bolo na metade horizontal.",
+      "Molhe a metade de baixo da massa com refrigerante de guaraná com o auxílio de uma colher (tome cuidado para não encharcar).",
+      "Adicione o recheio.",
+      "Adicione, depois, a metade de cima da massa.",
+      "Molhe novamente o bolo com refrigerante de guaraná.",
+      "Adicione o resto do recheio, cobrindo totalmente o bolo.",
+      "Por fim, jogue o chocolate branco ralado por cima para grudar no recheio."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para melhor controle da umidade da massa do bolo, apalpe-o e sinta se está úmido, se sentir a massa seca, adicione mais refrigerante."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JOHANNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299750-bolo-de-leite-em-po-com-chocolate-branco.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO CREMOSO COM CALABRESA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão parafuso ou penne",
+      "3 dentes de alho amassados",
+      "1 cebola",
+      "1 molho de tomate tradicional",
+      "400 a 500 ml de água ou até cobrir o macarrão",
+      "1 potinho de requeijão (na falta dele pode substituir por um creme de leite)",
+      "pimenta-do-reino e temperos a gosto ",
+      "1 e 1/2 calabresa (proporção para 1 pacote de 500 g de macarrão)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite as calabresas picadinhas em cubinhos pequenos",
+      "Quando fritarem bem, jogue a cebola frite, por um tempo até elas sumirem bem",
+      "Adicione o alho, frite mais um pouco e adicione o molho de tomate",
+      "Depois de refogar os itens acima, adicione o macarrão, coloque água até cobrir e uma pitadinha de sal bem pequena porque o próprio sal da calabresa ja salga o macarrão e o molho",
+      "Após isso, tampe a panela e depois que começar a assobiar conte de 3 a 4 minutos para desligar o fogo",
+      "Depois de desligar, abra e adicione um pitada de pimenta-do-reino e o requeijão ou creme de leite ao molho, mexa bem e está pronto",
+      "O macarrão fica muito bom com cebola frita estilo batata palha e um creme de milho rústico."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANDRESSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303764-macarrao-cremoso-com-calabresa-na-panela-de-pressao.html"
+}

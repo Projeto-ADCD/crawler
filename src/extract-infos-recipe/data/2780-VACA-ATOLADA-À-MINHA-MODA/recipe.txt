@@ -1,0 +1,44 @@
+{
+  "nome_receita": "VACA ATOLADA À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela bovina de boa qualidade em pedaços",
+      "1 limão siciliano",
+      "2 cubos de caldo de costela",
+      "2 cebolas grandes picadas",
+      "3 dentes de alho picados",
+      "1 colher (chá) de colorau",
+      "1 colher (chá) de páprica picante",
+      "3 colheres (sopa) de óleo",
+      "1 kg de mandioca descascada e em pedaços",
+      "2 folhas de louro",
+      "4 tomates médios, maduros sem pele e sem semente picados",
+      "1/2 xícara (chá) de cebolinha verde picada",
+      "1/2 xícara (chá) de salsinha picada",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa, tempere a costela bovina, com sal, pimenta e o suco do limão.",
+      "Deite tomar gosto por uns 15 minutos.",
+      "Em uma panela de pressão, coloque a costela bovina, os cubos de caldo de costela e cubra com água fria.",
+      "Deixe cozinhar por uns 35 minutos, contando o tempo depois de iniciada a pressão.",
+      "Desligue o fogo e tire a pressão da panela.",
+      "Tire os pedaços da costela bovina e reserve.",
+      "Reserve, também, o caldo do cozimento.",
+      "Na mesma panela de pressão, coloque o óleo, as cebolas e os alhos picados e deixe refogar.",
+      "Adicione a costela bovina, o colorau, a páprica e refogue por uns 7 minutos.",
+      "Acrescente a mandioca cortada em pedaços, o louro, sal se necessário, pimenta, a água reservada do cozimento e complete com mais água até cobrir tudo.",
+      "Cozinhe por mais 30 minutos, após o início da pressão.",
+      "Retire a pressão e abra a panela.",
+      "Acrescente os tomates picados e deixe cozinhar até o tomate e a mandioca ficarem macias.",
+      "Acerte o sal e acrescente a cebolinha e a salsinha picada por cima.",
+      "Sirva em seguida acompanhada de um arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304440-vaca-atolada-a-minha-moda.html"
+}

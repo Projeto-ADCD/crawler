@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ESPAGUETE COM LEGUMES E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão espaguete (numeração 8)",
+      "4 dentes de alho picados",
+      "1 cebola média em pedaços",
+      "1 cenoura em cubos",
+      "1 pimentão vermelho em pedaços",
+      "100 g de vagem em rodelas",
+      "250 g de linguiça calabresa em cubos",
+      "salsinha picada",
+      "azeite de oliva",
+      "gengibre fresco ou em pó a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola com um pouco de azeite e sal.",
+      "Deixe até dourar.",
+      "Acrescente os pedaços de cenoura, pimentão e a vagem (gengibre também se for de sua preferência)",
+      "Com 1 xícara de água e deixe cozinhando até que os legumes estejam moles.",
+      "Adicione os pedaços de linguiça e a salsinha picada no cozido e misture.",
+      "Reserve depois de 15 minutos",
+      "Cozinhe o macarrão em água fervente seguindo o tempo estabelecido pela embalagem.",
+      "Sirva em um refratário deixando como base o espaguete com um pouco de azeite e cobrindo o mesmo com o cozido.",
+      "Sirva e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301871-espaguete-com-legumes-e-linguica.html"
+}

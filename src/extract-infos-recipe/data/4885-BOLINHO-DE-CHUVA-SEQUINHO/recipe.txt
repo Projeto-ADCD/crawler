@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA SEQUINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara de farinha de trigo",
+      "1 xícara de amido de milho ",
+      "1/2 xícara de leite",
+      "1/2 colher de fermento",
+      "3 colheres de açúcar (cheias)",
+      "1 banana (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo e em seguida acrescente todos os demais ingredientes (farinha, amido de milho, ovo, açúcar, fermento)",
+      "Por último acrescente a banana picada se desejar.",
+      "Deixe o olho ficar bem quente, depois abaixe ele e com a ajuda de duas colheres (uma para pegar a massa e a outra pra soltar a massa da outra colher dentro do óleo), coloque aos poucos a massa dentro do óleo.",
+      "Não frite em óleo muito quente, pois o bolinho ficará crú.",
+      "Em seguida, coloque os bolinhos em papel-toalha para escorrer o óleo.",
+      "Passe no açúcar com canela.",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TAAY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300014-bolinho-de-chuva-sequinho.html"
+}

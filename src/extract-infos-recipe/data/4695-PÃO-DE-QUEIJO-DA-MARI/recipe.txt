@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DA MARI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos (americanos) de polvilho doce",
+      "1 ovo",
+      "1 copo (americano) de leite",
+      "1/2 copo (americano) de queijo parmesão",
+      "Sal a gosto",
+      "1 ponta de garfo de fermento em pó",
+      "3 colheres de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os igredientes no liquidificador, exeto o fermento em pó (deixe-o por ultimo) e deixe bater por 1 minuto.",
+      "Adicione o fermento em pó e mexa com delicadeza.",
+      "Unte uma frigideira com um fio de óleo ou margarina.",
+      "Desmeje a receita na frigideira e deixe dourar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode rechear com presunto e queijo."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "MARINA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300404-pao-de-queijo-da-mari.html"
+}

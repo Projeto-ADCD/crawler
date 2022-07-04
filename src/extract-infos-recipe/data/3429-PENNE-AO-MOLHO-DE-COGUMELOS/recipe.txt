@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PENNE AO MOLHO DE COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 cogumelos paris frescos",
+      "3 a 4 cogumelos shitake cortados em cubos grandes",
+      "1 cebola roxa cortada em cubos grandes",
+      "100 g de cogumelos shimeji",
+      "2 dentes de alho picado",
+      "200 ml de creme de leite",
+      "3 colheres (sopa) de camembert",
+      "1/2 pimenta dedo-de-moça",
+      "sal e pimenta-do-reino (a gosto)",
+      "azeite extra virgem",
+      "1/2 maço de cheiro-verde"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhar o macarrão al dente conforme instruções da embalagem, escorra, deixe esfriar e reserve",
+      "Refogue o alho no azeite",
+      "Acrescente os cogumelos paris e shitake e deixe refogar mais",
+      "Junte a cebola roxa cortada em cubos e adicione 1/2 pimenta dedo-de-moça",
+      "Tempere com sal e pimenta-do-reino",
+      "Junte o shimeji e deixe refogar mais",
+      "Deglaceie com o creme de leite e o camembert",
+      "Reduza até engrossar o molho",
+      "Em uma travessa de vidro refratário disponha o macarrão já escorrido, coloque o molho sobre e polvilhe cheiro-verde"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CARLOS HENRIQUE DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303383-penne-ao-molho-de-cogumelos.html"
+}

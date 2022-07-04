@@ -1,0 +1,43 @@
+{
+  "nome_receita": "RISOTO CAMARÃO BAMBOA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg camarão limpo e descascado",
+      "1 suco limão",
+      "sal a gosto",
+      "100 g margarina",
+      "200 g requeijão",
+      "200 g presunto",
+      "400 g queijo mussarela",
+      "200 g ervilhas frescas",
+      "batata palha",
+      "300 g arroz pronto",
+      "200 g creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere camarão no limão e sal",
+      "Pique presunto e 200 g mussarela em quadrados de 3mm",
+      "Reserve",
+      "Em uma frigideira, derreta margarin",
+      "Após, adicione camarões para deixar tenros e avermelhados",
+      "Adicione creme de leite e requeijão. Mexer ate deixar tudo homogêneo.",
+      "Adicione arroz, já pronto",
+      "Mexa até o molho incorporar, por 1 minuto",
+      "Adicioe presunto e queijo picado.",
+      "Mexa por 3 minutos.",
+      "Adicione ervilhas.",
+      "Mexa por mais 2 minutos",
+      "Coloque em um refratário",
+      "Cobra com o restante da mussarela.",
+      "Leve ao forno para gratinar por 15 minutos",
+      "Cubra com uma porção generosa de batata palha.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUIS GRADWOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304755-risoto-camarao-bamboa.html"
+}

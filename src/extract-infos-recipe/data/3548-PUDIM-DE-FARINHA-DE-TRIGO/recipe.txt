@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE FARINHA DE TRIGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "4 xícara de açúcar",
+      "2 xícara de farinha de trigo",
+      "3 xícara de leite",
+      "2 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Caramelize 2 xícaras de açúcar em uma forma média com furo",
+      "Bata todos os ingredientes no liquidificador",
+      "Despeje a massa sobre o açúcar caramelizado (açúcar derretido) e leve para assar em banho-maria a 180ºC por 1 hora e 30 minutos ou até furar com um garfo e ele sair limpo",
+      "Leve à geladeira e sirva gelado",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: para desenformar passe uma faca em volta de toda a borda desprendendo o pudim da forma, depois desenforme e leve para gelar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DRI ROQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303159-pudim-de-farinha-de-trigo.html"
+}

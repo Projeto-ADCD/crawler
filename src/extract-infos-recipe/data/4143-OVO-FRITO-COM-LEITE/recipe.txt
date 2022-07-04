@@ -1,0 +1,23 @@
+{
+  "nome_receita": "OVO FRITO COM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de margarina",
+      "4 ovos",
+      "leite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a margarina na frigideira e inicie a fritura dos ovos. Acrescente o sal.",
+      "Quando as claras estiverem começando a endurecer, acrescente o leite até cobrir as gemas.",
+      "Deixe cozinhar até atingir o ponto desejado.",
+      "Sirva como acompanhamento para pães ou cuscuz de milho."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PEDRO JÚNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301734-ovo-frito-com-leite.html"
+}

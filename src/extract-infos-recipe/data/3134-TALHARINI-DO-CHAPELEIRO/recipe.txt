@@ -1,0 +1,59 @@
+{
+  "nome_receita": "TALHARINI DO CHAPELEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de massa fresca tipo talharini",
+      "125 g de queijo camembert Président",
+      "300 g de cream cheese Président",
+      "100 g de manteiga Président",
+      "200 g de mussarela Président picada",
+      "1 dente de alho inteiro",
+      "2 dentes de alho picados",
+      "50 ml de azeite extra virgem ",
+      "1 cebola picada ralada",
+      "100 ml vinho branco",
+      "100 ml vinho tinto",
+      "noz moscada a gosto",
+      "200 g de camarão rosa sem casca e sem cabeça",
+      "2 camarões grandes inteiros",
+      "sal a gosto",
+      "pimenta a gosto",
+      "salsa e ceboulete",
+      "leite ou creme de leite conforme preferência (se necessário par finalizar)"
+    ]
+  },
+  "passos": {
+    "MOLHO:": [
+      "Em uma panela anti-aderente, esfregue o alho (inteiro) em suas paredes",
+      "Derreta a manteiga e acrescente a cebola cuidando para ficar transparente",
+      "Acrescente o vinho branco, a noz moscada, o cream cheese e a mussarela",
+      "Mexa até derreter e integrar os ingredientes",
+      "Desligue e reserve"
+    ],
+    "PREPARO DO CAMEMBERT:   ": [
+      "Divida o camembert em 2 metades redondas iguais e leve as metades com a capa branca apoiadas em papel-alumínio bem untadas de manteiga (sem fechar para observar o ponto de derretimento) ao forno para aquecer e gratinar",
+      "Observe o ponto de derretimento"
+    ],
+    "MASSA:": [
+      "Cozinhar a massa bem ao dente"
+    ],
+    "CAMARÕES, FINALIZAÇÃO E MONTAGEM:": [
+      "Em uma frigideira colocar o azeite, o alho picado, e os camarões",
+      "Frite rapidamente, cerca de 3 a 4 minutos de cada lado, verifique o ponto do camarão de acordo com tamanho utilizado",
+      "Retire os camarões inteiros e reserve para decoração",
+      "Acrescente o vinho tinto e deixe levantar fervura e acrescente o molho de queijo (dependendo da consistência, acrescente creme de leite ou leite)",
+      "Acerte o sal e a pimenta para deixar em ponto de molho espesso",
+      "Acrescente a massa e incorpore o molho",
+      "Retire as metades do queijo camembert e posicione-as no centro do prato com a capa branca voltada para cima",
+      "Coloque a massa ao redor do queijo",
+      "Maçarique a casca branca, corte ao meio para o recheio escapar e coloque o camarão grande reservado para decorar, finalizar com salsa e ceboulete"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Sergio de Moraes"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303834-talharini-do-chapeleiro.html"
+}

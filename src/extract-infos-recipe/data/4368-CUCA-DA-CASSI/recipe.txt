@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CUCA DA CASSI",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "4 colheres (rasa) de fermento biológico",
+      "4 xícaras de água morna",
+      "quase 1 xícara de óleo",
+      "3 e 1/2 colheres de adoçante",
+      "3 xícaras pequena de açúcar",
+      "1 pitada de sal",
+      "farinha até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos o ingrediente e sove a massa",
+      "Depois divida em 4 partes e cilindre",
+      "Enrole as cucas.",
+      "Deixe crescer até ficarem levinhas",
+      "Asse em forno médio por aproximadamente 50 minutos ou até começar a dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "ROBERSON CASSI SABADIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301290-cuca-da-cassi.html"
+}

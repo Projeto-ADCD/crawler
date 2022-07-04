@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOUSSE DE LIMÃO CREMOSO DA FRUTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de leite condensado",
+      "2 caixinhas de creme de leite",
+      "1 copo (americano) de suco de limão (fruta)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o leite condensado e o creme de leite, bata um pouco para misturar.",
+      "Acrescente o suco de limão aos poucos e prove, caso goste mais azedinho, coloque mais suco.",
+      " Bata o mousse por uns 5 minutos no liquidificado, coloque em uma travessa e deixe gelar na geladeira por umas 4 horas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não precisa de gelatina, pois o suco da fruta deixa o mousse bem consistente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MRCAKETHE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301573-mousse-de-limao-cremoso-da-fruta.html"
+}

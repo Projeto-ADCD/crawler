@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PANQUECA DE BANANA COM CALDA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Panqueca",
+      "3 ou 4 colheres (sopa) de trigo",
+      "2 colheres de (sopa) de açúcar",
+      "1 ovo",
+      "2 bananas",
+      "1/2 xícara de leite (se a massa ainda estiver um pouco grossa adicionar um pouco mais de leite aos poucos)",
+      "Calda",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Panqueca",
+      "Coloque todos os ingredientes no liquidificador e bata até obter uma massa homogênea.",
+      "Depois, em uma frigideira, coloque um fio de azeite e unte bem.",
+      "Quando começar a aparecer furinhos na massa é hora de virar.",
+      "Quando ela estiver bem douradinha, está pronta sua panqueca.",
+      "Calda",
+      "Em uma caneca ou em uma bisnaga, misture bem o leite condensado com o creme de leite",
+      "Despeje nas panquecas"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "PEDRO SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303278-panqueca-de-banana-com-calda-facil.html"
+}

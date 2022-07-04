@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MACARRÃO COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa e sobrecoxa de frango",
+      "500 g de macarrão furadinho número 4",
+      "2 cebolas",
+      "4 dentes de alho",
+      "sal a gosto",
+      "óleo de soja",
+      "2 limões",
+      "cebolinha a gosto",
+      "3 batatas grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Marine o frango com limão",
+      "Doure o alho e a cebola em uma panela até caramelizar",
+      "Refogue o frango, coloque sal a gosto e tampe a panela até acabar o sangue da carne.",
+      "Fatie as batatas e coloque na panela junto com frango.",
+      "Adicione água suficiente para cobrir o frango e cozinhar o macarrão",
+      "Quando as batatas estiverem macias acrescente o macarrão e cozinhe por 5 minutos",
+      "Desligue o fogo e abra parcialmente a panela e espere mais 5 minutos ",
+      "Salpique cebolinha picada por cima e sirva.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva o prato acompanhado de angu"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GIAN LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299819-macarrao-com-frango.html"
+}

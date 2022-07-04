@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FAROFA DE FEIJÃO FRADINHO DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão fradinho",
+      "6 gomos de calabresa",
+      "300 g de bacon",
+      "1 cebola picada",
+      "4 dentes de alho picado",
+      "200 g de azeitona picada",
+      "2 pacote de farofa pronta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o feijão e cozinhe com sal por 15 minutos na pressão, mantenha-o quente.",
+      "Dore o bacon e a calabresa em cubos pequenos, adicione alho e cebola, misture o feijão envolvendo bem",
+      "Adicione as azeitonas, acrescente a farofa aos poucos - adicione de acordo com seu gosto para mais molhadinha ou mais soltinha.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "JÚXLUÍS FALCHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303412-farofa-de-feijao-fradinho-deliciosa.html"
+}

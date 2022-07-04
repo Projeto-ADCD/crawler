@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BISCOITO DE BANANA E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas médias maduras",
+      "1 xícara de aveia em flocos",
+      "Canela a gosto",
+      "1 colher de café de óleo",
+      "1 colher de chá de fermento",
+      "Uvas passas ou castanhas picadas (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amassae as bananas.",
+      "Acrescente os outros ingredientes.",
+      "Leve ao forno baixo e asse até que os biscoitos fiquem dourados."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GIO HAMACEK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301248-biscoito-de-banana-e-aveia.html"
+}

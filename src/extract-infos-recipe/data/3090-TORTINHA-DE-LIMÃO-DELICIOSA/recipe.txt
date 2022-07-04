@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTINHA DE LIMÃO DELICIOSA",
+  "ingredientes": {
+    "MASSA:": [
+      "1 xícara e 1/2 de chá de farinha de trigo",
+      "1 colher (sopa) de açúcar de confeiteiro",
+      "100 g de manteiga com sal",
+      "1 ovo pequeno batido",
+      "Raspinha da casca de limão"
+    ],
+    "RECHEIO:": [
+      "1 lata de leite condensado",
+      "1/2 lata (medida do leite condensado) de suco de limão coado",
+      "1/2 envelope de gelatina sem sabor dissolvida conforme instruções",
+      "raspinha da casca de limão para decorar",
+      "biscoito recheado de limão para a decoração"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Fazer uma farofa com a farinha de trigo, o açúcar, a manteiga e a raspinha de limão",
+      "Acrescente o ovo batido e misture com a mão até ficar uma massa que não grude",
+      "Deixe descansar na geladeira por 20 minutos",
+      "Após esse tempo, forre o fundo de uma forma desmontável de 20 cm",
+      "Fure com um garfo e levar para assar em forno preaquecido por 15 a 20 minutos"
+    ],
+    "RECHEIO:": [
+      "Misture os ingredientes e bata no liquidificador"
+    ],
+    "MONTAGEM:": [
+      "Sobre a massa assada e fria coloque o recheio",
+      "Decore com as raspinhas, leve à geladeira para endurecer",
+      "Desenforme e cole os biscoitinhos em volta"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GILDA FERREIRA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303896-tortinha-de-limao-deliciosa.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CHUCHU RECHEADO COM LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 chuchus",
+      "Linguiça de sua preferência",
+      "Cebola",
+      "Alho",
+      "Sal e pimenta a gosto",
+      "Azeite de oliva",
+      "Ervas de sua preferencia"
+    ]
+  },
+  "passos": {
+    "CHUCHU:": [
+      "Higienize os chuchus com água corrente e remova a casca.",
+      "Divida o chuchu.",
+      "Com uma colher, raspe o centro para que possa colocar o recheio posteriormente. Cuidado para não raspar demais para não desmanchar o chuchu. Reserve o que foi removido.",
+      "Em uma panela, ferva os chuchus até que fiquem no ponto de sua preferência. Você pode salgar a água para dar mais sabor.",
+      "Remova e reserve."
+    ],
+    "RECHEIO:": [
+      "Em uma panela, cozinhe o que foi raspado do chuchu com alho, azeite e cebola.",
+      "Posteriormente, corte a linguiça em rodelas e acrescente ao cozido.",
+      "Adicione sal e pimenta a gosto.",
+      "Deixe cozinhar por 10 minutos."
+    ],
+    "MONTAGEM:": [
+      "Posicione os chuchus em uma forma e adicione o cozido em cada um.",
+      "Adicione em uma pequena dose um pouco de azeite. Ervas como orégano ou salsinha podem ser adicionados dependendo de seu gosto.",
+      "Deixe no forno a 210 a 240 ºC por um período de 10 a 20 minutos.",
+      "Sirva junto com alguma guarnição que você goste como arroz ou macarrão bolonhesa."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301094-chuchu-recheado-com-linguica.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO CASEIRO MINEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "2 colheres de açúcar",
+      "1/2 colher de sal",
+      "1 pacotinho de fermento seco de 45 g",
+      "6 ovos",
+      "1 copo de água morna",
+      "2 colheres de óleo",
+      "1 copo de coalhada ou iogurte natural",
+      "3 colheres de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1 PASSO",
+      "Coloque 3 copos de farinha, o açúcar, sal e o fermento",
+      "Misture e acrescente os ovos, a água e o óleo.",
+      "Deixe essa massa descansar por cerca de 30 minutos, ou até que apareçam bolhas",
+      "Essa massa vai inchar.",
+      "2º PASSO",
+      "Acrescente o restante da farinha, a manteiga e a coalhada, amasse bem.",
+      "Quanto mais você amassar mais fofinha a massa ficará.",
+      "Coloque um pouco de óleo por cima da massa já amassada e deixe descansar por mais 30 minutos.",
+      "3º PASSO",
+      "Divida a massa e separe.",
+      "Enrole a massa ou faça tranças.",
+      "Deixe descansar antes de ir para o forno por mais 30 minutos.",
+      "Enquanto a massa descansa aqueça o forno em fogo médio por 15 minutos.",
+      "Leva cerca de 30 minutos de forno, ou até que o pão fique bem douradinho."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "ELIANE ELIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304763-pao-caseiro-mineiro.html"
+}

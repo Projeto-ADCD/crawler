@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras médias",
+      "1 cebola",
+      "2 dentes de alho",
+      "300 g de bacon",
+      "2 linguiças calabresa",
+      "100 g de uva passas brancas",
+      "100 g de uva passas pretas",
+      "10 azeitonas verdes sem caroço picadas",
+      "1 e 1/2 pacote de farofa pronta tradicional ",
+      "cheiro-verde a gosto",
+      "1 pitada de pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte bacon em cubos pequenos na panela para fritar e soltar sua gordura",
+      "Acrescente a calabresa também picada miudinha, deixe fritar até adquirir uma corzinha",
+      "Adicione o alho amassado, a cebola picadinha, frite um pouco",
+      "Adicione as cenouras raladas para murchar um pouco, sempre mexendo, adicione as uvas passas, as azeitonas, sempre mexendo para não juntar líquido",
+      "Prove nessa hora para ver o sal e já vai adicionando a farofa pronta, adicione a pimenta-do-reino, mexendo bem, e se estiver bem soltinha desligue o fogo",
+      "Passe para uma travessa e decore com cheiro-verde",
+      "Pode também acrescentar meias fatias de abacaxi em calda sobre a farofa pronta e cerejas no palito, mas são apenas para decorar e opcionais"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "EDNA MARIA NOGUEIRA PLÁCIDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303595-farofa-agridoce-de-natal.html"
+}

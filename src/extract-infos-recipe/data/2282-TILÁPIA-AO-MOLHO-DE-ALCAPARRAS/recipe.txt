@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TILÁPIA AO MOLHO DE ALCAPARRAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 filés de tilápia",
+      "1 cebola média",
+      "3 dentes de alho",
+      "1 colher (chá) de sal",
+      "1/2 colher de Chá de pimenta do reino",
+      "suco de meio limão",
+      "2 colheres (sopa) de manteiga",
+      "1/2 xícara de alcaparras",
+      "4 colheres (sopa) de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés com sal, pimenta e o suco de limão.",
+      "Deixe marinar por 10 minutos.",
+      "Corte a cebola e o alho em pedaços pequenos.",
+      "Aqueça a manteiga e o azeite e disponha os filés.",
+      "Deixe fritar por aproximadamente 4 minutos e vire os filés.",
+      "Frite até ficar dourado ou a seu gosto.",
+      "Retire os filés e refogue a cebola e o alho.",
+      "Acrescente as alcaparras e deixe 2 minutos para soltar o sabor.",
+      "Disponha o refogado sobre os filés e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "VANESSA WILLEMANN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305571-tilapia-ao-molho-de-alcaparras.html"
+}

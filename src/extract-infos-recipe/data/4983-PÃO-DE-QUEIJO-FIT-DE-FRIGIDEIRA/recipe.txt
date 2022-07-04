@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FIT DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher (sopa) de iogurte natural desnatado",
+      "1 colher (sopa) de polvilho azedo",
+      "1 pitada de sal",
+      "1 fatia de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata com o garfo o ovo, o polvilho e o iogurte até a mistura ficar homogênea.",
+      "Acrescente o sal e a mussarela picadinha e misture levemente.",
+      "Aqueça em fogo baixo uma frigideira antiaderente untada com óleo de coco ou manteiga ghee",
+      "Coloque a mistura na frigideira quente e doure dos dois lados, como uma panqueca"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299786-pao-de-queijo-fit-de-frigideira.html"
+}

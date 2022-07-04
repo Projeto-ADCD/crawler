@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE QUEIJO EM FORMA DE BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 copo de leite (200 ml)",
+      "1/2 de óleo (100 ml)",
+      "1 colher (chá) de sal",
+      "2 copos de polvilho doce (medida de copo de 200 ml)",
+      "50 g de queijo ralado (parmesão ou meia cura)",
+      "Opcional: adicione 1 colher (chá) de fermento químico caso queira mais fofinho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador",
+      "Ou leve na batedeira em velocidade média por dois minutos.",
+      "Despeje a mistura em uma forma de pudim untada e enfarinhada.",
+      "Deixe em média 30 minutos de forno a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA CARLA MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305179-pao-de-queijo-em-forma-de-bolo.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "YAKISOBA (MUITO SIMPLES)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa de yakisoba",
+      "2 pacotes de molho pronto de yakisoba",
+      "1 cenoura média",
+      "1 brócolis",
+      "3 dentes de alho",
+      "400 g de frango (quase 500 g)",
+      "1 cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o frango em cubos e tempere do seu gosto.",
+      "Em uma panela, refogue o alho e a cebola até dourar.",
+      "Enquanto isso corte o brócolis e a cenoura em tiras finas.",
+      "Acrescente o frango, a cenoura e o brócolis e mexa até o frango cozinhar.",
+      "Em outra panela com água, acrescente quase todo o pacote de massa e uma pitada de sal.",
+      "Espere a massa ficar al dente (que é o ponto de cozimento da massa).",
+      "Coloque o molho de yakisoba junto com o frango, a cenoura e o brócolis e deixe cozinhando em fogo baixo até os vegetais ficarem macios.",
+      "Escorra a água da massa e misture com o molho.",
+      "Coloque em uma travessa e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "AMANDA M S FELICIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300769-yakisoba-muito-simples.html"
+}

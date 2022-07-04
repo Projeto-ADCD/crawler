@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SUFLÊ DE BETERRABA COM GORGONZOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 beterrabas médias",
+      "1 xícara (chá) de leite",
+      "1 colher (sopa) bem cheia de amido de milho",
+      "150 g de queijo gorgonzola",
+      "4 ovos (clara e gema separadas)",
+      "1 colher (sopa) de molho inglês",
+      "1 dente de alho",
+      "2 colheres (sopa) de manjericão fresco",
+      "50 g de queijo parmesão ralado",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as beterrabas em uma panela com água ou no microondas",
+      "Deixe esfriar",
+      "Em uma caçarola pequena coloque o leite misturado com o amido de milho",
+      "Acrescente uma pitada de sal e pimenta e leve ao fogo, mexendo sempre, até formar um creme denso",
+      "Em um liquidificador, coloque as 4 gemas, a beterraba picada, o creme denso, o dente de alho e o queijo gorgonzola esfarelado",
+      "Bata até obter um creme homogêneo",
+      "Acrescente o molho inglês, o manjericão, sal e pimenta a gosto",
+      "Experimente para não salgar muito pois o queijo gorgonzola já contém bastante sal",
+      "Bata tudo novamente para incorporar os temperos finais",
+      "Batas as 4 claras em neve e misture ao creme delicadamente",
+      "Unte um refratário com manteiga e coloque o suflê",
+      "Leve ao forno preaquecido, em temperatura média, por uns 20 a 25 minutos, ou até dourar",
+      "Retire do forno e sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303745-sufle-de-beterraba-com-gorgonzola.html"
+}

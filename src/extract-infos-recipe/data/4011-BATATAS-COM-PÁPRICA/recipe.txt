@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BATATAS COM PÁPRICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800g de batata descascada",
+      "sal",
+      "2 colheres (sopa) de azeite",
+      "1 cebola cortada em rodelas",
+      "1 colher (chá) de páprica",
+      "1 e 1/2 xícara de caldo de legumes",
+      "1/2 colher (chá) de cominho",
+      "1 tomate, sem pele e picado",
+      "pimenta-do-reino",
+      "3 colheres (sopa) de creme de leite de soja",
+      "páprica para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas em água com sal por 7 minutos. Escorra e corte em rodelas de 5 cm.",
+      "Esquente o óleo numa frigideira grande e funda e frite a cebola, em fogo médio, durante 4 minutos.",
+      "Junte a páprica, o caldo, o cominho, o tomate e a pimenta.",
+      "Misture bem e adicione as batatas, misturando delicadamente.",
+      "Deixe ferver lentamente, tampe a frigideira, diminua o fogo e cozinhe por mais 20 minutos. As batatas deverão ter absorvido quase todo o líquido.",
+      "Despeje o creme de leite por cima e deixe esquentar. Coloque as batatas numa travessa e polvilhe com a páprica."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302136-batatas-com-paprica.html"
+}

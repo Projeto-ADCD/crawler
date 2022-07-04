@@ -1,0 +1,52 @@
+{
+  "nome_receita": "TORTA DE SALSICHA",
+  "ingredientes": {
+    "MASSA:": [
+      "3 ovos",
+      "1 xícara (chá) de óleo",
+      "2 xícaras (chá) de leite",
+      "3 xícaras (chá) de farinha de trigo",
+      "3 colheres (sopa) de queijo ralado",
+      "sal a gosto",
+      "páprica picante a gosto",
+      "1 colher de chá de fermento"
+    ],
+    "RECHEIO:": [
+      "1 pimentão vermelho",
+      "8 salsishas",
+      "1 cebola média",
+      "2 dentes de alho",
+      "4 colheres (sopa) de uva passa",
+      "orégano a gosto",
+      "1 tomate",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "bacon a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata os igredientes líquidos primeiro.",
+      "Adiocione a farinha.",
+      "Adicione o sal e a páprica.",
+      "Adicione o queijo.",
+      "Adiocione o fermento."
+    ],
+    "RECHEIO:": [
+      "Pique todos os igredientes em cubos.",
+      "Frite o bacon.",
+      "Cozinha as salsishas na água.",
+      "Misture tudo e reserve."
+    ],
+    "MONTAGEM:": [
+      "Coloque a massa numa forma untada e enfarinhada.",
+      "Coloque o recheio por cima.",
+      "Leve ao forno pré-aquecido a 180°.",
+      "Tire a torta quando, ao fincar, o garfo sair limpo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "THALITA......",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299990-torta-de-salsicha.html"
+}

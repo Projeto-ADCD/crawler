@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA MODIFICADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) arroz cozido",
+      "30 g de folhas de oro-pro-nóbis",
+      "100 g de castanhas trituradas",
+      "1 e 1/2 xícara de (chá) farinha de mandioca pronta tradicional",
+      "100 g de azeitonas picadas",
+      "1 cebola picadinha",
+      "2 dentes de alho amassados",
+      "1 cenoura grande ralada (200 g)",
+      "150 ml de azeite",
+      "10 tomates cerejas cotados ao meio",
+      "10 ovos de codorna cozidos",
+      "cheiro-verde a gosto (salsinha/cebolinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz e reserve (pode ser sobra do dia anterior)",
+      "Numa panela coloque o azeite, a cebola e o alho e refogue",
+      "Acrescente o oro-pro-nóbis e dê uma ligeira refogada, só para murchar",
+      "Agregue o arroz cozido, as castanhas e as azeitonas",
+      "Misture tudo muito bem.",
+      "Desligue o fogo e delicadamente vá colocando a farinha de mandioca ",
+      "Coloque em uma travessa e decore com os ovos de codorna, tomates cereja e cheiro-verde."
+    ]
+  },
+  "tempo_de_preparo": "-20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SUELY BENITES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303985-farofa-modificada.html"
+}

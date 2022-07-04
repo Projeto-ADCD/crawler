@@ -1,0 +1,41 @@
+{
+  "nome_receita": "PÃO DE MEL DA CRISTINA RUFFATTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de leite",
+      "1 xícara de mel ou xarope de glucose de milho ",
+      "2 colheres (sopa) de chocolate em pó (pode ser cacau)",
+      "1 ovo grande",
+      "1 xícara (chá) de açúcar mascavo",
+      "1/2 xícara (chá) de óleo",
+      "3 xícaras (chá) de farinha de trigo (Granfino)",
+      "1 colher (chá) de bicarbonato de sódio",
+      "1/2 colher (sopa) de fermento em pó",
+      "1 colher (sopa) rasa de canela em pó",
+      "1 colher (café) de cravo em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes – menos a farinha – no liquidificador.",
+      "Bata bastante.",
+      "Coloque a massa em uma vasilha funda e adicione a farinha.",
+      "Misture manualmente de forma vigorosa.",
+      "Unte as forminhas próprias para pão de mel de 5 cm de diâmetro e com fundo falso.",
+      "Para encher as forminhas, coloque a massa em um saco de confeitar com um furo pequeno.",
+      "Leve para assar em forno preaquecido a 180° C por aproximadamente 15 minutos (faça o teste do palito).",
+      "Retire os pães de mel do forno, espere que esfriem por completo e, então, corte-os ao meio e coloque o recheio desejado.",
+      "Derreta cobertura de chocolate ao leite meio amargo em banho-maria ou microondas.",
+      "Banhe os pães de mel e coloque-os para secar sobre papel alumínio ou filme plástico",
+      "Decore como desejar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Validade: 15 dias (dependendo do recheio este prazo poderá diminuir), ou 3 meses, se congelado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "55 PORÇÕES",
+  "autor": "CRISTINA RUFFATTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305460-pao-de-mel-da-cristina-ruffatto.html"
+}

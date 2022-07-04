@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CANECA DE CHOCOLATE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caneca",
+      "1 ovo",
+      "4 colheres farinha de trigo com fermento",
+      "3 colheres de chocolate em pó",
+      "4 colheres de leite",
+      "3 colheres de óleo",
+      "2 colheres de açúcar",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Quebre o ovo na caneca e bata com um garfo",
+      "Depois adicione o açúcar e mexa bem",
+      "Coloque o óleo e misture",
+      "Depois coloque o leite e misture",
+      "Coloque o chocolate em pó e mexa bem",
+      "Acrescente a farinha de trigo aos poucos para não ficar com bolinhas na massa",
+      "Leve ao microondas por cerca de 4 a 5 minutos ",
+      "Pronto e aproveite "
+    ]
+  },
+  "tempo_de_preparo": "-10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CECILIA NICOLE MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303258-bolo-de-caneca-de-chocolate-simples.html"
+}

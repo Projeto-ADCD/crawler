@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de leite (morno)",
+      "2 colheres (sopa) de açucar",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (café) de sal",
+      "2 ovos inteiros",
+      "500 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite, os ovos, o sal, o açucar, a manteiga e o fermento.",
+      "Despeje o líquido em uma vasilha e misture aos poucos a farinha de trigo até a massa ficar como uma 'massa de bolo grossa'.",
+      "Espalhe a massa em um tabuleiro untado e enfarinhado.",
+      "Deixe a massa descansar até dobrar de tamanho.",
+      "Leve para assar até dourar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PRISCILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304882-pao-de-liquidificador.html"
+}

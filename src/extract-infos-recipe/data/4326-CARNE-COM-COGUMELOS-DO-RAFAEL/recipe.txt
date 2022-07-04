@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CARNE COM COGUMELOS DO RAFAEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bifes de filé mignon",
+      "1 caixinha de cogumelos de sua preferência",
+      "salsa, alho e cebola a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os bifes em tiras, tempere-os com sal e pimenta a gosto",
+      "Coloque manteiga na frigideira e junte o alho e a cebola picados",
+      "Doure-o e coloque os cogumelos picadinhos",
+      "Após isso, coloque a salsa e retire os cogumelo",
+      "Coloque-os em um recipiente e junte a carne na panela",
+      "Deixe-a com o seu ponto e após coloque os cogumelos novamente"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAFAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301368-carne-com-cogumelos-do-rafael.html"
+}

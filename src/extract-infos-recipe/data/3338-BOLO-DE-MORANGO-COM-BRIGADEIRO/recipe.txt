@@ -1,0 +1,72 @@
+{
+  "nome_receita": "BOLO DE MORANGO COM BRIGADEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo de chocolate profissional ",
+      "2 ovos grandes (se for pequeno usa 3)",
+      "1 e 1/2 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 pitada de sal",
+      "3/4 de xícara de chocolate em pó (uso o 50% cacau)",
+      "1 xícara de leite integral morno",
+      "2 xícaras de farinha de trigo",
+      "1 e 1/2 colher (chá) de bicarbonato de sódio",
+      "2 colheres (chá) de fermento em pó",
+      "Calda para umedecer o bolo",
+      "1 xícara (chá) de água",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (sopa) de chocolate em pó",
+      "Brigadeiro de chocolate ",
+      "2 latas de leite condensado",
+      "1 colher (sopa) de manteiga sem sal",
+      "1/2 xícara (chá) de creme de leite (de caixinha)",
+      "1/4 de xícara (chá) de chocolate em pó",
+      "150 g de chocolate ao leite",
+      "Brigadeiro de leite Ninho",
+      "2 latas de leite condensado",
+      "1 colher (sopa) de manteiga sem sal",
+      "1/2 xícara (chá) de creme de leite (de caixinha)",
+      "1/2 xícara (chá) de leite Ninho",
+      "1 colher (chá) de extrato de baunilha",
+      "Montagem",
+      "3 caixinhas de morango (2 para o recheio e 1 para decoração)",
+      "chocolate granulado para decorar"
+    ]
+  },
+  "passos": {
+    "BOLO:": [
+      "Bata os ovos e o açúcar",
+      "Acrescente o óleo, a pitada de sal e continuar batendo",
+      "Coloque o chocolate em pó e bata",
+      "Coloque o leite e bata mais",
+      "Acrescente a farinha de trigo peneirada aos poucos e incorpore à massa com o fuê",
+      "Coloque o bicarbonato, o fermento e misture",
+      "Despeje na forma untada nas laterais e fundo forrado com papel manteiga",
+      "Dar batidinhas leve com a forma na mesa pra retirar o ar",
+      "Levar ao forno por 45 minutos a 200°C",
+      "Desenforme e divida a massa em 3 partes"
+    ],
+    "RECHEIOS E MONTAGEM:": [
+      "Faça a calda, misture todos os ingredientes e leve ao fogo até ferver",
+      "Ferveu, desligue o fogo e reserve até que esteja em temperatura ambiente (conserve por até 10 dias na geladeira)",
+      "Faça os brigadeiros separadamente: junte todos os ingredientes numa panela de fundo grosso, e leve em fogo baixo até engrossar e desgrudar do fundo da panela",
+      "Reserve até que eles estejam em temperatura ambiente",
+      "Lave os morangos e deixe secar bem",
+      "Pique 2/3 da quantidade em quadrados pequenos, a outra parte deixe com os cabinhos para decorar",
+      "Montagem:",
+      "Corte o bolo em 3 camadas e disponha no prato de servir, começando pela primeira camada",
+      "Umedeça o bolo com a calda, e coloque metade do recheio de brigadeiro de leite ninho",
+      "Por cima, espalhe metade dos morangos picados",
+      "Disponha a segunda camada de bolo, e repita o processo (calda + recheio de leite ninho + morangos)",
+      "Por fim, coloque a última camada de bolo e umedeça com a calda",
+      "Leve o bolo para geladeira por pelo menos 2 horas para firmar (se tiver pressa, coloque meia hora no freezer)",
+      "Com uma espátula de bolo (ou uma colher) cubra todo o bolo com o brigadeiro de chocolate.",
+      "Decore com o chocolate granulado e os morangos cortados ao meio (ou como preferir)",
+      "Leve para a geladeira até o momento de servir"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROBERTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303536-bolo-de-morango-com-brigadeiro.html"
+}

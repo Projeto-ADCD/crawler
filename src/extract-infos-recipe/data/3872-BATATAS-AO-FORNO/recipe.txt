@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATATAS AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 batatas pequenas",
+      "1 colher (chá) de sal",
+      "1/2 colher (chá) de salsinha picada",
+      "2 colheres (sopa) de azeite",
+      "1 colher (chá) de alecrim"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave todas as batatas em água corrente, para tirar toda a sujeira que está na casca",
+      "Se as suas batatas são muito grandes, corte-as no meio",
+      "Em um refratário, coloque o sal, a salsinha e o azeite e mexa bem",
+      "Em seguida, acrescente as batatas e misture tudo com as mãos até o tempero se espalhar bastante",
+      "Espalhe as batatas no refratário e leve ao forno à temperatura de 180° C por cerca de 30 minutos, ou até que as batatas fiquem macias",
+      "Polvilhe o alecrim e sirva"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PATRICIA KARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302462-batatas-ao-forno.html"
+}

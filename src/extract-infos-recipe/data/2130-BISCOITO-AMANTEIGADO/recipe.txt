@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "240 g de farinha de trigo",
+      "160 g de açúcar",
+      "230 g de manteiga",
+      "1 ovo",
+      "1 colher (sobremesa) de fermento",
+      "30 ml de leite",
+      "PS: sabor a escolha (baunilha, laranja, etc)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha,o açúcar e o fermento e o sabor escolhido",
+      "Misture com uma colher.",
+      "Depois coloque a manteiga, ovo e o leite e misture com a mão ",
+      "Misture até ficar com uma massa homogênea",
+      "E coloque na mesa e abra a massa",
+      "Faça o formato que você deseje e depois coloque na forma",
+      "Asse por 180° C por 5 minutos (ou mais até a parte de baixo ficar dourada)",
+      "OBS: não precisa untar a forma"
+    ]
+  },
+  "tempo_de_preparo": "59 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "ELOAH MELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305937-biscoito-amanteigado.html"
+}

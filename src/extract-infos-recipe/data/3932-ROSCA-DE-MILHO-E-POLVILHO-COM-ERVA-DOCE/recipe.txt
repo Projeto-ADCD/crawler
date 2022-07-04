@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ROSCA DE MILHO E POLVILHO COM ERVA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 xícara (chá) de margarina",
+      "3/4 de xícara (chá) de açúcar",
+      "1 xícara (chá) de farinha de milho fina",
+      "1 xícara (chá) de polvilho doce",
+      "1 e 1/2 xícara (chá) de farinha de trigo (aproximadamente)",
+      "1 colher (sopa) rasa de fermento em pó",
+      "1 pitada de sal",
+      "erva-doce a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira os ovos, o açúcar e a margarina até a mistura ficar homogênea.",
+      "Acrescente a farinha de milho, o polvilho, o fermento em pó e o sal e misture levemente.",
+      "Por último, adicione a farinha de trigo aos poucos, sovando com as mãos até que a massa fique uniforme e desgrude das mãos (pode ser que sobre um pouquinho de farinha).",
+      "Faça rosquinhas (cerca de vinte unidades) e coloque-as em forma untada e enfarinhada, com uma pequena distância entre elas.",
+      "Leve ao forno preaquecido a 200º C por cerca de 25 minutos ou até que estejam lijeiramente coradas."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SILVANA W. VEZZOSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302343-rosca-de-milho-e-polvilho-com-erva-doce.html"
+}

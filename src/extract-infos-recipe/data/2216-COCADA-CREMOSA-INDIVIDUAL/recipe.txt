@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COCADA CREMOSA INDIVIDUAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara (chá) de açúcar",
+      "1 xicara (chá) de água",
+      "2 xicaras (chá) de coco em flocos úmido e adoçado (pode ser também o coco seco ou a fruta)",
+      "se o coco for umido e adocado: 1/4 xícara (chá) de água",
+      "se o coco for seco: 1/2 xícara (chá) de água",
+      "se o coco for natural não precisa colocar água.",
+      "3/4 de xícara (chá) de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o coco e a água ( depende de qual for o seu coco ) e misture bem ate ele ficar bem úmido.",
+      "Em uma panela grande adicionar o açucar e a água. Mexa um pouco com o fogo desligado, depois ligue em fogo alto e não mexa mais até solta bolhas e ficar transparente. Quando isso acontecer pegue uma colher, pegue um pouco de calda e jogue na panela de novo. Quando você estiver jogando tem que formar um fio leve mas continuo.",
+      "Adicione o coco úmido na nossa calda. Abaixar o fogo para medio e mexer até ficar sem água no fundo.",
+      "Quando atingir esse ponto, adicione o leite condensado. Mexa em fogo baixo até ele querer ficar um doce mais “junto” e quando você vira e solta bem da panela.",
+      "Quando estiver no ponto certo, pegue duas colheres de sopa e vai “tirando” de uma colher para a outra para formar uma espécie de bolinha.",
+      "Ponha todas as cocadinhas em uma forma retangular e deixe esfriando em temperatura ambiente por mais ou menos 30 min.",
+      "Quando ela estiver durinha por fora e cremosa por dentro",
+      "Pode atacar"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "BEATRIZ TRANCOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305694-cocada-cremosa-individual.html"
+}

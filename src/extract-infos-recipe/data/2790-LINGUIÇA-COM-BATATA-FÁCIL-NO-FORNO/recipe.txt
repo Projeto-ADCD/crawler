@@ -1,0 +1,27 @@
+{
+  "nome_receita": "LINGUIÇA COM BATATA FÁCIL NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 linguiças",
+      "8 batatas descascadas e cortadas ao meio",
+      "1 colher (sopa) de manteiga",
+      "1/2 colher de café de sal",
+      "cebola e alho a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture as batatas descascadas e cortadas ao meio com os temperos a gosto e a manteiga",
+      "Arrume as linguiças e as batatas em uma forma",
+      "Cubra a forma com papel-alumínio",
+      "Leve ao forno por 50 minutos em temperatura média/alta",
+      "Retire o papel-alumínio e deixe gratinar no forno por mais 10 minutos ou até que fiquem douradinhos.",
+      "Pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ESTELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304424-linguica-com-batata-facil-no-forno.html"
+}

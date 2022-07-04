@@ -1,0 +1,49 @@
+{
+  "nome_receita": "QUICHE DE QUEIJO E ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "280 g de trigo",
+      "150 g de manteiga com sal",
+      "20 g de margarina",
+      "1 colher (chá) rasa de sal",
+      "4 a 6 colheres (sopa) de água gelada",
+      "2 cebolas grandes",
+      "1 alho",
+      "400 g de espinafre",
+      "1/2 lata (150 g) de creme de leite de lata",
+      "40ml leite",
+      "100g ricota (de preferência aquela mais úmida)",
+      "3 ovos inteiros",
+      "50 g requeijão cremoso",
+      "100 g de mussarela em pedaços",
+      "50 g gruyére em pedaços",
+      "90 g gorgonzola em pequenos cubos",
+      "30 g parmesão ralado",
+      "1/4 de colher (café) de noz moscada",
+      "pimenta-do-reino a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um processador de alimentos (opcional, pode ser feito com a mão), coloque o trigo, o sal, a manteiga e a margarina (estas últimas cortadas em pequenos cubos, temperatura ambiente)",
+      "Bata e quando começar a formar pedaços, coloque a água gelada até que fique bem agrupado",
+      "Envolva a massa em plástico filme e coloque na geladeira por 30 minutos",
+      "Retire a massa do congelador e forre a forma (não precisa untar)",
+      "Fure todo o fundo da massa com um garfo e pré-asse por 15 minutos a 180º C",
+      "Refogue em azeite de oliva a cebola (picada em pequenos pedaços), depois junte o alho espremido e doure bem",
+      "Adicione o espinafre e refogue até ficar bem escuro e soltar bastante líquido",
+      "Esprema o refogado em uma peneira para tirar toda a água",
+      "Com a massa pré-assada, espalhe o refogado, o gruyere e a mussarela na massa, sem apertar muito",
+      "Em um bowl/tigela junte o creme de leite, o requeijão, a ricota (em pedaços) e os ovos, e bata até ficar homogêneo",
+      "Tempere este creme com sal, pimenta e noz moscada",
+      "Despeje o creme sobre a massa e coloque os cubos de gorgonzola e o parmesão no topo, para formar crosta",
+      "Asse tudo à 200º C até que o meio esteja firme (teste com palito de dente até que saia limpo) e pare de borbulhar (aproximadamente 45 minutos)",
+      "Espere resfriar e coloque na geladeira, sirva em temperatura ambiente"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEONARDO MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303924-quiche-de-queijo-e-espinafre.html"
+}

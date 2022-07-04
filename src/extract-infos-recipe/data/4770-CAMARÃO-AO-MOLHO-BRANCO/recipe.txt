@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CAMARÃO AO MOLHO BRANCO",
+  "ingredientes": {
+    "PARA O PREPARO DO CAMARÃO:": [
+      "1/2 kg de camarão",
+      "1 colher de sal",
+      "1 colher de azeite",
+      "1 colher de pimenta em pó",
+      "4 dentes de alho",
+      "coentro (a gosto)"
+    ],
+    "PARA O PREPARO DO MOLHO:": [
+      "1 copo de leite",
+      "2/3 colher de maizena",
+      "cebolinha (a gosto)",
+      "salsinha (a gosto)",
+      "sal (a gosto)",
+      "1/2 cebola (pequena) picada",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture o sal, coentro, pimenta em pó e azeite para preparar o tempero.",
+      "Após preparar o tempero, coloque o camarão lavado nesse recipiente e misturar.",
+      "Doure o alho com um pouco de azeite e em seguida jogar o camarão na frigideira junto ao alho.",
+      "Para o preparo do molho, doure a cebola com manteiga em uma panela, jogar o copo de leite já misturado com a maizena na panela, adicionar salsinha, cebolinha e sal.",
+      "Mexa o molho durante mais ou menos 15 minutos em fogo baixo.",
+      "Misture o camarão com o molho e seu camarão ao molho branco."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JUAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300257-camarao-ao-molho-branco.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PAVÊ SEM BOLACHA DA TIA CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 potes de nata ",
+      "2 latas de leite condensado",
+      "2 barras de chocolate meio amargo",
+      "2 barras de chocolate ao leite",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, coloque as natas e os leites condensado, misture até tudo estar incorporado",
+      "Leve à geladeira por aproximadamente 40 minutos para que fique firme",
+      "No banho-maria ou micro-ondas leve as barras de chocolate (lembrando que no micro deve olhar e mexer algumas vezes)",
+      "Depois de todo chocolate derretido, acrescente o creme de leite e misture, formando a ganache",
+      "Coloque o chocolate por cima do creme e espalhe até que tampe tudo.",
+      "Resfrie e aproveite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATÁLIA OTTONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302096-pave-sem-bolacha-da-tia-cris.html"
+}

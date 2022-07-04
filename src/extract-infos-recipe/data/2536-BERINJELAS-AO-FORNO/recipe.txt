@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BERINJELAS AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas médias cortadas em fatias",
+      "3 cebolas médias cortadas em rodelas finas",
+      "3 tomates sem pele cortados em rodelas finas",
+      "1 alho-poró cortado em rodelas finas",
+      "10 fatias de mussarela",
+      "1/2 xícara (chá) de azeite de oliva",
+      "sal, pimenta e ervas-finas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as fatias de berinjelas em uma tigela funda com água e sal.",
+      "Deixe descansar por uns 30 minutos para tirar o gosto amargo.",
+      "Lave-as em água corrente, escorra e seque-as bem.",
+      "Em uma vasilha coloque as rodelas de berinjela e tempere com sal, pimenta, azeite.",
+      "Deixe tomar gosto.",
+      "Tempere com sal, pimenta e azeite as rodelas de tomate.",
+      "Deixe tomar gosto.",
+      "Em uma frigideira, coloque um pouco de azeite e as fatias de cebola e as fatias de alho-poró e deixe murchar um pouco.",
+      "Retire a cebola da frigideira e coloque mais um pouco de azeite e refoge as fatias de berinjela, aos pouco.",
+      "Tempere as cebolas a gosto.",
+      "Unte uma forma refratária e monte camadas de berinjela, cebola com o alho-poró, mussarela e tomate.",
+      "Regue cada uma das camadas com azeite e polvilhe ervas-finas sobre as mesmas.",
+      "Repita as camadas e regue por cima mais um pouco de azeite.",
+      "Leve o refratário ao forno pré-aquecido, em temperatura média por uns 35 minutos.",
+      "Sirva como um acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304996-berinjelas-ao-forno.html"
+}

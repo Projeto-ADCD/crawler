@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ABÓBORA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora média",
+      "250 g de carne moída",
+      "1 cebola",
+      "2 tomates",
+      "queijo a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a abóbora no meio e limpe ela",
+      "Raspe a abóbora para retirar o miolo e reserve",
+      "Coloque a abóbora temperada com sal e pimenta no forno a 200°C por 30 minutos ou até ficar no ponto com uma forma",
+      "Cozinhe a carne moída temperada a seu gosto",
+      "Depois de cozida adicione o miolo da abóbora que você reservou e a cebola",
+      "Depois da abóbora assada você recheia ela com a carne moída e adicione queijo a gosto e deixe gratinar",
+      "Coloque o tomate picado e tempere a gosto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANDRE THEISS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303013-abobora-recheada.html"
+}

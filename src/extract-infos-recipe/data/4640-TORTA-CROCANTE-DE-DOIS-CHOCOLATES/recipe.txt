@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA CROCANTE DE DOIS CHOCOLATES",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de flocos de arroz",
+      "150 g de chocolate branco",
+      "500 g de chocolate meio amargo",
+      "1 lata de creme de leite sem soro",
+      "1/4 de xícara de chantili",
+      "300 g de chocolate branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture os flocos  de arroz com o chocolate branco derretido. ",
+      "Transfira para uma forma de aro removível forrada com papel-manteiga.",
+      "Deixe secar.",
+      "Em outro recipiente, misture o chocolate meio amargo derretido com o creme de leite. ",
+      "Despeje sobre a camada de flocos de arroz na forma e leve à geladeira por 30 minutos. ",
+      "Retire a torta da geladeira e passe uma camada fina de chantili e volte à geladeira por mais 30 minutos. ",
+      "Misture o chantili com o chocolate branco derretido. ",
+      "Leve essa mistura à geladeira por 30 minutos.",
+      "Retire da geladeira e cubra a torta.",
+      "Volte à geladeira por 2 horas e decore com chocolate meio amargo derretido. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "210 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300672-torta-crocante-de-dois-chocolates.html"
+}

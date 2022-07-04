@@ -1,0 +1,33 @@
+{
+  "nome_receita": "LASANHA DE CABOTIÁ COM CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída",
+      "1 cebola média",
+      "3 tomates médios",
+      "1 pomarola",
+      "azeitonas picadas a gosto",
+      "1 lata d emilho verde",
+      "cheiro-verde a gosto",
+      "sal e pimenta a gosto",
+      "1/2 cabotiá",
+      "500 g de queijo muçarela",
+      "400 g de presunto",
+      "massa de lasanha pré-cozida (1 caixinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cabotiá picada, com alho e cebola e acrescente o sal e a pimenta a gosto.",
+      "Depois de cozida, amasse com um garfo até q fique igual a um purê.",
+      "Faça o molho de carne moída como de costume, reserve.",
+      "Depois é só montar a lasanha alternando uma camada de molho e outro de cabotiá.",
+      "Leve ao forno médio, já preaquecido por uns 30 minutos.",
+      "E já está pronto para comer!!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DEISY GONCALVES GALVAO TRABAQUINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303539-lasanha-de-cabotia-com-carne-moida.html"
+}

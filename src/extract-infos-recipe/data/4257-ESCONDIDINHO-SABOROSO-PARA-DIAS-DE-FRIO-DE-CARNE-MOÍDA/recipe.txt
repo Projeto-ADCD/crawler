@@ -1,0 +1,41 @@
+{
+  "nome_receita": "ESCONDIDINHO SABOROSO PARA DIAS DE FRIO DE CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de carne moída",
+      "2 colheres (sopa) de molho shoyu",
+      "2 xícaras (chá) de arroz de arroz branco",
+      "1 tomate em pedaços",
+      "4 dentes de alho picados",
+      "1 cebola em pedaços",
+      "5 batatas médias cozidas",
+      "1 colher (sopa) de manteiga",
+      "100 g de queijo ralado parmesão",
+      "leite integral ",
+      "azeite a gosto",
+      "azeitonas fatiadas a gosto",
+      "orégano a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Inicie o cozimento do arroz refogando o alho com um pouco de azeite e fritando o arroz por 20 segundos.",
+      "Acrescente a água fervente e cozinhe até secar toda a água, reserve.",
+      "Refogue a cebola e o alho com azeite por 3 minutos e adicione a carne moída, sempre misturando em intervalos até o momento que a carne estiver bem solta e cozida.",
+      "Coloque o tomate, as azeitonas e o molho shoyu e misture. ",
+      "Deixe no fogo baixo por 5 minutos e reserve.",
+      "Pegue as batatas cozidas e amasse as mesmas.",
+      "Em uma panela em fogo médio adicione a manteiga com um pouco de azeite.",
+      "Em fogo médio acrescente o purê e misture.",
+      "Para deixar mais cremoso, adicione leite até que fique na textura desejada.",
+      "Em um pirex coloque o arroz, depois cubra com o cozido de carne e por fim acrescente o purê de batata, cobrindo o mesmo com queijo parmesão e um pouco de orégano.",
+      "Leve ao forno até gratinar.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301506-escondidinho-saboroso-para-dias-de-frio-de-carne-moida.html"
+}

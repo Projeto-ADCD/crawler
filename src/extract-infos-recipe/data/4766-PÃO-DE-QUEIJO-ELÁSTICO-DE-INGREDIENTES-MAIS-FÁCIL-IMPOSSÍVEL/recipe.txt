@@ -1,0 +1,21 @@
+{
+  "nome_receita": "PÃO DE QUEIJO ELÁSTICO DE 3 INGREDIENTES - MAIS FÁCIL IMPOSSÍVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de tapioca",
+      "100 g de queijo ralado",
+      "1 pote de requeijão",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Leve ao forno pré-aquecido a 180°C para assar por 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "ROSANE ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300263-pao-de-queijo-elastico-de-3-ingredientes-mais-facil-impossivel.html"
+}

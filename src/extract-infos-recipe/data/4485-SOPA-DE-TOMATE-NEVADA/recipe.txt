@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOPA DE TOMATE NEVADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 tomates",
+      "5 litros de água",
+      "2 caldos de carne ou galinha (a gosto)",
+      "8 ovos",
+      "1/2 caixa de creme de leite",
+      "extrato de tomate (a gosto, somente se ficar fraco de tomate)",
+      "pimenta-do-reino e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os tomates em pedaços e coloque o caldo, por aproximadamente 8 minutos na pressão usando a metade da água (na panela comum é até desmanchar), espere esfriar e bata no liquidificador até virar creme.",
+      "Passe em uma peneira para retirar todos os grãos e pele que sobraram.",
+      "Retorne o tomate batido para a panela (grande) e ferva com o restante da água até apurar o molho e ficar na consistência desejada.",
+      "Aproximadamente 20 minutos de fervura.",
+      "Ao final, se necessário, acrescente o extrato de tomate a gosto para coloração mais avermelhada.",
+      "Coloque o sal e a pimenta (a gosto)",
+      "Se preferir e gostar de um caldo mais cremoso, dissolva uma colher de amido de milho em um copo de água e adicione ao caldo, sempre mexendo, mas lembre-se que ainda irá 1/2 caixa de creme de leite no final da receita.",
+      "Separe as claras das gemas e as bata em neve, ao final, retorne as gemas na neve formada, bata levemente até virar um creme (cuidado para não bater demais)",
+      "Use uma panela grande, pois agora você irá despejar toda a clara em neve por cima da sopa (a clara em neve vai crescer), sem mistura-la e espalhando-a uniformemente.",
+      "Após feito isso, tampe a panela e deixe ferver por aproximadamente 10 minutos, para cozinhar os ovos.",
+      "Fique muito atento para não transbordar, cortando eventualmente a camada de ovos.",
+      "Quando os ovos estiverem prontos, corte-os em quadrados e misture na sopa.",
+      "Misture a 1/2 caixa de creme de leite.",
+      "Sirva com torradas e queijo ralado na hora."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ESTEVAO JAEGER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301013-sopa-de-tomate-nevada.html"
+}

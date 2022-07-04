@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BROA ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras (chá) de açúcar",
+      "1 colher (sopa) de margarina",
+      "1 copo (americano) de óleo",
+      "1 pacote de 100 g de queijo parmesão ralado",
+      "2 xícaras (chá) de farinha de trigo",
+      "2 xícaras (chá) de fubá",
+      "1 colher (café) de sal",
+      "3 copos duplos de leite",
+      "1 colher (sopa) de fermento",
+      "300 g de goiabada cascão picada em cubinhos e passada na farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata juntos: os ovos, açúcar, margarina e óleo até ficar esbranquiçado.",
+      "Vá juntando aos poucos o leite, o queijo, a farinha e o fubá.",
+      "Bata bem.",
+      "Adicione o fermento e mexa levemente.",
+      "Despeje a metade da massa numa forma grande com furo no meio previamente untada e esfarinhada.",
+      "Salpique metade dos cubinhos de goiabada.",
+      "Despeje o restante da massa e o restante da goiabada.",
+      "Leve para assar por 40 minutos em forno médio."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA SILVIA AVELAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305013-broa-romeu-e-julieta.html"
+}

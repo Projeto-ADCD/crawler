@@ -1,0 +1,29 @@
+{
+  "nome_receita": "VINAGRETE PICANTE (SEM VINAGRE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 dentes de alho",
+      "10 tomates",
+      "3 cebolas",
+      "3 pimentas dedo de moça",
+      "1 pimentão verde pequeno",
+      "Azeite",
+      "Cheiro verde a gosto",
+      "Sal a gosto",
+      "Orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire as sementes das pimentas dedo de moça.",
+      "Corte todos os ingredientes em cubos e os misture.",
+      "Adicione o azeite até chegar ao ponto desejado.",
+      "Adicione sal.",
+      "Finalize com orégano."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FELIPE AUGUSTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301726-vinagrete-picante-sem-vinagre.html"
+}

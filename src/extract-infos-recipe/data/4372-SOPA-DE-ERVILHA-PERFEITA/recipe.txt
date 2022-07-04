@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOPA DE ERVILHA PERFEITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g ervilha seca",
+      "2 dentes de alho",
+      "1/2 cebola picada",
+      "2 linguiça calabresa picada",
+      "250 g lombo desalgado picado",
+      "250 g costelinha desalgada",
+      "2 cenouras médias picadas",
+      "cheiro-verde a gosto",
+      "água",
+      "150 g bacon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e a calabresa.",
+      "Adicione o lombo e a costelinha.",
+      "Refogue mais um pouco.",
+      "Acrescente a cebola e o alho.",
+      "Adicione a cenoura e a ervilha.",
+      "Mexa bem.",
+      "Adicione água ao nível que fique 4 dedos acima dos ingredientes.",
+      "Tampe a panela de pressão e conte 40 minutos depois de chiar em fogo baixo.",
+      "Tire a pressão e adicione o cheiro-verde.",
+      "Sirva.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALINE MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301282-sopa-de-ervilha-perfeita.html"
+}

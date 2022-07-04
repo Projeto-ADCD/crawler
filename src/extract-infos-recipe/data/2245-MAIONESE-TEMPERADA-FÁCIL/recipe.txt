@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MAIONESE TEMPERADA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de maionese pronta",
+      "salsinha picada a gosto",
+      "3 dentes de alho médio",
+      "1 e 1/2 colher (sopa) de mostarda",
+      "2 gemas de ovo cozidas",
+      "2 colheres (sopa) de óleo de soja",
+      "1/2 limão pequeno"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador coloque a maionese da marca de sua preferência, acrescente a salsinha picada, os dentes de alho, a mostarda e a gema do ovo (a gema deve estar bem cozida)",
+      "Esprema meio limão e acrescente o óleo.",
+      "Bata tudo até ficar homogêneo.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa maionese acompanha muito bem lanches e pastéis\nServe para fazer a salada de maionese com batatas, ovos, milho etc. Fica tudo muito gostoso!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ADRI VOICHICOVSKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305636-maionese-temperada-facil.html"
+}

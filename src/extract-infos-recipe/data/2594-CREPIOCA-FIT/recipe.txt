@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREPIOCA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres rasa (sopa) de goma de tapioca",
+      "óleo de coco ou margarina.",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente adicione a goma de tapioca, o ovo e o sal e bata até desmanchar toda a goma (reserve)",
+      "Unte a frigideira com óleo de coco ou com a pontinha da colher de margarina e leve ao fogo baixo",
+      "Adicione a mistura, aguarde 1 minuto e depois vire.",
+      "Assim estará pronta a sua crepioca.",
+      "Obs.: para mais porções e só dobrar ou triplicar os ingredientes."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VERENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304860-crepioca-fit.html"
+}

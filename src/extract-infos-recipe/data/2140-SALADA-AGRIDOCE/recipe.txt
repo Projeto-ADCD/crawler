@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA AGRIDOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi",
+      "4 maçãs fuji",
+      "100 g uvas passas",
+      "maionese a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o abacaxi e as maçãs em quadrados pequenos",
+      "Misture o abacaxi, as maçãs e as uvas passas",
+      "Acrescente maionese o suficiente para forma um molho",
+      "Tempere com pimenta-do-reino a gosto",
+      "Sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "REGYS BORGES DA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305909-salada-agridoce.html"
+}

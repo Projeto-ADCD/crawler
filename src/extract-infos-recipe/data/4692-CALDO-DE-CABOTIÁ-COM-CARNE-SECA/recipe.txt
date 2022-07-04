@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CALDO DE CABOTIÁ COM CARNE SECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora cabotiá",
+      "500 g de carne seca cozida desfiada",
+      "1 caldo de carne",
+      "2 dentes de alho",
+      "1 cebola pequena",
+      "1 colher de ketchup",
+      "sal e pimenta a gosto",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fure a abóbora e coloque no micro-ondas por 20 minutos na potência alta",
+      "Deixe 20 minutos o micro-ondas desligado com ela lá dentro.",
+      "Vire a abóbora e coloque mais 20 minutos.",
+      "Em uma panela, frite a cebola e o alho.",
+      "Acrescente a carne seca, o caldo de carne, o ketchup, o sal e a pimenta.",
+      "Desligue o fogo e acrescente o creme de leite.",
+      "Retire a abóbora do micro-ondas e corte apenas um círculo de no máximo 15 cm na parte de cima, retire as sementes com uma colher.",
+      "Coloque o creme de carne seca dentro da abóbora e mexa devagar para tirar um pouquinho da abóbora e misturar no creme.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SIMONE TOESCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300410-caldo-de-cabotia-com-carne-seca.html"
+}

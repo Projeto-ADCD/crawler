@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA DE PÊSSEGO COM COCO DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha de maisena",
+      "2 caixas de creme de leite",
+      "2 latas de leite condensado",
+      "1 pacote de coco ralado (150 g)",
+      "1 gelatina sem sabor",
+      "3 pêssegos",
+      "3 colheres de açúcar",
+      "1 copo de leite",
+      "2 colheres de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e pique os pêssegos",
+      "Cozinhe-os com água e ao final adicione o açúcar (faça um doce de pêssego, pode comprar pronto tb) e reserve",
+      "Coloque 1 lata de creme de leite, 1 leite condensado, o leite e a maisena",
+      "Leve ao fogo e faça um creme, bata no liquidificador e reserve",
+      "Junte 1 leite condensado, 1 creme de leite e a gelatina ja dissolvida em água quente (1/2 copo de água e 1/2 pacote de gelatina)",
+      "Bata tudo no liquidificador, desligue e adicione o coco, mexendo com uma colher",
+      "Reserve"
+    ],
+    "MONTAGEM:": [
+      "Coloque uma camada de bolacha sobre a forma, adicione o creme (mousse de coco), adicione mais uma camada de bolacha e o doce de pêssego com a calda para umidecer as bolacha, por último o creme feito a base de maisena",
+      "Leve a geladeira e deixe por 40 minutos e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GLENDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303626-torta-de-pessego-com-coco-deliciosa.html"
+}

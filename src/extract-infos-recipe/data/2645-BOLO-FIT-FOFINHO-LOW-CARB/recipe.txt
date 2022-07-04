@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO FIT FOFINHO - LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "5 colheres (sopa) de farinha de aveia",
+      "2 colheres (sopa) farelo de trigo",
+      "4 colheres (sopa) de adoçante em pó culinário ",
+      "canela a gosto",
+      "1 colher (chá) fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve com uma batedeira, em seguida adicione as gemas e bata por 2 minutos.",
+      "Desligue a batedeira e com o auxílio de um batedor incorpore aos poucos o adoçante, a farinha de aveia, o farelo de trigo, a canela e por fim o fermento.",
+      "Misture delicadamente.",
+      "Leve para assar em forno pré aquecido a 180° C por 20 minutos ou até que doure."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "BIANCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304748-bolo-fit-fofinho-low-carb.html"
+}

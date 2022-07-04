@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO INDIANO SIMPLES E SEM RECHEIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 gemas (reserve as claras)",
+      "1 ovo",
+      "1 e 1/2 xícara (chá) de açúcar mascavo",
+      "1 xícara (chá) de óleo de girassol",
+      "1/2 xícara (chá) de leite morno",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1/2 xícara (chá) de cacau/chocolate em pó",
+      "1 colher (sopa) de canela em pó",
+      "1/2 colher (café) de noz moscada em pó",
+      "1/2 colher (café) de gengibre em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as 3 claras (reservadas acima) em neve e separe.",
+      "Em outra vasilha bata as gemas com açúcar.",
+      "Em seguida, acrescente o leite morno, o chocolate/cacau, a noz moscada, a canela, o gengibre e o óleo, misture.",
+      "Acrescente a farinha de trigo e bata na batedeira em velocidade alta por 3 minutos",
+      "Desligue a batedeira.",
+      "Acrescente o fermento e mexa aos poucos.",
+      "Em seguida, acrescente a clara em neve e mexa de baixo para cima, até ficar totalmente envolvida na massa.",
+      "Unte a forma com óleo e passe uma mistura de farinha com açúcar mascavo e canela.",
+      "Despeje a massa.",
+      "Asse em forno a 180° C por 30/50 minutos (vai depender do seu forno).",
+      "Espere esfriar, desenforme e polvilhe uma mistura de canela com gengibre e açúcar mascavo.",
+      "Utilize palito de dente para verificar se o bolo está assado.",
+      "Se o palito sair limpo está pronto, se sair com massa grudada ainda precisa assar mais."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAIMUNDO BARTHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305742-bolo-indiano-simples-e-sem-recheio.html"
+}

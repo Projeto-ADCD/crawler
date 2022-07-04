@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DOCE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "480 g farinha de trigo",
+      "1/2 lata de leite condensado",
+      "3 ovos",
+      "1 colher (sopa) de manteiga",
+      "1/4 xícara de água morna (35 a 37°C)",
+      "10 g fermento biológico seco (1 pacotinho)",
+      "80 a 100 g de recheio opcional (pode ser coco ralado ou uva passa ou fruta cristalizada ou ameixa seca) "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem, a farinha de trigo com o fermento numa vasilha grande",
+      "Adicione ou outros ingredientes, inclusive o recheio",
+      "Sove bem a massa e deixe descansar por 1 hora",
+      "Modele os pãezinhos em tamanhos de 35 a 38 g cada",
+      "Deixe descansar mais 2 horas (pode ficar mais se quiser)",
+      "Asse em forno médio 180°C por cerca de 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "200 MIN",
+  "rendimento": "28 PORÇÕES",
+  "autor": "RENATO MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303424-pao-doce-simples.html"
+}

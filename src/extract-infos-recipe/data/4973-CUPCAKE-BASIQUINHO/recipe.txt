@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CUPCAKE BASIQUINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de baunilha (12 ml)",
+      "1 colher (sopa) de fermento em pó (12 g)",
+      "220 ml de leite",
+      "4 ovos",
+      "350 g de açúcar refinado",
+      "220 g de margarina sem sal e em temperatura ambiente",
+      "350 g de farinha de trigo peneirada",
+      "2 g de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na tigela da batedeira, coloque o açúcar refinado e a manteiga em temperatura ambiente",
+      "Bata até ficar no ponto esbranquiçado.",
+      "Adicione os ovos um a um com a batedeira ligada e bata.",
+      "Em outra tigela, adicione a baunilha no leite e reserve.",
+      "Em outra tigela, coloque a farinha de trigo sem fermento, o fermento em pó e o sal e misture.",
+      "Junte a massa do cupcake, um pouco da farinha e um pouco do leite e misture levemente.",
+      "Adicione o restante da farinha e do leite.",
+      "Mexa levemente e a massa estará pronta.",
+      "Quando a massa ficar homogêne é a hora de preencher as forminhas.",
+      "Coloque as forminhas de papel posicionadas sobre as de alumínio e preencha-as até a metade com a massa.",
+      "Leve ao forno preaquecido por cerca de 25 minutos, mas verifique de tempos em tempos, pois o tempo pode depender de forno para forno."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "GI CAPINAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299825-cupcake-basiquinho.html"
+}

@@ -1,0 +1,56 @@
+{
+  "nome_receita": "BOLO BOMBA RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme",
+      "1 xícara de leite integral",
+      "2 xícaras de leite de coco",
+      "1 caixa de creme de leite sem soro (200 ml)",
+      "1 gema",
+      "3 colheres (sopa) de amido de milho",
+      "1 lata de leite condensado",
+      "100 g de coco ralado",
+      "Massa",
+      "4 ovos (usar as gemas e bater as claras em neve)",
+      "1 xícara de óleo",
+      "1 xícara de açúcar ",
+      "1 xícara de chocolate em pó",
+      "1 xícara de leite em temperatura ambiente",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1/4 colher (chá) de bicarbonato de sódio",
+      "Ganache",
+      "200 g de chocolate ao leite",
+      "300 ml de creme de leite fresco",
+      "coco ralado e raspas de chocolate para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Coloque o leite, o leite de coco, a gema, o leite condensado e o amido dissolvido em 1/2 xícara de leite de coco em uma panela.",
+      "Misture bem até engrossar. ",
+      "Deixe esfriar. ",
+      "Quando estiver morno, adicione o creme de leite e o coco ralado e misture bem.",
+      "Bolo",
+      "Na batedeira, bata os ovos, o óleo, o açúcar e o chocolate até a mistura dobrar de tamanho.",
+      "Vá intercalando o leite e a farinha de trigo, em pelo menos 2 etapas, terminando com a farinha.",
+      "Desligue a batedeira. ",
+      "Adicione o fermento e o bicarbonato.",
+      "Ganache",
+      "Em um recipiente de vidro, pique o chocolate e reserve.",
+      "Em uma panela, aqueça o creme de leite até começar a levantar fervura, mas não deixe ferver. ",
+      "Despeje o creme de leite em cima do chocolate e misture até ficar uma mistura homogênea.",
+      "Montagem",
+      "Coloque a massa do bolo em uma forma untada e enfarinhada",
+      "Em colheradas, coloque o creme sobre a massa.",
+      "Leve ao forno (180° C) para assar.",
+      "Retire e cubra o bolo, espere esfriar e desenforme.",
+      "Espalhe a ganache por toda a superfície do bolo e salpique o coco e o chocolate por cima"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304329-bolo-bomba-recheado.html"
+}

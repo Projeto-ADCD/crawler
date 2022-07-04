@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PANQUECA FÁCIL DA MARIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha de trigo",
+      "1 xícara de leite",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque o trigo e despeje o leite gradualmente até a massa ficar com uma boa consistência (mais para mole do que líquida)",
+      "Acrescente o ovo inteiro.",
+      "Bata um pouco no liquidificador.",
+      "Monte a frigideira e faça panquecas.",
+      "Sirva ainda quente com uma boa geleia ou com calda de chocolate"
+    ]
+  },
+  "tempo_de_preparo": "-5 MIN",
+  "rendimento": "-10 PORÇÕES",
+  "autor": "MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299987-panqueca-facil-da-maria.html"
+}

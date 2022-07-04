@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO DE SALSICHA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 salsichas grandes",
+      "1 tomate grande",
+      "1/2 cebola média",
+      "200 ml de água",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola, o tomate e as salsichas, reserve.",
+      "Em uma panela adicione o óleo e refogue a cebola",
+      "Em seguida adicione o tomate, a água, o sal e as salsichas",
+      "Deixe ferver mexendo de vez em quando até cozinhar as salsichas.",
+      "Se preferir um molho mais uniforme, bata tudo, exceto as salsichas, em um liquidificador por 3 segundos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "STAR FAKE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305236-molho-de-salsicha-superfacil.html"
+}

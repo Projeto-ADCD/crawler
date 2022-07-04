@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO DE PAÇOCA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa\\lata de leite condensado",
+      "6 paçocas para o brigadeiro",
+      "6 paçocas para cobrir o brigadeiro (a gosto)",
+      "1\\2 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um prato, esfarele as paçocas",
+      "Em uma panela, adicione o leite condensado, o creme de leite e as paçocas e mexa.",
+      "Coloque no fogo até engrossar e você conseguir enxergar o fundo da panela.",
+      "Espere esfriar e faça bolinhas.",
+      "Cubra com farelos de paçoca."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIA LUÍSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301636-brigadeiro-de-pacoca-simples.html"
+}

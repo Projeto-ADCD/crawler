@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHEESECAKE DE MOUSSE DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito tipo maizena",
+      "40 g de manteiga derretida",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "3 maracujás",
+      "1 gelatina sabor maracujá"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture o biscoito maizena e acrescente toda manteiga derretida e bata mais um pouco, em seguida coloque numa forma de fundo falso formando uma pequena borda grudada ao fundo coberto com o biscoito e reserve",
+      "Faça um suco com dois maracujás sem açúcar e coe",
+      "Faça a base da gelatina (de acordo com a embalagem) e junte no liquidificador o suco, a base da gelatina, o leite condensado e o creme de leite e bata tudo até ficar homogêneo",
+      "Em seguida, coloque tudo na forma e coloque no congelador por 1 hora e 30 minutos ou até o creme ficar em consistência de mousse",
+      "Para finalizar, coloque a polpa do terceiro maracujá por cima para decorar"
+    ]
+  },
+  "tempo_de_preparo": "160 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALICIA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303877-cheesecake-de-mousse-de-maracuja.html"
+}

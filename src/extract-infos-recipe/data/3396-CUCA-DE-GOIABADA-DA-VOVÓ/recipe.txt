@@ -1,0 +1,45 @@
+{
+  "nome_receita": "CUCA DE GOIABADA DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "4 ovos",
+      "3 xícaras de de açúcar",
+      "4 xícaras de trigo",
+      "2 xícaras de leite",
+      "4 colheres de margarina",
+      "1 colher de fermento biológico",
+      "1 pacote de goiabada",
+      "Para a farofa:",
+      "6 colheres de trigo",
+      "4 colheres de açúcar",
+      "canela em pó",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Para início do processo, bata as claras em neve e reserve",
+      "Em seguida, bata as gemas com açúcar",
+      "Logo após essa etapa adicione o leite aos poucos e vai batendo novamente",
+      "Adicione o trigo peneirado mexa e bata novamente até unir todos os ingredientes",
+      "Acrescente a margarina e por último o fermento biológico",
+      "Adicione as claras em neve e mexa com uma colher de baixo para cima"
+    ],
+    "FAROFA:": [
+      "Coloque o trigo, acrescente o açúcar e a canela (quantidade que desejar)",
+      "Aos poucos adicione o óleo em forma de fio",
+      "Vá mexendo até virar uma farofa com bolinhas"
+    ],
+    "MONTAGEM:": [
+      "Adiciona a massa na forma untada",
+      "Coloque a goiabada cortada em tiras",
+      "Por último adicione a farofa",
+      "Leve para assar por 40 minutos em uma temperatura de 180°C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SUÉLLEN RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303447-cuca-de-goiabada-da-vovo.html"
+}

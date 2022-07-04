@@ -1,0 +1,29 @@
+{
+  "nome_receita": "DADINHO DE TAPIOCA FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "500 g farinha de tapioca granulada",
+      "500 g de queijo coalho ralado",
+      "sal a gosto",
+      "pimenta a gosto",
+      "tempero pronto a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente o leite",
+      "Após leite estar em quente, desligue o fogo e acrescente o queijo coalho",
+      "Logo após acrescentar farinha de tapioca granulada mexer bem",
+      "Após mexer coloque os temperos a gosto",
+      "Unte uma forma média com manteiga e coloque a mistura",
+      "Deixe na geladeira por até 2 horas",
+      "Retire da geladeira, corte em cubos e frite com óleo bem quente até ficar dourado",
+      "Caso goste, utilize geleia de pimenta para comer junto aos dadinhos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "VANNESSA SANTOS LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305262-dadinho-de-tapioca-facil-de-fazer.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "QUICHE DE CEBOLA E QUEIJO GRUYÈRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1 e 1/2 xícaras de leite integral (360 ml)",
+      "160 g de queijo gruyere Président",
+      "3 cebolas cortadas em meia lua",
+      "sal e pimenta-do-reino",
+      "300 g de massa folhada descongelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, adicione a manteiga e a cebola.",
+      "Refogue em fogo médio baixo até que a cebola comece a murchar e diminuir de tamanho.",
+      "Aumente o fogo para médio alto e continue refogando até que a cebola esteja dourada.",
+      "Desligue o fogo e reserve.",
+      "Abra a massa folhada e transfira para uma assadeira de fundo removível de 21 cm, forrando o fundo e as laterais.",
+      "Em uma tigela, adicione os ovos e misture com o leite.",
+      "Rale o queijo gruyere Président e tempere com sal e pimenta.",
+      "Misture com um batedor de arame ou espátula até obter uma mistura uniforme.",
+      "Transfira as cebolas para a forma com a massa forrando o fundo.",
+      "Cubra com a mistura dos ovos leve a quiche para assar em forno preaquecido à 180° C por aproximadamente 45 minutos ou até que esteja firme.",
+      "Sirva morna."
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VAI COMER O QUE?",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302280-quiche-de-cebola-e-queijo-gruyere.html"
+}

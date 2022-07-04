@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE CARNE SECA DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de carne seca desfiada",
+      "150 g de queijo coalho picado em quadradinho",
+      "200 g de farofa pronta de cebola",
+      "90 g de cenoura ralada",
+      "80 g de pimenta biquinho",
+      "60 g de manteiga",
+      "1 dente de alho ralado",
+      "salsinha e coentro a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparar, cortar e separar todos os ingredientes",
+      "Em uma panela média, aqueça a manteiga, frite o alho levemente",
+      "Mexendo a cada adição de ingrediente, coloque a carne seca desfiada, a cenoura, o queijo picado em quadradinho, a pimenta biquinho, a farinha e as ervas",
+      "Por último acerte o sal, mexa sempre e deixe refogar por 5 minutos em fogo baixo",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode ser servida quente ou em temperatura ambiente, acompanhando arroz branco, legumes e ou saladas\n "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIANA PEREIRA DE MACEDO DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303651-farofa-de-carne-seca-deliciosa.html"
+}

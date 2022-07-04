@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DE BISCOITO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa biscoito tipo maria",
+      "1 caixa de leite condensado",
+      "1 xícara de chocolate ou achocolatado em pó",
+      "2 caixa de creme de leite",
+      "1 xícara de café",
+      "barrinhas debiscoito wafer com cobertura de chocolate para enfeitar",
+      "chantilly a gosto para cobertura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado com creme de leite e separe em duas porções iguais, uma dessas misture com o chocolate, outra metade deixe creme branco ",
+      "Umedeça cada biscoito no café e disponha no fundo de um refratário",
+      "Acrescente uma camada de creme branco, e após biscoito novamente, na segunda camada use o creme com achocolatado, e vá intercalando até terminar o biscoito",
+      "Quando terminar decore com chantilly por cima e enfeite com as barrinhas de biscoito wafer com cobertura de chocolate",
+      "Deixe gelar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ARIELA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302567-torta-de-biscoito-com-chocolate.html"
+}

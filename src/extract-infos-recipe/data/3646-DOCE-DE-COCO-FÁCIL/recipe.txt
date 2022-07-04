@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCE DE COCO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 coco ralado",
+      "1 xícara de açúcar",
+      "200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloca a água e o açúcar",
+      "Deixe ferver até virar uma calda grossinha e mude de cor, em seguida adiciona o leite condensado e mexa",
+      "Coloque o coco e vá mexendo até desgrudar do fundo da panela.",
+      "Deixe esfriar e está pronto para comer."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANDRESSA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302981-doce-de-coco-facil.html"
+}

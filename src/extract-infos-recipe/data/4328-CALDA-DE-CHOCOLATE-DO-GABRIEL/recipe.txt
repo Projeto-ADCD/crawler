@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CALDA DE CHOCOLATE DO GABRIEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) rasa de manteiga ou margarina",
+      "2 colheres de açúcar",
+      "1 xícara de leite (ou 200 ml)",
+      "1/2 xícara de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, coloque o leite, o açúcar, o achocolatado e a manteiga ou margarina",
+      "Leve ao fogo baixo e deixe engrossar",
+      "Não deixe em fogo alto, porque vai transbordar e sujar o seu fogão",
+      "Se você quiser mais grossa, deixe mais tempo no fogo"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIEL REZENDE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301365-calda-de-chocolate-do-gabriel.html"
+}

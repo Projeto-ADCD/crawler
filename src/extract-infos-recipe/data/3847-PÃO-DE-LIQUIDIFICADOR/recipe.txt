@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de leite liquido (400ml)",
+      "1/2 copo de óleo (100ml)",
+      "1 pacote de fermento biológico",
+      "2 ovos",
+      "1 colher (sopa) de açúcar",
+      "Sal a gosto",
+      "queijo ralado e recheios são opcionais"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes (menos a farinha) no liquidificador durante 3 min",
+      "Coloque tudo numa tigela, aos poucos acrescente a farinha e com o auxílio de uma colher de pau (ou com a mão) misture a massa",
+      "Unte uma forma com manteiga e farinha.",
+      "Em seguida despeje toda a massa (se for rechear o pão, coloque metade da massa, recheie e depois a outra metade)",
+      "Cubra a forma e deixe a massa descansar por 15min.",
+      "Enquanto isso, ligue o forno em 180° para preaquecer",
+      "Deixe assar por 20min, ou até o pão dourar em cima",
+      "Ao final você pode passar manteiga por cima do pão ainda quente e polvilhar um pouco de queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ODAIANE SULIVIAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302544-pao-de-liquidificador.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA DE TORRESMO PARA CHURRASCO E FESTAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de barriga suína com carne",
+      "6 dentes de alho amassados",
+      "2 cebolas grandes ",
+      "1 colher (sobremesa) de açafrão",
+      "2 maços de coentro frescos e picados",
+      "1 kg de farinha tradicional ",
+      "6 ovos cozidos e picados",
+      "300 g de azeitonas picadas e sem sementes "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a gordura da fritura, deixando apenas o suficiente para fritar o alho e a cebola",
+      "Frite o alho e a cebola até dourar por completo e acrescente a colher de açafrão",
+      "Acrescente a farinha e vá mexendo até que tudo fique misturado e acrescente o coentro picado",
+      "Adicione o torresmo, misture tudo e reserve em uma travessa",
+      "Já na travessa, adicione os ovos cozidos picados e as azeitonas verdes picadas",
+      "Sirva com churrasco, carne assada ou pernil de fim de ano"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROSELANEA MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303527-farofa-de-torresmo-para-churrasco-e-festas.html"
+}

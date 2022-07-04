@@ -1,0 +1,31 @@
+{
+  "nome_receita": "NUGGETS CASEIROS FÁCEIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de peito de frango",
+      "1 cebola",
+      "4 dentes de alho",
+      "2 ovos",
+      "1 colher (chá) de sal",
+      "pimenta-do-reino a gosto",
+      "páprica a gosto",
+      "farinha panko para empanar",
+      "farinha de trigo para empanar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture no processador o frango, 1 ovo, cebola, alho, sal e pimenta-do-reino",
+      "Tempere as duas farinhas com sal, pimenta-do-reino e páprica",
+      "Unte as mãos e modele os nuggets",
+      "Passe na farinha de trigo, no ovo e na farinha panko",
+      "Frite no óleo quente ou na airfryer",
+      "Na airfryer frite por 20 minutos a 200° C, virando na metade do tempo e despejando um pouco de óleo dos dois lados",
+      "Pode congelar ainda cru após empanar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ELAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302379-nuggets-caseiros-faceis.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO CREMOSO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde com água e tudo",
+      "1/2 lata (do milho) de óleo",
+      "1 lata (do milho) de açúcar",
+      "1/2 lata (do milho) de fubá",
+      "4 ovos",
+      "2 colheres (sopa) bem cheias de farinha de trigo",
+      "2 colheres (sopa) de coco ralado",
+      "1 e 1/2 colher (chá) bem cheia de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bastante todos os ingredientes no liquidificador.",
+      "Depois de bem batido, acrescente o coco ralado e o fermento e misture.",
+      "Coloque para assar.",
+      "Pode colocar na forma redonda de buraco ou na quadrada. Ela deve ser untada e enfarinhada antes de receber a massa.",
+      "Leve ao forno preaquecido a 180ºC por, aproximadamente, 40 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo de preparo na forma redonda é mais rápido, mas a receita fica menor.\n "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PALOMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300288-bolo-cremoso-de-milho.html"
+}

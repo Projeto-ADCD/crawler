@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MELHOR MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura grande",
+      "3 tomates maduros",
+      "1/4 de uma cebola",
+      "sal a gosto",
+      "óleo para incorporar o molho, mas sem exageros"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique bem os tomates e coloque para bater no liquidificador",
+      "Pique a cenoura em cubos para facilitar, acrescente junto ao tomate e adicione a cebola.",
+      "Bata tudo por pelo menos 5 minutos.",
+      "Acrescente o sal e em seguida diminua a velocidade do liquidificador, para colocar aos poucos o óleo.",
+      "Coloque a quantidade de óleo que deixe o molho na cor laranja claro.",
+      "Sem exageros"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAROLINE BORTOLATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305455-melhor-molho.html"
+}

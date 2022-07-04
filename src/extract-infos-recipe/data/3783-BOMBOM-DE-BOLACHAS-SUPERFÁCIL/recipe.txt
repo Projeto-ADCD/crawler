@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOMBOM DE BOLACHAS SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "25 biscoitos maria partidos em 4",
+      "1 xícara de mel",
+      "1 xícara de chocolate em pó",
+      "1 xícara de manteiga",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo depois de bem misturados todos os ingredientes (menos os biscoitos)",
+      "Mexer até o ponto de bala mole.",
+      "Tire do fogo e misture os biscoitos.",
+      "Despeje em um tabuleiro de mais ou menos 30 cm untado de manteiga.",
+      "Depois de frio, corte em quadradinhos e embrulhe em papel-alumínio."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULLIANA CALIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302715-bombom-de-bolachas-superfacil.html"
+}

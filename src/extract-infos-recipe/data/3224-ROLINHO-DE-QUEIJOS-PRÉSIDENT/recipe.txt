@@ -1,0 +1,42 @@
+{
+  "nome_receita": "ROLINHO DE 3 QUEIJOS PRÉSIDENT",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de farinha de trigo",
+      "120 g fermento natural ",
+      "2 g de fermento biológico seco",
+      "150 ml de leite morno",
+      "90 g de açúcar",
+      "50 g de leite em pó",
+      "7 g de sal",
+      "2 ovos (1 inteiro + clara na massa e 1 gema para pincelar)",
+      "50 g de manteiga Président amolecida",
+      "300 g queijo mussarela Président",
+      "160 g queijo tipo estepe Président",
+      "100 g queijo parmesão ralado Président "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela peneirar a farinha de trigo, o açúcar, o sal e o leite em pó e misturar",
+      "Faça um buraco no centro e acrescente o ovo, a clara, o leite morno (diluir antes as 2 g de fermento biológico seco), a manteiga e o fermento natural",
+      "Misture muito bem com o auxílio de uma espátula e quando formar uma massa homogênea transfira para a mesa e sove bem por aproximadamente 15 minutos (até que a massa esteja bem lisa) e faça uma bola para descansar",
+      "Untar a tigela com manteiga e nela colocar a massa, cubra a tigela com plástico-filme e deixe descansar por 30 minutos",
+      "Após o primeiro descanso inicie uma seqüência de três dobras (pode ser dentro da tigela mesmo, estique a massa, dobre as quatro pontas para o centro da massa) a cada 30 minutos",
+      "Finalizado as dobras, aparecerá as primeiras bolhas de crescimento, deixe crescer até dobrar de tamanho, por cerca de mais uma hora, coloque a tigela dentro do forno coberta com o filme plástico",
+      "Despeje a massa crescida em uma superfície lisa (tipo mesa de mármore) e abra-a com o auxílio de um rolo de massa, em forma de um retângulo",
+      "Recheia a massa aberta intercalando fatias de mussarela Président e queijo tipo estepe Président, sem sobrepor os queijos, depois enrole-o (como um rocambole) e corte fatias de 2,5 cm, passe o fundo de cada fatia em farinha de trigo (para os queijos não vazarem enquanto assam) e coloque cada rolinho lado a lado em uma forma untada",
+      "Deixe crescer novamente até dobrar de tamanho (de 40 minutos à 1 hora)",
+      "Pincele sobre os rolinhos a gema batida e polvilhe queijo parmesão ralado Président",
+      "Asse por cerca de 20 minutos em forno preaquecido a 200ºC (temperatura média-alta)",
+      "Quando prontos, retire imediatamente da forma e deixe esfriar em uma grelha"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Ione Martins de Oliveira "
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303705-rolinho-de-3-queijos-president.html"
+}

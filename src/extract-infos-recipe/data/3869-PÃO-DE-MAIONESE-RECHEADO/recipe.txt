@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO DE MAIONESE RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Ingredientes:",
+      "200 g de maionese",
+      "400 ml de água morna",
+      "20 g de fermento seco",
+      "2 ovos",
+      "1 kg de farinha de trigo",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de sal",
+      "sugestão de recheio",
+      "1 lata de sardinha ou atum",
+      "maionese para misturar à gosto",
+      "cheiro verde à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Enfarinhe uma superfície e sove a massa com carinho até que ela desgrude das mãos",
+      "Divida a massa em duas partes iguais e abra cada uma com um rolo, enfarinhando a superfície novamente: neste momento a massa ficará macia e lisa",
+      "Unte com um pouquinho de óleo ou margarina uma forma de bolo média (30 x 24) com fundo falso ou duas formas próprias para pão (27x11) ",
+      "Deixe crescer bem até dobrar o tamanho da massa",
+      "Quando levar ao forno, coloque uma forma com água em baixo da forma com o pão",
+      "Ligue o forno por 15 minutos antes de colocar o pão à 280°C",
+      "Depois que colocar o pão espere que esteja tudo douradinho e tire do forno",
+      "Coloque num ambiente quente para que não sofra choque térmico e murche (atenção: tem que ter uma leve abertura para que o vapor sair, após 10 minutos não murchará mais)",
+      "O tempo de assar é de 25 a 35 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: prefiro forma para pães, pois o pão cresce bonito e para cima\nObs: Com a forma de água seu pão não queima"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARQUES SANTOS DELASVEGAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302466-pao-de-maionese-recheado.html"
+}

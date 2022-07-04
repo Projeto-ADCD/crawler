@@ -1,0 +1,38 @@
+{
+  "nome_receita": "HAMBÚRGUER CASEIRO SEM OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída (pode ser de 2ª, se essa for de boa qualidade)",
+      "100 g manteiga (pode ser margarina cremosa)",
+      "50 g farinha de trigo",
+      "10 fatias de queijo mussarela",
+      "sal a gosto",
+      "cominho a gosto (e/ou pimenta-do-reino)",
+      "6 pães de hambúrguer (pode ser o pão cervejinha)",
+      "cebola a gosto",
+      "alface a gosto",
+      "tomate a gosto",
+      "condimentos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne em um recipiente que possibilite o manuseio da futura 'massa'",
+      "Acrescente a farinha, o sal e o cominho",
+      "Coloque 2 fatias de mussarela em banho-maria, e assim que estiver com uma consistência cremosa, acrescente ao recipiente da carne",
+      "Misture tudo até ficar homogêneo (o queijo deve ficar evidente em meio à massa, esse é o toque especial)",
+      "Forme bolinhas de carne e molde-as até ter um formato de hambúrguer (considere que o hambúrguer diminui de tamanho quando frita)",
+      "Coloque uma colher (chá) de manteiga em uma frigideira, assim que estiver suficientemente quente, coloque um hambúrguer",
+      "Toste completamente um lado, pressionando o hambúrguer com uma espátula",
+      "Assim que virar, acrescente ao lado as fatias de cebola previamente cortadas",
+      "Deixe dourar a cebola e o bife estar completamente pronto",
+      "Corte um dos pães, use os condimentos que preferir (sugestão: 3 pingos de molho de pimenta em uma das faces)",
+      "Com o pão aberto e com condimentos, acrescente na ordem: alface, tomate, a cebola que dourou, uma fatia de queijo mussarela e, por fim, o bife pronto",
+      "Repita o processo para os outros pães e saboreie."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOELISON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305029-hamburguer-caseiro-sem-ovo.html"
+}

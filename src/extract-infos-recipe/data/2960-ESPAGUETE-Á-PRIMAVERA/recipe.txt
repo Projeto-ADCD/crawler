@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ESPAGUETE Á PRIMAVERA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de macarrão espaguete",
+      "1/3 de lata de milho em conserva",
+      "1/3 de lata de ervilha em conserva",
+      "1 cenoura grande picada em cubinhos",
+      "150 g de azeitona sem caroço picada",
+      "300 g de carne moída",
+      "cebolinha picada a gosto",
+      "salsinha picada a gosto",
+      "1 colher (sopa) de alho picadinho frito",
+      "4 colheres (sopa) de azeite",
+      "4 colheres (chá) de açafrão",
+      "pimenta-do-reino a gosto",
+      "4 dentes de alho",
+      "1 sachê de tempero de carne",
+      "pimenta calabresa a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão ‘ao dente’ em água com sal, um fio de óleo e 2 colheres (chá) de açafrão, reserve ",
+      "Refogue a carne moída com 2 dentes de alho e 3/4 do sachê de tempero, deixe-a bem sequinha, reserve ",
+      "Em uma panela grande, refogue no azeite os outros 2 dentes de alho ralados, o açafrão e a pimenta-do-reino a gosto ",
+      "Em fogo baixo, junte a cenoura em cubinhos, salsinha picadinha, cebolinha picadinha e misture bem ",
+      "Acrescente o milho, a azeitona , a ervilha e o restante do sason, misture .",
+      "Acrescente a carne moída e o alho picadinho frito, junte o espaguete e misture bem, desligue o fogo e sirva em seguida ",
+      "Se quiser um pouco mais de picância na receita, acrescente a pimenta calabresa ao final ."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MICHELLE PAULA CALIXTO A. SALOMON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304073-espaguete-a-primavera.html"
+}

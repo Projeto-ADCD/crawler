@@ -1,0 +1,24 @@
+{
+  "nome_receita": "GELEIA FÁCIL DE ACEROLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de acerolas bem maduras",
+      "2 xícaras de açúcar",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Congele as acerolas no dia anterior (facilita o processo)",
+      "Desconge as acerolas naturalmente",
+      "Em uma panela, coloque as acerolas descongeladas e o açúcar (não acrescente água).",
+      "Mexa de vez em quando.",
+      "Quando começar a espumar bastante, leve para o liquidificador e bata bem com água.",
+      "Coe essa mistura e leve novamente ao fogo até engrossar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SANDRA VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304915-geleia-facil-de-acerola.html"
+}

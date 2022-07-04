@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FOGAZZA ASSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 tablete de fermento biológico",
+      "1 colher (sopa) de açúcar",
+      "1/2 xícara (chá) de água morna",
+      "1/2 xícara (chá) de óleo de milho",
+      "1 colher (chá) de sal",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "Recheio",
+      "3 tomates sem sementes picados",
+      "1 cebola média picada",
+      "1 colher (chá) de sal",
+      "1/2 colher (chá) de orégano",
+      "300 g de mussarela ralada no ralo grosso",
+      "Para pincelar",
+      "2 colheres (sopa) de óleo de milho ou gema"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em uma vasilha grande, misture o fermento com o açúcar até ficar líquido",
+      "Junte a água, o óleo de milho e o sal",
+      "Acrescente a farinha, aos poucos, e amasse até obter uma bola",
+      "Cubra com um guardanapo e deixe crescer até dobrar de volume (cerca de 30 minutos)",
+      "Preaqueça o forno em temperatura média (180° C)",
+      "Recheio",
+      "Em uma tigela, misture os tomates, a cebola, o sal, o orégano e a mussarela",
+      "Abra a massa com o rolo sobre uma superfície lisa e corte em círculos com um cortador redondo (10 cm de diâmetro)",
+      "Coloque uma porção de recheio no centro, dobre a massa e aperte bem as bordas",
+      "Coloque na assadeira, pincele com o óleo de milho e leve ao forno por 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DANIELE GRACIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305699-fogazza-assada.html"
+}

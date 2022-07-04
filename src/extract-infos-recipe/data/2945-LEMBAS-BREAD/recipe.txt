@@ -1,0 +1,37 @@
+{
+  "nome_receita": "LEMBAS BREAD",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de mel",
+      "1 colher (sopa) Casca de Laranja Ralada",
+      "100 g de Nozes Picadas",
+      "100 g de Amêndoas Picadas",
+      "1 colher (sopa) de Suco de Laranja",
+      "1 colher (chá) de Sal",
+      "2 e 1/2 xícaras de Farinha de Trigo",
+      "1 xícara de Farinha de Aveia",
+      "5 xícaras de uva passa",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as nozes e amendoas.",
+      "Adicione ao liquidificador ovos, mel, casca de laranja, suco de laranja e o sal e bata novamente por 3 minutos",
+      "Misture em um recipiente separado a farinha de trigo, farinha de aveia e o fermento com uma colher de pau, até obter coloração homogênea",
+      "Adicione as uvas passas ao recipiente com as farinhas e misture",
+      "Adicione o conteúdo do liquidificador ao recipiente e mexa até que a nassa fique homogênea",
+      "Coloque o conteúdo em forma redonda untada",
+      "Preaqueça o forno a 200° C por 20 minutos",
+      "Deposite a forma no forno e aqueça até que fique levemente dourado"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "PS. este é um pão élfico portanto mantenha-se em paz de espirito e com boas vibrações durante todo o processo\nA forma correta de presentear amigos e parentes com o pão de Lembas é cortando um pedaço generoso (maximo 1/4 do pão) e embrulhá-lo em papel manteiga.\nNunca usar recipientes plásticos para entregá-lo de presente"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUIS HENRIQUE AZEVEDO MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304092-lembas-bread.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO PUDIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 colheres de manteiga ou margarina",
+      "2 e 1/2 xícaras (chá) leite integral",
+      "2 xícaras (chá) de açúcar",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "2 xícaras (chá) farinha de trigo",
+      "Obs: se quiser pode adicionar 2 ou 3 gotas de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes no liquidificador ",
+      "Bata por dois minutos ou até formar um líquido homogêneo.",
+      "Unte uma forma com farinha e adicione a massa",
+      "Leve ao forno preaquecido (180° C) por 1 hora ou até dourar a parte de cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305939-bolo-pudim.html"
+}

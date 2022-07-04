@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CHIPS DE TORTILLA FEITO COM FAROFA DE MILHO DA YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farinha de trigo",
+      "1 colher de farofa de milho da Yoki",
+      "1 colher (chá) de colorau ",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 ovo",
+      "1 xícara de água",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela, a farinha, a farofa de milho da Yoki, colorau, sal, pimenta e o ovo",
+      "Misture tudo e acrescente a água aos poucos.",
+      "Mexa até que todos os ingredientes estejam bem incorporados, somente acrescente mais água se for necessário.",
+      "Depois disso, passe a massa para uma superfície enfarinhada e sove até obter uma massa homogênea",
+      "Com ajuda de um rolo abra a massa e faça cortes em forma de triângulos",
+      "Esquente o óleo e frite a massa.",
+      "Está pronto para servir o chips de tortilla com farofa de milho da Yoki",
+      "Dá para comer com guacamole ou qualquer outra pastinha que preferir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Gésica Josiane Padilha de Farias "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304131-chips-de-tortilla-feito-com-farofa-de-milho-da-yoki.html"
+}

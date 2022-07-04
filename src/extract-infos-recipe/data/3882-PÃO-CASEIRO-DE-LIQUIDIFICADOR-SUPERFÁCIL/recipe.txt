@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO CASEIRO DE LIQUIDIFICADOR SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite morno",
+      "100 ml de óleo",
+      "10 g de fermento biologico seco",
+      "1 ovo",
+      "3 colheres (sopa) de açúcar",
+      "1/2 colher (sopa) de sal",
+      "1 kg de farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o leite, o óleo e o fermento",
+      "Bata até ficar homogêneo e espere 10 minutos",
+      "Coloque o ovo, o sal e o açúcar, bata novamente.",
+      "Em uma vasilha, despeje o líquido do liquidificador e vá adicionando a farinha aos poucos até dar o ponto da massa.",
+      "Sove até a massa fazer barulhos.",
+      "Depois, corte a massa pela metade.",
+      "Estique a massa com um rolo (opcional)",
+      "Unte a forma com óleo e coloque a massa na forma",
+      "Deixe ela descansando por 2 horas",
+      "Depois asse o pão entre fogo médio a alto, até dourar",
+      "Ainda com pão quente, passe um pouco de água na casca",
+      "Depois pode saborear"
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JESSICA RENATA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302440-pao-caseiro-de-liquidificador-superfacil.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE LEITE PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite integral",
+      "1/2 suco de limão",
+      "1 colher de manteiga",
+      "3 colheres açúcar cristal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite, o açúcar, o suco de limão e manteiga",
+      "Leve ao fogo e mexa sem parar.",
+      "Deixe no fogo no máximo uns 50 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ELOISA GARCIA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305305-doce-de-leite-pratico.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PARMEGIANA NA FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de frango",
+      "200 g de mussarela",
+      "1 sachê de molho de tomate",
+      "1 cebola média",
+      "3 dentes de alho",
+      "pimenta e sal a gosto",
+      "orégano a gosto",
+      "2 ovos",
+      "farinha de rosca para empanar ",
+      "óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés de frango com a cebola picadinha, alho, sal e pimenta e deixe marinando por meia hora",
+      "Bata os ovos e acrescente sal",
+      "Em outra tigela coloque a farinha de rosca e acrescente sal também (a gosto)",
+      "Passe os filés de frango no ovo batido, na farinha de rosca e depois frite-os em óleo quente",
+      "Feito isso acrescente o restante do molho, coloque umas pitadas de sal, em cima a mussarela (pode ser em fatias ou ralada) e por fim o orégano",
+      "Tampe a panela e deixe cozinhando um pouco (cuidado para não queimar o molho por baixo)",
+      "Deixe os filés descansando, pegue uma frigideira grande ligue em fogo baixo e acrescente metade do molho",
+      "Por cima vá colocando os bifes empanados"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANINNHA ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304731-parmegiana-na-frigideira.html"
+}

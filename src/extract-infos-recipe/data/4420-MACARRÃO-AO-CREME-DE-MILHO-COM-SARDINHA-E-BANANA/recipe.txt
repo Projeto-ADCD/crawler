@@ -1,0 +1,40 @@
+{
+  "nome_receita": "MACARRÃO AO CREME DE MILHO COM SARDINHA E BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde",
+      "1 copo de leite desnatado",
+      "1 colher (sopa) de farinha de trigo sem fermento",
+      "1 tablete de caldo de carne",
+      "1 e 1/2 colher de manteiga",
+      "1 cebola média picada",
+      "1/2 pacote de macarrão de sua preferência",
+      "1 colher (chá) de sal",
+      "Tempero a gosto",
+      "1 banana da terra picada em pedaços e já frita",
+      "1 lata de sardinha",
+      "1 colher de mostarda",
+      "1 creme de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o macarrão para cozinhar em fogo médio até ficar al dente, enquanto isso, já vai preparando o molho.",
+      "Antes, separe 1/4 da água do milho verde e metade do milho da latinha.",
+      "No liquidificador, coloque o leite, a farinha, metade do milho e 1/4 da água do milho. Bata bem e reserve",
+      "Coloque na panela a manteiga e deixe derreter. Acrescente a cebola e o tablete de caldo. Deixe o caldo dourar e derreter.",
+      "Logo após, acrescente o líquido do liquidificador, sempre mexendo. Acrescente o restante do milho da latinha.",
+      "Acrescente ao molho a mostarda, a sardinha e a banana frita (a banana dá uma leveza ao prato) e deixe o molho engrossar, sempre mexendo.",
+      "Quando chegar ao ponto, desligue o fogo.",
+      "Caso queira, acrescente creme de leite depois que o molho já estiver pronto.",
+      "Escorra o macarrão, coloque em uma marinex de sua preferência, jogue o molho em cima do macarrão e espalhe bem."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Uma pimentinha vai muiti bem com esse prato!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PATRICIA RANIELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301169-macarrao-ao-creme-de-milho-com-sardinha-e-banana.html"
+}

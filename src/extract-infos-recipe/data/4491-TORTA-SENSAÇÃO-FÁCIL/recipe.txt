@@ -1,0 +1,54 @@
+{
+  "nome_receita": "TORTA SENSAÇÃO FÁCIL",
+  "ingredientes": {
+    "MASSA:": [
+      "200 g de biscoito de chocolate ",
+      "100 g de manteiga sem sal"
+    ],
+    "RECHEIO:": [
+      "1 xicara de água",
+      "1 pacote de gelatina incolor",
+      "1 pacote de gelatina de morango",
+      "1 lata de leite condensado",
+      "2 copos de iogurte natural",
+      "2 caixas de creme de leite",
+      "1 caixa de morangos picados"
+    ],
+    "COBERTURA:": [
+      "300 g de chocolate meio amargo",
+      "1 caixa de creme de leite quente",
+      "raspas de chocolate para decorar",
+      " "
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Triture os biscoitos e misture com a manteiga derretida até formar uma farofinha úmida. ",
+      "Transfira para uma forma forrada com papel-manteiga.",
+      "Aperte com os dedos para a base da torta ficar bem firme. ",
+      "Leve ao forno preaquecido (180° C) por 10 minutos. "
+    ],
+    "RECHEIO:": [
+      "Dissolva a gelatina incolor em 1/2 xícara de água e leve ao micro-ondas por 30 segundos. ",
+      "Dissolva a gelatina de morango em 1/2 xícara de água quente. ",
+      "Transfira as gelatinas para o liquidificador. ",
+      "Adicione o leite condensado, o iogurte natural e o creme de leite; bata bem. ",
+      "Adicione os morangos picados e misture.",
+      "Despeje essa mistura sobre a massa.",
+      "Leve à geladeira por 1 hora."
+    ],
+    "COBERTURA:": [
+      "Misture o chocolate meio amargo com o creme de leite quente. ",
+      "Despeje sobre a torta e volte à geladeira por 3 horas. ",
+      "Finalize com raspas de chocolate.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se você gosta de tortas doces com morango, experimente também essa deliciosa receita de cheesecake de morango do TudoGostoso!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300998-torta-sensacao-facil.html"
+}

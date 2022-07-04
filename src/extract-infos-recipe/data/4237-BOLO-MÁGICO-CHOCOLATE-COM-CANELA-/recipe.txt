@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO MÁGICO (CHOCOLATE COM CANELA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de canela em pó",
+      "4 ovos",
+      "1 copo de açúcar",
+      "2 copos farinha trigo",
+      "3 colheres (sopa) chocolate em pó",
+      "1/2 copo (americano) óleo",
+      "1/2 copo (americano) leite",
+      "1 colher (sopa) fermento em pó",
+      "Suco de 1 limão",
+      "1 colher sopa essência de baunilha",
+      "Cobertura Ganache (opcional)",
+      "1/4 barra chocolate ao leite",
+      "1/2 barra chocolate meio amargo",
+      "1 caixinha (200 ml) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira coloque os ovos, essência de baunilha, óleo, leite, limão e o açúcar peneirado e bata até obter uma mistura lisa e homogênea.",
+      "Junte a farinha de trigo, o chocolate e a canela peneirados misturando durante uns 5 min até formar uma massa de cor homogênea. Por último misture o fermento em pó.",
+      "Coloque numa assadeira redonda de centro furado. Deixa assar no forno em 180 graus durante 40 a 45 minutos."
+    ],
+    "COBERTURA DE GANACHE (OPCIONAL):": [
+      "Misture as barras de chocolates picados e o creme de leite em um recipiente e derreta (pode ser no microondas) mexendo a cada 30 segundos até derreter todo o chocolate e conseguir uma mistura homogênea e lisa."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HERIVELTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301533-bolo-magico-chocolate-com-canela.html"
+}

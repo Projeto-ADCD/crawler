@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA SEM LEITE E OVOS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de água",
+      "1 colher de fermento em pó",
+      "óleo para fritar o quanto baste eu usei meio litro",
+      "açúcar e canela para polvilhar a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até ficar homogêneo.",
+      "Com a ajuda de uma colher coloque pequenas porções em óleo quente.",
+      "Frite em fogo médio para não ficar cru",
+      "Coloque em papel-toalha ",
+      "Transfira para um recipiente e polvilhe açúcar e canela a gosto.",
+      "Fica uma delícia e sequinho",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "PALOMA PATTINI LINHARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304640-bolinho-de-chuva-sem-leite-e-ovos-facil.html"
+}

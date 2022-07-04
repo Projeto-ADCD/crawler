@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de óleo",
+      "4 dentes de alho",
+      "1 cebola",
+      "3 ovos",
+      "2 colheres (sopa) de sal",
+      "2 colheres (sopa) de vinagre",
+      "1 tomate (opcional)",
+      "orégano a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os alhos, a cebola, os ovos e um pouco de óleo.",
+      "Em seguida, com o liquidificador ligado, despeje o restante do óleo, aos poucos.",
+      "Coloque o restante dos ingredientes e bata novamente.",
+      "Deixe o cheiro-verde por último.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para dar cor use ketchup, beterraba ou corante."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LAURA MARINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299901-molho-especial.html"
+}

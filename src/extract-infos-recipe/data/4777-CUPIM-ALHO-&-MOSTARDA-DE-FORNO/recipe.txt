@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CUPIM ALHO & MOSTARDA DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cupim com pelo menos 1,5 kg",
+      "100 ml de shoyu",
+      "100 g de mostarda",
+      "4 dentes de alho triturados",
+      "30 ml de vinagre",
+      "pimenta-do-reino branca a gosto",
+      "orégano á gosto",
+      "1 sachê de caldo pronto de carne",
+      "páprica a gosto",
+      "água de azeitona verde (embalagem pequena)",
+      "50 ml de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com um Cupim rajado, faça cortes na parte de cima até o meio com espessura de um dedo, faça o mesmo na parte de baixo.",
+      "Após estes cortes, faça o mesmo de uma ponta a outra seguindo o mesmo padrão do primeiro corte. Não se esqueça que estes cortes são em todos os lados.",
+      "Após feito os cortes despeje metade do shoyu de uma ponta a outra,e o restante do shoyu o mesmo no outro lado do cupim.",
+      "Feito isto, reserve na geladeira por 30 minutos.",
+      "Com todos os ingredientes restantes, misture tudo em um recipiente.",
+      "Passe a mistura no cupim em todos os lados e se certificar que está adentrando em todos os recordes!",
+      "Deixe por mais 30 minutos na geladeira.",
+      "Coloque em uma assadeira de profundidade média para baixa e cubra com papel alumínio.",
+      "Coloque no forno frio a 180 graus por 1 hora e 20 minutos.",
+      "Após o tempo com o papel alumínio, retire o papel alumínio e deixe dourar por mais 30 minutos na mesma temperatura de 180 graus."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DJ SANTINO'S GOURMET",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300247-cupim-alho-e-mostarda-de-forno.html"
+}

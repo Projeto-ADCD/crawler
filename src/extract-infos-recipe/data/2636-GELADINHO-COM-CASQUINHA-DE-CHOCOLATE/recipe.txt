@@ -1,0 +1,28 @@
+{
+  "nome_receita": "GELADINHO COM CASQUINHA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de chocolate meio amargo ou ao leite",
+      "10 saquinhos para geladinho",
+      "Recheio de coco",
+      "1 lata de leite condensado (395 g)",
+      "200 ml de leite de coco",
+      "300 ml de creme de leite fresco ou em lata (sem soro)",
+      "200 g de coco ralado (pode ser de pacote ou fresco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate em banho-maria ou micro-ondas (30/30 segundos) e reserve.",
+      "Recheio ",
+      "Misture todos os ingredientes no liquidificador. ",
+      "Com o auxílio de um bico de confeiteiro ou outro saquinho menor, coloque o chocolate nos saquinhos de geladinho. ",
+      "Com um funil, despeje o recheio de coco nos saquinhos. ",
+      "Feche bem os saquinhos e leve para o freezer até congelar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304765-geladinho-com-casquinha-de-chocolate.html"
+}

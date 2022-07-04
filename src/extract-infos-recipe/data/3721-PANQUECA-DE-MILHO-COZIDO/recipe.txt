@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA DE MILHO COZIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 colheres (sopa) de farinha de trigo",
+      "3 colheres (sopa) de milho (de preferência cozido no vapor)",
+      "salsa e cebolinha a gosto",
+      "sal a gosto",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com a farinha, acrescente o milho e os demais ingredientes e misture tudo.",
+      "Unte uma frigideira com óleo e leve ao fogo baixo.",
+      "Assim que aquecer, coloque a mistura e espalhe-a sobre a superfície da frigideira.",
+      "Tampe a frigideira para facilitar o cozimento, mantendo o fogo sempre baixo para não queimar.",
+      "Depois vire para fritar do outro lado.",
+      "Se preferir, poderá usar tapioca no lugar da farinha de trigo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LUCIANA ROSA DE FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302839-panqueca-de-milho-cozido.html"
+}

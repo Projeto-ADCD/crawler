@@ -1,0 +1,34 @@
+{
+  "nome_receita": "VATAPÁ PARAENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de camarão seco",
+      "1 kg de trigo",
+      "1 frasco de leite de coco",
+      "3/4 de xícara de azeite de dendê",
+      "1/2 maço de cheiro verde picado",
+      "3 dentes de alho",
+      "1 cebola picada",
+      "pimentão verde a gosto",
+      "pimentão vermelho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe bem os camarões e separe as cabeças em uma panela",
+      "Em 1 e 1/2 litro de água ferva as cabeças",
+      "Em uma panela grande coloque os temperos e o azeite de dendê",
+      "Deixe por aproximadamente 1 minuto",
+      "Adicione o camarão limpo junto com os temperos e, em seguida, coloque o leite de coco",
+      "Bata as cabeças de camarão junto com a água da fervura",
+      "Passe as cabeças de camarão pela peneira e adicione a água das cabeças à panela",
+      "Quando a panela estiver fervendo, bata o trigo com água e adicione à panela mexendo depressa para não empelotar",
+      "Acerte o sal",
+      "Sirva com arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303486-vatapa-paraense.html"
+}

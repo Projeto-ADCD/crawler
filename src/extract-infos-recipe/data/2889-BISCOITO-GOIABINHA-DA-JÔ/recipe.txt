@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO GOIABINHA DA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de trigo sem fermento (2 xícaras)",
+      "100 g de açúcar (1/2 xícara)",
+      "150 g de margarina (1/2 e 1/4 de xícara)",
+      "1 colher (sopa) essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com as mãos.",
+      "O ponto da massa é ficar lisa sem esfarelar e sem grudar nas mãos.",
+      "Faça rolinhos e corte todos na mesma medida.",
+      "Mais ou menos a espessura de 2 falanges.",
+      "Faça as bolinhas e arrume na assadeira com papel-manteiga.",
+      "Não precisa achata-las",
+      "Leve para assar em forno pré aquecido a 180° C por 10 minutos.",
+      "Enquanto isso derreta a goiabada 30 segundos no micro-ondas.",
+      "Com as bolinhas assadas e fria, coloque o recheio e cole uma banda na outra, passe no açúcar e está pronto sua deliciosa goiabinha."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304219-biscoito-goiabinha-da-jo.html"
+}

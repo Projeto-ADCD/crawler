@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PATÊ DE AZEITONA",
+  "ingredientes": {
+    "DEFAULT": [
+      "320 g de azeitona",
+      "1 cebola picada",
+      "1 xícara (chá) de salsinha",
+      "1 sachê de tempero pronto ",
+      "1 colher (sopa) de azeite",
+      "1 kg de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todos os sólidos, menos a maionese",
+      "Misture bem e adicione a maionese",
+      "Mexa mais",
+      "Sirva com pão"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ROSANA CARMO FADELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301813-pate-de-azeitona.html"
+}

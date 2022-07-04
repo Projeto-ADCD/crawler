@@ -1,0 +1,25 @@
+{
+  "nome_receita": "QUINDIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 gemas de ovo",
+      "400 g de açúcar",
+      "100 g de manteiga",
+      "100 g de coco ralado fresco e processado",
+      "6 claras batidas em neve"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as gemas peneiradas numa batedeira, acrescente o açúcar e manteiga e bata até formar um creme claro.",
+      "Pare de bater e acrescente o coco ralado misturando bem e em seguida junte as claras em neve.",
+      "Coloque a massa numa assadeira redonda com furo no meio, cubra com papel alumínio e leve ao forno, em banho maria, a 200º por 1 hora.",
+      "Tire o papel alumínio e deixe por mais ou menos 15 minutos.",
+      "Leve para a geladeira e desenforme depois de gelado."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RACHEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300216-quindim.html"
+}

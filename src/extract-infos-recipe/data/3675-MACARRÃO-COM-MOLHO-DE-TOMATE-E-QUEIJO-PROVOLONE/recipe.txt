@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO DE TOMATE E QUEIJO PROVOLONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de macarrão",
+      "1/2 tomate",
+      "1 cheiro-verde",
+      "1/2 pacote de molho de tomate pronto sabor manjericão",
+      "queijo provolone a gosto",
+      "1/2 cebola",
+      "alho e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o macarrão pra cozinhar, com um pouco de óleo e sal",
+      "Depois pise o alho e o sal juntos",
+      "Em uma panela coloque um pouco de óleo, deixe esquentar e coloque o alho com sal até dourar.",
+      "Logo após coloque o tomate e a cebola picados refogue, adicione o molho de tomate e um pouco de água, deixe ferver, ainda no fogo adicione o provolone, e mexa ate que ele derreta por completo.",
+      "Depois do macarrão já cozido, escorra e adicione o molho que você fez e misture bem, pique o cheiro-verde e coloque por cima."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RAABE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302935-macarrao-com-molho-de-tomate-e-queijo-provolone.html"
+}

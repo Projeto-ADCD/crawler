@@ -1,0 +1,26 @@
+{
+  "nome_receita": "GALINHA NA CERVEJA DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de coxa e sobrecoxa",
+      "3 dentes de alho",
+      "3 tomates",
+      "8 batatas grandes",
+      "2 cebolas",
+      "1 lata de cerveja branca",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os pedaços da coxa e sobrecoxa dentro de uma forma, pique o alho e coloque em cima da carne, sal a gosto",
+      "Corte rodelas de tomate, a cebola e a batata e vá decorando a forma",
+      "Coloque metade da cerveja por cima do frango antes de ir ao forno",
+      "Vá colocando a cerveja conforme vai assando a carne, não deixe secar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA PAULA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303418-galinha-na-cerveja-deliciosa.html"
+}

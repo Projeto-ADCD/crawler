@@ -1,0 +1,23 @@
+{
+  "nome_receita": "GANACHE CASEIRA COM ACHOCOLATADO EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite",
+      "2 e 1/2 colheres de açúcar",
+      "2 e 1/2 colheres de achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma panela",
+      "Deixe no fogo baixo, misturando até ter uma consistência mais grossinhas",
+      "Quando você passar a colher e ver o fundo da panela, desligue",
+      "Deixe de 10 a 15 minutos na geladeira e está pronto.",
+      "Obs: fica ótimo em mousses"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LAURA CUNHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305516-ganache-caseira-com-achocolatado-em-po.html"
+}

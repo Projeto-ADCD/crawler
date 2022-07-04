@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO COM GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo sem fermento",
+      "4 colheres de açúcar",
+      "3 ou 2 colheres de manteiga ou margarina",
+      "metade de uma goiabada",
+      "1/2 colher essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque a farinha de trigo, a manteiga e o açúcar",
+      "Comece a misturar com a colher antes de misturar com a mão, coloque a baunilha e misture",
+      "Agora mexa até ficar tipo uma massa",
+      "Deixe o forno aquecer a 180 C 10 minutos",
+      "Deixe a massa na geladeira por 5 minutos",
+      "Pegue a massa, pegue um pedaço e faça uma bolinha com a mão",
+      "Coloque o dedo no meio e coloque pedaço de goiabada",
+      "Depois ter feito todos biscoitos com a mão e colocado a goiabada coloque por mais 5 minutos na geladeira aí é só colocar no forno e deixar 35 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "MARCOS KANATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304173-biscoito-amanteigado-com-goiabada.html"
+}

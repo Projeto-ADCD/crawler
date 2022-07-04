@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BROWNIE DE ACHOCOLATADO EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de açúcar",
+      "200 gramas de margarina",
+      "2 xícaras de achocolatado em pó",
+      "1 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina.",
+      "Numa vasilha, coloque os ovos e o açúcar e mexa bem, não precisa de batedeira.",
+      "Em seguida coloque a margarina derretida. Mexa bem.",
+      "Coloque o achocolatado em pó e depois a farinha de trigo.",
+      "Mexa, vai ficar uma massa pesada.",
+      "Colocar em forno pré aquecido a 180° por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TAMIRA DE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299847-brownie-de-achocolatado-em-po.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOBADICACO - BOLO DE BANANA COM CANELA E COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ou 4 bananas médias maduras",
+      "1 colher rasa de canela",
+      "1 colher de açúcar (ou adoçante)",
+      "3 ovos",
+      "3 colheres de manteiga com sal (em temperatura ambiente)",
+      "1 xícara de leite (em temperatura ambiente)",
+      "2 xícaras de farinha de soja (ajuste se necessário)",
+      "2 colheres de coco ralado sem açúcar",
+      "1 colher rasa de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse as bananas, junte a canela e 1/2 colher de açúcar (ou adoçante) e recheie o fundo da assadeira",
+      "Separe as claras, bate em neve e reserve",
+      "Junte na batedeira, as gemas, a manteiga e a outra 1/2 colher de açúcar (ou adoçante), acrescente o leite até misturar bem",
+      "Acrescente a farinha de soja e o coco ralado até obter uma massa homogênea",
+      "Acrescente as claras em neve",
+      "Desligue a batedeira e incorpore o fermento mexendo manualmente e suavemente",
+      "Despeje sobre as bananas amassadas e leve o forno preaquecido até dourar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DOUGLAS JOSÉ BUZZETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300675-bobadicaco-bolo-de-banana-com-canela-e-coco.html"
+}

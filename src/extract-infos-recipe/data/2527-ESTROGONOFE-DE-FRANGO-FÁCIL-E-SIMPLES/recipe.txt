@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO FÁCIL E SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de peito de frango picado em cubos",
+      "1 lata de creme de Leite",
+      "1 pimenta de cheiro",
+      "1 cebola pequena",
+      "1 dente de alho amassado",
+      "sal a gosto",
+      "1/4 de copo (americano) de mostarda",
+      "1/2 copo de ketchup",
+      "2 colheres (sopa) de maionese",
+      "1 copo de cogumelos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o frango com 1 fio de óleo, alho, cebola e sal a gosto.",
+      "Após refogar, misture a maionese e deixe refogar mais um pouco.",
+      "Coloque a mostarda, o ketchup e o creme de leite e os cogumelos picados.",
+      "Deixe ferver e desligue o fogo.",
+      "Sirva quente.",
+      "Se preferir, aconpanhe com batata palha e arroz e/ou salada.",
+      "Se quiser congelar, separe em porções e congele imediatamente.",
+      "Lembrando que após descongelar, não pode ser congelado novamente."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "FABIANE BRHWNNY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305024-estrogonofe-de-frango-facil-e-simples.html"
+}

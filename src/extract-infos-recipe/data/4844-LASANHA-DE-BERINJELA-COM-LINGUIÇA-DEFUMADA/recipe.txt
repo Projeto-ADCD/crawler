@@ -1,0 +1,28 @@
+{
+  "nome_receita": "LASANHA DE BERINJELA COM LINGUIÇA DEFUMADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 beringelas médias",
+      "300 g de queijo mussarela",
+      "1/2 linguiça defumada pura",
+      "1 pacote de molho de tomate",
+      "1/2 cebola em tiras",
+      "2 colheres (sopa) de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as beringelas em tiras finas no sentido do comprimento e amasse a linguiça para se soltar.",
+      "Após isso, em um refratário de vidro retangular, espalhe o azeite de oliva e por cima acrescente um pouco do molho de tomate.",
+      "Comece com uma camada de berinjela, depois espalhe parte da linguiça por cima e por último 1 camada de queijo mussarela.",
+      "Repita começando pelo molho de tomate, a beringela, a linguiça e o queijo por último até a última camada, finalizando com o queijo",
+      "Tampe com papel-alumínio e coloque no forno aquecido a 180° C por 40 minutos.",
+      "Após isso, retire o papel-alumínio e deixe mais 10 minutos.",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRISCILLA GAZANIGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300113-lasanha-de-berinjela-com-linguica-defumada.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DOCE NA PANELA DE PRESSÃO ELÉTRICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos inteiros peneirados",
+      "1/2 xícara de açúcar",
+      "80 ml de óleo",
+      "250 ml de leite",
+      "4 xícaras de trigo",
+      "1 xícara de amido de milho",
+      "1 pitada de sal",
+      "10 g de fermento biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite morno, o óleo, o sal, o açúcar e o fermento biológico",
+      "Em um recepiente coloque o trigo e o amido de milho",
+      "Misture tudo até obter uma massa homogênea",
+      "Faça bolinhas e coloque na panela de pressão elétrica, já untada feche e deixe descansar por 30min",
+      "Depois programe a panela por 60min assim que der sinal de término programe para mais 10min",
+      "Quando pronto, coloque a cobertura que desejar"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DUDA MANIGRIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303501-pao-doce-na-panela-de-pressao-eletrica.html"
+}

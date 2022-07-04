@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FRANGO COM BACON DO WILLIAM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picada",
+      "1 peito de frango em cubos",
+      "5 fatias de bacon picadas",
+      "3 tomates em cubos",
+      "7 quiabos pequenos",
+      "chimichuri a gosto",
+      "óleo de coco a gosto",
+      "azeite a gosto",
+      "sal rosa a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue alho e cebola com bacon e um fio de azeite.",
+      "Acrescente o frango, chimichuri, sal rosa e oregano e deixar fritar um pouco.",
+      "Adicione o tomate e o quiabo, um pouco de agua e cozinhar 5 minutos no fogo baixo em panela fechada.",
+      "Regue com mais um fio de azeite e o óleo de coco.",
+      "Deixe descansar por 10 minutos e servir."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA CAROLINA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301510-frango-com-bacon-do-william.html"
+}

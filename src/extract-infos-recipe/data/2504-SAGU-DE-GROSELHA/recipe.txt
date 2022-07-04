@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SAGU DE GROSELHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de sagu",
+      "6 xícaras de água",
+      "2 copos de groselha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o sagu e a água em uma panela em fogo alto e mexa de vez em quando até ferver",
+      "Quando ferver adicione a groselha e mexa até ficar bem homogêneo",
+      "Separe em potinhos e coloque na geladeira até endurecer"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "23 PORÇÕES",
+  "autor": "MARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305064-sagu-de-groselha.html"
+}

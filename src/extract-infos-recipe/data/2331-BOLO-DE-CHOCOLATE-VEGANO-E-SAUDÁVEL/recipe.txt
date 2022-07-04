@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE VEGANO E SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas maçã bem maduras",
+      "1/2 xícara de café coado e sem açúcar",
+      "1/2 xícara de açúcar mascavo ou demerara",
+      "1 xícara de farinha de arroz",
+      "1 xícara de farinha de aveia",
+      "1/2 xícara de cacau 100% em pó",
+      "3 colheres (sopa) de castanhas (pode ser amendoim, amêndoas, castanha de caju ou do Pará) trituradas grosseiramente",
+      "água quente quanto baste",
+      "1 colher (sopa) de vinagre de maçã",
+      "2 colherzinhas de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse as bananas com garfo e misture com o café e o açúcar.",
+      "Em outra vasilha peneire as farinhas e o cacau, mexa, e junte as castanhas.",
+      "Junte as duas misturas acima.",
+      "Agora vá acrescentando a água quente aos poucos e mexendo.",
+      "Acrescente até ficar numa consistência cremosa, não muito líquida nem muito grossa.",
+      "Acrescente o vinagre e mexa.",
+      "Imediatamente adicione o fermento e mexa delicadamente",
+      "Despeje a massa em uma forma untada com óleo de coco, polvilhada com cacau em pó e açúcar demerara",
+      "Assou por 40 minutos em 190° C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WELLIN CARLA AUGUSTO ZAKALHUK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305464-bolo-de-chocolate-vegano-e-saudavel.html"
+}

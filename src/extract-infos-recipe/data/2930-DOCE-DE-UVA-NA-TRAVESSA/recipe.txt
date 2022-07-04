@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DOCE DE UVA NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 gema",
+      "395 ml de leite",
+      "1 pacote de uvas",
+      "1/2 de água",
+      "3 colheres de achocolatado",
+      "1 colher de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o leite condensado, o leite e a gema peneirada",
+      "Mexa em fogo baixo até vira um creme.",
+      "Despeje na travessa, adicione as uvas e deixe esfriar.",
+      "Em uma outra panela adicione a água, o açúcar e o achocolatado",
+      "Deixe formar uma calda.",
+      "Após o término, espalhe na travessa por cima do creme."
+    ]
+  },
+  "tempo_de_preparo": "11 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MAYKON SUELMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304127-doce-de-uva-na-travessa.html"
+}

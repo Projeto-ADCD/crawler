@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CEBOLA NO SHOYO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola",
+      "Fio de azeite",
+      "Shoyu"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique em pedaços pequenos a cebola e doure ela no fio de azeite.",
+      "Acrescente o shoyo e deixe por 1 minuto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LUHSAMPAIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300321-cebola-no-shoyo.html"
+}

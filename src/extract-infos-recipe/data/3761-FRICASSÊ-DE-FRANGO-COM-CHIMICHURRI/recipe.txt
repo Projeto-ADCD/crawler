@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO COM CHIMICHURRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite (sem soro)",
+      "1 copo de requeijão cremoso",
+      "100 g de azeitona sem caroço",
+      "1 peito de frango desfiado",
+      "200 g de muçarela fatiada",
+      "100 g de batata palha",
+      "1 colher (sobremesa) de sal",
+      "1 dente de alho",
+      "óleo",
+      "1 sachê de temepro pronto de frango",
+      "chimichurri a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o peito de frango na panela de pressão com duas voltas de óleo, 1 dente de alho bem picado, sal, cheiro-verde e água até cobrir",
+      "Cozinhe por uns 15 minutos",
+      "Tire toda a água do da panela de pressão",
+      "Desfie o frango",
+      "Bata no liquidificador, o requeijão e o creme de leite",
+      "Refogue, por poucos minutos, o creme do liquidificador com o frango desfiado, as azeitonas, o chimichurri e o sal até ficar com uma textura espessa",
+      "Coloque tudo em uma travessa e cubra com a muçarela",
+      "Deixe no forno até o queijo derreter",
+      "Por fim, quando tirar o forno, coloque a batata palha",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA:\n*Não coloque a batata palha junto com a muçarela para derreter, se não ela vai ficar murcha\n*Quando for desfiar o frango, só chacoalhar a panela de pressão umas 15 vezes, que sairá tudo desfiado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS TCHOPKO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302745-fricasse-de-frango-com-chimichurri.html"
+}

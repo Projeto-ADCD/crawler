@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DA D. MARIA E TONINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 copo (americano) de açúcar",
+      "1 copo (americano) de óleo",
+      "1 colher (sopa) de sal",
+      "50 g de fermento biológico",
+      "1 litro de leite morno",
+      "2 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açúcar, o sal e o óleo.",
+      "Dissolva o fermento no leite morno.",
+      "Misture tudo, deixando a farinha por último.",
+      "Acrescente farinha até atingir o ponto em que a massa não esteja grudenta.",
+      "Sove a massa e depois deixe descansar para que cresça bastante.",
+      "Modele os pães e deixe crescer novamente.",
+      "Asse em forno preaquecido a 180° C por aproximadamente 30 a 35 minutos."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GUSTAVO MACATROZO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304142-pao-da-d-maria-e-toninha.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "COBERTURA DE CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de café (pó solúvel ou granulado)",
+      "2 colheres (sopa) margarina ou manteiga",
+      "1 xícara de açúcar",
+      "3/4 xícara de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela no fogo baixo derreter a margarina ou manteiga e continuar mexendo",
+      "Acrescente o açúcar até derreter quase ponto de caramelo",
+      "Enquanto mexe a mistura acrescentar o café",
+      "Uma vez tudo misturado acrescentar aos poucos o leite",
+      "Continuar mexendo até obter uma mistura homogênea e alcançar o ponto de caramelo cremoso.",
+      "Aplicar no seu bolo antes da cobertura esfriar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LU LETELIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302582-cobertura-de-cafe.html"
+}

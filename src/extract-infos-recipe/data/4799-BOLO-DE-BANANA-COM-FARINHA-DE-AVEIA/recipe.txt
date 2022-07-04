@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE BANANA COM FARINHA DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de aveia",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "3/4 xícara de leite",
+      "1 ovo",
+      "3 bananas médias maduras",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione na batedeira a farinha de aveia, o açúcar e o fermento em pó.",
+      "Misture bem.",
+      "Em seguida adicione o ovo, óleo, leite e as três bananas maduras amassadas.",
+      "Bata por 2 ou 3 minutos.",
+      "Unte a forma com margarina/óleo e farinha de trigo.",
+      "Despeje a massa na forma.",
+      "Leve o bolo para assar em um forno pré aquecido a 180°.",
+      "O bolo leva de 30 a 40 min para assar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CARLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300211-bolo-de-banana-com-farinha-de-aveia.html"
+}

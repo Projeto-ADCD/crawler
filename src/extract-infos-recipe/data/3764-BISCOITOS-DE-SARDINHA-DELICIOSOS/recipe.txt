@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BISCOITOS DE SARDINHA DELICIOSOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 lata de sardinha (se for aproveitar o óleo, compense na medida que vai na receita)",
+      "1/4 de xícara (chá) de óleo com um pouco de manteiga (pode substituir pelo óleo da lata de sardinha, se preferir)",
+      "3/4 de xícara de farinha de trigo ",
+      "1 xícara (chá) de aveia em flocos ",
+      "1 colher (sopa) de amido de milho ",
+      "1 colher (rasa) de fermento em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse as sardinhas e adicione os ingredientes restantes.",
+      "Misure tudo e molde em formato de peixinhos (usando suas habilidades)",
+      "Leve para assar em forno preaquecido a 180º C.",
+      "Armazene de forma que possa preservar o aroma.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode servir como petiscos para seus pets\nObs: o tempo de preparo e o rendimento das porções pode variar devido ao tamanho dos biscoitos e habilidades no preparo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "89 PORÇÕES",
+  "autor": "FABIANA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302741-biscoitos-de-sardinha-deliciosos.html"
+}

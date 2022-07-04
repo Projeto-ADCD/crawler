@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ANTEPASTO DE BERINJELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 berinjelas médias",
+      "1 xícara de azeite de oliva",
+      "1 xícara de vinagre branco de álcool",
+      "1/2 xícara de azeite balsâmico",
+      "2 colher (sopa) de sal",
+      "2 colher (sopa) de orégano",
+      "3 cebolas médias",
+      "1 pimentão grande verde",
+      "1 pimentão grande vermelho",
+      "1 pimentão grande amarelo",
+      "1/2 xícara de azeitonas verdes sem caroço",
+      "1/2 xícara de azeitona preta sem caroço",
+      "1 colher (chá) de chimichurri sem pimenta",
+      "1/2 colher (sopa) de pimenta-do-reino",
+      "1/2 colher (sopa) de pimenta calabresa",
+      "7 dente de alho ralado",
+      "1 xícara de uva passa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie as berinjelas, os pimentões, as azeitonas e as cebolas.",
+      "Coloque tudo em uma vasilha com tampa, leve ao micro-ondas por 3 minutos",
+      "Abra e mexa, coloque mais 3 minutos",
+      "Abra e mexa coloque mais 5 minutos.",
+      "Retire do micro-ondas, espere esfriar e leve à geladeira para gelar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "KELLY FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304632-antepasto-de-berinjela.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ COM FRANGO DIVINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de tulipa de frango (ou o corte que preferir)",
+      "2 xícaras de arroz",
+      "1 cebola picadinha",
+      "1 ramo de manjerona picadinho",
+      "4 dentes de alho picadinhos",
+      "750 ml de água",
+      "temperos a gosto",
+      "azeite",
+      "sal a gosto",
+      "salsinha e cebolinha picadinhos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango a seu gosto (no meu usei sachê de tempero pronto, mostarda, sal, ervas secas como salsinha e orégano) e deixe marinando por 5 minutos.",
+      "Forre o fundo da panela com azeite e frite o frango até ficar bem douradinho.",
+      "Após fritar reserve o frango em um prato.",
+      "Na mesma panela (com o azeite que sobrou da fritura do frango), coloque a cebola e o alho juntos até murchar (cebola transparente).",
+      "Acrescente o arroz e frite junto com a manjerona.",
+      "Quando o arroz estiver bem incorporado, devolva o frango na panela e coloque os 750 ml de água e deixe ferver em fogo médio.",
+      "Quando estiver quase seco (fazendo \"bolinhas\" no arroz), desligue o fogo e tampe a panela.",
+      "Deixe descansar por cerca de 8 minutos.",
+      "Abra, acrescente cebolinha e salsinha frescos e sirva!",
+      "Fica uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LÍVIA SCOTT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300406-arroz-com-frango-divino.html"
+}

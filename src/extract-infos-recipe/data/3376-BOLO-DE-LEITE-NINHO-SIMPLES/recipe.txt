@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE LEITE NINHO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 colheres (sopa) bem cheias de manteiga",
+      "3 xícaras de farinha de trigo com fermento",
+      "3 xícaras de açúcar",
+      "1 xícara de leite em pó",
+      "1 xícara de leite de vaca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira você coloca primeiro os ovos, a manteiga e o açúcar, bata por 2 minutos",
+      "Em seguida acrescente uma xícara de farinha e bata mais um minuto e assim com as outras duas xícaras de farinha",
+      "depois acrescente o leite em pó e por último o leite de vaca e bata mais uns 3 minutos",
+      "Aqueça o forno a 200°C",
+      "Unte uma forma com manteiga e farinha de trigo, em seguida despeje a massa na mesma e coloque no forno e por aproximadamente 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "DIOGO VALE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303483-bolo-de-leite-ninho-simples.html"
+}

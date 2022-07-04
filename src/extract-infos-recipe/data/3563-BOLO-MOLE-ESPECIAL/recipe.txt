@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO MOLE ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 e 1/2 xícaras de açúcar",
+      "2 colheres de manteiga",
+      "3 xícaras de leite líquido",
+      "1 caixa ou lata de leite condensado",
+      "2 xícaras de farinha de trigo sem fermento",
+      "3 colheres de coco ralado desidratado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador todos os ingredientes exceto o coco ralado",
+      "Bata por 10 minutinhos",
+      "Em seguida desligue o liquidificador e coloque o coco ralado",
+      "Bata por mais 2 minutinhos",
+      "Coloque a massa, em uma forma untada com manteiga e farinha de trigo.",
+      "Deixe no forno por aproximadamente uns 30 a 40 minutos, para saber se está bom é só colocar um palito se sair pouco suja está bom."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CAMILLA AZEVEDO LUCAS TEÓFILO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303127-bolo-mole-especial.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "POLENTA FANTÁSTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de água",
+      "400 g de fubá",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de sal",
+      "1 lata de ervilhas com milho escorrida",
+      "1 vidro de palmito picado",
+      "1 saquinho de 100g de queijo parmesão ralado",
+      "1 lata de almôndegas picadas com o molho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, leve a água ao fogo e acrescente o sal e a manteiga.",
+      "Quando iniciar a fervura, acrescente o fubá aos poucos e mexa sem parar para não empelotar.",
+      "Deixe a polenta cozinhar por 20 minutos em fogo baixo.",
+      "Em seguida junte as ervilha, milho, o palmito picado, as almôndegas picadas com o molho e o queijo ralado.",
+      "Incorpore bem todos os ingredientes e mexa por mais 10 minutos.",
+      "Despeje a polenta em um refratário, sirva com molho de tomate ao sugo.",
+      "Você também pode fritar, corte em fatias médios e frite em óleo bem quente, se quiser salpique queijo parmesão nas fatias ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TONINHO FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301523-polenta-fantastica.html"
+}

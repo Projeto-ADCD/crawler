@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BROWNIE DE AVELÃ FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de manteiga derretida",
+      "100 g de chocolate amargo 100%",
+      "2 ovos",
+      "50 g de avelã picada",
+      "1/2 xícara de açúcar demerara",
+      "2 colheres (sopa) de farinha de coco",
+      "1 colher (sopa) de baunilha",
+      "40 g de chocolate amargo picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta 100 g do chocolate junto com a manteiga e espere esfriar.",
+      "Adicione os ovos, a avelã, a baunilha, o açúcar, a farinha e 40 g do chocolate picado.",
+      "Mexa tudo muito bem.",
+      "Leve para assar em forma untada com manteiga e cacau a 200° C por 20 minutos",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Medidas da forma\nComprimento: 22cm\nProfundidade: 11cm\nAltura: 4,5cm"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ISABELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300817-brownie-de-avela-fit.html"
+}

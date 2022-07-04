@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PUDIM DE PÃO COM CANELA GELADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de pão de doce de sua preferência ",
+      "600 ml de leite",
+      "5 claras",
+      "5 gemas",
+      "10 colheres (sopa) cheias de açúcar",
+      "200 g de farinha de trigo sem fermento ou um copo americano ",
+      "1 e 1/2 colher de (chá) de canela",
+      "200 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MISTURA",
+      "Coloque em um recipiente a metade do leite com o pão em pedaços por 5 minutos, reserve-o ",
+      "Bata as claras em neve, reserve-as.",
+      "No liquidificador coloque as gemas (peneiradas), o leite, a mistura do pão com o leite, a farinha de trigo, uma colher de (chá) da canela e 5 colheres de açúcar",
+      "Bata aos poucos até formar uma mistura homogênea.",
+      "Logo após, em outro recipiente, coloque a mistura juntamente com as claras em neve e misture levemente por 2 minutos.",
+      "CALDA",
+      "Em um panela coloque as 5 colheres de açúcar juntamente com a água",
+      "Não mexa por 5 minutos junte com 1/2 colher (chá) de canela em pó",
+      "Despeje o caramelo na forma, passando por toda a lateral.",
+      "Despeje a mistura e cubra a forma com papel alumínio.",
+      "Asse em banho-maria por cerca de 40 minutos ou até dourar.",
+      "Após isso, desenforme o pudim e leve para gelar por aproximadamente 30 minutos.",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOÃO PAULO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305949-pudim-de-pao-com-canela-gelado.html"
+}

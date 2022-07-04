@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA DE BATATA E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 batatas",
+      "400 g de mussarela ",
+      "200 g de bacon",
+      "alho ",
+      "cebola",
+      "temperos verdes",
+      "2 colheres manteiga",
+      "1 sache de molho de tomate",
+      "1 vidro de palmito",
+      "1 sache de azeitonas verdes",
+      "1 sache de requeijão",
+      "recheio (a sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio de carne moída",
+      "Refogue a carne moída e o bacon com cebola e alho",
+      "Acrescente os temperos verdes, azeitona e o extrato de tomate para um molho bem encorpado e suculento",
+      "Recheio de frango desfiado",
+      "Refogue o frango desfiado com cebola e alho",
+      "Acrescente os temperos verdes, azeitona e o extrato de tomate para um molho bem encorpado e suculento",
+      "Recheio de camarão",
+      "Coloque o camarão na água já fervente somente para dar um choque",
+      "Refogue o camarão com cebola e alho acrescente os temperos verdes, azeitona, palmito picado e o extrato de tomate para um molho bem encorpado e suculento",
+      "Montagem",
+      "Com a batata devidamente bem cozida e já descascada, amasse com 2 colheres grandes de manteiga e divida esse pure em 2 partes.",
+      "Coloque a primeira parte em um refratário e cubra com metade do molho a sua escolha",
+      "Cubra com 200 g do queijo e coloque o requeijão, cubra com a outra parte do purê de batata complete com o restante do molho finalize com requeijão e queijo"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JANAINA ELÁSTICO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303003-torta-de-batata-e-queijo.html"
+}

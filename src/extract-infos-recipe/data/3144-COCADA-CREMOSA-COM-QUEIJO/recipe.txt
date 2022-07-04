@@ -1,0 +1,32 @@
+{
+  "nome_receita": "COCADA CREMOSA COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos inteiros",
+      "4 latas ou caixas de leite condensado",
+      "200 g de coco em flocos",
+      "150 g de queijo parmesão ralado Président",
+      "100 g de queijo minas ralado Président",
+      "manteiga e açúcar para untar forminhas "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com fuê, bata os ovos inteiros",
+      "Adicione leite condensado e misture ainda com fuê",
+      "Adicione o coco e misture os queijos",
+      "Unte forminhas de empada grande com manteiga e açúcar",
+      "Disponha a massa",
+      "Coloque em uma assadeira com água em banho-maria",
+      "Asse em forno médio por 40 minutos ou até estarem douradas",
+      "Deixe esfriar, desenforme e decore a gosto "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Raquel Togeiro "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303818-cocada-cremosa-com-queijo.html"
+}

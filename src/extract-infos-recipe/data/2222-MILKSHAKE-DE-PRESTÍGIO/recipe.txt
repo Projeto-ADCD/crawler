@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MILKSHAKE DE PRESTÍGIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bolas de sorvete de creme",
+      "1 e 1/2 xícaras de leite",
+      "3 colheres de prestígio shake em pó",
+      "calda de chocolate (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque a calda nas laterais da taça/copo.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JULIE ANE MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305682-milkshake-de-prestigio.html"
+}

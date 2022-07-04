@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COOKIE CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 pitada de sal",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "2 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de fermento em pó",
+      "chocolate meio amargo picado a gosto (pode ser gotas de chocolate)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com o açúcar e o óleo até ficar homogêneo.",
+      "Acrescente o sal, o chocolate em pó e a farinha aos poucos, enquanto bate até ficar homogêneo.",
+      "Deixe a massa na geladeira enquanto pica o chocolate.",
+      "Retire da geladeira e acrescente o fermento e o chocolate picado.",
+      "Coloque em uma forma untada e leve ao forno.",
+      "Deixe no forno e olhe frequentemente pois a massa não demora muito para assar",
+      "Retire quando já estivar endurecendo, mais não deixe ficar muito duro."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": ".......",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304934-cookie-crocante.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "PAVÊ FÁCIL COM CREME DE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixa de leite condensado (395 g)",
+      "4 caixa de creme de leite (200 g)",
+      "2 colher (sopa) de amido",
+      "2 xícaras de leite",
+      "6 colheres (sopa) de leite em pó",
+      "3 colheres de cacau 100%",
+      "2 colher (sopa) de margarina",
+      "200 g biscoito de maisena",
+      "1 caixa de bis"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme de ninho",
+      "Misture 1 colher de amido em uma xícara de leite e reserve",
+      "Em uma panela misture  bem 1 caixa de leite condensado, 2 caixas de creme de leite, 6 colheres de leite em pó e 1 colher de margarina",
+      "Misture o leite com o amido",
+      "Cozinhe em fogo baixo, sempre mexendo até engrossar e despeje em uma travessa ou forma",
+      "Coloque um filme ou saco plástico encostado no creme para não dar aquela película",
+      "Deiixe esfriar",
+      "Retire o filme ou plástico",
+      "Molhe os biscoitos um a um em um pouco de leite com açúcar",
+      "Ou use aquele restinho que sobra do leite condensado com água",
+      "Misture bem para molhar caso queira e coloque por cima do creme",
+      "Creme escuro",
+      "Misture 1 colher de amido em 1 xícara de leite e reserve",
+      "A recente 1 caixa de leite condensado, 2 caixas de creme de leite, 3 colheres de cacau 100% e 1 colher de margarina",
+      "Misture bem e acrescente a mistura de leite com amido cozinhe em fogo baixo até engrossar sempre em fogo baixo e sempre mexendo",
+      "Despeje por cima colocar novamente o filme ou plástico para evitar a película deixar esfriar",
+      "Retire a pelicula",
+      "Enfeite com bis cortado ou como desejar",
+      "Coloque para gelar com um filme e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MAYCOL KENNEDY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304012-pave-facil-com-creme-de-ninho.html"
+}

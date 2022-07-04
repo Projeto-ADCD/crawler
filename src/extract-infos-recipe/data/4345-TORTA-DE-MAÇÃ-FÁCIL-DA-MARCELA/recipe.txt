@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ FÁCIL DA MARCELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de manteiga gelada em cubos",
+      "400 g de farinha de trigo",
+      "1 xícara (aproximadamente) de água gelada",
+      "5 maçãs fuji picadas",
+      "canela a gosto",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture com as mãos a farinha e a manteiga, até obter uma farofa molhadinha e soltinha",
+      "Adicion aos poucos a água até obter uma massa lisa",
+      "Deixe-a descansar por 1 hora",
+      "Misture as maçãs, a canela e o açúcar em uma panela com fogo médio",
+      "Até que fiquem parcialmente moles.",
+      "Abra metade da massa e ponha sobre a forma",
+      "Coloque as maçãs por dentro",
+      "Abra a outra metade da massa e ponha por cima",
+      "Asse a 200° C até que doure"
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301328-torta-de-maca-facil-da-marcela.html"
+}

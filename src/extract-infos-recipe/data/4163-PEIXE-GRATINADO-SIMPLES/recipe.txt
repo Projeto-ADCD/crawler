@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PEIXE GRATINADO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 gramas de filé do peixe de sua preferência",
+      "2 xícaras de leite",
+      "2 colheres de trigo",
+      "1 cebola média",
+      "2 dentes de alho",
+      "1 caldo da sua preferência",
+      "2 colheres de catchup",
+      "Noz-moscada",
+      "2 colheres de margarina",
+      "1 limão",
+      "Sal, pimenta, orégano a gosto",
+      "1 pacote de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o filé do peixe com sal, pimenta e temperos do seu gosto e reserve.",
+      "Numa panela coloque a margarina pra derreter e adicione o alho e a cebola e deixe dourar.",
+      "Adicione o trigo e vá mexendo.",
+      "Adicione aos poucos o leite e vá mexendo.",
+      "Adicione o caldo esmagado ou triturado com a faca e siga mexendo.",
+      "Adicione as colheres de catchup e siga mexendo.",
+      "Por último, adicione umas 3 ou 4 raspadas de noz moscada.",
+      "Mexa por uns 3 minutos e desligue o fogo.",
+      "Numa forma, faça uma cama com um pouco do molho, passe os filés de peixe na farinha, tire o excesso e vá acondicionado sobre o molho,",
+      "Cubra os filés com resto do molho, adicione o queijo ralado e leve ao forno já preaquecido.",
+      "Leva em média 30 minutos em fogo a 200º para dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCELO SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301699-peixe-gratinado-simples.html"
+}

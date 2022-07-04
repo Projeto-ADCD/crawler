@@ -1,0 +1,25 @@
+{
+  "nome_receita": "OMELETE PROFISSIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 ml de azeite de oliva",
+      "2 ovos",
+      "1 fatia de queijo mussarela",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro aqueça o azeite, de forma com que o mesmo preencha todo o espaço da frigideira.",
+      "Logo em seguida, despeje os ovos na frigideira.",
+      "Com uma espumadeira, afaste os cantos esbranquiçados e espalhe o líquido pela panela",
+      "Até ficar com um formato parecido com o de um hambúrguer.",
+      "Depois de estar praticamente pronto, coloque a fatia de queijo e espere 2 minutos",
+      "Quando estiver pronto, coloque o orégano e pronto!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DONA JAMIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304948-omelete-profissional.html"
+}

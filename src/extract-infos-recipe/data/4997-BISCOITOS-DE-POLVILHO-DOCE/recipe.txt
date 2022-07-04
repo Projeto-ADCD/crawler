@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITOS DE POLVILHO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho doce",
+      "1 xícara de margarina",
+      "1 xícara açúcar",
+      "3 ovos",
+      "1 colher (sopa) de fermento em pó",
+      "raspas de limão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a margarina, o açúcar e os ovos.",
+      "Acrescente o fermento, as raspas de limão e coloque o polvilho doce até que forme uma massa ao ponto de fazer um rolinho.",
+      "Corte em pedaços (do tamanho que preferir).",
+      "Asse em forno pré-aquecido por cerca de 10 a 15 minutos a 200º.",
+      "Se preferir, você pode fazer bolinhas pequeninas e dar uma leve amassada com um garfo. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Este rendimento é para biscoitos pequeninos. Deixe um espaço na forma pois eles crescem."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "110 PORÇÕES",
+  "autor": "RAQUEL KREMER FORTUNATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299748-biscoitos-de-polvilho-doce.html"
+}

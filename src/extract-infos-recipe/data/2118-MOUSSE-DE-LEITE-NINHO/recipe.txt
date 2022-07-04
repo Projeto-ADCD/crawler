@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MOUSSE DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 caixas de creme de leite",
+      "400 ml de leite morno",
+      "2 e 1/2 xícaras de leite ninho",
+      "1 sachê de gelatina sem sabor",
+      "5 colheres (sopa) de água",
+      "raspas de chocolate branco pra decorar",
+      "leite ninho pra polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite condensado, o creme de leite, o leite ninho, o leite morno e a gelatina sem sabor (diluida nas 5 colheres de água morna",
+      "Bata bem até misturar ",
+      "Coloque no recipiente, cubra com filme plástico e leve à geladeira por pelo menos 4 horas.",
+      "Após endurecer, coloque as raspas de chocolate branco e polvilhe leite ninho com uma peneira por cima pra decorar",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CARLA RORIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305968-mousse-de-leite-ninho.html"
+}

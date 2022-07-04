@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO COM CREME DE LEITE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "macarrão espaguete ou parafuso na quantidade que desejar",
+      "1 caixinha de creme de leite",
+      "1/2 de molho de tomate",
+      "1 cebola picada ou ralada",
+      "1 dente de alho",
+      "sal a gosto",
+      "1 colher (sopa) de óleo",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão normalmente.",
+      "Em uma panela coloque o óleo, a cebola, o alho e o sal.",
+      "Deixe até que a cebola comece a murchar.",
+      "Coloque o macarrão e misture para que o tempero pegue",
+      "Depois, acrescente o molho de tomate e misture.",
+      "Finalize com o creme de leite e o cheiro-verde.",
+      "Agora e só saborear."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CRIS & FAEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302444-macarrao-com-creme-de-leite-simples.html"
+}

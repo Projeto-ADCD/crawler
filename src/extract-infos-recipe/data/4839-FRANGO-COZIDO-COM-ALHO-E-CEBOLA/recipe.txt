@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO COZIDO COM ALHO E CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 coxas da asa de frango (ou outros pedaços que deem a quantidade)",
+      "3/4 de uma cebola roxa média",
+      "5 dentes de alho",
+      "pimenta-do-reino, colorau e sal a gosto",
+      "2 colheres (sopa) de óleo vegetal",
+      "água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola em pedacinhos",
+      "Triture o alho (com aquele utensílio de triturar alho)",
+      "Em uma panela, coloque o óleo vegetal, o frango, o sal, a pimenta, a cebola e o alho",
+      "Deixe pegar gosto por uns 10 minutos",
+      "Acenda o fogo em altura média e doure o que tiver na panela por 1 minuto",
+      "Adicione água até quase ficar da altura do frango e deixar cozinhar de 7 a 10 minutos em fogo alto (depende da potência do fogo)",
+      "Retire quase toda a água deixando somente em torno de 1/5 de dedo de água na panela",
+      "Mexa o frango enquanto a água seca ou até ficar no ponto ideal"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "IGO SOARES VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300126-frango-cozido-com-alho-e-cebola.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SOBRAS DE CHURRASCO DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne assada (sobras de churrasco de natal) picadinha",
+      "1/2 cebola picada",
+      "1 dente de alho",
+      "2 colheres de banha de porco",
+      "4 batatas",
+      "4 cenouras médias",
+      "1 pacote de molho pronto de tomate",
+      "2 caldo de carne",
+      "cheiro-verde a gosto",
+      "orégano a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela a banha de porco, a cebola, o alho e frite até dourar",
+      "Acrescente as sobras de churrasco picadinho, o molho de tomate, as batatas, as cenouras, o caldo de carne e deixa ferver",
+      "Quando o caldo engrossar acrescenta o orégano, a pimenta",
+      "Deixe ferver até cozinhar as batatas e a cenoura e o caldo engrossar.",
+      "Desligue e acrescente o cheiro-verde.",
+      "Está pronto pra servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304000-sobras-de-churrasco-de-natal.html"
+}

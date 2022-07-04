@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO SIMPLES E FOFINHO DA THAYS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos inteiros",
+      "3 colheres (sopa) de margarina bem cheia",
+      "1 e 1/2 xícara de açúcar",
+      "4 xícaras de farinha de trigo",
+      "1 e 1/2 xícara de leite",
+      "1 e 1/2 colher (sopa) de fermento químico em pó",
+      "farinha e margarina para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, adicione os ovos, a margarina e o açúcar e bata por 5 minutos",
+      "Despeje o conteúdo em um vasilha e vá adicionando a farinha e alternando com o leite.",
+      "Recomendo que mexa com uma colher de pau.",
+      "Por último, adicione o fermento e misture (não mexa muito após colocar o fermento)",
+      "Despeje a massa em uma forma com furo no meio e leve o forno preaquecido em temperatura de média para alto de 35 a 45 minutos ou até o bolo estar douradinho.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "THAYS LACERDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300868-bolo-simples-e-fofinho-da-thays.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COBERTURA DE CHOCOLATE FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "5 colheres (sopa) de achocolatado",
+      "1 caixa de creme de leite "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga e o achocolado na panela.",
+      "Ligue o fogo.",
+      "Mexa bem até misturar tudo.",
+      "Assim que começar a levantar fervura desligue.",
+      "Se quiser ele mais grossinho, deixe esfriar um pouco.",
+      "Coloque sobre o bolo de sua preferência.",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: para bolo vulcão use 2 caixas de creme de leite e acrescente mais 2 colheres (sopa) de achocolatado\nEssa receita não leva açúcar para que não fique excessivamente doce"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "FLAVIA HOTH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302105-cobertura-de-chocolate-facil-e-gostosa.html"
+}

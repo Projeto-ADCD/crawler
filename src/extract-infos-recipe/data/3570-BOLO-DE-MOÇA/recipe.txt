@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE MOÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres de farinha de trigo",
+      "4 colheres de açúcar",
+      "1 pitada de sal",
+      "2 colheres de fermento biológico",
+      "1 xícara de leite",
+      "2 ovos",
+      "1 caixinha de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um recipiente, em seguida bata a massa a mão.",
+      "Pré aqueça o forno em 255°C",
+      "Unte a forma com manteiga e açúcar",
+      "Coloque a massa na forma e deixe assar por 30 a 40 minutos",
+      "Depois disso, retire do forno deixe esfriar e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SOFIA MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303118-bolo-de-moca.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BISCOITO DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata ou caixa de leite condensado",
+      "250 g de margarina ou manteiga",
+      "500 g de amido de milho "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, acrescente os ingredientes e misture com uma espátula inicialmente, para em seguida passar a usar as mãos",
+      "Após todos os ingredientes estarem bem homogêneos e a massa se encontrar em um ponto de brigadeiro mole, é hora de por a massa para descansar (não é obrigado por para descansar)",
+      "Em seguida faça o biscoito de leite condensado o formato que você achar melhor é leve ao forno",
+      "Observação: presença o forno a 180° C é deixe a massa por aproximadamente 15 minutos, não podendo dourar em cima."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "CLAUDIA C. BORINELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304099-biscoito-de-leite-condensado.html"
+}

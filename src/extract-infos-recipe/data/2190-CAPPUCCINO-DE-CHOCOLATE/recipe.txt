@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CAPPUCCINO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de achocolatado em pó",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de água fervendo",
+      "1/2 copo (americano) de café",
+      "1/2 copo (americano) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca, bata o achocolatado em pó, o açúcar e a água, misture bem.",
+      "Nessa mesma mistura, misture o leite e o café e misture bem.",
+      "Aqueça o seu cappuccino no micro-ondas por 2 minutos.",
+      "E se delicie com o seu cappuccino"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "YGOR MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305750-cappuccino-de-chocolate.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE LARANJA COM CALDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 laranjas inteiras cortadas (sem casca)",
+      "4 ovos",
+      "1 copo de açúcar",
+      "2 copos farinha trigo",
+      "1/2 copo de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de essência de laranja (ou baunilha)"
+    ],
+    "CALDA DE LARANJA (OPCIONAL)": [
+      "1 xícara açúcar confeiteiro",
+      "1 suco de laranja",
+      "1 colher manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as laranjas, tire as sementes e coloque no liquidificador junto com os ovos, essência de laranja, o açúcar peneirado e as laranjas e bata até obter uma mistura lisa e homogênea. Coloque o óleo e bata mais 1 minuto.",
+      "Misture com a farinha de trigo peneirada em um outro recipiente durante 5 min até misturar toda a farinha e formar uma massa lisa e homogênea.",
+      "Por último misture o fermento em pó e bata mais um minuto.",
+      "Coloque numa assadeira redonda de centro furado. Deixa assar no forno em 180 graus durante 40 a 45 minutos."
+    ],
+    "CALDA DE LARANJA (OPCIONAL)": [
+      "Misture o açúcar, suco de laranja e 1 colher de manteiga em fogo baixo até formar uma mistura lisa e firme."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HERIVELTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301553-bolo-de-laranja-com-caldo.html"
+}

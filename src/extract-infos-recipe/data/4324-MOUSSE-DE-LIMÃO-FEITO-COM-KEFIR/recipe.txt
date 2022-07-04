@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOUSSE DE LIMÃO FEITO COM KEFIR",
+  "ingredientes": {
+    "DEFAULT": [
+      "Suco de 2 limões",
+      "2 caixa de creme de leite",
+      "3 colheres de açúcar",
+      "1 gelatina sem sabor",
+      "300 ml de leite de kefir com ou sem soro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes na batedeira",
+      "Depois, adicione a gelatina já preparada conforme embalagem",
+      "Coloque para gelar por duas horas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DANIELA GELAIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301370-mousse-de-limao-feito-com-kefir.html"
+}

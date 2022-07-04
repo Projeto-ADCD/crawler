@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PEITO DE FRANGO RECHEADO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 filés de peito de frango",
+      "2 gomos de linguiça de porco ",
+      "100 g de linguiça defumada",
+      "queijo mussarela a gosto",
+      "cebola",
+      "sal e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito para abrir um bolso onde será colocado o recheio",
+      "Tempere a gosto (utilizei sal, pimenta do reino, páprica doce e molho de alho, certifique-se de temperar o buraco do recheio)",
+      "Para fazer o recheio, retire a linguiça da tripa",
+      "Em uma panela, refogue-a junto com a linguiça defumada em cubos e a cebola atá dar uma leve douradinha",
+      "Se quiser, adicione sal e pimenta para reforçar o sabor",
+      "Recheie o frango, utilize palitos para garantir que o recheio não vai vazar",
+      "Em uma frigideira bem quente, doure os 2 lados do peito de frango",
+      "Coloque no forno a 220°C com papel alumínio por 30 minutos",
+      "Tire o aluminio e deixe dourar um pouco"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ALISSON GIFFONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303411-peito-de-frango-recheado-no-forno.html"
+}

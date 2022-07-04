@@ -1,0 +1,23 @@
+{
+  "nome_receita": "VITAMINA DE BANANA DA IZABELLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de leite",
+      "2 colheres de aveia",
+      "2 colheres de leite em pó",
+      "1 colher de açúcar",
+      "2 bananas cortadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes em um liquidificador",
+      "Bata por 3 minutos.",
+      "Se quiser, acrescente gelo, mas é opcional."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "IZABELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299946-vitamina-de-banana-da-izabelle.html"
+}

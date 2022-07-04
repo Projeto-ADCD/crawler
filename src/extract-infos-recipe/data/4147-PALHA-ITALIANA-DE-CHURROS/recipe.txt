@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PALHA ITALIANA DE CHURROS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Lata de leite condensado",
+      "Lata de doce de leite",
+      "1/2 colher (chá) de manteiga",
+      "Pacote de biscoito de maizena",
+      "Papel manteiga",
+      "Para empanar o doce (opcional)",
+      "Açúcar",
+      "Canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione o leite condensado, o doce de leite, é a manteiga.",
+      "Leve ao fogo alto e mexa sem parar.",
+      "Quando começar a fever abaixe o fogo e continue mexendo até pega ponto de brigadeiro.",
+      "Coloque o biscoito na panela e misture.",
+      "Em um tabuleiro coloque o papel manteiga.",
+      "Sobre o papel manteiga coloque o doce e leve a geladeira por aproximadamente 1 hora.",
+      "Retire da geladeira corte e depois é só empanar com o açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "EVELLYN VIEITES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301729-palha-italiana-de-churros.html"
+}

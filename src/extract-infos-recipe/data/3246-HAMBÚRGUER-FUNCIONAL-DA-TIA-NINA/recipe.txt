@@ -1,0 +1,33 @@
+{
+  "nome_receita": "HAMBÚRGUER FUNCIONAL DA TIA NINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de atum ralado e escorrido",
+      "1 ovo",
+      "1 xícara de (chá) de farofa com tempero suave Yoki",
+      "1 cenoura pequena ralada",
+      "1 abobrinha pequena ralada",
+      "1/2 cebola ralada",
+      "orégano a gosto ",
+      "1 colher de (sopa) de cheiro-verde",
+      "1 colher de (sopa) de aveia em flocos",
+      "azeite para grelhar ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até obter uma massa homogênea",
+      "Molde os hambúrgueres ",
+      "Grelhe na frigideira com azeite a gosto. ",
+      "Depois é só servir com os acompanhamentos a gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Maria Regina W. de Almeida"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303665-hamburguer-funcional-da-tia-nina.html"
+}

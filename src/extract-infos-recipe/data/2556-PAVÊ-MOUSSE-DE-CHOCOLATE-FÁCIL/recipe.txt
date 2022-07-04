@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PAVÊ MOUSSE DE CHOCOLATE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 caixinhas de creme de leite",
+      "1 pote de achocolatado de 400 g ",
+      "1 colher (sopa) cheia de amido de milho",
+      "1 pacote de biscoito de maisena",
+      "leite para regar o biscoito"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela as 6 caixinhas de creme de leite, o amido e o achocolatado",
+      "Homogenize tudo até ficar bem dissolvido e leve ao fogo por aproximadamente 30 minutos",
+      "Mexa sem parar até que o creme ferva e fique querendo grudar na panela (parecido com ponto de brigadeiro) ",
+      "Monte o pavê uma camada de creme alternando com uma camada de biscoito ",
+      "Para uma forma de vidro pequena e quadrada dão 2 camadas de cada",
+      "Para uma forma grande faça a medida dobrada",
+      "Povilhe a última camada de creme, com granulado caso queira ",
+      "Leve à geladeira e sirva gelado "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VIERLUCE DE PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304949-pave-mousse-de-chocolate-facil.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MASSA INCRIVEL DE RED VEVELT",
+  "ingredientes": {
+    "DEFAULT": [
+      "480 g de açúcar cristal",
+      "560 g de farinha de trigo",
+      "40 g de cacau em pó",
+      "1 pitada Sal",
+      "1 colher (cha) fermento",
+      "4 Um ovos",
+      "240 g de manteiga sem sal",
+      "300 g de iogurte",
+      "1 colher (sopa) corante vermelho",
+      "12 g de bicarbonato",
+      "4 colheres vinagre",
+      "Qb essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre com papel manteiga 2 formas.",
+      "Peneire a farinha de trigo, o açúcar, o cacau, o sal e o fermento em pó.",
+      "Misture o corante no iogurte.",
+      "Derreta a manteiga com a água.",
+      "Misture o iogurte, os ovos, a manteiga com a água e a baunilha na mistura dos secos e bata até ficar homogêneo.",
+      "Misture o vinagre com o bicarbonato e junte à mistura anterior.",
+      "Preencha as 3 formas de até a metade e leve para assar a 200°C, por aproximadamente 60 minutos ou até que você enfie o palito na massa e ele saia limpo.",
+      "Retire do forno e deixe esfriar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUANA VILAS BOAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300534-massa-incrivel-de-red-vevelt.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ROCAMBOLE DE CARNE RECHEADO DE CABOTIÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1/2 pacote de creme de cebola",
+      "1 ovo",
+      "1 colher (sopa) de farinha de trigo",
+      "cheiro-verde e pimenta-do-reino a gosto",
+      "300 g de abóbora cabotiá",
+      "1 colher de requeijão",
+      "queijo muçarela a gosto (em pedaços ou fatias)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne moída com o creme de cebola.",
+      "Misture com o ovo, farinha de trigo, cheiro-verde e pimenta-do-reino, reserve",
+      "Corte a cabotiá em cubos e leve ao fogo com 1 fio de azeite e refogue.",
+      "Coloque água, acrescente sal a gosto e deixe cozinhar até ficar em ponto de desmanchar.",
+      "Retire do fogo, amasse com o garfo e misture o requeijão, reserve",
+      "Coloque a carne temperada sobre uma folha de papel-alumínio e abra a massa com espessura de 1 cm, mais ou menos",
+      "Forre a carne com o purê da cabotiá e coloque queijo muçarela a gosto",
+      "Enrole a carne, com ajuda da folha do papel-alumínio, em forma de rocambole",
+      "Leve ao forno, em temperatura alta, por mais ou menos 30 a 40 minutos.",
+      "Após, retire o papel laminado, pincele molho de tomate e deixe por mais 10 minutos para dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DAIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302836-rocambole-de-carne-recheado-de-cabotia.html"
+}

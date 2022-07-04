@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE ALHO ORIGINAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho descascados",
+      "4 claras",
+      "1 limão grande",
+      "óleo até dar o ponto",
+      "sal e temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o alho, as claras e os temperos no liquidificador",
+      "Quando tudo estiver bem homogêneo, adicione aos poucos o óleo em fio até que a textura fique como de uma maionese.",
+      "Adicione o limão e bata novamente, acrescentando mais óleo, até que a textura seja de um creme.",
+      "Acerte os temperos.",
+      "Sirva com saladas, pães árabes, e carnes."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "IASMIN VITORIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301501-creme-de-alho-original.html"
+}

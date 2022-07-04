@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE LARANJA SEM FARINHA E SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "250 g açucar",
+      "150 ml suco de laranja",
+      "50 g de amido de milho",
+      "50 g açúcar de confeiteiro para decorar",
+      "raspas de laranja a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos e acrescente o suco de laranja, o açúcar e o amido de milho",
+      "Acrescente as raspas da laranja",
+      "Em uma assadeira revestida com papel-alumínio e untada com margarina, coloque os ingredientes batidos",
+      "Leve ao forno pot 30 minutos a 180° C",
+      "Vai formar umas bolhas na massa, mas quando tirar do forno fica normal",
+      "Deixe esfriar",
+      "Enrole a massa com ajuda do papel-alumínio fazendo um rocambole.",
+      "Decore o bolo com raspas da laranja e polvilhe o açúcar de confeiteiro",
+      "Leve à geladeira por 1 hora "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SERGIO COELHO RECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300877-bolo-de-laranja-sem-farinha-e-sem-leite.html"
+}

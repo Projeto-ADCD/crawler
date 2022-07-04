@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BATATA RECHEADA COM LINGUIÇA CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas",
+      "30 g de bacon",
+      "50 g de calabresa",
+      "250 g de mussarela",
+      "1/4 de xícara de creme de leite",
+      "200 g de requeijão",
+      "1/2 xícara de parmesão",
+      "1 colher (sopa) de salsinha",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Embrulhe a batata em papel-alumínio.",
+      "Leve ao forno (180° C) por 40 minutos.",
+      "Retire do forno e corte o topo da batata. ",
+      "Retire o miolo da batata e transfira para uma tigela. ",
+      "Corte a calabresa em pequenos cubos, frite e reserve. ",
+      "Frite o bacon e reserve. ",
+      "Adicione o creme de leite, o requeijão, o queijo parmesão ralado, a salsinha, o sal, a pimenta e 150 g mussarela ralada e a calabresa já frita. ",
+      "Misture bem .",
+      "Recheie a batata e adicione mais 100 g de mussarela ralada e bacon frito.",
+      "Leve ao forno (180° C) por 20 minutos. ",
+      "Está pronto!",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303201-batata-recheada-com-linguica-calabresa.html"
+}

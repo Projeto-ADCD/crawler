@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE CALABRESA NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos inteiros",
+      "1/2 xícara (chá) de óleo",
+      "2 xícaras (chá) de leite",
+      "2 e 1/2 xícaras (chá) de farinha de trigo",
+      "1 colher (sobremesa) de fermento em pó",
+      "1 colher (café) de manteiga",
+      "sal, cheiro-verde e orégano a gosto",
+      "2 gomos de linguiça calabresa cortada em rodelas e sem pele",
+      "1/2 cebola picada em cubinhos",
+      "1/2 cebola picada em anéis",
+      "1/2 tomate cortado em cubinhos",
+      "1/2 tomate cortado em rodelas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a manteiga, a cebola em cubos e a linguiça",
+      "Deixe refogar por 15 minutos em fogo baixo e reserve",
+      "Para a massa, adicione os ingredientes liquidos (ovos, leite e o óleo) ",
+      "Em seguida acrescente a farinha e o sal a gosto",
+      "Bata até formar um creme homogêneo e incorpore o fermento na massa com uma colher",
+      "Para a montagem: unte uma forma com manteiga e farinha e despeje meade da massa",
+      "Coloque o recheio por cima, a cebola em áneis e o tomate em rodelas. ",
+      "Cubra com o resto da massa, cheiro-verde e orégano a gosto",
+      "Asse em forno a 180° C preaquecido, até dourar",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CAROL SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300148-torta-de-calabresa-no-liquidificador.html"
+}

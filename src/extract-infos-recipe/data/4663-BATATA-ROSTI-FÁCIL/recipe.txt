@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BATATA ROSTI FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas",
+      "1 linguiça calabresa",
+      "1/2 pedaço de bacon",
+      "1/2 cebola",
+      "sal a gosto",
+      "queijo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e cozinhe as batatas de 7 a 10 minutos, na água fervendo",
+      "Despeje água fria nas batatas, quando retirá-las da água fervendo, para pausar o cozimento",
+      "Leve ao freezer por 40 minutos",
+      "Corte a linguiça e o bacon em cubos e leve à frigideira junto com a cebola",
+      "Junte a batata com as carnes refogadas",
+      "Pique 150 g de queijo e misture com as batata e as carnes",
+      "Junte na frigideira quantidade o suficiente para cobrir o fundo, mas uma camada",
+      "fina",
+      "Deixe fritar os dois lados (use duas frigideiras se preferir)"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EVA PENCAK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300525-batata-rosti-facil.html"
+}

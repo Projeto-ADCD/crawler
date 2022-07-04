@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SUCO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de água de coco",
+      "2 folhas de couve sem o talo",
+      "1 colher (sopa) de gengibre",
+      "3 gotas de molho de pimenta vermelha",
+      "2 colheres (sopa) de suco de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Pode-se acrescentar gelo e mudar as proporções de acordo como gosto."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304307-suco-verde.html"
+}

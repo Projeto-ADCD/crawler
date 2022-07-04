@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCE DE GELATINA LOW CARB DA NANDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de gelatina light (sabor a desejar)",
+      "1 vidro de leite de coco 200 ml",
+      "1 caixa de creme de leite 200 g"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o leite de coco.",
+      "Em um marinex, dissolva a gelatina no leite de coco.",
+      "Por último acrescente o creme de leite.",
+      "Misture bem e leve à geladeira em torno de 40 minutos.",
+      "Pode fazer de vários sabores, como por exemplo abacaxi com 1 pacotinho de coco ralado 50 g"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "FERNANDA CACCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305757-doce-de-gelatina-low-carb-da-nanda.html"
+}

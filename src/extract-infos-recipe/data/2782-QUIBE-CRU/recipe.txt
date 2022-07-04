@@ -1,0 +1,30 @@
+{
+  "nome_receita": "QUIBE CRU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de patinho ou alcatra moída 3 vezes",
+      "500 g de trigo para quibe",
+      "2 cebolas médias",
+      "1 cebola pequena",
+      "2 dentes de alho",
+      "1 maço de salsinha",
+      "1/2 maço de hortelã",
+      "2 colheres (sopa) rasas de sal",
+      "200 ml de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o trigo de molho por 2 horas em 1 litro e meio de água",
+      "Depois coe com uma peneira bem fininha ou usando um pano bem limpinho.",
+      "O importante e ficar o mais sequinho possível",
+      "As cebolas médias, os dentes de alho, a salsinha e as folhas de hortelã devem ser bem picadinhos com a faca ou triturados no processador",
+      "Misture bem todos ingredientes em um recipiente como se estivesse sovando uma massa",
+      "Resfrie, disponha em uma travessa e sirva com pão Sirio e pétalas da cebola pequena."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FERNANDO MONTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304438-quibe-cru.html"
+}

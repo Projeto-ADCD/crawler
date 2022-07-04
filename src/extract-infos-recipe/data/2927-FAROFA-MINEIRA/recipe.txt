@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA MINEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "15 g de banha de porco",
+      "1 cebola grande cortada em cubos",
+      "75 g de bacon",
+      "75 g de linguiça caseira retirada da tripa",
+      "3 ovos caipira",
+      "100 g de pão queijo assado ponto mais e triturado",
+      "50 g de biscoito de polvilho triturado",
+      "50 g de biscoito papa ovo triturado",
+      "100 g de farofa pronta Yoki tradicional",
+      "30 g de castanha de Baru laminada ou triturada grosseiramente",
+      "sal a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite na banha de porco o bacon e a linguiça",
+      "Acrescente a cebola e os ovos e frite.",
+      "Adicione a farofa pronta Yoki tradicional, o pão de queijo triturado, os biscoitos triturados, a castanha de baru e sal a gosto.",
+      "Adicione o cheiro-verde ",
+      "Sirva quente ou fria"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Rodrigo de Abreu Fajoli"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304130-farofa-mineira.html"
+}

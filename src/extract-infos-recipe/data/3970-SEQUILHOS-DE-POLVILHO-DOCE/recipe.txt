@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SEQUILHOS DE POLVILHO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho doce",
+      "1 xícara (chá) de leite",
+      "2 xícaras (chá) açúcar",
+      "150 g de margarina ",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a margarina, o açúcar, os ovos e o leite",
+      "Coloque o polvilho aos poucos e amasse bem",
+      "Modelar os sequilhos de sua preferência",
+      "Assar em forno a 180° C até ficar dourado"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "MAIZA ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302277-sequilhos-de-polvilho-doce.html"
+}

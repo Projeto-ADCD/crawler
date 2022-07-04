@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MOLHO CREMOSO DE TOMATE SECO E SÁLVIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 tomates secos hidratados",
+      "1 cebola pequena",
+      "4 dentes de alho",
+      "1 colher (sopa) de mateiga",
+      "um pouco de azeite",
+      "creme de leite a gosto",
+      "requeijão a gosto",
+      "sálvia fresca ou desidratada",
+      "sal ou tempero completo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola, o alho e o tomate seco bem pequeninho e reserve.",
+      "Em uma panela, derreta a margarina e o azeite e em seguida, coloque a cebola e o alho",
+      "Deixe fritar um pouco até ficararem murchos",
+      "Acrescente o tomate seco picadinho e a sálvia e mexa bem.",
+      "Na sequência, acrescente o creme de leite (ou nata) e o requeijão.",
+      "Coloque sal ou o tempero completo a seu gosto.",
+      "Mexa bem.",
+      "Experimente",
+      "Se precisar coloque um pouco de leite para deixar o creme mais molinho.",
+      "Antes de servir, confira o sal e bom apetite",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: usei de molho para tortéi recheado com abóbora cabotiá! Ficou uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MONIQUE SCHMITT WAJIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302855-molho-cremoso-de-tomate-seco-e-salvia.html"
+}

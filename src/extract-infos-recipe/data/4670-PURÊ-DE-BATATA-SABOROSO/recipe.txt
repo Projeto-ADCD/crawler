@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PURÊ DE BATATA SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de batata rosa",
+      "200 g de batata doce",
+      "1 xícara (chá) de leite",
+      "3 colheres (sopa) de manteiga sem sal",
+      "2 colheres (sopa) de requeijão cremoso",
+      "1/2 caixa de creme de leite",
+      "1/2 colher (chá) de nos-moscada ralada",
+      "50 g de queijo parmesão ralado",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com água e sal, cozinhe a batata rosa e a batata doce até ficarem macias.",
+      "Quando as batatas estiverem prontas, escorra a água.",
+      "Passe as batatas por um espremedor de batata e coloque na panela que foram cozidas.",
+      "Acrescente a manteiga e o leite aos poucos e vá mexendo para incorporar.",
+      "Leve a panela ao fogo baixo e acrescente o creme de leite, o requeijão, a nos-moscada, o sal e a pimenta a gosto.",
+      "Mecha bem e deixe aquecer um pouco.",
+      "Por fim acrescente o queijo parmesão ralado e misture bem.",
+      "Sirva em seguida acompanhado de uma boa carne e uma salada verde."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300478-pure-de-batata-saboroso.html"
+}

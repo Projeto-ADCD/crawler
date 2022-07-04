@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BATATA ASSADA DA TIA KELLY",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas",
+      "1 colher (sopa) cheia de margarina",
+      "3 dentes de alho triturados",
+      "1 cebola grande ralada",
+      "3 xícaras de leite",
+      "2 colheres de farinha de trigo",
+      "sal e pimenta a gosto",
+      "queijo parmesão ralado a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte em rodelas de 1 dedo de espessura, lave e escorra",
+      "Em uma panela, aqueça a margarina e coloque a cebola ralada e o alho",
+      "Deixe fritar um pouco e acrescente as batatas picadas",
+      "Refogue e coloque o leite, o sal e pimenta a gosto",
+      "Deixe ferver um pouco e com a ajuda de uma escumadeira, retire as batatas e arrume as em uma travessa",
+      "Com o leite da panela, dissolva as 2 colheres de sopa de farinha de trigo em 1/2 xícara de leite",
+      "Acrescente na panela fazendo um molho branco",
+      "Despeje o molho por cima das batatas e cubra com queijo parmesão",
+      "Coloque papel-alumínio por cima e deixe assar por 30 minutos",
+      "Retire o papel e deixe mais alguns minutos até dourar",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KELENCRISTIANFERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300158-batata-assada-da-tia-kelly.html"
+}

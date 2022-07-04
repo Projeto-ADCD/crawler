@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BROWNIE FÁCIL E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres de achocolatado em pó",
+      "1 xícara de açúcar",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de manteiga (100 g)",
+      "2 ovos grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, misture todos o ingredientes secos (açúcar, farinha e chocolate)",
+      "Derreta a manteiga sem deixar ferver",
+      "Bata os ovos lentamente com um garfo",
+      "Despeje aos poucos os ingredientes molhados (manteiga e ovos)",
+      "Misture até formar uma massa",
+      "Despeje numa forma retangular untada até ficar uniforme",
+      "Coloque no forno preaquecido a 180º C por 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "RAFAELA PAUL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303632-brownie-facil-e-rapido.html"
+}

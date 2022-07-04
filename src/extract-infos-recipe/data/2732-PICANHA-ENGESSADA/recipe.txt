@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PICANHA ENGESSADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 picanha de 1,2 kg",
+      "3 kg de sal grosso",
+      "2 colheres de farinha de trigo",
+      "1/2 copo de água",
+      "1 claro de ovo",
+      "3 ramos de alecrim",
+      "3 dentes de alho amassados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque 1 kg de sal grosso em uma assadeira",
+      "Misture os 2 kg de sal grosso com a clara, farinha e a água, formando uma massa",
+      "Distribua em cima do sal grosso os ramos de alecrim e os dentes de alho",
+      "Por cima, coloque a picanha com a gordura para cima",
+      "Pegue a massa de sal grosso e \"engesse\" a picanha fechando todas as partes",
+      "Coloque a picanha no forno por 1 hora em temperatura 240° C",
+      "Após 1 hora, quebre o gesso e retire a parte de cima.",
+      "Volte a picanha na forno para dourar por mais 20 minutos",
+      "Para acompanhar é só dourar batatas cozidas com azeite e alecrim"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304557-picanha-engessada.html"
+}

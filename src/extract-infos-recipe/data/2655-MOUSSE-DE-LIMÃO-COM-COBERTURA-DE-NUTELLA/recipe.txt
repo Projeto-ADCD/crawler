@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MOUSSE DE LIMÃO COM COBERTURA DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Base do mousse",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1 pacote de biscoito maisena",
+      "1 pacote de suco em pó de limão",
+      "1 pacote de gelatina incolor (sem sabor)",
+      "Cobertura",
+      "1 pote de Nutella (350 g)",
+      "1 pacote de biscoito wafer Bis Oreo",
+      "1 pacote de biscoito wafer Hershey's Mais"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Antes de tudo, despeje a gelatina incolor em um copo, coloque água até verificar que está liquido",
+      "Posteriormente, esquente no micro-ondas por aproximadamente 40 segundos.",
+      "Coloque o leite condensado, o creme de leite, a gelatina já hidratada e o suco em pó de limão no liquidificador",
+      "Bata por aproximadamente 2 minutos para que fique homogêneo.",
+      "Despeje em uma tigela e coloque no freezer por aproximadamente 35 minutos até verificar que está mais rígido.",
+      "Derreta a Nutella, pode ser em banho-maria ou no micro-ondas, usando a potência média e mexendo a cada 30 segundos para que não queime.",
+      "Geralmente 1 minuto a 1 minuto e meio para derreter.",
+      "Retire o mousse do freezer, despeje a nutella por cima do mousse.",
+      "Quebre em pequenos pedaços os biscoitos maisena e corte em pequenos pedaços os bis ou hershey's wafer.",
+      "Em seguida, coloque por cima da mousse e leve o freezer por 20 minutos e depois sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JONATHAN SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304735-mousse-de-limao-com-cobertura-de-nutella.html"
+}

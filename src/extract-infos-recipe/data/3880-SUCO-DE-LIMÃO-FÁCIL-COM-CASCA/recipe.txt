@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE LIMÃO FÁCIL COM CASCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 limões",
+      "7 colheres (sopa) de açúcar",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os limões em quatro partes ",
+      "Coloque no liquidificador o açúcar, o limão e a água",
+      "Bata tudo no liquidificador e depois passe em uma peneira",
+      "Bata novamente junto com gelo (opcional)",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MANUELA MANU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302442-suco-de-limao-facil-com-casca.html"
+}

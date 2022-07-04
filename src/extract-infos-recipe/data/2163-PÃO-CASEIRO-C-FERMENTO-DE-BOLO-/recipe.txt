@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PÃO CASEIRO (C/ FERMENTO DE BOLO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de fermento para bolo",
+      "1 kg de farinha de trigo (sem fermento)",
+      "250 ml de água morna",
+      "250 ml de leite morno",
+      "2 ovos",
+      "1 colher (sopa) de sal",
+      "125 ml óleo ou margarina",
+      "1/2 xícara (chá) de açúcar",
+      "2 gemas de ovo para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque numa tigela grande um pouco mais da metade da farinha de trigo e reserve o restante.",
+      "Adicione o fermento, o açúcar, o sal, os ovos e o óleo.",
+      "Misture bem e acrescente o leite e a água.",
+      "Mexa até formar uma massa um pouco mole.",
+      "Agora vá acrescentando o restante da farinha de trigo aos poucos e misturando a massa.",
+      "Sove ela até que fique bem lisa e homogênea. DICA: Não deixe a massa ficar muito dura.",
+      "Transfira a massa para uma superfície enfarinhada e divida-a em 3 partes iguais.",
+      "Com a ajuda de um rolo, abra cada parte mas massa e enrole no formato de pão.",
+      "Unte uma assadeira com margarina e acomode as massas deixando um espaço para que elas possam crescer.",
+      "Cubra-as com um pano e deixe elas fermentarem por 1 hora e 20 minutos.",
+      "Passado esse tempo, pincele a massas com de gema de ovo.",
+      "Depois leve para assar em forno preaquecido, 180º C, por aproximadamente 35 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "GUSTAVO COLLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305811-pao-caseiro-c-barra-fermento-de-bolo.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ROCAMBOLE DE CARNE MOÍDA COM TOMATE SECO, RÚCULA E MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1 pacote de creme de cebola",
+      "10 fatias de muçarela",
+      "1/2 maço de rúcula",
+      "15 tomates secos picados",
+      "cheiro-verde",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne moída com o creme de cebola, cheiro-verde, sal e pimenta-do-reino",
+      "Abra a carne moída em cima de um pedaço de plástico filme, deixando em uma espessura nem muito fina nem muito grossa",
+      "Coloque as camadas de muçarela, tomate seco e rúcula, sem chegar muito próximo das bordas",
+      "Enrole com cuidado fechando as pontas",
+      "Leve ao forno pra assar por 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CARLA SOARES JERONIMO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302787-rocambole-de-carne-moida-com-tomate-seco-rucula-e-mussarela.html"
+}

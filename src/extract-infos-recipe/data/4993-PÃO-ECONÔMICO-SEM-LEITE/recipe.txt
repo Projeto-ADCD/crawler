@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PÃO ECONÔMICO/SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de água",
+      "120 ml de óleo",
+      "6 colheres (sopa) de açúcar",
+      "3 pitadas de sal",
+      "2 ovos",
+      "1 sachê de fermento biológico granulado (10 g)",
+      "farinha de trigo sem fermento (aproximadamente 1 kg)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela a água, o óleo, o açúcar e o sal e misture.",
+      "Acrescente os ovos e o fermento.",
+      "Aos poucos acrescente a farinha de trigo peneirada até a massa desgrudar do fundo da tigela.",
+      "Deixe descansar por 30 minutos.",
+      "Após os 30 minutos, quando a massa estiver crescida, divida em 2 porções.",
+      "Não mexa a massa apenas divide-a",
+      "Polvilhe um pouco de farinha de trigo na bancada ou mesa e coloque uma parte da massa em cima",
+      "Polvilhe mais trigo em cima da massa e abra-a com um rolo ou uma garrafa.",
+      "Não aperte a massa, abra levemente.",
+      "Enrole em forma de rocambole e coloque em uma forma untada com óleo.",
+      "Depois de enrolado deixe descansar por mais 30 minutos.",
+      "Após o descanso do pão coloque-o no forno preaquecido a 260° C por mais ou menos 30 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A receita é pra quem tem alergia ou intolerância a leite. Não aperte muito a massa, sendo necessário utilizar apenas uma colher (sopa) para misturar. Rende 2 pães grandes, se preferir pode fazer pequenos pães de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANA CHAVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299760-pao-economico-barra-sem-leite.html"
+}

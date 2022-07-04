@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO COM LINGUIÇA E QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de linguiça da sua preferência",
+      "200 g de bacom",
+      "1 cebola média picadinha",
+      "50 g de parmesão ralado (pode ser industrializado ou fresco)",
+      "100 g de muçarela em cubos",
+      "300 g de muçarela ralada",
+      "180 g de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire a película da linguiça e as destroce",
+      "Coloque em uma panela junto com o bacom e deixe que frite até dourar",
+      "Acrescente a cebola e deixe fritar por mais 4 minutos",
+      "Retire do fogo e deixe esfriar",
+      "Corte o meio do pão, faça cortes pequeno só no meio para recheá-lo",
+      "Misture com a linguiça o parmesão, o requeijão e os cubos de muçarela",
+      "Recheie os pães e os cubra com a muçarela ralada",
+      "Coloque no forno a 180º C por aproximadamente 15 a 20 minutos.",
+      "Depois e só se deliciar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA PAULA CAETANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303327-pao-com-linguica-e-queijos.html"
+}

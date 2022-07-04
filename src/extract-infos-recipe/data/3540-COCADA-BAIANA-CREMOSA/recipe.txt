@@ -1,0 +1,25 @@
+{
+  "nome_receita": "COCADA BAIANA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de leite (mesma medida da lata de leite condensado)",
+      "3 ovos",
+      "5 pacotes de cocô ralado 100g (ou um cocô fresco médio inteiro)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater tudo no liquidificador até ficar homogêneo",
+      "Despeijar numa forma com buraco no meio untada e levar ao forno pré aquecido 180°",
+      "Assar por 20 minutos ou até enfiar um palito e sair limpo (o palito não sai completamente limpo pois a cocada é cremosa)",
+      "Feito isso espere esfriar",
+      "Desenforme e leve a geladeira por 2 horas e sirva-se em fatias"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSEANE RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303173-cocada-baiana-cremosa.html"
+}

@@ -1,0 +1,62 @@
+{
+  "nome_receita": "MACARRÃO AO CONTRÁRIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 fatias de mussarela Président",
+      "8 fatias de presunto",
+      "6 porções de macarrão cabelinho de anjo (cada ninho 1 porção)",
+      "1 colher (sopa) de requeijão cremoso",
+      "8 colheres (sopa) de creme de leite",
+      "2 colheres (sopa) de castanha do pará trituradas",
+      "1 colher (sopa) de salsinha picadinha",
+      "sal e pimenta-do-reino a gosto",
+      "1 pitada de noz moscada",
+      "100 g de parmesão com mussarela President (50 g de cada) ralado para gratinar",
+      "400 ml do molho de tomate com pedaços de sua preferência (pode ser caseiro ou pronto)",
+      "Molho branco",
+      "400 ml de leite",
+      "30 g manteiga",
+      "30 g farinha",
+      "1/ 2 cebola",
+      "3 folhas de louro",
+      "2 cravos",
+      "5 grãos de pimenta-do-reino",
+      "5 grãos de pimenta rosa (ou outra q você goste)",
+      "noz-moscada a gosto",
+      "folhinhas de manjericão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque água para ferver",
+      "Quando ferver, deixe o macarrão por 1 minuto ou o sufuciente para ele soltar",
+      "Retire rapidinho, não precisa de água fria",
+      "Misture  em um bowl o creme de leite, o requeijão, a salsinha, a pitada de sal, pimenta, as castanhas e uma pitadinha de noz-moscada.",
+      "Acrescente o macarrão e misture bem.",
+      "Ele ficará como uma massa grudenta, reserve",
+      "Coloque 1 fatia de presunto em uma superfície lisa",
+      "Em cima do presunto coloque 1 fatia de mussarela e recheie com o macarrão reservado",
+      "Faça um rolinho e corte ao meio.",
+      "Repita o processo.",
+      "Aqueça o molho de tomate e dê um toque com folhinhas de manjericão.",
+      "Coloque o molho em um refratário e em seguida, coloque os rolinhos dispostos em cima do molho.",
+      "Cubra com o molho branco e salpique parmesão misturado com a mussarela por cima",
+      "Leve para gratinar ao forno a 180° C por 30 minutos",
+      "Sirva e enfeite com manjericão se quiser.",
+      "Molho branco",
+      "Ferva o leite com a cebola, o louro, o cravo e as pimentas.",
+      "Depois que ferver, coe e reserve.",
+      "Em uma panela, derreta a manteiga e acrescente a farinha",
+      "Misture rápido para não empelotar.",
+      "Acrescente o leite quente e mexa até engrossar.",
+      "Acerte o sal e coloque a noz-moscada se desejar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Aline Daniele de Oliveira Patrocínio"
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303870-macarrao-ao-contrario.html"
+}

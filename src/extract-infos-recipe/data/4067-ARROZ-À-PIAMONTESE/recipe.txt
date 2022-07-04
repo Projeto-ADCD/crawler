@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ARROZ À PIAMONTESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 dentes de alho",
+      "1/2 cebola",
+      "1 cubo de caldo de carne",
+      "3 xícaras de arroz",
+      "200 g de muçarela",
+      "1 copo de requeijão",
+      "1 caixinha de creme de leite",
+      "1 colher de manteiga",
+      "azeite",
+      "sal",
+      "100g de parmesão",
+      "100ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o arroz de maneira convencional, com alho e sal.",
+      "Adicione a muçarela e o parmesão, mexendo até que dissolvam.",
+      "Em outra panela, refogue no azeite 1 dente de alho e a cebola bem picadinha.",
+      "Misture a colher de manteiga, o caldo de carne e 100ml de leite ao refogado.",
+      "Então, adicione o requeijão e o creme de leite. A consistência não deve ser muito firme. Precisa estar mais para fluida.",
+      "Adicione o arroz reservado e misture bem.",
+      "Sirva quente acompanhado da carne de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCIO GENTIL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301980-arroz-a-piamontese.html"
+}

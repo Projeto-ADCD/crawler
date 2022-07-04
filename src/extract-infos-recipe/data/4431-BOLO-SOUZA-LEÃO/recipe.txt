@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO SOUZA LEÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de massa de mandioca",
+      "1 kg de açúcar cristal",
+      "10 gemas",
+      "300 g de manteiga",
+      "1 pitada de sal",
+      "500 ml de leite de coco",
+      "4 xícaras de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo o açúcar e água e deixe ferver.",
+      "Abaixe o fogo e deixe por mais 20 minutos.",
+      "Reserve a calda e coloque a manteiga, deixando-a esfriar.",
+      "Numa vasilha à parte, coloque a massa de mandioca lavada e peneirada, o leite de coco e as gemas.",
+      "Misture até que se unam por completo.",
+      "Após a calda de açúcar já com a manteiga misturada, junte aos outros ingredientes à parte e passe numa peneira.",
+      "Unte uma forma de buraco ao meio de 26 cm de diâmetro e leve ao forno pré-aquecido a 180º por cerca de 1 hora ou até que o bolo fique no ponto (enfie uma faca fina e ela sairá limpa) e o bolo fique dourado na parte de cima.",
+      "Deixe esfriar um pouco e desenforme."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Este bolo depois de pronto terá, em média, 3 kg."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "SILVANA MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301141-bolo-souza-leao.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOTO DE ALHO PORÓ - BARBADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caldo de legumes",
+      "2 xícaras (café) de arroz arbóreo",
+      "1 taça de vinho branco seco",
+      "1 cebola média",
+      "2 dentes de alho",
+      "1 alho-poró",
+      "2 colheres de manteiga",
+      "1 requeijão",
+      "sal",
+      "1,5 l de água",
+      "25 g de parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o caldo de legumes na água e reserve",
+      "Pique bem a cebola, o alho, o alho-poró e a folha do alho-poró",
+      "Em uma panela grande, refogue a cebola e o alho com uma colher de manteiga",
+      "Quando a cebola estiver torradinha adicione o alho-poró",
+      "Refogue por 1 minuto e adicione o arroz",
+      "Em fogo médio/baixo, deixe o arroz esquentar bem adicione o vinho e mexa pra queimar o álcool",
+      "Quando não tiver mais cheiro de álcool comece a colocar um pouco da água do caldo (2 conchas por vez)",
+      "Siga sempre mexendo e adicionando água quando secar até cozinhar",
+      "Quando o arroz estiver pronto, (em torno de 20 minutos) adicione o requeijao, 1 colher de manteiga, 3 pitadas de sal, o parmesão e a folha picada do alho-poró",
+      "Misture por uns 2 minutos e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAULO GIOVANI DEFENDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306007-risoto-de-alho-poro-barbada.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PATÊ DE BERINJELA NUTRITIVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de azeite",
+      "1 cebola média picada",
+      "5 dentes de alhos",
+      "1 berinjela média em cubos com cascas",
+      "1 tablete de caldo de galinha",
+      "50g de azeitonas picadas",
+      "1 caixinha de creme de leite 250 ml",
+      "1 colher de salsa picada",
+      "1/2 pimentão vermelho picado",
+      "opcional: 1 colher de páprica, sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média refogue com azeite, a cebola, 3 dentes de alho picados, a berinjela em cubos e o pimentão.",
+      "Refogando por mais ou menos 15 minutos.",
+      "Deixe esfriar e coloque no liquidificador acrescentando os 2 dentes de alhos crus, o creme de leite, o tablete de caldo de galinha e a salsa.",
+      "Bata tudo até ficar uma pasta homogênea",
+      "Coloque em um pote e conserve na geladeira",
+      "Sirva no pão ou em torradas é uma delícia",
+      "Bom apettite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "FATIMA CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305547-pate-de-berinjela-nutritivo.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PALHA ITALIANA NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "5 colheres de achocolatado",
+      "biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado em um recipiente.",
+      "Adicione 5 colheres de achocolatado por cima.",
+      "Misture e coloque no microondas.",
+      "Tire de 20 em 20 segundos para misturar.",
+      "Quando achar que estiver quente, retire do microondas.",
+      "Misture mais uma vez e quebre os biscoitos por cima.",
+      "Ponha na geladeira por 1 hora.",
+      "Depois de 1 hora, retire, corte em pedaços e passe no açúcar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LORENNA BARRETO????",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301823-palha-italiana-no-micro-ondas.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ANÉIS DE CEBOLA CROCANTES EMPANADOS NA FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 a 7 cebolas grandes",
+      "250 g de farofa pronta temperada",
+      "3 ovos batidos com uma pitada de sal para empanar",
+      "farinha de trigo para empanar",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as cebolas e corte-as em rodelas de aproximadamente 1 cm",
+      "Destaque os anéis de cada fatia",
+      "Passe as cebolas do ovo batido com a pitada de sal",
+      "Em seguida passe na farinha de trigo",
+      "Após isso, passe novamente no ovo batido e por ultimo empane da farofa temperada",
+      "Aqueça o óleo e frite os anéis de cebolas tomando cuidado para não colocar muito e estragar os anéis para ficarem bem crocantes."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CLEIDIANE ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303735-aneis-de-cebola-crocantes-empanados-na-farofa.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CHUCHU AO MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 chuchus",
+      "500 ml de leite",
+      "1 colher de farinha de trigo",
+      "1 colher pequena de manteiga ou margarina",
+      "sal",
+      "queijo ou mussarela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e tire o miolo do chuchu, pique em fatias",
+      "Coloque em uma panela com água e sal, cozinhe por 5 minutos e deixe escorrer",
+      "faça o molho branco, dissolva a farinha no leite, derreta a manteiga em uma panela e junte com o leite",
+      "Adicione sal a gosto, mexa até engrossar e reserve",
+      "Em uma forma coloque o chuchu o molho branco salpique queijo por cima",
+      "Leve ao forno durante 15 a 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JESSICA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305149-chuchu-ao-molho-branco.html"
+}

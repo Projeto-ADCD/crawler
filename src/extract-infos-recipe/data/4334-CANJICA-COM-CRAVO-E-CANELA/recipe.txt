@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANJICA COM CRAVO E CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de canjica de milho branco",
+      "2 vidros de leite de Coco (400ml)",
+      "8 xícaras (chá) de água (cerca de 2 litros)",
+      "1/2 xícara (chá) de açúcar",
+      "1 pitada de sal",
+      "6 cravos-da-índia",
+      "1 canela em pau e canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe de molho a canjica de milho branco em cerca de 2 xícaras (chá) de água por no mínimo 3 horas para hidratar o grão da canjica numa panela grande.",
+      "Coloque para cozinhar a canjica hidratada e o restante da água. Tempere com sal.",
+      "Leve ao fogo brando, com a panela semitampada e cozinhe por cerca de 40min ou até o milho começar a amolecer.",
+      "Junte o leite de coco, o açúcar, os cravos e a canela.",
+      "Cozinhe por mais 30 minutos ou até que o milho fique macio e o caldo encorpado. Polvilhe canela em pó e sirva morno ou frio."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VALDECI SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301355-canjica-com-cravo-e-canela.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de polvilho azedo",
+      "2 xícaras de polvilho doce",
+      "3 ovos",
+      "1 e 1/2 copo de leite fervendo",
+      "1/2 copo de óleo",
+      "1 colher (sopa) de margarina",
+      "250 g de queijo ralado",
+      "1 colher (café) de sal",
+      "1 colher (sobremesa) cheia de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente o leite e despeje no polvilho (escalde) depois misture todos os outros ingredientes.",
+      "Por último, coloque o queijo ralado e o fermento.",
+      "Despeje em uma forma untada com óleo e leve ao forno aquecido a 180° C",
+      "Deixe por 25 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IVONE SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299732-bolo-pao-de-queijo.html"
+}

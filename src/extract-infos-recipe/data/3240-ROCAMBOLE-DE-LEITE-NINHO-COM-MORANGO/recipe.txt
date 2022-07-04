@@ -1,0 +1,32 @@
+{
+  "nome_receita": "ROCAMBOLE DE LEITE NINHO COM MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 + 1/2 xícara de leite ninho",
+      "1/2 xícara de açúcar de confeiteiro",
+      "3/4 da lata de leite condensado",
+      "1 pacote de gelatina de morango",
+      "1/4 de xícara de água quente",
+      "1 lata de leite condensado",
+      "150 g de morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o leite ninho com o açúcar de confeiteiro.",
+      "Vá adicionando o leite condensado aos poucos até formar uma massa homogênea e consistente.",
+      "Leve à geladeira por 20 minutos.",
+      "Em um recipiente, dissolva a  gelatina na água quente. ",
+      "Adicione o leite condensado e misture bem.",
+      "Junte os morangos e misture.",
+      "Abra a massa com o auxílio de um rolo.",
+      "Recheie e enrole como um rocambole. ",
+      "Leve ao freezer por 30 minutos para firmar. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303671-rocambole-de-leite-ninho-com-morango.html"
+}

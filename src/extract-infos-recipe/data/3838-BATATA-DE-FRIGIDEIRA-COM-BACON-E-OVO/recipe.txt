@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BATATA DE FRIGIDEIRA COM BACON E OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 batatas pequenas descascadas",
+      "1 pimentão verde médio em tiras",
+      "4 ovos médios",
+      "1 cebola picada",
+      "1 colher (sopa) de manteiga",
+      "4 dentes de alho picados",
+      "100 g de bacon defumado em tiras",
+      "azeite de oliva",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as batatas em tiras finas e adicione um pouco de sal e com o uso de uma peneira amasse as tiras de batata para remover a água do tubérculo.",
+      "Acrescente posteriormente o alho e a cebola e misture.",
+      "Em uma frigideira adicione a manteiga junto com um pouco de azeite e acrescente as batatas e deixe em fogo baixo até dourar.",
+      "Vire a mistura para que possa fritar o outro lado acrescentando um pouco de azeite.",
+      "Reserve em uma forma.",
+      "Frite as tiras de bacon e coloque sobre a massa de batata.",
+      "Acrescente os ovos e as tiras de pimentão sobre a massa de batata e leve ao forno por 20 minutos a 210–240 °C",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302565-batata-de-frigideira-com-bacon-e-ovo.html"
+}

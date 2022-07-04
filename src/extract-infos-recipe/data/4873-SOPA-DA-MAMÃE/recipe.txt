@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SOPA DA MAMÃE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas médias",
+      "2 cenouras",
+      "1 tomate sem pele e picado",
+      "1 cebola",
+      "3 dentes de alhos amassados",
+      "azeite",
+      "200 gramas de carne picado",
+      "1 xícara de feijão batido no liquidificador",
+      "1 xícara de macarrão tipo conchinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela uma colher de azeite e depois o alho.",
+      "Quando o alho estiver frito, adicione a cebola.",
+      "Coloque a carne temperada com sal e pimenta a gosto para fritar. Após fritar a carne, adicione a cenoura, coloque 1 litro de água e coloque na pressão por 20 minutos.",
+      "Retire da pressão e acrescente as batatas. Deixe cozinhar por mais 15 minutos .",
+      "Acrescente o feijão batido e coloque o macarrão e deixe cozinhar por mais 10 minutos.",
+      "Não passe do tempo estipulado para não amolecer muito o macarrão."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MICHELLI.SEIXAS@HOTMAIL.COM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300037-sopa-da-mamae.html"
+}

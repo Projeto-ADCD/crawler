@@ -1,0 +1,21 @@
+{
+  "nome_receita": "XAROPE DE FIGO PARA TOSSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de Coca-Cola",
+      "1 lata de açúcar",
+      "10 folhas de figo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as folhas de figo",
+      "Coloque todos os ingredientes em uma panela e leve ao fogo até obter uma consistência de xarope",
+      "Consumir frio"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302961-xarope-de-figo-para-tosse.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "KAFTA DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne bovina moída",
+      "1 cebola média triturada no processador",
+      "80 ml de azeite",
+      "2 colheres (sopa) hortelã picada",
+      "sal a gosto",
+      "pimenta Síria a gosto",
+      "1 colher (sopa) água",
+      "1 cebola média fatiada em meia-lua",
+      "cominho a gosto",
+      "1 colher (chá) de Açafrão",
+      "1 colher (chá) de páprica defumada",
+      "1 dente de alho picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a carne moída com a cebola processada, a metade do azeite, metade da hortelã e os temperos.",
+      "Misture tudo muito bem, divida em 5 porções e modele as kaftas.",
+      "Disponha em palitos para churrasco previamente molhados e acomode em refratário.",
+      "Leve ao micro-ondas por 6 minutos.",
+      "Transfira as kaftas para um prato e leve de volta o refratário ao micro-ondas por mais 5 minutos, até secar a água e formar uma crosta no fundo.",
+      "Junte 1 colher (sopa) de água ao refratário e misture a cebola cortada em meia-lua, o restante do azeite e hortelã, sal e pimenta.",
+      "Retorne com as kaftas, colocando-as por cima e leve ao micro-ondas por mais 3 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305808-kafta-de-micro-ondas.html"
+}

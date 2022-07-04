@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PURÊ DE BATATA RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas",
+      "5 linguiças toscanas",
+      "2 colheres (sopa) de manteiga",
+      "1 cebola picada",
+      "1 xícara de leite",
+      "2 colheres (sopa) de óleo",
+      "1/2 pimentão pequeno",
+      "4 tomates sem a polpa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas junto com a linguiça.",
+      "Assim que a batata já estiver cozida, retire a linguiça pique em pedaços pequenos e reserve a batata.",
+      "Em uma panela, amasse as batatas cozidas, acrescente 2 colheres (sopa) de manteiga, 1/2 cebola picada, 1 xícara de leite e sal a gosto",
+      "Misture tudo ao fogo brando até atingir o ponto de purê. Reserve.",
+      "Em outra panela, coloque 2 colheres (sopa) de óleo, 1/2 cebola picada e 1/2 pimentão picado.",
+      "Coloque a linguiça picada e mexa bem.",
+      "Coloque 4 tomates picados sem a polpa, sal a gosto e misture bem e deixe cozinhar um pouco.",
+      "Coloque em uma tigela uma camada de purê, por cima o molho, logo em seguida salpique mussarela.",
+      "Cubra com o que sobrou do purê e salpique mussarela ralada por cima.",
+      "Leve ao forno a 200° por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TATHYANE GUIMARÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300028-pure-de-batata-recheado.html"
+}

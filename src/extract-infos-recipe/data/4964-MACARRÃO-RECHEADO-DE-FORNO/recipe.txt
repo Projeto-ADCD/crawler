@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MACARRÃO RECHEADO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão espaguete ",
+      "350 g de mossarela ",
+      "200 g de Presunto",
+      "1 gomo de linguiça calabresa",
+      "1 gomo pequeno de bacon ",
+      "óleo ",
+      "1 pote de requeijão cremoso",
+      "1 lata de milho",
+      "1 pacote dequeijo ralado",
+      "1 cebola média picada",
+      "sal a gosto",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque água e sal, a água deve estar salgada igual ao mar.",
+      "Quando ferver, acrescente o macarrão.",
+      "Deixe ele no ponto. ",
+      "Em outra panela acrescente a cebola, após dourar, acrescente o bacon, a calabresa e o milho.",
+      "Deixe dourar tudo e acrescente o creme de leite com o requeijão. ",
+      "Em seguida, já com o macarrão pronto e escorrido, coloque metade em um refratário e recheie com o creme feito anteriormente",
+      "Por cima, acrescente a mossarela e o presunto.",
+      "Depois, acrescente o restante do macarrão e por cima o restante do recheio.",
+      "Para finalizar, cubra com o presunto e toda a mossarela restante, juntamente com o queijo",
+      "ralado por cima. ",
+      "Finalizando, é só deixar 15 minutos no forno gratinando a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "BARBARA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299845-macarrao-recheado-de-forno.html"
+}

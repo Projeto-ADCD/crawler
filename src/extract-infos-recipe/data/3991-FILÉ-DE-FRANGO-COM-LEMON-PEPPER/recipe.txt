@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FILÉ DE FRANGO COM LEMON PEPPER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 filés de frango",
+      "1 dente de alho bem picadinho",
+      "1 colher (sopa) de lemon pepper",
+      "3/4 de xícara de leite",
+      "1 colher (chá) de maisena",
+      "azeite e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere os filés de frango com alho, um fiozinho de azeite, sal e metade da colher de lemon pepper.",
+      "Deixe descansar por 15 minutos na geladeira.",
+      "Aqueça a frigideira (de preferência antiaderente) e grelhe os dois lados dos filés. Mantenha-os aquecidos.",
+      "Na mesma frigideira, coloque o leite (deixando separado duas colheres) e o restante do lemon pepper.",
+      "Misture bem até para retirar o resto do tempero da frigideira.",
+      "Dissolva a maisena no leite reservado (as duas colheres) e acreceste ao creme, mexendo até engrossar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Você pode substituir o leite e a maisena por creme de leite. Mas, de preferência, creme de leite de caixinha sem soro, fazendo em fogo baixo e não deixando ferver."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "AMANDA MAGALHÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302240-file-de-frango-com-lemon-pepper.html"
+}

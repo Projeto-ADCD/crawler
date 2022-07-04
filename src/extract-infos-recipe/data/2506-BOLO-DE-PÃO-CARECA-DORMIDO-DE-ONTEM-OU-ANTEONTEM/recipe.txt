@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE PÃO CARECA DORMIDO, DE ONTEM OU ANTEONTEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães careca de ontem ou anteontem",
+      "700 ml de leite integral ou light",
+      "5 xícaras de trigo ",
+      "1 limão ou essência de baunilha ou fruta",
+      "4 colheres (sopa) de manteiga ou margarina cheias",
+      "4 ovos",
+      "1 e 1/2 xicara de açúcar (xícara média ou de copo medidor)",
+      "2 colheres (sopa) de fermento para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os pães e coloque na bacia da batedeira e acrescente o leite",
+      "Deixe amolecer e mexa com uma colher até virar uma massa bem mole.",
+      "Coloque a batedeira para bater e vá acrescentando os demais ingredientes (a manteiga, o açúcar, os ovos, o trigo, a essência ou raspas da casca do limão",
+      "E por fim o fermento.",
+      "Farinhe uma forma grande com trigo e manteiga despeje a massa",
+      "Leve ao forno 200° C por 45 minutos aproximadamente ou até assar.",
+      "Se quiser mesclar: despeje mais ou menos a metade da massa na forma e no que ficar na bacia da batedeira, acrescente chocolate e mexa bem com uma colher (não é aconselhável bater na batedeira).",
+      "Em seguida despeje por cima da massa já na forma, cobrindo o centro da massa"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "NILSON SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305062-bolo-de-pao-careca-dormido-de-ontem-ou-anteontem.html"
+}

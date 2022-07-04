@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FEIJÃO DE CORDA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão de corda",
+      "1 linguiça calabresa picada",
+      "1 cebola média",
+      "2 dentes de alho",
+      "coentro a gosto",
+      "sal a gosto",
+      "Tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão para cozinhar na panela de pressão, acrescente água até cobri-lo e coloque o sal",
+      "Quando o feijão já estiver cozido, escorra a água",
+      "Em uma panela, coloque a cebola e o alho picados para refogar.",
+      "Depois acrescente a linguiça",
+      "Quando a linguiça estiver frita, coloque o feijão de corda",
+      "Por último, coloque o coentro picado, os temperos e ajuste o sal se necessário.",
+      "Bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DANIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302117-feijao-de-corda-facil.html"
+}

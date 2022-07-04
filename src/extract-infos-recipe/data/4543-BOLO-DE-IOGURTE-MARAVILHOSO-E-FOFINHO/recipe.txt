@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE IOGURTE MARAVILHOSO E FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de açúcar (pode ser refinado ou cristal)",
+      "1/3 de xícara de óleo (aproximadamente 100 ml)",
+      "1 copinho de iogurte integral ou natural (desses copinhos que vendem no supermercado tipo qualhada)",
+      "2 e 1/2 xícaras de farinha de trigo sem fermento",
+      "1 colher (sopa) de fermento em pó (como referência use a tampinha do fermento)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque seu forno para aquecer a 180° C",
+      "Unte uma forma com manteiga, faça uma misturinha de açúcar e canela e polvilhe na forma em cima da manteiga para untar (não precisa untar com farinha de trigo, o açúcar pode ser tanto cristal quanto refinado)",
+      "Em um liquidificador, bata todos os ingredientes.",
+      "Comece batendo nessa sequência para garantir que o bolo fique fofinho: adicione primeiro os ovos, em seguida o açúcar, o óleo, o iogurte, a farinha e, só por último, o fermento (não bata muito o fermento no liquidificador para não perder o efeito, o ideal é acrescentar o fermento e bater a mão)",
+      "Coloque a mistura na forma e leve ao forno a 180° C por aproximadamente 40 minutos (varia muito de forno para forno) então fique atento",
+      "Não estranhe o cheirinho de açúcar queimado, isso se dá ao açúcar que polvilhamos na forma.",
+      "Depois de assado, se preferir, polvilhe mais açúcar com canela e bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAISSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300894-bolo-de-iogurte-maravilhoso-e-fofinho.html"
+}

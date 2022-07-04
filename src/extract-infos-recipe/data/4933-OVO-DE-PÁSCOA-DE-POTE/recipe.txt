@@ -1,0 +1,33 @@
+{
+  "nome_receita": "OVO DE PÁSCOA DE POTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de chocolate fracionado",
+      "Forma para ovo de 500 g",
+      "300 g de chocolate meio amargo",
+      "12 colheres (sopa) de creme de avelã",
+      "12 colheres (sopa) de creme de leite",
+      "100 g de chocolate ao leite fracionado",
+      "300 g de chocolate granulado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate fracionado no micro-ondas de 30 em 30 segundos.",
+      "Coloque o chocolate na forma até a marcação. ",
+      "Feche com a outra parte da forma e certifique-se de que está toda preenchida com o chocolate. ",
+      "Leve à geladeira por 20 minutos.",
+      "Em uma tigela, misture o com o creme de avela e o creme de leite",
+      "Dsenforme o ovo",
+      "Passe chocolate fracionado derretido do lado de fora da casca do ovo",
+      "Coloque granulado por fora",
+      "Cole com o chocolate fracionado, as duas metades do ovos e posicione em uma base congelada de chocolate fracionado.",
+      "Leve à geladeira para secar",
+      "Recheie com a mistura reservada"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299919-ovo-de-pascoa-de-pote.html"
+}

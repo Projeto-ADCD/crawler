@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE BATATA DA CAROLINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas grandes",
+      "1 cebola grande",
+      "2 caldos de carne",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão coloque a batata cortada em quatro, a cebola fatiada e os dois caldos",
+      "Junte a água, coloque no fogo e deixe na pressão por 10 minutos",
+      "Apague o fogo e com uma concha pegue os ingredientes",
+      "Coloque no mix ou liquidificador a quantidade que desejar, o caldo depende da consistência que a pessoa quiser (mais cremosa ou mais mole)",
+      "Depois que bater, despeje no prato e coloque queijo ralado e margarina a gosto",
+      "Mexa e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAROLINA QUEIROZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300205-creme-de-batata-da-carolina.html"
+}

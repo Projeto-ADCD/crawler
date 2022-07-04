@@ -1,0 +1,48 @@
+{
+  "nome_receita": "MADALENA ESPECIAL DA NOEMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de batata comum",
+      "300 g de mandioquinha salsa",
+      "300 g de queijo prato",
+      "200 g de creme de ricota Président",
+      "750 g de camarão 7 barbas limpo",
+      "200 g de nata",
+      "2 tomates",
+      "1 cebola média",
+      "noz moscada a gosto",
+      "purê de tomate",
+      "200 g de palmito picado",
+      "100 g batata palha",
+      "alho",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata e a mandioquinha descascada, e passe por um espremedor",
+      "Faça um purê com as batatas, com duas colheres de manteiga e 100 g de nata",
+      "Reserve",
+      "Frite 2 dentes de alho e uma cebola média bem picada com uma colher de manteiga",
+      "Acrescente os tomates sem pele e sem semente, deixe cozinhar por 3 minutos",
+      "Em outra panela, escalde os camarões em água fervendo por 1 minuto",
+      "Coloque os camarões no molho, acrescente 1/2 copo de água, palmito e deixe ferver (se tiver muito líquido, engrosse com amido de milho)",
+      "Acerte o sal e desligue",
+      "Acrescente a nata e misture bem"
+    ],
+    "MONTAGEM": [
+      "Coloque um pouquinho do molho em um refratário 20x 30 cm",
+      "Coloque a metade do purê, depois metade do queijo prato e o creme de ricota",
+      "Repita outra camada",
+      "Polvilhe batata palha por cima e leve ao forno por 25 minutos a 180°C",
+      "Sirva com arroz branco e saladas verdes "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Paulo Gessé de Assis"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303757-madalena-especial-da-noemi.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MASSA PARA TORTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de óleo",
+      "3 xícaras de leite",
+      "1 colher (café) de sal",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de amido de milho",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em seu liquidificador bate os ovos por 1 minuto.",
+      "Em seguida coloque o óleo, o leite e o sal e bata por aproximadamente 5 minutos.",
+      "Enquanto estiver batendo sua mistura coloque a farinha de trigo aos poucos.",
+      "Depois de tudo misturado coloque o amido de milho.",
+      "Desligue seu liquidificador e coloque o fermento em pó, mexa com uma colher até incorporar.",
+      "Está pronta sua massa",
+      "Asse em forno a 180° C graus por 40 minutos ou até colocar o palito e sair seco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Medida da xícara 200 ml"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KAWANE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300268-massa-para-torta.html"
+}

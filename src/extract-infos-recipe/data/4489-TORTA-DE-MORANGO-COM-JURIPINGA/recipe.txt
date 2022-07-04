@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE MORANGO COM JURIPINGA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha Maizena",
+      "Manteiga sem sal",
+      "Amido de milho",
+      "Leite",
+      "1 lata de leite condensado",
+      "2 ovos",
+      "1 garrafa de Jurupinga",
+      "15 morangos",
+      "Água",
+      "Gelatina sabor morango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Jogue as bolachas no liquidificador",
+      "Derreta 4 colheres (sopa) de manteiga sem sal, depois jogue na bolacha e misture até formar uma massa. Após isso ser feito, distribua a massa em uma forma.",
+      "Leve ao forno em 180 graus por 20 minutos."
+    ],
+    "PARA O RECHEIO:": [
+      "Em uma vasilha, adicione 2 colheres (sopa) de amido de milho e misture com 250ml de leite integral.",
+      "Jogue na panela após misturar bem e acrescente mais 250ml de leite integral, adicione também 1 lata de leite condensado, 2 gemas e misture no fogo baixo.",
+      "Coloque 2 doses de jurupinga e misture mais um pouco.",
+      "Distribua o recheio na massa. Corte 15 morangos e distribua-os por toda a torta.",
+      "Pegue 250ml de água fervente e 1 pacote de gelatina de morango, misture bem e depois coloque mais 250ml de água gelada.",
+      "Jogue na torta e depois mantenha na geladeira até adquirir consistência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PAULA DE VASCONCELOS BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301000-torta-de-morango-com-juripinga.html"
+}

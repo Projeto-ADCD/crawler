@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TORTA DE BISCOITO DE CARAMELO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de mingau",
+      "10 colheres (sopa) de açúcar",
+      "6 morangos",
+      "1 pacote de bolachas",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o açúcar.",
+      "Depois de derretido, bata o caramelo (açúcar derretido) com o mingau.",
+      "Bata o caramelo e o mingau com os morangos picados.",
+      "Bata a lata de creme de leite com os três ingredientes já misturados.",
+      "Quebre as bolachas até esfarelar e bata junto com todos os ingredientes."
+    ]
+  },
+  "tempo_de_preparo": "68 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FERNANDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300087-torta-de-biscoito-de-caramelo.html"
+}

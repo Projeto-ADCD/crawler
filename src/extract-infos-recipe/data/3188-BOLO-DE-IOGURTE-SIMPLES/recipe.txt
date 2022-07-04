@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE IOGURTE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 iogurte natural",
+      "1 copo de óleo (menos 1 dedo)",
+      "1 e 1/2 copo de açúcar",
+      "1 e 1/2 copo de farinha",
+      "4 gotas de baunilha",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione ao liquidificador os ovos, o iogurte, o óleo e a baunilha e bata",
+      "Adicione a açúcar, a farinha e bata",
+      "Por último adicione o fermento e bata no liquidificador",
+      "Está pronto, bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CÃORIOSIDADES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303761-bolo-de-iogurte-simples.html"
+}

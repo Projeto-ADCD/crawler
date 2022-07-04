@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BISCOITO DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de manteiga",
+      "1 lata de leite condensado",
+      "500 g de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Incorpore a manteiga e o leite condensado e vai colocando o amido de milho aos poucos, misturando bem.",
+      "Dissolva a massa e coloque-a no bico de confeiteiro para fazer tipo umas florezinhas.",
+      "Põe em uma assadeira, não precisa untar, e deixe por uma hora p descansar, endurecer um pouco",
+      "Aqueça o forno a 180° e leve para assar por 20 a 25 minutos dependendo do seu forno "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "-80 PORÇÕES",
+  "autor": "CLEIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302248-biscoito-de-leite-condensado.html"
+}

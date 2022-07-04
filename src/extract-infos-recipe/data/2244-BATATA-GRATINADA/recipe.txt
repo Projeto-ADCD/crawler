@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BATATA GRATINADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 a 8 batatas inglesas",
+      "2 latas de creme de leite",
+      "100 g de parmesão ralado",
+      "sal e pimenta-do-reino a gosto",
+      "alecrim a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas, corte em rodelas e cozinhe.",
+      "Em uma tigela, misture o creme de leite, o parmesão, sal, pimenta e o alecrim.",
+      "Pegue um pirex retangular e vá alternando com uma camada de batatas e uma do creme.",
+      "Leve ao forno para gratinar durante cerca de 15 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ADRIANA MANSUR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305638-batata-gratinada.html"
+}

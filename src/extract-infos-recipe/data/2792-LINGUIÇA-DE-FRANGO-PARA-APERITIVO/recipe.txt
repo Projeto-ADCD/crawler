@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LINGUIÇA DE FRANGO PARA APERITIVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de frango moído (peito ou sobrecoxa desossada)",
+      "8 fatias de pão de forma",
+      "3 dentes de alho picados",
+      "1 cebola média picada",
+      "1/2 xícara (chá) de leite",
+      "1 pimenta vermelha sem sementes, picada",
+      "1 colher (sopa) de óleo",
+      "sal, pimenta-do-reino e salsinha picada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela funda, misture o frango, o sal, a pimenta e a salsinha.",
+      "Bata no liquidificador o leite, o pão esmigalhado, o alho, a cebola, a pimenta e o óleo até ficar homogêneo.",
+      "Despeje a mistura sobre o frango e amasse com as mãos até formar uma liga.",
+      "Modele 6 linguiças e embrulhe cada uma em filme plástico, formando um rolinho bem firme.",
+      "Cozinhe as linguiças em uma panela com água fervente por 12 minutos.",
+      "Retire da panela e desembrulhe do filme plástico.",
+      "Sirva como aperitivo com fatias de pão torrado.",
+      "Pode ser servido quente ou frio."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304422-linguica-de-frango-para-aperitivo.html"
+}

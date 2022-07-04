@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SEM LEITE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 colheres (sopa) de leite em pó de sua preferência ",
+      "3 colheres (sopa) de achocolatado em pó",
+      "1/2 colher (sopa) amido de milho",
+      "350 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate no liquidificador até que fique homogêneo",
+      "Leve ao fogo até ferver",
+      "E está pronto o chocolatinho"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THALIA JUCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301898-chocolate-quente-sem-leite-facil.html"
+}

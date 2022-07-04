@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME DE ESPINAFRE",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de espinafre",
+      "1/2 unidade de cebola média picada",
+      "1 fio de azeite",
+      "sal a gosto",
+      "100 g de creme de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola com o espinafre em uma panela com o azeite e sal.",
+      "Leve o espinafre e a cebola para o liquidificador.",
+      "Junte o creme de leite, bata tudo até obter um creme de espinafre fácil bem homogêneo.",
+      "Sirva como acompanhamento a carnes ou frango."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CYNTHIA WOOD PASSIANOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306023-creme-de-espinafre.html"
+}

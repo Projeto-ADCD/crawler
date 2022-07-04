@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BROWNIE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "1 xícara de chocolate em pó",
+      "1 xícara de farinha de trigo (sem fermento)",
+      "1/2 xícara de óleo",
+      "1/2 colher de chá de sal (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligue o forno e deixe preaquecendo por 20 minutos.",
+      "Unte a forma e coloque o papel manteiga.",
+      "Em uma vasilha grande, misture todos os ingredientes.",
+      "Derrame toda a massa na forma e leve ao forno por cerca de 20 minutos.",
+      "OBS 1: A forma que eu uso tem um tamanho de 24 x 24.",
+      "OBS 2: É altamente recomendado a utilização de chocolate em pó 33% ou 50%. O achocolatado deixa essa receita muito enjoativa e o cacau em pó resseca o brownie."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "MIGUEL LOURENÇO BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304616-brownie-facil.html"
+}

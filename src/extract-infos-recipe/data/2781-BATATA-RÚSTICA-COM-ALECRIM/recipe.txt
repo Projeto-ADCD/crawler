@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BATATA RÚSTICA COM ALECRIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata rosa com casca",
+      "3 ramos de alecrim fresco",
+      "3 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de azeite",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas inteiras e com casca em uma panela grande e com água e sal até ficarem \"al dente\".",
+      "Sugiro que usem batatas de tamanho médio.",
+      "Escorra e deixe esfriar um pouco.",
+      "Corte as batatas pelo comprimento, em forma de gomos.",
+      "Em uma frigideira funda, com bastante óleo, frite as batatas aos poucos.",
+      "Coloque-as em uma travessa sobre papel-toalha.",
+      "Em outra frigideira, coloque o azeite e a manteiga.",
+      "Assim que aquecer coloque o alecrim e deixe dourar rapidamente.",
+      "Cuide para que não queime.",
+      "Disponha as batatas fritas em uma travessa, salpique sal e pimenta a gosto e regue com o alecrim na manteiga.",
+      "Sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304439-batata-rustica-com-alecrim.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PICANHA COM MOLHO DE CERVEJA PARA CHURRASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de picanha cortada em fatias de 3 cm",
+      "sal grosso (uns 10 a 15% de 1 kg)",
+      "2 garrafas de cerveja long neck (275ml)",
+      "1 xícara (chá) de azeite",
+      "3 dentes de alho amassados",
+      "1 pitada de pimenta-do-reino",
+      "1 cebola picada",
+      "1 a 2 pitadas de ervas finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque numa vasilha grande uma boa porção de sal grosso",
+      "Despeje na vasilha a cerveja e o azeite",
+      "Acrescente o alho e mexa bem",
+      "Junte a pimenta-do-reino, a cebola picada e as ervas finas",
+      "Deixe descansar por mais ou menos 3 minutos",
+      "Mergulhe os pedaços de picanha por alguns minutos nesse molho",
+      "Coloque na grelha em braseiro forte"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "IURY MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303134-picanha-com-molho-de-cerveja-para-churrasco.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PÃO PIZZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de água morna",
+      "10 g de fermento biológico",
+      "1 colher (sopa) rasa de sal",
+      "1 colher (sopa) rasa de açúcar",
+      "1 colher (sopa) de margarina",
+      "1 colher (sopa) de óleo",
+      "1 ovo inteiro",
+      "2 colheres (sopa) de queijo ralado",
+      "farinha de trigo até dar ponto de pão (aproximadamente 500 g)",
+      "recheio a gosto (opção de queijo, presunto e calabresa) ou o que desejarorégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os ingredientes por ordem em uma vasilha (menos a farinha) e mexa até dissolver tudo.",
+      "Acrescente a farinha de trigo aos poucos, formando uma massa, até desgrudar da mãos",
+      "Sove até que fique bem macia.",
+      "Coloque em uma vasilha e cubra com plástico",
+      "Aguarde dobrar de tamanho, mais ou menos 1 hora.",
+      "Depois dívida em duas partes e abra uma por vez com um rolo.",
+      "Já aberta coloque: molho de tomate, queijo mussarela e outros recheios que desejar",
+      "Enrole como se fosse rocambole.",
+      "Após fazer isso com as duas massas, faça uma trança com ambas",
+      "Coloque em uma assadeira untada e polvilhada deixe descansar por mais 1 hora, coberta com um pano",
+      "Depois pincele o pão com a mistura de: 1 ovo batido 1 colher de óleo, 1 colher de queijo ralado",
+      "Salpique orégano por cima se desejar",
+      "Leve ao forno por cerca de 25 minutos",
+      "Ou até dourar um pouco em 180° C",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TAINARA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304774-pao-pizza.html"
+}

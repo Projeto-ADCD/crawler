@@ -1,0 +1,47 @@
+{
+  "nome_receita": "TORTA DE FRANGO CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Recheio",
+      "500 g de peito de frango sem pele",
+      "1/2 pote de requeijão cremoso",
+      "1/2 litro de caldo do frango cozinhado",
+      "4 colheres (sopa) de óleo",
+      "1/2 dente de alho amassado",
+      "1 cebola picada",
+      "3 colheres de extrato de tomate",
+      "sal e pimenta-do-reino a gosto",
+      "Massa",
+      "250 ml de leite",
+      "3/4 de xícara (chá) de óleo",
+      "2 ovos",
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "sal a gosto",
+      "1 colher (sopa) de fermento em pó",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio",
+      "Cozinhe o peito de frango no caldo até ficar macio.",
+      "Desfie o frango (dica: sacudir a panela de pressão facilita)",
+      "Separe 1/2 litro de caldo do cozimento e reserve.",
+      "Refogue os demais ingredientes",
+      "Adicione o frango desfiado e o caldo",
+      "Quando estiver mais seco adicione o molho de tomate e misture",
+      "Adicione o requeijão 3 colheres (sopa) de requeijão no recheio",
+      "Massa",
+      "Bata o leite, o óleo e os ovos no liquidificador em velocidade baixa e vai aumentando.",
+      "Acrescente aos poucos a farinha, o sal e o fermento.",
+      "Despeje metade da massa em uma forma untada e adicione o recheio sobre ela.",
+      "Acrescente 2 colheres de sopa de requeijão por cima do recheio espalhando-os",
+      "Cubra com o restante de massa e o queijo ralado.",
+      "Leve ao forno preaquecido (180° C) até dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "KARIMA MOURAD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305514-torta-de-frango-cremosa.html"
+}

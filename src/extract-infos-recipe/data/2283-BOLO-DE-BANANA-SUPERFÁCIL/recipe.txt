@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE BANANA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas maduras",
+      "2 ovos grandes ou 3 pequenos",
+      "1 xícaras de açúcar ou (200 g)",
+      "1 xícaras de farinha de trigo ou (200 g)",
+      "1/4 de xícara de óleo",
+      "1 colher de (sopa) de fermento químico (fermento para bolo)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o forno em 200º C",
+      "Unte uma forma de 20 cm, com margarina polvilhe açúcar com canela e coloque 2 bananas em rodelas e reserve.",
+      "Despeje na forma e leve para assar em forno a 200º C até ficar dourado.",
+      "Depois de pronto, aguarde 10 minutos para desenformar",
+      "Dica: salpique um pouco de canela na massa quando colocar o fermento fica uma delícia.",
+      "No copo do liquidificador, coloque todos os ingredientes (menos o fermento) e bata tudo, depois de batido coloque o fermento e bata só para misturar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROSILAINE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305568-bolo-de-banana-superfacil.html"
+}

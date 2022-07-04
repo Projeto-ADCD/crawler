@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LENTILHA À ESPANHOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 tomates maduros",
+      "1 e 1/2 cebola",
+      "6 dentes de alho",
+      "1/2 pimentão verde ou 1 pimenta americana",
+      "3 batatas grandes",
+      "500 g de lentilha seca",
+      "1 pedaço de bacon",
+      "1 gomo de chorizo (charcuteria espanhola)",
+      "1 gomo de chouriço de sangue",
+      "1 pimentão vermelho seco (pode substituir por 1 colher de páprica doce)",
+      "1 colher (chá) de cominho moído",
+      "sal e pimenta a gosto",
+      "2 folhas de louro",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande refogar os temperos e os legumes menos as batatas",
+      "Junte as carnes e refogue também",
+      "Cubra com água fria e coloque a lentilha",
+      "Deixe cozinhar até amolecer a lentilha",
+      "Coloque as batatas descascadas e cortadas em cubo e cozinhe até amolecer"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SARITA ALVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305031-lentilha-a-espanhola.html"
+}

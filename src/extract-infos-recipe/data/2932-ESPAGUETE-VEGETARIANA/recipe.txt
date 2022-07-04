@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ESPAGUETE VEGETARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão espaguete (numeração 8)",
+      "1 pimentão amarelo, verde e vermelho médios em tiras",
+      "1 cenoura média em pedaços",
+      "1 cebola picada",
+      "4 dentes de alho picados",
+      "100 g de vagem em rodelas",
+      "15 unidades de pimenta biquinho",
+      "6 azeitonas em pedaços",
+      "salsinha picada",
+      "azeite de oliva",
+      "gengibre fresco ou em pó a gosto",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece refogando o alho e a cebola com um pouco de azeite e sal.",
+      "Deixe até dourar.",
+      "Acrescente os legumes e a azeitonas junto com um pouco de água.",
+      "Nesta etapa é adicionada a salsinha picada e gengibre se for de sua preferência.",
+      "Cozinhe até que os legumes estejam al dente.",
+      "Reserve.",
+      "Cozinhe o macarrão pelo tempo indicado pela embalagem.",
+      "Em uma frigideira grande aqueça com um pouco de azeite e coloque o espaguete e misture, acrescente o cozido de legumes sobre e a pimenta biquinho.",
+      "Deixe por 5 minutos na frigideira sempre misturando em intervalos.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304124-espaguete-vegetariana.html"
+}

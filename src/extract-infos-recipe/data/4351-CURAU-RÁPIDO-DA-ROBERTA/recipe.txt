@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CURAU RÁPIDO DA ROBERTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de milho verde",
+      "1 lata de leite condensado",
+      "1 litro de leite",
+      "1 pacote de coco ralado (opcional)",
+      "3 colheres de amido de milho",
+      "canela em pó a gosto, para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata o milho, o leite condensado e o leite.",
+      "Passe pela peneira para retirar o bagaço do milho.",
+      "Despeje a mistura em uma panela, leve ao fogo.",
+      "Adicione o coco ralado e misture bem.",
+      "Em um copo dissolva as o amido de milho e despeje na panela mexendo bem para não empelotar.",
+      "Mexa até levantar fervura, desligue, passe o curau para um refratário, deixe esfriar e polvilhe canela em pó."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROBERTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301320-curau-rapido-da-roberta.html"
+}

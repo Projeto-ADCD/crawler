@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE SEM GLÚTEN LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de farinha de amêndoas",
+      "50 g de coco ralado",
+      "6 colheres (sopa) de xilitol",
+      "3 colheres (sopa) de cacau em pó 100%",
+      "6 ovos",
+      "2 colher (sopa) de óleo de coco",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "COBERTURA": [
+      "1 caixa creme de leite sem lactose",
+      "2 colheres (sopa) de óleo de coco derretido",
+      "3 colheres (sopa) de cacau em pó 100%",
+      "4 colheres (sopa) de xilitol"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata todos os ingredientes no liquidificador, por último o fermento",
+      "Unte uma forma de 20 cm e leve ao forno pré-aquecido a 180°C por 30 minutos"
+    ],
+    "COBERTURA:": [
+      "Misture os ingredientes e leve em fogo baixo, só até engrossar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SOUDIET SOUDIET",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303646-bolo-de-chocolate-sem-gluten-low-carb.html"
+}

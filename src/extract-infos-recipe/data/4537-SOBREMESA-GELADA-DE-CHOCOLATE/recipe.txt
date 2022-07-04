@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SOBREMESA GELADA DE CHOCOLATE",
+  "ingredientes": {
+    "1ª CAMADA": [
+      "1/2 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "200 g de doce de leite",
+      "200 ml de leite",
+      "1/2 xícara de chocolate em pó",
+      "12 g de gelatina sem sabor hidratada "
+    ],
+    "2ª CAMADA": [
+      "300 g de chocolate meio amargo",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "1ª CAMADA": [
+      "Em um liquidficador, bata o leite condensado, o creme de leite, o doce de leite, o leite, o chocolate em pó e a gelatina sem sabor hidratada. ",
+      "Despeje em uma forma untada com óleo e leve à geladeira por cerca de 2 horas."
+    ],
+    "2ª CAMADA": [
+      "Derreta o chocolate meio amargo em banho-maria e junte o creme de leite.",
+      "Misture bem atér formar a ganache. ",
+      "Retire o doce da geladeira e despeje a ganache.",
+      "Volte à geladeira por 30 minutos e está pronto!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Gostou dessa receita? Ela é prática, rápida e deliciosa! No TudoGostoso, temos muitas opções de receitas fáceis e rápidas de doce, como o manjar de coco, confira!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300915-sobremesa-gelada-de-chocolate.html"
+}

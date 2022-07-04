@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOPA CREME DE ERVILHA COM HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de sopa de manteiga",
+      "4 unidades de alho-poró fatiados",
+      "3 colheres (chá) de sal",
+      "1 e 1/2 unidade de caldo em cubos zero gordura diluídos em 6 xícaras de água",
+      "6 xícaras de ervilha congelada",
+      "2 colheres (sopa) de suco de limão",
+      "1/2 xícara de iogurte grego natural zero gordura",
+      "2 colheres (sopa) de hortelã fresca picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, derreta a manteiga em fogo médio. Adicione o algo-poró e uma colher (chá) de sal refogando até que comece a caramelizar, aproximadamente 10 minutos.",
+      "Acrescente o caldo de galinha e as ervilhas, aumente o fogo e deixe ferver.",
+      "Reduza o fogo e cozinhe até que as ervilhas estejam macias, aproximadamente cinco minutos.",
+      "Adicione o suco de limão, o iogurte, o sal o restante e a hortelã.",
+      "Com um mixer ou liquidificador, bata a sopa (tome cuidado para o líquido quente não espirrar).",
+      "Passe a sopa por uma peneira fina depois de batida para retirar as fibras das peles das ervilhas que possam ter ficado. Sirva quente ou fria."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ERIKA GONZAGA SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301235-sopa-creme-de-ervilha-com-hortela.html"
+}

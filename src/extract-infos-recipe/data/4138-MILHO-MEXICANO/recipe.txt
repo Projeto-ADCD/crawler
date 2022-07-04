@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MILHO MEXICANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 espigas de milho cozidas",
+      "4 colheres (sopa) de maionese",
+      "3 colheres (sopa) de suco de limão",
+      "3 colheres (sopa) de azeite",
+      "coentro a gosto picadinho",
+      "páprica picante a gosto",
+      "queijo parmesão ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa frigideira com o azeite, grelhe os milhos até que fiquem douradinhos.",
+      "Adicione o suco de limão e o sal e desligue a frigideira.",
+      "Misture a maionese e a páprica.",
+      "Espalhe a mistura no milho e depois coloque queijo ralado e coentro."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O milho é um ingrediente presente em muitas receitas do México. Esse milho temperado é chamado de \"elote\", e é uma comida de rua muito popular e deliciosa. Experimente fazê-lo na sua casa!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301751-milho-mexicano.html"
+}

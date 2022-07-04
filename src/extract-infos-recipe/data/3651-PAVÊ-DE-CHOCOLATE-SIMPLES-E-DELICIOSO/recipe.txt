@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PAVÊ DE CHOCOLATE SIMPLES E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixa de leite condensado",
+      "1 caixa creme de leite",
+      "4 gemas (peneiradas)",
+      "4 colheres (sopa) de chocolate em pó ",
+      "3 pacotes de biscoito de maisena",
+      "leite para mergulhar os biscoitos (o quanto bastar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Leve ao fogo o leite condensado, as gemas e o chocolate em pó.",
+      "Mexa bem até ficar cremoso, em ponto de brigadeiro (desgrudar do fundo da panela).",
+      "Retire do fogo e acrescente o creme de leite. Mexa até obter uma mistura homogênea.",
+      "Reserve.",
+      "Montagem",
+      "Faça uma mistura de leite e chocolate e coloque em um recipiente para molhar os biscoitos.",
+      "Mergulhe os biscoitos no leite e em seguida os distribua em uma forma de vidro ou de alumínio, formando a primeira camada de biscoitos.",
+      "Em seguida, com a ajuda de uma concha, distribua o creme de chocolate sobre os biscoitos, formando a segunda camada de creme.",
+      "Repita esse processo até acabar o creme, finalizando com uma camada de creme.",
+      "Leve à geladeira por 2 horas.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observações e dicas\nUsando biscoitos maisena de chocolate e mergulhando no leite puro, fica uma delícia.\nVocê pode usar cacau em pó.\nO tempo de geladeira depende da temperatura da sua geladeira.\nO recipiente onde você vai montar o pavê pode ser o que você escolher. Eu uso uma forma de vidro redonda com 30cm de diâmetro.\nSempre tenha 1 pacote de biscoito a mais, caso precise.\nPara o seu pavê não ficar com gosto de ovo, retire a pele das gemas quando separá-las da clara.\nSe os ovos forem muito grandes, utilize apenas 3."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FABI DRAGO GIMENES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302975-pave-de-chocolate-simples-e-delicioso.html"
+}

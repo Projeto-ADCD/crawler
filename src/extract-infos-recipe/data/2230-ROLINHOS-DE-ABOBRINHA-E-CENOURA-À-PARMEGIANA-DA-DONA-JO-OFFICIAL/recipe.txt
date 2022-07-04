@@ -1,0 +1,26 @@
+{
+  "nome_receita": "ROLINHOS DE ABOBRINHA E CENOURA À PARMEGIANA DA DONA JO OFFICIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 abobrinhas",
+      "2 cenouras",
+      "150 ml de molho de tomate",
+      "150 g de queijos de sua preferência (mussarela/ parmesão/brie /gruyère)",
+      "Azeite/ sal/ cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie as abobobrinha e as cenouras",
+      "Em uma frigideira coloque manteiga ou azeite e dele os 2 lados das cenouras e abobrinhas e as reserve.",
+      "Faça rolinhos com as abobrinhas e depois com as cenouras e colocando em uma frigideira com azeite.",
+      "Acrescente por cima dos rolinhos o molho de tomate ",
+      "Deixe a panela com a tampa por 2 minutos.",
+      "Coloque o queijo de sua preferência e decore o prato com rebolinhas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DONA JÔ - OFFICIAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305659-rolinhos-de-abobrinha-e-cenoura-a-parmegiana-da-dona-jo-official.html"
+}

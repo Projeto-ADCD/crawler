@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PAVÊ DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres de maizena (amido de milho)",
+      "3 pacotes de bolacha doce",
+      "1 goiabada",
+      "meio litro de leite",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a goiabada com o creme de leite no liquidificador",
+      "Faça um mingau de maizena (com o amido de milho)",
+      "Pegue a bolacha e faça camadas",
+      "Alterne entre uma camada de bolacha e uma camada de goiabada",
+      "E outra camada de bolacha e maizena",
+      "Você pode colocar o leite condensado entre a maizena, fica a seu critério.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRISMAR PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302920-pave-de-goiabada.html"
+}

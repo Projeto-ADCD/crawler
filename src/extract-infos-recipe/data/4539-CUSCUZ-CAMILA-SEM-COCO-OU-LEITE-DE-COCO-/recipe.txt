@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CUSCUZ CAMILA (SEM COCO OU LEITE DE COCO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite integral fervido (usar morno, quase frio)",
+      "1 e 1/2 xícara de chá de tapioca granulada",
+      "Açúcar à gosto",
+      "Raspinha de limão (opcional)",
+      "1 lata de milho verde",
+      "1 lata de leite condensado",
+      "1 colher de sobremesa de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o leite já morno e a lata de milho.",
+      "Coe e reservar o bagaço.",
+      "Misture o açúcar ao leite coado.",
+      "Coloque a tapioca numa travessa e hidratar com o leite de milho adoçado.",
+      "Mexa de vez em quando durante uns 40min (não pode ficar muito duro).",
+      "Durante este tempo, faça um doce de milho com o bagaço do milho, a manteiga e o leite condensado.",
+      "Leve tudo ao fogo até engrossar.",
+      "Esperar esfriar e colocar em cima do cuscuz de milho.",
+      "Deixar na geladeira de um dia para o outro e servir gelado.",
+      "Uma delícia!! Receita criada para uma amiga que odeia côco, mas sempre quis comer cuscuz :)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCIANA GAVIÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300910-cuscuz-camila-sem-coco-ou-leite-de-coco.html"
+}

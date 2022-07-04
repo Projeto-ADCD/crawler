@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALADA SIMPLES COM MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de alface americana",
+      "2 cenouras raladas",
+      "1 caixa de tomate cereja",
+      "1 pacote de batata palha",
+      "100 g ketchup",
+      "50 g mostarda",
+      "100 g maionese",
+      "sal (opcional)",
+      "azeite a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o alface, tomate e cenoura",
+      "Corte a alface em tiras",
+      "Corte o tomate conforme sua preferência e rale a cenoura.",
+      "Em uma travessa comprida coloque uma camada de alface, outra de cenoura, outra de tomate e a batata palha por cima.",
+      "Nessa hora se quiser coloque um fio de azeite e uma pitada de sal por cima, mas sem misturar os ingredientes.",
+      "Em uma tigela separada misture o ketchup, mostada e maionese.",
+      "Despeje essa mistura sobre a salada, porém não mexa o tempero apenas coloque por cima.",
+      "Sirva "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305048-salada-simples-com-molho.html"
+}

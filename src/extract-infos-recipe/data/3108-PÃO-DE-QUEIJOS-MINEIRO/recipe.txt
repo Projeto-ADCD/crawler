@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PÃO DE 3 QUEIJOS MINEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de polvilho azedo",
+      "500 g de batata",
+      "2 copos (americano) de óleo",
+      "2 copos (americano) de leite",
+      "1 colher (sobremesa) de sal",
+      "400 g de queijo parmesão",
+      "250 g de provolone",
+      "250 g de mussarela",
+      "2 ovos",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as batatas já cozidas juntamente com o óleo, o leite e o sal",
+      "Após, coloque a mistura em uma vasilha e misture o polvilho",
+      "Junte os ovos e os queijos ralados até dar uma consistência homogênea.",
+      "Com auxilio de colheres, molde bolinhas e leve ao forno 180° C por 20 minutos.",
+      "Não é necessário untar a forma"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Cielli Brito"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303867-pao-de-3-queijos-mineiro.html"
+}

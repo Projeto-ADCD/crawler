@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM COBERTURA DE CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo",
+      "3 ovos",
+      "1 xícara de açúcar ",
+      "4 colheres (sopa) cheias de manteiga (ou 1 xícara de óleo de soja)",
+      "1 e 1/2 xícaras de leite",
+      "5 colheres (sopa) de cacau em pó ",
+      "1 colher (sopa) de fermento ",
+      "Cobertura",
+      "3 cenouras médias picadas",
+      "1 lata ou caixa de leite condensado",
+      "1 xícara de leite",
+      "3 colheres de manteiga",
+      "4 colheres de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata no liquidificador os ovos, leite e a manteiga",
+      "Acrescente aos poucos a farinha, o açúcar e o cacau em pó.",
+      "Bata bem até ficar uniforme e, por último, acrescente o fermento",
+      "Mexa à mão com uma colher até se misturar na massa. ",
+      "Coloque a mistura em uma forma untada ao forno preaquecido (entre 180° C e 200° C)",
+      "por 30 minutos",
+      "Cobertura",
+      "No liquidificador, bata as cenouras picada, o leite condensado e 1 xícara de leite até formar um creme homogêneo",
+      "Em uma panela, derreta a manteiga e coloque a mistura do liquidificador, mexendo sempre.",
+      "Acrescente aos poucos o amido e deixe no ponto desejado",
+      "Fica muito gostoso e de quebra foi feito pra contrariar aqueles que amam essa",
+      "mistura, mas nunca provaram desta maneira"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301062-bolo-de-chocolate-com-cobertura-de-cenoura.html"
+}

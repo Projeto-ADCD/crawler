@@ -1,0 +1,39 @@
+{
+  "nome_receita": "YAKISOBA DA BATCHAN ATA GOTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão para yakissoba",
+      "1 cebola grande picada em tirinhas (juliene)",
+      "1 maço médio de brócolis",
+      "1 maço médio de couve flor",
+      "2 pimentões cortados em tirinhas",
+      "2 cenouras médias cortadas em tirinhas",
+      "1 repolho médio cortados em cubos",
+      "1/2 maço de acelga cotados em cubos",
+      "200 g de vagem cortadas em diagonal",
+      "500 g de carne cortadas em tirinhas (coxão mole, alcatra, ou mignon)",
+      "margarina ou manteiga para fritar",
+      "Para o molho",
+      "1 copo (americano) de shoyu",
+      "4 copos (americano) de água",
+      "2 colheres (sopa) de óleo de gergelim torrado",
+      "3 colheres (sopa) de amido de milho",
+      "4 colheres (sopa) de açúcar",
+      "1 colher (sopa) de sal",
+      "temperos a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em água salgada e reserve",
+      "Em uma panela grande, frite com manteiga o macarrão, legumes e carne, todos separadamente e reserve em uma travessa grande",
+      "Para o molho",
+      "Junte todos os ingredientes do molho em uma panela e mexa até ferver e engrossar",
+      "Despeje o molho sobre os ingredientes já fritos e reservados, misture bem e sirva"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MELINA GOTO BARRACHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305687-yakisoba-da-batchan-ata-goto.html"
+}

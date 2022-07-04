@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA CROCANTE E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara óleo girassol",
+      "2 xícaras de proteina de soja granulada",
+      "2 xícaras de farinha flocada branca",
+      "1 xícara de bacon moido (opcional)",
+      "1 pacote de creme/sopa de cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquentar o óleo na panela",
+      "Se a opcao for adicionar bacon, coloque o mesmo para fritar até ficar bem douradinho",
+      "Caso prefira sem bacon, só pular esta fase e ir direto para a 3",
+      "Colocar a proteina de soja, até ela dourar",
+      "Colocar a farinha e adicionar também o creme de cebola",
+      "Assim que tiver mudado a cor da farinha já pode desligar o fogo",
+      "Cuidado para não queimar, pois fica pronto bem rapido.",
+      "E aí é so servir e aproveitar "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCELA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304149-farofa-crocante-e-facil.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MELHOR PETIT GATEAU DO MUNDO!!!!!",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de manteiga sem sal",
+      "300 g de chocolate meio amargo",
+      "100 g de farinha de trigo",
+      "170 g de açúcar cristal",
+      "50 g de açúcar refinado para decorar no final",
+      "5 gemas",
+      "5 ovos inteiros"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte suas forminhas com manteiga (recomendado formas pequenas).",
+      "Numa vasilha, coloque as gemas e os ovos, junto com o açúcar cristal. Misture ",
+      "Coloque a farinha e misture mais.",
+      "Depois, derreta a manteiga e o chocolate em banho-maria ou microondas.",
+      "Jogue na mistura e mexa bastante.",
+      "Pegue a mistura e coloque nas forminhas.",
+      "Pré-aqueça o forno a 180 por 15 minutos.",
+      "Aumente o seu forno no máximo, coloque as formas e espere de 7 a 8 minutos.",
+      "Deixe que ela fique dura por fora e derretida por dentro."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRUNO HENRIQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301166-melhor-petit-gateau-do-mundo.html"
+}

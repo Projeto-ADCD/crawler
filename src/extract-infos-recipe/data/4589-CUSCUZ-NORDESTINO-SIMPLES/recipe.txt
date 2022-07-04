@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CUSCUZ NORDESTINO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de floco de milho para cuscuz",
+      "3/4 de xícara de água ",
+      "manteiga e requeijão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a água e o floco de milho e deixe hidratar",
+      "Misture bem e deixe descansar por pelo menos 20 minutos",
+      "Adicione sal a gosto",
+      "Coloque em um recipiente, tampe com papel-filme ou um pires e coloque 3 minutos no micro-ondas",
+      "Se necessário coloque por mais 1 minuto (varia de micro-ondas)",
+      "Desenforme e acrescente a manteiga e o requeijão"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA FLAVIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300789-cuscuz-nordestino-simples.html"
+}

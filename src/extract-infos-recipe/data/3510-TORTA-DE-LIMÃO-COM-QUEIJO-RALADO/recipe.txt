@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE LIMÃO COM QUEIJO RALADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 limões",
+      "1 lata de leite condensado",
+      "1/2 xícara de manteiga ou margarina",
+      "1 xícara de farinha de trigo sem fermento",
+      "1 gema",
+      "1 colher de água",
+      "1 colher de queijo ralado (opcional)",
+      "4 colheres de açúcar",
+      "4 claras"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a farinha, a gema, o queijo ralado (opcional), a água, 1 colher de açúcar, a manteiga (margarina) em um recipiente",
+      "Misture bem até ficar uma massa nem muito molhada, nem muito seca.",
+      "Com a massa pronta, forre o fundo e as laterais de uma forma de fundo removível (25 cm)",
+      "Leve para assar por 25 minutos a 200° C",
+      "Retire do forno e reserve.",
+      "Merengue ",
+      "Esprema os limões e coe o suco.",
+      "Em um recipiente, coloque o leite condensado, adicione o suco dos limões, misture bem",
+      "Se preferir mais azedinho é só colocar um pouco mais de suco de limão.",
+      "Suspiro",
+      "Em uma batederia, bata as claras por 2 minutos na velocidade média ",
+      "Adcione as 3 colheres de açúcar e bata mais um pouco ate ficar firme.",
+      "Montagem",
+      "Com a massa já assada é fria, coloque o merengue e por último o suspiro",
+      "Espalhe corretamente o suspiro por cima do merengue",
+      "Por último, despeje por cima da torta as raspas de limão e um pouco de açúcar",
+      "Para que o suspiro não solte da borda.",
+      "Volter a torta para assar o suspiro até que ele fique dourado por cima.",
+      "Após assar o suspiro, deixe esfriar e leve à geladeira.",
+      "Sirva essa torta bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELMA SILVA NEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303224-torta-de-limao-com-queijo-ralado.html"
+}

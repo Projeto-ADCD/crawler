@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DE SORVETE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 caixinha de morango",
+      "1 gelatina sabor morango",
+      "200 g de margarina",
+      "3 pacotes de biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite condensado, o creme de leite, os morangos.",
+      "Bata por 1 minuto",
+      "Em 120 ml de água fervente dissolva a gelatina e bata junto",
+      "Bata no liquidificador os pacotes de biscoito",
+      "Derreta a margarina e misture com o biscoito batido",
+      "Numa tigela de vidro coloque a massa, com as mãos vá moldando e despeje o sorvete por cima e coloque no freezer, deixe de um dia para o outro"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KELLY CHRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302910-torta-de-sorvete-de-morango.html"
+}

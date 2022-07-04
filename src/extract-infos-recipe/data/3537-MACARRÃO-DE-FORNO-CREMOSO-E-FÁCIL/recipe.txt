@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MACARRÃO DE FORNO CREMOSO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão penne (500 g)",
+      "1 lata de molho de tomate (340 g)",
+      "2 latas de água (medida da lata de molho de tomate)",
+      "2 tabletes de caldo de galinha",
+      "2 caixa de creme de leite",
+      "10 fatias de muçarela",
+      "sal a gosto",
+      "orégano a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, adicione o macarrão, o molho de tomate, o caldo de galinha e a água",
+      "Coloque em fogo alto até pegar pressão",
+      "Assim que pegar pressão, desligue o fogo",
+      "Após abrir a panela, misture o creme de leite e o sal",
+      "Em um refratário, despeje o macarrão e cubra com a muçarela, salpicando o orégano por cima",
+      "Leve ao forno preaquecido por 15 minutos.",
+      "Ou até que a muçarela esteja derretida",
+      "Sirva-se em seguida",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ANY AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303177-macarrao-de-forno-cremoso-e-facil.html"
+}

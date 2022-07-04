@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CRI-CRI DE MICRO-ONDAS DA LI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de amendoim (500 g)",
+      "1 colher (sopa) de chocolate em pó (opcional)",
+      "1 e 1/2 xícara de açúcar",
+      "1/2 xícara de água",
+      "1 colherinha de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Torre o amendoim se preferir, mas pode ser cru também.",
+      "Coloque todos os ingredientes em um refratário para micro-ondas e mexa para misturar.",
+      "Leve ao micro-ondas por 10 minutos corridos, sem mexer.",
+      "Tire e mexa rapidinho até secar.",
+      "O açúcar gruda todinho, fica ótimo",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se o seu micro-ondas não for muito potente, deixe 12 minutos"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "LISIANE FROZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299925-cri-cri-de-micro-ondas-da-li.html"
+}

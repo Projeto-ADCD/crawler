@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ DE MARACUJÁ COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "3 caixas de creme de leite",
+      "395 ml de concentrado de maracujá",
+      "1 barra de chocolate ao leite",
+      "3 pacotes de biscoito maisena de chocolate",
+      "leite para molhar os biscoitos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador 2 leite condensado com os 2 creme de leite e o concentrado de maracujá",
+      "Bata bem.",
+      "O concentrado coloque aos poucos para ficar a gosto de quem está fazendo.",
+      "Coloque o chocolate no micro-ondas por 30 segundos ou até que derreta",
+      "Coloque um caixinha de creme de leite e mexa bem, reserve a ganache.",
+      "Agora é só molhar os biscoitos no leite com um pouco de açúcar e ir montando as camadas",
+      "Por último despeje a ganache de chocolate por cima.",
+      "Deixe na geladeira por no mínimo 2 horas é está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JEFERSON DA COSTA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304792-pave-de-maracuja-com-chocolate.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CREME DE BACURI",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polpa concentrada de bacuri",
+      "2 latas de leite condensado",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes",
+      "Bata por 5 minutos no liquidificador",
+      "Leve ao congelador por aproximadamente 6 horas (ou no freezer até que fique firme)"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PRISCILA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303236-creme-de-bacuri.html"
+}

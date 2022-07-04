@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO NA TRAVESSA DE NINHO COM MORANGOS DA LU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa pronta de bolo de chocolate  ",
+      "2 latas de leite condensado",
+      "2 latas de creme de leite",
+      "1 colher (sopa) de margarina",
+      "6 colheres (sopa) leite em pó",
+      "morangos a gosto (lavados e cortados em pedaços)",
+      "suspiros a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o bolo conforme as instruções da embalagem.",
+      "Corte o bolo em duas camadas e forre um refratário com o bolo.",
+      "Coloque em uma panela o leite condensado, o creme de leite, a margarina e o leite em pó e mexa até engrossar (não pode ficar em ponto de brigadeiro).",
+      "Espere esfriar, adicione os morangos e incorpore-os ao creme.",
+      "Coloque por cima do bolo e decore com os suspiros.",
+      "Leve à geladeira."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCIANA GARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300381-bolo-na-travessa-de-ninho-com-morangos-da-lu.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO MARAVILHOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Peito de frango cozido e desfiado",
+      "1 lata de milho verde",
+      "1 copo de requeijão",
+      "1 lata ou 2 caixinhas de creme de leite ( sem soro)",
+      "1 cebola média picada",
+      "Sal e pimenta do reino a gosto",
+      "Cheiro verde a gosto",
+      "2 colheres de óleo",
+      "300g de queijo mussarela",
+      "1 pacote de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o milho , o creme de leite e o requeijão, reserve.",
+      "Em uma panela coloque o óleo a cebola, refogue o frango , em seguida despeje o creme que foi batido no liquidificador, tempere com sal e pimenta a gosto.",
+      "Deixe ferver um pouco e desligue o fogo.",
+      "Coloque em uma assadeira , cubra com queijo mussarela e depois a batata palha, leve ao forno pré aquecido até derreter o queijo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MAYARA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301126-fricasse-de-frango-maravilhoso.html"
+}

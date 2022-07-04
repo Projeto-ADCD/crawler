@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SUCO DE MANGA VERDE COM HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 mangas verdes de sua preferência",
+      "6 folhinhas de hortelã",
+      "se preferir, adoce com adoçante ou açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lava bem as mangas e as folhas de hortelã",
+      "Depois das mangas lavadas, descasque-as e pique em pedaços pequenos",
+      "Acrescente as folhas de hortelã",
+      "Leve tudo ao liquidificador e bata por 3 minutos"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MARILENE GONÇALVES DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303239-suco-de-manga-verde-com-hortela.html"
+}

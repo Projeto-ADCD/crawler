@@ -1,0 +1,24 @@
+{
+  "nome_receita": "LOMBO ASSADO FACIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de lombo",
+      "2 limões",
+      "2 dentes de alho",
+      "sal e pimenta a gosto",
+      "1 cebola inteira"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique ou bata todos os tempero e coloque sobre a peça",
+      "Deixe marinando nesse tempero por no mínimo 2 horas",
+      "Coloque para assar por 1 hora.",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HELLEN MARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304104-lombo-assado-facil.html"
+}

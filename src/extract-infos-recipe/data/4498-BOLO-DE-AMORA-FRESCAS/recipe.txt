@@ -1,0 +1,47 @@
+{
+  "nome_receita": "BOLO DE AMORA FRESCAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "5 colheres de manteiga",
+      "1 xícara de açúcar (250 ml)",
+      "1 xícara de leite (250 ml)",
+      "2 xícaras de trigo (aproximadamente 500 g)",
+      "1 xícara de amoras frescas ou congeladas",
+      "sumo de 1/2 limão ",
+      "1 colher (chá) de canela em pó ",
+      "1 colher (sopa) de fermento em pó ",
+      "3 colheres de açúcar para a mistura da fruta",
+      "2 xicaras de amoras frescas ou congeladas para a cobertura ",
+      "1/2 limão para a cobertura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C",
+      "Unte um forma média com margarina e trigo e reserve.",
+      "Em uma tigela ou na batedeira, bata bem os ovos até espumar.",
+      "Misture bem a manteiga ou margarina e quando a massa estiver homogênea, acrescente o trigo, o leite e o sumo de limão, alternadamente para a massa não ficar pesada.",
+      "Por último acrescente o fermento e mexa levemente.",
+      "Recheio",
+      "Em uma outra tigela, misture 1 xícara de amora, 2 colheres de açúcar,",
+      "1 colher (chá) de canela (ou canela a gosto) ",
+      "Despeje metade da massa na forma untada, cubra com o recheio e despeje a outra metade",
+      "da massa.",
+      "Não se preocupe em cobrir todo o recheio.",
+      "Leve ao forno para assar por 35 minutos (ou até quando a massa estiver completamente assada)",
+      "Cobertura",
+      "Quando o bolo estiver pronto, desligue o forno e deixe o bolo esfriar.",
+      "Em uma panela, junte as outras 2 xícaras de amoras e 2 colheres de açúcar e o sumo",
+      "do limão.",
+      "Mexa até formar um calda.",
+      "Desenforme o bolo e regue com a calda. ",
+      "Se preferir, pode usar geleia de amora na calda.",
+      "Dilua a geléia em pouquinho de água, aqueça e despeje sobre o bolo"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "GUARÁ SECKLER FOTÓGRAFA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300987-bolo-de-amora-frescas.html"
+}

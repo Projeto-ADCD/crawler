@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BERINJELA AO FORNO COM PIMENTÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pimentões verdes",
+      "1 pimentão vermelho",
+      "1 pimentão amarelo",
+      "sal a gosto",
+      "óleo",
+      "alho a gosto",
+      "1 cebola média",
+      "orégano a gosto",
+      "salsinha e cebolinha a gosto",
+      "2 ou 3 berinjelas médias"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os pimentões e as berinjelas em tiras, a cebola em rodelas e triture o alho",
+      "Pique a salsinha, coloque em um refratário e regue com óleo",
+      "Acrescente o sal e o orégano e cubra com papel-alumínio",
+      "Leve ao forno por aproximadamente 1 hora e 30 minutos "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NATHALYA NARDI ROCHA PEREIRA ALGARVE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302537-berinjela-ao-forno-com-pimentao.html"
+}

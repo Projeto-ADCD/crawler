@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATATA CORADA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas grandes",
+      "sal a gosto",
+      "3 colheres (sopa) de manteira",
+      "300 g de queijo muçarela",
+      "1 pitada de orégano",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte em rodelas (de mais ou menos 1/2 cm).",
+      "Coloque na panela com água e sal e cozinhe até fica macia.",
+      "Tire a água e reserve.",
+      "Coloque a manteira em um refratário e em seguida coloque as batatas intercalando com fatias de queijo muçarela, finalizando com o queijo e o orégano.",
+      "Leve ao forno preaquecido a 180º C e deixe até dourar.",
+      "Retire do forno e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VERA LUCIA GUIMARAES CASABONA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303205-batata-corada-superfacil.html"
+}

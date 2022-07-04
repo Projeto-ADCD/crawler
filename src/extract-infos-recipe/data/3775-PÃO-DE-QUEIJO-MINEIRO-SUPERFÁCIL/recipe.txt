@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO DE QUEIJO MINEIRO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras (chá) de polvilho azedo",
+      "3 xicaras (chá) de queijo catiara (ou outro que o substitua)",
+      "2 xícaras (chá) de leite",
+      "1 xícara (chá) de óleo",
+      "4 a 5 ovos",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje o polvilho em uma tigela grande.",
+      "Leve ao fogo o óleo, o leite e o sal até levantar fervura.",
+      "Despeje a mistura no polvilho e, com a ajuda de uma colher, misture tudo.",
+      "Após, ainda quente, com cuidado para não se queimar, sove bastante a massa, até que fique homogênea.",
+      "Enquanto esfria, em um liquidificador bata os ovos.",
+      "Com a massa de morna para fria, junte os ovos aos poucos, massando bem com as mãos, até o ponto para enrolar (a massa de pão de queijo é mais molinha).",
+      "Acrescente o queijo ralado.",
+      "Se necessário, adicione mais dos ovos liquidificados até obter o ponto.",
+      "Após, passe óleo nas mãos e enrole no tamanho desejado.",
+      "É importante deixar um espaço entre as unidades para crescerem.",
+      "Leve em forno alto (230 g) por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "ARY ABDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302727-pao-de-queijo-mineiro-superfacil.html"
+}

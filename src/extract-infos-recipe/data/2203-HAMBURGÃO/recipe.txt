@@ -1,0 +1,42 @@
+{
+  "nome_receita": "HAMBURGÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 pacote de pão de forma",
+      "500 g de maionese",
+      "8 bifes de hambúrguer",
+      "1 tomate",
+      "1 cebola média",
+      "4 ovos",
+      "sal a gosto",
+      "100 g de mussarela",
+      "100 g de presunto",
+      "100 g de bacon",
+      "3 colheres de manteiga",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o bacon em cubos.",
+      "Frite os bifes, os ovos e o bacon.",
+      "Retire as cascas dos pães",
+      "Em uma forma redonda com o fundo falso, preencha as laterais com o pão, e o fundo.",
+      "Passe um pouco da maionese em todo o fundo e nas laterais.",
+      "Faça as camadas na seguinte ordem: 4 bifes, o tomate em rodelas, a cebola em rodelas, os ovos fritos.",
+      "Coloque um pouco de sal em cima dos ovos.",
+      "Cubra com mussarela.",
+      "Cubra essa primeira parte com mais uma camada de pão, e passe mais maionese nessa camada.",
+      "Mais uma camada com o restante dos bifes, presunto, mussarela e o bacon frito.",
+      "Feche com mais uma camada de pão.",
+      "Derreta a manteiga e pincele por todo o pão.",
+      "Leve ao forno médio por aproximadamente 20 minutos, ou até dourar o pão.",
+      "Ao tirar do forno, passe mais uma camada de maionese, e salpique com a batata palha.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305727-hamburgao.html"
+}

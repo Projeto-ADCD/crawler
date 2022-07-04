@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CALDO DE GALINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de osso do peito ou coxas de frango sem pele",
+      "2 tomates",
+      "1 cebola",
+      "1 ramo de alecrim",
+      "1 ramo de tomilho",
+      "1 folha de louro",
+      "1 colher (sopa) de açafrão em pó",
+      "1 colher (chá) de pimenta-do-reino",
+      "1 talo de aipo",
+      "1 alho-poró",
+      "1 cenoura",
+      "4 litros de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela e deixe ferver.",
+      "Diminua o fogo, tampe e deixe apurar por pelo menos 1 hora.",
+      "Coe e utilize."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304688-caldo-de-galinha.html"
+}

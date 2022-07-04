@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA PARAENSE DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de farofa tradicional de 500 g",
+      "300 g de charque",
+      "1/2 maço de jambu cortado fininho",
+      "1/4 de azeite de oliva",
+      "1 cebola pequena em rodelas finas",
+      "2 dentes de alho",
+      "1 colher (sopa) de cheiro-verde",
+      "1 folha cortada fina de chicória",
+      "1/2 colher (sobremesa) de colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem o charque e coloque na panela de pressão por 30 minutos",
+      "Triture o charque e coloque para fritar a cebola no azeite",
+      "Em seguida, o alho e logo após o charque",
+      "Junte o jambú com a chicória",
+      "Deixe refogar até o jambú escurecer",
+      "Coloque o colorau e mexa",
+      "Junte a farofa e o cheiro-verde e baixe o fogo",
+      "Mexa bastante para os ingredientes se misturarem à farofa durante uns 10 minutos",
+      "E se delicie!",
+      "A farofa acompanha todos os pratos paraenses como pato ou frango no tucupi, maniçoba, peixe assado na brasa e um delicioso churrasco."
+    ]
+  },
+  "tempo_de_preparo": "-40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ROSEMARY DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303544-farofa-paraense-deliciosa.html"
+}

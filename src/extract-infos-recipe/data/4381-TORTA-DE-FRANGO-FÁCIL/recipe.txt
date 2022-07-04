@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE FRANGO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo sem fermento",
+      "2 xícaras de leite integral",
+      "1 xícara de óleo",
+      "3 ovos peneirados",
+      "1 colher (sopa) rasa de fermento em pó",
+      "Medida do molho do frango do recheio",
+      "Um pouco de manteiga e farinha de trigo para untar a forma"
+    ],
+    "RECHEIO:": [
+      "500g de peito de frango cozido temperado e desfiado (reserve o molho)",
+      "1 sachê ou lata de ervilha e milho",
+      "1/2 metade de um maço de coentro picado",
+      "1 tomate média picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligue o forno para pré-aquecer a 180°C.",
+      "Em uma tijela adicione os ovos, o óleo, a farinha, leite e molho de frango e mexa até ficar homogêneo. Caso não tenha batedeira ou liquidificador, vá adicionando farinha e leite aos poucos e mexendo até incorporar tudo em uma massa homogênea.",
+      "Por último, adicione o fermento e mexa mais um pouco.",
+      "Em uma vasilha, coloque o frango desfiado, ervilha e milho, coentro e o tomate e misture.",
+      "Unte a forma passando uma fina camada de margarina ou manteiga e depois polvilhe com um pouco de farinha de trigo e bata nas bordas da forma para cair o excesso de farinha de trigo.",
+      "Despeje na forma metade da massa e coloque o frango de forma que cubra toda a massa e termine de despejar o resto da massa por cima cobrindo todo o frango.",
+      "Leve a forma ao forno para assar por 40 minutos a 200°C.",
+      "Espere esfriar um pouco, desenforme e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A torta pode ser feita com qualquer outro recheio: calabresa, requeijão, etc."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301268-torta-de-frango-facil.html"
+}

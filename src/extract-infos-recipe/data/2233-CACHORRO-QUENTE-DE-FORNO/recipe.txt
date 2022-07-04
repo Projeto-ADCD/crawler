@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CACHORRO QUENTE DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha sem fermento",
+      "3 ovos",
+      "2 xícaras de leite",
+      "1/2 colher de (sobremesa) sal",
+      "1 colher de fermento",
+      "OBS: 1 colher de orégano (Opcional)",
+      "Recheio",
+      "8 salsichas",
+      "1/2 pacote de molho de tomate",
+      "2 dentes de alho",
+      "1 pitada de sal",
+      "1/4 de cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata primeiro os líquidos",
+      "Depois a farinha o sal e todo o resto, por ultimo o fermento.",
+      "Bata bem no liquidificador",
+      "Recheio",
+      "Primeiro corte as salsichas em fatias",
+      "Depois em uma panela soque o alho \"cebola\" acrescente um fio de óleo",
+      "Deixe dourar",
+      "Acrescente o sal e o molho de tomate",
+      "Depois as salsichas deixe ferver",
+      "Final",
+      "Unte uma forma com margarina e farinha",
+      "Depois coloque metade da massa na forma depois todo o recheio e jogue o resto da massa por cima",
+      "Leve ao forno em 210º C",
+      "Deixe por aproximadamente 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEH GACHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305656-cachorro-quente-de-forno.html"
+}

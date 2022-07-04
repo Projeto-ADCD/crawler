@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE CASEIRO COM GELATINA E LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "1 caixa de gelatina sabor de sua preferência",
+      "corante da cor desejada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça a gelatina como indica o rótulo, mas coloque-a no liquidificador",
+      "Bata com todos os outros ingredientes, inclusive o corante",
+      "Deixe na geladeira até ficar na textura de sorvete",
+      "Está pronto é só servir."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELIANE BROSEGHINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302822-sorvete-caseiro-com-gelatina-e-leite-condensado.html"
+}

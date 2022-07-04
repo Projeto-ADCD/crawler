@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOCOTÓ COM FEIJÃO BRANCO GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 mocotó médio",
+      "4 batatas",
+      "4 cenouras",
+      "2 linguiças calabresa",
+      "300 g de costelinha salgada",
+      "1 paio",
+      "500 g de feijão branco",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o mocotó e coloque na pressão por pelo menos 40 minutos",
+      "Após 40 minutos, retire o mocotó do osso e pique bem fininho.",
+      "Não escorra o caldo, nele mesmo, junte os pedaços picados com as carnes e o feijão, leve à pressão por mais 30 minutos",
+      "Após cozinhar, retire a pressão, junte as batatas e cenouras e cozinhe sem pressão.",
+      "Em outra panela, junte alho e cebola a gosto e refogue.",
+      "Após refogar, junte à panela do mocotó.",
+      "Por último, junte o cheiro-verde e acerte o sal.",
+      "Sirva com arroz branco e uma farofinha."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUCAS GALVÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302871-mocoto-com-feijao-branco-gostoso.html"
+}

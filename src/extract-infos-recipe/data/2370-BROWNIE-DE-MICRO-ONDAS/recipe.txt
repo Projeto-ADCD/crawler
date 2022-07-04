@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BROWNIE DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de manteiga",
+      "4 colheres (sopa) de leite",
+      "4 colheres (sopa) de achocolatado",
+      "4 colheres (sopa) de leite condensado",
+      "4 colheres (sopa) de farinha de trigo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo delicadamente em um recipiente que possa ir para o micro-ondas.",
+      "Leve para o micro-ondas por 2 minutos e fique atento.",
+      "Se precisar, coloque mais 1 minuto."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305371-brownie-de-micro-ondas.html"
+}

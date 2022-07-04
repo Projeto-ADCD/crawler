@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PASTEL FRITO PARA 100 PESSOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 kg de farinha",
+      "9 copos (americano) cheio de água",
+      "1 e 1/2 copo (americano) de cachaça ",
+      "1 e 1/2 copo (americano) de óleo ",
+      "2 colheres (sopa) de sal "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes em uma bacia e misture bem",
+      "Após misturar, deixa descansar por mais 40 minutos",
+      "Depois desse tempo, abra a massa em um cilindro",
+      "Essa massa fica um pouco mais seca, por isso lhe dá um pastel mais seco e saboroso",
+      "Corte em formato de pastel e recheie como quiser ",
+      "Frite em um óleo a mais ou menos 180°",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "HELTON CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303495-pastel-frito-para-100-pessoas.html"
+}

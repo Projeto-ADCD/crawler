@@ -1,0 +1,19 @@
+{
+  "nome_receita": "CAIPIRINHA TIPO YAKULT",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de suco em pó sabor baunilha com limão",
+      "400 ml de vodka",
+      "1 litro de agua"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e sirva à vontade."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALEX FLORIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301171-caipirinha-tipo-yakult.html"
+}

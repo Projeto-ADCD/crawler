@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FILÉ DE MERLUZA CREMOSO AO FORNO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de filé de merluza",
+      "1 pacote de creme de cebola",
+      "1 caixa de creme de leite",
+      "300 g de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário espalhe os filés de merluza ",
+      "Cubra com creme de cebola e em seguida cubra com creme de leite",
+      "Por último cubra com a mussarela",
+      "Leve ao forno com papel-alumínio por 15 minutos (mais ou menos) e sem papel-alumínio para dourar por 5 a 10 minutos",
+      "Só servir com arroz branco e uma salada de folhas, fica perfeito"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "VIVIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304872-file-de-merluza-cremoso-ao-forno-superfacil.html"
+}

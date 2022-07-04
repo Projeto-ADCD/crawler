@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE LIQUIDIFICADOR DE CARNE MOÍDA COM REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de trigo",
+      "3/4 de xícara de óleo ",
+      "1 xícara de leite",
+      "1 xícara de queijo ralado",
+      "3 ovos",
+      "1 colher (café) de sal",
+      "1 colher (sopa) de fermento",
+      "1 cebola pequena",
+      "Recheio",
+      "1 lata de creme de leite ou requeijão",
+      "carne moída cozida à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes da massa no liquidificador",
+      "Despeje metade da massa em uma forma untada",
+      "Depois despeje a carne moída por cima e o creme de leite",
+      "Em seguida espalhe o resto da massa que ficou no liquidificador, leve ao forno e asse até dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MERIÉLI ALBERGARDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302469-torta-de-liquidificador-de-carne-moida-com-requeijao.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE BACALHAU REFRESCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa tradicional ",
+      "1 cebola roxa média picada",
+      "300 g de bacalhau dessalgado e desfiado",
+      "1 xícara de azeite",
+      "100 g de azeitonas pretas sem caroço (inteiras ou picadas)",
+      "100 g de pimenta biquinho picadinhas",
+      "100 g de palmito picadinho",
+      "5 ovos cozidos e picados",
+      "salsinha e cebolinhas picadinha a gosto",
+      "raspas de limão, pimenta e sal a gosto",
+      "1 pepino grande ralado em ralo grosso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma panela grande e aqueça o azeite em fogo baixo (não deixe ferver ou ficar muito quente)",
+      "Acrescente o bacalhau, misture e refogue rapidamente por 2 minutos em fogo baixo, somente para misturar.",
+      "Desligue o fogo e aguarde 2 minutos.",
+      "Acrescente a farofa tradicional e misture bem.",
+      "Acrescente as azeitonas, a pimenta biquinho, o palmito e os ovos e misture com delicadeza.",
+      "Acrescente o pepino, a cebola roxa, a salsinha e a cebolinha e misture mais um pouco.",
+      "Acrescente sal e pimenta e misture.",
+      "Finalize com raspas de limão (uso o siciliano) e sirva com salada de folhas verdes (misturo alface crespa, rúcula e agrião)"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELAINE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303988-farofa-de-bacalhau-refrescante.html"
+}

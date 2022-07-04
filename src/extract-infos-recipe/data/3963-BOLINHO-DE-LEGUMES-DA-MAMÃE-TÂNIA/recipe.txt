@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLINHO DE LEGUMES DA MAMÃE TÂNIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 cenoura picada",
+      "3 vagens picadas",
+      "1 batata média picada",
+      "5 colheres de farinha de trigo",
+      "óleo para fritar",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os legumes picados, quando prontos escorra e reserve",
+      "Misture, em uma vasilha, o ovo e os legumes, e vá acrescentando a farinha aos poucos, até formar um creme",
+      "Tempere com sal",
+      "Com o óleo quente, coloque uma colher de sopa da mistura para fritar",
+      "Frite dos dois lados",
+      "Frite os demais bolinhos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LIVIA CANAVEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302290-bolinho-de-legumes-da-mamae-tania.html"
+}

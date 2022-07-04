@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BISTECA DE PORCO COM CREME DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bisteca",
+      "2 colheres de creme de cebola",
+      "1 cebola grande picada",
+      "3 dentes de alho picados",
+      "2 colheres (sopa) de ketchup",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "azeite a gosto",
+      "suco de 1 limão",
+      "salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o ketchup, o alho, o creme de cebola, o suco de limão, a pimenta-do-reino e o sal.",
+      "Com essa mistura, tempere as bistecas com a ajuda de um pincel.",
+      "Em uma panela de pressão, apenas sele as bistecas usando azeite.",
+      "Retire as bistecas e na mesma panela despeje as cebolas, de forma a cobrir o fundo.",
+      "Acrescente um pouco mais de azeite e as bistecas por cima.",
+      "Salpique a salsinha e feche a panela.",
+      "Deixe na pressão de 15 a 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JÉSSICA WAZ SIMON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305807-bisteca-de-porco-com-creme-de-cebola.html"
+}

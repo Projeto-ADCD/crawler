@@ -1,0 +1,45 @@
+{
+  "nome_receita": "KIBE ASSADO DE ESPINAFRE COM AMÊNDOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "540 g de Carne Moída do Futuro (2 caixas)",
+      "270 g de trigo para kibe",
+      "3/4 de xícara de amêndoas cruas em lâminas",
+      "1/2 molho de folhas de hortelã finamente fatiadas",
+      "1 molho de folhas de espinafre",
+      "1 cebola roxa média em cubos pequenos",
+      "4 dentes de alho",
+      "1/2 colher (chá) de cominho em pó",
+      "1 colher (chá) de pimenta síria",
+      "1 colher (chá) de alho em pó",
+      "2 colheres (sopa) de azeite",
+      "1/2 xícara de cebolinha picadinha",
+      "suco de 1 limão",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cubra o trigo para kibe com água quente e deixe de molho por 30 minutos.",
+      "Após o molho, escorra toda a água e esprema bem o trigo com um pano seco até que fique bem seco, reserve.",
+      "Em uma frigideira em fogo médio, refogue em metade do azeite o alho e a cebola até começar a dourar",
+      "Inclua 2/3 das amêndoas e logo após 270 g de Carne Moída do Futuro (1 pacote).",
+      "Tempere com o cominho, a pimenta síria, o sal e a pimenta-do-reino.",
+      "Quando a carne começar a secar, adicione as folhas de espinafre e o cheiro-verde",
+      "Tampe a frigideira e desligue o fogo.",
+      "Esse será o recheio do kibe, reserve.",
+      "Em uma tigela, adicione o trigo para kibe, o segundo pacote de Carne Moída do Futuro, o hortelã",
+      "fresco picadinho, alho em pó, o suco de limão, sal e pimenta.",
+      "Misture bem até obter uma massa homogênea.",
+      "Divida essa massa em duas partes e reserve.",
+      "Pincele azeite em uma assadeira de 30x30 e cubra todo o fundo e as laterais com uma das metades da massa.",
+      "Adicione o recheio de carne espinafre e amêndoas e feche o kibe com a outra metade da massa.",
+      "Faça cortes longitudinais em toda a massa, já formando as fatias",
+      "Cubra cada fatia com um montinho do restante de amêndoas, regue com azeite e leve ao forno preaquecido a 180° C por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "85 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304741-kibe-assado-de-espinafre-com-amendoas.html"
+}

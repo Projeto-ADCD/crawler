@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PIZZA DE LIQUIDIFICADOR FÁCIL",
+  "ingredientes": {
+    "MASSA:": [
+      "1 ovo",
+      "1 e 1/2 xícara de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1 colher (chá) de açúcar",
+      "1 colher (sopa) de margarina",
+      "1 colher (chá) de fermento",
+      "1 xícara de leite"
+    ],
+    "RECHEIO:": [
+      "200 gramas de mussarela",
+      "1 tomate em rodelas",
+      "Orégano",
+      "Azeitona",
+      "1/2 pacote de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, a farinha de trigo, o leite, o sal, o açúcar, o fermento, a manteiga no liquidificador , até formar uma massa homogênea.",
+      "Em uma assadeira untada com manteiga despeje a massa e leve ao forno pré aquecido na temperatura média, entre 180 à 205º por 20 minutos.",
+      "Retire e coloque o molho de tomate e espalhe, logo depois cubra com a mussarela, o orégano, o tomate, a azeitona e leve ao forno novamente até gratinar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANDRESSA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301356-pizza-de-liquidificador-facil.html"
+}

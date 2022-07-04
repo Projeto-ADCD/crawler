@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MOLHO RANCHITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "2 colheres (sopa) maionese",
+      "1/2 suco de limão",
+      "1 dente de alho",
+      "1 e 1/2 colher de cebolinha",
+      "1 colher (café) páprica",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "chips a gosto",
+      "bacon frito a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte um dente de alho em pequenos pedaços",
+      "Corte a cebolinha em pequenos pedaços",
+      "Coloque em uma tigela o creme de leite e as duas colheres de maionese",
+      "Adicione a salsinha e o alho ao molho.",
+      "Misture bem.",
+      "Despeje junto a salada com chips e bacon"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FELIPE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305413-molho-ranchito.html"
+}

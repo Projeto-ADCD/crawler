@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FILÉ DE FRANGO AO MOLHO SHOYU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de peito de frango",
+      "alho",
+      "tempero pronto em pó",
+      "sal",
+      "óleo",
+      "cebola",
+      "molho shoyu",
+      "queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe o filé de frango corte em cubos pequenos e tempere com sal, alho e o tempeiro pronto.",
+      "Corte a cebola em rodelas. Coloque um fio de óleo na frigideira, adicione o frango e a cebola.",
+      "Tampe a panela, e deixe cozinhar (não adicione água).",
+      "Quando o frango estiver molinho, retire a tampa e deixe secar totalmente a água.",
+      "Adicione o molho shoyu misture e deixe ferver.",
+      "Retire da panela e salpique o queijo ralado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "KELLY ANDRADEE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299935-file-de-frango-ao-molho-shoyu.html"
+}

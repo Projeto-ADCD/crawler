@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA COM MAÇÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de mandioca",
+      "5 colheres de azeite",
+      "100 g de bacon picado",
+      "4 maçãs com casca picadas",
+      "100 g de fígado de galinha picado",
+      "1 pires de salsinha",
+      "1 pires de cebola picada",
+      "1 pires de coentro picado (opcional)",
+      "2 colher de café e tempero baiano",
+      "1 pimentão vermelho picado",
+      "1 colher (chá) de orégano",
+      "2 dentes de alho picado",
+      "1 sachê de tempero pronto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e o fígado de galinha no óleo.",
+      "Após a fritura é só acrescentar os demais ingredientes.",
+      "Depois de refogar os demais ingredientes é só acrescentar a farinha de mandioca e o sachê de tempero"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "MARINES LEMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303995-farofa-com-maca.html"
+}

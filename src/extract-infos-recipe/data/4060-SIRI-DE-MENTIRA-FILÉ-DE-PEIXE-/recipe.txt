@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SIRI DE MENTIRA (FILÉ DE PEIXE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de tilápia ou merluza",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 tomate",
+      "1 cebola",
+      "azeite",
+      "1 lata de creme de leite",
+      "1 copo de leite",
+      "1 colher (sopa) amido de milho",
+      "queijo ralado de saquinho",
+      "alho, sal a gosto",
+      "limão pra temperar os files"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descongele os filés e tempere com limão, alho e sal",
+      "Coloque azeite numa panela e frite os filés até desmanchar, acrescentando azeite e retirando os espinhos",
+      "Vá retirando a água e acrescentando azeite.",
+      "Acrescente a cebola, frite mais um pouco, coloque os pimentões cortados bem miudinhos e o tomate também (sem pele e sem semente, cortado em cubinhos).",
+      "Frite bem e, se estiver muito seco, acrescente azeite.",
+      "Misture o amido de milho no copo com leite e acrescente à panela.",
+      "Mexa bastante pra cozinhar bem junto com peixe e demais ingredientes. Quando estiver bem cozido, coloque o creme de leite, misture bem e desligue o fogo.",
+      "Experimente e, se for necessário, corrija o sal.",
+      "Unte bem um refratário com azeite, coloque a massa e cubra com bastante queijo ralado.",
+      "Leve ao forno preaquecido por cerca de 30 minutos. Se estiver bem gratinado, desligue o forno e deixe uns minutos lá dentro pra secar um pouco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301998-siri-de-mentira-file-de-peixe.html"
+}

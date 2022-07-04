@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BERINJELA À PARMEGIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 berinjela média",
+      "2 ovos",
+      "1 xícara de farinha de trigo",
+      "1 e 1/2 xícara de farinha de rosca - coloque-a enquanto empana para não desperdiçar",
+      "Óleo",
+      "200g de mussarela (8 a 9 fatias) ou a quantidade que preferir",
+      "340g (1 sachê) de molho de tomate",
+      "1 dente de alho moído",
+      "Pimenta-do-reino a gosto",
+      "Sal a gosto",
+      "Tempero de ervas finas a gosto",
+      "Pimenta calabresa a gosto",
+      "Chimichurri a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as farinhas em potes diferentes para empanar.",
+      "Bata os ovos com os temperos, sal e alho num pote à parte.",
+      "Corte a berinjela em rodelas ou em fatias transversais de espessura média.",
+      "Empane nessa sequência: passe no ovo, farinha de trigo, ovo novamente e farinha de rosca.",
+      "Frite em óleo quente até dourar (dica: tire uma por uma com o garfo, espere o óleo em excesso pingar e deixe num prato com papel toalha).",
+      "Enquanto frita, aqueça o forno a 180º.",
+      "Numa forma retangular, coloque lado a lado as berinjelas já fritas..",
+      "Despeje o molho (refogue com alho antes se quiser) em cima das fatias.",
+      "Coloque as fatias de mussarela, uma em cada fatia de berinjela.",
+      "Leve ao forno para apenas derreter o queijo (de 10 a 20 minutos)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende 8 fatias transversais para 8 fatias de queijo e fica com sabor semelhante a frango à parmegiana."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LAURA GRENZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301661-berinjela-a-parmegiana.html"
+}

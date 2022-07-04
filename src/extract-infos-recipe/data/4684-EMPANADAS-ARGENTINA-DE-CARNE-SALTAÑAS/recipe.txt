@@ -1,0 +1,46 @@
+{
+  "nome_receita": "EMPANADAS ARGENTINA DE CARNE SALTAÑAS",
+  "ingredientes": {
+    "MASSA": [
+      "500 g de farinha de trigo",
+      "115 g de banha de porco ou margarina",
+      "1 xícara de água (240 ml)",
+      "10 gramas de sal"
+    ],
+    "RECHEIO DE CARNE": [
+      "650 gramas de carne moida (acém, paleta ou patinho)",
+      "1 cebola média picada (aproximadamente 40 g)",
+      "3 Dentes de alho picado (10 g)",
+      "1/2 colher (chá) de pimenta-do-reino (1 g)",
+      "50 g de pimentão vermelho picado",
+      "2 colheres (chá) de cominho em pó (3 g)",
+      "cheiro verde picado a gosto",
+      "2 ovos cozidos",
+      "100 g de azeitonas preta ou verde",
+      "sal a gosto",
+      "1 colher (sopa) de manteiga ou margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, coloque a xícara de água bem quente e, logo em seguida, acrescente a banha de porco e mexa até se dissolver na água.",
+      "Depois que dissolver, coloque o sal e mexa, e por final, a farinha de trigo.",
+      "Mexa a massa com as mãos até formar um massa lisa e que desgrude das mãos.",
+      "Coloque a massa no plástico filme, bem embalado e coloque na geladeira aproximadamente 4 horas ou 24 horas.",
+      "Para o recheio, coloque manteiga, cebola e alho em uma panela e deixe dourar.",
+      "Em seguida, acrescente a carne moida e o pimentão, e refogue até estar com a carne cozida.",
+      "Em seguida acrescente a pimenta-do-reino, sal, cominho, azeitonas, e deixe até água da carne secar.",
+      "Ao esfriar o recheio, acrescente os dois ovos cozidos bem picadinhos e mexa até ficar bem misturado no recheio.",
+      "Abra a massa em formato redondo, aproximadamente 15 cm de diâmetro, bem fina e coloque duas colheres de sopa do recheio de carne refogado.",
+      "Feche na mão ou no garfo e pincelar com ovos e um pouco de leite.",
+      "Polvilhe com pouco de açúcar em cima da empanadas, ja pincelado com ovos, para deixar o aspecto de queimadinho.",
+      "Coloque as empanadas em assadeiras com pouco de óleo.",
+      "Coloque no forno pré aquecido a 250° graus por 15 minutos, ou até dourar.",
+      "Sirva com molho chimi churri pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "FERNANDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300429-empanadas-argentina-de-carne-saltanas.html"
+}

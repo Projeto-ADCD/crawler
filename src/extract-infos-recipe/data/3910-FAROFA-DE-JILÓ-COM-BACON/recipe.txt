@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA DE JILÓ COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 Jilós cortados em cubinhos",
+      "aproximadamente 200 g de bacon cortado em cubos (o que tem mais carne que gordura)",
+      "1 colher (sopa) de óleo para fritar o bacon",
+      "temperinhos verde a gosto",
+      "farinha o suficiente para fazer a farofa (quanto mais fina for a farinha, mais saborosa fica a farofa)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira grande ou panela, frite o bacon até que fique douradinho.",
+      "Retire o bacon e reserve-o.",
+      "Na gordura do bacon, frite os jilós (náo há necessidade de fritar até ficar dourado)",
+      "Coloque a farinha aos poucoss até que fique uma farofa ao seu gosto.",
+      "Coloque então os temperinhos verdes e o sal a gosto.",
+      "Finalmente coloque o bacon que você reservou e misture delicadamente",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "NOTA: se você quiser incrementar essa receita, pode colocar linguiça fritinha e cortada em cubinhos, ovos mexidos, carne de porco assada e cortada também em cubinhos, etc. "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302397-farofa-de-jilo-com-bacon.html"
+}

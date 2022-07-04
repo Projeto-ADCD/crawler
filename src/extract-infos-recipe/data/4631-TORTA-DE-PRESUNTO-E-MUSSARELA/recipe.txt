@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE PRESUNTO E MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 tomates",
+      "3 ovos",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "4 xícaras de leite",
+      "3 colheres de fermento em pó",
+      "1 e 1/2 xícara de amido de milho (Maizena)",
+      "2 xícaras de óleo"
+    ],
+    "RECHEIO": [
+      "300. g de presunto",
+      "300 g de mussarela",
+      "1/2 copo de requeijão",
+      "1/2 colher (sopa) de orégano",
+      "3 pitadas de sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao liquidificador o leite, tomate, óleo e os ovos.",
+      "Em seguida, adicione a farinha de trigo e a maizena e misture bem até a massa ficar",
+      "macia."
+    ],
+    "RECHEIO": [
+      "Depois, em outra tigela, leve o presunto e mussarela picados e adicione o requeijão, orégano e o sal a gosto.",
+      "Unte a forma (grande) e preencha apenas usando a metade da massa e adicione o recheio.",
+      "Depois, cubra utilizando o restante da massa.",
+      "Em forno preaquecido, asse a torta por 30 minutos a 180º."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "TYAGO BENITES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300694-torta-de-presunto-e-mussarela.html"
+}

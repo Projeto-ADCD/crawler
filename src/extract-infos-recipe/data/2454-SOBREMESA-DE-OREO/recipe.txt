@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOBREMESA DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 unidades de biscoito oreo (ou um pacote de biscoito)",
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "suco de 4 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Moa os biscoitos.",
+      "Separe umas 3 colheres para usar depois.",
+      "O resto espalhe num refratário pequeno.",
+      "Reserve.",
+      "No liquidificador, bata o leite condensado, o suco de limão e o creme de leite até ficar com consistência de mousse.",
+      "Espalhe o mousse sobre o biscoito moído no refratário.",
+      "Por cima do mousse, espalhe o resto do biscoito moído.",
+      "Leve ao freezer por mais ou menos 1 hora.",
+      "Sirva gelado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAQUEL PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305177-sobremesa-de-oreo.html"
+}

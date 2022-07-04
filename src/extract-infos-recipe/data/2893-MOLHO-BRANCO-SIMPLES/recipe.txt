@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO BRANCO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de manteiga",
+      "1 cabeça de alho picada",
+      "1 cebola picada",
+      "2 copo de leite",
+      "3 colheres de amido ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga com a cebola e alho deixe doura.",
+      "Despeje o leite em seguida coloque a amido e o sal a seu gosto",
+      "Fique misturando até dá uma consistência.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DIEGO CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304207-molho-branco-simples.html"
+}

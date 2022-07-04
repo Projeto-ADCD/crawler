@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA SUPERCRIATIVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de linguiça fresca",
+      "1 kg de cebola",
+      "400 g de bacon",
+      "3 caixas de ovo de codorna",
+      "alho a gosto",
+      "alho poró a gosto",
+      "pimenta dedo de moça a gosto",
+      "1 ramo de coentro",
+      "1 kg de farinha temperada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite bem o bacon picadinho",
+      "Depois frite a linguíça (tire a pele da linguiça)",
+      "Na mesma panela, frite bem a cebola, o alho e o alho-poró",
+      "Acrescente a pimenta e depois a farinha",
+      "Frite em fogo baixo, desligue e acrescente os ovos de codorna e o coentro bem picadinho",
+      "Delícia."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "KATIA SOARES DA COSTA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303804-farofa-supercriativa.html"
+}

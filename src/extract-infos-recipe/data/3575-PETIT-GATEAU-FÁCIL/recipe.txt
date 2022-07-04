@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PETIT GATEAU FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de chocolate meio amargo",
+      "2 colheres (sopa) de manteiga sem sal",
+      "4 ovos inteiros",
+      "3 gemas",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misturar os ovos e açúcar até ficar homogêneo",
+      "Derreter o chocolate e a manteiga em banho-maria",
+      "Misturar o chocolate com os ovos e o açúcar até ficar homogêneo",
+      "Colocar em potinhos e levar ao forno pré aquecido por 10 minutos em 220°C"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HUGO HORTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303112-petit-gateau-facil.html"
+}

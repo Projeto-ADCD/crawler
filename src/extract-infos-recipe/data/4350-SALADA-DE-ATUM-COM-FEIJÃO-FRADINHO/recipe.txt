@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SALADA DE ATUM COM FEIJÃO FRADINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de atum em óleo",
+      "1 xícara de feijão fradinho cozido",
+      "1/2 cebola roxa",
+      "2 tomates",
+      "1/2 lata de milho",
+      "3 colheres (sopa) de cheiro-verde",
+      "1/2 limão",
+      "Sal a gosto",
+      "Pimenta-do-reino a gosto",
+      "1/2 xícara de manjericão",
+      "3 colheres (sopa) de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture todos os ingredientes. ",
+      "Tempere com sal, pimenta-do-reino, manjericão e azeite."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Confira em nosso blog outras 35 receitas simples e rápidas para o almoço."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301321-salada-de-atum-com-feijao-fradinho.html"
+}

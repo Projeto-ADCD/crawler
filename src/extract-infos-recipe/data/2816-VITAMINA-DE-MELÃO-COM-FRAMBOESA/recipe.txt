@@ -1,0 +1,22 @@
+{
+  "nome_receita": "VITAMINA DE MELÃO COM FRAMBOESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fatia fina de melão",
+      "6 framboesas",
+      "1/4 de maçã",
+      "1 xícara (chá) de leite",
+      "4 colheres (sopa) de neston 3 cereais"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304366-vitamina-de-melao-com-framboesa.html"
+}

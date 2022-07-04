@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MOCOTÓ COM MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mocotó",
+      "1/2 kg de mandioca",
+      "1 colher de colorau",
+      "4 folhas de louro",
+      "1 ramo de coentro",
+      "1 colher (sopa) de sal",
+      "2 sachês de tempero pra carne",
+      "3 litros de água",
+      "3 dentes de alho",
+      "1 cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o alho e frite no óleo até dourar, aí acrescente a cebola refogue uns 2 minutinhos ",
+      "Coloque a água e os temperos (menos o coentro)",
+      "Acrescente o mocotó e a mandioca juntos, o intuito é que ela derreta mesmo",
+      "Deixe cozinhar por mais ou menos 1 hora e olhe se o mocotó está no ponto",
+      "Ao abrir a panela, se notar que ainda esté duro acrescente mais 1 litro de água e leve ao fogo por mais 1 hora ",
+      "Após passado o tempo, abra a panela, confira e se estiver boa acrescente o coentro e sirva",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: usei panela de 7 litros, em panela menor não dá"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ARIANA BATISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303254-mocoto-com-mandioca.html"
+}

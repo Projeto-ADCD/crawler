@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DE JERIMUM VERMELHO COM FAROFA TRADICIONAL YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farofa tradicional Yoki",
+      "500 g de jerimum vermelho",
+      "1 cebola média",
+      "2 colheres (sopa) de margarina",
+      "1,5 litros de água",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o jerimum, corte em pedaços e cozinhe na água com sal.",
+      "Depois de cozido, passe em uma peneira. ",
+      "Rale a cebola e, em uma panela, refogue-a junto com a margarina em fogo baixo. ",
+      "Acrescente o jerimum já espremido e amaciado e misture.",
+      "E por último acrescente a farofa tradicional Yoki e misture bem, está pronta a farofa de jerimum.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Rizerlane Lima da Silva\nAcompanhamento para degustar a farofa de Jerimum vermelho: arroz à grega, purê de batata, ave natalina e suco à sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303783-farofa-de-jerimum-vermelho-com-farofa-tradicional-yoki.html"
+}

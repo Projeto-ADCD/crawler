@@ -1,0 +1,21 @@
+{
+  "nome_receita": "AMARULA CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "3 colheres (sopa) de chocolate em pó",
+      "conhaque a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador e despeje em uma garrafa",
+      "Leve à geladeira por 3 horas"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CARINA ABREU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304333-amarula-caseira.html"
+}

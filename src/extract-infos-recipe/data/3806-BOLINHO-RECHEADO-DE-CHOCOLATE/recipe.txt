@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLINHO RECHEADO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "3 colheres (sopa) de óleo",
+      "3 colheres (sopa) de leite",
+      "1/2 colher (chá) de essência de baunilha",
+      "2/3 de xícara de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "1 colher (chá) de fermento em pó",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) de chocolate em pó",
+      "20 g de manteiga",
+      "1 lata de creme de leite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata a clara em neve.",
+      "Em uma tigela, misture a gema, o óleo, o leite e a essência de baunilha. ",
+      "Acrescente a clara em neve e mexa bem. ",
+      "Adicione a farinha de trigo e o açúcar e misture até formar uma massa homogênea. ",
+      "Por fim, acrescente o fermento e misture para incorporar bem; reserve.",
+      "Recheio",
+      "Em uma panela, misture o leite condensado, o chocolate em pó, a manteiga e o creme de leite.",
+      "Mexa até ponto de brigadeiro mole. ",
+      "Montagem",
+      "Coloque um pouco da massa na crepeira e deixe assar.",
+      "Retire os bolinhos e recheie!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302608-bolinho-recheado-de-chocolate.html"
+}

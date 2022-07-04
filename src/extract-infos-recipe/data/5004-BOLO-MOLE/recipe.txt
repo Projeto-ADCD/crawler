@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO MOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 lata de leite condensado",
+      "2 colheres de margarina",
+      "2 xícaras de farinha de trigo sem fermento",
+      "1/2 xícara de açúcar",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite os ovos e o leite condensado na batedeira, bata por dois minutos.",
+      "Acrescente os demais ingredientes e bata por mais 5 minutos.",
+      "Unte a forma com margarina e farinha de trigo.",
+      "Asse o bolo por 1 hora, leve a geladeira por 30 minutos antes de virar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANA CLÁUDIA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299725-bolo-mole.html"
+}

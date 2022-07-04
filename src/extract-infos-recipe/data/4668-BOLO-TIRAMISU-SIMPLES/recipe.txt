@@ -1,0 +1,67 @@
+{
+  "nome_receita": "BOLO TIRAMISU SIMPLES",
+  "ingredientes": {
+    "MASSA (BOLO CAFÉ E COCOLATE)": [
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de cacau em pó",
+      "2 xícaras de açúcar",
+      "2 colheres sopa de manteiga ou margarina",
+      "1 xícara de café coado",
+      "2 ovos",
+      "1 colher (café) de fermento"
+    ],
+    "RECHEIO (CREME DE CAFÉ)": [
+      "1 lata de leite condensado",
+      "1 colher de manteiga",
+      "1 lata de creme de leite",
+      "1/2 lata de café coado (ou substitua por café solúvel ao seu gosto, vá provando para sentir se o sabor lhe agrada)",
+      "1 colher de amido de milho"
+    ],
+    "COBERTURA (CREME DE NATA)": [
+      "250g de nata gelada",
+      "1 ou 2 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "MASSA (BOLO CAFÉ E COCOLATE)": [
+      "Em uma panela, misture o café, a manteiga, o cacau, 1 xícara de açúcar e misture até a manteiga derreter bem e a mistura ficar homogênea. Reserve.",
+      "Em uma vasilha, bata os ovos com o restante do açúcar até ficar um creme bem aerado (irá triplicar de volume).",
+      "Delicadamente, misture o conteúdo da panela na vasilha. Depois, misture a farinha peneirada aos poucos e por último o fermento.",
+      "A massa ficará aerada e com bolhas.",
+      "Unte e enfarinhe uma forma redonda, asse em forno médio 180 ou 200º por cerca de 30min",
+      "Espere esfriar, desenforme e com uma linha ou fio dental corte o bolo ao meio. Reserve na geladeira.",
+      "Obs: o topo do bolo ficará açucarado e dará à crocância ao \"prato\". No momento de montar, essa parte deve ficar por baixo, justaposta ao recipiente onde montará o bolo."
+    ],
+    "RECHEIO (CREME DE CAFÉ)": [
+      "Dilua o amido e reserve.",
+      "Na panela, em fogo baixo, misture todos os ingedientes até homogeneizar e adicione o amido. Mexa sempre.",
+      "Pode aumentar um pouco o fogo nesta etapa e depois que começar a soltar da panela, mexa mais uns 3 minutos.",
+      "Esfrie em uma vasilha com gelo mexendo bem o creme. Esse processo deixa mais cremoso e evita criar película.",
+      "Há também quem cubra com filme plástico mas eu evito o uso de plásticos em casa então não recomendo.",
+      "Reserve na geladeira.",
+      "Obs: esse processo pode ser a frio. Substitua o amido por gelatina incolor, porém o aspecto do recheio ficará mais firme que cremoso."
+    ],
+    "COBERTURA (CREME DE NATA)": [
+      "A cidade onde moro é quente, por isso faço o processo descrito abaixo:",
+      "Deixe a vasilha e o batedor no refrigerados por 5 à 10 minutos.",
+      "Em uma vasila maior, coloque algumas pedras de gelo (ela irá manter a temperatura da vasila onde será batida a nata).",
+      "Acomode a vasilha menor sobre a maior e despeje a nata e o açúcar.",
+      "Bata em velocidade baixa até firmar. Cuidado para não virar manteiga.",
+      "Quando endurecer, vá parando e olhando o ponto. Existem alguns vídeos na internet que mostram o ponto ideal.",
+      "Despeje esse creme em um bico de confeitar e reserve na geladeira."
+    ],
+    "MONTAGEM": [
+      "Com todos os itens refrigerados, pode-se iniciar a montagem.",
+      "Despeje o recheio e insira a parte de cima do bolo.",
+      "Com o bico de confeitar, pode fazer a decoração que desejar.",
+      "Peneire cacau em pó no topo se desejar. Chocolate ralado também fica muito bom."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: coma no dia segunte ou aguarde 8 horas, pois o sabor estará mais apurado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "IVANA BASTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300484-bolo-tiramisu-simples.html"
+}

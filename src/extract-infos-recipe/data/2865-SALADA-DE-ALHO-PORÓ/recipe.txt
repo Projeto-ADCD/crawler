@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SALADA DE ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 maçãs verdes",
+      "1 pimentão vermelho",
+      "1 pimentão Amarelo",
+      "3 alhos poró",
+      "1 caixa de ovos de codorna",
+      "1 Vidro de palmito",
+      "1 Vidro de alcaparras",
+      "1 Vidro de cogumelos",
+      "1 Vidro de milho em conservas em sabugo",
+      "1 vidro de pepino em conservas",
+      "1 vidro de cebolinhas em conservas",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "1 vidro de aspargos",
+      "passas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe os ovos de codorna, descasque e separe",
+      "Corte os alhos poró em rodelas bem finas",
+      "O palmito corte em rodelas",
+      "Os outros ingredientes pique em cubos incluindo a maçã, que não precisa descascar",
+      "Misture tudo com o molho a gosto",
+      "Pode ser quatro colheres (sopa) de maionese com 3 colheres de creme de leite",
+      "Misture bem e adicione na salada e mexa"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FELICIANO FRANCISCO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304256-salada-de-alho-poro.html"
+}

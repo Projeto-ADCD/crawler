@@ -1,0 +1,41 @@
+{
+  "nome_receita": "RISOTO DE PIRARUCU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pirarucu dessalgado",
+      "500 ml de leite de coco bem concentrado",
+      "500 ml de leite dissolvido em 500 ml de água",
+      "2 xícaras de arroz arbóreo (especifico pra fazer risoto)",
+      "2 cebolas picadas",
+      "2 colheres (sopa) de azeite",
+      "2 colheres de manteiga",
+      "200 ml de vinho branco seco",
+      "100 g de castanha do pará picadas",
+      "150 g de queijo do Marajó ralado",
+      "salsinha a gosto",
+      "1/2 xícara de queijo do Marajó ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe 3 panelas, sendo uma delas com água fervente, e coloque o pirarucu já dessalgado para escaldar durante 2 minutos.",
+      "Escorra e reserve.",
+      "Em uma segunda panela, coloque azeite, manteiga, cebola e deixe refogar.",
+      "Em uma terceira panela coloque o leite de coco dissolvido na água pra ferver.",
+      "Com os ingredientes refogados, adicione o arroz e em seguida o vinho. ",
+      "Aos poucos, acrescente o leite de coco que estava fervendo.",
+      "Coloque os pedaços de pirarucu no risoto e o resto do leite de coco e misture.",
+      "Não pare de mexer.",
+      "Adicione um pouco da salsinha, da castanha do pará, misture e deixe ferver.",
+      "Adicione o leite de coco concentrado e uma quantia do queijo do Marajó ralado.",
+      "Mexa sempre.",
+      "Para finalizar, acrescente o que sobrou do leite, do queijo do Marajó ralado, a salsinha e da castanha.",
+      "Por último, adicione 1 colher de manteiga para deixar o risoto cremoso.",
+      "Coloque em uma travessa com um toque de castanha por cima."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EMILLY SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302542-risoto-de-pirarucu.html"
+}

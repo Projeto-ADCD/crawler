@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CAMARÃO AO CREME FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de camarão limpo",
+      "2 pacotes de creme de cebola",
+      "1 creme de leite",
+      "1 copo de requeijão",
+      "1 colher de mostarda",
+      "1/2 xícara de vinho branco",
+      "pimenta-do-reino a gosto ",
+      "1 garrafa de leite de coco",
+      "2 pimentas dedo de moça picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o camarão com o creme de cebola e reserve",
+      "Misture tudo em um recipiente até que fique uma mistura homogênea.",
+      "Despeje a mistura por cima do camarão e leve ao forno por 40 minutos em forno médio preaquecido."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KATHELLEN DOS SANTOS NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301770-camarao-ao-creme-facil.html"
+}

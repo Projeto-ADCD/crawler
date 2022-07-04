@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLINHO DE MANDIOCA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de mandioca",
+      "1 ovo",
+      "1 colher (sopa) de maisena",
+      "cheiro-verde, salsa, cebolinha, cebola a gosto",
+      "1 colher (café) de alho desidratado ",
+      "200 g de mussarela",
+      "sal a gosto",
+      "farinha de mandioca para empanar",
+      "óleo para fritar ou Airfryer (temperatura média",
+      "cubos de mussarela para rechear"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a mandioca por 10 minutos",
+      "Escorra, amasse-a ainda quente, reserve",
+      "Depois de frio coloque o ovo, a maisena, o alho e o cheiro-verde",
+      "Misture tudo até que fique uma massa consistente",
+      "Faça os bolinhos na palma da mão recheie com a mussarela e por último empane com a farina ",
+      "Você poderá fritar em óleo com a temperatura média ou na Airfryer",
+      "Sirva com arroz ou simplesmente como petisco",
+      "Bom Apetite!!!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "HELENA GOMES COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304023-bolinho-de-mandioca-crocante.html"
+}

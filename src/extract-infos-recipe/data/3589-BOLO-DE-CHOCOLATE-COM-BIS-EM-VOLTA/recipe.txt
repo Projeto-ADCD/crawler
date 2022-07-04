@@ -1,0 +1,51 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM BIS EM VOLTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de chocolate em pó (ou achocolatado)",
+      "2 xícaras de açúcar, caso usar achocolatado só 1 e 1/2",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 colher de fermento em pó",
+      "Recheio",
+      "2 lata e 1/2 de leite condensado",
+      "1 creme de leite gelado",
+      "1 xícara de chocolate em pó ",
+      "1 colher de manteiga",
+      "Calda",
+      "1/2 de leite condensado",
+      "1/2 xícara de água",
+      "Para decorar",
+      "40 bis",
+      "100 g de granulado",
+      "200 g de chantilly"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira as claras a ponto de neve, ainda batendo vai jogando as gemas uma por uma até incorporar tudo",
+      "Jogue o açúcar de pouco em pouco, bata por mais 6 minutos ",
+      "Com um fuê misture a farinha e o chocolate peneirados de pouco em pouco incorporando com o leite e o óleo misturad, batendo de baixo pra cima para que a massa não fique pesada ",
+      "Coloque o fermento e mistura delicadamente",
+      "Coloque a massa na forma untada com manteiga somente na parte de baixo ",
+      "Deixe assar por 40 minutos ou até que comece a espalhar o cheiro e espete o palito e saia seco ",
+      "Recheio",
+      "Em uma panela colocar o leite condensado o creme de leite e a manteiga, misture sem parar em fogo médio até que comece a fervura",
+      "Assim que começar a ferver não pare de mexer por mais 5 minutos e desligue",
+      "Para montar o bolo",
+      "Deixe ele esfriar totamente para poder desenformar ele",
+      "Corta em 3 partes, com papel celofone cubra a forma toda e coloque a primeira camada do bolo",
+      "Molhe com a calda com uma colher e jogue a metade do recheio",
+      "Coloque a outra parte, molhe e jogue o resto do recheio",
+      "Jogue a última camada, molhe e feche com papel celofone",
+      "Deixa na geladeira por 10 minutos ",
+      "Bata o chantilly de chocolate, cubra o bolo todinho e coloque os bis em volta e o granulado em cima "
+    ]
+  },
+  "tempo_de_preparo": "160 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VIVIANE SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303092-bolo-de-chocolate-com-bis-em-volta.html"
+}

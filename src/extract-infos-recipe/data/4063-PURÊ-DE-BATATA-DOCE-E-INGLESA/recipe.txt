@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PURÊ DE BATATA DOCE E INGLESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas médias inglesa",
+      "2 batatas médias doce",
+      "2 colheres (sopa) de margarina",
+      "1/2 xicara de leite",
+      "1 pitada de sal",
+      "salsinha e cebolinha (cheiro verde) cortadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas, descasque-as e depois amasse com garfo ou espremedor.",
+      "Coloque em uma panela em fogo baixo. Adicione a margarina e adicione o leite e o sal.",
+      "Mexa até dar ponto (quando estiver soltando do fundo da panela).",
+      "Coloque o cheiro verde e misture. Retire do fogo.",
+      "Coloque numa forma refratária, decore com cheiro verde e está pronto para servir.",
+      "Serve para acompanhar com filés de frango, bifes, saladas etc."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANTONIO GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301990-pure-de-batata-doce-e-inglesa.html"
+}

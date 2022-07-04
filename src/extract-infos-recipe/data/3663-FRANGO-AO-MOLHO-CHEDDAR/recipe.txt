@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FRANGO AO MOLHO CHEDDAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de queijo ralado parmesão ou 100g de queijo parmesão ralado em ralo grosso",
+      "1 lata de creme de leite",
+      "1 bisnaga de requeijão culinário cheddar (400 g) (pode ser usado cream cheese ou requeijão catupiry)",
+      "1,5 ml de leite integral",
+      "2 colheres (sopa) cheias de trigo",
+      "3 colheres (sopa) cheias de manteiga",
+      "8 colheres (sopa) de azeite",
+      "1 linguiça calabresa defumada picadinha",
+      "1 cebola grande picada",
+      "2 colheres de sopa de salsa picada",
+      "alho a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a calabresa e reserve.",
+      "Em fogo baixo, refogue o alho e a cebola em 2 colheres de óleo. Antes de dourar, acrescente a manteiga e o azeite.",
+      "Ainda em fogo baixo, acrescente as colheres de trigo e mexa, até criar uma pasta.",
+      "Acrescente o leite integral e mexa com vigor, para não empelotar.",
+      "Em fogo médio, continue mexendo até que se obtenha ponto de mingau.",
+      "Ao soltar do fundo da panela, desligue o fogo.",
+      "Coloque o requeijão cheddar (ou de sua preferência) e mexa até a mistura se tornar homogênea.",
+      "Em seguida, coloque o creme de leite e mexa.",
+      "Acrescente o pacote de queijo ralado parmesão (ou passe o queijo em pedaço 100g, no ralo grosso).",
+      "Acrescente o frango desfiado à mistura. Mexa e finalize com a salsa picada.",
+      "Sirva quente com arroz branco ou massa: fusilli, talharim, espaguete, penne, entre outras.",
+      "O mesmo molho pode ser servido com carne em cubinhos, bacalhau, carne suína, a soja, ou ainda qualquer proteína de sua preferência.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LEILA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302955-frango-ao-molho-cheddar.html"
+}

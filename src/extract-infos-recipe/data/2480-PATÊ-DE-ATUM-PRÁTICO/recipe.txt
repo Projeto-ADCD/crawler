@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PATÊ DE ATUM PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de atum",
+      "4 azeitonas picadinhas",
+      "1 dente de alho amassado",
+      "1 cebola pequena cortada em cubinhos",
+      "manjericao, salsinha e sal a gosto",
+      "4 colheres (sopa) de requeijao",
+      "tempero pronto a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a azeitona, a cebola, o alho, o manjericão, a salsinha e coloque em um recipiente.",
+      "Em um pote coloque todo o atum e o requeijao",
+      "Mexa até ele criar a consistência de um patê.",
+      "Em seguida, junte todos os ingredientes, dê uma mexidinha e seu patê estará pronto!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUISA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305109-pate-de-atum-pratico.html"
+}

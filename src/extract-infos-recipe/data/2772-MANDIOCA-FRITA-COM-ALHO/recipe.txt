@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MANDIOCA FRITA COM ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca descascada",
+      "6 dentes de alho picados",
+      "2 colheres (sopa) de salsinha picada",
+      "Sal a gosto",
+      "Óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a mandioca descascada em pedaços.",
+      "Cozinhe em uma panela grande com água fervente e sal por uns 30 minutos ou até ficar \"al dente\".",
+      "Escorra e deixe esfriar um pouco.",
+      "Se possível retire a fibra central dos pedaços da mandioca.",
+      "Espalhe a mandioca cozida em uma fôrma e leve ao congelador por uns 30 minutos.",
+      "Frite, aos pouco, em óleo quente até dourar.",
+      "Escorra sobre papel-toalha.",
+      "Em uma panela pequena coloque duas colheres de sopa de óleo e doure o alho.",
+      "Polvilhe a mandioca frita com o sal, o alho frito e a salsinha picada.",
+      "Sirva como aperitivo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304464-mandioca-frita-com-alho.html"
+}

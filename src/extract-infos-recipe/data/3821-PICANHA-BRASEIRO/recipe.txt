@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PICANHA BRASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "picanha até 1.2k g",
+      "100 g de alho torrado ",
+      "100 g de chimichuri ",
+      "manteiga de garrafa",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a picanha em fatias (entre 4 e 5cm)",
+      "Tempere a picanha apenas com sal (a gosto) e coloque na brasa.",
+      "Após colocar a picanha na brasa, derrame a manteiga de garrafa (a gosto) somente do lado superior das fatias da picanha.",
+      "Após derramar a manteiga, derrame chimichuri (a gosto) e em seguida o alho torrado.",
+      "Deixe selar por 15 minutos em fogo médio do primeiro lado, e em seguida deixe selar por 5 minutos o outro lado.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCIANO CRISTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302586-picanha-braseiro.html"
+}

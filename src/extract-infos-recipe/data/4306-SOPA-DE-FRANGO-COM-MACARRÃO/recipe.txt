@@ -1,0 +1,34 @@
+{
+  "nome_receita": "SOPA DE FRANGO COM MACARRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de frango",
+      "vinagre",
+      "alho a gosto",
+      "1/2 pacote de macarrão",
+      "temperos verdes picados (1 cebola, 1 tomate, cheiro-verde, 1 pimentinha, 1/2 pimentão)",
+      "pimenta calabresa a gosto",
+      "5 colheres de óleo",
+      "5 colheres de molho shoyu",
+      "colorau (ou um pouco de molho de tomate para dar cor) a gosto",
+      "chimichurri a gosto",
+      "pimenta-do-reino e sal a gosto",
+      "3 colheres (sopa) de caldo de cebola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o frango e corte em cubos",
+      "Lave-o no vinagre e escorra bem",
+      "Logo depois, acrescente o sal, o alho, o shoyu, a pimenta calabresa, o chimichurri, a pimenta-do-reino, o colorau e deixe descansar por 5 minutos.",
+      "Em seguida, junte os temperos verdes picados e o óleo e leve ao fogo.",
+      "Quando o frango estiver refogado, acrescente água que cubra dois dedos o volume do frango e adicione o caldo de cebola.",
+      "Espere o frango cozinhar e acrescente o macarrão junto com o frango e o caldo.",
+      "Aguarde 20 minutos e saboreie"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JESSICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301401-sopa-de-frango-com-macarrao.html"
+}

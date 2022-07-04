@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO CASEIRO COM ÁGUA MORNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 colher de fermento biológico seco",
+      "5 colheres de açúcar",
+      "1 colher de sal",
+      "1 xícara de água morna (250 ml) ",
+      "2/3 de xícara de leite (170 ml)",
+      "2/3 de xícara de óleo (170 ml)",
+      "trigo até dar o ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um recipiente grande os ovos, o fermento e o açúcar",
+      "Acrescente a água, o leite e o óleo",
+      "Junte o sal e misture",
+      "Adicione o trigo até dar o ponto",
+      "Sove por pelo menos 10 minutos",
+      "Deixe a massa descansar por mais ou menos 1 hora, ou até dobrar de volume.",
+      "Divida a massa em dois, dê a forma ao pão e coloque em uma assadeira",
+      "Deixe crescer novamente, por pelo menos mais 30 minutos.",
+      "Leve para assar em forno preaquecido a 200° C por mais ou menos 40 minutos, ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "DAVID IVAN HINSCHING",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302325-pao-caseiro-com-agua-morna.html"
+}

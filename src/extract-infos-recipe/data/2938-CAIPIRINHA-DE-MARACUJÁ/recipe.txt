@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CAIPIRINHA DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "poupa de 1 maracujá",
+      "2 e 1/2 doses de cachaça",
+      "gelo a gosto (seja generoso)",
+      "1 dose de água",
+      "2 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa coqueteleira coloque a poupa do maracujá.",
+      "Acrescente as duas colheres de açúcar",
+      "Acrescente as duas doses e meia de cachaça",
+      "Acrescente 1 dose de água",
+      "Acrescente o gelo",
+      "Misture bem"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TIAGO SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304112-caipirinha-de-maracuja.html"
+}

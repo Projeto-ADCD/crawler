@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA NHAC NHAC",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média em cubos",
+      "2 colheres (sopa) de peito de frango defumado em cubos (pode substituir por calabresa, bacon, ou outro defumado a gosto)",
+      "2 colheres de manteiga",
+      "1 colher (sopa) damasco picadinho",
+      "1 colher (sopa) ameixas preta picadinha",
+      "1 colher (sopa) de uva passas brancas",
+      "1 colher (sopa) de abacaxi em calda picadinho e escorrido",
+      "1 colher (café) pimenta dedo de moça picadinha sem miolo e sem sementes",
+      "2 ovos ligeiramente batidos",
+      "1 colher (sopa) de água",
+      "2 xícaras de farofa tradicional",
+      "cebolinha, manjericão fresco ou salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola na manteiga até murchar",
+      "Acrescente o peito defumado, damasco, ameixa, uva passas, abacaxi e a pimenta dedo de moça e deixe refogar por mais uns 3 minutos",
+      "Acrescente os ovos batidos e uma colher de água",
+      "Deixe os ovos cozinhar, mexendo sem parar até o ponto de ovos mexidos",
+      "Acrescente a farofa, desligue o fogo, misture bem e junte o cheiro-verde a gosto",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIA BERNADETE NUNES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304086-farofa-nhac-nhac.html"
+}

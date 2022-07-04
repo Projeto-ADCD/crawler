@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO FIT DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas maduras",
+      "2 maçãs pequenas",
+      "3 ovos",
+      "1/2 xícara de óleo de coco",
+      "1 xícara de açúcar",
+      "2 e 1/2 xícaras de aveia em flocos finos",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador por 10 minutos as bananas, 1 maçã, os ovos e o óleo.",
+      "Numa tigela, junte o açúcar a aveia e o fermento.",
+      "Acrescente os ingredientes batidos e misture até ficar homogêneo.",
+      "Na forma untada com manteiga, fatie uma maçã e arrume-a em pé para ficar aparente no bolo pronto.",
+      "Salpique canela em pó e leve ao forno pré aquecido até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "REBECA MAGRINI SERRÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300129-bolo-fit-de-aveia.html"
+}

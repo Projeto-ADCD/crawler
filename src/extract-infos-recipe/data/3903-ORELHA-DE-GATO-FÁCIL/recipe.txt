@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ORELHA DE GATO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "1 colher de margarina",
+      "1 colher de cachaça",
+      "1 colher de fermento em pó",
+      "1 casca ralada de limão ou laranja",
+      "trigo até dar o ponto da massa",
+      "óleo para fritar",
+      "açúcar e canela a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, bata os ovos, o leite, a margarina e a cachaça",
+      "Por último, acrescente o fermento.",
+      "Rale a casca da fruta escolhida ao seu gosto e comece a acrescentar o trigo até ficar mais consistente (em média de 4 a 6 xícaras de trigo ou até a massa soltar de suas mãos)",
+      "Estique a massa com um rolo e corte em tiras de aproximadamente 5x10 cm, para formar as orelhas de gato.",
+      "Frite-as em fogo médio com bastante óleo.",
+      "Ao final polvilhe com açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "ALESSANDRA MARTELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302409-orelha-de-gato-facil.html"
+}

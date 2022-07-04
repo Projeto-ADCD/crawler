@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO À BOLONHESA GRATINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão",
+      "500 g de carne moída",
+      "3 dentes de alho",
+      "1 colher (sopa) sal",
+      "1 colher (chá) açúcar",
+      "2 colher (sopa) azeite",
+      "1 cebola de cabeça",
+      "cheiro-verde a gosto",
+      "1 lata de milho verde",
+      "10 azeitonas",
+      "1 pacote de queijo parmesão ralado",
+      "1 lata de extrato de tomate",
+      "2 tomates"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola, doure no alho socado com o sal, mexendo para não queimar.",
+      "Misture a carne moída e deixe cozinhar.",
+      "Adicione os tomates picados, o extrato de tomate, as azeitonas picadas, o milho verde, o cheiro-verde e o açúcar",
+      "Mexa bem e deixe cozinhar por uns 20 minutos em fogo médio.",
+      "Prepare o macarrão.",
+      "Em uma travessa coloque o macarrão, misture o molho ao macarrão, salpique queijo por cima e leve ao forno para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WILL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303934-macarrao-a-bolonhesa-gratinado.html"
+}

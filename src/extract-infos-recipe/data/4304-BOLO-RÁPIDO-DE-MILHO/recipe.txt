@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO RÁPIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho em conserva",
+      "1 caixa de leite condensado",
+      "1 sachê de coco ralado 50 g",
+      "3 ou 4 ovos inteiros",
+      "1 colher (sopa) de manteiga",
+      "1 colher de (sopa) cheia de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escorra a água do milho em conserva e coloque junto com o restante dos ingredientes no liquidificador.",
+      "Bata por 1 minuto.",
+      "Coloque em uma forma untada (usei uma redonda de 21 cm de diâmetro por 4,5cm de profundidade.",
+      "Coloque para assar em forno previamente quente de 30 a 40 minutos (até ficar dourado)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SHEILA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301404-bolo-rapido-de-milho.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DE CENOURA E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farofa de milho",
+      "250 g de farofa de farinha de mandioca",
+      "1 cenoura picada",
+      "2 tomates picados sem semente",
+      "150 g de azeitona picada",
+      "1 cebola pequena picada",
+      "1 gomo de linguiça calabresa picada em cubinhos",
+      "100 ml de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola no óleo com a linguiça e deixe dourar",
+      "Depois junte os outros ingredientes e coloque tempero a gosto",
+      "No final, adicione as farofas de milho e de mandioca",
+      "Mexa bem até as farofas ficarem úmidas",
+      "Agora é só degustar essa delícia."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "APARECIDA CARNEIRO SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303904-farofa-de-cenoura-e-linguica.html"
+}

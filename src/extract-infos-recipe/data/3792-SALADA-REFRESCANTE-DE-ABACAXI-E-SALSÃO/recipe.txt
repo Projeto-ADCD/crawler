@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA REFRESCANTE DE ABACAXI E SALSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi grande",
+      "1 maço de salsão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o abacaxi",
+      "Pique o salsão",
+      "Misture e pronto",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se o abacaxi for pequeno, coloque menos salsão para não ficar muito forte."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NATALIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302677-salada-refrescante-de-abacaxi-e-salsao.html"
+}

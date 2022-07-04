@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SARDINHA GRELHADA DO BETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sardinha ou cavalinha limpa",
+      "Sal grosso a gosto",
+      "Vinagre e pimenta-do-reino a gosto",
+      "Óleo para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com vinagre, pimenta do reino.",
+      "Coloque em uma grelha e pincele com óleo",
+      "Coloque sal grosso",
+      "Leve a brasa para assar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301545-sardinha-grelhada-do-betao.html"
+}

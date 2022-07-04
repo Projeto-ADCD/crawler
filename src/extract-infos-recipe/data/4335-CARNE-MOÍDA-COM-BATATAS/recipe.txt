@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CARNE MOÍDA COM BATATAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas inglesa médias",
+      "500 g carne moída",
+      "50 ml de vinagre branco",
+      "1 cebola grande",
+      "4 dentes de alho",
+      "3 colheres (sopa) de azeite",
+      "1 tomate grande picado",
+      "1/2 pimentão picado",
+      "1/2 ramo de coentro",
+      "1 pitada de colorau e cominho",
+      "2 sachês de tempero de carne",
+      "400 ml de água filtrada",
+      "200 g de molho de tomate",
+      "1 lata dueto de milho e ervilha",
+      "150 g de azeitonas verdes fatiadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a carne moída em uma peneira com o vinagre depois enxágue e reserve",
+      "Pique a cebola e o alho para dourar em uma panela com o azeite",
+      "Adicione a carne moída juntamente com a cebola e o alho na panela, deixe fritar a carne até que a água liberada pela carne seque na panela",
+      "Adicione o tomate, o coentro, o pimentão, o sachê de carne, o cominho, o colorau, o molho de tomate, a água e as batatas em cubos na panela da carne e deixe cozinhar até que as batatas fiquem moles.",
+      "Tudo isso em fogo baixo",
+      "Você poderá adicionar água durante o cozimento caso a mesma seque muito.",
+      "Adicione ainda o milho, a ervilha e as azeitonas, deixe ferver por uns 5 minutos e desligue o fogo.",
+      "Pode servir em seguida"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "NAARA CALAÇO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301351-carne-moida-com-batatas.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FEIJÃO FRADINHO DA JANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão fradinho",
+      "sal a gosto",
+      "açafrão a gosto",
+      "200 g de bacon cortado em cubos",
+      "2 dentes de alho amassados",
+      "2 cebolas roxas picadas",
+      "500 g de carne-seca picada e tirada o sal (tire o sal fervendo em água antes e escorra)",
+      "1 maço de couve manteiga picada",
+      "1 maço de salsinha",
+      "1 pimenta dedo de moça picada e tirada as sementes",
+      "1 xícara de farinha de mandioca",
+      "400 g de queijo mussarela picados",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe em pressão o feijão com sal a gosto e uma colher (chá) de acafrão.",
+      "Deixe por 20 minutos após pegar pressão e desligue em seguida.",
+      "Retire o caldo do feijão e reserve.",
+      "Frite o bacon em um fio de azeite e vá adicionando:",
+      "Alho, cebola, linguiça, carne-seca, couve manteiga, farinha de mandioca e uma colher de sobremesa de açafrão",
+      "Junte o feijão e a salsinha",
+      "E por último, mexendo sempre adicione o queijo mussarela e mexa somente até derreter levemente.",
+      "Sirva ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JANAINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304319-feijao-fradinho-da-jana.html"
+}

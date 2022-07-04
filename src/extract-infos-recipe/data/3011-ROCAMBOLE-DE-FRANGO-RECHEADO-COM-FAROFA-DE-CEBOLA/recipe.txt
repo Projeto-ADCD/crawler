@@ -1,0 +1,56 @@
+{
+  "nome_receita": "ROCAMBOLE DE FRANGO RECHEADO COM FAROFA DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Rocambole",
+      "500 g de frango",
+      "1 ovo",
+      "4 colheres de farelo de aveia",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "1/2 colher de páprica defumada",
+      "1 colher (café) de mostarda em pó",
+      "1 colher (café) de açafrão",
+      "sal e pimenta a gosto",
+      "azeite para pincelar",
+      "castanhas trituradas ou farelo de aveia para enfeitar",
+      "Recheio",
+      "4 fatias de mussarela",
+      "4 colheres de requeijão ou creme de ricota",
+      "100 g de farofa tradicional ",
+      "1/2 cebola em rodelas",
+      "1/2 colher de manteiga",
+      "cheiro-verde, sal e pimenta a gosto",
+      "azeite quanto baste"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare o rocambole",
+      "Processe o frango, ovo, as colheres de farelo, cebola, alho, páprica, mostarda, açafrão, 1 colherinha de sal e 1 pitada de pimenta.",
+      "Quando homogenizar, separe um pedaço pequeno, dê uma grelhada e prove o sal e a pimenta",
+      "Se necessário, adicione mais a seu gosto e reserve.",
+      "Prepare a farofa de cebola",
+      "Numa panela, aqueça a manteiga com 1 fio de azeite.",
+      "Doure a cebola até começar a dourar, sem queimar.",
+      "Junte a farofa tradicional e misture bem, se necessário adicione mais azeite até ficar úmida.",
+      "Adicione o cheiro-verde, sal e pimenta a gosto.",
+      "Prove os temperos e se necessário adicione mais um pouco.",
+      "Reserve.",
+      "Montagem",
+      "Em dois plásticos filme, abra o rocambole amassando na espessura de aproximadamente 1 cm.",
+      "Forme um retângulo.",
+      "Retire o plástico de cima, recheie com a farofa de cebola (reserve um pouco para enfeitar o prato) coloque a mussarela e as colheres de requeijão",
+      "Dobre um pedaço das 2 pontas pra dentro no sentido do comprimento para evitar que o recheio saia.",
+      "Com cuidado e com a ajuda do plástico de baixo vá enrolando em forma de rocambole.",
+      "Acerte bem os buraquinhos que se formam, assim não haverá rachaduras no rocambole.",
+      "Pincele com azeite e salpique as castanhas ou farelo.",
+      "Asse a 230 a 250 º C por aproximadamente 30 a 40 minutos dependendo do forno.",
+      "Sirva sobre a farofa de cebola reservada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SANDRA REGINA DO CARMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303999-rocambole-de-frango-recheado-com-farofa-de-cebola.html"
+}

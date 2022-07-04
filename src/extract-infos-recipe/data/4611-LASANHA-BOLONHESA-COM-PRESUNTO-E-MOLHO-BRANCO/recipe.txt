@@ -1,0 +1,58 @@
+{
+  "nome_receita": "LASANHA BOLONHESA COM PRESUNTO E MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de massa de lasanha (que vai direto ao forno)",
+      "300 g de presunto",
+      "500 g de mussarela (reserve 100 g para a cobertura)"
+    ],
+    "MOLHO BOLONHESA": [
+      "2 colheres (sopa) de óleo",
+      "1 cebola média cortada em cubos",
+      "500 g de carne moída",
+      "1/2 colher rasa (sopa) de sal",
+      "pimenta-do-reino a gosto",
+      "1 pacote de molho de tomate (340 g)"
+    ],
+    "MOLHO BRANCO": [
+      "3 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "2 xícaras (chá) de leite",
+      "1 caixa de creme de leite",
+      "sal, pimenta e noz-moscada a gosto"
+    ]
+  },
+  "passos": {
+    "MOLHO BOLONHESA": [
+      "Numa panela, doure a cebola no óleo e adicione a carne moída, sal e pimenta.",
+      "Assim que a carne estiver cozida, adicione o molho de tomate.",
+      "Deixe cozinhar por 3 minutos e reserve."
+    ],
+    "MOLHO BRANCO": [
+      "Numa panela, derreta a manteiga, coloque as 3 colheres de farinha de trigo e mexa.",
+      "Aos poucos vá adicionando o leite, sempre mexendo.",
+      "Quando estiver uniforme e com uma consistência de purê, adicione o creme de leite e temperos.",
+      "Continue mexendo por mais 3 minutos, desligue o fogo e reserve.",
+      "É importante colocar o leite aos poucos e continuar mexendo sempre (principalmente após colocar o creme de leite) para que o molho não empelote.",
+      "No começo do processo, o molho terá uma consistência de massa de modelar e ao se colocar leite ela irá aumentando e se tornando mais cremosa."
+    ],
+    "MONTAGEM": [
+      "Em um refratário ou forma grande, monte na seguinte ordem:",
+      "Espalhe uma concha de molho bolonhesa",
+      "massas de lasanha",
+      "1 concha de molho bolonhesa",
+      "Presunto",
+      "Queijo",
+      "Repita esta sequencia até o topo do recipiente",
+      "Finalize com o molho branco",
+      "Cubra com papel aluminio",
+      "É importante que a massa sempre esteja entre camadas de molho para que não resseque. Se achar necessário, coloque um pouco de leite entre as massas.",
+      "Deixe no forno pré-aquecido, a 180°, por aproximadamente 40 minutos até que a massa esteja al dente ou no ponto que desejar",
+      "Retire o papel alumínio e coloque o restante da mussarela, retorne ao forno para gratinar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300734-lasanha-bolonhesa-com-presunto-e-molho-branco.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "RISOTO DE FRANGO COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 peitos de frango",
+      "400 g de molho de tomate (manjericão)",
+      "3 dentes de alho",
+      "1/2 cebola picada",
+      "200 g de queijo mussarela",
+      "2 copos de arroz",
+      "temperos a gosto",
+      "1 caldo de galinha "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça o arroz como de costume (utilizando óleo, alho e sal a gosto)",
+      "Ficando pronto, reserve",
+      "Utilize a panela de pressão para fazer o frango, cozinhe ele e utilize o tablete de frango",
+      "Assim que ele ja estiver pronto, desfie e reserve.",
+      "Pique o alho e coloque-o em sua panela",
+      "Pique a cebola, coloque o óleo na panela, o alho picado e a cebola e espere dourar",
+      "Junte o frango desfiado e não pare de mexer",
+      "Coloque o molho de tomate e continue mexendo até que o molho ferva"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCIANO KOZEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301874-risoto-de-frango-com-queijo.html"
+}

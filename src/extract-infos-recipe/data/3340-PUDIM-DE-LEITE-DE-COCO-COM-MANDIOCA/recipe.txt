@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PUDIM DE LEITE DE COCO COM MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Pudim",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "3 xícaras (chá) de mandioca crua ralada",
+      "200 ml de leite de coco",
+      "200 ml de leite",
+      "4 ovos",
+      "2 colheres (sopa) de manteiga sem sal",
+      "Calda",
+      "1 e 1/2 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo uma forma para pudim com o açúcar da calda e deixe derreter até caramelizar",
+      "Unte toda a forma com essa calda",
+      "Reserve",
+      "Bata no liquidificador o açúcar, a mandioca ralada, o leite de coco, o leite, os ovos e a manteiga",
+      "Transfira tudo para a forma de pudim caramelizada e ponha a cozinhar em banho-maria por 1 hora",
+      "Antes de tirar o pudim do fogo, teste com um palito",
+      "Se sair limpo estará cozido",
+      "Deixe esfriar e leve o pudim na própria forma ao refrigerador por no mínimo 5 horas",
+      "Desenforme na hora de servir",
+      "Todos vão elogiar"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303533-pudim-de-leite-de-coco-com-mandioca.html"
+}

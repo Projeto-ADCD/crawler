@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PAVÊ DE ABACAXI COM CHOCOLATE BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cremes de leite",
+      "2 abacaxis",
+      "1 e 1/2 xícara de açúcar",
+      "1 barra de chocolate branco (300 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os abacaxis em cubinhos e cozinhe com o açúcar até secar a água do abacaxi",
+      "Acrescente dois cremes de leite e deixe cozinhar por mais 5 minutos",
+      "Reserve.",
+      "Em um outro recipiente, derreta o chocolate em banho-maria e, depois de derretido, apague o fogo e acrescente 1 creme de leite.",
+      "Em um refratário disponha uma parte dos biscoitos, molhando sempre no leite",
+      "Cubra com uma camada do creme de abacaxi, distribua mais biscoitos e vai intercalando com o ganache de chocolate, biscoitos e creme de abacaxi.",
+      "Leve à geladeira por uma hora antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SALETE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303970-pave-de-abacaxi-com-chocolate-branco.html"
+}

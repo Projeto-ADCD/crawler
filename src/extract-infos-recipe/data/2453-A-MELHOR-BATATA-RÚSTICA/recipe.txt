@@ -1,0 +1,31 @@
+{
+  "nome_receita": "A MELHOR BATATA RÚSTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas inglesas médias",
+      "sal e pimenta a gosto",
+      "2 colheres (sopa) de tomilho",
+      "2 colheres (sopa) alecrim",
+      "5 dentes de alho",
+      "1/2 xícara de azeite",
+      "1 colher (sopa) de bicarbonato de sódio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem as batatas e corte-as em pedaços irregulares grandes, mantendo a casca",
+      "Cozinhe as batatas em agua fervente com sal a gosto e bicarbonato até conseguir perfurar com um garfo, mas ainda durinhas",
+      "Enquanto as batatas cozinham, junte em uma panela o azeite, alho, tomilho e alecrim picados em fogo baixo até dourar o alho, sem deixá-lo queimar, e reserve",
+      "Coe o conteúdo do azeite e reserve.",
+      "Use o azeite para derramar sobre as batatas em uma forma grande (mantenha as cascas da batata para baixo).",
+      "Corrija o sal e salpique pimenta-do-reino",
+      "Leve as batatas em forno preaquecido a 280º C por aproximadamnete 20 minutos",
+      "Sirva com as ervas do azeite salpicadas sobre a batata.",
+      "Pode ser um acompanhamento de refeição ou lanche."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ÉRICA BANTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305178-a-melhor-batata-rustica.html"
+}

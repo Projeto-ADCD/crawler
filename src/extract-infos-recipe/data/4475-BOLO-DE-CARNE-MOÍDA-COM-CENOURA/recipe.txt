@@ -1,0 +1,44 @@
+{
+  "nome_receita": "BOLO DE CARNE MOÍDA COM CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de carne moída",
+      "1 cebola grande picada",
+      "1 dente de alho picado",
+      "1 pacote de creme de cebola",
+      "4 gemas",
+      "4 claras",
+      "1 cenoura média ralada",
+      "1 tomate médio, sem pele, picado",
+      "1 xícara (chá) de aveia fina",
+      "1/2 xícara (chá) de azeite de oliva",
+      "1/2 colher (chá) de cominho",
+      "1 colher (sopa) de manjericão natural ( ou desidratado)",
+      "1 colher (sopa) rasa de fermento em pó",
+      "Salsinha e cebolinha verde picadas a gosto",
+      "Sal e pimenta a gosto"
+    ],
+    "COBERTURA:": [
+      "150 g de mussarela fatiada",
+      "2 tomates médios sem pele cortados em fatias finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente fundo coloque a cebola, o alho, o tomate, a salsinha e a cebolinha, tudo bem picado.",
+      "Acrescente a carne moída, as gemas, a aveia, o creme de cebola, a cenoura ralada, o azeite e o cominho e misture tudo muito bem.",
+      "Tempere a mistura com sal, pimenta e manjericão.",
+      "Bata as claras em neve e misture-as levemente com a carne moída.",
+      "Unte uma forma com azeite e coloque a carne moída.",
+      "Leve a forma ao forno, pré-aquecido, a 200 graus, coberta com papel alumínio.",
+      "Deixe cozinhar por uns 35 a 40 minutos.",
+      "Retire o papel alumínio e cubra com fatias de mussarela e por cima fatias de tomate temperados com sal.",
+      "Deixe no forno por mais uns 15 minutos ou até gratinar.",
+      "Sirva em seguida com uma boa salada verde."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301029-bolo-de-carne-moida-com-cenoura.html"
+}

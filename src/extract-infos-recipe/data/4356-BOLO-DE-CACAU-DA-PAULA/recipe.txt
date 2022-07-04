@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE CACAU DA PAULA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "4 xícaras de farinha de trigo",
+      "1 xícara de cacau em pó 100%",
+      "3 xícaras de leite integral",
+      "1 e 1/2 xícara de óleo",
+      "3 xícaras de açúcar",
+      "1 e 1/2 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira os ovos até formar uma espuma, e em seguida adicione o óleo e",
+      "misture.",
+      "Depois, adicione a farinha de trigo, o leite, o cacau em pó e o açúcar, tudo aos",
+      "poucos batendo bem.",
+      "E por último adicione o fermento e misture com delicadeza.",
+      "Aqueça o forno a 280° C 10 minutos antes de colocar o bolo para assar",
+      "Asse o bolo a 180° C",
+      "Após trinta minutos, verifique se o bolo já está assado espetando-o com um palito",
+      "de dente ou uma faca de serra, se não estiver assado, deixe mais alguns minutos no",
+      "forno.",
+      "Se estiver assado, tire o bolo do forno, espere esfriar, desenforme-o e adicione",
+      "uma cobertura de sua preferência.",
+      "Dica: unte a forma apenas com manteiga"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "PAULA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301310-bolo-de-cacau-da-paula.html"
+}

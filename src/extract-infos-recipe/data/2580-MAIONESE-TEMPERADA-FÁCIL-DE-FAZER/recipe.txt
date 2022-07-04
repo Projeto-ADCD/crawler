@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MAIONESE TEMPERADA FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de maionese",
+      "2 dentes de alho",
+      "2 colheres de vinagre ou limão",
+      "tempero a gosto",
+      "cheiro-verde a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Gele por no mínimo 1 hora.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: ótima para ser usada em hambúrguer ou pão de alho"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GISELLE CIRINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304903-maionese-temperada-facil-de-fazer.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "HOT DOG SUCULENTO DA IRMÃ SAMARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2,5 kg de salsicha",
+      "3 extratos de tomate",
+      "5 cebolas brancas",
+      "1 maço de coentro (cheiro verde)",
+      "7 tomates maduros",
+      "1 pimentão médio",
+      "cominho e corante a gosto",
+      "3 sachês de milho verde",
+      "2 sachês de maionese",
+      "3 colheres (sopa) de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as salsinhas e corte todas em rodelas. Reserve.",
+      "Corte todos os ingredientes (menos o milho e o extrato de tomate).",
+      "Bata tudo no liquidificador.",
+      "Despeje tudo em uma panela funda e refoge com o óleo.",
+      "Junte o molho de tomate com 400 ml de água.",
+      "Adicione a salsicha, mexa bem e deixe ferver.",
+      "Após 3 minutos, adicione aproximadamente 1 litro de água",
+      "Mexa bem,tampe e deixe ferver por 20 minutos.",
+      "Mexa de vez enquanto para não pregar no fundo da panela.",
+      "Adicione o milho (coado) e ferva por mais 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "MIHSAD",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300692-hot-dog-suculento-da-irma-samara.html"
+}

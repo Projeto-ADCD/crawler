@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO CASEIRO RÁPIDO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "1 e 1/2 xicara (chá) de leite morno",
+      "1/2 xicara (chá) de água morna ",
+      "4 colheres (sopa) de açúcar ",
+      "1 colher (sopa) de sal ",
+      "2 ovos",
+      "30 g de fermento biológico",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento no açúcar",
+      "Depois que o fermento ja tiver virando uma 'água,' coloque o sal, os ovos , a água e o leite",
+      "Com uma peneira coloque a farinha aos poucos",
+      "Sove a massa por uns 10 minutos",
+      "Deixe a massa descansar por 1 hora",
+      "Unte a sua(as) forma(as)",
+      "Amasse bem a massa e divida na(s) forma(as)",
+      "Deixar descansar por 40 minutos",
+      "Leve para assar por 45 minutos ou 50 minutos no forno 280º C",
+      "Quando estiver pronto, só passar o café e bom café da tarde",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305253-pao-caseiro-rapido-e-facil.html"
+}

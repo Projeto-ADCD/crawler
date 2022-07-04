@@ -1,0 +1,27 @@
+{
+  "nome_receita": "ARROZ DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 colher de sal ou açúcar",
+      "1 copo de arroz",
+      "3 colheres de azeite",
+      "400 ml de água ou leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no fundo de um vasilhame de vidro 3 colheres de azeite e 1/2 colher de sal.",
+      "Lave 1 copo de arroz em um recipiente, depois despeje no vasilhame sem misturar com o azeite e sal",
+      "Depois em uma jarro de medida coloque 400 ml de água e despeje no vasilhame sem fazer a mistura",
+      "Deixe assim e depois coloque no micro-ondas sem a tampa do vasilhame",
+      "Regule a potência em alto e coloque cinco minutos no micro-ondas, depois regule a potência em médio-alto e coloque cinco minutos",
+      "Após regule a potência em médio e coloque sete minutos",
+      "Verifique se está cozido e seco.",
+      "Pronto para servir, boa refeição."
+    ]
+  },
+  "tempo_de_preparo": "17 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CLAUDINEI SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304192-arroz-de-micro-ondas.html"
+}

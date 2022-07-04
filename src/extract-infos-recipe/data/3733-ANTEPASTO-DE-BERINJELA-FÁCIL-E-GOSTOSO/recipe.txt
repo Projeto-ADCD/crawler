@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ANTEPASTO DE BERINJELA FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 berinjelas grandes",
+      "1 pimentão verde",
+      "1 pimentão vermelho",
+      "1 pimentão amarelo",
+      "2 cebolas",
+      "sal, orégano e pimenta calabresa a gosto",
+      "4 colheres (sopa) de vinagre de maçã de qualidade",
+      "azeite a gosto",
+      "azeitonas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia grande, corte as berinjelas, os pimentões e a cebola em pedaços do tamanho que achar melhor (eu corte em pedaços grandes).",
+      "Coloque os temperos e por fim o vinagre de maçã e mexa bem.",
+      "Disponha em uma forma e regue com o azeite.",
+      "Cubra com papel-alumínio e leve ao forno por 40 minutos.",
+      "Após desligar o forno, deixe descansar por mais ou menos 1 hora.",
+      "Abra o papel-alumínio e coloque as azeitonas.",
+      "Feche novamente e deixe terminar de esfriar.",
+      "Após esfriar acomode em vasilha com tampa e leve à geladeira.",
+      "Agora é só se deliciar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observações: os temperos podem ser a seu gosto. Eu ainda coloco folhas de louro e utilizo temperos desidratados como salsa, cebola e alho. Prefiro cortar os legumes em pedaços grandes, mas se preferir pode cortar em pedaços pequenos. O tempo de forno é para que os legumes cozinhem e o tempo de descanso antes de colocar na geladeira é fundamental para o término do processo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANGÉLICA MAGALHÃES FRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302816-antepasto-de-berinjela-facil-e-gostoso.html"
+}

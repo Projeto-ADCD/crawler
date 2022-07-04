@@ -1,0 +1,48 @@
+{
+  "nome_receita": "TORTA DE FRANGO CREMOSA",
+  "ingredientes": {
+    "MASSA:": [
+      "2 xícaras (chá) de leite",
+      "3 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de óleo",
+      "100g de queijo parmesão ralado",
+      "1 colher (sopa) de fermento em pó",
+      "2 ovos",
+      "1caixinha de creme de leite"
+    ],
+    "RECHEIO": [
+      "1 peito de frango temperado, cozido e desfiado",
+      "Salsa picada a gosto",
+      "100g de catupiry",
+      "1 lata de milho escorrido",
+      "1 tomate",
+      "1/2 cebola",
+      "1/2 pote de requeijão",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango por 15 minutos em panela de pressão.",
+      "Espere amornar e desfie.",
+      "Junte o caldo do cozimento ao frango para dar sabor, mas cuidado para nao encharcar.",
+      "Pique o tomate, a cebola e lave a salsa.",
+      "Adicione os demais ingredientes do recheio, exceto o tomate, a cebola e o requeijão.",
+      "Espere esfriar.",
+      "Bata no liquidificador todos os ingredientes da massa por uns 3 minutos, colocando por ultimo o fermento em pó.",
+      "Coloque o sal.",
+      "Pré- aqueça o forno por 10 minutos.",
+      "Unte com óleo uma forma grande (24 cm diâmetro) de fundo removível e unte.",
+      "Coloque metade da massa batida no liquidificador e acrescente o recheio.",
+      "Distribua o tomate e a cebola por toda a extensão.",
+      "Por último espalhe o requeijão com uma colher.",
+      "Cubra com o restante da massa.",
+      "Asse por aproximadamente 30 minutos, em temperatura media ou até que doure.",
+      "Agora, é só servir!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ISA LAURINTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301508-torta-de-frango-cremosa.html"
+}

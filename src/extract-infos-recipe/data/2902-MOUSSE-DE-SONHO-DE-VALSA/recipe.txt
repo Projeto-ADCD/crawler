@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE SONHO DE VALSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 latas de creme de leite",
+      "20 sonho de Valsa",
+      "1/2 pacote de gelatina incolor",
+      "cacau em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro adicione o leite condensado o creme de leite, duas colheres de cacau em pó e alguns bombons de sonho de valsa picados no liquidificador e bata por 2 minutos.",
+      "Reserve a mistura na geladeira e adicione água e meio pacote de gelatina incolor numa caneca e coloque no micro-ondas por 15 segundos.",
+      "Misture a gelatina com o creme no liquitificador por um minuto e coloque na geladeira por uma hora.",
+      "Pronto!",
+      "Está feito, agora é só decorar com bombons de Sonho de Valsa em cima"
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIA GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304183-mousse-de-sonho-de-valsa.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA FORTUNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa tradicional",
+      "2 colheres (sopa) de margarina",
+      "200 g de bacon picado em cubos",
+      "2 colheres (sopa) de azeite",
+      "8 figos em calda",
+      "8 cerejas em calda",
+      "200 g de uvas passa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a farofa tradicional e as duas colheres de margarina",
+      "Leve ao fogo brando mexendo continuamente, até que a farofa fique tostada e reserve.",
+      "Frite o bacon nas duas colheres de azeite até que fique dourado, escorra o azeite a junte o bacon à farofa.",
+      "Escorra os figos e pique em 8 pedaços cada um, escorra também as cerejas e pique e 4 pedaços cada uma, junte tudo à farofa.",
+      "Junte também à farofa as uvas passas.",
+      "Misture tudo.",
+      "Enfeite com figos e cerejas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARA ROSANE SCALCON MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304030-farofa-fortuna.html"
+}

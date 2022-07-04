@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CHEESECAKE YOKI E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Farofa crocante (base e cobertura)",
+      "100 g de farofa de mandioca Yoki tradicional",
+      "30 g de açúcar refinado",
+      "50 g de manteiga sem sal derretida",
+      "50 g de queijo coalho",
+      "Creme",
+      "200 g de goiabada cremosa",
+      "400 g de creme de leite UHT",
+      "300 g de cream cheese",
+      "200 g de leite condensado",
+      "16 g de gelatina em pó",
+      "25 ml de água filtrada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga e misture com a farofa Yoki e o açúcar.",
+      "Reserve cerca de 1/4 da mistura e com o restante forre uma forma desmontável de 17 cm apertando com uma colher.",
+      "Leve ao forno preaquecido a 180° C por 10 minutos ou até dourar, retire do forno e reserve.",
+      "Corte o queijo coalho em quadrados pequenos e doure em uma frigideira, após o queijo dourado acrescente o 1/4 da farofa reservada e deixe dourar pois mais alguns minutos e reserve.",
+      "Creme",
+      "Hidrate a gelatina com a água e deixe descansar por 5 minutos, após esse processo aqueça por 10 a 15 segundos no micro-ondas ou em banho-maria e reserve.",
+      "Em um recipiente misture o creme de leite, cream cheese e o leite condensado utilizando um batedor de mão, após todos os ingredientes incorporados acrescente a gelatina.",
+      "Despeje o creme sobre a forma com a base de farofa já fria e leve ao freezer por cerca de 40 minutos ou até firmar.",
+      "Para finalizar cubra com a goiabada cremosa e decore com a farofa crocante de queijo coalho."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Fernanda Fabiani Vinite Luditk"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304243-cheesecake-yoki-e-julieta.html"
+}

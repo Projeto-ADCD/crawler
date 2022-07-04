@@ -1,0 +1,43 @@
+{
+  "nome_receita": "MAC & CHEESE PRÉSIDENT",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas médias cortadas em juliene",
+      "2 colheres de (sopa) de manteiga Président",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 litro leite integral",
+      "500 g de macarrão espiral",
+      "100 g de queijo gruyere Président ralado",
+      "100 g de queijo emmental Président ralado",
+      "120 g de queijo parmesão Président ralado (separe 20 g para o final quando a massa for gratinar)",
+      "1 xícara de água do cozimento do macarrão",
+      "2 colheres de (sopa) de farinha de rosca",
+      "sal a gosto",
+      "pimenta a gosto",
+      "noz-moscada a gosto "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva água abundante com 1 colher (chá) de sal em uma panela funda.",
+      "Adicione a massa e cozinhe por cerca de 8 minutos",
+      "Em uma outra panela funda, derreta a manteiga",
+      "Em seguida, junte as cebolas em juliene e deixe fritar até que fiquem translúcidas.",
+      "Inclua a farinha de trigo e cozinhe por cerca de 2 minutos",
+      "Logo depois, adicione o leite aos poucos e cozinhe por mais 6 minutos, até que encorpe",
+      "Tempere com sal, pimenta e noz-moscada a gosto",
+      "Incorpore 100 g de cada um dos três queijos ao molho",
+      "Inclua 1 xícara de água de cozimento no molho",
+      "Junte o macarrão cozido e escorrido",
+      "Transfira para uma travessa e cubra com a farinha de rosca e o restante de queijo parmesão.",
+      "Leve ao forno em 200° C por cerca 20 minutos ou até gratinar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Patricia Lopes dos Santos de Oliveira"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303872-mac-e-cheese-president.html"
+}

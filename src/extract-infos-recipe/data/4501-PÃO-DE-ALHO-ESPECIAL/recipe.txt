@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE ALHO ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 dentes de alho",
+      "1 vidro de maionese ",
+      "cheiro-verde a gosto",
+      "fios de azeite",
+      "mussarela ralada a gosto",
+      "linguiça calabresa a gosto",
+      "cebola picada a gosto",
+      "15 pães franceses frescos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a calabresa em cubos pequenos, frite e acrescente a cebola",
+      "Espere até ficar transparente e reserve.",
+      "Triture o alho, pique o cheiro-verde e misture na maionese colocando fios de azeite a gosto",
+      "Depois misture a calabresa e a mussarela ralada ao molho de maionese com alho.",
+      "Passe uma quantidade generosa da mistura no pão francês bem fresco e asse na churrasqueira.",
+      "Asse bem dos dois lados e sirva à vontade"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANDERSON CALIXTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300971-pao-de-alho-especial.html"
+}

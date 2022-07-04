@@ -1,0 +1,33 @@
+{
+  "nome_receita": "AIPIM CREMOSO COM CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de camarão",
+      "1 kg de aipim",
+      "1 tomate cortadinho com semente",
+      "1 cebola batidinha",
+      "salsa, cebolinha e coentro a gosto",
+      "8 dentes de alho",
+      "1 colher (sopa) de manteiga",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão",
+      "100 g de mussarela picadinha",
+      "150 g de queijo parmesão cortado em fatias finas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela de pressão o aipim e cozinhe por 20 minutos após dar a pressão",
+      "Refogue o camarão no alho e acrescente o tomate, a cebola e os temperos verdes.",
+      "Triture o aipim, após cozido, no liquidificador.",
+      "Coloque o aipim triturado no molho de camarão.",
+      "Mexa bem e acrescente o requeijão, o queijo mussarela e o queijo parmesão.",
+      "Após uns 5 minutos de cozimento, junte o creme de leite e mexa bem.",
+      "Está prontinho"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "REGINA VIDAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304525-aipim-cremoso-com-camarao.html"
+}

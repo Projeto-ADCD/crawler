@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BALA DE COCO DA TATI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de açúcar refinado",
+      "1 vidro de leite de coco",
+      "água (a mesma medida da garrafinha de leite de coco)",
+      "Manteiga para untar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em um recipiente e mexa bem até não ter mais nenhuma pedrinha de açúcar.",
+      "Passe a mistura para uma panela de alumínio grande e funda,pois depois que levanta fervura sobe um pouco.",
+      "Coloque a panela no fogão em fogo baixo e apartir daí não mexa mais.",
+      "Marque o horário.",
+      "Quando der o tempo de 35 minutos faça o primeiro teste. Separe um copo com agua e um prato de vidro ou porcelana.",
+      "Pegue um pouco da mistura que estará fervendo com uma colher de alumínio e coloque no copo com agua.",
+      "Se ela desmanchar, ainda não está no ponto. Se juntar, faça uma bolinha e coloque sobre o prato.",
+      "Repita o processo até a bolinha fazer um som de batida em vidro quando colocada no prato.",
+      "Dado o ponto, unte uma pedra de mármore ou granito com manteiga e despeje a mistura sobre ela.",
+      "Não raspe o fundo da panela, pois pode açucarar o doce. O que cair, caiu.",
+      "Espere esfriar um pouco até conseguir segurar na mão.",
+      "Comece a esticar até ficar branquinha e com aqueles risquinhos de bala de coco.",
+      "Comece enrolar e corte com uma tesoura.",
+      "Deixe secar por uma 1 hora e 30 minutos e coloque em um recipiente com tampa. Fica uma delícia e desmanchando na boca!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TATIARA RAPHAEL SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300526-bala-de-coco-da-tati.html"
+}

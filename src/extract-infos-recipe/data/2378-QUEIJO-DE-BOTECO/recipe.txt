@@ -1,0 +1,39 @@
+{
+  "nome_receita": "QUEIJO DE BOTECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote pequeno de queijo Coalho cortado em cubos pequenos",
+      "2 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de amido de milho",
+      "1 colher (sopa) de farinha para tapioca",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "1 ovo",
+      "2 colheres (sopa) de farinha de mandioca",
+      "1/2 xícara de leite",
+      "sal a gosto",
+      "1 colher (sopa) de fermento quimico",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes secos, exceto o fermento em pó.",
+      "Acrescente o ovo e misture",
+      "Coloque aos poucos o leite até que a massa fique cremosa (caso seja necessário, você pode colocar um pouco mais de leite)",
+      "Coloque o sal a gosto.",
+      "Por ultimo, porém não menos importante, acrescente o fermento em pó e mexa delicadamente.",
+      "Coloque aos poucos os cubinhos de queijo dentro da mistura",
+      "Deixe eles totalmente cobertos pela mistura",
+      "Retire com a ajuda de um garfo e coloque diretamente na panela de óleo já aquecido.",
+      "A fritura acontece muito rápido, frite os dois lados até dourar, retire do fogo e coloque em papel-toalha.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: servir como aperitivo com geléia de pimenta e cerveja "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RACHEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305357-queijo-de-boteco.html"
+}

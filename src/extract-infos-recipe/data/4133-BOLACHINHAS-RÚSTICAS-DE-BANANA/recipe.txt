@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLACHINHAS RÚSTICAS DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas nanica bem maduras",
+      "1 xícara de farelo de aveia ou de aveia flocos finos",
+      "2 colheres de chia hidratada",
+      "2 colheres de uva passa preta",
+      "2 colheres de uva passa branca",
+      "2 colheres de sementes de linhaça"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a chia, a uva passa e a linhaça para hidratar por 30 minutos, todas em recipientes separados. Pode fazer a opção de usar a uva passa preta ou branca.",
+      "Nesse intervalo, amasse as bananas muito bem.",
+      "Após a hidratação, coe toda a água de todos, inclusive da chia que é mais gelatinosa.",
+      "Depois desse processo, junte a banana já amassada e o farelo e misture muito bem.",
+      "Deixe essa mistura descansar na geladeira por uma 1 hora.",
+      "Após esse período, forre 2 assadeiras com papel manteiga e, com uma colher de sopa, vá fazendo as bolachinhas.",
+      "Após esse processo, coloque no freezer para congelar e, após o processo do congelamento, retire uma a uma e guarde novamente em um saquinho hermeticamente fechado no freezer ou, se preferir, já pode assar.",
+      "O tempo de forno é cerca de 40 minutos, ou até ficarem douradas embaixo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Elas ficarão molinhas mesmo frias, porem, deliciosas.\nEssas bolachinhas não levam, leite, ovos e nem gordura.\nPode substituir a farinha por farinha de amendoim ou farinha de amêndoa."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "REGINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301758-bolachinhas-rusticas-de-banana.html"
+}

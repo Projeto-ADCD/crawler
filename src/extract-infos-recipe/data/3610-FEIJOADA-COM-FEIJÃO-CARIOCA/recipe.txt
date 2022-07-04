@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FEIJOADA COM FEIJÃO CARIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de feijão carioca (também chamado carioquinha)",
+      "1 kit feijoada (vende nos supermercados e açougues)",
+      "2 linguiças calabresas",
+      "1 pedaço de bacon (umas 150 g)",
+      "2 folhas de louro",
+      "1 cebola grande",
+      "5 dentes de alho amassados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No dia anterior separe as calabresas que vem no kit e coloque as outras carnes de molho.",
+      "Troque a água várias vezes porque as carnes são muito salgadas.",
+      "Escolha o feijão e coloque de molho também.",
+      "No outro dia encha uma panela com água e coloque as carnes dentro, deixe ferver por uns 30 minutos.",
+      "Acrescente o feijão (despreze a água do molho), o louro e cozinhe até tudo ficar bem macio.",
+      "Deixe sempre uma panela com água quente no fogão para você ir acrescentando à medida que for precisando.",
+      "Em outra panela frite o bacon cortado pequeno, acrescente a calabresa fatiada e deixe fritar também.",
+      "Retire e coloque na panela do feijão.",
+      "Na gordura do bacon frite o alho e a cebola.",
+      "Despeje um pouco do feijão cozido dentro da fritura e deixe soltar o fundinho com o sabor.",
+      "Despeje tudo dentro da panela maior e deixe cozinhar um pouco mais até o caldo engrossar.",
+      "Normalmente não precisa de sal porque as carnes são salgadas, mas experimente e veja se está do seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GISELE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303048-feijoada-com-feijao-carioca.html"
+}

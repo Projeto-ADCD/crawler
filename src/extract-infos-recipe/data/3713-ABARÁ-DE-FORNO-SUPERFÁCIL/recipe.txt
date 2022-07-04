@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ABARÁ DE FORNO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão fradinho",
+      "2 cebolas médias",
+      "200 g de bacalhau desfiado e dessalgado",
+      "1 pitada de sal",
+      "6 colheres (sopa) de azeite de dendê",
+      "100 g de amendoim torrado",
+      "100 g de castanha de caju",
+      "folhas de coentro a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o feijão e deixe de molho por 6 horas na água.",
+      "Após as 6 horas, escorra e lave mais um pouco",
+      "Coloque no liquidificador com os demais ingredientes.",
+      "Acrescente 200 ml de água se necessário.",
+      "Bata até que vire uma pasta macia.",
+      "Unte um refratário com azeite de dendê e coloque essa mistura do liquidificador.",
+      "Asse em forno preaquecido a 180° C por 1 hora.",
+      "Sirva com refogado de bacalhau e salada vinagrete."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DARLENE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302852-abara-de-forno-superfacil.html"
+}

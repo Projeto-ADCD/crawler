@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SOUR CREAM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa ou lata de creme de leite",
+      "1 limão",
+      "1 colher (sopa) de vinagre (preferencialmente de maçã)",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o creme de leite bem gelado, adicione o suco do limão e bata bem com um fouet.",
+      "Adicione o sal, a pimenta e o vinagre.",
+      "Continue batendo até ficar areado."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PAMELA NAKANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304396-sour-cream.html"
+}

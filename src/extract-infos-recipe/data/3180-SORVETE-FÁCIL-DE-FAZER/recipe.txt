@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SORVETE FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "2 colheres de leite em pó",
+      "1 colher (sopa) de liga neutra",
+      "1 colherzinha (café) de emulsificante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador por 5 minutos",
+      "Coloque no freezer para endurecer"
+    ],
+    "NO DIA SEGUINTE:": [
+      "Bata na batedeira com mais 1 colherzinha de emulsificante",
+      "Bata por mais 3 minutos colocando o sabor desejado"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "NIIH MIRANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303775-sorvete-facil-de-fazer.html"
+}

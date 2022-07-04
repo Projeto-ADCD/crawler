@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BROWNIE DE CHOCOLATE NA AIR FRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara (chá) de chocolate puro em pedaços",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "1 ovo grande",
+      "1/2 xícara (chá) de açúcar",
+      "1 colher (sopa) de essência de baunilha",
+      "1/2 xícara (chá) de farinha de trigo com fermento",
+      "2 colheres (sopa) de nozes ou avelãs picadas",
+      "Uma forma de alumínio redonda descartável com cerca de 18cm de diâmetro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça a Air Fryer a 200°C, de 4 a 6 minutos.",
+      "Coloque a forma de bolo na cesta da Air Fryer e asse o brownie a 180° por 20 minutos, ou até que a superfície esteja crocante.",
+      "O interior deve permanecer macio.",
+      "Retire a forma da Air Fryer e deixe o brownie esfriar na forma forma do bolo.",
+      "Quando esfriar, corte em 6 pedaços."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva o brownie morno com sorvete de creme e calda quente de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "24 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DELPHOX_ BR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301775-brownie-de-chocolate-na-air-fryer.html"
+}

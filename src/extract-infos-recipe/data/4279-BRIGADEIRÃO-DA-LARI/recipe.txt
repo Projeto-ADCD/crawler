@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BRIGADEIRÃO DA LARI",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite (200 ml de creme de leite)",
+      "1 colher de margarina sem sal (50g)",
+      "6 colheres (chá) de cacau em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Depois que bater tudo, coloque dentro de uma forma (de pudim) untada com manteiga.",
+      "Cubra a forma com papel aluminio Leve ao forno em banho-maria.",
+      "Deixe o forno pre aquecido a 180 graus. Assar por aproximadamente 50 minutos ou ate o palito sair mais ‘sequinho’.",
+      "Espere esfriar um pouco e desenforme. Depois, cubra o brigadeirao com granulado ou da forma que preferir.",
+      "Deixe na geladeira ate ficar bem geladinho e é so servir."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LARISSA AKEMI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301476-brigadeirao-da-lari.html"
+}

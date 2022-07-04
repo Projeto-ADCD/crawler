@@ -1,0 +1,32 @@
+{
+  "nome_receita": "QUIBE VEGETARIANO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g (mais ou menos 1 xícara) de farinha de quibe hidratada",
+      "250 ml de água",
+      "2 cenouras",
+      "2 batatas",
+      "1 cebola",
+      "queijo a gosto",
+      "sal e temperos a gosto",
+      "suco de meio limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece colocando a farinha num pote com a água e deixe hidratar por aproximadamente 40 minutos a 1 hora",
+      "Depois descasque, pique os legumes e coloque para ferver na água até amolecer bem.",
+      "Depois de hidratar a farinha ela vai dobrar de tamanho, adicione a batata e a cenoura bem molinhas, a cebola picada, o suco de meio limão e os temperos de sua preferência.",
+      "Você pode colocar o que achar gostoso, eu coloquei cebolinha, cominho, açafrão e lemon pepper.",
+      "Misture bem até virar uma massa.",
+      "Na forma, coloque um pouco de óleo no fundo e faça uma camada com a metade da massa,",
+      "Adicione o queijo no meio e cubra com o resto da massa.",
+      "Asse até fazer a casquinha e derreter o queijo, aproximadamente 30min a 40min em 230graus.",
+      "Para deixar a receita vegana é só tirar o queijo ou substituir por um que não seja de origem animal."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "STHEFANIA DARLING",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305662-quibe-vegetariano-de-forno.html"
+}

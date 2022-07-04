@@ -1,0 +1,38 @@
+{
+  "nome_receita": "EMPADÃO OVOLACTOVEGETARIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de creme de leite",
+      "1 caixa de ervilha e outra de milho verde",
+      "1 pacote de champignon cortado",
+      "1/4 de gordura vegetal",
+      "Óleo e azeite",
+      "1 maionese pequena em refil",
+      "1 kg farinha de trigo com fermento de preferência",
+      "2 maçãs médias previamente cozidas e já frias",
+      "Uma pitada de bicarbonato de sódio",
+      "Sal a gosto, 1 colher de sopa de açúcar",
+      "Colorau, salsa desidratada e cominho a gosto",
+      "Alho, cebola a gosto",
+      "Uma sacola plástica limpa e sem furos para colocar a massa sovada dentro e depois levar à geladeira"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa bacia amasse a maçã, o fermento biológico e o açúcar com um garfo.",
+      "Coloque uma colher de azeite, uma de óleo, a gordura vegetal em temperatura ambiente e continue amassando com o garfo.",
+      "Coloque uma caixa de creme de leite, 700 gramas de farinha de trigo, o bicarbonato de sódio e comece a sovar.",
+      "Acrescente o sal e sove bastante. Ela fica uma massa pesada. Agora coloque na sacola e leve a geladeira por uma hora e trinta minutos.",
+      "Numa panela, refogue o alho e a cebola, acrescente o champignon , refogue bem. Acrescente o milho verde, a ervilha, o colorau, sal, a salsa e o cominho e deixe refogar um pouco mais.",
+      "Na panela, coloque a maionese e o creme de leite. Deixe poucos minutos no fogo porque começará a queimar no fundo da panela.",
+      "Deixe esfriar, pois, deve ser colocado frio no recheio do empadão.",
+      "Retire a massa do empadão da geladeira, divida em duas partes e abra-as com um rolo de massa.",
+      "Cubra uma forma com a massa, coloque o recheio e tampe o empadão com a outra parte da massa já previamente aberta.",
+      "Aqueca o forno previamente. Coloque papel alumínio na forma e deixe em fogo médio por 45 minutos. Desligue o fogo, mas deixa o empadão lá por mais 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300596-empadao-ovolactovegetariano.html"
+}

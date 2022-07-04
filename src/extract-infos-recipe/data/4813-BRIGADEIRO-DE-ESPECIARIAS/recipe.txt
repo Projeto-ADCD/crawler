@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BRIGADEIRO DE ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de chocolate em pó",
+      "2 colheres (chá) de canela em pó",
+      "5 cravos ou 1 colher (chá) de cravo em pó",
+      "pimenta calabresa ou dedo de moça (sem a sementes) a gosto",
+      "3 colheres (sopa) de creme de leite",
+      "1 colher (sopa) de manteiga sem sal ou margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga ou margarina em fogo baixo para derreter.",
+      "Depois adicione o leite condensado e misture.",
+      "Adicione o chocolate, a canela, o cravo e a pimenta.",
+      "Mexa bem e quando chegar ao ponto de brigadeiro adicione o creme de leite",
+      "Misture até tudo derreter, depois desligue o fogo.",
+      "Em seguida enrole no açúcar e na canela e decore com um cravo (ou coma de colher)"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GUILLHERME GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300181-brigadeiro-de-especiarias.html"
+}

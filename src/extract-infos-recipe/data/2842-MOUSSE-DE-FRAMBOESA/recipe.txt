@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE FRAMBOESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "2 caixinhas de gelatina sabor framboesa",
+      "150 ml de água mineral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva 150 ml de água e dissolva a gelatina, depois reserve para uso em seguida.",
+      "No liquidificador coloque o leite condensado, o creme de leite e a gelatina dissolvida, e então bata até a mistura ficar homogênea.",
+      "Depois é só despejar em potinhos individuais ou em um refratário à sua escolha e leve a geladeira por 4 horas, ou até a mousse ficar consistente.",
+      "Geralmente em taças de sobremesa tradicionais essa receita rende por volta de 6 porções.",
+      "Dica: se quiser a mousse menos doce pode colocar apenas 1/2 lata de leite condensado e apenas 1 caixinha de gelatina.",
+      "Mantenha o resto da receita e também dará certo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDREZA COSOMANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304300-mousse-de-framboesa.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PUDIM GOURMET DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Pudim",
+      "3 xícara de água quente",
+      "5 unidades de gemas peneradas (100 g)",
+      "3 unidades de claras de ovos (90 g)",
+      "200 ml de creme de leite",
+      "395 g de leite condensado",
+      "200 ml de leite integral",
+      "3 unidades de limão (usar somente as raspas)",
+      "Calda",
+      "160 g de açúcar",
+      "120 ml água",
+      "10 ml suco de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Misture todos os ingredientes numa panela e leve ao fogo, até a cor de caramelo, sem mexer.",
+      "Assim que ficar pronta coloque na forma",
+      "Pudim",
+      "Misture num bowl todos os ingredientes, com um fouet",
+      "Coe e leve numa forma caramelada ao forno, por 1 hora, em banho-maria em água fervente",
+      "Espere esfriar e desenforme",
+      "Coloque raspas de limão ao servir"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAYSSA ALMEIDA FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304403-pudim-gourmet-de-limao.html"
+}

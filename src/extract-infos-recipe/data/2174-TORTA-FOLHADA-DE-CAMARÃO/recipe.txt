@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TORTA FOLHADA DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de massa folhada laminada (comprada pronta em supermercados)",
+      "3 colheres (sopa) de azeite",
+      "1 cebola grande picada",
+      "1 limão siciliano",
+      "3 dentes de alho amassados",
+      "400 g de camarão graúdos",
+      "3 colheres (sopa) de molho de tomate",
+      "2 colheres (sopa) de farinha de trigo",
+      "250 ml de leite",
+      "100 g de requeijão",
+      "1/2 xícara (chá) de salsinha picada",
+      "1 colher (chá) de cominho",
+      "1 colher (sopa) de caldo de camarão em pó",
+      "1 gema",
+      "1 colher (sopa) de queijo parmesão ralado",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha tempere os camarões limpos com sal e limão.",
+      "Deixe tomar gosto por uns 15 minutos no refrigerador.",
+      "Em uma panela média, refogue a cebola e os alhos no azeite.",
+      "Acrescente os camarões e o molho de tomate e deixe refogar por uns 5 minutos.",
+      "Acrescente o cominho e o caldo de camarão.",
+      "Mexa tudo muito bem.",
+      "Dissolva a farinha no leite e junte ao refogado, mexendo em fogo brando até engrossar.",
+      "Retire o refogado do fogo, adicione o requeijão e a salsinha picada.",
+      "Misture tudo muito bem.",
+      "Experimente e veja se necessita mais sal ou pimenta.",
+      "Deixe esfriar.",
+      "Forre um refratário médio com metade da massa folhada.",
+      "Coloque o recheio sobre a massa e cubra com o restante da massa folhada.",
+      "Pincele com uma gema a superfície da massa e polvilhe com queijo parmesão ralado.",
+      "Leva a tortas ao forno, que deverá já estar pré-aquecido, à temperatura de 200º C, pelo tempo de uns 30 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305784-torta-folhada-de-camarao.html"
+}

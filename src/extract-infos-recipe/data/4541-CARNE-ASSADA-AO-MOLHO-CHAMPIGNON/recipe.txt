@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CARNE ASSADA AO MOLHO CHAMPIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de contra filé",
+      "alho a gosto",
+      "sal a gosto",
+      "1 xícara de vinagre",
+      "1 pitada de pimenta-do-reino",
+      "2 caixas de creme de leite",
+      "mostarda a gosto",
+      "champignon a gosto",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, tempere a carne com o alho, o vinagre, o sal e a pimenta-do-reino.",
+      "Coloque em uma forma com papel-aluminio em cima e leve ao forno por 40 minutos.",
+      "Em uma panela coloque a manteiga, frite um pouco de alho e depois junte o champignon e a mostarda a gosto",
+      "Por fim, coloque as caixas de creme de leite e experimente para ver se é necessário mais mostarda.",
+      "O segredo desse molho é a mostarda.",
+      "Por fim, quando a carne ficar pronta, corte ela em bifes de 2 dedos de largura, coloque em um recipiente e despeje por cima da carne o molho de mostarda com champignon",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELA UEDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300897-carne-assada-ao-molho-champignon.html"
+}

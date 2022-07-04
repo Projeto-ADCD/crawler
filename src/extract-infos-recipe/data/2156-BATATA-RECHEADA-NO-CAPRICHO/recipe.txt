@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BATATA RECHEADA NO CAPRICHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 batatas grandes",
+      "300 g de queijo cremoso ralado",
+      "150 g de requeijão cremoso tradicional",
+      "1 colher (sopa) de azeite",
+      "1 pitada de sal",
+      "salsinha a gosto",
+      "pimenta-Calabresa (ou pimenta-do-reino) a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as batatas no meio e cozinhe-as na água com sal (lembre-se que não pode cozinhar muito)",
+      "Depois de cozidas, com a ajuda de uma colher (sopa), retire o meio da batata (não tire muito a ponto de quebrar a batata)",
+      "Em um mixer ou liquidificador, bata o queijo, o requeijão, o orégano e uma parte da salsinha.",
+      "Recheie a batata e coloque em uma bandeja, decore com a salsinha (a gosto) e coloque o azeite.",
+      "Leve ao forno preaquecido em 200° C e asse até dourar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CHEF JOSELY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305827-batata-recheada-no-capricho.html"
+}

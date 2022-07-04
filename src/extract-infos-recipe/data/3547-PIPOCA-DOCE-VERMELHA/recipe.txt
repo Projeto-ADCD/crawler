@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PIPOCA DOCE VERMELHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de milho de pipoca",
+      "1/2 xícara de água",
+      "1/2 xícara de açúcar",
+      "1/4 xícara de óleo",
+      "corante vermelho (pode colocar até o tom que desejar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo dentro de uma panela grande que tenha tampa",
+      "Ainda com fogo desligado, misture tudo",
+      "Coloque na chama mais alta do seu fogão e mexa sempre sem parar com uma colher de pau",
+      "Quando estourar o primeiro milho, abaixe o fogo e começa a mecher a panela sem parar com ajuda de um pano de prato, para sacudir a panela e assim misturar o corante na pipoca",
+      "Pronto, só desligar e passa para um recipiente, espere esfriar para soltar as pipocas e bom apetite ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Caso queira que a pipoca fique com aroma das pipocas vendidas por pipoqueiros, é só acrescentar 1 colher (sopa) de leite de coco na mistura, lá no início com o fogo desligado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DAIANE ALMEIDA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303161-pipoca-doce-vermelha.html"
+}

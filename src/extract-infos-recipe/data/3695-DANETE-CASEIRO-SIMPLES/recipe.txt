@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DANETE CASEIRO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher de manteiga ou margarina",
+      "4 colheres de cacau em pó",
+      "1 caixa de creme de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Acrescente todos os ingredientes em uma panela e mexa até desgrudar do fundo",
+      "O ponto é o mesmo do brigadeiro.",
+      "Depois de pronto coloque em um recpiente e coloque na geladeira por 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "DUDA COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302895-danete-caseiro-simples.html"
+}

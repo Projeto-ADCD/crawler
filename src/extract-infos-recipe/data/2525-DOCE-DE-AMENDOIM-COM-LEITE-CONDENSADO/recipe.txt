@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DOCE DE AMENDOIM COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim torrado",
+      "2 xícaras de água",
+      "2 xícaras de açúcar",
+      "1 caixa de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o amendoim torrado, a água e o açúcar numa panela",
+      "Leve ao fogo mexendo sempre até ferver e começar a secar a água e açucarar o amendoim.",
+      "Retire do fogo acrescente o leite condensado e retorne ao fogo mexendo até desprender da panela.",
+      "Despeje sobre uma superfície de pedra ou em plástico-filme.",
+      "Corte em pedaços e espere esfriar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SIRLENE PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305028-doce-de-amendoim-com-leite-condensado.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOTO DE MARISCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de arroz arborio",
+      "500 g de marisco pré-cozinho sem casca",
+      "1 talo de alho poró",
+      "1 maço de salsinha",
+      "1 colher (chá) de páprica picante",
+      "100 g de queijo parmesão",
+      "1 cebola pequena",
+      "4 dentes de alho",
+      "1 taça de vinho branco seco",
+      "2 colher (sopa) de azeite de oliva",
+      "1 litro de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela grande o azeite e a cebola",
+      "Quando começar a corar, adicione o alho e doure mais um pouco",
+      "Adicione o arroz e misture, quando começar a ver grãos meio transparentes adicione a taça de vinho e fique mexendo sempre",
+      "Em uma panela coloque a água, alho poró fatiado e a salsinha picada e cozinhe (coloquei água quente e deixei uns 5 minutos fervendo)",
+      "Vá adicionando ao arroz o caldo (do alho poró com salsinha) e sempre mexendo (quanto mais mexer mais cremoso fica)",
+      "Quando estiver quase ao dente, adicione os mariscos e misture",
+      "Adicione a páprica e continue misturando.",
+      "Coloque sal ao seu gosto",
+      "Quando estiver ao dente (depende do seu gosto) adicione o queijo e misture bem",
+      "Agora é só se deliciar"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDUARDO NOGUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305623-risoto-de-marisco.html"
+}

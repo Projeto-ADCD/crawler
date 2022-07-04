@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FAROFA SUPREMA DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Pacote de farofa pronta 500 g (tradicional ou de sua preferência/com ou sem pimenta)",
+      "3 colheres (sopa) de manteiga",
+      "1 colher (sopa) de azeite de oliva",
+      "100 g de bacon cortados em cubos pequenos",
+      "100 g de calabresa cortada em cubos",
+      "2 unidades de linguiças toscana para churrasco",
+      "2 cebolas médias cortadas em rodelas finas",
+      "1 cenoura média ralada",
+      "3 dentes de alho amassados",
+      "50 g de damascos secos picados ou uvas passas brancas sem sementes",
+      "1 colher (sopa) de óregano",
+      "1/2 xícara de salsinha picada",
+      "1 tomate pequeno sem sementes cortados em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, adicione a manteiga, o azeite de oliva e o bacon cortado em cubos.",
+      "Deixe o bacon dourar, retire-os da fritura e reserve-os.",
+      "Com a gordura que ficou, frite as demais carnes.",
+      "Adicione a calabresa cortada em cubos bem pequenos e a linguiça toscana, própria para churrasco (retire a película de proteção dessa linguiça)",
+      "Com ajuda de um garfo, solte-a para misturar com a calabresa.",
+      "Após a fritura, adicione os 3 dentes de alhos amassados e as cebolas cortadas em rodelas bem finas.",
+      "Quando as cebolas ficarem trasparentes, adicione a cenoura ralada, o orégano, o tomate, o damasco (ou as uvas passas) e misture para refogar.",
+      "Adicione a farofa pronta de sua preferência, o bacon que havia reservado e finalize com a salsinha picada.",
+      "Misture por mais 1 minuto e desligue o fogo.",
+      "Não há necessidade de adicionar sal a essa receita, pois a farofa pronta já vem temperada.",
+      "O sal é opcional"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LEO CARIOCA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303684-farofa-suprema-de-natal.html"
+}

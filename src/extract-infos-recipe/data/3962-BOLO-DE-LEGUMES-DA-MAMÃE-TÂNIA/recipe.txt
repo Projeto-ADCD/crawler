@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE LEGUMES DA MAMÃE TÂNIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de leite",
+      "2 ovos",
+      "1 xícara (chá) de maionese",
+      "2 colheres (sopa) de queijo parmesão",
+      "sal e pimenta do reino à gosto",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 cebola",
+      "1 tomate picado",
+      "1 cenoura cozida picada",
+      "1/2 pimentão verde picado",
+      "2 colheres (sopa) de cheiro verde picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os primeiros 7 ingredientes: o leite, os ovos, a maionese, o sal, a pimenta, a farinha de trigo e o fermento",
+      "Passe para uma tigela e misture os ingredientes restantes;",
+      "Coloque numa forma de furo central (média), untada e enfarinhada;",
+      "Leve ao forno médio por 40 minutos;",
+      "Desenforme e decore à gosto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LIVIA CANAVEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302291-bolo-de-legumes-da-mamae-tania.html"
+}

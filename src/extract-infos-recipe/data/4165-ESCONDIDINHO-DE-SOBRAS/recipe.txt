@@ -1,0 +1,42 @@
+{
+  "nome_receita": "ESCONDIDINHO DE SOBRAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras médias",
+      "1 batata inglesa média",
+      "1 batata doce média",
+      "1 tomate grande sem pele",
+      "8 fatias de queijo mussarela",
+      "3 xícaras (chá) de sobra de guizado",
+      "2 colheres (sopa) de manteiga sem sal",
+      "1 ovo",
+      "3 colheres de salsinha e cebolinha picadas",
+      "1 colher (chá) de noz-moscada ralada",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda com água coloque as cenouras descascadas e cortadas em rodelas.",
+      "Acrescente a batata inglesa e a batata doce descascadas e cortadas em cubos.",
+      "Coloque sal e pimenta a gosto.",
+      "Se gostar pode colocar 2 folhas de louro.",
+      "Ponha tudo a cozinhar até ficar os ingredientes macios.",
+      "Escorra a água e passe os legumes em um espremedor de batata.",
+      "Acrescente a manteiga, o ovo e a nos-moscada e misture tudo muito bem.",
+      "Acrescente a salsinha e cebolinha bem picada e misture tudo.",
+      "Em um refratário, untado com azeite, distribua as três xícaras de sobra de guizado.",
+      "Por cima coloque quatro fatias do queijo mussarela.",
+      "Cubra com o purê de cenoura.",
+      "Por cima do purê de cenoura coloque as outras quatro fatias de queijo mussarela.",
+      "Para enfeitar, corte o tomate em fatias finas e coloque por cima de tudo.",
+      "Regue com um fio de azeite.",
+      "Leve ao forno pré-aquecido a 170ºC e deixe cozinhar por uns 35 minutos ou até dourar.",
+      "Sireva em seguida como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301694-escondidinho-de-sobras.html"
+}

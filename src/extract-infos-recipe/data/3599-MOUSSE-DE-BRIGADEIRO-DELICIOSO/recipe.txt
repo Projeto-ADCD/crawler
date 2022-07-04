@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOUSSE DE BRIGADEIRO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 leites condensados",
+      "2 creme de leite",
+      "10 colheres de chocolate em pó (se for cacau coloque 5 colheres)",
+      "200 ml de chantilly gelado",
+      "chocolate picado a gosto para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite condensado, o creme de leite, o chocolate em pó e mexa para misturar bem",
+      "Leve ao fogo mexendo sempre para não grudar no fundo da panela até engrossar.",
+      "Coloque em uma vasilha e cubra com plástico-filme (coloque em cima do brigadeiro mole, arrume bem para que o plástico fique bem colocado para quando esfriar o brigadeiro não fique com uma superfície ressecada) e reserve.",
+      "Bata o chantilly bem gelado, misture com delicadeza no brigadeiro já frio, decore com o chocolate picado e leve para a geladeira por 1 hora."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "NAIR GONÇALVES LEITE DE MARCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303067-mousse-de-brigadeiro-delicioso.html"
+}

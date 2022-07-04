@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA FIT SEM CULPA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "1 xícara de farinha de tapioca",
+      "sal a gosto",
+      "1 colher (sobremesa) de fermento em pó",
+      "cheiro-verde fresco a gosto",
+      "1 cenoura ralada",
+      "200 g de peito de frango desfiado",
+      "100 g de queijo minas picado",
+      "1 tomate picado",
+      "1 cebola pequena picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bem os ovos",
+      "Após bater, adicione todos os outros ingredientes e misture bem",
+      "Leve ao forno por 25 a 30 minutos",
+      "Sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303271-torta-fit-sem-culpa.html"
+}

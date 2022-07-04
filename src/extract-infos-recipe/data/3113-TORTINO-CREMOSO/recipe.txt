@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTINO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g  de manteiga",
+      "30 g de farinha de trigo",
+      "200 ml de leite",
+      "sal a gosto",
+      "pimenta-do-reino branca a gosto",
+      "60 g de queijo parmesão ralado Président",
+      "30 g de queijo provolone Président ",
+      "30 g de queijo gruyère Président",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça um molho branco com a manteiga, farinha e o leite",
+      "Aqueça o leite enquanto derrete a manteiga e misture a farinha formando o roux",
+      "Com o leite quente adicione o roux e misture bem com o fuê",
+      "Caso empelote, é só passar na peneira",
+      "Tempere o molho com sal e pimenta",
+      "Una os queijos e os ovos ao molho",
+      "Coloque em forminhas de empada ou petit gateau, untadas e enfarinhadas",
+      "Asse em banho-maria, como um pudim, em forno a 160°, por aproximadamente 30 minutos",
+      "Desenforme e sirva quente",
+      "Sugestão servir com tomates em cubos salteados no azeite, com manjeiricão e alho a gosto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Gabriel\nObs.: a combinação de queijos é livre ao gosto e disponibilidade que você tiver em casa."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303862-tortino-cremoso.html"
+}

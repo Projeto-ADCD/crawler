@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FILÉ MIGNON FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé mignon",
+      "1 cebola picada em cubinhos",
+      "1 colher (sopa) de chimichirru",
+      "2 colheres (sopa) de molho inglês",
+      "1/2 xícara de água",
+      "sal e tempero pronto a gosto",
+      "1 pitada de pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes, menos a água, em uma panela e leve ao fogão.",
+      "Com 15 minutos, mexa bem e adicione a água",
+      "Deixe por mais 15 minutos com a tampa fechada."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LIGIA CAMILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302497-file-mignon-facil-e-delicioso.html"
+}

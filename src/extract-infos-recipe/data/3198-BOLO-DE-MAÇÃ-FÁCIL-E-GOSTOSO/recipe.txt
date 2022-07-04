@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de açúcar",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de cravo em pó",
+      "1 colher (sopa) de canela em pó",
+      "1 pitada de sal",
+      "3 ovos",
+      "3 maçãs",
+      "1 xícara de óleo vegetal",
+      "manteiga para untar",
+      "canela e açúcar para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma redonda com buraco no meio usando manteiga",
+      "Em uma tigela, peneire e misture a farinha, o açúcar, o fermento em pó, a canela e o cravo",
+      "Reserve",
+      "Lave bem as maçãs, pique-as e reserve",
+      "Em um liquidificador, bata os ovos, o óleo e as maçãs até obter uma mistura homogênea",
+      "Despeje a mistura líquida na tigela com os ingredientes secos e misture lentamente",
+      "Despeje a mistura na assadeira e leve em fogo médio preaquecido de 40 a 50 minutos",
+      "Enquanto assa, misture canela em pó e açúcar a gosto",
+      "Após assar, peneire a mistura de canela e açúcar."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "ANA ARARUNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303748-bolo-de-maca-facil-e-gostoso.html"
+}

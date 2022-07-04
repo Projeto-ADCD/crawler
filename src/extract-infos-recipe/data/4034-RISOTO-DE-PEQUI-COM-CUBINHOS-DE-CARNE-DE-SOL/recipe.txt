@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOTO DE PEQUI COM CUBINHOS DE CARNE DE SOL",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 caroços de pequi (mais ou menos)",
+      "2 xícaras de arroz arbóreo",
+      "100 ml de cachaça",
+      "1,2 litro de caldo de vegetais fervendo",
+      "1/2 cebola média em cubinhos",
+      "2 dentes de alho picados",
+      "1 colher cheia de manteiga gelada",
+      "100 g de queijo parmesão em pedaço",
+      "200 g carne de sol em cubinhos",
+      "4 colheres de sopa de azeite",
+      "sal a gosto",
+      "pimenta preta a gosto",
+      "salsinha e cebolinha para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em banho-maria, cozinhe o pequi até que fique macio",
+      "Espere esfriar, raspe com cuidado a polpa e bata no liquidificador com uma pitada de sal (reserve)",
+      "Em uma caçarola ou frigideira alta, coloque o azeite e doure o alho, depois a cebola e a carne de sol.",
+      "Acrescente o arroz e refogue até que fique translúcido, coloque a cachaça e deixe evaporar.",
+      "Adicione o creme de pequi e aos poucos o caldo de vegetais, mexendo até ficar \"al dente\".",
+      "Por fim, acrescente a manteiga gelada, rale o queijo e acrescente com a pimenta preta também.",
+      "Acerte o sal mexa para integrar os ingredientes.",
+      "Decore com a salsinha e a cebolinha e sirva."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "RONAN FILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302095-risoto-de-pequi-com-cubinhos-de-carne-de-sol.html"
+}

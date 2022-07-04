@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PAÇOCA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de amendoim",
+      "2 pacotes de biscoito maisena",
+      "2 caixas de leite condensado",
+      "1 colher (café) rasa de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Torre o amendoim e assim que esfriar, descasque e reserve.",
+      "Triture o amendoim.",
+      "Triture o biscoito de maisena.",
+      "Em uma vasilha, misture o amendoim e o biscoitos (triturados).",
+      "Adicione o sal e mexa bem com uma colher.",
+      "Coloque o leite condensado aos poucos e mexa com uma colher ate você conseguir uma massa.",
+      "Com as mãos, sove bem a massa da paçoca, como se fosse uma massa de pão.",
+      "Forre uma travessa de vidro com plástico filme e vá colocamdo a massa até acabar.",
+      "Leve à geladeira e depois de uns 20 minutos tire e corte os quadradinhos de paçoca."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "BRUNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300847-pacoca-com-leite-condensado.html"
+}

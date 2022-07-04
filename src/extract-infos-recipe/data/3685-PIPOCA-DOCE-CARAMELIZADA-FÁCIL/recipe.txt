@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PIPOCA DOCE CARAMELIZADA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de milho ",
+      "1/2 xicara de açúcar ",
+      "corante a gosto (opcional)",
+      "50 ml de olho vegetal (ou quaisquer)",
+      "100 ml de água",
+      "2 colheres de leite de coco (ou essência de baunilha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte tudo em uma panela que possa ir ao fogo",
+      "Depois misture tudo",
+      "Mexa de 2 em 2 minutos",
+      "Quando a primeira pipoca estourar, tampe a panela",
+      "Coloque a tampa e um pano por cima",
+      "Mexa até todo o milho estourar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAMILLA ANA JULLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302917-pipoca-doce-caramelizada-facil.html"
+}

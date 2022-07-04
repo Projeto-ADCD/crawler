@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CREME DE ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora madura sem casca",
+      "1 cebola grande picada",
+      "alho amasado a gosto",
+      "sal a gosto",
+      "5 colheres (sopa) de massa de tomate",
+      "5 caixas de creme de leite",
+      "1 queijo branco redondo inteiro cortado em cubo",
+      "150 g de muçarela",
+      "salsa picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue uma cebola grande picadinha.",
+      "Acrescente o alho e refogue junto com a cebola.",
+      "Depois de dourar a cebola e o alho, junte uma abóbora inteira cortada em pedaços e sal.",
+      "Coloque 500 ml de água, 5 colheres (sopa) de massa de tomate e e deixe cozinhar até desmanchar.",
+      "Se quiser, passe esse creme no liquidificador (opcional).",
+      "Depois que o creme adquirir uma consistência homogênea lisa, coloque o queijo branco picado.",
+      "Adicione 150 g de muçarela.",
+      "Finalize acrescentando 5 caixas de creme de leite e a salsa picadinha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SAMANTHA MATTOS PIMENTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301987-creme-de-abobora.html"
+}

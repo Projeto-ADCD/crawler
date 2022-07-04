@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CAPPUCCINO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "afé solúvel de 50 g (marca de sua preferência)",
+      "2 xícaras de açúcar",
+      "1 xícara de água",
+      "leite líquido a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todo os 50 g de café solúvel com as 2 xícaras de açúcar e com 1 xícara de água na batedeira.",
+      "Deixe bater durante 6 minutos.",
+      "Depois que pegar uma consistência mais grossinha, coloque em um recipiente.",
+      "Na sua xícara coloque o leite líquido para esquentar durante 2 minutos no micro-ondas.",
+      "Na xícara com leite quente coloque 2 colheres médias de cappuccino e mexa até se diluir.",
+      "E fim, está pronto nosso cappuccino caseiro."
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "THAÍS CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305579-cappuccino-caseiro.html"
+}

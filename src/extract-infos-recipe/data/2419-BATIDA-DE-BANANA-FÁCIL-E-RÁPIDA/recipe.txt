@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BATIDA DE BANANA FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "5 bananas",
+      "500 ml de leite gelado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado, as bananas e o leite no liquidificador",
+      "Bata tudo por 1 minuto",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DIENIFER GOLDSCHMIDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305258-batida-de-banana-facil-e-rapida.html"
+}

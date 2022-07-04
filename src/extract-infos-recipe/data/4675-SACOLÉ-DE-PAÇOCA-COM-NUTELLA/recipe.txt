@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SACOLÉ DE PAÇOCA COM NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensado",
+      "Algumas colheres de paçoca, ao seu gosto",
+      "1 colher rasa de liga neutra",
+      "1 pote de creme de avelã com chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passe o creme de avelã nos saquinhos e depois pegue os outros ingredientes e bata no liquidificador.",
+      "Adicione a mistura do liquidificador nos saquinhos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "19 PORÇÕES",
+  "autor": "RAFAELA PASSOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300458-sacole-de-pacoca-com-nutella.html"
+}

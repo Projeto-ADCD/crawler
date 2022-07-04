@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME DE AIPIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 kg de aipim ou mandioca",
+      "100 g de creme de cebola",
+      "1 colher (sopa) de manteiga",
+      "100 ml de leite",
+      "2 dentes de alho",
+      "3 colheres (sopa) de azeite",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o aipim",
+      "Depois de cozido bata no liquidificador até formar um purê",
+      "Numa panela, bata o alho, coloque o azeite e deixe dourar",
+      "Refogue o purê e vá colocando a manteiga, o leite e o creme de cebola",
+      "Salpique o cheiro-verde"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "REGILANE COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303378-creme-de-aipim.html"
+}

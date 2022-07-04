@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO CASEIRO FEITO POR CRIANÇA !",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícaras (chá) de óleo de soja",
+      "1/2 xícaras (chá) de leite morno",
+      "30 g ou 2 cubos de fermento para pão",
+      "5 xícaras (chá) de farinha de trigo",
+      "1/4 xíara (chá) de açúcar",
+      "1 colher (sopa) de sal",
+      "1 recipiente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, óleo, leite e o fermento para pão.",
+      "Coloque em uma vasilha grande farinha, açúcar e o sal e misture bem.",
+      "Depois, acresente o líquido que está no liquidificador.",
+      "Misture bem e amasse com uma colher de madeira grande até formar bolhas.",
+      "Deixe descansar por 20 minutos.",
+      "Coloque a massa em uma forma grande e untada com manteiga e farinha de trigo e asse por 40 minutos em 200 graus."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "-7 PORÇÕES",
+  "autor": "YASMIN LIMA MORENO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300336-pao-caseiro-feito-por-crianca.html"
+}

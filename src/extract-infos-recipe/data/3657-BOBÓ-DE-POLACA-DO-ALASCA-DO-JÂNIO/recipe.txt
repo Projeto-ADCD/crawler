@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOBÓ DE POLACA DO ALASCA DO JÂNIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de file de polaca do alasca sem pele e sem espinha",
+      "1 tomate picado",
+      "1 cebola picada",
+      "tempero baiano a gosto",
+      "2 tabletes de caldo de legumes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte em cubos os filés",
+      "Coloque os filés de polaca numa panela",
+      "Acrescente o caldo de legumes",
+      "Coloque um pouco de água (pouca coisa) abaixo dos filés e deixe cozinhar uns 5 minutos",
+      "Após isso acrescente o tomate, a cebola e o tempero baiano",
+      "Deixe em fogo baixo até a água baixar bem, diluir o peixe, o tomate e a cebola"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TEOFFILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302966-bobo-de-polaca-do-alasca-do-janio.html"
+}

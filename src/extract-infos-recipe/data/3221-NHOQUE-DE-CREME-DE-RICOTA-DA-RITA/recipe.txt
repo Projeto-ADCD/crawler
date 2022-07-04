@@ -1,0 +1,54 @@
+{
+  "nome_receita": "NHOQUE DE CREME DE RICOTA DA RITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 potes de creme de ricota Président",
+      "2 e 1/2  batata inglesa grandes",
+      "3 colheres (sopa) de requeijão cremoso",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 de 1/2 colher (sopa) de manteiga Président",
+      "1 colher (sobremesa) de salsinha picada",
+      "1 colher (sopa) bem cheia de cebola picada",
+      "2 gemas de ovo",
+      "sal a gosto",
+      "1 colher (chá) de alho amassado",
+      "água quente",
+      "água gelada "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas, corte em cubos e cozinhe",
+      "Escorra e amasse as batatas no espremedor",
+      "Coloque uma xícara de farinha de trigo, as 2 gemas, 3 colheres (sopa) do creme de ricota Président",
+      "Acrescente sal a gosto",
+      "Misture tudo para incorporar os ingredientes",
+      "Em uma superfície limpa espalhe um pouco da farinha restante",
+      "Divida a massa em 4 partes",
+      "Pegue cada uma por vez e estique na superfície como se fossem cobrinhas",
+      "Polvilhe farinha de trigo para a massa não grudar",
+      "Com uma faca vá cortando pedaços com aproximadamente 2 cm",
+      "Coloque em um tabuleiro com farinha de trigo no fundo para que os nhoques não grudem",
+      "Como esta massa é muito leve evite deixá-los muito juntos",
+      "Coloque alguns nhoques em uma panela com água quente em fogo médio",
+      "Quando eles começarem a subir, retire com uma escumadeira e transfira para um escorredor",
+      "Em uma vasilha com água gelada, abaixe o escorredor para que tenha um choque térmico",
+      "Dê uma leve sacudida para sair o excesso de água e despeje em um refratário, reserve"
+    ],
+    "MOLHO:": [
+      "Em uma panela coloque 1 colher (sopa) de manteiga",
+      "Coloque a cebola picada e quando começar a dourar, acrescente o alho e continue mexendo",
+      "Acrescente o restante do creme de ricota, o requeijão, a salsinha e uma pitada de sal",
+      "Deixe ferver por 1 minuto mexendo sempre e reserve",
+      "Em uma frigideira, coloque o restante da manteiga e vá fritando as porções de nhoque até que fiquem douradinhos",
+      "Em um prato espalhe uma porção do molho de ricota, arrume a porção de nhoque e enfeite com um raminho de salsinha"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Rita de Cássia Gonçalves dos Santos"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303709-nhoque-de-creme-de-ricota-da-rita.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA FRIA DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média bem picadinha",
+      "1 tomate picadinho",
+      "30 azeitonas",
+      "3 cenouras raladas",
+      "100 ml de azeite",
+      "1 lata de milho verde",
+      "1 lata de ervilha",
+      "1 pimentão médio picadinho",
+      "1/2 kg de bacon frito",
+      "500 g farofa pronta",
+      "uva passa (opcional)",
+      "salsinha e cebolinha a gosto",
+      "300 g de maionese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha grande coloque o pimentão, a cebola, o tomate e a azeitona",
+      "Misture bem",
+      "Em seguida coloque o azeite e a maionese e mexa",
+      "Coloque os outros ingredientes e a farinha aos poucos, mexendo sempre",
+      "Pronto! A farofa está pronta!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Uma dica é fazer uma noite antes e deixar na geladeira, vai ficar com um cheirinho delicioso."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303849-farofa-fria-de-natal.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PIZZA RÁPIDA DE CALABRESA COM MASSA PRONTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 massa pronta de pizza",
+      "85 g de massa de tomate",
+      "300 g de queijo prato",
+      "200 g de calabresa cortada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Espalha a massa de tomate sobre a massa pronta",
+      "Cubra toda a pizza com o queijo",
+      "Coloque toda a calabresa cortada sobre a pizza",
+      "Leve ao forno por cerca de 15 minutos, observe se todo o queijo derreteu e está pronta!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CLAUDINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303275-pizza-rapida-de-calabresa-com-massa-pronta.html"
+}

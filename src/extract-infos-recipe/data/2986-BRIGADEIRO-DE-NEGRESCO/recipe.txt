@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BRIGADEIRO DE NEGRESCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "2 colheres (sopa) de creme de leite",
+      "1 colher (sopa) rasa de manteiga sem sal",
+      "2 colheres(sopa) de leite em pó",
+      "1 pacote de bolacha negresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire o recheio das bolachas negresco e reserve as bolachas em um recipiente",
+      "Em uma panela, adicione o leite condensado, a manteiga, o creme de leite e espere levantar fervura.",
+      "Assim que levantar fervura, adicione os recheios da bolacha e mexa até desgrudar da panela.",
+      "Coloque a massa do brigadeiro em um prato e aguarde esfriar.",
+      "Triture as bolachas até que vire um pó bem fininho.",
+      "Com a massa já fria, separe em pequenas porções e enrole bolinhas (para facilitar, coloque um pouco de manteiga nas mãos para que a massa não grude)",
+      "Passe as bolinhas na bolacha triturada e coloque em forminhas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "RARIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304028-brigadeiro-de-negresco.html"
+}

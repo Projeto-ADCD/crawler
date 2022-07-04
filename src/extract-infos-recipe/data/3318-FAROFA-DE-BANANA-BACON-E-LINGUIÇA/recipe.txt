@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA DE BANANA, BACON E LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas da terra",
+      "1 tomate",
+      "1 cebola",
+      "100 g de uva passa (opcional)",
+      "cheiro-verde a gosto",
+      "1 linguiça toscana",
+      "2 pedaços de bacon",
+      "3 dentes de alho",
+      "250 g de farinha amarela ou cuiabana",
+      "óleo pra fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as bananas em cubos e frite-as, separe",
+      "Descalde a linguiça",
+      "Corte em cubos o bacon, a linguiça, o alho, a cebola, o tomate e refogue",
+      "Quando estiver refogado misture a banana, ainda em fogo baixo, vá misturando a farinha aos poucos",
+      "Apague o fogo, coloque cheiro-verde a vontade e uva passa",
+      "Essa farinha é deliciosa, serve tanto para comer com outros acompanhamentos como também serve de recheio para frango, chester, peru e porco"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DAVID ARGEMIRO DO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303570-farofa-de-banana-bacon-e-linguica.html"
+}

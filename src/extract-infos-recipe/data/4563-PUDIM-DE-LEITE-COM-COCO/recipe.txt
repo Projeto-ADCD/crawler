@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM DE LEITE COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixz de leite condensado",
+      "500 ml de leite",
+      "1 caixa (200g) de creme de leite",
+      "100g de coco ralado",
+      "200 ml de leite de coco",
+      "24 g de gelatina incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata o leite condensado, creme de leite, leite e o leite de coco e adicione a gelatina já hidratada.",
+      "Bata os ingredientes e em seguida adicione o coco (mexa com uma colher).",
+      "Para a gelatina, coloque a gelatina em um recipiente, adicione 12 colheres (6 colheres para cada sachê) de água ou 120 ml de água.",
+      "Em seguida, leve ao microondas para hidratar por 30 segundos.",
+      "Depois de pronto, unte uma forma com óleo, despeje o líquido do pudim e leve para a geladeira por 2 horas. Em seguida, é só desenformar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GEISIANE CRUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300843-pudim-de-leite-com-coco.html"
+}

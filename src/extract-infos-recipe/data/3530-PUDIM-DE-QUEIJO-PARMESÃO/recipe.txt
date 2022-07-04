@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PUDIM DE QUEIJO PARMESÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 lata de leite condensado",
+      "2 latas de leite comum liquido",
+      "50 ou 100 g de queijo parmesão ",
+      "8 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos o açucar",
+      "Caramelize uma forma de pudim pequena com furo no meio",
+      "Coloque a mistura batida e leve ao forno em banho-maria por 40 minutos",
+      "Espere esfriar, coloque na geladeira e desenforme para servir."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELIANE AP.TERUEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303191-pudim-de-queijo-parmesao.html"
+}

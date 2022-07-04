@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA EMPADÃO QUEIJO MINAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "3 xícaras de farinha de trigo",
+      "1 ovo inteiro",
+      "100 g de margarina culinária, sem sal (1 tablete)",
+      "sal a gosto",
+      "Recheio:",
+      "300 g queijo minas meia cura",
+      "1 e 1/2 xícara de leite",
+      "2 ovos",
+      "100 g queijo parmesão para gratinar",
+      "20 g manteiga (1 colher )"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Junte a farinha, o ovo e o tablete de manteiga e faça uma farofa, esfarelando tudo",
+      "Unte uma forma e adicione esta farofa, pressionando ela com as mãos na propria forma, para ficar bem firme, reserve",
+      "Recheio:",
+      "Bata no liquidificador o queijo minas, os 2 ovos, a colher de manteiga e o leite.",
+      "Coloque esta mistura sobre a massa, polvilhe com o queijo parmesão e leve ao forno prequecido a 200° C",
+      "Asse por cerca de 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299988-torta-empadao-queijo-minas.html"
+}

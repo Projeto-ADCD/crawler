@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE BANANA FIT DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 e 1/2 xícara de açúcar demerara",
+      "1 xícara de leite",
+      "2 colheres de manteiga sem sal",
+      "1 e 1/2 xícara de farinha e aveia",
+      "1 bananas pratas",
+      "1 colher (chá) de fermento",
+      "Canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma média, sem furo, como manteiga e povilhe açúcar demerara.",
+      "Corte as bananas em rodela e coloque no fundo da forma.",
+      "Separe as claras da gema. Bata as claras em pode de neve e reserve.",
+      "Bata as gemas, a manteiga, o leite, o açúcar e a farinha de aveia.",
+      "Adicione as claras e mexa bem leve.",
+      "Coloque canela a gosto na massa e leve pra assar por 25 minutos em 180°."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THALITA DONZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299969-bolo-de-banana-fit-delicioso.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COOKIE SIMPLES SUPER RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de óleo",
+      "2 ovos",
+      "1 massa de bolo de chocolate ou baunilha",
+      "1 barra de chocolate de chocolate branco ou chocolate preto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue a massa de bolo coloque em uma vasilha",
+      "Primeiro coloque o ovo, misture",
+      "Depois coloque o óleo e misture",
+      "Corte a barra de chocolate branco ou preto e coloque na massa",
+      "Faça bolinhas coloque numa forma e asse em 180ºC"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA BEATRIZ ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303025-cookie-simples-super-rapido.html"
+}

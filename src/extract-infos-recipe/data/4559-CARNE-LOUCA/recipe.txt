@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CARNE LOUCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1kg de miolo de acém (retirei boa parte da gordura)",
+      "2 cebolas grandes (uma branca, uma roxa)",
+      "7 dentes de alho grandes",
+      "1 tomate",
+      "1 pimentão vermelho",
+      "1 pimentão amarelo",
+      "Cheiro verde a gosto",
+      "1 colher de Coloral, páprica defumada, tempero fit, orégano (lembra um chimichurri)",
+      "2 tabletes de caldo de carne",
+      "1 sachê de molho de manjericão",
+      "Azeite",
+      "Sal",
+      "Caldo do cozimento da carne",
+      "Água para cobrir a carne"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Inicie com o corte dos ingredientes, limpeza da carne e corte dela em pedaços.",
+      "Na panela de pressão, coloque o azeite e doure a carne, adicione a cebola (1 branca) cortada em 4 partes, os 3 alhos inteiros, um pouco do cheiro verde, os tabletes de caldo de carne.",
+      "Logo após uma boa fritada, adicione a água até cobrir a carne (mais ou menos dois dedos acima, cuidado com excesso de água na panela de pressão).",
+      "Depois que a panela pegar pressão, conte aproximadamente 50 minutos, desligue e separe a água para ser usada no molho.",
+      "A carne deverá ser desfiada (pode usar a própria panela de pressão para desfiar, sacudindo-a).",
+      "Em uma panela, refogue a cebola picada (1 roxa), o alho picado (4 dentes), o tomate, os pimentões (cortado em rodelas finas).",
+      "Adicione a carne depois de alguns minutos, adicione o molho de tomate, o coloral, temperos, sal e o caldo que sobrou do cozimento da carne (aos poucos, quando secar ir adicionando mais o caldo, não pode ficar com muito líquido, nem muito seco).",
+      "Deixe até o pimentão ficar mole, acerte os temperos e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SOFIA DÊNIS DE SIMAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300848-carne-louca.html"
+}

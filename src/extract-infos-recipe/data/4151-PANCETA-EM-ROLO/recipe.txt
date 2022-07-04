@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PANCETA EM ROLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de Panceta",
+      "2 ramos de alecrim",
+      "4 dentes de alho",
+      "Suco de 4 limões",
+      "200 ml de cachaça",
+      "20 ml de shoyo",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Passe sal na panceta.",
+      "Misture todos os ingredientes e deixe marinando por 4 horas na geladeira.",
+      "Enrole a panceta e a amarre com um barbante.",
+      "Embrulhe com papel alumínio e deixe assando no forno pré aquecido por 2 horas.",
+      "Tiro o papel alumínio, regue com a marinada e deixe por 1 hora no forno.",
+      "Vire a panceta e regue novamente por mais 1 hora.",
+      "Deixei na geladeira de 8 a 12 horas.",
+      "Corte e frite por imersão, por 3 minutos (se estiver na geladeira) ou 5 minutos (se estiver congelado)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Sirva acompanhado com pimenta biquinho e limão."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FELIPE AUGUSTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301725-panceta-em-rolo.html"
+}

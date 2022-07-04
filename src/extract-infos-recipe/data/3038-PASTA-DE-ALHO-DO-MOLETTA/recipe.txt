@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PASTA DE ALHO DO MOLETTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "750 g de maionese",
+      "200 g de margarina ou manteiga",
+      "1 maço pequeno de cebolinha",
+      "1 maço pequeno salsinha",
+      "1 caixa creme de leite",
+      "8 dentes de alho (a gosto)",
+      "2 pacote de queijo ralado",
+      "8 fatias de queijo cortado em pedacinhos",
+      "1/2 vidro de molho de alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a margarina no micro-ondas até ficar líquida e coloque no liquidificador",
+      "Bata junto o cheiro-verde, o alho, o molho de alho e o creme de leite.",
+      "Depois vá colocando por cima do liquidificador funcionado o azeite de oliva até misturar bem.",
+      "Coloque na batedeira de bolo, a maionese, o queijo ralado e o que foi batido no liquidificador.",
+      "Bata até ficar uma massa homogênea.",
+      "Por ultimo, coloque o queijo mussarela picadinho e misture com uma colher.",
+      "Se quiser também da pra colocar uns 200 g de tomate seco ao óleo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "HILSON NERY MULETA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303967-pasta-de-alho-do-moletta.html"
+}

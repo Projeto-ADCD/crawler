@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CHICO BALANCEADO FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Caramelo",
+      "1 xícara de açúcar",
+      "Creme",
+      "3 gemas",
+      "1 caixinha ou lata de leite condensado",
+      "800 ml de leite",
+      "3 colheres de amido de milho",
+      "1 colher (sopa) de essência de baunilha",
+      "Merengue",
+      "3 claras",
+      "4 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Caramelo",
+      "Em uma panela, coloque o açúcar e leve ao fogo até dourar.",
+      "Mexa sempre.",
+      "Quando estiver dourado formando uma calda, espalhe em uma assadeira",
+      "Creme",
+      "No liquidificador, coloque o leite condensado, pegue uma peneira e coloque as gemas e em seguida acrescente o leite (sob a peneira para facilitar a passagem das gemas)",
+      "Acrescente o amido e a essência.",
+      "Bata bem.",
+      "Despeje em uma panela e cozinhe até engrossar, mexendo sempre para não embolotar.",
+      "Logo, coloque na assadeira sobre o caramelo.",
+      "Deixe esfriar",
+      "Merengue",
+      "Bata as claras em neve até ficarem firme",
+      "Depois de firme, adicione o açúcar aos poucos.",
+      "O ponto é bem firme e brilhante.",
+      "Quando o creme já estiver frio, coloque o merengue sobre o creme com uma colher ou saco de confeitar.",
+      "Coloque por 5 minutos ou até dourar no forno preaquecido alto"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "FLÁVIA DA COSTA BELLINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302769-chico-balanceado-facil-e-gostoso.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "COOKIES CACHET LUCAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 gramas de açúcar mascavo",
+      "100 gramas açúcar cristal",
+      "200 gramas de farinha de trigo",
+      "200 gramas de aveia em flocos",
+      "2 ovos",
+      "1 colher de sopa essência de baunilha",
+      "300 gramas chocolates em gotas",
+      "50 gramas de manteiga",
+      "20 gramas de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes menos o chocolate em gotas em uma bacia, e coloque por último o fermento.",
+      "Depois boleira do tamanho desejado e aperte a bolinha em cima do chocolate em gotas.",
+      "Coloque em assadeiras untadas com óleo e asse em forno de 180° por 25 minutos"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCAS MAGNO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300237-cookies-cachet-lucas.html"
+}

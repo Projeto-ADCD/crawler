@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MINIPIZZA DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 linguiça calabresa defumada",
+      "1 baguete de gergelim",
+      "Azeite",
+      "Orégano à gosto",
+      "1 tomate",
+      "1 e 1/2 xícara (chá) de queijo mussarela ralado",
+      "Manjericão à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a linguiça calabresa em rodelas, coloque em um prato forrado com papel-toalha e leve ao micro-ondas por dois minutos para que ela fique pré-cozida",
+      "Enquanto isso, corte a baguete em fatias e coloque-as em uma assadeira",
+      "Despeje um pouco de azeite e salpique orégano sobre o pão",
+      "Corte o tomate em fatias. Em seguida, ponha uma fatia de tomate e uma de linguiça calabresa sobre cada fatia de pão e cubra com queijo mussarela",
+      "Leve ao forno até o queijo derreter. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: coloque uma folha de manjericão sobre cada minipizza antes de servir"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PATRICIA KARIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302463-minipizza-de-pao.html"
+}

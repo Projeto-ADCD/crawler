@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FAROFA DO CHEF TCLEI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (café) de azeite",
+      "1/2 cebola roxa picada em brunoise",
+      "300 g de farofa pronta ",
+      "1 banana prata média picada em cubos ",
+      "10 tomates grape cortados em meia lua ",
+      "suco de 1/2 limão",
+      "50 g de presunto de parma ",
+      "40g de azeitona picada",
+      "1/2 cenoura média picada em brunoise ",
+      "40g de castanha de caju triturada",
+      "salsinha e cheiro-verde a gosto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite em fogo alto",
+      "Coloque a cebola roxa e deixe dourar",
+      "Adicione os tomates, azeitona e a cenoura e mexa por dois minutos sem parar",
+      "Coloque metade da panela no fogo e puxe todos ingredintes na lateral para fora do fogo",
+      "Do outro lado coloque o jamon (presunto parma) e deixe por dois minutos,",
+      "Depois adicione a banana prata e mexa tudo,",
+      "Coloque suco de limão",
+      "Coloque em fogo baixo",
+      "Vai adicionando metade da farofa pronta e mexendo",
+      "Depois adicione tudo e mexa.",
+      "Por fim adicione a castanha de caju triturada, a salsinha e cebolinha",
+      "Acerte sal e pimenta-do-reino a gosto e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROBERTCLEI SILVEIRA CAMPOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304081-farofa-do-chef-tclei.html"
+}

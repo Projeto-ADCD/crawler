@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ABOBRINHA COM QUEIJO RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 abobrinhas verdes médias",
+      "200 g de mussarela ",
+      "tempero baiano a gosto ",
+      "tempero Edu Guedes a gosto",
+      "orégano a gosto",
+      "4 tomates maduros",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a abobrinha em fatias médias",
+      "Corte o tomate em rodelas médias numa panela",
+      "Coloque para pré cozinhar com o tempero baiano, o sal e o tempero Edu Guedes até o ponto",
+      "Depois escorra numa forma",
+      "Comece cubrindo primeira camada com abobrinha, depois com tomate e por fim com queijo mussarela",
+      "Em seguida, jogue orégano a gosto e leve ao forno 200°C por 5 minutos ou até que o queijo derreta",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "-15 MIN",
+  "rendimento": "-6 PORÇÕES",
+  "autor": "SILVIA HELENA BATISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303212-abobrinha-com-queijo-rapida.html"
+}

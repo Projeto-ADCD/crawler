@@ -1,0 +1,24 @@
+{
+  "nome_receita": "GUISADO COM VAGEM",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de guisado ",
+      "1/2 cebola picada",
+      "vagem a gosto",
+      "cheiro-verde a gosto",
+      "orégano e sal a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o guisado e a cebola para cozinhar (não é preciso colocar óleo pois o guisado já solta um pouco de gordura, tem que ficar mexendo pra não empelotar)",
+      "Misture os temperos",
+      "Quando o guisado já estiver totalmente cozido, misture a vagem e mexa até dourar um pouco"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303668-guisado-com-vagem.html"
+}

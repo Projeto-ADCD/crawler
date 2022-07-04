@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO MOLE /BOLO DE LEITE/ BOLO LUIZ FELIPE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de leite integral (a mesma medida da caixa de leite condensado)",
+      "1 caixa de leite de coco (ou um vidro pequeno)",
+      "1 caixa de farinha de trigo (a mesma medida da caixa de leite condensado)",
+      "1/2 caixa de açúcar",
+      "3 ovos",
+      "3 colheres de margarina",
+      "1/2 coco ralado (ou o saquinho de 50 g úmido )"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com margarina e farinha, reserve.",
+      "Preaqueça o forno a 200° C /230° C por 10 minutos (tempo que levará para preparar a massa).",
+      "Coloque todos os ingredientes no liquidificador, exceto o coco e bata bem.",
+      "Coloque em uma tigela e misture o coco.",
+      "Coloque a massa na forma untada e leve ao forno na mesma temperatura.",
+      "O tempo de cozimento varia de forno para forno.",
+      "No forno a gás geralmente demora 1 hora ou 1 hora e 30 minutos, já no forno elétrico 1 hora é suficiente.",
+      "Retire e deixe esfriar para desenformar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Por ser bolo mole, o teste do palito não funciona, porém o bolo estará no ponto quando estiver dourado por cima, como na foto."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LARISSA BORGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300056-bolo-mole-barra-bolo-de-leite-barra-bolo-luiz-felipe.html"
+}

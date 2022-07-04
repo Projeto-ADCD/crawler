@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATIDA DE COCO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 leite de coco de boa qualidade (200 ml)",
+      "1 caixa de leite condensado (395 g)",
+      "200 ml de vodka (medida da garrafa de leite de coco)",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque num liquidificador na ordem: o leite de coco, a vodka, o leite condensado e algumas pedras de gelo.",
+      "Bata durante 1 minuto.",
+      "Retire e sirva em taças.",
+      "Pode-se acrescentar gelo (moído é melhor)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A critério de cada um, é possível colocar mais vodka ou acrescentar água, a fim de deixar a batida mais intensa ou leve.\nA qualidade dos ingredientes definirá o sabor da batida. O uso de vodka é preferivel porque deixa um sabor mais leve e sem o cheiro característico de outras bebidas, como a cachaça ou conhaque.\nDá para guardar por semanas num recipiente fechado ou garrafa, dentro ou fora da geladeira. A receita padrão rende cerca de meio litro de batida."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304478-batida-de-coco-facil.html"
+}

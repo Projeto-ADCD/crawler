@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BRIGADEIRÃO DE MICRO-ONDAS GOSTOSO DA TAINÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado",
+      "1 caixinha de creme de leite",
+      "1 xícara de chocolate em pó",
+      "3 ovos",
+      "1 colher de manteiga",
+      "manteiga para untar",
+      "granulado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes no liquidificador",
+      "Depois, coloque tudo em uma forma de porcelana ou silicone previamente untada",
+      "Leve para o micro-ondas por 10 minutos",
+      "E por fim, polvilhe granulado por cima"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TAINÁ LAYLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300943-brigadeirao-de-micro-ondas-gostoso-da-taina.html"
+}

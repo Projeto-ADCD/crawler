@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BAGACHAMPA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 goiabada picada",
+      "100 g de passas",
+      "chantili pronto (batido)",
+      "2 bananas picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a goiabada, as bananas e as passas em uma travessa.",
+      "Acrescente o chantili e misture",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "RACHEL NORONHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301832-bagachampa.html"
+}

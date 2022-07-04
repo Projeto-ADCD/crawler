@@ -1,0 +1,35 @@
+{
+  "nome_receita": "WRAP NEGRAGE LIKES",
+  "ingredientes": {
+    "WRAP": [
+      "4 tortilhas mexicanas ou panquecas",
+      "150 a 300g de bacon",
+      "250g queijo muçarela",
+      "200g maionese de leite e pimentão",
+      "4 ovos cozidos"
+    ],
+    "MAIONESE DE LEITE COM PIMENTÃO": [
+      "1 pimentão verde",
+      "100ml de leite",
+      "1 pimentão verde",
+      "300ml de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o bacon para cozinhar ou assar a seu gosto. Pode ser na panela com condimentos (temperos), ou assado no forno.",
+      "Coloque os ovos para cozinhar. No caso dessa receita, eu fiz os ovos bem cozidos, mas isso pode ser a gosto.",
+      "Coloque um pouco de leite no liquidificador, cerca de 50ml, depois coloque o liquidificador para bater e vá colocando azeite devagarinho, até o mesmo dar consistência.",
+      "Quando a maionese estiver consistente, adicione o sal e cerca de 4 tiras de pimentão e deixe bater por mais uns 30 segundos.",
+      "Quando todos os igredientes estiverem prontos, pegue as tortilhas ou panquecas, pegue 1 colher (sopa) de maionese e espalhe no meio da tortilha.",
+      "Coloque encima da maionese um pouco de bacon (tente separar o bacon para fazer 4 tortilhas ou panquecas), 1 ovo fatiado em 3 pedaços, o queijo e uns pedacinhos de pimentão que sobrou.",
+      "Feche a tortilha ou panqueca como um burrito.",
+      "Depois que as tortilhas ou panquecas estiverem fechadas, coloque-as no microondas por dois minutos (esse passo é opcional).",
+      "Coloque as tortilhas ou panquecas no forno ou na torradeira e deixe as lá por uns 10 minutos, com cuidado para não queimar."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SAMUEL ROCHA VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302002-wrap-negrage-likes.html"
+}

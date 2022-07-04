@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CHUCHU AO MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 chuchus",
+      "2 xicaras Leite",
+      "2 colheres farinha trigo",
+      "2 colheres de amido ",
+      "sal e pimenta preta a gosto",
+      "1 cebola picada miuda",
+      "fatias de queijo mussarela",
+      "ervas finas a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque água numa panela, após coloque sal e os chuchus para cozinhar.",
+      "Deixe ferver por 20 minutos, escorra, descasque e corte em cubos",
+      "Após, coloque numa travessa de vidro e espalhe, sal, pimenta preta e as ervas finas a gosto( pode ser orégano, manjericão) reserve.",
+      "Em uma panela derreta a manteiga, doure a cebola.",
+      "Em um copo, dissolva a farinha de trigo e o amido no leite",
+      "Misture tudo e acrescente na cebola.",
+      "Mexa sempre ate engrossar.",
+      "Após colocar sal e derramar no prato de chuchu.",
+      "Após cobrir todo prato de chuchu com o molho branco, cubra com fatias de queijo mussarela.",
+      "Leve ao forno por 180° C ate o queijo derreter."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FABIANE SIMÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305673-chuchu-ao-molho-branco.html"
+}

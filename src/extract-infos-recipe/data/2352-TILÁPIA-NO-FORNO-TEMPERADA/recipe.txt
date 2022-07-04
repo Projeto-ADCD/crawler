@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TILÁPIA NO FORNO TEMPERADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tilápia média tratada",
+      "2 cebolas",
+      "Tempero",
+      "2 limões espremidos",
+      "1 colher (chá) de tempero peper limon encontrado na feira",
+      "1 colher (café) de colorau",
+      "1 colher (café) de páprica picante",
+      "5 dentes de alho",
+      "1 colher (café) de molho de pimenta ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempero",
+      "Misture todos os ingredientes num recipiente e depois de bem misturados tempere a tilápia, deixe marinar por 2 horas na geladeira.",
+      "Assando o peixe",
+      "Coloque papel-alumínio no fundo de um refratário de vidro, cubra com azeite, uma camada de cebola e azeite coloque a tilápia e feche com papel-alumínio.",
+      "Coloque no forno, preaquecido em 230° C por 30 a 40 minutos",
+      "Após esse tempo, retire a cobertura de papel-alumínio do recipiente e coloque para dourar por mais 15 minutos",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MARCO ANDRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305430-tilapia-no-forno-temperada.html"
+}

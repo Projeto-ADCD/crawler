@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de leite em pó",
+      "3 colheres de achocolatado em pó",
+      "1 copo de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em uma caneca",
+      "Coloque no micro-ondas por 1 minuto",
+      "Aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "AMANDA LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300782-chocolate-quente-de-micro-ondas.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTA SECA DE ABACAXI SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de amêndoas",
+      "1 e 1/2 xícara de adoçante para forno",
+      "1 colher (sopa) de fermento em pó",
+      "4 colheres (sopa) de manteiga",
+      "2 ovos",
+      "1 xícara de leite",
+      "1 abacaxi"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma travessa, misture todos os ingredientes secos.",
+      "Derreta a manteiga (espere esfriar um pouco) e junte os ovos e o leite.",
+      "Corte o abacaxi em rodelas finas.",
+      "Em uma forma untada, coloque uma camada do seco, 1 camada de abacaxi, repita com seco, abacaxi e, por fim, despeje a mistura líquida sobre a massa.",
+      "Polvilhe canela se desejar.",
+      "Leve ao forno médio preaquecido por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DANIELA FILIPPINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302382-torta-seca-de-abacaxi-saudavel.html"
+}

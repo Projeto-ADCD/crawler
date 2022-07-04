@@ -1,0 +1,50 @@
+{
+  "nome_receita": "TORTA DE CHOCOLATE COM DAMASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de biscoito maisena",
+      "manteiga sem sal",
+      "2 latas de leite condensado",
+      "500 g de damasco seco",
+      "2 copos (americano) de água",
+      "1 copo de açúcar",
+      "2 colheres (sopa) de cacau em pó",
+      "1 colher (sopa) de chocolate em pó ",
+      "2 caixinhas de creme de leite",
+      "500 ml de leite"
+    ]
+  },
+  "passos": {
+    "BASE DA TORTA:": [
+      "Triture 2 pacotes de biscoito maisena",
+      "Junte 150g de manteiga derretida até formar uma farofa úmida",
+      "Forre uma forma de fundo removível (25cm) pressionando e fazendo as laterais",
+      "Leve ao forno por 10 a 15 min até começar a dourar"
+    ],
+    "RECHEIO BRANCO:": [
+      "Junte em uma panela 1 lata de leite condensado, 1 colher de manteiga, 1/2 lata de leite (medida da lata de leite condensado) e cozinhe até virar brigadeiro",
+      "Depois junte 1 caixa de creme de leite e misture bem até ficar uniforme",
+      "Reserve para esfriar"
+    ],
+    "RECHEIO PRETO:": [
+      "Junte 1 lata de leite condensado, 1 colher de manteiga, 2 colheres de cacau em pó e 1 colher de chocolate em pó, 1 medida da lata de leite e cozinhe até ponto de brigadeiro, depois junte 1 caixinha de creme de leite",
+      "Reserve para esfriar"
+    ],
+    "RECHEIO DE DAMASCO:": [
+      "Pique 500 a 600g de damasco seco em uma panela",
+      "Acrescente 2 copos de água e 1 copo de açúcar e deixe cozinhar mexendo de vez em quando, até começar a virar um caldinho grosso (em fogo baixo)",
+      "Depois bata tudo no liquidificador até virar uma geleia",
+      "Reserve para esfriar"
+    ],
+    "MONTAGEM:": [
+      "Coloque o recheio branco em cima da camada de biscoito, por cima coloque a geleia de damasco espalhando uniformemente e acrescente por cima o creme preto",
+      "Decore com damascos picados e/ou raspas de chocolate e/ou nozes",
+      "Leve à geladeira até ficar bem firme",
+      "Desenforme e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "WANDERLANE LEITE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304025-torta-de-chocolate-com-damasco.html"
+}

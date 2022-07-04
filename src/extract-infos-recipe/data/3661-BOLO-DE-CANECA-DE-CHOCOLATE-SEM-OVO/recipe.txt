@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CANECA DE CHOCOLATE SEM OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de massa de bolo de chocolate",
+      "1 colher (sopa) de manteiga ou margarina",
+      "1/2 xícara de leite",
+      "1 colher de achocolatado em pó",
+      "1 pitada generosa de fermento",
+      "Calda",
+      "1/2 de leite",
+      "1/2 colher de sopa de achocolatado em pó",
+      "1 colher de manteiga ou margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione a massa pronta de bolo de chocolate, adicione o achocolatado em pó, derreta a manteiga ou margarina, adicione o leite e mexa tudo.",
+      "Adicione a mistura em uma caneca e leve por três minutos no micro-ondas.",
+      "Calda",
+      "Coloque a manteiga ou margarina adicione o leite e o achocolatado em pó, coloque em uma panela e ferva por um minuto e deixe esfriar depois é só adicionar no seu bolo de caneca e está pronto "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WALESKA LEAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302959-bolo-de-caneca-de-chocolate-sem-ovo.html"
+}

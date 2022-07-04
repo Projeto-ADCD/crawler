@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA DE TAPIOCA SIMPLES E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "4 colheres de tapioca",
+      "sal a gosto",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os igredientes no liquidificador.",
+      "Aqueça uma frigideira antiaderente e coloque uma pequena quantidade da massa líquida apenas para cobrir a frigideira.",
+      "Espere descolar as laterais e vire.",
+      "Retire e recheie a gosto.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Se a frigideira não for antiaderente, coloque um fio de azeite.\nSugestão de recheio: frango desfiado, carne moída, queijo com peito de peru"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303393-panqueca-de-tapioca-simples-e-gostosa.html"
+}

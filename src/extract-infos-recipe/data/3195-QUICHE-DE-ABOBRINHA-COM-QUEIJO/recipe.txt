@@ -1,0 +1,44 @@
+{
+  "nome_receita": "QUICHE DE ABOBRINHA COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícaras de trigo",
+      "1/2 colher (chá) de sal",
+      "2 colheres (sopa) de manteiga Président",
+      "1/2 lata de creme de leite",
+      "1 colher (chá) de fermento em pó",
+      "3 ovos inteiros",
+      "1/2 lata de creme de leite",
+      "3 abobrinhas raladas no ralo grosso e uma cortada em rodelas finas para o acabamento",
+      "1 xícara de queijo Gruyère Président",
+      "1 colher (sopa) de queijo parmesão Président",
+      "2 dentes de alho moído",
+      "2 colheres (sopa) de trigo",
+      "1/2 colher (chá) de sal",
+      "1/2 colher (chá) de orégano",
+      "1 xícara de palmito bem picado "
+    ]
+  },
+  "passos": {
+    "PARA A MASSA:": [
+      "Misturar os 5 primeiros,  até formar uma massa que não grude mãos",
+      "Coloque essa massa na geladeira com papel-filme para descansar até terminar o preparo do recheio a seguir"
+    ],
+    "PARA O RECHEIO:": [
+      "Misture a abobrinha ralada, os ovos, 1/2 creme de leite, o sal, o orégano, os queijos, o trigo, o alho e o palmito",
+      "Retire a massa da geladeira e estique com os dedos em toda forma de aro removível inclusive nas laterais",
+      "Faça furinhos com garfo na massa e levar ao forno",
+      "Leve ao forno (180ºC) para assar por cerca de 20 minutos",
+      "Após retirar a massa do forno e colocar o recheio, corte rodelas de abobrinha bem finas para decorar toda a superfície, salpicar queijo e orégano",
+      "Volte ao forno, por mais ou menos uma hora ou até que as bordas da massa estejam douradas ",
+      "Bom apetite, essa receita serve também como acompanhamento"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Regina Selexe"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303754-quiche-de-abobrinha-com-queijo.html"
+}

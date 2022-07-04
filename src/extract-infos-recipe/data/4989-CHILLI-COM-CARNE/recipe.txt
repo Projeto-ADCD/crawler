@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CHILLI COM CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de feijão preto",
+      "250 g de feijão carioca",
+      "250 g feijão vermelho",
+      "1 cebola inteira",
+      "1 kg de carne moída (patinho ou alcatra)",
+      "1 colher (café) de páprica picante",
+      "1 colher (café) de páprica doce ",
+      "1 colher (chá) de cominho",
+      "pitadas de orégano a gosto",
+      "1 saquinho de chilli em pó (não a pimenta chilli, mas o tempero) ",
+      "pimenta-do-reino e sal a gosto",
+      "queijo mussarela ralado e pão francês para servir ",
+      "1 saco de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os feijões em uma travessa e escolha",
+      "Logo em seguida deixe de molho se possível em água quente",
+      "Cozinhe os feijões na pressão por 40 minutos",
+      "Enquanto os feijões cozinham, refogue a cebola e a carne moída em outra panela",
+      "Depois dos feijões cozidos, retire toda a água ",
+      "Misture a carne moída com o feijão",
+      "Adicione o molho de tomate ",
+      "Junte o saquinho de chilli a gosto (quanto mais colocar, melhor)",
+      "Adicione os outros temperos",
+      "Deixe cozinhar e pegar gosto por uns 10 minutos",
+      "Sirva como uma sopa, com mussarela por cima e com um pão do lado"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUCIANA DA SILVA ANCIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299771-chilli-com-carne.html"
+}

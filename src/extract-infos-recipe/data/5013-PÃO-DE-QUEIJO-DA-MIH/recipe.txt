@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DA MIH",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 litros de goma",
+      "6 ovos",
+      "6 copos de água (fervidos)",
+      "1 l de óleo",
+      "500 ml de coalhada",
+      "1 pacote de queijo ralado",
+      "4 colheres de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque a goma e o sal e mexa bem",
+      "Ferva a água junto com o óleo (para escaldar)",
+      "Escalde a goma com a água",
+      "Acrescente a coalhada e misture",
+      "Bata os ovos no liquidificador",
+      "Acrescente os ovos batidos aos poucos na massa até ter uma textura não muito dura e nem muito mole ",
+      "Depois de misturar bem a massa, acrescente o queijo e misture novamente",
+      "Enrole usando óleo nas mãos para não grudar",
+      "Faça na forma de bolinhas médias e depois leve ao forno até dourar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "160 PORÇÕES",
+  "autor": "MIH SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299701-pao-de-queijo-da-mih.html"
+}

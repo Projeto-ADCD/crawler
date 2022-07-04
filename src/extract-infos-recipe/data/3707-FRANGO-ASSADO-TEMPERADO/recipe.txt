@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FRANGO ASSADO TEMPERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 cebola",
+      "1 colher de vinagre",
+      "5 colheres de azeite",
+      "3 dentes de alho",
+      "3 pitadas de sal ",
+      "2 colheres de tempero pronto de sua preferência",
+      "3 colheres de molho barbecue",
+      "1 kg de coxa e sobrecoxa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes numa travessa",
+      "Por último adicione o frango nos ingrediente",
+      "Deixe por 10 minutos para pegar gosto",
+      "Depois que passar os 10 minutos, coloque numa forma e o resto do molho que sobrar na travessa jogue junto com o frango na forma",
+      "Por fim cubra a forma com papel alumínio",
+      "Espere o frango assar para despejar o molho para fora da forma",
+      "Depois devolva a forma ao forno e é só esperar dourar em cima para retirar",
+      "Retire da forma e coloque numa forma de vidro e esta pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LILIAN CRISTINA CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302865-frango-assado-temperado.html"
+}

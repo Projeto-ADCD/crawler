@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PIZZA DE CARNE MOÍDA",
+  "ingredientes": {
+    "MASSA": [
+      "Trigo até dar o ponto",
+      "1 colher (sopa) de fermento biológico seco",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de açúcar",
+      "200 ml de água quente",
+      "1/4 de xícara de óleo"
+    ],
+    "RECHEIO": [
+      "350 gramas de carne moída",
+      "1 tomate",
+      "1 colher (chá) de orégano",
+      "4 colheres (sopa) de requeijão",
+      "Queijo à gosto",
+      "Molho de tomate à gosto",
+      "Cebola à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a água quente, o óleo, o sal, o açúcar e o fermento. Mexa.",
+      "Depois, acrescente o trigo até dar o ponto.",
+      "Sove e deixe a massa descansar por aproximadamente 30 minutos (fora da geladeira).",
+      "Após fazer isso, modele a massa na forma e pré-asse por cerca de 10 minutos ou até dourar.",
+      "Cozinhe a carne do jeito que preferir.",
+      "Coloque o recheio e asse até o queijo derreter."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARILDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300197-pizza-de-carne-moida.html"
+}

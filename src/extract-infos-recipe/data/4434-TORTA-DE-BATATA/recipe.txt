@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 batatas médias e grandes",
+      "2 cebolas de tamanho médio",
+      "1 xícara de migalhas de pão",
+      "1 colher de sopa de óleo vegetal",
+      "3 dentes de alho",
+      "200 gramas de carne picada",
+      "Sal (a gosto)",
+      "Canela (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva as batatas e descasque-as.",
+      "Em seguida, corte as cebolas, o alho e refogue em óleo.",
+      "Em seguida, adicione a carne picada, sal, pimenta e canela à mistura.",
+      "Quando as batatas estiverem cozidas, misture-as e adicione sal e pimenta.",
+      "Em seguida, pegue uma porção e espalhe na mão pelo tamanho da bandeja do forno.",
+      "Em seguida, coloque a camada de batata e adicione uma camada de carne picada sobre ele.",
+      "Depois cubra com outra camada de batatas e semeie com a mão e escove.",
+      "Cubra com migalhas de pão ou migalhas.",
+      "10.Coloque no forno por (15 minutos )e coloque-o em cima da grelha",
+      "11.Por( 5 minutos) até você pegar a cor certa.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "-5 PORÇÕES",
+  "autor": "TAINA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301136-torta-de-batata.html"
+}

@@ -1,0 +1,51 @@
+{
+  "nome_receita": "EMPADÃO DE LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 xícaras (chá) de farinha de trigo",
+      "200 g de manteiga sem sal",
+      "1 ovo",
+      "1 clara",
+      "1/2 copo de iogurte natural",
+      "1 gema para pincelar",
+      "sal e pimenta a gosto",
+      "Recheio",
+      "3 colheres (sopa) de óleo",
+      "1 kg de salsichão cortado em rodelas",
+      "2 cebolas média picadas",
+      "2 dentes de alho picados",
+      "2 tomates médios sem pele picados",
+      "2 colheres (sopa) de cebolinha verde picada",
+      "2 colheres (sopa) de salsinha picada",
+      "1/2 xícara (chá) de azeitonas picadas",
+      "1/2 copo de requeijão cremoso",
+      "1 colher (sopa) de molho inglês",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture os ingredientes da massa até ficar homogênea.",
+      "Enrole em filme plástico e coloque no refrigerador por 1 hora.",
+      "Para o recheio, em uma panela média coloque o óleo, o salsichão e frite por uns 10 minutos",
+      "Mexendo de vez em quando até dourar levemente.",
+      "Acrescente a cebola picada, o alho, o tomate, a cebolinha verde, a salsinha, a azeitona, o sal e a pimenta.",
+      "Refogue por uns 6 minutos ou até murcharem a cebola e o tomate.",
+      "Retire do fogo e acrescente o requeijão e o molho inglês.",
+      "Se ficar muito aguado, acrescente uma colher bem cheia de amido de milho dissolvido na água fria.",
+      "Deixe esfriar e reserve.",
+      "Divida a massa e abra com um rolo.",
+      "Forre um refratário médio com uma das partes e espalhe o recheio por igual.",
+      "Cubra com a outra parte da massa ou corte em tirinhas e faça um quadriculado com a mesma.",
+      "Pincele com a gema de ovo.",
+      "Leve ao formo preaquecido por uns 45 minutos ou até dourar levemente.",
+      "Sirva em seguida acompanhado de uma boa salada verde.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302320-empadao-de-linguica.html"
+}

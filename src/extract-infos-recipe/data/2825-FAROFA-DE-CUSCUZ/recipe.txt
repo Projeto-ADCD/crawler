@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA DE CUSCUZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de milharina",
+      "300 g de carne moída",
+      "300g de calabresa",
+      "1 cheiro-verde",
+      "2 cebolas grande",
+      "1 colher de açafrão (6 g)",
+      "1 lata de milho verde",
+      "6 ovos",
+      "300 g de charque"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o cuscuz (no pano ou na cusxuzeira), enquanto cozinha prepare a mistura;",
+      "Escalde o charque para tirar o sal (após tirar o sal do charque);",
+      "Cozinhe os ovos;",
+      "Frite a calabresa e o charque junto, quando estiver bem frita (no seu ponto de preferência)",
+      "Coloque meia cebola para dourar junto com a calabresa",
+      "Refogue a outra metade da cebola, junto com cheiro-verde, com açafrão e sal a gosto, com um pouco de água",
+      "Quando a água estiver secando coloque a carne moida e deixe cozinhar (Reservar um pouco do cheiro-verde para decorar o prato) ",
+      "Após os passo a passo coloque o cuscuz em um recipiente desejado e misture a carene moída, a calabresa e o charque com o cuscuz.",
+      "Coloque o milho",
+      "Descasque o ovo e corte em rodelas (coloque o ovo enfeitando o cuscuz)",
+      "Após isso sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ALICE SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304347-farofa-de-cuscuz.html"
+}

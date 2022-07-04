@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE AVEIA FUNCIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas nanicas bem maduras (pode acrescentar uma maçã picada grosseiramente também)",
+      "3 ovos",
+      "1/2 xicara de óleo de girassol ou coco",
+      "1/2 xícara de leite desnatado",
+      "1 xícara de açúcar mascavo",
+      "2 e 1/2 xícaras de aveia em flocos grossos",
+      "2 colheres (sopa) cheias de chocolate 70% cacau",
+      "1 colher (café) de canela em pó",
+      "passas, castanha-do-pará e nozes picadas (opcional e a gosto)",
+      "1 colher (sopa) cheia de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidicador, coloque os ovos, o açúcar, o leite, o óleo, o chocolate em pó e 1 banana. Bata até atingir uma consistência homogênea.",
+      "Em uma tigelela, coloque as bananas amassadas grosseiramente e maçã picada e acrescente a aveia, canela e os opcionais (passas, nozes e castanhas)",
+      "Adicione a mistura do liquidificador à tigela e misture à mão até envolver todos os ingredientes.",
+      "Por último, coloque o fermento e misture delicadamente.",
+      "Leve ao forno em uma assadeira inglesa ou redonda com furo e untada.",
+      "Asse em forno médio por aproximadamente 35 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rende uns 8 pedaços na forma inglesa e pode ser congelado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LIDIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302035-bolo-de-aveia-funcional.html"
+}

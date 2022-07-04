@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE KEFIR E COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de Kefir",
+      "170 ml de óleo",
+      "3 xícaras de farinha de trigo",
+      "3 xícaras de açúcar",
+      "50 gr de coco ralado",
+      "5 ovos",
+      "1 1/2 de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes líquido e os ovos por 4 minutos.",
+      "Acrescente o açúcar e a farinha trigo e bata por uns 2 minutos.",
+      "Coloque o fermento e bater 30 segundos.",
+      "Despeje a mistura em uma forma untada.",
+      "Asse em 220º em forno pré aquecido por 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "NATHALI MAYARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300917-bolo-de-kefir-e-coco.html"
+}

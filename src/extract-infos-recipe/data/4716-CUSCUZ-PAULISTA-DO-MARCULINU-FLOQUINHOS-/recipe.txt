@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CUSCUZ PAULISTA DO MARCULINU (FLOQUINHOS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de farinha de milho flocado fino",
+      "150 ml de água para hidratar a farinha de milho",
+      "2 latas de sardinha c/ óleo",
+      "4 ovos cozidos cortados ao meio",
+      "1 colher (sopa) de manteiga",
+      "1 molho de tomate tradicional (340 g aproximadamente)",
+      "1/2 pimentão amarelo em tiras finas",
+      "4 palitos de palmito cortados em rodelas",
+      "50 g de azeitona sem caroço cortadas em rodelas",
+      "1/2 cebola picada",
+      "1 tomate cortado em pedaços",
+      "1/2 lata de ervilha",
+      "1 colher (sopa) de salsinha ou cebolinha",
+      "4 pitadas de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha de milho flocada com o sal, depois hidrate toda a farinha de milho flocada aos poucos com os 150 ml de água aproximadamente (pode ser que se use mais ou até menos água), a farinha de milho não deve ter água sobrando, apenas o necessário para estar úmida.",
+      "Em uma panela acrescente a manteiga, APENAS o óleos das 2 sardinhas e a cebola e refogue até dourar, depois adicione os tomates em pedaços, o pimentão amarelo e o estrato de tomate tradicional em fogo baixo por 5 minutos.",
+      "Em seguida, acrescente o palmito em rodelas, as azeitonas sem caroço em rodelas, a ervilha, a salsinha ou cebolinha e mexa um pouco.",
+      "Adicione a farinha de milho hidratada, os 2 ovos cozidos, 1 e 1/2 das latas de sardinha em pedaços médios e mexa delicadamente por 10 a 15 minutos em fogo baixo.",
+      "Em uma forma de bolo que tenha um furo no meio, coloque os 2 ovos cortados ao meio e a 1/2 lata de sardinha em pedaços restante no fundo da forma de forma uniforme,",
+      "Pegue a massa da panela e despeje na forma e utilize uma colher para pressionar levemente a massa de forma que esteja uniforme pelas a forma de bolo.",
+      "Aguarde um 5 minutos. e depois desinforme em uma prato ou travessa ao seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "RAINIER TULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300369-cuscuz-paulista-do-marculinu-floquinhos.html"
+}

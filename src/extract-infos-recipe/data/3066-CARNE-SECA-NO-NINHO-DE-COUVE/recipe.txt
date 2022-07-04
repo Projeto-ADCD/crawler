@@ -1,0 +1,55 @@
+{
+  "nome_receita": "CARNE-SECA NO NINHO DE COUVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o refogado de carne-seca",
+      "500 g de carne-seca (hidratada e dessalgada) cortada em cubos",
+      "100 g de bacon em cubinhos",
+      "3 colheres (sopa) de óleo",
+      "1 pimentão vermelho cortado em cubos",
+      "1 pimentão amarelo cortado em cubos",
+      "1 pimentão verde cortado em cubos",
+      "1 cebola grande picadinha",
+      "Para a couve refogada",
+      "1 maço de couve manteiga ou galega picadinha (300 g)",
+      "3 dentes de alho picadinhos",
+      "1 cebola média cortada em rodelas finas",
+      "1 colher de (café) de sal",
+      "200 g de farofa tradicional ",
+      "200 g de farinha de milho branca ",
+      "140 g de batata palha tradicional "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Como hidratar e dessalgar carne-seca",
+      "Coloque a carne-seca em uma vasilha com água para hidratar por 6 horas.",
+      "Troque a água de hora em hora para que dessalgue mais rapidamente.",
+      "Modo de preparo da carne-seca ",
+      "Coloque a carne-seca dessalgada, hidratada e cortada em cubos, em uma panela de pressão.",
+      "Cubra toda a carne seca com água, tampe a panela e cozinhe em fogo alto por aproximadamente 40 minutos ou até que fique bem macia.",
+      "Retire a carne-seca da panela, escorra bem e desfie.",
+      "Em uma panela junte o óleo e acrescente o bacon e a carne seca.",
+      "Frite por 2 minutos mexendo sempre.",
+      "Acrescente os pimentões picados, a cebola e cozinhe por 10 minutos em fogo médio mexendo até que os pimentões fiquem bem macios.",
+      "Desligue o fogo e reserve.",
+      "Modo de preparo da couve refogada",
+      "Em uma panela coloque óleo, frite o alho e a cebola.",
+      "Acrescente a couve picada, o sal e refogue por 2 minutos sem parar de mexer, até murchar",
+      "Acrescente a farofa tradicional e mexa bem para incorpora e ficar bem úmida.",
+      "Desligue o fogo e acrescente farinha de milho branca e a batata palha tradicional",
+      "Mexa delicadamente.",
+      "Montagem",
+      "Em uma travessa que vai para a mesa, coloque a couve refogada",
+      "Faça um ninho e no centro coloque a carne seca.",
+      "Sirva a seguir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Eu faço o refogado de couve em panela de barro capixaba, e acrescento a carne seca no centro. Neste caso a propria panela vai a mesa, além de manter a temperatura por um longo tempo."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MIRIA DE FATIMA TAGLIAFERRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303928-carne-seca-no-ninho-de-couve.html"
+}

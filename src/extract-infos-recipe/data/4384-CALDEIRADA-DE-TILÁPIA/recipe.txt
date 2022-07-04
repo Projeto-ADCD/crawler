@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CALDEIRADA DE TILÁPIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ou 5 pedaços de filé de tilápia",
+      "1 tomate",
+      "1 cebola",
+      "1 pimentão",
+      "1/2 maço de cebolinha",
+      "1/2 maço de coentro",
+      "3 pedaços de macaxeira (mandioca)",
+      "1 batata",
+      "3 ovos",
+      "1/2 banana pacovã (banana da terra)",
+      "3 limões",
+      "2 dentes de alho picados",
+      "Páprica",
+      "Sal",
+      "Pimenta do reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe os filés de tilápia marinando com suco dos limões, alho e sal por meia hora.",
+      "Enquanto isso, corte a cebola, o tomate e o pimentão em pedaços grandes.",
+      "Passar os filés de tilápia por água uma vez para tirar o excesso do molho.",
+      "Coloque a macaxeira e a batata para cozinhar, até amolecer.",
+      "Refogue no azeite a cebola e o pimentão, adicionando um pouco de pimenta do reino e páprica.",
+      "Acrescente 4L de água, sal a gosto e deixe no fogo até começar a ferver.",
+      "Enquanto isso, coloque para cozinhar os ovos e a banana.",
+      "Assim que começar a ferver a caldeirada, acrescente os filés de tilápia e deixe cozinhar até começarem a se desfazer (cerca de 8 minutos).",
+      "Corte a macaxeira, a batata e a banana em pedaços grandes e coloque na panela principal, junto com os ovos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Pode ser acompanhada de arroz e farinha ovinha (típica do norte do Brasil)."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LUIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301258-caldeirada-de-tilapia.html"
+}

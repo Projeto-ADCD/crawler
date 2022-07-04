@@ -1,0 +1,57 @@
+{
+  "nome_receita": "TORTA DE FRANGO DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Ingredientes para massa",
+      "3 xícaras (chá) de farinha de trigo",
+      "2 copos de leite",
+      "50 g de queijo parmesão ralado",
+      "1 colher (café) de sal",
+      "1 xícara (chá) de óleo de milho",
+      "3 ovos",
+      "1 colher (sopa) de fermento em pó",
+      "farinha de rosca e queijo ralado para polvilhar",
+      "Ingredientes para o recheio",
+      "2 colheres (sopa) de azeite",
+      "3 dentes de alho amassados",
+      "1 colher (café) de sal",
+      "1 colher (café) de orégano",
+      "1 pitada de pimenta-do-reino",
+      "salsinha e cebolinha a gosto",
+      "1 cebola média bem picada",
+      "1 peito de frango cozido e desfiado",
+      "4 tomates sem pele e semente",
+      "1 tata de ervilha",
+      "azeitonas picadas (opcional)",
+      "1/2 copo de leite",
+      "2 colheres de sopa de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Bata todos os ingredientes no liquidificador com excessão dos que são para polvilhar",
+      "Se necessário utilize mais 50 ml de leite, o ponto da massa é a de um mingau grosso."
+    ],
+    "RECHEIO": [
+      "Numa panela em fogo médio refogue o alho e o azeite, acrescente também o sal, o orégano, a pimenta e a cebola até dar uma dourada.",
+      "Junte a salsa, a cebolinha a azeitona, o frango e os tomates e refogue por uns 15 minutos, vai ficar um molho ralo.",
+      "Coloque a ervilha e misture.",
+      "Dissolva bem em um copo a farinha de trigo no leite e junte ao molho do recheio, refogue por mais 5 minutos.",
+      "Reserve e utilize depois de frio para a montagem da torta."
+    ],
+    "MONTAGEM": [
+      "Unte uma forma com óleo e farinha, despeje metade da massa na forma e salpique todo o recheio com auxílio das mãos sem misturar com a massa.",
+      "Cubra com o restante da massa, não deixe nenhum ponto descoberto.",
+      "Polvilhe com a farinha de rosca e o queijo ralado e leve ao forno pré-aquecido a 200°C por 40 minutos ou até que a massa esteja dourada.",
+      "Sirva em temperatura morna.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Utilize forma de alumínio retangular n°3."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SILMARA GONCALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302326-torta-de-frango-deliciosa.html"
+}

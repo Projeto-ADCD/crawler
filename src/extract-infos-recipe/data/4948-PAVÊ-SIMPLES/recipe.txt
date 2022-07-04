@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PAVÊ SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas",
+      "2 leite condensado",
+      "2 colher de amido de milho",
+      "2 medidas de leite da mesma de leite condensado",
+      "2 pacote de biscoito maisena",
+      "achocolatado em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque 1 gema, o leite condensado e 1 medida de leite e 1 colher de amiso de milho. ",
+      "Mexa e leve ao fogo até engrossar.",
+      "Monte em em um pirex camadas de biscoito alternando com a camada de achocolatado.",
+      "Coloque na geladeira por 2 horas.",
+      "Em outra panela, coloque 1 gema, o leite condensado e 1 medida de leite e 1 colher de amido de milho.",
+      "Mexa, adicione 5 colheres de achocolatado em pó leve ao fogo até engrossar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "STEFANIE MENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299880-pave-simples.html"
+}

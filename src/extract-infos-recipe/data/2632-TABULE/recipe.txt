@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TABULE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de trigo para quibe hidratado",
+      "1 cebola picada",
+      "10 ramos de salsinha picados",
+      "10 folhas de hortelã picadas",
+      "3 tomates sem sementes picados em cubos",
+      "2 pepinos médios picados em cubos",
+      "1 colher (sopa) de azeite de oliva",
+      "2 limões (suco)",
+      "sal a gosto",
+      "3 folhas de hortelã para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma travessa",
+      "Decore com as folhas de hortelã ",
+      "Sirva a seguir"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CONTATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304769-tabule.html"
+}

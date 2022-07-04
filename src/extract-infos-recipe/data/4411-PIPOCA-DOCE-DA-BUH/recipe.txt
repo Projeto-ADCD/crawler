@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PIPOCA DOCE DA BUH",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de margarina nao muito cheia",
+      "4 colheres de açúcar",
+      "4 colheres de achocolatado em pó",
+      "2 xícaras de milho de pipoca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na pipoqueira a margarina e deixe derreter.",
+      "Depois, acrescente o açúcar e o achocolatado e mexa um pouco para misturar.",
+      "Depois de misturado, acrescente o milho e feche a pipoqueira.",
+      "Mexa até o milho estourar.",
+      "Demora um pouco mas é normal. o ideal é fazer na pipoqueira para evitar que queime."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "BRUNA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301182-pipoca-doce-da-buh.html"
+}

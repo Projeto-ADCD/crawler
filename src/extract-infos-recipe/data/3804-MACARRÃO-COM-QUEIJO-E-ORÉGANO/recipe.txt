@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO COM QUEIJO E ORÉGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão penne",
+      "200 g de queijo muçarela",
+      "1 pacote de molho de macarrão",
+      "1 colher (sopa) de sal",
+      "1 pitada de orégano",
+      "2 colheres (sopa) de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão em uma panela separada",
+      "Depois, faça o molho do macarrão em outra panela",
+      "Coloque o macarrão pré-cozido em uma panela de pressão",
+      "Coloque também o molho dentro da panela de pressão",
+      "Coloque o queijo muçarela dentro e deixe cozinhar por 5 minutos",
+      "Depois, adicione o queijo parmesão e deixe por mais 5 minutos",
+      "Adicione o orégano e o sal",
+      "Misture bem"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "-4 PORÇÕES",
+  "autor": "PIETRO ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302616-macarrao-com-queijo-e-oregano.html"
+}

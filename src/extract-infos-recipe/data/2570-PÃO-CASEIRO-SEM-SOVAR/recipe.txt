@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO CASEIRO SEM SOVAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite morno",
+      "1 ovo",
+      "1 colher (chá) de sal",
+      "120 ml de óleo",
+      "2 colheres (sopa) de açúcar",
+      "1 envelope de fermento pra pão",
+      "2 e 1/2 xícaras de farinha de trigo peneirada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes menos a farinha de trigo, por 2 minutos",
+      "Em uma tigela coloque todo o líquido e adicione as duas xícaras e meia de farinha de trigo peneirada, mexa bem com uma colher.",
+      "Não precisa sovar.",
+      "Cubra com um pano deixe descansar por 30 minutos dentro do forno do fogão desligado",
+      "Após esse descanso da massa, coloque em uma forma untada e enfarinhada.",
+      "Polvilhe parmesão e ervas desidratadas.",
+      "Leve ao forno preaquecido a 180° C graus por aproximadamente 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "JAQUELINE JAQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304924-pao-caseiro-sem-sovar.html"
+}

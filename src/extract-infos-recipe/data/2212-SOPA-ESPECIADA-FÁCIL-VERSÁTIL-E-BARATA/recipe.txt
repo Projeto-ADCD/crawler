@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOPA ESPECIADA FÁCIL, VERSÁTIL E BARATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 copo de ervilha seca",
+      "3 copos de quaisquer legume picado que tiver na geladeira (usei couve-flor e uma seleta congelada com cenoura, batata e vagem)",
+      "2 colheres (sopa) de vinagrete seco",
+      "1 colher (chá) de curry",
+      "1 colher (chá) de cúrcuma",
+      "1 colher (chá) de cominho",
+      "1 colher (chá) de páprica defumada",
+      "1 folha de louro",
+      "azeite e sal a gosto",
+      "macarrão de sua preferência."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque azeite e refogar ligeiramente os temperos tomando cuidado para não queimar.",
+      "Coloque os demais ingredientes exceto o macarrão, cubra de água até a altura do parafuso e tampar.",
+      "Cozinhe por 40 minutos depois que pegar pressão.",
+      "Abra, coloque o macarrão e leve ao fogo novamente até cozinhar o macarrão."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SARITA ALVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305703-sopa-especiada-facil-versatil-e-barata.html"
+}

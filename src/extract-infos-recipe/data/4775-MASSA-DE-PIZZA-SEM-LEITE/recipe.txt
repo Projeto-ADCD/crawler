@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MASSA DE PIZZA SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/3 xícara de água",
+      "30 ml de óleo",
+      "1 ovo",
+      "2/3 xícara de farinha de trigo",
+      "1/3 colher (sopa) de fermento",
+      "Uma pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no piquidificador e bater atá homogeneizar.",
+      "Leve para assar em forma untada por cerca de 15 min a 180º C."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ITIARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300249-massa-de-pizza-sem-leite.html"
+}

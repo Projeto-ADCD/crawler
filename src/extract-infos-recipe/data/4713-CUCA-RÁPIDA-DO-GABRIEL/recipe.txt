@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CUCA RÁPIDA DO GABRIEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "3 xícaras de açúcar",
+      "1 xícara de óleo",
+      "4 xícaras de farinha de trigo",
+      "2 xícaras de leite",
+      "2 colheres (sopa) de fermento em pó royal",
+      "Farofa",
+      "2 colheres (sopa) de manteiga",
+      "4 colheres (sopa) de farinha de trigo",
+      "4 colheres (sopa) de açúcar",
+      "4 colheres (chá) de canela rasas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Coloque em uma vasilha os ovos, o açúcar e o óleo e mexa bem",
+      "Depois adicione 2 xícaras de farinha e mexa acrescentando 1 xícara de leite",
+      "Mexa novamente, depois coloque mais as 2 xícaras de farinha e mexa",
+      "Adicione o leite e mexa novamente",
+      "Acrescente o fermento em pó",
+      "Farofa",
+      "Coloque em uma vasilha a manteiga e bote no micro-ondas por 30 segundos",
+      "Depois retire e acrescente a farinha, o açucar e a canela",
+      "Por fim despeje a massa em uma forma untada e acrescente doces como chocolate, coco, entre outros.",
+      "Coloque a farofa por cima e leve ao fogo por 40 minutos "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GABRIEL KOP PLAYER BRASIL #TMJ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300376-cuca-rapida-do-gabriel.html"
+}

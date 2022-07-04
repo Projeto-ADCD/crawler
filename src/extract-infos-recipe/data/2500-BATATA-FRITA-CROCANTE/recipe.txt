@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BATATA FRITA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 Batatas",
+      "1/5 de xícara de trigo",
+      "1 tempero pronto ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas em palitos",
+      "Em seguida coloque-as em um guardanapo para absorver a umidade",
+      "Coloque em um recipiente todos os ingredientes e misture bem até ficar homogênea",
+      "Frite em óleo quente e preaquecido"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "AMANDA MENDONÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305070-batata-frita-crocante.html"
+}

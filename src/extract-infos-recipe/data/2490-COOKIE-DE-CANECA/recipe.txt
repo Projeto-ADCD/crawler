@@ -1,0 +1,24 @@
+{
+  "nome_receita": "COOKIE DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 gema",
+      "1 colher (sopa) de manteiga em temperatura ambiente",
+      "1 colher (sopa) de açúcar mascavo",
+      "gotinhas de baunilha (opcional)",
+      "3 colheres (sopa) de farinha de trigo",
+      "gotas de chocolate a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e por fim as gotas de chocolate",
+      "Leve ao micro-ondas em potência alta por 40 segundos",
+      "Se estiver muito umido, coloque de 10 em 10 segundos até ficar mais seco (conforme esfria, fica mais firme)"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HELENA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305086-cookie-de-caneca.html"
+}

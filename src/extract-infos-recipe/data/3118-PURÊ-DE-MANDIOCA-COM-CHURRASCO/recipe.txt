@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PURÊ DE MANDIOCA COM CHURRASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de mandioca",
+      "200 g de sobras de churrasco (cortado em pedacinhos minúsculos)",
+      "2 colheres de margarina",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão cozinhe a mandioca até derreter",
+      "Escorra toda água da mandioca cozida e amasse bem a mandioca ao ponto de purê",
+      "Em uma panela derreta a margarina, acrescente os pedacinhos de churrasco e mexa bem",
+      "Acrescente a mandioca amassada, misture tudo muito bem",
+      "Em seguida acrescente o creme de leite",
+      "Misture bem, deixe ferver por 1 minutinho e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "CAÁH CEZÁARIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303852-pure-de-mandioca-com-churrasco.html"
+}

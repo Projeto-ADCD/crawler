@@ -1,0 +1,48 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE SECA COM PURÊ DE BATATAS",
+  "ingredientes": {
+    "RECHEIO:": [
+      "1 Kg de Carne Seca",
+      "1 Cebola picada",
+      "1 Colher rasa de alho",
+      "1 embalagem e meia de Molho de Tomate encorpado",
+      "Azeitonas sem caroço",
+      "1 colher de óleo",
+      "Sal a gosto",
+      "Tempero misto"
+    ],
+    "MASSA:": [
+      "1 kg de batata inglesa",
+      "1 caixa de creme de leite",
+      "1/2 xicara de farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a carne seca em retangulos largos e coloque na panela de pressao por 25 min. Em fogo alto ate pegar a pressao e logo apos no fogo médio.",
+      "Desfie em um triturador a carne seca que devera estar bem macia e deixe repousar.",
+      "Faça a carne seca: dore o alho, dore a cebola e jogue a carne seca já desfiada.",
+      "Misture bem tudo e logo após que a carne seca estiver bem frita (não significada torrada, apenas moreninha) jogue o molho de tomate e misture bem.",
+      "Deixe ferver por 5 minutos no fogo baixo."
+    ],
+    "MASSA:": [
+      "Descasque a batata e corte em cubos largos para cozinhar.",
+      "Cozinhe por aprox. 10 min ou ate ficar desmanchando.",
+      "Escorra e deixe esfriar a batata.",
+      "Em uma bancada higienizada, amasse as batatas.",
+      "Ainda em cima da bancada, faça um montinho de batata e jogue uma caixa de creme de leite e misture bem.",
+      "OBSERVAÇÃO IMPORTANTE: Coloque a farinha apenas se a massa ficar com uma consistência mais mole."
+    ],
+    "MONTAGEM:": [
+      "Pegue a massa de batatas e coloque no fundo e nas laterais da travessa. Após isso, coloque a carne seca e tampe novamente com o pure.",
+      "Sirva com arroz e outros acompanhamentos a gosto!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita da Maria Eduarda Segges"
+    ]
+  },
+  "tempo_de_preparo": "110 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DUDA_SEGGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301181-escondidinho-de-carne-seca-com-pure-de-batatas.html"
+}

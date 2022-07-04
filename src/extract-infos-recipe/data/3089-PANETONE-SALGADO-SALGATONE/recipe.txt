@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PANETONE SALGADO SALGATONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras e 1/2 de chá de farinha de trigo aproximadamente",
+      "1 pacotinho de fermento seco (10 g)",
+      "1 colher (sopa) de açúcar",
+      "1 xícara (chá) leite morno",
+      "2 colheres (sopa) de manteiga em temperatura ambiente",
+      "2 ovos e 1 gema",
+      "1 pitada de sal"
+    ],
+    "RECHEIO:": [
+      "azeitonas pretas",
+      "queijo parmesão em lascas ",
+      "orégano"
+    ],
+    "PARA FINALIZAR:": [
+      "gema para pincelar",
+      "queijo parmesão ralado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela os ingredientes na sequência, misturando muito bem",
+      "Passe para a bancada, sove bem e deixe descansar na própria tigela em local aquecido coberto com filme plástico e pano de prato até dobrar de volume (o tempo depende da temperatura no lugar)",
+      "Coloque na bancada, divida a massa em duas partes",
+      "Abra com a mão mesmo e acrescente as azeitonas, o parmesão e o orégano",
+      "Trabalhe bem a massa para o recheio ser incorporado",
+      "Coloque na forma própria e deixe crescer (coloque dentro do forno) até chegar a borda",
+      "Pincele gema, polvilhe o parmesão e leve ao forno preaquecido por 30 minutos ou até dourar",
+      "Retire e deixe descansar sobre uma grade"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "GILDA FERREIRA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303897-panetone-salgado-salgatone.html"
+}

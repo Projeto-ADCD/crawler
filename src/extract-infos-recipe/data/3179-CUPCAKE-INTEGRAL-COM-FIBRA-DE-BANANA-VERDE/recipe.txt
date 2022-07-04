@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CUPCAKE INTEGRAL COM FIBRA DE BANANA VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de farinha de fibra de banana verde",
+      "2 colheres de manteiga",
+      "2 colheres (sopa) de farinha de trigo integral",
+      "1 colher (sopa) de de amido de milho",
+      "1/2 colher (sopa) de fermento em pó",
+      "1/2 xícara de leite",
+      "1 colher (sopa) de essência de baunilha",
+      "4 ameixas picadas",
+      "2 colheres (sopa) de castanha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes por 3 minutos",
+      "Coloque 2 colheres em cada forminha de cupcake",
+      "Polvilhe com açúcar demerara e asse por 8 minutos"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ELIANA ROXO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303776-cupcake-integral-com-fibra-de-banana-verde.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ESPETINHO DE SALSICHA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 salsichas",
+      "8 fatias de queijo de sua preferência",
+      "8 palitos de churrasco",
+      "1 xícara de leite integral",
+      "1 xícara de farinha de trigo sem fermento",
+      "2 ovos",
+      "tempero a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva as salsichas",
+      "Pegue as salsichas e errole no queijo, deixe no congelador por 20 minutos",
+      "Misture numa tigela grande a xícara de leite, a farinha de trigo, os 2 ovos e o tempero",
+      "Peque um copo que caiba a salsicha e coloque a massa, depois mergulhe a salsicha no copo",
+      "Coloque uma quantidade de óleo em uma panela e deixe esquentar",
+      "Logo após, mergulhe a salsicha no óleo e deixe frita",
+      "Sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDZA BETATRIZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305969-espetinho-de-salsicha-empanada.html"
+}

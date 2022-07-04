@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PAVÊ IMPROVISADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 ml de leite",
+      "100 ml de leite para molhar o bolacha",
+      "5 colheres de achocolatado",
+      "3 colheres de amido de milho ",
+      "1 colher (sopa) de margarina",
+      "1 pacote de bolacha maisena (pode ser de leite, ou coco também, que seja compridinho igual a maisena)",
+      "granulado a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite, o achocolatado e o amido a no liquidificador e bata por 1 minuto",
+      "Leve ao fogo e acrescente a margarin",
+      "Mexa até ficar numa consistência homogênea.",
+      "Em uma travessa pequena, coloque a primeira camada de bolacha, molhe-as no leite.",
+      "Depois coloque uma camada do creme, depois outra camada de bolacha",
+      "A última camada tem que ser do creme",
+      "Salpique o granulado por cima e leve à geladeira por 4 horas."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SAYURY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305225-pave-improvisado.html"
+}

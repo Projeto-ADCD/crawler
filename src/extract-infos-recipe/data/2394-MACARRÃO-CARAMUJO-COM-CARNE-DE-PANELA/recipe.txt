@@ -1,0 +1,44 @@
+{
+  "nome_receita": "MACARRÃO CARAMUJO COM CARNE DE PANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão caramujo",
+      "500 g de coxão duro",
+      "2 tomates",
+      "1 cebola",
+      "3 dentes de alho amassados ou picados",
+      "1 sachê de molho de tomate",
+      "1 colher (sopa) de creme de cebola",
+      "1 colher (chá) de páprica picante",
+      "1 colher (chá) de tempero pronto",
+      "1 colher (chá) de alecrim",
+      "3 folhas de louro",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão",
+      "Junte o azeite, o alho, o tmate e acebola picados à Juliene (cerca de 1 dedo e meio de espessura) e o tempero pronto",
+      "Frite tudo e adicione a carne",
+      "Sele a carne",
+      "Junte o louro, creme de cebola, alecrim, páprica, acerta o sal e um copo de água de 400 ml",
+      "Fecha a panela de pressão",
+      "Quando pegar pressão, deixe 30 minutos",
+      "Abra a panela, se necessário adicione mais um pouco de água e feche por mais 15 minutos",
+      "Verifique o cozimento",
+      "Desfie (se necessário) a carne",
+      "Adicione o sachê de molho de tomate",
+      "Acerte o sal",
+      "Enquanto a panela de pressão está fechada, cozinhe o pacote inteiro de macarrão conforme orientação do fabricante",
+      "Escorra o macarrão",
+      "Ponha um fio de azeite",
+      "Adicione a carne já desfiada",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ELLISSA CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305321-macarrao-caramujo-com-carne-de-panela.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE BANANA E OVOMALTINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 colheres de farinha de trigo",
+      "1 xicara de açúcar",
+      "1 e 3/4 de xícara de ovomaltine",
+      "1 colher de fermento em pó",
+      "5 bananas cortadas em rodelas",
+      "4 ovos grandes",
+      "100 g de chocolate ao leite picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C.",
+      "Em uma tigela misture a farinha, o açúcar, 3/4 de xícara de ovomaltine e o fermento em pó.",
+      "Coloque metade dessa mistura no fundo de uma assadeira de 30 cm de diâmetro, untada e enfarinhada.",
+      "Por cima dessa farinha arrume as rodelas de banana até formar uma camada cobrindo toda a assadeira.",
+      "Polvilhe 1 xícara de ovomaltine sobre a camada de banana, espalhe outra metade da mistura de farinha por cima, bata os ovos até virar uma espuma e distribua bem sobre a farinha, cobrindo todas as partes secas.",
+      "Finalize espalhando chocolate ao leite picado por cima de tudo.",
+      "Leve ao forno por aproximadamente 35 minutos."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MILENE BENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303932-torta-de-banana-e-ovomaltine.html"
+}

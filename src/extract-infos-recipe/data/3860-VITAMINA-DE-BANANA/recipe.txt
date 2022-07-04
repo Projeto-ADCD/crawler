@@ -1,0 +1,22 @@
+{
+  "nome_receita": "VITAMINA DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas",
+      "3 xícaras de leite",
+      "2 colheres de açúcar",
+      "1 colher de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as bananas e coloque-as no liquidificador",
+      "Acrescente as 3 xícaras de leite e as 2 colheres de açúcar",
+      "Coloque no copo que preferir e espalha o leite em pó por cima, ficará uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIA CLARA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302494-vitamina-de-banana.html"
+}

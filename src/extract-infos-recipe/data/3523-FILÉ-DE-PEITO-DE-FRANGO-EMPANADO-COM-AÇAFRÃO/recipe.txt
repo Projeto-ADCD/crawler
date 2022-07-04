@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FILÉ DE PEITO DE FRANGO EMPANADO COM AÇAFRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de filé de peito de frango em fatias finas",
+      "farinha de trigo para empanar",
+      "farinha de rosca para empanar ",
+      "30 g de queijo parmesão ralado",
+      "2 ovos médios",
+      "azeite de oliva",
+      "açafrão da terra a gosto",
+      "orégano desidratado a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere as fatias de frango com sal e açafrão da terra.",
+      "Misture a farinha de rosca com queijo parmesão e orégano.",
+      "Empane o filé de peito de frango na seguinte ordem: trigo, ovo e por fim na farinha de rosca temperada.",
+      "Em uma frigideira com um pouco de azeite frite os filés empanados até que estejam no ponto.",
+      "Sirva junto com alguma guarnição e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303203-file-de-peito-de-frango-empanado-com-acafrao.html"
+}

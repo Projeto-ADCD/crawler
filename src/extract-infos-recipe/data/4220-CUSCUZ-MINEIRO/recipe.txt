@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CUSCUZ MINEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de tapioca granulada",
+      "1 litro de leite",
+      "8 colheres (sopa) de açúcar",
+      "100 g de coco ralado",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela todos os ingredientes e leve ao fogo.",
+      "Mexa sempre ate que desgrude da panela.",
+      "A tapioca ficará com uma cor mais transparente.",
+      "Desligue o fogo e leve o conteudo em um refratario.",
+      "Se achar por bem, pode jogar um pouco de coco ralado para enfeitar.",
+      "Espere esfriar e sirva-se."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Caso a granulacao da tapioca seja maior, pode deixa-la de molho alguns minutos no leite antes de ligar o fogo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "RAQUELI BRAG",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301560-cuscuz-mineiro.html"
+}

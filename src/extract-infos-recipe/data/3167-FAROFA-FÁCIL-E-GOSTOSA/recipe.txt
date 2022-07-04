@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos farinha milho branca (300 ml)",
+      "2 copos farinha mandioca branca (300 ml)",
+      "2 ovos cozidos",
+      "2 tomates s/semente",
+      "1 cebola picada",
+      "1 pacote de azeitona 100 ml",
+      "1 pacote de uva passa preta 100 ml",
+      "1 milho lata",
+      "1 cenoura ralada",
+      "1 copo de óleo de soja",
+      "1 batata palha 400 g",
+      "1 cheiro-verde/coentro picado",
+      "3 limões",
+      "2 calabresas picadas refogadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture as farinhas",
+      "Acrescente o suco de limão, calabresa picada e refogada, tomate, cebola, o óleo, milho, uva passa, cenoura ralada, batata palha, ovo cozido cortado e o cheiro-verde/coentro.",
+      "Coloque sal a gosto"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LUIS FERNANDO M G LEITAAO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303789-farofa-facil-e-gostosa.html"
+}

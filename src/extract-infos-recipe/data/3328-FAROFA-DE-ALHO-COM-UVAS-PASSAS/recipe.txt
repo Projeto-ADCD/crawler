@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FAROFA DE ALHO COM UVAS PASSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kilo de farinha de mandioca",
+      "2 cabeças de alho descascado e amassados",
+      "150 g de uvas passas",
+      "300 g de batata palha",
+      "4 colheres (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça bem a margarina e coloque o alho",
+      "Frite até ficar bem douradinho e coloque a farinha",
+      "Mexa até ficar crocante e desligue",
+      "Coloque as uvas passas e continue mexendo para não queimar",
+      "Por último coloque a batata palha e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NEIDE MARIANA ANICETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303553-farofa-de-alho-com-uvas-passas.html"
+}

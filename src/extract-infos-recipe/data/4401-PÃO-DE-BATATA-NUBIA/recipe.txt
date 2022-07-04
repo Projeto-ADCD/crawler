@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE BATATA NUBIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 batatas pequenas cozidas e amassadas",
+      "200 ml de leite",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (chá) de sal",
+      "10 g de fermento seco",
+      "1/4 de óleo",
+      "1 ovo jumbo",
+      "700 g de farinha ou até dar o ponto de desgrudar da mão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ingredientes, por último a farinha e aos poucos solve a massa por 10 minutos",
+      "Deixe descansar até dobrar o tamanho, faça os pão do formato que quiser e unte uma forma",
+      "Coloque os pães e deixe crescer novamente",
+      "Leve ao forno a 200° C"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "NUBIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301220-pao-de-batata-nubia.html"
+}

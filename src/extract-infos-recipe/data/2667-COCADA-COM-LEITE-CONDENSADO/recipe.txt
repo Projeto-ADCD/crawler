@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COCADA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 coco fresco",
+      "1 lata de leite condensado",
+      "2 xícara de açúcar",
+      "250 ml de agua"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione o açúcar e água",
+      "Até o açúcar derreter por completo, adicione o coco ja ralado e mexa até secar",
+      "Em seguida, coloque o leite condensado e mexa até desgrudar do fundo da panela",
+      "Despeje em um recepiente que achar melhor ou se preferir espalhe em um mármore ou modele com auxílio de uma colher de pau e uma colher"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "INGRID SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304700-cocada-com-leite-condensado.html"
+}

@@ -1,0 +1,48 @@
+{
+  "nome_receita": "ARROZ DE FORNO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 litro de leite",
+      "1 cubo de caldo de galinha",
+      "1 colher (sopa) de manteiga",
+      "2 colheres (sopa) de amido de milho",
+      "1 lata de creme de leite",
+      "1 copo de requeijão cremoso sabor cheddar",
+      "50 g de queijo parmesão ralado",
+      "3 xícaras (chá) de arroz cozido",
+      "1 xícara (chá) de cenoura picada cozida",
+      "1/2 xícara (chá) de salsinha picada",
+      "1 xícara (chá) de milho",
+      "100 g de queijo mussarela relado ou cortado em fatias fininhas",
+      "2 linguiças finas defumadas",
+      "1 cebola média cortada em cubinhos",
+      "2 colheres (sopa) de azeite",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo uma panela média com o leite, a manteiga, o caldo de galinha e o amido de milho, em fogo médio.",
+      "Deixe cozinhar, mexendo sempre, até engrossar.",
+      "Retire do fogo e acrescente o requeijão e o creme de leite.",
+      "Misture tudo muito bem. Reserve.",
+      "Em uma caçarola pequena coloque o azeite.",
+      "Junte a cebola picada com uma pitada de sal e deixe refogar por uns 3 minutos.",
+      "Acrescente a linguiça cortada em meia-luas e deixe refogar.",
+      "Em uma tigela funda, coloque o arroz cozido, o refogado com a linguiça, as cenouras cozidas, o milho, a salsinha picada, metade do parmesão ralado e misture tudo muito bem.",
+      "Veja se necessita mais sal e pimenta e tempera a gosto.",
+      "Lembre-se que o creme já tem tempero.",
+      "Em um refratário untado coloque uma camada de arroz.",
+      "Cubra com metade do creme e polvilhe com o queijo mussarela ralado.",
+      "Cubra com o restante do arroz e com o restante do creme.",
+      "Por última polvilhe com o restante do queijo parmesão ralado.",
+      "Leve ao forno, pré-aquecido, em temperatura média, por uns 20 minutos ou até dourar levemente.",
+      "Retire do forno e sirva em seguida acompanhado de uma boa salada verde.",
+      "PS. Você pode acrescentar ervilha, grão-de-bico, seleta ou outros legumes de seu gosto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305331-arroz-de-forno-cremoso.html"
+}

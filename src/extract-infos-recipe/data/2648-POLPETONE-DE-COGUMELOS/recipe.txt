@@ -1,0 +1,42 @@
+{
+  "nome_receita": "POLPETONE DE COGUMELOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 unidades de Futuro Burguer (1 caixa)",
+      "2 colheres (sopa) de farinha panko (ou farinha de rosca)",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 ovo batido",
+      "40 g de cogumelo shimeji seco",
+      "1 lata de tomates pelados",
+      "1/2 cebola em cubos pequenos",
+      "2 colheres (sopa) de azeite",
+      "1/2 maço de manjericões frescos",
+      "1 colher (chá) de orégano seco",
+      "1/2 xícara de vinho branco seco",
+      "1/2 xícara de água quente",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, hidrate os cogumelos secos com a água fervente por 20 minutos.",
+      "Passado o tempo, retire e esprema bem os cogumelos, reservando a água.",
+      "Em uma frigideira em fogo médio, adicione o azeite e refogue os cogumelos com sal e pimenta.",
+      "Adicione o vinho branco e deixe evaporar, em seguida adicione a água reservada dos cogumelos com 1 colher de sopa rasa de farinha diluída.",
+      "Reduza por 5 minutos até que se forme molho encorpado com os cogumelos, reserve.",
+      "Com os Futuro Burguers já descongelados, tempere com sal e pimenta e faça uma cavidade em cada hambúrguer com o auxílio de uma colher, o suficiente para acomodar o recheio de forma generosa em uma das metades.",
+      "Tampe com a outra metade formando um sanduíche e aperte as laterais com cuidado.",
+      "Para empanar o polpetone, primeiro passe na farinha de trigo, depois no ovo batido e, por último, na farinha panko (ou de rosca).",
+      "Regue com azeite e asse em forno médio (180°C) por 40 minutos ou até que fiquem dourados – se preferir pode ser frito por imersão.",
+      "Enquanto o polpetone assa, faça o molho.",
+      "Refogue a cebola até ficar translúcida e adicione a lata de tomates pelados.",
+      "Acerte o sal e a pimenta e adicione o orégano, cozinhe por 10 minutos em fogo baixo.",
+      "Para montagem, coloque o polpetone já assado por cima do molho e adicione folhas de manjericão fresco.",
+      "Fica um acompanhamento perfeito para massas."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304742-polpetone-de-cogumelos.html"
+}

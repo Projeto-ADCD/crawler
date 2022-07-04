@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TEMPERO FÁCIL À MINHA MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cabeças de alho",
+      "2 cabeças de cebola",
+      "150 ml de azeite",
+      "3 colheres (sopa) de sal",
+      "1/2 colher (chá) de cominho em pó",
+      "folhas de alho poró e folhas de hortelã pimenta a gosto",
+      "1/2 pimentão vermelho",
+      "ervas-finas, alecrim, chimichurri e pimenta a gosto",
+      "se preferir outros temperos, pode substituir"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata em um processador o alho e a cebola, até ficarem bem picadinhos.",
+      "Acrescente o pimentão, o alho poró e as folhas de hortelã pimenta",
+      "Bata mais um pouco até ficar bem picadinho também.",
+      "Em seguida, acrescente o azeite e misture.",
+      "Retire do processador e coloque em uma vasilha mais espaçosa para misturar os outros temperos.",
+      "Acrescente o sal, o cominho, a pimenta moida na hora, as ervas finas, o alecrim e o chimichurri.",
+      "Esses temperos são a gosto (se preferir outros temperos, pode substituir)",
+      "Misture bem e coloque em um pote esterelizado.",
+      "Conserve na geladeira.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Rende mais ou menos 600 ml"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DEBORA CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303189-tempero-facil-a-minha-moda.html"
+}

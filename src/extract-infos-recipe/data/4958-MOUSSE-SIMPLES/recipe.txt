@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOUSSE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "10 colheres de leite em pó",
+      "1 suco em pó (sabor a sua escolha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes muito bem.",
+      "Coloque em um recipiente a mistura e leve ao congelador por 20 minutos.",
+      "Retire do congelador e leve à geladeira."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "KEYLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299857-mousse-simples.html"
+}

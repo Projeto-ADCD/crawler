@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA DE NATAL EM FAMÍLIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga sem sal",
+      "400 g de bacon cortado em tirinhas",
+      "200 g de calabresa cortada em cubinhos",
+      "1 cenoura grande ralada",
+      "1 pacote pequeno de uvas passa",
+      "1 pacote pequeno de azeitonas fatiadas",
+      "1 maço de cheiro-verde picado",
+      "1 cebola média picada",
+      "3 dentes de alho picados",
+      "1 pacote de farofa de milho pronta "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o bacon para fritar em uma panela com a manteiga.",
+      "Depois que estiver dourado, adicione a calabresa, a cebola e o alho.",
+      "Deixe fritar mais ou menos por 5 minutos, sempre mexendo.",
+      "Adicione a cenoura ralada, as azeitonas, o cheiro-verde e as uvas passa.",
+      "Meixa bem, e em seguida adicione a farofa de milho.",
+      "Mexa bem, até ficar bem misturado, e pronto.",
+      "Você pode utilizar para acompanhamento e também rechear a ave natalina",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não adicionar sal, pois o bacon, a calabresa e a farofa de milho já são temperados."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSIANE BERNARDO DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303807-farofa-de-natal-em-familia.html"
+}

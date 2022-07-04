@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DELICIOSO MACARRÃO AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de espaguete",
+      "alho e/ou cebola ",
+      "500 g de queijo mussarela",
+      "500 g de Presunto",
+      "molho de tomate de sua preferência",
+      "manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande colocar a água para ferver",
+      "Quando começar a ferver, inclua óleo (para não grudar o macarrão um no outro) e sal para dar um gosto",
+      "Após cozinhar o macarrão, escorra-o",
+      "Em outra panela se preferir, adicione manteiga, alho e/ou cebola e deixe dorar",
+      "Após colocar seus temperos de preferência, adicione o molho de tomate e em seguida coloque o macarrão cozido.",
+      "Em um pirex ou forma, adicione o macarrão e em cima coloque o queijo e o presunto, forre com macarrão novamente e repita o processo até chegar na altura que você deseja.",
+      "Depois coloque no forno e deixe até o queijo derreter, após o processo, se delicie"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BRENDA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305708-delicioso-macarrao-ao-forno.html"
+}

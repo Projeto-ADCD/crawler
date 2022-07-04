@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BACALHAU COM GRÃO-DE-BICO ENSOPADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande",
+      "4 dentes de alho",
+      "500 g de grão-de-bico",
+      "500 g de batata",
+      "1,5 kg de bacalhau em postas dessalgado",
+      "sal a gosto",
+      "1 colher (chá) de colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o grão-de-bico de acordo com as instruções da embalagem e reserve.",
+      "Fervente as postas de bacalhau por 10 minutos.",
+      "Se o bacalhau estiver totalmente dessalgado, coloque 1 colher (chá) de sal na água.",
+      "Retire o bacalhau da água e coloque as batatas para cozinhar.",
+      "Assim a batata já pegará o gosto do bacalhau.",
+      "Em uma panela grande, refogue o alho e a cebola.",
+      "Acrescente as postas de bacalhau.",
+      "Não mexa, para o bacalhau não despedaçar.",
+      "Coloque o colorau e verifique se precisa ajustar o sal.",
+      "Acrescente o grão-de-bico com a água do cozimento.",
+      "Acrescente as batatas e deixe ferver em fogo baixo por 10 minutos.",
+      "Regue com azeite",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VIVIANE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301830-bacalhau-com-grao-de-bico-ensopado.html"
+}

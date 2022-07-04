@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 copo (americano) de óleo",
+      "2 copos (americano) de leite",
+      "1 pacotinho de fermento biologico seco (10g)",
+      "1 pintadinha de sal",
+      "6 colheres (sopa) de açúcar",
+      "1 pacote de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo, o leite, o óleo, o sal, o açúcar e fermento no liquidificador e bata tudo",
+      "Coloque em um recipiente e vá adicionando trigo aos poucos",
+      "Vá amassando a massa e adicionando trigo até a massa não grudar mais na mão",
+      "Tape a massa com um pano e deixe descansar até crescer.",
+      "Unte um tabuleiro com óleo e trigo.",
+      "Depois da massa crescida faça os pães do formato que deseja.",
+      "Deixe descansar mais um pouco.",
+      "Leve ao forno médio até assar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ARIELLY SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302978-pao-caseiro.html"
+}

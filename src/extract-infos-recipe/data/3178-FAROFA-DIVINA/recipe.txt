@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FAROFA DIVINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de bacon picadinho",
+      "100 ml de óleo",
+      "500 g de farinha de milho",
+      "300 g de azeitona picadas",
+      "1 calabresa picada",
+      "3 tomates",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "1/2 cebola picada",
+      "1/2 maço de cheiro-verde",
+      "3 dentes de alho",
+      "1 pimenta vermelha sem semente picadinha",
+      "2 latas de milho",
+      "1 lata de ervilha",
+      "6 ovos cozidos",
+      "3 cenouras grandes raladas",
+      "suco de meio limão",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon, a calabresa, a cebola o alho e deixe dourar",
+      "Misture o pimentão verde e o amarelo e refogue junte todos os outros ingredientes com um pouco de água",
+      "Deixe ferve",
+      "Assim que ferver, passe tudo para uma bacia e coloque a azeitona, a farinha, o sal e a pimenta",
+      "Misture tudo e logo em seguida coloque os ovos picados com uma xícara de cheiro-verde.",
+      "Depois é só se deliciar"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LUCIANA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303777-farofa-divina.html"
+}

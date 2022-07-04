@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOMBOM NA TRAVESSA DE BIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 latas de leite condensado",
+      "2 barras de chocolate meio amargo grande",
+      "1 creme de leite",
+      "2 caixas de bis",
+      "2 colheres (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o leite condensado junto com a manteiga e mexa em fogo baixo até se formar um brigadeiro de leite condensado.",
+      "Feito isso, quebre os bis e misture junto com o brigadeiro com o auxílio de uma colher.",
+      "Despeje o brigadeiro na travessa tampando todo o fundo e reserve na geladeira durante o preparo do chocolate derretido.",
+      "Cobertura do chocolate",
+      "Em um recipiente coloque as barras de chocolate quebradas juntamente com o creme de leite.",
+      "Leve para o micro-ondas e aqueça de 30 em 30 segundos até o chocolate derreter e sempre mexa com uma colher para ajudar.",
+      "Após o chocolate ter derretido completamente, despeje sobre o brigadeiro que já está na travessa cobrindo tudo.",
+      "Feito isso deixe na geladeira durante um certo período de tempo para gelar e depois é só degustar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica1: você pode optar por fruta ao invés do bis ou qualquer outro chocolate.\nDica 2: para enfeitar coloque granulado ou frutas sobre o chocolate"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SUELLEN LOPES ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305244-bombom-na-travessa-de-bis.html"
+}

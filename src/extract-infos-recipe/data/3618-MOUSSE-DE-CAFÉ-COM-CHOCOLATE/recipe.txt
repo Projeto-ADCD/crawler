@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOUSSE DE CAFÉ COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 lata de leite (mesma medida do leite condensado)",
+      "1 envelope de gelatina sem sabor",
+      "1 colher (sopa) de café solúvel",
+      "1/2 xícara de raspas de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o café solúvel no leite e em seguida, bata no liquidificador com o leite condensado.",
+      "Dissolva a gelatina sem sabor conforme instruções da embalagem e bata junto com a mistura anterior.",
+      "Por último, bata com a mistura, as raspas de chocolate e o creme de leite",
+      "Coloque em um refratário e leve a geladeira por no mínimo 3 horas.",
+      "Coloque raspas de chocolate para decorar"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANIELA ORLANDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303034-mousse-de-cafe-com-chocolate.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE BANANA COM MARACUJÁ E COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana",
+      "3 colheres (sopa) de suco concentrado de maracujá",
+      "2 colheres (sopa) de leite em pó",
+      "1 xícara (chá) de água de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304355-vitamina-de-banana-com-maracuja-e-coco.html"
+}

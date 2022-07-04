@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RISOLE FÁCIL DA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos (americano) de trigo",
+      "3 copos (americano) de leite",
+      "3 colheres (sopa) de margarina",
+      "1/2 cebola pequena ralada",
+      "3 dentes de alho ralado",
+      "1/2 tomate maduro amassado",
+      "1 caldo de frango",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale o alho e a cebola, amasse o tomate.",
+      "Coloque em uma panela com as 3 colheres de margarina e refogue.",
+      "Depois de refogado coloque os 3 copos de leite, o caldo de frango e o sal.",
+      "Deixe ferver",
+      "Quando começar a ferver, acrescente o trigo pouco a pouco, mexendo sem parar.",
+      "Vai ficar tudo empelotado, não se preocupe é assim mesmo.",
+      "Quando a massa desgrudar do fundo da panela, retire do fogo e coloque em um tabuleiro.",
+      "Espere esfriar e amasse com as mãos até a massa ficar lisa e homogênea sem o aspecto empelotado.",
+      "É só modelar, rechear e ser feliz.",
+      "Passe os salgadinhos no leite e depois na farinha de rosca para empanar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa massa serve para: coxinha, risole, bolinha de queijo e enroladinho de salsicha.\nNão sei se esqueci outros. Isso para salgados fritos ok?! E você ainda pode congelar e comer quando quiser.\nDICA: Frite em fogo médio. O óleo não deve está muito quente senão vai fritar por fora e por dentro vai ficar frio. Principalmente se for congelado."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "80 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304463-risole-facil-da-jo.html"
+}

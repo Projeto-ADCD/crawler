@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mandioca",
+      "1 lata de creme de leite sem soro",
+      "1 colher de sopa de margarina",
+      "2 ovos",
+      "50 g de queijo parmesão ralado",
+      "Sal a gosto",
+      "Para o recheio de pizza:",
+      "Molho de tomate temperado (azeite, 1/2 cebola picada, 3 dentes de alho amassados, pimenta vermelha picada a gosto, ervas e sal a gosto)",
+      "400 g de queijo muçarela ralado",
+      "250 g de presunto cortado em tiras"
+    ]
+  },
+  "passos": {
+    "PARA A MASSA:": [
+      "Amasse 1 kg de mandioca cozida ou passe na máquina de moer ou processador.",
+      "Misture os outros ingredientes.",
+      "Ela deve estar ainda quente para juntar os outros ingredientes e formar uma massa homogênea de textura mole."
+    ],
+    "PARA O RECHEIO DE PIZZA:": [
+      "Unte o refratário retangular (32 cm x 22 cm x 4 cm) com margarina, coloque metade da massa de mandioca, o molho de tomate temperado, 400 g de queijo muçarela ralado e 250 g de presunto cortado em tiras.",
+      "Depois, cubra com a outra metade da massa de mandioca.",
+      "Polvilhe queijo parmesão ralado.",
+      "Leve ao forno por mais ou menos 20 min em 180ºC."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Outras sugestões de recheios:\nFrango desfiado com molho de tomate, ervas e tempero a gosto; carne moída; carne seca."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUNARR09",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300920-torta-de-mandioca.html"
+}

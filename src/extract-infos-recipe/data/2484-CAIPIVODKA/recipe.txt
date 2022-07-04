@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CAIPIVODKA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 limões taiti",
+      "6 fatias de gengibre",
+      "2 colheres (sopa) de rapadura",
+      "200 ml de vodka ou aguardente",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique os limões, retirando antes a parte branca do meio, amasse com as lascas de gengibre.",
+      "Dissolva a rapadura em 50 ml de água morna.",
+      "Depois, em um copo com no mínimo 300 ml, coloque o limão com gengibre amassados, a vodka ou aguardente e a rapadura dissolvidas e misture com uma colher.",
+      "Caso queira mais doce, adicione 1 colher (sopa) de açúcar cristal em cada copo e misture.",
+      "Por último, adicione gelo.",
+      "Agora, é só beber!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIA ANGÉLICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305097-caipivodka.html"
+}

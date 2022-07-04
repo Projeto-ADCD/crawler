@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ROSCA MINEIRA DA ROÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 gema de ovo (para pincelar a rosca)",
+      "3 copos de leite morno",
+      "3 colheres (sopa) de margarina",
+      "1 e 1/2 copo de açúcar",
+      "2 colheres (sopa) de fermento químico",
+      "2 colheres (sopa) de óleo",
+      "1,5 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos o trigo.",
+      "Coloque 1 kg de trigo em uma vasilha grande e adicione a mistura do liquidificador.",
+      "Mexa bem e vá adicionando o restante aos poucos, até a massa ficar mais firme.",
+      "Sove bastante.",
+      "O ponto certo é quando a massa fica firme (não dura), mas grudando um pouco nos dedos.",
+      "Lembre-se que para saber o ponto certo você deve lavar as mãos.",
+      "Unte a forma com óleo e trigo, para não grudar.",
+      "Faça tranças e deixe crescer bem.",
+      "Com a massa bem crescida, pincele com a gema de ovo e um pouco de café, depois polvilhe açucar cristal.",
+      "Leve ao fogo alto, por aproximadamente 30 minutos.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "150 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FRANCIELE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305649-rosca-mineira-da-roca.html"
+}

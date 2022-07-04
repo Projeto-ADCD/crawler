@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COXA E SOBRECOXA DE FRANGO AO FORNO COM LIMÃO E BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,2 kg de coxa e sobrecoxa de frango",
+      "1 colher (sopa) de corante",
+      "1/2 colher de sopa de coentro seco",
+      "suco de 1 limão grande",
+      "5 dentes de alho",
+      "1 colher de tempero alho, sal e coentro verde",
+      "1 batata grande",
+      "1/2 colher de sal puro",
+      "1 colher de óleo."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recorte o frango em pedaços e faça furos com a faca em todos.",
+      "Coloque em um pilão o alho e o sal puro e massete até ficar homogêneo. Adicione o corante, o coentro seco, o suco do limão, o coentro verde e o tempero e misture.",
+      "Passe o tempero no frango, massageando, de forma que ele adentre ao máximo.",
+      "Reserve por 15 minutos .",
+      "Adicione o óleo a forma e unte toda ela.",
+      "Recorte a batata em cícurlos e coloque forrando todo o fundo da forma.",
+      "Leve ao forno em temperatura de 200° por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ALBERTO AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299759-coxa-e-sobrecoxa-de-frango-ao-forno-com-limao-e-batata.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FRANGO À ZAMBEZIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 frango médio",
+      "1 coco ralado",
+      "8 dentes de alho",
+      "1 folha de louro sal que baste"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe bem o frango e deixe escorrer num passador.",
+      "Rale o coco para dentro de uma bacia plástica e, depois de ralado, adicione meia xícara de água quente e meia de água fria.",
+      "Mexa muito bem com as mão até ficar um leite mais ou menos cremoso. Deixe esfriar enquanto adiciona o alho e o sal.",
+      "Para temperar o frango, ponha-o num tabuleiro e tempere com o preparado e a folha de louro.",
+      "Uns minutos depois deite meia quantidade do leite do coco e fica a marinar por meia hora.",
+      "À parte, numa tigelinha, junte o resto do leite de coco e um pouco de azeite.",
+      "Este frango é assado na brasa e, de vez em quando, com uma pena de galinha, vá borrifando o preparado de leite e azeite sobre o frango até estar pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "-5 PORÇÕES",
+  "autor": "HELENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300767-frango-a-zambeziana.html"
+}

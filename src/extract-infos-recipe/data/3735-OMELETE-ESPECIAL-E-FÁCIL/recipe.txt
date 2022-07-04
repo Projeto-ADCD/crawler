@@ -1,0 +1,25 @@
+{
+  "nome_receita": "OMELETE ESPECIAL E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de creme de leite",
+      "1 sachê de tempero ",
+      "2 colheres de farinha de trigo",
+      "1 colher de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo em um recipiente e depois adicione o sachê ",
+      "Depois de batido, adicione o creme de leite e a farinha de trigo",
+      "Depois de bem batido, esquente uma frigideira antiaderente e coloque uma colher de margarina",
+      "Depois de derretida, adicione toda a massa e vire ela com a ajuda de uma espátula",
+      "Recheie da forma que preferir."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VIRGÍNIA ELIZABETH DE SOUZA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302811-omelete-especial-e-facil.html"
+}

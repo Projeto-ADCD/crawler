@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO CASEIRO FOFINHO DA ROSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 g de fermento biológico",
+      "2 colheres (sopa) de açúcar",
+      "1 ovo",
+      "1 copo (americano) de leite morno",
+      "2 colheres (sopa) de leite em pó",
+      "1 colher (sopa) margarina",
+      "1 colher (café) de sal",
+      "4 xícaras (chá) açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, dissolva o fermento no açúcar até virar uma pasta e em seguida adicione leite morno, o ovo ligeiramente batido, o leite em pó, o sal e a margarina",
+      "Misture tudo muito bem e coloque a farinha até dar ponto",
+      "Sove por 10 minutos, a massa fica mais mole mesmo, não coloque mais farinha.",
+      "Leve pra crescer uns 20 minutos, depois divida a massa em 6 e modele com as mãos os pãezinhos.",
+      "Deixe crescer novamente e leve pra assar no forno a 200° C por 25 minutos.",
+      "Pode passar café pronto ou gema de ovo pra ficar douradinho.",
+      "Essa receita é excelente pra quem mora sozinho ideal"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROSA MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301495-pao-caseiro-fofinho-da-rosa.html"
+}

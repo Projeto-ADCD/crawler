@@ -1,0 +1,41 @@
+{
+  "nome_receita": "SALADA DE ABOBRINHA DA NANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha paulista",
+      "100 g de champignon",
+      "100 g de tomates secos",
+      "100 g de queijo mozarela ou parmesão",
+      "3 cebolinhas grandes",
+      "2 limões",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "tempero pronto a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a abobrinha em rodelas finas (meio centímetro ou menos)",
+      "Ferva 2 litros de água",
+      "Assim que estiver bem quente, coloque as abobrinhas e deixe cozinhar por apenas 2 minutos (não pode cozinhar demais).",
+      "Escorra bem a água da abobrinha, você pode usar um escorredor de macarrão.",
+      "Fatie o champignon.",
+      "Corte os tomates secos grosseiramente.",
+      "Corte o queijo em lascas ou fatias, você pode usar um descascador de legumes ou uma faca mesmo, o importante é ficar fininho.",
+      "Corte as cebolinhas, use uma tesoura, facilita bastante.",
+      "Molho",
+      "Esprema os limões e adicione o sal, a pimenta-do-reino e o temperopronto (se não tiver substitua por cebola ou alho desidratados, fica ótimo também)",
+      "Junte tudo numa travessa grande para que possa ficar bem misturadinho.",
+      "Misture com uma colher bem de leve e vá adicionando o molho ",
+      "Deixe a salada gelar por pelo menos 1 hora.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não usei azeite porque minha filha não gosta, mas pode adicionar se preferir.\nEssa salada foi a única receita que fez minha filha comer abobrinha, um ingrediente importante para a saúde"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NORMA ANGELICA DE CASTILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304521-salada-de-abobrinha-da-nana.html"
+}

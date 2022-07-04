@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CAPUCCINO DA JULIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "75 g de café solúvel",
+      "400 g de leite em pó (integral ou desnatado)",
+      "6 colheres (sopa) de chocolate em pó",
+      "3 colheres (café) de bicarbonato de sódio",
+      "1 colher (sopa) de canela em pó (ou a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ingredientes",
+      "Mexa vigorosamente de forma a deixar os ingredientes o mais homogêneo possível",
+      "Sirva e adoce a gosto"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DIEGO PACHECO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301879-capuccino-da-juliana.html"
+}

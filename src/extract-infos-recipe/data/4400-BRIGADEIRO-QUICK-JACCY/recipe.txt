@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BRIGADEIRO QUICK JACCY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixinha de leite condensado",
+      "8 colheres de achocolatado",
+      "2 colheres de nesquik",
+      "1 colher de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicionar todos ingredientes em uma panela",
+      "Mexer até que desgrude do fundo da panela",
+      "Após desgrudar do fundo mexa por mais 2 minutos",
+      "Leve a geladeira, espere esfriar mais não por completo",
+      "Faça bolinhas e passe no nesquick.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "JACCY MOSQUIAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301221-brigadeiro-quick-jaccy.html"
+}

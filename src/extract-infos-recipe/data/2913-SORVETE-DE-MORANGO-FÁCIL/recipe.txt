@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE DE MORANGO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de morango",
+      "2 colheres (sopa) de açúcar",
+      "1 e 1/2 xícara (chá) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o morango em uma tigela, adicione o açúcar e coloque no micro-ondas por 30 minutos até ficar parecendo uma geleia",
+      "Se não parecer uma geleia, coloque por 20 minutos até ficar uma geleia.",
+      "Depois coloque o leite aos poucos até ficar um rosa claro",
+      "Coloque essa mistura no copo de plástico ou em uma forminha própria para picolé",
+      "Coloque os palitos de picolé e coloque no freezer até que fique congelado"
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DELUCAS SCHUMAHER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304151-sorvete-de-morango-facil.html"
+}

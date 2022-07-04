@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO MESCLADO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) de farinha de trigo",
+      "1 ovo",
+      "1 copo (americano) de açúcar",
+      "2 colheres (sopa) de margarina ou manteiga",
+      "2 colheres rasa de chocolate em pó",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o ovo, a farinha de trigo, a manteiga e o açúcar.",
+      "Pegue uma vasilha, coloque a massa batida e acrescente o fermento em pó.",
+      "Bata e reserve.",
+      "Agora dívida a massa em 2 partes iguais.",
+      "Na segunda parte coloque o chocolate em pó , misture e reserve tb",
+      "Aqueça o forno a 180° C.",
+      "Enquanto isso, unte sua forma com um pouquinho de farinha de trigo e manteiga para que seu bolo não grude.",
+      "Na forma untada, coloque a primeira parte da massa sem o chocolate.",
+      "Em seguida a que está misturada com o chocolate.",
+      "Deixe a massa assentar na forma pra que fique uniforme.",
+      "Leve ao forno a 180° C e conte 45 minutos a partir daí.",
+      "Espere esfriar para desenformar e parta como quiser."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "VAVA MARANESI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303701-bolo-mesclado-de-chocolate.html"
+}

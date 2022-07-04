@@ -1,0 +1,23 @@
+{
+  "nome_receita": "COCADA DE FORNO DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 coco ralado",
+      "1 e 1/2 xícara de açúcar",
+      "2 ovos",
+      "1 colher de (sopa) cheia de manteiga",
+      "1 colher de (sopa) cheia de açúcar."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e depois as gemas.",
+      "Adicione os outros ingredientes.",
+      "Asse num pirex untada cm manteiga e deixe corar um pouco e sirva frio."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THÁTHÁ DOURADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302971-cocada-de-forno-deliciosa.html"
+}

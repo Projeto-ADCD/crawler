@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA DA ROÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farofa tradicional",
+      "2 ovos",
+      "300 g de linguiça calabresa fina",
+      "1 cabeça de alho",
+      "1 cebola",
+      "1 cubo de caldo de bacon",
+      "1 pitada de pimenta-do-reino",
+      "1 pitada de sal",
+      "1 salsinha",
+      "1 pacote de azeitonas sem caroço",
+      "500 g de torresmo picadinho",
+      "1/2 colher (chá) de colorífico",
+      "1/2 xícara (chá) de azeite",
+      "1 pacote de champignon picados",
+      "1 banana d'água picada bem pequeno (não muito madura)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela quente com óleo ou gordura, coloque o torresmo já bem picadinho na panela e frite até ficar dourado.",
+      "Após, em outra panela, frite a linguiça já picada em cubos pequenos.",
+      "Depois da linguiça frita, acrescente o alho socado e a cebola picada, espere dourar bem.",
+      "Apó, acrescente os ovos, o azeite, o champignon, o colorífico, a azeitona, a pimenta, a banana, o cubo de caldo de bacon, o sal e a farofa pronta ",
+      "Junte todos os ingredientes na mesma panela e misture bem.",
+      "Após pegue a salsinha e faça um enfeite dele no prato."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARY HELEN DE CARVALHO ESCALA DE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303939-farofa-da-roca.html"
+}

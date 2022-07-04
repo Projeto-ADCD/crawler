@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ARROZ DOCE PORTUGUÊS TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite quente",
+      "1 xícara de arroz",
+      "180 g de açúcar",
+      "6 unidades de gema de ovo",
+      "100 ml de água",
+      "1 canela pau pau",
+      "1 casca de limão",
+      "1 colher (sopa) de manteiga",
+      "1 pitada de sal",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare este arroz doce português levando ao fogo uma panela com a água, a casca de limão, a manteiga, o pau de canela e o sal.",
+      "Quando ferver junte o arroz, mexa e deixe cozinhar até que o arroz absorva toda a água.",
+      "É hora de adicionar o leite dividido em 4 porções de 250 ml.",
+      "Adicione uma porção, espere ferver antes de adicionar a próxima porção e mexendo sempre.",
+      "Adicione as gemas à última porção de leite e junte uma colherada do arroz quente, para temperar e evitar que as gemas cozam.",
+      "Retire o arroz do fogo, adicione-lhe o leite com as gemas, acrescente também o açúcar e misture muito bem.",
+      "Volte ao fogo e fique mexendo até engrossar um pouco mais.",
+      "Quando o arroz doce estiver pronto, retire o pau de canela e a casca do limão e sirva polvilhado com canela em pó, de preferência enquanto estiver quente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAROLINA CALHEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305963-arroz-doce-portugues-tradicional.html"
+}

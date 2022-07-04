@@ -1,0 +1,32 @@
+{
+  "nome_receita": "STROGONOFF DE ALHO-PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 talo de alho poró",
+      "1 fio de óleo",
+      "1/2 pote de maionese",
+      "3 dentes de alho picado",
+      "1/2 caixa de creme de leite",
+      "3 colheres (sopa) de leite de coco",
+      "cheiro-verde a gosto",
+      "orégano a gosto",
+      "sal a gosto",
+      "queijo a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque um fio de óleo e leve ao fogo.",
+      "Logo em seguida, coloque os dentes de alho picados e acrescente o sal.",
+      "Após dourar, acrescente a maionese e misture, assim coloque o leite de coco e o creme de leite.",
+      "Despeje as rodelas do alho-poró, e misture.",
+      "Até formar um molho pastoso, depois acrescente o cheiro-verde, orégano e o queijo.",
+      "Tampe a panela durante 5 minutos, logo após, desligue e sirva-se.",
+      "Um otimo acompanhamento é a batata palha e o arroz."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "EMILIANY ALEXANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304535-strogonoff-de-alho-poro.html"
+}

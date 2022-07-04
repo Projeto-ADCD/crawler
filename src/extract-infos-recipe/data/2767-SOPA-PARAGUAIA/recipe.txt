@@ -1,0 +1,28 @@
+{
+  "nome_receita": "SOPA PARAGUAIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 espigas de milho",
+      "2 copos de leite",
+      "2 cebolas",
+      "2 copos (tipo requeijão) de queijo mineiro meia cura picado",
+      "3 a 4 colheres de gordura para refogar a cebola (uso 2 colheres de banha, mas pode ser óleo ou manteiga)",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o milho e bata no liquidificador com o leite",
+      "Acrescente os ovos e reserve.",
+      "Doure a cebola no óleo e misture à massa",
+      "Acerte o sal e coloque num refratário untado",
+      "Salpique o queijo sobre a massa e asse em forno preaquecido (200° C) por mais ou menos 40 mintutos ou até dourar.",
+      "Sirva ainda quente.",
+      "Uma delícia"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUCIA CAROLINA DENADAI FONSECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304479-sopa-paraguaia.html"
+}

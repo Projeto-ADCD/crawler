@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "2 xícaras de açúcar",
+      "2 ovos",
+      "4 xícaras de trigo",
+      "1/2 xícara de óleo",
+      "2 xícaras de requeijão em barra ralado",
+      "1 pitada de sal",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador até a massa ficar homogênea",
+      "Coloque em uma forma de furo no meio untada",
+      "Leve ao forno por 1 hora a 200°C até ficar douradinho por cima"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NAYARA DELEPRANÍ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303229-bolo-de-requeijao.html"
+}

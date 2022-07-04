@@ -1,0 +1,53 @@
+{
+  "nome_receita": "LASANHA DE FRANGO GOSTOSA DO DERMENEZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de peito de frango",
+      "azeite a gosto",
+      "1 dente de alho",
+      "500 g de massa fresca para lasanha",
+      "120 ml de água",
+      "3 g de sal",
+      "tomilho a gosto",
+      "sal e pimenta a gosto",
+      "Molho branco",
+      "15 g de manteiga",
+      "1 dente de alho amassado",
+      "15 g de farinha de trigo",
+      "500 ml de leite",
+      "200 ml de creme de leite",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o frango em cubos e reserve.",
+      "Amasse os dois dentes de alho.",
+      "Coloque azeite em uma panela de pressão, metade do dente de alho e frite até dourar.",
+      "Adicione o frango e frite rapidamente.",
+      "Acrescente a água e o sal e cozinhe na pressão por 20 minutos.",
+      "Desligue o fogo aguarde 5 minutos e retire a pressão",
+      "Abra a panela, retire o caldo e reserve.",
+      "Feche a panela e balance com bastante força de um lado para o outro e para cima e para baixo, até desfiar o frango.",
+      "Se não conseguir, termine de desfiar pressionando o frango com uma colher contra a panela ou utilizando o garfo.",
+      "Em uma panela frite a outra metade do dente alho amassado na manteiga até dourar",
+      "Enquanto frita dissolva a farinha no leite.",
+      "Adicione a panela da manteiga e misture bem enquanto cozinha até engrossar.",
+      "Adicione o creme de leite e mexa até ficar homogêneo.",
+      "Acrescente o queijo parmesão e misture bem.",
+      "Montagem",
+      "Coloque um terço de frango desfiado e cubra com um terço do molho branco.",
+      "Coloque um terço da massa de lasanha na assadeira.",
+      "Coloque um terço de frango desfiado e cubra com um terço do molho branco.",
+      "Coloque um terço da massa de lasanha na assadeira.",
+      "Coloque um terço de frango desfiado e cubra com um terço do molho branco.",
+      "Coloque um terço da massa de lasanha na assadeira.",
+      "Salpique queijo parmesão por cima.",
+      "Asse até gratinar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DERMENEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301387-lasanha-de-frango-gostosa-do-dermenezes.html"
+}

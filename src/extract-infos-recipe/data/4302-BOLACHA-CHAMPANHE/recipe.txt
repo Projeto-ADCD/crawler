@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLACHA CHAMPANHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 xícara de banha sem derreter",
+      "2 xícaras de açúcar refinado",
+      "1 xícara de açúcar cristal",
+      "gotas de essência de baunilha",
+      "1 pitada de sal",
+      "1 xícara de leite",
+      "1 e 1/2 colheres (sopa) de sal amoníaco",
+      "farinha de trigo até dar o ponto da massa (aproximadamente 5 xícaras)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amorne o leite.",
+      "Desmanche nele o sal amoníaco.",
+      "Deixe esfriar",
+      "Misture os ovos, o açúcar refinado, o sal, a banha e a baunilha.",
+      "Bata manualmente até ficar bem homogêneo.",
+      "Acrescente a mistura do sal amoníaco e bata",
+      "Acrescente a farinha de trigo até ficar uma massa bem macia.",
+      "Passe a massa por uma máquina de moer carne com modelador para bolachas. ",
+      "Corte as bolachas, coloque em forma untada e polvilhe o açúcar cristal",
+      "Asse em forno quente até dourar.",
+      "Deixe esfriar bem e guarde em um recipiente bem fechado"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "MARTA CORADINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301411-bolacha-champanhe.html"
+}

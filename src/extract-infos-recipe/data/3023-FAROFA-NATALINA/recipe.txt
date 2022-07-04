@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA NATALINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacon picado",
+      "300 g de linguiça calabresa picada",
+      "2 cenouras ralada",
+      "1 tomate sem pele e sem semente picado",
+      "100 g de azeitona verdes",
+      "1 pimentão verde picado",
+      "2 ovos cozidos",
+      "3 colher de manteiga",
+      "100 g de castanha de caju triturado",
+      "8 damascos picados",
+      "acrescentar faropa o quanto baste"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon a calabresa na manteiga",
+      "Deve ficar bem fritos",
+      "Em seguida colocar cenoura, tomate, azeitonas, pimentão",
+      "Refogue até que diminua de tamanho na panela e coloque castanhas e o damasco",
+      "Em seguida acrescentar farofa e mexa sempre para não grudar.",
+      "Colooque sal a gosto e por último colocar ovos cozidos para decorar "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GABRIEL SIGNORINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303983-farofa-natalina.html"
+}

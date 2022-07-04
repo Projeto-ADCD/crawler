@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ COM UVAS PASSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farinha de trigo",
+      "1 xícara de açúcar",
+      "1/2 xícara de amido de milho",
+      "4 colheres (sopa) cheias de margarina",
+      "3/4 de xícara de leite",
+      "2 ovos",
+      "1 colher (sopa) de fermento",
+      "1 colher (chá) de essência de baunilha",
+      "Cobertura",
+      "3 maçãs fatiadas",
+      "1/2 xícara de evas passas escuras",
+      "2 colheres (sopa) de açúcar",
+      "1 colher (chá) de canela em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos com açúcar, acrescente a margarina, a farinha de trigo, o amido de milho, o leite, a essência de baunilha e o fermento.",
+      "Quando a massa estiver bem homogênea, despeje em uma forma e distribua as fatias de maçãs sobre toda superfície da massa",
+      "Acrescente as uvas passas e pulverize toda torta com açúcar e canela.",
+      "Asse por 45 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALCY PAIVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301015-torta-de-maca-com-uvas-passas.html"
+}

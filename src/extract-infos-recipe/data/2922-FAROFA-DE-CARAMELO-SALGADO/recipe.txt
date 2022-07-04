@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FAROFA DE CARAMELO SALGADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maçã ",
+      "1 limão",
+      "40 g de açúcar",
+      "1 e 1/2 colher (sopa) de manteiga",
+      "300 g de farofa Yoki tradicional",
+      "70 g de bacon",
+      "40 g de castanha ou nozes (opcional)",
+      "salsinha e cebolinha para decorar (um ou dois talos bastam)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a maçã em quadradinhos pequenos e sem casca",
+      "Coloque gostas de limão por cima, para não oxidarem e reserve.",
+      "Frite o bacon em uma frigideira em pequenos pedaços até ficarem bem crocantes, sempre em fogo baixo para não queimarem, reserve.",
+      "Coloque o açúcar em uma panela em fogo baixo, sem mexer, até que fique na cor marrom",
+      "Então, acrescente a manteiga e mexa bem até incorporar, adicione a farofa e mexa tudo",
+      "Acrescente o bacon e a maça cortada e volte a incorporar rapidamente.",
+      "Desligue o fogo.",
+      "Coloque a farofa pronta na travessa e misture as nozes ou castanhas em pedaços (opcional).",
+      "Pique a cebolinha para enfeitar e coloque um pequeno talo de salsinha para finalizar.",
+      " ",
+      "Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Joseane Holz Feldkircher Oliveira"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304135-farofa-de-caramelo-salgado.html"
+}

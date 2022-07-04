@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHANTILI CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de açúcar",
+      "5 colheres de leite em pó",
+      "2 colheres (sopa) de emulsificante",
+      "50 ml de água",
+      "1 colher de limão (opcional, pode trocar por qualquer essência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo na batedeira e bata até atingir a consistência de chantili.",
+      "Se ficar muito duro, acrescente mais água aos poucos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O açúcar pode ser o que usamos no dia a dia, porém terá que bater no liquidificador pra ficar fininho."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "INGRID MESTRINHO PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301938-chantili-caseiro.html"
+}

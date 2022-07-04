@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CONSUMÊ DE FEIJÃO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "250g (3 xícaras e meia) de feijão verde",
+      "1 xícara de tomate picado",
+      "1 xícara de pimentão picado",
+      "1 xícara de cebolinha e coentro picados",
+      "2 colheres bem cheias de requeijão cremoso",
+      "2 xícaras de cebola picada",
+      "1 dente de alho grande",
+      "2 colheres de farinha de trigo",
+      "250g de calabresa picada em cubos pequenos",
+      "100 g de queijo coalho em cubos",
+      "Páprica doce a gosto",
+      "Sal a gosto",
+      "2 folhas de louro",
+      "Curry a gosto",
+      "Azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, junte 1 litro e meio de água, coloque o feijão verde, um fio de azeite, o tomate, pimentão, coentro, cebolinha, e uma xícara de cebola, tempere com a páprica, o curry, e ajuste o sal.",
+      "Feche a panela e leve ao fogo, após a pressão iniciar, cozinhe por 20 minutos. A intenção é que ele cozinhe até ficar bem mole.",
+      "Quando o feijão estiver cozido, retire as folhas de louro e leve ao liquidificador aos poucos. Cuidado, liquidificar líquidos quentes faz espirrar no liquidificador, então bata aos poucos para evitar acidentes.",
+      "Passe o caldo que foi liquidificado pela peneira, para tirar o farelo das cascas, porque ele fica desagradável na garganta. Dá um pouco de trabalho pra peneirar, mas vale a pena. A dica é usar uma peneira grande.",
+      "Após peneirado, dissolva duas colheres de farinha de trigo em uma xícara de água e junte ao caldo de feijão. Reserve.",
+      "Em uma panela junte um fio de azeite (bem pouco, a calabresa vai soltar bastante gordura), e junte a calabresa, deixe fritar um pouco e junte a outra xícara de cebola e o alho picados.",
+      "Quando a cebola branquear, remova a gordura excedente e coloque o caldo de feijão, mexendo sempre para não grudar no fundo.",
+      "Quando iniciar a fervura, junte as duas colheres de requeijão, e ajuste o sal. Continue mexendo até engrossar.",
+      "Ao chegar na consistência desejada, apague o fogo e junte o queijo em cubos, mexendo para que espalhe."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode servir com um pouquinho de cebolinha picada sobre o prato, e algumas torradas passadas na salsa e azeite."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROMULO TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301723-consume-de-feijao-verde.html"
+}

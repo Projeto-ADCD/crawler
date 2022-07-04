@@ -1,0 +1,31 @@
+{
+  "nome_receita": "AMASSADINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de trigo",
+      "sal a gosto",
+      "1 colher de manteiga",
+      "1 colher de óleo",
+      "1 copo de água",
+      "1 frigideira"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o trigo numa bacia pequena",
+      "Nessa bacia você vai colocando a manteiga o óleo e o sal",
+      "Depois coloque a água de pouco em pouco até a massa ficar não muito dura nem muito mole",
+      "Feito isso, pegue a frigideira e coloque o óleo",
+      "Por último, amasse ela e frite na frigideira por 2/3 minutos",
+      "Dica: para amassar a massa, tem que fazer na hora , pois se deixar pronto a massa, ela encolhe",
+      "E pronto",
+      "Agora é só degustar com sua família e amigos.",
+      "Lembre-se de avaliar",
+      "Ah, dá para fazer de váriaos formatos"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "HANNA GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305380-amassadinho.html"
+}

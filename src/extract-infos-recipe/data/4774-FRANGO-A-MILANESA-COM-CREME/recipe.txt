@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FRANGO A MILANESA COM CREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de filé de frango fritado à milanesa",
+      "3 caixas de creme de leite ",
+      "3 cebolas cortadas",
+      "3 colheres (sopa) de ketchup",
+      "1 colher (sopa) de mostarda",
+      "300 g de queijo mussarela",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a cebola com a manteiga na panela e deixe a cebola amolecer, após isso, coloque o creme de leite, ketchup, sal e a mostarda.",
+      "Mexa até ficar bem cremoso (leva uns 8 min)",
+      "Como creme já pronto, desligue. Pegue uma travessa de vidro ou um tabuleiro e faça 2 camadas com o frango, o molho e o queijo.",
+      "Primeiro coloque os frangos a milanesa na travessa cobrindo a travessa inteira, depois coloque metade do molho e metade do queijo em cima, repita o processo.",
+      "Por cima do queijo de cima, coloque orégano a gosto."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "THAÍSSA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300251-frango-a-milanesa-com-creme.html"
+}

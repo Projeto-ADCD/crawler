@@ -1,0 +1,29 @@
+{
+  "nome_receita": "HAMBÚRGUER DE DORITOS COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "450 g de carne moída",
+      "1 ovo",
+      "1 colher (sopa) de mostarda amarela",
+      "1 + 1/2 colher (chá) de sal",
+      "1/4 de colher (chá) de pimenta caiena",
+      "1 + 1/2 colher (chá) de pimenta-do-reino",
+      "60 g de queijo mussarela",
+      "1 + 1/2 xícara de doritos",
+      "500 ml de óleo (para fritar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a carne moída com a mostarda, o sal, a pimenta caiena e a pimenta-do-reino.",
+      "Triture o doritos e reserve. ",
+      "Molde os hambúrgueres, recheando com cubos de mussarela.",
+      "Passe os hambúrgueres no doritos triturados.",
+      "Frite em óleo quente e está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302668-hamburguer-de-doritos-com-queijo.html"
+}

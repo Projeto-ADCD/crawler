@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO DE POLVILHO FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 gramas de polvilho azedo ou doce",
+      "2 ovos",
+      "1 colher de sopa de fubá",
+      "Queijo ralado à gosto",
+      "Sal à gosto",
+      "1/2 copo de 200 ml de àgua",
+      "1/2 copo de leite",
+      "1/2 copo de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o óleo, àgua e o leite coloque em uma panela acrescente o sal e leve ao fogo para ferver.",
+      "Escalde o polvilho espere esfriar. Amasse um pouco a massa coloque os ovos, o fubá e o queijo.",
+      "Se a massa ficar mole, acrescente polvilho aos poucos. Se ficar dura, acrescente uma colher de àgua.",
+      "A massa pronta tem que ficar lisa e fofinha. Faça a forma dos biscoitos: o segredo é colocar uns dois dedos de óleo na panela no fogo baixo e não deixar esquentar.",
+      "Coloque no óleo frio e mexa de vez em quando. Quando começar a dourar, tire e ponha num papel toalha pra escorrer."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "LUCILIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300234-biscoito-de-polvilho-frito.html"
+}

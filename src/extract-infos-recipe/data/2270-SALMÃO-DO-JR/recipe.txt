@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SALMÃO DO JR",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de salmão (filé alto)",
+      "1 limão",
+      "5 dentes de alho",
+      "pimenta-do-reino a gosto",
+      "2 colheres (chá) de salsa",
+      "1 colher (chá) de alecrim",
+      "sal a gosto",
+      "2 colheres (chá) de ervas finas",
+      "5 colheres de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho para marinar o salmão",
+      "Misture alho (3 dentes bem picados), alecrim, pimenta-do-reino, ervas finas, limão (1 banda) e azeite (3 colheres)",
+      "Pique 2 dentes de alho em finas rodelas e 2 colheres (sopa) de azeite (servirá para passar no salmão quando estiver assando)",
+      "Reserve",
+      "Coloque o salmão em um recipiente para marinar: coloque o suco de 1 banda de limão nos pedaços, em seguida misture o molho.",
+      "Deixe marinando por 1 hora ",
+      "Coloque o salmão na assadeira, caso tenha couro, coloque o couro em contato com a assadeira.",
+      "Acenda o forno e deixe esquentar por 5 minutos a 200° C",
+      "Coloque o salmão por 20 minutos.",
+      "A cada 5 minutos unte os pedaços com o azeite de alho.",
+      "Quando faltar 5 minutos para concluir, coloque as rodelas de alho e unte com o restante do azeite."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JUNIOR ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305590-salmao-do-jr.html"
+}

@@ -1,0 +1,47 @@
+{
+  "nome_receita": "MOCOTÓ DA HELÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pés de mocotó",
+      "5 kg de bucho e tripas ",
+      "2 linguiças calabresa",
+      "400 g de bacon defumado",
+      "3 tomates",
+      "1 pimentão",
+      "5 pimentinhas de cheiro",
+      "1 maço de cheiro-verde",
+      "2 cebolas grandes",
+      "3 dentes de alho amassado",
+      "1 pacote de molho de tomate tradicional",
+      "1 sachê de azeitona a gosto",
+      "sal a gosto",
+      "7 limões",
+      "1 colher (chá) de tempero seco a gosto",
+      "3 colher (chá) de colorau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça a limpeza do bucho e das tripas retirando toda a sujeira e a gordura que tiver dentro",
+      "Corte em pedaços pequenos e coloque em uma panela com vinagre e sal",
+      "Enquanto isso, corte os pés do boi e coloque em outra panela, lave bastante.",
+      "Depois de limpo coloque em uma panela grande para escaldar com vinagre",
+      "Depois de levantar a fervura, desligue o fogo despreze toda a água quente e lave novamente com água corrente",
+      "Coloque em uma panela de pressão com água até que cubra todo o mocotó",
+      "Coloque o colorau, o sal e 5 folhas de louro",
+      "Tampe a panela e deixe cozinhar por 1 hora e 45 minutos",
+      "Desligue o fogo observe se já está bem macio.",
+      "Corte a linguiça calabresa e o bacon e coloque dentro da panela de pressão",
+      "Passe no liquidificador o molho de tomate,o pimentão, o tomate, o cheiro-verde, a pimentinha e a cebola",
+      "Coloque a mistura do liguidificador na panela de pressão e esprema os limões",
+      "Prove o sal e, caso precise, coloque mais um pouco",
+      "Tampe a panela de pressão e deixe cozinhar por 10 minutos",
+      "Desligue o fogo e acrescente as azeitonas.",
+      "Sirva com arroz branco, farofa e limão."
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299841-mocot-da-helo.html"
+}

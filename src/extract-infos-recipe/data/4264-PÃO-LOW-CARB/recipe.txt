@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÃO LOW-CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de farinha de amendoim",
+      "3 colheres de água",
+      "3 colheres de creme de leite",
+      "50 gramas de queijo (de preferência ralado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador e coloque na forma de bolo inglês (aquele retângulo).",
+      "Leve ao forno baixo por 25 minutos."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MIDANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301497-pao-low-carb.html"
+}

@@ -1,0 +1,52 @@
+{
+  "nome_receita": "EMPADINHA COM FAROFA DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de margarina sem sal (80% lipídios)",
+      "200 g de farofa com cebola Yoki ",
+      "1 ovo",
+      "1 peito de frango com osso e pele (aprox. 500 g)",
+      "2 litros de água ",
+      "1 colher (sopa) de alecrim ",
+      "2 colheres (sopa) de óleo",
+      "2 xícaras (chá) de caldo do cozimento ",
+      "1 cebola",
+      "3 dentes de alho ",
+      "1 colher (sopa) de colorau ",
+      "sal, pimenta, zatar e cebolinha a gosto ",
+      "200 g de catupiri",
+      "1 gema de ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha e a farofa em uma tigela. ",
+      "Junte o ovo e adicione a margarina ",
+      "Mexa com a ponta dos dedos até obter uma farofa úmida. ",
+      "Embale a massa em filme plástico e reserve na geladeira por pelos menos 30 minutos.  ",
+      "Acrescente água fria em uma panela de pressão e coloque o peito de frango e o alecrim. ",
+      "Deixe cozinhar na pressão por 45 minutos em fogo alto. ",
+      "Desligue o fogo e aguarde esfriar. ",
+      "Para desfiá-lo, retire-o já frio e utilize uma batedeira ou dois garfos.",
+      "Descasque e pique a cebola e o alho.",
+      "Leve o óleo ao fogo em uma panela, junte a cebola e deixe murchar",
+      "Acrescente o alho e deixe dourar.",
+      "Adicione o colorau e o peito de frango já desfiado. ",
+      "Tempere com sal, pimenta, zatar e 2 xícaras de caldo",
+      "Junte a cebolinha e reserve. ",
+      "Recheie as empadinhas apenas quando o recheio estiver frio. ",
+      "Montagem",
+      "Abra a massa, forre a forma com a massa, adicione o catupiri e o recheio de frango",
+      "Cubra com mais massa e pincele a gema de ovo ",
+      "Leve ao forno preaquecido por 10 minutos.",
+      "Asse por 45 minutos a 200º C"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Daniela Cruz Macedo"
+    ]
+  },
+  "tempo_de_preparo": "160 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303661-empadinha-com-farofa-de-cebola.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "DOCE DE LEITE COM LEITE E COCO RALADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "2 xícaras de açúcar",
+      "1 copo de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela o leite e o açúcar",
+      "Mexa até ficar soltando da panela",
+      "Logo após, coloque o coco e mexa mais por 5 minutos",
+      "Está pronto."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MAYKON SUELMO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302315-doce-de-leite-com-leite-e-coco-ralado.html"
+}

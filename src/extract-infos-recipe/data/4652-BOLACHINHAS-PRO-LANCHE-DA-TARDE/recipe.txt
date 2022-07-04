@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLACHINHAS PRO LANCHE DA TARDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/4 xícara (chá) de óleo",
+      "3/4 de xícara (chá) de açúcar",
+      "1/4 de xícara (chá) de leite",
+      "1/2 colher (chá) de bicarbonato",
+      "1 colher (chá) de fermento em pó",
+      "400 g aproximadamente de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa os ovos até ficarem espumado.",
+      "Acrescente o óleo e o leite e mexa bem.",
+      "Coloque o açúcar, o bicarbonato e o fermento e misture.",
+      "Acrescente a farinha aos poucos, até desgrudar das mãos.",
+      "Preaqueça o forno alto",
+      "Modele as bolachinhas a gosto (gosto de fazer torcidinhas)",
+      "Abaixe o forno para temperatura média e asse até que doure.",
+      "Mais ou menos uns 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "HELENA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300572-bolachinhas-pro-lanche-da-tarde.html"
+}

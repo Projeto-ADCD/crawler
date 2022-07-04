@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BRUSCHETTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates",
+      "1/2 alho poró (talo)",
+      "1/2 cebola roxa",
+      "azeite",
+      "sal a gosto",
+      "cebolinha",
+      "1/2 limão espremido",
+      "manjericão",
+      "queijo ralado em tiras grandes",
+      "torradas prontas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o tomate em pedacos pequenos (maior que para vinagrete)",
+      "Corte a cebolinha, alho poró e a cebola roxa em quadrados bem pequenos",
+      "Miture tudo (menos o queijo ralado) em um pote e coloque no microondas por 1 minuto e 30 segundos",
+      "Pegue um tabuleiro e respingue água como se estivesse untando o tabuleiro.",
+      "Após coloque por cima da torrada o molho e após coloque o queijo ralado por cima",
+      "Leve ao forno até o queijo derreter 10 minutos aproximadamente"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CREUSA JOIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304863-bruschetta.html"
+}

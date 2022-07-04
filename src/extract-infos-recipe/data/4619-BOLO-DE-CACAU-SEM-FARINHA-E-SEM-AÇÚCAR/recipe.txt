@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CACAU SEM FARINHA E SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "6 colheres de cacau",
+      "6 colheres de açúcar de coco, ou 8 colheres de eritritol, ou 1 e 1/2 xícaras de uvas passa",
+      "2 colheres de manteiga",
+      "2 xícaras de coco ralado (de preferência feito em casa com coco seco)",
+      "Raspas ou gotas de chocolate 70% cacau (opcional)",
+      "1 colher rasa de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma pequena com manteiga e cacau.",
+      "Bata no liquidificador os ovos, manteiga e açúcar/eritritol/uvas passas.",
+      "Depois, acrescente o coco ralado. E depois, o cacau e o fermento.",
+      "Misture o chocolate na massa (opcional).",
+      "Despeje a massa na forma untada.",
+      "Asse por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PRISCILA PIZZOL VENTORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300713-bolo-de-cacau-sem-farinha-e-sem-acucar.html"
+}

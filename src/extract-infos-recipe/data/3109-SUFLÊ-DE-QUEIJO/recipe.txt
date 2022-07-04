@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SUFLÊ DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "36 g de farinha de trigo",
+      "23 g de manteiga",
+      "10 g de fermento químico",
+      "13 ovos (só usar as claras)",
+      "100 g de queijo emmental Président",
+      "queijo masda Président (pode substituir por queijo azul e queijo prata)",
+      "1 pitada de noz moscada",
+      "1 pitada de pimenta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça a manteiga até derreter, junte a farinha de trigo até dourar e aos poucos, acrescente o leite (já aquecido) mexendo sempre até formar o molho bechamel ",
+      "Acrescente a pimenta-do-reino, a noz-moscada e os queijos. Deixe esfriar",
+      "Acrescente o fermento químico",
+      "Em uma batedeira, bata as claras em neve e incorpore delicadamente à mistura de queijo",
+      "Coloque em uma forma de suflê untada com manteiga e polvilhada com farinha de trigo e leve ao forno médio (180°C), preaquecido, por cerca de 30 minutos ou até que esteja dourado e firme",
+      "Sirva a seguir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Priscila"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303866-sufle-de-queijo.html"
+}

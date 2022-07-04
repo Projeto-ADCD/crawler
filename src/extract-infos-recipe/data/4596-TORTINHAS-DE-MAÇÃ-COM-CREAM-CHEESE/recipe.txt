@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTINHAS DE MAÇÃ COM CREAM CHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ou 2 unidades de massa folhada",
+      "1/4 de xícara de cream cheese",
+      "3 colheres (sopa) de açúcar",
+      "canela a gosto",
+      "1 maçã",
+      "1 colher (sopa) suco de limão siciliano",
+      "3 colheres (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire o centro da maçã e corte em fatias finas.",
+      "Junte as fatias de maçã com o suco de limão e as 3 colheres de água em um bowl.",
+      "Leve ao micro-ondas por 3 minutos.",
+      "Esfrie a tigela em água gelada.",
+      "Seque as fatias de maçã e reserve.",
+      "Estenda a massa folhada e corte em 4 tiras.",
+      "Espalhe o cream cheese e polvilhe o açúcar sobre as tiras de massa folhada.",
+      "Arrume as fatias de maçã sobre a massa folhada e polvilhe canela por cima.",
+      "Dobre a massa folhada ao meio e enrole-as.",
+      "Coloque as tortinhas em uma forma untada ou de silicone.",
+      "Levar ao forno por 40 minutos a 180º C"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "VIVIAN CAROLINA PINTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300773-tortinhas-de-maca-com-cream-cheese.html"
+}

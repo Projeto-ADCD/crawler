@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ COM BANANA E CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 maçãs",
+      "2 bananas",
+      "5 ovos",
+      "3/4 de xícara de água morna",
+      "6 colheres (sopa) de mel",
+      "1 e 1/2 xícara de aveia em flocos",
+      "1 e 1/2 xícara de farinha de coco",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento químico",
+      "Maçã fatiada e canela (para decorar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque todos os ingredientes molhados, inclusive as bananas e as maçãs, e bata até obter uma mistura líquida e homogênea.",
+      "Adicione a canela, a aveia e a farinha de coco.",
+      "Bata no modo pulsar até obter uma massa homogênea",
+      "Adicione o fermento e incorpore com um garfo.",
+      "Unte uma forma de bolo e despeje a mistura.",
+      "Finalize com fatias de maçã e mais canela por cima.",
+      "Leve ao forno médio, preaquecido a 180°C, por 35 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "DANIELA ARGENTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300758-bolo-de-maca-com-banana-e-canela.html"
+}

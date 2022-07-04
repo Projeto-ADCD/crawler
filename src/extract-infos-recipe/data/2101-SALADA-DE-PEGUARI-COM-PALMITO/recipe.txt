@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SALADA DE PEGUARI COM PALMITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "700 g de peguari sem unha",
+      "1 cebola grande inteira",
+      "1 cebola grande picada",
+      "2 tomates grandes",
+      "300 g de palmito em conserva picado",
+      "coentro a gosto",
+      "1 colher (chá) de sal",
+      "suco de 2 limões",
+      "azeite de oliva a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o peguari na panela de pressão com água até cobrir, com uma cebola descascada, inteira dentro, deixe por 20 minutos após pegar pressão.",
+      "Corte o tomate, a cebola, o coentro e o palmito.",
+      "Misture tudo com o peguari.",
+      "Acrescente o sal, o limão e o azeite.",
+      "Coloque para gelar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Salada gelada é mais gostosa, na minha opinião."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FABIO TELLES PITA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306008-salada-de-peguari-com-palmito.html"
+}

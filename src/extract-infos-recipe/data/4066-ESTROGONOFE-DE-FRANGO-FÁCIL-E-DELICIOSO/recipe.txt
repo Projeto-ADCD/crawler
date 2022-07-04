@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 peito de frango",
+      "1/2 cebola",
+      "4 alhos",
+      "1/2 tomate",
+      "6 colheres de molho de tomate",
+      "Tempero pronto",
+      "sal",
+      "azeitonas",
+      "creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue no óleo o alho e a cebola picados e logo depois o tomate.",
+      "Pique o frango conforme sua preferência e coloque pra refogar com o alho, cebola e tomate.",
+      "Acrescente sal e tempero pronto.",
+      "Refogue até cozinhar por completo o seu frango sem deixar secar, se necessário acrescentar um pouco de água.",
+      "Depois de cozido, acrescente o molho de tomate, meio copo de água e mais sal e tempeiros de sua preferência. Lembre de sempre de deixar o frango um pouco mais salgado por conta do creme de leite.",
+      "Assim que der uma pequena reduzida, acrescente o creme de leite e as azeitonas.",
+      "Misture tudo mas não deixe ferver para não engrossar demais."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301981-estrogonofe-de-frango-facil-e-delicioso.html"
+}

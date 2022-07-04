@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITINHO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo sem fermento",
+      "3 colheres (sopa) de margarina (com ou sem sal, fica a gosto)",
+      "50 g de queijo parmesão ralado para a massa",
+      "1 pitada de sal",
+      "50 g de queijo para polvilhar o biscoito "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em uma bacia até ficar uma massa bem homogênea e que não grude nas mãos",
+      "Faça bolinhas médias e pressione as bolinhas entre os dedos polegar e indicador, formando uma covinha",
+      "Disponha na forma antiaderente e na covinha que foi feita, um pouco de queijo parmesão ralado",
+      "Depois de repetir o processo com toda a massa, leve para assar em forno preaquecido a 180° C",
+      "O biscoito está bom quando estiver douradinho, em média de 15 a 25 minutos",
+      "Observação: faça a covinha no biscoito e coloque o queijo parmesão ralado, ele dará uma crocância deliciosa ao biscoito"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Rose"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303864-biscoitinho-de-queijo.html"
+}

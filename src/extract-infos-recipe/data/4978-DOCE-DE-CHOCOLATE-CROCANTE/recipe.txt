@@ -1,0 +1,28 @@
+{
+  "nome_receita": "DOCE DE CHOCOLATE CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de achocolatado em pó",
+      "5 colheres de leite em pó",
+      "3 colheres de leite",
+      "2 biscoitos doce (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o achocolatado e o leite em pó em um recipiente.",
+      "Após fazer isso misture bem.",
+      "Acrescente o leite e misture até que fique cremoso.",
+      "Pegue os dois biscoitos e quebre-os até que fiquem em pequenos pedacinhos.",
+      "Após isso, acrescente-os ao doce e misture bem.",
+      "Pegue uma folha de papel-manteiga.",
+      "Amace o doce em forma de círculo e distribua-o em 5 porções.",
+      "Coloque-o na geladeira e deixe gelar por 1 dia.",
+      "É opcional deixar gelar."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "RAYSSA DOS ANJOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299809-doce-de-chocolate-crocante.html"
+}

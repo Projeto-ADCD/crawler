@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CEBOLA TRICOLOR NA AIRFRYER (FRITADEIRA EM ÓLEO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 cebolas chalotas",
+      "1/2 pimentão vermelho",
+      "1/2 pimentão amarelo",
+      "1/2 pimentão verde",
+      "2 colheres (sopa) de azeite de oliva ou óleo de coco",
+      "pimenta preta e vermelha (opcional)",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a cebola",
+      "Corte a cebola em 8 partes (4 cortes de comprido e um corte no meio)",
+      "Separe bem as camadas da cebola, para que não fiquem grudadas",
+      "Corte os pimentões em pedaços quadrados de 2x2 cm aproximadamente",
+      "Coloque todos os ingredientes no recipiente de metal",
+      "Adicione o óleo/azeite",
+      "Coloque a pimenta moída e o sal",
+      "Misture bem e reserve",
+      "Preaqueça a airfryer em 200° C por 3 minutos",
+      "Após, coloque o recipiente na bandeja da airfryer e programe para 5 minutos",
+      "Terminados os 5 minutos, mexa um pouco os ingredientes e programe por mais 8 minutos (cuidado para não se queimar)",
+      "O ponto fica a critério seu.",
+      "Se desejar os pimentões e a cebola mais queimadinhas, deixe por mais tempo.",
+      "Caso não tenha um recipiente de metal, pode utilizar uma folha de alumínio (30x50 cm)",
+      "Coloque os ingredientes (menos o óleo, o sal e a pimenta) no centro da folha de alumínio.",
+      "Com as mãos, vá fechando com cuidado e formando um pequeno recipiente redondo e aberto em cima, de forma a acomodar os ingredientes dentro.",
+      "Após, proceda conforme à receita.",
+      "A vantagem de usar papel-alumínio é que ele não esquenta onde não há contato com os alimentos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JOÃO TEXTOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304608-cebola-tricolor-na-airfryer-fritadeira-em-oleo.html"
+}

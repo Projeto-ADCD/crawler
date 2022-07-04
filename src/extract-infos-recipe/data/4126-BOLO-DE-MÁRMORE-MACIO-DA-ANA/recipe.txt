@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE MÁRMORE MACIO DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "4 colheres (sopa) de margarina",
+      "1 xícara de leite morno",
+      "3 xícaras de farinha de trigo",
+      "2 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata os ovos, o açúcar e a margarina.",
+      "Acrescente o leite aos poucos.",
+      "Em uma tigela, coloque a farinha e despeje a mistura que está no liquidificador.",
+      "Misture bem.",
+      "Coloque o fermento e misture novamente.",
+      "Coloque metade do bolo em uma forma de preferência redonda.",
+      "No restante da massa acrescente o chocolate em pó e coloque na forma.",
+      "Asse a 210° C por 45 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não se esqueça de sempre cozinhar como vontade e muito amor"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA LAURA TIBÉRIO PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301778-bolo-de-marmore-macio-da-ana.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE MOLHADINHO E AERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xicaras de farinha de trigo",
+      "1 xícara de açúcar mascavo",
+      "3/4 de xícara de cacau 100%",
+      "1 colher (chá) de bicarbonato",
+      "1 pitada de sal para realçar o sabor",
+      "2 ovos inteiros",
+      "2 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de óleo",
+      "5 colheres (sopa) de mel",
+      "2 xícaras (chá) de erva doce (ponha duas xícaras de água pra ferver com uma colher de sopa de erva doce. Depois de esfriar, coe)",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo e, por último, acrescente o fermento.",
+      "Ponha para assar em forma média por cerca de 45 minutos em fogo brando."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Variações:\nSe quiser que vire um bolo de pao de mel, acrescente à massa 1 colher (cha) de canela, 1/2 colher (café) de cravo, 1/2 colher de gengibre e 1/2 colher de noz-moscada, tudo em pó.\nSugestão de cobertura:\nGanache de chocolate: 200 g de chocolate em barra derretido em uma caixinha de creme de leite.\nSe quiser, também pode preparar 1/2 copo de leite com um pouco de açúcar mascavo, canela, baunilha ou licor de cacau e regar. Use a criarividade!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "STANLEY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301956-bolo-de-chocolate-molhadinho-e-aerado.html"
+}

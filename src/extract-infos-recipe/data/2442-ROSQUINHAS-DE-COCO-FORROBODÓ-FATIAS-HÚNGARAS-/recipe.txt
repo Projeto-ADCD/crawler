@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ROSQUINHAS DE COCO (FORROBODÓ/FATIAS HÚNGARAS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de Açúcar",
+      "45 g de fermento biológico fresco",
+      "2 xícaras de leite (480 ml)",
+      "2 ovos",
+      "120 ml de óleo (1/2 xícara)",
+      "1 kg de farinha (aproximadamente)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento com o açúcar até dissolver",
+      "Junte o leite, os ovos e o óleo e o sal",
+      "Acrescente a farinha aos poucos, provavelmente não será necessário utilizar 1 kg (coloque-a até dar liga a ponto de desgrudar das mãos)",
+      "Sove a massa em uma superfície resistente utilizando o resto da farinha para não grudar",
+      "Deixe a massa descansar por uns 20 minutos",
+      "Divida a massa em quatro porções e abra-a com auxilio de um cilindro manual",
+      "Acrescente o recheio (conforme especificado abaixo) e enrole como se fosse um rocambole",
+      "Corte as rosquinhas na espessura de aproximadamente 2 dedos",
+      "Coloque-as em forma untada com margarina e asse a uma temperatura de 200° C até dourar",
+      "Ainda quente, acrescente a mistura de leite com leite condensado (uma lata de leite condensado e uma lata de leite - a mesma medida) sobre as rosquinhas, embebedando-as",
+      "Finalize com coco ralado a gosto.",
+      "Como fazer o recheio: faça uma mistura com 200 g de margarina, 100g de coco ralado e 1/2 xícara de açúcar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TULIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305195-rosquinhas-de-coco-forrobodo-barra-fatias-hungaras.html"
+}

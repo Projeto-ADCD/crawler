@@ -1,0 +1,26 @@
+{
+  "nome_receita": "AMARULA CASEIRA COM DANETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 danetes chocolate",
+      "2 danetes chocolate branco",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "350 ml de conhaque Presidente",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os 4 potinhos de danete (2 brancos e 2 pretos. Não usar genéricos) junto com o creme de leite e o leite condensado até que fique uma mistura homogênea e grossa.",
+      "Acrescente o conhaque Presidente (quanto maior a quantidade de conhaque, mais forte a bebida fica) e o gelo.",
+      "Bata novamente no liquidificador até que o gelo tenha quebrado.",
+      "Guarde na geladeira para maior conservação.",
+      "Rende 2 litros"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "RAILENE DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304274-amarula-caseira-com-danete.html"
+}

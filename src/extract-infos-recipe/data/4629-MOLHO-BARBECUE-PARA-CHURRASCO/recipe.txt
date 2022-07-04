@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOLHO BARBECUE PARA CHURRASCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tomate",
+      "1/2 cebola",
+      "2 colheres de molho de tomate",
+      "2 colheres de mostarda",
+      "2 colheres de catchup",
+      "1 dente de alho",
+      "Uma pitada de açúcar",
+      "Sal e pimenta do reino à gosto",
+      "Óleo o quanto bastar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o todos os ingredientes no liquidificador e bata até ficar um molho de coloração laranja.",
+      "Após isso, adicione aos poucos o óleo até o molho ficar com uma consistência cremosa."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DENISE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300696-molho-barbecue-para-churrasco.html"
+}

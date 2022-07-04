@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FILÉ DE FRANGO AO MOLHO DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 maço de cheiro-verde picado",
+      "1 cebola média picada",
+      "1 maracujá maduro (faça 1 copo de suco) na peneira",
+      "1 lata de creme de leite com o soro ",
+      "1 colher (sopa) de manteiga ou margarina",
+      "2 copos de leite ",
+      "1 colher (sopa) de mostarda (opcional)",
+      "sal a gosto",
+      "1 kg de filé de frango"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela a margarina ou manteiga para derreter",
+      "Em seguida acrescente a cebola e deixe até dourar",
+      "Acrescente o leite e deixe ferver",
+      "Coloque o amido de milho aos poucos, mexendo sem parar, até fazer o creme",
+      "Em seguida retire do fogo, acrescente o suco de maracujá, a mostarda (opcional) o sal a gosto e por último o creme de leite",
+      "Grelhe os files de frango e os coloque em uma forma média, de forma que o molho seja suficiente para cobrir todos os filés",
+      "Leve ao forno por 15 minutos",
+      "Reserve um pouco das sementes para jogar por cima do molho assim que sair do forno",
+      "Sirva com arroz e salada "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VALDETE DOS SANTOS ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303596-file-de-frango-ao-molho-de-maracuja.html"
+}

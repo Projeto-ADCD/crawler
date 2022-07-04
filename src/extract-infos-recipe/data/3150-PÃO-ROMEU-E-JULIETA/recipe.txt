@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo",
+      "290 ml de água bem gelada",
+      "40 g de leite em pó",
+      "15 g de fermento biológico seco",
+      "1 ovo",
+      "50 g de açúcar",
+      "10 g de sal ",
+      "40 ml de óleo",
+      "10 g de manteiga Président",
+      "200 g de goiabada cremosa",
+      "200 g de queijo parmesão Président "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, coloque todos os ingredientes exceto a goiabada e o queijo parmesão",
+      "Com o gancho de massa bata por 15 minutos",
+      "Deixe descansar por 30 minutos",
+      "Em seguida passe um pouco de óleo nas mãos e modele pequenos pães",
+      "Coloque em uma forma untada com óleo e enfarinhada",
+      "Deixe descansar por 1 hora",
+      "Asse os pães em forno pré-aquecido a 180°C, por 15 minutos, o pão deverá ficar branquinho",
+      "Após esfriar os pães, pincele a goiabada cremosa e rale por cima o queijo parmesão Président"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Vinícius Gomes Sacerdote"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303811-pao-romeu-e-julieta.html"
+}

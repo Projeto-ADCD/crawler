@@ -1,0 +1,31 @@
+{
+  "nome_receita": "LANCHE RÁPIDO DE FORNO (COM PÃO BISNAGUINHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de pão (tipo bisnaguinha)",
+      "Requeijão (à gosto)",
+      "150 g de presunto ou peito de peru",
+      "100g queijo mussarela ou prato",
+      "Margarina e farinha para untar a forma",
+      "Gergelim (a gosto)",
+      "Forma média (ou refratário)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente unte a forma.",
+      "Corte os pães bisnaguinha ao meio e disponha as partes de baixo na forma.",
+      "Passe requeijão nos pães, e sobre ele, coloque fatias de queijo, presunto ou peito de peru, outra fatia de queijo.",
+      "Coloque a parte a cima dos pães.",
+      "Pincele com manteiga derretida e salpique gergelim.",
+      "Leve ao forno pré aquecido por 15 minutos a 160°, ou até que o queijo derreta (o tempo pode variar de acordo com cada forno)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O recheio pode ser variado também. Se quiser, pode colocar tomate picado e orégano, peito de frango desfiado, salame, etc. Fica a seu gosto!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAYS SILMARA BERNARDO RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301538-lanche-rapido-de-forno-com-pao-bisnaguinha.html"
+}

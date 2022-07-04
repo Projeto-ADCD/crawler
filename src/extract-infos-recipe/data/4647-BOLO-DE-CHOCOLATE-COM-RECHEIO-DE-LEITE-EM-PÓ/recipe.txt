@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM RECHEIO DE LEITE EM PÓ",
+  "ingredientes": {
+    "MASSA:": [
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de chocolate em pó",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "BRIGADEIRO DE LEITE EM PÓ:": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de margarina",
+      "3 colheres (sopa) cheia de leite em pó",
+      "1/2 caixinha de creme de leite"
+    ],
+    "COBERTURA DE BRIGADEIRO:": [
+      "1 lata de leite condensado",
+      "1 colher (sopa) de margarina",
+      "3 colheres (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata às claras em ponto de neve e reserve. Em outro recipiente, bata as gemas com o açúcar e o óleo.",
+      "Depois de bater muito bem, intercale a farinha juntamente com o chocolate em pó com o leite e misture muito bem.",
+      "Adicione às claras em neve e, por último, o fermento em pó.",
+      "Coloque em uma forma untada e enfarinhada, pode colocar papel manteiga se quiser.",
+      "Leve em forno pré-aquecido a 180 graus por cerca de 40-45 minutos, ou até espetar o palito e sair totalmente limpo."
+    ],
+    "BRIGADEIRO DE LEITE EM PÓ:": [
+      "Em uma panela coloque o leite condensado, a manteiga e o leite em pó e misture muito bem fora do fogo.",
+      "Leve em fogo meio pra baixo e mexa muito bem até engrossar e ferver, desligue e coloque o creme de leite."
+    ],
+    "BRIGADEIRO:": [
+      "Em uma panela coloque o leite condensado a manteiga e o chocolate em pó e mexa muito bem fora do fogo.",
+      "Leve em fogo médio pra baixo e mecha até engrossar e ferver."
+    ],
+    "MONTAGEM:": [
+      "Com o bolo e recheios frio, corte o bolo ao meio, coloque a metade do bolo em uma travessa ou prato e coloque todo o recheio de ninho, em seguida coloque a outra parte do bolo.",
+      "Cubra encima com o brigadeiro de chocolate e já está pronto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser fazer esse bolo gelado, umedeceça muito bem a massa com uma calda de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300591-bolo-de-chocolate-com-recheio-de-leite-em-po.html"
+}

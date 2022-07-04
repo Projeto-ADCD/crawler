@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOLHO PARA PERU DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "caldo do cozimento do peru (cerca de 1 xícara)",
+      "1/2 cebola ralada",
+      "1 dente de alho amassado",
+      "2 colheres (sopa) de manteiga",
+      "1 colher (sopa) de molho inglês",
+      "1 colher (café) de molho de mostarda",
+      "1 colher (café) de maisena dissolvida em 1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola e o alho na manteiga.",
+      "Adicione a mostarda, o molho inglês e o caldo do cozimento do peru e deixe em fogo baixo por 5 minutos.",
+      "Acrescente a maisena dissolvida em água e mexa até encorpar.",
+      "Se sobrarem resíduos dos ingredientes, você pode coar o molho ou bater no liquidificador."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303281-molho-para-peru-de-natal.html"
+}

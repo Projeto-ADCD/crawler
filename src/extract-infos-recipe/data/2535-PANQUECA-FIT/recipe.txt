@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PANQUECA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos;",
+      "200ml de leite desnatado ou de sua preferência (amêndoa, arroz, etc...);",
+      "1 banana grande;",
+      "1 xícara de aveia (aproximadamente 80g);",
+      "2 scoops de whey de sua preferência (eu uso de chocolate ou baunilha) ou 2 colheres de sopa de chocolate em pó;",
+      "Adoçante a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicionar em um liquidificador primeiro os ingredientes úmidos (leite, ovos e banana) para misturar melhor e depois os secos (whey e aveia e adoçante);",
+      "Depois de bater tudo, usar manteiga pra untar uma frigideira;",
+      "Na frigideira coloque uma quantidade da massa suficiente para cobrir o fundo;",
+      "Tampe a frigideira e deixe a panqueca em fogo baixo até dourar por uns 5-7min;",
+      "Depois de dourar um lado, vire, deixe mais 5-7min."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GIANCARLO GIANNOCCARO DO PRADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305000-panqueca-fit.html"
+}

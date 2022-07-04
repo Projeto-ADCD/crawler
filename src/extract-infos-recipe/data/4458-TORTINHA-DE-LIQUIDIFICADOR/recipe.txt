@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTINHA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "MASSA": [
+      "2 ovos",
+      "1 xicara de farinha de trigo",
+      "1 colher (sopa) de fermento em pó.",
+      "1 e 1/2 xicara (chá) de leite",
+      "sal"
+    ],
+    "RECHEIO": [
+      "200 gramas de presunto cortado em cubos",
+      "200 gramas de queijo prato cortado em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes da massa no liquidificador e bata uns 5 minutos.",
+      "Em uma assadeira untada, derrame metade da massa para cobrir o fundo coloque o presunto o queijo coloque o restante da massa.",
+      "Leve ao forno 45 minutos até dourar.",
+      "Deixe esfriar corte em pedaços."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SERGIO COELHO RECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301060-tortinha-de-liquidificador.html"
+}

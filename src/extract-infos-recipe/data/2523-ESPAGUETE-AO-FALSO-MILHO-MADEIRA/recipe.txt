@@ -1,0 +1,31 @@
+{
+  "nome_receita": "ESPAGUETE AO FALSO MILHO MADEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de macarrão tipo espaguete",
+      "200 g de bacon",
+      "pimentão a gosto",
+      "cebola a gosto",
+      "tomate a gosto",
+      "1 creme de leite (200 g)",
+      "molho shoyu a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho",
+      "Coloque a cebola e o pimentão bem picadinhos para fritar sem azeite",
+      "Logo em seguida, coloque o bacon picado, também em pedaços pequenos",
+      "Deixe secar e adicione o tomate picadinho e cozinhe por 5 minutos até começar a secar",
+      "Depois de levemente seco, adicione o shoyu e mexa bem",
+      "Deixe dar uma cozinhadinha com o shoyu para agregar o sabor",
+      "Quando já tiver no ponto, acrescente o creme de leite e mexa bem",
+      "Ferva por mais 3 minutinhos até ficar homogêneo.",
+      "Sirva o espaguete e adicione o molho em cima."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOELISON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305030-espaguete-ao-falso-milho-madeira.html"
+}

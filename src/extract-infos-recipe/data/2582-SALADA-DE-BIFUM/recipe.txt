@@ -1,0 +1,39 @@
+{
+  "nome_receita": "SALADA DE BIFUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de macarrão bifum",
+      "1 pepino japonês",
+      "1 cenoura grande",
+      "3 colheres (sopa) cheias de vinagre de arroz",
+      "3 colheres (sopa) de açúcar",
+      "2 colheres (sopa) sal",
+      "1 colher (sopa) de gergelim preto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva uma panela com água.",
+      "Quando a água começar a ferver, desligue o fogo e coloque o macarrão para cozinhar.",
+      "Espere alguns minutos até que o macarrão fique bem soltinho e mole.",
+      "Escorra toda a água e coloque algumas pedras de gelo dentro da vasilha para que ele esfrie.",
+      "Dentro de um recipiente pequeno, misture o vinagre de arroz, o açúcar e o sal.",
+      "Deixe dissolver por alguns minutos.",
+      "Enquanto isso rale o pepino em fatias bem finas e salpique sal.",
+      "Misture tudo e deixe descansar por 15 minutos.",
+      "Corte a cenoura em fatias finas ou rale no ralador, reserve.",
+      "Aperte bem o pepino para que saia toda a água, junte com o macarrão e acrescente a cenoura.",
+      "Regue a salada com a mistura de vinagre, salpique gergelim preto e misture bem",
+      "Para finalizar, regue o sua salada de bifum com óleo de gergelim ou com azeite extra virgem.",
+      "Sirva",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: é superimportante que a etapa do gelo seja feita. Você também pode adicionar frango desfiado, gengibre, shoyu ou até mesmo presunto picado."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GABY SOLEDADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304900-salada-de-bifum.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CABOTIÁ RECHEADA DA DAY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cabotia média",
+      "4 colheres (sopa) de margarina com sal",
+      "Recheio",
+      "1 kg de peito de frango sem osso",
+      "1 cebola grande",
+      "2 dentes de alho",
+      "100 g de bacon",
+      "1/2 lata grande de extrato de tomate",
+      "pimenta branca a gosto",
+      "pimenta calabresa a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preparo",
+      "Em uma panela grande, cozinhe a cabotiá em fogo alto por 1 hora e 30 minutos ou até ficar macia",
+      "Corte a tampa",
+      "Retire as sementes",
+      "Passe a margarina em toda ela por dentro e reserve",
+      "Preparo do recheio",
+      "Corte o bacon em cubinhos bem pequenos e frite até dourar",
+      "Junte a cebola picada e espere murchar",
+      "Coloque o alho e frite",
+      "Junte o frango em cubos frite até dourar",
+      "Coloque 2 copos grandes de água e deixe cozinhar",
+      "Junte as pimentas e o sal a gosto",
+      "Coloque o extrato de tomate e deixe apurar.",
+      "Montagem",
+      "Forre o fundo da cabotiá com o frango ao molho e intercale com muçarela (opcional) até encher toda a cabotia.",
+      "Tampe, leve ao forno com um pouco de água na assadeira para não queimar e deixe de 30 a 40 minutos",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAIANY GUADAGNINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302714-cabotia-recheada-da-day.html"
+}

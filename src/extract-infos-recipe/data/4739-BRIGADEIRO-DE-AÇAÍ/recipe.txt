@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO DE AÇAÍ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado 395 g",
+      "1 xícara do açaí puro",
+      "1 colher (sopa) de leite em pó",
+      "1 colher (sopa) de farinha de trigo",
+      "1 colher (sopa) de manteiga",
+      "farinha láctea ou leite em pó para enrolar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em uma panela, exceto o último ingrediente e mexa em fogo baixo até dar ponto de brigadeiro.",
+      "Coloque em um prato raso e leve para a geladeira por 2 horas.",
+      "Faça as bolinhas e mele na farinha láctea ou leite em pó."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "RAYANNE VASQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300323-brigadeiro-de-acai.html"
+}

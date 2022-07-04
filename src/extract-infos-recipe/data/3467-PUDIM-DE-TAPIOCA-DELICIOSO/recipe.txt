@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PUDIM DE TAPIOCA DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Pudim",
+      "1/2 xícara de tapioca granulada",
+      "500 ml de leite",
+      "1 lata de leite condensado",
+      "1 vidro de leite de coco (200 ml)",
+      "1/2 xícara de coco ralado",
+      "3 ovos",
+      "Calda",
+      "5 colheres (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o açúcar em uma forma para pudim",
+      "Leve ao fogo e, com cuidado para não se queimar, deixe até formar caramelo",
+      "Reserve",
+      "Em uma panela aqueça o leite, coloque a tapioca e mexa até formar um mingau",
+      "Desligue o fogo",
+      "Bata no liquidificador os ovos, o leite de coco e o leite condensado e com ajuda de um fuê (batedor manual) junte à mistura de tapioca e o leite.",
+      "Por último misture o coco ralado",
+      "Despeje na forma caramelizada e leve em banho-maria por aproximadamente 50 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA F. N. VECHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303302-pudim-de-tapioca-delicioso.html"
+}

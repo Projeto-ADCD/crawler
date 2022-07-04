@@ -1,0 +1,27 @@
+{
+  "nome_receita": "QUENTÃO TRADICIONAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1 e 1/2 xícara (chá) de água",
+      "1 gengibre picado",
+      "1 limão em rodelas",
+      "3 cravos-da-índia",
+      "2 pedaços pequenos de canela",
+      "4 xícaras (chá) de pinga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, derreta o açúcar em fogo alto até caramelizar",
+      "Adicione os demais ingredientes (exceto a pinga).",
+      "Mexa até dissolver o açúcar e, com cuidado, acrescente a pinga.",
+      "Deixe ferver em fogo baixo por 3 minutos.",
+      "Sirva em canecas, de preferência de barro ou louça, para não perder o sabor."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ISA LAURINTINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301512-quentao-tradicional.html"
+}

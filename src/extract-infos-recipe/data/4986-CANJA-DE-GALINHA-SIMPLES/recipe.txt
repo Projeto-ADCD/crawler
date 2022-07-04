@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CANJA DE GALINHA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de frango",
+      "1 e 1/2 xícara de arroz ",
+      "cebola a gosto",
+      "alho a gosto",
+      "sal a gosto",
+      "400 ml de água fervente",
+      "1 tablete de caldo de galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque o frango temperado apenas com sal",
+      "Em seguida adicione a cebola e o alho a gosto e refogue por 4 minutos (sempre com cuidado para não queimar)",
+      "Após refogar, adicione a água fervente e o arroz",
+      "Coloque o caldo de galinha e mexa para dissolver.",
+      "Tampe a panela de pressão e deixe por 10 minutos até que o arroz cozinhe.",
+      "E prontinho sua canja estará pronta e saborosa."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAROLINA NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299778-canja-de-galinha-simples.html"
+}

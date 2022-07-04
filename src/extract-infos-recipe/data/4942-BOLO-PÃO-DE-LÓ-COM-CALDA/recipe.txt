@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BOLO PÃO-DE-LÓ COM CALDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo sem fermento",
+      "2 xícaras de açúcar",
+      "1 colher de manteiga",
+      "1 xícara de leite",
+      "5 ovos",
+      "1 colher de chá de fermento"
+    ],
+    "CALDA:": [
+      "1 caixa de leite condensado",
+      "4 colheres de achocolatado em pó",
+      "4 colheres de leite em pó",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com manteiga e trigo ou papel manteiga.",
+      "Penere o trigo e o açúcar e reserve.",
+      "Separe a clara da gema.",
+      "Bata as claras em neve.",
+      "Em seguida adicione de 1 em 1 as gemas.",
+      "Adicione o açúcar aos poucos.",
+      "Coloque o trigo de pouco em pouco e mexa na mão ou com uma colher grande.",
+      "Esquente a manteiga.",
+      "Adicione leite quando a manteiga derreter.",
+      "Reserve um pouco de leite pra colocar junto o fermento.",
+      "Depois, coloque o fermento. A reação correta do leite quente e do fermento é o leite virar espuma.",
+      "Pré aqueça o forno a 180 graus.",
+      "Leve ao forno por mais ou menos 35 ou 40 minutos."
+    ],
+    "CALDA:": [
+      "Misturar todos os ingredientes antes de levar ao fogo.",
+      "Se ficar ralo, adicione mas leite em pó.",
+      "Misture até desgrudar da panela.",
+      "Despeje a calda por cima do bolo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "CAMILA GALVÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299896-bolo-pao-de-lo-com-calda.html"
+}

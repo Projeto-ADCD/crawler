@@ -1,0 +1,56 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM MORANGOS",
+  "ingredientes": {
+    "MASSA:": [
+      "6 ovos",
+      "6 colheres de sopa de açúcar",
+      "6 colheres de sopa de farinha de trigo",
+      "3 colheres de chocolate em pó",
+      "1 colher de sopa de fermento",
+      "1 colher de sopa de margarina sem sal"
+    ],
+    "RECHEIO:": [
+      "1 caixinhas de morangos frescos",
+      "1 lata condensado",
+      "1 colher de manteiga ou margarina",
+      "50 gramas de coco ralado"
+    ],
+    "COBERTURA:": [
+      "1 lata de creme de leite",
+      "1 barra de chocolate meio amargo ou ao leite",
+      "1 caixinha de morangos"
+    ]
+  },
+  "passos": {
+    "MODO DE PREPARO DO BOLO:": [
+      "2 horas antes ou de um dia para o outro, lave bem os seus morangos, retire o cabinho, seque e pique em pedaços pequenos. Reserve alguns morangos para decorar o bolo.",
+      "Despeje o morango picado e as 3 colheres de açúcar numa tigela e deixe até soltar a calda com que o bolo será regado.",
+      "Para preparar o bolo, unte o fundo de uma assadeira redonda (20cm) e ligue o forno a 200ºC. Dica: Não unte as laterais, assim o bolo não desaba para dentro.",
+      "Vamos começar pelo pão de ló: Despeje os ovos na batedeira e bata por cinco minutos.",
+      "Adicione o açúcar (peneirado), aos poucos.",
+      "Bata por mais dez minutinhos, até virar um creme esbranquiçado e triplique de volume.",
+      "Enquanto isso peneire a farinha de trigo, o chocolate e o fermento em uma tigelinha.",
+      "Em seguida desligue a batedeira e incorpore delicadamente a mistura de farinha, chocolate, fermento aos ovos batidos.",
+      "Despeje na assadeira e leve para assar. Leva de 20 a 25 minutos, depende do forno.",
+      "Espete um palito e ele deve sair limpo.",
+      "Espere amornar para desenformar."
+    ],
+    "MODO DE PREPARO DO RECHEIO:": [
+      "Enquanto o bolo assa, prepare o recheio, que é um brigadeiro branco com coco.",
+      "Numa panela, junte o leite condensado e a margarina e o coco.",
+      "Leve ao fogo baixo e mexa sem parar, até começar aparecer o fundo da panela.",
+      "Mexa bem até incorporar. Reserve e espere esfriar.",
+      "Na hora de colocar o recheio, coloque pedaços de morango por cima do recheio antes de colocar a outra parte do bolo por cima."
+    ],
+    "MODO DE PREPARO DA MONTAGEM:": [
+      "Desenforme o bolo e corte ao meio, no sentido horizontal.",
+      "Adicione o recheio e os pedaços de morango.",
+      "Coloque a outra metade do bolo por cima.",
+      "Adicione a calda."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301714-bolo-de-chocolate-com-morangos.html"
+}

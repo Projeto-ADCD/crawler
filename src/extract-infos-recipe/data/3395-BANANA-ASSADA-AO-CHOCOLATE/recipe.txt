@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BANANA ASSADA AO CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "1 colher (chá) de leite condensado",
+      "1 colher (chá) de achocolatado",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as duas bananas com casca na Air Fryer por 20 minutos",
+      "Depois tire as bananas das cascas e distribua o achocolatado sobre as bananas",
+      "Depois é só distribuir o leite condensado sobre as bananas e está pronto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Necessita de uma Air Fryer, mas se não tiver pode fazer no forno."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANDREA ARNDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303449-banana-assada-ao-chocolate.html"
+}

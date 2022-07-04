@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRANGO COM LARANJA AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxa",
+      "250 g de maionese (vidro pequeno)",
+      "1 saquinho de creme de cebola",
+      "1 litro de suco de laranja ou até cobrir o frango (use laranja de verdade, não de caixinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as sobrecoxas e arrume em um tabuleiro médio",
+      "Espalhe a maionese por cima das sobrecoxas (coloque uma camada bem generosa)",
+      "Coloque por cima o creme de cebola",
+      "Despeje todo suco de laranja até cobrir o frango",
+      "Leve em forno 200° C por aproximadamente 1 hora ou até que o frango esteja cozido",
+      "Sirva quente.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica 01: não coloque sal. O creme de cebola já é salgado.\nDica 02: não é necessário colocar papel-alumínio por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEXANDRE MEIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303914-frango-com-laranja-ao-forno.html"
+}

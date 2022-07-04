@@ -1,0 +1,45 @@
+{
+  "nome_receita": "EMPADINHA DE MORANGO COM NUTELLA",
+  "ingredientes": {
+    "MASSA:": [
+      "2 xícaras de farinha de trigo",
+      "1/4 de xícara de açúcar",
+      "1/2 colher (chá) de sal",
+      "100 g de manteiga gelada",
+      "1 lata de creme de leite",
+      "1/2 colher (sopa) de fermento em pó"
+    ],
+    "RECHEIO:": [
+      "100 g de morango",
+      "1/4 de xícara de açúcar",
+      "1 colher (chá) de suco de limão",
+      "350 g de nutella",
+      "1 gema"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em uma tigela, misture a farinha de trigo, o açúcar, o sal e a manteiga gelada. ",
+      "Acrescente o creme de leite e misture bem até formar uma massa homogênea. ",
+      "Adicione o sal e misture para incorporar.",
+      "Reserve 1/3 da massa para fazer as tampinhas das empadinhas. ",
+      "Pegue um pouco da massa e forre as formas de empadinha.",
+      "Fure a massa e leve ao forno preaquecido (180° C) por 30 minutos."
+    ],
+    "RECHEIO:": [
+      "Em uma panela, adicione o morango, o açúcar e o suco de limão.",
+      "Amasse os morangos e deixe descansar por 10 minutos."
+    ],
+    "MONTAGEM:": [
+      "Retire as empadinhas do forno e recheie com os morangos e um pouco de nutella. ",
+      "Feche as empadinhas com a massa reservada.",
+      "Com a faca, faça um corte em \"x\" no topo da empadinha. ",
+      "Pincele com gema batida e leve ao forno preaquecido (180° C) por 50 minutos. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304094-empadinha-de-morango-com-nutella.html"
+}

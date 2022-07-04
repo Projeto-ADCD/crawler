@@ -1,0 +1,38 @@
+{
+  "nome_receita": "ESCONDIDINHO DE CARNE ARANHA DESFIADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kilo de batata",
+      "3 colheres de manteiga",
+      "2 copos de leite",
+      "1 kg de carne moida",
+      "cheiro-verde a gosto",
+      "1 tomate",
+      "azeitonas a gosto",
+      "2 cebolas grandes",
+      "4 dentes de alho",
+      "azeite a gosto",
+      "cominho a gosto",
+      "sal a gosto",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e coloque-as na panela de pressão por mais ou menos meia hora até amolecer a ponto de amassar.",
+      "Refogue a carne aranha com azeite, 1 cebola, 4 dentes de alho, os tomates picados, as azeitonas, sal pimenta-do-reino e cominho a gosto",
+      "Coloque por 20 minutos na panela de pressão em fogo médio e quando levantar pressão abaixe deixe por mais 20 minutos",
+      "Desfie a carne e coloque o cheiro-verde a gosto",
+      "Assim que as batatas estiverem prontas amasse-as e aqueça novamente no fogo baixo adicionando 3 colheres de manteiga e o leite aos poucos para não ficar muito mole",
+      "Mexa até pegar liga e coloque a outra cebola picada",
+      "Em uma forma faça uma camada de purê, depois coloque todo recheio de carne e por cima mais uma camada de purê",
+      "Salpique queijo ralado por cima e coloque no forno só para marinar",
+      "Assim que queijo estiver escurecendo desligue o forno",
+      "E sirva a gosto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANI LATIFA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302984-escondidinho-de-carne-aranha-desfiada.html"
+}

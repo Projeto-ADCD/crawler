@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de polvilho azedo",
+      "50 g de queijo ralado",
+      "25 g (ou até dar o ponto) de creme de leite",
+      "sal a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o polvilho e o queijo e aos poucos coloque o creme de leite",
+      "Misture com a colher e depois com as mãos, coloque mais creme de leite se precisar, até dar um ponto que não grude nas mãos e dê para fazer bolinhas.",
+      "Leve ao forno preaquecido a 180° C e deixe até dourar (aproximadamente 25 a 30 minutos)"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CIH P",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299721-pao-de-queijo-de-3-ingredientes.html"
+}

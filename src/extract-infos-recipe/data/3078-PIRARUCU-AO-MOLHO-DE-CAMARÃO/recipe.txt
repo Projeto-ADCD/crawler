@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PIRARUCU AO MOLHO DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 postas de pirarucu ",
+      "500 g de camarão pequeno",
+      "1 cebola picada",
+      "2 tomates picados",
+      "1 vidro de leite de coco",
+      "1 creme de leite",
+      "2 colheres de massa de tomate",
+      "azeite",
+      "sal com alho a gosto",
+      "sal a gosto",
+      "pimenta a gosto",
+      "salsinha e cebolinha picadas",
+      "molho soyu a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com sal com alho e soyu a gosto",
+      "Em uma frigideira doure o peixe por 4 minutos cada lado e após leve ao forno por 10 min para acertar o ponto com um pouco de azeite por cima"
+    ],
+    "MOLHO:": [
+      "Tempere o camarão com sal e pimenta a gosto.",
+      "Frite os camarões por 3 minutos e reserve",
+      "Refogue a cebola e o tomate no azeite e adicione o leite de coco, o creme de leite, coloque os camarões e a salsinha e cebolinha",
+      "Deixe ferver por 5 minutos",
+      "Porcione o pirarucu e coloque o molho por cima, decore com a salsinha picada"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303911-pirarucu-ao-molho-de-camarao.html"
+}

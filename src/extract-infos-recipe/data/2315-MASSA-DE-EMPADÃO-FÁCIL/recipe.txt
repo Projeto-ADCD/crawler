@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MASSA DE EMPADÃO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 copos (requeijão) de trigo sem fermento",
+      "200 g de manteiga",
+      "1 ovo",
+      "1 colher(chá) de sal",
+      "1 gema (para pincelar por cima da massa antes de ir ao forno)",
+      "recheio a seu gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, coloque todos os ingredientes e misture bem até que todos os ingredientes se unam e a massa crie consistência.",
+      "Deixe descansar por 15 minutos",
+      "Preaqueça o forno em 180° C por pelo menos 15 minutos",
+      "Faça o recheio de sua preferência e o deixe esfriar antes de colocar na massa (se não a massa fica solada)",
+      "Em uma forma ou pirex de sua preferência coloque a massa, estendendo-a pelas bordas",
+      "Coloque o recheio e em seguida mais uma camada de massa",
+      "Para finalizar, pincele uma gema por cima da massa antes de levar ao forno",
+      "Forno em temperatura média de 180° C à 200° C por 30 minutos ou até que a superfície do empadão esteja completamente dourada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RANYFHER SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305505-massa-de-empadao-facil.html"
+}

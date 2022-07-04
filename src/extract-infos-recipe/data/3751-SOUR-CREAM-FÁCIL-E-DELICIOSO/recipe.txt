@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SOUR CREAM FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de cream cheese",
+      "1 limão espremido",
+      "1 colher (sopa) de vinagre",
+      "sal a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com uma colher, liquidificador ou mixer.",
+      "Deixe para resfriar na geladeira por alguns minutos",
+      "Sirva com nachos, burritos ou tacos"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JESSICA MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302784-sour-cream-facil-e-delicioso.html"
+}

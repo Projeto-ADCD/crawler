@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 colheres (sopa) de farinha de trigo",
+      "7 colheres (sopa) de açúcar",
+      "1 ovo",
+      "1 copo de leite (150 ml), mas sugiro testar a sua preferência",
+      "1 colher (chá) de fermento",
+      "Para enrolar os bolinhos: um pouco de cabela e acucar para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a panela de óleo para esquentar",
+      "Em uma tigela misture todos os ingredientes da massa até ficar homogêneo",
+      "Com a massa homogênea utilize uma colher para padronizar o tamanho dos bolinhos",
+      "Com o óleo já quente, frite os bolinhos e os coloque em uma vasilha forrada com papel toalha",
+      "Prepare outra vasilha com a mistura de canela com açúcar e enrole os bolinhos",
+      "Ai eh servir como quiser "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "NAYRA MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304267-bolinho-de-chuva.html"
+}

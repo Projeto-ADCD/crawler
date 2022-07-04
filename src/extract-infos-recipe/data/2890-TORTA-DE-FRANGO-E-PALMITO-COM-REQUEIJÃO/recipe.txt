@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE FRANGO E PALMITO COM REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa ",
+      "2 xícaras de trigo",
+      "1 xícara de leite integral",
+      "3 ovos",
+      "1/2 de óleo vegetal",
+      "1 tablete de caldo de galinha",
+      "1 colher (chá) de sal branco",
+      "1 colher (sopa) de fermento",
+      "Para o recheio",
+      "1 peito de frango e meio (1 kg)",
+      "1 vidro de palmito picado",
+      "100 g de azeitona fatiada",
+      "1 pote de requeijão",
+      "100 g de parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador misture os ovos, o leite, o óleo, o tablete de caldo, o trigo e o sal.",
+      "Bata tudo até dissolver bem o trigo e formar uma massa molinha e lisa.",
+      "Por último, junte o fermento e mexa com a colher até se misturar a massa.",
+      "Unte uma forma tradicional retangular com óleo e despeje metade da massa nela.",
+      "O frango deve ser cozido e desfiado, tempere a gosto.",
+      "Fica um diferencial colocar cheiro-verde nele ainda quente",
+      "Com o frango pronto, espalhe todo o frango por cima da massa que está na forma, em seguida vá colocando bolinhas de requeijão com a colher por toda a forma, até acabar o requeijão.",
+      "Com o frango e o requeijão por cima, adicione os palmito picados por cima do requeijão, use o vidro todo.",
+      "Depois de ter colocado o palmito, coloque as azeitonas por cima do palmito",
+      "Despeje o resto da massa por cima de tudo e por último, salpique todo o parmesão por cima pra finalizar.",
+      "Leve a forma ao forno alto por 20 minutos ou até que as beiradinhas comecem a dourar",
+      "A massa fica fofinha e macia diferente das massas de torta salgada que estamos acostumadas a ver em festas, padarias, que as massas são lisas é gordurosas.",
+      "Depois de fazer, me fala se ficou boa"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MELISSA SEZIMBRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304215-torta-de-frango-e-palmito-com-requeijao.html"
+}

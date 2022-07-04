@@ -1,0 +1,25 @@
+{
+  "nome_receita": "O MELHOR MOLHO DE ALHO PARA CHURRASCOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de maionese ",
+      "1 colher de mostarda Hein",
+      "1 maço de cebolinha",
+      "6 dentes de alho",
+      "suco de 1 limão grande",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Deixe até a cebolinha praticamente sumir e o molho ficar bem verdinho.",
+      "Sirva",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEATRIZ COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302588-o-melhor-molho-de-alho-para-churrascos.html"
+}

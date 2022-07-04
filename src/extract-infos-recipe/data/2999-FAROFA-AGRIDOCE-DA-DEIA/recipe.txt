@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE DA DEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 calabresas picadas em cubos",
+      "200 g de bacon sem o couro cortados cubinho",
+      "2 cebolas picadas",
+      "alho e sal a gosto",
+      "1 cenoura ralada",
+      "100  de azeitonas pretas cortadas",
+      "10 metades de pêssegos em calda sem a calda cortado em cubos",
+      "100 g de uva passa (opcional)",
+      "1 pacote de farinha temperada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma panela a manteiga, o alho e o sal e frite com a calabresa e o bacon",
+      "Depois de dourar, desligue a panela e adicione a farinha temperada e a cenoura ralada, os ovos cozidos já picados e as azeitonas",
+      "Mexa em fogo baixo por dois minutos, desligue e depois desse tempo, adicione as frutas cortadas em cubos e a uva passa",
+      "Mexa tudo e está pronta essa deliciosa farofa para as festas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANDREIA PEREIRA BUENO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304013-farofa-agridoce-da-deia.html"
+}

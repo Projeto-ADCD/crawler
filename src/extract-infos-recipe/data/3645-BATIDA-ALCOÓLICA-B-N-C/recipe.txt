@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATIDA ALCOÓLICA B.N.C",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml de vodka",
+      "1/2 caixa de leite condensado",
+      "50 ml de groselha",
+      "biscoito wafer com cobertura de chocolate a gosto",
+      "gelo a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador adicione o leite condensado ",
+      "Em seguida, adicione a vodka",
+      "Adicione a groselha e gelo à vontade",
+      "Bata tudo no liquidificador até dissolver todo o gelo",
+      "Para finalizar coloque em copos de sua preferência e polvilhe com o biscoito triturado por cima da bebida",
+      "Está pronta sua batida B.N.C"
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "DIEGO HERBERT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302982-batida-alcoolica-bnc.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PATÊ DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de atum",
+      "1 cenoura ralada",
+      "1/2 maço de salsinha",
+      "1/2 maço de cebolinha",
+      "1/2 pote de maionese de 500 g",
+      "Azeite",
+      "Sal",
+      "Pimenta-do-reino",
+      "1 cebola picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um recipiente."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HEITOR_PORTIOLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300018-pate-de-atum.html"
+}

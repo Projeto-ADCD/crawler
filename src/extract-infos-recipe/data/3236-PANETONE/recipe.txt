@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PANETONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê (7 g) de fermento biológico seco",
+      "1 xícara de leite quente",
+      "500 g de farinha de trigo",
+      "1 colher (chá) de sal refinado",
+      "1/2 xícara (chá) de passas sem semente ou 80 g",
+      "1 colher (chá) raspa de casca de limão",
+      "1/2 xícara (chá) de fruta cristalizada picada ou 80 g",
+      "4 e 1/2 colher (sopa) de açúcar",
+      "1/2 xícara (chá) de óleo",
+      "1/4 xícara (chá) de manteiga derretida",
+      "4 gemas de ovo",
+      "1 clara de ovo",
+      "1 colher (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça previamente o forno a 180 °C.",
+      "Dissolva o fermento no leite morno.",
+      "Coloque 350 g de farinha, o sal, as passas, a raspa da casca de limão, e o açúcar no recipiente.",
+      "Com o batedor para massa na velocidade 2 , misture durante 15 segundos.",
+      "Adicione o óleo e a manteiga ao preparo.",
+      "Na velocidade 2 coloque aos poucos o leite quente com o fermento e as gemas, misture durante 1 minuto.",
+      "Ainda na velocidade 2, adicione o resto da farinha, 50 g de cada vez, até a massa se agarrar ao batedor e se separar do interior do recipiente.",
+      "Bata na velocidade 2 durante mais 2 minutos.",
+      "Coloque a massa numa tigela untada, virando a massa para untar a superfície.",
+      "Cubra e deixe descansar num local quente e sem correntes de ar, durante cerca de 1 hora, ou até a massa atingir o dobro do volume inicial.",
+      "Achate a massa e molde uma bola.",
+      "Coloque num prato de suflê de 1,7 litros, untado e enfarinhado ou no papel de assar próprio para panetones.",
+      "Deixe descansar novamente, mas desta vez destampada, num local quente e sem correntes de ar, durante mais 1 hora ou até duplicar o volume.",
+      "Faça dois cortes com uma faca afiada, em forma de cruz, na superfície do pão.",
+      "Usando um garfo bata a clara de ovo com a água e use essa mistura para pincelar a superfície do pão.",
+      "Cozinhe durante 55 a 60 minutos.",
+      "Depois de cozido, retire imediatamente o pão do prato e deixe descansar dobre uma grade de arame para não suar o fundo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANA PAULA GOMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303676-panetone.html"
+}

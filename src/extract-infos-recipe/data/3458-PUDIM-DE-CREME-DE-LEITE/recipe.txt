@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PUDIM DE CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "2 ovos",
+      "1 xícara de leite",
+      "1 caixa de creme de leite",
+      "2 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "CALDA": [
+      "Primeiro leve o açúcar ao fogo para fazer a calda",
+      "Derreta em fogo baixo, quando estiver amarelinha a calda acrescente um pouco de água",
+      "Quando estiver marrom está no ponto",
+      "Coloque na assadeira de pudim e deixe esfriar pra que engrosse a calda"
+    ],
+    "MASSA": [
+      "Coloque no liquidificador os ovos, o leite condensado, o creme de leite e a xícara de leite",
+      "Bata por 7 minutos caso queira furinhos no seu pudim, caso queira ele lisinho bata por 4 minutos somente",
+      "Depois despeje na assadeira e tampe com papel aluminio",
+      "Caso for usar o forno, coloque a forma de pudim em outra assadeira quadrada, com uma colher de vinagre para não deixar preta sua forma e com um pouco de água suficiente que fique na metade da forma de pudim para poder cozinhar por dentro",
+      "Deixe por 1 hora e 40 minutos",
+      "Caso for banho-maria no fogão, use uma panela com água e coloque a forma de pudim dentro e tampe, deixe por 1 hora e 15 minutos",
+      "Depois desse tempo assando, tire do fogão e deixe esfriar.",
+      "Depois coloque na geladeira por 6 horas pra ficar bom",
+      "Depois desse tempo, tire da geladeira, aqueça no fogão um pouco a assadeira para derreter a calda e passe a faca em volta do pudim e do furo do meio",
+      "Em seguida desenforme em um prato apropriado e leve a geladeira por mais 1hora, depois é só comer!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ROSANA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303316-pudim-de-creme-de-leite.html"
+}

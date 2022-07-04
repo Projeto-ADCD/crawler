@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO ITALIANO NA PANELA (RONCELLI)",
+  "ingredientes": {
+    "DEFAULT": [
+      "540 ml água morna",
+      "800 g de trigo",
+      "sal a gosto [coloco 1/2 colher (sopa) rasa]",
+      "10 g fermento biológico seco",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo até ficar uma massa homogênea (média de 7 minutos)",
+      "Cubra e deixe crescer em média de 1 hora.",
+      "Aqueça a panela no forno e após enfarinhe o fundo da panela ",
+      "Distribua a massa fazendo um pequeno corte no meio da massa",
+      "Tampe e leve ao fogo durante uns 30 minutos (conforme o seu fogão) em 200° C com a tampa,",
+      "Após, retire a tampa e deixe mais uns 20 minutos ou até dourar.",
+      "Retire a panela e solte as laterais com uma espátula e pronto, só saborear."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Use uma panela média que não tenha cabo de madeira e nem de plástico."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SIDNEI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305500-pao-italiano-na-panela-roncelli.html"
+}

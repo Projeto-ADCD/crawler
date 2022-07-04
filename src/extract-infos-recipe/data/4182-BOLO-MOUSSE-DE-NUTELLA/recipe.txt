@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO MOUSSE DE NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de farinha de trigo",
+      "4 colheres (sopa) de chocolate em pó",
+      "160 ml de óleo",
+      "100 g de avelã",
+      "2 colheres (chá) de sal",
+      "2 folhas de gelatina sem sabor",
+      "200 g de chocolate meio amargo",
+      "100 g de manteiga sem sal",
+      "200 g de nutella",
+      "400 ml de creme de leite fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bem os ovos e o açúcar.",
+      "Adicione a farinha de trigo,o chocolate em pó e o óleo. ",
+      "Misture bem com o auxílio de um fouet. ",
+      "Acrescente a avelã e o sal e volte a misturar até formar uma massa homogênea. ",
+      "Hidrate a gelatina sem sabor. ",
+      "Derreta o chocolate meio amargo, com a manteiga em banho-maria. ",
+      "Junte a gelatina hidratada e a nutella e mexa bem.",
+      "Bata o creme de leite fresco até ponto de chantili. ",
+      "Adicione a mistura de chocolate e mexa delicadamente.",
+      "Corte o bolo em 3 partes. ",
+      "Comece com a base do bolo e recheie. ",
+      "Repita até fechar o bolo com a última parte do bolo. ",
+      "Cubra o bolo com o restante do recheio.",
+      "Leve à geladeira por cerca de 2 horas e decore como desejar! ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301650-bolo-mousse-de-nutella.html"
+}

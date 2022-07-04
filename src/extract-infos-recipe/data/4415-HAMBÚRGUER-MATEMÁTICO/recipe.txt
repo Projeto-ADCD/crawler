@@ -1,0 +1,29 @@
+{
+  "nome_receita": "HAMBÚRGUER MATEMÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de acém moído",
+      "1 pão de hambúrguer",
+      "100g de mussarela fatiada",
+      "Pimenta do reino e al a Gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esta receita é para quem não quer errar e quer fazer o básico do hambúrger artesanal. Por isso a matematica. Siga exatamente os passos a seguir.",
+      "Pegue a carne e faça uma bola com a mão e a amasse por cima, formando um hambúrger.",
+      "Passe manteiga e adicione sal e pimenta dos dois lados.",
+      "Ligue uma chapa ou frigideira e a esquente na maior temperatura que conseguir.",
+      "Coloque o hambúrger na chapa quente e cronometre exatamente 3 minutos.",
+      "Depois, vire o hambúrger, e coloque os 100g de queijo em cima.",
+      "Tampe a panela ou chapa, cobrindo tudo, e deixe exatamente mais 3 minutos.",
+      "Desligue o fogo ou a chapa e deixe o hambúrguer nela tampado por exatamente mais 3 minutos.",
+      "Pegue o pão, abra-o, passe manteiga e coloque-o na chapa com o interior virado para baixo por exatamente 30 segundos.",
+      "Por fim, monte o hambúrguer com o que mais quiser."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAFAEL PÉRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301176-hamburguer-matematico.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PUDIM DE PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de açúcar",
+      "1 lata de leite condensado",
+      "4 ovos",
+      "2 latas de leite (use a lata de leite condensado vazia para medir)",
+      "1 colher (sopa) de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque o açúcar e leve ao fogo alto",
+      "Mexa até derreter e virar caramelo.",
+      "Retire do fogo e espalhe por uma forma de buraco no meio de 20 cm de diâmetro, com tampa",
+      "que caiba dentro da panela de pressão.",
+      "No liquidificador, bata o leite condensado, os ovos, o leite e o amido de milho até ficar homogêneo.",
+      "Despeje na forma caramelada, tampe e coloque na panela de pressão.",
+      "Acrescente água até a metade da forma, tampe a panela e leve ao fogo alto até ferver.",
+      "Cozinhe por 40 minutos após iniciada a pressão.",
+      "Retire do fogo e espere a pressão sair naturalmente antes de abrir.",
+      "Retire a forma de dentro da panela com cuidado para não se queimar, leve à geladeira por 4 horas, desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CA LINGE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305836-pudim-de-panela-de-pressao.html"
+}

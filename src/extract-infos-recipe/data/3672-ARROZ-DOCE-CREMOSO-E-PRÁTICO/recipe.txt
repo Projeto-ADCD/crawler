@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ARROZ DOCE CREMOSO E PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de arroz cru",
+      "10 xícaras de água",
+      "1,5 litro de leite",
+      "3 xícaras de açúcar",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "canela em rama a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque o arroz e a água para cozinhar",
+      "Quando estiver quase secando a água, acrescente o leite e a canela e deixar cozinhar por 15 minutos",
+      "Acrescente o açúcar e mexa aos poucos, por 10 minutos",
+      "Acrescente o leite condensado e mexa bem",
+      "Apague o fogo e acrescente o creme de leite",
+      "Pode servir quente ou gelado"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302942-arroz-doce-cremoso-e-pratico.html"
+}

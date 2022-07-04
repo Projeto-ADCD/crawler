@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MINGAU DE COCO DA EVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite",
+      "1 leite condensado",
+      "3 colheres de amido de milho",
+      "50 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador por dois minutos",
+      "Leve ao fogo médio mexendo sem parar até engrossar",
+      "Para servir coloque em taças.",
+      "Obs: fica ótimo com calda de caramelo ou calda de sorvete."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "EVELYN THAISA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305821-mingau-de-coco-da-eva.html"
+}

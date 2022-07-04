@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO RÁPIDO DE BANANA COM CASQUINHA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas",
+      "2 xícaras de açúcar",
+      "3/4 de xícara de óleo",
+      "1 colher (sobremesa de canela",
+      "5 ovos",
+      "2 e 1/2 xícaras de farinha",
+      "1 colher de sopa rasa de fermento",
+      "canela e açúcar a gosto pra polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata 2 bananas, o óleo, o açúcar, a canela e os ovos no liquidificador.",
+      "Coloque em um recipiente e misture a farinha e o fermento até a massa ficar uniforme.",
+      "Coloque metade da massa em uma forma untada, tamanho médio, cubra com as bananas cortadas e polvilhe com açúcar e canela.",
+      "Coloque o restante da massa e cubra com bananas cortadas polvilhando com açúcar e canela.",
+      "Leve ao forno por 30 a 40 minutos em temperatura média, 180 graus."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ALESSANDRA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300101-bolo-rapido-de-banana-com-casquinha-crocante.html"
+}

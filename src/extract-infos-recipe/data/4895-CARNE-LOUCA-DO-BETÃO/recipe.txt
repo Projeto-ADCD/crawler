@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CARNE LOUCA DO BETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de capa de filé",
+      "1 gomo de linguiça calabresa defumada",
+      "200 g bacon defumado",
+      "3 tomates sem pele",
+      "1/2 litro de água",
+      "2 folhas de louro",
+      "1 cebola grande picada",
+      "5 dentes de alho picados em rodelas grossas",
+      "sal, pimenta a gosto e óleo para fritar o alho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com sal e pimenta (cuidado com o sal devido o bacon para não salgar muito)",
+      "Coloque a carne em uma panela de pressão.",
+      "Ligue o fogo e dê uma selada nela.",
+      "Em seguida adicione a água, 150 g de bacon, a linguiça calabresa e as folhas de louro.",
+      "Feche a panela e cozinhe por aproximadamente 50 minutos",
+      "Após cozida a carne, reserve uma concha do caldo do cozimento e dispense o restante do caldo.",
+      "Desfie a carne, o bacon e a linguiça.",
+      "Coloque na panela as carnes desfiadas e adicione a uma concha do caldo do cozimento das carnes",
+      "Bata os tomates no mix ou liquidificador com um copo de água e junte com a carne na panela",
+      "Frite a cebola com 50g de bacon picadinhos e junte com a carne na panela",
+      "Frite os 5 dentes de alho em 5 colheres de óleo e junte com a carne na panela",
+      "Agora é só cozinhar tudo em fogo baixo por 5 a 10 minutos para dar uma apurada.",
+      "Só servir com pãozinho ou arroz.",
+      "Apreciem. Bom Apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300002-carne-louca-do-betao.html"
+}

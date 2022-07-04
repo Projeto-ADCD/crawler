@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PAÇOCA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amendoim moído e torrado",
+      "1 xícara de açúcar (adicionar mais a gosto)",
+      "3/2 de xícaras de achocolatado",
+      "1/2 xícara de farinha de trigo",
+      "1/2 colher (chá) de sal (adicione mais a gosto)",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos ingredientes em um vasilha até a cor ficar uniforme",
+      "Coloque na forma e pressione bem para moldar",
+      "Remova da forma"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "EMANOEL BRUNO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304657-pacoca-com-chocolate.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CACAU LOW CARB SEM FARINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/3 de xícara de açúcar demerara",
+      "6 ovos",
+      "1/2 xícara de coco sem açucar",
+      "1/3 de xícara de cacau em pó",
+      "1/3 de xícara de manteiga",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, exceto o fermento, até obter uma massa homogênea",
+      "Envolva o fermento e misture com uma colher, sem bater",
+      "Despeje a massa em forma média com um furo no meio untada e leve ao forno em temperatura média por 25 minutos",
+      "Faça o teste do palito para se certificar que está assado",
+      "Espere esfriar, desenforme com cuidado e sirva em fatias",
+      "Se quiser, prepare uma cobertura de chocolate low carb para cobrir"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDRI BORGES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303572-bolo-de-cacau-low-carb-sem-farinha.html"
+}

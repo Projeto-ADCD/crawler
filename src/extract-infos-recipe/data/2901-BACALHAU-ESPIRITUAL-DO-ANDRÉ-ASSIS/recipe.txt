@@ -1,0 +1,49 @@
+{
+  "nome_receita": "BACALHAU ESPIRITUAL DO ANDRÉ ASSIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de Bacalhau Gadus Morhua",
+      "500 g de Aipim (mandioca)",
+      "500 g de Cenoura",
+      "100 g de Queijo Parmesão",
+      "200 g de Requeijão",
+      "400 g de Creme de Leite",
+      "8 Fatias de Pão de Forma sem Casca",
+      "1 xícara de Leite Morno",
+      "4 colheres (sopa) de Margarina ou Manteiga",
+      "4 Colheres (sopa) de Azeite Extra Virgem",
+      "1 Colher de Café de Noz-moscada",
+      "2 Cebolas Médias Picadas",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o Bacalhau já dessalgado junto com o Aipim e a Cenoura.",
+      "Após o cozimento desfie o Bacalhau em lascas grandes.",
+      "Amasse o Aipim e faça um purê.",
+      "Amasse a Cenoura e faça um purê.",
+      "Em uma vasilha coloque o leite e deixe o pão de forma de molho por 5 minutos.",
+      "Amasse depois e faça um purê.",
+      "Misture o creme de leite e o requeijão.",
+      "Bata bem para ficar bem líquido.",
+      "Deixe o forno preaquecer por 10 minutos em 180° C",
+      "Em uma panela coloque o azeite e margarina ou manteiga e a cebola, deixe até dourar.",
+      "Acrescente o Aipim e Cenoura, misture bem em fogo baixo.",
+      "Acrescente o purê de pão, misture bem em fogo baixo.",
+      "Acrescente a metade do Bacalhau desfiado.",
+      "Coloque a Noz-moscada e acerte o Sal.",
+      "Em uma forma coloque a metade da massa de purês.",
+      "Depois a outra parte de Bacalhau desfiado.",
+      "Cubra com o restante da massa.",
+      "Acrescente o creme de leite e requeijão misturados.",
+      "Cubra com queijo parmesão.",
+      "Leve ao forno pré-aquecido em 180° C por 45 minutos até dourar em cima.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANDRÉ ASSIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304187-bacalhau-espiritual-do-andre-assis.html"
+}

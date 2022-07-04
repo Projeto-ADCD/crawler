@@ -1,0 +1,49 @@
+{
+  "nome_receita": "CACHORRO QUENTE NO FORNO COM BACON",
+  "ingredientes": {
+    "RECHEIO:": [
+      "10 salsichas picadas (meia lua)",
+      "200g de bacon picado",
+      "1 colher de banha ou azeite",
+      "3 dentes alho picado",
+      "1 cebola grande bem picada",
+      "1 tomate grande picado",
+      "1/2 pimentão picado",
+      "1 sachê seleta legumes c/ milho",
+      "1 colher de calabresa desidratada",
+      "orégano a gosto",
+      "cheiro verde a gosto",
+      "1 xícara molho pronto (opcional)"
+    ],
+    "MASSA:": [
+      "4 xícaras farinha de trigo",
+      "3 xícaras de leite",
+      "3 ovos",
+      "3 colheres fermento em pó",
+      "200g de queijo parmesão ralado ou fresco picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, esquente a banha ou azeite.",
+      "Coloque o bacon para fritar. Acrescente alho e a cebola. Doure.",
+      "Acrescente o pimentão e frite.",
+      "Coloque o tomate com a calabresa desidratada e uma pitada de sal.",
+      "Acrescente a seleta (lavada e escorrida).",
+      "Coloque a salsicha e vá mexendo para a salsicha cozinhar no vapor do cozido. Não ponha água.",
+      "Acrescente o orégano e o cheiro verde ao seu gosto.",
+      "Mexa bem e reserve."
+    ],
+    "MASSA:": [
+      "Num liquidificador coloque todos os ingredientes e bata até ficar homogêneo. O ponto ideal seria igual a uma massa para panquecas.",
+      "Unte uma travessa grande e polvilhe com farinha.",
+      "Vire um pouco da massa na quantia que forre o fundo da travessa. Acrescente o recheio espalhado uniformemente.",
+      "Se optar, espalhe o molho de tomate por cima.",
+      "Agora cubra com o restante da massa e leve ao forno pré aquecido em 180 graus por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "OMAR FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302011-cachorro-quente-no-forno-com-bacon.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃOZINHO FÁCIL FOFINHO DO CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 g de fermento biológico seco",
+      "7 colheres (sopa) de óleo",
+      "1/2 xícara de açúcar",
+      "300 ml de leite",
+      "500 g de farinha de trigo",
+      "Uma pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o fermento, açúcar, o óleo e o leite levemente morno.",
+      "Misture tudo e deixe fermentar por 5 minutos.",
+      "Adicione a farinha aos poucos.",
+      "Adicione uma pitada de sal e misture tudo.",
+      "Sove até desgrudar da mão e ficar uma massa lisa.",
+      "Cubra com pano de prato ou plástico e deixe descansar por 30 minutos.",
+      "Forme bolinhas ou o formato de sua preferência.",
+      "Cubra com pano de prato ou plástico e deixe crescer por 40 minutos (se na sua cidade estiver frio, aqueça o forno levemente e deixe crescer lá dentro).",
+      "Asse por 35 minutos."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "CRISTIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300311-paozinho-facil-fofinho-do-cris.html"
+}

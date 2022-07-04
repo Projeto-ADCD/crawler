@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CARNE LOUCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de miolo de acém",
+      "1 cebola grande picada em cubos",
+      "3 dentes de alho bem picado",
+      "1 pimentão verde picado em cubos",
+      "1 pimentão vermelho picado em cubos",
+      "300 g de azeitona sem caroço",
+      "2 colher (sopa) de azeite",
+      "1 caldo de carne pronto",
+      "2 sachês de tempero pronto sabor carne",
+      "1 colher (sopa) rasa de tempero bainão",
+      "1 colher (sopa) rasa de colorau",
+      "600 g de molho de tomate",
+      "1 colher (chá) rasa de sal",
+      "500 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne na panela de pressão junto com o caldo de de carne e despeje água até que cubra por total a carne tampe e deixe na pressão durante 1 hora.",
+      "Em uma outra panela, acrescente o óleo, o alho e a cebola e deixe dourar.",
+      "Em seguida, acrescente o pimentão verde, o pimentão vermelho, a azeitona, o sachês de de tempero pronto, o tempero bainao, a colher de colorau e o sal.",
+      "Coloque a carne já cozida e desfiada, acrescente o molho de tomate e, por fim, a água do cozimento da carne."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RAYANE RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300850-carne-louca.html"
+}

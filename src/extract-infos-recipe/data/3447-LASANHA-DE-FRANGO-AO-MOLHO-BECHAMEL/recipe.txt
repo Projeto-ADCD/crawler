@@ -1,0 +1,54 @@
+{
+  "nome_receita": "LASANHA DE FRANGO AO MOLHO BECHAMEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de frango",
+      "1 colher (chá) curry",
+      "1 tablete de caldo de galinha",
+      "3 colheres (sopa) de molho barbecue",
+      "sal a gosto",
+      "500 ml de leite",
+      "1/2 cebola",
+      "1 folha de louro",
+      "3 cravos",
+      "50 g de manteiga",
+      "50 g de trigo",
+      "pimenta-do-reino a gosto",
+      "noz-moscada a gosto",
+      "massa pronta para lasanha",
+      "150 g de queijo mussarela",
+      "150 g de presunto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frango",
+      "Cozinhe o frango na panela de pressão com água até cobrí-lo, por em média 10 minutos após entrar em pressão.",
+      "Logo após o frango estar cozido, desfie-o  e tempere-o",
+      "Use o curry, o caldo de galinha, o molho barbecue e sal a gosto.",
+      "Misture até ficar homogêneo.",
+      "Molho",
+      "Pegue a metade da cebola e fixe a folha de louro com auxílio dos três cravos em suas costas.",
+      "Coloque o leite em uma panela (fogo médio) e a cebola com a folha voltada para baixo.",
+      "Quando começar a ferver, desligue o fogo, retire a cebola do leite e deixa-o descansando.",
+      "Em outra panela, derreta a manteiga e adicione o trigo (fogo médio).",
+      "Mexa bem por 3 minutos e logo após acrescente o leite, mexa bem até engrossar.",
+      "Adicione o sal a gosto, a pimenta-do-reino e noz moscada a gosto.",
+      "Com o molho já pronto, pegue o frango e os misture até tudo ficar bem homogêneo.",
+      "Massa",
+      "Ferva uma panela cheia de água com um fio de óleo e sal a gosto.",
+      "Coloque a massa pronta para lasanha e deixe cozinhar até ficar no ponto (média de 5 minutos).",
+      "Escorra a água.",
+      "Montando",
+      "Em uma travessa de vidro, coloque uma camada de molho com frango, cubra com presunto e logo após com a massa para lasanha.",
+      "Repita esse procedimento até acabar o molho com frango.",
+      "Finalize com uma camada de massa pronta e queijo.",
+      "Preaqueça o forno em temperatura de 180º C por 15 minutos.",
+      "Leve a travessa ao forno até o queijo derreter (média de 10 minutos)."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "OSMAR DOMINGOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303343-lasanha-de-frango-ao-molho-bechamel.html"
+}

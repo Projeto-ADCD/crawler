@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO DE ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de macarrão (da sua escolha)",
+      "2 potes de tomate cereja",
+      "cheiro verde (cebolinha + salsinha)",
+      "rúcula (opcional)",
+      "agrião",
+      "coentro",
+      "manjericão (opcional)",
+      "1 pitada de curry",
+      "1/2 pitada de orégano seco",
+      "3 fios de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão.",
+      "Coloque 1 fio de azeite e os tomates cerejas.",
+      "Adicione primeiro a rúcula, agrião, cebolinha, salsinha e o coentro (nessa ordem) e outro fio de azeite.",
+      "Depois, coloque o orégano seco e o curry e o fio de azeite.",
+      "Por fim, coloque o manjericão."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DANNY ANDERSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299903-macarrao-de-ervas.html"
+}

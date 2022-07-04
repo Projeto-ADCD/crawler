@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLINHO DE BANANA DA VÓ LIZA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras trigo",
+      "1 xícara de açúcar",
+      "2 ovos",
+      "2 xícaras de leite",
+      "1 pitada de sal a gosto",
+      "7 bananas de preferência da terra"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as bananas em fatias da espessura que preferir",
+      "Misturar os demais ingredientes e misture tudo até a massa ficar homogênea",
+      "Pegue as fatias de banana e mergulhe na massa e em seguida coloque na frigideira as fatias e deixa as mesmas dourar.",
+      "Depois e só aproveitar",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDEVALDO JUNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305561-bolinho-de-banana-da-vo-liza.html"
+}

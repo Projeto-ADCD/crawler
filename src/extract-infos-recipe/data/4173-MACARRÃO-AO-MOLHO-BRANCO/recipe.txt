@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO AO MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Macarrão espaguete",
+      "300 ml de leite",
+      "Uma caixinha de creme de leite",
+      "3 coletes de sopa de maisena",
+      "1 colher de sopa de manteiga",
+      "3 dentes de alho",
+      "1/2 cebola picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão por 7 minutos e reserve.",
+      "Em uma panela coloque a manteiga, alho e cebola e refogue um pouco.",
+      "Dissolva a Maizena no leite antes de levar até a panela.",
+      "Coloque o leite com Maizena e creme de leite na panela com o refogado.",
+      "Tempere de acordo com o seu gosto.",
+      "Mexa continuamente sem parar pois pode agarrar no fundo da panela.",
+      "Quando o molho branco estiver consistente coloque o macarrão cozido e mexa bem.",
+      "Caso queira, é possível colocar um pouco de frango desfiado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARCELLY ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301679-macarrao-ao-molho-branco.html"
+}

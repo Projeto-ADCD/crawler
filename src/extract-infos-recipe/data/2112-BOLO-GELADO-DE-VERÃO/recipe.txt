@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO GELADO DE VERÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 claras",
+      "5 gemas",
+      "2 xícaras de açúcar",
+      "1 e 1/2 xícara de farinha trigo",
+      "1 colher (sobremesa) fermento em pó",
+      "1 vidro leite de coco",
+      "1 lata leite a condenado",
+      "400 ml leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para a massa",
+      "Bata as claras em neve.",
+      "Antes de colocar o açúcar, adicione as gemas uma de cada vez e continue batendo.",
+      "Adicione o açúcar e bata bem (uns 2 ou 3 minutos).",
+      "Desligue e coloque os secos, peneirados.",
+      "Só incorpore e asse.",
+      "Use um tabuleiro retangular grande, untado e forno preaquecido tbm.",
+      "Asse por uns 30/40 minutos em temperatura média ou até dourar levemente.",
+      "Enquanto isso, prepare uma misturinha para molhar o bolo:",
+      "1 vidro de leite de coco",
+      "1 lata de leite condensado",
+      "400ml de leite (eu achei que foi muito e na próxima vou diminuir um pouco, mas veja o que acha).",
+      "Misture isso tudo e quando o bolo ficar pronto, fure ele ainda quente e regue com essa calda.",
+      "Leva pra geladeira, coberto com filme ou laminado e espere por umas 8 horas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ANA CHRISTINA SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305982-bolo-gelado-de-verao.html"
+}

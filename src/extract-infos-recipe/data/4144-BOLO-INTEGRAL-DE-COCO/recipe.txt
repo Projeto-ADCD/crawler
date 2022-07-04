@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO INTEGRAL DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 Ovos",
+      "1 xícara de açúcar mascavo",
+      "1 colher de mel",
+      "3/4 de xícara de óleo de girassol",
+      "250ml de leite de coco",
+      "1/2 de xícara de coco ralado queimado",
+      "1/4 de xícara de chia",
+      "1/2 xícara de aveia em flocos",
+      "1 colher de fermento em pó para bolos",
+      "2 xícaras de trigo integral"
+    ]
+  },
+  "passos": {
+    "MISTURE OS LÍQUIDOS E O AÇÚCAR:": [
+      "Junte os ovos e bata com um fuet com o açúcar e o mel, depois, adicione o óleo de girassol e o leite de coco e misture bem. Reserve."
+    ],
+    "MISTURE OS SECOS:": [
+      "Misture o coco ralado queimado, a chia, a aveia, o fermento e o trigo em um bowl separado."
+    ],
+    "MISTURE A MASSA:": [
+      "Junte os líquidos aos secos misturando com o fuet, não bate muito para n desenvolver glúten ao bolo."
+    ],
+    "ASSE:": [
+      "Unte uma assadeira retangular e estreita com um pouco de óleo e farinha, e asse em um forno pré aquecido a 180°C por aproximadamente 40 minutos."
+    ],
+    "SIRVA:": [
+      "Retire o bolo da assadeira em um recipiente, salpique coco ralado queimado e aveia, corte em fatias de aproximadamente 1 dedo e meio. Rende aproximadamente 12 fatias."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O bolo fica fofinho e molhadinho, ótimo acompanhado com um chá ou café."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GABRIEL ANACLETO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301732-bolo-integral-de-coco.html"
+}

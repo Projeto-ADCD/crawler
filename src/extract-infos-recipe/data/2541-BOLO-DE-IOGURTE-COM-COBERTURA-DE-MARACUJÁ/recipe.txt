@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE IOGURTE COM COBERTURA DE MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Bolo",
+      "1 iogurte integral natural",
+      "1 copo de óleo (no mesmo do iogurte)",
+      "3 ovos",
+      "10 colheres (sopa) de açúcar",
+      "10 colheres (sopa) de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "Cobertura",
+      "1 caixa de leite condensado",
+      "1 suco em pó de maracujá",
+      "4 colheres (sopa) bem cheias de suco de maracujá concentrado",
+      "sementes de maracujá para decoração (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bolo",
+      "Bata no liquidificador os ovos, iogurte e o óleo até misturar bem",
+      "Acrescente o açúcar e a farinha (colher por colher) com o liquidificador ligado",
+      "Deixe bater bem durante 4 minutos, em seguida coloque o fermento e bata apenas até sumir,",
+      "Unte a forma com margarina e açúcar coloque o bolo na forma",
+      "Coloque no forno preaquecido 180/220° C por 30 minutos (pode variar o tempo de forno para forno)",
+      "Cobertura ",
+      "Coloque o leite condensado em uma vasilha, acrescente o suco em pó e o suco concentrado",
+      "Mexa bem até ficar grosso, coloque na geladeira e despeje em cima do bolo depois de frio",
+      "Decore com as sementes do maracujá se quiser."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAYANE ANTONIAZZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304983-bolo-de-iogurte-com-cobertura-de-maracuja.html"
+}

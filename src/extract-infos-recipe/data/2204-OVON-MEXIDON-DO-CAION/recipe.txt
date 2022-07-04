@@ -1,0 +1,28 @@
+{
+  "nome_receita": "OVON MEXIDON DO CAION",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 tomate picado",
+      "1 cebola picada",
+      "queijo mussarela a gosto",
+      "azeite",
+      "orégano a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, acrescente o azeite até cobrir o fundo da panela.",
+      "Deixe esquentar em fogo baixo e coloque os dois ovos mexendo bem.",
+      "Misture o sal, a cebola, o tomate, o orégano e continue mexendo.",
+      "Por fim, adicione a mussarela na quantidade que desejar",
+      "Mexa até ela derreter e misturar com o resto dos ingredientes.",
+      "Desligue o fogo e sirva."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JULIANA DE FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305724-ovon-mexidon-do-caion.html"
+}

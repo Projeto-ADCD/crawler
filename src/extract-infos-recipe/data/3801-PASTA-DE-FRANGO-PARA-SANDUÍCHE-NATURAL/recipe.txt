@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PASTA DE FRANGO PARA SANDUÍCHE NATURAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pote de requeijão light de sua preferência",
+      "1 peito de frango cozido e desfiado",
+      "salsa desidratada a gosto",
+      "sal a gosto caso necessite",
+      "alho em pó a gosto",
+      "1 fio de azeite de boa qualidade",
+      "azeitonas verdes picadas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes",
+      "Está pronto"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANDERSON SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302623-pasta-de-frango-para-sanduiche-natural.html"
+}

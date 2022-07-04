@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE MANDIOCA (MACAXEIRA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de mandioca ralada crua",
+      "3 ovos",
+      "1 copo de açúcar",
+      "2 copos (americanos) farinha trigo",
+      "1/2 copo (americano) de óleo",
+      "1 colher (sopa) de fermento em pó",
+      "200 ml leite de côco",
+      "1 colher (sopa) essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate no liquidificador a mandioca ralada, ovos, óleo, a essência de baunilha e o leite de côco até obter uma mistura lisa e homogênea.",
+      "Misture com o açúcar e a farinha de trigo peneirados em um recipiente a parte até formar uma massa de cor homogênea.",
+      "Por último, misture o fermento em pó.",
+      "Coloque numa assadeira redonda de centro furado. Deixa assar no forno em 180 graus durante 40 a 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HERIVELTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301575-bolo-de-mandioca-macaxeira.html"
+}

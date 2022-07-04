@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM CREMOSO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de milho escorridas",
+      "1/2 xícara (chá) de leite",
+      "1 lata de leite condensado",
+      "1 vidro de leite de coco (200 ml)",
+      "1 xícara (chá) de coco ralado",
+      "4 ovos",
+      "1 xícara (chá) de açúcar para caramelizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata o milho, o leite, o leite condensado, o leite de coco, o coco ralado e os ovos.",
+      "Coloque a mistura em uma forma de 22 cm de diâmetro com furo central, caramelizada com o açúcar.",
+      "Asse em banho-maria, no forno, preaquecido, a 200° C durante 1 hora.",
+      "Espere esfriar e logo a seguir, desenforme."
+    ]
+  },
+  "tempo_de_preparo": "75 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TATIANE MOREIRA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304273-pudim-cremoso-de-milho.html"
+}

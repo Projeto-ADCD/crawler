@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango",
+      "1 cebola média",
+      "1 caixa de creme de leite",
+      "1 dente de alho grande",
+      "1 colher de maionese",
+      "1 copo de ketchup",
+      "1 colher de sal",
+      "1 lata de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o peito de frango em cubinhos e deixe cozinhar um pouco ",
+      "Tire e deixe escorrer.",
+      "Amasse o alho com o sal e faça uma pasta junto com a maionese, tempere o frango.",
+      "Pique a cebola e frite bem, depois junte os cubinhos de frango e deixe dourar",
+      "Coloque o milho e um pouco de água para dar uma cozida.",
+      "Depois acrescente o ketchup e por último o creme de leite.",
+      "Sirva com batata palha e arroz ."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SIMARA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301836-estrogonofe-de-frango-delicioso.html"
+}

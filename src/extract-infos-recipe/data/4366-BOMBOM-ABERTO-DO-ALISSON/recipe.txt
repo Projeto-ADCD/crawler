@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOMBOM ABERTO DO ALISSON",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 barras de chocolate meio amargo",
+      "2 caixas de creme de leite",
+      "2 caixas de leite condensado",
+      "4 bandeija de morango",
+      "1 colher (chá) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma travessa média e coloque os morango até cobrir todo o fundo",
+      "Coloque em uma panela 2 colheres de margarina e o leite condensado.",
+      "Leve ao fogo médio e mexa até começar a soltar da panela",
+      "É igual fazer brigadeiro, mas mexa bem para não agarrar no fundo e empelotar",
+      "Quando começar a soltar do fundo, coloque 1 caixa de creme de leite e mexa bem até misturar.",
+      "Depois vire na travessa em cima dos morangos, sem deixar cair muito em um lugar só pra não ficar enjoativo",
+      "Pegue uma vasilha de plástico e coloque as barras de chocolate quebradas dentro",
+      "Leve ao micro-ondas por 30 segundos, retire e mexa com uma colher.",
+      "Leve novamente por 30 segundos, retire e com a colher mexa novamente",
+      "Se ainda não estiver totalmente derretido, leve por mais 30 segundos.",
+      "Assim que estiver derretido, adicione na vasilha a caixa de creme de leite.",
+      "Mexa bem até misturar 100%",
+      "Vire na travessa por cima do creme de leite condensado que você fez, sem deixar excessos",
+      "Leve à geladeira por 15 minutos",
+      "Decore do seu gosto",
+      "Pode ser com morangos, uvas ou o que quiser ",
+      "Pode ser feita com abacaxi e com uva também",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALISSON SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301295-bombom-aberto-do-alisson.html"
+}

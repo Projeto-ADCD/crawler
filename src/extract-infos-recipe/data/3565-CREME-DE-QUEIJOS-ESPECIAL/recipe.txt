@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CREME DE QUEIJOS ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de frango (cortados em cubos)",
+      "200 g de queijo gorgonzola",
+      "200 g de queijo mussarela ralada",
+      "100 g queijo gouda ",
+      "100 g queijo camembert",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o frango com temperos a gosto (cebola, alho, pimenta e afins)",
+      "Acrescente os queijos um por vez e antes de derreter vai acrescentando o próximo",
+      "Depois que todos tiverem na panela, acrescente o creme de leite e mexa bem até dar o ponto de aligot",
+      ""
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se preferir mais líquido (caso for comer com massas) acrescente 100 ml de leite fresco"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA CAROLINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303125-creme-de-queijos-especial.html"
+}

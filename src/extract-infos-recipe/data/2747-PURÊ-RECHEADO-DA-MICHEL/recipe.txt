@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PURÊ RECHEADO DA MICHEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 batatas medias cozidas em água e sal",
+      "2 colheres cheias de farinha de trigo",
+      "1 colher bem cheia de margarina",
+      "1 ovo",
+      "100 g de salame fatiado e picado",
+      "100 g de queijo parmesão ralado em ralo grosso",
+      "100 g de mussarela ralada",
+      "frinha temperada o suficiente para forrar o pirex"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas descascadas e picadas em água e sal",
+      "Escorra bem e passe pelo espremedor",
+      "Junte o ovo, a margarina e a farinha e mexa bem.",
+      "Junte o salame e o queijo parmesão e misture tudo.",
+      "Unte muito bem um pirex com margarina e espalhe farinha temperada, deixando formar uma camada espessa de farinha.",
+      "Acomode todo o purê, espalhando por todo o pirex",
+      "Por cima, coloque a mussarela ralada e leve ao forno por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARISTELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304530-pure-recheado-da-michel.html"
+}

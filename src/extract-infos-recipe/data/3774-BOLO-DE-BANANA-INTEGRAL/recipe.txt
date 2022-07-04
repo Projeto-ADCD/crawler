@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BANANA INTEGRAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas",
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite semidesnatado",
+      "1 xícara de açúcar mascavo",
+      "1 xícara de farinha de arroz integral",
+      "1/2 xícara de aveia em flocos",
+      "1/2 xícara de farinha de linhaça",
+      "3 ameixas secas sem caroço",
+      "1 colher (chá) de fermento em pó",
+      "canela em pó a gosto",
+      "2 colheres (sopa) de açúcar mascavo para calda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o açucar da calda, adicione 4 bananas cortadas em rodelas e deixe caramelizar por uns 5min.",
+      "No liquidificador bata os ovos, as duas bananas restantes, o óleo e o leite.",
+      "Depois acrescente o açúcar e as ameixas e bata bem.",
+      "Enquanto isso já ligue o forno para aquecer, unte a forma com margarina e forre o fundo com as bananas caramelizadas",
+      "Em uma vasilha misture as farinhas e a aveia, adicione o conteúdo do liquidificador, misture bem e por último adicione o fermento e a canela em pó.",
+      "Despeje na forma e asse em forno médio por 40min."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "ANA LAURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302728-bolo-de-banana-integral.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "MOQUECA DE PEIXE COM CURRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pedaços médios de peixe de sua preferência sem espinha",
+      "4 batatas médias bem cozidas para dar o ponto do caldo",
+      "3 pimentões: amarelo, vermelho e verde (um de cada cor)",
+      "2 cebolas grandes picadas",
+      "3 tomates médios sem sementes picados",
+      "200 mg de ervilhas",
+      "4 dentes de alho amassados",
+      "suco de 1 limão para temperar o peixe",
+      "1 litro de leite de coco",
+      "400 mg de creme de leite",
+      "azeite ou óleo de coco",
+      "azeitonas verdes sem caroço e a gosto",
+      "coentro e folha de louro a gosto",
+      "sal, curry e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com o suco do limão, o sal e a pimenta e deixe marinando.",
+      "Amasse as batatas cozidas e reserve.",
+      "Refogue numa panela com o óleo de coco ou azeite os pimentões, cebolas, tomates e alhos.",
+      "Em seguida, acrescente o leite de coco, as folhas de louro e a batata amassada.",
+      "Mexa com uma colher até a batata incorporar no caldo.",
+      "Mexa de vez em quando para não grudar no fundo da panela.",
+      "Acrescente os pedaços de peixe, as ervilhas, as azeitonas e, deixe cozinhar por 10 minutos em fogo médio.",
+      "Antes de apagar o fogo acrescente o coentro. Deixe no fogo por mais uns 5 minutos.",
+      "Depois que apagar o fogo acrescente o creme de leite, mexa com cuidado para misturar o creme de leite e não partir os pedaços de peixe.",
+      "Pronto, pode servir e saborear esta receita deliciosa!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tamanho dos pedaços de peixe é a porção para cada pessoa e não podem ser finos porque vai despedaçar quando for cozinhar o peixe.\nO peixe deve estar descongelado ou pode ser fresco. Se for descongelar o peixe deve ser naturalmente e sem uso de microondas ou forno elétrico porque isso vai alterar a estrutura do peixe e pode se despedaçar ao cozinhá-lo.\nCuidado com o sal, lembre-se que normalmente as azeitonas já tem sal, aconselho pôr sal depois que colocar as azeitonas.\nO creme de leite vai quebrar um pouco o sal. São detalhes que fazem toda a diferença."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROSANGELA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300110-moqueca-de-peixe-com-curry.html"
+}

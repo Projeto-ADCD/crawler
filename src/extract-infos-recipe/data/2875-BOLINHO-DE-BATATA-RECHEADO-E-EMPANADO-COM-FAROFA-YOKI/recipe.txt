@@ -1,0 +1,56 @@
+{
+  "nome_receita": "BOLINHO DE BATATA RECHEADO E EMPANADO COM FAROFA YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de batata inglesa de casca rosa",
+      "1 colher (sopa) rasa de sal",
+      "4 colheres (sopa) cheias de farinha de trigo",
+      "1 colher (sopa) de salsinha picada",
+      "500 g de carne moída de boa qualidade",
+      "1 cebola média",
+      "2 dentes de alho espremidos",
+      "1 colher (sopa) de molho shoyu",
+      "1 tomate pequeno sem casca e sem sementes",
+      "2 colheres (sopa) de óleo",
+      "3 ovos cozidos",
+      "1 pacote de farofa com tempero",
+      "2 claras de ovo levemente batidas",
+      "óleo o suficiente para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas, lave e seque com papel-toalha",
+      "Corte em rodelas médias, coloque em um saco plástico transparente",
+      "Cozinhe em forno de micro-ondas potência média ou alta por 16 a 18 minutos, ou até que fique cozida e firme, sem desmanchar",
+      "Escorra e amasse no espremedor de batatas em um recepiente",
+      "Coloque o sal e a salsinha picadinha, misture bem com a batata e deixe esfriar",
+      "Depois de bem fria acrescente a farinha de trigo e misture bem",
+      "Com a mesa enfarinhada faça 10 bolinhas de tamanho iguais",
+      "Com a mão enfarinhada amasse cada bolinha na mão, achatando bem",
+      "Coloque 1 colher de recheio 1/4 da parte de ovo cozido cortado no comprimento e feche o bolinho apertando com as mãos, para unir bem a massa ",
+      "E assim sucessivamente, até que modele todos os bolinhos "
+    ],
+    "RECHEIO": [
+      "Pique a cebola e doure com o oléo",
+      "Acrescente o alho, a carne moida, o sal a gosto e o tomate bem picadinho",
+      "Refogue bem para que fique sem íquido",
+      "Por último, acrescente a salsinha picada e deixe esfriar bem para rechear os bolinhos"
+    ],
+    "EMPANAR": [
+      "Bata as 2 claras levemente, e com a mão passe a clara em cada bolinho,",
+      "Empane na farofa, apertando bem para pegar bem a farofa",
+      "Frite em óleo quente em uma panela funda, para que o óleo cubra os bolinhos",
+      "Frite 2 unidades por vez, pois são mto macios e delicados",
+      "Escorra bem e coloque em papel-toalha para absorver a gordura.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Rendimento: 10 Porções; Tempo de Preparo: recheio, montagem e fritura (1h30min)\nReceita enviada por Mari Lane Ribeiro Rochel"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304242-bolinho-de-batata-recheado-e-empanado-com-farofa-yoki.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MOUSSE DE CORTE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "4 colheres (sopa) de amido de milho",
+      "4 colheres de chocolate em pó",
+      "150 g de açúcar (so usar se o chocolate em pó for amargo, se for achocolatado não precisa)",
+      "1 litro de leite",
+      "300 g de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o amido no creme de leite na panela porém sem ligar o fogo com ajuda de um fouet",
+      "Dissolva o chocolate em pó nessa mistura e depois de bem misturado, coloque também o açúcar se for o caso.",
+      "Ligue o fogão e coloque todo o leite e misture sem parar até dar um ponto mais grossinho, quando comecar a borbulhar misture por mais 4 minutos.",
+      "Desligue o fogo e coloque os 300 g de chocolate meio amargo picado em pedacos e mexa até misture bem",
+      "Colouque na forma de bolo inglês ainda quente, se for de silicone não precisa untar, sendo aluminio ou teflon",
+      "Unte com um pouco de óleo e leve à geladeira por pelo menos 4 horas.",
+      "Quando ja estiver durinho, desinforme e peneire chocolate em pó por cima pra dar o toque final ",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CARLA RORIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305589-mousse-de-corte-de-chocolate.html"
+}

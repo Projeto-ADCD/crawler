@@ -1,0 +1,21 @@
+{
+  "nome_receita": "QUE SABOR DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "1/2 caixa de morangos",
+      "2 barras (grandes) de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate e deixe separado.",
+      "Bata no liquidificador os morangos e e o leite condensado, até que vire um creme rosado.",
+      "Separe em um refratário uma camada de chocolate meio amargo derretido e outra de leite condensado com morango e vai revezando."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANA LAURA PIMENTEL MOSTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304541-que-sabor-de-morango.html"
+}

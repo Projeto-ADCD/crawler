@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BRIGADEIRO DE CHURROS FÁCIL DA JOSY",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa do brigadeiro branco",
+      "1 lata ou caixa de leite condensado",
+      "1 colher de margarina",
+      "100 g de chocolate branco",
+      "Recheio",
+      "200 g de doce de leite",
+      "Cobertura",
+      "açúcar granulado a gosyp",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque os ingredientes do brigadeiro e mexa bem em fogo brando até desprender do fundo da panela.",
+      "Depois de pronto, coloque em um prato untado com margarina e deixe esfriar para poder montar",
+      "Pegue uma colher grande da massa, coloque na palma da mão como se fosse um copinho e coloque 1 colher pequena de doce de leite dentro da massa",
+      "Forme bolinhas, passe a mesma no açúcar e na canela",
+      "Finalize colocando um pouco do doce de leite em cima e 1 ou 2 paus de canela.",
+      "Saboreie com moderação."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JOSY LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301806-brigadeiro-de-churros-facil-da-josy.html"
+}

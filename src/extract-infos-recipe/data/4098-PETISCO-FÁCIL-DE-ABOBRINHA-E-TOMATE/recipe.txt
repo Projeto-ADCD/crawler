@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PETISCO FÁCIL DE ABOBRINHA E TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha média em rodelas finas",
+      "1 tomate médio em rodelas finas",
+      "20 g de queijo ralado parmesão",
+      "azeite de oliva",
+      "orégano a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma forma unte com um pouco de azeite e preencha com as rodelas de abobrinha",
+      "Coloque um pouco de queijo parmesão junto com o sal e orégano, se preferir.",
+      "Repita com o tomate.",
+      "Deixe no forno a 180° C 210º C de 15 a 20 minutos.",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301873-petisco-facil-de-abobrinha-e-tomate.html"
+}

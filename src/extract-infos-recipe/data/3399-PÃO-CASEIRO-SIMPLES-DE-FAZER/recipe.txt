@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PÃO CASEIRO SIMPLES DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "310 ml de leite morno",
+      "5 colheres (sopa) de açúcar",
+      "10 g de fermento biológico seco (caso use o fresco 15 g)",
+      "5 xícaras de farinha trigo",
+      "3 gemas",
+      "1 colher (sopa) de óleo",
+      "1 colher (sopa) de margarina ou manteiga",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento no leite",
+      "Acrescente o óleo , açúcar , sal , gemas e misture.",
+      "Acrescente aos poucos a farinha e mexa com uma colher .",
+      "Quando ficar difícil de mexer comece a sovar com a mão .",
+      "Sovar a massa aproximadamente 10 minutos para ficar lisa e macia .",
+      "Deixe a massa descansar ate dobrar de volume .( cubra a massa com um pano ou plástico filme para não ressecar a massa )",
+      "Depois da massa ter dobrado de volume corte pequenas bolinhas abra e modele em formato de pão.",
+      "Deixe descansar até dobrar de volume ",
+      "Asse a 180°C graus por 20 minutos ou até dourar por cima ",
+      "Assim que assado, com o pão ainda quente, pincele manteiga ou margarina para dar brilho ",
+      "Caso queira fazer com creme ou farofa antes de assar faça um corte no meio do pão com cuidado para não murchar a massa, acrescente o creme de sua preferência, a farofa por cima do creme e só assar",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observação: quanto mais mole a massa ficar mais macio ficará o pão, acrescente aos poucos a farinha e sove devagar até a massa desgrudar da mão. Ela ficará um pouco mole, mas não irá grudar na mão ou superfície que está sendo sovada."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303441-pao-caseiro-simples-de-fazer.html"
+}

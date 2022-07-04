@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO COM MILHO DE CONSERVA E LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho em conserva (escorrido)",
+      "1 garrafa pequena de leite de coco",
+      "2 colheres (sopa) de margarina",
+      "1 xícara de fubá",
+      "1 xícara de açúcar",
+      "3 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador, exceto o fermento, e bata até ficar homogêneo.",
+      "Depois de tudo misturado, acrescente o fermento mas nao bata no liquidificador, mexa com uma colher.",
+      "Passe margarina em uma forma e polvilhe fubá (não utilize trigo pois a massa vai grudar).",
+      "Coloque a massa na forma e asse em forno pré aquecido a 180 graus por aproximadamente 35 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PRISCILA DAYZE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301137-bolo-com-milho-de-conserva-e-leite-de-coco.html"
+}

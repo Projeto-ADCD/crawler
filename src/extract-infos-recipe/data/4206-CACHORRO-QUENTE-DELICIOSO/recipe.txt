@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CACHORRO QUENTE DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "1/2 cebola picadinha",
+      "2 pimentas de cheiro picadas",
+      "1/2 pimentão picado",
+      "1/2 tomate picado",
+      "cheiro verde a gosto picado",
+      "1 colher (sopa) de azeite de oliva ou óleo",
+      "pimenta moída",
+      "1 sachê de milho verde",
+      "250 g de salsicha",
+      "1 sachê de molho de tomate",
+      "sal a gosto",
+      "1/2 copo de água",
+      "1 pacote de pão para cachorro quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia tempere a carne com a pimenta moída e sal, deixe descansar.",
+      "Em uma panela, coloque o óleo ou azeite e refogue a cebola, a pimenta de cheiro, o pimentão e o tomate.",
+      "Coloque a carne temperada para refogar e deixe por uns 5 minutos, mexa de vez enquanto.",
+      "Jogue o milho e as salsichas na panela e misture, acrescente o molho de tomate e água e deixe ferver.",
+      "Apague o fogo e coloque o cheiro verde.",
+      "Corte os pães e coloque o molho com salsicha e sirva quentinho."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode adicionar o que quiser, aqui na minha cidade comemos com batata palha, fica uma delícia e dá uma crocância a mais."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MRCAKETHE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301577-cachorro-quente-delicioso.html"
+}

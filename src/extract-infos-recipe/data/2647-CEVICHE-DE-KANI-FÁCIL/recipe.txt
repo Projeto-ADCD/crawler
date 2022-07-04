@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CEVICHE DE KANI FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pepino",
+      "2 cebolas roxas",
+      "1 pacote de kani kama",
+      "1 pimenta vermelha/malagueta média",
+      "1/2 colher (sopa) de hondashi",
+      "suco de 3 limões"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o pepino e o kani kama em cubos pequenos.",
+      "Corte a cebola roxa em anéis bem finos e depois, ao meio, ficando uma meia lua bem fininha.",
+      "Pique a pimenta em cubinhos bem pequenos, quase moida.",
+      "Coloque todos os ingredientes cortados, mais o suco dos limões e o hondashi (se quiser) em um recipiente grande o suficiente para conseguir misturá-los bem.",
+      "Misture bastante todos os ingredientes e leve à geladeira por 20 minutos antes de servir, para que o kani e os demais ingredientes deem uma cozinhada no suco do limão."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELA NORA VENTURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304743-ceviche-de-kani-facil.html"
+}

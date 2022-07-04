@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DE REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 repolho ralado",
+      "200 g de bacon",
+      "4 rodelas de abacaxi picada em cubos ou desfiadas",
+      "2 dentes de alho picados",
+      "1 cebola média picada",
+      "sal a gosto",
+      "pimenta calabresa a gosto",
+      "farinha de mandioca até dar ponto",
+      "1 colher (sopa) de margarina sem sal ou azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque a margarina ou azeite, frite o bacon, a cebola e o alho",
+      "Com o bacon bem douradinho, acrescente o repolho, deixe dar uma leve refogada",
+      "Acrescente o sal e a pimenta ",
+      "Depois aos poucos adione a farinha de mandioca até ficar uma farofa bem soltinha e sequinha",
+      "Por último, acrescente cheiro-verde e o abacaxi picado ",
+      "Coloque em uma travessa e sirva."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MIRIAN SIMEIA DA SILVA VIDAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303844-farofa-de-repolho.html"
+}

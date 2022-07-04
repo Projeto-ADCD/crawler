@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MACARRÃO CREMOSO DA JHESSY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão modelo parafuso",
+      "1/2 kg de carne moída",
+      "1 cebola picada",
+      "1 tomate picado",
+      "1 alho",
+      "1/2 lata do extrato de tomate",
+      "1 creme de leite",
+      "1 lata de milho",
+      "150 g de presunto e mussarela ",
+      "salsinha a gosto",
+      "1 colher de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aqueça o óleo, refogue a cebola em seguida o alho e o tomate, adicione a carne moída, e tempere a seu gosto.",
+      "Depois de refogada acresente o extrato de tomate e um copo de água, acerte o sal e deixe levantar fervura.",
+      "Após o molho levantar fervura, reserve.",
+      "Cozinhe o macarrão normalmente com água, óleo e sal, deixando-o no ponto al dente.",
+      "Misture o creme de leite e o milho ao molho.",
+      "Em uma travessa faça uma camada do molho, outra do macarrão (como se fosse uma lasanha), finalize com o restante do molho, cubra com o presunto e massarela e polvilhe salsinha.",
+      "Leve ao forno por 10 minutos ou até gratinar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JHESSICA CIBELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302993-macarrao-cremoso-da-jhessy.html"
+}

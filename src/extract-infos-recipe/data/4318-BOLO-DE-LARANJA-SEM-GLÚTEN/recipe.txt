@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE LARANJA SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1/2 xícara de óleo",
+      "1 xícara de suco de laranja",
+      "raspas de 1/2 laranja",
+      "1 xícara de farinha de arroz",
+      "1 xícara de polvilho doce",
+      "2 xícara de açúcar",
+      "1colher (café) de goma xantana",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o ovo, o óleo e o suco da laranja",
+      "Bata por 1 minuto",
+      "Depois de bater, misture as raspas da laranja,a farinha de arroz, o polvilho doce, o açúcar, a goma xantana e o sal",
+      "Bata tudo por 3minutos",
+      "Misture o fermento com uma colher",
+      "Preaqueça o forno e coloque pra assar aproximadamente por 45 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FERNANDA SUELEN DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301378-bolo-de-laranja-sem-gluten.html"
+}

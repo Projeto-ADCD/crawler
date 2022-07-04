@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CARNE DE PANELA MOLINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de acém em cubos",
+      "1 tomate grande",
+      "1 cebola grande",
+      "dente de alho a gosto",
+      "sal a gosto",
+      "tempero de carne a gosto",
+      "2 colheres de azeite",
+      "coentro a gosto",
+      "5 batatas grande"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, adicione o azeite, o alho, a cebola, o tomate e deixe dourar por alguns minutinhos.",
+      "Logo em seguida, coloque a carne e deixe dourar por uns 5 minutos.",
+      "Depois adicione os temperos, sal e coetro e cubra a carne com água (apenas cubra)",
+      "Feche a panela e quando pegar a pressão, conte 25 minutos.",
+      "Após 25 minutos, abra a panela com cuidado e se precisar adicione um pouco mais de água.",
+      "Feche a panela novamente, assim que pegar pressão conte 20 minutos",
+      "Depois abra a panela e adicione as batatas por mais 5 minutos.",
+      "Sempre em fogo alto.",
+      "Fica bem molinha, soltando."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAROLINE SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302341-carne-de-panela-molinha.html"
+}

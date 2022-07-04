@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE BISCOITO COM CHOCOLATE E COCO",
+  "ingredientes": {
+    "CREME DE COCO:": [
+      "1 lata leite condensado",
+      "1 lata creme de leite",
+      "1 litro de leite",
+      "2 colheres (cheias) de maisena ",
+      "300 g de coco ralado"
+    ],
+    "CREME DE CHOCOLATE:": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 litro de leite",
+      "2 colheres (cheias) de maisena ",
+      "100 g de chocolate meio amargo",
+      "3 colheres de chocolate em pó",
+      "6 pacotes de biscoito de maisena (ou de sua preferência)",
+      "3 bandejas de morango"
+    ]
+  },
+  "passos": {
+    "RECHEIO:": [
+      "Em uma panela grande acrescente o leite e dilua a maisena no leite",
+      "Acrescente o leite condensado e o coco",
+      "Ligue o fogo alto e mexa sem parar",
+      "Quando o creme engrossar, acrescente o creme de leite e deixe e cozinhe mais um pouco",
+      "Repita os mesmos passos com o creme de chocolate"
+    ],
+    "MONTAGEM:": [
+      "Intercale entre uma camada de biscoito creme de coco, morango e o creme de chocolate e decore do seu jeito."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LAISA SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304017-torta-de-biscoito-com-chocolate-e-coco.html"
+}

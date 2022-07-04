@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA DE PERNIL COM ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de manteiga",
+      "1 colher (sopa) de azeite",
+      "3 dentes de alho amassado",
+      "1\\2 cebola picada",
+      "4 pimentas biquinho cortadas em tiras",
+      "1\\2 colher (sopa) de páprica picante",
+      "2 xícaras de pernil desfiado",
+      "2 xícaras de abacaxi picado",
+      "2 xícaras de farinha de mandioca grossa ",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira grande, fogo médio, coloque o azeite a manteiga e o alho",
+      "Deixe dourar levemente.",
+      "Acrescente a cebola, a páprica e a pimenta biquinho mexa bem e em seguida adicione o pernil e o abacaxi",
+      "Mexendo sempre até reduzir um pouco do líquido que estiver na frigideira, mais ou menos minutos.",
+      "Desligue o fogo",
+      "Agora vá adicionando aos poucos a farinha de mandioca grossa e o sal a gosto.",
+      "Agora e só servir essa delícia.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BEATRIZ CAMPELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304067-farofa-de-pernil-com-abacaxi.html"
+}

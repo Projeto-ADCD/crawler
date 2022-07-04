@@ -1,0 +1,21 @@
+{
+  "nome_receita": "GELEIA DE BRILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de água",
+      "2 caixinhas de gelatina (sabor de sua preferencia)",
+      "1 colher (sopa) cheia de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes na panela e leve ao fogo",
+      "Mexa até engrossar e ficar com aspecto de calda.",
+      "Se quiser mais firme, coloque 2 colheres de amido de milho."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DANE DAMASCENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302589-geleia-de-brilho.html"
+}

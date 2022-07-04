@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CUPCAKE NA AIRFRAY DA LUCIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 xícara de açúcar",
+      "1/2 xícara (chá) de farinha de trigo",
+      "1/3 xícara (chá) de óleo",
+      "2 colheres (sopa) de leite",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes e deixe por último o fermento, misture levemente.",
+      "Preaqueça a airfray a 200° C por 6 minutos",
+      "Deixe 12 minutos a 160° C, dependendo da airfray"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LUCIANA GOES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299975-cupcake-na-airfray-da-luciana.html"
+}

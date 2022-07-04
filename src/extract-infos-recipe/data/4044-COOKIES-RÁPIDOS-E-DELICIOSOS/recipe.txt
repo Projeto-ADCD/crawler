@@ -1,0 +1,33 @@
+{
+  "nome_receita": "COOKIES RÁPIDOS E DELICIOSOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/4 de xícara de farinha de trigo (sem fermento)",
+      "1 ovo",
+      "3/4 de xícara de açúcar mascavo",
+      "1/2 xícara de açúcar cristal",
+      "1/2 colher (chá) de bicarbonato de sódio",
+      "1 colher (chá) de sal",
+      "1/2 xícara de margarina ou manteiga derretida",
+      "200 g de chocolate meio-amargo (ou o de preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, misture o açúcar mascavo, o açúcar cristal, o sal e a margarina derretida até obter um creme homogêneo",
+      "Em seguida, adicione o ovo e bata novamente até ficar homogêneo",
+      "Agora, peneire a farinha de trigo e o bicarbonato de sódio e misture suavemente até que toda massa esteja homogênea",
+      "Adicione metade do chocolate picado à massa e misture",
+      "Leve a massa à geladeira por no mínimo 30 minutos",
+      "Faça bolinhas e coloque em uma assadeira forrada com papel-manteiga e leve ao forno prequecido a 180° C de 10 a 12 minutos",
+      "Use o resto do chocolate para enfeitar a parte de cima dos cookies"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "*Observação: os cookies devem ser retirados quando as bordas começarem a dourar. O meio ainda vai estar macio mas irá ficar no ponto depois"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "AMANDA FONSECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302075-cookies-rapidos-e-deliciosos.html"
+}

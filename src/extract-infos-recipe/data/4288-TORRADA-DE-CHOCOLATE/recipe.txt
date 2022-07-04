@@ -1,0 +1,26 @@
+{
+  "nome_receita": "TORRADA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão francês",
+      "1 barra de chocolate ao leite ou branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue 1 pão frances e corte ao meio.",
+      "Coloque 4 ou 5 quadradinhos de chocolate em cada metade (ou a gosto)",
+      "Coloque as duas metades (fechadas) na torradeira por uns 30 segundos ate o pão ficar mais crocante",
+      "Abra as metades, pegue uma faca e fique mexendo o chocolate até ele ficar derretido (não precisa ser totalmente)",
+      "Além de fazer isso, aproxime a parte de cima da torradeira sobre as torradas abertas, assim o chocolate derrete mais rápido",
+      "Feche e deixe mais um pouco.",
+      "Pronto!",
+      "As torradinhas ficam maravilhosas.",
+      "Eu fiz só uma porção, mas se você quer fazer mais, faça"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRELLA MOREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301457-torrada-de-chocolate.html"
+}

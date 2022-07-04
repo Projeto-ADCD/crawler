@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PIRARUCU DE CASSACA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de pirarucu ja desalgado",
+      "1 kg de farinha ova",
+      "200 ml de leite de coco",
+      "5 banana-da-terra",
+      "uvas passas a gosto",
+      "azeitonas a gosto",
+      "1 pacote de batata palha",
+      "5 ovos de cordona",
+      "azeite de dendê pra fazer a farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a farinha com o leite de coco, leve ao forno",
+      "Quando começar a dourar, tire e reserve",
+      "Leve ao forno o pirarucu dessalgado, deixe assar e tire do forno, reserve",
+      "Frite as bananas e reserve"
+    ],
+    "MONTAGEM": [
+      "Primeiro coloque a farinha, depois o pirarucu, em seguida as bananas e depois as uvas passas, as azeitonas e a batata palha",
+      "Faça 3 camadas depois, na última coloque os ovos em cima para decorar"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "REJANE SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303731-pirarucu-de-cassaca.html"
+}

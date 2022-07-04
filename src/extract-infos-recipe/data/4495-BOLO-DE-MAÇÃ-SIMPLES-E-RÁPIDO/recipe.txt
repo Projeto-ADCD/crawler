@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ SIMPLES E RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 xícara de leite",
+      "1 colher de canela em pó",
+      "3 xícara de farinha de trigo",
+      "1 pitada de sal",
+      "1 colher de fermento químico",
+      "4 maçãs",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com manteiga e farinha de trigo.",
+      "Lique seu forno a 180° C graus.",
+      "Corte 2 e 1/2 maçãs em fatias meia lua, reserve.",
+      "O restante das maçãs, corte em cubos e também reserve.",
+      "Bata os ovos e acrescente o açúcar, misture bem e adicione mais o óleo até ficar uma massa homôgenea.",
+      "Adicione o leite e misture bem, acrescente uma pitada de sal e uma colher de canela em pó, sempre misturando bem.",
+      "Acresente na massa a farinha de trigo aos poucos e sempre misturando bem a cada xícara de trigo.",
+      "Misture os cubos de maçãs na massa e em seguida, adicione o fermento químico.",
+      "Deposite a massa na forma e na superfície da massa organize as fatias de maçãs, em espiral ou use sua criatividade.",
+      "Leve ao forno por 40 a 45 minutos.",
+      "Depois de pronto, sirva quando quiser.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DENISE S. PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300994-bolo-de-maca-simples-e-rapido.html"
+}

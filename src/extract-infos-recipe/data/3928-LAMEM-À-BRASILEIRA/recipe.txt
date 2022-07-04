@@ -1,0 +1,50 @@
+{
+  "nome_receita": "LAMEM À BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 xícara de bacon picado",
+      "1 filé de frango",
+      "1/2 cebola picada",
+      "1/2 cenoura em rodela",
+      "1 colher de gengibre ralado",
+      "3 dentes de alho picado",
+      "10 ml de cachaça",
+      "1 colher (café) de glutamato de sódio",
+      "1 colher (café) de açúcar",
+      "sal e pimenta a gosto",
+      "1/2 xícara de shitake",
+      "3 colheres de molho shoyu",
+      "1/2 colher de margarina",
+      "1 pacote de miojo",
+      "azeite para refogar",
+      "1 litro de água",
+      "2 colheres (sopa) de cebolinha picada",
+      "2 colheres (sopa) de acelga picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o bacon, o alho e a cebola no azeite.",
+      "Quando o bacon já estiver dourado, adicione o gengibre e a água.",
+      "Adicione o tempero do miojo, a cachaça, o açúcar, 2 colheres de shoyu, sal e pimenta a gosto.",
+      "Reduza para o fogo baixo, tampe e deixe cozinhar por 60 minutos.",
+      "Em uma panela a parte, coloque água para ferver (a quantidade de água deve ser suficiente para cobrir o ovo).",
+      "Quando a água estiver fervendo adicione o ovo, que deve está em temperatura ambiente para não rachar.",
+      "Deixe o ovo cozinhar por 5 minutos apenas, para ele ficar cozido por fora e molinho por dentro (ovo mole), reserve.",
+      "Em uma panela a parte cozinhe o miojo conforme instrução da embalagem, escorra e reserve.",
+      "Tempere o frango com sal e pimenta a gosto.",
+      "Em uma frigideira, aqueça um fio de azeite e frite o filé de frango até ficar dourado.",
+      "Fatie e reserve.",
+      "Utilize a frigideira usada para fritar o filé para grelhar o shitake.",
+      "Quando começar a soltar a água, adicione 1 colher de shoyu.",
+      "Deixe em fogo baixo por 1 minuto sempre mexendo e reserve.",
+      "Para montar o prato",
+      "Em um prato fundo, arrume o ninho de miojo, as fatias de frango, a acelga, o ovo e coloque o shitake sobre o macarrão.",
+      "Regue com bastante caldo que ficou preparando por 60 minutos, salpique a cebolinha e sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BARBARA RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302354-lamem-a-brasileira.html"
+}

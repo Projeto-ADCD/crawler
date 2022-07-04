@@ -1,0 +1,23 @@
+{
+  "nome_receita": "ABÓBORA GRELHADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 de uma abóbora",
+      "azeite de Oliva",
+      "sal a gosto",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, coloque o azeite e deixe esquentar bastante.",
+      "Enquanto isso, corte a abóbora em circulos e tempere.",
+      "Depois adicione a abóbora na frigideira e tampe.",
+      "Quando você ver que a abóbora já esta meio cozida, destampe e espere pegar cor."
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA FLOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304796-abobora-grelhada.html"
+}

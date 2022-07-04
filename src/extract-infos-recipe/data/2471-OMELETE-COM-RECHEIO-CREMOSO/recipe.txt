@@ -1,0 +1,27 @@
+{
+  "nome_receita": "OMELETE COM RECHEIO CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 fatias de presunto ou peito de peru",
+      "2 fatias de mussarela",
+      "tempero a gosto",
+      "1 fio de azeite",
+      "creme de ricota a gosto",
+      "óleo (para fritar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos",
+      "Quantos estiverem bem misturados, adicione os outros ingredientes",
+      "Tempere a gosto",
+      "Quanto tudo estiver bem misturado, aqueça uma frigideira antiaderente",
+      "Coloque o óleo e frite."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARIA FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305132-omelete-com-recheio-cremoso.html"
+}

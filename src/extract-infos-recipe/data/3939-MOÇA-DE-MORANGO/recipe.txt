@@ -1,0 +1,38 @@
+{
+  "nome_receita": "MOÇA DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite líquido",
+      "120 ml de leite condensado",
+      "250 ml de calda de morango",
+      "vários morangos picadinhos (entre uma 1 ou 2 caixas de morango)",
+      "Calda de morango:",
+      "500 g de morangos lavados e fatiados",
+      "1/4 de xícara de açúcar – ajuste para mais ou menos de acordo com a sua preferência",
+      "1/4 de xícara de água",
+      "suco de 1/2 limão",
+      " ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda de morango",
+      "Misture todos os ingredientes em uma panela pequena em fogo médio.",
+      "Deixe ferver e cozinhe em fogo baixo de 20-30 minutos, depois coloque no liquidificador",
+      "Bata até ficar homogêneo",
+      "Moça de morango",
+      "Coloque o leite líquido e o leite condensado na panela (com fogo ligado)",
+      "Fique mexendo sempre (com uma colher de pau) até levantar fervura (aproximadamente 15 minutos)",
+      "Quando ferver, coloque a calda de morango",
+      "Fique misturando até que fique bem cremosa",
+      "Depois coloque os morangos picados ",
+      "Misture por 10 minutos",
+      "Passe o doce para um refratário, deixe esfriar bem e sirva colheradas em pote pequeno de vidro."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MICHELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302331-moca-de-morango.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BACALHAU AO CREME GRATINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau, sem sal e desfiado (e/ou filé de merluza)",
+      "200 g de camarão pequeno (ou tempero camarão em pó)",
+      "200 g de creme de leite",
+      "1 litro de leite frio",
+      "4 colheres de azeite",
+      "3 colheres de farinha de trigo",
+      "3 colheres de manteiga",
+      "8 batatas",
+      "sal e pimenta-do-reino a gosto",
+      "farinha de rosca para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela refogue o bacalhau com azeite e camarão por 5 minutos, depois reserve",
+      "Corte as batatas em rodelas (tipo moeda), numa frigideira frite em óleo quente, escorra bem e reserve",
+      "Em outra panela prepare o molho branco",
+      "Coloque 1 colher de azeite, a manteiga e frite a farinha de trigo até dourar",
+      "Tempere com sal e pimenta e coloque o leite aos poucos, mexa bem rápido até ficar cremosa",
+      "Desligue o fogo e acrescente o creme de leite, mexa novamente e reserve"
+    ],
+    "MONTAGEM": [
+      "Em uma travessa refratária monte o prato nesta ordem: creme, bacalhau, batata",
+      "Repita, até finalizar com creme, então polvilhe farinha de rosca",
+      "Asse em fogo moderado 180°C por quinze minutos, sirva acompanhado de arroz com castanhas"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALOISIO SABADIN DE MOURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303588-bacalhau-ao-creme-gratinado.html"
+}

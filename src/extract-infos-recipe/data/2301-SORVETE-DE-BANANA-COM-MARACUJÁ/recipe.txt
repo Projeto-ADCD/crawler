@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE DE BANANA COM MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas congeladas",
+      "polpa de meio maracujá",
+      "canela em pó a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador",
+      "Coloque no congelador pra gelar por mais ou menos duas horas",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ELIZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305535-sorvete-de-banana-com-maracuja.html"
+}

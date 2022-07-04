@@ -1,0 +1,22 @@
+{
+  "nome_receita": "HOMÚS VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 Limão",
+      "2 e 1/2 copo de grão-de-bico",
+      "1/4 de cebola",
+      "5 colheres de azeite de oliva",
+      "1 colher de tahine (opcional)",
+      "sal (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador até ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MARIA FLOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304795-homus-vegano.html"
+}

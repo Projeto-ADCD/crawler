@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CREME DE BANANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "12 bananas nanica de bom tamanho",
+      "20 colheres (sopa) caldo de limão",
+      "4 colheres (sopa) de amido de milho",
+      "7 xícaras (chá) de água",
+      "3 xícaras (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esmague bem as bananas.",
+      "Junte imediatamente o caldo de limão para que a massa de banana não perca a cor.",
+      "Dissolva o amido de milho na água e adicione.",
+      "Por último junte o açúcar, mexendo bem.",
+      "Leve ao fogo e deixe ferver até apurar.",
+      "Espere esfriar.",
+      "Sirva em seguida"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MUNDO DAS MARAVILHAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304444-creme-de-banana.html"
+}

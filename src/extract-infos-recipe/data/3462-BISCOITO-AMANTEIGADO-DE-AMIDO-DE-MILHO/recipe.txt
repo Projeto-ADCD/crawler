@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO DE AMIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 colheres (sopa) margarina",
+      "1 caixinha de leite condensado (395ml)",
+      "500 g de amido de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela misture bem a margarina e o leite condensado",
+      "Depois acrescente todo o amido de milho e sove bem até obter uma massa homogênea",
+      "Faça bolinhas do tamanho que desejar e distribua pela forma",
+      "Com o auxílio de um garfo, amasse a bolinha lentamente para dar formato ao biscoito",
+      "Asse em forno preaquecido a 180° por aproximadamente 15 minutos",
+      "Próximo do tempo de forno, vire um dos bolinhos, se o fundo dele estiver dourado quase moreno, então estará no ponto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "FABIO HENRIQUE DE MORAIS BINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303311-biscoito-amanteigado-de-amido-de-milho.html"
+}

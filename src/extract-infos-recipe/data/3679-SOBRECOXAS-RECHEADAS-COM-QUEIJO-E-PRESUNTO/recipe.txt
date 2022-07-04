@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOBRECOXAS RECHEADAS COM QUEIJO E PRESUNTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxas e sobrecoxas desossadas e sem pele",
+      "2 dentes de alho amassado",
+      "1/2 cebola ralada",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "3 colheres (sopa) de extrato de tomate",
+      "1 colheres (sopa) de vinagre",
+      "Sumo de 1/2 laranja",
+      "3 colheres (sopa) de requeijão cremoso",
+      "1 colher (sopa) de cebola",
+      "6 fatias de muçarela",
+      "6 fatias de presunto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o alho, a cebola, o extrato, o vinagre, o sal e a pimenta",
+      "Tempere o frango com essa mistura, reservando um pouco do tempero para finalizar e deixe descansar por 20 minutos.",
+      "Misture o creme de cebola com o requeijão e passe no meio do frango, recheando cada pedaço com 1 fatia de queijo e de presunto.",
+      "Feche com palitos e arrume em uma assadeira untada.",
+      "Misture o sumo da laranja com o tempero que sobrou do frango e regue os pedaços.",
+      "Cubra com papel-alumínio e asse em forno moderado por 25 minutos",
+      "Retire o papel e deixe dourar.",
+      "A laranja vai deixar o frango macio e suculento, mas não exagere"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "VERÔNICA BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302926-sobrecoxas-recheadas-com-queijo-e-presunto.html"
+}

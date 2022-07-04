@@ -1,0 +1,37 @@
+{
+  "nome_receita": "ROSCA DE LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 kg de trigo",
+      "15 g de melhorador",
+      "10 g de sal",
+      "150 g de açúcar",
+      "30 g de fermento seco",
+      "100 g margarina",
+      "2 ovos",
+      "água",
+      "Cobertura:",
+      "margarina derretida",
+      "100 g de leite em pó",
+      "100 g de açúcar confeiteiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Misture todos os ingredientes",
+      "Sove a massa por 10 minutos",
+      "Deixe descansar por 10 minutos",
+      "Trance a massa ou faça caracol",
+      "Asse no forno por 10 minutos a 180ºC",
+      "Cobertura:",
+      "Misture todos os ingredientes",
+      "Polvilhe por cima da massa pronta"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303220-rosca-de-leite-ninho.html"
+}

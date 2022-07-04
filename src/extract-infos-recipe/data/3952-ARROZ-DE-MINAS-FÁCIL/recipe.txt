@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ DE MINAS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de manteiga",
+      "1/2 maço de couve picada",
+      "1 colher (sopa) de azeite",
+      "1 linguiça calabresa fina em cubos",
+      "3 ovos",
+      "2 xícaras de arroz cozido",
+      "1/2 pimenta dedo de moça picada",
+      "30 g de batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, aqueça a manteiga, junte a couve e mexa até que fique cozida \"al dente\"",
+      "Reserve.",
+      "Em uma panela, aqueça o azeite e doure a linguiça.",
+      "Acrescente os ovos e mexa bem até ficarem cozidos.",
+      "Misture o arroz, a pimenta e por último, a batata palha.",
+      "Sirva com a couve e decore com mais batata palha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROSANA CARMO FADELLI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302312-arroz-de-minas-facil.html"
+}

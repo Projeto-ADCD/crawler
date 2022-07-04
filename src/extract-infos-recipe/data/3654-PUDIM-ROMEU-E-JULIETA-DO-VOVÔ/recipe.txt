@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PUDIM ROMEU E JULIETA DO VOVÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1 lata de leite integral",
+      "1 lata de queijo parmesão ralado na hora.",
+      "2 copos de requeijão ",
+      "5 ovos",
+      "3 colheres (sopa) de açúcar",
+      "1 lata de goiabada",
+      "2 copos de água",
+      "rum (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o leite condensado, o leite, o queijo, o requeijão e os ovos no liquidificador.",
+      "Coloque água numa panela de pressão que caiba uma forma de 22cm de diâmetro com furo.",
+      "Use o açúcar para fazer uma calda na própria forma do pudim.",
+      "Despeje o conteúdo na forma e coloque sobre a panela",
+      "Com o fogo baixo, deixe aproximadamente 60 minutos",
+      "Cubra a forma com papel aluminio ou use uma tampa de panela comum.",
+      "Espere esfriar e leve a geladeira por aproximademente 2 horas.",
+      "Numa panela pequena, derreta a goiabada com dois copos de agua (se quiser, acrescente uma dose de rum).",
+      "Deixe esfriar e leve a geladeira.",
+      "Depois de desenformar o pudim, acrescente a calda fria de goiabada."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALE POLYDORO SENA MAIA CAMARGO DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302970-pudim-romeu-e-julieta-do-vovo.html"
+}

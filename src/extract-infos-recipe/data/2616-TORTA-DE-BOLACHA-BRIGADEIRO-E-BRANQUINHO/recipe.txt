@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE BOLACHA BRIGADEIRO E BRANQUINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de margarina",
+      "4 colheres (sopa) de achocolatado",
+      "1 pacote de coco",
+      "1 pacote de granulado",
+      "1 pacote de bolacha maria de chocolate",
+      "500 ml de leite",
+      "2 caixinhas de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Recheio de brigadeiro",
+      "Coloque em fogo médio o achocolatado, a margarina e o leite condensado",
+      "Mexa sem parar, aos poucos adicione uma colher (sopa) de leite até ficar homogêneo",
+      "Reserve",
+      "Recheio de branquinho",
+      "Coloque em fogo médio o leite condensado, a margarina e o coco",
+      "Mexa sem parar, aos poucos adicionar uma colher (sopa) de leite até ficar homogêneo",
+      "Reserve",
+      "Coloque um pouco do leite em um prato fundo e molhe as bolachas (cuidar para não se desmanchar)",
+      "Em uma travessa faça uma camada de bolacha e outra de branquinho",
+      "Mais uma camada de bolacha e outra de brigadeiro",
+      "Repetir quantas vezes for necessário para cobrir a travessa",
+      "Por fim, coloque brigadeiro ou branquinho e peneire granulado com coco por cima",
+      "Deixe gelar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HELLEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304798-torta-de-bolacha-brigadeiro-e-branquinho.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de arroz cozido",
+      "1 xícara de farinha de trigo",
+      "3 ovos",
+      "1 xícara de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o arroz bata por 1 minuto",
+      "Depois pegue a cebola e o coentro e bata no liquidificador ou use seu próprio tempero",
+      "Em seguida coloque o tempero de sua preferência no arroz e misture ",
+      "Depois pegue a farinha de trigo e o ovo, adicione no arroz e misture bem até dar liga",
+      "Em seguida adicione o queijo mussarela e misture",
+      "Frite e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JACIRA MARIA BARBOSA DA SILVA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303374-bolinho-de-arroz-com-queijo.html"
+}

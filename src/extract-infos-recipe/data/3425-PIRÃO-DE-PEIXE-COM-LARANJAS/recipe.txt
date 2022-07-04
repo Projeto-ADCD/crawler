@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PIRÃO DE PEIXE COM LARANJAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 posta de peixe (pode ser cabeça)",
+      "3 laranjas em suco",
+      "3 dentes de alho",
+      "1 cebola",
+      "3 colheres (sopa) de extrato de tomate",
+      "1/2 pimentão",
+      "coentro a gosto",
+      "sal a gosto",
+      "pimenta a gosto ",
+      "raspas de laranja a gosto",
+      "3 colheres (sopa) de farinha de mandioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o alho e a cebola",
+      "Coloque o peixe e um pouco de água",
+      "Deixe cozinhar por 5 minutos",
+      "Coloque os demais ingredientes e assim que levantar fervura coloque a farinha e misture até dar ponto",
+      "Após apagar o fogo, coloque as raspas de laranjas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOHN WAYNE FLÁVIA AZEVEDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303391-pirao-de-peixe-com-laranjas.html"
+}

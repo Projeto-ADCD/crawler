@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CARNE AO MOLHO COM ABÓBORA CABOTIÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abóbora cabotiá pequena",
+      "2 dentes de alho picados",
+      "1 colher grande de banha",
+      "500g de carne cortada em iscas",
+      "500g de cebola bem picada",
+      "500g tomate gaúcho picado",
+      "1 maço de temperos verdes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque a abóbora cabotiá e a corte em cubos não muito pequenos. Deixe de molho na água e reserve.",
+      "Numa panela somente humedeça o fundo com um pouco de banha e coloque a carne para ferver.",
+      "Entre 5 a 10 minutos de fervura, escorra esse caldo de carne e reserve. Volte ao fogo com a panela com a carne e coloque a banha restante, salgue ao seu gosto, ponha o alho e frite.",
+      "Acrescente um pouco de água quente e vai repetindo esse processo até a carne ficar macia.",
+      "Feito isso, coloque a cebola e doure bem ela. Depois, coloque o tomate gaúcho e vá mexendo de vez em quando até ele começar a desmanchar. Acrescente o caldo da carne e coloque a abóbora cabotiá no molho.",
+      "Se o molho estiver muito baixo, coloque um pouco de água, pois a abóbora solta bastante caldo, ou seja, não tape de água.",
+      "Mexa bem, acerte o sal, pimenta a gosto, tape e deixe ferver.",
+      "O ponto varia pelo tamanho do corte dos cubos, mas quando conseguir furar com a ponta da faca estará no ponto! Acrescente o tempero verde.",
+      "Sugestão de acompanhamento como na foto, arroz com caldo da carne e açafrão, cenoura e beterraba ralada. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "OMAR FRANCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301731-carne-ao-molho-com-abobora-cabotia.html"
+}

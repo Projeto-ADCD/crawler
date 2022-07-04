@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BATATA FRITA COM COBERTURA DE QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 batatas médias",
+      "2 colheres de margarina",
+      "2 colheres de azeite",
+      "3 fatias de queijo cheddar",
+      "3 fatias de queijo prato",
+      "200 g de bacon em fatias"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e corte elas em cubos quadrados, tamanho maior do que quando corta para fazer maionese",
+      "Coloque em uma panela a margarina e o azeite e deixe esquentar",
+      "Quando estiver quente para fritar, junte a batata de porção em porção",
+      "Frite toda batata deixando ela bem dourada, reserve em um prato com guardanapo de papel para sugar a gordura",
+      "Frite o bacon em outra panela até ficar crocante, esfaferele e reserve",
+      "Pegue um prato grande que possa ir ao micro-ondas, coloque a batata, e as fatias de queijo prato e cheddar",
+      "Salpique o bacon crocante por cima",
+      "Leve ao micro-ondas por 3 minutos para derreter o queijo",
+      "Pronto, bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARIANE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305227-batata-frita-com-cobertura-de-queijos.html"
+}

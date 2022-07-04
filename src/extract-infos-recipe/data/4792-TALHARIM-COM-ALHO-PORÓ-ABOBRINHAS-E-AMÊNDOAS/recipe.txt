@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TALHARIM COM ALHO PORÓ, ABOBRINHAS E AMÊNDOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de talharim cozido al dente",
+      "azeite a gosto para servir",
+      "queijo gorgonzola esfarelado ou parmesão ralado a gosto",
+      "amêndoas a gosto",
+      "Refogado de alho poró e abobrinhas",
+      "4 colheres (sopa) de azeite",
+      "1 colher (sopa) de manteiga (20 g)",
+      "400 g de alho poró cru lavado e fatiado",
+      "600 g de abobrinha italiana ralada grosso (sem o miolo)",
+      "sal, pimenta-do-reino branca e noz-moscada a gosto",
+      "5 colheres (sopa) de cebolinha verde picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira grande, aqueça o azeite, a manteiga e refogue o alho poró por 5 minutos.",
+      "Em seguida, adicione a abobrinha e refogue rapidamente temperando com sal, pimenta e noz-moscada a gosto.",
+      "Junte a massa já cozida e deixe aquecer.",
+      "Retire do fogo e sirva com um fio de azeite, as amêndoas e o queijo de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ABIMAPI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300220-talharim-com-alho-poro-abobrinhas-e-amendoas.html"
+}

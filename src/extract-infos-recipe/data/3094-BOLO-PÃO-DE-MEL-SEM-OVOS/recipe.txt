@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO PÃO DE MEL SEM OVOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de leite",
+      "1 xícara (chá) de açúcar mascavo",
+      "1/2 xícara (chá) de mel",
+      "2 colheres (sopa) de óleo",
+      "1 colher (chá) de canela em pó",
+      "1/2 colher (chá) de cravo em pó",
+      "2 e 1/2 xícara (chá) de farinha de trigo",
+      "1 xícara (chá) de chocolate em pó",
+      "1 colher (chá) de bicarbonato em pó",
+      "2 colheres (chá) de fermento em pó",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "1/2 lata de leite comum",
+      "3 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de manteiga sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma tigela (não é necessário usar batedeira) o leite, o açúcar, o mel e o óleo",
+      "Peneire em cima o restante dos ingredientes e misture bem",
+      "Leve para assar em assadeira retangular untada e enfarinhada em forno preaquecido por 25 minutos ou até que espetando um palito e saia limpo",
+      "Retire do forno, coloque a cobertura e corte em quadrados.",
+      "Para a cobertura",
+      "Leve os ingredientes ao fogo até formar um brigadeiro mole.",
+      "Enquanto ainda está bem líquido, regue todo o bolo bem furadinho para penetrar bem",
+      "Depois, volte ao fogo para engrossar e cubra novamente o bolo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "GILDA FERREIRA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303886-bolo-pao-de-mel-sem-ovos.html"
+}

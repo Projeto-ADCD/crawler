@@ -1,0 +1,21 @@
+{
+  "nome_receita": "DOCE DE LEITE CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "1 e 1/2 xícara de leite",
+      "1/2 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe em fogo médio o açúcar e o leite por uns trinta minutos ou até chegar no ponto (depende da potência do fogão).",
+      "Depois que desligar, misture o creme de leite.",
+      "Eu uso meia caixa de creme de leite porque não gosto muito doce, pode medir usando o seu paladar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "KARLA KAROLINI MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305078-doce-de-leite-caseiro.html"
+}

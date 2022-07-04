@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 copos de trigo",
+      "1 copo de polvilho doce",
+      "1 ovo",
+      "1 e 1/2 copo de leite",
+      "1 colher (sopa) rasa de fermento em pó",
+      "1 colher (café) de sal",
+      "1 calabresa em pedaços pequenos",
+      "1 colher (sopa) rasa de orégano",
+      "2 colheres de margarina",
+      "1/2 copo de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes começando pelos secos, exceto a calabresa",
+      "Em seguida junte a margarina,o óleo e o leite e misture bem até formar uma massa homogênea",
+      "Por último misture a calabresa.",
+      "Sugiro provar a massa para confirmar se o sal está ao seu gosto.",
+      "Unte uma forma com margarina polvilhando com farinha e leve ao forno preaquecido até dourar.",
+      "Para uma melhor aparência pode pincelar 1 gema de ovo por cima."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ELISANGELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300043-bolo-de-calabresa.html"
+}

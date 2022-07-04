@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLINHO CAIPIRA SIMPLES",
+  "ingredientes": {
+    "PARA A MASSA:": [
+      "500g de farinha de milho",
+      "8 copos (americanos) de água",
+      "salsinha e cebolinha",
+      "1 cubinho de caldo de carne",
+      "sal",
+      "1 batata"
+    ],
+    "PARA O RECHEIO:": [
+      "400g de carne moída",
+      "1/2 limão",
+      "sal",
+      "cebola",
+      "1/2 copo (americano) de água"
+    ]
+  },
+  "passos": {
+    "A MASSA:": [
+      "Despeje a farinha toda em uma tijela e vá acrescentando a agua (fervendo) e misture.",
+      "Adicione a salsinha, cebolinha e o sal e mexa.",
+      "Cozinhe uma batata, amasse e acrescente também.",
+      "Adicione 1/2 cubo de caldo de carne e mexa."
+    ],
+    "O RECHEIO:": [
+      "Frite a cebola no óleo ou manteiga, coloque a carne moída e adicione 1/2 copo de água, o sal, a salsinha, a cebolinha e, novamente, 1/2 cubinho de caldo de carne e um pouco de limão.",
+      "Pegue a massa, coloque uma colher na mão e faça uma bolinha e amasse-a. Aperte com um dedo e coloque o recheio no meio e tampe e enrole.",
+      "Passe em uma tijela com ovos e depois na farinha de rosca, depois é só fritar. Caso não tenha farinha de rosca, é só fritar depois de enrolar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "JOYCE CUNHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301761-bolinho-caipira-simples.html"
+}

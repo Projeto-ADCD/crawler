@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE LEITE NA MÁQUINA DE PÃO SUPERGOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "*Usando copo medidor e colher medidora",
+      "1 ovo",
+      "320 ml de leite",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (chá) de sal",
+      "2 colheres (chá) de fermento biológico seco",
+      "2 colheres (sopa) de creme de leite ou nata",
+      "500 g de farinha de trigo ou no copo medidor de 960 ml"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo no copo medidor e acrescente leite até chegar em 360 ml",
+      "Depois de acrescentar o leite na máquina, adicione o açúcar, sal, nata ou creme de leite, fermento e farinha.",
+      "Sempre nessa ordem",
+      "Programe a máquina na função 1 pão normal",
+      "Programe a cor 1 clara",
+      "Quando estiver misturando, pegue uma espátula e misture a farinha que fica nas laterais, é importante sempre fazer isso, apenas no início",
+      "Depois de assado, retire da máquina e cubra com um pano úmido ou passe o pão rapidamente na água.",
+      "Isso faz com que a casca fique molinha."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JOSIANE WEBER CARDOSO DIONISIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302936-pao-de-leite-na-maquina-de-pao-supergostoso.html"
+}

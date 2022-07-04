@@ -1,0 +1,40 @@
+{
+  "nome_receita": "LÍNGUA AO SUGO COM VAGEM E FAROFA DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de língua bovina",
+      "1 litro de água",
+      "2 folhas grandes de louro",
+      "suco de 02 limões",
+      "sal e pimenta-do-reino a gosto",
+      "3 colheres (sopa) de azeite de oliva",
+      "8 tomates italiano médios sem sementes",
+      "10 vagens",
+      "1 cebola grande",
+      "7 dentes de alho",
+      "2 colheres (sopa) de molho inglês",
+      "1 colher (café) de noz-moscada ralada",
+      "1 molho de salsinha",
+      "1 molho de cebolinha",
+      "1 farofa de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave bem a peça de língua bovina com água corrente, retirando quaisquer impurezas presentes.",
+      "Coloque-a numa panela de pressão com a água, louro, limão e sal",
+      "Após iniciar a fervura, reduza o fogo para médio por 40 minutos.",
+      "Deixe esfriar e retire a pele que cobre a peça, corte-a em fatias na espessura de aproximadamente 01 a 02 centímetros e reserve.",
+      "Coloque o azeite em uma panela e doure o alho picado, adicione a cebola picada refogando-a.",
+      "Acrescente os tomates picados, sal, pimenta, noz-moscada e o molho inglês, mexendo bem.",
+      "Ao levantar fervura, acrescente a língua fatiada deixando na pressão por mais 20 minutos em fogo médio.",
+      "Após esse tempo, acrescente a vagem levando ao fogo baixo por 10 minutos.",
+      "Logo após desligue o fogo, retire toda pressão e acrescente cebolinha e salsinha picadas.",
+      "Sirva com farofa de milho "
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PEDRO NÍCOLAS MAURI LORENZONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304029-lingua-ao-sugo-com-vagem-e-farofa-de-milho.html"
+}

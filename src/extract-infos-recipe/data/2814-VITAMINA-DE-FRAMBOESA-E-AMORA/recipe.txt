@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE FRAMBOESA E AMORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de framboesas",
+      "50 g de amoras",
+      "2 xícaras (chá) de água",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes até ficar homogêneo.",
+      "Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304368-vitamina-de-framboesa-e-amora.html"
+}

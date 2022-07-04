@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SORVETE DE BRIE COM GELEIA DE DAMASCO E PRALINÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de brie",
+      "500 ml de creme de leite fresco",
+      "100 g de açúcar para o creme de leite 100 g de castanha de caju",
+      "100 g de açúcar para o praliné",
+      "300 g de damasco seco",
+      "100 g açúcar para a geleia",
+      "suco de 1/2 limão taiti "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire a casca do queijo brie e amasse-o com o garfo",
+      "Na batedeira, bata o açúcar com o creme de leite fresco até ficar ponto de chantilly",
+      "Misture na mão o queijo brie amassado com o creme de leite",
+      "Leve para o freezer e mexer levemente a cada 30minutos para não virar uma pedra de gelo",
+      "Faça isso até que fique em ponto de sorvete leve e macio (fará isso por cerca de 4 vezes)",
+      "Enquanto o sorvete está no freezer, coloque na panela a água, o suco do limão, o damasco picado bem pequeno e 100 g de açúcar para fazer  a geleia",
+      "Quando chegar em ponto de geleia, deixe esfriar",
+      "Para fazer o praliné precisa fazer o caramelo com 100 g do açúcar e juntar a castanha",
+      "Assim que esfriar, bata no liquidificador ou mixer para fazer a farofinha",
+      "Quando o sorvete estiver no ponto, boleie ele com a colher de sorvete, decorar com geleia e a farofa de praline",
+      "Se quiser, pode decorar com flores comestíveis"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Mina Bonifácio Ruz Diaz"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303873-sorvete-de-brie-com-geleia-de-damasco-e-praline.html"
+}

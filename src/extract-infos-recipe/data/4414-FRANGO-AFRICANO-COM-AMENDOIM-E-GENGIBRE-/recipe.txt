@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FRANGO AFRICANO (COM AMENDOIM E GENGIBRE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango, cortados em pedaços ou sassami (800 g)",
+      "6 sobrecoxas de frango pequenas (700g)",
+      "1 cebola média, picada (100 g)",
+      "2 colheres (sopa) de suco de limão",
+      "3 dentes de alho picados",
+      "1/2 xícara de amendoim torrado e moído (90 g)",
+      "1/2 xícara de castanha de caju torrada e moída (60 g)",
+      "1/4 de xícara de óleo (60 ml)",
+      "2 colheres (sopa) de azeite-de-dendê (opcional)",
+      "1 colher (sopa) de gengibre ralado",
+      "1 colher (chá) de sal ou a gosto",
+      "3 xícaras de água (720 ml)",
+      "1 xícara de leite de coco (240 ml)",
+      "2 xícaras de camarão médio, fresco e limpo (300 g - opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela grande, coloque os peitos de frango, as sobrecoxas, a cebola, o suco de limão, o alho, o amendoim, a castanha de caju, o óleo, o azeite-de-dendê, o gengibre e o sal.",
+      "Leve ao fogo alto, tampe e cozinhe, mexendo de vez em quando, até o peito de frango dourar.",
+      "Junte 1 xícara de água, aos poucos, raspando o fundo da panela com uma colher de pau.",
+      "Tampe, abaixe o fogo e cozinhe, acrescentando mais 1 xícara de água, aos poucos, à medida que for secando.",
+      "Quando todo o líquido tiver secado, junte a água restante e cozinhe, com a panela tampada, por cerca de 20 minutos ou até o frango ficar macio.",
+      "Acrescente o leite de coco e o camarão e misture.",
+      "Cozinhe por mais 4 minutos ou até os camarões ficarem rosados e opacos. Sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PÂMELA NEDER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301177-frango-africano-com-amendoim-e-gengibre.html"
+}

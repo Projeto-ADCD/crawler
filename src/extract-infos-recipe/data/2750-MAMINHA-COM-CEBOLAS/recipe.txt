@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MAMINHA COM CEBOLAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,3 kg de maminha em um pedaço só",
+      "1/2 cebola bem picada",
+      "4 dentes de alho picado",
+      "2 colheres (sopa) de margarina",
+      "noz-moscada a gosto",
+      "pimenta-do-reino a gosto",
+      "3 cebolas em rodelas",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça vários furos na peça de carne com uma faca, para o tempero penetrar melhor.",
+      "Adicione a 1/2 cebola picada e os dentes de alho com a margarina e espalhe uniformemente pela carne.",
+      "Use a noz-moscada e a pimenta-do-reino a gosto, juntamente com o sal.",
+      "Corte as 3 cebolas em rodelas um pouco grossas e coloque no fundo da panela de pressão.",
+      "Coloque a carne por cima e deixe tampada em fogo alto até pegar pressão.",
+      "Assim que pegar pressão, coloque em fogo baixo por mais 30 minutos.",
+      "Espere a pressão sair sozinha da panela e verifique com um garfo se a peça está macia. (caso não esteja, deixe na pressão por mais 10 minutos)",
+      "Depois de pronta corte em fatias, coloque em uma travessa e utilize o próprio molho que ficou na panela para colocar sobre a carne.",
+      "Bom apetite",
+      "Deixe seu comentário"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "REINALDO BULHÕES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304526-maminha-com-cebolas.html"
+}

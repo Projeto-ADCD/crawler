@@ -1,0 +1,30 @@
+{
+  "nome_receita": "CARURU DA ALÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 quiabos",
+      "300 g de camarão seco",
+      "150 g de amendoim torrado sem casca moído",
+      "1 limão",
+      "150 g de castanha de caju moida",
+      "8 cebolas",
+      "1 colher (sobremesa) de gengibre ralado",
+      "1 xícara de azeite de dendê"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o quiabo em pedaços bem pequenos, evite triturar no processador",
+      "Moa 100 g do camarão seco com uma xícara de água.",
+      "Bata as cebolas no liquidificador, junto com o amendoim e as castanhas.",
+      "Misture todos os ingredientes que foram batidos com os quiabos em uma panela, inclusive o limão espremido e o gengibre ralado.",
+      "Coloque água fervente até cobrir o conteúdo e ligue o fogo médio.",
+      "Inclua o azeite de dendê.",
+      "Mexa com colher de pau até que não tenha mais baba do quiabo."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALESSANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305572-caruru-da-ale.html"
+}

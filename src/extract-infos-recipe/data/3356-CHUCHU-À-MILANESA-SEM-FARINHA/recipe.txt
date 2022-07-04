@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHUCHU À MILANESA SEM FARINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 chuchus",
+      "Sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os chuchus e corte na vertical (não muito fino), depois coloque para cozinhar com sal a gosto por aproximadamente 8 min",
+      "Quando estiver al dente, retire do fogo e escorra",
+      "Pegue os ovos, coloque uma pitada de sal e misture tudo",
+      "Coloque uma frigideira com um fio de óleo para aquecer",
+      "Pegue os chuchus e passe nos ovos e frite",
+      "Quando estiver com uma casquinha bem moreninha, vire espere ficar bem moreninho o outro lado também, tire e saboreie",
+      "Fica uma delícia! Para quem não gosta muito de chuchu, vai amar essa receita! Espero que gostem!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EVY LEAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303511-chuchu-a-milanesa-sem-farinha.html"
+}

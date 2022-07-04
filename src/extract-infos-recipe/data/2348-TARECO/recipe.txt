@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TARECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 copo (americano) de farinha de trigo",
+      "1 ovo",
+      "1 copo (americano) de leite",
+      "5 colheres de (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em um recipiente de vidro (não pode bater na batedeira e nem no liquidificador)",
+      "Misture com uma colher de pau até a massa ficar bem homogênea",
+      "Unte uma frigideira antiaderente com margarina ou manteiga",
+      "Coloque pequenas porções de massa na frigideira e com uma espátula pressione a massa",
+      "Até que os dois lados fiquem dourados",
+      "Agora é só servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LETÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305437-tareco.html"
+}

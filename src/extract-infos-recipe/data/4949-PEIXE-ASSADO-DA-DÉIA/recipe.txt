@@ -1,0 +1,38 @@
+{
+  "nome_receita": "PEIXE ASSADO DA DÉIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peixe de sua preferência",
+      "2 cebolas",
+      "3 dentes de alho",
+      "sal e pimenta a gosto",
+      "1 molho de tomate ou 2 tomates ",
+      "1 pote de requeijão",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre uma forma com o papel-alumínio.",
+      "Com o peixe descongelado, faça um corte e retire a cabeça",
+      "Logo a seguir, corte lateralmente ao espinhaço e abra o peixe",
+      "Aprofunde o corte até que ele fique totalmente aberto e encostado no fundo da forma.",
+      "Eu costumo usar um peixe do tamanho da forma, assim não escorre molho (geralmente em torno de 2kg)",
+      "Com o peixe aberto, tempere com sal, pimenta e temperos a seu gosto.",
+      "Cubra com papel-alumínio a forma e leve ao forno de 30 a 40 minutos, a 250° C.",
+      "Enquanto assa, refogue a cebola e o alho.",
+      "Caso opte por usar tomates, refogue junto e reserve o molho.",
+      "Retire a forma e veja se esté molhado o peixe, se estiver, prove o sal, retire o espinhaço e os espinhos maiores",
+      "Leve ao forno, sem o papel-alumínio de 20 a 30 minutos (mais a olho mesmo)",
+      "Quando o peixe secar, retire do forno.",
+      "Acrescente o molho em toda a superficie do peixe, (se for usar molho de tomate, cubra com a cebola, após o molho de tomate)",
+      "Após, cubra com requeijão, use o orégano e leve ao forno.",
+      "Quando dourar o requeijao está pronto.",
+      "Cuidado ao servir para não retirar junto as escamas do peixe, que ficam no fundo."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "DEIA BUDEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299877-peixe-assado-da-deia.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MACARRÃO COM MUSSARELA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão penne",
+      "2 molhos de tomate",
+      "2 caixinhas de creme de leite",
+      "400 g de queijo muçarela",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, adicione o molho de tomate, o creme de leite, a pitada de sal e o macarrão, misture bem e feche a panela",
+      "Quando pegar pressão, diminua a temperatura e deixe por 7 minutos",
+      "Depois, deixe a pressão sair, abra a panela, adicione o queijo muçarela e mexa bem até derreter todo",
+      "Pronto, sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAYS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302849-macarrao-com-mussarela-na-panela-de-pressao.html"
+}

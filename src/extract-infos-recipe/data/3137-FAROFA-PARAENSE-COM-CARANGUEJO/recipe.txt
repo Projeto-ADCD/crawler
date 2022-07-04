@@ -1,0 +1,42 @@
+{
+  "nome_receita": "FAROFA PARAENSE COM CARANGUEJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média ralada",
+      "2 dentes de alhos ralados",
+      "sal e pimenta-do-reino a gosto",
+      "500 g de farofa tradicional",
+      "50 g de manteiga",
+      "2 colheres (sopa) de azeite",
+      "200 g de massa de caranguejo",
+      "100 ml de tucupi",
+      "50 g de jambú",
+      "coentro a gosto",
+      "1/4 de pimentão vermelho, verde e amarelo cortados em quadradinhos",
+      "azeitonas verdes sem caroço a gosto",
+      "suco de meio limão ou 1 colher (chá) lemmon pepper (opcional)",
+      "coentro a gosto ",
+      "1 colher (chá) de açúcar",
+      "Para enfeitar 100 g da pata do caranguejo refogada em 1/2 cebola ralada",
+      "1 dente de alho (opcional) em 30 ml de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola, a seguir o alho na mistura da manteiga e do azeite",
+      "A seguir os pimentões",
+      "Acrescente o caranguejo e cozinhe por cinco minutos",
+      "Acrescente o tucupi com 1 colher de açúcar, as azeitonas e a farofa pronta tradicional",
+      "Mexa até incorporar",
+      "Coloque em cima o jambú cozido previamente com sal a gosto",
+      "Misture e sirva",
+      "Pode enfeitar com 200 g da pata do caranguejo e azeitonas sem caroço",
+      "Coentro miudinho para enfeitar",
+      "Sirva quente"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA LUCIA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303830-farofa-paraense-com-caranguejo.html"
+}

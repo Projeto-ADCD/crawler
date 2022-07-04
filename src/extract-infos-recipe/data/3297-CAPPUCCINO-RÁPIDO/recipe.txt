@@ -1,0 +1,22 @@
+{
+  "nome_receita": "CAPPUCCINO RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (café) de chocolate em pó",
+      "1 colher (café) de café solúvel",
+      "3 colheres (chá) de açúcar",
+      "2 colheres (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em quanto a água ferve, misture os ingredientes numa xícara de chá",
+      "Adicione a água e misture bem",
+      "Se desejar, troque a água e o leite em pó, por leite normal"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TABAJARA APARECIDO JORGE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303594-cappuccino-rapido.html"
+}

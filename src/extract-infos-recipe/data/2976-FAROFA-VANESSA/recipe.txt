@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA VANESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picada",
+      "2 dentes de alho picado",
+      "1 linguiça defumada picada em cubos",
+      "200 g de bacon picado em cubos",
+      "cebolinha e salsinha picada",
+      "orégano",
+      "2 colheres (sopa) de margarina",
+      "1 pacote de farofa pronta",
+      "uvas passa a gosto",
+      "sal se for necessário",
+      "1 lata de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira coloque alho cebola e refogue",
+      "Coloque bacon e deixe até ficar bem frito",
+      "Coloque a linguiça e refogue mais um pouco",
+      "Coloque o milho e em seguida a farofa com a margarina",
+      "Experimente se tem sal, se não tiver, coloque um pouco de sal e acrescente as uvas passa, cebolinha, salsa e orégano",
+      "Está pronto é só servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANESSA SANTANA DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304042-farofa-vanessa.html"
+}

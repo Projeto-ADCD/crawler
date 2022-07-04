@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MIX DE FARINHAS SEM GLÚTEN",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de farinha de arroz",
+      "200 g de fécula de batata",
+      "200 g de povilho doce",
+      "2 colheres (sopa) de goma xantana"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture muito bem todos os ingredientes.",
+      "Guarde a mistura para uso posterior em um recipiente fechado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Você pode utilizar a farinha de arroz integral conforme sua preferência. Há diversas receitas de O diferencial dessa receita é a versatilidade. Você pode substituir a farinha de trigo em qualquer receita."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MATHEUS CORREIA DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302254-mix-de-farinhas-sem-gluten.html"
+}

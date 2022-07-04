@@ -1,0 +1,32 @@
+{
+  "nome_receita": "REFOGADO DE LEGUMES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura ",
+      "1 brócolis",
+      "6 batatas médias",
+      "1 cebola",
+      "1 tomate ",
+      "alho a gosto",
+      "tempero verde a gosto",
+      "1 tempero de carnes",
+      "sal a gosto",
+      "2 colher (sopa) de margarina ou manteiga",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e pique em cubinhos",
+      "Descasque a cenoura e pique em tiras médias",
+      "Corte o brócolis em pedaços e cozinhe",
+      "Refogue a cebola, o tomate e o alho na margarina",
+      "Adicione os legumes, o tempero de carnes e o sal",
+      "Misture bem e por fim adicione o tempero verde ."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KATIUSCIA SCREMIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300823-refogado-de-legumes.html"
+}

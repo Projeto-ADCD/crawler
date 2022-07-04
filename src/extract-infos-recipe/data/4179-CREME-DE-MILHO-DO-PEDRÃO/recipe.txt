@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREME DE MILHO DO PEDRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho",
+      "1 creme de leite",
+      "1 cebola grande cortada em rodelas",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o milho no lidificador",
+      "Coloque uma colher pequena de alho",
+      "Junte a cebola e deixe dourar",
+      "Em seguida, coloque o milho batido e mexa por um 1 minuto",
+      "Coloca 1 colher pequena de sal "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "PEDRO HENRIQUE RIOS DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301658-creme-de-milho-do-pedrao.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOPA DE MILHO VERDE CREMOSA DO RAFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de bacon picado em cubinhos",
+      "600 g de milho verde congelado",
+      "1 cebola média picada em cubinhos",
+      "2 dentes de alho",
+      "2 batatas médias",
+      "1 litro de água fervente",
+      "1 alho-poró picado",
+      "1 pimentão vermelho picado em cubinhos",
+      "1 creme de leite",
+      "sal a gosto",
+      "páprica (doce ou picante) a gosto",
+      "cheiro-verde a gosto",
+      "azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e reserve",
+      "Na mesma panela e aproveitando a gordura do bacon, refogue a cebola, o alho, o milho, e as batatas",
+      "Coloque uma pitada de sal (a gosto), acrescente a água fervente e deixe começar a ferver",
+      "Leve esse caldo ao liquidificador, acrescente uma pitada de páprica (a gosto) e bata por aproximadamente 5 minutos",
+      "Enquanto liquidifica o caldo, coloque um fio de azeite em uma panela grande, deixe aquecer por 1 minuto e refogue o alho-poró, o pimentão vermelho e restante do milho",
+      "Adicione o creme que foi batido no liquidificador, o creme de leite, o bacon e mexa bem",
+      "Desligue o fogo e acrescente o cheiro-verde.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RAFAEL VOCCI CASTILHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302673-sopa-de-milho-verde-cremosa-do-rafa.html"
+}

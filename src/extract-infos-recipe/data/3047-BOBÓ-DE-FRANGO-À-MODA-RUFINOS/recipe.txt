@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOBÓ DE FRANGO À MODA RUFINOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango cortado em cubos tempere a gosto",
+      "1 cebola picada em cubos fininhos",
+      "2 dentes de alho picados",
+      "1 colher (chá) de coentro",
+      "1 garrafinha leite de coco (200 ml)",
+      "1 kg de mandioca descascada e cozida em pequenos cubos",
+      "340 ml de molho de tomate",
+      "pimenta preta ou pimenta-do-reino a gosto",
+      "2 latas de creme de leite (opcional)",
+      "3 colheres (sopa) de dendê",
+      "1 colher (sopa) de açúcar",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com o dendê, coloque o frango e deixe refogar por 5 minutos ou até que seque a água",
+      "Coloque a cebola, o alho e mexa bem",
+      "Deixe fritar até dourar, desligue o fogo e reserve.",
+      "Agora pegue metade da mandioca e bata no liquidificador com o próprio caldo da mandioca e junto coloque o coentro e a pimenta",
+      "Bata bem e reserve.",
+      "Ligue novamente o fogo com a panela que está o frango e coloque o molho de tomate, o açúcar, o leite de coco, a outra metade da mandioca em cubos e a mandioca batida no liquidificador",
+      "Misture bem e deixe levantar fervura, assim que ferver coloque o creme de leite e misture bem",
+      "Desligue o fogo e pronto",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: O creme de leite dá um sabor a mais na receita, mas você pode fazer sem ele que também ficará uma delicia. O tempero coloquei a gosto, mas eu gosto de utilizar no lugar do sal aqueles temperos completos. O açúcar quebra a acidez do tomate."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FRANCIS RUFINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303953-bobo-de-frango-a-moda-rufinos.html"
+}

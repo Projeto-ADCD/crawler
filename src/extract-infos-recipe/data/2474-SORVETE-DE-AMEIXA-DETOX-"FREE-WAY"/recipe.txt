@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SORVETE DE AMEIXA DETOX \"FREE WAY\"",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de sene",
+      "1 xícara ameixa seca sem caroço",
+      "1/2 xícara uva passa",
+      "1 lata de leite condensado",
+      "1 lata (ou 2 caixinhas) de creme de leite",
+      "1 lata (medida) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate tudo no liquidificador ",
+      "Depois congele por 3 horas ou até quando ficar na consistência desejada"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAMARIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305127-sorvete-de-ameixa-detox-free-way.html"
+}

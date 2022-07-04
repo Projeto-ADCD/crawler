@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOÇA ESPERTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g (metade da lata) de leite condensado",
+      "1 maçã do seu gosto",
+      "1 banana nanica",
+      "300 ml de leite de coco",
+      "8 cubos de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador todos os ingredientes, menos o gelo.",
+      "Passe para uma jarra e junte o gelo. Misture bem e sirva.",
+      "Se preferir, pode adicionar aveia ou mel."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GIALETTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299991-moca-esperta.html"
+}

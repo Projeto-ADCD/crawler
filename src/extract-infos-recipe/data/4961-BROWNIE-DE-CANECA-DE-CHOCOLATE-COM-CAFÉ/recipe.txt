@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BROWNIE DE CANECA DE CHOCOLATE COM CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de café em pó solúvel",
+      "2 colheres (sopa) de achocolatado em pó",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) de farinha",
+      "2 colheres (sopa) de óleo",
+      "1 colher rasa (sobremesa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na xícara de sua escolha o café, o achocolatado e leite e misture bem.",
+      "Acrescente os demais igredientes e misture.",
+      "Coloque no micro-ondas por 40 segundos (o tempo pode variar de 30 segundos a 1 minuto dependendo da potência do seu microondas).",
+      "Retire a xícara e coloque a cobertura de seu agrado (nas fotos é brigadeiro)."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BIANCA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299851-brownie-de-caneca-de-chocolate-com-cafe.html"
+}

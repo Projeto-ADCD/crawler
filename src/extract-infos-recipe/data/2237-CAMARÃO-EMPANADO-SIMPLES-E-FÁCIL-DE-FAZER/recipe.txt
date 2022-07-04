@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CAMARÃO EMPANADO SIMPLES E FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "quantidade de camarões que você deseja (sem casca)",
+      "3 dentes de alho triturado",
+      "5 gotas de limão",
+      "1/2 xícara de leite",
+      "pimenta-do-reino a gosto",
+      "sal a gosto",
+      "3 xicaras de farinha de trigo",
+      "3 xicaras de farinha de rosca",
+      "banha de porco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o camarao com água e sal, descasque e coloque em um recipiente com alho triturado, pimenta-do-reino e as 5 gotas de limao",
+      "Deixe descansar por uns 15 minutos",
+      "Junnte o leite mais um pouco de alho, pimenta e uma pitada de sal",
+      "Pegue um recipiente e separe a farinha de trigo e a farinha de rosca",
+      "Logo em seguida afogue o camarão um por um no leite e na farinha de trigo mais uma vez ao leite e por último na farinha de rosca",
+      "Por último coloque no freezer por 1 hora e deixe descansar",
+      "Coloque a banha de porco para derreter e quando estiver ao ponto frite os camarões "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALINE FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305648-camarao-empanado-simples-e-facil-de-fazer.html"
+}

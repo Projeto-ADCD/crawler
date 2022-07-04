@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREME DE MARACUJÁ COM LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 ml suco de laranja",
+      "200 ml de suco de maracujá grande",
+      "1 caixa de leite condensado",
+      "10 ml de conhaque"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o suco de maracujá e o leite condenado em uma panela fogo baixo por 10 minutos",
+      "Depois acrescente o suco de laranja mexendo sem parar até engrossar um pouco tire do fogo ",
+      "Deixe esfriar",
+      "Coloque na geladeira por 40 minutos e pode servir com banana caramelada, com torradas ou como sobremesa"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "NUNES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303162-creme-de-maracuja-com-laranja.html"
+}

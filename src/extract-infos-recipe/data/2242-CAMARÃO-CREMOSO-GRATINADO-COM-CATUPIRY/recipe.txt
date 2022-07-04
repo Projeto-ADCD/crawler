@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CAMARÃO CREMOSO GRATINADO COM CATUPIRY",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de camarão",
+      "1/2 limão",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "13 ml de azeite [1 colher de (sopa)]",
+      "40 g de manteiga [2 colheres de sopa)]",
+      "30 g de farinha de trigo [2 colheres de sopa)]",
+      "10 g de cebolinha picada [2 colheres de sopa)]",
+      "1/2 cebola picada",
+      "360 ml de leite (1 e 1/2 xícara)",
+      "200 g de catupiry (1/2 pote)",
+      "parmesão a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o camarão com sal, pimenta-do-reino e o suco do limão",
+      "Misture bem",
+      "Em uma panela aqueça bem o azeite e acrescente os camarões sem o suco de limão (escorra os camarões)",
+      "Doure rapidamente e retire-os da panela com uma escumadeira",
+      "Acrescente metade da manteiga e a cebola e deixe dourar",
+      "Acrescente a outra metade da manteiga e quando derreter junte a farinha de trigo",
+      "Mexa rapidamente com um batedor de claras e deixe cozinhar por 2 minutos sempre mexendo",
+      "Acrescente metade do leite e mexa",
+      "Quando ficar homogêneo acrescente o restante e mexa novamente",
+      "Espere a mistura ferver, depois disso mantenha mexendo no fogo por mais 3 a 5 minutos",
+      "Desligue o fogo e acrescente o catupiry mexa um pouco",
+      "Acerte o sal e a pimenta-do-reino",
+      "Acrescente os camarões e a cebolinha",
+      "Despeje em uma assadeira e rale o parmesão por cima",
+      "Leve ao forno 180° C por cerca de 10 minutos ou até derreter",
+      "Sirva com arroz e batata palha"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "AIMÉE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305641-camarao-cremoso-gratinado-com-catupiry.html"
+}

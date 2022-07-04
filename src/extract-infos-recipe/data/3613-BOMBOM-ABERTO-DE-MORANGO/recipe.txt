@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOMBOM ABERTO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 colheres de manteiga",
+      "300 g de chocolate meio amargo ",
+      "2 caixas de creme de leite ",
+      "1 caixinha de morangos "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o leite condensado junto com a manteiga e faça um brigadeiro branco.",
+      "Misture bem uma caixa de creme de leite.",
+      "Reserve.",
+      "Pegue o chocolate meio amargo e despedace e derreta no microondas por cerca de 2 minutos.",
+      "Misture outra caixa de creme de leite com o chocolate derretido.",
+      "Coloque num refratario de vidro a mistura de brigadeiro branco.",
+      "Cubra com os morangos.",
+      "Em seguida, por cima despeje a mistura de chocolate meio amargo.",
+      "Pode colocar para enfeitar por cima um morango.",
+      "Cubra com papel filme e deixe na geladeira por pelo menos 2 horas.",
+      "Coma gelado."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARILIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303043-bombom-aberto-de-morango.html"
+}

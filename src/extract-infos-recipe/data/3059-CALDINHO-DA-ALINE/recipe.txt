@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CALDINHO DA ALINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polpa de carangueijo ",
+      "1 cebola",
+      "2 dentes de alho",
+      "cheiro-verde a gosto",
+      "ervilha em lata a gosto",
+      "pimenta-do-reino a gosto",
+      "colorau a gosto",
+      "cebolinha a gosto",
+      "água conforme necessidade",
+      "2 colheres de azeite de oliva",
+      "sal a gosto",
+      "1 pacote de 500 g de farofa Yoki tradicional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite em uma panela, adicione a cebola e o alho e refogue",
+      "Adicione o carangueijo, a pimenta-do-reino e o colorau ",
+      "Quando estiver bem refogado, adicione aproximadamente 2 litros de água e espere ferver",
+      "Vá adicionando a farofa aos poucos até o caldo encorpar",
+      "Regule a cremosidade do caldo adicionando mais água ou mais farofa",
+      "Coloque sal a gosto, cheiro-verde e a cebolinha",
+      "Apague o fogo e está pronta"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Aline Ambé Sobral Pêgo"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303937-caldinho-da-aline.html"
+}

@@ -1,0 +1,47 @@
+{
+  "nome_receita": "QUIBE DE FORNO DE PROTEÍNA DE SOJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 xícaras de trigo pra quibe",
+      "2 xícaras de proteína de soja",
+      "1/2 cebola",
+      "1/2 limão",
+      "2 colheres (sopa) de shoyo",
+      "2 dentes de alho",
+      "hortelã fresca a gosto",
+      "salsa fresca a gosto",
+      "coentro fresco a gosto",
+      "tomilho a gosto",
+      "orégano a gosto",
+      "cominho a gosto",
+      "sal a gosto",
+      "caldo pronto de costela ou picanha",
+      "azeite",
+      "Recheio",
+      "400 g de requeijão",
+      "azeite",
+      "hortelã"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Ferva 500 ml de água com o sal, 2 dentes de alho, caldo de carne/costela, tomilho, cominho e outras especiarias que desejar.",
+      "Hidrate a proteína de soja com metade desse caldo fervido (inclua os 2 dentes de alhos do caldo aqui), 1/2 limão espremido, 2 colheres de shoyo, sal e outras especiarias a gosto.",
+      "Use a outra metade do caldo para hidratar o trigo pra quibe e separe.",
+      "Quando a carne de soja estiver hidratada, retire o excesso de água com uma peneira.",
+      "Bata no processador a proteína de soja hidratada, 1/2 cebola, hortelã, salsa, coentro, cominho, sal e outros temperos a gosto.",
+      "Quando estiver tudo bem batido, misture à mão com o trigo do quibe e reserve.",
+      "Recheio",
+      "Em uma vasilha, misture todo o requeijão com a hortelã e azeite.",
+      "Montagem",
+      "Num refratário a sua escolha, cubra o fundo com parte da massa do quibe, em cima coloque o recheio de requeijão, e cubra com o restante da massa.",
+      "Leve em forno médio pra alto por aproximadamente 1h (ou até perceber que a massa ficou mais sequinha)"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302556-quibe-de-forno-de-proteina-de-soja.html"
+}

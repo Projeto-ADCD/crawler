@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FEIJÃO AMIGO DA MARISETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lg de feijão preto",
+      "500 g de bacon",
+      "500 g de linguiça calabresa",
+      "500 g de paio",
+      "4 tomates",
+      "2 cebolas (grandes)",
+      "2 cabeças de alho",
+      "1 kg de toucinho de porco ou 500 g de torresmo pronto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque para cozinhar o feijão (depois de bem lavado. Se possível, deixe de molho de um dia para o outro) o paio, metade do bacon, metade da calabresa, 1 cabeça de alho, 2 tomates, 1 cebola e sal a gosto.",
+      "Pique o restante da linguiça e do bacon em cubos pequenos e reserve.",
+      "Utilize o óleo que saiu das carnes que acabou de preparar para fritar a cebola.",
+      "Quando estiver começando a dourar, acrescente o alho e em seguida o restante do tomate, cortado em cubos e deixe cozinhar até desmanchar o tomate.",
+      "Bata o feijão com tudo que foi cozido no liquidificador (acrescente água para facilitar a trituração dos alimentos).",
+      "Feito isso, junte o feijão batido, as carnes fritas e o molho de tomate em uma só panela e deixe ferver.",
+      "Verifique o sal.",
+      "Quando estiver agarrando no fundo da panela, estará pronto.",
+      "Caso tenha optado pelo toucinho, recomendo temperar com sal e algo.",
+      "Corte em cubos pequenos e frite, reserve.",
+      "Ele será usado para \"decorar\", junto com o cheiro-verde as porções individuais.",
+      "Agora é só servir e se deliciar com essa maravilha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "KAIUNE HECHT MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302324-feijao-amigo-da-marisete.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ASSADINHO NUTRITIVO DE INHAME E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de inhame cozido em água e sal",
+      "1 ovo inteiro",
+      "temperos a gosto (usei sal, pasta de alho, cebola e salsinha picadinha)",
+      "50 g de queijo ralado",
+      "1 colher (café) de fermento em pó",
+      "1 colher (sopa) bem cheia de farinha de aveia",
+      "farinha de trigo para empanar",
+      "1 colher (sopa) de manteiga derretida para untar a forma"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escorra muito bem os inhames para tirar o máximo de água e amasse com um garfo ",
+      "Junte o ovo inteiro batido, os temperos, o queijo ralado, o fermento e a aveia e mexa bem para incorporar todos os ingredientes.",
+      "Molde os bolinhos com cuidado, enfarinhando a mão para que não grude",
+      "Passe levemente pela farinha de trigo para empanar e coloque na assadeira com a manteiga derretida.",
+      "Role os bolinhos para que a manteiga os envolva por completo.",
+      "Leve ao forno preaquecido na temperatura de 240° C por aproximadamente 30 minutos",
+      "Vire os bolinhos na metade do tempo com cuidado, para que dourem dos dois lados.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: a quantidade de aveia descrita, é suficiente para enxugar a massa e poder molda-la. Os bolinhos depois de assados ficam super macios por dentro. Usei forninho eletrico na graduação máxima de 240, não testei em forno à gás. Vou testar colocar a massa em forminhas, para poder tirar a farinha de trigo e deixar os bolinhos mais lights"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "ROSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302945-assadinho-nutritivo-de-inhame-e-aveia.html"
+}

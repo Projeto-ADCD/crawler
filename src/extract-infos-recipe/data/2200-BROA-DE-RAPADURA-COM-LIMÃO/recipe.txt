@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BROA DE RAPADURA COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "350 g de farinha de trigo",
+      "500 g de fubá",
+      "2 colheres (sopa) de fermento de bolo",
+      "4 colheres de farinha de aveia",
+      "4 colheres de uva passa",
+      "1 xícara de óleo",
+      "300 g de rapadura",
+      "2 xícaras de água",
+      "1/2 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a rapadura com 2 xícaras de água.",
+      "Em uma vasilha, coloque todos os ingredientes, deixando o limão por último (suco mais a raspa da casca)",
+      "Coloque em uma forma untada, leve ao forno preaquecido a 180° C por 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "RONALD GOULART",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305730-broa-de-rapadura-com-limao.html"
+}

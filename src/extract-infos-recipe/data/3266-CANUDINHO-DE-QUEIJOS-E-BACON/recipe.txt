@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CANUDINHO DE 3 QUEIJOS E BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de creme de ricota",
+      "200 g de mussarela ralada ",
+      "50 g de queijo parmesão ralado",
+      "300 g de bacon",
+      "1 saco de canudinhos comprados prontos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o creme de ricota, a mussarela e o queijo parmesão até obter uma pasta e reserve",
+      "Corte o bacon em cubos bem pequenos e frite até que fiquem crocantes",
+      "Encha os cones com o creme de queijo",
+      "Salpique o bacon sobre os cones e sirva em seguida"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita de Anderson dos Anjos Queiroz "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303638-canudinho-de-3-queijos-e-bacon.html"
+}

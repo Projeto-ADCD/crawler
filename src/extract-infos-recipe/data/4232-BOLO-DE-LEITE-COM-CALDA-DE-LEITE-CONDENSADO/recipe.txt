@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE LEITE COM CALDA DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 colher (chá) de fermento químico em pó",
+      "200 g de farinha de trigo",
+      "125 ml de leite",
+      "1 colher (sopa) de manteiga",
+      "200 g de açúcar",
+      "1 colher (café) de essência de baunilha"
+    ],
+    "CALDA": [
+      "1 lata de leite condensado (a mesma medida de leite)",
+      "Baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "BOLO:": [
+      "Junte a farinha com o fermento e passe a mistura uma vez pela peneira.",
+      "Bata os ovos com o açúcar até obter uma mistura homogênea.",
+      "Ferva o leite e a manteiga e acrescente o líquido à mistura de ovos e açúcar, misturando sempre.",
+      "Acrescente aos poucos a farinha e o fermento (já misturados) e a essência de baunilha. Misture bem.",
+      "Coloque a massa em uma forma untada e leve ao forno pré-aquecido por 40 minutos na temperatura de 180 graus.",
+      "Verifique o cozimento da massa com um palito."
+    ],
+    "CALDA": [
+      "Leve ao fogo baixo, mexendo sempre até iniciar a fervura (30 minutos).",
+      "Desligue o fogo e use fria."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BELLA BELLINHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301539-bolo-de-leite-com-calda-de-leite-condensado.html"
+}

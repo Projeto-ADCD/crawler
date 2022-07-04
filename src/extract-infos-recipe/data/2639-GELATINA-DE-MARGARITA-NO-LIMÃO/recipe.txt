@@ -1,0 +1,33 @@
+{
+  "nome_receita": "GELATINA DE MARGARITA NO LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "90 ml de tequila prata",
+      "60 ml de Contreau",
+      "30 ml de suco de limão",
+      "2 pacotes de gelatina de limão",
+      "6 limões",
+      "2 litros de água",
+      "1 colher (chá) de bicarbonato de sódio",
+      "1 xícara de açúcar cristal",
+      "sal para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a tampa dos limões",
+      "Encha uma panela com 2 litros de água e deixe ferver",
+      "Adicione o bicarbonato, o açúcar e os limões e deixe cozinhar por 50 minutos",
+      "Escorra, deixe esfriar e retire o interior com auxílio de uma colher cuidadosamente para não rasgar o fundo ou as laterais",
+      "Deixe secar completamente",
+      "Faça a gelatina conforme as instruções do fabricante e coloque no liquidificador com o suco de limão, a tequila e o contreau",
+      "Bata e distribua pelos limões",
+      "Leve à geladeira por pelo menos 4 horas ou até firmar",
+      "Retire da geladeira, umedeça as bordas, passe a borda no sal e sirva. "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304759-gelatina-de-margarita-no-limao.html"
+}

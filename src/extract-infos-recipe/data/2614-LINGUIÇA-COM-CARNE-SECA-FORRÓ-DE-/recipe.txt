@@ -1,0 +1,26 @@
+{
+  "nome_receita": "LINGUIÇA COM CARNE-SECA (FORRÓ DE 2)",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne-seca limpa e dessalgada",
+      "500 g de linguiça calabreza sem pimenta sem pele e picada fina.",
+      "1 cebola grande cortada em juliene",
+      "1 tomate grande sem semente picado",
+      "manteiga quanto baste",
+      "salsa e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a linguiça na manteiga até dourar",
+      "Coloque a carne-seca e refogue por 5 minutos",
+      "Acrescente a cebola e refogue até ficar transparente.",
+      "Acrescente o tomate, a salsa e a cebolinha",
+      "Mexa bem e cozinhe com a panela tampada em fogo baixo por 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "FLAVIO FERNANDES ALVARENGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304801-linguica-com-carne-seca-forro-de-2.html"
+}

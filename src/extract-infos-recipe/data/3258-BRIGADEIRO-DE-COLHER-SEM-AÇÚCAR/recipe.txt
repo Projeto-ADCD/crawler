@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BRIGADEIRO DE COLHER SEM AÇÚCAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "80 g de leite em pó sem lactose",
+      "60 g de xilitol ou açúcar demerara",
+      "100 ml de água fervente",
+      "30 g de óleo de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater no liquidificador todos os ingredientes",
+      "Coloque em uma panela de fundo grosso em fogo baixo",
+      "Mexa até engrossar e ficar no ponto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SOUDIET SOUDIET",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303649-brigadeiro-de-colher-sem-acucar.html"
+}

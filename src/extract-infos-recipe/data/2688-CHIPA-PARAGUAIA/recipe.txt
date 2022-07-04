@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CHIPA PARAGUAIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de polvilho doce (180 g)",
+      "2 colheres (sopa) de manteiga ou margarina c/ sal ou s/ sal (25 g)",
+      "1 ovo (50 g)",
+      "1 e 1/2 xícara (chá) de queijo meia cura, mussarella, prato ou parmesão ralado (170 g)",
+      "5 colheres (sopa) de leite (60 ml)",
+      "1/2 colher (sopa) fermento em pó (7 g)",
+      "1 colher (chá) de sal (5 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha coloque o polvilho, a manteiga ou margarina e o ovo",
+      "Misture até ficar soltinho",
+      "Coloque o queijo e misture",
+      "Coloque o fermento e sal",
+      "Mexa novamente",
+      "Coloque o leite e sove ",
+      "Modele e coloque para assar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "MONICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304650-chipa-paraguaia.html"
+}

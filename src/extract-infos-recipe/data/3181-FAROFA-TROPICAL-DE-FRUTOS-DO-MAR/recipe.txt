@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FAROFA TROPICAL DE FRUTOS DO MAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 polvo pequeno",
+      "500 g de lula",
+      "500 g de mariscos",
+      "500 g de camarão 7 barba limpo",
+      "2 cebolas roxas",
+      "1 cabeça de alho",
+      "pimenta-do-reino branca e cominho moídos",
+      "1 pimentão vermelho",
+      "1 pimentão verde",
+      "1 pimentão amarelo",
+      "2 cenouras raladas",
+      "1 maço de coentro",
+      "azeite e sal a gosto",
+      "1 kg de farinha "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o polvo na água com sal e vinagre por 20 minutos",
+      "Enquanto isso corte as lulas, os mariscos e o camarão em pedaços bem pequenos",
+      "Corte as cebolas em cubinhos, corte o alho em lascas, os pimentões em cubos",
+      "Coloque 50 ml de azeite numa panela grande, adicione a cebola, o alho e deixe ficar clarear",
+      "Adicione as lulas e os mariscos",
+      "Corte o polvo em tirinhas pequenas e adicione na panela também",
+      "Deixe fritar por 10 minutos, depois adicione os pimentões a pimenta-do-reino, o cominho e sal a gosto, sempre mexendo pra ficarem cozidos por igual",
+      "Em seguida adicione os camarões, deixe cozinhar até secar o líquido que vão soltar, assim que secar adicione as cenouras e a farinha",
+      "Mexa até ficarem bem soltos, acerte o sal e por fim adicione o coentro e mexa pra misturar bem",
+      "Coloque numa travessa e sirva",
+      "Serve até 20 pessoas "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EVALDO VIEIRA DOS SANTOS ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303773-farofa-tropical-de-frutos-do-mar.html"
+}

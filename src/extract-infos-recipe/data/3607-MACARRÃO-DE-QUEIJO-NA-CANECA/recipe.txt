@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MACARRÃO DE QUEIJO NA CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de macarrão",
+      "1 xícara de água",
+      "sal a gosto",
+      "1/4 de xícara de leite",
+      "1 xícara de queijo mussarela (se quiser coloque presunto também)",
+      "1 colher (sopa) de manteiga",
+      "sal e pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro junte o macarrão, a água e um pouco de sal",
+      "Depois coloque no microondas por 4 minutos, fique de olho para a água não subir e molhar seu microondas",
+      "Quando a massa estiver cozida adicione na caneca o leite, a mussarela, a manteiga, sal a gosto (se preciso) e a pimenta-do-reino",
+      "Com isso misture bem para o queijo derreter com o macarrão",
+      "Se quiser coloque mais uns segundinhos no microondas",
+      "Depois coloque no topo algum tempero de seu gosto "
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ROSE FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303057-macarrao-de-queijo-na-caneca.html"
+}

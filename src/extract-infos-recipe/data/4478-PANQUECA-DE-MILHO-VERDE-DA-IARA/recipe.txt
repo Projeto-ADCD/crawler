@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PANQUECA DE MILHO VERDE DA IARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 espiga de milho",
+      "1 ovo",
+      "1 e 1/2 xícara (chá) de leite",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de açúcar",
+      "2 colheres de sopa de farinha de trigo e 02 colheres de sopa de coco ralado."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire o milho do sabugo",
+      "Coloque no liquidificador com o ovo e o leite.",
+      "Bata bem e em seguida, coloque o açúcar, a manteiga, o coco e a farinha.",
+      "Bata bem até ficar homogêneo.",
+      "Aqueça uma frigideira",
+      "Coloque um pouco de manteiga para untar.",
+      "Em seguida, vá colocando com uma concha porções da massa no centro da frigideira.",
+      "Gire devagar para que a panqueca fique compacta e asse por igual.",
+      "Depois de assado um lado, vire com cuidado e asse o outro.",
+      "Faça esse procedimento até acabar a massa.",
+      "Sirva com um gostoso café e bom apetite!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA:Pode ser servida também no café da manhã."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IARA BEZERRA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301024-panqueca-de-milho-verde-da-iara.html"
+}

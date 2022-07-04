@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de água",
+      "1 colher (sobremesa) de fermento",
+      "1/2 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes da massa em uma vasilha, mexendo bem até formar uma massa homogênea.",
+      "Aqueça o óleo.",
+      "Quando tiver quente, coloque com ajuda de uma colher um pouco da massa, sempre fazendo bolinhas.",
+      "As bolinhas não devem ser muito grandes, para não correr o risco de ficarem cruas por dentro.",
+      "Assim que ficarem douradas, retire e deixe-as secar em papel toalha.",
+      "Para polvilhar, misture o açúcar e a canela a gosto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "RICHARD MATA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300537-bolinho-de-chuva-vegano.html"
+}

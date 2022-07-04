@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE BOLACHA NEGRESCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de leite condensado",
+      "2 copos de leite",
+      "3 ovos",
+      "2 pacotes de bolacha negresco",
+      "1 caixinha de creme de leite",
+      "8 colheres de açúcar",
+      "2 colheres de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione em uma panela os 2 leite condensado, 2 copos de leite, tire as gemas dos ovos e adicione junto ao leite condensado e o leite.",
+      "Leve a panela até o fogo médio e mexa até ficar consistente.",
+      "Apanhe uma vasilha de vidro e coloque os itens que preparou na panela.",
+      "Bata as claras que sobraram das gemas, na mão ou batedeira adicionando as 8 colheres de açúcar.",
+      "Bata até ficar homogêneo, pegue uma panela pequena adicione um pouco de leite com 2 colheres do achocolatado",
+      "Ferva e deixe esfriar, molhe as bolachas na calda que fez.",
+      "Coloque aos poucos em cima do creme.",
+      "Já com as claras no ponto de neve coloque em cima das bolachas.",
+      "Leve à geladeira por 2 horas está pronto para servir.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "BRUNA BIBIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303981-torta-de-bolacha-negresco.html"
+}

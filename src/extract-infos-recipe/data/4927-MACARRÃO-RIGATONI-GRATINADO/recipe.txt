@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MACARRÃO RIGATONI GRATINADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de manteiga ou margarina",
+      "1/2 cebola picada",
+      "3 colheres (sopa) de extrato de tomate",
+      "2 colheres (sopa) de amido de milho",
+      "500 ml de leite frio",
+      "1 sachê de tempero pronto",
+      "1/2 colher (chá) de sal",
+      "1 pitada de noz-moscada",
+      "1/2 pacote de macarrão rigatoni cozido",
+      "150 g de presunto cortado em cubos",
+      "150 g de queijo mussarela cortado em cubos",
+      "3 colheres (sopa) de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média, coloque a mateiga e leve ao fogo médio para aquecer.",
+      "Junte a cebola e refogue até dourar.",
+      "Acrescente o extrato de tomate, o amido de milho dissolvido no leite, o tempero pronto, o sal e a noz-moscada",
+      "Mexa até engrossar, quado virar um creme retire do fogo e reserve.",
+      "Espalhe uma camada do molho no fundo de um refratário médio untado com mateiga.",
+      "Adicione a massa cozida, o presunto e o queijo e misture.",
+      "Regue com molho envolvendo toda massa.",
+      "Polvilhe o queijo ralado e leve ao forno médio (180° C) preaquecido, por 20 minutos ou até derreter o queijo.",
+      "Retire do forno e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DIÊNIFER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299939-macarrao-rigatoni-gratinado.html"
+}

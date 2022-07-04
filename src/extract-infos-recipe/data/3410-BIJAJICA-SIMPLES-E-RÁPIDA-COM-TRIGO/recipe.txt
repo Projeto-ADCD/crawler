@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BIJAJICA SIMPLES E RÁPIDA COM TRIGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "1 colher (sopa) de fermento",
+      "4 copos de trigo ou coloque trigo até dar o ponto de bolar as rosquinhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até que a massa fique pronta para enrolar",
+      "Aqueça o azeite numa panela funda e coloque as rosquinhas",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "22 PORÇÕES",
+  "autor": "TAINÃ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303420-bijajica-simples-e-rapida-com-trigo.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BANOFF DA NICOLY",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g bolacha maisena",
+      "4 colheres cheias de manteiga ou margarina",
+      "600 g de doce de leite",
+      "1 pote de nata",
+      "3 colheres de açúcar",
+      "4 bananas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture as bolachas maisena no liquidificador e reserve.",
+      "Derreta a manteiga no micro-ondas e em seguida misture com a bolacha já triturada em um pote.",
+      "Após misturar, use uma forma com o fundo removível e acrescente essa massa ao fundo, modelando com os dedos com espessura de 1 cm",
+      "Após, leve a massa ao forno durante 10 minutos",
+      "Enquanto a massa está ao forno, aproveite para fazer sua nata ",
+      "Acrescente a nata na batedeira, ela tem que estar bem gelada",
+      "Bata até ela começar a engrossar",
+      "Em seguida, acrescente o açúcar e bata até ficar em ponto de nata",
+      "Reserve a nata",
+      "Após 10 minutos, retire sua massa do forno e espere esfriar",
+      "Em seguida corte rodelas da banana e acrescente na superfície da massa",
+      "Após, acrescente o doce de leite e, caso esteja com dificuldade para espalhar, esquente o doce de leite uns 30 segundos no micro-ondas (vai facilitar bastante sua vida)",
+      "Após, acrescente sua nata.",
+      "A decoração fica por conta da sua criatividade",
+      "Leve à geladeira durante 2 horas",
+      "Ou ao freezer durante 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NICOLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300346-banoff-da-nicoly.html"
+}

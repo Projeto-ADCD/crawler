@@ -1,0 +1,20 @@
+{
+  "nome_receita": "GLACÊ FÁCIL COM 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de água",
+      "150 g de açúcar",
+      "1 colher (sopa) de emulsificante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira, adicione todos os ingredientes",
+      "Bata até dobrar de tamanho e até dar ponto de bico."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NATALIA FURQUIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301829-glace-facil-com-3-ingredientes.html"
+}

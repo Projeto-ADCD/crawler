@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTINHA DE CHOCOLATE INFÂNCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote biscoito maisena",
+      "leite para molhar os biscoitos",
+      "100 g de manteiga sem sal em temperatura ambiente",
+      "1 xícara de açúcar",
+      "1 e 1/2 xícara de chocolate em pó",
+      "2 gemas peneiradas",
+      "1 lata de creme de leite gelado sem soro",
+      "chocolate em raspas ou granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a manteiga, o açúcar, as gemas e o chocolate em pó para misturar bem",
+      "Acrescente o creme de leite e misture bem",
+      "Pegue uma travessa pequena, molhe os biscoitos no leite forte o fundo",
+      "Por cima coloque uma camada do creme de chocolate e vá alternando a camada de biscoitos e creme.",
+      "Por último deixe uma camada do creme de chocolate e coloque o granulado ou as raspas como preferir.",
+      "Leve para gelar bem e sirva "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARIANA AURORE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304671-tortinha-de-chocolate-infancia.html"
+}

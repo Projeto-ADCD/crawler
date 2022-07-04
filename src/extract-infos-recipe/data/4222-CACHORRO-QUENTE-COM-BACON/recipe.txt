@@ -1,0 +1,34 @@
+{
+  "nome_receita": "CACHORRO QUENTE COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 gramas de bacon",
+      "1 cebola média",
+      "3 dentes de alho",
+      "1 tomate grande",
+      "700 gramas de salsichas",
+      "1 lata/pacote de massa de tomate",
+      "Tempero e sal a gosto",
+      "Óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fervente as salsichas.",
+      "Jogue o alho picado em cubinhos na panela com óleo e deixe dourar.",
+      "Coloque o bacon picado em cubos e frite um pouco.",
+      "Coloque a cebola picada em cubos e deixe dourar um pouco em seguida um pouco de ketchup.",
+      "Coloque o tomate picado e deixe até desmanchar.",
+      "Quando o tomate desmanchar coloque a massa de tomate com um pouco de água e deixe ferventar.",
+      "Prove e coloque sal e tempero a gosto (eu uso somente sal e um pouco de pimenta-do-reino).",
+      "Coloque as salsichas e deixe mais um pouco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Uma variação seria com creme de leite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANESSA KRISTIN STORCH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301555-cachorro-quente-com-bacon.html"
+}

@@ -1,0 +1,48 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO COM PURÊ DE BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango limpo e sem osso",
+      "1 lata de milho verde",
+      "1 porção de ervilha fresca (200 g)",
+      "1 cebola pequena picada",
+      "1 cubo de caldo de frango",
+      "1 colher (sopa) de farinha de trigo",
+      "3 colher (sopa) de manteiga",
+      "6 batatas grandes",
+      "1 bisnaga de requeijão ou queijo cremoso",
+      "1/2 copo leite integral",
+      "200 g de mussarela triturada ou fatiada",
+      "sal a gosto",
+      "cheiro-verde (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe e depois desfie o peito de frango e reserve",
+      "Em uma panela coloque 1 colher de manteiga e coloque a cebola picada para refogar em fogo baixo para não queimar ",
+      "Quando a cebola estiver um pouco transparente, acrescente o frango desfiado e mexa até misturar e deixe fritar um pouco",
+      "Após acrescente o caldo de frango dissolvido em 1/2 copo de água quente e mexa, prove o sal e se necessário acrescente mais até acertar",
+      "Deixe o frango ferver por um minuto e depois acrescente o milho e a ervilha e mexa",
+      "Se a água secar coloque mais um pouco, acrescente o cheiro-verde picado e mexa",
+      "Num copo dissolva a farinha de trigo em 1/2 copo de água e vá acrescentando aos poucos ao frango conforme seu gosto (isso serve para manter a umidade do frango)",
+      "Purê de batata",
+      "Descasque e pique a batata em pedaços pra facilitar o cozimento ",
+      "Após cozidas amasse com um garfo ou espremedor de batatas",
+      "Numa panela em fogo baixo, coloque as batatas amassadas",
+      "Coloque 2 colheres de manteiga, sal a gosto e misture",
+      "Depois vá acrescentando o leite aos poucos e mexendo até ao ponto que você goste, quanto mais leite mais mole fica",
+      "Reserve",
+      "Montagem",
+      "Em um pirex coloque o recheio de frango e vá espalhando com uma colher",
+      "De preferência, uma camada de 3 a 4 cm de altura, em seguida coloque o requeijão ou queijo cremoso",
+      "Não precisa ser uma camada uniforme pois quando aquecer ela vai se espalhar, coloque o purê de batatas por cima fazendo outra camada e por fim cubra com mussarela ",
+      "Leve ao forno de 180° a 220°C por 15 a 20 minutos para derreter e gratinar o queijo ",
+      "Pronto, é só servir"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCO HENRIQUE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303169-fricasse-de-frango-com-pure-de-batata.html"
+}

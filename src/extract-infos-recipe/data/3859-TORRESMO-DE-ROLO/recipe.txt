@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORRESMO DE ROLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de cachaça branca",
+      "2 kg de barriga de porco ou panceta",
+      "pimenta-do-reino a gosto",
+      "sal fino a gosto",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Umideça a barriga de porco com a cachaça branca e deixe descansar por 5 minutos",
+      "Tempere os dois lados com pimenta-do-reino e sal a gosto",
+      "Enrrole bem apertado com um barbante, como um rocambole",
+      "Amarre bem firme, para que não escape",
+      "Coloque no forno sem cobrir por 1 hora e 10 minutos a 220° C",
+      "Depois de assado, retire do forno e deixe esfriar para cortar",
+      "Corte em rodelas e retire o barbante",
+      "Aqueça o óleo (bem quente) para fritar as rodelas",
+      "Depois de bem quente, coloque uma rodela de cada vez para fritar até dourar os dois lados (sempre virando).",
+      "Retire depois de frito e coloque no papel-toalha para retirar o excesso de óleo",
+      "Corte ainda quente e sirva com uma salada verde"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARCOS BASTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302495-torresmo-de-rolo.html"
+}

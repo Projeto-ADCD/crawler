@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA SURPRESA ESPECIAL DA TITIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 linguiças calabresas cortadas em cubinhos",
+      "200 g de bacon cortado em cubinhos (sem a pele)",
+      "2 colheres (sopa) de óleo",
+      "3 cenouras médias, crua ralada grossa",
+      "1 lata de abacaxi em caldas picado (sem a calda)",
+      "1 lata de milho verde",
+      "1 cebola média",
+      "3 dentes de alho amassados ou triturados",
+      "1 colher de chá de orégano",
+      "1 pacote de 500 g de farofa pronta",
+      "azeitonas picadas e sem caroço",
+      "uvas passas",
+      "caldo de dois limões",
+      "salsinha e cebolinha (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela aqueça as duas colheres de óleo, em seguida coloque o bacon cortado e deixe fritar em fogo médio por cinco minuto",
+      "Mexendo sempre para que frite por igual",
+      "Após os cinco minutos, coloque a linguiça calabresa junto com o bacon e deixe fritar por mais cinco minutos",
+      "Quando estiver dourado tanto o bacon quanto a linguiça calabresa junte o alho e a cebola e deixe dourar",
+      "Adicione o milho, o orégano, a salsinha, a cebolinha e desligue o fogo",
+      "Acrescente a farofa pronta, misturando os outros ingredientes, o abacaxi picado sem a calda, azeitonas, uvas passa e a cenoura crua ralada grossa",
+      "Mexa bem e adicione o caldo do limão"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "INÊS RODRIGUES DE SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303583-farofa-surpresa-especial-da-titia.html"
+}

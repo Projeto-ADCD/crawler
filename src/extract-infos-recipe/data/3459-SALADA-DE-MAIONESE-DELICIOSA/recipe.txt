@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SALADA DE MAIONESE DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas grandes",
+      "3 cenouras médias",
+      "1 lata de ervilha",
+      "1 lata de milho",
+      "2 maçãs verdes",
+      "4 ovos cozidos picados",
+      "100 g de azeitona fatiada sem caroço",
+      "sal a gosto",
+      "coentro picado a gosto",
+      "1 vidro de maionese (500 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata e a cenoura e corte em cubos",
+      "Coloque os em um recipiente, juntamente com a ervilha, o milho, as maçãs cortadas em cubos sem casca e sementes,os ovos cozidos picados, a azeitona e o coentro picado",
+      "Misture tudo, acerte o sal e acrescente a maionese",
+      "Misture novamente muito bem",
+      "Leve à geladeira até a hora de servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TATY TRAVASSOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303315-salada-de-maionese-deliciosa.html"
+}

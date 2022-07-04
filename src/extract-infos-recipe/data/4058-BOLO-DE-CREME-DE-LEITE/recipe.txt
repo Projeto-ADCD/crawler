@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BOLO DE CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha",
+      "1 e 1/2 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "3 ovos",
+      "1 caixa ou lata creme de leite",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador.",
+      "Leve para assar, com o forno preaquecido por aproximadamente 40 minutos a 200°C."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "BRUNA DRIUSSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302001-bolo-de-creme-de-leite.html"
+}

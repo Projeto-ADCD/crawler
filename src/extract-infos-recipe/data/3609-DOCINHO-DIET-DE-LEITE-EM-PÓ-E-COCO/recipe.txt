@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCINHO DIET DE LEITE EM PÓ E COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de adoçante culinário stévia",
+      "2 colheres (sopa) de coco ralado seco sem açúcar",
+      "2 colheres (sopa) de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes, até formar uma massa. Se ficar muito grudenta.. vá adicionando mais leite em pó, mas não deixe muito seca!",
+      "Passe margarina nas mãos, para poder enrolar as bolinhas.",
+      "Finalize passando as bolinhas em coco ralado ou leite em pó!",
+      "Coloque em forminhas e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JUMES FELINTO AMANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303050-docinho-diet-de-leite-em-po-e-coco.html"
+}

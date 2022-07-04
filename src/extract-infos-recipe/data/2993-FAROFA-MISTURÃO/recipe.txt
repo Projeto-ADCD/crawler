@@ -1,0 +1,36 @@
+{
+  "nome_receita": "FAROFA MISTURÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de feijão fradinho cozido e escorrido",
+      "100 g de tomate sem sementes picadinho",
+      "50 g de pimenta biquinho inteiras",
+      "100 g de cebola roxa picada",
+      "100 g de pimentão verde picado",
+      "100 g de salsinha picada",
+      "100 g de milho verde em lata",
+      "100 g de ervilha em lata",
+      "150 g de bacon picado e frito",
+      "250 g de linguiça calabresa cortada em rodelas finas",
+      "1 kg de costela bovina cozida e desfiada (reserve 200 ml do caldo)",
+      "6 ovos cozidos e picados",
+      "500 g de farofa tradicional ",
+      "200 g de farofa com tempero suave"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon e a linguiça separadamente, escorra e reserve.",
+      "Em um recipiente, misture as farofas.",
+      "Acrescente na mistura de farofas o feijão fradinho, o pimentão, o milho, a ervilha e a pimenta, misture bem.",
+      "Acrescente após a costela e o tomate e misture.",
+      "Acrescente por fim o bacon, a linguiça e os ovos, misture.",
+      "Regue por cima com o caldo da costela e misture bem.",
+      "Acrescente a salsinha por cima e sirva com salada de folhas verdes."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELAINE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304019-farofa-misturao.html"
+}

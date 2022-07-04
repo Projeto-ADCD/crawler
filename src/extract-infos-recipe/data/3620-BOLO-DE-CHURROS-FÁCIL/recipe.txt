@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE CHURROS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 e 1/2 xícara de açúcar",
+      "2 xícara de farinha",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento",
+      "1 lata de doce de leite pronto pastoso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater no liquidificador os líquidos mais o açúcar",
+      "Em uma bacia, adicione a farinha, a canela e o fermento",
+      "Misture e leve pra assar em forma de buraco (pudim) por 40 minutos a 200ºC",
+      "Depois de frio desenforme e cortar ao meio",
+      "Passe o doce de leite (no meio e em cima)",
+      "Polvilhe canela e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SUZANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303029-bolo-de-churros-facil.html"
+}

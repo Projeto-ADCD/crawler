@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE LIQUIDIFICADOR COM LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1/2 copo de óleo",
+      "1/2 pacote de queijo ralado",
+      "4 colheres (sopa) de manteiga",
+      "10 colheres (sopa) de açúcar",
+      "5 colheres (sopa) de leite em pó",
+      "1 copo de água morna (300 ml)",
+      "2 pacotes de fermento instantâneo",
+      "farinha de trigo o suficiente (600 g)",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador com excesso da farinha de trigo",
+      "Coloque esse preparo em uma vasilha e acrescente a farinha de trigo aos poucos, misturando até ficar na consistência um pouco mais grossa que o bolo.",
+      "Coloque em uma forma untada, cubra com uma toalha limpa e deixe descansar em torno de uns 30 minutos",
+      "Em seguida, leve ao forno preaquecido a 200º C para assar por 20 minutos.",
+      "Obs: se quiser colocar recheio também fica muito bacana como: queijo e presunto picados, sardinha ou frango."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ROBSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305782-pao-de-liquidificador-com-leite-em-po.html"
+}

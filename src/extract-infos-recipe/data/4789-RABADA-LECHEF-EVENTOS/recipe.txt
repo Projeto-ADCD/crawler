@@ -1,0 +1,36 @@
+{
+  "nome_receita": "RABADA LECHEF EVENTOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 kg de rabo bovino",
+      "1 lata de extrato de tomate ou molho de tomate",
+      "2 folhas de louro",
+      "1 cebola grande",
+      "50 g de manjericão ou alfavaca",
+      "1/2 cabeça de alho",
+      "água para cobrir a rabada",
+      "50 ml de azeite",
+      "sal à gosto",
+      "pimenta-do-reino à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Temperar o rabo de boi com sal, pimenta do reino e alho batido.",
+      "Aqueça a panela de pressão, colocar azeite, refogar a cebola em cubinhos até ficar translúcida.",
+      "Acrescente o rabo de boi já temperado e doure.",
+      "Acrescente o extrato de tomate, as folhas de louro e o manjericão.",
+      "Adiciome uma pitada de açúcar para quebrar a acidez do extrato.",
+      "Refogue por 3 minutos e acrescente água até cobrir o rabo bovino por 2 dedos .",
+      "Em fogo médio, deixe a rabada cozinhando por 30 à 50 minutos após pegar pressão.",
+      "Observe o nível de água e se necessário, corrija o sal e deixe por mais 20 minutos ou até a carne começar a se soltar do osso."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica do chef: sirva com polenta e agrião."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "CHEF RAFLA F",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300226-rabada-lechef-eventos.html"
+}

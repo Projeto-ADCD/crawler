@@ -1,0 +1,39 @@
+{
+  "nome_receita": "FRICASSÊ DE FRANGO SEM MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "2 dentes de alho",
+      "1 cebola grande",
+      "1 colher (chá) de colorau",
+      "2 tomates sem pele e sem semente",
+      "1/2 xícara de azeitona",
+      "2 copos de água",
+      "1 caldo sabor frango",
+      "3 Colheres de trigo",
+      "2 colheres de margarina",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão",
+      "200 g de mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, refogue o alho, a cebola, o colorau e o frango",
+      "Junte o tomate e azeitona",
+      "Quando ferver, adicione o caldo de frango dissolvido em 2 copos de água quente",
+      "Cozinhe o frango",
+      "Reserve o caldo e espere esfriar",
+      "Desfie o frango cozido e reserve",
+      "No liquidificador, bata 2 copos de caldo, trigo, e margarina",
+      "Leve a mistura do liquidificador ao fogo até formar um creme e adicione o creme de leite",
+      "Montagem:",
+      "Em um refratário de vidro: requeijão, frango desfiado, creme e mussarela",
+      "Leve ao forno pré aquecido até derreter o queijo"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EDMAR DANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302943-fricasse-de-frango-sem-milho.html"
+}

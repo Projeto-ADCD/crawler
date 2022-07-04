@@ -1,0 +1,31 @@
+{
+  "nome_receita": "COOKIES SUPERFÁCEIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de açúcar",
+      "5 colheres (sopa) de manteiga",
+      "2 ovos",
+      "3 xícaras de farinha",
+      "1 colher (chá) de bicarbonato de sódio ou fermento em pó",
+      "120 g de chocolate picado",
+      "essência de baunilha (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar com a manteiga até virar um creme",
+      "Adicione os ovos e mexa bem",
+      "Vá colocando a farinha aos poucos e mexendo até virar uma massa",
+      "Coloque o bicarbonato/fermento e mexa",
+      "Coloque o chocolate picado na mistura e mexa.",
+      "Se não estiver grudando, pode até mexer com a mão que é mais fácil!",
+      "E por fim adicione a essência de baunilha, que é opcional.",
+      "Unte um tabuleiro (precisa ser um pouco grande por os biscoitos crescem um pouco ), e coloque pequenas porções separadinhas",
+      "Ligue o forno à 180° C e deixe os cookies assando por 15 a 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "17 PORÇÕES",
+  "autor": "NINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305441-cookies-superfaceis.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "DOCE DE LARANJA DO EDY",
+  "ingredientes": {
+    "DEFAULT": [
+      "20 laranjas pera",
+      "3 kg de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale as laranjas pera até tirar o sumo e lave bem.",
+      "Leve ao fogo no tempo de 50 minutos até ficar cozida.",
+      "Dispense a primeira água, ferva novamente deixando de molho na água de uma noite para o dia (12 horas)",
+      "Descarte a água.",
+      "Faça uma calda com 3 kg de açúcar",
+      "Junte as laranjase e deixa ferver até engrossar ao gosto da pessoa."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RONISE ALMEIDA PINTO BARBOSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304057-doce-de-laranja-do-edy.html"
+}

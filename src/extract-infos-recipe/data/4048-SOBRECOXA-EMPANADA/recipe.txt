@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SOBRECOXA EMPANADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de sobrecoxa sem pele",
+      "1 limão",
+      "tempero baiano",
+      "sal a gosto",
+      "alho amassado",
+      "maionese",
+      "farinha de rosca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o frango com limão, tempero baiano, sal e alho amassado.",
+      "Passe as sobrecoxas na maionese, depois na farinha de rosca.",
+      "Coloque pra assar no forno em 180° durante mais ou menos 1 hora e 20 minutos.",
+      "Depois, é só servir com acompanhamento que quiser."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JESSICA LIBARINO DE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302034-sobrecoxa-empanada.html"
+}

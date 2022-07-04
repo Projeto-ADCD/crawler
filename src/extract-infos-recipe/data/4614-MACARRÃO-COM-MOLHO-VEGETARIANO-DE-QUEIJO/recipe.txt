@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO COM MOLHO VEGETARIANO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de cebola picada",
+      "1 dente de alho triturado",
+      "100 g de ricota defumada (ou tofu)",
+      "2 colheres (sopa) de amido de milho",
+      "1 pitada de noz noscada",
+      "300 ml de leite",
+      "1 caixa de creme de leite",
+      "Salsinha e cebolinha picadas (a gosto)",
+      "Sal a gosto",
+      "1 pacote de macarrão(de sua preferência)",
+      "50 g de queijo de sua preferência",
+      "Parmesão ralado para polvilhar",
+      "Azeite para refogar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola no azeite, acrescente o alho, em seguida coloque o amido de milho com a noz moscada dissolvidos em um pouco de leite mexa, acrescente o restante do leite e o sal, mexendo sempre até engrossar.",
+      "Quando estiver encopardo, acrescente as ervilhas frescas já fervidas e os queijos. Mexa.",
+      "Desloque o fogo e acrescente o creme de leite, a salsinha e a cebolinha e misture bem.",
+      "Enquanto prepara o molho, cozinhe o macarrão.",
+      "Despeje o macarrão em um refratário, coloque o molho por cima, salpique o parmesão ralado e leve ao forno para gratinar.",
+      "Pode salpicar castanhas trituradas também."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Está receita é ovo lacto vegetariana. se você for vegano, substitua os queijos, leite e creme de leite por queijos e leite vegetal e a ricota defumada por tofu."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "AYSE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300721-macarrao-com-molho-vegetariano-de-queijo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO DE MAISENA CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de maisena",
+      "1 ovo",
+      "3 colheres de margarina",
+      "4 colheres de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a margarina",
+      "Misture a maisena, o açúcar, o ovo e a margarina derretida",
+      "Faça bolinhas pequenas e aperte elas com o garfo",
+      "Unte a forma com margarina",
+      "Coloque no forno em 180°C por aproximadamente 50 minutos",
+      "Espere dourar e prontinho"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FADINHA DO AMOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303452-biscoito-de-maisena-caseiro-facil.html"
+}

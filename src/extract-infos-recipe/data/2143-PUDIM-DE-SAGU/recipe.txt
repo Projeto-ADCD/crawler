@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PUDIM DE SAGU",
+  "ingredientes": {
+    "DEFAULT": [
+      "Sagu",
+      "300 g de sagu",
+      "800 ml de leite",
+      "200 ml de leite de coco",
+      "Creme",
+      "1 lata leite condensado",
+      "1 lata de leite (medida da lata de leite condensado)",
+      "4 ovos",
+      "1 colher (café) de baunilha",
+      "Calda",
+      "1 xícara de açúcar",
+      "1/2 xícara de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Sagu",
+      "Misture os ingredientes e deixe na geladeira por 12 horas",
+      "Creme",
+      "Bata tudo junto até ficar homogêneo e só então adicione o sagu hidratado e coco ralado a gosto.",
+      "Calda",
+      "Leve o açúcar ao fogo baixo em panela de fundo largo",
+      "Quando ficar dourado e uniforme adicione",
+      "1/2 xícara de água quente e mexa até ficar uma calda lisa.",
+      "Caramelize uma forma (com ou sem furo) com a calda e ponha o creme com sagu.",
+      "Cubra com papel-alumínio.",
+      "Leve ao fogo (180º C) por 2 horas e 30 minutos",
+      "Depois deixe esfriar e leve à geladeira por pelo menos 6 horas."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "SAWLLUS COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305904-pudim-de-sagu.html"
+}

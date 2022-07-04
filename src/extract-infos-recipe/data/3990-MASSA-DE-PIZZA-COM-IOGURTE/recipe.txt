@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MASSA DE PIZZA COM IOGURTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de farinha de trigo ",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de fermento químico",
+      "1 xícara de iogurte natural grego"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, misture a farinha de trigo, o sal, o fermento e o iogurte. ",
+      "Bata bem até formar uma massa homogênea. ",
+      "Abra a massa em uma forma untada e enfarinhada.",
+      "Leve ao forno preaquecido (220° C) por 40 minutos. ",
+      "Retire do forno e recheie como preferir. ",
+      "Volte ao forno (180° C) por mais 15 minutos. "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302241-massa-de-pizza-com-iogurte.html"
+}

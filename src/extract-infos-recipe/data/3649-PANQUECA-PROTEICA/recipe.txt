@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PANQUECA PROTEICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 scoop de whey protein",
+      "1 banana",
+      "óleo de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana, quebre os ovos e bata",
+      "Acrescente o whey e mexa",
+      "Em uma frigideira antianderente, coloque um fio de oléo de coco",
+      "Coloque a massa doure de um lado e vire até dourar."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ÉLIDA ROBERTA CORREIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302977-panqueca-proteica.html"
+}

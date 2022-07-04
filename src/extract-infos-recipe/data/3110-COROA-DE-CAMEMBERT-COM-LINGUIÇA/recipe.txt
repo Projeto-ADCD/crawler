@@ -1,0 +1,36 @@
+{
+  "nome_receita": "COROA DE CAMEMBERT COM LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 petit camembert Président",
+      "4 fatias de queijo mussarela Président",
+      "1 massa folheada redonda com 30 cm",
+      "500 g de linguiça de pernil fresca",
+      "1 gema",
+      "3 colheres (sopa) de chutney de tomate",
+      "1 colher (sopa) de salsinha picada para decorar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Congele o petit camembert Président",
+      "Descongele a massa folheada e arrume sobre uma forma que vá ao forno",
+      "Retire a linguiça da tripa e, sobre a massa folheada, faça um círculo, deixando mais ou menos 5 cm de borda.",
+      "Encape a linguiça com a massa folheada, de modo que a borda lembre a de uma borda de pizza recheada.",
+      "Aperte bem na junção das massas.",
+      "Pincele toda a massa com a gema.",
+      "Por cima arrume uniformemente as fatias de queijo mussarela Président",
+      "Coloque o queijo camembert Président congelado no centro da coroa e leve ao forno por 35 minutos ou até a massa dourar",
+      "Retire do forno e, ainda quente, espalhe o chutney de tomate por cima do camembert ",
+      "Salpique salsinha picadinha e sirva imediatamente",
+      "Fica ótimo sozinha ou acompanhado de salada"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Cozinha di Paula"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303865-coroa-de-camembert-com-linguica.html"
+}

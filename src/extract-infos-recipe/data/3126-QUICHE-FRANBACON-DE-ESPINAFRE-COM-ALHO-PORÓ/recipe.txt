@@ -1,0 +1,49 @@
+{
+  "nome_receita": "QUICHE FRANBACON DE ESPINAFRE COM ALHO PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de farinha de trigo sem fermento",
+      "200 g de manteiga Président gelada sem sal",
+      "2 ovos",
+      "2 g de sal",
+      "2 g de açúcar",
+      "300 g de peito de frango desfiado",
+      "200 g de bacon cortado em cubos ",
+      "1 alho poró picado",
+      "1 cebola média picada",
+      "1/2 lata de milho verde",
+      "50 ml de azeite de oliva ou óleo de soja",
+      "200 ml de creme de leite fresco",
+      "2 ovos",
+      "150 g de queijão parmesão Président",
+      "100 g de queijo minas Président",
+      "50 g de salsa e cebolinha picado (cheiro-verde)",
+      "1 dente de alho picado",
+      "sal e pimenta-do-reino a gosto",
+      "1/2 maço de espinafre "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, coloque a farinha de trigo, o açúcar, o sal, 2 ovos e misture bem",
+      "Em seguida, acrescente a manteiga picada em pedaços pequenos e vá misturando a massa até ficar homogênea e soltar das mãos",
+      "Deixe a massa descansar por 30 minutos fora da geladeira",
+      "Em uma panela, frite o bacon, refogue a cebola e o alho junto",
+      "Adicione o espinafre, refogue e depois acrescente o alho poró, refogando bem",
+      "Em seguida, coloque o frango desfiado, o milho, a salsinha e a cebolinha, tempere com sal e pimenta a gosto",
+      "Espere o recheio esfriar, enquanto isso abra a massa em uma forma crespa de 24 cm de diâmetro",
+      "Em uma tigela coloque o creme de leite fresco, 2 ovos, mexa com ajuda de um fuê, acerte o sal",
+      "Rale o queijo parmesão Président e o queijo Président, misture os dois fazendo assim um blend de queijos, divida em duas partes, uma parte misture com o recheio frio e a outra reserve",
+      "Abra a massa em uma forma crespa de 24 cm de diâmetro, em seguida coloque o recheio pronto",
+      "Espalhe sobre a massa, depois preencha a forma com o líquido preparado de creme de leite e ovos, por fim, coloque o restante do blend de queijos por cima pra decorar e ficar um gratinado legal",
+      "Leve ao forno preaquecido a 200°C por 40 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Pedro Henrique Mello"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303842-quiche-franbacon-de-espinafre-com-alho-poro.html"
+}

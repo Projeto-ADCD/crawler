@@ -1,0 +1,52 @@
+{
+  "nome_receita": "TROPEIRO DA FAMÍLIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de 500 g de feijão fradinho",
+      "2 gomos de paio pequenos",
+      "1 pacote de 500 g de farofa temperada tradicional",
+      "1 pacote de farinha de mandioca torrada ou farinha de mandioca grossa",
+      "1 pacote de 240 g de linguiça fina mista defumada",
+      "1 pacote de 400 g de linguiça portuguesa defumada ou calabresa",
+      "1 pedaço de bacon 150 g",
+      "1 pacote de couve picadinha ou um maço grande de couve",
+      "1 cebola grande",
+      "6 dentes de alho à sua moda",
+      "óleo",
+      "sal a gosto",
+      "torresmo picadinho no meio do feijão (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o feijão fradinho e coloque na panela de pressão já com a água quente",
+      "Junte o paio cortado em cubos grandes para cozinhar junto",
+      "Deixe pegar a pressão e conte aproximadamente 10 minutos",
+      "Deixa a pressão sair naturalmente abra e verifique se está cozido",
+      "O ponto certo do feijão é estar cozido, mas com o grão inteiro",
+      "Caso seja necessário cozinhe mais dois ou 3 minutos com atenção ao ponto",
+      "Escorra o feijão e reserve",
+      "Corte as linguiças em rodelas finas para a linguiça fina e cubos grandes para a portuguesa ou calabresa",
+      "Na panela junte óleo com bacon cortadinho e frite",
+      "Acrescente a cebola picadinha e o alho como você preferir",
+      "Eu soco alho em pilão com sal como se faz em minha família desde sempre",
+      "Refogue as linguiças e vá pingando água aos poucos até que ela hidrate",
+      "Abra espaço ao centro da panela e faça os ovos mexidos com uma pitada de sal",
+      "Após este refogado estar pronto, misture a farofa pronta aos poucos e intercale com a farinha de mandioca grossa ou torrada",
+      "A quantidade das farinhas é ponto de farofa",
+      "Misture o feijão fradinho que estava reservado à farofa",
+      "Não mexa demais para não desmanchar o feijão",
+      "Refogue a couve com óleo e alho acrescentando 1 pitada de sal e reserve",
+      "Leve o feijão tropeiro ao refratário e decore por cima com a couve refogada",
+      "O torresmo picadinho misturado ao meio do tropeiro e colocado por cima na decoração ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Aqui em casa faço sem torresmo na maioria das vezes\nA couve também pode estar à parte\nPor isso é tropeiro da família por ser ao gosto da minha família"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARCIA ADRIANA DE LIMA SILVA PRUDENTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303839-tropeiro-da-familia.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SUCO DE MORANGO COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 ml de água",
+      "6 limões",
+      "1 bandeja de morango",
+      "açúcar a gosto",
+      "gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Depois de lavar o limão, corte em quatro partes (assim facilita de tirar a casca do limão)",
+      "Deixe o gomo inteiro para colocar na centrífuga",
+      "Depois tire a as folhas do morango ,lave bem , pode por na centrífuga junto com o limão .",
+      "Depois misture com a quantidade de água indicada",
+      "Adoce a gosto, acrescente o gelo no copo individualmente",
+      "Pronto é só beber"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "SIDNEA ALCANTARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305603-suco-de-morango-com-limao.html"
+}

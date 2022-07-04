@@ -1,0 +1,54 @@
+{
+  "nome_receita": "HAMBURGÃO DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa ",
+      "15 g de fermento biológico fresco ",
+      "15 g de açúcar 65 ml de leite morno ",
+      "70 g de manteiga (derretida) ",
+      "200 ml de leite ",
+      "1 colher (sobremesa) de cebola flocada ",
+      "495 g xícaras (chá) de farinha de trigo ",
+      "1/2 colher (café) de sal gergelim a gosto ",
+      "Hambúrguer ",
+      "500 g de carne moída ",
+      "1 colher (sopa) de cebola flocada ",
+      "1 colher (sopa) de alho desidratado ",
+      "1 colher (sopa) de sal ",
+      "1/2 colher (chá) de pimenta-do-reino ",
+      "1/2 colher (chá) de orégano ",
+      "1/4 de colher (chá) de cominho moído ",
+      "1 pitada de canela ",
+      "1 colher (sopa) de azeite ",
+      "5 colheres (sopa) de farinha de rosca ",
+      "300 g de queijo mussarela ralado  "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Em uma tigela coloque o fermento, o açúcar e o leite morno, mexa até dissolver.",
+      "Deixe crescer ao abrigo da luz em lugar abafado (dentro de um micro-ondas desligado, por exemplo)",
+      "Em um bowl, junte a manteiga derretida, leite, cebola flocada e misture bem.",
+      "Adicione a farinha de trigo, sal e misture bem.",
+      "Comece adicionando a farinha de trigo aos poucos até que comece a ficar uma massa pesada.",
+      "Adicione o fermento e passe para uma bancada e comece a sovar por cerca de 20 minutos e se sentir que precisa adicione farinha aos poucos até ter uma massa que não grude tanto nas mãos, mas que não fique totalmente seca.",
+      "Coloque em uma tigela, tampe com um plástico filme e deixe crescer em um local abafado por 40 minutos ou se tiver com tempo coloque na geladeira por 12 horas.",
+      "Hambúrguer",
+      "Em uma tigela coloque a carne moída, cebola flocada, alho desidratado, sal, pimenta-do-reino, azeite, farinha e misture muito bem para ficar bem compactado e homogêneo.",
+      "Divida a carne em bolinhas e achate para modelar os hambúrgueres.",
+      "Montagem",
+      "Com a massa crescida divida com auxílio de um cortador",
+      "Modele bolinhas e abra com um rolo de forma que fique maior que o seu hambúrguer.",
+      "Coloque o queijo e por cima o hambúrguer.",
+      "Feche como se fosse uma trouxinha",
+      "Tome cuidado para fechar bem as emendas",
+      "Coloque em uma forma com a emenda virada para o fundo da forma e deixe crescer por mais 20 minutos em lugar abafado.",
+      "Pincele uma gema, salpique o gergelim e leve para assar em forno preaquecido a 180° C por cerca de 30 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305057-hamburgao-de-forno.html"
+}

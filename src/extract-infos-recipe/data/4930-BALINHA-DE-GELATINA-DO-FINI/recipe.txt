@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BALINHA DE GELATINA DO FINI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotinhos de gelatina incolor",
+      "2 pacotinhos da gelatina com o sabor de sua preferência",
+      "100 ml de água (temperatura ambiente)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a gelatina de sua preferência com a água até dissolver.",
+      "Depois adicione a gelatina incolor.",
+      "Deixe descançar por 5 minutos.",
+      "Depois dos 5 minutos, coloque a mistura por 30 segundos no micro-ondas.",
+      "Depois, é só colocar nas forminhas e congelar por 30 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Confira também a receita de gelatina colorida no TudoGostoso!"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299930-balinha-de-gelatina-do-fini.html"
+}

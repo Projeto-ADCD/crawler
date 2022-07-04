@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de leite líquido (mesma medida da caixa de leite condensado)",
+      "1 caixa de farinha de trigo (mesma medida da caixa de leite condensado)",
+      "1/2 xícara de açúcar",
+      "3 ovos",
+      "4 colheres de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater todos os ingredientes no liquidificador",
+      "Colocar a mistura em forma de furo no meio já untada",
+      "Assar em forno pré aquecido por 40 a 60 minutos dependendo do forno.",
+      "Fazer o teste do palito.",
+      "Esse bolo fica molinho mesmo, parecendo um pudim. Fica uma delícia."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LUANNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303114-bolo-de-leite-condensado.html"
+}

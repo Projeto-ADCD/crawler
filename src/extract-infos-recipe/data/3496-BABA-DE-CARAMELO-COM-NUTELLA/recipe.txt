@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BABA DE CARAMELO COM NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 lata de leite condensado",
+      "3 colheres de creme de avelã",
+      "biscoito maisena para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o leite condensado em panela de pressão por 30 minutos (conte depois que pegar pressão)",
+      "Depois de cozido e frio, bata com as gemas peneiradas e reserve",
+      "Bata as claras em neve",
+      "Com uma espátula, misture o doce de leite condensado, as claras em neve e o creme de avelã delicadamente",
+      "Triture os biscoitos e polvilhe por cima da baba",
+      "Deixe na geladeira por 2 horas"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VALDEMIR PENTEADO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303249-baba-de-caramelo-com-nutella.html"
+}

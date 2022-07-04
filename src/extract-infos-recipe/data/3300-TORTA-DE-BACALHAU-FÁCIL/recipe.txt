@@ -1,0 +1,36 @@
+{
+  "nome_receita": "TORTA DE BACALHAU FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa:",
+      "500 g de farinha de trigo",
+      "250 g de margarina ",
+      "Para o recheio:",
+      "1/2 xícara (chá) de azeite",
+      "1 cebola picada",
+      "2 tomates picados",
+      "1 colher (sopa) de cheiro-verde picado",
+      "3 colheres (sopa) de azeitonas picadas",
+      "500 g de bacalhau dessalgado, cozido e desfiado",
+      "sal e pimenta-do-reino a gosto",
+      "Para a cobertura:",
+      "1 lata de creme de leite",
+      "1 copo de requeijão",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fazer uma farofa com o trigo e a margarina e forrar o fundo e as laterais de um refratário",
+      "Faça o recheio bem sequinho e colocar do cima da farofa",
+      "Em uma bacia misture o creme de leite com soro e o requeijão, até ficar uniforme",
+      "Cubra o recheio com esse creme, e por último salpique queijo ralado",
+      "Leve ao forno por aproximadamente 40 minutos ou até dourar o queijo ralado",
+      "Essa torta pode ser feita com o recheio de sua preferência tais como camarão, siri, frango, carne seca"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TELMA MOTTA DE ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303591-torta-de-bacalhau-facil.html"
+}

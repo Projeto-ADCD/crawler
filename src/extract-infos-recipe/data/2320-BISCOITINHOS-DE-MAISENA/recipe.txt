@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BISCOITINHOS DE MAISENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de margarina",
+      "2 gemas",
+      "500 g de amido de milho",
+      "1 xícara rasa de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um recipiente até não dar mais para mexer com uma colher.",
+      "Continue misturando manualmente até que a massa não grude nos dedos.",
+      "Obs: se você ver que ela está ainda muito úmida, adicione um pouco mais de amido de milho, mas cuidado, não deixe que ela fique quebradiça.",
+      "Faça as bolinhas com o tamanho de sua preferência.",
+      "Coloque em uma forma já forrada com o papel-manteiga.",
+      "Com temperatura de 210° C, deixe de 15 a 20 minutos ou até estiverem douradinho.",
+      "Deixe esfriar e sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "MARIANA CHAVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305495-biscoitinhos-de-maisena.html"
+}

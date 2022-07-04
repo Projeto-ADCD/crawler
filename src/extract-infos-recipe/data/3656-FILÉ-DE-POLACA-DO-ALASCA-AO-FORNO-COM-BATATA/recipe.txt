@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FILÉ DE POLACA DO ALASCA AO FORNO COM BATATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de polaca do alasca sem pele e espinha",
+      "4 batatas médias fatiadas em rodelas",
+      "1 tomate picado",
+      "1 cebola picada",
+      "sal a gosto",
+      "orégano a gosto",
+      "azeite ou óleo comum "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma assadeira com azeite ou óleo comum",
+      "Forre o fundo da assadeira com as batatas em rodela e coloque sal sobre elas",
+      "Cubra as batatas com os filés picados",
+      "Pique em cubo o filé e dê uma temperada nele com sal ou a seu gosto",
+      "Cubra os filés com a cebola e o tomate",
+      "Acrescente orégano e um fio de azeite por cima de tudo",
+      "Leve ao fogo em 270° por aproximadamente 40 minutos (até o peixe assar e a água secar)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TEOFFILLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302967-file-de-polaca-do-alasca-ao-forno-com-batata.html"
+}

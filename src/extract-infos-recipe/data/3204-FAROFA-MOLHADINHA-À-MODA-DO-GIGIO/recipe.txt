@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA MOLHADINHA À MODA DO GIGIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura grande ralada",
+      "1 cebola grande ralada",
+      "200 g de azeitonas sem caroço picadas",
+      "1 xícara de cheiro-verde, cebolinha e salsa",
+      "125 ml de azeite de oliva",
+      "sal a gosto",
+      "suco de 1 limão",
+      "200 g de farofa pronta temperada (sem pimenta)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em um recipiente menos a farofa",
+      "Misture tudo até ficarem bem hidratados, depois vá colocando a farofa aia poucos",
+      "O ponto desta farofa é úmido",
+      "Sirva com frango e arroz branco"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "GEOVANI ELEOTERIO DE ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303740-farofa-molhadinha-a-moda-do-gigio.html"
+}

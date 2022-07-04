@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TABU DO JORGE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de trigo para kibe",
+      "2 pepinos japonês grande",
+      "2 tomates grande",
+      "1 cebola grande",
+      "coentro ou salsa a gosto",
+      "sal",
+      "2 limões grandes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o kibe de molho na água por 20 minutos em uma bacia média",
+      "Pique a cebola, o pepino,o tomate e o coentro ou salsa.",
+      "Misture tudo com a farinha já hidratada",
+      "Coloque o limão e o sal a gosto",
+      "Prontinho só servir "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JORGE ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304813-tabu-do-jorge.html"
+}

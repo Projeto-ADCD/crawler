@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE NATALINA COM AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de manteiga",
+      "150 g de bacon picadinho",
+      "150 g de linguiça calabresa picadinha",
+      "1 xícara (chá) de nozes picada",
+      "1 xícara (chá) de amendoim torrado sem pele (opcional)",
+      "1 cebola branca bem picadinha (pode misturar cebola roxa, é opcional, fica bonita decoração)",
+      "2 maçãs picadas com a casca",
+      "1 xícara (chá) de passas sem semente ou se preferir use damasco (pode ser metade e metade)",
+      "3 colheres (sopa) de salsinha bem picadinha",
+      "2 xícaras (chá) de farofa pronta (mais ou menos)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga em uma panela, junte a cebola e deixe fritar até ficar levemente dourada",
+      "Acrescente o bacon, a linguiça, as passas ou o damasco e deixe amolecer um pouco",
+      "Desligue o fogo, acrescente as maçãs picadas, a salsinha e a farofa pronta",
+      "Misture tudo muito bem",
+      "Volte a panela ao fogo e deixe a farofa esquentar bem, mas sempre mexendo para não queimar",
+      "Acrescente as nozes e o amendoim (opcional), desligue o fogo",
+      "Decoração: Enfeite a farofa com ramos de salsinha, nozes, tomates cereja ou da forma que você preferir. Se quiser acrescente na decoração o amendoim e as nozes para dar um toque diferente e crocante."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SANDRA M C SOUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303625-farofa-agridoce-natalina-com-amendoim.html"
+}

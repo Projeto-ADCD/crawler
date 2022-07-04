@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE TUCUMÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 tucumãs picadinhos",
+      "200 g de bacon picadinho em cubos ",
+      "1 cebola picada ",
+      "2 dentes de alho picadinhos ",
+      "2 colheres de azeite",
+      "cheiro-verde a gosto",
+      "farofa Yoki sabor calabresa o quanto baste"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite em uma panela em fogo baixo",
+      "Doure a cebola e o alho e acrescente o bacon",
+      "Deixa fritar por uns 5 minutos, mexendo sempre",
+      "Acrescente o tucumã e frite por mais 5 minutos",
+      "Junte a farofa Yoki e mexa por mais um minuto.",
+      "Desligue o fogo e coloque o cheiro-verde",
+      "Está pronto para servir."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Patrícia Mathara dos Santos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303787-farofa-de-tucuma.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "MARISCO OCEÂNICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de marisco limpo e fresco",
+      "1 cebola grande cortada em tiras",
+      "2 dentes de alho fatiados",
+      "120 g de abóbora cortada em cubos",
+      "100 g de coco fresco ralado",
+      "cebolinha a gosto",
+      "hortelã a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, use apenas um pouco de azeite de oliva.",
+      "Doure o marisco no azeite até o mesmo começar a soltar a água.",
+      "Começando a soltar a agua, retire-a e acrescente a cebola e o alho em fogo baixo.",
+      "Em outra panela, coloque a água (bem pouco, apenas para derreter a abobora) e a abóbora.",
+      "Quando a abóbora virar uma geleia, acrescente o coco e desligue o fogo. Reserve.",
+      "Retorne na panela com o marisco e acrescente água aos poucos, apenas uma lâmina de água bem rasa.",
+      "Aumente o fogo e começe a mexer levemente para não quebrar ou desfiar o marisco, já que ele é muito sensivel.",
+      "Quando a água secar, misture a geleia de abóbora e mexa.",
+      "Acrescente sal a gosto.",
+      "Retire da panela e decore com a cebolinha."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CHEFROGERIO MALMESI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300548-marisco-oceanico.html"
+}

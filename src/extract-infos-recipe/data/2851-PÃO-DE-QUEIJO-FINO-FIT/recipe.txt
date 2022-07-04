@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FINO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher (sopa) de aveia flocos finos",
+      "2 colheres (sopa) de polvilho azedo",
+      "1 colher (sopa) de queijo cottage",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes, até ficar homogêneo.",
+      "Distribua numa frigideira e leve ao fogo até dourar dos dois lados."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "QUESIA GUIMARAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304281-pao-de-queijo-fino-fit.html"
+}

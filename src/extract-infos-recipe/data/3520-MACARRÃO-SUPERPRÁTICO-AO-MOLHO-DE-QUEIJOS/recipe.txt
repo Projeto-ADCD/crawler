@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO SUPERPRÁTICO AO MOLHO DE QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão integral tipo parafuso",
+      "50 g de queijo provolone",
+      "50 g de queijo gorgonzola",
+      "100 g de queijo parmesão",
+      "1 litro de leite desnatado",
+      "4 colheres (sopa) de farinha de trigo",
+      "2 colheres (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão ao dente e reserve",
+      "Em uma panela, dissolva a manteiga e depois coloque a farinha de trigo aos poucos, a medida que for engrossando",
+      "Acrescente o leite aos poucos também .",
+      "Quanto mais devagar for acrescentando os ingredientes e, mexendo sempre, mais cremoso vai ficar o molho.",
+      "Depois de colocar todo o leite, desligue o fogo e acrescente os queijos que devem estar ralados ou cortados em pedaços pequenos.",
+      "Mexa bem o molho, o queijo deverá derreter um pouco.",
+      "Acrescente o molho ao macarrão.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "NATACHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303209-macarrao-superpratico-ao-molho-de-queijos.html"
+}

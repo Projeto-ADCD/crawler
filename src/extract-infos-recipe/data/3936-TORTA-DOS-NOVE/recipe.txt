@@ -1,0 +1,27 @@
+{
+  "nome_receita": "TORTA DOS NOVE",
+  "ingredientes": {
+    "DEFAULT": [
+      "9 gemas",
+      "9 colheres (sopa) de açúcar",
+      "9 colheres de farinha",
+      "9 colheres de leite",
+      "2 colheres de fermento em pó",
+      "1 lata de leite condensado moça",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, coloque a farinha, o leite, as gemas, o fermento e o açúcar.",
+      "Bata bem, depois de bem batido coloque em uma forma (de sua preferência) e leve ao forno até que esteja assado.",
+      "Enquanto isto, em uma panela, deixe ferver a água, o açúcar e o coco.",
+      "Quando a massa estiver pronta, coloque o leite condensado, logo em cima o molho de coco.",
+      "Faça o merengue, coloque em cima e leve ao forno."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CA DIVAA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302334-torta-dos-nove.html"
+}

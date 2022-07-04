@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PATÊ DE SOBRAS DE PEIXE ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "sobras de peixe assado (de preferência já temperado a gosto)",
+      "1 sachê de maionese",
+      "1 tomate pequeno picado em cubos",
+      "2 colheres (sopa) de queijo ralado",
+      "6 colheres (sopa) de shoyu (ou mais, caso goste do sabor mais forte)",
+      "sal e pimenta-do-reino a gosto",
+      "12 azeitonas picadas bem pequeno",
+      "2 ou 3 dentes de alho picados ou macerados no menor tamanho possível",
+      "2 colheres (sopa) de azeite (se o peixe for seco)",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Desfie e tire as espinhas do peixe o máximo possível (será nossa base, então tem que ter pelo 2/3 da receita de peixe)",
+      "Coloque o peixe e todos os ingredientes em uma tigela e misture muito bem.",
+      "Ficará uma massa firme, que dá para pegar com uma colher e até entortá-la levemente sem os ingredientes desabarem.",
+      "Leve à geladeira por duas horas descansando ou uma hora no congelador (dependendo da vasilha onde se colocou a mistura, demorará mais ou menos para gelar por completo) para que os ingredientes tenham seus gostos incorporados homogeneamente.",
+      "Sirva gelado em torradinhas ou faça sanduíches com pão francês e alface. Fica muito saboroso, principalmente no dia seguinte ao preparo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Armazenamento breve, no máximo dois dias, já que a maionese estraga fácil e o peixe já fora cozido antes."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "FERNANDA MARCONDES RIEDO LOPES LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304484-pate-de-sobras-de-peixe-assado.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA NATALINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de farofa Yoki temperada (500 g)",
+      "1 cenoura media ralada",
+      "200 g de bacon",
+      "100 g de castanha",
+      "200 g de uvas-passas",
+      "1 molho de tempero salsa e cebolinha",
+      "4 ovos cozidos",
+      "coentro a gosto",
+      "noz-moscada a gosto",
+      "óleo de oliva a gosto",
+      "azeitonas verdes a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque 4 colheres de óleo de oliva ",
+      "Junte a farofa em fogo baixo, até que doure um pouco.",
+      "Frite o bacon em pedaços picadinhos",
+      "Rale a cenoura e a castanha e junte na farofa",
+      "Adicione o ovo picado, a uva-passa e a azeitona picada.",
+      "Misture todos ingredientes e adicione sal, noz-moscada e coentro a gosto para finalizar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Fabiana Jardim da Silva"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303669-farofa-natalina.html"
+}

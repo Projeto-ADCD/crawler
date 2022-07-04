@@ -1,0 +1,36 @@
+{
+  "nome_receita": "CANJICA CREMOSA COM COCO RALADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de 500 g de canjica de milho",
+      "1,5 litro de leite",
+      "1 xícara (chá) de açúcar",
+      "2 latas de leite condensado",
+      "1 garrafinha de leite de coco",
+      "1 pacote de 50 g de coco ralado",
+      "1 lata de creme de leite",
+      "cravos a gosto (opcional)",
+      "canela em pau a gosto (opcional)",
+      "canela em pó para polvilhar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na véspera, deixe a canjica de molho em uma vasilha com água",
+      "Cozinhe a canjica em água na panela de pressão até ficar macia",
+      "Depois de cozida, escorra a água",
+      "Acrescente o leite, o açúcar, a canela em pau e os cravos e deixe cozinhar por mais uns 15 minutos (não deixe secar o leite para que a canjica fique sempre cremosa)",
+      "Coloque o leite condensado, o leite de coco e o coco ralado e deixe no fogo por mais 5 minutos, misturando sempre",
+      "Acrescente o creme de leite e em seguida, desligue o fogo, misturando muito bem",
+      "Coloque em uma travessa funda e polvilhe com canela em pó",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: pode ser servida quente ou fria conforme gosto pessoal."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANDRESSA DELUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301883-canjica-cremosa-com-coco-ralado.html"
+}

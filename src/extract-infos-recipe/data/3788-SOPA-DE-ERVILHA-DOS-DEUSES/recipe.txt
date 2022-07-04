@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SOPA DE ERVILHA DOS DEUSES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cabeça de alho",
+      "1 cebola picada",
+      "cheiro-verde a gosto",
+      "500 g de costelinha suína",
+      "500 g de lombo",
+      "2 peças de linguiça paio/calabresa",
+      "300 g de bacon",
+      "1 kg de ervilha",
+      "2 colheres de azeite",
+      "1 tablete de caldo "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, desalgue a costelinha e o lombo",
+      "Faça por aproximadamente 3 vezes, para que toda o sal saia, escalde e reserve",
+      "Em uma frigideira, doure o bacon com 1 colher de azeite",
+      "Quando o bacon estiver dourado, acrescente já o alho triturado e em seguida acrescente a cebola já picada",
+      "Leve a panela de pressão e acrescente os salgados, o tablete, a ervilha, o cheiro-verde (opcional) e a colher de azeite",
+      "Leve a pressão em fogo baixo por aproximadame 20 minutos",
+      "Retire da pressão e se delicie, não é necessário colocar sal"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "PRISCILA GUIMARAES SENDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302683-sopa-de-ervilha-dos-deuses.html"
+}

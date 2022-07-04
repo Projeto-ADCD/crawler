@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de polvilho doce",
+      "1 pacote de queijo ralado ",
+      "3 ovos",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 colher de fermento em pó",
+      "sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha misture bem todos os ingredientes com uma espátula, coloque em uma forma untada.",
+      "Faça bolinha como desejar",
+      "Asse em forno médio até dourar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SARAH GABRIELLY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302550-pao-de-queijo-facil.html"
+}

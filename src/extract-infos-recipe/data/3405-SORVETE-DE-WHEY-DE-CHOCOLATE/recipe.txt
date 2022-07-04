@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SORVETE DE WHEY DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo de whey protein de chocolate",
+      "1/2 copo de cacau em pó (o natural sem conservante)",
+      "4 claras batidas em neve",
+      "1/2 garrafinha de leite de coco (pode substituir por 1 xícara de leite de soja ou desnatado)",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve até que fiquem no fundo do liquidificador ou batedeira.",
+      "Acrescente os outros ingredientes no liquidificador e bata tudo até ficar com consistência cremosa",
+      "Coloque em um refratário e leve para gelar.",
+      "Sirva com um pouco de whey polvilhado por cima do sorvete.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "REBECA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303428-sorvete-de-whey-de-chocolate.html"
+}

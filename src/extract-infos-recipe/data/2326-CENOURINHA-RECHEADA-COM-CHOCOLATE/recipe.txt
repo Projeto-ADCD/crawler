@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CENOURINHA RECHEADA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 unidades de casquinha de sorvete",
+      "250 g de chocolate meio amargo",
+      "100 g de creme de leite",
+      "500 g de chocolate branco",
+      "corante verde insolúvel (próprio para chocolate)",
+      "200 g de açúcar cristal cor laranja"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mergulhe as casquinhas no chocolate branco (previamente derretido no micro-ondas) e “empane” no açúcar cristal",
+      "Espere secar",
+      "Ganache",
+      "Derreta o chocolate e misture creme de leite",
+      "Cabinhos verdes",
+      "Derreta o chocolate branco e misture com o corante verde, e faça",
+      "os “cabinhos” com a ajuda de um saco confeiteiro"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305479-cenourinha-recheada-com-chocolate.html"
+}

@@ -1,0 +1,39 @@
+{
+  "nome_receita": "SALMÃO COM CEBOLAS CARAMELADAS E ALCAPARRAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Salmão",
+      "1 kg de salmão (1 só pedaço)",
+      "2 colheres (sopa) de sal",
+      "2 colheres (sopa) de açúcar",
+      "1 limão siciliano (raspas e suco)",
+      "Cebola caramelada",
+      "4 cebolas grandes fatiadas em meias rodelas",
+      "2 dentes de alho fatiados",
+      "1 vidro pequeno de alcaparras",
+      "1 pimenta vermelha sem sementes, fatiada",
+      "1 colher (chá) de açúcar",
+      "4 colheres (sopa) de azeite",
+      "1 colher (sopa) de manteiga",
+      "1 colher (chá) de sal",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Salmão",
+      "Lave bem o salmão e deixe de molho de um dia para o outro em uma solução de água com açúcar e sal (de modo que cubra-o)",
+      "No dia seguinte retirae o salmão da água e deixe escorrer enquanto prepara a cebola.",
+      "Cebola caramelada",
+      "Leve ao fogo em uma panela o azeite, a manteiga, os dentes de alho, a pimenta, as cebolas cortadas em meias rodelas e as alcaparras.",
+      "Salpique com o açúcar e o sal, mexendo até a cebola amolecer e ficar transparente.",
+      "Montagem",
+      "Regue uma assadeira com um fio de azeite, colocar o salmão e regue com o suco e as raspas do limão, salpique com sal.",
+      "Distribua por cimda a cebola e leve ao forno médio por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "APARECIDA GAZIOLLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299956-salmao-com-cebolas-carameladas-e-alcaparras.html"
+}

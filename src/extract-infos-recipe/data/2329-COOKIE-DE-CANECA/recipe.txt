@@ -1,0 +1,29 @@
+{
+  "nome_receita": "COOKIE DE CANECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (sopa) de margarina ou manteiga",
+      "1 colher (sopa) de açúcar",
+      "1 colher (sopa) de açúcar mascavo",
+      "1/2 colher (chá) de essência de baunilha",
+      "1 gema de ovo",
+      "1/4 de colher (chá) de fermento em pó (se usar farinha de trigo com fermento, não precisa)",
+      "1 pitada de sal",
+      "3 e 1/2 colheres (sopa) de farinha de trigo (se for usar farinha de trigo com fermento, não precisa usar o fermento em pó)",
+      "60 g de chocolate ao leite ou amargo picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma caneca grande, adicione a margarina, os açúcares, a essência de baunilha e a gema",
+      "Misture bastante até formar uma massa bem homogênea",
+      "Acrescente o fermento, sal, e farinha e misture bem",
+      "Adicione o chocolate e misture e leve ao micro-ondas por 1 minuto e 30 segundos em alta potência",
+      "Coloque um palito ou faca no meio do cookie para saber se está pronto, se sair limpo significa que já está no ponto, caso não esteja, volte ao micro-ondas por mais 30 segundos"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CLARA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305469-cookie-de-caneca.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PIPOCA DOCE GOURMET FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de milho para pipoca",
+      "5 colheres (sopa) de açúcar",
+      "5 colheres (sopa) de óleo",
+      "3 colheres (sopa) de água",
+      "3 colheres (sopa) de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione na panela todos os ingredientes, exceto o leite em pó.",
+      "Ligue o fogo baixo, sempre mexendo.",
+      "Quando as primeiras pipocas estourarem, tampe a panela e mexa.",
+      "Assim que parar de estourar por 2 segundos, desligue a panela.",
+      "Adicione o leite em pó e misture bem."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TATIANE ALVES MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302496-pipoca-doce-gourmet-facil.html"
+}

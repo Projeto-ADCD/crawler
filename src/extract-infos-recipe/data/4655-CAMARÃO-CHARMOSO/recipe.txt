@@ -1,0 +1,37 @@
+{
+  "nome_receita": "CAMARÃO CHARMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarões graúdos",
+      "sal a gosto",
+      "uma pitada pimenta do reino",
+      "1 colher (chá) de coentro desidratado",
+      "1 colher (chá) de ervas finas",
+      "1 cebola cortada miudamente",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de creme de leite",
+      "300 ml de leite integral",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 abacaxi inteiro",
+      "cerejas para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, coloque a manteiga e a cebola para fritarem.",
+      "Assim que a cebola tomar tonalidade dourada, acrescente o leite.",
+      "Levantando fervura, desmanche o trigo com uma parte do leite frio, uma pitada de sal e adicione à panela mexendo sempre.",
+      "Tomando forma de molho branco, adicione o coentro, a pimenta e as ervas finas. Separe.",
+      "Numa frigideira separada, coloque uma colher de sopa de manteiga e deixe bem quente.",
+      "Dê uma salteada nos camarões ja salgados, a ponto de apenas refogarem, para não emborrachar.",
+      "Assim que tiverem cozidos e bem quentes, acrescente-os ao molho já preparado e bem quente.",
+      "O abacaxi servirá de recipiente para colocar os camarões.",
+      "Deixe-o oco como uma cumbuca e despeje a receita ali, decorando por cima com ervas finas e cerejas.",
+      "Sirva com arrroz branco, batata palha e o interior do abacaxi picado in natura."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SIMONE ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300540-camarao-charmoso.html"
+}

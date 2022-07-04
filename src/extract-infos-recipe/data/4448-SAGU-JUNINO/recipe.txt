@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SAGU JUNINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite integral",
+      "500 ml de água",
+      "1 lata de leite condensado",
+      "6 colheres (sopa) de açúcar",
+      "250 g de sagu de mandioca",
+      "2 unidades da canela em pau"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture a água, o leite integral, a canela e o leite condensado até ferver",
+      "Após início da fervura, adicione o sagu e mantenha em fogo baixo, sempre mexendo para não grudar.",
+      "Em outra panela, coloque o açúcar em fogo baixo até caramelizar.",
+      "Após caramelizado o açúcar, adicione aos poucos e com cuidado no sagu em cozimento.",
+      "Deixe cozinhando em fogo baixo até que as bolinhas do sagu fiquem transparentes e molinhas (30 minutos), sempre mexendo lentamente.",
+      "Caso necessário adicione água durante o cozimento.",
+      "Servir quente ou frio.",
+      "Pode acompanhar amendoim torrado e moído ou também paçoca."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DAIANA PILOTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301103-sagu-junino.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE FORMA SEM SOVAR DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 e 1/2 xícaras de farinha de trigo",
+      "1 xícara de leite morno",
+      "2 ovos",
+      "1/2 xícara de oleo",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de açúcar",
+      "10 g fermento seco biologico ou 2 tabletes de fermento fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador e bata por 1 minuto no liquidificador",
+      "Em uma vasilha grande misture com uma colher de pau a farinha aos demais ingredientes batidos no liquidificador",
+      "Coloque numa forma de pão de forma e deixe descansar coberto por pano umido por 30 minutos em dia quente e 1 hora em dia frio",
+      "Assar por 30 minutos ou mais ate dourar no forno a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CM MARIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305567-pao-de-forma-sem-sovar-de-liquidificador.html"
+}

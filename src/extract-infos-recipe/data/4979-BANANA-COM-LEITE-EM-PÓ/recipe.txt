@@ -1,0 +1,19 @@
+{
+  "nome_receita": "BANANA COM LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 bananas",
+      "4 colheres de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte 2 bananas em rodelas.",
+      "Coloque 4 colheres de leite em pó"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAMPOS-SAN OTAKU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299808-banana-com-leite-em-po.html"
+}

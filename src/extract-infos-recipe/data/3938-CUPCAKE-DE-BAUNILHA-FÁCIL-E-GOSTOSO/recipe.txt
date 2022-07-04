@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CUPCAKE DE BAUNILHA FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "125 g de manteiga sem sal",
+      "125 g de farinha de trigo",
+      "125 g de açúcar",
+      "2 ovos",
+      "1/2 colher (chá) de baunilha",
+      "1 colher (chá) de fermento",
+      "2 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes, exceto o leite, na batedeira",
+      "Depois adicione o leite e mexa com um pão duro, fuet ou com uma colher.",
+      "Coloque a massa nas forminhas e leve ao forno a 180º C por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CHIARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302332-cupcake-de-baunilha-facil-e-gostoso.html"
+}

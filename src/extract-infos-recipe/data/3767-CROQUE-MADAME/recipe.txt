@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CROQUE MADAME",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de farinha de trigo ",
+      "1 colher (chá) de manteiga",
+      "500 ml de leite quente",
+      "noz moscada a gosto",
+      "sal a gosto",
+      "4 fatias de pão-de-forma",
+      "200 g de presunto ",
+      "200 g de queijo gruyère ",
+      "50 g de mostarda dijon",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela pequena, comece preparando a base do molho bechamel (molho branco): derreta a manteiga, junte a farinha e mexa sem parar até formar um creminho ",
+      "Em seguida, adicione o leite quente e mexa sem parar por, em média, 15 minutos ou até engrossar ",
+      "Quando chegar na consistência de um molho cremoso, adicione a noz moscada ralada na hora e uma pitada de sal ",
+      "Tire do fogo e reserve: coloque pedacinhos de manteiga e plástico-filme para que não forme uma película e leve à geladeira",
+      "Passe mostarda nas fatias de pão ",
+      "Adicione o fatiado presunto e o queijo gruyère ralado e faça um sanduíche usando duas fatias ",
+      "Passe manteiga na parte exterior do pão (opcional)",
+      "Tire o molho bechamel da geladeira e passe uma camada generosa na parte superior do sanduíche",
+      "Finalize com o queijo gruyère ralado",
+      "Leve ao forno até dourar e derreter o queijo",
+      "Enquanto isso, em uma frigideira, derreta uma colher de manteiga com um pouco de azeite para fritar o ovo",
+      "Frite o ovo, mas deixe-o com a gema bem mole ",
+      "Quando pronto o sanduíche, retire do forno, finalize com o ovo na parte superior e sirva "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O croque madame é uma receita muito popular e consumida na França, nos cafés e bistrôs franceses. Lá, também existe o croque monsieur, que é a mesma coisa, mas sem o ovo para finalizar.\nSe não tiver o queijo gruyère, pode substituir pelo mussarela! O mesmo vale para a mostarda: se não tiver o tipo dijon, pode usar a normal ou substituir por manteiga.\nSe quiser, invista em um bom presunto como o parma ou royale, vai ficar uma delícia!\nSe quiser, pode adicionar pimenta-do-reino branca e preta ao molho bechamel, fica uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302736-croque-madame.html"
+}

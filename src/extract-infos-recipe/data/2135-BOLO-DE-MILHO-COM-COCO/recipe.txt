@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE MILHO COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de trigo",
+      "1 xícara (chá) de açúcar refinado",
+      "2 ovos ",
+      "1 lata de milho sem água",
+      "1 garrafa de leite coco",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata os ovos, o leite de coco, a manteiga e o milho",
+      "Em um bwl, junte essa mistura com os ingredientes secos",
+      "Misture bem com a ajuda de um fouet até obter uma massa homogênea",
+      "Unte e enfarinha uma forma de 20 cm e leva ao forno preaquecidos a 180° C",
+      "Deixe por 40 minutos ou até durar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCIANE WALTER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305919-bolo-de-milho-com-coco.html"
+}

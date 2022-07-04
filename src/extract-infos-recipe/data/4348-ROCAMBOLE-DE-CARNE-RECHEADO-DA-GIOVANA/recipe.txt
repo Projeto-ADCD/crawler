@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ROCAMBOLE DE CARNE RECHEADO DA GIOVANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne moída (carne de sua preferência)",
+      "1 creme de cebola",
+      "1 cebola",
+      "1 sachê de carne",
+      "salsa e cebolinha a gosto",
+      "1 colher (sopa) de azeite",
+      "sal a gosto",
+      "Recheio",
+      "500 g de presunto",
+      "500 g de mussarela",
+      "1/2 cebola",
+      "2 Tomates",
+      "orégano a gosto",
+      "2 ou 3 gemas para passar em cima",
+      "queijo ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixar o forno preaquecer",
+      "Coloque a carne em um recipiente e misture o creme de cebola",
+      "Adicione a cebola cortada em cubinhos",
+      "O sal e o sachê de carne (ou de sua preferência)",
+      "A salsa e a cebolinha",
+      "E por último o azeite",
+      "Coloque em uma folha de papel-alumínio cobrindo os dois lado e abra com o rolo até ficar bem fina",
+      "Coloque o presunto, o queijo, a cebol, o tomate e o orégano, enrole e passe as gema por cima",
+      "Salpique o queijo ralado e leve ao forno para assar a 200° C g por 50 minutos (o tempo depende de cada forno)"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GIOVANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301324-rocambole-de-carne-recheado-da-giovana.html"
+}

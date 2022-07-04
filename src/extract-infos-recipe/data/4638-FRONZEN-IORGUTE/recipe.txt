@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FRONZEN IORGUTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 potes de iorgute natural",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1 lata de creme de leite",
+      "1 raspa de limão",
+      "1 xícara (chá) de frutas vermelhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificado, bata o iorgute, 1 xicara de (chá) de açúcar e o creme de leite.",
+      "Misture as raspas de limão, coloque em um recipiente, cubra com papel-filme e leve ao freezer por 6 horas no mínimo.",
+      "Retire do freezer, deixe amolecer um pouco e bata na batedeira até dar consistência de creme.",
+      "Cubra e leve novamente ao freezer até firmar.",
+      "Para fazer a calda, em uma panela, misture as frutas e 1/2 xícara (chá) de açúcar.",
+      "Leve ao fogo e deixe ferver até dar o ponto da calda.",
+      "Depois de fria leve à geladeira.",
+      "Retire do freezer e faça bolas com o creme.",
+      "Sirva com a calda gelada.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Varie a calda, substituindo as frutas vermelhas por maracujá."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ADRIELLY RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300676-fronzen-iorgute.html"
+}

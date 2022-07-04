@@ -1,0 +1,39 @@
+{
+  "nome_receita": "NHOQUE DE BATATA COM MOLHO DE TOMATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas grandes",
+      "cheiro verde a gosto",
+      "1 cebola",
+      "alho a gosto",
+      "sal a gosto",
+      "1 colher de açúcar",
+      "1 sachê de molho de tomate",
+      "queijo ralado a gosto",
+      "2 copos de farinha de trigo",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas",
+      "Escorra, esprema e reserve.",
+      "Em uma panela, junte as batatas com a farinha de trigo e a manteiga",
+      "Cozinhe até desgrudar do fundo da panela.",
+      "Molho",
+      "Frite o alho",
+      "Coloque o molho de tomate e adicione o açúcar",
+      "Deixe engrossar",
+      "Acerte o sal e coloque cebola picadinha, cheiro verde e desligue.",
+      "Com a massa, faça rolinhos e corte em quadradinhos.",
+      "Cozinhe em água fervente",
+      "Quando a bolinha subir está pronto",
+      "Coloque em refratário e adicione o molho",
+      "Salpique queijo"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ÉRICA LISANDRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303084-nhoque-de-batata-com-molho-de-tomate.html"
+}

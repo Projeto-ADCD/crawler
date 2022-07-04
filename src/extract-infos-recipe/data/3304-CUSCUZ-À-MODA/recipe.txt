@@ -1,0 +1,39 @@
+{
+  "nome_receita": "CUSCUZ À MODA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango cozido e desfiado (reserve a água do cozimento e acrescente mais água até completar 6 xícaras)",
+      "1 cebola",
+      "5 dentes de alho",
+      "1/2 abobrinha ralada",
+      "1/2 chuchu ralado",
+      "1 cenoura ralada",
+      "1 pimentão cortado pequeno",
+      "1 tomate",
+      "1/2 colher (sopa) de páprica defumada",
+      "1 colher (sopa) de colorau",
+      "6 xícaras de água",
+      "1/2 colher (sopa) de sal",
+      "50 g de azeitonas verdes",
+      "1/2 xícara de azeite",
+      "1 maço de cheiro verde",
+      "1 colher (sobremesa) orégano",
+      "3 xícaras de farofa pronta de milho",
+      "1 xícara de farofa pronta de mandioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque as duas colheres de óleo a cebola e o alho, deixe fritar um pouco, acrescente o frango desfiado e deixe fritar bem até ficar douradinho",
+      "Acrescente todos os legumes ralados, a páprica e o colorau, misture levemente, adicione a azeitona, o sal, o azeite, o orégano e a água",
+      "Misture e deixe levantar fervura, assim que der uma leve murchada nos legumes (não pode cozinhar muito) adicione as farinhas e o cheiro-verde, mexa rápido para não empelotar as farinhas",
+      "Molhe com água uma forma de furo no meio (essas de pudim), escorra o excesso de água, não pode enxugar, coloque a massa aos poucos apertando um pouco com uma colher (pode fazer porções individuais em forminhas ou copinho de café)",
+      "Espere esfriar e desenforme",
+      "Enfeite com rodelas de ovo, azeitonas, ramos de manjericão ou a gosto. Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "DENIZE NAPIER PEREIRA DE OLIVEIRA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303585-cuscuz-a-moda.html"
+}

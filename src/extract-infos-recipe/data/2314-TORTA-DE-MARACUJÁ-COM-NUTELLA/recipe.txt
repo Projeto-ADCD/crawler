@@ -1,0 +1,38 @@
+{
+  "nome_receita": "TORTA DE MARACUJÁ COM NUTELLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 e 1/2 pacote de biscoito amanteigado sabor chocolate (240 g)",
+      "5 colheres (sopa) de manteiga",
+      "Recheio",
+      "1 e 1/2 lata de leite condensado",
+      "1 lata de suco concentrado de maracujá (use uma lata de leite condensado vazia para medir)",
+      "1 lata de creme de leite",
+      "1 envelope de gelatina em pó sem sabor",
+      "Cobertura",
+      "1 pote de creme de chocolate sabor avelã Nutella (250 g)",
+      "1 lata de creme de leite",
+      "raspas de chocolate ao leite para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para massa",
+      "Triture no liquidificador aos poucos o biscoito e transfira para uma tigela.",
+      "Misture a manteiga e forre o fundo e os lados de uma forma removível de 24 cm de diâmetro",
+      "Leve ao forno alto, preaquecido, por 10 minutos.",
+      "Deixe esfriar.",
+      "Para o recheio",
+      "Bata no liquidificador o leite condensado, o suco, o creme de leite e a gelatina preparada conforme as instruções da embalagem.",
+      "Coloque sobre a massa e leve à geladeira por 2 horas.",
+      "Para cobertura",
+      "Misture a Nutella com o creme de leite.",
+      "Cubra a torta com a cobertura, decore com raspas e sirva em seguida."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "YASMIN HAAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305507-torta-de-maracuja-com-nutella.html"
+}

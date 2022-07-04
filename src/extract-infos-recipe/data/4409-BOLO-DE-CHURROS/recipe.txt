@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO DE CHURROS",
+  "ingredientes": {
+    "MASSA:": [
+      "4 ovos grandes.",
+      "1/2 xicaras de açucar (240ml) 3/4 xicaras de óleo.",
+      "3 xicaras de farinha de trigo.",
+      "1 colher (sopa) de canela em pó.",
+      "300ml de leite.",
+      "1 colher (sopa) de fermento"
+    ],
+    "COBERTURA:": [
+      "600 gramas de doce de leite.",
+      "1 caixinha de creme de leite"
+    ],
+    "CALDA:": [
+      "100gramas de doce de leite.",
+      "1 xicara de (chá) de leite"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em um recipiente, adicione os ovos e o açúcar, mexa bem ate formar um creme leve e esbranquiçado.",
+      "Adicione o óleo misture bem.",
+      "Peneire a farinha de trigo e a canela, adicione o leite e mexa bem até homogeneizar.",
+      "Adicione o fermento e misture.",
+      "Depois, transfira para uma forma untada com manteiga."
+    ],
+    "COBERTURA:": [
+      "Misture com o auxílio de um fuê o doce de leite e o creme de leite.",
+      "Se preferir, coloque mais um pouco de canela e mexa até o doce de leite desmanchar."
+    ],
+    "CALDA:": [
+      "Miture o doce de leite e o leite em uma panela em fogo médio.",
+      "Mexa até dissolver."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "BRUNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301184-bolo-de-churros.html"
+}

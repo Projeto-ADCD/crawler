@@ -1,0 +1,56 @@
+{
+  "nome_receita": "FEIJOADA LIGHT",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g feijão preto",
+      "Deixe de molho por 3 horas na água quente ou de um dia para o outro em água fria",
+      "250 g de músculo picado (ou lombo suíno limpo)",
+      "3 colheres (sopa) azeite",
+      "2 colheres (sopa) cebola picada",
+      "500 ml água",
+      "Pitada de sal",
+      "1 e 1/2 litro de água (para cozinhar o feijão)",
+      "1/2 cenoura picada",
+      "1/2 chuchu picado",
+      "3 colheres (sopa) azeite",
+      "1/2 cebola picada",
+      "3 dentes de alho picado",
+      "200 g linguiça de frango (ou paio defumado)",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "Cominho opcional",
+      "Folhas de louro a gosto",
+      "Salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, coloque o azeite, a cebola e a carne na panela de pressão, mexa até que a carne esteja selada (grelhada).",
+      "Adicione a água e tampe a panela. Deixe cozinhar por 20 minutos após pegar a pressão.",
+      "Deixe sair a pressão e separe a carne do caldo. Reserve.",
+      "Escorra a água do feijão de molho e coloque-o para cozinhar na água já quente.",
+      "Junte a carne e tampe a panela. Deixe cozinhar por 25 minutos após pegar pressão.",
+      "Deixe sair a pressão e adicione a cenoura e o chuchu, tampe e deixe cozinhar por mais 10 minutos após pegar pressão.",
+      "Em outra panela, coloque o azeite, a cebola e a linguiça, mexa dourando bem.",
+      "Então junte o feijão já cozido, misture bem.",
+      "Coloque o sal, pimenta, cominho e as folhas de louro.",
+      "Mexa e deixe ferver.",
+      "Por último coloque a salsinha e cebolinha.",
+      "Sirva com farinha de mandioca, couve e laranja."
+    ],
+    "CONSERVAR:": [
+      "Na geladeira por até 4 dias."
+    ],
+    "CONGELAR:": [
+      "Em potes individuais por até 30 dias."
+    ],
+    "RENDE:": [
+      "8 porções aproximadamente.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "85 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SILVIA KOTAKA \" MAMÃE VIDA SAUDÁVEL\"",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299973-feijoada-light.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE MILHO VERDE E FLOCÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho verde com água",
+      "1 lata de leite condensado",
+      "4 ovos",
+      "1 xícara (chá) de óleo",
+      "1/2 pacote de coco ralado sem açúcar",
+      "1 pacote de queijo ralado",
+      "10 colheres de flocão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador adicione os 4 ovos, o óleo, o leite condensado e bata até ficar uma mistura homogênea",
+      "Em seguida, adicione o milho verde, o coco ralado, o queijo ralado e o flocão e bata até que a mistura incorpore",
+      "Leve ao forno por cerca de 45 minutos (até ficar com aspecto douradinho)"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ISIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303771-bolo-de-milho-verde-e-flocao.html"
+}

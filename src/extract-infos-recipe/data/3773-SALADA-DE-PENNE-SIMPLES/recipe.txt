@@ -1,0 +1,26 @@
+{
+  "nome_receita": "SALADA DE PENNE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de macarrão penne",
+      "1/2 abacate",
+      "1/2 xícara de azeite de oliva extra virgem",
+      "1/4 de xícara de água",
+      "1/2 suco de limão",
+      "1 xícara de tomate picado",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o penne e escorra",
+      "Bata o abacate com água, azeite, o suco de limão e o tempero",
+      "Adicione a mistura do abacate no penne e junte os tomates",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "BELLE BRITO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302729-salada-de-penne-simples.html"
+}

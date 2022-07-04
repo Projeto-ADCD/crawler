@@ -1,0 +1,38 @@
+{
+  "nome_receita": "SOPA DE LEGUMES GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 xícaras de água",
+      "1 cebola",
+      "3 batatas cortadas em pedaços",
+      "2 cenouras cortadas em pedaços",
+      "sal a gosto",
+      "1 colher (sopa) de salsinha picada",
+      "1/4 de xícara de pimentão vermelho",
+      "1 colher (sopa) de azeite",
+      "Croutons",
+      "4 colheres (sopa) de azeite",
+      "4 fatias de pão integral amanhecido, descascadas e cortadas em cubinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, cozinhe todos os ingredientes na quantidade indicada de água, até que fiquem macios.",
+      "Prepare os croutons",
+      "Esquente bem o azeite em uma frigideira em fogo médio.",
+      "Frite os cubinhos de pão até dourar.",
+      "Retire da frigideira e escorra em papel-toalha.",
+      "Passe os legumes e a água onde foram cozidos pelo liquidificador.",
+      "Ponha a sopa novamente na panela e leve de volta ao fogo aquecendo até ferver.",
+      "Salpique com o sal e deixe ferver em fogo baixo por 5 minutos.",
+      "Desligue o fogo, coloque o azeite e mexa bem",
+      "Adicione a salsinha e o pimentão.",
+      "Sirva a sopa de legumes em pratos individuais.",
+      "Sirva os croutons separadamente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302135-sopa-de-legumes-gostosa.html"
+}

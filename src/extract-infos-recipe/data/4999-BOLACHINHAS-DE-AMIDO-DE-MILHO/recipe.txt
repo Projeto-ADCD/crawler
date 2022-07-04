@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLACHINHAS DE AMIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de amido de milho",
+      "1 leite condensado",
+      "2 colheres (sopa) cheias de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo numa vasilha até desgrudar da mão.",
+      "Se ainda continuar grudando, acrescente 1 colher de farinha de trigo.",
+      "Enrole no formato que desejar e coloque na forma, mantedo uma distância de 2 centímetros uma da outra.",
+      "Pré-aqueça o forno por 15 minutos a 180º.",
+      "Leve as bolachas ao forno por 15 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Não precisa untar a forma, elas não grudam por conta da margarina.\nAs bolachas não podem ficar douradas em baixo, por que depois que saem do forno, endurecem. Tire do forno ainda branca e quando ela esfriar, estará no ponto.\nPode enrolar goiabada, acrescentar côco ralado ou até mesmo 4 colheres de leite em pó."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "146 PORÇÕES",
+  "autor": "ANGELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299737-bolachinhas-de-amido-de-milho.html"
+}

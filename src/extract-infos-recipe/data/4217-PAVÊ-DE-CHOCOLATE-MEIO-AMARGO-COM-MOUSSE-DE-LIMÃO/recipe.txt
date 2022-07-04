@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PAVÊ DE CHOCOLATE MEIO AMARGO COM MOUSSE DE LIMÃO",
+  "ingredientes": {
+    "PARA O CREME DE CHOCOLATE:": [
+      "1 caixinha de leite condensado",
+      "a mesma medida (da caixinha) de leite liquido",
+      "1 creme de leite",
+      "1 colher (sopa) de amido de milho",
+      "2 colheres (sopa) de cacau em pó 100%"
+    ],
+    "PARA O MOUSSE DE LIMÃO:": [
+      "1/2 caixinha de leite condensado",
+      "1/2 caixinha de creme de leite",
+      "1 copo americano de suco de limão (fruta)"
+    ],
+    "PARA MONTAR:": [
+      "1 pacote de biscoito de 400g",
+      "Leite para passar o biscoito"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela com o fogo desligado coloque o leite condensado, o creme de leite e o cacau. Depois adicione o amido no leite liquido para dissolve-lo.",
+      "Após, acrescente na panela com os outros ingredientes do creme de chocolate e ligue o fogo, mexendo sempre até ficar um creme liso. Reserve.",
+      "No liquidificador, bata por uns cinco minutos o creme de leite e leite condensado e um pouco do suco de limão. Dica: acrescente o suco aos poucos e prove, se precisar pode colocar mais suco. Reserve.",
+      "Escolha uma travessa para montar o pavê. Coloque uma camada do creme de chocolate, molhe os biscoitos (um por vez) no leite e cubra a camada de chocolate, faça uma camada do mousse, cubra com biscoito. Repita o processo até acabar o creme de chocolate.",
+      "Decore o pavê como desejar, pode ser raspas de chocolate, cacau em pó polvilhado, etc.",
+      "Cubra com papel filme e deixe na geladeira por aproximadamente seis horas para gelar bem. Dica: Faça de um dia para o outro, os sabores ficam mais acentuados."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MRCAKETHE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301566-pave-de-chocolate-meio-amargo-com-mousse-de-limao.html"
+}

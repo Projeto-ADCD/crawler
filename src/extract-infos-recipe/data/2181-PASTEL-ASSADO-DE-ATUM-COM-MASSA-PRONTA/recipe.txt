@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PASTEL ASSADO DE ATUM COM MASSA PRONTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa de pastel pronta (300 g)",
+      "1 ovo para pincelar",
+      "Recheio",
+      "1 lata de atum",
+      "1 pimentão baby vermelho",
+      "1 pimentão baby amarelo",
+      "1 pimentão baby amarelo",
+      "1/2 cebola",
+      "10 tomates grape ou cereja",
+      "sal",
+      "mix de pimentas-do-reino (preta, branca e rosa)",
+      "20 g de azeitonas verdes picadas",
+      "20 g de palmito picado",
+      "50 g de queijo mussarela picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe todos os ingredientes do recheio menos o queijo, em fogo baixo por 10 minutos.",
+      "Abra a massa de pastel e coloque o recheio morno e o queijo.",
+      "Feche com o garfo apertado as bordas.",
+      "Cubra a assadeira com papel manteiga e pincele os pastéis com o ovo batido",
+      "Asse por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAÍS BRAGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305773-pastel-assado-de-atum-com-massa-pronta.html"
+}

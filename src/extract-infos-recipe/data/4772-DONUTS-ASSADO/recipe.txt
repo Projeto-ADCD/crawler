@@ -1,0 +1,29 @@
+{
+  "nome_receita": "DONUTS ASSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (de chá) de farinha de trigo",
+      "1/2 xícara (de chá) de açúcar",
+      "2 colheres (de sopa) de margarina sem sal",
+      "1/2 xícara (de chá) de leite",
+      "15 gramas de fermento biológico",
+      "2 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva o fermento no leite morno e depois acrescente os ovos, o açúcar, a margarina e, aos poucos, a farinha de trigo.",
+      "Manuseie a massa até que fique homogênea e firme. Deixe a massa descansar até dobrar de volume.",
+      "Abra a massa em superfície lisa e enfarinhada.",
+      "Com cortadores ou com auxílio de copo faça círculos de 8 cm de diâmetro.",
+      "Com cortador ou copo pequeno/menor, retire o centro do círculo para formar as rosquinhas.",
+      "Coloque-as em uma assadeira/tabuleiro untada com margarina e deixe crescer novamente.",
+      "Leve ao forno e asse durante 30 minutos aproximadamente.",
+      "Espere esfriar e corte-as ao meio."
+    ]
+  },
+  "tempo_de_preparo": "105 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RUY NISHIMURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300254-donuts-assado.html"
+}

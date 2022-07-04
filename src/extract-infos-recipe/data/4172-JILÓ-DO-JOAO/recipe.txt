@@ -1,0 +1,21 @@
+{
+  "nome_receita": "JILÓ DO JOAO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de jiló verde",
+      "Suco 4 limões",
+      "1 colher (chá) de sal fino",
+      "3 dentes de alho amassados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o jiló em rodelas finas e frite como se fossem chips",
+      "Após feito o jiló, adicione o resto dos ingredientes em um recipiente com tampa e deixe na geladeira curtindo por pelo menos dois dias."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301681-jilo-do-joao.html"
+}

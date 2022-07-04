@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CANJICA DE FESTA JUNINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g canjica de milho",
+      "1 xícara de açúcar",
+      "1 lata de leite condensado",
+      "200 ml de leite de coco",
+      "5 colheres (sopa) de leite em pó",
+      "1 lata de creme de leite",
+      "100 g de coco ralado úmido e adoçado",
+      "3 canelas em pau",
+      "10 unidades de paçoca",
+      "250 g de amendoim torrado e moído"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe a canjica de molho em água fria por 8 a 12 horas (pode ser menos tempo, o tempo de cozimento que vai ser um pouco maior se não deixar de molho).",
+      "Em uma panela grande coloque a canjica de milho para cozinhar com a própria água e se necessário acrescente mais água.",
+      "Eu fiz na panela de pressão, deixei de molho por 8 horas e demorou 35 minutos para ficar bem macia.",
+      "Vá abrindo a panela de 10 em 10 min para verificar a quantidade de água e o ponto da canjica.",
+      "Depois que estiver bem cozido, acrescente o açúcar, deixe ferver em fogo médio por 10 minutos e desligue.",
+      "Em outra panela, junte o leite condensado, o leite de coco, o leite em pó, o creme de leite e a canela em pau e misture um pouco.",
+      "Acrescente depois o amendoim e o coco ralado e misture.",
+      "Se fizer bolinhas no creme, basta misturar com o fouet que o creme fica lisinho novamente.",
+      "Deixe ferver por 2 minutos em fogo médio e desligue.",
+      "Pegue as paçocas e as despedace com um garfo, até ficarem moídas e reserve.",
+      "Una os dois cremes ainda na panela e misture um pouco para uniformizar novamente.",
+      "Deixe cozinhar por 30 minutos em fogo médio e vá regulando a quantidade de água para não engrossar demais.",
+      "Eu deixei uma água fervendo do lado e ia colocando aos poucos à medida que o creme ia reduzindo e ficando mais grosso.",
+      "Para saber o ponto ideal é só lembrar que quando a receita esfriar o caldo vai engrossar bastante, então deixe o creme um pouco mais líquido (mas não aguado) que quando esfriar ele vai ficar cremosinho.",
+      "Depois de 30 minutos de cozimento desligue, acrescente a paçoca moída e mexa mais um pouco para uniformizar a canjica.",
+      "Coloque a receita no recipiente onde deseja servir e espere esfriar um pouco antes de comer."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Postem fotos da sua experiência para incentivar mais pessoas a experimentarem essa delícia de receita.\nDeixem críticas e sugestões também."
+    ]
+  },
+  "tempo_de_preparo": "85 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "SAMANTHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304473-canjica-de-festa-junina.html"
+}

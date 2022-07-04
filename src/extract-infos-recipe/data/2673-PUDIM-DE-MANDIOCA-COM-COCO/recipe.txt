@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PUDIM DE MANDIOCA COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 Xícaras (chá) de açucar",
+      "2 xícaras (chá ) de mandioca ralada crua",
+      "4 ovos",
+      "açúcar para caramelizar a forma",
+      "1 pacote de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve, coloque as gemas, depois o açúcar e por último a mandioca ralada.",
+      "Coloque na forma caramelada e leve para cozinhar em banho-maria por aproximadamente 40 minutos ou até que, espetando um palito, ele saia limpo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOÃO VITOR LUVISON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304683-pudim-de-mandioca-com-coco.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "SOPA DE FEIJÃO NUTRITIVA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de feijão carioca cozido e temperado",
+      "2 xícaras de acém moído (ou outra carne de sua preferência) cozida e temperada",
+      "1/2 abóbora cabotian pequena (sem semente e casca) cozida",
+      "1 litro de água",
+      "macarrão Fidelinho 10 (pode usar o macarrão cabelo de anjo ou ave maria)",
+      "sal e pimenta-do-reino a gosto",
+      "1 punhado de salsinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o feijão com a água por cerca de 3 minutos.",
+      "Em uma panela alta, despeja esse caldo, passando por uma peneira (para que seja descartado qualquer sobra de casca do feijão).",
+      "Bata no liquidificador a abóbora com 1/2 xícara de água, em seguida despeje na panela junto com o caldo do feijão.",
+      "Ligue o fogo.",
+      "Quando comecar a levantar fervura coloque a carne moída e deixe cozinhar por uns 8 minutos.",
+      "Em seguida adicione o macarrão.",
+      "Acrescente sal e pimenta.",
+      "Se desejar pode usar 1/2 caldo de carne.",
+      "Deixe cozinhar por mais 3 minutos.",
+      "Desligue o fogo e coloque a salsinha picada.",
+      "Sirva-se!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DAIANA NARDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304469-sopa-de-feijao-nutritiva.html"
+}

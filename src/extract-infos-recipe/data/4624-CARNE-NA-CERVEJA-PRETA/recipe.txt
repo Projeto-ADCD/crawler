@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CARNE NA CERVEJA PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de capa de filé em cubos",
+      "1/2 pacote de creme de cebola",
+      "1 cebola média picada",
+      "4 dentes de alho picados",
+      "1 lata de molho de tomate",
+      "2 lata de cerveja preta",
+      "1/2 xícara de salsinha picada",
+      "azeite"
+    ],
+    "ACOMPANHAMENTO": [
+      "batatas assadas",
+      "feijão branco cozido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, refogue a cebola e o alho.",
+      "Adicione a carne, o molho de tomate, a cerveja e o creme de cebola.",
+      "Tampe a panela e deixe cozinhar por 50 minutos.",
+      "Em um refratário, coloque a carne no meio e na volta coloque o feijão branco e as batatas.",
+      "Polvilhe a salsinha e regue azeite."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SERGIO COELHO RECEITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300707-carne-na-cerveja-preta.html"
+}

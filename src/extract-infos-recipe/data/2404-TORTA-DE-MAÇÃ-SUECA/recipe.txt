@@ -1,0 +1,59 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ SUECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "3 xicaras de farinha de trigo",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) não muito cheia de sal",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de fermento",
+      "150 g de manteiga sem sal em cubinhos (pode ser com sal mas de preferência sem sal)",
+      "1 caixinha de creme de leite",
+      "canela a gosto (eu gosto muito de canela, então coloquei 3 colheres pequenas não muito cheias)",
+      "1 gema para pincelar",
+      "RECHEIO",
+      "4 maçãs grandes fatiadas (se foremm pequenas use 6)",
+      "suco de 1 limão",
+      "1 colher (sopa) de canela",
+      "3 xicaras de açúcar",
+      "nozes (opcional)",
+      "150 g de manteiga sem sal (pode ser com sal mas de preferência sem sal) derretida",
+      "1 xicara de farinha de trigo",
+      "1 pitada de sal",
+      "1 ovo levemente batido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Preaqueça o forno 180º C",
+      "Numa tigela grande, misture a farinha, o sal, açúcar, a canela e o fermento",
+      "Coloque a manteiga e misture até virar uma farofa",
+      "Não deixe a manteiga derreter completamente",
+      "Junte o creme de leite e trabalhe na massa até virar uma bolota",
+      "Transfira a massa para uma superfície lisa e enfarinhada e sove até que ela fique uniforme",
+      "Corte e reserve na geladeira um terço da massa, que será usada para decorar a torta.",
+      "Com um rolo, numa superfície enfarinhada, abra o pedaço restante da massa até ficar grande o suficiente para cobrir o fundo e a lateral da forma",
+      "Enrole a massa no rolo desenrole pela forma",
+      "Com os dedos, pressione a massa contra as laterais e retire as sobras.",
+      "Coloque a forma dentro da geladeira enquanto prepara o recheio",
+      "RECHEIO",
+      "Fatie as maçãs e coloque em uma tigela com o suco do limão",
+      "Adicione 1 xícara de açúcar",
+      "Adicione 1 xícara de açúcar, a canela, o cardamomo, a noz-moscada, misture e reserve.",
+      "Em outra tigela, misture a manteiga derretida com as duas xícaras de açúcar restantes, a farinha de trigo , o ovo levemente batido o sal",
+      "Acrescente metade das maçãs fatiadas.",
+      "Transfira para a forma o recheio e cubra depois com as maçãs restantes.",
+      "Finalização",
+      "Abra a massa que restou em superfície enfarinhada e corte em tiras.",
+      "Cubra a torta com as tiras primeiro em posição horizontal e depois em posição vertical, deixando um espaço entre elas de aproximadamente 1 dedo.",
+      "Pincele a com a gema do ovo, e polvilhe com açúcar e canela se desejar.",
+      "Deixe a torta assar por no mínimo 1 hora em fogo médio, até dourar (esse tempo pode variar até 1h e 30 minutos) e pronto passe o café e pronto bom café da tarde"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "HELOISA :)",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305298-torta-de-maca-sueca.html"
+}

@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PÃO DE QUEIJO 4 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de polvilho azedo",
+      "1 ovo",
+      "300 gramas de parmesão ralado",
+      "1 caixa de creme leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o ovo, o queijo e o creme de leite.",
+      "Por último, vá acrescentando o polvilho aos poucos, até a massa ganhar uma consistência mais firme e desgrudar da mão.",
+      "Unte uma forma com manteiga ou óleo.",
+      "Enrole bolinhas, adicione-as na foma untada e leve-as ao forno por aproximadamente 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALE BOLIVAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300960-pao-de-queijo-4-ingredientes.html"
+}

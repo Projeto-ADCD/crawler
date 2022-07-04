@@ -1,0 +1,46 @@
+{
+  "nome_receita": "PAELLA CAIPIRA PARA 30 PESSOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg filé suíno em cubinhos",
+      "1 kg costelinha de porco",
+      "4 calabresa em cubinhos",
+      "1,5 kg de filé de sobrecoxa em cubinhos",
+      "500 g de bacon",
+      "1 kg de linguiça fininha de pernil picada",
+      "2 cebolas",
+      "1 cabeça de alho",
+      "3 cenouras em cubinhos",
+      "2 lata de milho",
+      "500 g de azeitonas picadas",
+      "500 g de ervilhas frescas",
+      "2 pimentões vermelhos picadinhos",
+      "2 pimentôes amarelos picadinhos",
+      "5 tomates maduros picadinhos",
+      "ovos de codorna a gosto",
+      "1 brócolis",
+      "tomates cerejas a gosto",
+      "200 g azeitonas chilenas",
+      "cheiro-verde picadinhos",
+      "sal, azeite, açafrão e páprica picante a gosto",
+      "2 kg de arroz parbolizado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma paellera, coloque o azeite e as costelinhas e comece a fritar",
+      "Em seguida, vá colocando o bacon, a calabresa, o frango e a linguiça",
+      "Coloque uma pitada de sal nas carnes e junte o tomate, a cebola e o alho",
+      "Deixe fritar e vá misturando todos os ingredientes",
+      "Coloque a cenoura e metade da ervilha",
+      "Coloque a azeitona, 2 colheres de açafrão e 1 de páprica",
+      "Coloque água até cobrir todos os ingredientes, corrija o sal e deixe ferver por 5 minutos",
+      "Coloque o arroz e deixe até dar o ponto, se necessário, vá colocando um pouco de água",
+      "Decore com o ovo, tomate, azeitona chilenas, o restante da ervilha e o cheiro-verde e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GILBERTO OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302477-paella-caipira-para-30-pessoas.html"
+}

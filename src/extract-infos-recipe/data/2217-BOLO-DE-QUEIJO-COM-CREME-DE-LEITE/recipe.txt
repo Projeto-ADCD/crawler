@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE QUEIJO COM CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de açúcar",
+      "3 xícaras de farinha de trigo",
+      "6 claras em neve",
+      "6 gemas",
+      "100 g de queijo ralado",
+      "1 caixa de creme de leite",
+      "250 g de manteiga ou margarina",
+      "1 colher (sobremesa) de fermento (se a farinha de trigo não for fermentada)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a manteiga ou margarina com o açúcar até formar um creme homogêneo.",
+      "Junte as gemas e misture bem.",
+      "Acrescente o trigo aos poucos e misture.",
+      "Coloque o creme de leite.",
+      "Adicione as claras em neve e por último o fermento.",
+      "Acrescente o queijo ralado.",
+      "Coloque em forma untada.",
+      "Leve ao forno médio, preaquecido, por aproximadamente 35 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "VERILENE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305693-bolo-de-queijo-com-creme-de-leite.html"
+}

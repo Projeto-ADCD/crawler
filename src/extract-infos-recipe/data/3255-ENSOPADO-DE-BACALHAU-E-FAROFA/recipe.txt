@@ -1,0 +1,49 @@
+{
+  "nome_receita": "ENSOPADO DE BACALHAU E FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de bacalhau dessalgado, sem pele e desfiado",
+      "2 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de azeite de oliva",
+      "300 ml de água quente",
+      "2 batatas inglesas cozidas",
+      "coentro seco a gosto",
+      "coentro verde picado",
+      "1/2 caixa de creme de leite ",
+      "4 cebolas grande picadas",
+      "coloray a gosto",
+      "1/2 pimentão"
+    ],
+    "PARA A FAROFA:": [
+      "1 colher de manteiga ",
+      "1 cebola",
+      "1 pacote de farofa pronta",
+      "milho verde a gosto",
+      "coentro verde picadinho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve o bacalhau dessalgado em lascas",
+      "Rale as 4 cebolas e reserve e dê uma refogada com uma mistura de manteira e azeite",
+      "Depois da cebola refogada, acrescente o bacalhau e refogue por alguns minutos",
+      "Acrescente o colorau, o coentro, o pimentão e mexa",
+      "Acrescente 300 ml de água quente e deixe cozinhar",
+      "Enquanto isso cozinhe 2 batatas inglesas de tamanho médio/grande",
+      "Quando o bacalhau estiver bem encorpado, tire umas duas conchas de caldo e liquidifique as batatas",
+      "Volte as batatas liquidificadas para o bacalhau ainda no fogo",
+      "Acrescente 1/2 caixa de creme de leite e uma porção generosa de coentro verde picado",
+      "Corrija o sal, desligue o fogo e tampe a panela"
+    ],
+    "FAROFA:": [
+      "Em uma frigideira, refogue cebola branca ralada com manteiga",
+      "Quando a cebola estiver, desidratada acrescente a farofa e mexa até unir todos os ingredientes",
+      "Acrescente 1 colher de milho verde, coentro verde picado, azeitonas a gosto",
+      "Acompanhe com arroz soltinho"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FRANCICLEIDE ALVES SOUSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303655-ensopado-de-bacalhau-e-farofa.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO VULCÃO (CHOCOLATE) DA JÉSSICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1 xícara (chá) de açúcar",
+      "6 colheres (sopa) chocolate em pó ",
+      "2 colheres (sopa) de manteiga",
+      "3 xícaras (chá) de farinha de trigo sem fermento",
+      "1 colher (sopa) de fermento químico",
+      "1 xícara (chá) de leite",
+      "Calda",
+      "1 lata de leite condensado",
+      "1 colher de manteiga",
+      "3 colheres de chocolate em pó",
+      "1 caixa de creme de leite."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Na batedeira, adicione os ovos, o chocolate em pó, a manteiga, a farinha de trigo (sem fermento), o açúcar e o leite e bata por 5 minutos.",
+      "Após isto, adicione o fermento e misture com a espátula delicadamente.",
+      "Em uma forma untada (manteiga e farinha de trigo), despeje a massa e asse em forno médio 180° C (préaquecido) por 40 minutos.",
+      "Calda",
+      "Em uma panela, mexa até todos os ingredientes da calda até que soltem da panela",
+      "Depois coloque 1 caixa de creme de leite e deixe esfriar um pouco para colocar em cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "JÉSSICA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301481-bolo-vulcao-chocolate-da-jessica.html"
+}

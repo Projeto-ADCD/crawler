@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MILKSHAKE DE ACHOCOLATADO EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite",
+      "4 colheres (sopa) de achocolatado em pó",
+      "1/2 xícara de leite condensado",
+      "1/8 de creme de leite (opcional)",
+      "8 cubos de gelo",
+      "4 bolas de sorvete de creme (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador",
+      "Bata por 30 segundos ou até o gelo quebrar"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ALISSON TODINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305041-milkshake-de-achocolatado-em-po.html"
+}

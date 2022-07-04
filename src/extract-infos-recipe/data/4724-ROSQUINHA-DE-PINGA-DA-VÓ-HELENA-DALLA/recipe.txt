@@ -1,0 +1,40 @@
+{
+  "nome_receita": "ROSQUINHA DE PINGA DA VÓ HELENA DALLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g farinha de trigo",
+      "3 colheres (sopa) de manteiga",
+      "1 pitada de sal",
+      "3 ovos",
+      "3 colheres (sopa) de açúcar",
+      "1 colher (sopa) de essencia de baunilha",
+      "1 Colher (sopa) de café preto coado",
+      "30 g de fermento biológico fresco",
+      "Açúcar cristal para polvilhar para polvilhar",
+      "150 ml de pinga (bem cheirosa)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma tigela grande o fermento biológico o açúcar e o sal misture tudo até ficar líquido.",
+      "Acrescente a margarina derretida, os ovos, a baunilha e o café preto.",
+      "Misture bem até ficar com uma cor de café com leite.",
+      "Acrescente a farinha aos poucos e vá mexendo até que a massa esteja pronta para ser amassada com as mãos.",
+      "Sove bem a massa e vá acrescentando farinha até que a massa solte das mãos (não se preocupe se a massa ficar um pouco oleosa).",
+      "Deixe a massa descansar por 30 minutos em um ambiente quentinho (costumo ligar o forno por cinco minutos, desligar e deixar a massa dentro do forno para que cresça).",
+      "Em uma superfície lisa e bem limpa, pegue pedaços da massa pequenos e enrole-os como se fossem canudos.",
+      "Corte pedaços de mais ou menos de 10 cm cada e enrole-os no formato de tranças ou de uma rosca redonda.",
+      "Em uma forma untada apenas com manteiga, leve as rosquinhas ao forno quente e pre aquecido a 180°.",
+      "Deixe assar por 30 minutos ou até elas ficarem um pouco duradas.",
+      "Após assar todas, coloque em um prato com 50 ml de pinga e 50 ml de agua. Em outro, despeje o açúcar cristal.",
+      "Molhe as rosquinhas na pinga e depois polvilhe com o açúcar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Guarde em um recipiente bem fechado. Elas possuem boa validade e ficam bem macias."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "EDILSON TORRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300352-rosquinha-de-pinga-da-vo-helena-dalla.html"
+}

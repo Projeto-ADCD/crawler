@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO FÁCIL E GOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão tipo parafuso",
+      "1 lata de creme de leite",
+      "250 g de carne moída",
+      "sal a gosto",
+      "cebola e salsa a gosto",
+      "30 g de queijo parmesão ralado",
+      "4 colheres (sopa) de extrato de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a carne moída com os temperos de sua preferência em uma panela de pressão, até ficar bem dourada",
+      "Adicione o macarrão e o extrato e misture",
+      "Coloque água até cobrir o macarrão e feche a panela ",
+      "Quando a panela comecar pegar pressão, conte 5 minutos e retire do fogo (o tempo de cozimento do macarrão varia, se atente a olhar a descrição da embalagem)",
+      "Após cozido, adicione a lata de creme de leite e mexa em fogo baixo até dar uma engrossada",
+      "Acerte o tempero quanto for necessário antes de desligar a panela",
+      "Feito isso, esté pronto e é so servir",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "NATÁLIA MAINARDI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302420-macarrao-de-panela-de-pressao-facil-e-gostoso.html"
+}

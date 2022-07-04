@@ -1,0 +1,35 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE DELICIOSO E DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de alcatra ou filé mignon cortado em tiras finas temperadas com sal",
+      "1 litro de caldo de carne",
+      "1 copo de vinho tinto",
+      "1 colher (sopa) de páprica doce",
+      "1 colher (sobremesa) de páprica picante",
+      "2 cebolas picadas ou raladas",
+      "1 copo de champignon fatiado",
+      "2-3 colheres (sopa) de farinha de trigo",
+      "250 ml de creme de leite fresco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fritar a carne aos pouco, \"para não juntar água\", em óleo bem quente. Vá reservando.",
+      "Na mesma panela, frite a cebola, junte a páprica, não deixe queimar.",
+      "Junte a carne já frita, polvilhe a farinha de trigo até envolver todos os pedaços de carne.",
+      "Continue mexendo para não grudar no fundo da panela.",
+      "Jogue o vinho de uma só vez, mexa.",
+      "Vá acrescentando o caldo de carne, aos poucos, sempre mexendo, até ferver.",
+      "Acrescente os champignons",
+      "Na hora de servir, junte o creme de leite, aquecendo, sem ferver."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Serve 4-6 pessoas"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "SERGIO RICARDO FILIPINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303085-strogonoff-de-carne-delicioso-e-diferente.html"
+}

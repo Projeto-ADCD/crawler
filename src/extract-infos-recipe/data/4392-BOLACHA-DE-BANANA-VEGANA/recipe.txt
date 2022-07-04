@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLACHA DE BANANA VEGANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 bananas bem maduras",
+      "1 xícara e meia de açúcar",
+      "Farinha de trigo (ou qualquer outro tipo de farinha de sua preferência)",
+      "1 colher (sopa) de fermento",
+      "Açúcar para passar as bolachas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e amasse as bananas.",
+      "Coloque o açúcar e misture até ficar homogêneo.",
+      "Vá colocando farinha até que não grude muito nas mãos, coloque aos poucos e vá sovando.",
+      "Quando ela estiver no ponto de conseguir pegar-la dando uma leve grudadinha nas mãos, vai estar no ponto certo. Se você colocar muita farinha, vai tirar o gosto da banana.",
+      "Modele como quiser e depois passe no açúcar.",
+      "Unte a forma para retirar mais facil depois.",
+      "Asse até que o fundo fique douradinho."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "CAMILA_SILLVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301242-bolacha-de-banana-vegana.html"
+}

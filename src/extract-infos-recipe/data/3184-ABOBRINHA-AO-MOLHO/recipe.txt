@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ABOBRINHA AO MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha cortada em pedaços grandes",
+      "500 g de quiabo cortado em pedaços grandes",
+      "1 pimenta vermelha",
+      "4 ovos cozidos cortados ao meio",
+      "cebolinha a gosto",
+      "salsinha a gosto",
+      "1 cebola de cabeça cortada",
+      "caldo de 1 limao",
+      "caldo de feijão (o suficiente pra cobrir)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Afervente a abobrinha e o quiabo cortados em pedaço",
+      "Quando já estiverem cozidos, escorra",
+      "Cozinhe os ovos, corte ao meio, coloque com a abobrinha e o quiabo colocar os demais ingredientes cortados ",
+      "Por último acrescente o caldo de feijão e limão"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROSANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303769-abobrinha-ao-molho.html"
+}

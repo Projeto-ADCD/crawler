@@ -1,0 +1,25 @@
+{
+  "nome_receita": "JILÓ APERITIVO PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 jilós",
+      "1 limão",
+      "azeite a gosto",
+      "sal a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com uma faca bem afiada, corte os jilós, sem tirar as cascas, em rodelas bem finas",
+      "Tempere com limão, sal, orégano e azeite",
+      "Espere uns 5 minutos para os jilós curtirem no tempero ",
+      "É só comer.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PEDRINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302540-jilo-aperitivo-pratico.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COOKIE AMERICANO COM AÇÚCAR MASCAVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 Xícara de açúcar",
+      "3/4 Xícaras de açúcar mascavo",
+      "1 colher de chá de sal",
+      "1/2 Xícara de manteiga",
+      "1 Ovo (fresco, se não o cookie pode coalhar)",
+      "11/4 Xícaras de trigo (peneirado)",
+      "1/2 Colher de chá de bicarbonato de sódio.",
+      "150g de chocolate meio amargo",
+      "150g de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o açúcar, açúcar mascavo, o sal e a manteiga.",
+      "Acrescente o ovo e a essência de baunilha e misture bem.",
+      "Peneire o trigo e coloque na massa junto ao bicarbonato de sódio e misture.",
+      "Acrescente o chocolate meio amargo e o chocolate ao leite e misture para distribuir igualmente o chocolate.",
+      "Passe plástico filme por cima da massa e refrigere por mais ou menos 30 minutos na geladeira.",
+      "Asse de 12 a 15 minutos na temperatura de 180ºC."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEDRO FELIPE PAGOTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301655-cookie-americano-com-acucar-mascavo.html"
+}

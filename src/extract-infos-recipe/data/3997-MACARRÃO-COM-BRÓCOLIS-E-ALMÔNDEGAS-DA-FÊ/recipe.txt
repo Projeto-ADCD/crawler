@@ -1,0 +1,44 @@
+{
+  "nome_receita": "MACARRÃO COM BRÓCOLIS E ALMÔNDEGAS DA FÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 buquê grande de brócolis ninja",
+      "1 cebola média",
+      "5 dentes alho grande",
+      "700 gramas de carne moída de primeira",
+      "4 colheres (sopa) de farelo de aveia (ou farelo de pão ralado)",
+      "1 pacote de macarrão da sua preferência",
+      "Temperos: cominho, pimenta-do-reino moída, salsa, coentro, louro moído e sal."
+    ]
+  },
+  "passos": {
+    "BRÓCOLIS:": [
+      "Corte em pequenos buquês e cozinhe no vapor.",
+      "Pique 1 cebola em quadradinhos e refogue no óleo. Deixe dourar.",
+      "Junte 3 dentes de alho amassados.",
+      "Junte o brócolis cozido e tempere com sal, cheiro verde e coentro (ou qualquer tempero de sua preferência).",
+      "Mexa bem todos os ingedientes, mas devagar, para o brócolis não desfazer. Reserve."
+    ],
+    "ALMÔNDEGAS:": [
+      "Tempere a carne com 2 dentes de alho amassado ou picado, 1 pitada de cominho, 1 pitada de pimenta do reino, 1 pitada de louro em pó, salsa, coentro e sal a gosto.",
+      "Misture bem todos os ingredientes. Adicione o farelo de aveia, ou a farelo de pão (use o que tiver ou preferir).",
+      "Misture novamente, acerte o sal se necessário. Deixe descansar 15 minutos, antes de enrolar as bolinhas.",
+      "Utilize uma frigideira antiaderente. Passe um fio de óleo, azeite ou manteiga.",
+      "Coloque as almôndegas na frigideira e deixe-as dourar, em fogo baixo, virando-as aos poucos, com o auxílio de um pegador, ou 2 colheres de madeira.",
+      "Certifique-se de que todos os lados estejam dourados, para que nenhuma almôndega fique crua por dentro.",
+      "Reserve.",
+      "Cozinhe o macarrão de sua preferência e escorra.",
+      "Misture todos os ingredientes em um tacho grande, ou panela.",
+      "Acerte com sal, se necessário.",
+      "A gosto, salpique queijo ralado (mussarela ou provolone) por cima. Fica uma delícia.",
+      "Sirva em seguida. Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Caso utilize carne moída de segunda, não é necessário adicionar o farelo de aveia ou pão, pois a gordura da carne deixará a almôndega molinha. O farelo nesta receita é necessário, pois utilizo carne de primeira (patinho)."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302228-macarrao-com-brocolis-e-almondegas-da-fe.html"
+}

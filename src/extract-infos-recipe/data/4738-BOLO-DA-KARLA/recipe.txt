@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DA KARLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 colheres de margarina",
+      "2 copos de açúcar",
+      "2 copos de farinha de trigo",
+      "1 copo de leite",
+      "1 uma colher rasa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açucar e a margarina por um minuto.",
+      "Despois acresente o leite e o trigo",
+      "Acresente aos poucos e por último o fermento, bata por um minuto",
+      "Unte uma forma com margarina e trigo leve ao forno preaquecido por 180° C",
+      "Tempo de preparo 20 minutos ou até o palito sair limpo ao espetar o bolo."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ue o mesmo copo para as medidas."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CARLIENE EVANGELISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300324-bolo-da-karla.html"
+}

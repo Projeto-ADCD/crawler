@@ -1,0 +1,40 @@
+{
+  "nome_receita": "PAVÊ COM BISCOITO CHAMPANHE",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g biscoito champagne",
+      "2 xícaras (chá) de leite",
+      "4 colheres (sopa) de chocolate em pó",
+      "6 colheres (sopa) de açúcar",
+      "2 e 1/2 colheres (sopa) de amido de milho",
+      "1 pote (250g) de leite condensado",
+      "3 gemas de ovos",
+      "1 pote (200g) de creme de leite",
+      "3 claras de ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os biscoitos perfilados em uma forma de 20cmx25cm."
+    ],
+    "CAMADA 1:": [
+      "Leve ao fogo brando 1 xícara de leite, 4 colheres de chocolate em pó, 3 colheres de açúcar e 2 colheres de amido de milho.",
+      "Deixe pegar uma leve consistência, sem parar de mexer.",
+      "Jogue o creme em cima dos biscoitos."
+    ],
+    "CAMADA 2:": [
+      "Leve ao fogo brando o leite condensado, 1 xícara de leite, 1/2 colher de amido de milhp e 3 gemas.",
+      "Faça o mesmo que o primeiro creme e jogue por cima da camada 1."
+    ],
+    "CAMADA 3:": [
+      "Bata as claras em neve e adicione 3 colheres de açúcar.",
+      "Bata mais um pouco e, por último, adicione o creme de leite e bata novamente.",
+      "Junte tudo e coloque por cima da camada 2.",
+      "Feito tudo isso, leve a forma à geladeira por, no mínimo, 6 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JONATHAN RANGEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301967-pave-com-biscoito-champanhe.html"
+}

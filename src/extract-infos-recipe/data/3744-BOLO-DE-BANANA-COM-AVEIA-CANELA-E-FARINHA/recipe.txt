@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BANANA COM AVEIA, CANELA E FARINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de aveia em flocos finos",
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "3 ovos",
+      "4 bananas médias",
+      "1 colher (sopa) de fermento em pó",
+      "1 colher (sopa) de canela em pó",
+      "1 xícara (chá) de açúcar mascavo",
+      "1 colher de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno por 15 minutos em 180° C",
+      "Prepare um recipiente grande para misturar os ingredientes",
+      "Adicione a margarina, os ovos e o açúcar e misture bem com uma colher",
+      "Adicione as bananas cortadas em rodelas ou cubos e misture",
+      "Adicione a aveia e misture",
+      "Adicione a farinha de trigo e misture",
+      "Adicione a canela em pó e o fermento e misture",
+      "Unte uma forma com furo central com margarina e farinha de trigo",
+      "Despeje a massa e espalhe bem",
+      "Leve ao forno por 50 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MAICKEL SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302795-bolo-de-banana-com-aveia-canela-e-farinha.html"
+}

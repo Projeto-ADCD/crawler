@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CREME BELGA OU PUDIM ALEMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de leite (mesma medida da lata de leite condensado)",
+      "3 colheres de maisena",
+      "3 gemas",
+      "1 caixa de gelatina vermelha (morango, uva, cereja, framboesa...)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bater no liquidificador todos os ingredientes, menos a gelatina.",
+      "Leve ao fogo, mexendo sempre, até formar um creme, reserve.",
+      "Em separado, dissolver a gelatina conforme instruções da embalagem, reserve.",
+      "Em um refratário colocar o creme, com a gelatina por cima.",
+      "Leve à geladeira até endurecer a gelatina."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303106-creme-belga-ou-pudim-alemao.html"
+}

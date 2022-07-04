@@ -1,0 +1,19 @@
+{
+  "nome_receita": "VITAMINA DE MAMÃO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 fatias de mamão (240 g)",
+      "leite de sua preferência (360 ml)",
+      "3 colheres rasas de farelo de aveia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador e está pronta sua vitamina"
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MATEUS SANTUZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304328-vitamina-de-mamao-fit.html"
+}

@@ -1,0 +1,43 @@
+{
+  "nome_receita": "BRIGADEIRÃO (POR: DANIELA NASCIMENTO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 lata de leite condensado (395 g)",
+      "1 caixinha de creme de leite (200 g)",
+      "4 colheres (sopa) de achocolatado em pó",
+      "1 colher de manteiga em temperatura ambiente",
+      "3 ovos inteiros",
+      "manteiga e açúcar, a gosto, para untar a fôrma",
+      "Calda (opcional)",
+      "1 caixinha de creme de leite (200 g)",
+      "3 colheres de achocolatado em pó",
+      "Decoração (opcional)",
+      "chocolate granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Acenda o forno de 180° a 210° C e deixe preaquecendo.",
+      "Enquanto isso, em uma panela, aqueça a água do banho-maria.",
+      "Em um liquidificador, junte todos os ingredientes da massa e deixe bater por 5 minutos ou até que a mistura fique bem homogênea.",
+      "Enquanto a mistura bate no liquidificador, unte a forma com manteiga e polvilhe açúcar em toda ela, reserve.",
+      "Adicione a mistura batida na forma, coloque a forma sobre o banho-maria, leve ao forno e retire após uma hora ou então até que, furando a massa com um palito, este saia limpo.",
+      "Espere o brigadeirão esfriar antes de retirar de dentro da forma (desenformar), mas se for em um momento de pressa, coloque a forma dentro de um recipiente com água fria por alguns minutos.",
+      "Use uma faca fina para soltar as laterais do brigadeirão (inclusive as laterais do meio da forma) e desenforme.",
+      "Calda (opcional)",
+      "Em uma panela misture o creme de leite e o achocolatado em pó",
+      "Mexa tudo em fogo médio até que o chocolate se dissolva bem.",
+      "Desligue o fogo.",
+      "Essa calda não engrossa, mas dá um toque especial ao doce.",
+      "Espalhe por cima do brigadeirão.",
+      "Deixe esfriar e polvilhe o chocolate granulado.",
+      "Leve à geladeira por algumas horas e sirva."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DANIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299767-brigadeirao-por-daniela-nascimento.html"
+}

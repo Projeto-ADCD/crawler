@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RABANADAS DE NATAL DA ANA BRUNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pães grandes de rabanada",
+      "açúcar",
+      "canela",
+      "1 litro de leite",
+      "1 lata de leite condensado (395 ml)",
+      "1 garrafa de leite de coco de (200ml)",
+      "4 ovos",
+      "1 garrafa de óleo",
+      "essência de baunilha "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cortas os pães de rabanadas em fatias em diagonal não muito finas (3 cm cada fatia)",
+      "Numa batedeira, bata as claras em neve, coloque as gemas e continue batendo até dobrar o volume e ficar como um creme",
+      "Com uma colher ou fouet mexa este creme e coloque uma xícara de açúcar, o leite de coco, 4 gotas de baunilha e o leite (um litro)",
+      "Mergulhe as fatias de pão nesta tigela e depois frite em óleo bem quente",
+      "Polvilhe as rabanadas no açúcar e canela, depois decore com fios de leite condensado por cima",
+      "Agora basta degustar e seja muito feliz "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: as rabanadas devem ser polvilhadas ainda quente no açúcar e canela."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CARLOS EDUARDO FERREIRA FIGUEIREDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303421-rabanadas-de-natal-da-ana-bruno.html"
+}

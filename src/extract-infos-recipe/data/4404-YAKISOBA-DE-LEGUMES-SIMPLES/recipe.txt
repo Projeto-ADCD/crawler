@@ -1,0 +1,35 @@
+{
+  "nome_receita": "YAKISOBA DE LEGUMES SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Macarrão de yakisoba",
+      "1 Berinjela",
+      "1 Cenoura",
+      "1 Pimentão vermelho",
+      "1 Cebola",
+      "4 Dentes de alho",
+      "Azeite de oliva",
+      "Molho shoyu",
+      "Maizena",
+      "Kombu Dashi (opcional)",
+      "Ervas desidratadas",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Inicie o cozimento do macarrão e, quando estiver al dente, reserve.",
+      "Fatie a berinjela, cenoura e pimentão em tiras.",
+      "Corte em pequenos pedaços a cebola e o alho e posteriormente, acrescente os legumes. Inicie o cozimento à base de água.",
+      "Em um pequeno pote, misture a maizena e um pouco de água. Adicione aos poucos para engrossar o caldo em que estão os legumes. A quantidade de maizena condiz a sua preferência em quão grosso você quer o molho.",
+      "Adicione molho shoyu e misture. (Nesta etapa é adicionado o Kombu Dashi - opcional)",
+      "Inicie o preparo do macarrão em uma frigideira grande, Frite o macarrão com pouco de azeite e misture em intervalos.",
+      "No momento que estiverem crocantes, adicione os legumes. (Tempero como cebolinha irá dar um sabor ótimo)",
+      "Sirva e bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301198-yakisoba-de-legumes-simples.html"
+}

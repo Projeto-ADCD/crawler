@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SÃO PAULO À NOITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 gelatinas de cores diferentes",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 xícara de açúcar",
+      "1 clara em neve",
+      "água quente e fria"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Prepare cada gelatina usando água quente para dissolver e a fria para aumentar a gelatina (de acordo com as instruções do pacote)",
+      "Coloque em vasilhas diferentes e leve à geladeira por 1 hora e 30 minutos",
+      "Quando estiverem firmes, retire da geladeira e corte em quadrados de um centímetro",
+      "Coloque um pouco da gelatina num prato grande e misture o creme de leite e o leite",
+      "Regue a gelatina aos poucos até terminar toda a gelatina e a mistura de cremes",
+      "A parte, bata a clara em neve e salpique por cima de todo doce",
+      "Leve à geladeira",
+      "As luzes da gelatina em contraste com os cremes revelam o clima de São Paulo a noite, com o nevoeiro típico de lá."
+    ]
+  },
+  "tempo_de_preparo": "200 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARILIA GUIMARÃES DE LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304562-sao-paulo-a-noite.html"
+}

@@ -1,0 +1,46 @@
+{
+  "nome_receita": "RISOTO DE LINGUIÇA E TOMATE SECO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 linguiça patê/blumenau (200g)",
+      "100 ml de vinho branco",
+      "200 g de arroz arbóreo",
+      "1/2 cebola média",
+      "1 dente de alho grande",
+      "50 g de parmesão ralado na hora",
+      "8 tomates secos em conserva cortados em pedaços médios",
+      "4 colheres (sopa) de azeite de oliva",
+      "30 g manteiga",
+      "20 g salsão picado",
+      "1/2 pacote de caldo de legumes ",
+      "1 cebola",
+      "1 cenoura",
+      "orégano seco",
+      "cebolinha verde seca",
+      "tomilho seco",
+      "manjericão fresco",
+      "alho e sal",
+      "caldo de frango/linguiça",
+      "pimenta-do-reino preta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em fogo médio, frite a metade da cebola e o alho no azeite de oliva",
+      "Coloque o arroz e doure até ficar translúcido",
+      "Coloque o vinho branco e deixe evaporar todo",
+      "Em 1 L a 1,5 L de agua coloque o salsão, o caldo de legumes, a cebola cortada em conchas, a cenoura cortada em rodelas, os temperos (com exceção do manjericão) e o caldo de linguiça/frango",
+      "Acerte o caldo com o alho e sal",
+      "Ferva o caldo em fogo baixo por 20 a 30 minutos para concentrar o sabor",
+      "Passando por uma peneira, coloque o caldo até cobrir levemente o arroz, deixe ir evaporando em fogo baixo sempre mantendo todo o arroz coberto",
+      "Mexa durante todo o processo, com cuidado para não esmagar os grãos de arroz",
+      "Em uma panela separada, frite a linguiça e adicione os tomates secos",
+      "Com o arroz na consistência correta (al dente) e o caldo cremoso devido ao amido, adicione a manteiga, a linguiça e os tomates e misture",
+      "Por cima, coloque o parmesão ralado, a pimenta-do-reino e o manjericão fresco"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "LEONARDO MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303117-risoto-de-linguica-e-tomate-seco.html"
+}

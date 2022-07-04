@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ESTROGONOFE DE LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de linguiça de churrasco sem pele",
+      "1 vidro de champignon",
+      "100 g de azeitona",
+      "2 caixas de creme de leite",
+      "1 molho de tomate",
+      "cebola",
+      "alho",
+      "salsinha",
+      "milho verde",
+      "1 colher (sopa) de mostarda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela média refogue o alho e a cebola.",
+      "Em seguida, coloque a linguiça sem pele e amassada.",
+      "Assim que estiver dourada, adicione champignon, milho e azeitona.",
+      "Em seguida, adicione o molho, o creme de leite e a mostarda.",
+      "Deixe ferver e, em seguida, adicione a salsinha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROSEVANE RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300013-estrogonofe-de-linguica.html"
+}

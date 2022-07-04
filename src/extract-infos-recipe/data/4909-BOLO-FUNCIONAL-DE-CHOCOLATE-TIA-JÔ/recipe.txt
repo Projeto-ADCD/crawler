@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO FUNCIONAL DE CHOCOLATE TIA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 de açúcar demerara ou mascavo",
+      "2 xícaras de farinha de coco",
+      "1/2 de chocolate em pó meio 70% cacau",
+      "1/2 xícara de leite",
+      "Cobertura",
+      "Chocolate 70% cacau a gosto",
+      "200 ml creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o leite e o açúcar no liquidificador por 2 minutos",
+      "Em seguida, acrescente os demais ingredientes e bata por mais 5 minutos.",
+      "Em uma forma untada e polvilhada, despeje a mistura e leve ao forno por 25 minutos .",
+      "Cobertura",
+      "Em uma panela derreta o chocolate e junte o creme de leite",
+      "Despeje ainda quente sobre o bolo.",
+      "Um bolo saudável para quem não quer sair da dieta."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JOSEANE MORAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299970-bolo-funcional-de-chocolate-tia-jo.html"
+}

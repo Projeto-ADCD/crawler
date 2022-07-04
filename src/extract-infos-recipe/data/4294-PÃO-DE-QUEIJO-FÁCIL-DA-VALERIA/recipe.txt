@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FÁCIL DA VALERIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de povilho azedo",
+      "1 xícara de água quente",
+      "1/2 xícara de óleo",
+      "2 ovos",
+      "1 pitada de sal a gosto",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, escalde o povilho com a água quente e em seguida coloque o óleo e o queijo",
+      "Misture bem e quando a mistura estiver fria, coloque os ovos ",
+      "Em seguida, com uma colher, faça pequenos pãozinhos e coloque em uma assadeira grande",
+      "Leve ao forno por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VALERIA NUMES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301428-pao-de-queijo-facil-da-valeria.html"
+}

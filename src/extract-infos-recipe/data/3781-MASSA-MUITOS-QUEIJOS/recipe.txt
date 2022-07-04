@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MASSA MUITOS QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Molho:",
+      "140 g queijo gorgonzola",
+      "180 g queijo provolone",
+      "100 g queijo parmesão ralado",
+      "200 g queijo mussarela",
+      "1/3 de tablete de manteiga com sal",
+      "1 caixinha de molho 4 queijos ",
+      "1 pote de requeijão tradicional",
+      "1/4 de copo de leite",
+      "Massa:",
+      "1 kg de massa talharim fresca",
+      "óleo",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque uma panela com água para ferver e cozinhar a massa.",
+      "Ralar ou picar bem pequeno todos os queijos.",
+      "Colocar em uma panela média a manteiga e deixar derreter bem.",
+      "Quando a manteiga estiver derretida, acrescente os queijos, o molho 4 queijos e o requeijão.",
+      "Misture sempre, em fogo baixo para não queimar.",
+      "Quando tudo estiver bem derretido, acrescente o leite e mexa bem.",
+      "Acrescente na panela de agua fervente, um fio de oleo e uma colher de sobremesa de sal.",
+      "Coloque a massa para cozinhar na agua.",
+      "Enquanto a massa cozinha, não pare de mexer o molho. A consistência ideal é meio liquido, meio cremoso.",
+      "A massa cozinha em cerca de 5-7 min. Deixe-a no ponto al dente. E escorra quando estiver no ponto.",
+      "Sirva ela numa travessa e coloque o molho por cima."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CHARLES POSSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302719-massa-muitos-queijos.html"
+}

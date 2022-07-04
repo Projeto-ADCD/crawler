@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PÃO DE INHAME COM GRÃOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 inhame grande",
+      "2 tabletes de fermento biológico",
+      "2 colheres (sopa) cheias de açúcar",
+      "1 copo de água morna",
+      "2 Kg de farinha de trigo",
+      "3 ovos",
+      "1/2 copo de óleo de soja",
+      "1/2 copo de azeite",
+      "sementes (chia, gergilim, linhaça, aveia e flocos, etc) a gosto",
+      "sal a gosto",
+      "azeite e sementes para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento ao açúcar até fermentar e derreter (ficar líquido)",
+      "Coloque a água, misture 1/2 kg de farinha (bem pra não deixar pelotas)",
+      "Deixe descansar por meia hora até dobrar de tamanho",
+      "Cozinhe o inhame, cortado em quadradinhos, faça um purê e reserve",
+      "Mistura o purê de inhame com um punhado generoso de farinha, os ovos, o azeite, o óleo de soja, os grãos e o sa",
+      "Amasse bem com a mão, acrescente a mistura do fermento que ficou descansando aos poucos e vai acrescentando farinha",
+      "Sove até soltar completamente da mão.",
+      "Sovre bem, quanto mais sovado, mais macio fica.",
+      "Deixe descansar mais meia hora",
+      "Modele os pães nas formas, coloque um pano de prato de prato por cima e abafe ",
+      "Deixe descansarem até eles crescerem, dobrem de tamanho tomando toda a forma.",
+      "Asse por 20 minutos, retire do forno, pincele com azeite e grãos",
+      "Deixe mais 20 minutos, apague o fogo, deixe esfriar, desenforme e sirva."
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALESSANDRA CAVAGNA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304596-pao-de-inhame-com-graos.html"
+}

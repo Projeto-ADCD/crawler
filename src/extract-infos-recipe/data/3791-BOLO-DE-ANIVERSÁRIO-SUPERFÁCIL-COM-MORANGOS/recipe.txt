@@ -1,0 +1,49 @@
+{
+  "nome_receita": "BOLO DE ANIVERSÁRIO SUPERFÁCIL COM MORANGOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3 xícaras de farinha de trigo",
+      "2 xícaras de açúcar",
+      "1 xícara de leite",
+      "3 colheres (sopa) de manteiga",
+      "1 e 1/2 xícara de achocolatado ou chocolate em pó",
+      "1 colher (chá) de fermento",
+      "1 lata de leite condensado",
+      "4 colheres de achocolatado ou chocolate em pó",
+      "1 colher de manteiga",
+      "2 barras de chocolate meio amargo",
+      "100 ml de creme de leite",
+      "morangos a gosto para decoração"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Separe as claras das gemas e bata as claras em neve.",
+      "Bata a manteiga até esbranquiçar e adicione o açúcar, logo após, adicione gema por gema.",
+      "Adicione a farinha intercalando com o leite.",
+      "Adicione o chocolate em pó/achocolatado.",
+      "Por fim, adicione o fermento",
+      "Coloque em uma forma alta e untada",
+      "Leve ao forno em 180° C",
+      "Por 40 a 45 minutos ou até o palitinho sair limpo",
+      "Recheio",
+      "Misture o leite condensado, achocolatado e a manteiga e faça o brigadeiro",
+      "Cobertura",
+      "Esquente o creme de leite, mas sem deixar ferver",
+      "Em uma tigela, coloque o chocolate em barra picado e adicione o creme de leite",
+      "Bata delicadamente até formar uma mistura homogênea e brilhante",
+      "Leve o ganache para geladeira até ficar em uma consistência durinha",
+      "Montagem",
+      "Depois do bolo esfriar, corte ao meio e recheie com o brigadeiro.",
+      "Passe delicadamente o ganache em volta do bolo e se preferir use um bico de confeiteiro para decorar.",
+      "Utilize os morangos para decorar por cima.",
+      "Aproveite!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ELYDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302678-bolo-de-aniversario-superfacil-com-morangos.html"
+}

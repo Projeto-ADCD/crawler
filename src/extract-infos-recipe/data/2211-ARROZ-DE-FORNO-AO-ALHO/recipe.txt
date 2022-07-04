@@ -1,0 +1,36 @@
+{
+  "nome_receita": "ARROZ DE FORNO AO ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 dentes de alho",
+      "1 copo de óleo de girassol",
+      "1 ovo",
+      "1 pitada de sal",
+      "1 ramo de salsinha",
+      "500 g de carne moída já refogada",
+      "500 g de arroz cozido e já temperado",
+      "1 copo de molho de tomate",
+      "200 g de mussarela fatiada",
+      "100 g de queijo prato fatiado",
+      "100 g de provolone fatiado",
+      "1 lata de milho verde",
+      "1 lata de ervilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata uma maionese com o óleo, o alho, a salsinha, o ovo e o sal. Reserve.",
+      "Em uma travessa monte camadas na seguinte ordem de ingredientes até esgotar:",
+      "1. Molho de tomate (camada fina)",
+      "2. Arroz",
+      "3. Carne",
+      "4. Queijos",
+      "5. Maionese de alho (camada fina)",
+      "Asse no forno médio por aproximadamente 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SARITA ALVARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305704-arroz-de-forno-ao-alho.html"
+}

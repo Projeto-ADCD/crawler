@@ -1,0 +1,30 @@
+{
+  "nome_receita": "DOCE DE ABACAXI DA VÓ ELVIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi grande (ou 2 pequenos) (tipo pérola porque é mais doce)",
+      "5 copos (americano) de água",
+      "2 copos(americano) de açúcar",
+      "3 caixinhas de gelatina em pó sabor abacaxi",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o abacaxi em cubos e leve ao fogo juntamente com a água e o açúcar.",
+      "Deixe ferver por 15 minutos.",
+      "Desligue o fogo e dissolva as gelatinas no abacaxi (recomendável dissolver uma caixinha por vez).",
+      "Após, acrescente o creme de leite.",
+      "Leve à geladeira até o doce ficar firme (recomendável de 1 dia para outro).",
+      "Rendimento igual da foto: uma travessa de vidro grande.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: A receita original leva 3 copos de açúcar, mas fica bem doce. Aconselharia a colocar apenas 2"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GISELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299966-doce-de-abacaxi-da-vo-elvira.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PALHA ITALIANA ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "150 g de creme de ricota Président",
+      "1/2 colher (sopa) de manteiga Président",
+      "150 g de goiabada cremosa",
+      "160 g de biscoito de maisena",
+      "leite em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Para o brigadeiro de creme de ricota, coloque numa panela 2 latas de leite condensado, 150 g de creme de ricota Président e 1/2 colher de manteiga",
+      "Ligue o fogão em fogo baixo e deixe dar o ponto de brigadeiro de enrolar ou quando começar a desgrudar da panela, sempre mexendo para não grudar",
+      "Em seguida, acrescente as 160 g de biscoito de maisena quebrados grosseiramente e misture",
+      "Numa assadeira de tamanho 15/30 cm, forre com papel manteiga para que o brigadeiro não grude",
+      "Em seguida despeje a metade do brigadeiro e compacte",
+      "Por cima, despeje a goiabada e espalhe por cima do brigadeiro",
+      "Despeje o restante do brigadeiro e compacte novamente, leve ao freezer por 30 minutos para firmar",
+      "Por último, retire do freezer e faça os cortes em tamanho uniformes e polvilhe com leite em pó"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Themístocles Tácito de Castro Silva"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303711-palha-italiana-romeu-e-julieta.html"
+}

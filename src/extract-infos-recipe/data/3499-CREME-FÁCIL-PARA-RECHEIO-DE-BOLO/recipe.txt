@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREME FÁCIL PARA RECHEIO DE BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme leite",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingrediente numa panela e misture",
+      "Depois leve ao fogo baixo, mexendo sempre até começar a engrossar e soltar do fundo da panela."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "OBS: Não deixe ficar em ponto de brigadeiro, apenas cremoso!\nSabe o que combina com essa receita? Um delicioso cappuccino caseiro! Confira!\n  As receitas de bolo são muito procuradas pelos usuários do TudoGostoso: as receitas de bolo de cenoura, bolo de fubá, bolo de milho, bolo de aniversário e bolo de chocolate são algumas das mais queridas. Mas claro que aqui você também aprende a fazer muitas outras delícias, como os bolos recheados. Acha que é muito difícil prepará-los? Estamos aqui para provar que não! Agora que você já sabe como fazer uma receita de recheio para bolo simples, confira em nosso blog 15 receitas de bolo recheado, escolha a sua preferida e faça em sua própria casa!\n  Cortar bolos para rechear é motivo de insegurança culinária para muita gente, afinal, o bolo pode se despedaçar ou ficar torto se você não dominar essa técnica. Para resolver esse problema, nós vamos explicar para você, em nosso blog, como cortar o bolo ao meio para rechear com a sua receita de recheio para bolo simples."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FÊ LEITE LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303246-creme-facil-para-recheio-de-bolo.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SORVETE DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "10 bolachas do biscoito Oreo",
+      "2 caixas de creme de leite (geladas)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe as caixas de creme de leite no congelador por mais ou menos 1 hora.",
+      "Separe as bolachas do recheio do biscoito e reserve separados.",
+      "Quebre ou triture as bolachas em pedaços e reserve para no fim acrescentar na mistura.",
+      "Bata na batedeira por mais ou menos 5 minutinhos as 2 caixas de creme de leite gelada.",
+      "Depois, vá acrescentando aos poucos (sem parar de bater) o leite condensado e, depois, os recheios do biscoito.",
+      "Quando tudo já estiver bem misturado e consistente, desligue a batedeira e misture com uma colher, devagar, as bolachas trituradas em pedaços.",
+      "Pronto, agora seu sorvete pronto é só por em um pote de 1,5 litro e levar ao freezer por 10 horas."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JULIANA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301026-sorvete-de-oreo.html"
+}

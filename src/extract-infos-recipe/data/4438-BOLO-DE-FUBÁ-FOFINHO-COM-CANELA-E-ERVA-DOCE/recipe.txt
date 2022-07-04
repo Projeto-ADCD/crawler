@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE FUBÁ FOFINHO COM CANELA E ERVA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos em temperatura ambiente",
+      "1 xícara de oleo de milho (200 ml)",
+      "1 xícara de leite em temperatura ambiente ou 200 ml de leite de coco",
+      "1,5 xícara de açúcar",
+      "1,5 xicara de fubá mimoso",
+      "1 xícara de farinha de trigo sem fermento",
+      "1 colher (sopa) de fermento em pó",
+      "Canela em pó e erva doce à vontade (costumo usar 1 colher de sopa de erva doce e 1 colher de chá de canela em pó)",
+      "1 colher (chá) de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as gemas e as claras e bater claras em neve.",
+      "Em um liquidificador, junte todos os líquidos, canela em pó, essência de baunilha e o açúcar.",
+      "Peneire o fubá e bata no liquidificador.",
+      "Em outra vasilha, coloque a mistura do liquidicador e acrescentar a farinha de trigo sem fermento peneirada aos poucos (divida em 2 ou 3 partes) e misture com uma espátula delicadamente.",
+      "Se for necessário, bata levemente na batedeira para não ficar com nenhuma bolinha.",
+      "Acrescente o fermento e misture delicadamente até incorporar. Se for necessário, bata um pouquinho na batedeira para não ficar com nenhuma bolinha.",
+      "Acrescente a erva doce e as claras em neves reservadas anteriormente. Misture delicadamente do meio para fora, até incorporar.",
+      "Coloque a mistura em uma assadeira previamente untada com manteiga e farinha e leve ao forno pré aquecido por 10 minutos na temperatura de 180º.",
+      "Asse até dourar (aproximadamente 45 minutos).",
+      "Desenforme e sirva depois que o bolo estiver morno."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "PATRICIA ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301129-bolo-de-fuba-fofinho-com-canela-e-erva-doce.html"
+}

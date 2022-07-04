@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de chá de achocolatado (de sua preferência)",
+      "1/2 litro de leite integral",
+      "Açúcar à gosto",
+      "Creme de leite (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o achocolatado com o açúcar.",
+      "Dissolva a mistura com um pouco do leite (aproximadamente 2 ou 3 colheres de sopa).",
+      "Leve ao fogo baixo e mexa bem.",
+      "Vá acrescentado o restante do leite aos poucos (sempre mexendo).",
+      "Se quiser deixar mais cremoso, acrescente o creme de leite e mexa até dissolver tudo.",
+      "Mexa bem (em fogo baixo) até começar a ferver.",
+      "Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ADRYH EVANS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300753-chocolate-quente-simples.html"
+}

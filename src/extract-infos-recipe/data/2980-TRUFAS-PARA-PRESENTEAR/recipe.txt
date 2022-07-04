@@ -1,0 +1,25 @@
+{
+  "nome_receita": "TRUFAS PARA PRESENTEAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g chocolate fracionado",
+      "1 lata de leite condensado",
+      "1/2 caixa de creme de leite",
+      "2 colheres de coco/chocolate em pó ou sabor de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado e a mistura de sua preferência ",
+      "Leve ao fogo médio até obter a consistência de brigadeiro (desgrudar do lado da panela)",
+      "Leve à geladeira por 20 minutos ou até esfriar totalmente",
+      "Derreta o chocolate fracionado em banho maria ou no micro-ondas de 30 em 30 segundos",
+      "Passe duas camadas de chocolate na forma ou copo de café pequeno leve a geladeira por 3 minutos ou até endurecer",
+      "Coloque dentro o recheio e tampe com chocolate, leve à geladeira por 3 minutos e está pronto a sua trufa!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TRADIÇÃO CONFEITARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304036-trufas-para-presentear.html"
+}

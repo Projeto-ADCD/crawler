@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA NATALINA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacotinho de farofa tradicional (500 g)",
+      "1 xícara pequena de uva passas",
+      "2 dentes de alho grandes picados ",
+      "50 g de champignon picado",
+      "200 g de peito de frango frito, grelhado ou assado, cortado em cubos ou desafiados",
+      "batata palha a gosto",
+      "50 g de azeitonas picadas",
+      "azeite",
+      "salsinha verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira, refogue o frango já temperado no seu gosto, depois corte em pedacinhos ou desfie",
+      "Na mesma frigideira, frite o alho até ficar douradinho",
+      "Em um recipiente coloque a farofa Yoki, a uva passas, o champignon, as azeitonas, o frango frito, misture bem",
+      "Em seguida, adicione o alho picado com o fio de azeite e a salsinha verde",
+      "Misture novamente, finalize com a batata palha por cima e depois sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NATIELLE MARIA DE JESUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303478-farofa-natalina-facil.html"
+}

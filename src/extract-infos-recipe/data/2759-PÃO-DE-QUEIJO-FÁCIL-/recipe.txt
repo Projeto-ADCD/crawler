@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PÃO DE QUEIJO (FÁCIL)",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 colheres de goma de tapioca",
+      "2 ovos",
+      "queijo ralado a gosto",
+      "1 colher (sopa) cheia de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a massa até ficar uniforme",
+      "Unte uma forma só com manteiga ou margarina",
+      "Despeje a massa na forma e coloque para assar no forno por aproximadamente 35 minutos até o pão de queijo está douradinho",
+      "Retire da forma e já pode servir "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BABY YODA E FOFO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304490-pao-de-queijo-facil.html"
+}

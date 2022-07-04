@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "6 colheres (sopa) de açúcar",
+      "1 colher (sopa) de essência de baunilha",
+      "2 colheres (sopa) de margarina bem cheias",
+      "8 colheres (sopa) de trigo",
+      "2 colheres (sopa) de chocolate em pó",
+      "4 colheres (sopa) de leite em pó",
+      "1 colher (sopa) rasa de fermento em pó",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Reserve o sal e o fermento",
+      "Bata na batedeira todos os ingredientes até misturar",
+      "Adicione o sal e o fermento e bata na mão",
+      "Coloque em uma forma tamanho padrão para micro-ondas por 6 minutos",
+      "Após o tempo determinado acima, deixe o micro-ondas fechado por 5 minutos para terminar o cozimento.",
+      "O bolo pode ser feito sem chocolate e retirado a água e o leite em pó e colocar apenas leite na medida da água.",
+      "Caso não tenha chocolate em pó, coloque de 3 a 4 colheres de achocolatado."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EFUMA COLEGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304818-bolo-de-micro-ondas.html"
+}

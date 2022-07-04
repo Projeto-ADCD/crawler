@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA SALGADA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara (chá) de óleo",
+      "1 colher (sobremesa) de sal",
+      "1 xícara (chá) de leite",
+      "2 xícaras (chá) de farinha de trigo sem fermento",
+      "1 colher (sopa) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador por 2 minutos todos os ingredientes com exceção da farinha de trigo e do fermento.",
+      "Após bater por 2 minutos adicione a toda farinha de trigo e bata novamente.",
+      "Por último adicione o fermento químico.",
+      "Unte a forma com manteiga e farinha de trigo.",
+      "Coloque a 1ª camada com um pouco da massa e depois coloque o recheio que você preferir (eu usei presunto, queijo e milho) e despeje a última camada da mistura que restou.",
+      "Em forno pré-aquecido a 180°, asse por 30 minutos ou até dourar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opcões de recheio: frango, salsicha, carne, queijo com presunto, milho, atum, sardinha, etc."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JÉSSICA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301480-torta-salgada-de-liquidificador.html"
+}

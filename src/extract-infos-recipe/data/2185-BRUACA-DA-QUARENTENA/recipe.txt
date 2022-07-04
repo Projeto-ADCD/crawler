@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BRUACA DA QUARENTENA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo médio grande",
+      "1/2 xícara de açúcar",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de leite morno",
+      "1 colher (sobremesa) de manteiga sem sal",
+      "óleo quanto baste para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata em uma tigela ou liquidificador o ovo com o açúcar",
+      "Junte aos poucos a farinha, fazendo uma massa densa",
+      "Acrescente aos poucos o leite com a manteiga",
+      "Quando formar um creme macio levar à fritar em óleo quente mas não queimado",
+      "Girar quando dourar ao gosto",
+      "Retirar e colocar sobre papel absorvente",
+      "Servir quente ou frio."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROSYE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305767-bruaca-da-quarentena.html"
+}

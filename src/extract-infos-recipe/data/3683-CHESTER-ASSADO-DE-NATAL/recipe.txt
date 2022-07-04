@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CHESTER ASSADO DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1  chester",
+      "2 colheres (sopa) de alho triturado",
+      "1 colher (chá) de molho inglês",
+      "2 xícaras de suco de laranja",
+      "1 e 1/2 cebola ",
+      "sal e pimenta-do-reino a gosto",
+      "manteiga a gosto",
+      "1 colher (chá) de azeite",
+      "1 colher (sopa) de mostarda",
+      "temperos verde a gosto (opcional)",
+      "bacon em tiras a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descongele o chester de um dia para o outro na geladeira",
+      "Bata 1/2 cebola, os temperos verde, a mostarda, o azeite, o sal, a pimenta, o suco de laranja, o molho inglês e o alho no liquidificador",
+      "Coloque o chester em um recipiente fundo, seque a ave com delicadeza com um papel-toalha e derrame o tempero por cima",
+      "Deixe pegar o gosto por 1 hora na geladeira",
+      "Retire o chester da geladeira",
+      "Passe um pouco de manteiga por cima da pele da ave",
+      "Prenda com a ajuda de palitos de madeira, algumas tiras de bacon por cima",
+      "Corte a cebola que sobrou e coloque na cavidade de dentro do chester",
+      "Tampe tudo com papel-alumínio e leve ao forno por 40 minutos",
+      "Depois desse tempo, retire o papel e molhe o chester com o caldo do fundo da assadeira",
+      "Deixe dourar por mais alguns minutos e sirva! "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Na ceia de Natal é comum encontrarmos diversas proteínas deliciosas. Peru, lombo, tender e, é claro, o famoso chester! O chester é um tipo de frango que possuí o peito e as coxas mais carnudos. Além disso, ele não tem tanta gordura como as aves tradicionais. De fácil preparo, o chester pode ser a pedida certa para a sua noite de Natal! Por isso, não deixe de fazer essa delícia.\nE você sabia que é possivel incrementar seu Chester com uma receita de farofa? Confira como rechear o chester e deixá-lo ainda mais suculento! Clique aqui e veja as dicas no blog do TudoGostoso.\nVeja também:\nAcompanhamentos para a ceia de Natal: 35 receita práticas e deliciosas\nSalada de batata para o Natal: veja 10 receita criativas"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302919-chester-assado-de-natal.html"
+}

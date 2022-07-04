@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLINHO DE ARROZ COM FRANGO E AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 batata asterix",
+      "1 + 1/2 xícara de arroz integral cozido",
+      "1 xícara de frango desfiado",
+      "3 colheres (sopa) de farelo de aveia",
+      "1 ovo",
+      "3 colheres (sopa) de cheiro-verde",
+      "pimenta-do-reino a gosto",
+      "1 colher (chá) de orégano",
+      "1/2 xícara de parmesão ralado",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, amasse a batata cozida.",
+      "Junte o arroz integral cozido, o frango desfiado, o farelo de aveia, o ovo,  o cheiro-verde, a pimenta, o orégano e o parmesão ralado. ",
+      "Misture bem até formar uma massa homogênea. ",
+      "Modele os bolinhos e coloque-os em uma forma untada com azeite. ",
+      "Leve ao forno preaquecido (200° C) por cerca de 20 minutos. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301449-bolinho-de-arroz-com-frango-e-aveia.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE LARANJA FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 ovos",
+      "1 xícara de óleo",
+      "3 e 1/2 xícaras de açúcar",
+      "2 xícaras de suco de laranja",
+      "4 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "1 colher (sopa) de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata as claras em ponto de neve. Quando chegar no ponto, adicione as gemas, 1 a 1 e, em seguida, adicione o açúcar.",
+      "Depois de bater bem, adicione o óleo.",
+      "Tire da batedeira e faça o resto à mão. Intercale aos poucos a farinha (peneirada) com o suco de laranja.",
+      "Por último, adicione o fermento em pó.",
+      "Leve em forno preaquecido a 190º C de 40 a 45 minutos, ou até espetar o palito de dente e ele sair limpo.",
+      "Cobertura",
+      "Leve ao fogo o leite condensado e a manteiga, em fogo médio-baixo, até engrossar.",
+      "Coloque por cima do bolo ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300300-bolo-de-laranja-fofinho.html"
+}

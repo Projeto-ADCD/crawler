@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE CHUVA NA AIRFRYER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite com 1 ovo dentro (200 ml)",
+      "1/2 xícara (chá) de açúcar (100 ml)",
+      "1 pitada de sal",
+      "2 colheres (sopa) de óleo",
+      "2 e 1/2 xícaras (chá) de farinha de trigo (500 ml)",
+      "1 colher (sopa) de fermento químico",
+      "1 colher (sopa) de chocolate em pó",
+      "1 colher (sopa) de essência de baunilha",
+      "canela a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo até obter uma massa homogênea",
+      "Aqueça a airfryer a 200° C por 5 minutos",
+      "Modele as bolinhas com duas colheres e vire quando dourar por cima (quando for virar, vá raspando para não grudar muito)",
+      "Se for a airfryer de grade, use uma forma de silicone."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "28 PORÇÕES",
+  "autor": "ELAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302378-bolinho-de-chuva-na-airfryer.html"
+}

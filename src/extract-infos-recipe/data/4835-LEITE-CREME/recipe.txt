@@ -1,0 +1,28 @@
+{
+  "nome_receita": "LEITE CREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 gemas",
+      "2 a 3 colheres (sopa) de farinha de amêndoa",
+      "600 ml de leite de amendoa ( ou magro )",
+      "casca de limão",
+      "1 pau de canela",
+      "3 colheres (sopa) de adoçante"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as gemas de 5 ovos para dentro de uma taça. ",
+      "Junte, pouco a pouco, a farinha de amendoa às gemas, mexendo suavemente com uma vara de arames.",
+      "Misture depois 3 colheres de sopa de adoçante",
+      "Adicione, por fim, o leite, envolvendo bem.",
+      "Verta a mistura para um tacho, junte a casca de limão e o pau de canela, e leve a aquecer em lume brando, mexendo sempre, até engrossar.",
+      "Retire do lume, remova a casca de limão e o pau de canela e divida o leite-creme por várias taças individuais ou, se preferir, coloque-o todo numa taça grande ou travessa.",
+      "Na altura de servir, polvilhe cada taça com 1 colher de café de açúcar (2g) e queime com um ferro próprio ou um maçarico de cozinha, de modo a formar uma fina crosta de açúcar. Esta opção tem açúcar, sim, mas apenas 2g, o que não é significativo."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GENGIVALDO RONALDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300136-leite-creme.html"
+}

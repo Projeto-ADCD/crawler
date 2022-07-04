@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BATIDA DE VINHO COM BALA HALLS PRETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 garrafa de vinho",
+      "1 leite condensado",
+      "3 balas Halls preta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com o liquidificador ligado em velocidade baixa, vai acrescentando um pouco mais da metade do leite condensado",
+      "Em seguida acrescente um pouco mais da metade da garrafa do vinho",
+      "Após isso adicione duas balas de Halls preta, depois aumente aos pouco a velocidade do liquidificador até a velocidade alta",
+      "Após ficar em um ponto bom diminua a velocidade, bata mais um pouco e desligue",
+      "Após desligá-lo, retire um pouco mais da metade do que já está feito e em seguida ligue o liquidificador novamente em velocidade baixa",
+      "Após isso acrescente o restante do leite condensado e o restante da garrafa do vinho",
+      "Em seguida vai aumentando a velocidade aos pouco do liquidificador até a velocidade máxima, adicione a outra bala Halls",
+      "Misture um pouco do que já esta pronto até completar a jarra do liquidificador para concentrar o gosto de Halls, depois isso pode ir diminuindo a velocidade do liquidificador até desligar",
+      "Agora é só colocar em uma jarra de preferência e servir"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WAGNER FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303324-batida-de-vinho-com-bala-halls-preta.html"
+}

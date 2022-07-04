@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PURÊ DE QUEIJO ESPETACULAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de queijo coalho Président",
+      "1 litro de leite",
+      "1/2 cebola ralada",
+      "300 g de batata cozida",
+      "200 g de manteiga"
+    ],
+    "PARA GRATINAR:": [
+      "250 g de mussarela Président",
+      "100 g de queijo parmesão ralado Président"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em um liquidificador o queijo coalho, o leite e a batata",
+      "Bata até obter um creme bem liso em uma panela, frite a cebola com a manteiga e coloque a mistura",
+      "Deixe até levantar fervura",
+      "Depois transfira para um refratário e acrescente a mussarela que pode ser fatiada ou ralada ",
+      "Por cima coloque o queijo parmesão",
+      "Leve ao forno bem quente por mais ou menos uns 15 minutos ou até gratinar o queijo"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Alcieli Nascimento"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303815-pure-de-queijo-espetacular.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA DA CRIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas prata picada",
+      "1 cenoura média ralada",
+      "1 cebola picada",
+      "50 g de bacon picado",
+      "4 xicaras de farinha de mandioca",
+      "2 dentes de alho",
+      "50 g de manteiga",
+      "coentro e cebolinha a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo a manteiga e acrescente a cebola, o alho e o bacon",
+      "Deixe dourar e coloque a banana picada, a cenoura, o coentro e a cebolinha",
+      "Deixe fritar 5 minutos e acrescente o sal",
+      "Por último a farinha "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CRISTIANA FERREIRA BASTOS SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303899-farofa-da-cris.html"
+}

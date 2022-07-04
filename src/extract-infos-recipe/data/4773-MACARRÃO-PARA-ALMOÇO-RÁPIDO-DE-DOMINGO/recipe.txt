@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO PARA ALMOÇO RÁPIDO DE DOMINGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão",
+      "1 colher (sopa) de maionese",
+      "1 pitada de sal",
+      "ketchup (opicional)",
+      "1/2 cebola picada",
+      "1/2 colher de manteiga",
+      "1 dente de alho picado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, doure a cebola e o alho.",
+      "Ferva água e coloque o macarrão para cozinhar por 10 minutos.",
+      "Na panela com a cebola e o alho dorado, adicione o macarrão.",
+      "No fogo baixo, mexa e coloque a maionese",
+      "Deixe cozinhar por 5 minutos."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CELIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300252-macarrao-para-almoco-rapido-de-domingo.html"
+}

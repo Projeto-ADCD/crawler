@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA CREMOSA DE CHOCOLATE BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de farinha de trigo",
+      "3 colheres (sopa) de açúcar",
+      "100 g de manteiga sem sal",
+      "1 ovo",
+      "200 g de chocolate branco previamente derretido",
+      "3 ovos batidos",
+      "1 colher (sobremesa) de extrato de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um bowl, misture a farinha, o ovo individual, a manteiga e o açúcar.",
+      "Sove até que fique uma massa lisa e uniforme.",
+      "Reserve na geladeira por pelo menos 20 minutos.",
+      "Prepare o recheio, misture em uma vasilha o chocolate, os ovos batidos e a baunilha.",
+      "Preaqueça o forno a 190° C por 10 minutos.",
+      "Abra a massa com o rolo e modele na forma de 21 cm",
+      "Despeje a mistura do recheio e leve ao forno preaquecido de 20 a 25 minutos.",
+      "Quando o meio da torta estiver mole, mas com as bordas firmes, pode retirar do forno e levar à geladeira por pelo menos uma hora.",
+      "Decore com morangos ou outras frutas que preferir."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NAIARA LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302257-torta-cremosa-de-chocolate-branco.html"
+}

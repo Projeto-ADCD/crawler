@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO DE MINUTO CILINDRADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "4 colheres de óleo",
+      "1 colher de manteiga",
+      "4 colheres de açúcar",
+      "1 colher (café) de sal",
+      "1 ovo",
+      "900 g de trigo",
+      "1 saquinho de fermento em pó biológico seco para pão",
+      "500 ml de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo no liquidificador, menos a farinha de trigo",
+      "Bata bem (o leite tem que estar morno)",
+      "Coloque na vasilha e vá coloquando farinha aos poucos, até desgrudar da mão ",
+      "Deixe descansar por 30 minutos, amasse e enrole os os pães",
+      "Cilindre a massa no cilindro (se você não tiver cilindro, não precisa usar)",
+      "Deixe descansar por mais quarenta minutos",
+      "Leve ao forno a 180° C, deixe dobrar de volume por 40 minutos ou até dourar"
+    ]
+  },
+  "tempo_de_preparo": "130 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "RUTE PEREIRA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302526-pao-de-minuto-cilindrado.html"
+}

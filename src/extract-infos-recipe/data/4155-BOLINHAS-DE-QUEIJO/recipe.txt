@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BOLINHAS DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de queijo mussarela ralado",
+      "1 ovo",
+      "1/2 xícara de trigo",
+      "Orégano a gosto",
+      "Farinha de rosca",
+      "Óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em um recipiente a mussarela ralada, o trigo e o ovo até ficar uma massa uniforme e acrescente o orégano a gosto.",
+      "Faça as bolinhas e passe-as na farinha de rosca e deixe-as por 20 minutos no congelador.",
+      "Por fim, esquente o óleo e frite as bolinhas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "BÁRBARA LIMA??",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301715-bolinhas-de-queijo.html"
+}

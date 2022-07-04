@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CANECA DE ACHOCOLATADO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres bem cheias de farinha de trigo",
+      "Achocolatado ou cacau em pó a gosto",
+      "1 colher pequena de fermento",
+      "1 colher de açúcar (opcional, mas ajuda a amenizar o gosto do achocolatado)",
+      "5 colheres de leite (se quiser mais molhadinho pode colocar um pouco mais)",
+      "2 colheres de óleo ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo primeiro",
+      "Depois e só bater tudo junto na recipiente que você ira usar",
+      "Coloque no seu forno microondas por 3 minutos (depende da potência do seu microondas)"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ANAJULIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303525-bolo-de-caneca-de-achocolatado-facil.html"
+}

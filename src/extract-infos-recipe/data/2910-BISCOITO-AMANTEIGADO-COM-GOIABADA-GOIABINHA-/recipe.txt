@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BISCOITO AMANTEIGADO COM GOIABADA (GOIABINHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres de açúcar",
+      "8 colheres de trigo",
+      "8 colheres de amido de milho",
+      "4 de manteiga",
+      "2 colheres (sopa) de chocolate granulado (opcional)",
+      "goiabada cortada em cubos."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela coloque: o açúcar, amido de milho e trigo intercalando.",
+      "Misture.",
+      "Acrescente a margarina colher por colher, vá mexendo com as mãos até ficar ponto de massinha de moldar e soltando das mãos.",
+      "Por último junte o granulado.",
+      "Faça bolinhas pequenas e coloque em cada um uma goiabada",
+      "Leve em uma assadeira deixando espaço para crescer.",
+      "Tempo de forno: 30 minutos.",
+      "Tire quando o fundo de cada biscoito estiver dourado.",
+      "Deixe esfriar para desnformar",
+      "Coloque em pote fechado, a cada dia fica mais saboroso.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JUCI CORREIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304163-biscoito-amanteigado-com-goiabada-goiabinha.html"
+}

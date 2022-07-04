@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MASSA DE PIZZA CROCANTE CASEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite",
+      "2 colheres (sopa) de fermento biológico",
+      "1 colher (sopa) de açúcar",
+      "2 colheres (sopa) de farinha de trigo",
+      "1 colher (chá) de sal",
+      "1 colher (sopa) de margarina",
+      "1 colher (sopa) de azeite de oliva",
+      "Farinha até dar ponto de bola"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, misture o leite, o fermento, o açúcar e as duas colheres (sopa) de farinha.",
+      "Deixe descansar por 10 minutos aproximadamente. Coloque o sal, a margarina, o azeite e o restante da farinha até dar ponto de sova. Faça uma bola e deixe descansar",
+      "Cubra com papel ou plástico até crescer, aproximadamente 40 minutos.",
+      "Enquanto isso, prepare os ingredientes para o recheio a sua escolha.",
+      "Preaqueça o forno por 15 minutos na temperatura alta.",
+      "Unte a forma de pizza com azeite de oliva. E estique a massa coloque molho de",
+      "tomate e leve ao forno por 10 minutos para pré assar.",
+      "Retire do forno e coloque o recheio: queijo mussarela e o recheio escolhido.",
+      "Asse por mais 20 minutos ou até dourar a borda."
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CELIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300453-massa-de-pizza-crocante-caseira.html"
+}

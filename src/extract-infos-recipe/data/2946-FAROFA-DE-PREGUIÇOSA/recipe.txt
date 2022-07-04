@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DE PREGUIÇOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 kg farofa tradicional",
+      "2 colheres (sopa) de azeite",
+      "2 cebolas grandes cortadas em cubinhos",
+      "150 g bacon cortado em cubinhos",
+      "150 g calabresa picada em cubinhos",
+      "4 dentes de alho picadinhos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o azeite e frite o bacon primeiramente",
+      "Junte a calabresa e posteriormente deixe ambos dourarem bem sem queimar",
+      "Junte agora a cebola e deixe murchar e em seguida junte o alho",
+      "Acrescente a farofa e mexa por uns 3 minutos ainda com o fogo ligado",
+      "Desligue o fogo",
+      "Ótimo acompanhamento para churrasco"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA BERNADETE NUNES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304088-farofa-de-preguicosa.html"
+}

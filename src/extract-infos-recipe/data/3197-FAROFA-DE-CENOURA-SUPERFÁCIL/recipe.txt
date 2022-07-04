@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FAROFA DE CENOURA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 cenouras grandes",
+      "5 fatias de presunto magro",
+      "2 ovos inteiros cozidos",
+      "1 pedaço de bacon",
+      "salsinha a gosto",
+      "1 cebola média",
+      "azeitona a gosto",
+      "1 lata de ervilha ou de milho (como preferir)",
+      "farinha de mandioca torrada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um pouco de óleo, frite o bacon, a cebola e o presunto até ficar tudo bem douradinho",
+      "Acrescente a cenoura ralada e deixe fritar até ela amolecer",
+      "Coloque o milho ou a ervilha, os ovos picados e a azeitona.",
+      "Acrescente a farinha até dar liga.",
+      "Desligue o fogo e acrescente a salsinha picada."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CIDA COUTINHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303752-farofa-de-cenoura-superfacil.html"
+}

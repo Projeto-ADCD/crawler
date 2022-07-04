@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MOLHO DE ALHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 dentes de alho",
+      "1 ovo",
+      "2 copos de 250 ml de óleo de soja",
+      "1 colher de mostarda",
+      "4 colheres de salsinha desidratada",
+      "suco de 01 limão",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador coloque o alho o sal, mostarda, ovo e o limão",
+      "Adicione aos poucos o óleo até obter uma consistência homogênea",
+      "Adicione a salsinha desidratada",
+      "Coloque em um recipiente com tampa e mantenha refrigerado.",
+      "Esse molho dura em torno de 5 dias se mantido na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "6 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALINE TANZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305734-molho-de-alho.html"
+}

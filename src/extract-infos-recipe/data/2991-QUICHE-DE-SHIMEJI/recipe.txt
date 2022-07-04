@@ -1,0 +1,43 @@
+{
+  "nome_receita": "QUICHE DE SHIMEJI",
+  "ingredientes": {
+    "MASSA:": [
+      "150 g de manteiga (sem sal)",
+      "500 g de farofa de milho ",
+      "150 g de creme de leite",
+      "1 ovo",
+      "2 colheres (sopa) de água gelada (caso precise para dar ponto na massa)"
+    ],
+    "RECHEIO:": [
+      "400 g de cogumelo shimeji",
+      "1 colher (sopa) de manteiga",
+      "3 ovos",
+      "300 g de creme de leite",
+      "100 g de mussarela ralada (opcional)",
+      "2 colheres (sopa) de parmesão ralado (opcional)",
+      "sal, pimenta, shoyo a gosto (para temperar)"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Misture todos os ingredientes, formando uma massa",
+      "Abra essa massa com um rolo de macarrão e forre uma forma redonda, de fundo removível (20x3)"
+    ],
+    "RECHEIO:": [
+      "Refogue o shimeji na manteiga e acrescente o shoyu",
+      "Deixe em fogo alto até o shoyo secar",
+      "Reserve",
+      "Misture todos os demais ingredientes e acrescente o shimeji reservado (frio)"
+    ],
+    "MONTAGEM:": [
+      "Com a forma já forrada com a massa, adicione o recheio e leve para assar a 180°C por aproximadamente 40 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestão: o cogumelo pode ser substituído por bacon, presunto, alho poró, escarola, acelga, brócolis, o que quiser!"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FELIPE CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304022-quiche-de-shimeji.html"
+}

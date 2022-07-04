@@ -1,0 +1,53 @@
+{
+  "nome_receita": "LASANHA DE BRÓCOLIS COM BACON AO MOLHO BRANCO DE 4 QUEIJOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Proporção para 1 pacote de massa",
+      "Molho",
+      "1 litro de Leite",
+      "1 colher de manteiga",
+      "250 g de mussarela ralada",
+      "75 g de queijo parmesão ralado",
+      "1/2 xícara de requeijão",
+      "1/2 xícara de catupiri",
+      "1 filete de azeite",
+      "chimichurry a gosto",
+      "sal e pimenta a gosto",
+      "1 colher de amido",
+      "Recheio",
+      "1 gomo",
+      "1/2 calabresa",
+      "200 g de bacon",
+      "2 maços de brócolis",
+      "100 g de mussarela",
+      "100 g de parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho",
+      "Em fogo baixo, adicione a manteiga e o azeite",
+      "Após derreter, adicione o leite e reserve um pouquinho do leite para misturar o amido",
+      "Aguarde até levantar fervura",
+      "Em um recipiente, misture o requeijão e o catupiri e leve ao micro-ondas por 30 segundos",
+      "Leve a mistura à panela, adicione a mussarela ralada e misture por mais 5 minutos",
+      "Adicione os temperos, desligue o fogo e adicione o amido misturando bem por mais 2 minutos.",
+      "Recheio",
+      "O brócolis deve ser picado em pedaços grandes e preparado no vapor por aproximadamente 8 a 10 minutos com leve toque de azeite e sal (isso vai deixar o brócolis macio, bem temperado e derretendo na boca)",
+      "Reserve essa água temperada para dar um leve ponto na massa na hora da montagem.",
+      "Em outra panela, salteie o bacon e a calabresa que deve estar picada em cubos bem pequenos",
+      "Fique a vontade para temperar com ervas secas como orégano, salsa ou ervas finas",
+      "Lembrando de não exagerar, pois o destaque da lasanha esté no sabor do brócolis e no molho branco especial.",
+      "Montagem",
+      "Pronto, agora é só dar uma passada na massa na água temperada que reservamos do preparo do brócolis",
+      "Isso iguala o tempo de cozimento do molho e do recheio com a massa",
+      "Faça as camadas: massa, recheio, molho, queijo ralado e assim se repete.",
+      "Finalize no forno preaquecido a 210° C por mais 15 minutos, sendo 10 minutos com o papel-alumínio e 5 minutos para gratinar.",
+      "Prontinho agora é só apreciar e se deliciar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAPHAEL D'ELLA MASSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305039-lasanha-de-brocolis-com-bacon-ao-molho-branco-de-4-queijos.html"
+}

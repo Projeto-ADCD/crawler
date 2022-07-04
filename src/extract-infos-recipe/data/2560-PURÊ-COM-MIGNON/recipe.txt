@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PURÊ COM MIGNON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 kg de abóbora ",
+      "500 g de vagem",
+      "10 tomates cereja",
+      "1 peça de filé mignon ",
+      "1 lata de creme de leite",
+      "sal a gosto",
+      "cheiro-verde a gosto",
+      "pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a batata e abóbora descascadas para cozinhar (separadamente).",
+      "Após o cozimento, amass as batatas com um garfo de modo que fique pastosa, o mesmo procedimento com a abóbora.",
+      "Em uma panela, frite cebola e alho, coloque a batata amassada e tempere com sal.",
+      "Acrescente o sal e o creme de leite, misture bem e reserve.",
+      "Faça o mesmo procedimento com a abóbora, mas sem o creme do leite.",
+      "Cozinhe no vapor, com um pouco de água deixe ferver até ficar ao dente, acrescente sal e reserve",
+      "Corte a carne em medalhão",
+      "Em uma frigideira aquecida com azeite, coloque as 4 peças para fritar em fogo médio.",
+      "Primeiro lado frite por 3 minutos e acrescente sal",
+      "Segundo lado frite por 3 minutos e acrescente sal",
+      "Com fogo baixo salpique cheiro-verde e pimenta-do-reino, deixe fritar por mais um minuto cada lado",
+      "Junte tudo de forma bonita e sirva."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROBERT WILLIAM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304944-pure-com-mignon.html"
+}

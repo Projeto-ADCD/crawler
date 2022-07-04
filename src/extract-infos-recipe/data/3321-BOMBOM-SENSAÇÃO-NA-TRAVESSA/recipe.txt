@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOMBOM SENSAÇÃO NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 caixas de creme de leite",
+      "200 g de iogurte natural ou integral",
+      "2 sucos em pó sabor morango",
+      "Para o ganache de chocolate:",
+      "300 g de chocolate ao leite ou amargo",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador adicione duas latas de leite condensado, duas caixas de creme de leite, o iogurte e o suco em pó",
+      "Bata durante uns cinco minutos, se precisar mexa com a colher para desgrudar um pouco",
+      "Em seguida, coloque em um refratário de vidro e coloque na geladeira durante 1 hora"
+    ],
+    "PARA A GANACHE DE CHOCOLATE:": [
+      "Derreta o chocolate em banho-maria ou no microondas a cada 30 segundos e sempre mexa para não queimar",
+      "Em seguida adicione o creme de leite e mexa sempre até formar a ganache",
+      "Passando 1 hora é só por em cima do seu creme que está na geladeira, coloque um plástico por cima e deixe por mais uns 20 minutinhos",
+      "Se preferir pode enfeitar do jeito que quiser e bom apetite "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALINE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303564-bombom-sensacao-na-travessa.html"
+}

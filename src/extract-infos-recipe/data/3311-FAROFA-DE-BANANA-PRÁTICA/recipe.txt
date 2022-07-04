@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA DE BANANA PRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas prata",
+      "200 g de bacon",
+      "150 ml de azeite",
+      "1 gomo de linguiça calabresa",
+      "500 g de farinha de mandioca ",
+      "1 cebola",
+      "2 dentes da alho (opcional)",
+      "1 maço de cheiro-verde",
+      "200 g de uva passa hidratada na cachaça",
+      "azeitonas (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o bacon e a linguiça em cubos bem pequenos e leve ao fogo baixo até dourar",
+      "Acrescente a cebola picada, o alho amassado e deixe dourar um pouco",
+      "Acrescente a banana picada e após alguns minutos, acrescente a uva passa",
+      "Espere alguns minutos para o azeite fritar um pouco, jogue o cheiro-verde picado",
+      "Desligue o fogo e coloque a farinha aos poucos e mexa, não deixe a farofa seca",
+      "Finalize com azeitonas picadas e coloque numa travessa bem bonita, agora só saborear, bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANDA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303577-farofa-de-banana-pratica.html"
+}

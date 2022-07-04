@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE COCO GELADO",
+  "ingredientes": {
+    "BOLO:": [
+      "1 lata de leite condensado",
+      "1 xícara de farinha de trigo",
+      "100 g de coco ralado",
+      "4 ovos",
+      "1 colher de fermento em pó"
+    ],
+    "CALDA:": [
+      "200 ml de leite de coco",
+      "100 g de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, exceto a farinha de trigo.",
+      "Acrescente a farinha aos poucos e misture bem.",
+      "Coloque a massa em uma forma untada e enfarinhada.",
+      "Levar para assar em forno pré-aquecido a 180°, por 50 min."
+    ],
+    "CALDA:": [
+      "Misture o leite de coco e o coco ralado.",
+      "Quando o bolo estiver pronto, desenforme e espere esfriar um pouco.",
+      "Quando o bolo estiver em temperatura ambiente, despeje a calda e leve para a geladeira por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "GIO HAMACEK",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301249-bolo-de-coco-gelado.html"
+}

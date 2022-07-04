@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PICANHA NO AVESSO COM PROVOLONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de picanha",
+      "sal grosso",
+      "200 g queijo provolone",
+      "100 g azeitonas verdes sem caroço picadinha",
+      "100 g panceta picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire o excesso de gordura da picanha, deixando uma finíssima camada.",
+      "Com uma faca de ponta fina, faça um corte no miolo da picanha, até o final dela, com muito cuidado para não furar a carne.",
+      "Com cuidado, vire as pontas da picanha com a ajuda dos dedos, para virá-la no avesso",
+      "Recheie a picanha com o queijo, azeitonas e panceta.",
+      "Feche a borda com palitos de dente.",
+      "Coloque sal grosso por fora da picanha, forrar uma forma com papel-alumínio",
+      "Coloque a picanha e cobru com papel-alumínio.",
+      "Leve ao forno preaquecido a 220° C por aproximadamente 60 minutos",
+      "Quando estiver quase assada, retire o papel-alumínio para dourar."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CRISTIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302552-picanha-no-avesso-com-provolone.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "MOQUECA DE DOURADO DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola grande picada",
+      "1 tomate grande picado",
+      "1 pimentão verdes em rodelas",
+      "1 primentão amarelo em rodelas",
+      "1 pimentão vermelho em rodelas",
+      "1 cheiro-verde médio picado",
+      "4 folhas de chicória picadas (coentrão)",
+      "6 pimenta-de-cheiro em pedaços",
+      "2 xícaras de molho de tomate ",
+      "1 xícara de leite de coco",
+      "500 g de dourado (ou outro peixe de couro)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola, o tomate, a metade do cheiro-verde, metade da chicória e metade das pimentas-de-cheiro.",
+      "Quando os temperos estiverem bem moles, adicione água, o molho de tomate e o peixe.",
+      "Após levantar fervura, deixe por 10 minutos.",
+      "Depois adicione os restante dos ingredientes fazendo uma linda decoração por cima e adicione o leite de coco.",
+      "Tampe a panela e deixe em fogo baixo por mais 5 minutos.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa receita serve 4 pessoas com outros acompanhamentos. Quem gosta de camarão pode colocar antes de baixar o fogo e tampar a panela."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DEUTES ROCHA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302730-moqueca-de-dourado-deliciosa.html"
+}

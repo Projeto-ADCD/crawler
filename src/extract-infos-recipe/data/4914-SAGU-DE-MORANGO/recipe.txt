@@ -1,0 +1,30 @@
+{
+  "nome_receita": "SAGU DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de sagu",
+      "1 lata de leite condensado",
+      "2 xícaras de leite",
+      "1xicara de geleia de morango",
+      "Açúcar a gosto",
+      "2 litros de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o sagu de molho durante 1 hora",
+      "Após ficar de molho, coloque na panela, adicione 2 litros de água e ligue o fogo",
+      "Começando a ferver, adicione a geleia de morango e misture",
+      "Quando o sagu começar a cozinhar, adicione o leite, o leite condensado e o açúcar",
+      "Deixe ferver até o sagu ficar transparente",
+      "Após o sagu ficar transparente, desligue o fogo e coloque no refratário",
+      "Deixe esfriar e leve à geladeira",
+      "Sirva gelado.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HÉLLEN PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299957-sagu-de-morango.html"
+}

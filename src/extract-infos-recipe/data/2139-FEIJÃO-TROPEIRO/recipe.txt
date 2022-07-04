@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FEIJÃO TROPEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "150 g de linguiça calabresa ",
+      "250 g de bacon ",
+      "1 tablete de caldo de costela",
+      "2 cebolas ",
+      "salsinha ou coentro a gosto",
+      "sal a gosto",
+      "500 g de feijão carioca ou feijão vermelho",
+      "6 dentes de alho ",
+      "1/5 de xícara (café) de azeite",
+      "farinha de Mandioca fina a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão na panela de pressão por mais ou menos 25 minutos, depois de pronto escorra a água e reserve",
+      "Coloque o azeite em uma panela bem quente, frite a calabresa picada e o bacon cortado em quadrados separadamente, reserve",
+      "Na mesma panela, depois de fritar o bacon e a calabresa, adicione a cebola o alho picados e o tablete de caldo de costela",
+      "Mexa até dourar",
+      "Adicione o feijão e misture, acrescente metade da salsa ou coentro picado e mexa, reservando o restante ",
+      "Acrescente sal",
+      "Depois de tudo bem misturado, coloque a farinha de mandioca em poucas porções e mexa, vá acrescentando de acordo com o gosto de cada um",
+      "Finalize colocando o restante da salsinha ou coentro",
+      "Misture e está pronto, só se deliciar "
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JADY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305911-feijao-tropeiro.html"
+}

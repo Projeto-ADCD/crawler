@@ -1,0 +1,45 @@
+{
+  "nome_receita": "OVO À BOLONHESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola ",
+      "2 dentes de alho ",
+      "1 colher (sopa) de manteiga com sal",
+      "2 colheres (sopa) de azeite",
+      "500 g de carne moída ",
+      "1 colher (chá) de sal",
+      "1 pitada de pimenta-do-reino",
+      "1 molho de tomate de sachê",
+      "1 colher (chá) de coloral",
+      "1 colher (sopa) de salsinha e cebolinha",
+      "4 ovos",
+      "orégano a gosto",
+      "100 g de mussarela",
+      "azeitona a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e o alho",
+      "Em uma panela, coloque o alho e a cebola já picados para refogar na manteiga junto com o azeite",
+      "Acrescente a carne moída e refogue",
+      "Coloque o molho de tomate e misture bem",
+      "Adicione o sal e a pimenta-do-reino",
+      "Misture tudo em fogo baixo",
+      "Coloque o coloral",
+      "Coloque a salsinha e a cebolinha e misture novamente",
+      "Tampe a panela e deixe iniciar a fervura",
+      "Abra pequenos espaços para colocar os ovos (como se fosse fritar)",
+      "Ou seja coloquei 4 ovos (abri então 4 pequenos espaços para colocar os ovos).",
+      "Cubra tudo com a mussarela",
+      "Adicione orégano a gosto",
+      "Coloque as azeitonas sem caroço",
+      "Tampe a panela e, ainda em fogo baixo, deixe por 5 minutos",
+      "Está pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PATRICIA AMADEU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305930-ovo-a-bolonhesa.html"
+}

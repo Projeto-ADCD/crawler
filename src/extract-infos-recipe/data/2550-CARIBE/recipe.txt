@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CARIBE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 macaxeira (mandioca / aipim) grande",
+      "6 tiras de carne de charque cortadas em cubinhos",
+      "1/2 cebola",
+      "1 tomate",
+      "1 pimentão",
+      "óleo de soja, canola, girassol a gosto",
+      "coentro fresco a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a macaxeira, de modo que os pedaços fiquem uniformes e pequenos e reserve.",
+      "Corte a cebola, o tomate e o pimentão em cubos e reserve-os separadamente.",
+      "Corte a carne de charque em cubinhos e a reserve.",
+      "Aqueça uma panela funda e logo em seguida disponha dois fios de óleo.",
+      "Acrescente a cebola picada e a carne de charque, deixando-as refogar até dourarem.",
+      "Depois de douradas, acrescente o tomate e o pimentão.",
+      "Logo, acrescente uma quantidade de água até cobri-los.",
+      "Deixe-os cozinhar, até água reduzir e formar um caldo.",
+      "Após isso, coloque toda a macaxeira na panela e cubra com água, até que ela cozinhe por completo e toda a água se transforme em um saboroso caldo",
+      "Por último, acrescente coentro a gosto."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "IURI FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304963-caribe.html"
+}

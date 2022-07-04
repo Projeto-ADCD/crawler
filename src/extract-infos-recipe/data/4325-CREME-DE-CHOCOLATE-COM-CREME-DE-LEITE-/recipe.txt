@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CREME DE CHOCOLATE (COM CREME DE LEITE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "6 colheres (sopa) de achocolatado em pó",
+      "1 barrinha de chocolate (20g) (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o achocolatado em pó, o creme de leite e o chocolate e leve ao micro-ondas por 8 minutos (não esqueça de mexer de tempos em tempos).",
+      "Retire do micro-ondas e coloque no congelador para gelar até sentir que criou consistência."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ROBERTA DUTRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301369-creme-de-chocolate-com-creme-de-leite.html"
+}

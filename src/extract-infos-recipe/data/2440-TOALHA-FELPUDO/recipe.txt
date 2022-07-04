@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TOALHA FELPUDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 xícara de trigo",
+      "4 ovos",
+      "2 xícara de açúcar",
+      "1 xícara de leite",
+      "1 colher de fermento quimico",
+      "4 colheres de margarina",
+      "Cobertura",
+      "1 caixa de leite condensado",
+      "1/2 caixa de creme de leite",
+      "1 colher de margarina",
+      "coco ralado (quantia a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture igredientes secos e mexa, em seguida adicione os ovos, leite, e margarina.",
+      "Bata até que fique totalmente homogênio.",
+      "Por último, adicione o fermento quimico, batendo em velocidade baixa.",
+      "Asse em forma untada em fogo médio por 40 minutos ou até firmar (faça o teste do palito)",
+      "Cobertura:",
+      "Misture todos os igredientes, exceto o coco ralado.",
+      "Mexa até dar ponto de brigadeiro.",
+      "Passe em cima do bolo ate que cubra tudo.",
+      "Em seguida coloque o coco ralado por cima de maneira que cubra tudo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SAMARA MONTENEGRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305199-toalha-felpudo.html"
+}

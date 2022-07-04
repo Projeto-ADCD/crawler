@@ -1,0 +1,33 @@
+{
+  "nome_receita": "GALINHA ESCABELADA RÁPIDA DA CAMILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/5 kg de peito de frango ",
+      "2 copos de requeijão ",
+      "1 cebola picada",
+      "3 colheres de sopa de molho de tomate pronto (ou 1 tomate picado)",
+      "batata palha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito de frango (sem osso) na panela de pressão por 15 minutos após iniciar a pressão.",
+      "Desligue a panela, retire a pressão, sacuda a panela por 2 minutos para desfiar o frango",
+      "Refogue o frango desfiado junto com a cebola",
+      "Apenas refogue, o frango não pode ficar seco.",
+      "Acrescente o molho de tomate e um pouco de água, somente o suficiente para cozinhar o molho de tomate, não pode haver muito molho, reserve",
+      "Em um refratário, coloque o requeijão, forrando todo o fundo uniformemente",
+      "Distribua o frango sobre o requeijão de forma uniforme",
+      "Acrescente a batata palha como cobertura",
+      "Leve ao forno preaquecido (10 minutos), temperatura de 180° C a 200°C, até que o requeijão",
+      "ferva e \"suba\" até a batata palha",
+      "Sirva com arroz e salada de sua preferência (saladas verdes combinam bem, especialmente",
+      "as amargas como rúcula e agrião).",
+      "A receita de 1/5 kg de frango rende 6 porções generosas"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAMILA RENÉ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301348-galinha-escabelada-rapida-da-camila.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "FRANGO INTEIRO COZIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 frango inteiro tratado, lavado e cortado em pedaços",
+      "1 tomate médio (cortado em cubinhos)",
+      "1 cebola média (cortada em cubinhos)",
+      "1 pimentão médio (cortado em cubinhos)",
+      "2 folhas de louro",
+      "2 temperos prontos (eu uso um de alho e um de limão, mas fica ao seu critério)",
+      "1 colher (sopa) de alho picado",
+      "1 pequena porção de coentro (4 a 5 galhinhos picados)",
+      "3 colheres (sopa) de óleo",
+      "7 colheres de extrato de tomate",
+      "1 colher (chá) de corante",
+      "1 colher (chá) de cominho",
+      "sal a gosto (opcional)",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente o óleo e em seguida doure o alho e a folha de louro por uns 30 segundos",
+      "Coloque o frango na panela e mexa para misturar com o alho",
+      "Em seguida coloque a metade do corante, a metade do cominho e um tempero pronto",
+      "Misture tudo, tampe a panela e deixe refogando uns 5 minutos sempre mexendo para não grudar.",
+      "Se estiver seco, coloque 1/2 xícara de água, caso contrário, deixe cozinhar com a própria água do frango)",
+      "Enquanto a galinha refoga, misture em uma vasilha o tomate, a cebola, o pimentão, o coentro junto com a outra metade do corante, do cominho e o outro tempero pronto.",
+      "Se achar que precisa de sal, coloque um pouco",
+      "Despeje essa mistura dentro da panela do frango, misture e acrescente o extrato (acrescente",
+      "1/2 xícara de água se achar necessário)",
+      "Tampe a panela sempre mexendo para não grudar e cozinhe por uns 15 minutos ou até achar que está no ponto certo pra você.",
+      "Sirva, ou aguarde esfriar um pouco, assim o sabor do frango pega mais."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "DS VARIÊ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300142-frango-inteiro-cozido.html"
+}

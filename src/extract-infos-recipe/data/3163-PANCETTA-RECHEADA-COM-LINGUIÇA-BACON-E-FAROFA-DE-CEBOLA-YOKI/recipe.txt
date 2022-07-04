@@ -1,0 +1,45 @@
+{
+  "nome_receita": "PANCETTA RECHEADA COM LINGUIÇA, BACON E FAROFA DE CEBOLA YOKI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 panceta suína (3 kg)",
+      "suco de 3 limões",
+      "2 colheres (sopa) de sal",
+      "1/2 xícara de azeite",
+      "1/4 de xícara de água",
+      "1 ramo de tomilho fresco [ou 2 colheres (sopa) de tomilho desidratado]",
+      "1 ramo de alecrim fresco [ou 2 colheres (sopa) de alecrim desidratado]",
+      "cheiro-verde a gosto",
+      "1 cebola grande",
+      "4 dentes de alho",
+      "500 g de linguiça calabresa",
+      "500 g de bacon",
+      "1 pacote de farofa yoki de cebola (200 g)",
+      "2 litros de óleo quente",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempero",
+      "Em um liquidificador, coloque o alho, a cebola, o sal, o suco de limão, o azeite, a água, o alecri e o tomilho e bata tudo.",
+      "Recheio",
+      "Corte a linguiça e o bacon em tiras",
+      "Em uma vasilha, misture a farofa Yoki de cebola com o cheiro-verde picado e reserve.",
+      "Pancetta",
+      "Coloque a pancetta com o couro virado para baixo em uma tábua e faça pequenos cortes com o auxílio de uma faca, mas sem ultrapassar a pele.",
+      "Passe todo o tempero no comprimento da carne, coloque em uma vasilha, tampe e deixe marinar na geladeira por uns 30 minutos",
+      "Após esse tempo e com a pancetta aberta, espalhe todo o recheio e enrole como um rocambole, amarrando firme com um barbante culinário dando voltas em toda a peça.",
+      "Coloque em uma assadeira com a emenda para baixo, regue com azeite e leve ao forno preaquecido a 160° C por 4 horas.",
+      "Passado esse tempo, retire do forno e regue com o óleo quente para pururucar (devagar e tome cuidado para não se queimar).",
+      "Quando estiver toda pururucada, utilize uma faca grande de serra para fatiar e sirva com o acompanhamento de sua preferência"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Emmanuel Gomes de Araújo Silva"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303793-pancetta-recheada-com-linguica-bacon-e-farofa-de-cebola-yoki.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "COOKIES FÁCEIS DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 colheres (sopa) de açúcar refinado",
+      "3 colheres (sopa) de açúcar mascavo",
+      "3 colheres (sopa) de margarina ou manteiga sem sal em temperatura ambiente",
+      "1 colher (chá) de essência de baunilha",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 pitada de sal",
+      "1 colher (chá) de bicarbonato de sódio",
+      "1/2 xícara de gotas de chocolate ou a seu gosto",
+      "1/2 xícara de castanha ou nozes picadas grosseiramente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture em uma tigela com uma colher os ingredientes na sequência,",
+      "Leve à geladeira por 15 minutos para descansar",
+      "Após esse tempo,modele e leve para assar em forno preaquecido em forma sem untar por 15 a 20 minutos",
+      "Retire e sirva com um cafezinho",
+      "No tamanho que fiz rendeu 35 deliciosos biscoitinhos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "GILDA FERREIRA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304141-cookies-faceis-de-fazer.html"
+}

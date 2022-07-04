@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE MILHO COM CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 xícaras de cenoura descascadas e picadas",
+      "1 xícara de oléo de sua preferência (soja, milho, girassol...)",
+      "1 xícara de açúcar",
+      "2 xícaras de flocos de milho",
+      "1/2 xícara de farinha de trigo",
+      "1/2 xícara de amido de milho",
+      "1 colher de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador bata os ovos, as cenouras, o óleo e o açúcar até formar um creme homogêneo (3 a 5 minutos)",
+      "Misture a parte os ingredientes secas, exceto o fermento",
+      "Misture aos ingredientes secos o creme obtido no liquidificador",
+      "Misture até obter uma mistura homogênea",
+      "Misture delicadamente o fermento",
+      "Unte e enfarinhe uma forma redonda de 20 cm de diâmetro de furo no centro e despeje a mistura",
+      "Leve para assar no forno pré aquecido a 200 °C por cerca de 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EDNEY VITORIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302568-bolo-de-milho-com-cenoura.html"
+}

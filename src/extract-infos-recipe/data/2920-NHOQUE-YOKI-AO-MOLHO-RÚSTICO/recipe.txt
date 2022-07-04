@@ -1,0 +1,37 @@
+{
+  "nome_receita": "NHOQUE YOKI AO MOLHO RÚSTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de azeite",
+      "2 dentes de alho espremidos",
+      "3 tomates maduros sem sementes picados",
+      "1/2 colher (chá) de sal",
+      "folhas de manjericão a gosto",
+      "500 g de batatas cozidas, espremidas e frias ",
+      "1 xícara de farofa pronto tempero suave Yoki",
+      "4 colheres (sopa) de queijo tipo parmesão ",
+      "3 litros de água fervente",
+      "1 fio de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Molho",
+      "Em uma panela média, aqueça o azeite e doure o alho",
+      "Adicione os tomates picados, o sal e as folhas de manjericão.",
+      "Cozinhe por 5 minutos em fogo baixo.",
+      "Massa",
+      "Em uma tigela média, coloque as batatas espremidas, o queijo e a farofa pronta Yoki.",
+      "Misture bem, faça um cordão com a massa e corte em formato de nhoque.",
+      "Coloque os nhoques na água fervente com o fio de óleo, assim que subirem, retire da panela e coloque em uma tigela com água gelada por 1 minuto.",
+      "Escorra os nhoques, regue com o molho quente e sirva em seguida."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Andreia Bento"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304137-nhoque-yoki-ao-molho-rustico.html"
+}

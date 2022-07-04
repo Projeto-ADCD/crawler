@@ -1,0 +1,20 @@
+{
+  "nome_receita": "BRIGADEIRO DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher de (sopa) de manteiga",
+      "4 colheres de (sopa) de Nesquik"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em uma panela e ir mexendo sem parar com a colher de pau até levantar fervura e ficar homogênea.",
+      "Depois, coloque em um prato ou taça e deixe esfriar."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ANA BEATRIZ FRANZINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301490-brigadeiro-de-morango.html"
+}

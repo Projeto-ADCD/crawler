@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de fubá",
+      "1/2 xícara de farinha de trigo",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite",
+      "1 xícara de açúcar",
+      "1 colher de (sopa) rasa de fermento em pó",
+      "canela em pó a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes a mão, exceto o fermento e a canela, não precisa de batedeira.",
+      "Quando virar uma massa homogênea, adicione o fermento e mexa bem.",
+      "Em uma forma untada e polvilhada, adicione a massa.",
+      "Leve ao forno preaquecido a 180° C por 30 minutos.",
+      "Quando estiver pronto deixe esfriando.",
+      "Quando esfriar retire da forma o bolo e adicione um pouco de canela por cima."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIEL ÂNGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301881-bolo-de-fuba-com-canela.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE COM CALDA DE BEIJINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de chocolate em pó",
+      "1/2 xícaras (chá) de açúcar",
+      "1 xícara (chá) de óleo",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara de água fervente",
+      "3 colheres (chá) de fermento ",
+      "3 ovos"
+    ],
+    "CALDA DE BEIJINHO": [
+      "1 caixa de leite condensado",
+      "2 colheres de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a farinha, açúcar, chocolate, ovos e óleo em uma vasilha e bata bem.",
+      "Pode ser batido na mão.",
+      "Adicione a água fervendo, bata bem e por último junte o fermento.",
+      "Coloque em forma redonda, untada e polvilhada e leve ao forno moderado (180°) por aproximadamente 35 minutos, desenforme e regue com a calda."
+    ],
+    "CALDA": [
+      "Coloque na panela uma caixinha de leite condensado e depois a manteiga e mexa até engrossar.",
+      "Por fim, despeje a calda em cima do bolo."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MAIARA GATINONI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301511-bolo-de-chocolate-com-calda-de-beijinho.html"
+}

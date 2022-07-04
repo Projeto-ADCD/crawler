@@ -1,0 +1,32 @@
+{
+  "nome_receita": "CALDO THIMAIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas grandes",
+      "2 cenouras grandes",
+      "3 mandioquinhas médias",
+      "2 linguiças calabresas",
+      "300 g de bacon",
+      "1/2 cebola",
+      "7 dentes de alho",
+      "sal a gosto",
+      "tempero para legumes",
+      "500 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os legumes e corte em cubos (1 unidade de cada) e cozinhe",
+      "Corte em cubo a linguica e o bacon a sua maneira",
+      "Depois de cozinhar os legumes, bata no liquidificador o restante dos legumes que não foram picados com a água",
+      "Frite o bacon separadamente por conta do excesso de óleo e reserve",
+      "Pique a cebola e frite junto com o alho, deixe dorar e adicione a calabresa pra fritar junto",
+      "Adicione os legumes batidos e o bacon junto com a calabresa e tempere a gosto",
+      "Deixe ferver e se delicie "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MAIARA ARAÚJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300231-caldo-thimaia.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "DOCE DE OVOS AMBRÓSIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 litros de leite",
+      "12 ovos",
+      "3 pedaços de canela em casca",
+      "1 raspa de limão",
+      "600 g de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o leite, a canela, a raspa de limão e o açúcar",
+      "Ligue a panela com os ingredientes acima, em fogo baixo e vá mexendo para não grudar no fundo até ferver",
+      "Logo que ferver, pare de mexer e deixe o fogo ainda baixo, enquanto fará o próximo passo",
+      "Em uma batedeira, coloque as 12 claras e bata em neve (importante bater bastante)",
+      "Logo que estiver batidas em neve, adicione as 12 gemas, que deverão estar peneiradas para a retirada da película da gema",
+      "Bata novamente na batedeira (importante bater bastante novamente)",
+      "Assim que estiverem batidas, adicione esses ovos na panela de leite, que está em fogo baixo.",
+      "Apenas coloque por cima do leite, não misture",
+      "Observe que irá formar uma bolhas, vá furando estas bolhas com um garfo sem misturar",
+      "Logo irá parar de criar bolhas, e o doce estará quase pronto",
+      "Neste momento, você poderá cortar o doce na panela e aguardar que ele fique na consistência que desejar",
+      "Eu prefiro que ele fique com mais caldo, então é só desligar o fogo e esperar esfriar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "CLAUDIO ZACHARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303313-doce-de-ovos-ambrosia.html"
+}

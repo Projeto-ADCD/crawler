@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PAVÊ FÁCIL DE LEITE NINHO E ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixas de leite condensado",
+      "4 caixas de Creme de Leite",
+      "12 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de margarina",
+      "2 colheres de amido de milho",
+      "2 xícaras de leite",
+      "2 abacaxis grandes",
+      "6 colheres (sopa) de açúcar",
+      "200 g de biscoito de maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque 1 abacaxi, cortando em cubos e retirando o miolo",
+      "Coloque em uma panela com 3 colheres de açúcar, cozinhe, depois deixe esfriar e reserve",
+      "Pegue 1 xícara de leite adicione 1 colher de maisena, misture bem e reserve",
+      "Em outra panela, coloque 1 colher de sopa de margarina o leite condensado, 6 colheres de ninho, 2 caixinhas de creme de leite, misture bem",
+      "Acrescente 1 xícara de leite misturado com 1 colher (sopa) de maisena",
+      "Misture de novo até ficar bem misturado",
+      "Leve ao fogo cozinhe bem até virar um creme consistente, despeje em uma travessa, cubra com filme encostando no creme e deixe esfriar",
+      "Retire o filme molhe os biscoitos um a um, pode ser molhado na calda do abacaxi ou se preferir aquela sobra da caixinha de leite condensado",
+      "Coloque um pouco de água, mexa para virar um leite, molhe os biscoitos e cubra o creme com eles",
+      "Use uma escumadeira, retire o abacaxi e coloque por cima do biscoito",
+      "Faça um novo creme da mesma forma do primeiro, despeje por cima, cubra com filme de novo e deixe esfriar",
+      "Com outro abacaxi você pode cortar rodelas para cozinhar ou picar em cubos igual o primeiro",
+      "Deixe esfriar, retire o filme e coloque por cima o abacaxi sem a calda"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MAYCOL KENNEDY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303900-pave-facil-de-leite-ninho-e-abacaxi.html"
+}

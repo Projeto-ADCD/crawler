@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PIZZA CASEIRA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "4 colheres (sopa) de manteiga",
+      "1 xícara (chá) de leite",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, mas ajudando com uma colher pois a massa é pesada e o liquidificador não terá força para bater bem",
+      "Depois de batido acrescentar 1 colher de sopa de fermento em pó misturar com a colher",
+      "Untar uma forma colocar a massa espalhar com uma colher e levar para pré-assar por 10 minutos.",
+      "Depois disso rechear a seu gosto.",
+      "Sugestão: molho de tomate pronto sobre a massa, mussarela ralada, presunto ralado, rodelas de tomate, cheddar, para decorar azeitonas e orégano",
+      "Leve para o forno novamente por 15 minutos e bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MAYARA GALHEANOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302973-pizza-caseira-de-liquidificador.html"
+}

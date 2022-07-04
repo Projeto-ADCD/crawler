@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE POLVILHO DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "6 ovos",
+      "2 xícaras de açúcar demerara",
+      "5 xícaras de polvilho doce"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos na batedeira em modo pão de ló por 10 minutos mais ou menos",
+      "Aumentando a velocidade gradativamente, até dobrar de volume.",
+      "Vá acrescentando aos poucos o açúcar.",
+      "Após acrescentar todo o açúcar bata por mais 1 ou 2 minutos",
+      "Desligue a batedeira e vá colocando o polvilho com uma colher e vá misturando devagar de baixo pra cima,apenas uma dica.",
+      "Forre o fundo da forma com papel manteiga e unte com um pouco antes, para não ter risco de grudar.",
+      "Coloque o forno para aquecer por 10 minutos, coloque a forma e asse por mais ou menos 30 minutos, ou até dourar o bolo.",
+      "Espere esfriar e desenforme.",
+      "Sirva de morno pra frio."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "NELIMAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304766-bolo-de-polvilho-doce.html"
+}

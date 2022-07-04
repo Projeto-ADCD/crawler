@@ -1,0 +1,33 @@
+{
+  "nome_receita": "POLENTA FRITARITA DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de fubá",
+      "1 e 1/2 xícara (chá) de arroz branco cozido",
+      "1,5 litro de água",
+      "2 colheres (sopa) de óleo",
+      "2 cubos de caldo de carne",
+      "sal, orégano e especiarias a gosto",
+      "1 xícara (chá) de fubá para empanar",
+      "1 litro de óleo para fritar",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, acrescente a água, o óleo, os cubos de caldo, o sal, orégano e especiarias e coloque-os no fogo.",
+      "Após levantar fervura, acrescente o fubá já diluído em água fria.",
+      "Mexa tudo com uma colher de pau, sem parar, por aproximadamente 15 minutos ou até que fique numa consistência firme.",
+      "Após desligar o fogo, acrescente o arroz e mexa até misturar.",
+      "Coloque-os na geladeira e deixe por aproximadamente 45 minutos ou até esfriar.",
+      "Após esfriar, corte-os no formato desejado (cubos ou palitos).",
+      "Então, empane-os no fubá. É importante que todos os lados estejam bem empanados, para que assim fiquem crocantes e sequinhos.",
+      "E finalmente, coloque-os para fritar em óleo quente.",
+      "E sirva-se (Consumo imediato)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ERICA ARRUDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300199-polenta-fritarita-diferente.html"
+}

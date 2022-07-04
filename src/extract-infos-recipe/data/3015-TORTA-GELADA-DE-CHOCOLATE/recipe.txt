@@ -1,0 +1,23 @@
+{
+  "nome_receita": "TORTA GELADA DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixa de leite condensado",
+      "2 caixa de creme de leite",
+      "4 barras de chocolate ao leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as 4 barras de chocolate em pedaços pequenos .",
+      "Após ter picado a barra coloque os pedaços na geladeira para não derreter ",
+      "Em uma batedeira ou no liquidificador, bata as duas caixas de leite condensado com as duas caixas de creme de leite por 1 minuto e 30 segundos",
+      "Em seguida, pegue uma vasilha de vidro e vá montando 1 camada da calda outra de chocolate ",
+      "Após isso, coloque a sobremesa já montada no congelador e deixe por um dia (se você observar que ela já está dura, não precisa esperar 24 horas)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ESTELA SILVA MARCELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303994-torta-gelada-de-chocolate.html"
+}

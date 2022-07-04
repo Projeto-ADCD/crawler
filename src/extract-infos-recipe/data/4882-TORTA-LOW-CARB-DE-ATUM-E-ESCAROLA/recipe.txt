@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA LOW CARB DE ATUM E ESCAROLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pé de escarola fatiado (aproximadamente 200 g)",
+      "azeite para refogar (aproximadamente 3 colheres )",
+      "temperos a gosto para refogar (alho, cebola, etc)",
+      "temperos a gosto (eu coloco orégano)",
+      "1/2 xícara de azeitona",
+      "1 tomate picadinho",
+      "2 latas de atum sólido ao natural",
+      "2 ovos cozidos fatiados em rodela",
+      "3 ovos para a massa",
+      "150 g de mussarela",
+      "200 g de creme de leite (1 caixinha)",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a escarola com o azeite e temperos até secar a água",
+      "Com o fogo já desligado misture à escarola a azeitona, tomate e atum.",
+      "Aqueça o forno a 180° C enquanto prepara a massa",
+      "Bata no liquidificador os ovos, mussarela e creme de leite. Por último adicione o fermento e bata mais um pouco.",
+      "Em um refratário médio coloque metade da massa, o recheio de escarola, cubra com os ovos cozidos e finalmente a outra metade da massa.",
+      "Asse por aproximadamente 40 minutos.",
+      "Se quiser pode cobrir a torta com parmesão ralado antes de assar. Ela fica com uma casquinha mais crocante e douradinha."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PAULA TIBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300019-torta-low-carb-de-atum-e-escarola.html"
+}

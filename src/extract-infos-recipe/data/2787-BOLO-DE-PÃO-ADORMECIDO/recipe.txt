@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE PÃO ADORMECIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 pães adormecido",
+      "3 ovos",
+      "2 xícaras de açúcar",
+      "3 xicaras de farinha de trigo",
+      "1 colher de fermento",
+      "1 colher de manteiga ou margarina",
+      "3 xícaras de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o pão amolecer no leite por uns 30 minutos",
+      "Bata no liquidificador o pão, a margarina, os ovos, o açúcar e o trigo.",
+      "Depois de formar uma massa homogênea, coloque o fermento e bata mais uns segundo até desmanchar bem.",
+      "Coloque em uma forma untada e leve ao fogo preaquecido e fique monitorando depois de uns 30 minutos.",
+      "Dependendo do forno pode ir ate 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NELSON BERGMANN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304428-bolo-de-pao-adormecido.html"
+}

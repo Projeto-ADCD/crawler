@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PIZZA CASEIRA DA JÔ",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de trigo",
+      "100 ml de leite",
+      "1 ovo",
+      "1/4 de óleo",
+      "4 colheres (café) fermento biológico",
+      "100 ml de água",
+      "1 colher (café) de açúcar",
+      "1 colher (café) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça os 100 ml de água por 15 segundos no micro-ondas.",
+      "Em seguida, dissolva as 4 colheres do fermento biológico.",
+      "Coloque a mistura em uma tigela com 100ml de leite, 1 ovo, 1/4 de óleo, açúcar e sal.",
+      "Misture tudo",
+      "Acrescente as 3 xícaras de trigo (peneire se precisar) mexa bem com as mãos até não grudar mais.",
+      "A massa deve ficar com textura fina e leve capaz mesmo de abrir na mão sem o rolo.",
+      "Enrole a massa em um pano seco e limpo.",
+      "Aqueça o micro-ondas por 30 segundos, depois coloque a massa lá dentro só nesse calor para inchar e crescer.",
+      "Deixe lá por 30 minutos",
+      "Abra a massa polvilhado a base com trigo para facilitar. Rechei a gosto e leve passar assar em forno pré aquecido a 180°C por 20 minutos",
+      "Você também pode abrir a massa rechear e congelar"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304220-pizza-caseira-da-jo.html"
+}

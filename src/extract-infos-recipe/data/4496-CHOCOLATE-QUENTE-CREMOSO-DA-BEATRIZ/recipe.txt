@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE CREMOSO DA BEATRIZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de leite",
+      "1 colher (sopa) de amido de milho",
+      "4 colheres (sopa) de achocolatado em pó",
+      "5 colheres (sopa) de açúcar",
+      "1 caixinha de creme d eleite",
+      "1 pitada de sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata o leite, o amido com o chocolate em pó e o açúcar",
+      "Despeje em uma panela e leve ao fogo baixo, mexendo sempre até ferver",
+      "Desligue, adicione o creme de leite e mexa bem até ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BEATRIZ OLIVEIRA ANDRADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300991-chocolate-quente-cremoso-da-beatriz.html"
+}

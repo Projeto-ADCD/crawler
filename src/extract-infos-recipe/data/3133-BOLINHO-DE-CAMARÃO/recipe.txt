@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLINHO DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarão pequeno, sem cabeça e sem casca",
+      "500 g de farinha de mandioca branca",
+      "400 g de queijo mussarela Président",
+      "sal a gosto",
+      "limão",
+      "massa de tomate",
+      "1 maço de salsinha",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque sal e limão no camarão",
+      "Refogue em uma panela com uma colher de óleo até dourar o camarão",
+      "Coloque meio litro de água e deixe ferver",
+      "Depois coloque cheiro-verde e a massa de tomate a gosto, até ficar vermelhinha a água",
+      "Depois que ferver dez minutos, vai colocando a farinha e mexendo",
+      "Deixe esfriar, enrole os bolinhos com um quadradinho de queijo dentro e só fritar"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303835-bolinho-de-camarao.html"
+}

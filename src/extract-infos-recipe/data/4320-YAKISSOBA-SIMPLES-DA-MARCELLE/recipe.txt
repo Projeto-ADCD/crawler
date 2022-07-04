@@ -1,0 +1,32 @@
+{
+  "nome_receita": "YAKISSOBA SIMPLES DA MARCELLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de frango picado em tiras",
+      "200 g de alcatra picada em tiras",
+      "200 g de paleta suína picada em tiras",
+      "1 cebola",
+      "1 cenoura",
+      "1 brócolis americano",
+      "1/2 repolho",
+      "macarrão para yakisoba ou miojo ",
+      "Molho shoyu a gosto",
+      "sal a gosto",
+      "óleo para fritar as carnes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe junto a cenoura e o brócolis com um pouco de sal até ficar \"ao dente\", depois escorra e reserve.",
+      "Cozinhe o macarrão, escorra e reserve",
+      "Frite as carnes até ficarem douradinhas e depois coloque a cebola.",
+      "Depois que ela estiver cristalina, junte o repolho e coloque um dedinho de água para ajudar a murchar.",
+      "Agora acrescente o macarrão, o tempero para yakisoba que vem no pacote da massa, o brócolis, a cenoura e o molho shoyu a gosto",
+      "Misture tudo até que os ingredientes fiquem bem incorpados e depois sirva"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCELLE CALDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301376-yakissoba-simples-da-marcelle.html"
+}

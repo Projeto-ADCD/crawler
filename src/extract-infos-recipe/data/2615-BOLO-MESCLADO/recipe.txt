@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO MESCLADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 xícaras de farinha de trigo",
+      "1/2 xícara de amido",
+      "2 xícaras de leite",
+      "2 xícaras de açúcar",
+      "2 colheres (sopa) de margarina",
+      "1 colher (sopa) de fermento",
+      "1/2 caixa de leite condensado",
+      "1/2 limão",
+      "3 a 4 colheres (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira coloque os ovos, margarina e o açúcar e bata por uns 5 minutos.",
+      "Desligue a batedeira e coloque a farinha de trigo, o amido e o leite",
+      "Adicione aos poucos e bata novamente até misturar bem.",
+      "Por último, coloque o fermento em pó e misture com uma colher.",
+      "Divida em um refratário a massa",
+      "Em um dos refratários, misture a massa com o chocolate em pó.",
+      "Unte a assadeira redonda com margarina e fermento e coloque as duas massas de acordo com a sua preferência.",
+      "Leve no forno a 180° C por aproximadamente 35 minutos (a questão de deixar mais dourado vai de acordo com seu gosto)",
+      "Cobertura",
+      "Em um refratário pequeno coloque 1/2 caixa de leite condensado e esprema 1/2 limão, retirea  semente e misture até engrossar.",
+      "Coloque em cima do bolo e raspar a casca do limão a gosto."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TIAGO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304799-bolo-mesclado.html"
+}

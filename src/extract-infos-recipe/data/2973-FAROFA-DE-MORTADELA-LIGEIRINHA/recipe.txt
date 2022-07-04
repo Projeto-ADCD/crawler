@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA DE MORTADELA LIGEIRINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de mortadela defumada",
+      "1 e 1/2 xícara de farofa pronta de sua preferência",
+      "1 cebola média picada",
+      "2 dentes de alho",
+      "1 limão (suco)",
+      "1/2 pimenta dedo de moça (opcional)",
+      "1 colher (sopa) de azeite ou óleo ou manteiga",
+      "1 pitada de sal",
+      "salsinha e cebolinha picadas",
+      "tomates cereja para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue bem a mortadela picada com o alho e a cebola no azeite.",
+      "Acrescente a pimenta dedo de moça - troque por pimenta-do-reino, se não quiser muita picância.",
+      "Esprema o limão nesta mistura, mexa e aguarde secar um pouco.",
+      "Coloque a farofa e deixe incorporar os sabores por uns 3 minutos.",
+      "Incorpore os outros temperos e desligue.",
+      "Decore com os tomatinhos e com salsinha.",
+      "Sirva como acompanhamento no churrasco, com feijoada ou com um bom prato de arroz com feijão e bife ou omelete.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RENATA ODORISSIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304051-farofa-de-mortadela-ligeirinha.html"
+}

@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CARNE SAL GROSSO NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne mole com uma camada de gordura",
+      "3 kg de sal grosso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Forre uma forma com 1 kg de sal grosso, fazendo uma cama ",
+      "Coloque a carne em cima do sal grosso e forre toda a carne com os 2 kg de sal",
+      "Deixe no forno elétrico com tempo de duração de 1 hora e 30 minutos, com dorador ligado"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EZEQUIEL TAVARES CACERES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300176-carne-sal-grosso-no-forno.html"
+}

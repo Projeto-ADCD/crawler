@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DE BACON E CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres bem cheias de manteiga",
+      "3 cebolas médias picadas bem miúdas",
+      "1 pacote de creme de cebola",
+      "3 ovos cozidos e picados em quadradinhos",
+      "250 g de farinha de mandioca flocada",
+      "150 g de bacon em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon em uma panela até ficar crocante, reserve",
+      "Na mesma panela derreta 2 colheres de manteiga e doure as cebolas",
+      "Acrescente o creme de cebola, abaixe o fogo e misture bem",
+      "Acrescente 2 colheres de manteiga",
+      "Enquanto mistura acrescente o bacon, os ovos e a farinha",
+      "Sirva em temperatura ambiente"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA APARECIDA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303504-farofa-de-bacon-e-cebola.html"
+}

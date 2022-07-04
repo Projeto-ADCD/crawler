@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FEIJÃO PRETO NA PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão",
+      "1 cebola média cortado em pedaços pequenos",
+      "1 tomate médio cortado em pedaços pequenos",
+      "1/2 pimentão cortado em pedaços pequenos",
+      "cheiro-verde e cebolinha a gosto",
+      "2 dentes de alho grandes picados",
+      "1 linguiça calabresa ou 2 toscanas",
+      "sal a gosto",
+      "colorau a gosto",
+      "pimenta-do-reino a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Obs 1 na noite da véspera deixe o feijão de molho por aproximadamente 2 horas, escorra a água e deixe descansar o restante da noite.",
+      "Obs 2 se usar a linguiça toscana, deve retirar a pele, cortar em pedaços e fritar com óleo ou azeite e água, sempre virando os lados para ir cozinhando, quando achar que está cozida deixe fritar.",
+      "Obs 3 se usar a linguiça calabresa, fritar no óleo ou azeite como de costume.",
+      "Cozinhando o feijão",
+      "Na panela de pressão coloque o feijão, com aproximadamente 3 dedos de água. Quando pegar pressão deixe cozinhar por 10 minutos.",
+      "Prove depois para ver se está no ponto, caso contrario cozinhe um pouco mais e deixe descansar.",
+      "Preparando a linguiça",
+      "Em uma frigideira grande, prepare a linguiça no período em que cozinha o feijão, seguindo as observações 2 ou 3 e reserve.",
+      "Preparando o refogado",
+      "Na mesma frigideira em que preparou a linguiça, adicione o alho até dourar, adicione a cebola até refogar, adicione o pimentão, adicione o tomate, adicione o cheiro verde e a cebolinha, sempre misturando tudo.",
+      "Adicione de volta a linguiça reservada, ao refogado e misture.",
+      "Finalizando o feijão",
+      "Misture todo o refogado ao feijão, adicione a gosto o sal, o colorau e a pimenta e deixe cozinhar mais 5 minutos sem pressão, para que o feijão pegue o gosto."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FELIPE DE CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305936-feijao-preto-na-pressao.html"
+}

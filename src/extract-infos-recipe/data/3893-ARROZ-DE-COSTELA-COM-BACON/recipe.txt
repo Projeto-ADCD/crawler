@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ DE COSTELA COM BACON",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de costela",
+      "300 g de bacon picado em cubos",
+      "3 xícaras de arroz",
+      "1 cebola grande picada",
+      "1 copo (americano) de água",
+      "sal, pimenta-do-reino e sachê de tempero a gosto (opcional)",
+      "1 tablete de caldo de costela",
+      "cebolinha e salsinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela quente, coloque um fio de óleo e sele a costela dos dois lados, reserve",
+      "Coloque a cebola picada e o alho na panela até que doure",
+      "Junte a costela, o caldo, a pimenta-d-reino e o sal a gosto",
+      "Refogue por aproximadamente 3 minutos, coloque um copo (americano) de água e feche a panela por 40 minutos (deixe cozinhando)",
+      "Assim que a costela estiver cozida, retire ela da panela e reserve o caldo da carne",
+      "Desfie a costela e reserve",
+      "Em uma frigideira, frite o bacon picado e em seguida retire o óleo do bacon",
+      "Na panela da carne refogue o arroz",
+      "Acrescente o bacon, a costela desfiada, a cebolinha e salsinha misturando bem",
+      "Em seguida, acrescente o caldo da carne reservado e se precisar acrescente um pouco de água ",
+      "Feche a panela e espere cozinhar o arroz por aproximadamente 10 minutos",
+      "Pronto, se delicíe "
+    ]
+  },
+  "tempo_de_preparo": "65 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "LETICIA NATIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302423-arroz-de-costela-com-bacon.html"
+}

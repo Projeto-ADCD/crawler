@@ -1,0 +1,34 @@
+{
+  "nome_receita": "COSTELA MACIA NO FORNO ELÉTRICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "sal a gosto",
+      "2 pacotes de tempero pronto para carnes (optei pelo temperos do nordeste)",
+      "1 pitada de páprica",
+      "1 pitada de curry",
+      "1 pitada de colorau",
+      "1 pacote de tempero pronto com toque de alho (opcional)",
+      "4 dentes de alho",
+      "1 pitada de oregáno",
+      "1,2 kg de costela bovina",
+      "3 colheres de óleo",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente grande, coloque o óleo e os demais temperos secos",
+      "Mexa até virar uma mistura homogênea e deixe descansar de um dia para o outro",
+      "Mexa pela menos uma vez trocando de lado",
+      "Antes de preparar, pegue um refratário ou forma de alumínio",
+      "Forre com papel-aluminio e cuidadosamente coloque a costela, tomando cuidado para não vazar o tempero para forma",
+      "Enrole pelo menos duas vezes no papel e coloque no forno",
+      "Decorrido 2 horas e 20 minutos, fure a costela ou cuidadosamente retire um pedaco para ver se esta macia e suculenta",
+      "Remova a forma, e com cuidado para não se queimar, remova a parte de cima do papel-aluminio e deixe dourar 20 minutos"
+    ]
+  },
+  "tempo_de_preparo": "160 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MURILO EDUARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305238-costela-macia-no-forno-eletrico.html"
+}

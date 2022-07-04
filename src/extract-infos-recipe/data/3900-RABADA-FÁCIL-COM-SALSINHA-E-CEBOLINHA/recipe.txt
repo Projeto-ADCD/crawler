@@ -1,0 +1,29 @@
+{
+  "nome_receita": "RABADA FÁCIL COM SALSINHA E CEBOLINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de rabada fresca",
+      "sal a gosto",
+      "cebola e alho a gosto",
+      "salsinha e cebolinha a gosto",
+      "2 colheres (sopa) de massa de tomate",
+      "5 colheres de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave a rabada em uma bacia com água e vinagre, deixe por 5 minutos",
+      "Em uma panela de pressão, coloque a cebola e o alho, espere até dourar.",
+      "Coloque na panela a rabada para dar uma pré-fritada nela, para pegar uma cor.",
+      "Logo após, coloque água quente até cobrir a rabada e feche a panela ",
+      "Quando começar a dar pressão, deixe por 30 minutos.",
+      "Abra a panela e acrescente batatas (se preferir)",
+      "Espere por mais 30 minutos (ela estará desmanchando)",
+      "Coloque a rabada em outra panela sem a água, acrescente a salsinha e a cebolinha."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "HERCULES FERREIRA COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302413-rabada-facil-com-salsinha-e-cebolinha.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORVETE DE MILHO VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 lata de milho verde",
+      "1caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo no liquidificador",
+      "Bata por 20 segundos",
+      "Deixe na geladeira por 8 horas",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "8 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JENNIFER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300011-sorvete-de-milho-verde.html"
+}

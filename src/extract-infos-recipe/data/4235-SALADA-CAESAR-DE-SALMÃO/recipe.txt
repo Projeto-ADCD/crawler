@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALADA CAESAR DE SALMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 gramas salmão defumado",
+      "80 g de alface americana",
+      "molho caesar",
+      "croutons",
+      "lascas de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as folhas de alface.",
+      "Em um ralador faça, as raspagens de parmesão.",
+      "Adicione os croutons (pãezinhos tostados no forno) à salada.",
+      "Adicione 100 gramas de salmão defumado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EVERALDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301534-salada-caesar-de-salmao.html"
+}

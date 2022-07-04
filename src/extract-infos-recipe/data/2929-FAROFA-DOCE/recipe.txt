@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 maçãs cortadas em cubinhos sem casca",
+      "200 g de uvas passas pretas",
+      "1 lata de figos em calda cortados em cubos grandes",
+      "1 lata de pêssego em calda cortados em cubos médios",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "500 g de farofa de milho ou tradicional Yoki (conforme seu gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, derreta a manteiga ou margarina e acrescente as maçãs e uvas passa",
+      "Deixe refogar por alguns minutos",
+      "Despeje um pouco da caldo do figo e um pouco da calda do pêssego e deixe ferver por alguns minutos",
+      "Acrescente os figos e os pêssegos e em seguida a farofa",
+      "Misture bem os ingredientes e verifique se é necessário mais calda (a farofa deve ficar úmida)",
+      "Pode ser servida fria que é a melhor opção"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Luiza Helena Condutta Salvi"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304128-farofa-doce.html"
+}

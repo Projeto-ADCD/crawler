@@ -1,0 +1,35 @@
+{
+  "nome_receita": "VINAGRETE COM SALSINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 tomates grandes",
+      "1 cebola grande",
+      "1 dente de alho",
+      "1/2 maço de salsinha",
+      "1/2 colher de (chá) de açúcar",
+      "1 colher de (chá) de sal",
+      "1 pitada de pimenta-do-reino",
+      "1 pitada de orégano",
+      "50 ml de vinagre",
+      "150 ml de azeite",
+      "água quente e gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique todos os ingredientes.",
+      "Coloque a cebola picada em um pote separado e despeje a água quente por 10 segundos",
+      "Retire a água quente e adicione a água gelada também por 10 minutos, escorra",
+      "Tempere tudo (tente fazer no dia anterior para ficar bem apurado o gosto)",
+      "Junte o alho picado e o açúcar pra cortar um pouco da acidez.",
+      "Coloque o azeite e o vinagre"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Coloquei as medidas do vinagre e do azeite, mas quando faço vou colocando a olho, se precisar de mais vocês coloquem."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "KAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302243-vinagrete-com-salsinha.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ E CANELA COM COBERTURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de margarina",
+      "1 xícara (chá) de açúcar refinado",
+      "3 ovos",
+      "3 maçãs médias (descascadas e cortadas aos cubinhos)",
+      "1 xícara (chá) de aveia (em flocos finos)",
+      "1/2 xícara (chá) de farinha de trigo",
+      "1 colher (chá) de canela em pó",
+      "1 colher (sopa) de fermento químico em pó",
+      "Cobertura",
+      "1 colher (chá) de canela em pó",
+      "1/2 xícara (chá) de açucar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata a margarina com o açúcar até obter um creme",
+      "Adicione os ovos e as maçãs cortadas aos cubinhos e misture bem",
+      "Adicione a aveia e a farinha e continue a misturar até obter uma massa espessa",
+      "Adicione a canela em pó e o fermento e finalize a massa",
+      "Leve ao forno pré-aquecido a temperatura média de 180°C por 25 minutos para assar (ponha o açúcar e a canela com a massa ainda crua)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ISABELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302869-bolo-de-maca-e-canela-com-cobertura.html"
+}

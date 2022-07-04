@@ -1,0 +1,51 @@
+{
+  "nome_receita": "ARROZ COM LEGUMES E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de arroz cozido",
+      "1 peito de frango cozido e desfiado",
+      "1 cenoura ralada",
+      "200 g de presunto cortado em cubinhos",
+      "1 cebola pequena ralada",
+      "azeitonas picadinha",
+      "brócolis pré-cozido ralado",
+      "alho",
+      "1 sachê de molho de tomate temperado",
+      "2 colheres de óleo",
+      "sal a gosto",
+      "pimenta do reino",
+      "salsinha picadinha",
+      "orégano a gosto",
+      "200 g de queijo mussarela ralado",
+      "queijo parmesão fresco a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o arroz com alho e sal",
+      "Depois de cozido reserve",
+      "Rala a cenoura e coloque o brócolis para cozinhar por cinco minutos",
+      "Escorra e reserve",
+      "Tempere o frango com sal e alho leve na panela de pressão e deixe cozinhar até que desmanche",
+      "Deixe esfriar e desfie em uma panela com óleo",
+      "Coloque a cebola e refogue",
+      "Acrescenta a cenoura ralada e o brócolis",
+      "Mexa e coloca a salsinha, as azeitonas e o orégano ",
+      "Adicione pitadas de pimenta-do-reino a gosto",
+      "Acrescente o molho de tomate temperado e o frango deixe cozinhar por 3 minutos",
+      "Em um refratário coloque o arroz e acrescente o frango",
+      "Mexa bem para que o molho se misture ao arroz",
+      "Coloque os cubinhos de presunto e mexa",
+      "Coloque o queijo mussarela ralado por cima e salpique o queijo parmesão",
+      "Leve ao forno por 20 minutos a 180°C",
+      "Retire do forno e salpique salsinha",
+      "Sirva quente",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "VALDETE TAMARA FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303200-arroz-com-legumes-e-frango.html"
+}

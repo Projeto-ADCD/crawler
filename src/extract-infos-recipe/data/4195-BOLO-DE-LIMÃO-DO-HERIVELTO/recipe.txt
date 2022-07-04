@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE LIMÃO DO HERIVELTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 limões tahiti pequenos inteiros",
+      "3 ovos",
+      "1 copo de açúcar",
+      "2 copos farinha trigo",
+      "1/2 copo óleo",
+      "1/2 copo suco de limão",
+      "1 colher (sopa) fermento em pó",
+      "1 colher (sopa) essência de baunilha",
+      "Calda",
+      "1 xícara açúcar confeiteiro",
+      "suco de 1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador, os limões cortados, os ovos, o óleo, a essência de baunilha e o suco de limão até obter uma mistura lisa e homogênea.",
+      "Misture com o açúcar e a farinha de trigo peneirados em um recipiente a parte até formar uma massa lisa e homogênea.",
+      "Por último, misture o fermento em pó.",
+      "Coloque em uma assadeira redonda de centro furado.",
+      "Deixe assar no forno em 180° C durante 40 a 45 minutos.",
+      "Calda",
+      "Misture aos poucos o suco de limão com o açúcar de confeiteiro até ficar um caldo (esbranquiçado) firme, liso e homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HERIVELTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301608-bolo-de-limao-do-herivelto.html"
+}

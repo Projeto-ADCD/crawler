@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SALADA DE PALMITO COM MUSSARELA DE BÚFALA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 vidro de palmito (300 g)",
+      "3 bolas de mussarela de búfala",
+      "Tomate cereja",
+      "Orégano",
+      "Pimenta Calabresa",
+      "Azeite",
+      "Tempero pronto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o palmito, o tomate e a mussarela e misture.",
+      "Tempere com orégano, pimenta calabresa, azeite e tempero pronto.",
+      "Misture tudo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LARISSA CAROLINE BUSSOLA LACERDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301244-salada-de-palmito-com-mussarela-de-bufala.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FAROFA DOCE DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de linguiça calabresa cortada em cubinhos",
+      "150 g de bacon cortado em cubinhos",
+      "100 g de manteiga ou margarina",
+      "1 cebola grande cortada em cubinhos",
+      "3 dentes de alho picadinhos ou amassados",
+      "2 tomates sem sementes cortados em cubinhos",
+      "100 g de azeitonas verdes e/ou pretas cortadas ao meio",
+      "70 g de ameixa seca hidratada e descaroçada picada grosseiramente",
+      "70 g de uvas-passas hidratadas",
+      "70 g de castanhas do brasil ou nozes picadas",
+      "3 ovos cozidos e cortados em cubinhos",
+      "125 g de farinha de mandioca",
+      "125 g de farinha de rosca",
+      "1 xícara (chá) de cebolinha picadinha",
+      "1 xícara (chá) de salsinha picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela ou frigideira grande frite o bacon e a linguiça calabresa só para derreter a gordura, retire com uma espumadeira e reserve.",
+      "Junte na gordura do bacon e da linguiça a manteiga ou margarina para derreter.",
+      "Ponha primeiro o alho para fritar ligeiramente,",
+      "Logo em seguida adicione a cebola para dourar, depois adicione o tomate para refogar.",
+      "Agora junte a linguiça e o bacon já fritos, as ameixas descaroçadas e cortadas grosseiramente, as uvas-passas hidratadas, as castanhas, as azeitonas.",
+      "Quando tudo estiver bem incorporado ao refogado coloque a farinha de mandioca mexa para que dê cozimento na farinha, logo em seguida coloque a farinha de rosca.",
+      "Tempere com sal e pimenta (pode adicionar outros temperos como cominho, pimenta calabresa, etc a gosto) e vá mexendo até incorporar todo o tempero",
+      "Coloque a cebolinha e a salsinha e mexa mais um pouco e por fim coloque os ovos cozidos picadinho em cubinhos e mexa só para incorporar.",
+      "Essa farofa é úmida e forma grumos, se quiser mais sequinha é só ir colocando mais farinha até chegar ao ponto desejado ou mais molhadinha",
+      "Coloque um pouco mais de manteiga.",
+      "Pronto! É uma delícia e combina com carne vermelha, porco ou aves."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRICIA BARRETO DE FERREIRA BANDEIRA TOCCHIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304026-farofa-doce-de-natal.html"
+}

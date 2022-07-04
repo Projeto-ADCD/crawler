@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de manteiga",
+      "1 cebola média picadinha",
+      "4 fatias de abacaxi, medindo aproximadamente 1 cm de espessura, cortadas em cubos",
+      "1 maçã descascada e cortadas em cubos bem pequenos",
+      "2 colheres de açúcar mascavo",
+      "2 colheres de uvas passas",
+      "30 g de nozes picadas",
+      "1 xícara de farofa pronta",
+      "sal a gosto",
+      "salsa picadinha bem miúda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o abacaxi, a maçã, o açúcar e deixe cozinhar por 4 minutos",
+      "Reserve",
+      "Em outra panela, derreta a manteiga, refogue a cebola, mexendo bem",
+      "Acrescente as passas, nozes, deixando refogar por cerca de 2 minutos",
+      "Acrescente a primeira parte e após a farinha de mandioca",
+      "Abaixe o fogo e mexa bem para absorver toda a gordura",
+      "Continue mexendo até que a farinha comece a ficar levemente dourada",
+      "Retire do fogo e corrija o sal",
+      "Acrescente a salsa e sirva em temperatura ambiente"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARIA APARECIDA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303503-farofa-agridoce.html"
+}

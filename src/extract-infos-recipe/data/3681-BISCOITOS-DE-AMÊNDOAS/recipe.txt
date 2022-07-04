@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BISCOITOS DE AMÊNDOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de margarina ou manteiga",
+      "100 g de açúcar Cristal ou refinado",
+      "2 gemas",
+      "200 g de farinha de trigo",
+      "50 g de farinha de amêndoas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça seu forno a 180°C",
+      "Bata na batedeira ou na mão o açúcar e a margarina ou manteiga, até ter uma consistência de pomada;",
+      "Adicione as gemas, bata até incorporar a massa;",
+      "Adicione a farinha de amêndoas e volte a bater;",
+      "Adicione a farinha de trigo, fracionando a mesma em três etapas, porém agora use as mãos para incorporar a massa anterior;",
+      "A massa fica mole, consistente, coloque a mesma dentro de um saco plástico, espalhe a massa dentro do saco e leve a geladeira por 30 minutos.",
+      "Após o período de geladeira, abra a massa entre duas folhas plásticas até ter a massa ter uma espessura de +/- 1cm, use cortadores para moldar seus biscoitos.",
+      "Forre sua forma com papel manteiga e disponha os biscoitos com pouco espaço entre eles, esse tipo de biscoito não cresce;",
+      "Decore da forma que desejar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "MAMUTE CAKE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302922-biscoitos-de-amendoas.html"
+}

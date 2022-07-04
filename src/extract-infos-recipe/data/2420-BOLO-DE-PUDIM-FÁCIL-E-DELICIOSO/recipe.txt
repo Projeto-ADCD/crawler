@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO DE PUDIM FÁCIL E DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa do bolo",
+      "1 e 1/2 xícara de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "2 ovos",
+      "1 xícara de leite",
+      "2 colher de margarina/manteiga",
+      "1 colher de fermento em pó",
+      "Pudim",
+      "3 ovos",
+      "1 caixinha de leite condensado",
+      "1 caixa de leite (medida da caixa de leite condensado)",
+      "Calda",
+      "1 xícara de açúcar",
+      "1/2 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Calda",
+      "Na forma, acrescente o açúcar e mexa bem até formar a calda.",
+      "Quando a calda estiver bem líquida, acrescente a água.",
+      "Massa do bolo",
+      "Acrescente o leite, ovos, margarina/manteiga e o açúcar",
+      "Mexa bem até ficar um creme branco.",
+      "Acrescente a farinha de trigo e o fermento.",
+      "Quando a massa estiver pronta, vire na forma com a calda pronta também.",
+      "Pudim",
+      "Acrescente no liquidificado os ovos, leite condensado e o leite.",
+      "Quando estiver pronto, vire na forma junto com a calda e a massa.",
+      "Asse tudo em 200° C por 45 minutos depois asse mais 35 minutos em 180° C( depende de forno para forno)"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DIENIFER GOLDSCHMIDT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305257-bolo-de-pudim-facil-e-delicioso.html"
+}

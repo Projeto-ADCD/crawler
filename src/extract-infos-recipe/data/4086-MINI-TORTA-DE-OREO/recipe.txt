@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MINI TORTA DE OREO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de biscoito oreo",
+      "100 g de manteiga sem sal",
+      "300 g de creme de leite fresco",
+      "300 g de chocolate meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture os biscoitos oreo.",
+      "Misture com a manteiga sem sal até formar uma farofinha úmida. ",
+      "Coloque um pouco da massa em formas de empadinha e pressione com o dedo para a massa ficar bem firme.",
+      "Leve ao freezer por 10 minutos. ",
+      "Esquente o creme de leite fresco.",
+      "Misture com o chocolate meio amargo, formando a ganache. ",
+      "Retire a massa do freezer e recheie com a ganache.",
+      "Leve à geladeira por cerca de 1 hora. ",
+      "Decore como desejar, você pode utilizar morangos picados, uvas, biscoito oreo e muito mais! ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301916-mini-torta-de-oreo.html"
+}

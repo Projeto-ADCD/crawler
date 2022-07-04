@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 kg de farinha de trigo",
+      "50 g de fermento biológico",
+      "3 ovos",
+      "600 ml de leite",
+      "3 colheres (sopa) cheias de margarina (45 ml)",
+      "3 colheres (sopa) de açúcar (36 g)",
+      "1 colher (sopa) de sal (12 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes (fermento, manteiga, açúcar, sal, leite e ovos) no liquidificador menos a farinha de trigo e reserve.",
+      "Em uma bacia coloque 500 g de farinha e misture os ingredientes batidos no liquidificador, vá adicionando a farinha até que a massa desgrude das mãos.",
+      "Chegou a hora de sovar, você vai bater um pouco na massa para que ela misture bem e fique lisa.",
+      "Depois de sovar chegou a hora de deixar a massa descansar, coloque em um pote e tampe de preferência deixe em um local mais quente para que sua massa cresça mais por aproximadamente 45 minutos (eu gosto de pegar um pedaço da maça fazer uma bolinha e deixar em um copo com água, quando a bolinha subir significa que a massa cresceu)",
+      "Depois de deixar a massa descansando vamos utilizar o cilindro de madeira para abrir a massa",
+      "Cortamos nossa massa em 4 e abrimos utilizando o cilindro depois de abrir a massa enrole como se fosse um rocambole, deixe a parte que emendou a massa embaixo da forma para não abrir nosso pão.",
+      "Coloque em assadeiras grandes, pois seu pão irá crescer mais um pouco",
+      "Deixe no forno médio e vá olhando até que a massa comece a ficar mais dourada e pronto.",
+      "Seu pãozinho caseiro está pronto para consumir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LETICIA FRANCIELLI RODRIGUES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305364-pao-caseiro.html"
+}

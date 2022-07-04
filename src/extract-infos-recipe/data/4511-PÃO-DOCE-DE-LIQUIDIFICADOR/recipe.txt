@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DOCE DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 embalagem de leite condensado",
+      "a mesma medida da embalagem de água morna",
+      "a mesma medida da embalagem de óleo",
+      "4 ovos",
+      "1 pitada de sal",
+      "2 pacotinhos ou 2 colheres de fermento biológico seco (20 g)",
+      "900 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador com exceção da farinha de trigo.",
+      "Em uma tigela, coloque a farinha de trigo, despeje a mistura batida no liquidificador e mexa com uma colher de pau até que fique uma mistura homogênea",
+      "Deixe crescer coberto com um pano por 1 hora",
+      "Coloque em colheradas em uma forma untada com manteiga e polvilhada com açúcar",
+      "Deixe crescer por mais 20 minutos e leve ao forno 180° C preaquecido por mais ou menos 25 minutos",
+      "Rende 3 pães grandes"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VIVIANE FLORES FERRARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300957-pao-doce-de-liquidificador.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOPA DE BERINJELA COM GRÃO-DE-BICO E HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de grão-de-bico (já cozido)",
+      "1 berinjela grande",
+      "1/2 cebola média",
+      "6 dentes de alho",
+      "suco de 1 limão",
+      "1 copo de 300 ml de água",
+      "sal e temperos a gosto",
+      "1/2 xícara de hortelã",
+      "azeite",
+      "1 colher (sopa) de tahini"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 180° C",
+      "Enquanto o forno esquenta, em uma travessa antiaderente, coloque a berinjela, a cebola cortada em rodelas e os dentes de alho.",
+      "Tempere com sal, azeite e pimenta-do-reino (ou tempero a sua escolha)",
+      "Coloque a travessa no forno por aproximadamente 25 minutos, ou o tempo da berinjela ficar macia (quase desmanchando)",
+      "No liquidificador coloque: o grão-de-bico, hortelã, sal a gosto, tahini e a água.",
+      "Bata tudo até que fique homogêneo.",
+      "Acrescente a berinjela, cebola e alho assados no liquidificador.",
+      "Bata bem novamente.",
+      "Passe tudo para uma panela e esquente a mistura em fogo baixo por mais 10 minutos.",
+      "Sirva com azeite e folhas de hortelã."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA LUIZA CARDOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305512-sopa-de-berinjela-com-grao-de-bico-e-hortela.html"
+}

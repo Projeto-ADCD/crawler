@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MAIONESE CASEIRA COM LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "4 gotas de limão",
+      "sal a gosto",
+      "óleo",
+      "2 gotas de mostarda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador adicione os ovos, o limão, a mostarda e sal.",
+      "Tampe e ligue.",
+      "Adicione o óleo até que fique uma pasta grossa."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FRANCIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303930-maionese-caseira-com-limao.html"
+}

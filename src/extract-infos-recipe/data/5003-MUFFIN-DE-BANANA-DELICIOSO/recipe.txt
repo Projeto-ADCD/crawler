@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MUFFIN DE BANANA DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de banana nanica madura amassada",
+      "3 ovos",
+      "1 xícara de uva passas pretas ao rum",
+      "1 xícara de óleo",
+      "1 colher (sopa) de baunilha",
+      "2 colheres (sopa) de canela em pó",
+      "2 xícaras de açúcar",
+      "3 xícaras de farinha de trigo peneirada",
+      "1 colher (sopa) de bicarbonato de sódio peneirado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em uma tigela.",
+      "Coloque para assar a 180º por cerca de 50 minutos.",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Essa receita não leva fermento em pó.\nRum é opcional."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ADRIANE T.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299727-muffin-de-banana-delicioso.html"
+}

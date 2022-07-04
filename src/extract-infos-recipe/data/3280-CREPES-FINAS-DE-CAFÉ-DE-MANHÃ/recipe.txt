@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CREPES FINAS DE CAFÉ DE MANHÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de farinha ",
+      "2 colheres de açúcar ",
+      "1 pitada de sal",
+      "2 ovos",
+      "1 e 1/2 xícara de leite",
+      "1/2 colher de extrato de baunilha",
+      "1 colher de manteiga sem sal e em temperatura ambiente "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture a farinha, o açúcar e o sal",
+      "Adicione os ovos, 1/2 xícara de leite e baunilha e misture bem com o batedor até a massa ficar lisa e homogênea",
+      "Adicione o restante do leite gradualmente enquanto mexe",
+      "Misture a manteiga",
+      "Aqueça uma panela antiaderente com cerca de 23 cm de diâmetro em fogo médio",
+      "Quando a panela estiver quente, pincele com manteiga para untar",
+      "Para cada crepe, despeje cerca de 1 concha de massa no centro da panela",
+      "Quando a borda sai facilmente e começa a dourar, é hora de virar o crepe com uma espátula",
+      "Continue cozinhando por 10 segundos e retire da panela",
+      "Coloque os crepes cozidos em um prato",
+      "Cubra com papel-alumínio para evitar a secagem e mantenha quente"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "DUNCAN GANDIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303616-crepes-finas-de-cafe-de-manha.html"
+}

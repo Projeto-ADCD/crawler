@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE CANELA E AÇÚCAR MASCAVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de oleo",
+      "2 ovos",
+      "1 colherzinha (café) de essência de baunilha",
+      "1 xícara de leite",
+      "1 xícara de açúcar",
+      "3 xícaras de farinha",
+      "3 colherzinhas (café) de fermento",
+      "1/2 colherzinha (café) de sal",
+      "1 e 1/2 xícara de açúcar mascavo",
+      "2 colherzinhas (café) de canela",
+      "1/2 xícara de margarina derretida"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Acrescente na batedeira na velocidade 2 os ingredientes na ordem descrita (óleo, ovos etc. até o sal)",
+      "Na assadeira untada, coloque metade da massa",
+      "Em um recipiente a parte, misture o açúcar mascavo e a canela",
+      "Coloque metade em cima da massa.",
+      "Despeje o restante da massa.",
+      "Em cima, coloque a outra metade da mistura de açúcar e canela.",
+      "Espalhe a manteiga derretida em cima.",
+      "Asse por 25 minutos (assadeira retangular), o tempo pode variar de acordo com a assadeira.",
+      "No forno a 180º C preaquecido"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FABIANA BONETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299883-bolo-de-canela-e-acucar-mascavo.html"
+}

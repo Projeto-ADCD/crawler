@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MISTO QUENTE PERFEITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "pães de forma",
+      "fatia de presunto",
+      "fatia de queijo mussarela",
+      "fatias de tomate a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque entre os pães de forma o presunto, o queijo e as fatias de tomate.",
+      "Salpique orégano.",
+      "Ponha na sanduicheira por 2 minutos"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NAIARA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299918-misto-quente-perfeito.html"
+}

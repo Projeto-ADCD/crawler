@@ -1,0 +1,20 @@
+{
+  "nome_receita": "SORVETE FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 scop de whey protein (sabor de sua escolha)",
+      "2 bananas congeladas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte as bananas congeladas e os scops de whey protein em um liquidificador",
+      "Bata bem até ficar cremoso e homogêneo",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOSÉ ELVIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303175-sorvete-fit.html"
+}

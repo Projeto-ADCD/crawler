@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE CAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "3 xícaras de açúcar",
+      "1 xícara de manteiga derretida",
+      "1 xícara de chocolate (ou cacau em pó)",
+      "2 xícaras de café pronto (com açúcar)",
+      "4 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte os ovos, o açúcar e a manteiga e bata até ficar um creme branco",
+      "Adicione o chocolate em pó e o café e bata por 5 min.",
+      "Adicione o trigo e o fermento, bata bem e leve ao forno numa forma retangular por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LAURA TOFANIN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302452-bolo-de-cafe.html"
+}

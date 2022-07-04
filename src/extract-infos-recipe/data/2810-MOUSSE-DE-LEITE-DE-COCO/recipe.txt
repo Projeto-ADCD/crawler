@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOUSSE DE LEITE DE COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 vidro de leite de coco",
+      "1 pacote de gelatina sem sabor",
+      "1 xícara de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Dissolva a gelatina na água quente.",
+      "Bata todos os ingredientes no liquidificador.",
+      "Coloque a mistura em uma tigela e leve à geladeira por 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "PEDRO MAGALHÃES GUERRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304382-mousse-de-leite-de-coco.html"
+}

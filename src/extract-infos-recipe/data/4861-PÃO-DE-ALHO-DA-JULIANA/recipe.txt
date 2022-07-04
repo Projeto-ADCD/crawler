@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE ALHO DA JULIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 dente de alho pequeno",
+      "2 ovos em temperatura ambiente",
+      "1 pitada de sal",
+      "óleo até dar ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o alho, o sal e os ovos no liquidificador e comece a bater",
+      "Coloque o óleo até dar ponto de molho de maionese.",
+      "Vai ficar um molho bem grosso.",
+      "Dica: coloque um alho pequeno e após o molho ficar pronto experimente, se achar necessário coloque mais alho. 1 dente normalmente é o suficiente. Tente usar o dente de alho e não alho pronto picado, o saber fica melhor.",
+      "Corte o pão em fatias e recheie com o molho.",
+      "Use pão amanhecido, fica melhor pra cortar.",
+      "E levar pra assar na churrasqueira até o pão dourar bem."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIANA CRISTINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300074-pao-de-alho-da-juliana.html"
+}

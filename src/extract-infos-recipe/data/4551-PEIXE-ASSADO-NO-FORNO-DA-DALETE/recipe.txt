@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PEIXE ASSADO NO FORNO DA DALETE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de postas de corvina",
+      "1 pimentão",
+      "1 cebola",
+      "1 tomate",
+      "3 batatas",
+      "sal, alho e limão a gosto",
+      "azeite de oliva ",
+      "1 sachê de tempero pronto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em um recipiente o peixe, o alho cortado, o sal e o limão, reserve",
+      "Corte em rodelas o tomate, a cebola, o pimentão e a batatinha",
+      "Misture o azeite o sal e o tempero pronto, reseve",
+      "Em uma assadeira, coloque o peixe sem o caldo do limão que fica no recipiente",
+      "Junte o tomate, a cebola, o pimetao e as batatinhas e depois despeje o azeite por cima",
+      "Deixe no forno por uns 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DALETE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300874-peixe-assado-no-forno-da-dalete.html"
+}

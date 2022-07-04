@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO LUIS FELIPE",
+  "ingredientes": {
+    "DEFAULT": [
+      "395 g de leite condensado",
+      "200 g de manteiga com sal",
+      "200 ml de leite de coco",
+      "150 ml de água",
+      "150 g de açúcar refinado",
+      "3 ovos",
+      "125 g de farinha de trigo",
+      "60 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno a 160 ° C e  unte uma forma ",
+      "Com o forno já aquecido, bata todos os ingredientes no liquidificador em potência média, pelo menor tempo necessário para homogeneizar os ingredientes",
+      "Coloque a massa (bem líquida) na forma já untada, redonda de 24 cm com furo central",
+      "Leve ao forno por aproximadamente 1 hora e 30 minutos ",
+      "A partir de 45 minutos gire a forma se necessário para que o bolo asse por igual",
+      "Desenformar após esfriar."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "ALAN SCIPIÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300530-bolo-luis-felipe.html"
+}

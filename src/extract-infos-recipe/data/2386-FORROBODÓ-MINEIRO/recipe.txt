@@ -1,0 +1,52 @@
+{
+  "nome_receita": "FORROBODÓ MINEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "5 colheres (sopa) de açúcar",
+      "1/2 colher de sopa de sal",
+      "5 g de fermento biológico seco",
+      "3 colheres (sopa) de manteiga ou margarina",
+      "1 ovo",
+      "1 xícara de leite",
+      "4 xicaras (chá) de farinha de trigo",
+      "Farofa",
+      "10 colheres de (sopa) de coco ralado",
+      "6 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de manteiga ou margarina",
+      "Calda",
+      "1/2 lata de leite condensado",
+      "1 copo (americano) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Comece misturando o açúcar, o sal e o fermento.",
+      "Acrescente a manteiga, o ovo e o leite.",
+      "Coloque 1 xícara de trigo por vez mexendo.",
+      "Na terceira xicara, note que a massa já vai ficando encorpada",
+      "Na minha medida, 3 colheres e 1/2 de trigo bastam pra ficar uma massa leve e que desgruda ligeiramente do fundo (ficando uma massa elástica, que você ergue e ela vai esticando e não quebrando de uma vez)",
+      "Deixe descansando por cerca de 1 hora",
+      "Ela dobrará de volume.",
+      "Faça uma farofa com o coco, o açúcar e a manteiga.",
+      "Divida a massa em 3 partes iguais pra facilitar na hora de enrolar.",
+      "Enfarinhe uma superficie limpa e, com auxilio de um rolo ou garrafa, abra a massa deixando ela razoavelmente fina para enrolar.",
+      "Divida a quantidade de farofa em 3.",
+      "Pegue 1 parte e espalhe por toda a massa e enrole.",
+      "Ele fica tipo um rocambole.",
+      "Aperte um pouquinho onde acaba a massa pra ficar grudado.",
+      "Corte os forrobodó com 2 dedos de largura.",
+      "Faça isso com os dois pedacos de massa restantes.",
+      "Unte e enfarinhe uma forma média.",
+      "Coloque os forrobodó 1 dedo distantes do outro.",
+      "Coloque pra assar em forno 180° C, até que fiquem dourados.",
+      "Assim que estiverem dourados, tire do forno.",
+      "Misture o leite condensado com o leite e com auxilio de uma colher, regue os forrobodó (quentes) com essa calda."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "LEANDRA GOUVEIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305337-forrobodo-mineiro.html"
+}

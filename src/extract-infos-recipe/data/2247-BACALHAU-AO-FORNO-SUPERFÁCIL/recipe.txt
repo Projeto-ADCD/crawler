@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BACALHAU AO FORNO SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de lombo de bacalhau",
+      "6 Batatas médias",
+      "1 cebola grande",
+      "azeitonas pretas a gosto",
+      "alcaparras a gosto",
+      "3 dentes de alho",
+      "3 folhas de couve",
+      "200 ml de azeite",
+      "1 tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com 24 horas de antecedência, dessalgue o bacalhau.",
+      "Deixe-o em uma vasilha com água, na geladeira.",
+      "Troque a água 4 vezes.",
+      "Finalize com 1 vez em fervura.",
+      "Em um refratário, monte as camadas: fundo com as batatas em fatias finas, seguido de uma camada de cebola em rodelas finas e, uma camada do lombo de bacalhau (já fervido e escorrido a água).",
+      "Adicione as azeitonas pretas, alcaparras e tomate em fatias finas (sem miolo) sobre e/ou entre o bacalhau.",
+      "Adicione fios de azeite sobre as camadas.",
+      "Acrescente a couve em fatias (2cm mais ou menos de espessura) e cubra toda a superfície do bacalhau.",
+      "Acrescente, aleatoriamente sobre a couve, 3 dentes de alho, cortados ao meio.",
+      "Acrescente fios de azeite (mais ou menos 100ml) sobre as camadas.",
+      "Leve o refratário ao forno, coberto com papel-alumínio por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JAQUELINE MARTINS BATISTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305634-bacalhau-ao-forno-superfacil.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BISCOITO DECORADO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tablete de manteiga sem sal gelada",
+      "1 xícara de açúcar cristal peneirado",
+      "3 xicaras de farinha de trigo sem fermento",
+      "1 pitada de sal",
+      "1 ovo inteiro",
+      "1 colher (chá) de essência de baunilha ou essência de laranja, café, amêndoa (o que preferir)",
+      "1 saco de glace pronto",
+      "cortadores de biscoitos",
+      "confeitos para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata rapidamente na batedeira com a pá de massa o acucar e a manteiga picada ate formar um creme.",
+      "Acrescente o ovo inteiro e bata para incorporar.",
+      "Acrescente ao poucos a farinha de trigo e coloque a batedeira na velocidade média para a farinha não voar. Coloque a baunilha.",
+      "O ponto é quando a massa comecar a juntar e descolar da bacia da batedeira. Reserve a massa dentro de um saco plastico e deixe 30 minutos na geladeira par descansar.",
+      "Abra a massa com um rolo ou uma garrafa entre 2 folhas de papel manteiga ou 2 sacos plásticos. Faça com 4 ou 5 cm de altura.",
+      "Coloque a massa aberta no congelador por 20 minutos para que fique bem dura e possa fazer cortes com cortador. Se não tiver cortador, use a faca e faça quadradinhos.",
+      "Asse por 15 minutos forno pre aquecido a 180º.",
+      "Pode abrir o forno. Veja se o fundo e as laterais estao dourados. Retire e deixe esfriar.",
+      "Se não quiser colocar glacê, passe no açúcar e coloque no pote hermético para não ficar mole."
+    ],
+    "GLACÊ:": [
+      "Siga as instruções da embalagem do glacê. Para decorar, use-o com 2 a 3 gotas de corante em gel e faça suas cores a gosto. Para preencher todo biscoito, o ponto é de mel: Levante o glacê com uma colher, ele deve cair igual a um mel.",
+      "Para embalar, aguarde 6 horas para o glacê secar bem."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "RENATA AMAYA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300754-biscoito-decorado-facil.html"
+}

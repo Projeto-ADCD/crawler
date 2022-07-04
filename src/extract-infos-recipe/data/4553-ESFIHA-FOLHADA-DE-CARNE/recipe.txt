@@ -1,0 +1,34 @@
+{
+  "nome_receita": "ESFIHA FOLHADA DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de massa folhada (pode ser rolo ou já cortada em quadrados – existe as duas versões)",
+      "500g de carne moída",
+      "1 tomate grande sem pele e sem sementes",
+      "1 cebola roxa grande",
+      "4 dentes de alho",
+      "Sal, pimenta e cominho à gosto",
+      "1 molho de cheiro-verde",
+      "1 ovo - para pincelar",
+      "1 ricota pequena já temperada (150g +/-)",
+      "Limão para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro refogar a cebola, o alho, os tomates e a carne até secar bem.",
+      "Temperar com sal, pimenta e cominho.",
+      "Finalizar com cheiro-verde e reservar.",
+      "Pegar a massa folhada em quadrados, unir as pontas formando uma trouxinha quadrada.",
+      "Colocar a ricota temperada no fundo (adicionar sal extra).",
+      "Cobrir com a carne refogada.",
+      "Pincelar ovo nas bordas da massa.",
+      "Levar pra assar em forno quente (220°)",
+      "por 20 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GABRIEL FRAZÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300872-esfiha-folhada-de-carne.html"
+}

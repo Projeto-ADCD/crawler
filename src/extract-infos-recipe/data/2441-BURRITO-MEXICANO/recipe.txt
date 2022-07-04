@@ -1,0 +1,54 @@
+{
+  "nome_receita": "BURRITO MEXICANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "CARNE",
+      "500 g de carne moída",
+      "Pimenta",
+      "1 cebola",
+      "3 dentes de alho espremidos",
+      "Sal",
+      "manteiga",
+      "2 tomates picados",
+      "GUACAMOLE",
+      "2 avocados",
+      "1 tomate sem semente picado",
+      "1 limão",
+      "sal",
+      "1 dente de alho espremido",
+      "SOUR CREAM",
+      "1 caixinha de creme de leite",
+      "200 g de cream chease",
+      "sal",
+      "1 limão",
+      "CHEDDAR CREMOSO",
+      "200 g de queijo cheddar (pode ser fatiado e depois picado)",
+      "1/2 xícara de leite",
+      "1 colher (chá) rasa de amido",
+      "OUTROS",
+      "14 tortillas prontas",
+      "1 pimentão",
+      "1 e 1/2 xícara de feijão já cozido (pode ser o que sobrou do dia anterior)",
+      "200 g de quejo mussarela ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "CARNE: refogar a carne na manteiga em panela bem quente, retirar e guardar agua que sobra para que a carne frite e nao cozinhe.",
+      "Em outra panela, refogar cebola, e juntar a carne. Acrescentar o allho picado e refogar mais um pouco.",
+      "Acrescentar o tomate picado e refogar mais um pouco.",
+      "Acrescentar pimenta e sal a gosto.",
+      "GUACAMOLE: amassar com o garfo os avocados. Depois acrescentar os demais ingredientes e misturar.",
+      "SOUR CREAM: misturar todos os ingredientes (creme de leite, cream cheese, limao e sal)",
+      "CHEDDAR: dissolver a maisena num copo com 1 colher de sopa de leite. Misturar com o restante do leite e o queijo picado/ralado numa panela e esquentar. Ficar mexendo ate tudo ficar homogeneo.",
+      "PIMENTAO: cortar o pimentao em fatias de meio centimentro e refogar, ate ficar na consistencia desejada.",
+      "TORTILLA: esquentar a tortilla numa frigideira. Um pouco de cada lado, ate dourar.",
+      "MONTAGEM: colocar os ingred ao longo da toetilla e enrrolar (queijo mussarela ralado, carne, feijao cozido, cheddar, sour cream, guacamole e pimentao).",
+      "Sugiro cada pessoa montar seu proprio burrito, com os ingredientes que mais gosta! Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "SARAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305198-burrito-mexicano.html"
+}

@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BERINJELA RECHEADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 berinjelas inteiras",
+      "10 fatias de presunto (2 bandejas )",
+      "10 fatias de mussarela (2 bandejas)",
+      "4 tomates em rodelas finas",
+      "3 dentes de alho",
+      "1 maço de tomilho ou manjericão a gosto",
+      "1 maço de cheiro-verde",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as berinjelas e fatie da ponta gorda até quase chegar no fim (não separar as fatias, devem estar grudadas no final delas), repita até que forme várias separações",
+      "Passe sal e pimenta-do-reino sobre as fatias",
+      "Reserve-as por 30 minutos para que possa escorrer a água de dentro dela",
+      "Corte todas fatias de presunto e mussarela ao meio e coloque-as em cada vão da berinjela",
+      "Coloque fatias de tomate junto ao presunto e queijo",
+      "Pique o cheiro-verde, o tomilho e o alho e coloque por cima da berinjela (com os recortes de lado)",
+      "Adicione azeite, sal e pimenta a gosto por cima dos recortes",
+      "Unte uma forma com azeite antes de colocar as berinjelas",
+      "Asse por 50 minutos a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "SABRYNA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304850-berinjela-recheada.html"
+}

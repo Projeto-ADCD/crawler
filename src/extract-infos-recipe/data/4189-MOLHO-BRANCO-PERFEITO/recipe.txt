@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO BRANCO PERFEITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "110g de manteiga",
+      "100g de farinha de trigo",
+      "1 litro de leite",
+      "Sal",
+      "Pimenta-do-reino"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta a manteiga.",
+      "Acrescente a farinha de trigo peneirada até formar uma \"massa\".",
+      "Adicione o leite, incorporando à mistura da manteiga e farinha.",
+      "Misture até ficar com consistência homogênea.",
+      "Adicione sal e pimenta do reino à gosto."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUANA PADILHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301633-molho-branco-perfeito.html"
+}

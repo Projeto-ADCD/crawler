@@ -1,0 +1,24 @@
+{
+  "nome_receita": "WRAP DE FRANGO DESFIADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara de frango desfiado (100g)",
+      "1 massa de wrap ou pão sírio integral",
+      "1 punhado de rúcula ou alface americana bem lavadas",
+      "1/2 cenoura ralada",
+      "1 tomate picado",
+      "1 colher (sopa) de cream cheese"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Espalhe o cream cheese sobre a massa ou pão",
+      "Em seguida, coloque a rúcula ou a alface, a cenoura ralada,o tomate picado e o frango desfiado.",
+      "Enrole e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SILVIANE MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302465-wrap-de-frango-desfiado.html"
+}

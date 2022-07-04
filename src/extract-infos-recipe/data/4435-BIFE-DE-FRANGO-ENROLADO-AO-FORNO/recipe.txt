@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BIFE DE FRANGO ENROLADO AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peito de frango",
+      "8 fatias de presunto",
+      "8 fatias de queijo mussarela",
+      "3 colheres (sopa) de manteiga",
+      "1 colher (sopa) de azeite",
+      "1 pacote de sopa de creme de cebola",
+      "1 xícara (chá) de maionese",
+      "1 xícara (chá) de leite",
+      "50 g de queijo parmesão ralado",
+      "8 folhas de manjericão fresco",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os peitos de frango em filés, no sentido do comprimento.",
+      "Bata os filés com o batedor de carne até ficarem uniformes.",
+      "Tempere os bifes com sal, pimenta e temperos de sua preferência a gosto.",
+      "Cuide para não salgar muito pois o creme de cebola já é salgado.",
+      "Sobre cada bifes de frango coloque um pedaço de presunto e outro de queijo.",
+      "Enrole e espete com um palito de dente.",
+      "Repita o processo com todos os outros bifes de frango.",
+      "Regue os rolinhos com ao manjericão picado.",
+      "Em uma frigideira derreta a manteiga e acrescente o azeite, aquecendo em fogo médio.",
+      "Doure os rolinhos de frango ligeiramente.",
+      "Coloque os rolinhos de frango em um refratário e retire os palitos.",
+      "Em uma vasilha coloque o creme de cebola, a maionese e o leite e misture tudo muito bem.",
+      "Cubra os rolinhos de frango com essa mistura e polvilhe com o queijo parmesão ralado.",
+      "Leve o refratário ao forno alto, preaquecido, por uns 20 minutos ou até gratinar.",
+      "Sirva acompanhado de uma massa ou um arroz a grega e uma salada verde com tomates."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301134-bife-de-frango-enrolado-ao-forno.html"
+}

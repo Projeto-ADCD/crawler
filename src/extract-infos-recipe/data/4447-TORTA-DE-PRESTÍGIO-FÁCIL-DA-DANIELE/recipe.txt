@@ -1,0 +1,30 @@
+{
+  "nome_receita": "TORTA DE PRESTÍGIO FÁCIL DA DANIELE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "2 latas de leite (medida da lata de leite condensado)",
+      "2 latas de creme de leite (medida da lata de leite condensado)",
+      "100 g de coco ralado",
+      "3 e 1/2 colheres de amido de milho",
+      "3 colheres de cacau em pó 100%",
+      "1 colher de margarina",
+      "1 pacote de biscoito champanhe"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela (de preferência grande para misturar) adicione o amido, o leite condensado, o leite e o coco ralado, misture bem em fogo médio até engrossar e borbulhar.",
+      "Despeje essa parte em um pirex.",
+      "Cubra a primeira parte que foi despejada no pirex com biscoito champanhe.",
+      "Em outra panela adicione o creme de leite, o cacau em pó e a margarina, misture bem em fogo médio até engrossar e borbulhar.",
+      "Após isso, despeje em cima da primeira camada que foi coberta com biscoito champanhe.",
+      "polvilhe a torta com coco ralado.",
+      "Após isso leve à geladeira e espere gelar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DANIELE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301104-torta-de-prestigio-facil-da-daniele.html"
+}

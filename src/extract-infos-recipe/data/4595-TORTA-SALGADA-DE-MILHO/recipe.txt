@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA SALGADA DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 latas de milho verde",
+      "2 xícaras (chá) de leite",
+      "1 xícara (chá) de óleo ",
+      "12 colheres (sopa) bem cheias de farinha de trigo com fermento (caso utilize farinha",
+      "sem fermento, use 1 colher (sopa) de fermento em pó)",
+      "2 dentes de alho picados ",
+      "1 cebola média picada",
+      "1 pitada de sal",
+      "1 pitada de orégano ",
+      "pimenta e cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Escorra a água do milho, acrescente todos os ingredientes no liquidificador (exceto",
+      "a farinha) e bata por alguns segundos.",
+      "Acrescente a farinha e bata até que fique homogêneo ",
+      "Em uma assadeira já untada e enfarinhada, coloque a massa, salpique o orégano por cima",
+      "e leve ao forno preaquecido a 180° C",
+      "O tempo vai depender do forno, em média é de 1 hora.",
+      "Quando a torta estiver dourada, faça o teste do palito (o palito não sairá totalmemte",
+      "limpo, pois a torta é um pouco cremosa).",
+      "E então é só esperar esfriar e servir!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ALICE AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300775-torta-salgada-de-milho.html"
+}

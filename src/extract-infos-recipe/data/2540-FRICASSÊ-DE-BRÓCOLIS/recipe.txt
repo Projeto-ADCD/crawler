@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FRICASSÊ DE BRÓCOLIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 brócolis",
+      "1 creme de leite",
+      "1 requeijao",
+      "300 g mussarela",
+      "1 caldo de galinha",
+      "1 batata palha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o brócolis para cozinhar e reserve",
+      "Em um liquidificador, misture o requeijao, creme de leite, o milho e o caldo de galinha",
+      "Em um refratário coloque uma camada da mistura",
+      "Depois espalhe o brócolis, mussarela por cima e mais uma camada da mistura.",
+      "Finalize com mussarela e coloque no forno",
+      "No forno coloque por aproximadamente 40 minutos no fogo baixo",
+      "Depois de pronto espalhe a batata palha por cima e pronto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANA LUIZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304984-fricasse-de-brocolis.html"
+}

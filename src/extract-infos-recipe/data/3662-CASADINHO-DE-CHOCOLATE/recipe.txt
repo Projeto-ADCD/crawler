@@ -1,0 +1,46 @@
+{
+  "nome_receita": "CASADINHO DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas",
+      "250 g de chocolate em pó",
+      "1 barra de chocolate ao leite meio amargo",
+      "1 barra de chocolate branco",
+      "4 colheres (sopa) de maizena",
+      "1 litro de leite integral",
+      "8 biscoitos tipo champagne triturados ou 12 biscoitos de maisena triturados",
+      "4 unidades de paçoca de amendoim triturados",
+      "4 latas de leite condensado",
+      "4 caixas de creme de leite",
+      "1 colher de sopa de essência de baunilha",
+      "2 caixas de chantilly"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o chantilly e reserve na geladeira.",
+      "Em uma panela grande, misture 2 latas de leite condensado, 2 caixas de creme de leite, 1 gema sem a pele, 2 colheres de manteiga cheias, 500ml de leite, 2 colheres (sopa) de maisena, 1 colher (sopa) de baunilha e mexa tudo em fogo baixo.",
+      "Mexa enquanto cozinha para não grudar no fundo da panela.",
+      "O ponto do doce branco estará bom quando soltar da panela, como brigadeiro branco.",
+      "Feche o fogo e acrescente 1/2 barra de chocolate branco, enquanto mexe para derreter.",
+      "Coloque o doce em um refratário grande e acrescente sobre o doce pedaços de chocolate branco restantes da barra.",
+      "Leve à geladeira por 2 horas para esfriar.",
+      "Após 2 horas, retire da geladeira e acrescente sobre o doce branco já frio, o biscoito triturado de sua preferência, misturado às paçocas trituradas.",
+      "Inicie a segunda parte da receita, misturando novamente 2 latas de leite condensado, 2 caixas de creme de leite, 1 gema sem a pele, 2 colheres de manteiga cheias, 500 ml de leite, 2 colheres (sopa) de maisena e 5 colheres (sopa) cheias de chocolate em pó.",
+      "Mexa tudo em fogo baixo até cozinhar, como brigadeiro.",
+      "Ao soltar do fundo da panela, o doce estará pronto.",
+      "Desligue o fogo.",
+      "Acrescente 1/2 barra de chocolate meio amargo e deixe esfriar.",
+      "Volte a mexer, ocasionalmente, para o doce não talhar.",
+      "Retire o refratário da geladeira que já contém o doce branco e a camada de biscoitos e paçoca de amendoim.",
+      "Acrescente o doce morno de chocolate ao leite, cobrindo o refratário.",
+      "A seguir quebre pequenos pedaços de chocolate meio amargo restantes e leve de volta à geladeira.",
+      "Com um bico tipo suspiro ou de sua preferência, enfeite o doce já terminado com chantilly reservado e leve de volta à geladeira por mais 4 horas",
+      "Sirva gelado e bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "LEILA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302958-casadinho-de-chocolate.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SANDUÍCHE DE CHEDDAR CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bife de hambúrguer",
+      "1 cebola rocha picada em cubinhos",
+      "1/2 colher de molho inglês ou shoyu sakura (à gosto)",
+      "1 fatia de queijo de sua preferência (prato ou cheddar, preferência cheddar)",
+      "1 pão de hambúrguer com ou sem gergelim, ou pão de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira ou chapa, grelhe as cebolas com o molho. Reserve.",
+      "Grelhe o bife de hamburguer e reserve.",
+      "Após isso, passe a parte lisa do pão na chapa e monte o sanduíche colocando o bife na parte baixa do pão, o queijo acima para derreter e as cebolas acima do queijo.",
+      "Feche os sanduíche com o pão.",
+      "Em fornos elétrico, deixe dourar para o queijo derreter."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "THIAGO HENRIQUE SILVA SALGUEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300856-sanduiche-de-cheddar-caseiro.html"
+}

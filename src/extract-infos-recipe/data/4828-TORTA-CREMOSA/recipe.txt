@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "200 ml de leite",
+      "100 ml de óleo de soja (ou azeite)",
+      "6 colheres (sopa) bem cheias de farinha de trigo sem fermento",
+      "1/2 cebola grande picada",
+      "80 g de queijo picado",
+      "1 colher de (chá) cheia de fermento",
+      "1 colher de (chá) de orégano",
+      "1/2 tablete de caldo de galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, com exceção do fermento.",
+      "Quando a mistura já estiver homogênea, acrescente o fermento e bata novamente por apenas 10 segundos.",
+      "Unte uma travessa de vidro (1,6 L) e acrescente a massa até cobrir o fundo do refratário.",
+      "Adicione o recheio de sua preferência e, em seguida, despeje o restante da massa sobre o mesmo.",
+      "Preaqueça o forno e depois coloque a torta assar por 20-25 minutos (240º C)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sugestões de recheio:\n250 g de calabresa, 2 ovos cozidos, 1 cebola em rodelas e 100 g queijo coalho ou mussarela.\n1 lata de atum refogado com cebola, alho, tomate e 100 g de queijo.\n300 g de frango desfiado e 1/2 vidro de requeijão."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LORENA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300145-torta-cremosa.html"
+}

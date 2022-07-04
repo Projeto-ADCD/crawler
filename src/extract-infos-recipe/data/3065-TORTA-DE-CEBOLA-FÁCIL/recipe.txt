@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE CEBOLA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xicaras de leite",
+      "1/2 colher (chá) de sal",
+      "1 xícara de óleo",
+      "12 colheres (sopa) de farinha de trigo",
+      "1 colher de fermento em pó",
+      "2 colheres (sopa) de queijo ralado",
+      "4 cebola cortada em fatia",
+      "3 tomate picado",
+      "1 pitada de sal",
+      "3 colheres de óleo",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata toda a mistura no liquidificador, menos os temperos.",
+      "Em um recipiente separado misture a cebola, o tomate, o sal, o óleo e o orégano.",
+      "Despeje a mistura do liquidificador em uma forma untada.",
+      "Despeje a mistura do recipiente por cima da massa e leve ao forno até que começe a ficar douradinha.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FRANCIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303929-torta-de-cebola-facil.html"
+}

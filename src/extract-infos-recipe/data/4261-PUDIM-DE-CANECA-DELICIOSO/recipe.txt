@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PUDIM DE CANECA DELICIOSO",
+  "ingredientes": {
+    "CALDA": [
+      "1 colher de água",
+      "1 colher de açúcar"
+    ],
+    "PUDIM": [
+      "1 ovo",
+      "8 colheres de leite",
+      "8 colheres de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione o açucar e a agua em uma caneca e coloque no micro-ondas ate dourar.",
+      "Em seguida misture bem o ovo ,depois adicione o leite e o leite condensado e misture eses 3 ingredientes em outra caneca.",
+      "Depois adicione o \"pudim\" em cima da calda e leve ao micro-ondas por 1 minuto.",
+      "Se não pegar consistência, coloque em ciclos de 15 segundos até estar pronto.",
+      "Em seguida, espere 15 minutos até esfriar e desenforme em um pratinho e se delicie."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BIEL 360",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301502-pudim-de-caneca-delicioso.html"
+}

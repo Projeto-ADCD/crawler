@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PÃO DE LÓ ORIGINAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "210 g de ovo",
+      "210 g de açúcar",
+      "210 g de trigo",
+      "extrato de baunilha (opcional) "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Por ovos na batedeira e depois de bater 2 ou 3 minutos batendo sem parar",
+      "Comece a colocar o açúcar peneirado aos poucos até triplicar de volume",
+      "Deixar batendo uns 10 a 15 minutos sem parar",
+      "Tire da batedeira e acrescente a 210 g de farinha peneirada aos poucos de cima para baixo (não mexer rápido para não perder o ar)",
+      "Untar com papel manteiga apenas em baixo da assadeira e não unte dos lados ",
+      "Asse a 180°C até dourar",
+      "Não precisa por o palito se não abaixa",
+      "Só por a mão em cima já da pra ver se assou",
+      "O tempo vai depender do seu forno e da forma usada: de 40 a 50 minutos numa forma grande",
+      "Se você dividir a massa em duas formas médias poderá assar entre 30 a 35 minutos, por isso preste atenção no dourado em cima",
+      "Você pode fazer um glacê com 1/2 limão e acrescentar açúcar de confeiteiro até a consistência desejada",
+      "Deixe o bolo esfriar e por como cobertura",
+      "Ótimo para o café da tarde",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser salpicar açúcar impalpável no bolo antes de servir com café, fica uma delícia!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ROGÉRIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303423-pao-de-lo-original.html"
+}

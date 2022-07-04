@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de trigo",
+      "10g de fermento biológico",
+      "2 xícara (chá) de água morna",
+      "1/2 colher (sopa) de sal",
+      "1/2 xícara (chá) de óleo",
+      "1/2 xícara (chá) de açúcar",
+      "1 ovo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos o trigo e o fermento.",
+      "Em um recipiente, misture o trigo e o fermento com a mistura batida",
+      "Sove bem a massa e deixe descansar por 30 minutos tampado.",
+      "Sove novamente e de formas a massa.",
+      "Deixe descansar novamente por 20 minutos.",
+      "Coloque para assar em forno a 180° C por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SR&SRACARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305240-pao-caseiro.html"
+}

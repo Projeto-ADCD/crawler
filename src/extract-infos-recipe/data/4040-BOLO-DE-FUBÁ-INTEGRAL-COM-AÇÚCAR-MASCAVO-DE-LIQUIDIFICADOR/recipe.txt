@@ -1,0 +1,38 @@
+{
+  "nome_receita": "BOLO DE FUBÁ INTEGRAL COM AÇÚCAR MASCAVO DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) de óleo",
+      "3 ovos",
+      "1 e 1/2 copo (americano) de açúcar mascavo",
+      "2 copos (americano) de fubá",
+      "1 copo (americano) de trigo integral",
+      "1 copo (americano) de leite integral",
+      "1 colher (sopa) de fermento",
+      "1 pitada de sal",
+      "1 forma untada do formato e tamanho de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro separe todos os ingredientes em recipientes ou bowls, e deixe uma forma untada ou com o trigo integral ou com o fubá.",
+      "Na hora de abrir os ovos, abra um por um em uma xícara e só depois coloque-os no liquidificador, pois há risco de um deles estar estragado.",
+      "Deixe preparado em um recipiente o trigo integral e o fermento. Com uma colher ou garfo misture bem os dois ingredientes até tudo ficar uma farinha homogênea.",
+      "Coloque os ovos no liquidificador e bata por 1 minuto.",
+      "Com o liquidificador ligado batendo os ovos, acrescente devagar o óleo, depois o açúcar mascavo, o leite e então o sal.",
+      "Deixe bater por mais uns 2 minutos ou até a mistura ficar homogênea.",
+      "Acrescente o fubá aos poucos para não travar o liquidificador ou engrossar a mistura rápido demais.",
+      "Em um recipiente que comporte toda a mistura, despeje o conteúdo do liquidificador nesse recipiente e com um fuê, pão-duro ou outro utensílio de sua preferência misture o conteúdo do liquidificador com o trigo e o fermento até tudo se tornar uma mistura bem homogênea.",
+      "Despeje o conteúdo homogêneo na forma previamente untada.",
+      "Deixe assar em 200º por 45 a 50 minutos ou até ele estar completamente assado.",
+      "Não abra o forno antes dos 45 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Há possibilidades de acrescentar o trigo integral com o fermento já misturado:\nAdicione toda a quantidade de trigo e fermento aos poucos com o liquidificador ligado.\nAdicione metade da quantidade de trigo e fermento com o liquidificador ligado e depois acrescente a outra metade em um recipiente maior.\nAdicione toda a quantidade de trigo e fermento em um recipiente maior."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GUSTAVO ZS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302083-bolo-de-fuba-integral-com-acucar-mascavo-de-liquidificador.html"
+}

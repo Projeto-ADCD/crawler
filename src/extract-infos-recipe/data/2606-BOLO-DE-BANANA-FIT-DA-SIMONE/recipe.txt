@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BANANA FIT DA SIMONE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas pratas ou nanicas (bem maduras)",
+      "4 ovos",
+      "1 colher (sopa) de canela",
+      "2 colheres (sopa) de essência de baunilha",
+      "2 colheres (sopa) de óleo de coco ou manteiga",
+      "2 colheres (sopa) de açúcar fit ou demerara",
+      "3 colheres (sopa) de farinha de trigo (preferencialmente integral)",
+      "3 xícaras de granola",
+      "1 xícara de leite",
+      "100 g de ameixas sem caroço(picadinhas) ou uvas passas",
+      "1 colher (sopa) de fermento",
+      "mistura de 1 colher (sopa) de açúcar com uma colher (chá) de canela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture do liquidificador a granola até que vire uma farinha não muito fina e reserve.",
+      "Em uma bacia amasse as bananas ligeiramente, adicione todos os ingredientes um a um e por último vai adicionando a granola batida e o fermento (mexa sempre com um fouet).",
+      "Coloque a massa em uma forma redonda de 24cm (com ou sem furo) untada.",
+      "Distribua por cima a mistura do açúcar com canela;",
+      "Asse em forno pré aquecido a aproximadamente 200º C por 40 minutos ou até que fique dourado.",
+      "Sirva quente ou frio."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SI DUARTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304826-bolo-de-banana-fit-da-simone.html"
+}

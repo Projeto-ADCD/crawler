@@ -1,0 +1,21 @@
+{
+  "nome_receita": "DOCE DE LEITE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de leite",
+      "4 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite e o açúcar em uma panela grande de fundo largo.",
+      "Leve ao fogo médio, mexendo sempre com uma colher de pau, até obter fervura (cerca de 15 minutos).",
+      "Diminua o fogo e continue mexendo até obter um doce marrom claro de consistência cremosa (cerca de 45 minutos).",
+      "Passe o doce para um refratário, deixe esfriar bem e sirva"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MUNDO DAS MARAVILHAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304445-doce-de-leite-cremoso.html"
+}

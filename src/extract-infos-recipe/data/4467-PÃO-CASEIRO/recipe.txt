@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de farinha de trigo",
+      "1 sachê de fermento",
+      "1/2 copo (americano) de água quente",
+      "1/2 copo (americano) de leite morno",
+      "1 colher (café) de sal",
+      "5 colheres (sopa) de açúcar",
+      "1 pacote de queijo ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata todos os ingredientes menos a farinha de trigo.",
+      "Em seguida, passe pra batedeira e bata enquanto coloca a farinha de trigo.",
+      "Em cima do pão já na forma, coloque um pouco do queijo ralado.",
+      "Coloque no fogo a 270° por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "RAIANE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301041-pao-caseiro.html"
+}

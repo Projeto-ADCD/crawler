@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLINHOS DE SARDINHA E CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 calabresa",
+      "2 latas de sardinha (para 20 bolinhos)",
+      "1 cebola média picada",
+      "1 tomate médio picado",
+      "1 pimentão médio picado",
+      "3 copos (aproximadamente) de farinha de trigo sem fermento",
+      "1 e 1/2 copo (americano) de leite",
+      "farinha de pão para empanar",
+      "1 colher de margarina",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a sardinha junto com a calabresa (com todo o seu óleo) em uma panela para levar ao fogo alto.",
+      "Adicione a cebola, o tomate e o pimentão.",
+      "Mexa por uns 5 minutos.",
+      "Acrescente o leite e a margarina, deixe ferver.",
+      "Depois, junte a farinha de trigo, mexa até perceber que a massa desgrudou da panela.",
+      "Tire-o do fogo e deixe a massa esfriar um pouco.",
+      "Faça pequenas bolinhas separando-os em uma vasilha.",
+      "Em outra vasilha pequena, coloque um pouco de água para molhar cada bolinho, para assim, poder passar na farinha de pão.",
+      "Agora é só fritar e se deliciar com estes bolinhos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RODRIGO OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304891-bolinhos-de-sardinha-e-calabresa.html"
+}

@@ -1,0 +1,41 @@
+{
+  "nome_receita": "TORTA DE BACALHAU COM REQUEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de bacalhau",
+      "1,5 kg de batata",
+      "3 caixas de creme de leite",
+      "2 copos de requeijão Président",
+      "1 pacote de queijo parmesão Président (100 g)",
+      "300 g de mussarela Président ralada",
+      "temperos como tomate, cebola, salsinha a gosto",
+      "azeitonas pretas",
+      "manteiga Président",
+      "farinha de rosca",
+      "1 xícara de leite "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas em água e uma pitada de sal",
+      "Quando cozidas, amasse as com o requeijão Président e creme de leite bem amassado, coloque numa peneira",
+      "Passe esse purê na peneira e coloque um pouco de queijo parmesão na misture",
+      "Reserve",
+      "Dessalgue o bacalhau e deixe ele em lasca e reserve",
+      "Pegue um pirex quadrado, passe um pouco de manteiga e salpique a farinha de rosca",
+      "Coloque todo o purê, arrume direitinho por cima do purê coloque o bacalhau",
+      "Faça um creme pra colocar por cima do bacalhau: numa panela coloque 2 caixinhas de creme de leite, 200 g de mussarela ralada, 1 xícara de leite, pimenta, sal, 50 g de queijo parmesão",
+      "Leve ao fogo, assim que começar a ferver apague e jogue por cima do bacalhau",
+      "Coloque mais mussarela ralada, azeitona preta e leve ao forno por 20 minutos ou até dourar",
+      "Tire e salpique salsinha por cima",
+      "Sirva com arroz"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Glaucia Marques "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303782-torta-de-bacalhau-com-requeijao.html"
+}

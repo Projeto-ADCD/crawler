@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRONADA DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão ninho (Ou outro de sua preferência.)",
+      "1 copo de requeijão cremoso",
+      "2 latas de creme de leite",
+      "1 pacote de camarão limpo ( Mais ou menos meio kg)",
+      "200g de queijo mussarela",
+      "1 cebola média picada",
+      "4 dentes de alho amassado",
+      "4 colheres de extrato de tomate",
+      "Queijo parmesao ralado a gosto",
+      "1 colher e meia de margarina",
+      "Ovos de codorna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão e reserve",
+      "Cozinhe os ovos",
+      "Doure a cebola e o alho na margarina",
+      "Coloque os camarões e doure também",
+      "Depois de dourados coloque o extrato de tomate",
+      "Adicione o requeijão.",
+      "Adicione os cremes de leite",
+      "Coloque a mussarela picada e espere ela derreter",
+      "Jogue tudo em cima do macarrão reservado",
+      "Decore com o queijo ralado e os ovos de codorna",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELAINE CRISTINA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305302-macarronada-de-camarao.html"
+}

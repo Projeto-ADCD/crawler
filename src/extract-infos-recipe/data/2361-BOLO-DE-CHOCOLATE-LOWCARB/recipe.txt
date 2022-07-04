@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE LOWCARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 colher (sopa) de cacau 100%",
+      "1 colher (sopa) de óleo de coco",
+      "1 colher (sopa) creme de leite OU leite de coco",
+      "1 colher (sopa) de farinha de coco",
+      "6 gotas de adoçante",
+      "1 colher (sopa) de coco ralado sem açúcar ou maçã picada",
+      "1 colher (chá) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture bem todos os ingredientes em uma caneca",
+      "Leve ao micro-ondas por 2 minutos 30 segundos ",
+      "Se desejar poderá assar em forminhas de silicone ou um potinho de 200 ml"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "FABRÍCIA DORNAES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305409-bolo-de-chocolate-lowcarb.html"
+}

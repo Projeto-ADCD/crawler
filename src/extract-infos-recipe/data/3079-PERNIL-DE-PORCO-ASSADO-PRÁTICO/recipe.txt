@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PERNIL DE PORCO ASSADO PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pernil de porco",
+      "1 cebola grande",
+      "1 porcao de salsinha e alecrim",
+      "Sal com alho a gosto."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque para cozinhar o pernil com os temperos em uma panela por 3 horas ",
+      "Depois coloca na forma e leve ao forno alto por 2 horas (pode cobrir com papel alumínio)",
+      "Sirva com arroz, salada ou maionese.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "MALZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303910-pernil-de-porco-assado-pratico.html"
+}

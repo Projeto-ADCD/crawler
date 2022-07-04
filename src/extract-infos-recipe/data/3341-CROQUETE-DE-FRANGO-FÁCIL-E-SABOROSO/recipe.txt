@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CROQUETE DE FRANGO FÁCIL E SABOROSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g peito de frango desfiado",
+      "500 g farinha de milho",
+      "2 colheres (sopa) de polvilho azedo",
+      "1 copo de água fria (300 ml)",
+      "500 g farofa pronta ",
+      "2 claras de ovos batidas",
+      "1 litro de óleo",
+      "cheiro-verde a gosto",
+      "manjericão a gosto",
+      "alho a gosto",
+      "limão a gosto",
+      "pimenta-do-reino",
+      "1 colher rasa de sal"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Tempere o frango com sal à gosto, o alho, o limão, a pimenta-do-reino, o manjericão e o cheiro-verde",
+      "Após, refogue esse frango em uma panela de pressão e acrescente a metade de um copo de água",
+      "Leve ao fogo por cerca de 15 minutos",
+      "Desligue o fogo e reserve a água do frango que acabou de cozinhar na panela"
+    ],
+    "MASSA": [
+      "Em uma bacia média, coloque a farinha de milho, o polvilho, o cheiro-verde, o sal e mexa com a colher de pau para unir os ingredientes",
+      "Acrescente 1 copo de 300 ml de água e misture",
+      "Agora, peneire a água (fervida) do frango que separou dentro da massa, e vai mexendo aos poucos, até a massa desgrudar do fundo da bacia",
+      "Deixa esfriar, faça pequenas bolinhas, amasse na mão, recheie com o frango desfiado e feche a massa, modelando de acordo com seu gosto",
+      "Passe o bolinho na clara de ovo batido, e depois passe na farofa pronta tradicional",
+      "Após o óleo bem quente (200ºC) frite de 3 em 3 bolinhos",
+      "Aguarda esfriar e sirva-se!"
+    ]
+  },
+  "tempo_de_preparo": "55 MIN",
+  "rendimento": "16 PORÇÕES",
+  "autor": "WILLIAM GOMES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303532-croquete-de-frango-facil-e-saboroso.html"
+}

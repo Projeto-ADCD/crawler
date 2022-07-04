@@ -1,0 +1,20 @@
+{
+  "nome_receita": "BANANA COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas",
+      "3 colheres (sopa) de leite em pó",
+      "1 pitada de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as bananas e corte-as como quiser em um prato ou pote",
+      "Adicione o leite em pó e o açucar "
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA CLARA RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302434-banana-com-leite-ninho.html"
+}

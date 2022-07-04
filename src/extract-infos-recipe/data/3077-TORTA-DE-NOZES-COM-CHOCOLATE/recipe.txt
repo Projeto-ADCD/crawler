@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE NOZES COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito de maisena",
+      "manteiga (o quanto baste para massa dar ponto)",
+      "1 pacote de nozes",
+      "2 caixas de creme de leite",
+      "1 lata de leite condensado",
+      "200 g de chocolate ao leite ou meio amargo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture os biscoitos e adicione manteiga ",
+      "Misture e vá amassando até ficar no ponto de uma farofa úmida",
+      "Disponha a massa numa forma de fundo removível, pressionando bem",
+      "Leve parar assar até dourar ",
+      "Faça um brigadeiro de nozes: junte as nozes cortadas, o leite condensado, 1 caixa de creme de leite e 1 colher (sopa) de manteiga",
+      "Mexa até dar ponto e depois deixe amornar um pouco",
+      "Coloque na forma sobre a massa",
+      "Derrete o chocolate com 1 caixa de creme de leite",
+      "Despeje por cima do recheio ",
+      "Leve para gelar e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SERGIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303912-torta-de-nozes-com-chocolate.html"
+}

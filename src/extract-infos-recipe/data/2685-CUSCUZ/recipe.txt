@@ -1,0 +1,43 @@
+{
+  "nome_receita": "CUSCUZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola picadinha",
+      "1 porção de alho poró picadinho",
+      "1 porção generosa de cebolinha",
+      "1 porção de palmito picadinho",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "4 colheres de extrato de tomate",
+      "2 tomates picadinhos",
+      "1 tomate em rodela",
+      "2 ovos cozidos picadinhos",
+      "1 ovo cozido em rodela",
+      "1 xícara (café) de azeite",
+      "1 pitada de açafrão",
+      "2 latas de sardinhas ao molho de tomate",
+      "500 kg de flocão de milho",
+      "500 ml de água fervente",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a cebola e o alho poró no azeite.",
+      "Depois acrescente os tomates picadinhos, a cebolinha, milho, ervilha, palmito, extrato de tomate, sal a gosto.",
+      "Acrescente as sardinhas, uma pitada de açafrão e deixe refogar bem",
+      "Acrescente a água Fervida com os flocões de milho aos poucos e vá misturando.",
+      "Mexa bastante, misture bem tudo até desgrudar do fundo da panela.",
+      "Umedeça uma forma com furo no meio e decore com os tomates em rodelas, ovos em rodelas, um pouco de milho, de ervilha e de palmito picadinho.",
+      "Acrescente a massa do cuscuz quente na forma, vá pressionando para caber tudo na forma de forma a preencher todos os espaços.",
+      "Por fim, molhe uma das mãos e alise com a mão por cima.",
+      "Deixe esfriar e  leve à geladeira",
+      "Após gelado, desenforme e sirva",
+      "Se desejar pode colocar umas gotinhas de pimenta na massa pra ficar picante."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "HELENA JUNQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304655-cuscuz.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "CACHORRO QUENTE DE FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "2 e 1/2 copos (americano) de leite",
+      "1/2 copo de óleo",
+      "3 copos (americano) de farinha de trigo c/ fermento",
+      "sal a gosto",
+      "Recheio",
+      "10 salsichas",
+      "3 tomates",
+      "1 cebola",
+      "1 pimentão",
+      "2 sachês de legumes ou de sua preferência",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Leve todos os ingredientes no liquidificador na ordem sequencial",
+      "Unte um tabuleiro médio e coloque metade da massa e reserve a outra metade.",
+      "Recheio",
+      "Ferva as salsichas e corte elas, reserve em uma bacia",
+      "Lave os legumes, retire as sementes e corte em cubinhos.",
+      "Misture junto às salsichas e coloque o sachê de tempero e o orégano a gosto.",
+      "Distribua o recheio sobre a massa do tabuleiro",
+      "Pegue a massa reservada e distribua sobre o recheio",
+      "Finalize com orégano.",
+      "Asse por 40 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Observações: o restante da massa não precisa cobrir o recheio por completo é só espalhar que está bom."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LIDIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304594-cachorro-quente-de-forno.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "OVO DE COLHER 3 INGREDIENTES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Leite condensado",
+      "Limão",
+      "Chocolate fracionado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate.",
+      "Coloque na forma de sua preferência e leve para a geladeira.",
+      "Coloque o leite condensado numa panela e leve ao fogo atá começar soltar da panela.",
+      "Desligue o fogo e deixe esfriar.",
+      "Misture o suco de 2 limões e mexa bem.",
+      "Depois é so desenformar o chocolate e colocar o recheio de limao dentro."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "IZA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299898-ovo-de-colher-3-ingredientes.html"
+}

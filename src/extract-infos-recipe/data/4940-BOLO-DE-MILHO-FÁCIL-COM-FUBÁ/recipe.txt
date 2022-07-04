@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE MILHO FÁCIL COM FUBÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho (300 gramas)",
+      "3 ovos",
+      "1 lata de leite",
+      "1/2 lata de óleo",
+      "1 lata de flocão ou de 1 e 1/2 lata de fubá",
+      "1 colher de sopa de fermento",
+      "1/2 lata de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o milho, os ovos, o leite, o óleo e o açúcar no liquidificador e bata bem.",
+      "Em seguida, vá colocando o flocão aos poucos e batendo, coloque o fermento e bata.",
+      "Unte a forma com manteiga e açúcar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A lata para medida é a lata de milho"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "YARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299899-bolo-de-milho-facil-com-fuba.html"
+}

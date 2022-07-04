@@ -1,0 +1,40 @@
+{
+  "nome_receita": "CARNE DE PANELA COM BATATA E CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de carne acém (sem osso e sem gordura)",
+      "azeite o suficiente para fritar a carne",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "2 colheres (sopa) de molho shoyu",
+      "1 colher (chá) de pimenta-do-reino em pó ",
+      "2 sachês de tempero pronto",
+      "1 pacote de extrato de tomate 340 g",
+      "2 cenouras",
+      "6 batatas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque óleo suficienfe para fritar a carne.",
+      "Adicione a carne à panela juntamente com os sachês de temperos ",
+      "Espere a carne dourar",
+      "Com a carne meio dourada, meio “frita”, adicione a cebola picada em cubos e 2 dentes de alho picado em cubos.",
+      "Espere a carne ficar completamente frita junto com a cebola e alho dourados.",
+      "Adicione o molho shoyu",
+      "Adicione a pimenta-do-reino em pó a gosto.",
+      "Adicione o pacote de extrato de tomate e aguarde dar uma “fritada”.",
+      "Após o cozimento do extrato de tomate, adicione água suficiente para cobrir a carne e ficar dois dedos acima (cerca de 1 litro)",
+      "Coloque a cenoura cortada em rodelas",
+      "Tampe a panela, aguarde pegar pressão e após pegar pressão deixe cozinhar por 15 minutos",
+      "Após sair a pressão, adicione as batatas cortadas em tamanho de sua preferência",
+      "Se necessário adicione mais um copo de água",
+      "Novamente tampe a panela, aguarde pressão",
+      "Após pegar pressão deixe cozinhar por mais 5 até 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "STEFANY BUENO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303407-carne-de-panela-com-batata-e-cenoura.html"
+}

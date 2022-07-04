@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PUDIM DE LEITE NINHO QUE NÃO VAI AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de açúcar",
+      "100 ml de água",
+      "2 pacotes de gelatina em color e sem sabor",
+      "10 colheres (sopa) de água morna",
+      "1 lata de leite condensado (395 g)",
+      "1 lata de creme de leite",
+      "500 ml de leite (integral/desnatado/semidesnatado)",
+      "2 xícaras (chá) de leite em pó (200 ml)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela aquecida, coloque 1 xícara de açúcar e diminua o fogo de médio para baixo.",
+      "Misture o açúcar até virar um caramelo bem líquido.",
+      "Quando derreter, acrescente 100 ml de água e misture até derreter o líquido",
+      "Se você quiser deixar ferver mais a calda vai engrossar, deixe ferver até começar sair uma linha de caramelo.",
+      "Depois passe para a forma de pudim com uma colher, passe o caramelo no meio e nas laterais.",
+      "Em um recipiente, coloque 2 pacotes de gelatina sem sabor e acrescente 10 colheres de água morna",
+      "Misture tudo até diluir a gelatina e deixe hidratar por 5 minutos.",
+      "Em um liquidificador, coloque 1 lata de leite condensado, 1 lata de creme de leite, 500ml de leite e 2 xícaras de leite ninho.",
+      "Volte para a gelatina e coloque por último no liquidificador",
+      "Bata tudo por 3 minutos em velocidade máxima",
+      "Se grudar na lateral do liquidificador, pare de bater e desgrude para não prender nada.",
+      "Despeje a massa dentro da forma caramelizada, cubra o pudim com papel-filme para não entrar umidade da geladeira.",
+      "Coloque na geladeira por durante 4 a 5 horas (se deixar 5 horas fica mais durinho e mais gostoso)",
+      "Depois do tempo, passe uma faca nas laterais e no meio",
+      "Coloque no prato maior do que a forma vire de cabeça para baixo.",
+      "Pronto fica uma delícia"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RENATO SILVA GUEDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301638-pudim-de-leite-ninho-que-nao-vai-ao-forno.html"
+}

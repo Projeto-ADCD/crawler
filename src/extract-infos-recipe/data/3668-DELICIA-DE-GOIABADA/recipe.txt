@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DELICIA DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de goiabada",
+      "1 caixa de creme de leite",
+      "1/5 de caixa de leite condensado",
+      "2 copos de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite, o leite condensado e o creme de leite e bata tudo no liquidificador.",
+      "Logo após coloque a goiabada cortada em cubos e bata junto com os outros ingredientes,",
+      "Quando ficar cremoso pode parar de bater.",
+      "Depois coloque tudo em um recipiente de sua preferencia e leve para geladeira",
+      "Deixe resfriar por 15 a 20 minutos.",
+      "Está pronto para servir, saboreie (caso prefira coloque uns cubinhos em cima para servir)"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MOURA CONTABILIDADE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302948-delicia-de-goiabada.html"
+}

@@ -1,0 +1,50 @@
+{
+  "nome_receita": "ESFIRRA DE CARNE MOÍDA",
+  "ingredientes": {
+    "RECHEIO:": [
+      "500 g de carne moída",
+      "1 cebola grande picada",
+      "2 tomates grandes picados (eu uso com casca e sementes)",
+      "suco de 1 limão grande",
+      "hortelã, pimenta síria e sal a gosto"
+    ],
+    "MASSA:": [
+      "3 ovos",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "1 colher (chá) de sal",
+      "2 cebolas médias",
+      "1 copo (200 ml) de óleo",
+      "2 copos de leite morno",
+      "100 g de fermento para pão",
+      "Aproximadamente 1,5 kg de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "RECHEIO:": [
+      "4 horas antes de começar a fazer a massa será necessário preparar o recheio.",
+      "Pique os ingredientes e misture tudo numa vasilha que tenha tampa e possa ir na geladeira.",
+      "Coloque o suco do limão nessa mistura e leve para gelar por duas horas.",
+      "Após esse tempo, despejar a mistura numa peneira e colocar para escorrer por mais duas horas na geladeira (não esquecer de colocar um recipiente embaixo da peneira para colher o suco que sairá da carne).",
+      "Se após esse tempo ainda tiver muito líquido na carne, dar uma leve pressionada para que termine de escorrer. Cuidado para não deixar a carne seca demais.",
+      "Obs.: O recheio não será cozido."
+    ],
+    "MASSA:": [
+      "Coloque o leite para amornar. Após, dissolva o fermento no leite.",
+      "Bata no liquidificador os ovos, a manteiga, o sal, as cebolas, o óleo e o leite e despeje num vasilha grande.",
+      "Vá acrescentando a farinha aos poucos até formar uma massa que desgrude da mão.",
+      "Não precisa deixar crescer."
+    ],
+    "MONTAGEM:": [
+      "Abra pedaços da massa com o rolo em espessura de aproximadamente 0,5 cm.",
+      "Corte rodinhas nessa massa (usei um objeto com 12 cm de diâmetro).",
+      "Recheie cada rodinha com um pouquinho do recheio.",
+      "Feche as esfirras no formato de triângulos.",
+      "Coloque em formas levemente untadas e leve para assar.",
+      "Ficar sempre atento ao forno para não queimá-las, pois assam rápido."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "70 PORÇÕES",
+  "autor": "TERESINHA DE JESUS GONÇALVES BITTENCOURT",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302031-esfirra-de-carne-moida.html"
+}

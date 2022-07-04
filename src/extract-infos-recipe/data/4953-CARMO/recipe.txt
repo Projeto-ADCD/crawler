@@ -1,0 +1,21 @@
+{
+  "nome_receita": "CARMO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de carne moída",
+      "3 colheres de requeijão",
+      "1 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue sua carne e pique em varios pedaços e ponha no fogão.",
+      "Mesmo que ainda esteja crua, ponha o creme de leite e espere a carne ficar pronta mexendo.",
+      "Depois que a carne ficar pronta, adicione o requeijão."
+    ]
+  },
+  "tempo_de_preparo": "12 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ISABELLA BUSNARDO LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299866-carmo.html"
+}

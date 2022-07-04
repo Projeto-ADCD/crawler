@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PURÊ DE ABÓBORA RÁPIDO E FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de abóbora cozida",
+      "3 colheres de manteiga",
+      "2 colheres de leite em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a abóbora deixando ela bem amassada",
+      "Adicione 3 colheres médias de manteiga",
+      "Adicione 2 colheres cheias de leite em pó",
+      "Mexa bem até deixar bem pastoso",
+      "Saboreie com sabor a sua receita"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "SAFIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305738-pure-de-abobora-rapido-e-facil.html"
+}

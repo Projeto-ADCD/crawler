@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ROMEU E JULIETA DE TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa/lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão (200 g)",
+      "1 envelope de gelatina sem sabor (12 g)",
+      "300 g de goiabada",
+      "150 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro passo é hidratar a gelatina sem sabor: despeje o conteúdo em um pote e acrescente 5 colheres de sopa de água. Leve ao micro-ondas por 20 segundos.",
+      "Após isso, em um liquidificador, acrescente o leite condensado, creme de leite, requeijão e a gelatina sem sabor já hidratada. Misture tudo!",
+      "Em um refratário retangular ou quadrado (de 1 litro) despeje o conteúdo e leve a geladeira.",
+      "Em uma panela acrescente a goiabada cortada e os 150 ml de água. O objetivo é derreter a goiabada! Coloque fogo baixo e mexa. Pode também \"esmagar\" a goiabada na parede da panela para ajudar a dissolver.",
+      "Após dissolver aguarde um tempo para esfriar a goiabada derretida!",
+      "Em seguida retire o refratário da geladeira e despeje a goiabada derretida sobre a primeira parte feita. Cubra com papel filme e leve a geladeira por, no mínimo, 2 horas antes de servir.",
+      "Boa sobremesa!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EDUARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302215-romeu-e-julieta-de-travessa.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "RECHEIO DE MORANGO PARA BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 caixa de morangos picados",
+      "1 colher (sopa) de amido de milho",
+      "1/2 xícara (chá) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o creme de leite, o leite condensado e o amido de milho dissolvido no leite.",
+      "Leve ao fogo baixo, mexendo sem parar até engrossar.",
+      "Desligue o fogo e espere o creme esfriar completamente, coberto com filme plástico rente ao creme (para não formar uma casquinha).",
+      "Depois que esfriar, misture os morangos picados e aplique no bolo.",
+      "Guarde o bolo na geladeira até a hora de servir."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "SARA LUIZ MARCELINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302449-recheio-de-morango-para-bolo.html"
+}

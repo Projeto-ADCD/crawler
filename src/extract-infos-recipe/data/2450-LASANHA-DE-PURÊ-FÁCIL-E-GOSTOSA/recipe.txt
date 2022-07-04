@@ -1,0 +1,34 @@
+{
+  "nome_receita": "LASANHA DE PURÊ FÁCIL E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "1 pote de requeijão",
+      "queijo parmesão ralada a gosto",
+      "1 kg de peito de frango picado em cubos médios",
+      "bacon em cubos a gosto",
+      "4 dentes de alho",
+      "2 cebolas",
+      "1 colher de azeite de oliva"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno em 180° C",
+      "Coloque as batatas para ferver (até ficarem macias)",
+      "Faça um purê com as batatas adicionando queijo, requeijão e sal",
+      "Coloque o azeite de oliva em uma panela",
+      "Adicione a cebola e o alho frite bem,em seguida adicione os cubos de frango e o bacon refogue até ficar douradinho",
+      "Em seguida pegue um refratário médio",
+      "Coloque o queijo parmesão ralado dentro do refratário em seguida adicione os cubos de frango por cima",
+      "Adicione o requeijão, coloque o purê por cima e repita o processo",
+      "Coloque o refratário no forno em 190° C",
+      "Deixa por 35 minutos (fique de olho)",
+      "Retire"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BIANCA FAUTH LAZZAROTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305181-lasanha-de-pure-facil-e-gostosa.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ESTROGONOFE DE FRANGO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de peito de frango",
+      "1 caixa de creme de leite",
+      "1 dente de alho pequeno bem picado",
+      "Cebola ralada a gosto",
+      "Cebolinha a gosto",
+      "Uma pitada de colorau",
+      "1 colher de mostarda",
+      "1 colher de ketchup",
+      "1 colher (sobremesa) rasa de margarina",
+      "1 caldo pronto sabor galinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique o peito de frango em cubos e reserve.",
+      "Desmanche o tablete de caldo pronto e reserve.",
+      "Em uma panela com fogo baixo, acrescente a margarina.",
+      "Vendo que a margarina derreteu, coloque a cebola e o alho e deixe fritar um pouco em fogo médio.",
+      "Acrescente o peito de frango picadinho, o colorau e o caldo Knorr, e mexa bem. Deixe dar uma fritada por uns 2 minutos.",
+      "Coloque 200ml de água, mexa e tampe a panela. Deixe por uns 10 minutos ou até a água diminuir bem.",
+      "Após a água diminuir e o frango estiver cozido, coloque a cebolinha, a mostarda, ketchup e sal a gosto. Mexa bem.",
+      "Coloque o creme de leite, misture tudo e desligue o fogo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "CARINE MARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301272-estrogonofe-de-frango-simples.html"
+}

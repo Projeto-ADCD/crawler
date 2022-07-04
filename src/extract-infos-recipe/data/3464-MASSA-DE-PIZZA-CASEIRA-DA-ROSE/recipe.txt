@@ -1,0 +1,39 @@
+{
+  "nome_receita": "MASSA DE PIZZA CASEIRA DA ROSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara (chá) de óleo",
+      "3 colheres (chá) de açúcar",
+      "1 colher (chá) de sal",
+      "500 ml de leite morno",
+      "60 g de fermento biológico fresco",
+      "1 kg de farinha",
+      "150 ml de água morna para desmanchar o fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o óleo, o ovo e mexa bem",
+      "Dissolva o fermento na água morna e coloque na vasilha com o ovo e o óleo",
+      "Junte o sal e o açúcar",
+      "Sempre que juntar um ingrediente, vá mexendo para incorporá-lo",
+      "Junte o leite morno e mexa até que fique homogêneo",
+      "Vá juntando a farinha aos poucos até dar o ponto (não grudar mais na mão)",
+      "Quando já estiver no ponto coloque em uma bacia limpa e coloque um pano por cima para que cresça por mais ou menos 50 minutos, dependendo do clima",
+      "Após esse tempo divida a massa em quatro partes",
+      "Vá abrindo cada uma com o rolo, pode ser redonda ou quadrado, de acordo com a preferência",
+      "Coloque para pré-assar, mais ou menos de 15 a 20 minutos a 180°C",
+      "O forno deve estar pré-aquecido",
+      "Assim que estiver pré-assada pode rechear de acordo com sua preferência",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opção de recheio: molho de tomate, mussarela, tomates, azeitonas e orégano, ou calabresinha defumada"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "32 PORÇÕES",
+  "autor": "ROSELI NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303308-massa-de-pizza-caseira-da-rose.html"
+}

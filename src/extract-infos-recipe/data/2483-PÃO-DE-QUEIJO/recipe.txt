@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PÃO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho azedo",
+      "1 xícara de água",
+      "1/2 xícara de óleo",
+      "1/2 xícara de leite",
+      "2 ovos",
+      "sal a gosto",
+      "250 g de parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a água fervente com o povilho azedo.",
+      "Numa panela juntar o leite e o óleo até ferver",
+      "Em seguida despeje sobre o povilho azedo e misture com a mão.",
+      "Junte os ovos e o queijo ralado até ficar uma massa consistente.",
+      "Faça pequenas bolinhas e coloque em assadeira untada.",
+      "Leve ao forno preaquecido a 180° C por cerca de 30 a 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "JULIANA DE ANGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305100-pao-de-queijo.html"
+}

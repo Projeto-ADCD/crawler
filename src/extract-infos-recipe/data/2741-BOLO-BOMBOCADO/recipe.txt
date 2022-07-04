@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO BOMBOCADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 lata de leite condensado",
+      "100 g de coco ralado",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 xícara de leite gelado",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador todos os ingredientes, deixando o fermento por último",
+      "Bata por uns 10 minutos.",
+      "Unte uma forma média redonda com margarina e polvilhe com farinha de trigo",
+      "Despeje a mistura e leve ao forno a uma temperatura de 180° C por uns 30 minutos.",
+      "Fácil, rápido e delicioso"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JOÃO BATISTA MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304540-bolo-bombocado.html"
+}

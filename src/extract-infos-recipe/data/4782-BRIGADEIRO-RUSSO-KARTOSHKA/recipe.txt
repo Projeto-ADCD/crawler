@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BRIGADEIRO RUSSO KARTOSHKA",
+  "ingredientes": {
+    "MASSA:": [
+      "500 g Cacau em pó 100%",
+      "500 g Manteiga sem sal",
+      "40 ml Conhaque",
+      "500 g Leite condensado",
+      "400 g Chocolate Branco",
+      "350 g Biscoito Maisena",
+      "100 g Nozes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma batedeira, bata a manteiga em ponto pomada até que ficar esbranquiçada.",
+      "Adicione o leite condensado, cacau em pó 100% e misture o restante dos ingredientes até formar uma massa homogênea.",
+      "Faça bolinhas de acordo com a sua necessidade e reserve.",
+      "Derreta o chocolate branco no micro ondas e cubra as bolinhas.",
+      "Confeite ou incremente a gosto."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "60 PORÇÕES",
+  "autor": "EDSON PENGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300238-brigadeiro-russo-kartoshka.html"
+}

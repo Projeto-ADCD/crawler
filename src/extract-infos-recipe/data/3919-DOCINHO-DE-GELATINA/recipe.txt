@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCINHO DE GELATINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de leite em pó",
+      "200 g de açúcar",
+      "200 g de gelatina",
+      "1 colher (sopa) de margarina",
+      "leite até dar ponto",
+      "açúcar de confeiteiro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a gelatina, o açúcar e o leite em pó em um recipiente",
+      "Adicione a margarina e misture até virar uma farofa",
+      "Adicione o leite aos poucos até dar ponto de enrolar e não grudar nas mãos",
+      "Enrole, passe no açúcar de confeiteiro e distribua nas forminhas"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "THAYS SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302377-docinho-de-gelatina.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SORBET DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1/2 xícara de suco de limão",
+      "1 colher (chá) de raspas de limão",
+      "1 pote de iogurte"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Leve ao freezer por 2 horas.",
+      "Mexa a massa e volte ao freezer por mais 2 horas."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304309-sorbet-de-limao.html"
+}

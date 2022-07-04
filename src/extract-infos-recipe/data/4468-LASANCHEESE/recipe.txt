@@ -1,0 +1,56 @@
+{
+  "nome_receita": "LASANCHEESE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango médio cozido e desfiado (um prato fundo)",
+      "400g queijo mussarela (ralado ou fatiado)",
+      "150g queijo prato ou cheddar",
+      "1 pacote (50g) queijo parmesão ralado",
+      "1 caixinha de creme de leite (200g)",
+      "Macarrão para Lasanha massa tradicional com ovos",
+      "4 dentes de alho",
+      "1 tomate grande sem casca e picado em cubos",
+      "1 cebola média picada em cubos finos ou ralada",
+      "1 colheres (sobremesa) de Páprica",
+      "3 col (sopa) de farinha de trigo",
+      "200 ml de leite",
+      "2 colheres (sopa) manteiga",
+      "1 colher sobremesa de noz-moscada",
+      "Azeite",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "MOLHO DE FRANGO:": [
+      "Em uma panela coloque uma colher de azeite adicione o alho, socado com sal; e a cebola, doure bem.",
+      "Adicione a páprica e em seguida o frango previamente cozido e desfiado.",
+      "Mantenha em fogo baixo de forma que o frango adquira um pouco de cor e entranhe o tempero. Pingue pequenas quantidades de água durante o processo para evitar a queima.",
+      "Em seguida adicione o tomate picado e meio copo de água (100ml), deixe cozinhar por alguns minutos.",
+      "Para finalizar e encorpar o molho, adicione 1 colher de farinha de trigo misturada em 1/4 copo de água, quando ferver novamente desligue o fogo. Este molho está pronto. Reserve."
+    ],
+    "MOLHO BRANCO DE QUEIJO:": [
+      "Em uma panela, adicione a manteiga deixando-a derreter.",
+      "Adicione em seguida 200ml de leite com 2 colheres de farinha de trigo dissolvidas no mesmo. Aguarde levantar fervura mexendo para não empelotar.",
+      "Adicione agora o queijo prato ou cheddar, misturando até o mesmo derreter. Neste ponto seu molho dará uma encorpada.",
+      "Adicione a noz moscada misturando bem.",
+      "Desligue o fogo e adicione a caixa de creme de leite.",
+      "Importante que o creme de leite não seja ralo, opte por marcas com maior consistência para que seu molho não fique mole. Retirar o soro pode ser uma boa ideia."
+    ],
+    "MONTAGEM:": [
+      "Em um tabuleiro médio, faça uma camada com o macarrão para lasanha. Não há necessidade de o cozinhar ou molhar pois o calor dos molhos já fará esse papel.",
+      "Em cima do macarrão, coloque uma fina camada de queijo mussarela, se o mesmo estiver ralado, salpique por cima.",
+      "Na camada seguinte, coloque o Molho de Frango ainda quente ajeitando ele bem a travessa.",
+      "Para a quarta camada, adicione o Molho Branco de Queijo, espalhando-o bem sobre o frango, mas sem misturar.",
+      "Como quinta camada, coloque mais uma de Queijo Mussarela.",
+      "Por fim salpique por cima o envelope de queijo parmesão.",
+      "Leve para assar ao forno em 180 °C até que o queijo fique dourado."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Prepare a receita com antecedência, mantendo-a conservada em geladeira coberta com plástico filme."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINE FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301039-lasancheese.html"
+}

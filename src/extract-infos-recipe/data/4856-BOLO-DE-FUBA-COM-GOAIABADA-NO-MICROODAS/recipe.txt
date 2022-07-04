@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE FUBA COM GOAIABADA NO MICROODAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícaras de fubá",
+      "1 xícara de açúcar",
+      "1 xícara de farinha de trigo",
+      "1/2 xícara de óleo",
+      "3 ovos",
+      "1/2 xícara de leite integral",
+      "1 colher de fermento em pó",
+      "1 goiabada (doce) de mais ou menos 200g",
+      "150 ml de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente grande, acrescente a farinha de trigo, fubá, açucar e misture bem.",
+      "Depois acrescente os ovos, oleo, leite e misture ate a massa ficar homogênea (lisinha).",
+      "Acrescente uma colher de fernento e mexa delicadamente.",
+      "Coloque a massa do bolo em uma forma redonda de buraco untada com óleo e fubá (pode ser farinha).",
+      "Leve a o microodas por 10 minutos, se necessário deixe por mais um minuto."
+    ],
+    "CALDA DE GOIABADA": [
+      "Acrescente a água e a goiaba em uma panela em fogo baixo e mexa até disolver a goiabada, se necessário acrescente mais um pouco água.",
+      "Após o bolo assado e ainda quente acrescente a calda."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O tempo do bolo no microodas pode variar de acordo com potência."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANDREZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300084-bolo-de-fuba-com-goaiabada-no-microodas.html"
+}

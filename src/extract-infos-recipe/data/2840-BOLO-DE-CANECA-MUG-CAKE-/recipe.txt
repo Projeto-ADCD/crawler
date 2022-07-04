@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE CANECA (MUG CAKE)",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 colheres (sopa) de farinha",
+      "3 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de leite",
+      "2 colheres (chá) de baunilha",
+      "1/2 colher (chá) de fermento",
+      "1 colher (sopa) de óleo",
+      "2 colheres (sopa) de granulado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes numa caneca grande.",
+      "Lembre-se que a massa vai crescer como massa de bolo comum.",
+      "Leve ao micro-ondas em potência máxima por 1 minuto e 30 segundos.",
+      "O tempo pode variar dependendo da potência do micro-ondas.",
+      "Cuidado para que ele não queime e fique cru por dentro."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JERIKOH O'CRU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304303-bolo-de-caneca-mug-cake.html"
+}

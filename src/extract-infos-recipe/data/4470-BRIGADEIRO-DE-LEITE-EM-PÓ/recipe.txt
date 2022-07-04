@@ -1,0 +1,20 @@
+{
+  "nome_receita": "BRIGADEIRO DE LEITE EM PÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher de margarina",
+      "3 ou 4 colheres de leite em pó",
+      "1 caixinha de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque primeiro a margarina e derreta.",
+      "Depois, coloque a caixinha de leite condensado mexa e coloque o leite em pó mexa até desgrudar da panela e ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "GEOVANA DORATTE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301036-brigadeiro-de-leite-em-po.html"
+}

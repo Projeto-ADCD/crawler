@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FEIJOADA DO ALÊ",
+  "ingredientes": {
+    "DEFAULT": [
+      "500g de feijão preto",
+      "1 linguiça calabreza",
+      "2 paios",
+      "500g de costela de porco",
+      "3 cebolas grandes",
+      "1 tomate",
+      "3 caldos de carne (tablete)",
+      "150g de bacon"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão de molho em água fervente.",
+      "Refogue em óleo 1,5 cebola e 1 tomate picadinhos com 3 caldos de carne.",
+      "Acrescente o feijão e complete com água. Tempo pressão 30 minutos.",
+      "Frite o bacon, a calabresa e o paio e reserve.",
+      "Frite a costela e reserve.",
+      "Frite a cebola e reserve.",
+      "Abra a panela do feijão e acrescente as carnes e a cebola. Deixe por mais 30 minutos na pressão.",
+      "Sirva com arroz, couve refogada, laranja picada e farinha de rosca."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TÂNIA HIGAKI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301528-feijoada-do-ale.html"
+}

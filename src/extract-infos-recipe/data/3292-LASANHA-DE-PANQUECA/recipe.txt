@@ -1,0 +1,29 @@
+{
+  "nome_receita": "LASANHA DE PANQUECA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Panqueca:",
+      "2 xícaras de trigo",
+      "2 ovos",
+      "2 xícaras de leite",
+      "1 pitada de sal",
+      "Recheios:",
+      "Carne moída",
+      "Queijo",
+      "Presunto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte no liquidificador o trigo, o leite, a pitada de sal e os ovos",
+      "Depois de bater, frite a massa (fina) na frigideira com um pouco de óleo ou azeite para não agarrar",
+      "Monte sua lasanha com o recheio que desejar, com carne moída, queijo e presunto fica muito gostoso",
+      "Finalize com queijo por cima",
+      "Leve ao forno até gratinar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MAYSE SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303599-lasanha-de-panqueca.html"
+}

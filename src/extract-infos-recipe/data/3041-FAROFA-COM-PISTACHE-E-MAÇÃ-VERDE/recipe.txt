@@ -1,0 +1,25 @@
+{
+  "nome_receita": "FAROFA COM PISTACHE E MAÇÃ VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de pistache sem casca",
+      "1 cebola média",
+      "2 colheres (sopa) de margarina",
+      "1 maçã verde com casca",
+      "1 pacote de 500 g de farofa de milho temperada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Toste os pistaches em uma frigideira por 1 minuto e reserve.",
+      "Pique as maçã verde em pedacinhos e reserve.",
+      "Doure em uma panela grande a cebola picada",
+      "Apague o fogo, acrescente toda a farofa, os pistaches e a maçã verde",
+      "Misture bem e é só servir."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "SANDRA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303964-farofa-com-pistache-e-maca-verde.html"
+}

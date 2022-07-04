@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CAÇÃO DA GABI",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de cação em postas",
+      "2 cebolas",
+      "6 dentes de alho",
+      "coentro e salsinha a gosto",
+      "sal e pimenta a gosto",
+      "2 limões",
+      "1 sachê de molho de tomate",
+      "200 ml de leite de coco",
+      "1 caixa (200 g) de creme de leite",
+      "300 ml de Leite",
+      "300 g de batata palito pré-frita",
+      "1 fio de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o cação com sal, pimenta, limão e reserve",
+      "Em uma panela coloque o fio de azeite e coloque as cebolas e os alhos até começarem murchar",
+      "Após isso acrescente o molho de tomate, leite de coco, salsinha e coentro",
+      "Após levantar fervura adicione o leite, o creme de leite e deixe em fogo baixo por 5 minutos",
+      "Acrescente a batata e cozinhe até que fique “al dente”",
+      "Após isso, coloque o cação e cozinhe por mais 10 minutos ou até o ponto de quando tocado soltar-se em lascas"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305953-cacao-da-gabi.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "BRIGADEIRO DE NESCAFÉ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher (de sopa) de margarina",
+      "1 colher (de sobremesa) de Nescafé (adicione mais um pouquinho se quiser mais forte)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o leite condensado, a margarina e o Nescafé em uma panela (de preferência anti aderente).",
+      "Misture em fogo médio, mexendo até que atinja o ponto de brigadeiro (quando você passa a colher e ele desgruda do fundo da panela), lembrando que o Nescafé só começa a dissolver quando a mistura está quente.",
+      "Quando atingir o ponto, transfira para um prato ou travessa e coloque na geladeira até que esteja gelado."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "GABRIELY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300955-brigadeiro-de-nescafe.html"
+}

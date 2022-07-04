@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ SEM AÇÚCAR E SEM FARINHA DE TRIGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 maçãs médias",
+      "3 ovos grandes",
+      "3 colheres (sopa) de margarina",
+      "1 xícara (chá) de leite",
+      "1 pacote de passas (200 g)",
+      "casca de 4 maçãs médias",
+      "1 colher (sopa) de canela",
+      "2 xícaras (chá) de farinha de aveia",
+      "1 colher (sopa) de fermento para bolo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador as passas, cascas, ovos, leite e canela.",
+      "Bata por 5 minutos.",
+      "Numa tigela, coloque a farinha da mistura do liquidificador e misture bem.",
+      "Acrescente o fermento e misture suavemente.",
+      "Acrescente as maçãs em cubos e misture levemente.",
+      "Asse por 45 minutos ou até espetar uma faca e sair limpa.",
+      "Forno preaquecido a 200º C",
+      "Pode ser feito no micro-ondas - potência máxima, 10 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se não tiver as cascas de 4 maçãs, pode ser feito utilizando 2 xícaras de passas ao invés de 1 pct.\nUtilizar as cascas das 3 maçãs mesmo assim"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "KEYTH HÉLLEN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305619-bolo-de-maca-sem-acucar-e-sem-farinha-de-trigo.html"
+}

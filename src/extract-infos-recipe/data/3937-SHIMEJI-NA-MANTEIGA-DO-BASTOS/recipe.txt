@@ -1,0 +1,27 @@
+{
+  "nome_receita": "SHIMEJI NA MANTEIGA DO BASTOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 bandeja de cogumelos shimeji (200 g) ",
+      "1 colher (sopa) de manteiga sem sal",
+      "2 colheres (sopa) de molho shoyu",
+      "1/2 cebola ralada",
+      "1 dente de alho ralado",
+      "cebolinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça um fio de azeite de oliva com a manteiga.",
+      "Refogue a cebola e o alho até dourar",
+      "Acrescente os cogumelos (shimeji) desfiados, refogando até amolecer.",
+      "Acrescente o shoyu e refogue mais um pouco",
+      "Coloque em um recepiente bonito e finalize com a cebolinha picada",
+      "Está pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MARCOS BASTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302333-shimeji-na-manteiga-do-bastos.html"
+}

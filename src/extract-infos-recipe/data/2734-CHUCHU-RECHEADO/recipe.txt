@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CHUCHU RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 chuchus",
+      "2 cubinhos de caldo de legumes",
+      "1 cebola média picada",
+      "1 dente de alho picado",
+      "2 colheres de azeite",
+      "1 tomate grande, sem pele e sem semente, picado",
+      "2 xícaras (chá) de carne de siri desfiada",
+      "1/2 xícara (chá) de leite de coco",
+      "2 colheres (sopa) de farinha de rosca",
+      "1 colher (sopa) de salsinha picada",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque os chuchus e corte-os ao meio no sentido do comprimento.",
+      "Retire o miolo, de maneira que fique uma cavidade para por o recheio posteriormente",
+      "Em uma panela com água fervente, cozinhe os chuchus até que fiquem \"al dente\", com um cubinho de caldo de legumes, reserve.",
+      "Em uma panela funda, coloque o azeite e doure a cebola e o alho picado.",
+      "Junte o tomate picado, a carne de siri e o outro cubo de caldo de legumes.",
+      "Refogue bem e acrescente o leite de coco, 1 colher de farinha de rosca, a salsinha picada e pimenta a gosto.",
+      "Misture tudo muito bem.",
+      "Recheie as cavidades dos chuchus e polvilhe com o restante da farinha de rosca e o queijo parmesão ralado.",
+      "Coloque os chuchus recheados em um refratário grande.",
+      "Leve o refratário ao forno preaquecido em temperatura média por uns 10 minutos ou até dourar.",
+      "Sirva em seguida como uma entrada ou acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304553-chuchu-recheado.html"
+}

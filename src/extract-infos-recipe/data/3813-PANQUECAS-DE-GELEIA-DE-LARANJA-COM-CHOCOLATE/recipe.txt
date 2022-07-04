@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PANQUECAS DE GELEIA DE LARANJA COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 xícaras (chá) farinha de trigo",
+      "2 copos (americano) de leite",
+      "1 colher (sopa) de açúcar",
+      "1 pitada de sal",
+      "6 colheres (sopa) de creme de leite bem gelado",
+      "manteiga para untar",
+      "Recheio",
+      "geleia de laranja a gosto",
+      "Cobertura",
+      "calda de chocolate e fatias de laranja sem sementes a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o leite, os ovos, a farinha de trigo, o açúcar e o sal.",
+      "Bata com velocidade média.",
+      "Depois, despeje para uma tigela grande, junte o creme de leite, misture sem bater e deixe descansar por 30 minutos na geladeira",
+      "Unte um pouco uma frigideira com manteiga, frite as panquecas dos dois lados e vá empilhando em um prato, deixe esfriar.",
+      "Depois, recheie-as com uma colher (sopa) de geleia de laranja e enrole no formato de panquecas.",
+      "Coloque na travessa regue com calda de chocolate e decore com fatias de laranja."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LEUDA M.V.XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302597-panquecas-de-geleia-de-laranja-com-chocolate.html"
+}

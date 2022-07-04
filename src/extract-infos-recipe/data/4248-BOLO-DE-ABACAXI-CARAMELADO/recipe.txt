@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE ABACAXI CARAMELADO",
+  "ingredientes": {
+    "MASSA:": [
+      "3 claras",
+      "3 gemas",
+      "1 e 1/2 xícara de açúcar",
+      "1/2 xícara de óleo",
+      "1 xícara de leite",
+      "2 xícaras de farinha",
+      "1 colher (chá) de essência de baunilha",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "CARAMELO:": [
+      "2 xícaras de açúcar",
+      "1 xícara de água",
+      "1 bacaxi picado em rodelas"
+    ]
+  },
+  "passos": {
+    "CARAMELO:": [
+      "Coloque o açúcar e a água no fogo mexa um pouco e depois deixe até virar um caramelo.",
+      "Despeje sobre a forma e, encima do caramelo, coloque o abacaxi em toda a forma."
+    ],
+    "MASSA:": [
+      "Bata as claras em ponto de neve e reserve.",
+      "Na batedeira, bata as gemas com o açúcar e o óleo.",
+      "Em seguida, intercale a farinha juntamente com o leite, depois coloque a baunilha.",
+      "Junte as claras em neve com a massa e, por último, coloque o fermento.",
+      "Despeje na forma untada com o caramelo e o abacaxi.",
+      "Leve em forno pré-aquecido à 180º por 35-35 minutos.",
+      "Desenforme ainda quente."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MIRIAN ROSANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301520-bolo-de-abacaxi-caramelado.html"
+}

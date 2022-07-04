@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA TROPICAL DOCE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa  tradicional",
+      "150 g de abacaxi bem picado (não descartar se der caldo)",
+      "150 g de maçã bem picadas",
+      "150 g de bananas (caturra ou prata) picadas  não pode ser muito madura)",
+      "200 g de uvas sem caroço inteiras",
+      "100 g de uva passa",
+      "100 g de nozes ou castanhas trituradas (a de preferência, coloco 50g de cada)",
+      "100 g de damasco picadinho",
+      "raspas de limão (siciliano ou taiti)",
+      "Acompanhamento: 02 litros de Sorvete de creme ou limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes.",
+      "Sirva com sorvete de creme ou limão."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ELAINE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303991-farofa-tropical-doce.html"
+}

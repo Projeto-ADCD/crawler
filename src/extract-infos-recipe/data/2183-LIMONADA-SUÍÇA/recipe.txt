@@ -1,0 +1,23 @@
+{
+  "nome_receita": "LIMONADA SUÍÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 L de água",
+      "3 limões",
+      "leite condensado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os limões em 4, retire aquela parte branca do meio (que é o que deixa o suco amargo)",
+      "Depois, adicione a água e o limão no liquidificador e bata",
+      "Aos poucos, adicione o leite condensado",
+      "Sirva",
+      "O ideal é serrvir na hora, já que ele estará mais fresco"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "JÚLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305770-limonada-suica.html"
+}

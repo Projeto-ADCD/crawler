@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE ACABAXI CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Calda",
+      "5 colheres (sopa) de açúcar",
+      "3 rodelas de abacaxi picadas",
+      "Massa",
+      "1 xícara de trigo",
+      "1 xícara de maisena",
+      "1/2 xícara de açúcar",
+      "3 ovos",
+      "1 xícara de leite",
+      "2 colheres (sopa) de fermento em pó",
+      "2 colheres (sopa) de margarina",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "CALDA:": [
+      "Leve ao fogo baixo o açúcar, vá mexendo até derreter e mudar para uma cor de caramelo",
+      "Adicione o abacaxi picado e 2 dedinhos de água, mexa e deixe ferver",
+      "Despeje o conteúdo em uma forma untada e enfarinhada"
+    ],
+    "MASSA:": [
+      "Bata as claras em neve e reserve",
+      "Pegue as gemas e bata junto com a manteiga até virar um creme amarelinho, adicione as claras em neve e o resto do ingredientes",
+      "Vá incorporando o leite aos poucos",
+      "Leve ao forno preaquecido por cerca de 35 minutos (isso vai depender muito do seu forno, fique de olho), deixe esfriar um pouco para desinformar e depois é só saborear!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARCELLE CALDAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303579-bolo-de-acabaxi-cremoso.html"
+}

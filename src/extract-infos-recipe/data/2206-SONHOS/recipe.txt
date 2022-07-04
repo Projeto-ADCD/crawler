@@ -1,0 +1,31 @@
+{
+  "nome_receita": "SONHOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de farinha de trigo",
+      "4 colheres de sopa de açúcar",
+      "1 colher de chá de sal",
+      "1 colher (sopa) margarina",
+      "2 ovos",
+      "1 colher (sopa) fermento biológico seco",
+      "1 e 1/2 xícara (chá) água morna"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ingredientes secos e abra uma cavidade no centro.",
+      "Junte a margarina, os ovos batidos e a água.",
+      "Misture tudo e sove até que a massa se desprenda das mãos.",
+      "Deixe crescer por 1 hora.",
+      "Abra a massa com um rolo, em superfície enfarinhada, até a espessura de 1 cm.",
+      " ",
+      "Corte rodelas com a boca de um copo.",
+      "Frite em gordura não muito quente.",
+      "Passe no açúcar e recheie com creme ou doce de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CÁTIA REGINA POLETTO DE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305720-sonhos.html"
+}

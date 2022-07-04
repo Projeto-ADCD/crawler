@@ -1,0 +1,45 @@
+{
+  "nome_receita": "SOPA DE ABÓBORA COM GALINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 carcaças de galinha (ossos)",
+      "2,5 litros de água",
+      "3 ramos de salsão",
+      "5 folhas de sálvia",
+      "500 g de abóbora",
+      "1 peito de frango cozido e desfiado",
+      "2 cebolas grandes",
+      "2 tomates sem pele",
+      "1 batata grande",
+      "1 cenoura",
+      "3 colheres (sopa) de vinagre de vinho tinto",
+      "sal e pimenta a gosto",
+      "12 xícaras (chá) de salsinha picada",
+      "tempero desidratado a seu gosto (estragão, manjericão, cominho, manjerona etc)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande coloque a água, a carcaça de frango, o peito de frango, o salsão e as folhas de sálvia.",
+      "Deixe ferver por uns 40 minutos para tomar gosto.",
+      "Com uma escumadeira retire o peito de frango depois de cozido e deixe esfriar antes de desfiar.",
+      "Retire, com a escumadeira, o salsão e as carcaças.",
+      "Acrescente ao caldo a abóbora descascada e cortada em pedaços, a batata e a cenoura descascadas e cortada em cubos.",
+      "Descasque as cebolas e corte-as em cubos.",
+      "Acrescente os tomates sem pele picados.",
+      "Tempere com sal e pimenta a gosto.",
+      "Acrescente os temperos desidratados a seu gosto",
+      "Deixe ferver até os legumes estarem cozidos.",
+      "Desligue o fogo e deixe a sopa esfriar um pouco.",
+      "Passe tudo pelo liquidificador ou por um mixer.",
+      "Retorne a sopa à panela e acrescente o peito de frango desfiado.",
+      "Adicione o vinagre de vinho e misture tudo muito bem.",
+      "Prove o tempero e se necessário acrescente mais sal e pimenta.",
+      "Sirva em potes individuais regado com a salsinha picada"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299858-sopa-de-abobora-com-galinha.html"
+}

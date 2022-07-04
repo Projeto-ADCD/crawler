@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE DE PANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de leite",
+      "8 colheres (sopa) de achocolatado em pó",
+      "1 colher (sopa) de margarina"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes na panela e ferva bem até que fique mais bonito escuro.",
+      "Quando a consistência ficar mais firme, desligue e despeje o conteúdo numa xícara."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "RAQUEL KUSTER PIZZANI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300706-chocolate-quente-de-panela.html"
+}

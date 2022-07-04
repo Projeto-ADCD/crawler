@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MANJAR DE COCO FÁCIL E SAUDÁVEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 ml de leite integral",
+      "100 ml de leite de coco",
+      "1 copinho de iorgute natural desnatado",
+      "1 sachê de gelatina incolor em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador",
+      "Coloque no recipiente que preferir e leve para a geladeira por no mínimo 3 horas",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Opcional: servir com calda de frutas vermelhas, damasco ou ameixa."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ANDRESSA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303060-manjar-de-coco-facil-e-saudavel.html"
+}

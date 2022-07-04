@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BATATINHA BOLINHA DA ANA PIMENTINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata tipo bolinha ou batatinha miuda com casca",
+      "50 ml de azeite",
+      "1 sachê de tempero pronto ",
+      "pimenta calabresa a gosto",
+      "sal a gosto",
+      "orégano a costo",
+      "alho desidratado a gosto",
+      "páprica picante a gosto",
+      "tempero chimichirri seco (ingredientes: salsinha, pimenta dedo-de-moça, alho desidratado, orégano, cebola, tomilho, pimentão, pimenta-do-reino. Todos secos e em pó ou triturados )"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, onde caiba as batatinhas, coloque água para ferver, sal e as batatinhas previamente lavada, mas com as cascas para cozinhar.",
+      "Deixe-as cozinhar até o ponto al dente ou firme (não deixe cozinhar muito para não desmanchar)",
+      "Após cozidas, escorra a água e as reserve",
+      "Não tire a casca, ela será preparada com casca e tudo",
+      "Em uma outra panela grande também, (para que você tenha como mexer as batatinhas sem elas pularem para fora) coloque em fogo médio o azeite para esquentar (não deixe o azeite fritar ou queimar para não tirar as propriedades dele)",
+      "Junto do azeite, acrescente os temperos todos a seu gosto",
+      "Logo em seguida, coloque as batatinhas misturado bem pra pegar bem o tempero e as sirva quente com alguma carne de panela ou um molho de sua preferência",
+      "hummmmm"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA CAMILO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300996-batatinha-bolinha-da-ana-pimentinha.html"
+}

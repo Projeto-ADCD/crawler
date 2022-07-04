@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DE FEIJÃO FRADINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de feijão fradinho",
+      "50 g bacon fatiado fino",
+      "50 g calabresa cortada em cubos pequenos",
+      "1/2 pimentão verde",
+      "1/2 pimentão vermelho",
+      "1 cenoura pequena ralada grosso",
+      "1/2 xícara (chá) de azeitonas picadas",
+      "1/2 cebola média picada em cubos",
+      "300 g de farofa de tempero suave",
+      "cheiro-verde e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão por 15 minutos na panela de pressão, escorra e reserve",
+      "Frite o bacon com um fio de óleo",
+      "Quando estiver dourado, coloque a calabresa e deixe dar uma leve fritada",
+      "Acrescente a cebola, o pimentão e a cenoura",
+      "Deixe dar uma refogada por uns cinco minutos.",
+      "Acrescente a azeitona, cheiro-verde e o sal a gosto",
+      "Acrescente a farofa, mexa e desligue o fogo."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MAGALI OLIVEIRA LIMA VAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303968-farofa-de-feijao-fradinho.html"
+}

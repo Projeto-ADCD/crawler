@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE LIMÃO SIMPLES E DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xícaras de farinha de trigo peneiradas",
+      "3 colheres (sopa) de margarina gelada",
+      "1/2 caixinha de creme de leite",
+      "1 pitada de sal",
+      "1 colher (sopa) de açúcar",
+      "1 colher (chá) de fermento em pó",
+      "Recheio",
+      "1 caixa de leite condensado",
+      "1 1/2 caixinha de creme de leite",
+      "2 limões tahiti espremidos (quantidade a gosto)",
+      "Cobertura",
+      "chantilly batido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa:",
+      "Junte a farinha de trigo, a margarina, o fermento o sal e açúcar, misture até formar uma farofa.",
+      "Vá colocando o creme de leite aos poucos até formar uma massa macia sem grudar nas mãos.",
+      "Deixe descansar em geladeira por 30 minutos, enrolada em plástico-filme.",
+      "Abra a massa com um rolo, coloque em uma forma de aro removível, distribuindo bem.",
+      "Asse em forno pré-aquecido por aproximadamente 30 minutos ou até corar levemente.",
+      "Recheio:",
+      "Misture bem todos os ingredientes no liquidificador.",
+      "Montagem:",
+      "Despeje o recheio de limão sobre a massa já fria e leve a geladeira por uns 20 min, só para firmar um pouco.",
+      "Espalhe o chantilly e sirva depois de bem gelada."
+    ]
+  },
+  "tempo_de_preparo": "1120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "KÁTIA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302931-torta-de-limao-simples-e-deliciosa.html"
+}

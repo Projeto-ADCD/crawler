@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE HORTELÃ",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "200 g de manteiga",
+      "1 e 1/2 xícara de açúcar",
+      "5 ovos",
+      "1 maço de hortelã (picadinho)",
+      "2 xícaras (chá) de farinha de trico",
+      "1 colher (sobremesa) de fermento em pó",
+      "1 xícara (chá) de castanha de cajú (opcional)",
+      "Cobertura",
+      "2 colheres (sopa) de chocolate amargo",
+      "1 colher (sopa) margarina",
+      "2 colheres (sopa) de leite",
+      "1 colher (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Na batedeira, bata o açúcar com a manteiga e depois acrescente os demais ingredientes.",
+      "A castanha de cajú deve ser adicionada por último, misturada à mão.",
+      "Coloque em forma redonda de furo no meio e leve ao forno médio preaquecido, por 35 minutos.",
+      "Cobertura",
+      "Misture os ingredientes e leve ao fogo baixo até derreter ",
+      "Não deixe engrossar para que não fique consistente.",
+      "Despeje a calda por cima do bolo ainda quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: forma redonda de furo (rende 1 forma grande ou 2 médias)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUIS ROBERTO MARSON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304760-bolo-de-hortela.html"
+}

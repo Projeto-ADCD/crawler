@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SOBREMESA DE VERÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "2 pacotes de gelatina sabor opcional",
+      "1 pacote de 100 g de coco ralado",
+      "3 xícaras de água fervente",
+      "1 vidro de leite de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água, dissolva a gelatina e acrescente os demais ingredientes.",
+      "Misture tudo muito bem e coloque em taças ou pirex refratário",
+      "Salpique o coco ralado por cima da sobremesa",
+      "Leve em seguida para a geladeira até que endureça."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ROZINÉIA GRANDI ZANCANARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304576-sobremesa-de-verao.html"
+}

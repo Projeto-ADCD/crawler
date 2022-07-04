@@ -1,0 +1,32 @@
+{
+  "nome_receita": "POLVO À BRASILEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Polvo médio (aproximadamente 1 kg)",
+      "2 Batatas doces médias",
+      "2 batatas normais médias",
+      "2 cebolas roxas médias",
+      "10 dentes de alho grandes com casca",
+      "1 maço de coentro",
+      "1/2 maço de cebolinha",
+      "Azeite quanto baste",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave e cozinhe o polvo na panela de pressão por 10 minutos e deixe a pressão sair sem abrir a válvula.",
+      "Cozinhe as batatas doce e normal no vapor até que fiquem cozidas, mas firmes.",
+      "Corte os tentáculos do polvo e monte um refratário dispondo o polvo, as batatas e os alhos.",
+      "Tempere com sal e pimenta a gosto. Jogue o coentro e a cebolinha e regue com o azeite até a metade dos ingredientes.",
+      "Leve ao forno a 200° por 20 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Sirva com arroz branco ou risoto de vinho tinto com parmesão."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FLAVIO FERNANDES ALVARENGA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300233-polvo-a-brasileira.html"
+}

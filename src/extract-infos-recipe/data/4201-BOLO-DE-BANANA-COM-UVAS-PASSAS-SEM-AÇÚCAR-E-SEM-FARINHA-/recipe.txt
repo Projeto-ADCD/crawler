@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE BANANA COM UVAS PASSAS (SEM AÇÚCAR E SEM FARINHA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 bananas maduras",
+      "1/3 xícara (chá) de óleo (vegetal, de coco ou azeite)",
+      "3 ovos",
+      "2 xícaras (chá) de flocos de aveia",
+      "1 xícara (chá) de uvas passas",
+      "1 colher (sopa) cheia de fermento em pó",
+      "Canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador as bananas, os ovos e o óleo até virar uma mistura homogênea.",
+      "Adicione as uvas passas e bata mais um pouco. Em seguida adicione a aveia, a canela e o fermento.",
+      "OPCIONAL: Forre o fundo da forma com rodelas de banana após untada e enfarinhada.",
+      "Coloque a massa em uma forma untada com manteiga e farinha de aveia e leve ao forno para assar a 180º por 35 minutos.",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PÂMELA NEDER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301593-bolo-de-banana-com-uvas-passas-sem-acucar-e-sem-farinha.html"
+}

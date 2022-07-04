@@ -1,0 +1,31 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres de azeite",
+      "2 dentes de alho",
+      "sal a gosto",
+      "1 pacote de 500 g de macarrão",
+      "1 creme de leite",
+      "400 g de queijo mussarela",
+      "1 extrato de tomate (200 g) ",
+      "1,2 litros de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo o azeite o alho e o sal",
+      "Quando estiver fritando, adicione o extrato",
+      "Após fritar coloque a água e espere ferver",
+      "Quando ferver, adicione o creme de leite e logo em seguida o macarrão",
+      "Mexa e tampe a panela.",
+      "Após pegar pressão deixe cozinhar por 6 minutos",
+      "Deligue, abra a panela e adicione a mussarela picada",
+      "Mexa e sirva."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "KEYLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305327-macarrao-de-panela-de-pressao-simples.html"
+}

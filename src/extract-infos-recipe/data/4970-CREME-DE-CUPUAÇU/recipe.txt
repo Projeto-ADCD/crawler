@@ -1,0 +1,20 @@
+{
+  "nome_receita": "CREME DE CUPUAÇU",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "500 ml de polpa de cupuaçu"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador",
+      "Leva ao freezer para gelar"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CLEVER CASTRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299832-creme-de-cupuacu.html"
+}

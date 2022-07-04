@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA DA DEBY",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de linguiça calabresa defumada",
+      "300 g de bacon",
+      "3 dentes de alho cortados",
+      "1 cebola cortada",
+      "2 colheres de azeite",
+      "1 pitada de sal",
+      "temperos a gosto",
+      "500 g de feijão fradinho",
+      "coentro a gosto",
+      "500 g de farofa tradicional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, coloque o azeite, o alho e a cebola e refogue",
+      "Depois acrescente a linguiça e o bacon, deixe fritar um pouco",
+      "Acrescente o feijão fradinho e os temperos menos o coentro",
+      "Coloque água até cobrir os ingredientes e deixe cozinhar na pressão por uns 10 minutos.",
+      "Retire a pressão e veja se o feijão já está cozido e firme ainda.",
+      "Retire o caldo do feijão e reserve.",
+      "Em uma panela coloque todos os ingredientes e misture a farofa tradicional",
+      "Mexa até misturar todos os ingredientes, se precisar coloque um pouco a mais do caldo pra não deixar seca a farofa, deixe ela úmida.",
+      "Por último acrescente o coentro.",
+      "É só servir."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DEBORA CRISTINA MARCELO MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303925-farofa-da-deby.html"
+}

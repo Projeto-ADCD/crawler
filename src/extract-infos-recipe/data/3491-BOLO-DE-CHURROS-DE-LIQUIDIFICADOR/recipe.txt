@@ -1,0 +1,31 @@
+{
+  "nome_receita": "BOLO DE CHURROS DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xícara (chá) de leite morno",
+      "1 colher (sopa) de vinagre",
+      "3 ovos",
+      "4 colheres (sopa) de margarina derretida",
+      "2 xícaras (chá) de açúcar",
+      "1 e 1/2 colher (chá) de canela em pó",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture no leite morno a colher de vinagre e espere alguns minutos para o leite coalhar",
+      "Bata no liquidificador todos os ingredientes menos o fermento em pó por 4 minutos",
+      "Coloque o fermento e bata até misturar",
+      "Coloque a massa em uma forma untada e enfarinhada",
+      "Leve ao forno médio pré-aquecido por cerca de 30 a 40 minutos",
+      "Cobertura: retirar o rótulo e o excesso de cola da lata de leite condensado, coloque na panela de pressão com água o suficiente para cobrir a lata, leve ao fogo por 30 minutos",
+      "Esperar a lata esfriar para abrir, misturar e passar sobre o bolo"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "STEFANIE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303256-bolo-de-churros-de-liquidificador.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "BOLO DE MAÇÃ COM PASSAS DO LÚCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 maçãs",
+      "4 ovos",
+      "1 xícara de óleo",
+      "2 xícaras bem cheias de trigo",
+      "2 xícaras de açúcar",
+      "1 colher (sopa) de canela em pó",
+      "1 colher (sopa) de fermento em pó",
+      "1/2 xícara de passas sem semente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire as cascas das maçãs.",
+      "Corte as maçãs em pequenos pedaços, reserve.",
+      "No liquidificador, bata as cascas das maçãs com o óleo e os ovos.",
+      "Coloque em uma vasilha grande e adicione os ingredientes secos (trigo, açúcar e a canela misturados e peneirados)",
+      "Mexa para misturar os ingredientes.",
+      "Adicione as maçãs picadas e as passas.",
+      "Mexa os ingredientes.",
+      "Por último, coloque o fermento em pó e mexa delicadamente.",
+      "Unte uma forma de bolo com furo no meio e polvilhe com trigo.",
+      "Coloque a massa e leve ao forno médio por aproximadamente 40 minutos ou até que doure.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: O tempo de forno varia, dependendo do tipo do fogão."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304744-bolo-de-maca-com-passas-do-lucio-cezar.html"
+}

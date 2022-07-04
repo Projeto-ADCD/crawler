@@ -1,0 +1,71 @@
+{
+  "nome_receita": "BROWNIE COM QUATRO RECHEIOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de chocolate ",
+      "1 colher (sopa) de margarina",
+      "6 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de cacau 50%",
+      "1 xícara de farinha de trigo",
+      "Recheio de leite em pó",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) rasa de margarina",
+      "4 colheres de sopa de leite em pó ",
+      "Recheio de paçoca ",
+      "1 lata de leite condensado ",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) rasa de margarina",
+      "3 paçocas",
+      "Recheio brigadeiro",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1 colher (sopa) rasa de margarina",
+      "3 colheres de sopa de cacau 50%",
+      "Recheio de doce de leite",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Derreta o chocolate em banho-maria junto com a margarina",
+      "Acrescente os 6 ovos e o açúcar e bata com o fouet",
+      "Misture o cacau 50% aos poucos",
+      "Acrescente a farinha de trigo e misture delicadamente",
+      "Unte a forma apenas com margarina, ponha a massa no tabuleiro e asse de 25 a 30 minutos.",
+      "Recheio de leite em pó",
+      "Misture o leite condensado e o creme de leite",
+      "Depois acrescente o leite em pó e a margarina",
+      "Leve ao fogo",
+      "Quando começar a borbulhar, espere mais 2min e desligue",
+      "Reserve em um pote",
+      "Recheio de paçoca",
+      "Misture o leite condensado e o creme de leite",
+      "Depois acrescente as paçocas e por último a margarina",
+      "Leve ao fogo",
+      "Quando começar a borbulhar espere mais 2min e desligue",
+      "Reserve em um pote",
+      "Recheio de brigadeiro ",
+      "Misture o leite condensado e o creme de leite",
+      "Depois acrescente o cacau 50% e por último a margarina",
+      "Leve ao fogo",
+      "Quando começar a borbulhar espere mais 2min e desligue",
+      "Reserve em um pote",
+      "Recheio de doce de leite",
+      "Cozinhe a lata de leite condensado em uma panela de pressão por 1 hora",
+      "Após esse tempo, tire a lata da panela e deixe esfriar",
+      "Montagem",
+      "Quando a sua massa estiver pronta, espere esfriar bem e depois corte-a do tamanho desejado, essa massa rende 12 travesseirinhos de brownie.",
+      "Depois corte os travesseirinhos ao meio e recheie com o recheio de sua preferência. "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: usar um chocolate de boa qualidade "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DANIELE AMORIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302455-brownie-com-quatro-recheios.html"
+}

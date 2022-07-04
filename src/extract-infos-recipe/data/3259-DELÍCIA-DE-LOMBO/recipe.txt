@@ -1,0 +1,33 @@
+{
+  "nome_receita": "DELÍCIA DE LOMBO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de lombo bovino",
+      "1 cebola picada",
+      "3 dentes de alho",
+      "3 batatas grandes",
+      "1 tomate picado",
+      "200 g de batata palha",
+      "150g de queijo coalho ralado",
+      "20 ml de azeite",
+      "500 ml de agua",
+      "cheiro-verde e sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão refogue o alho a cebola e o azeite.",
+      "Acrescente o lombo picado e vá, aos poucos, acrescentando o sal, tomate, cheiro-verde e a água.",
+      "Coloque a panela na pressão e ferva por, aproximadamente, 40 minutos em fogo baixo.",
+      "Cozinhe as batatas em água e sal, faça um purê e reserve.",
+      "Após cozida a carne, certifique-se que resta uma pouca quantidade de molho na panela, desfie a carne e coloque em um refratário com o creme restante na panela.",
+      "Cubra com uma camada do purê de batatas, outra com o queijo e por último a batata palha.",
+      "Leve ao forno por 15 minutos.",
+      "Sirva com arroz branco."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "JOSÉ RICARDO FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303648-delicia-de-lombo.html"
+}

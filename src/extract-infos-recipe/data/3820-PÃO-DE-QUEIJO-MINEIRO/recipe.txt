@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE QUEIJO MINEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de polvilho azedo",
+      "1 copo de água (200 ml)",
+      "1 copo de leite (200 ml)",
+      "1 copo de óleo (200 ml)",
+      "1 colher de sal",
+      "6 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva a água, o leite e óleo depois coloque sobre o polvilho batendo a massa acrescentando os ovos com o sal.",
+      "Deixe a massa descansar por 20 minutos passando um pouco de óleo sobre ela.",
+      "Depois do descanso passe óleo sobre as mãos usando a colher para tirar os pedaços e enrole nas mãos fazendo uma bolinha",
+      "Coloque na forma levando ao forno e aguarde."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DÁRCIO VALENTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302587-pao-de-queijo-mineiro.html"
+}

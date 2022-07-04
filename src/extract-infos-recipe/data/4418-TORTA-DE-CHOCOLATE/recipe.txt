@@ -1,0 +1,37 @@
+{
+  "nome_receita": "TORTA DE CHOCOLATE",
+  "ingredientes": {
+    "MASSA": [
+      "5 colheres de manteiga",
+      "2 colheres de açúcar",
+      "1 gema",
+      "2 xícaras de farinha de trigo"
+    ],
+    "RECHEIO": [
+      "200 gramas de barra de chocolate (qualquer tipo de chocolate, de sua preferência)",
+      "3 a 4 claras de ovo",
+      "3/4 de açúcar",
+      "1 lata de creme de leite sem soro"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Primeiro, adicione a farinha e a gema num pote e acrescente aos poucos a manteiga até a massa deixar de ficar grudando nas mãos.",
+      "Molde a massa na forma que você irá utilizar.",
+      "Depois coloque no forno de 200 graus por 15 minutos."
+    ],
+    "RECHEIO": [
+      "Pegue um pote e coloque a barra de chocolate derreta em banho-maria.",
+      "Depois que derreter o chocolate, tire o soro do creme de leite e jogue o creme de leite no pote com o chocolate derretido.",
+      "Depois, pegue uma panela e acrescente as claras e o 3/4 de açúcar e deixe no fogo por 2 minutos sem deixar de mexer para não virar caramelo e queimar.",
+      "Depois de desligar o fogo, jogue as gemas com açúcar da panela dentro da batedeira até pegar consistência ou virar neve.",
+      "Depois, misture o chocolate com creme de leite junto na batedeira e misture.",
+      "Se quiser, adicione gelatina incolor para deixar mais consistente.",
+      "Por fim, despeje em uma forma e leve à geladeira."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "14 PORÇÕES",
+  "autor": "HELLEN ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301172-torta-de-chocolate.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "FAROFA COM CASTANHA-DO-PARÁ COM CRISPY DE ALHO-PORÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 pacote de farofa tradicional temperada Yoki",
+      "1/2 talo de alho-poró",
+      "100 g de castanha-do-Pará",
+      "1/3 de cebola picada",
+      "salsinha e cebolinha a gosto",
+      "sal e pimenta-do-reino a gosto",
+      "1 pitada de páprica defumada a gosto",
+      "200 ml de óleo de cozinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o talo do alho-poró em tiras finas",
+      "Frite as tiras de alho-poró em óleo quente por aproximadamente 2 minutos",
+      "Após a fritura, retire e reserve",
+      "Lave e pique as castanhas-do-Pará.",
+      "Em outra frigideira, coloque 1 colher (chá) de manteiga com os pedaços de castanha, cebola, páprica defumada e pimenta-do-reino",
+      "Misture e deixe refogar por aproximadamente 1 minuto e 30 segundos",
+      "Acrescente a farofa tradicional Yoki, salsinha, cebolinha e sal a gosto",
+      "Com o fogo médio, misture a farofa por aproximadamente de 3 a 5 minutos.",
+      "Retire do fogo e misturei numa travessa com o crispy de alho-poró.",
+      "Sua farofa com castanha e alho-poró está pronta",
+      "Pode ser servida de acompanhamento de carnes brancas como filé de peixe ou frango"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: FRANCISCO RAFAEL CORREA GIAJ LEVRA"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303938-farofa-com-castanha-do-para-com-crispy-de-alho-poro.html"
+}

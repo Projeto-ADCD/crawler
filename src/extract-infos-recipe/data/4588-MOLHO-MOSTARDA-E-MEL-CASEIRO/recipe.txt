@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOLHO MOSTARDA E MEL CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 sachê de maionese",
+      "1 sachê de mostarda",
+      "2 colheres (sopa) de mel",
+      "100 g de creme de leite",
+      "salsinha e cebolinha a gosto",
+      "pimenta preta moída a gosto",
+      "noz-moscada a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma vasilha",
+      "Misture muito bem",
+      "Sirva!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ARTHUR COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300790-molho-mostarda-e-mel-caseiro.html"
+}

@@ -1,0 +1,30 @@
+{
+  "nome_receita": "ARROZ DOCE CREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de ( 250 ml ) de arroz",
+      "1 litro de água",
+      "1 litro de leite integral",
+      "1 creme de leite (opcional)",
+      "1 leite condensado",
+      "5 colheres de açúcar",
+      "canela a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande e em fogo médio, acrescente o arroz e um litro de água.",
+      "Deixe ferver até secar um pouco, deixando úmido e com pouquíssima água.",
+      "Em seguida, acrescente 1 litro de leite integral. Deixe ferver até engrossar.",
+      "Acrescente o leite condensado e o creme de leite, em seguida as 5 colheres de sopa de açúcar.",
+      "Deixa engrossar e secar um pouco."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para dar uma cor, pode acrescentar caramelo, feito com 5 colheres de açúcar.\nJogue em cima do arroz doce fervente já finalizado e mexa."
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LILIAN & EDUARDO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299928-arroz-doce-cremoso.html"
+}

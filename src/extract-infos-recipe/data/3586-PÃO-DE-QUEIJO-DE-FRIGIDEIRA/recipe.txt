@@ -1,0 +1,30 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE FRIGIDEIRA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres (sopa) de ricota",
+      "3 colheres (sopa) de farinha de tapioca",
+      "sal a gosto",
+      "orégano a gosto",
+      "pimenta-do-reino a gosto ",
+      "fatia de queijo da sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, a ricota, a farinha de tapioca e os temperos até que a mistura fique homogênea",
+      "Em uma frigideira antiaderente, jogue a mistura em fogo baixo e tampe",
+      "Assim que a parte de baixo já estiver soltinha da panela e a parte de cima não estiver tão líquida, então vire",
+      "Vai virando até que os dois lados estejam crocantes na textura desejada.",
+      "Para finalizar, voce pode adicionar uma fatia do queijo da sua preferencia na parte interior e está pronto! Leve, rápido e super gostoso! "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: se quiser pode cortar e adicinar uns pedacinhos de queijo nessa mistura tbm. Com queijo prato fica bem gostoso"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MYERE MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303101-pao-de-queijo-de-frigideira.html"
+}

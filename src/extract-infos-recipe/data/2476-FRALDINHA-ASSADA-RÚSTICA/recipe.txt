@@ -1,0 +1,29 @@
+{
+  "nome_receita": "FRALDINHA ASSADA RÚSTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peça de fraldinha (aproximadamente 1 kg)",
+      "alho triturado a gosto",
+      "sal grosso a gosto",
+      "temperos a gosto",
+      "azeite",
+      "1 cabeça de alho inteira",
+      "2 cebolas inteiras"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a fraldinha na assadeira",
+      "Cubra com os temperos, sal grosso, alho triturado e azeite.",
+      "Corte a cebola ao meio e coloque os alhos e a cebola com casca e tudo.",
+      "Cubra com papel-alunínio",
+      "Deixe no forno por 1 hora.",
+      "Após esse tempo, tire o papel-alumínio para dourar.",
+      "Deixe no forno a 180° C"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "BEATRIZ LENSO ROBSON GIOVANNINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305123-fraldinha-assada-rustica.html"
+}

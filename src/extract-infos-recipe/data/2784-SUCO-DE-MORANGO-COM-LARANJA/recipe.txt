@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SUCO DE MORANGO COM LARANJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xicaras de morango",
+      "2 laranjas",
+      "500 ml de agua geladinha",
+      "açúcar a gosto ou mel se desejar",
+      "gelo se desejar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os morangos de pedaços",
+      "Exprema as laranjas e coe só o suco",
+      "Em um liquidificador junte tudo e pronto! Um delicioso suco natural de frutas!"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LETÍCIA D'ANGELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304431-suco-de-morango-com-laranja.html"
+}

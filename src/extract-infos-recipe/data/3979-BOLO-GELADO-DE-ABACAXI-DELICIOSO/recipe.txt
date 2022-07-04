@@ -1,0 +1,41 @@
+{
+  "nome_receita": "BOLO GELADO DE ABACAXI DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícara de leite",
+      "2 xícara de açúcar",
+      "3 xícara de farinha de trigo",
+      "1 colher de fermento",
+      "3 colher de margarina",
+      "Recheio",
+      "1 leite condensado",
+      "1 creme de leite",
+      "100 g de coco ralado",
+      "1 abacaxi grande"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o ovo, o açúcar e a margarina por aproximadamente 3 minutos",
+      "Acrescente o leite e a farinha de trigo e bata por mais 3 minutos",
+      "Depois coloque o fermento mexa bem ",
+      "Coloque em uma forma untada e enfarinhada",
+      "Leve ao forno preaquecido e deixe no forno cerca de 38 minutos",
+      "Recheio",
+      "Coloque o leite condensado o creme de leite e leve ao fogo até ferver e engrossar",
+      "Leve à geladeira e corte em pequenos cubos o abacaxi",
+      "Coloque em uma panela com 1 xícara de açúcar de 200 ml e uma de água ",
+      "Espere esfriar e monte seu bolo",
+      "Leve à geladeira por 5 horas e vai estar uma delícia",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: só lembrando que todas as medidas é de 200 ml"
+    ]
+  },
+  "tempo_de_preparo": "38 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "ROBERTA XAVIER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302258-bolo-gelado-de-abacaxi-delicioso.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "DOCE DE FIGO DA ROÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de figo",
+      "açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Colha os figos de sua preferência.",
+      "Lave os figos e coloque em uma panela com água para ferver por 10 minutos.",
+      "Após ferver, lave para esfriar e coloque em uma vasilha de plástico de sua preferência e leve ao congelador para congelarem por completo. Deixe o tempo que precisar, eles só precisam estar congelados.",
+      "Retire os figos do congelador, lave até sair toda a pele (ela se solta sozinha).",
+      "Leve uma panela ao fogo com água e açúcar suficiente para sua quantidade de figo. Deixe ferver, e coloque os figos na panela para absorver o açúcar e dar o ponto na calda.",
+      "Após ferver e dar o ponto de calda, desligue o fogo e espere esfriar.",
+      "Coloque tudo em uma vasilha ou vidro de sua preferência e leve à geladeira."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAMMY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299839-doce-de-figo-da-roca.html"
+}

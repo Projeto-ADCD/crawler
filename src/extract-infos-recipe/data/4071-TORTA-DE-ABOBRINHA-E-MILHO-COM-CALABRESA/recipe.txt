@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE ABOBRINHA E MILHO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abobrinha italiana média ralada",
+      "1 cebola média picada",
+      "1 tomate sem pele picado",
+      "1/2 lata de milho",
+      "3 ovos",
+      "200 g de calabresa picada",
+      "100 g de bacon picado",
+      "1/2 xícara (chá) de óleo de girassol",
+      "1 e 1/2 xícara (chá) de leite",
+      "1 xícara (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "3 colheres (sopa) de cebolinha verde picada",
+      "3 colheres (sopa) de salsinha picada",
+      "20 g de queijo parmesão ralado",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela funda, coloque o bacon e deixe soltar a gordura.",
+      "Acrescente a cebola e deixe fritar um pouco.",
+      "Adicione a calabresa picada e deixe refogar.",
+      "Retire a panela do fogo e vá juntando os demais ingredientes.",
+      "Deixe o leite por último.",
+      "Dependendo da farinha, você poderá precisar ou não de mais de leite.",
+      "Prove para descobrir se necessita de sal e pimenta.",
+      "Unte um refratário médio e coloque a mistura.",
+      "Polvilhe o queijo parmesão ralado por cima.",
+      "Leve ao forno pré-aquecido (200ºC)",
+      "Deixe cozinhar por uns 35 minutos ou até que perfurando com um palito, este saia seco.",
+      "Sirva em seguida como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301970-torta-de-abobrinha-e-milho-com-calabresa.html"
+}

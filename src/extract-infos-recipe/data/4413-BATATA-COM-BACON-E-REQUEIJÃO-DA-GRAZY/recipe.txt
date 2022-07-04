@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BATATA COM BACON E REQUEIJÃO DA GRAZY",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de pesunto",
+      "300 g de queijo mussarela",
+      "3 copos de requeijão",
+      "500 g de bacon",
+      "Orégano a gosto",
+      "10 batatas medias",
+      "Salsinha, cebolinha",
+      "Pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas com uma pitata de sal e reseve.",
+      "Corte em cubinhos o bacon o pesunto e o queijo, numa panela frite o bacon tire o exesso de banha dele.",
+      "Nessa mesma panela, misture o presunto, o queijo, requeijão e o orégano mexa tudo com cuidado.",
+      "Por fim, adicione a cebolinha e a salsinha a gosto. Vai ficar cremoso como um creme.",
+      "Em um refrátario, coloque as batatas, amasse-as e misture-as à esse creme da panela.",
+      "Misture tudo, cubra com fatias de queijo e leve ao forno por 5 minutos.",
+      "Sirva com arroz branco, se preferir."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JM SHOE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301179-batata-com-bacon-e-requeijao-da-grazy.html"
+}

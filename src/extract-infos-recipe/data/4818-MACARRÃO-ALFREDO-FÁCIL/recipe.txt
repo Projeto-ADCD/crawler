@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO ALFREDO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de manteiga ",
+      "1 colher (chá) de farinha de trigo ",
+      "2 xícaras de leite ",
+      "sal a gosto",
+      "4 ninhos de fettuccine ",
+      "1/4 de xícara de creme de leite ",
+      "1/2 xícara de queijo parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, aqueça a manteiga e adicione a farinha de trigo.",
+      "Mexa bem para a farinha de trigo cozinhar. ",
+      "Adicione o leite, sal a gosto e os ninhos de fettuccine. ",
+      "Tampe e deixe o macarrão cozinhar.",
+      "Em seguida, desligue o fogo e acrescente o creme de leite e o queijo parmesão.",
+      "Misture bem e está pronto o seu macarrão alfredo! ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300171-macarrao-alfredo-facil.html"
+}

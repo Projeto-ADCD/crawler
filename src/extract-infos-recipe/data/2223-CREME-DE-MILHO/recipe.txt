@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CREME DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 colher (sopa) de manteiga",
+      "1/2 cebola picadinha",
+      "1 alho picadinho",
+      "1 lata de milho",
+      "1 caixa de creme de leite",
+      "1 copo de 300 ml de leite",
+      "2 colheres (sopa) de amido de milho",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, adicione a manteiga, a cebola e o alho e deixe dourar em fogo baixo",
+      "Após dourar a cebola e o alho, adicione a lata de milho (caso o milho não vier com o caldinho do milho na lata, adicione água na mesma quantidade da lata)",
+      "Mexa um pouco, tampe a panela e aguarde o milho cozinhar, leva entorno de 5 minutinhos",
+      "Enquanto o milho cozinha.",
+      "Em um copo de 300 ml coloque o leite e o amido de milho, misture para que o amido de milho se dissolva no leite",
+      "Após o milho cozinhar, adicione o creme de leite e o sal (se preferir, poderá adicionar um pouquinho de açafrão para deixar o creme com uma cor mais amarelada, característica do milho, apenas não exagere para que não interfira no sabor)",
+      "Misture bem",
+      "Por fim, adicione o amido de milho que foi dissolvido no leite, deixe em fogo médio e misture até criar consistência de creme."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "EVELLYN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305678-creme-de-milho.html"
+}

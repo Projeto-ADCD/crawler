@@ -1,0 +1,35 @@
+{
+  "nome_receita": "ARROZ DE TROPA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 linguiça calabresa fatiada",
+      "2 paios fatiados",
+      "1 tira de bacon picadinho",
+      "1 bandejinha de couve picada ",
+      "1 bandejinha de cenoura picada ",
+      "1 cebola grande em rodelas",
+      "4 dentes de alho espremidos",
+      "1 molho de salsa e cebolinha",
+      "2 xícaras de arroz",
+      "5 xícaras de água",
+      "sal a gosto",
+      "queijo parmesão",
+      "6 ovos cozidos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o bacon com o paio, a calabresa e a cebola",
+      "Depois, acrescente o alho para dourar.",
+      "Junte a cenoura, a couve e metade do molho de salsa e cebolinha e refogue",
+      "Junte o arroz e a água e tempere com o sal",
+      "Depois de cozido, disponha as rodelas de ovo sobre o arroz e salpique com o restante da salsa e da cebolinha picados com o parmesão.",
+      "Leve ao forno para derreter o queijo.",
+      "Sirva quente com bastante azeite"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RENATA TODESCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302259-arroz-de-tropa.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "OMELETE RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 fio de leite",
+      "1 pitada de sal",
+      "1 colher (sopa) generosa de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque os três ovos numa tigela",
+      "Adicione o sal e o leite e misture com um garfo, não misture muito, apenas o bastante para deixar homogêneo",
+      "Coloque a manteiga na frigideira e mantenha a temperatura entre média e alta",
+      "Assim que a manteiga derreter, coloque os ovos e imediatamente comece a mexer a mistura até que ela atinja o ponto ideal",
+      "Junte a mistura e esperar o fundo se unir",
+      "Dobrar o omelete e emprate"
+    ]
+  },
+  "tempo_de_preparo": "4 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "ESTEVÃO RAMOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303014-omelete-rapida.html"
+}

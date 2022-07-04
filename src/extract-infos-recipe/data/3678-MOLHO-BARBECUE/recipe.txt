@@ -1,0 +1,23 @@
+{
+  "nome_receita": "MOLHO BARBECUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de açúcar mascavo",
+      "500 ml de molho inglês",
+      "1 kg de molho de tomate ao sugo",
+      "200 ml mostarda",
+      "8 dentes de alho",
+      "1 colher (sopa) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos ingredientes em uma frigideira em fogo médio e mexa até apurar",
+      "Mexa até o molho engrossar e ficar com consistência cremosa"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MAURICIO BORBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302928-molho-barbecue.html"
+}

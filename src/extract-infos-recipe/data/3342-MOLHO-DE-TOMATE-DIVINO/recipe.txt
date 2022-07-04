@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MOLHO DE TOMATE DIVINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 tomates grandes picados",
+      "1 cebola grande picada",
+      "4 dentes de alho picados",
+      "200 ml de vinho tinto seco",
+      "azeite",
+      "sal, pimenta e cheiro-verde (desidratado) a gosto",
+      "1/2 colher (sobremesa) de noz moscada",
+      "2 colheres (sopa) de açúcar demerara"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o azeite na panela e doure a cebola picada, depois coloque o alho, o vinho e deixe ferver para evaporar o álcool",
+      "Coloque o tomate picado e o tempero verde",
+      "Deixe cozinhar em fogo baixo até o tomate começar a desmanchar",
+      "Tempere com o sal e a pimenta a gosto, coloque a noz moscada e o açúcar",
+      "Após levantar fervura, desligue e bata no liquidificador",
+      "Volte para a panela para reduzir um pouco e pronto!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode guardar em potinhos plásticos e congelar para utilizar durante a semana"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303531-molho-de-tomate-divino.html"
+}

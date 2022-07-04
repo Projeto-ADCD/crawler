@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE, BANANA E MEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 a 6 bananas",
+      "1 xícara de açúcar cristal",
+      "2 colheres (sopa) de mel",
+      "2 ovos",
+      "1/2 xícara de margarina derretida",
+      "1 xícara de farinha de trigo",
+      "1 xícara de chocolate em pó",
+      "2 tabletes de chocolate meio amargo (usei alpino black)",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, amasse as bananas (deixe uma banana para o fim) com o açúcar, junte os ovos, o mel e a manteiga e misturar bem.",
+      "Acrescente a farinha de trigo, o chocolate em pó, os tabletes picados e o sal e misture bem.",
+      "Por fim adicione o fermento e misture ligeiramente e despeje a massa numa assadeira untada com margarina e farinha, no forno a 180°C por 1 hora.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: colocar alguns pedaços de chocolate e uma banana picada por cima da massa e depois vai pro forno."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MELINA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303001-bolo-de-chocolate-banana-e-mel.html"
+}

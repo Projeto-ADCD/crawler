@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO ALEMÃO DE MAÇÃ, UVAS E CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 vidro de leite de coco",
+      "5 maçãs cortadas em cubos sem casca",
+      "5 cascas de maçã",
+      "Canela em pó",
+      "Uvas passa ou cerejas cortada em cubos ou mirtilos",
+      "2 xícaras de açúcar",
+      "4 ovos",
+      "1 copo de leite",
+      "1/2 copo de óleo",
+      "Coco ou nozes",
+      "Fermento químico ou a versão do biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os líquidos.",
+      "Acrescente os ovos e o açúcar bata tudo.",
+      "Depois, adicione 2 xícaras de trigo, 1 colher bem cheia de canela em pó e 1 colher bem cheia de fermento.",
+      "Coloque a massa em uma forma e despeje as nozes ou coco.",
+      "Coloque muita uvas passa e os cubinhos de maçã.",
+      "Prepare uma massa de açúcar mascavo, manteiga e trigo (o dobro de trigo para a manteiga e o açúcar) e jogue por cima dos cubinhos de maçã para preparar a crosta da cuca."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "SIMONE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301048-bolo-alemao-de-maca-uvas-e-canela.html"
+}

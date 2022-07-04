@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO DE CANECA FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana amassada",
+      "1 ovo",
+      "1 colher (sopa) de cacau",
+      "Algumas gotinhas de adoçante caso sinta necessidade, pois o cacau é amargo.",
+      "Para a calda",
+      "1 scoop de whey da sua preferência",
+      "1 colher (sopa) de leite em pó desnatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse a banana, adicione os outros ingredientes e misture até ficar homogêneo.",
+      "Dispense a mistura em uma caneca e leve ao microondas por 1 minuto",
+      "Para a calda, misture os ingredientes e vai adicionando água aos poucos até ficar com a textura desejada."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: Se gostar de canela, pode adicionar a gosto porque dá um toque especial"
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MYERE MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303102-bolo-de-caneca-fit.html"
+}

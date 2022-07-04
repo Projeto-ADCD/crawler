@@ -1,0 +1,19 @@
+{
+  "nome_receita": "DOCE DE LEITE FÁCIL E PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "3 xícaras de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado e o açúcar em uma panela em fogo baixo e mexa por uns 15 minutos até ficar dourado.",
+      "Pegue uma forma e passe trigo. Adicione o doce de leite nessa forma e deixe endurecer."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "LARA VITORIA KIDS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301525-doce-de-leite-facil-e-pratico.html"
+}

@@ -1,0 +1,46 @@
+{
+  "nome_receita": "BOLO DE IOGURTE SIMPLES E RÁPIDO COM RECHEIO DE CHOCOLATE E CEREAIS",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 xícara de iogurte de salada de frutas (ou gosto de sua preferência)",
+      "2 ovos",
+      "2 xícara de açúcar",
+      "2/4 de xícara de óleo",
+      "3 xícaras de farinha de trigo",
+      "1 colher de fermento químico",
+      "Recheio",
+      "2 colheres de manteiga",
+      "200 g de leite condensado",
+      "2 colheres de chocolate em pó",
+      "6 colheres de aveia",
+      "6 colheres de farelo de trigo (ou farelo de sua preferencia)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça o forno por 10 minutos a 180° C antes de inserir o bolo.",
+      "Preparo da massa",
+      "Bata os ovos, acrescente o iogurte e açúcar e bata até misturar bem",
+      "Acrescente o óleo, bata e incorpore.",
+      "Adicione a farinha de trigo e bata logo após cada xícara adicionada, para ficar uma massa homogênea.",
+      "Por ultimo, acrescente uma colher de fermento e misture a massa.",
+      "Preparo do recheio",
+      "Derreta a manteiga em uma panela, adicione o leite condensado e misture.",
+      "Adicione 2 colheres de chocolate em pó e incorpore.",
+      "Com a massa ainda mole, acrescente a aveia e farelos, misture bem.",
+      "Montagem",
+      "Com o bolo frio, corte ao meio de forma horizontal, formando uma base e uma parte superior, a qual pode ser separada.",
+      "Adione o recheio na base e em seguida recoloque a parte superior.",
+      "Pronto, bolo feito e com recheio, sirva na hora desejada!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Recheio opcional."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "DENISE S. PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300393-bolo-de-iogurte-simples-e-rapido-com-recheio-de-chocolate-e-cereais.html"
+}

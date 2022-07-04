@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLO DE AVEIA COM COBERTURA DE LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 colheres de manteiga com ou sem sal",
+      "1 xícara e meia de açúcar",
+      "2 xícaras de aveia em flocos finos ou farinha de aveia",
+      "1 xícara de leite",
+      "1 colher (sobremesa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na batedeira os ovos, açúcar e manteiga.",
+      "Acrescente a aveia e o leite.",
+      "Por último, acrescente 1 colher (sobremesa) de fermento e misture na massa com delicadeza.",
+      "Após isso, coloque em uma forma untada com manteiga e depois no forno a 200 graus."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIANA MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301478-bolo-de-aveia-com-cobertura-de-leite-condensado.html"
+}

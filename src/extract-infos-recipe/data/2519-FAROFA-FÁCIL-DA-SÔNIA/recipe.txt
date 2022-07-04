@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA FÁCIL DA SÔNIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de farinha de mandioca biju ",
+      "200 g de farinha de milho amarela ",
+      "1 cenoura média ralada bem fininha",
+      "1/2 cebola cortada em pedaços pequenos",
+      "1 tomate sem sementes cortado em pedaços pequenos",
+      "4 ovos cozidos e picados",
+      "1 calabresa média sem pele, cortada em cubos e frita",
+      "1/2 limão",
+      "salsinha e cebolinha picadas",
+      "sal a gosto",
+      "azeite para umedecer"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture as duas farinhas",
+      "Acrescente a cenoura ralada bem fininha, a cebola picada, o tomate, os ovos, a salsinha e cebolinha e a calabresa frita",
+      "Após misturar os ingrediente, acrescente sal a gosto, esprema o limão sobre a farofa e umedeça com o azeite.",
+      "Deixar de meia a uma hora na geladeira antes de servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JULIANA UTIMURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305038-farofa-facil-da-sonia.html"
+}

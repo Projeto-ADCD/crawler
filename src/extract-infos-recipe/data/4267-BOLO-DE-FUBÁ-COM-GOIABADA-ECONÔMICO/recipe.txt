@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM GOIABADA ECONÔMICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 copo (americano) de leite",
+      "1 copo (americano) de fubá",
+      "1 copo (americano) de açúcar",
+      "1/2 copo (americano) de óleo",
+      "1 copo (americano) de farinha de trigo",
+      "1/2 copo (americano) de amido de milho (deixa o bolo mais fofo)",
+      "1 colher de fermento em pó",
+      "400g de goiabada",
+      "- 1 copo (americano) de agua"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o ovo, o leite, o óleo, o açúcar, o fubá e bata bem.",
+      "Despeje a mistura em uma tigela, e misture o amido de milho a farinha e o fermento em pó. (se couber no liquidificador tudo, não altera a receita).",
+      "Despeje a massa em uma forma untada com manteiga e farinha, e acrecentar uma camada de goiabada picada, aproximadamente 250 g.",
+      "Coloque em uma panela 150g de goiabada e o copo com agua. Mexe em fogo baixo até derreter e virar uma calda.",
+      "Finalize cobrindo o bolo com a calda."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MONIQUE MATHEUS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301494-bolo-de-fuba-com-goiabada-economico.html"
+}

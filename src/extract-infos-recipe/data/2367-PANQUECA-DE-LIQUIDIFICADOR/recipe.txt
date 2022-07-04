@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PANQUECA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras (chá) de farinha de trigo",
+      "2 xícaras (chá) de leite",
+      "1 ou 2 ovos",
+      "1 colher (café) de sal",
+      "1 colher (chá) de fermento em pó",
+      "1 colher (sopa) de açúcar (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Despeje todos os ingredientes no liquidificador.",
+      "Bata tudo até ficar homogêneo",
+      "Coloque um pouco de óleo numa frigideira e em seguida a massa da panqueca.",
+      "Deixe no fogo médio e vire",
+      "Recheie por dentro doce ou salgado e enrole a panqueca",
+      "Coloque molho de tomate ou fios de chocolate, como preferir"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305376-panqueca-de-liquidificador.html"
+}

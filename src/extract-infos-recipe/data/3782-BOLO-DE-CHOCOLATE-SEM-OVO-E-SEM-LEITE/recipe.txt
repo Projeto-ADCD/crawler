@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE SEM OVO E SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa do bolo",
+      "2 e 1/2 xícara de farinha de trigo ",
+      "1 xícara de açúcar",
+      "1/2 xícara de óleo ",
+      "1 xícara achocolatado ou cacau em pó ",
+      "1/2 xícara água (se a massa ficar muito grossa coloque mais um pouco)",
+      "1 sachê de fermento para bolos ",
+      "Cobertura",
+      "1/2 lata de leite condensado (se quiser fazer as bolinhas de brigadeiro aumente a quantidade)",
+      "margarina ou manteiga (uma colher de sopa rasa)",
+      "5 colheres (sopa) de achocolatado "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa do bolo",
+      "Coloque em uma refratário o açúcar, o óleo e misture, depois acrescente o achocolatado e a farinha de trigo (de preferência peneirada) misture bem",
+      "Depois vá acrescentando aos poucos a água, misture até obter uma massa lisa (não muito liquida) e por último acrescente o fermento",
+      "Leve ao forno por 40 minutos (dependendo de cada forno)",
+      "Cobertura",
+      "Acrescente em uma panela o leite condensado, a margarina ou manteiga e o achocolatado",
+      "Ligue o fogão em temperatura baixa e fica mexendo até engrossar (se quiser fazer bolinhas de brigadeiro é só aumentar a quantidade de ingredientes e ficar mexendo até desgrudar do fundo da panela)",
+      "Após o bolo ter assado é só colocar a cobertura por cima e estará pronto!",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ADÃO DANIELE LEMOS DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302718-bolo-de-chocolate-sem-ovo-e-sem-leite.html"
+}

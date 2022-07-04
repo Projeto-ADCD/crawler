@@ -1,0 +1,21 @@
+{
+  "nome_receita": "LEMON LINE BITTER",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 dose de vodka",
+      "Suco de 1/2 limão siciliano",
+      "Sprite pra completar",
+      "Uma gota de angostura",
+      "￼"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo em um copo."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JOAO LUIS H. BOLDRINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300081-lemon-line-bitter.html"
+}

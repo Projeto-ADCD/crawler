@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PALHA ITALIANA DE KITKAT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "3 colheres de achocolatado em pó (ou cacau)",
+      "1 colher (sopa) de margarina",
+      "biscoito maisena",
+      "3 pacotes de kitkat"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela adicione: leite condensado, manteiga e achocolatado em pó",
+      "Mexa em fogo baixo por mais ou menos 8 minutos (ou até dar o ponto de brigadeiro)",
+      "Depois disso, desligue o fogo e continue mexendo enquanto adiciona pedaços de biscoito maisena",
+      "Em uma travessa, coloque uma camada de brigadeiro e depois coloque pedaços de kitkat por cima",
+      "Repita o passo 4 até quando achar necessário",
+      "Coloque para gelar por aproximadamente 10 minutos e pronto.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "LUÍSA SOARES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305563-palha-italiana-de-kitkat.html"
+}

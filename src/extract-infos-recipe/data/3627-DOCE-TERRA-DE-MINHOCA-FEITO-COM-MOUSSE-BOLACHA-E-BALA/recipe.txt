@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE TERRA DE MINHOCA FEITO COM MOUSSE, BOLACHA E BALA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de bolacha de chocolate sem recheio",
+      "1 pacote de balas de gelatina com formato de dentes de vampiro",
+      "1 pacote de balas de gelatina com formato de minhocas coloridas",
+      "1 mousse de sua preferência já pronta (a chef sugere de chocolate branco, preto ou maracujá)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Comece fazendo a mousse seguindo as instruções da embalagem e colocando em uma travessa para gelar",
+      "Pegue as bolachas de chocolate, sem o recheio, triture e reserve;",
+      "Quando a mousse estiver pronta, coloque na travessa para servir;",
+      "Cubra a mousse com a bolacha triturada, de forma que dê a impressão de ser “terra”;",
+      "Coloque as balas de gelatina espalhadas por todo o doce;",
+      "Para dar mais realismo, a dica é colocar algumas das balas de minhoca escondidas entre os farelos das bolachas, como se a minhoca estivesse saindo da terra."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VICTÓRIA GIROTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303011-doce-terra-de-minhoca-feito-com-mousse-bolacha-e-bala.html"
+}

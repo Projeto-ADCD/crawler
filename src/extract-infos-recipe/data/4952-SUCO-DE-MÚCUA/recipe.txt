@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DE MÚCUA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de múcua",
+      "2 litros de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue numa panela e adicione a água e leve ao fogo, deixe levantar fervura e de seguida adicione a múcua (fruto oriondo de Angola).",
+      "Vai mexendo em intervalos de 5 minutos, até os caroços começarem a ficar visíveis. Em média faz 15 minutos de fervura.",
+      "No fim do tempo, apague do lume e deixe repousar até ficar totalmente frio.",
+      "Passe o suco por um coador, e coloque ao frigorífico pra gelar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Veja também a receita para fazer mousse de pitaya!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MARINETE GUEDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299871-suco-de-mucua.html"
+}

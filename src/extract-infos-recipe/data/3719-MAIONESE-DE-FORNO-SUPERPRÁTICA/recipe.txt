@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MAIONESE DE FORNO SUPERPRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "sal a gosto",
+      "1 e 1/2 pote de maionese",
+      "1 pacote de 500 g de batata palha",
+      "700 g de queijo muçarela",
+      "2 copos de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a batata (com casca) e um pouco de sal",
+      "Escorra a água e deixe esfriar.",
+      "Após esfriar, tire a casca e corte em rodelas.",
+      "Em uma forma, espalhe a maionese.",
+      "Coloque:",
+      "1 camada de batata cozida, 1 camada de queijo muçarela, 1 camada de maionese, 1 camada de batata palha, 1 camada de batata cozida, 1 camada de maionese, 1 camada de queijo, 1 camada de requeijão (os 2 copos de requeijão vão só nessa camada), 1 camada de batata palha",
+      "Asse por 30 minutos a 320° C ou até borbulhar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "NATALIA TODA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302841-maionese-de-forno-superpratica.html"
+}

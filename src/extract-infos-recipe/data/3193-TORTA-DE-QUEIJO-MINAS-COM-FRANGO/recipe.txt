@@ -1,0 +1,50 @@
+{
+  "nome_receita": "TORTA DE QUEIJO MINAS COM FRANGO",
+  "ingredientes": {
+    "MASSA": [
+      "2 xícaras (chá) de farinha de trigo",
+      "1 xícara (chá) de óleo de sua preferência, faltando dois dedos para encher",
+      "3 ovos inteiros",
+      "2 xícaras (chá) de leite",
+      "1 xícara (chá) de queijo minas Président picadinho",
+      "1 colher (café) de sal ",
+      "1 colher (sopa) de fermento em pó químico"
+    ],
+    "RECHEIO": [
+      "4 tomates cortados em cubinhos ",
+      "1 cubo de caldo de galinha ",
+      "1 cebola média picadinha",
+      "200 g de mussarela Président fatiada ou ralada à gosto ",
+      "3 colheres (sopa) de azeitona Picadinha ",
+      "orégano, salsa e cebolinha a gosto",
+      "300 g de peito de frango sem pele "
+    ]
+  },
+  "passos": {
+    "RECHEIO DE FRANGO": [
+      "Cozinhe o peito de frango e reserve a mussarela",
+      "Cozinhe o frango com todos os ingredientes que serão usados no recheio, experimente o sal e se precisar coloque mais um pouquinho",
+      "Deixe esfriar e desfie o frango junto com todos os temperos e reserve"
+    ],
+    "MASSA": [
+      "Coloque todos os ingredientes no liquidificador começando pelos ingredientes líquidos: o óleo, o leite, os ovos, o queijo picadinho e os demais ingredientes, menos o fermento em pó",
+      "Bata muito bem",
+      "Desligue o liquidificador e unte um tabuleiro, nas medidas de 38 por 26 por 4 cm, com óleo",
+      "Acrescente a colher de fermento em pó químico e bata com o botão pulsar do liquidificador, ou mexa com uma colher, agregando o fermento por toda a massa batida"
+    ],
+    "MONTAGEM": [
+      "Forre o tabuleiro com metade da massa",
+      "Coloque o recheio e por cima e cubra com a mussarela reservada",
+      "Espalhe o restante da massa sobre o recheio e leve para assar em forno pré-aquecido à 200ºC",
+      "Se desejar, salpique orégano sobre a torta antes de levá-la para assar",
+      "Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Lucimar Pazini Bijoyan"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303756-torta-de-queijo-minas-com-frango.html"
+}

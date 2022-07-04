@@ -1,0 +1,31 @@
+{
+  "nome_receita": "TORTA DE FRANGO SIMPLES NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 ovos",
+      "12 colheres de farinha de trigo com fermento",
+      "10 colheres de mussarela ralada",
+      "2 colheres de parmesão ralado",
+      "1 xícara de óleo",
+      "2 xícaras de leite",
+      "1 cebola",
+      "2 colheres de amido de milho",
+      "1 colher (chá) de sal",
+      "1 colher (chá) de orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, até que se tenha uma consistência homogênea.",
+      "Untar uma assadeira com oleo",
+      "Ponha metade da massa no fundo da assadeira, em seguida ponha o recheio de sua preferência (recomendo frango, milho, azeitona).",
+      "E cubra o recheio com o restante da massa.",
+      "Leve ao forno pre aquecido em 205º C e deixe por 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "PAULO ANDRÉ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305612-torta-de-frango-simples-no-liquidificador.html"
+}

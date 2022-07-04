@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO SIMPLES DA VITÓRIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos grandes ou 4 ovos pequenos",
+      "1 xícara de açúcar",
+      "1/2 xícara de oléo de sua preferência (soja, milho, girassol...)",
+      "1 xícara de leite de côco",
+      "1 xícara de flocos de milho",
+      "1 xícara de amido de milho",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, o açúcar, o leite de côco e o óleo por cerca de 3 minutos",
+      "Adicione os flocos de milho e o amido por mais 3 minutos",
+      "Desligue o liquidificador e acrescente o fermento misturando com cuidado.",
+      "Asse em forno pré aquecido a cerca de 200°C por 40 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "EDNEY VITORIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302732-bolo-simples-da-vitoria.html"
+}

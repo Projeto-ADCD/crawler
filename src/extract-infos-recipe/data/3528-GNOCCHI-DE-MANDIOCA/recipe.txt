@@ -1,0 +1,53 @@
+{
+  "nome_receita": "GNOCCHI DE MANDIOCA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "4 macacheiras",
+      "2 batatas",
+      "1 xícara de farinha de mandioca",
+      "1 colheres de conhaque",
+      "1 gema de ovo",
+      "1 colher de coentro em pó",
+      "1 cravo",
+      "pouco sal",
+      "Molho",
+      "3 xícaras de molho branco",
+      "1 colher de conhaque",
+      "tempero a gosto",
+      "pouco sal",
+      "1 colher (chá) de gengobre moído",
+      "8 cogumelos fung fatiado",
+      "1 pitada de açúcar",
+      "2 cebolas médias",
+      "1 dente de alho",
+      "queijo parmesão ralado a gosto "
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Cozinhe batata e a macacheira com o cravo",
+      "Escorra bem amasse tudo",
+      "Misture com a gema, o conhaque e a farinha",
+      "Leve à geladeira por 10 minutos ",
+      "Faça uma \"minhoca\" e corte a massa em quadradinhos de 3 centímetros aproximadamente ",
+      "Volte para geladeira até acabar de fazer o molho"
+    ],
+    "MOLHO": [
+      "Frite a cebola e o alho até dourar",
+      "Coloque o conhaque, os cogumelos, os temperos e deixe ferver",
+      "Coloque o molho branco e o açúcar",
+      "Reserve"
+    ],
+    "COZINHANDO A MASSA": [
+      "Ferva a água",
+      "Coloque a massa e quando subir escorra e coloque em uma assadeira",
+      "Coloque o molho por cima e queijo ralado",
+      "Leve ao forno alto até gratinar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "TERTULIANOVPS FRIVOLOLVS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303195-gnocchi-de-mandioca.html"
+}

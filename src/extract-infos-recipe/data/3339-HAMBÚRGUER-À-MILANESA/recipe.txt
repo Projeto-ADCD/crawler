@@ -1,0 +1,44 @@
+{
+  "nome_receita": "HAMBÚRGUER À MILANESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Hambúrguer",
+      "500 g de carne moída",
+      "2 colheres (sopa) creme de cebola",
+      "200 g de linguiça calabresa ralada",
+      "pimenta-do-reino a gosto",
+      "4 dentes de alho amassados",
+      "cheiro-verde a gosto",
+      "sal a gosto",
+      "Empanar",
+      "3 claras de ovos",
+      "500 g farofapronta",
+      "1 litro de óleo",
+      "Molho rosê",
+      "3 colheres (sopa) de maionese",
+      "2 colheres (sopa) de ketchup",
+      "1 colher (sopa) mostarda",
+      "cheiro-verde a gosto",
+      "1 litro de óleo para fritar",
+      "requeijão para enfeitar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, misture a carne moída, creme de cebola, pimenta do reino, linguiça calabresa, sal e o alho amassado",
+      "Logo após, pegue uma pequena porção na mão e modele em formato de círculo e amassa, modelando as bordas em círculo, na própria palma da mão",
+      "Coloque sobre um prato e deixe descansar por cerca de 15 minutos no congelador",
+      "Quando sair do congelador, passe o hambúrguer nas claras dos ovos e logo após na farofa pronta",
+      "Com o óleo bem quente (200ºC) na panela e frite-o"
+    ],
+    "MOLHO ROSÊ:": [
+      "Misture em um recipiente a maionese, o ketchup, a mostarda e o cheiro-verde",
+      "Com o hambúrguer pronto, mergulha ele no molho rosê e sirva essa delícia",
+      "Dê um toque especial com requeijão por cima do hambúrguer"
+    ]
+  },
+  "tempo_de_preparo": "24 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "WILLIAM GOMES DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303534-hamburguer-a-milanesa.html"
+}

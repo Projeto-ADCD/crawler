@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PUDIM NA XÍCARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "8 colheres (sopa) de leite",
+      "8 colheres (sopa) de leite condensado",
+      "1 colher (sopa) de açúcar",
+      "1 colher (sopa) de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma xícara, misture o ovo",
+      "Acrescente os leites e mistura",
+      "Em outra xícara, misture a água e o açúcar e leve no micro-ondas até caramelizar e espalhe pelas paredes",
+      "Depois coloque o conteúdo da primeira xícara na outra",
+      "Deixe 2 minutos no micro-ondas",
+      "Pronto, deixe 30 minutos na geladeira"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KAMILI CRISTINA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304727-pudim-na-xicara.html"
+}

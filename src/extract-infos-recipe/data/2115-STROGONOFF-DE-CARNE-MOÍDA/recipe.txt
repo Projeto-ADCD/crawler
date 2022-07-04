@@ -1,0 +1,30 @@
+{
+  "nome_receita": "STROGONOFF DE CARNE MOÍDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg carne moída",
+      "1/2 cebola",
+      "3 dentes de alho",
+      "orégano a gosto",
+      "sal a gosto",
+      "1 pacote de molho de tomate",
+      "1 caixa de creme de leite",
+      "1 copo de requeijão",
+      "1 pacote de queijo ralado (50 g)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a carne moída, o alho moído, a cebola picada e o orégano em uma panela",
+      "Após a carne estiver frita, coloque o molho de tomate e misture bem.",
+      "Despeje o creme de leite e misture bem por 3 minutos",
+      "Despeje o requeijão e misture por mais 3 minutos",
+      "Retire do fogo e despeja o queijo ralado e sirva.",
+      "Obs.: fica ainda melhor com batata palha após o término de preparo e for servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LEONARDO VASCONCELLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305974-strogonoff-de-carne-moida.html"
+}

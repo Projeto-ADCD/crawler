@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PÃO DE LEITE FEITO NA MÁQUINA DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "320 ml de leite",
+      "2 colheres (sopa) de margarina",
+      "2 colheres (chá) de sal",
+      "2 colheres (sopa) de açúcar",
+      "4 copos de farinha de trigo especial (960 ml)",
+      "2 colheres (sopa) de fermento biológico seco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiramente, adicione 320 ml de leite na máquina de pão",
+      "Em seguida, coloque 2 colheres (sopa) de margarina",
+      "Depois, adicione 2 colheres (chá) de sal",
+      "E para finalizar essa etapa, adicione 2 colheres (sopa) de açúcar",
+      "Agora, adicione 4 copos que acompanha a máquina ou 960 ml de farinha de trigo especial de boa qualidade",
+      "Faça um furo no trigo e adicione as 2 colheres de fermento biológico seco",
+      "Agora ligue a máquina no programa básico de 3 horas",
+      "Ela vai começar a bater a massa, espere 5 minutos e, com uma espatula de silicone, tire os cantos que grudarem ou que ficou o trigo acumulado",
+      "Pronto, agora é só fechar a tampa e esperar seu pão ser assado",
+      "Fica uma delicia e cresce bastante",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCELO OTTO NASCIMENTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302829-pao-de-leite-feito-na-maquina-de-pao.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE MARACUJÁ COM LEITE NINHO NO LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite",
+      "4 colheres de leite ninho",
+      "1 suco em pó de maracujá",
+      "2 frutos de maracujá"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o leite condensado, o creme de leite, o leite em pó e o suco de pacotinho sabor maracujá",
+      "A consistência do mousse tem que ser grossa, não se preocupe.",
+      "Assim que batido vire tudo em uma travessa",
+      "Por fim, enfeite com a poupa do maracujá e leve ao congelador por 30 minutos.",
+      "Ja está pronto para servir."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "DUDA MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305130-mousse-de-maracuja-com-leite-ninho-no-liquidificador.html"
+}

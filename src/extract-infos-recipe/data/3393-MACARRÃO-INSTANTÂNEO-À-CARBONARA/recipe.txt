@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO INSTANTÂNEO À CARBONARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fio de azeite",
+      "1/4 de xícara de bacon",
+      "1 ovo",
+      "2 colheres (sopa) de queijo parmesão ralado",
+      "pimenta-do-reino a gosto",
+      "1 pacote de macarrão instantâneo cozido",
+      "queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, misture o ovo, o queijo parmesão e a pimenta-do-reino; reserve.",
+      "Em uma panela, aqueça 1 fio de azeite e frite o bacon.",
+      "Acrescente o macarrão instantâneo cozido. ",
+      "Adicione a mistura de ovo e mexa bem.",
+      "Finalize com queijo parmesão ralado!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303454-macarrao-instantaneo-a-carbonara.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA SALGADA DO ROSSI",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo",
+      "2 xícaras de leite",
+      "1 xícara de óleo de soja",
+      "4 ovos",
+      "4 tomates picados e sem sementes",
+      "1 cebola picada",
+      "4 colheres (sopa) de queijo ralado",
+      "1 xícara de azeitona verde picada",
+      "2 latas de sardinha ou de atum ou 1 vidro de palmito picado",
+      "1 colher (chá) de sal",
+      "2 colheres (sopa) de fermento químico em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes, na ordem acima, em uma tigela e mexa muito bem.",
+      "Coloque a mistura em uma forma untada com farinha.",
+      "Assar em forno a 200° por 45 minutos ou até dourar."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUIS ROSSI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302914-torta-salgada-do-rossi.html"
+}

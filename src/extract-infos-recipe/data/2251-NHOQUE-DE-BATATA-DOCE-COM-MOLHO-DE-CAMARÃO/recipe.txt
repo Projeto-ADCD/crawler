@@ -1,0 +1,47 @@
+{
+  "nome_receita": "NHOQUE DE BATATA-DOCE COM MOLHO DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata-doce",
+      "300 g de farinha de trigo",
+      "200 g de queijo parmesão ralado",
+      "1/4 de colher (sobremesa) de pimenta branca",
+      "3 colheres (sopa) de mel (opcional)",
+      "1/4 de colher (sobremesa) de noz-moscada",
+      "sal a gosto",
+      "Molho de camarão",
+      "1 kg de camarão limpo",
+      "3 colheres (sopa) de azeite",
+      "1/2 cebola",
+      "3 dentes de alho",
+      "coentro moído a gosto",
+      "alho poró a gosto",
+      "3/4 de sachê de molho de tomate",
+      "sal a gosto",
+      "1 copo de requeijão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Cozinhe a batata-doce na panela de pressão, quando pegar pressão aguarde 15 minutos",
+      "Amasse a batata-doce sem casca e adicione a farinha de trigo aos poucos misturando",
+      "Misture o queijo parmesão, noz-moscada, pimenta branca, sal na massa e adicione trigo até pegar liga",
+      "Faça rolinhos e corte do tamanho que preferir.",
+      "Coloque na água fervente com 1 fio de azeite e quando boiar, retire e coloque em um refratário",
+      "Reserve o nhoque, salpique queijo parmesão ralado no nhoque antes de despejar no molho (opcional)",
+      "Molho",
+      "Refogue o camarão no alho, cebola e azeite.",
+      "Coloque o restante dos ingredientes (exceto o molho de tomate) e misture.",
+      "Deixe cozinhar na água do camarão até a água reduzir mas não totalmente.",
+      "Quando estiver cozido e a água quase no fim, coloque o molho de tomate.",
+      "Deixe cozinhar por 2 minutos e coloque o requeijão.",
+      "Coloque por cima do nhoque todo o molho, salpique queijo parmesão.",
+      "Coloque palmito e orégano por cima, leve ao forno para derreter o queijo (opcional)"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "THAÍS RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305628-nhoque-de-batata-doce-com-molho-de-camarao.html"
+}

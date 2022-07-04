@@ -1,0 +1,45 @@
+{
+  "nome_receita": "FEIJÃO TROPEIRO COM FEIJÃO PRETO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de torresmo frito em tamanho pequeno",
+      "250 g de linguiça calabresa cortada em rodelas",
+      "300 g de bacon cortado em cubos",
+      "1/2 pimentão picado fino",
+      "1 cebola média picada fina",
+      "2 dentes de alho picado fino",
+      "2 xícaras (chá) de feijão preto cozido al dente escorrido e frio",
+      "250 g de farofa pronta",
+      "cebolinha e salsa picadas a gosto",
+      "2 ovos inteiros",
+      "1 colher (sopa) leite",
+      "1 colher (sobremesa) de manteiga",
+      "1 colher (sopa) azeite",
+      "1/2 molho de couve fatiada fino",
+      "sal e pimenta do reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa tigela, bata levemente os 2 ovos, coloque 1 colher (sopa) de leite, uma pitada de sal e misture",
+      "Numa frigideira, coloque a colher (sopa) de manteiga, assim que derreter, frite os ovos batidos, sem deixar que escureça",
+      "Reserve os ovos e a frigideira",
+      "Numa panela, frite a linguiça calabresa em sua própria gordura",
+      "Reserve a linguiça numa tigela e, no óleo que se formou, frite o bacon, reserve",
+      "Aproveite a gordura e refogue a cebola e o pimentão",
+      "Abaixe o fogo, acrescente a linguiça calabresa e o bacon fritos, misture",
+      "Coloque a colher (chá) de azeite e acrescente a couve fatiada, misturando delicadamente.",
+      "Acrescente o feijão, misture e tempere com o sal e a pimenta do reino a gosto",
+      "Coloque, aos poucos, a farofa pronta e continue mexendo para incorporá-la ao refogado",
+      "Desligue o fogo e misture os ovos já fritos",
+      "Na frigideira que fritou os ovos, coloque um fio de óleo, o suficiente para fritar os dentes de alho picados e, assim que escurecer levemente, retire-os do fogo e acrescente-os à mistura de feijão",
+      "O alho frito separadamente dá um sabor especial ao prato",
+      "Acrescente os torresmos fritos na hora de servir para que não murchem",
+      "Salpique a cebolinha e salsa picada por cima e está pronto para servir"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "JACQUELINE TEIXEIRA MAULER MEGIOLARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303741-feijao-tropeiro-com-feijao-preto.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CALDO DE PINTO FÁCIL DA ANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de frango",
+      "500 g de aipim",
+      "500 g de lombo",
+      "1 linguiça calabresa",
+      "1 tomate",
+      "1 cebola",
+      "5 dentes de alho",
+      "bacon frito, salsinha cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na panela de pressão, frite a linguiça calabresa e refogue o alho com a cebola.",
+      "Acrescente o lombo já dessalgado, o peito de frango e o aipim.",
+      "Acrescente a água e deixe cozinhando por 30 minutos.",
+      "Tire o aipim e bata com o próprio caldo no liquidificador.",
+      "Adicione o sal a gosto.",
+      "Desfie o frango e o lombo e coloque com aipim batido na panela.",
+      "Acrescente a salsinha e cebolinha cortada pra finalizar.",
+      "Colocar o bacon na hora de servir"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA PAULA DOMARCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301828-caldo-de-pinto-facil-da-ana.html"
+}

@@ -1,0 +1,31 @@
+{
+  "nome_receita": "PERNIL DOS ROCHAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas",
+      "1 cabeça de alho",
+      "suco de 5 limões",
+      "suco de 2 laranjas azedas",
+      "1 pernil limpo (pode ser embalado de mercado)",
+      "1 xícara (chá) rasa de vinagre",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata a cebola, o alho, os sucos dos limões e das laranjas e o vinagre",
+      "Coloque a mistura por cima do pernil, em seguida salteie a pimenta-do-reino e o sal a gosto (neste ponto, o tempero deve ter um gosto levemente salgado)",
+      "Deixar o pernil marinar de um dia para o outro, virando-o de vez em quando, para que o tempero seja absorvido por todos os lados",
+      "Na hora de assar cubra a bandeja (ou embalagem de aluminio) com uma folha de papel-alumínio e leve ao forno ajustado de 180° C a 200°  C",
+      "Deixe assar aproximadamente 1 hora por quilo",
+      "Em seguida, retire a folha de alumínio e aumente o forno para 250° C, para que o pernil dê uma dourada e fique com sua parte externa com uma leve casca",
+      "Após dourado, retire do forno e sirva",
+      "Fica uma delícia e superbem acompanhado com arroz, farofa de alho temperada e couve refogada",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GUSTAVO MAÇOL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303959-pernil-dos-rochas.html"
+}

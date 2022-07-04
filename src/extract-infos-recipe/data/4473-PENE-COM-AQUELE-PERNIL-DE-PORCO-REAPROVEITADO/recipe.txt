@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PENE COM AQUELE PERNIL DE PORCO REAPROVEITADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de pernil de porco que sobrou daquele assado no forno, picado em pedaços pequenos",
+      "1 cebola grande picada",
+      "1 caldo pronto de galinha",
+      "150 ml de molho inglês",
+      "2 colheres (sopa) de colorau",
+      "2 colheres (sopa) de mostarda",
+      "1 pitada de alecrim",
+      "óleo",
+      "água quente",
+      "1 pacote de pene",
+      "Sal e pimenta à gosto"
+    ]
+  },
+  "passos": {
+    "MOLHO:": [
+      "Corte a carne de porco assada em pedaços pequenos, pique a cebola, o caldo pronto e leve a panela para refogar.",
+      "Acrescente o colorau e o molho inglês, mechendo e colocando água aos poucos para ficar cremoso, acrescente a mostarda, alecrim e sal se ainda achar necessário, deixe cozinhar bem colocando água para não grudar na panela e mexa para que continue cremoso e está pronto."
+    ],
+    "MASSA:": [
+      "Em outra panela coloque 1 litro de água para ferver com sal e um fio de óleo, quando estiver fervendo coloque o Pene até o ponto de sua preferência.",
+      "Escorra a massa e coloque num refratário cobrindo com o molho."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CRISTIANE FORTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301032-pene-com-aquele-pernil-de-porco-reaproveitado.html"
+}

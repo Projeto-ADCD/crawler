@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TENDER MASTERCHEF DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 tender",
+      "orégano",
+      "2 barbecue (180 g)",
+      "manteiga",
+      "1 bacon médio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte o tabuleiro de bolo com manteiga, corte o tender a francesa (só por cima)",
+      "Corte o bacon em tiras pequenas e reserve, corte o restante do bacon em cubos pequenos.",
+      "Encaixe as tiras de bacon nos encontros do corte do tender, coloque o tender no tabuleiro untado, aqueça o forno por 5 minutod a 200º C",
+      "Molhe o tender com azeite por cima, coloque orégano por cima do tender e coloque-o no forno, já aquecido por 30 minutos.",
+      "Prepare o molho separado, coloque em uma panela: manteiga e azeite, espere aquecer e espalhe girando a panela",
+      "Doure os cubos de bacon, depois coloque água filtrada até o meio da panela e coloque os 2 barbecues",
+      "Adicione um pouco de orégano e espere aquecer por 15 minutos.",
+      "Depois que o tender estiver aquecido, coloque em um pirex e despeje o molho por cima do tender até preencher o pirex e é só aproveitar."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARCUS VINICIUS DA CRUZ MELLO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303979-tender-masterchef-de-natal.html"
+}

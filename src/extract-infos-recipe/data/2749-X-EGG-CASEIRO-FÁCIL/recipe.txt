@@ -1,0 +1,21 @@
+{
+  "nome_receita": "X-EGG CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "100 g de queijo mussarela",
+      "pão de forma"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Esquente a frigideira por 2 minutos, depois coloque o queijo.",
+      "Após isso coloque o ovo em cima do queijo e deixe fritar um lado, depois frite o outro.",
+      "Pegue o pão de forma e coloque o ovo nele, está pronto!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DRINK COFFEE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304528-x-egg-caseiro-facil.html"
+}

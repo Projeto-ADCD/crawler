@@ -1,0 +1,54 @@
+{
+  "nome_receita": "LOMBO BARBECUE COM FAROFA DE FRUTAS E ESPINAFRE FRITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de Lombo Fatiado com Molho Barbecue Seara Gourmet congelados",
+      "Farofa",
+      "200 g Bacon Fatiado Seara Gourmet",
+      "1 fatia abacaxi em cubos",
+      "1 maçã em cubos",
+      "1 banana prata em rodelas",
+      "150 g de manteiga",
+      "1 cebola em cubos",
+      "2 dentes de alho picados",
+      "1/4 de pimenta dedo de moca picado",
+      "4 ameixas sem caroço                      ",
+      "4 damascos fatiados",
+      "30 g de uvas passas pretas e brancas            ",
+      "20 g de castanhas de caju picada grossa                              ",
+      "12 biscoitos água e sal quebrados com as mãos",
+      "cebolinha verde picada",
+      "coentro picado                                ",
+      "sal, pimenta do moinho",
+      "Espinafre frito",
+      "1 maço de espinafre",
+      "óleo de soja para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lombo",
+      "Coloque o Lombo Fatiado com Molho Barbecue Seara Gourmet no forno a 200° C durante 50 minutos (deixe na embalagem de plástico sem abrir).",
+      "Retire a capa de plástico e coloque mais 10 minutos no forno",
+      "Farofa",
+      "Frite o bacon, coloque o abacaxi, maçã e deixe caramelizar.",
+      "Coloque a banana.",
+      "Junte a manteiga, cebola, alho e dedo de moça.",
+      "Junte as frutas secas e a castanha.",
+      "Acrescente o biscoito água e sal e deixe tostar.",
+      "Tempere com sal, pimenta-do-reino, cebolinha e coentro",
+      "Espinafre frito",
+      "Retire as folhas do espinafre (não lave).",
+      "Frite no óleo quente e seque.",
+      "Tempere com sal",
+      "Montagem",
+      "Coloque a farofa no prato, disponha o lombo fatiado em cima, regue com molho barbecue.",
+      "Decore com espinafre frito.",
+      "Pode servir com arroz branco, purê de batata baroa, doce ou asterix.  "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SEARA GOURMET",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305812-lombo-barbecue-com-farofa-de-frutas-e-espinafre-frito.html"
+}

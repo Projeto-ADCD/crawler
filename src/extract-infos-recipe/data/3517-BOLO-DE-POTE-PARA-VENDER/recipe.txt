@@ -1,0 +1,51 @@
+{
+  "nome_receita": "BOLO DE POTE PARA VENDER",
+  "ingredientes": {
+    "MASSA:": [
+      "1/2 xícara de óleo",
+      "1 xícara de leite",
+      "3 ovos",
+      "1 xícara de chocolate em pó",
+      "1 xícara de açúcar",
+      "2 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento em pó"
+    ],
+    "RECHEIO:": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "6 colheres (sopa) de leite em pó"
+    ],
+    "CALDA:": [
+      "50 g de açúcar",
+      "100 ml de água"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "No liquidificador, misture o óleo, o leite, os ovos, chocolate em pó e o açúcar.",
+      "Bata bem.",
+      "Peneire a farinha e o fermento em pó. ",
+      "Junte a mistura do liquidificador e mexa bem até formar uma massa homogênea. ",
+      "Transfira para uma forma untada e enfarinhada.",
+      "Leve ao forno preaquecido (180° C) por cerca de 30 minutos. "
+    ],
+    "COBERTURA:": [
+      "Em uma panela, misture o leite condensado, o creme de leite e o leite em pó. ",
+      "Mexa até dar ponto de brigadeiro mole. "
+    ],
+    "CALDA:": [
+      "Misture o açúcar e a água. "
+    ],
+    "MONTAGEM:": [
+      "Esfarele o bolo frio. ",
+      "Coloque um pouco do bolo esfarelado no pote e regue com a calda. ",
+      "Adicione o recheio e coloque mais uma camada de bolo com a calda.",
+      "Repita o processo até completar o pote. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303214-bolo-de-pote-para-vender.html"
+}

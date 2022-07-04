@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BRIGADEIRÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "4 colheres de açúcar",
+      "2 colheres de manteiga",
+      "6 xícaras de chocolate em pó ou achocolatado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ligue o fogo baixo e despeje a manteiga.",
+      "Coloque toda sua caixinha de creme de leite.",
+      "Depois, adicione seu chocolate em pó ou achocolatado na sua mistura.",
+      "Mexa até ficar um tom bem escuro da sua mistura.",
+      "Adicione o açúcar.",
+      "E depois de tudo isso, coloque no congelador por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EMANUELLA AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301484-brigadeirao.html"
+}

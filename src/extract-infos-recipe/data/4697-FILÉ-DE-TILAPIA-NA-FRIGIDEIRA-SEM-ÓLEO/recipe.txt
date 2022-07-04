@@ -1,0 +1,24 @@
+{
+  "nome_receita": "FILÉ DE TILAPIA NA FRIGIDEIRA SEM ÓLEO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de filé de tilapia",
+      "1 limão",
+      "Sal a gosto",
+      "Tomilho desidratado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o filé com o sal e o limão.",
+      "Aqueça a frigideira por dois minutos em fogo médio.",
+      "Coloque os filés abertos na frigideira e polvilhe o tomilho por cima.",
+      "Regue os filés com um fio de azeite de oliva.",
+      "Deixe em fogo baixo até que esteja dourado e vire com uma espátula para dourar do outro lado."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "MARIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300402-file-de-tilapia-na-frigideira-sem-oleo.html"
+}

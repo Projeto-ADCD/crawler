@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BISCOITO DE GOIABINHA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de trigo sem fermento",
+      "100 g de açúcar",
+      "150 g de margarina",
+      "1 colher (chá) essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com as mãos. A margarina pra derreter com a temperatura da sua mão. O ponto da massa é ficar lisa sem esfarelar e sem grudar nas mãos",
+      "Dívida a massa e faça rolinhos, cortando na espessura de um pouco mais que um dedo. Então faça as bolinhas.",
+      "Arrume na assadeira com papel manteiga. Não precisa achatar, a superfície já vai ficar reta.",
+      "Leve para assar em forno preaquecido a 180°c por 10 minutos. Após assado, espere esfriar pois vai ficar bem mole.",
+      "Depois de frio coloque o recheio na parte da superfície e cole a outra parte. Então passe no açúcar e pronto.",
+      "Leve a goiabada no micro-ondas por 30 seg só para derreter um pouco. Amasse com o garfo para facilitar na hora de rechear."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "65 PORÇÕES",
+  "autor": "JOJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301031-biscoito-de-goiabinha-facil.html"
+}

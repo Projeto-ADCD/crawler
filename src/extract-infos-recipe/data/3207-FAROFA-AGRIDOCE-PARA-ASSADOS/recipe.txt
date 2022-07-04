@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA AGRIDOCE PARA ASSADOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa tempero suave",
+      "1 abacaxi em cubos",
+      "2 bananas-da-terra em cubo (cruas ou fritas)",
+      "uvas passas (preta ou branca, usei a branca)",
+      "1 cebola",
+      "2 colheres de manteiga",
+      "cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, derreta a manteiga e adicione a cebola",
+      "Acrescente as bananas em cubos e as uvas passas",
+      "Mexa bem",
+      "Em seguida acrescente os cubos de abacaxi e a farofa pronta",
+      "Para finalizar, coloque cebolinha a gosto",
+      "Essa farofa serve para acompanhar qualquer assado"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CLEIDIANE ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303736-farofa-agridoce-para-assados.html"
+}

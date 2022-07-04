@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CESTINHA DE PURÊ COM CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa para pastel (pronta ou caseira)",
+      "10 camarões pré cozidos",
+      "1 batata grande",
+      "2 colheres de manteiga",
+      "50 ml de leite",
+      "Uma colher de salsa picada",
+      "ramos de tomilho (para decorar)",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a massa para pastel em círculos um pouco maiores que o diâmetro de abertura das formas.",
+      "Forre as formas com a massa, deixando-a com lados dobrados, em forma semelhante a uma flor aberta.",
+      "Descasque e cozinhe a batata ate que fique bem amolecida, após, passe-a numa peneira e misture com uma colher de manteiga e o leite, misturando bem para incorporar o seu puré e tempere com sal e pimenta à gosto.",
+      "Recheie as massas nas formas com o puré de batata e leve ao forno (à 180º) até que a massa para pastel fique levemente morena.",
+      "Derreta 1 colher de manteiga numa frigideira para saltear os camarões, tempere com sal e pimenta à gosto e adicione a salsa picada um pouco antes de finalizar, ainda no fogo.",
+      "Retire as cestinhas das formas e adicione um camarão sobre o puré de cada uma, podendo usar um ramo de tomilho para decoração."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALEXANDRE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300053-cestinha-de-pure-com-camarao.html"
+}

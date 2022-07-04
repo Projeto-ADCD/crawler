@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BESLICÃO DE GOIABADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 e 1/2 xícara de farinha de trigo",
+      "Goiabada de corte",
+      "1 xícara de margarina",
+      "2 ovos",
+      "3/4 de açúcar",
+      "1 colher de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma bacia a farinha de trigo, depois o açúcar e misture bem.",
+      "Depois, adicione a margarina e mexa até virar uma farofa.",
+      "Depois adicione a essência de baunilha e os ovos e misture com as pontas dos dedos.",
+      "Não sove essa massa!",
+      "Após a massa estar pronta abra com um rolo de macarrão e recorte em formato de círculos do tamanho desejado.",
+      "Coloque a Goiabada nesses círculos e os enrole, coloque em uma forma untada apenas com óleo e leve ao forno em temperatura 200 graus por 20 minutos ou o tempo desejado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "35 PORÇÕES",
+  "autor": "ODELICIA CHAVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301120-beslicao-de-goiabada.html"
+}

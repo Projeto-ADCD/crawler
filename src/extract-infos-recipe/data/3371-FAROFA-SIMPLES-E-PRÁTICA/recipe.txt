@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA SIMPLES E PRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres (sopa) de manteiga",
+      "1 cebola picada",
+      "10 azeitonas verdes",
+      "1/2 xícara de palmito",
+      "cheiro-verde a gosto",
+      "bacon a gosto",
+      "2 xícaras de farinha de mandioca "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela em fogo baixo, coloque a manteiga e os outros ingredientes",
+      "Por último acrescente a farinha de mandioca",
+      "Sirva com arroz branco, bife a milanesa e salada"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Se quiser mais molhadinha coloque mais uma colher de manteiga."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CLÁUDIA FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303492-farofa-simples-e-pratica.html"
+}

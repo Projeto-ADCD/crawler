@@ -1,0 +1,27 @@
+{
+  "nome_receita": "POLENTA DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 litros de água",
+      "500 g de fubá",
+      "2 colheres (sopa) de margarina",
+      "20 ml de óleo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloquei a água em uma panela de pressão.",
+      "Deixe fever e adicione a margarina, o óleo e o sal.",
+      "Em outro recipiente, coloque o fubá e dissolva ele em água até conseguir uma",
+      "massa homogênea.",
+      "Após dissolvido, acrescente 1 pitada de sal e o despeje na panela",
+      "de pressão",
+      "Mexa até a massa começar a borbulhar, tampe e deixe na pressão por 20 minutos em fogo baixo"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALZIRA SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300953-polenta-da-vovo.html"
+}

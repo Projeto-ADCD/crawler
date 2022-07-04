@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SALADA DE PEPINO AO CREME",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pepinos médios",
+      "3 colheres (sopa) de creme de leito ou nata",
+      "1 limão (suco)",
+      "cebolinha verde picada a gosto",
+      "sal e pimenta a gosto",
+      "folhas de menta ou funcho para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte os pepinos em fatias.",
+      "Coloque os pepinos fatiados em uma travessa funda e regue-os com o suco de limão.",
+      "Acrescente a cebolinha picada e o creme de leite.",
+      "Tempere com sal e pimenta a gosto.",
+      "Leve ao refrigerador por no mínimo 2 horas.",
+      "Distribua os pepinos em uma travessa e decore com as folhas de menta ou funcho.",
+      "Sirva como salada.",
+      "PS: você pode substituir o creme de leite por iogurte grego, este não altera em nada a receita."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305406-salada-de-pepino-ao-creme.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PURÊ DE BATATA SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batata",
+      "2 colheres de água",
+      "sal a gosto",
+      "1 colher de azeite tradicional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas até ficarem bem moles.",
+      "Descasque-as ainda bem quentes e esprema as batatas no espremedor.",
+      "Despeje as batatas em um recipiente e acrescente o azeite e o sal a gosto ",
+      "Vá adicionando a água aos poucos.",
+      "Misture tudo e deixe num fogo até da a consistência."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LIA DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304771-pure-de-batata-sem-leite.html"
+}

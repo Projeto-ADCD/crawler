@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PIPOCA DE ANIVERSÁRIO COM CHOCOLATE BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "120 g de chocolate branco de boa qualidade, grosseiramente picado",
+      "6 xícaras de pipoca estourada, com pouco sal (sem manteiga)",
+      "1/4 xícaras de confeitos coloridos",
+      "Sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o chocolate em uma tigela refratária sobre uma panela de água fervente (não deixe a tigela encostar na água) ou em uma panela de banho-maria, em fogo baixo, e derreta o chocolate mexendo frequentemente.",
+      "Coloque a pipoca em uma tigela grande (ou divida entre duas tigelas) e, com uma colher, jogue o chocolate por cima da pipoca aos poucos, chacoalhando a tigela após cada adição para misturar bem.",
+      "Acrescente 2 colheres (sopa) de confeitos e uma pitada de sal, mexendo delicadamente para misturar.",
+      "Forre duas formas com papel-alumínio e espalhe a pipoca formando uma camada.",
+      "Coloque as 2 colheres (sopa) restantes de confeitos. Deixe esfriar e secar por cerca de 2 horas."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "O ideal é servir imediatamente, mas ela pode ser armazenada em um pote hermeticamente fechado em um local frio ou na geladeira (para o chocolate não derreter) por 24 horas."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "THALITA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301357-pipoca-de-aniversario-com-chocolate-branco.html"
+}

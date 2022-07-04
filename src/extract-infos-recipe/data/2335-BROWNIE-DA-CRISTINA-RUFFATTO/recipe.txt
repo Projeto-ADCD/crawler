@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BROWNIE DA CRISTINA RUFFATTO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 ovos tipo Jumbo (420 g)",
+      "500 g de açúcar",
+      "400 g de farinha de trigo",
+      "700 g de achocolatado",
+      "300 g de manteiga sem sal",
+      "100 g de nozes picadas (opcional)",
+      "10 g de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata na mão os ovos, o açúcar, a manteiga amolecida, a baunilha, e acrescente o achocolatado e a farinha de trigo.",
+      "Misture bem com um batedor.",
+      "Essa é uma massa que fica bem pesada.",
+      "Coloque em formas de brownie bem untadas e enfarinhadas (2 tabuleiros de 35 x 35 x 2cm)",
+      "Asse por aproximadamente 20 minutos até que a massa fique craquelada (rachada).",
+      "Corte em tamanho de 4 ou 5cm.",
+      "Recheie com doce de leite ou outro recheio de sua preferência e embale.",
+      "Validade: 5 dias ou 3 meses congelado."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CRISTINA RUFFATTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305456-brownie-da-cristina-ruffatto.html"
+}

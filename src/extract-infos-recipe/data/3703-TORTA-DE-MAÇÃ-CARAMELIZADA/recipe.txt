@@ -1,0 +1,29 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de açúcar",
+      "2 colheres (sopa) de margarina",
+      "1 xícara de leite",
+      "2 xícaras de farinha",
+      "1 colher (sopa) de fermento",
+      "1 maçã",
+      "1 xícara de açúcar para caramelizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bate os ovos com o açúcar e a margarina",
+      "Acrescente o leite e a farinha e misture bem",
+      "Por último as claras em neve e o fermento",
+      "Para caramelizar coloque em uma panela o açúcar em fogo baixo para caramelizar lentamente",
+      "Coloque o caramelo na forma untada e as maçãs cortadas em fatia e polvilhada com canela",
+      "Despeje a massa em cima da maçã e o caramelo, deixar assar por uns 20 minutos em temperatura de 180°C e depois baixar a 160° e deixar mais uns 10 minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIANE AIMONE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302870-torta-de-maca-caramelizada.html"
+}

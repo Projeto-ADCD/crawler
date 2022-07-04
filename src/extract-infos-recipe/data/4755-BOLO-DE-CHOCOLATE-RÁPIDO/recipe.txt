@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE RÁPIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de nescau",
+      "2 xícaras de farinha de trigo",
+      "1 xícara de água fervendo",
+      "1 xícara de óleo fervendo",
+      "1 colher de sopa de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture os ovos com o açúcar, adicione a farinha.",
+      "Ferva a água junto com o óleo e junte ao restante dos ingredientes.",
+      "Mexa vigorasamente.",
+      "Por fim, coloque o fermento e misture até ficar homogêneo."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARIANA ZANETTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300291-bolo-de-chocolate-rapido.html"
+}

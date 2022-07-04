@@ -1,0 +1,51 @@
+{
+  "nome_receita": "PUDIM MOUSSE NAPOLITANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a camada de mousse de chocolate",
+      "2 barras de chocolate ao leite",
+      "2 envelopes de gelatina sem sabor",
+      "1 caixa de leite condensado",
+      "1 caixa de creme de leite (com soro)",
+      "Para o mousse de morango",
+      "1 envelope de gelatina sabor morango",
+      "1 envelope de suco em pó sabor morango",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensando",
+      "2 envelopes de gelatina sem sabor (eu uso a incolor)",
+      "Para a mousse branca",
+      "1 caixa de creme de leite",
+      "1 caixa de leite condensando",
+      "2 envelopes de gelatina sem sabor incolor"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte uma forma com a margarina sem sal",
+      "Primeira camada: vale ressaltar que entre uma camada e outra a mousse deve descansar no freezer por meia hora (tempo para endurecer as camadas sem congelar a mousse)",
+      "Primeira camada mousse de chocolate",
+      "Coloque o chocolate em pedaços num refratário que possa ir no micro-ondas e pressione o botão de 30 em 30 segundos até que o mesmo derreta",
+      "Dissolva a gelatina em 8 colheres de água morna (aqueça a água no micro-ondas também)",
+      "No liquidificador, bata o leite condensado o creme de leite a gelatina e o chocolate",
+      "Coloque na forma untada e leve ao freezer por 30 minutos",
+      "Mousse de morango",
+      "Dissolva a gelatina de morango também em 8 colheres de água morna, isso dará maior consistência ao seu mousse.",
+      "Dissolva dois envelopes da gelatina sem sabor",
+      "No liquidificador coloque o creme de leite, leite condensado o suco em pó e as gelatinas dissolvidas",
+      "Bata por 3 minutos e coloque junto com aquela primeira camada que já estava descansando no freezer por 30 minutos.",
+      "Aguarde mais 30 minutos para colocar a 3 parte",
+      "Mousse branca",
+      "Dissolva os últimos dois envelopes de gelatina no liquidificador",
+      "Bata a gelatina, o creme de leite e o leite condensado (é importante o uso da gelatina incolor, pois essa parte será a parte branca do napolitano)",
+      "Depois desses últimos 30 minutos passe a faca ou espátula levemente pelas bordas e ele soltará com facilidade fica lindo e saboroso",
+      "Como realizei vários pratos no natal, não achei tão demorado o processo de esperar para incorporar as camadas, me apaixonei por esse mousse e os pequenos adoraram!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Como realizei vários pratos no natal, não achei tão demorado o processo de esperar para incorporar as camadas, me apaixonei por esse mousse e os pequenos adoraram!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RAY RHAMY SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303990-pudim-mousse-napolitano.html"
+}

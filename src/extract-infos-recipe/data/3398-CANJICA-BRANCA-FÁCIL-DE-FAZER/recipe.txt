@@ -1,0 +1,38 @@
+{
+  "nome_receita": "CANJICA BRANCA FÁCIL DE FAZER",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de canjica branca",
+      "2 litros de água ",
+      "1 litro de leite ",
+      "200 ml de leite de coco",
+      "100 g de coco ralado ",
+      "1 lata de leite condensado",
+      "8 g de cravo ",
+      "canela a gosto",
+      "açúcar a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a canjica em um recipiente com água e deixe descansando por mais ou menos 8 horas",
+      "Após esse período, coloca a canjica na panela de pressão e cubra com os 2 litros de água.",
+      "Após pegar pressão, marque 30 minutos e desligue a panela.",
+      "Com cuidado, tire toda a pressão e verifique se ficou cozida, caso os grãos estejam duros, coloque na pressão novamente por mais 15 minutos.",
+      "Acrescente mais água se precisar",
+      "Em uma panela, acrescente a canjica cozida e leve ao fogo.",
+      "Adicione os outros ingredientes, menos o açúcar.",
+      "Coloque uma tampa e deixe ferver um pouco.",
+      "Após uma leve fervura, verifique se a canjica ficou sem açúcar.",
+      "Se sim, acrescente o açúcar até ficar do seu gosto.",
+      "Deixei ferver por uns 15 minutos em fogo baixo e com a tampa.",
+      "Mexendo de vez em quando para não agarrar no fundo.",
+      "Desligue o fogo.",
+      "Sirva quente ou gelada"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MYCA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303442-canjica-branca-facil-de-fazer.html"
+}

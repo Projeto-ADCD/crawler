@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BRIGADEIRO DE TORTA DE LIMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 + 1/2 colher (sopa) de raspas de limão",
+      "2 colheres (sopa) de manteiga",
+      "1 caixa de creme de leite",
+      "1/4 de xícara de suco de limão",
+      "1 pacote de biscoito de maisena",
+      "1 colher (sopa) de raspas de limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela, misture o leite condensado, as raspas de limão e a manteiga.",
+      "Mexa bem, em fogo baixo, até engrossar um pouco. ",
+      "Adicione o creme de leite e o suco de limão. ",
+      "Mexa bem até ponto de brigadeiro para enrolar. ",
+      "Triture os biscoitos de maisena até formar uma farofinha.",
+      "Misture a farofinha com raspas de limão. ",
+      "Modele os brigadeiros e passe na farofinha de biscoito com limão. "
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303554-brigadeiro-de-torta-de-limao.html"
+}

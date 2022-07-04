@@ -1,0 +1,28 @@
+{
+  "nome_receita": "CREME DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola",
+      "1 creme de leite",
+      "2 dentes de alho",
+      "2 copos de leite",
+      "2 colheres de manteiga",
+      "4 colheres de amido de milho",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo a manteiga, o alho e a cebola até que fique dourado",
+      "Em seguida acrescente o leite e deixe ferver",
+      "Quando levantar fervura, coloque as colheres de amido observando o ponto do creme",
+      "Coloque sal a gosto, e por fim ponha o creme de leite.",
+      "Está pronto seu creme de cebola, pode ser servido com frango frito e arroz, ou molho para macarrão com salsicha",
+      "Use a criatividade e misture com o que mais desejar"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BRENA KÉSIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304720-creme-de-cebola.html"
+}

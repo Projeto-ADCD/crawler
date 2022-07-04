@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MACARRÃO AO MOLHO DE ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de macarrão de sua preferência",
+      "2 xícaras de leite",
+      "2 xícaras de maionese",
+      "3 tomates sem sementes picados",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "3 colheres de azeitonas sem caroço picadas",
+      "3 latas de atum (pode ser ralado ou outro tipo)",
+      "1 pacote de queijo ralado (50 g)",
+      "alho, cebola, óleo e sal a gosto"
+    ]
+  },
+  "passos": {
+    "MACARRÃO:": [
+      "Cozinhe o macarrão de sua preferência (eu prefiro usar penne) como de costume até ficar al dente, escorra e reserve"
+    ],
+    "MOLHO:": [
+      "Misture o leite e a maionese até que fique homogêneo e reserve",
+      "Em uma panela refogue o alho e cebola em óleo, junte o atum e em seguida o tomate e cozinhe até desmanchar um pouco",
+      "Acerte o sal, junte o milho, a ervilha e as azeitonas e cozinhe por mais uns 2 minutos",
+      "Em seguida junte a mistura de leite e maionese até começar a ferver",
+      "Acerte o sal se necessário e desligue o fogo"
+    ],
+    "MONTAGEM": [
+      "Num refratário grande, com a ajuda de uma concha, espalhe um pouco de molho no fundo, coloque metade do macarrão, coloque mais molho o restante do macarrão e o restante do molho",
+      "Jogue queijo ralado, leve ao forno preaquecido para gratinar de 5 a 10 minutos e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "RAFAEL ALMEIDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303603-macarrao-ao-molho-de-atum.html"
+}

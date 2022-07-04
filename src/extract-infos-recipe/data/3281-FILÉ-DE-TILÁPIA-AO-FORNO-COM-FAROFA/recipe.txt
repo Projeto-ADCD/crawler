@@ -1,0 +1,38 @@
+{
+  "nome_receita": "FILÉ DE TILÁPIA AO FORNO COM FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de tilápia",
+      "8 batatas",
+      "4 cenouras",
+      "2 cebolas em rodelas",
+      "sal a gosto",
+      "8 dentes de alho",
+      "queijo ralado a gosto (para salpicar)",
+      "alecrim a gosto",
+      "manjerona a gosto",
+      "ervas finas a gosto",
+      "1/2 xícara de shoyu ",
+      "1 limão",
+      "150 g farofa pronta tradicional",
+      "azeite para regar a gosto",
+      "2 tomate em rodelas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas e cenouras, corte-as em rodelas grossas e coloque para cozinhar por uns 30 minutos, ou seja até tiver cozidos (adicione um pouco de sal)",
+      "Tempere os filés de tilápia, com o limão, alecrim, manjerona, shoyu, sal, limão e reserve",
+      "Depois que as batatas e as cenouras estiverem cozidas, coloque-as espalhadas na forma de alumínio de 36/26 como se fosse uma cama",
+      "Adicione por cima rodelas de cebola e salpicar mais um pouco de sal a gosto, azeite e ervas finas",
+      "Colocar os filés de tilápia temperados por cima, regar com azeite e jogue a farofa pronta por cima",
+      "Coloque as rodelas de tomate para enfeitar",
+      "Salpique com o queijo ralado",
+      "Leve ao forno 180°C por 40 minutos mais ou menos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "9 PORÇÕES",
+  "autor": "MARTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303613-file-de-tilapia-ao-forno-com-farofa.html"
+}

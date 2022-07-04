@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CHURROS SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite",
+      "2 colheres de açúcar",
+      "2 colheres de manteiga",
+      "canela a gosto",
+      "180 g de farinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o leite, açúcar, manteiga e um pouco de canela, deixe ferver.",
+      "Em fogo baixo, vá colocando a farinha aos poucos (se a massa ficar mole, adicione um pouco mais de farinha até ficar firme.).",
+      "É completamente normal a farinha não se misturar totalmente",
+      "Retire a massa da panela e em um bancada amasse a massa com suas mãos, até estar bem lisa.",
+      "Faça moldes finos e frite.",
+      "Faça a calda de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "L.A.E.M",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305921-churros-superfacil.html"
+}

@@ -1,0 +1,37 @@
+{
+  "nome_receita": "COLOMBA PASCAL DELICIOSA",
+  "ingredientes": {
+    "MASSA:": [
+      "5 gemas",
+      "600 ml de leite",
+      "100 g de margarina",
+      "100 ml de óleo",
+      "100 ml de mel",
+      "1 xícara de açúcar",
+      "50 gramas de fermento biológico",
+      "1 kg de farinha de trigo",
+      "150 gramas de recheio de sua preferência"
+    ],
+    "CROCÂNCIA POR CIMA:": [
+      "2 claras",
+      "1 xícara de açúcar impalpável",
+      "1/2 xícara de farinha flocada",
+      "nozes, castanhas ou amendoim (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador (exceto a farinha).",
+      "Coloque a farinha de trigo aos poucos, misturando com os ingredientes do liquidificador.",
+      "Quando a massa desgrudar das mãos, coloque na forma de papel para colomba.",
+      "Deixe descansar até dobrar de tamanho (em média 30 minutos).",
+      "Coloque a forma de papel (para colomba pascal) em outra forma de alumínio.",
+      "Leve ao forno por 40 minutos em média.",
+      "Retire do formno e cubra com a crocância ou chocolate derretido."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NOSSO PÃO DE CADA DIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300073-colomba-pascal-deliciosa.html"
+}

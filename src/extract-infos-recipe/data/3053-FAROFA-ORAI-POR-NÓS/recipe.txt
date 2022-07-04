@@ -1,0 +1,28 @@
+{
+  "nome_receita": "FAROFA ORAI POR NÓS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1  pacote de 500 g de farofa Yoki tradicional",
+      "1 cebola média ",
+      "3 dentes de alho",
+      "20 folhas de ora-pro-nobis",
+      "1 colher (sopa) de azeite de oliva",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola e o alho e refogue no azeite até dourar",
+      "Acrescente 15 folhas de ora-pro-nobis cortadas em tiras e misture tudo.",
+      "O sal é a gosto pois a farofa já é completa.",
+      "Por último, acrescente a farofa e decore com o restante das folhas"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Carmen Barroso"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303943-farofa-orai-por-nos.html"
+}

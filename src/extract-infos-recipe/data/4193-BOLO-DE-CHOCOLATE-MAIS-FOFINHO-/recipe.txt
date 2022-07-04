@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE CHOCOLATE (MAIS FOFINHO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo de açúcar",
+      "2 copos farinha trigo",
+      "3 colheres (sopa) chocolate em pó",
+      "1/2 copo de óleo",
+      "1 xícara leite",
+      "4 colheres (sopa) vinagre branco",
+      "1 colher (sopa) fermento em pó",
+      "1 colher (sopa) essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro, faça o buttermilk caseiro: adicione 4 colheres de vinagre a 1 xícara de leite e deixe reservado durante aproximadamente 15 minutos (até talhar) antes de usar no bolo.",
+      "Na batedeira, coloque os ovos, essência de baunilha, óleo e o açúcar peneirado.",
+      "Bata até obter uma mistura lisa e homogênea.",
+      "Em seguida, adicione o leite.",
+      "Misture a farinha de trigo e o chocolate peneirados até formar uma massa de cor homogênea.",
+      "Por último, misture o fermento em pó.",
+      "Coloque numa assadeira redonda de centro furado.",
+      "Deixe assar no forno a 180º durante cerca de 45 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "HERIVELTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301614-bolo-de-chocolate-mais-fofinho.html"
+}

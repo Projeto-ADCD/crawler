@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GELATINA DE DUAS CAMADAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gelatinas do sabor de sua escolha",
+      "1 caixa de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça uma das gelatinas (de sua preferência) de acordo com as instruções da embalagem",
+      "Despeje a gelatina dissolvida em copinhos descartáveis ou em um refratário (até a metade)",
+      "Leve à geladeira até dar consistência (aproximadamente 2 horas)",
+      "Faça a outra gelatina de acordo com as instruções da embalagem",
+      "No liquidificador, bata a gelatina dissolvida e o creme de leite até obter uma mistura homogênea",
+      "Despeje a mistura em cima da outra gelatina nos copinhos ou no refratário",
+      "Leve à geladeira novamente até dar consistência (aproximadamente 3 horas)",
+      "Tire da geladeira e sirva"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304169-gelatina-de-duas-camadas.html"
+}

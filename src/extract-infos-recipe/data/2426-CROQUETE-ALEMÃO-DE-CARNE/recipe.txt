@@ -1,0 +1,31 @@
+{
+  "nome_receita": "CROQUETE ALEMÃO DE CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxão duro assado ou qualquer outro corte de carne assado e processado",
+      "Massa",
+      "2 colheres (sopa) de cebola picada",
+      "2 colheres (sopa) de margarina",
+      "1/2 xícara (chá) farinha de trigo",
+      "1 xícara (chá) de caldo de carne ou do molho que sobrou da carne",
+      "1 xícara (chá) de leite",
+      "2 colheres (sopa) de salsinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, frite a cebola na margarina até dourar.",
+      "Junte a carne, a farinha, o caldo de carne e o leite.",
+      "Cozinhe em fogo baixo até engrossar.",
+      "Adicione o cheiro-verde.",
+      "Misture e deixe esfriar.",
+      "Faça os croquetes.",
+      "Passe no ovo e na farinha de rosca, repita este processo.",
+      "Frite em óleo bem quente."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "FERNANDA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305245-croquete-alemao-de-carne.html"
+}

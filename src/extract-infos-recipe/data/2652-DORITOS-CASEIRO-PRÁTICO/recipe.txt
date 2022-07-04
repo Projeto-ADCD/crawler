@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DORITOS CASEIRO PRÁTICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara de farinha de trigo",
+      "3 sachês de tempero de carne",
+      "1/5 de xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes até ficar uniforme (usando 2 sachês de tempero)",
+      "Unte a bancada com farinha e reparta a massa em 3",
+      "Abra a massa e deixe muito fina",
+      "Fure com o garfo para não inchar",
+      "Corte em triângulos e frite",
+      "Salpique o restante do tempero por cima"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "NICOLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304738-doritos-caseiro-pratico.html"
+}

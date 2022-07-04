@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MASSA BRANCA PARA BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo (sem fermento)",
+      "2 xícaras de açúcar",
+      "1 xícara de leite",
+      "1 xícara de óleo",
+      "3 ovos",
+      "1 colher de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos inteiros, o leite, o óleo e o açúcar",
+      "Depois acrescente a farinha, bata bem até misturar o líquido com o seco",
+      "Acrescente o fermento e bata levemente para se misturarem",
+      "Unte a forma com margarina, povilhe a farinha, despeje a massa na forma e coloque no forno",
+      "Pré-aqueça o forno em 180°C e coloque a forma com a massa"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "RENATA DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303456-massa-branca-para-bolo.html"
+}

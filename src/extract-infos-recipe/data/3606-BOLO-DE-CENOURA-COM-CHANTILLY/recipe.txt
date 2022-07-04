@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE CENOURA COM CHANTILLY",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para o bolo:",
+      "260 g de farinha de trigo",
+      "260 g de açúcar branco",
+      "2 colheres (chá) de canela em pó",
+      "1/2 colher (chá) de sal",
+      "2 colheres (chá) de baunilha",
+      "1 colher (chá) de bicarbonato de sódio",
+      "4 ovos grandes",
+      "250 ml de óleo vegetal",
+      "400 g de cenoura ralada",
+      "Para o glacê:",
+      "1 colher (chá) de sabor baunilha",
+      "60 g de manteiga sem sal",
+      "140 g de açúcar de confeiteiro branco",
+      "220 g de cream cheese "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela grande, misture todos os ingredientes para a massa do bolo sem a cenoura por 5 minutos até ficar bem homogêneo.",
+      "Adicione a cenoura e mexa delicadamente com a mão.",
+      "Unte a forma do bolo com manteiga e farinha de trigo ou somente manteiga e despeje todo o conteúdo.",
+      "Asse em forno pré-aquecido por 45 a 50 minutos a 180°C ",
+      "Para o glacê simplesmente bata todos os ingredientes até ficar consistente tipo chantilly"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANDRE AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303059-bolo-de-cenoura-com-chantilly.html"
+}

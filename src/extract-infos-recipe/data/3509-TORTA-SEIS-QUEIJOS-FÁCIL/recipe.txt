@@ -1,0 +1,40 @@
+{
+  "nome_receita": "TORTA SEIS QUEIJOS FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "3 ovos",
+      "1 xícara (chá) de óleo",
+      "2 xícaras (chá) de leite",
+      "2 xícaras (chá) de farinha",
+      "1 colher (chá) de sal",
+      "3 colheres (sopa) de queijo ralado",
+      "1 colher (sopa) de fermento",
+      "Recheio",
+      "1 copo de requeijão",
+      "1 copo de requeijão sabor cheddar",
+      "200 g de provolone",
+      "200 g de muçarela",
+      "1 pecinha pequena de gorgonzola",
+      "2 saquinhos de parmesão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata no liquidificador todos os ingredientes da massa",
+      "Recheio",
+      "Pique os queijos em cubinhos.",
+      "Montagem",
+      "Coloque metade da massa em uma forma untada e enfarinhada.",
+      "Coloque os queijos picados.",
+      "Cubra com o requeijão, o cheddar e o parmesão ralado.",
+      "Acrescente o restante da massa e finalize com queijo parmesão por cima.",
+      "Asse em forno médio preaquecido por aproximadamente 50 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BRUNA SILVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303227-torta-seis-queijos-facil.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "DOCE MARAVILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de leite",
+      "1 caixa de creme de leite",
+      "4 ovos",
+      "2 colheres (sopa) acucar",
+      "2 colheres (sopa) amido de milho",
+      "1 xicara (cha) café bem forte",
+      "1/2 pacote bolacha maria"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as claras das gemas.",
+      "Coloque as claras em uma vasilha.",
+      "E em uma panela coloque as gemas, o leite condensado e o amido dissolvido no leite.",
+      "Mexa no fogo baixo, até engrossar a ponto de creme.",
+      "Depois coloque em um refratário ou taça de sobremesa.",
+      "Bata o creme de leite na batedeira, em seguida coloque o açúcar e bata novamente.",
+      "Em outra vasilha, bata as claras em neve e depois misture com o creme de leite.",
+      "Molhe a bolacha no café e coloque em cima do creme amarelo",
+      "Em seguida coloque o creme branco por cima.",
+      "Depois salpique bolacha por cima.",
+      "Leve à geladeira por 1 hora e depois e só apreciar."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ÁLVARO RAYANNE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305222-doce-maravilha.html"
+}

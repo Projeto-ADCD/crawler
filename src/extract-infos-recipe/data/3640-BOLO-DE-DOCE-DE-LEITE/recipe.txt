@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado cozido na pressão",
+      "3 ovos",
+      "1/2 xícara (chá) de leite",
+      "1/2 xícara (chá) de óleo",
+      "1 xícara (chá) de açúcar",
+      "2 xícaras (chá) de farinha de trigo",
+      "1 colher (sopa) de fermento em pó",
+      "margarina e farinha de trigo para untar",
+      "COBERTURA",
+      "400 g de doce de leite cremoso",
+      "1 lata de creme de leite",
+      "1 xícara (chá) de amendoim torrado triturado para polvilhar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador bata todos os ingredientes até ficar homogêneo.",
+      "Despeje numa forma redonda untada e enfarinhada e asse por 30 minutos",
+      "Para cobertura, bata no liquidificador o doce de leite e o creme de leite até ficar homogêneo.",
+      "Espalhe sobre o bolo e polvilhe com amendoim e sirva.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: só abra a lata de leite condensado depois que ela estiver totalmente fria"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JONAS JUNIOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302989-bolo-de-doce-de-leite.html"
+}

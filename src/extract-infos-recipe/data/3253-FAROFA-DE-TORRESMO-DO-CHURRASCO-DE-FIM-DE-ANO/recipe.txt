@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE TORRESMO DO CHURRASCO DE FIM DE ANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de barriga suína fresca com carne",
+      "1 kg de farofa torrada tradicional yoki",
+      "2 maços de coentro frescos picados",
+      "6 dentes de alho amassados",
+      "2 cebolas médias trituradas",
+      "1 colher (sobremesa) de açafrão",
+      "6 ovos cozidos ",
+      "200 g de azeitonas fatiadas e sem sementes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite a barriga suína com a carne até que fique em ponto de torresmo e escorra. ",
+      "Retire quase toda a gordura que sobrou da fritura e deixe apenas o suficiente para fritar o alho e a cebola",
+      "Frite o alho e a cebola até ficarem dourados e adicione o açafrão, ele vai amarelar a gordura",
+      "Adicione a farofa yoki e mexa até ficar com uma cor amarelada",
+      "Quando estiverem bem misturadas, adicione os maços de coentro e mexa devagar",
+      "Junte os ovos já picados",
+      "Coloque em uma travessa e adicione as azeitonas",
+      "Sirva com churrasco e pernil"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Roselanea Maria"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303657-farofa-de-torresmo-do-churrasco-de-fim-de-ano.html"
+}

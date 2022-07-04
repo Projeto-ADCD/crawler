@@ -1,0 +1,32 @@
+{
+  "nome_receita": "SUFLÊ DE CHUCHU SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 chuchu",
+      "3 ovos",
+      "1 colher (sopa) de margarina",
+      "3 colheres (sopa) de queijo parmesão",
+      "3 colheres (sopa) de farinha de trigo",
+      "3 colheres (sopa) de queijo muçarela",
+      "1 colher (café) de sal",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte os chuchus em pedaços",
+      "Coloque para cozinhar com 1 colher (café) de sal.",
+      "Após cozido, escorra a água e coloque em uma bacia e amasse grosseiramente com um garfo.",
+      "Separe as gemas das claras, bata as claras em neve em ponto bem firme.",
+      "Na bacia com chuchu adicione as 3 gemas, margarina, queijo parmesão e farinha de trigo, mexa bem com uma espátula.",
+      "Adicione 1 colher de fermento em pó e as claras em neve à massa, mexa devagar somete para misturar.",
+      "Unte uma assadeira média com margarina e polvilhe com trigo, despeje na assadeira e coloque o queijo muçarela por cima.",
+      "Leve ao forno a 230º C para assar por aproximadamente 15 a 20 minutos.",
+      "Um prato super leve e saboroso, fica uma delícia como acompanhamento de arroz branco e bife grelhado de frango."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALINE BARBIERI DA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303153-sufle-de-chuchu-superfacil.html"
+}

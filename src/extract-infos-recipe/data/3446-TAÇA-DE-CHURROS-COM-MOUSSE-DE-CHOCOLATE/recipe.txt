@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TAÇA DE CHURROS COM MOUSSE DE CHOCOLATE",
+  "ingredientes": {
+    "MASSA:": [
+      "235 ml de água",
+      "4 colheres (sopa) de manteiga",
+      "2 colheres (sopa) de açúcar mascavo",
+      "1/2 colher (chá) de sal",
+      "1 xícara de farinha de trigo",
+      "1 ovo",
+      "1 colher (chá) de essência de baunilha"
+    ],
+    "MOUSSE:": [
+      "1 lata de leite condensado",
+      "150 g de chocolate meio amargo",
+      "395 ml de creme de leite fresco",
+      "chantili a gosto"
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Em uma panela, adicione a água e a manteiga e deixe ferver. ",
+      "Acrescente o açúcar, o sal e a farinha de trigo. ",
+      "Mexa bem até formar uma massa homogênea. ",
+      "Adicione a gema e a essência de baunilha e volte a mexer até incorporar bem. ",
+      "Espere esfriar um pouco e transfira essa massa para um saco de confeitar.",
+      "Contorne a parte interna de uma forma de cupcake ou empadinha. ",
+      "Dica: unte a forma para a taça sair mais facilmente. ",
+      "Leve ao congelador por 3 horas. ",
+      "Aqueça o óleo a 175° C e frite as taças de churros.",
+      "Depois passe-as numa mistura de açúcar e canela. "
+    ],
+    "MOUSSE:": [
+      "Em uma panela, misture o leite condensado com o chocolate.",
+      "Bata o creme de leite fresco na batedeira. ",
+      "Junte com a mistura reservada. ",
+      "Leve à geladeira por 40 minutos. ",
+      "Com o auxílio de um saco de confeitar recheie as taças de churros. ",
+      "Finalize com chantili e canela. "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303350-taca-de-churros-com-mousse-de-chocolate.html"
+}

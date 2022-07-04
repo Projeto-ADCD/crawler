@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BABA GANOUSH",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 beringelas grandes,lisas e firmes",
+      "80 ml de azeite extra virgem",
+      "40g tahine",
+      "1 limão espremido e coado",
+      "1 dente picado de alho",
+      "Água gelada e sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Queime as beringelas nas bocas do fogão até ficarem moles e enrugados. Deixe esfriar e tire a casca, debaixo de água com cuidado. Punha numa vasilha e esmague com a ajuda de um garfo.",
+      "Misture em outra vasilha o tahine, o limão, o alho, mexa e vá pondo água fria até o molho ficar ralo.",
+      "Junte o molho e a beringela e tempere com sal, pimenta, e azeite e sirva acompanhado de pão pita."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LÉIA REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301130-baba-ganoush.html"
+}

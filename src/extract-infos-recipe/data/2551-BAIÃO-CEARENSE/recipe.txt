@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BAIÃO CEARENSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g bacon ou \"tocinho\"",
+      "1 kg de arroz",
+      "10 xícaras de água (2 xícaras de água para cada 1 xícara de arroz)",
+      "1 kg de feijão verde ou corda",
+      "3 dentes de alho picados",
+      "1 cebola grande picada",
+      "1 coentro picado",
+      "1 ramo de cebolinha verde picada",
+      "1/2 pimentão picado",
+      "sal a gosto",
+      "400 g de queijo tipo coalho cortado em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave o feijão verde e refogue no \"tocinho\", adicionando os seguintes temperos: cebola, tomate, pimentão, cheiro-verde (cebolinha e coentro) e o alho.",
+      "Após isso, acrescente o feijão e duas xícaras de água, reservando para cozinhar.",
+      "Quando o feijão estiver semi-cozido, acrescente o arroz e o restante da água.",
+      "Deixe cozinhar até a água secar ou até o arroz atingir o ponto, atentando para o resto de caldo que ainda ficará sobre o baião.",
+      "Nesse momento, desligue o fogo, acrescente o queijo em cubos e mexa para colocar queijo na parte de baixo.",
+      "Para acompanhar, não esqueça da macaxeira frita, carne de sol e paçoca."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LUCAS SANTOS LIMA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304960-baiao-cearense.html"
+}

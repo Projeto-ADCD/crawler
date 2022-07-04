@@ -1,0 +1,22 @@
+{
+  "nome_receita": "MILK-SHAKE DE CHOCOLATE E AMENDOIM",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pera sem casca congelada",
+      "2 colheres (sopa) de leite de coco",
+      "1 xícara (chá) de leite",
+      "3 colheres (sopa) de chocolate em pó",
+      "1 colher (sopa) de amendoim torrado sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes até ficar homogêneo.",
+      "Sirva"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304350-milk-shake-de-chocolate-e-amendoim.html"
+}

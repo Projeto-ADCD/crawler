@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MOLHO DE ALHO CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de leite integral gelado",
+      "2 dentes de alho (tirar o meio verde)",
+      "1 pitada de sal",
+      "óleo até dar ponto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, coloque o leite, alho e sal.",
+      "Após bater e ficar homogêneo, com o liquidificador ligado, coloque o óleo até dar o ponto."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MARIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303431-molho-de-alho-caseiro-facil.html"
+}

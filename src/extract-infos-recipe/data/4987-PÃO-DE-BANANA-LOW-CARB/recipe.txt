@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PÃO DE BANANA LOW CARB",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 bananas nanicas",
+      "3 ovos",
+      "1 colher (chá) de canela",
+      "1 colher (sobremesa) de fermento em pó",
+      "6 colheres (sopa) de aveia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos ingredientes em um liquidificador acrescentando por último o fermento em pó",
+      "Despeje a massa em uma forma untada e leve ao forno a 180° C por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FABIANA SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299776-pao-de-banana-low-carb.html"
+}

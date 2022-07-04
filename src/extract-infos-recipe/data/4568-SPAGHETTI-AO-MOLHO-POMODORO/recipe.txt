@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SPAGHETTI AO MOLHO POMODORO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 porções (meça com o punho) de macarrão tipo spaghetti",
+      "Azeite",
+      "Sal",
+      "10 tomatinhos cerejas cortados ao meio",
+      "1 saco de molho de tomate pronto",
+      "Manjericão",
+      "1 cebola",
+      "Alho",
+      "Páprica doce e outros temperos a gosto"
+    ]
+  },
+  "passos": {
+    "MACARRÃO": [
+      "Encha uma panela de água filtrada e coloque um fio generoso de azeite. Quando a água estiver quente, coloque a porção de macarrão e aguarde cerca de 7 a 10 minutos para o cozimento."
+    ],
+    "MOLHO:": [
+      "Em uma frigideira mais fundinha, coloque um fio de azeite e espere esquentar.",
+      "Adicione as cebolas picadas de quadradinhos e refogue-as.",
+      "Logo em seguida, adicione os tomatinhos para refogarem juntamente com a cebola.",
+      "Tempere com sal e alho picadinho.",
+      "Quando os tomatinhos estiverem bem moles, dê uma apertadinha leve neles para sair um pouco do suco e misture.",
+      "Acrescente o molho de tomate e misture até ficar homogêneo.",
+      "Acrescente outros temperos a gosto, como pimenta-do-reino, páprica doce, orégano e outros.",
+      "Gosto de colocar um pouquinho de água para ralear o molho. Fica a critério de cada um.",
+      "Deixo ferver o molho.",
+      "Prove para ver se precisa ajustar o tempero."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "THAIS FERREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300836-spaghetti-ao-molho-pomodoro.html"
+}

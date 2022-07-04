@@ -1,0 +1,48 @@
+{
+  "nome_receita": "SONHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 xícara e 1/2 de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "1/3 de xícara de leite",
+      "2 colheres (sopa) de açúcar",
+      "3 colheres (sopa) de óleo",
+      "1 tablete e 1/2 de fermento fresco",
+      "1/2 colher (chá) de sal",
+      "Recheio",
+      "2 xícara e 1/2 de leite",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de essência de baunilha",
+      "3 colheres (sopa) de amido de milho ou farinha de trigo",
+      "1 gema de ovo",
+      "1/2 caixa de leite condensado ou 2 colheres (sopa) de açúcar",
+      "corante amarelo a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma bacia o fermento biológico, açúcar, óleo, sal, leite, fermento em pó, ovo e mexa tudo",
+      "Em seguida acrescente a farinha de trigo.",
+      "Misture tudo com a colher, em seguida massageie com as mãos.",
+      "Coloque em uma mesa e rasgue a massa por uns 10 minutos até ficar lisinha.",
+      "Em seguida deixe a massa crescer por 35 minutos.",
+      "Depois faça as bolinhas do tamanho desejado e coloque em uma forma polvilhada com farinha de trigo, deixe descansar por 30 minutos.",
+      "Depois leve para o forno por 180° C por 15 minutos.",
+      "Retire ele ainda clarinho e deixe esfriar.",
+      "Aqueça o óleo em fogo baixo (não deixe o óleo muito quente) e frite as bolinhas, virando de um lado para o outro.",
+      "Deixe escorrer no papel ou em uma peneira.",
+      "Modo de preparo do recheio",
+      "Coloque tudo em uma panela e mexa bem.",
+      "Leve ao fogo baixo, mexendo até engrossar",
+      "Em seguida deixe esfriar e coloque na geladeira.",
+      "Depois só cortar os bolinhos e rechear com uma colher.",
+      "Se quiser pode polvilhar com açúcar refinado ou com açúcar de confeiteiro.",
+      "Usei o copo de medidas como referência."
+    ]
+  },
+  "tempo_de_preparo": "3 MIN",
+  "rendimento": "13 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304606-sonho.html"
+}

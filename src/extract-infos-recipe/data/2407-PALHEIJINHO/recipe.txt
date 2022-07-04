@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PALHEIJINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 caixinhas de leite condensado",
+      "1 caixinha de creme de leite",
+      "12 colheres (sopa) de leite em pó",
+      "2 colheres (sopa) de cacau em pó",
+      "1 colher (sopa) de manteiga",
+      "1 barra pequena de chocolate branco",
+      "1 pacote de biscoito maisena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela coloque 1 e 1/2 caixa de leite condensado, o cacau, manteiga e leve ao fogo, fazendo um brigadeiro não muito consistente.",
+      "Quebre os biscoitos maisena em pedaço em pequenos num bowl, junte o brigadeiro e 1/3 do creme de leite e misture. Reserve",
+      "Numa outra panela misture 1 e 1/2 caixa de leite condensado, o leite em pó, barra de chocolate branco (guardei uns quadradinhos para fazer um ganache branco para enfeitar) e leve ao fogo até começar desprender da panela.",
+      "Retire do fogo e misture 1/3 do creme de leite e misture. Reserve.",
+      "Num marinex retangular pequeno, com lados altos, forre com plástico filme e unte com um pouco de manteiga.",
+      "Coloque 1/3 da palha italiana no fundo, ajeitando com uma colher (passei manteiga na parte de trás da colher para ajudar a espalhar)",
+      "Depois coloque metade do beijinho e espalhe.",
+      "Coloque mais 1/3 da palha italiana, depois o restante do beijinho e por último, o restante da palha italiana.",
+      "Leve à geladeira por umas 3 horas, para dar consistência.",
+      "Numa travessa, vire o marinex com jeito até que solte (vale ajudar puxando com cuidado o plástico filme).",
+      "Retire o filme com cuidado.",
+      "Salpique com leite em pó e com o chocolate branco restante, derreta e coloque um pouco de creme de leite fazendo um ganache mais mole e enfeite à vontade."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "DONZÍLIA FELICIANA FONTES OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305294-palheijinho.html"
+}

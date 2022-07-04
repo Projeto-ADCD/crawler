@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ESTROGONOFE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1/2 lata de creme de leite",
+      "1 colher (sopa) de manteiga",
+      "3 colheres de chocolate em pó",
+      "Nozes picadas",
+      "Passas",
+      "Pedacinhos de chocolate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o leite condensado, o chocolate e a manteiga e leve ao fogo até dar o ponto de soltar da panela.",
+      "Adicione o creme de leite.",
+      "Despeje direto na vasilha que irá servir a sobremesa e adicione as nozes, o chocolate picado e as passas, a gosto, por cima da sobremesa, e não misture."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "WANNESSA AQUINO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300358-estrogonofe-de-chocolate.html"
+}

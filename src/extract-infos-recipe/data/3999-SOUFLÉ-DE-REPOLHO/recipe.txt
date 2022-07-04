@@ -1,0 +1,29 @@
+{
+  "nome_receita": "SOUFLÉ DE REPOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 repolho pequeno picado e cozido",
+      "2 ovos crus",
+      "1/2 copo (americano) de óleo",
+      "2 colheres (sopa) de farinha de trigo (sem fermento)",
+      "1 pacote 50g de queijo ralado",
+      "1/2 molho de cheiro verde",
+      "Sal a gosto",
+      "Se quiser, pode colocar queijo e presunto (picado em cubos ou fatiado)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhar o repolho e reserve.",
+      "No liquidificador bata todos os ingredientes, menos o repolho, o queijo e o presunto.",
+      "Após bater misture com o repolho o queijo e presunto.",
+      "Unte uma forma de aproximadamente 40 cm com óleo.",
+      "Despeje na forma e asse a 220 graus° por aproximadamente 40 minutos, ou até o garfo sair seco e estiver levemente dourado por cima (varia de forno o tempo).",
+      "Espere esfriar um pouco para servir."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "PATRÍCIA FARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302226-soufle-de-repolho.html"
+}

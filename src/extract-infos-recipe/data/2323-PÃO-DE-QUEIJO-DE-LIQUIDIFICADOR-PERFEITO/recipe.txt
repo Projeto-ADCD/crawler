@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE LIQUIDIFICADOR PERFEITO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1/2 xícara de oleo",
+      "1 xícara de leite morno",
+      "100 g de queijo de sua preferência",
+      "sal a gosto",
+      "2 xícaras de polvilho azedo",
+      "1/2 xícara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno por 15 minutos.",
+      "Bata todos os ingredientes no liquidificador até obter uma consistência cremosa por 5 minutos.",
+      "Unte forminhas de empada com óleo",
+      "Asse por cerca de 30 minutos",
+      "Perfeito para servir com café."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANDRÉ SARTORI KNECHTEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305487-pao-de-queijo-de-liquidificador-perfeito.html"
+}

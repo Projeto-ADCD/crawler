@@ -1,0 +1,46 @@
+{
+  "nome_receita": "RAVIOLI DE ESPINAFRE AO MOLHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 molho de espinafre grande",
+      "500g de farinha de trigo",
+      "200g de ricota defumada",
+      "100g de queijo gorgonzola",
+      "100g de queijo parmesão ralado",
+      "2 ovos",
+      "1 colher (café) de noz-moscada ralada",
+      "Azeite",
+      "6 folhas de sálvia",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as folhas do espinafre, lave-as bem e seque-as.",
+      "Em uma panela funda coloque um pouco de azeite e acrescente as folhas de espinafre.",
+      "Deixe dar uma breve refogada.",
+      "Coloque as folhas de espinafre refogadas em um liquidificador.",
+      "Acrescente os ovos, a ricota, o gorgonzola, metade do parmesão, a noz-moscada, as folhas de sálvia e tempere com sal e pimenta a gosto.",
+      "Cuide para não por muito sal pois os queijos já são salgados.",
+      "Bata tudo muito.",
+      "A massa deverá ficar como um creme.",
+      "Em uma tigela funda, coloque a metade da farinha de trigo.",
+      "Faca uma depressão no centro e acrescente a massa de espinafre.",
+      "Vá misturando tudo muito bem e acrescente farinha quando necessário.",
+      "A massa final não deve grudar na mão.",
+      "Enrole a massa em papel filme e deixe repousar por 1 hora no refrigerador.",
+      "Retire a massa do refrigerador e abra em porções pequenas com um rolo de massa.",
+      "Deixe a massa com uma espessura de mais ou menos 1/2 cm.",
+      "Corte a massa estendida em quadradinhos regulares e coloque os ravioles em uma bandeja enfarinhada para não grudarem.",
+      "Faça um molho de sua preferência bem encorpado (pode ser de tomate, de cebola, de queijo, etc).",
+      "Em uma panela funda coloque água e 2 colheres de sopa de sal e deixe aquecer.",
+      "Vá colocando os ravioles aos poucos e quando boiarem retire-os com uma escumadeira.",
+      "Quando tiver todos cozidos acrescente o molho de sua preferência e polvilhe com o restante do queijo parmesão ralado.",
+      "Sirva em seguida acompanhado de uma carne e uma boa salada."
+    ]
+  },
+  "tempo_de_preparo": "12090 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IRAN CARLOS STALLIVIERE CORREA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301744-ravioli-de-espinafre-ao-molho.html"
+}

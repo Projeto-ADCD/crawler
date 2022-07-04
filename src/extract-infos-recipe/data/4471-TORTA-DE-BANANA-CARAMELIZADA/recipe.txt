@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE BANANA CARAMELIZADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xícaras de açúcar peneirado (400 ml)",
+      "1 xícara de óleo (200 ml)",
+      "1 xícara de leite (200 ml)",
+      "3 xícara de farinha de trigo (600 ml)",
+      "1 colher de (sopa) de fermento",
+      "8 bananas"
+    ]
+  },
+  "passos": {
+    "MODO DE PREPARO:": [
+      "Pré aqueça o forno.",
+      "Unte a forma média com furo no meio com margarina e farinha de trigo.",
+      "Corte as bananas ao meio e forre o fundo e bordas da forma já untada (separe duas bananas).",
+      "Em uma panela, derreta o açúcar. Quando derreter as bolinhas de açúcar, adicione 1/2 xícara de água e mexa até misturar bem.",
+      "Jogue a calda na forma já untada e sobre as bananas.",
+      "Em uma tigela, coloque os ovos, açúcar, óleo, leite e farinha de trigo. Misture bem.",
+      "Coloque as duas bananas picadas e por último o fermento.",
+      "Despeje a massa na forma e leve ao forno.",
+      "Asse a 280 graus por 30 minutos e depois abaixe o fogo para 180 graus e deixe assar entre 20 a 30 minutos nesta temperatura.",
+      "Pode desenformar quente ou morno."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "AMANDA DOS SANTOS COSTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301034-torta-de-banana-caramelizada.html"
+}

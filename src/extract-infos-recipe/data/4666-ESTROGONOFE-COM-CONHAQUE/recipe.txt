@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ESTROGONOFE COM CONHAQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de filé cortado em cubos",
+      "200 g de cebola picada",
+      "4 colheres (chá) de azeite",
+      "10 g de páprica picante",
+      "1/2 dose de conhaque",
+      "100 g de champignon",
+      "100 ml de leite",
+      "100 ml de creme de leite",
+      "100 g de molho de tomate pelado amassado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a carne com sal e pimenta a gosto",
+      "Sele a carne na frigideira com o azeite",
+      "Acrescente cebola, páprica, champignon e o conhaque",
+      "Adicione os tomate e deixe reduzir",
+      "Adicione o leite e o creme e mexa até formar o molho."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "FERNANDO MURTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300486-estrogonofe-com-conhaque.html"
+}

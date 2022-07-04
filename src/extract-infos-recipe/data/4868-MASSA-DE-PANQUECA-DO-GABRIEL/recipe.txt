@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MASSA DE PANQUECA DO GABRIEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "3 colheres (sopa) de azeite ou óleo",
+      "1 xícara de leite (240 ml)",
+      "1 pitada de sal",
+      "1 xícara de farinha de trigo, arroz ou aveia"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um refratário adicione os ovos, o azeite/óleo, o leite e o sal",
+      "Bata tudo em um liquidificador ou misture com um fouet (aquele utensílio semelhante a colher de batedeira) por 2 minutos",
+      "Em seguida, adicione a farinha e bata/misture bem até formar um líquido homogêneo (este é o ponto da massa)",
+      "A sua massa está pronta!",
+      "Agora, é só pegar uma concha de feijão cheia da massa e distribuir bem em uma frigideira untada de azeite/óleo.",
+      "E assim, sucessivamente!"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "GABRIEL FORATO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300044-massa-de-panqueca-do-gabriel.html"
+}

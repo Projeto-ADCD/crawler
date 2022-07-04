@@ -1,0 +1,25 @@
+{
+  "nome_receita": "ARROZ COM CENOURA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cenoura ralada",
+      "3 dentes de alho",
+      "1/2 cebola",
+      "2 copos de arroz lavado",
+      "2 colheres de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela coloque o alho triturado, a cenoura e a cebola.",
+      "Acressente o óleo",
+      "Quando a cenoura estiver ficando bem refogada coloque o arroz",
+      "Quando o arroz estiver bem sequinho coloque a quantidade de água de sua prefefencia.",
+      "So esperar secar e o arroz está pronto"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ADRIANA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300295-arroz-com-cenoura.html"
+}

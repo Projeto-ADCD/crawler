@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TORTA NEGRESCO QUE NÃO VAI NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de biscoito negresco",
+      "1 lata de creme de leite",
+      "1 leite condensado",
+      "2 coleres de manteiga",
+      "1 suco do limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primero, tire os recheios de todos os biscoito, junte-os e triture até virarem uma farofa.",
+      "Acrescente duas coleres de manteiga na farofa de biscoito, misture até dar ponto.",
+      "Depois, forre a massa numa forma (de preferência com fundo falso) de 20cm.",
+      "Pegue o leite condensado e o creme de leite bata no liquidificador por 3 minutos ai coleque o soco do limã deixe bate por mais 3 minutos.",
+      "Acrescente o creme por cima da massa e leve ao freezer por 2 horas ou até ficar dura.",
+      "Pegue uma panela, bote uma colher de manteiga e deixe derreter.",
+      "Adicione os recheio do biscoito e bote um pouco de leite e misture até dar o ponto.",
+      "Depois da torta pronta, jogue a conbertura por cima do creme e leve à geladeira por 30 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "IGOR GUEDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301628-torta-negresco-que-nao-vai-no-forno.html"
+}

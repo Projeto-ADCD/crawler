@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLO DE CREME DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha de trigo ",
+      "4 ovos ",
+      "1 e 1/2 xícara de açúcar ",
+      "1 xícara de óleo ",
+      "1 caixa de creme de leite (200 ml)",
+      "1 colher de fermento em pó ",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Peneire a farinha de trigo e reserve em um recipiente",
+      "No liquidificador adicione os ovos, o açúcar, o óleo e o creme de leite",
+      "Bata essa mistura por 2 minutos ",
+      "Despeje essa mistura no recipiente onde está a farinha e misture bem",
+      "Por último acrescente o fermento em pó e mexa somente para misturar",
+      "Leve em forno preaquecido a 180° C de 35 a 50 minutos dependendo do seu forno ",
+      "Faça o teste do palitilo e se sair limpo está pronto",
+      "Não esqueça de untar a forma",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Medida da forma com furo: 22 cm por 8 cm de altura\nDepois é só ser feliz... Beijos"
+    ]
+  },
+  "tempo_de_preparo": "35 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "JAINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299696-bolo-de-creme-de-leite.html"
+}

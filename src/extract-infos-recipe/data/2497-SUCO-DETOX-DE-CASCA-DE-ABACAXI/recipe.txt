@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DETOX DE CASCA DE ABACAXI",
+  "ingredientes": {
+    "DEFAULT": [
+      "cascas de 1 abacaxi médio picadas (bem lavadas com escovinha antes de descascar o abacaxi)",
+      "raspas de gengibre a gosto",
+      "hortelã (12 folhas)",
+      "1 xícara de açúcar orgânico, adoçante ou a gosto",
+      "1 litro de água filtrada e gelada (se preferir, pode fazer metade água filtrada e outra metade com água de coco e assim, não acrescentar açúcar)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "em um liquidificador, bata todos os ingredientes e coe utilizando uma peneira.",
+      "Obs: se fizer com água de coco, triture as cascas, gengibre e hortelã em 1/2 litro água filtrada primeiro",
+      "Coe e depois bata novamente o suco já coado com 1/2 litro de àgua de coco no liquidificador.",
+      "Sirva geladinho com um galinho de hortelã"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "RITA MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305075-suco-detox-de-casca-de-abacaxi.html"
+}

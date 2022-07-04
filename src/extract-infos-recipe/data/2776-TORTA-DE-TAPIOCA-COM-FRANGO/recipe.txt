@@ -1,0 +1,46 @@
+{
+  "nome_receita": "TORTA DE TAPIOCA COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "8 colheres (chá) tapioca",
+      "4 ovos",
+      "6 colheres (sopa) de requeijão ",
+      "1 colher (chá) de fermento",
+      "1/2 colher (chá) de sal",
+      "Recheio",
+      "300 g de frango cozido e desfiado",
+      "2 colheres (sopa) de azeite",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1/2 cenoura ralada",
+      "2 tomates sem semente",
+      "150 g de mussarela picada",
+      "1 colher (chá) de páprica doce",
+      "1 colher (chá) de açafrão",
+      "orégano a gosto e salsinha picada a gosto",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "mussarela ou parmesão ralado para finalizar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente misture a tapioca, os ovos, o requeijão o fermento, o sal e reserve.",
+      "Em uma panela funda, coloque o azeite e refogue a cebola até murchar.",
+      "Coloque o alho e quando começar a dourar, acrescente o frango.",
+      "Junte os tomates, a páprica, o açafrão, a pimenta e o sal.",
+      "Espere esfriar.",
+      "Acrescente o frango refogado, a cenoura, a mussarela e a salsinha à mistura de tapioca.",
+      "Acerte o sal e a pimenta.",
+      "Transfira para uma forma untada e enfarinhada e polvilhe parmesão ralado por cima.",
+      "Leve ao forno preaquecido a 180º C por cerca de 20 minutos ou até que a torta esteja dourada e cozida por dentro.",
+      "Pode fazer o teste do palito para ver se está pronto.",
+      "Depois disso é só servir!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304448-torta-de-tapioca-com-frango.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE CALABRESA ESPECIAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 colheres (sopa) de manteiga",
+      "1 xícara (240 ml) de linguiça defumada ou toscana",
+      "1/2 cebola picada",
+      "1 dente de alho picado",
+      "200 g de farofa pronta sabor cebola",
+      "1/2 xícara de milho verde",
+      "1/2 xícara de uva passas",
+      "1 colher (sobremesa) de pimenta calabresa",
+      "sal a gosto",
+      "cheiro-verde a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela preaquecida coloque a manteiga e espere derreter",
+      "Adicione a linguiça e deixe começar a dourar",
+      "Adicione a cebola e o alho, espere dourar juntamente com a linguiça",
+      "Coloque a farofa e misture até incorporar com os ingredientes que estão fritos na panela",
+      "Adicione o milho, a uva passa, a pimenta calabresa e o sal, misture e experimente o sabor para ver se está bom de sal",
+      "Transfira para o refratário que será servido e salpique cheiro verde à gosto por cima para decorar e sirva."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: essa farofa é ideal para acompanhar um delicioso frango assado ou aquele churrasco com a família."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "TATA MEDEIROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303573-farofa-de-calabresa-especial.html"
+}

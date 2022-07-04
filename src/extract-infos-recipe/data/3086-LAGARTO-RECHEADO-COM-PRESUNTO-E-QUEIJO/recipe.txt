@@ -1,0 +1,41 @@
+{
+  "nome_receita": "LAGARTO RECHEADO COM PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1,5 a 2 kg de lagarto",
+      "1 cebola média",
+      "1 cabeça de alho",
+      "pimenta-do-reino a gosto",
+      "cebolinha e cheiro-verde a gosto",
+      "2 copos (americano) de água",
+      "sal a gosto",
+      "3 caldos de carne",
+      "2 latas de creme de leite",
+      "500 g de queijo mussarela (ou da sua preferência)",
+      "500 g de presunto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe a peça de lagarto e faça furos profundos para o tempero penetrar na carne.",
+      "Em um liquifificador adicione a água, cebola, alho, cheiro-verde, cebolinha, pimenta-do-reino e sal e bata.",
+      "Coloque o lagarto em um saco (zip-lock) e adicione a mistura do liquidificador.",
+      "O ideal é deixar o lagarto no tempero por 1 dia, mas se estiver sem tempo pode deixar 30 minutos e um lado, depois vire e deixa 30 minutos do outro lado.",
+      "Adicione óleo em uma panela de pressão grande e coloque o lagarto sem o caldo do tempero.",
+      "Deixe dourar sempre virando a carne.",
+      "Adicione o tempero que fico no saco plástico, o caldo de carne e se necessário mais água.",
+      "Tampe a panela, assim que pegar pressão deixe cozinhar por 45 minutos.",
+      "Retire o lagarto e deixe esfriar.",
+      "Cozinhe o caldo que restou e adicione o creme de leite.",
+      "Se o caldo estiver ralo adicione 1 colher de amido de milho dissolvida em um pouco de água até engrossar.",
+      "Em um refratário corte o lagarto em fatias, porém não corte até o final deixando a peça inteira.",
+      "Entre as fatias de lagarto adicione uma fatia de presunto e queijo.",
+      "Cubra a peça com o caldo de creme de leite",
+      "Coloque no forno para derreter o queijo e sirva acompanhado de arroz."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARIA CLARA BONUTI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303901-lagarto-recheado-com-presunto-e-queijo.html"
+}

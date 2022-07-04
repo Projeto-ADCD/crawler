@@ -1,0 +1,29 @@
+{
+  "nome_receita": "DOCE TRUFADO DE UVA VERDE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de uva verde sem sementes",
+      "3 caixas de creme de leite",
+      "2 latas de leite condensado",
+      "2 barras de chocolate ao leite",
+      "1 barra de chocolate meio amargo",
+      "2 colheres de sopa de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as uvas em pedaços pequenos.",
+      "Derreta os chocolates em banho-maria ou no micro-ondas.",
+      "Misture com 2 caixas de creme de leite e reserve.",
+      "Derreta a margarina e em seguida acrescente o leite condensado.",
+      "Mexa até ficar com textura de beijinho, misture com uma caixinha de creme de leite.",
+      "Em uma tigela de vidro, coloque o creme branco e cubra com os pedaços de uva.",
+      "Deixe no freezer por 15 minutos.",
+      "Cubra as uvas com o ganache."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CAROLINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300305-doce-trufado-de-uva-verde.html"
+}

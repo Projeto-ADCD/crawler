@@ -1,0 +1,51 @@
+{
+  "nome_receita": "ROCAMBOLE DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "MASSA",
+      "4 ovos",
+      "150 g açúcar refinado (se não tiver, bata o açúcar normal no liquidificador que ele virar refinado)",
+      "50 g de chocolate em pó",
+      "1 colher (chá) de essência de baunilha",
+      "1 col de chá de fermento em pó (royal)",
+      "RECHEIO",
+      "150 ml de leite integral",
+      "1 colher (sopa) de creme de leite sem soro",
+      "1 colher (sopa) de açúcar refinado",
+      "1 colher (sopa) de amido de milho",
+      "1 gema de ovo peneirado",
+      "200 g de chocolate em pó",
+      "COBERTURA",
+      "1/2 caixinha de creme de leite",
+      "3 colhres (sopa) de açúcar refinado",
+      "1 colher (sopa) de manteiga",
+      "4 colher (sopa) de chocolate em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "MASSA",
+      "Bata os ovos e o açúcar até virar uma espuma (eu peneirei os ovos pra não ficar cheiro nem gosto de ovo)",
+      "Acrescente o restante dos ingredientes e bata até ficar uma massa homogênea",
+      "Leve pra assar numa forma retangular untada com manteiga pois é mais fácil de desenformar depois",
+      "Forno preaquecido a 180° C por 30 minutos! Como a massa fica fina, é bem rápido pra assar",
+      "Quando ficar pronto desenforme, ainda quente, em cima de um pano de prato úmido, polvilhado de açúcar cristal! Isso ajuda na hora de enrolar",
+      "Se preferir mais fina, passe um rolo de massa pra afinar um pouco mais o bolo",
+      "O ideal é que fique com mais ou menos 1 dedo de altura",
+      "RECHEIO",
+      "Leve ao fogo uma panela com o leite, creme de leite e o açúcar até levantar fervura",
+      "Acrescente a gema, maizena e o chocolate e mexa bem até ficar consistente e brilhosa",
+      "COBERTURA",
+      "Leve todos os ingredientes juntos ao fogo mexendo sempre até engrossar",
+      "MONTAGEM",
+      "Depois de desenformar e abrir um pouco mais a massa (ainda quente) com um rolo, despeje o recheio e espalhe por toda a massa",
+      "Com a ajuda do pano de prato, enrole a massa",
+      "Depois de enrolada, despeje a cobertura por cima do rolo!",
+      "Dica: eu salpiquei nozes trituradas por cima do recheio, antes de enrolar, e também por cima dele pronto"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "AMANDA GADANI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305862-rocambole-de-chocolate.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FATIA CASEIRA SEM LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "500 ml de água morna",
+      "1/2 xícara de açúcar",
+      "800 g de farinha de trigo",
+      "60 ml de óleo",
+      "1 pacote de fermento granulado para pão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma vasilha, acrescente metade da farinha e o fermento",
+      "Misture e acrescente o açúcar, o ovo, o óleo e a água",
+      "Vá acrescentando a farinha aos pouco até dar ponto de desgrudar",
+      "Deixe descansar coberta de um pano por 20 minutos",
+      "Modele a seu gosto e deixe crescer por 40 minutos a 1 hora",
+      "Pincele com o outro ovo e leve ao forno até dourar"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JESSICA RIBEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305150-fatia-caseira-sem-leite.html"
+}

@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLINHAS DE QUEIJO COM BATATA DA TIA MARLY",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango desfiado",
+      "5 kg de batatas",
+      "2 cebolas",
+      "2 tabletes de caldo de galinha",
+      "farinha de trigo (o quanto baste para dar a liga)",
+      "1 lata de molho de tomate",
+      "ketchup a gosto",
+      "3 gemas",
+      "200 ml de leite",
+      "2 colheres (sopa) de margarina",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o peito com os temperos: sal, as cebolas, 1 caldo de galinha e pimenta-do-reino",
+      "Desfie o peito e faça um creme com o leite, a farinha, o molho de tomate e o ketchup (recheio para empadão)",
+      "Amasse as batatas e utilize 30% para fazer um purê com manteiga e leite",
+      "No restante, acrescente as gemas, margarina e farinha de trigo até formar uma massa parecida com coxinha",
+      "Forre o refratário com o creme de frango (se quiser, coloque palmito também)",
+      "Em seguida, forre a segunda camada com o purê",
+      "Por último, faça bolinhas com a massa e recheie cada bolinha com um cubo de mussarela",
+      "Coloque as bolotinhas lado a lado, bem próximas umas das outras e polvilhe com queijo ralado",
+      "Coloque para gratinar",
+      "Coloque uma forma debaixo do refratário porque o prato pode transbordar ao assar"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LISSA CRISTINA PIMENTEL NAZARETH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303403-bolinhas-de-queijo-com-batata-da-tia-marly.html"
+}

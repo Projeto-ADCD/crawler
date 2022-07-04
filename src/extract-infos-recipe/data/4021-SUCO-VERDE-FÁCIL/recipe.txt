@@ -1,0 +1,22 @@
+{
+  "nome_receita": "SUCO VERDE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 folha de couve",
+      "1 laranja sem casca e sem sementes",
+      "1 colher (chá) de gengibre em pó ou 1 colher de raspas de gengibre",
+      "100 ml de água gelada (pode-se usar a de coco)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Acrescente todos os ingredientes e bata rapidamente.",
+      "Coe e tome em seguida.",
+      "É um ótimo termogênico."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "CAMILA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302121-suco-verde-facil.html"
+}

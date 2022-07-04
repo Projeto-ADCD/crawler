@@ -1,0 +1,37 @@
+{
+  "nome_receita": "MASSA DE EMPADÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de trigo (com ou sem fermento)",
+      "250 g de manteiga (ou margarina) gelada",
+      "1/2 xícara de água gelada",
+      "1 ovo inteiro e 1 clara",
+      "1 gema (para pincelar a massa no final)",
+      "se você for fazer de frango e tiver o caldo do frango, então use-o no lugar da água, o caldo também precisará estar gelado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloca o trigo numa bacia ou numa bancada, acrescente o ovo inteiro + clara e a manteiga",
+      "Amasse com as mãos mesmo até formar uma farofa e os ingredientes estiverem todos misturados",
+      "Pode ser que só com a manteiga e ovo a massa chegue no ponto.",
+      "O ponto é quando a massa solta da mão e/ou da bancada.",
+      "Se ela não estiver grudando quer dizer que está boa.",
+      "Se estiver muito seca então acrescente a água aos poucos e se ficar muito grudenta você coloca trigo aos poucos até dar o ponto",
+      "Se já fez isso então está na hora de pegar a massa e botar dentro de um saco plástico e levar para a geladeira e deixá-la descansando por cerca de 30 min",
+      "Após o tempo determinado acima, pegue uma forma (você pode untar a forma ou não, fique a vontade)",
+      "Forre o fundo da forma com metade da massa e vai abrindo com as mãos até cobrir o fundo e as laterais da fôrma",
+      "Fure a massa aberta na fôrma com um garfo e coloque o recheio que você decidiu usar",
+      "A outra metade da massa abra sobre um saco plástico aberto com o auxílio de um rolo ou qualquer objeto cilíndrico grosso. Abra a massa do tamanho mais ou menos da fôrma (pode ir colocando a massa em cima pra medir)",
+      "Agora coloque a massa bem aberta por cima do recheio e dá uma apertadinha nas laterais pra juntar com a massa das laterais",
+      "Passe a gema na massa com auxílio de um pincel (ou seus dedos mesmo), passe por toda superfície da massa",
+      "Leve ao forno preaquecido a uns 180° C 200ºC (dependendo do seu forno) por 30 minutos ou até dourar",
+      "Após dourar, retire do forno (cuidado pra não se queimar). Se estiver desesperado pode cortar e comer logo, mas eu aconselho esperar esfriar um pouco",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "O RESTAURANTE NO FIM DO UNIVERSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305092-massa-de-empadao.html"
+}

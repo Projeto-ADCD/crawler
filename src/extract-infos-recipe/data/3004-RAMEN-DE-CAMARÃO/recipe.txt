@@ -1,0 +1,41 @@
+{
+  "nome_receita": "RAMEN DE CAMARÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de camarão",
+      "2 colheres (sopa) de óleo vegetal",
+      "50 g de salada (alface, cenoura, repolho)",
+      "cebolinha a gosto",
+      "1 colher (sopa) de cebola picada",
+      "1/2 colher (sopa) de molho chili",
+      "950 ml de caldo de frango",
+      "1 colher (sopa) de molho de soja",
+      "1 colher (sopa) de alho em pó",
+      "1/2 colher (sopa) de gengibre em pó",
+      "2 ovos",
+      "55 g de macarrão ramen"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça 1 colher de óleo em uma panela grande em fogo médio",
+      "Após um minuto e meio coloque o camarão na panela",
+      "Vire de minuto em minuto até atingir o ponto desejado",
+      "Remova o camarão da panela e separe-o",
+      "Acrescente a outra colher de óleo na panela, eleve o fogo para médio alto e coloque a salada, a cebolinha, a cebola e o molho chili na panela",
+      "Deixe por 2 minutos, mexendo ocasionalmente",
+      "Coloque o caldo de frango, o molho de soja, o alho em pó e o gengibre em pó na panela",
+      "Mexa um pouco",
+      "Coloque os dois ovos sem casca separadamente na panela",
+      "Deixe por 5 minutos",
+      "Retire os ovos e separe-os",
+      "Coloque o macarrão e o camarão na panela",
+      "Deixe pelo tempo recomendado no pacote do macarrão",
+      "Sirva a gosto"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "HILÁRIO FERNANDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304006-ramen-de-camarao.html"
+}

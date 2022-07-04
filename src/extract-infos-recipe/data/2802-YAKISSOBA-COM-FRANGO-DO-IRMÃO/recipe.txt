@@ -1,0 +1,39 @@
+{
+  "nome_receita": "YAKISSOBA COM FRANGO DO IRMÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      " ",
+      "1 miojo (qualquer marca)",
+      "4 colheres (sopa) de óleo",
+      "1/2 cebola picada",
+      "1 dente de alho ou 1 colher (sobremesa) de tempero de alho com sal",
+      "1 colher (sopa) molho inglês",
+      "1 colher (sopa) óleo de gergelim",
+      "200 g de frango em cubo",
+      "1/2 cenoura cortada em fios",
+      "1/4 de repolho branco picado",
+      "5 vagens picadas",
+      "25 ml de shoyu (lembramos que o shoyu tem sal portanto se aumentar a dosagem pode ser que fique salgado)",
+      "150 ml de água",
+      "1 colher (sobremesa) de amido de milho",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque as colheres de óleo, a cebola e o alho (ou tempero pronto de alho), deixe dourar",
+      "Coloque o frango até ganhar cor",
+      "Adicione as colheres de molho inglês e óleo de gergelim",
+      "Adicione os legumes (repolho branco, cenoura e vagem)",
+      "Adicione os 150 ml de água",
+      "Neste momento coloque o miojo pra cozinhar no qual leva em média 3 minutos já na água quente",
+      "Adicione o molho shoyu, misture tudo bem e deixe cozinhar por uns 5 minutos",
+      "Retire o miojo do fogo, tire toda a água com uma peneira ou escorredor e coloque o macarrão dentro da panela",
+      "Adicione a água com amigo para engrossar o molho, quando acontecer desligue o fogo e sirva rapidamente, se desejar um caldo menos grosso, diminua a dosagem "
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "GRÁFICA SUA IMPRESSORA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304402-yakissoba-com-frango-do-irmao.html"
+}

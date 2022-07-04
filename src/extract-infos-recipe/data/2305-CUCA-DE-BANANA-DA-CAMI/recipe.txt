@@ -1,0 +1,44 @@
+{
+  "nome_receita": "CUCA DE BANANA DA CAMI",
+  "ingredientes": {
+    "DEFAULT": [
+      "Para a massa",
+      "3 ovos",
+      "1 copo de açúcar",
+      "8 colheres (sopa) de óleo",
+      "1 colher de café de essência de baunilha",
+      "1 banana amassada",
+      "3 copos de farinha de trigo",
+      "1 copo de leite",
+      "2 colheres (sopa) rasas de fermento químico",
+      "Para a cobertura",
+      "1/2 copo de açúcar",
+      "1/2 copo de farinha",
+      "2 colheres (sopa) cheias de margarina",
+      "canela em pó a gosto",
+      "2 bananas cortadas em rodelas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture os ovos, açúcar, óleo e essência de baunilha, acrescente a farinha e o leite aos poucos, bata bem.",
+      "Coloque a banana amassada e o fermento.",
+      "Misture até formar uma massa grossa e volumosa.",
+      "Cobertura",
+      "Misture a farinha, o açúcar, a canela e a margarina até formar uma massa esfarelada.",
+      "Despeje a massa numa forma retangular untada com óleo.",
+      "Coloque por cima as 2 bananas cortadas e a massa esfarelada.",
+      "Asse em forno preaquecido 200° C por 30 a 40 minutos, e até dourar a cobertura.",
+      "ps.: pode substituir a banana por qualquer outra fruta ou geleia.",
+      "Pode colocar dois tipos de frutas na mesma cuca.",
+      "Ex: maçã e banana.",
+      "Fica ótimo.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAMILA CB",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305524-cuca-de-banana-da-cami.html"
+}

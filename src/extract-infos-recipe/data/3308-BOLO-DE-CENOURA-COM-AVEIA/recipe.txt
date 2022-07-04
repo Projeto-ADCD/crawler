@@ -1,0 +1,36 @@
+{
+  "nome_receita": "BOLO DE CENOURA COM AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "2 cenouras médias",
+      "1 copo (americano) de óleo",
+      "2 copos de farinha de trigo",
+      "1 copo de aveia em flocos",
+      "1 colher (chá) de fermento",
+      "Cobertura:",
+      "1 caixa pequena de leite condensado",
+      "1/2 caixa de creme de leite",
+      "2 colheres de chocolate em pó",
+      "1 colher (sopa) de manteiga",
+      "Granulados (opcional)"
+    ]
+  },
+  "passos": {
+    "BOLO:": [
+      "Rale a cenoura na parte mais fina do ralo, leve para bater juntamente com os ovos, açúcar, óleo.",
+      "Em seguida acrescente os demais ingredientes.",
+      "Leve ao forno pré aquecido à 180ºC e deixe assar até dourar"
+    ],
+    "COBERTURA:": [
+      "Coloque os ingredientes na panela menos o creme de leite e granulado",
+      "Quando já estiver levantando fervura acrescente o creme de leite mexa por alguns minutos e desligue o fogo",
+      "O ponto ideal é um brigadeiro mole",
+      "Pronto, jogue em cima do bolo, salpique os granulados e só servir"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MARINA DE SOUZA VILANOVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303581-bolo-de-cenoura-com-aveia.html"
+}

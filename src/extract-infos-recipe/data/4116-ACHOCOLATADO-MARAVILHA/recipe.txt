@@ -1,0 +1,24 @@
+{
+  "nome_receita": "ACHOCOLATADO MARAVILHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de achocolatado em pó",
+      "3 colheres (sopa) de leite em pó",
+      "450 ml de água gelada",
+      "3 colheres (sopa) de sorvete (da sua preferência)",
+      "4 cubos de gelo (se quiser deixar mais geladinho)",
+      "achocolatado ovomaltine (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes (menos o ovomaltine) no liquidificador até o gelo dissolver",
+      "Retire e coloque em um copo ou taça que caiba todo o conteúdo",
+      "Depois despeje a quantidade desejada de ovomaltine por cima."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TIFFANY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301818-achocolatado-maravilha.html"
+}

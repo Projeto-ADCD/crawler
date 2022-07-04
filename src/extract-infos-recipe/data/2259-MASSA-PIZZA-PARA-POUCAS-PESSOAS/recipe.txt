@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MASSA PIZZA PARA POUCAS PESSOAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farinha de trigo",
+      "1 xícara de água morna",
+      "10 g de fermento biológico seco",
+      "1 pitada de sal",
+      "1 pitada de áçucar",
+      "1/4 de xícara de óleo de soja",
+      "2 colheres (sopa) de cachaça"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture o fermento na água morna até diluir.",
+      "Misturar 300 g de farinha, sal e açúcar.",
+      "Adicione o fermento com a água e o óleo até ficar uma consistência pastosa.",
+      "Acrescente a cachaça e mexa bem.",
+      "Ir acrescentando o restante da farinha até desgrudar da mão.",
+      "Misture e sove com vontade a massa.",
+      "Deixe descansar por no mínimo 3 horas.",
+      "Ideal se puder descansar de 10 a 12 horas.",
+      "Quanto mais tempo puder deixar, melhor.",
+      "Após o período de descanso, abra a massa com rolo de massa ou com garrafa de vidro (vinho, cerveja).",
+      "A massa deve ser pré-assada em forno alto antes de montar a pizza ao seu gosto.",
+      "Essa receita rende 1 pizza grande e uma brotinho, ou duas pizzas médias."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "JOSÉ GUILHERME",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305616-massa-pizza-para-poucas-pessoas.html"
+}

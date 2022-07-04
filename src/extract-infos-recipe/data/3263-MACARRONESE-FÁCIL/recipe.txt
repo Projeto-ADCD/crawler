@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRONESE FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão parafuso",
+      "1 lata de milho",
+      "1 cenoura média",
+      "200 g de presunto",
+      "azeitona",
+      "uva passa",
+      "maionese a gosto",
+      "1 envelope de tempero pronto para carne",
+      "sal, salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão como de costume, reserve",
+      "Rale a cenoura, lave e pique a salsinha e a cebolinha, pique as azeitonas, reserve",
+      "Corte o presunto em cubos pequenos",
+      "Misture em uma tigela grande todos os ingredientes, acrescente o tempero pronto e misture",
+      "Acrescente a maionese aos poucos e misture",
+      "Acerte o sal e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GLEYCI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303643-macarronese-facil.html"
+}

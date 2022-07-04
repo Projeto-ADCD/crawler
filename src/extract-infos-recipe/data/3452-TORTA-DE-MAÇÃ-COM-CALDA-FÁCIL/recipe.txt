@@ -1,0 +1,55 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ COM CALDA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "1 ovo inteiro",
+      "70 g de manteiga ou margarina em temperatura ambiente",
+      "1 colher (chá) de açúcar",
+      "1 e 1/2 xícaras de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "raspas de limão a gosto",
+      "Creme",
+      "1 lata de leite condensado",
+      "2 latas de leite (usar a lata de leite condensado como medida)",
+      "2 colheres (sopa) de amido de milho",
+      "1 gema peneirada",
+      "Calda",
+      "400 ml de suco de laranja",
+      "1 colher de amido de milho ",
+      "1/2 xícara de açúcar (se preferir mais doce, pode aumentar)",
+      "2 maçãs fatiadas fininhas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme",
+      "Dissolva o amido no leite frio e depois junte o restante dos ingredientes em uma panela",
+      "Leve ao fogo médio, cozinhando até engrossar e formando uma espécie de mingau.",
+      "Depois de engrossar, deixe cozinhar por mais 1 minuto, aproximadamente, mexendo sempre",
+      "Reserve",
+      "Massa",
+      "Misture em uma vasilha o ovo, o açúcar e a manteiga",
+      "Acrescente aos poucos a farinha de trigo e o fermento em pó",
+      "Amasse até que vire uma massa lisa que não grude",
+      "Espalhe a massa com cuidado com as mãos em uma forma de fundo removível untada e enfarinhada",
+      "Faça alguns furos na massa com um garfo, para que não quebre no forno",
+      "Leve ao forno médio preaquecido até que doure (aproximadamente 12 minutos)",
+      "Reserve",
+      "Calda",
+      "Dissolva oamido no suco de laranja e junte o açúcar",
+      "Leve ao fogo médio até engrossar, mexendo sempre",
+      "Depois de engrossar, cozinhe por mais 1 minuto, mexendo sempre",
+      "Reserve",
+      "Depois que todos os ingredientes estiverem em temperatura ambiente, despeje o creme na massa",
+      "Em seguida, coloque as maçãs fatiadas por cima do creme",
+      "Por último, espalhe a calda por cima das maçãs",
+      "Leve à geladeira por aproximadamente 3 horas",
+      "Sirva gelada"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NICOLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303330-torta-de-maca-com-calda-facil.html"
+}

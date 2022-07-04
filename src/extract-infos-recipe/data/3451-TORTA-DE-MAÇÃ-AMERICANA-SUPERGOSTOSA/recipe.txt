@@ -1,0 +1,55 @@
+{
+  "nome_receita": "TORTA DE MAÇÃ AMERICANA SUPERGOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "5 colheres (sopa) e 1 colher (chá) de margarina bem gelada (ou 80 ml de gordura vegetal bem gelada)",
+      "12 colheres (sopa) de manteiga sem sal bem gelada",
+      "3 xícaras de farinha",
+      "1 colher (chá) de sal (grosso ou normal)",
+      "1 colher (sopa) de açúcar",
+      "8 colheres (sopa) de água gelada (cerca de 1/2 xícara)",
+      "Recheio",
+      "2 kg de maçã (sem pele, cortadas em 4 partes)",
+      "raspas de 1 limão (siciliano ou taiti)",
+      "raspas de 1 laranja",
+      "2 colheres (sopa) de suco de limão fresco",
+      "2 colheres (sopa) de suco de laranja fresco",
+      "1/4 de xícara de farinha de trigo",
+      "1 colher (chá) de sal (grosso ou normal)",
+      "3/4 de colher (chá) de noz-moscada moída na hora",
+      "cravo a gosto (para perfumar)",
+      "1 ovo batido com 1 colher (sopa) de água (para pincelar)",
+      "1/2 copo de açúcar refinado",
+      "1 colher (chá) de açúcar refinado ou cristal para polvilhar no topo da torta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga já cortada em um recipiente na geladeira enquanto faz a mistura para a farinha",
+      "Coloque a farinha, o sal e o açúcar numa tigela (no processador de alimentos ou manual)",
+      "Na mesma tigela, adicione manteiga e a gordura vegetal (ou margarina) e pulse de 8 a 12 vezes (ou mexa manualmente) até a manteiga ficar em pequenos pedaços",
+      "Com a máquina funcionando (ou batendo manualmente continuadamente), despeje a água gelada até a massa começar a ficar em formato de bola",
+      "Coloque a massa em uma superfície enfarinhada e enrole ela até virar uma bola",
+      "Coloque a massa em formato de bola num plástico filme e coloque na geladeira por 30 minutos",
+      "Corte a massa ao meio e enrole cada pedaço em uma superfície bem enfarinhada em um círculo (deixe os 2 pedaços em formato de bola)",
+      "Role com o rolo de massa do centro para a borda, enfarinhando às vezes a massa para ela não grudar na superfície até que ela fique 3 dedos de espessura da superfície (ou 1 cm)",
+      "Dobre a massa ao meio, coloque em uma forma funda, desdobre a massa e arrume com os dedos para que toda a parede da assadeira seja coberta pela massa",
+      "Faça o mesmo com a outra massa, mas não coloque na assadeira ainda",
+      "Preaqueça o forno em 180° C/200° C",
+      "Para o recheio, corte cada parte da maçã em 3 partes transversais e misture em uma tigela com as raspas, sucos, açúcar, farinha, sal, canela, noz-moscada e cravo",
+      "Com a massa da torta na assadeira, coloque a mistura com a maçã dentro (com toda a parede da forma coberta pela massa inferior)",
+      "Pincele a borda da massa inferior com o ovo batido para grudar com a parte superior da massa (superfície da torta)",
+      "Cubra a torta com a parte superior e corte as bordas, depois junte as bordas inferiores e superiores com os dedos",
+      "Pincele o topo com os ovos batidos",
+      "Polvilhe o açúcar [1 colher (chá)] em cima da torta",
+      "Corte 4 ou 5 fendas na superfície",
+      "Asse a torta até que a crosta esteja dourada e os sucos borbulhando por dentro (aproximadamente 45 minutos)",
+      "Espere esfriar e sirva morna"
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "ALLANA CAIRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303335-torta-de-maca-americana-supergostosa.html"
+}

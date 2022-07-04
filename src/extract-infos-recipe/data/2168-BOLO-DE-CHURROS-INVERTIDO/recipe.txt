@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE CHURROS INVERTIDO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 xicaras de farinha de trigo peneirada",
+      "1/2 xicara de açucar",
+      "3 colheres de margarina",
+      "1/2 xicara de leite",
+      "Canela em pó a gosto",
+      "1 colher de fermento",
+      "2 latas de leite condensado gelado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e reserve",
+      "Na batedeira, bata a gema, o açucar e as colheres de margarina",
+      "Acrescente aos poucos a farinha peneirada",
+      "Em seguida, coloque o leite, a canela e o fermento",
+      "E por ultimo, as claras em neve",
+      "Ligue o forno em 180 graus",
+      "Unte bem a forma com margarina, e coloque o leite condensado gelado",
+      "DEVAGAR, COM CUIDADO, coloque a massa do bolo na forma sobre o leite condensado.",
+      "Leve ao forno pré aquecido, e deixe assar a 220 graus",
+      "Aproximadamente 40 minutos, enfie uma palito de dente, se nao sujar, seu bolo esta pronto!!!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "NICOLLE PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305800-bolo-de-churros-invertido.html"
+}

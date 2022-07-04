@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PAVÊ DE AMENDOIM DELICIOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 xícara de açúcar refinado",
+      "250 g de margarina sem sal",
+      "1 leite condensado",
+      "1 creme de leite",
+      "500 g de amendoim torrado sem casca triturado",
+      "100 ml de leite",
+      "1 pacote de biscoito de maisena (com 3 unidades)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Separe as claras das gemas.",
+      "Em uma batedeira bata as claras em neve com uma pitada de sal.",
+      "Reserve.",
+      "Bata na batedeira duas gemas peneiradas, com o açúcar até virar um creme liso.",
+      "Adicione a margarina, o leite condensado e o creme de leite e bata novamente por dois minutos.",
+      "Adicione em média 350 g de amendoim torrado e triturado ao creme batido.",
+      "Adicione as claras ao creme, misturando delicadamente, ficando assim um creme aerado.",
+      "Em um pirex adicione creme ao fundo.",
+      "Molhe os biscoitos rapidamente no leite e coloque sobre o creme.",
+      "Faça camadas repetindo o processo acima.",
+      "Finalize a última camada com creme. Decore com o restante do amendoim triturado.",
+      "Leve para gelar por no mínimo 6 horas."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "THAMYRES SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305577-pave-de-amendoim-delicioso.html"
+}

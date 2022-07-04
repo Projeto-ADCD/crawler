@@ -1,0 +1,42 @@
+{
+  "nome_receita": "SALADA VERDE COM FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 unidade de alface romana",
+      "1 xícara de croutons"
+    ],
+    "FRANGO": [
+      "250 g de peito de frango ",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1 fio de azeite"
+    ],
+    "MOLHO": [
+      "suco de 1 limão",
+      "1 colher (chá) de mostarda ",
+      "1 colher (chá) de molho inglês",
+      "30 g de parmesão ralado",
+      "2 dentes de alho",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "200 ml de azeite",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peito de frango com sal e pimenta-do-reino.",
+      "Cozinhe o peito de frango em uma frigideira com 1 fio de azeite. ",
+      "Fatie o peito de frango e reserve.",
+      "Molho:",
+      "Misture no liquidificador: o suco de limão, a mostarda, o molho inglês, o parmesão ralado, o alho, o sal e a pimenta-do-reino. ",
+      "Bata bem e vá acrescentando o azeite até emulsificar. ",
+      "Lave a alface e sirva com o peito de frango, os croutons e o molho. ",
+      " "
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300030-salada-verde-com-frango.html"
+}

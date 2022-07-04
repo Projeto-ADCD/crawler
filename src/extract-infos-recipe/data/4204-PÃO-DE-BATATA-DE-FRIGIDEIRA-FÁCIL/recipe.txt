@@ -1,0 +1,36 @@
+{
+  "nome_receita": "PÃO DE BATATA DE FRIGIDEIRA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de batatas",
+      "1 ovo",
+      "1 xícara de farinha de trigo",
+      "1 colher (chá) de sal",
+      "pimenta-do-reino a gosto",
+      "noz-moscada a gosto",
+      "1 xícara de peito de frango desfiado",
+      "6 colheres (sopa) de requeijão cremoso"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque as batatas descascadas e cortadas. ",
+      "Cubra com plástico-filme e faça um furo nele.",
+      "Leve ao micro-ondas por 10 minutos.",
+      "Amasse as batatas e deixe esfriar por 5 minutos.",
+      "Adicione o ovo e mexa bem.",
+      "Vá adicionando a farinha de trigo aos poucos e misturando. ",
+      "Acrescente o sal, a pimenta-do-reino e a noz-moscada.",
+      "Em outro recipiente misture o peito de frango desfiado com o requeijão cremoso.",
+      "Molde um círculo com a massa de batata (pode usar um cilindro para auxiliar).",
+      "Coloque o recheio de frango e feche com mais massa. ",
+      "Aqueça uma frigideira com 1 fio de óleo. ",
+      "Coloque o pão de batata e deixe cozinhar por cerca de 3 minutos cada lado. ",
+      "Para ficar mais gostoso ainda, pincele um pouco de manteiga e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301581-pao-de-batata-de-frigideira-facil.html"
+}

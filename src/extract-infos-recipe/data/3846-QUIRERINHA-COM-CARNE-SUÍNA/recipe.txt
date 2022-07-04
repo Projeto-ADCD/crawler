@@ -1,0 +1,30 @@
+{
+  "nome_receita": "QUIRERINHA COM CARNE SUÍNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "300 g de bacon",
+      "1 peça de linguiça calabresa",
+      "1 kg de carne suína picada",
+      "3 colheres de (sopa) de óleo",
+      "1 cebola picada",
+      "1 tomate picado",
+      "salsinha e cebolinha picada a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a quirerinha de molho po aproximadamente 1 hora",
+      "Leve 1,5 litro de água para ferver",
+      "Frite até dourar o bacon, calabresa e a carne suína",
+      "Adicione a cebola, salsinha e a cebolinha, se preferir, adicione algum tempero de seu gosto",
+      "Escorra toda a água da quirerinha e coloque na água já fervente para cozinhar até que quase seque toda a água",
+      "Adicione o molho feito com o bacon, calabresa e a carne suína",
+      "E está pronto é só servir."
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "WILLIAM SARZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302548-quirerinha-com-carne-suina.html"
+}

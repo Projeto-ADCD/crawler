@@ -1,0 +1,31 @@
+{
+  "nome_receita": "FAROFA OURO DE FAMÍLIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de bacon em cubos pequenos",
+      "3 colheres de banha",
+      "6 dentes de alho triturados",
+      "1 cebola média picada em rodelas finas",
+      "1 colher (chá) de açafrão",
+      "1/2 xícara de uva passa",
+      "1/2 xícara de cebolinha verde picada",
+      "4 bananas nanicas maduras, porém firmes, picadas em cubos médios",
+      "2 xícaras de farinha de mandioca grossa",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira grande leve a banha e o bacon para fritar em fogo baixo até dourar.",
+      "Depois, acrescente a cebola e o alho",
+      "Deixe dourar levemente, acrescente o açafrão e a uva passa",
+      "Desligue o fogo, acrescente a cebolinha verde e a banana.",
+      "Aos poucos vá adicionando a farinha de mandioca e o sal a gosto.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "BEATRIZ CAMPELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303976-farofa-ouro-de-familia.html"
+}

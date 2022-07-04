@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de macarrão tipo penne",
+      "1 lata de molho de tomate",
+      "2 caldos de galinha",
+      "Sal e tempero a gosto",
+      "150 g de queijo mussarela",
+      "150 g presunto",
+      "1 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela de pressão: molho de tomate, 3 latas de água (medida da lata de molho), o macarrão e o caldo. Leve ao fogo.",
+      "Quando pegar pressão, conte 8 minutos e desligue.",
+      "Abra a panela e despeje o conteúdo em um refratário.",
+      "Adicione o queijo, o presunto e o creme de leite. Misture tudo.",
+      "Se quiser adicionar orégano, depois leve ao forno para gratinar por alguns minutos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "JESSIKA SIQUEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300739-macarrao-de-panela-de-pressao.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ACÉM COM CERVEJA NA PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "600 g de acém sem osso",
+      "cheiro-verde a gosto",
+      "sal grosso",
+      "pimenta-do-reino",
+      "500 g de batata",
+      "1 cebola grande de sua preferência (roxa ou normal)",
+      "1 long neck de cerveja de sua preferência"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a cebola grande em rodelas e forme uma cama na panela de pressão",
+      "Em seguida, coloque o acém cortado em cubos sobre esta cama de cebola e espalhe em cima dele mais ou menos 1 colher de sal grosso e a pimenta a gosto",
+      "Adicione o cheiro-verde a gosto (salsinha e cebolinha)",
+      "Coloque as batatas por cima do cheiro-verde (cortadas ou inteiras)",
+      "Finalize colocando a cerveja e leve para cozinhar em fogo médio na pressão",
+      "Deixe cozinhar por cerca de 20 minutos após pegar pressão",
+      "Após esse tempo, retire a pressão da panela e verifique o ponto da carne, se necessário leve novamente ao fogo."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARCOS ADRIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301219-acem-com-cerveja-na-panela-de-pressao.html"
+}

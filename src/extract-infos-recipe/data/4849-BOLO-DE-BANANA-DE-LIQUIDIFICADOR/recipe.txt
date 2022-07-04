@@ -1,0 +1,30 @@
+{
+  "nome_receita": "BOLO DE BANANA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "5 bananas caturra",
+      "3/4 de xícara de óleo",
+      "2 xícaras de açúcar",
+      "1 colher (chá) de canela",
+      "2 e 1/2 xícaras de farinha",
+      "1 colher rasa (sopa) de fermento",
+      "canela e açúcar a gosto pra cobrir as bananas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, 2 bananas, 3/4 de xícara de óleo, 2 xícaras de açúcar e 1 colher de chá de canela no liquidificador.",
+      "Misture em um outro recipiente a mistura com a farinha e o fermento.",
+      "Unte uma forma média e coloque metade da massa.",
+      "Coloque a banana cortada até cobrir a massa e polvilhe açúcar com canela.",
+      "Cubra com a outra metade da massa.",
+      "Faça mais uma camada de bananas cortadas e polvilhe com açúcar e canela.",
+      "Leve ao forno por 30 ou 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ALESSANDRA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300096-bolo-de-banana-de-liquidificador.html"
+}

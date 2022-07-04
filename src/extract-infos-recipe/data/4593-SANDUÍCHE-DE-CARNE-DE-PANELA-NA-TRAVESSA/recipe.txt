@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SANDUÍCHE DE CARNE DE PANELA NA TRAVESSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "450 g de paleta desossada em cubos",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "sal a gosto",
+      "pimenta-do-reino a gosto",
+      "1/2 de xícara de vinho tinto seco",
+      "1 colher (sopa) de extrato de tomate",
+      "1 xícara de caldo de carne",
+      "2 colheres (sopa) de salsinha picada",
+      "9 pães egg sponge ou massinha",
+      "1 e 1/2 xícara de mussarela ralada",
+      "2 colheres (sopa) de manteiga derretida para pincelar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com azeite e frite a carne.",
+      "Junte a cebola e o alho e refogue",
+      "Tempere com sal e pimenta, acrescente o vinho tinto e deixe evaporar",
+      "Acrescente o extrato de tomate e o caldo de carne.",
+      "Tampe e deixe cozinhar por, aproximadamente, 40 minutos, ou até que esteja bem macia.",
+      "Desmanche a carne, acrescente a salsinha picada e reserve.",
+      "Em um refratário, disponha a fatia de baixo dos pães, a mussarela e cubra com a outra metade dos pães",
+      "Pincele com a manteiga e leve ao forno preaquecido a 180° C por 10 minutos ou até derreter o queijo e dourar os pães."
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VIVIAN CAROLINA PINTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300778-sanduiche-de-carne-de-panela-na-travessa.html"
+}

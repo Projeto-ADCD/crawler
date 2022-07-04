@@ -1,0 +1,28 @@
+{
+  "nome_receita": "COOKIES DE MILHO COM CANELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de mistura para bolo (milho, coco)",
+      "1 xícara de flocão",
+      "2 unidades de gema de ovos",
+      "100 g de creme de leite",
+      "2 colheres de (sopa) de óleo",
+      "canela em pó para salpicar em cima dos cookies."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes com as mãos até formar uma só massa úmida.",
+      "Leve a geladeira por 30 minutos para repousar.",
+      "Modele bolinhas de 20g com as mãos.",
+      "Coloque em uma assadeira pincelada com um pouco de óleo.",
+      "Uma ao lado da outra com espaço de 3 cm entre elas.",
+      "Leve ao forno preaquecido 180° C por aproximadamente 25 minutos.",
+      "Retire do forno e sirva com cafezinho."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "40 PORÇÕES",
+  "autor": "JOELZA NEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305452-cookies-de-milho-com-canela.html"
+}

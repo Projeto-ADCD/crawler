@@ -1,0 +1,26 @@
+{
+  "nome_receita": "CRI CRI FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de amendoim",
+      "1 xicara de açúcar demerara",
+      "1/2 xícara de açúcar mascavo",
+      "1 xícara de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes em uma panela e leve ao fogo médio",
+      "Mexa (de preferência com uma colher de pau) a todo momento, até que a água evapore formando a casquinha cri cri (em torno de 15 a 20 minutos)",
+      "Quando estiver pronto deposite todo o conteúdo da panela em uma forma e deixe esfriar.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Rendimento: 500g.\nValidade: em torno de uma semana, conservado em vasilha fechada em local fresco e seco."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VERÔNICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302330-cri-cri-fit.html"
+}

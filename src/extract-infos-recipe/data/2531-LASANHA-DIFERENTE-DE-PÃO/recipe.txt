@@ -1,0 +1,36 @@
+{
+  "nome_receita": "LASANHA DIFERENTE DE PÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de molho branco caseiro ou industrializado",
+      "1 pacote de pão de fôrma",
+      "500 gr de patinho moído",
+      "100 gr de azeitonas verdes picadas",
+      "1 ovo cozido (opcional)",
+      "temperos a gosto (cebola, alho, salsinha, cebolinha, pimenta )",
+      "200 gr de mussarela",
+      "queijo ralado a gosto",
+      "orégano a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue a carne moída com os temperos de sua preferência.",
+      "Quando a carne estiver dourada, acrescente as azeitonas e o ovo cozido picado.",
+      "Reserve.",
+      "Em um refratário ou forma de alumínio, coloque uma concha de molho branco e espalhe.",
+      "Coloque fatias de pão, espalhe mais um pouco do molho e carne moída.",
+      "Por cima da carne, coloque fatias de mussarela e vá fazendo camadas: molho, pão, carne moída, mussarela.",
+      "A última camada deve ser de pão.",
+      "Espalhe o restante do molho branco, cubra com fatias de mussarela, polvilhe queijo ralado e orégano.",
+      "Leve ao forno até derreter a mussarela.",
+      "Sirva imediatamente.",
+      "Sugestão de acompanhamento:",
+      "Salada verde ou mista."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RITA GONZALEZ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305017-lasanha-diferente-de-pao.html"
+}

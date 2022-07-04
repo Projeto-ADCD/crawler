@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MARIA MOLE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 kg de açúcar de açúcar refinado",
+      "1 e 1/2 pacote de gelatina sem sabor dissolvida em 1 copo de água quente (copo de requeijão, 250 ml)."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata bastante todos os ingredientes na batedeira.",
+      "Coloque num refratário untado com margarina ou óleo de coco.",
+      "Deixe descansar.",
+      "Corte e passe no coco ralado."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ELIZANE TELES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300845-maria-mole.html"
+}

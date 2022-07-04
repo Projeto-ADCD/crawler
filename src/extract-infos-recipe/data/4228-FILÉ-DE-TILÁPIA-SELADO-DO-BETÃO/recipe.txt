@@ -1,0 +1,22 @@
+{
+  "nome_receita": "FILÉ DE TILÁPIA SELADO DO BETÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de filé de tilápia",
+      "Sal, pimenta-do-reino e vinagre a gosto",
+      "1 colher de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere o peixe com sal, pimenta do reino e vinagre.",
+      "Aqueça uma frigideira anti-aderente com 1 colher de manteiga",
+      "Coloque o peixe. Deixe selar e vire apenas uma vez.",
+      "Só servir e apreciar. Fica divino!"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ROBERTO REBUELTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301544-file-de-tilapia-selado-do-betao.html"
+}

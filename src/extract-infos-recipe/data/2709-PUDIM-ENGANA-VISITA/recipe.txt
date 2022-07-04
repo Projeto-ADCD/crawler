@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PUDIM ENGANA VISITA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de leite",
+      "3 ovos inteiros",
+      "8 colheres (sopa) de açúcar",
+      "12 bolachas de leite/maisena",
+      "10 colheres de açúcar",
+      "1/2 xícara de água para fazer a calda"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Faça uma calda de caramelo levando as 10 colheres de açúcar e a água ao fogo",
+      "Deixe até engrossar mexendo somente a panela/forma de leve até formar o caramelo e reserve.",
+      "Bata no liquidificador o leite, os ovos, açúcar e as bolachas por no mínimo 5 minutos até ficar uma mistura bem homogênea.",
+      "Despeje na forma com o caramelo e leve ao forno em banho-maria.",
+      "Não precisa cobrir, e se colocar a água do banho-maria já quente o processo do pudim é mais rápido.",
+      "Fica pronto em média de 30 a 50 minutos dependendo do forno."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "MICHELI MARIA REIS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304603-pudim-engana-visita.html"
+}

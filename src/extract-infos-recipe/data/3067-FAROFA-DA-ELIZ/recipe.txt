@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FAROFA DA ELIZ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de farinha de mandioca",
+      "300 g de bacon picado miudinho",
+      "500 g de queijo coalho em cubinhos",
+      "1 cebola roxa",
+      "manteiga da terra a gosto",
+      "pimenta biquinho picada a gosto",
+      "coentro picado (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Refogue o bacon, acrescente a cebola e deixe dourar.",
+      "Em ourtra panela, asse o queijo na manteiga da terra para que fique dourados e reserve.",
+      "Em seguida coloque a farinha aos poucos na panela onde está o bacon e mexa para ir misturando toda a farinha.",
+      "Acrescente os demais ingredientes um a um e misture bem ainda com fogo ligado.",
+      "Depois é só servir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ELIZÂNGELA BORBA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303926-farofa-da-eliz.html"
+}

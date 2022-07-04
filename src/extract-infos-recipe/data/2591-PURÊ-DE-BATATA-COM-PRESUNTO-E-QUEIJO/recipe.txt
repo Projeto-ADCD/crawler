@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PURÊ DE BATATA COM PRESUNTO E QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 batatas",
+      "1 caixinha de creme de leite",
+      "1 colher de manteiga",
+      "500 g de mussarela",
+      "250 g de presunto ralado",
+      "orégano (a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas já descascadas.",
+      "Quando ja estiverem cozidas, tirem a água da panela e as amassem formando um purê.",
+      "Misture o purê, creme de leite e a manteiga em uma panela ao fogo médio.",
+      "Mexa até pegar uma consistência cremosa.",
+      "Em uma travessa, coloque uma camada de purê e por cima mussarela.",
+      "Coloque mais uma camada de purê e por cima o presunto ralado e mais mussarela, por último coloque o orégano a gosto.",
+      "Coloque no forno até que a mussarela se derreta.",
+      "Sirva-se."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ISABELLA VILELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304866-pure-de-batata-com-presunto-e-queijo.html"
+}

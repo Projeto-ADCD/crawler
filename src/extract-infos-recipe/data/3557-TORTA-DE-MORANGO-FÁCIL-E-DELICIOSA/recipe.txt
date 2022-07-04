@@ -1,0 +1,39 @@
+{
+  "nome_receita": "TORTA DE MORANGO FÁCIL E DELICIOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gemas de ovo",
+      "2 colheres (sopa) de leite",
+      "2 colheres (sopa) de açúcar",
+      "2 colheres (sopa) de margarina",
+      "1 colher (café) de fermento",
+      "farinha até soltar a massa da mão",
+      "1 leite condensado",
+      "1 pacotinho de gelatina incolor",
+      "1 xícara de café de suco de morango",
+      "1 caixa de morango",
+      "1 xícara de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture as duas gemas, o leite, a margarina, as colheres de açúcar, o fermento e aos poucos a farinha, até dar o ponto de desgrudar a massa da mão.",
+      "Abra a massa em uma forma de fundo removível, não muito grande, e coloque no forno em 180° C por aproximadamente 10 minutos",
+      "Em seguida deixe esfriar",
+      "Recheio",
+      "Para hidratar a gelatina incolor: em 1 xícara, adicione a gelatina com 2 colheres pequenas de água e leve por 30 segundos no micro-ondas",
+      "Bata no liquidificador o leite condensado e o suco de morango e adicione a gelatina incolor",
+      "Após, coloque o creme na massa e leve à geladeira até que fique em forma de gelatina",
+      "Em seguida, em uma panela, adicione os morangos com 1 xícara de açúcar.",
+      "Esmague os morangos e deixe no fogo até que vire uma geléia.",
+      "Mexa bem para não queimar.",
+      "Coloque por cima do recheio.",
+      "Você pode usar morangos para enfeitar o topo da sua torta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "NATALIA SCHWEITZER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303137-torta-de-morango-facil-e-deliciosa.html"
+}

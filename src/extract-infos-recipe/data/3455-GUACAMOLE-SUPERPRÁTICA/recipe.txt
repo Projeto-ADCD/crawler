@@ -1,0 +1,25 @@
+{
+  "nome_receita": "GUACAMOLE SUPERPRÁTICA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacate",
+      "pimenta a gosto (qualquer tipo, depende do seu gosto)",
+      "2 tomates",
+      "1/2 cebola",
+      "sumo de 4 limões",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique a cebola e o tomate (e se preferir a pimenta)",
+      "Amasse o abacate",
+      "Misture tudo, adicionando aos poucos o sal",
+      "Sirva com tortillas ou nachos mexicanos"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "MARCELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303322-guacamole-superpratica.html"
+}

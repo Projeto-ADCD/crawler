@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BATATAS FRITAS NO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 batatas médias",
+      "azeite de oliva",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque as batatas totalmente",
+      "Corte cada batata pela metade e cada metade em 3 gomos grossos",
+      "Unte uma assadeira com azeite de oliva",
+      "Espalhe um pouco de sal sobre a assadeira untada",
+      "Disponha os gomos de batata pela assadeira lado a lado, sem necessidade de deixar espaço entre eles",
+      "Regue as batatas com um pouco mais de azeite de oliva e sal",
+      "Coloque no forno pré-aquecido a 200º C por 30 minutos, depois vire as batatas e retorne ao forno por mais 15 minutos ou até que estejam bem douradas.",
+      "O resultado serão batatas muito macias por dentro e com uma casca crocante por fora. Mais secas e menos gordurosas que se fossem fritas em imersão."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ELI ANTONIO DE MARCHI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304154-batatas-fritas-no-forno.html"
+}

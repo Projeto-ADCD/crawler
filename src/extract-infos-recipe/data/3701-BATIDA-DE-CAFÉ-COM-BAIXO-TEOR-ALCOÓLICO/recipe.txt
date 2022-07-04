@@ -1,0 +1,23 @@
+{
+  "nome_receita": "BATIDA DE CAFÉ COM BAIXO TEOR ALCOÓLICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml de café bem forte gelado",
+      "2 caixa de leite condensado",
+      "1 colher (sopa) de essência de café",
+      "2 colheres de pó de chocolate",
+      "200 ml de conhaque",
+      "2 colheres de açúcar (ou a gosto)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes muito bem",
+      "Sirva com cubos de gelo"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "CEZAR MAZZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302882-batida-de-cafe-com-baixo-teor-alcoolico.html"
+}

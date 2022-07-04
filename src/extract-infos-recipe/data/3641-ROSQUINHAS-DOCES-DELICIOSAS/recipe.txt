@@ -1,0 +1,33 @@
+{
+  "nome_receita": "ROSQUINHAS DOCES DELICIOSAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 e 1/2 xícara de açúcar",
+      "1 xícara de leite",
+      "2 colheres (sopa) de manteiga ",
+      "1/2 colher (sopa) de fermento",
+      "2 e 1/2 xícara de farinha ou até dar o ponto",
+      "óleo para fritar",
+      "Cobertura",
+      "chocolate branco a gosto",
+      "corante rosa (opcional)",
+      "granulados coloridos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata em uma batedeira o ovo, a manteiga, o leite, o açúcar, o fermento, e aos poucos a farinha",
+      "Quando não der para bater na batedeira mais, misture com as mãos",
+      "Abra a massa e faça formas de rosquinhas",
+      "Em uma frigideira esquente o óleo e frite-as",
+      "Derreta o chocolate, e misture no corante (opcional)",
+      "Pegue as rosquinhas já fritas e passe o chocolate, depois passe nos granulados",
+      "E pronto! É so servir"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ALLANA NUNES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302988-rosquinhas-doces-deliciosas.html"
+}

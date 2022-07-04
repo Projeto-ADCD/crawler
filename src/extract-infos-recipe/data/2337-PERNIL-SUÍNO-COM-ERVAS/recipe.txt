@@ -1,0 +1,33 @@
+{
+  "nome_receita": "PERNIL SUÍNO COM ERVAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "400 g de pernil suíno semi-desossado",
+      "4 colheres de vinagre",
+      "tempero completo de sal e alho a gosto",
+      "1 colher (sopa) de salsa desidratada",
+      "1 colher rasa de alecrim",
+      "2 folhas de louro",
+      "1 cebola média picada",
+      "2 pimentinhas de cheiro",
+      "3 colheres (sopa) de extrato de tomate "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe as peças do pernil suíno.",
+      "Coloque em um refratário com vinagre, a salsa , alecrim e o tempero de alho com sal a gosto.",
+      "Deixe descansar durante 30 minutos.",
+      "Em uma panela de pressão doure a cebola e a pimentinha",
+      "Coloque o pernil, deixe levantar fervura e acrescente o extrato",
+      "Mexa bem e vá acrescentado água aos poucos",
+      "Coloque na pressão durante 15 minutos, verifique para não deixar queimar",
+      "Passe o pernil em uma frigideira para dourar, vire e utilize o restante do molho para despejar em cima do pernil.",
+      "Sirva com arroz branco e purê de batata."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "JOELZA NEVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305453-pernil-suino-com-ervas.html"
+}

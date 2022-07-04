@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CREME DE MANTEIGA PARA BOLO",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras de açúcar de confeiteiro",
+      "1/2 xícara de manteiga sem sal amolecida",
+      "1 e 1/2 colher (chá) de essência de baunilha",
+      "2 colheres (sopa) de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata a manteiga até ficar bem cremosa.",
+      "Em seguida, continue batendo e vá incorporando o açúcar aos poucos até ficar bem homogêneo.",
+      "Acrescente a baunilha e continue batendo.",
+      "Coloque o leite e bata por mais 4 minutos."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "FABIANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300080-creme-de-manteiga-para-bolo.html"
+}

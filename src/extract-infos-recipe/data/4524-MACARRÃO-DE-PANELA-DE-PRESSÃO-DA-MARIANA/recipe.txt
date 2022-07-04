@@ -1,0 +1,30 @@
+{
+  "nome_receita": "MACARRÃO DE PANELA DE PRESSÃO DA MARIANA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colheres (sopa) de margarina ",
+      "sal a gosto ",
+      "500 g de macarrão parafuso ",
+      "água em temperatura ambiente ",
+      "1 molho de tomate",
+      "bacon a gosto ",
+      "1 caixinha de creme de leite ",
+      "200 g de presunto ",
+      "200 g de queijo mussarela"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a margarina, o molho de tomate, o sal, e o macarrão em uma panela de pressão e cubra de água",
+      "Coloque no fogo e quando criar pressão conte 4 minutos",
+      "Quando der esses quatro minutos, desligue e espere a pressão sair sozinha",
+      "Quando sair a pressão, coloque o creme de leite, o queijo musssarela, o presunto e o",
+      "bacon e mexa",
+      "Sirva-se"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "MARIANA VALENTIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300940-macarrao-de-panela-de-pressao-da-mariana.html"
+}

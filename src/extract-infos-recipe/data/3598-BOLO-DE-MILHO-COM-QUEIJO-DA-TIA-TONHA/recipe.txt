@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE MILHO COM QUEIJO DA TIA TONHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 copo de óleo",
+      "1 copo de leite",
+      "1 copo de açúcar",
+      "1 lata de milho verde",
+      "1 copo de flocos de milho",
+      "1 copo de queijo ralado",
+      "1 pacote de côco ralado",
+      "1 colher (sopa) de fermento"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Preaqueça o forno em 200° e unte uma forma redonda.",
+      "Bata todos os ingredientes no liquidificador, a começar pelos ovos (peneire para tirar o cheiro), depois vá acrescentando os ingredientes pela ordem da receita.",
+      "Por último adicione o fermento e misture.",
+      "Asse a 200° por mais ou menos 40 minutos.",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "LIVIO AIRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303069-bolo-de-milho-com-queijo-da-tia-tonha.html"
+}

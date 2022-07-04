@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLO CAVADO DE MORANGO COM LEITE NINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 claras",
+      "5 gemas",
+      "2 xícaras de açúcar",
+      "1 e 3/4 de xícara de farinha de trigo",
+      "1/2 xícara de chocolate em pó 50% cacau",
+      "3/4 de xícara de leite",
+      "1 colher (sopa) fermento",
+      "1 barra de chocolate meio amargo",
+      "1 caixa de creme de leite",
+      "1/2 lata leite condensado",
+      "mesma medida de leite",
+      "1 colher (sopa) de maisena",
+      "2 bandejas de morangos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras na batedeira até ficar em ponto de neve.",
+      "Adicione as gemas, o acúcar, a farinha de trigo, 3/4 xícara de leite, o chocolate em pó e o fermento, todos nessa ordem.",
+      "Unte uma forma alumínio alta, sem furo, numero 16.",
+      "Asse o bolo em 180° C por 40 minutos ou até ficar no ponto.",
+      "Enquanto o bolo assa, prepare o ganache para cobertura, derretendo a barra de chocolate",
+      "Após derreter adicione 1 caixa de creme de leite.",
+      "Reserve.",
+      "Prepare o recheio do bolo, colocando em uma panela em fogo médio o leite condensado, a mesma medida de leite e o amido.",
+      "Após engrossar, apague o fogo e reserve.",
+      "Depois de assar o bolo, retire do forno, e com uma faca retire a tampa do bolo e reserve.",
+      "Tire um pouco da parte de dentro do bolo para colocar o recheio, tomando cuidado para não furar a massa.",
+      "Adicione o creme já pronto e vá intercalando entre creme e morangos.",
+      "Depois feche o bolo com a tampa dele, passe a ganache e decore como desejar.",
+      "Sirva gelado"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CAROLINE ABREU",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304516-bolo-cavado-de-morango-com-leite-ninho.html"
+}

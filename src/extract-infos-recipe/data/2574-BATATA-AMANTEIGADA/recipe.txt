@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BATATA AMANTEIGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 batatas",
+      "2 colheres (sopa) de manteiga",
+      "sal a gosto",
+      "água suficiente para cozinhar as batatas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe as batatas com água e sal",
+      "Descasque ainda quente",
+      "Na frigideira ponha a manteiga e leve ao fogo",
+      "Acrescente as batatas cortadas em cubinhos e deixe ficar douradinha",
+      "Mexa de vez em quando para não grudar no fundo",
+      "Depois de uns 10 minutos no fogo (dependendo da potência do seu fogão) desligue e sirva"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LAVÍNIA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304916-batata-amanteigada.html"
+}

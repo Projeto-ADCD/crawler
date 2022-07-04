@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO FÁCIL DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de milho sem água",
+      "1 lata de açúcar",
+      "1 lata de leite",
+      "1/2 lata de óleo",
+      "1 lata de farinha de milho",
+      "3 ovos",
+      "1 colher de sopa de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes no liquidificador. De preferência os líquidos primeiro (facilita na hora de bater) e o fermento só no final.",
+      "Bata em torno de 3 minutos, a massa fica líquida mesmo.",
+      "Coloque em uma forma untada com margarina. Eu usei forma quadrada de tamanho médio.",
+      "Leve para o forno pré aquecido 180° por 45 minutos."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: use para os ingredientes a medida da lata de milho. \nEu coloquei erva doce na massa, ficou bem bom.\nGosto de colocar goiabada ou coco ralado também."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "GABRIELLA VALIM COELHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301186-bolo-facil-de-milho.html"
+}

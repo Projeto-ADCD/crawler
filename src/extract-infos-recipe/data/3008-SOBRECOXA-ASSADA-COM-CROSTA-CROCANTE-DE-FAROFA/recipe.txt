@@ -1,0 +1,48 @@
+{
+  "nome_receita": "SOBRECOXA ASSADA COM CROSTA CROCANTE DE FAROFA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa e sobrecoxa cortadas ao meio",
+      "3 dentes de alho amassados",
+      "tomilho, manjerona, sálvia, louro a gosto",
+      "1 colher (café) de açafrão",
+      "pimenta vermelha a gosto",
+      "3 colheres de vinagre branco",
+      "1 colher (sopa) de sal",
+      "1 pacote de farofa",
+      "Molho bechamel",
+      "1/2 litro de leite",
+      "3 colheres de manteiga",
+      "3 colheres de farinha de trigo",
+      "1 caixa de creme de leite",
+      "1 cebola pequena",
+      "1 folha de louro",
+      "1 pitada de cravo em pó",
+      "1 pitada de noz-moscada",
+      "1 colher (sopa) rasa de sal",
+      "1 copo de vinho branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Sobrecoxa crocante",
+      "Misture todos o alho, o açafrão, a pimenta, o vinagre, o sal o tomilho, a manjerona, a sálvia e os demais temperos com o frango",
+      "Deixe descansar por 1 hora coberto com um filme plástico.",
+      "Passe o frango na farofa apertando cada pedaço pra fixar a farofa à carne.",
+      "Distribua os pedaços em uma assadeira e leve ao forno por 1 hora em fogo médio.",
+      "Molho bechamel",
+      "Pique a cebola e coloque em uma panela juntamente com a manteiga, o cravo e a noz-moscada. Refogue e acrescente a farinha de trigo mexendo sem parar até incorporar bem.",
+      "Coloque a mistura no liquidificador e acrescenteo leite.",
+      "Bata até triturar tudo.",
+      "Volte a mistura para a panela e deixe ferver até engrossar.",
+      "Como reduzir o vinho",
+      "Coloque o vinho em uma panela e deixe ferver até ficar com a consistência de uma geleia.",
+      "Acrescente ao molho bechamel e misture bem.",
+      "Coloque o molho sobre o frango e polvilhe castanhas torradas para servir."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ÂNGELA MARIA MARSAROTTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304002-sobrecoxa-assada-com-crosta-crocante-de-farofa.html"
+}

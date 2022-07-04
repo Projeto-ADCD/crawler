@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BAIÃO DE DOIS SUPERGOSTOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de mandioca descascada",
+      "500 g de feijão de corda",
+      "300 g de arroz branco",
+      "300 g de bacon defumado",
+      "2 colheres (sopa) de manteira/margarina",
+      "1 calabresa defumada",
+      "300 g de carne-seca fresca",
+      "2 pimentas-dedo-de-moça",
+      "1/2 cebola pequena",
+      "4 dentes de alho",
+      "100 g de coentro",
+      "50 g de salsinha",
+      "50 g de alho poró",
+      "curry a gosto",
+      "1 pacote de queijo qualho",
+      "1/2 sachê de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a mandioca descascada por 45 minutos (acompanhe após 30 minutos para não ficar muito molenga)",
+      "Coloque o bacon numa frigideira antiaderente e deixe soltar todo óleo (cuidado para não queimar que fica amargo, se acontecer descarte tudo e faça novamente)",
+      "Após soltar todo o óleo reserve o bacon",
+      "Utilize o óleo em uma panela média, para refogar 1/4 da cebola picada e 1 dente de alho picado",
+      "Despeje o arroz e mexa por 30 segundos, depois complete de água e deixe cozinhar por 25 minutos (deixar ao dente)",
+      "Refogue na manteiga o bacon reservado, a calabresa picada, a carne-seca picada e 3 dentes de alho picado.",
+      "Após dourar, acrescente os picados de alho poró, coentro, salsinha e a pimenta-dedo-de-moça com as sementes, mexa por 1 minuto e desligue.",
+      "Em uma panela grande, misture o arroz e o refogado, adicione pitadas de curry (cuidado que é forte), o queijo qualho picado e 1/2 sachê de molho de tomate.",
+      "Misture o feijão de corda, desligue o fogo e deixe tampado para derreter o queijo.",
+      "Frite a mandioca cortando em tiras para servir junto no prato.",
+      "Essa receita não usa sal, porque a calabresa, o bacon e a carne-seca o substituem."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "DIEGO LUCENA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305269-baiao-de-dois-supergostoso.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÓ DE CAPUCCINO CASEIRO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 Lata de leite em pó",
+      "2 pacotes pequenos de nescafé em pó",
+      "Bicarbonato de sódio",
+      "açúcar",
+      "Chocolate em pó 100% cacau",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma bacia, jogue o leite em pó.",
+      "Na lata de leite em pó, coloque o açúcar (medida da lata de leite em pó) e despeje na bacia.",
+      "Bata os nescafé no liquidificador até virarem pó, com uma peneira peneire o pó na bacia e, se for preciso, bata de novo os nescafé.",
+      "Jogue na bacia 4 colheres médias de chocolate 100% cacau.",
+      "Jogue na bacia 4 colheres de bicarbonato.",
+      "Mexa bem na bacia todos os ingredientes com uma colher.",
+      "Coloque em um pote ou vidro com tampa de sua prefêrencia.",
+      "Para consumo, basta ferver água na medida que irá beber, coloque o tanto de pó de sua preferencia no copo, jogue a água fervente e mexa bem."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "EMIRLENE MIRAGLIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301473-po-de-capuccino-caseiro.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "BOLO DE BANANA INTEGRAL COM AMIDO DE MILHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos inteiros (médios)",
+      "3 bananas pequenas orgânicas",
+      "2 colheres (sopa) cheias de óleo de coco",
+      "1 xícara de açúcar mascavo peneirado",
+      "1/2 xícara de leite desnatado opcional (se tiver alergia, pode tirar o leite e acrescentar mais 1 ovo)",
+      "1 xícara de farinha integral",
+      "1/2 xícara de aveia",
+      "1/2 xícara amido de milho",
+      "1 colher de fermento (uso sempre a tampa do recipiente do fermento)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Na batedeira, bata os ovos, o óleo, as bananas, o açúcar e o leite até que crie um creme homogêneo.",
+      "Acrescente a farinha, o amido e a aveia aos poucos.",
+      "Com a batedeira desligada adicione o fermento (de baixo para cima) suavemente, até que o incorpore toda a massa, de preferência com um fouet.",
+      "Unte uma forma com óleo de coco e farinha e despeje a massa em uma forma.",
+      "Asse por 45 a 50 minutos.",
+      "Quando ele estiver bem dourado (caramelo), está pronto. Faça o teste do palito!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Atenção: Observação importante, meu forno é elétrico com astes superior e inferior de calor então coloco em 160° pois o calor tem dê ser maior que os fornos convencionais, então após 30 min de forno aumento para 180° e termino de assar assim. Já teve dia que tive que aumentar para 200° pois estava muito frio a temperatura.\nDiquinha: Servi com um fio de mel pois ele não fica muito doce."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "HOZZY OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301692-bolo-de-banana-integral-com-amido-de-milho.html"
+}

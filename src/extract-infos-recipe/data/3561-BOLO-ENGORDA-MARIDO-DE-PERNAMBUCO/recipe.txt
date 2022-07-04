@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO ENGORDA MARIDO DE PERNAMBUCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de farinha de trigo sem fermento",
+      "1 lata de leite condensado",
+      "1 lata de leite (mesma medida da lata de leite condensado)",
+      "1 vidro pequeno de leite de coco",
+      "2 colheres (sopa) de manteiga",
+      "250 g de queijo coalho de Pernambuco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Vá colocando no liquidificador, os ovos ,os leites, bate um pouco em seguida o açúcar, o trigo, o queijo e a manteiga.",
+      "Coloca em forma retangular, asse em forno baixo",
+      "Fica pronto em torno de uma 1 hora e bom apetite"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: não vai fermento"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "EMILY ARAUJO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303131-bolo-engorda-marido-de-pernambuco.html"
+}

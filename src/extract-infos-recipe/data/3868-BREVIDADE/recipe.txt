@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BREVIDADE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "2 xícaras grandes de amido de milho",
+      "1 xícara de açúcar refinado",
+      "gotas de essência de baunilha ou outro aroma de sua preferência."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras em neve e reserve",
+      "Em outro recipiente, acrescente o açúcar, as gemas e a essência, batendo super bem",
+      "Acrescente o amido de milho sempre batendo e por último adicione as claras reservadas",
+      "Unte uma forma como de costume, despeje a massa e asse em forno à 150°C por 25 minutos"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: o forno deve ser baixo para não queimar"
+    ]
+  },
+  "tempo_de_preparo": "100 MIN",
+  "rendimento": "7 PORÇÕES",
+  "autor": "IONALDO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302468-brevidade.html"
+}

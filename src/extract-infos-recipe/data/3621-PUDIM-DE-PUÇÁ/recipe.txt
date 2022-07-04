@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PUDIM DE PUÇÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 caixa de leite condensado",
+      "300 g de polpa de puçá",
+      "4 colheres de leite em pó",
+      "2 colheres de maizena",
+      "1/2 xícara de água",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata o puçá, o leite em pó e a água no liquidificador",
+      "Coloque em uma vasilha e misture o restante dos ingredientes",
+      "Caramelize a forma e leve ao banho maria por 50 minutos",
+      "Espere esfriar e desenforme.",
+      "Leve à geladeira.",
+      "Depois é só se deliciar!"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "BETHANIA AGUIAR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303027-pudim-de-puca.html"
+}

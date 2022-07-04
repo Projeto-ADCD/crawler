@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MACARRÃO INSTANTÂNEO DA CHEF ANNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote demacarrão instantâneo (sabor de sua preferência)",
+      "1/2 tomate picado em cubos",
+      "1/2 xícara de molho de tomate",
+      "1 pitada de sal",
+      "1/2 tablete de caldo de sua preferência",
+      "3 folhas de cheiro-verde picado (cebolinha)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o macarrão instantâneo no molho de tomate",
+      "Quando estiver quase cozido, coloque o tomate picado, o tablete de caldo e o sal",
+      "Quando tudo estiver cozido adicione o cheiro-verde picado (cebolinha) e é só servir"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARLENE VELOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299713-macarrao-instantaneo-da-chef-anna.html"
+}

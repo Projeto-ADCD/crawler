@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE FUBÁ QUE NÃO DESFARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos inteiros",
+      "1 xicara (chá) de óleo",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "1 e 1/2 xícara (chá) de fubá",
+      "1 e 1/2 xícara (chá) de trigo",
+      "1 xícara de (chá) de leite",
+      "1 colher (sopa) de fermento (rasa)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o óleo e o açúcar até que fique com uma textura homogênea.",
+      "Acrescente o trigo, o fubá e o leite e bata até misturar perfeitamente.",
+      "Depois coloque o fermento, e mexa levemente.",
+      "Unte a forma com o óleo, trigo ou fubá (vai de sua preferência), despeje a massa na forma.",
+      "Asse no forno em 200°c, até ficar douradinho, ou até você enfiar o palito e sair limpo."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "BEATRIZ RODRIGUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302229-bolo-de-fuba-que-nao-desfarela.html"
+}

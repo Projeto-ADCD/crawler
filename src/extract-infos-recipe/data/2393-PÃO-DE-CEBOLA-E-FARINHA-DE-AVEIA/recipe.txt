@@ -1,0 +1,29 @@
+{
+  "nome_receita": "PÃO DE CEBOLA E FARINHA DE AVEIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "200 ml de leite",
+      "1 cebola",
+      "sal a gosto (usei 2 pitadas)",
+      "3 colheres (sopa) de óleo",
+      "4 xícaras de farinha de aveia",
+      "2 colheres (chá) de fermento químico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, leite, óleo e cebola no liquidificador.",
+      "Acrescente a farinha e bata (eu bati na mão em uma vasilha separada).",
+      "Coloque o fermento e misture devagar.",
+      "Coloque em uma forma retangular e asse por mais ou menos por 40 minutos. (usei forma de silicone e meu forno é elétrico)."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Minha forma tem 10cm x 30cm x 6cm(Larg.xComp.xAlt.)"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "DANILO BENTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305322-pao-de-cebola-e-farinha-de-aveia.html"
+}

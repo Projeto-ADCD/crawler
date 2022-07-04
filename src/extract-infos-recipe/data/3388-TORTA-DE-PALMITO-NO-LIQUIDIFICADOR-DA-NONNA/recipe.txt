@@ -1,0 +1,35 @@
+{
+  "nome_receita": "TORTA DE PALMITO NO LIQUIDIFICADOR DA NONNA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa:",
+      "1 copo de farinha de trigo",
+      "3 ovos",
+      "1 copo de leite",
+      "1 copo de óleo",
+      "1 colher de sobremesa de fermento",
+      "sal a gosto",
+      "Recheio:",
+      "200 g de mussarela ralada",
+      "2 tomates picados",
+      "2 cebolas picadas",
+      "1 vidro de palmito picado",
+      "1 lata de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador a farinha, os ovos, o óleo, o leite, o fermento e o sal",
+      "Misture em um recipiente os tomates, as cebolas, o milho e o palmito",
+      "Passe óleo e a farinha de trigo na forma",
+      "Adicione metade da massa na forma",
+      "Coloque o recheio e a mussarela por cima",
+      "Em seguida, coloque o restante da massa e o orégano (a gosto)",
+      "Leve ao forno em temperatura alta (220°C a 280°C)"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "LETTÍCIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303460-torta-de-palmito-no-liquidificador-da-nonna.html"
+}

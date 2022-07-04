@@ -1,0 +1,39 @@
+{
+  "nome_receita": "SANDUÍCHE DE CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 pães francês",
+      "2 calabresas fatiadas",
+      "2 cebolas cortadas em rodelas",
+      "3 tomates sem sementes cortados em cubos",
+      "50 ml de cachaça",
+      "Para a maionese",
+      "1 ovo",
+      "1 colher (sopa) de mostarda dijon (ou amarela)",
+      "sal e pimenta a gosto",
+      "suco de meio limão",
+      "200 ml (aprox.) de óleo de girassol",
+      "1 colher (sopa) de cebolinha picada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma frigideira com um fio de azeite, frite as calabresas e reserve.",
+      "Na mesma frigideira coloque as cebolas e refogue.",
+      "Junte a cachaça e flambe.",
+      "Reserve.",
+      "Maionese",
+      "Junte todos os ingredientes da maionese e só a metade do óleo no liquidificador, bata e vá acrescentando o restante do óleo até dar ponto.",
+      "Montagem dos sanduíches",
+      "Corte os pães ao meio, passe maionese nos dois lados.",
+      "Coloque a calabresa, uma fatia de queijo derretida, a cebola e por último o tomate em cubos.",
+      "Dicas: derreta o queijo em uma frigideira antiaderente.",
+      "O sanduíche combina muito bem com um molho barbecue!",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SEAN OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304633-sanduiche-de-calabresa.html"
+}

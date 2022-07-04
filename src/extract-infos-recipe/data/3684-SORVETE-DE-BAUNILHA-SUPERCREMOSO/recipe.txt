@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SORVETE DE BAUNILHA SUPERCREMOSO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Creme Anglaise",
+      "3 gemas",
+      "330 ml de leite",
+      "1 colher (café) de essência de baunilha",
+      "100 g de açúcar",
+      "Merengue",
+      "3 claras",
+      "100 g de açúcar",
+      "5 gotas de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme Anglaise",
+      "Misture o leite, a essência de baunilha e leve ao fogo até que levante em fervura",
+      "Em um recipiente a parte, misture as gemas peneiradas com o açúcar",
+      "Aos poucos, misture o leite quente e mexa bem para que não talhe suas gemas",
+      "Depois, leve novamente essa mistura ao fogo baixo, mexendo até perceber que tenha engrossado",
+      "Para saber, mergulhe uma colher na mistura e passe o dedo nas costas da colher, se fizer um caminho, está pronto.",
+      "Merengue",
+      "Na batedeira, coloque as claras e acrescente aos poucos o açúcar",
+      "Bata até ficar um merengue bem firme (cerca de 10 minutos) depois coloque a baunilha.",
+      "Espere esfriar, misture tudo, leve ao congelador e espere 1 hora",
+      "Retire do congelador, mexa bem para dar mais cremosidade, coloque de novo, espere mais 1 hora e mexa de novo",
+      "Volte ao congelador, espere congelar por inteiro e sirva-o.",
+      "Você pode também substituir a baunilha por outro sabor, colocando frutas, chocolate em pó, ou até mesmo sucos em pó."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GUSTAVO AMÉRICO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302918-sorvete-de-baunilha-supercremoso.html"
+}

@@ -1,0 +1,42 @@
+{
+  "nome_receita": "TORTA DE QUEIJO BIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "2 xicaras de farinha de trigo",
+      "1 gema",
+      "100 g de manteiga",
+      "1/2 xícara de leite fervente",
+      "1 colher de fermento ",
+      "sal a gosto ",
+      "Recheio",
+      "200 g de presunto picados em cubos pequenos",
+      "100 g de queijo prato ralado",
+      "100 g de mussarela ralada",
+      "50 g queijo minas ralado",
+      "50 g de parmesão ralado",
+      "1 cebola picada",
+      "3 ovos inteiros",
+      "1 litro de creme de leite fresco",
+      "sal, cheiro-verde e pimenta-do-reino a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte todos os ingredientes da massa e disponha em uma assadeira untada com manteiga",
+      "Salpique farinha de rosca por toda a assadeira e reserve",
+      "Misture todos o ingrediente do recheio e coloque sobre a massa.",
+      "Por último, salpique o queijo parmesão.",
+      "Leve ao forno preaquecido a 180º C por mais menos 30 minutos",
+      "Dica: cuidado com o sal, os ingredientes do recheio já são deliciosamente salgados"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Nalva Ferreira"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303868-torta-de-queijo-bia.html"
+}

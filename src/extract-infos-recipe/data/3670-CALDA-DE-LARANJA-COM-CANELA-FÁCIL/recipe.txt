@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CALDA DE LARANJA COM CANELA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 laranjas tipo pêra em rodelas",
+      "2 xícaras de açúcar",
+      "2 xícaras de água",
+      "1 lasca de canela",
+      "3 cravos",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire a parte de cima, assim como a de baixo das laranjas",
+      "Corte as laranjas en rodelas e retire todas as sementes.",
+      "As sementes amargam o doce, então muita atenção com esse passo.",
+      "Ferva todos os ingredientes até engrossar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "KARLA KAROLINI MAIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302944-calda-de-laranja-com-canela-facil.html"
+}

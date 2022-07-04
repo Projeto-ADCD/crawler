@@ -1,0 +1,41 @@
+{
+  "nome_receita": "CROQUETA DE CEBOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cebolas médias",
+      "100 g de manteiga",
+      "1 colher (sopa) de açúcar",
+      "1 colher (café) de sal (ou o quanto bastar)",
+      "350 ml de leite quente",
+      "60 a 100 g de farinha de trigo",
+      "2 ovos (para empanamento)",
+      "farinha panko ou de rosca comum (para empanamento)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie a cebola fina (não muito)",
+      "Aqueça a panela antiaderente",
+      "Coloque a manteiga deixe aquecer e acrescente a cebola fatiada",
+      "Deixe murchar bem",
+      "Quando a cebola caramelizar (mostrar algumas douradinhas)",
+      "Acrescente a colher de açúcar (ajuda a caramelizar)",
+      "Coloque o sal e misture",
+      "Coloque a farinha aos poucos",
+      "Mexa para cozinhar a farinha (para o bolinho mais dourado, deixe mais tempo)",
+      "Quando chegar na cor desejada, adicione aos poucos o leite quente e siga mexendo até desgrudar tudo da panela e formar uma massa",
+      "Retire do fogo, coloque numa vasilha e cubra com plástico filme",
+      "Leve à geladeira para esfriar mas rápido",
+      "Misture 2 ovos com 100 ml de leite (para passar as bolinhas pra empanar)",
+      "Quando esfriar, faça bolinhas e passe na farinha de trigo",
+      "Depois passe na mistura de ovos e leite batidos e em seguida na farinha de rosca ou panko a que preferir.",
+      "Frite em óleo quente ou na airfryer",
+      "obs.: intolerante a glúten pode substituir a farinha de trigo por farinha de arroz ou de aveia.",
+      "O leite integral por zero lactose."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "KELLEN DAYANE AMÂNCIO BARBOZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305283-croqueta-de-cebola.html"
+}

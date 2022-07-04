@@ -1,0 +1,32 @@
+{
+  "nome_receita": "TORTA DE ABOBRINHA E CENOURA DE LIQUIDIFICADOR",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 ml leite",
+      "4 ovos",
+      "3 xícaras de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "50 g de queijo ralado",
+      "1 colher (chá) de sal",
+      "Recheio:",
+      "2 abobrinhas",
+      "2 cenouras",
+      "1 copo de requeijão",
+      "tempero à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador e por último misture o fermento com uma colher",
+      "Para o recheio, rale as cenouras e as abobrinhas, misture o requeijão e os temperos",
+      "Se preferir pode acrescentar carne moída refogada",
+      "Unte a forma e despeje uma parte da massa, acrescente o recheio e cubra com o restante da massa",
+      "Salpique queijo ralado por cima",
+      "Leve ao forno preaquecido por aproximadamente 40 minutos"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MONICA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303580-torta-de-abobrinha-e-cenoura-de-liquidificador.html"
+}

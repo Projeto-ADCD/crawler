@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MARIA MOLE FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 ml de água quente",
+      "2 pacotes de gelatina sem sabor",
+      "1 colher (chá) de essência de coco (5 ml)",
+      "500 g de açúcar refinado",
+      "1 pacote de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes na batedeira e bata até dar o ponto de chantili",
+      "Após untar uma forma com margarina e polvilhar coco ralado, coloque a maria mole por cimme",
+      "Leve à geladeira por 1 hora e 30 minutos",
+      "Está pronto está maravilha",
+      "Obs: não bater o coco junto na batedeira"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "ELIAS TANZI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302724-maria-mole-facil-e-rapida.html"
+}

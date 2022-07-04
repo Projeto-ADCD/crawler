@@ -1,0 +1,26 @@
+{
+  "nome_receita": "BOLO DE LARANJA DE UMBIGO COM CASCA DA LI",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 xícaras de açúcar",
+      "1 xícara de óleo ",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "1 laranja de umbigo com casca",
+      "1 colher (sopa) de fermento em pó "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave e escove a laranja de umbigo grande com a casca",
+      "Bata no liquidificador tudo, menos a farinha e o fermento.",
+      "Após, em uma bacia, misture a farinha e o fermento delicadamente.",
+      "Unte uma forma com margarina e polvilhe farinha.",
+      "Leve ao forno preaquecido a 180° C por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LISIANE FROZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299951-bolo-de-laranja-de-umbigo-com-casca-da-li.html"
+}

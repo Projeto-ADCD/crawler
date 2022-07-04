@@ -1,0 +1,22 @@
+{
+  "nome_receita": "PANQUECAS DELICIOSAS DA VOVÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 xicara de leite",
+      "1 colher (sopa de manteiga ou margarina)",
+      "1 ovo",
+      "1 xicara de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador.",
+      "Com uma frigideira, despeje em toda ela a batida (quanto mais despejar mais grossa fica a massa ou discos).",
+      "Após alguns minutos, a massa ficará pronta."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NEUSA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301305-panquecas-deliciosas-da-vovo.html"
+}

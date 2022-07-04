@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITINHO PACIÊNCIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 ovos",
+      "600 g de açúcar",
+      "1 colher de essência de baunilha",
+      "600 g de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ovos, o açúcar e a essência até dar bastante volume e criar umas bolhas",
+      "Depois, misture o trigo e coloque em um saco plástico",
+      "Pingue em uma bandeja untada com margarina",
+      "Leve ao forno em temperatura média, quando dourar as bordas está pronto",
+      "Deixe esfriar por 5 minutos e depois bata na ponta da bandeja para soltar os biscoitos",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: tem que bater se não ele gruda. Não tente tirar com espátula, pois ele quebra"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "100 PORÇÕES",
+  "autor": "JULIA VILAS BOAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302937-biscoitinho-paciencia.html"
+}

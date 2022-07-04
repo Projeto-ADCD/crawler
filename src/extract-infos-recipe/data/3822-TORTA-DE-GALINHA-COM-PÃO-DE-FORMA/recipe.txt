@@ -1,0 +1,43 @@
+{
+  "nome_receita": "TORTA DE GALINHA COM PÃO DE FORMA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pão de forma fatiado sem as bordas",
+      "300 g de peito de frango cozido e desfiado",
+      "100 g azeitona fatiada",
+      "200 g milho verde (3 espigas)",
+      "1 cenoura ralada",
+      "250 g de maionese",
+      "200 g de creme de leite ou nata",
+      "3 dentes de alho picadinhos ou amassados",
+      "1 cebola pequena picada em cubinhos",
+      "1/2 maço de salsinha bem picadinha",
+      "2 colheres (sopa) de óleo",
+      "1 colher (sopa) de manteiga",
+      "sal e pimenta-do-reino a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire o milho das espigas e refogue numa panela ja com a manteiga aquecida.",
+      "Adicione sal e agua apenas o suficiente para cozinhar. Depois de pronto reserve",
+      "Enquanto o milho cozinha, em uma panela maior, aqueça o óleo, frite o alho e a cebola, e refogue o peito de frango, adicionando sal e pimenta-do-reino a gosto.",
+      "Pode pingar um pouquinho de água para os sabores se misturarem melhor",
+      "Nesta mesma panela junte o milho, a cenoura ralada, a salsinha, as azeitonas e misture bem, está pronto o recheio da torta",
+      "Em uma travessa quadrada ou retangular disponha uma primeira camada de pão de forma, com as fatias lado a lado, e se precisar corte pedaços menores para preencher todo o espaço.",
+      "Passe uma farta camada de maionese e esparrame metade do recheio.",
+      "Repita a camada de pão de forma, mas desta vez passe por cima o creme de leite ou a nata e distribua o restante do recheio.",
+      "Faça a última camada de pão de forma finalizando com outra camada de maionese",
+      "Leve a geladeira ate resfriar e sirva",
+      " ",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: É opcional deixar assim ou cobrir com batata palha."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDO MONTES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302585-torta-de-galinha-com-pao-de-forma.html"
+}

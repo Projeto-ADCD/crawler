@@ -1,0 +1,37 @@
+{
+  "nome_receita": "PÃO INTEGRAL VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de fermento biológico seco (10 g)",
+      "1 colher (sopa) de açúcar",
+      "3 copos de água",
+      "500 g de farinha branca",
+      "500 g de farinha integral",
+      "1 colher (sopa) de sal",
+      "1 copo de aveia",
+      "30 g de gergelim",
+      "30 g de semente de linhaça",
+      "1 copo de óleo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a água para esquentar.",
+      "Para saber o ponto certo, coloque o dedo e se conseguir ficar com ele na água por 10 segundos, está no ponto.",
+      "Misture o fermento com o açúcar e um pouco da farinha branca.",
+      "Coloque a água, mexa e deixe descansar por 15 minutos.",
+      "Misture o sal na farinha integral e coloque na mistura do fermento.",
+      "Adicione a aveia, o óleo, o gergelim e a linhaça e misture bem.",
+      "Adicione aos poucos a farinha branca, até não grudar mais nas mãos.",
+      "Sove bem a massa e deixe descansar por uma hora.",
+      "Modele os pães e coloque em uma forma.",
+      "Deixe descansar por mais 40 minutos.",
+      "Preaqueça o forno a 180º C por 20 minutos.",
+      "Asse em forno médio/baixo por aproximadamente 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "180 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SOFIA POMBO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302311-pao-integral-vegano.html"
+}

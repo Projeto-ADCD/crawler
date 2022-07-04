@@ -1,0 +1,46 @@
+{
+  "nome_receita": "PIZZAROFA DE LINGUIÇA CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      " 3 colheres (sopa) de farofa tradicional Yoki",
+      "2 ovos",
+      "1 pitada de orégano para a massa",
+      "1 azeitona bem picadinha",
+      "sal a gosto",
+      "Recheio",
+      "3 fatias de queijo muçarela",
+      "2 colheres (sopa) de molho de tomate pronto",
+      "6 fatias de linguiça calabresa",
+      "3 azeitonas para decorar",
+      "orégano para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Misture os ovos com a farofa e acrescente o sal a gosto ",
+      "Acrescente orégano, azeitona e misture bem",
+      "Coloque a massa em uma frigideira pequena untada com azeite e espalhe-a bem com uma colher",
+      "Leve ao fogo baixo e tampe a frigideira",
+      "Recheio",
+      "Enquanto a massa está sendo preparada no fogo, refogue as fatias de linguiça até dourar",
+      "Vire a massa na frigideira e acresecente o molho de tomate, o queijo e a linguiça",
+      "Tampa a frigideira",
+      "Deixe no fogo baixo para não queimar",
+      "Aguerde um pouco e verifique se o queijo derreteu",
+      "Acrescente as azeitonas para decorar e sirva em seguida",
+      "Ótimo apetite",
+      "Dicas:",
+      "A farofa já vem temperada, portanto experimente antes de levar ao fogo ou forno. Esta massa tanbém pode ser levada ao forno em forminhas, já com o recheio à preferênia (aproximadamente 10 minutos de forno quente com supervisão)",
+      "Experimente misturar à massa, sardinha enlatada com cebola e cheiro-verde; E também como recheio frango com requeijão e outros sabores a gosto"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por: Aniaide Vieira de Amorim"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304138-pizzarofa-de-linguica-calabresa.html"
+}

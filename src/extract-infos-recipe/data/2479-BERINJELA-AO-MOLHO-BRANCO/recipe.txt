@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BERINJELA AO MOLHO BRANCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 berinjelas médias",
+      "3 colheres (sopa) de amido de milho",
+      "100 g de queijo parmesão ralado ",
+      "creme de leite a gosto",
+      "1 colher (sopa) de margarina",
+      "azeite para fritar",
+      "3 xícaras de leite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tire um pouco da casca da berinjela, em seguida corte-as em rodelas finas",
+      "Depois coloque-as em uma bacia com água e sal por 15 a 20 minutos",
+      "Depois escorra a água das berinjelas, seque com papel-toalha e frite em uma frigideira antiaderente com azeite",
+      "Molho Branco",
+      "Em uma panela coloque o amido de milho,o leite, a manteiga, sal a gosto e por último o creme de leite (opcional)",
+      "Mexa até formar um mingau",
+      "Montagem",
+      "Em uma vasilha de vidro monte as berinjelas e o molho branco como uma lasanha",
+      "Coloque o queijo ralado a cima e leve ao forno até dourar"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "REGIANE MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305111-berinjela-ao-molho-branco.html"
+}

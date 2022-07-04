@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FEIJÃO SEM PANELA DE PRESSÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão preto",
+      "1 cebola",
+      "sal a gosto",
+      "pimenta-do-reino em pó a gosto",
+      "açafrão  a gosto",
+      "temperos a gosto (exceto coloral)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue uma vasilha e, com os feijões já lavados em água corrente e escolhidos, despeje água quente e espere por 3 horas com ele ali de molho",
+      "Corte a cebola em cubos",
+      "Lave o feijão e coloque numa panela grande com água potável cobrindo o feijão com um palmo acima",
+      "Depois disso coloque uma colher (sopa) de pimenta-do-reino e de açafrão, coloque a cebola dentro e coloque sal a gosto, misture.",
+      "Deixe no fogo médio e a cada 10 minutos misture",
+      "Em aproximadamente 50 minutos, dependendo da potência do seu fogão, o feijão estará pronto"
+    ]
+  },
+  "tempo_de_preparo": "300 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VITORIA BANDEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305702-feijao-sem-panela-de-pressao.html"
+}

@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BISCOITO DE MAIZENA COM LEITE CONDENSADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "500 g de amido de milho",
+      "200 g de margarina sem sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte a margarina com o amido e o leite condensado dentro de uma tigela ou bacia.",
+      "Misture usando uma colher e depois com as mãos.",
+      "Trabalhe a massa de biscoito até que ela fique bem lisa e homogênea.",
+      "Depois é só modelar os biscoitos no formato que desejar.",
+      "Em seguida coloque os biscoitinhos numa forma untada com margarina, deixando um espaço de aproximadamente 2 cm de um para o outro.",
+      "Leve para assar em forno baixo, pré-aquecido por cerca de 10 minutinhos ou até dourar em baixo.",
+      "Retire do forno e aguarde esfriar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "DICA: Você pode usar forminhas de biscoitos para modelar."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "VANESSA WAGNER OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302478-biscoito-de-maizena-com-leite-condensado.html"
+}

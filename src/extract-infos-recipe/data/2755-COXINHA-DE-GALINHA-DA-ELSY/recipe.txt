@@ -1,0 +1,39 @@
+{
+  "nome_receita": "COXINHA DE GALINHA DA ELSY",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras (chá) de água (use a do cozimento do peito de frango)",
+      "1 colher (sopa) de margarina ou manteiga (se a água do frango já estiver gordurosa, não precisa da manteiga)",
+      "2 tabletes de caldo de galinha (se a água do cozimento do frango já tiver com o caldo de frango, não precisa desse item)",
+      "4 xícaras (chá) de farinha de trigo",
+      "1 kg de peito de frango com osso",
+      "3 ovos batidos",
+      "farinha de rosca para empanar",
+      "3 dentes de alho amassados",
+      "2 folhas de louro",
+      "salsa a gosto",
+      "1 cebola picadinha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Ferva a água, teste o sal (deve ficar \"salgada\" mesmo), abaixe o fogo e coloque a farinha de trigo misturada com a salsa picadinha toda de uma vez",
+      "Sempre mexendo bem com a colher de pau até a massa soltar do fundo.",
+      "Despeje na pedra da pia e cubra com pano seco e um plástico por cima do pano e espere uns 10 minutos a massa descansar.",
+      "Sove a massa até que fique lisinha e macia, faça bolinhas de aproximadamente 80 g e depois recheie.",
+      "Recheio",
+      "Coloque em uma panela de pressão o peito de frango com 2 folhas de louro e 3 tabletes de caldo de frango, após levantar fervura, abaixe o fogo e deixe cozinhar por 25 minutos.",
+      "Tire a pressão da panela e coloque o peito de frango em uma tigela (guarde a água do cozimento para fazer a massa), retire o osso, desfie e misture um pouco de salsa picadinha.",
+      "Em uma panela refogue a cebola com o alho e despeje o frango desfiado, misture bem e reserve.",
+      "Passe as coxinhas na farinha de trigo, no ovo e na farinha de rosca e frite em óleo quente."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dicas\n- O caldo para fazer a massa deve estar \"salgado\" mesmo, pois quando colocamos a farinha a tendência é equilibrar o sal,\n- Se quiser um recheio mais \"molhadinho\", coloque uma concha ou menos do caldo do cozimento no frango desfiado.\n- Coloque extrato de tomate na massa e no recheio para dar uma \"cor\".\n- Coloque uma colher de chá de catupiri quando for rechear as coxinhas, fica uma delícia e cremosa!\nBom apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "MARCELO ASTUTO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304508-coxinha-de-galinha-da-elsy.html"
+}

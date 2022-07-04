@@ -1,0 +1,28 @@
+{
+  "nome_receita": "ESTROGONOFE DE SUÍNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "800 g de pernil suíno (corta em tiras)",
+      "3 dentes de alho (amassado)",
+      "1 cebola grande (tiras)",
+      "1 colher (chá) de colorau",
+      "2 pacotes de sachê para massas",
+      "4 colheres (sopa) de molho de tomate",
+      "1 caixa de creme de leite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite o alho, depois a cebola e acrescente a carne.",
+      "Baixe o fogo e tampe para cozinhar e soltar água",
+      "Acrescente o colorau, sachê, molho de tomate e o sal",
+      "Quando reduzir um pouco do líquido acrescente o creme de leite, mexa as vezes quando ficar grosso o caldo, corrija o sal.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VANEIDE THORPE DE CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305804-estrogonofe-de-suino.html"
+}

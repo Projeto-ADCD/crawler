@@ -1,0 +1,33 @@
+{
+  "nome_receita": "CALDO DE MOCOTÓ DA ALINE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mocotó",
+      "1 cebola",
+      "4 dentes de alho",
+      "2 folhas de louro",
+      "1 colher (sobremesa) de páprica defumada",
+      "4 colheres (sopa) de mix de temperos de sua preferência",
+      "5 batatas",
+      "1 cenoura",
+      "1 calabresa",
+      "sal a gosto",
+      "azeitona a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave os mocotós e coloque na panela de pressão com as duas folhas de louro por 60 minutos, coloque água até o limite permitido.",
+      "Depois de cozinho bater no processador o colágeno com um pouco de caldo.",
+      "Reserve",
+      "Pique a calabresa em pedaços pequenos, refogue com um pouco de oleo até dourar",
+      "Acrescente a cebola bem picada e o alho amassado, refogue e coloque o caldo de mocoto e todo o líquido que está na panela de pressão",
+      "Acrescente a páprica, o mix de temperos e acrescente a cenoura, cozinhe um pouco, depois a batata e a azeitona",
+      "Acerte o sal e deixe cozinhar até que a batata fique macia"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ALINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303129-caldo-de-mocoto-da-aline.html"
+}

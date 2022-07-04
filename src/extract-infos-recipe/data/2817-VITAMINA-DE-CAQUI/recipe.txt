@@ -1,0 +1,21 @@
+{
+  "nome_receita": "VITAMINA DE CAQUI",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caquis",
+      "1 leite condensado",
+      "1 e 1/2 lata de suco de laranja (medida da lata de leite condensado)",
+      "2 formas de gelo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um liquidificador, bata todos os ingredientes.",
+      "Sirva."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "ANNA GIULIA ZUCCO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304364-vitamina-de-caqui.html"
+}

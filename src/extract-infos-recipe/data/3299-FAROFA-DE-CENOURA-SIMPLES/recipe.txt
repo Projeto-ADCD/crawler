@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FAROFA DE CENOURA SIMPLES",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 cenouras médias raladas",
+      "1 lata de ervilha",
+      "2 ovos cozidos picadinhos",
+      "2 colheres (sopa) de azeite",
+      "1 cebola média ralada",
+      "4 xícaras de farinha de mandioca ",
+      "cebolinha e salsinha a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve todos os ingredientes ao fogo e refogue",
+      "Adicione a farinha por último",
+      "Decore com cheiro-verde"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "SILVIA MARIANO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303592-farofa-de-cenoura-simples.html"
+}

@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO DE ALHO EM CASA (CREME SIMPLES E RÁPIDO)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 dente de alho grande",
+      "1 colher de manteiga",
+      "1 colher de azeite",
+      "2 colher de queijo creme ou requeijão",
+      "1 colher (chá) de ervas picadas a seu gosto (salsinha, cebolinha, coentro ou mesmo ervas secas)",
+      "de 1 a 4 pães"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, adicione todo os ingredientes e misture bem",
+      "Acrescente o alho amassado ou picado e misture bem.",
+      "Passe o creme no pão de sua escolha e leve a forno para dourar por 10 minutinhos.",
+      "Pronto, sirva como desejar."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "DENISE S. PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300375-pao-de-alho-em-casa-creme-simples-e-rapido.html"
+}

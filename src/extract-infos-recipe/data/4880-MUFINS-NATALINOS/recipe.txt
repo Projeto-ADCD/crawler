@@ -1,0 +1,32 @@
+{
+  "nome_receita": "MUFINS NATALINOS",
+  "ingredientes": {
+    "DEFAULT": [
+      "60 g de manteiga",
+      "2 xícaras (chá) de farinha de trigo",
+      "1/2 xícara (chá) de açúcar",
+      "60 g de chocolate picado",
+      "60 g de uva passas",
+      "60 g de nuts picados (amêndoas, avelas etc)",
+      "1 ovo",
+      "leite (opcional)",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Com a ponta dos dedos, trabalhe a manteiga com a farinha de trigo",
+      "Junte 90 g do açúcar, o chocolate, as frutas, as passas e o fermento em pó.",
+      "Acrescente o ovo e leite o suficiente para obter uma massa firme",
+      "Enfarinhe as mãos, molde bolinhas e coloque-as em um tabuleiro untado e enfarinhado com 5 cm de distância entre uma e outra",
+      "Asse em forno médio preaquecido por cerca de 20 minutos até ficarem douradas.",
+      "Salpique-as com o restante do açúcar enquanto ainda estiverem quentes.",
+      "Decore com cerejas.",
+      "Rende aproximadamente 30 biscoitos"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "SANDRA REGINA DUARTE PILLON",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300026-mufins-natalinos.html"
+}

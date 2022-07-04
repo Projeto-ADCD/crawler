@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BOLINHO DE ESPINAFRE DA D. DÉBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "10 talos de espinafre",
+      "3 xícaras de farinha de trigo",
+      "50 g de queijo ralado (1 pacotinho) ",
+      "3 ovos",
+      "1 colher (sopa) de fermento",
+      "1 copo de leite",
+      "1 cebola média",
+      "2 colheres (chá) de sal",
+      "óleo para fritura"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe bem as folhas de espinafre",
+      "Após estarem cozidas, pique o espinafre.",
+      "Corte a cebola em pedacinhos pequenos.",
+      "Em um recipiente, adicione todos os ingredientes e misture bem até ficar homogêneo.",
+      "Com o óleo quente, pegue a massa com uma colher (sopa) e frite (assim como bolinho de chuva), até ficarem dourados.",
+      "Os bolinhos estão prontos para servir!",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "PS: É possível alterar a quantidade de sal, mas a indicada aqui deixa os bolinhos com um gosto bem bom!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "FELIPE EDUARDO EIRAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302079-bolinho-de-espinafre-da-d-debora.html"
+}

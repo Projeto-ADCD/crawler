@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ARROZ DE FORNO DA VALERIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 peitos de frango sem osso",
+      "3 copos de arroz",
+      "1 lata de milho",
+      "1 lata de ervilha",
+      "100 g de azeitona sem caroço",
+      "1 cebola picada",
+      "2 tomates picados",
+      "2 cubos de caldo de galinha",
+      "azeite",
+      "Sal a gosto",
+      "200 g de mussarela",
+      "200 g de presunto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela de pressão, coloque os dois peitos e os dois caldos por 30 minutos",
+      "Cozinhe os 3 copos de arroz normalmente assim que secar solte o com um garfo",
+      "Pegue uma forma retangular funda",
+      "Desfie o frango na panela de pressão: tire a pressão, retire a agua tampe de novo e balance bem, está pronto seu frango desfiado",
+      "Coloque o arroz e o frango na forma misture bem veja se está bom de sal",
+      "Adicione os outros ingredientes, deixe a mussarela e o presunto por último",
+      "Pique a mussarela e o presunto em cubinhos e adicione tudo",
+      "Despeje azeite por cima",
+      "Coloque no forno por 30 minutos ou até a mussarela derreter",
+      "De sua preferência, pode cobrir com fatias de mussarela ",
+      "Está pronto seu arroz de forno",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "50 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "VALÉRIA MAGALHÃES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305646-arroz-de-forno-da-valeria.html"
+}

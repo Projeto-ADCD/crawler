@@ -1,0 +1,23 @@
+{
+  "nome_receita": "SHAKE DE BANANA E MARACUJÁ",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana madura",
+      "1 maracujá",
+      "4 colheres de leite pó",
+      "água gelada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Congele a banana por 2 horas",
+      "Com a água gelada bata o maracujá",
+      "Acrescente a banana congelada e o leite em pó ao suco",
+      "Depois é so servir"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "24 PORÇÕES",
+  "autor": "GRACE KELLI DE PASSOS SALVADOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303621-shake-de-banana-e-maracuja.html"
+}

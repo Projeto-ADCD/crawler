@@ -1,0 +1,35 @@
+{
+  "nome_receita": "DRY RUB (TEMPERO PARA CHURRASCO/ASSADOS)",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa)  de orégano",
+      "3 colheres (sopa) de sal",
+      "3 colheres (sopa) açúcar",
+      "5 colheres (sopa)  de açúcar mascavo",
+      "1 colher (chá) de louro em pó",
+      "1 colher (chá) de fumaça em pó (opcional)",
+      "3 colheres (sopa) de cebola em pó",
+      "4 colheres (sopa) de alho em pó",
+      "1 colher (sopa) de coentro em pó",
+      "1 xícara de páprica doce defumada",
+      "2 colheres (sopa) de coloral",
+      "pimenta caiena à gosto",
+      "pimenta do reino à gosto",
+      "pimenta chilli à gosto",
+      "cominho à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Colocar todos os ingredientes numa vasilha e mexer bem para que tudo se misture",
+      "Tempere com a mistura as carnes que desejar para assar ou grelhar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pode usar como seco ou fazer uma pasta misturando azeite e pincelando na carne que irá usar"
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "WENDY GUSTAVO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302429-dry-rub-tempero-para-churrasco-barra-assados.html"
+}

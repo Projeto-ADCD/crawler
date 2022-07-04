@@ -1,0 +1,30 @@
+{
+  "nome_receita": "LASANHA DE BERINJELA COM CARNE E MUSSARELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 berinjelas médias cortadas em fatias finas",
+      "500 g de muçarela fatias finas",
+      "500 g de carne moída",
+      "1 cebola",
+      "1 passata de tomate",
+      "1 alho",
+      "cheiro-verde",
+      "sal a gosto",
+      "1 colher (sopa) de vinagre"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as berinjelas no sentido de cumprido em fatias finas",
+      "Coloque-as de molho em uma solução de água, o vinagre e 1/2 colher (sopa) de sal por 5 minutos",
+      "Refogue a carne moída, acrescentando a cebola, cheiro-verde, alho e a passata de tomates",
+      "Escorra bem as berinjelas",
+      "Monte a lasanha por camadas: primeiro o molho, depois as berinjelas e por fim a muçarela",
+      "Leve ao forno em média de 40 minutos a 1 hora"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "CARLA SOARES JERONIMO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302789-lasanha-de-berinjela-com-carne-e-mussarela.html"
+}

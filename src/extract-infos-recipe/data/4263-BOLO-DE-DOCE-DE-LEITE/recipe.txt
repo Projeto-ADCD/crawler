@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE DOCE DE LEITE",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 ovos",
+      "1 pimenta",
+      "3 beterrabas",
+      "7 pitada de sal a gosto",
+      "4 colheres de doce de leite",
+      "1 pitada de orégano",
+      "1 caneca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o 5 ovos no liquidificador.",
+      "Corte a beterraba em cubos, cozinhe e amasse.",
+      "Misture com o doce de leite 7 pitadas de sal e 1 pitada de orégano.",
+      "Tire os ovos e misture à massa.",
+      "Coloque na caneca e leve ao micro-ondas por 7 minutos e coloque a pimenta de decoração."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "SOFIA ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301500-bolo-de-doce-de-leite.html"
+}

@@ -1,0 +1,35 @@
+{
+  "nome_receita": "PÃO DE LÓ COM LEITE DE COCO SEM LACTOSE",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "6 ovos",
+      "2 xícaras de açúcar",
+      "200 ml de leite de coco (usei o industrializado mesmo e pode-se usar leite de vaca na mesma quantidade)",
+      "3 xícaras de farinha de trigo (peneirada sempre)",
+      "1 pitada de sal",
+      "1 colher (sopa) de fermento químico (para bolos)",
+      "forma untada com margarina/manteiga e farinha",
+      "Cobertura",
+      "1 lata de leite condensado",
+      "2/3 copo de leite de vaca ou de coco",
+      "50 g de coco ralado (adoçado ou não)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Sem parar de bater em nenhum momento, adicione todos os ingredientes da massa na ordem descrita acima.",
+      "Bata até formar uma mistura homogênea (bastante, principalmente os ovos, que devem dobrar de volume antes que você coloque o açúcar).",
+      "Coloque na forma untada a mistura obtida e leve ao forno à 180° C",
+      "Coloque 1 hora ou até o teste do palito mostrar o palito limpo.",
+      "Tire o bolo do forno e coloque sobre a bancada.",
+      "Em uma tigela, misture 1/2 lata de leite condensado com o leite e misture até obter uma calda fluida. Regue então o bolo com ela abundantemente, podendo dobrá-la caso goste do bolo bastante molhado.",
+      "Por cima, finalize colocando o resto do leite condensado por cima e o coco ralado.",
+      "Pode-se armazenar na geladeira ou em temperatura ambiente (porém, nesse caso, só por 3 dias considerando o calor desse nosso país)"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "25 PORÇÕES",
+  "autor": "FERNANDA MARCONDES RIEDO LOPES LOPES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304485-pao-de-lo-com-leite-de-coco-sem-lactose.html"
+}

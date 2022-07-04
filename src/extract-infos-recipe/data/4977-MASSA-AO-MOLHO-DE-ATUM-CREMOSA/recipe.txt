@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MASSA AO MOLHO DE ATUM CREMOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "massa (qualquer tipo, recomendo penne ou parafuso)",
+      "atum (a cada 1 lata de atum, 1 pacote de massa 400g)",
+      "maionese (a cada 1 lata de atum, 5 colheres)",
+      "azeitonas (pode-se adicionar milho e ervilha também)",
+      "queijo (ralado ou picado) a vontade",
+      "1 cebola picada em cubos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe a massa e reserve",
+      "Corte as azeitonas em rodelas.",
+      "Em uma penela ou frigideira doure a cebola.",
+      "Após a cebola dourar, adicione o atum e mexa bem por uns 10 segundos.",
+      "Depois, adicione a maionese, as azeitonas picadas e tempere a gosto (eu usei tempero pronto e pimenta do reino, mas pode-se usar sal, orégano, alho, etc).",
+      "Adicione meio copo de água para o molho não ficar muito grosso.",
+      "Após 5 minutos mexendo, desligue o fogo e misture com a massa, mexa bem."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ANA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299814-massa-ao-molho-de-atum-cremosa.html"
+}

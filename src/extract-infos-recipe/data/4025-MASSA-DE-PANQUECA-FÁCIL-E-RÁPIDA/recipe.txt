@@ -1,0 +1,27 @@
+{
+  "nome_receita": "MASSA DE PANQUECA FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras (chá) de leite",
+      "4 xícaras (chá) de farinha de trigo",
+      "4 ovos",
+      "1 colher (chá) de sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador por 2 minutos.",
+      "Em seguida desligue e, com uma colher, misture a farinha que grudou no copo do liquidificador.",
+      "Bata novamente só para misturar e reserve",
+      "Unte a frigideira com um fio de óleo e leve ao fogo até aquecer.",
+      "Com o auxílio de uma concha, pegue uma porção de massa e coloque na frigideira, gire a frigideira para espalhar bem a massa.",
+      "Abaixe o fogo e deixe dourar por baixo, em seguida vire do outro lado e deixe dourar, repita o processo com toda a massa.",
+      "Após isso coloque todas panquecas em uma vasilha e assim recheie e passe o molho",
+      "E bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "17 PORÇÕES",
+  "autor": "RODRIGO REPACHE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302112-massa-de-panqueca-facil-e-rapida.html"
+}

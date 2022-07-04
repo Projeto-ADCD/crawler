@@ -1,0 +1,31 @@
+{
+  "nome_receita": "GUACAMOLE DO VIRGÍLIO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 abacate (grande)",
+      "1/4 de xícara de azeite de gergelim",
+      "2 alhos (bem cortados)",
+      "suco de 2 limões",
+      "1 cebola média picada",
+      "4 pitadas de sal",
+      "5 pimentas dedo de moça picadas (muito bem picadas)",
+      "2 tomates pequenos picados"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Retire o abacate da casca",
+      "Amasse o abacate com um garfo",
+      "Em seguida adicione o sal, o suco de limão e o azeite de gergelim",
+      "Junte todos os ingredientes que faltaram",
+      "Misture bem até virar uma mistura pastosa ",
+      "Pronto!",
+      "Sirva com bolachas, doritos e/ou burritos ou acompanhamento de salada,",
+      "arroz, ou feijão"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VIRGÍLIO CARNEIRO LEÃO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300350-guacamole-do-virgilio.html"
+}

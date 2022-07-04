@@ -1,0 +1,36 @@
+{
+  "nome_receita": "MONDONGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de mondongo",
+      "1 osso de gado (músculo)",
+      "louro",
+      "cravo",
+      "sálvia",
+      "3 tomates",
+      "molho de tomate a gosto",
+      "tempero verde (salsa, cebolinha)",
+      "noz-moscada",
+      "cebola",
+      "alho",
+      "sal"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O mondongo ou bucho de gado deve ser muito bem lavado e fervido no mínimo duas vezes antes de temperar. No mercados existe o mondongo inteiro (que vc deve cortar em tiras) ou já vem pronto cortado.",
+      "Lave bem e ferva as tiras com louro e cravos para tirar qualquer gosto que possa ficar).",
+      "Troque a água, lave novamente e ferva de novo com louro e cravos.",
+      "Quando estiver molinho, retire essa água, lave e aí sim comece o tempero.",
+      "Coloque o osso de gado para ferver junto, dará um sabor muito bom.",
+      "Adicione cebola, alho, tomate, molho de tomate, sálvia, louro, sal e outros temperos a seu gosto.",
+      "Deixe ferver até encorpar o molho.",
+      "Quando o molho estiver grosso e o bucho molinho, coloque temperinhos verdes e desligue.",
+      "Sirva com arroz branco ou apenas pão francês e muito queijo ralado!"
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "0 PORÇÕES",
+  "autor": "LISIANE FROZZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300749-mondongo.html"
+}

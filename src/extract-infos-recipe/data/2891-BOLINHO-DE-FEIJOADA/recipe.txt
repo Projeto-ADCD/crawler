@@ -1,0 +1,53 @@
+{
+  "nome_receita": "BOLINHO DE FEIJOADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de feijão preto cozido",
+      "2 dentes de alho picado",
+      "1 cebola média",
+      "300 g de farinha de mandioca torrada",
+      "Para o recheio",
+      "200 g de bacon cortados em cubinhos",
+      "200 g de linguiça calabresa cortadas em cubinho",
+      "200 g de linguiça paio cortado em cubinhos",
+      "1 maço de couve bem picadinha",
+      "farinha de rosca para empanar",
+      "azeite",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe o feijão preto",
+      "Em uma panela aqueça o óleo e refogue a cebola e em seguida acrescente o alho até dourar.",
+      "Junte este refogado ao feijão já cozido.",
+      "Acerte o sal a gosto",
+      "Bata no liquidificador o feijão com um pouco da água do cozimento até formar um creme.",
+      "Em uma panela coloque o creme de feijão e coloque a farinha de mandioca aos poucos",
+      "Em fogo baixo, mexa sempre até soltar do fundo da panela",
+      "Formando uma massa",
+      "Retire da panela e coloque em uma tigela e deixe esfriar.",
+      "Recheio",
+      "Frite o bacon com um fio de azeite e reserve.",
+      "Na mesma panela que o bacon foi frito coloque 2 colheres (sopa) de azeite e frite a linguiça calabresa e a linguiça paio.",
+      "Reserve",
+      "Em uma panela coloque um fio de azeite e refogue rapidamente a couve picada e por último coloque uma pitada de sal.",
+      "Reserve",
+      "Com ajuda de uma colher (sopa) vá retirando a massa e abra na palma da mão",
+      "Coloque o recheio:",
+      "1 cubinho de bacon frito",
+      "1 cubinho da linguiça calabresa frita.",
+      "1 cubinho de linguiça paio frita.",
+      "1 tirinha de couve refogada.",
+      "Comece a fechar a massa e na própria mão vá enrolando até formar o bolinho",
+      "Passe os bolinhos na farinha de rosca e frite em óleo quente.",
+      "Escorra em papel-toalha.",
+      "Opcional:",
+      "Sirva acompanhado de gominhos de laranja e geleia de pimenta"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RENATA MULLER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304214-bolinho-de-feijoada.html"
+}

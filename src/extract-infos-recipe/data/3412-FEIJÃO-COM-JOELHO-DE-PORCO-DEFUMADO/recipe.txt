@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FEIJÃO COM JOELHO DE PORCO DEFUMADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 joelho de porco defumado",
+      "250 g de feijão",
+      "1 tablete de tempero pronto ",
+      "sal a gosto",
+      "folhas de louro a gosto",
+      "páprica a gosto",
+      " "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o joelho em uma panela de pressão cubra com água e coloque os temperos (sal, folhas de louro, a páprica, tempero pronto) e a cebola picada",
+      "Coloque na pressão por 10 minutos abra a panela e prove o tempero",
+      "Se achar necessário ajuste",
+      "Adicione o feijão após os 10 minutos e deixe por mais 25 minutos na pressão",
+      "Pronto, o osso do joelho ja vai ter soltado da carne!"
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303415-feijao-com-joelho-de-porco-defumado.html"
+}

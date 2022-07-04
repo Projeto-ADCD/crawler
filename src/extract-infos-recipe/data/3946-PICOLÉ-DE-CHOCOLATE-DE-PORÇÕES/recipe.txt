@@ -1,0 +1,28 @@
+{
+  "nome_receita": "PICOLÉ DE CHOCOLATE DE 6 PORÇÕES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 de chocolate fracionado",
+      "1 sorvete de chocolate",
+      "6 morangos",
+      "1 pacote de granulado",
+      "1 barra de chocolate branco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Derreta o chocolate fracionado em banho-maria",
+      "Depois passe na forma de picolé e espere congelar por uns 10 minutos",
+      "Depois de congelado coloque o sorvete",
+      "E corte os morandos em fileiras",
+      "Depois coloque o morango no sorvete e preencha o espaço com o chocolate",
+      "Depois de congelado retire do recipiente e derreta o chocolate branco em banho-maria",
+      "Coloque por cima do picolé e salpique o granulado",
+      "E agora e só comer"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANA CAROLINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302323-picole-de-chocolate-de-6-porcoes.html"
+}

@@ -1,0 +1,24 @@
+{
+  "nome_receita": "BRIGADEIRO SEM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 colher de margarina",
+      "corante alimentício marrom à gosto",
+      "essência de chocolate à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga e o leite condensado na panela em fogo baixo",
+      "Mexa sem parar até pegar ponto de brigadeiro",
+      "Retire da panela",
+      "Adicione o corante e a essência",
+      "Deixe esfriar e sirva"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "45 PORÇÕES",
+  "autor": "ISABELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302371-brigadeiro-sem-chocolate.html"
+}

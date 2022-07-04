@@ -1,0 +1,47 @@
+{
+  "nome_receita": "SALADA CEASER FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "Salada:",
+      "1 alface americano",
+      "6 fatias de pão de forma",
+      "3 colheres (sopa) de manteiga",
+      "ervas finas a gosto",
+      "1/4 de xícara de parmesão ralado",
+      "1 dente de alho",
+      "Bacon a gosto",
+      "Molho:",
+      "1/2 xícara (chá) de maionese",
+      "1/3 de xícara de parmesão ralado",
+      "1/4 de xícara de suco de limão",
+      "2 colheres (sopa) de azeite ",
+      "1 filé de anchova",
+      "2 dentes de alho",
+      "1/2 colher (chá) de sal",
+      "1 colher (sopa) de mostarda dijon",
+      "salsa desidratada a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "MOLHO": [
+      "Coloque tudo no liquidificador e bata bem até obter um creme bem fino"
+    ],
+    "CROUTONS": [
+      "Corte as fatias de pão em quadradinhos pequenos",
+      "Em uma panela coleque a manteiga, junte o alho picado ou ralado deixer ferver sem queimar",
+      "Coloque os pães já cortados e mexa bem",
+      "Acrescente a erva que preferir (manjericão, orégano ou ervas finas)",
+      "Coloque numa travessa untada e leve ao forno para assar"
+    ],
+    "SALADA": [
+      "Pique o alface em lascas",
+      "Corte o bacon em quadradinhos e frite bem",
+      "Sirva no prato fundo as folhas com 2 colheres do molho",
+      "Coloque um pouco de queijo e por fim os croutons e o bacon por cima"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "SOLANGE AMARAL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303231-salada-ceaser-facil.html"
+}

@@ -1,0 +1,33 @@
+{
+  "nome_receita": "FAROFA CARAMELIZADA CROCANTE COM CEBOLA CARAMELIZADA, AMÊNDOAS E CRANBERRIES",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola roxa média picada em quadradinhos ",
+      "2 colheres (sopa) bem cheias de manteiga ou margarina ",
+      "50 g de amêndoas laminadas",
+      "12 azeitonas verdes picadas",
+      "50 g de cranberries secas (opcional)",
+      "cebolinha picada ou ervas verdes frescas a gosto",
+      "250 g aproximadamente de farofa Yoki tradicional"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Leve ao fogo baixo a manteiga e a cebola ",
+      "Mexa lentamente por uns 20 minutos até caramelizar",
+      "Acrescente as amêndoas e mexa",
+      "Acrescente as azeitonas e mexa",
+      "Acrescente as cranberries e mexa",
+      "Junte a farofa tradicional Yoki e vá mexendo, sempre no fogo baixo, até que esteja bem aquecida ",
+      "Salpique a cebolinha e misture bem",
+      "Coloque em uma travessa e sirva como acompanhamentos para assados"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Maria Luzia Marriotti Cavalcante"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304236-farofa-caramelizada-crocante-com-cebola-caramelizada-amendoas-e-cranberries.html"
+}

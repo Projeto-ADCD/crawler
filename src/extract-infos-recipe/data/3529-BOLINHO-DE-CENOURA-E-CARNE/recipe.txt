@@ -1,0 +1,42 @@
+{
+  "nome_receita": "BOLINHO DE CENOURA E CARNE",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 cenouras tamanho médio raladas em tiras",
+      "2 cebolas tamanho médio em cortes pequenos",
+      "10 talos de salsinha cortadas",
+      "4 ovos tamanho grande",
+      "400 g de carne moída",
+      "3 colheres de sopa de azeite para a carne",
+      "3 dentes de alho grande picados",
+      "gengibre na mesma quantidade de alho",
+      "1 colher (sopa) de azeite",
+      "1 e 1/2 xícara (chá) de farinha de trigo",
+      "coentro à gosto",
+      "sal à gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma panela grande, coloque as 3 colheres (sopa) de azeite, o gengibre e o alho",
+      "Deixe fritar até pegarem cor, depois adicione a cebola e deixe fritar até dourar",
+      "Por último adicione a carne e vá misturando até ficar no ponto para consumo",
+      "Após cozinhar a carne, retire com a ajuda de um escorredor o excesso de caldo e deixe reservado",
+      "Na mesma panela adicione a cenoura, a salsinha, o coentro e os ovos, misturando até ficar mais homogêneo",
+      "Depois adicione 1 e 1/2 xícara (chá) de farinha de trigo e misture",
+      "Vá adicionando aos poucos a farinha até pegar o ponto de liga, podendo ser mais ou menos da quantidade citada aqui",
+      "Pelo fato da carne estar quente, após misturar a farinha de trigo, acrescente a carne e misture bem",
+      "Em uma frigideira coloque 1 colher (sopa) de azeite e deixe aquecer bem",
+      "Faça bolinhos da mistura realizada e aqueça na frigideira em fogo baixo",
+      "Ao retirar, leve ao papel toalha para tirar o excesso de óleo no bolinho e depois pode se servir",
+      "Bom apetite!"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Dica: Os bolinhos podem ser bem servidos com um molho caseiro de maionese com hortelã e limão, acompanhados com um vinho branco"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "GLEIDSON DE ARAUJO SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303192-bolinho-de-cenoura-e-carne.html"
+}

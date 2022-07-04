@@ -1,0 +1,25 @@
+{
+  "nome_receita": "MOUSSE DE LIMÃO COM CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 copo (americano) quase cheio de suco extraído do limão",
+      "2 caixinhas de leite condensado",
+      "1 caixinha de creme de leite",
+      "Cobertura",
+      "chocolate meio amargo 500 g (ou o tanto que preferir)",
+      "1/2 caixinha de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture junto o leite condensado, o suco do limão, o creme de leite e após, despeje em um refratário.",
+      "Derreta o chocolate por completo e após, misture meia caixinha de creme de leite.",
+      "Despeje o chocolate em cima do mousse",
+      "E leveà geladeira "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "KAROLINA FARIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305484-mousse-de-limao-com-chocolate.html"
+}

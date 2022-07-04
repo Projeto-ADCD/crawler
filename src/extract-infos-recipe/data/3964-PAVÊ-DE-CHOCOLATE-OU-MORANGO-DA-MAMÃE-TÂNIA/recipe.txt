@@ -1,0 +1,47 @@
+{
+  "nome_receita": "PAVÊ DE CHOCOLATE OU MORANGO DA MAMÃE TÂNIA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 lata (medida da lata de leite condensado) de leite",
+      "50 g de biscoito champagne",
+      "2 ovos",
+      "1 colher (sopa) de amido de milho",
+      "7 colheres (sopa) de açúcar",
+      "Para pavê de chocolate:",
+      "1 colher (sopa) de achocolatado ou chocolate em pó",
+      "1 barra de chocolate",
+      "Para pavê de morango:",
+      "1 colher de Nesquik",
+      "2 caixas de morangos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Creme: ",
+      "Coloque na panela o leite condensado, o leite, o amido de milho, 2 gemas e 1 colher de açúcar.",
+      "Misture no fogo sem deixar empolar",
+      "Cozinhe até formar um creme homogêneo e reserve",
+      "Mistura para banhar os biscoitos:",
+      "Em uma vasilha, se estiver fazendo pavê de chocolate, misture um pouco de leite com o pó de chocolate.",
+      "Se estiver fazendo o pavê de morango, misture o leite com pó Nesquik;",
+      "Montagem do pavê:",
+      "Em um pirex ou vasilha, espalhe um pouquinho do creme no fundo;",
+      "Molhe o biscoito (no leite com chocolate ou no leite com morango) e forre todo o pirex com uma camada de biscoitos;",
+      "Acrescente pedaços de morango ou da barra de chocolate, a depender do sabor do pavê;",
+      "Acrescente uma camada fina de creme;",
+      "Repita a camada de biscoitos molhados no leite;",
+      "Acrescente mais uma camada de creme;",
+      "Cobertura:",
+      "Bata 2 claras em neve, acrescentando 6 colheres de sopa de açucar;",
+      "Desligue a batedeira e mistura nas claras em neve o creme de leite com a ajuda de uma colher;",
+      "Acrescente a cobertura em cima do pavê;",
+      "Enfeite com morangos ou pedaços de chocolate."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LIVIA CANAVEZES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302289-pave-de-chocolate-ou-morango-da-mamae-tania.html"
+}

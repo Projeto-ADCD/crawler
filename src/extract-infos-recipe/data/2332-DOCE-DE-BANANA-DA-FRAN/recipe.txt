@@ -1,0 +1,25 @@
+{
+  "nome_receita": "DOCE DE BANANA DA FRAN",
+  "ingredientes": {
+    "DEFAULT": [
+      "7 bananas maduras",
+      "1 pacote de gelatina sem sabor",
+      "1 xicara (chá) de açúcar",
+      "açúcar cristal para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Amasse bem as bananas e despeje em uma panela",
+      "Adicione o açúcar e a gelatina em pó e leve ao fogo médio",
+      "Mexa sem parar por 25 minutos",
+      "Despeje o doce em uma forma de fundo forrado de papel-manteiga ou assadeira untada",
+      "Em seguida, leve para à geladeira e deixe de um dia para o outro",
+      "Desenforme, corte em quadradinho e passe no açúcar cristal para decorar."
+    ]
+  },
+  "tempo_de_preparo": "26 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FRANCIELI ONILIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305461-doce-de-banana-da-fran.html"
+}

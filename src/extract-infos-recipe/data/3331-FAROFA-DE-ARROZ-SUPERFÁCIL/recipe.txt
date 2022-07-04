@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA DE ARROZ SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 xícaras de arroz cozido",
+      "1 linguiça calabresa",
+      "300 g de bacon",
+      "1 cebola",
+      "5 ovos",
+      "1 farofa pronta ",
+      "cheiro-verde a gosto",
+      "temperos a gosto",
+      "1 abacaxi",
+      "1 batata palha",
+      "1 uva passas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte a calabresa e o bacon e frite, reserve",
+      "Na mesma panela que fritou a calabresa, frite o alho e a cebola, reserve",
+      "Faça os ovos mexidos e reserve.",
+      "Corte o abacaxi em pedaços pequenos.",
+      "Agora em uma vasilha, coloque o arroz, a calabresa, o bacon, a cebola os ovos mexidos, o cheiro-verde e misture.",
+      "Vá colocando a farofa pronta aos poucos e mexendo",
+      "Logo em seguida coloque o abacaxi picado e por último as uvas passa e a batata palha.",
+      "Coloque em uma travessa e sirva.",
+      "Essa farofa é ideal para acompanhar um bom chester."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANTONIA SOARES DA SILVA LOIOLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303546-farofa-de-arroz-superfacil.html"
+}

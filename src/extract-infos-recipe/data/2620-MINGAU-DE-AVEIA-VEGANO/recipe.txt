@@ -1,0 +1,21 @@
+{
+  "nome_receita": "MINGAU DE AVEIA VEGANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 copo de aveia em flocos",
+      "2 copos de leite de amêndoas",
+      "1 copo de água"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque tudo em uma panela com tampa",
+      "Coloque em fogo alto até começar a ferver.",
+      "Depois de ferver, tire a tampa e mexa até pegar consistência."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "MARIA FLOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304794-mingau-de-aveia-vegano.html"
+}

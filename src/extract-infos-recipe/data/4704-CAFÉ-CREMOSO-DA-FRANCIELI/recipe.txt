@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CAFÉ CREMOSO DA FRANCIELI",
+  "ingredientes": {
+    "DEFAULT": [
+      "50 g de café ou 4 colheres (sopa) ",
+      "2 xícaras de açúcar",
+      "1 xícara de água quente"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes na tigela da batedeira e bata por uns 15 ou 20 minutos",
+      "Deixe até dobrar de tamanho e ficar parecido com chantili",
+      "Depois coloque em um pote com tampa e leve ao congelador",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ele não congela e dura até dois meses. Pode ser consumido com leite ou água. Se você quer um café bem cremoso adicione 2 ou 3 colheres e preencha com água ou leite"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "FRANCIELI SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300392-cafe-cremoso-da-francieli.html"
+}

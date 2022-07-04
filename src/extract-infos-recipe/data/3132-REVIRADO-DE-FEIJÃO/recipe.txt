@@ -1,0 +1,25 @@
+{
+  "nome_receita": "REVIRADO DE FEIJÃO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de feijão cozido e temperado",
+      "2 xícaras de farofa tradicional",
+      "salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o feijão e coloque na panela com o fogo ligado",
+      "Acrescente as duas xícaras de farofa aos poucos e mexendo sempre para não empelotar",
+      "Depois, acrescente a salsinha e cebolinha a gosto.",
+      "Está pronto o revirad, é só servir",
+      "Fica uma delícia e salva aquele resto de feijão que já estava sem graça.",
+      "Fácil rápido e prático para o dia dia",
+      "Evita o desperdício de alimento."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "CRISTINA BULMINI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303836-revirado-de-feijao.html"
+}

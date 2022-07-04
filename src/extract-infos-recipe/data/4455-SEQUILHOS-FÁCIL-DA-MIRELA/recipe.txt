@@ -1,0 +1,25 @@
+{
+  "nome_receita": "SEQUILHOS FÁCIL DA MIRELA",
+  "ingredientes": {
+    "DEFAULT": [
+      "250 g de amido de milho",
+      "1 lata de leite condensado",
+      "2 colheres (sopa) de margarina ou manteiga gelada",
+      "2 gemas"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente coloque o amido de milho e a margarina.",
+      "Misture muito bem até que forme uma farofa.",
+      "Acrescente as gemas e o leite condensado e misture bem, mexendo com as mãos até que forme uma massa uniforme.",
+      "Faça bolinhas com a massa ou modele como desejar (bolachinhas, rosquinhas ou quadradinhos).",
+      "Depois de modelada a massa, transfira as unidades para uma forma (não precisa untar nem enfarinhar).",
+      "Em seguida leve ao forno médio preaquecido por aproximadamente 20 minutos ou até começar a dourar a base."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "50 PORÇÕES",
+  "autor": "MIRELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301068-sequilhos-facil-da-mirela.html"
+}

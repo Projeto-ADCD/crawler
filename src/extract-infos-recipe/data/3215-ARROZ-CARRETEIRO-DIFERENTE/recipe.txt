@@ -1,0 +1,29 @@
+{
+  "nome_receita": "ARROZ CARRETEIRO DIFERENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de coxão mole ou coxão duro",
+      "1 cenoura grande ralada",
+      "3 tomates cortados em cubinhos",
+      "1 tablet de caldo de carne",
+      "2 copos de arroz",
+      "1 colher (chá) de alho moído",
+      "sal a gosto",
+      "salsinha e cebolinha a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça uma panela com óleo, adicione o alho e refogue a carne já em cubinhos com o caldo de carne",
+      "Adicione o tomate e a cenoura até que eles fiquem murchos",
+      "Por último, acrescente o arroz e refogue-o",
+      "Coloque o sal e água para cozinhar",
+      "Tampe a panela, e espere o arroz secar a água",
+      "Sirva em seguida com a salsinha e a cebolinha salpicada!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "MIRELLA KHARFAN",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303720-arroz-carreteiro-diferente.html"
+}

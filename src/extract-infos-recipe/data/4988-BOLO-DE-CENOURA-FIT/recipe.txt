@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO DE CENOURA FIT",
+  "ingredientes": {
+    "BOLO:": [
+      "4 ovos",
+      "100 ml de óleo de coco",
+      "1 cenoura grande picada (200g)",
+      "2 xíc. de chá de farinha de arroz",
+      "1 e 1/2 xíc de chá de açúcar demerara",
+      "1 e 1/2 colher de sopa de fermento em pó"
+    ],
+    "COBERTURA:": [
+      "2 xícaras de chá de leite desnatado",
+      "4 colheres (sopa) de cacau em pó",
+      "3 colheres (sopa) de açúcar demerara",
+      "1 colher (sopa) de óleo de coco"
+    ]
+  },
+  "passos": {
+    "BOLO:": [
+      "No liquidificador, bata os ovos, o óleo de coco, a cenoura e o açúcar, por 2 minutos.",
+      "Despeje o conteúdo do liquidificador em uma tigela e misture, aos poucos, a farinha de trigo.",
+      "Por último, acrescente o fermento em pó e mexa delicadamente.",
+      "Despeje a massa em uma forma número 20 forrada no fundo com papel manteiga ou, untada com manteiga e farinha de arroz.",
+      "Leve para assar em forno médio preaquecido até dourar.",
+      "Retire do forno, espere esfriar e desenforme."
+    ],
+    "COBERTURA:": [
+      "Em uma panela, misture o leite desnatado, o cacau em pó, o açúcar demerara e o óleo de coco.",
+      "Leve ao fogo médio, mexendo sem parar até engrossar.",
+      "Cubra o bolo, espere esfriar e sirva.",
+      "Decore com granulado diet, ou granulado comum."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "NATY MONTEIRO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299774-bolo-de-cenoura-fit.html"
+}

@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CALDO DE MANDIOQUINHA COM ABÓBORA",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de mandioquinha",
+      "1/2 abóbora",
+      "3 alhos",
+      "2 colheres de manteiga",
+      "2 linguiças calabresa",
+      "2 tabletes de tempero pronto de caldo de galinha",
+      "1 cebola",
+      "Coentro ou cebolinha",
+      "Feijão branco (fava)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o feijão de molho por 1 hora. Após esse tempo, cozinhe ele com um caldo de galinha.",
+      "Em outra panela, coloque pela metade de água e adicione a mandioquinha, abóbora descascada, alho inteiro, manteiga e o caldo de galinha. Adicione um pouco de sal.",
+      "Após cozinhar tudo, deixe esfriar e bata no liquidificador.",
+      "Corte a linguiça em pedaços, corte a cebola bem picada e frite até dourar.",
+      "Coloque o creme da mandioquinha e abóbora dentro da panela de feijão branco, adicione a calabresa e cebola já refogada junto, coloque o coentro e cebolinha e deixe ferver por mais 15 minutos e está pronto."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300744-caldo-de-mandioquinha-com-abobora.html"
+}

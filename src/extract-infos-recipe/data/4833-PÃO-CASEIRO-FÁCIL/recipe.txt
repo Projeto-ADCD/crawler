@@ -1,0 +1,27 @@
+{
+  "nome_receita": "PÃO CASEIRO FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 colher (sopa) de sal",
+      "4 colheres (sopa) de açúcar",
+      "1 xícara de óleo",
+      "600 ml de água morna",
+      "50 g de fermento biológico"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador, exceto a farinha de trigo",
+      "Misture a farinha de trigo aos poucos em uma bacia",
+      "Quando a massa desgrudar das mãos, pode ser enformada",
+      "Unte com óleo 2 formas para pão de forma",
+      "Coloque a massa até a metade e deixe crescer por 30 minutos",
+      "Coloque para assar por 30 minutos"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "NOSSO PÃO DE CADA DIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300138-pao-caseiro-facil.html"
+}

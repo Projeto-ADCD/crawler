@@ -1,0 +1,26 @@
+{
+  "nome_receita": "PÃO DE QUEIJO FIT",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "2 colheres (sopa) de queijo ralado",
+      "1 colher (sopa) de tapioca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, você irá colocar todos os ingredientes",
+      "Misture bem (não deixe que fique bolinhas)",
+      "Leve ao micro-ondas por 2 minutos.",
+      "Assim que acabar, caso tenha sanduicheira, coloque para esquentar",
+      "Retire o pão de queijo do recipiente que foi ao micro-ondas e coloque na sanduicheira, para criar um pouco de casquinha (mas não é obrigatório) e pronto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: no caso do recipiente, pode ser uma xícara, pois ai não tem problema para ir ao micro-ondas"
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "JAQUELINE OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304758-pao-de-queijo-fit.html"
+}

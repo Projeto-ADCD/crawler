@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BOLO DE FUBÁ COM LEITE EM PÓ E COCO RALADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos inteiros",
+      "2 xícaras (chá) de açúcar",
+      "2 xícaras (chá) de fubá",
+      "3 colheres (sopa) de farinha de trigo",
+      "1/2 copo (americano) de óleo",
+      "1 copo (americano) de leite",
+      "4 colheres (sopa) de leite em pó",
+      "1 pacote de cocó ralado",
+      "1 colher (sopa) de fermento em pó"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "1 Em um liquidificador, adicione os ovos, o açúcar, o fubá, a farinha de trigo, o óleo, o leite, leite em pó e o fermento, depois bata até a massa ficar lisa e homogênea.",
+      "2 Despeje a massa em uma forma untada e polvilhada e adicione o cocó ralado e afunde.",
+      "3 Leve para assar em forno médio 180 °C) preaquecido por 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "CARLOSPEREIRA PEREIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305335-bolo-de-fuba-com-leite-em-po-e-coco-ralado.html"
+}

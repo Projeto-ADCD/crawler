@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FRANGO GRELADO COM CHIMICHURRI",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 peitos de frango",
+      "4 colheres (chá) de chimichurri",
+      "sal a gosto",
+      "3 colheres (chá) de azeite extra virgem",
+      "4 colheres (sopa) de água quente",
+      "alho granulado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Abra os peitos do frango para facilitar o tempero",
+      "Em uma vasilha a parte, adicione os demais ingredientes e aguarde 5 minutos",
+      "Em seguida tempere o frango e aguarde pelo menos 1 hora para que o tempero seja absorvido.",
+      "Coloque para grelhar até ficar dourado os dois lados.",
+      "Também pode ser assado ao forno"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GEORGE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304988-frango-grelado-com-chimichurri.html"
+}

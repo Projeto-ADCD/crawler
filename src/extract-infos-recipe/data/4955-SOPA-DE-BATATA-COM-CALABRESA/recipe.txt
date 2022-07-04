@@ -1,0 +1,35 @@
+{
+  "nome_receita": "SOPA DE BATATA COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 batatas",
+      "1 cenoura",
+      "1/2 cebola",
+      "água",
+      "1 calabresa",
+      "sal",
+      "pimenta do reino",
+      "caldo de carne",
+      "coentro"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as batatas, cenoura e a cebola.",
+      "Ferva a água com sal e o caldo.",
+      "Adicione os ingredientes, exceto a cebola e a calabresa, e deixe cozinhar.",
+      "Corte a calabresa e frite sem nenhum óleo.",
+      "Refogue a cebola.",
+      "Coloque a calabresa junto com a cebola.",
+      "Quando os vegetais estiverem cozidos, adicione a calabresa e a cebola.",
+      "Adicione sal, pimenta e coentro a gosto."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Ao invés de calabresa, pode adicionar carne moída ou frango desfiado."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "EDUARDA ROCHA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299861-sopa-de-batata-com-calabresa.html"
+}

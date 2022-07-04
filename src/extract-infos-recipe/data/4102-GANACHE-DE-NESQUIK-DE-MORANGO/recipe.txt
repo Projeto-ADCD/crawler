@@ -1,0 +1,21 @@
+{
+  "nome_receita": "GANACHE DE NESQUIK DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata/caixa de creme de leite",
+      "4 colheres de nesquik de morango",
+      "1 colher (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture todos os ingredientes em um prato fundo de vidro e mexa bem até ficar homogêneo",
+      "Leve ao micro-ondas durante 30 segundos e retire para mexer mais um pouco",
+      "Repita pelo menos duas vezes o processo anterior e estará pronto."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDUARDO MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301869-ganache-de-nesquik-de-morango.html"
+}

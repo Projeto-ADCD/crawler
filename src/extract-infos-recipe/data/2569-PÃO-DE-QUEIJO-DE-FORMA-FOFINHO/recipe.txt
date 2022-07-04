@@ -1,0 +1,34 @@
+{
+  "nome_receita": "PÃO DE QUEIJO DE FORMA FOFINHO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Liquidificador",
+      "2 ovos",
+      "1/2 xícara (chá) de óleo",
+      "500 ml de leite (temperatura ambiente ou morno)",
+      "5 colheres (sopa) de açúcar rasas",
+      "1/2 colher (sopa) de sal",
+      "1/2 pacote de parmesão ralado",
+      "Na bacia",
+      "10 g de fermix (1 pacotinho)",
+      "500 g de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata os ingredientes no liquidificador, exceto a farinha e o fermento.",
+      "Depois de batido adicione a farinha junto com fermento e misture até obter uma massa homogênea (tipo textura de massa de bolo)",
+      "Em forma untada e enfarinhada, despeje a massa e coloque pra descansar por 30 minutos ",
+      "Logo após esse tempo, asse por 30 minutos até dourar em cima e no teste da faca, a mesma sair limpa.",
+      "Ainda quente, passe manteiga em cima e salpique queijo parmesão.",
+      "Pronto, seu pão de forma já está pronto para se deliciar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Quiser rechear, é só dividir a massa.\nColoca metade na forma, recheie e depois coloque a outra metade por cima \nDica: não usar recheios líquidos "
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LIANE BRITO SANTANA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304930-pao-de-queijo-de-forma-fofinho.html"
+}

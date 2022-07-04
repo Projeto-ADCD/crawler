@@ -1,0 +1,41 @@
+{
+  "nome_receita": "FAROFA COLORIDA DE NATAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "1 linguiça calabresa",
+      "150 g de bacon",
+      "150 g de miúdos de frango",
+      "sal a gosto",
+      "2 sachês de tempero pronto",
+      "1 colher (sopa) de orégano",
+      "100 g de frutas cristalizadas",
+      "100 g de uvas-passas",
+      "2 colheres de margarina",
+      "1/2 xícara de óleo ou azeite",
+      "1/2 xícara de água",
+      "150 g de couve manteiga",
+      "1/2 cebola picada",
+      "4 dentes de alho picado",
+      "1/2 pacote de farofa pronta"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o óleo em uma panela média e acrescente o bacon e a linguiça já picadas em cubos",
+      "Deixe dourar um pouco e logo acrescente a cebola, o alho e a margarina, deixe refogar",
+      "Junte os miúdos e os temperos e deixe fritar",
+      "Acrescente a água e as frutas cristalizadas e deixe por 15 minutos, mexa tudo",
+      "Coloque os ovos, a farinha e a couve fatiada, misture bem e pronto",
+      "Sirva como quiser",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Esse prato rende mais que 10 porções e serve para rechear frango na hora de assar e peru\nBom Natal a todos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "PATRICIA PRATES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303678-farofa-colorida-de-natal.html"
+}

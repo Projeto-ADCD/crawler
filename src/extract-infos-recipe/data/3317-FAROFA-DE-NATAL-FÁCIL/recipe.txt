@@ -1,0 +1,34 @@
+{
+  "nome_receita": "FAROFA DE NATAL FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 gomos de linguiça calabresa",
+      "1 tira grande de bacon",
+      "1 cebola picada",
+      "3 dentes de alho",
+      "4 ovos cozidos",
+      "1 lata de milho verde",
+      "3 tomates sem semente",
+      "cheiro-verde a gosto",
+      "uva passa a gosto (opcional)",
+      "sal e pimenta a gosto",
+      "farofa de milho a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Frite um pouco o bacon, logo em seguida adicione a calabresa e frite até dourá-los",
+      "Tire e escorra em um prato com papel-toalha",
+      "Em outra panela, coloque um pouco de óleo, frite a cebola e o alho até dourar",
+      "Coloque o tomate, os ovos, doure um pouco",
+      "Em seguida, adicione a calabresa, o bacon e o milho",
+      "Mexa um pouco, adicione a uva passa, acerte o sal e a pimenta",
+      "Coloque a farofa aos poucos, no ponto que não fique muito seca nem muito molhada",
+      "Depois desligue o fogo e adicione o cheiro-verde"
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "MICHELE CARLA DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303571-farofa-de-natal-facil.html"
+}

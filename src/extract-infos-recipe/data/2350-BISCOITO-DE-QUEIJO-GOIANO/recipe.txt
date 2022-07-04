@@ -1,0 +1,27 @@
+{
+  "nome_receita": "BISCOITO DE QUEIJO GOIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 copos (copo de 250 ml) de polvilho doce",
+      "2 copos (copo de 250ml) de queijo ralado curado",
+      "3 colheres de margarina",
+      "1 colher de fermento em pó",
+      "5 ovos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, coloque todos os ingredientes, menos os ovos, e misture bem.",
+      "Coloque os ovos um por vez e misture",
+      "A massa deve ficar em um ponto que não grude mais na mão.",
+      "Modele a massa em portões e deixe com um formato de semi-circulo em forma de \"U\"",
+      "Em uma forma (não precisa untar), coloque os biscoitos.",
+      "A temperatura do forno deve ser alta",
+      "O tempo de forno deve ser de aproximadamente 30 minutos, depende do forno, quando o biscoito estiver dourado pode tirar."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "MATHEUS CAIXETA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305432-biscoito-de-queijo-goiano.html"
+}

@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MACARRÃO DE ABOBRINHA COM FRANGO.",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 abobrinhas menina médias",
+      "300 g de peito de frango já cozido e desfiado",
+      "300 ml de leite",
+      "1 colher (sopa) de amido de milho",
+      "1/2 cebola",
+      "azeite para dourar a cebola",
+      "bacon picado a gosto",
+      "1 colher (sopa) de requeijão ou 3 fatias de mussarela",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Fatie as abobrinhas em lâminas finas, no sentido do comprimento e corte cada fatia em tiras bem finas, como um espaguete.",
+      "Cozinhe-as rapidamente (cerca de dois minutos)",
+      "Se necessário, acrescente um pouco de água para não queimar o fundo, tire do fogo e escorra",
+      "Transfira para água gelada (para interromper o cozimento), escorra novamente e reserve.",
+      "Em uma panela média aqueça o azeite e doure a cebola e o bacon.",
+      "Dilua o amido de milho no leite e acrescente à mistura de cebola e bacon",
+      "Coloque o sal conforme desejar, mexendo sempre até engrossar.",
+      "Acrescente o frango e a abobrinha no molho e deixe ao fogo por cerca de 1 minuto",
+      "Após deligar o fogo, coloque o requeijão ou a mussarela.",
+      "Polvilhe com orégano"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "INGRID",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305265-macarrao-de-abobrinha-com-frango.html"
+}

@@ -1,0 +1,26 @@
+{
+  "nome_receita": "FRUTAS VERMELHAS COM CREME E GRANOLA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 colheres (sopa) de creme de leite",
+      "1 colher (sopa) de iogurte natural",
+      "1/2 xícara de frutas vermelhas picadas",
+      "granola a gosto",
+      "açúcar ou adoçante agosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um recipiente, bata com auxílio de um garfo o creme de leite, o iogurte natural e adoce na sua preferência.",
+      "Na taça, disponha as frutas picadas e despeje o creme batido por cima.",
+      "Adicione a granola a gosto para finalizar."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Para aumentar a quantidade da receita, multiplique as medidas igualmente."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "RAFAELLA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300031-frutas-vermelhas-com-creme-e-granola.html"
+}

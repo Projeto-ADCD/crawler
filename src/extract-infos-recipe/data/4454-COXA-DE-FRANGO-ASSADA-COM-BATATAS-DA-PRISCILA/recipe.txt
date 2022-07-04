@@ -1,0 +1,35 @@
+{
+  "nome_receita": "COXA DE FRANGO ASSADA COM BATATAS DA PRISCILA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de coxa de frango",
+      "4 colheres (sopa) de maionese",
+      "3 colheres (sopa) de mostarda",
+      "1 colher (sopa) de chimichurri",
+      "2 colheres (sopa) de molho de tomate",
+      "1 colher (chá) de lemon pepper",
+      "pimenta cominho moída a gosto",
+      "sal a gosto",
+      "2 colheres (sopa) de óregano",
+      "3 batatas sem casca"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Lave as coxas de frango com limão e reserve",
+      "Junte a maionese a mostarda, o chimichurri, o molho de tomate, o lemon pepper, a pimenta cominho e o sal e misture.",
+      "Unte o refratário de vidro com um fio de azeite.",
+      "Tempere as coxas de frango com a mistura preparada e reserve um pouco da mistura para colocar no final da montagem.",
+      "Descasque as batatas e corte em fatias bem finas, junte as coxas de frango no refratário de forma que fiquem em pé para manter a crocância.",
+      "Pegue a mistura que reservou e espalhe sobre as batatas espalhadas.",
+      "Coloque o óregano sobre as coxas de frango para finalizar.",
+      "Cubra o refratário com papel-alumínio (lado com o brilho voltado para o alimento)",
+      "Com o forno já preaquecido a 200° C, leve o refratário ao forno por 50 minutos",
+      "Depois retire o papel-alumínio e deixe mais 20 minutos para terminar de assar e dourar."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "PRISCILA CARVALHO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301069-coxa-de-frango-assada-com-batatas-da-priscila.html"
+}

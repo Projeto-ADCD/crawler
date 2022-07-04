@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TORTA DE ATUM/SARDINHA",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "500 ml de leite",
+      "250 ml de óleo",
+      "2 xícaras de farinha de trigo",
+      "1 colher (chá) de sal",
+      "2 colher (chá) de fermento em pó",
+      "3 ovos",
+      "Recheio",
+      "1 tomate picado",
+      "1/2 cebola roxa picada",
+      "4 azeitonas picadas",
+      "2 latas de atum (sem o óleo)",
+      "1/2 lata de ervilha",
+      "1/2 lata de milho"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque todos os ingredientes da massa no liquidificador e bata até estar homogêneo.",
+      "Para o recheio, misture todos os ingredientes em um prato e reserve.",
+      "Unte uma forma com margarina e despeje metade do conteúdo da massa na forma.",
+      "Então, coloque o recheio espalhado sobre a massa, e no fim, despeje o resto da massa cobrindo o recheio.",
+      "Leve ao forno a fogo médio por uns 30 minutos (use um garfo para furar a torta, se o garfo sair limpo, está pronto)."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "GUSTAVO SILVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304529-torta-de-atum-barra-sardinha.html"
+}

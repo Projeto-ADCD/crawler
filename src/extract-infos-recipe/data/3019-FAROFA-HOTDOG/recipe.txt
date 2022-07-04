@@ -1,0 +1,35 @@
+{
+  "nome_receita": "FAROFA HOTDOG",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de farofa tradicional",
+      "500 g de salsicha picada não muito pequena",
+      "5 colheres (sopa) bem cheias de maionese",
+      "2 tomates médios picados (200 g)",
+      "2 cebolas médias picadas (bem picadinha)",
+      "3 dentes de alho amassados ou picados",
+      "1 pimentão verde picado (100 g)",
+      "50 g de ervilha, pode de lata (opcional)",
+      "50g de milho verde cozido, pode ser de lata (opcional)",
+      "150g de batata palha",
+      "sal e temperos (orégano,salsinha desidratada e afins) a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pique as salsichas, coloque em uma panela com agua e deixe fervente por 5 minutos",
+      "Escorra e reserve.",
+      "Em uma panela, coloque as colheres de maionese, acrescente o alho, o tomate, o pimentão e a cebola",
+      "Misture e leve em fogo médio por 10 minutos.",
+      "Acrescente a salsicha e misture e deixe cozinhar por 10 minutos.",
+      "Desligue o fogo, acrescente a ervilha, o milho, o sal e temperos a gosto e misture.",
+      "Acrescente a farofa tradicional e misture.",
+      "Somente acrescente a batata palha quando for servir",
+      "Pode misturar ou usar como acompanhamento."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "ELAINE VIEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303989-farofa-hotdog.html"
+}

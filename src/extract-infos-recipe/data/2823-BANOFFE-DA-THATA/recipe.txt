@@ -1,0 +1,34 @@
+{
+  "nome_receita": "BANOFFE DA THATA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 pacotes de bolacha de maisena",
+      "200 g de margarina",
+      "2 potes de doce de leite (pode ser duas latas de leite condensado cozido, fica a seu critério)",
+      "4 bananas médias cortadas em rodelas",
+      "2 barras de chocolate meio amargo",
+      "2 caixinhas de creme de leite",
+      "chantili a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Triture a bolacha de maisena em um processador (pode ser no liquidificador) com a margarina, colocando a mesma aos poucos até ficar no ponto que você pegue na mão e forme uma bolinha.",
+      "Depois espalhe no fundo de uma forma que possa ir ao forno.",
+      "Leve ao forno preaquecido em 150° C por dez minutos ou até dourar.",
+      "Retire do forno e reserve.",
+      "Com a massa morna a fria, espalhe o doce de leite e por cima a banana em rodelas até cobrir.",
+      "Numa panela ferva o creme de leite e desligue, coloque o chocolate picado e mexa até derreter, fazendo uma ganache.",
+      "Quando estiver frio coloque por cima da banana.",
+      "Prepare o chantili conforme a indicação na embalagem (normalmente pede 12 horas de geladeira para poder bater e dar ponto).",
+      "O ponto ideal é quando você vira o pote e ele não cai.",
+      "Eu tenho o costume de colocar um pouco de canela em pó quando bato para dar um sabor diferente, super-recomendo.",
+      "Depois de preparado coloque por cima do ganache e decore com canela em pó ou raspas de chocolate,fica a seu critério.",
+      "Deixe gelar por no mínimo 3 horas, quanto mais gelada, mais gostosa fica."
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "THALITA FRANÇA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304351-banoffe-da-thata.html"
+}

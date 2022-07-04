@@ -1,0 +1,23 @@
+{
+  "nome_receita": "IORGUTE DE KEFIR",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres de kefir de leite",
+      "1 litro de leite integral"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em um vidro esterilizado coloque primeiro as três colheres de Kefir de leite",
+      "Depois, coloque um litro de leite integral de vaca, tampe com guardanapo ou papel-toalha a boca do vidro e amarre com um elástico.",
+      "Após 24 horas de fermentação.",
+      "Com uma peneira esterilizada com o iogurte de Kefir, separe as sementinhas de Kefir do iogurte",
+      "Já está pronto o seu iogurte de Kefir",
+      "Agora se você quiser pode ficar batendo ele com alguma fruta de sua preferência e saborizando ele da melhor maneira possível"
+    ]
+  },
+  "tempo_de_preparo": "24 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "YASMIM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304779-iorgute-de-kefir.html"
+}

@@ -1,0 +1,40 @@
+{
+  "nome_receita": "NHOQUE RECHEADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg batata monalisa ou asterix",
+      "1 colher (sopa) de manteiga ou margarina",
+      "1 ovo",
+      "1 e 1/3 xícarara de farinha de trigo",
+      "1 colher (chá) de sal",
+      "Queijo parmesão ralado a gosto",
+      "Cheiro verde a gosto",
+      "300 g de mussarela em cubos"
+    ],
+    "MOLHO:": [
+      "1 lata de tomate pelado ou 5 tomates",
+      "1 cebola média picada",
+      "2 dentes de alho picados",
+      "Sal a gosto",
+      "Azeite para refogar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte as batatas em cubos grandes e leve para cozinhar em uma panela até ficar al dente.",
+      "Escorra água e reserve as batatas.",
+      "Refogue a cebola em um fio de azeite, acrescente o alho pocado ate dourar. Junte o tomate e tempere a gosto. Reserve.",
+      "Esprema as batatas, elas estarão mais secas nessa espera. Junte o ovo, a manteiga, o parmesão, sal e aos poucos a farinha até dar ponto de enrolar.",
+      "Se necessário, coloque mais farinha. A massa ficará levemente pegajosa, mas não grudará nas mãos.",
+      "Faça bolinhas do tamanho de uma bolinha de ping pong e coloque o cubo de mussarela.",
+      "Em uma panela alta, coloque água para ferver.",
+      "Coloque os nhoques na agua fervente aos poucos para não esfriar muito a água, umas 6 por vez.",
+      "Quando boiarem na água, aguarde mais uns 2 minutos até cozinhar por completo e retire com uma escumadeira, transferindo para o refratário onde sera servido.",
+      "Coloque o molho por cima dos nhoques, polvilhe parnesão e cheiro verde. Sirva quente."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "DANIELA SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301138-nhoque-recheado.html"
+}

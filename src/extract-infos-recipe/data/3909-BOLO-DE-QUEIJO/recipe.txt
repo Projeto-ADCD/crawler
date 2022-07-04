@@ -1,0 +1,32 @@
+{
+  "nome_receita": "BOLO DE QUEIJO",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 ovos",
+      "2 colheres (sopa) de manteiga sem sal",
+      "1 e 1/2 xícara (chá) de açúcar",
+      "2 garrafinhas de leite de coco (400 ml)",
+      "4 colheres (sopa) de queijo parmesão President",
+      "4 colheres (sopa) de queijo minas padrão President",
+      "1 xícara (chá) de farinha de trigo",
+      "açúcar e canela a gosto para finalizar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "No liquidificador, bata bem os ovos com o açúcar e a manteiga.",
+      "Acrescente o leite de coco e bata novamente.",
+      "Desligue o liquidificador, transfira o conteúdo para uma tigela e adicione a farinha de trigo e o fermento em pó, passando pela peneira",
+      "Misture bem.",
+      "Despeje a massa em uma forma quadrada (20x20 cm) untada e enfarinhada e leve ao forno preaquecido a 180° C, por aproximadamente 45 minutos.",
+      "Após esse tempo, deixe esfriar para desenformar e salpique o bolo com uma mistura de açúcar e canela."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Pra quem ama receitas com queijo, o pão de queijo é uma das receitas mais tradicionais do Brasil e é superfácil de fazer. Veja a receita de pão de queijo do TudoGostoso!"
+    ]
+  },
+  "tempo_de_preparo": "53 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "RECEITAS E TEMPEROS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302398-bolo-de-queijo.html"
+}

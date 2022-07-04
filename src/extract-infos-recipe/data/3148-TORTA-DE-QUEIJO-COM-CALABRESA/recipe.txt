@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA DE QUEIJO COM CALABRESA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "3 xícaras de farinha de trigo",
+      "2 xícaras de leite",
+      "2 colheres de manteiga",
+      "50 g pacote de queijo parmesão Presidént",
+      "200 g de queijo minas padrão Président",
+      "1 linguiça calabresa",
+      "1/2 xícara de cebola picada",
+      "1/2 xícara de tomate picado",
+      "1/2 pimentão picado",
+      "1 dente de alho",
+      "sal a gosto",
+      "óregano a gosto",
+      "1 colher (sopa) de fermento "
+    ]
+  },
+  "passos": {
+    "MASSA:": [
+      "Bata no liquidificador os ovos, o leite e a margarina por 3 minutos",
+      "Depois acrescente os queijos e bata por mais 2 minutos e reserve em uma vasilha",
+      "Coloque a farinha e o fermento, e vá adicionando o líquido aos poucos"
+    ],
+    "RECHEIO:": [
+      "Refogue o alho, acrescente a linguiça e deixe fritar um pouco, adicione a cebola, o tomate e o pimentão e o sal"
+    ],
+    "MONTAGEM:": [
+      "Unte um tabuleiro médio com margarina e farinha, acrescente um pouco da massa e coloque o recheio",
+      "Acaba de cobrir com o restante da massa",
+      "Salpique o orégano e leve ao forno preaquecido por 40 minutos ou ate dourar",
+      "Bom apetite! "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Maria de Souza"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303813-torta-de-queijo-com-calabresa.html"
+}

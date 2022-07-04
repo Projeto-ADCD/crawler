@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BOLACHINHA AMANTEIGADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 ovo",
+      "1 e 1/2 xícara de chá de farinha de trigo (ou de sua preferência)",
+      "1/2 colher (chá) de fermento",
+      "2 e 1/2 de colheres (sopa) de manteiga ou margarina",
+      "1 xícara (chá) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque em uma vasilha o ovo, a manteiga e o açúcar.",
+      "Acrescente a farinha aos poucos e o fermento.",
+      "Misture bem até desgrudar da mão.",
+      "Em seguida, faça o formato que você quiser e leve ao forno pré aquecido a 200° por 15 minutos ou até dourar.",
+      "Se quiser, mergulhe a bolacha em chocolate derretido (em banho maria) e coloque na geladeira."
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "RAPHAELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300838-bolachinha-amanteigada.html"
+}

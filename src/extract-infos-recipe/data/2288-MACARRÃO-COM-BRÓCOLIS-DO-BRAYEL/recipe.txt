@@ -1,0 +1,29 @@
+{
+  "nome_receita": "MACARRÃO COM BRÓCOLIS DO BRAYEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 caixa de creme de leite",
+      "100 g de queijo parmesão ralado",
+      "1 brócolis",
+      "alho e cebola picados para refogar o brócolis",
+      "3 ovos",
+      "1 pacote de macarrão (de qualquer formato)",
+      "E um pouquinho de leite para não ficar tão pesado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque o macarrão para cozinhar e em outra panela e o brócolis também (é bom colocar sal na água tanto no brócolis como no macarrão, mas somente quando a água já tiver fervendo).",
+      "Em uma vasilha misture o queijo, o creme de leite, os ovos e o pouquinho de leite (no meu eu ainda coloco uma pitada de pimenta-do-reino, orégano e sal a gosto)",
+      "Cuidado para não salgar demais, vá provando",
+      "Pique o brócolis fininho e refogue com a cebola e alho (é bom ser numa panela grande pois o molho também vai nela).",
+      "Após o brócolis estar refogado, sem desligar o fogo, adicione o molho de ovos, queijo e creme de leite à panela, mexa até começar engrossar.",
+      "Com o macarrão escorrido e numa panela grande adicione o molho com o brócolis (coloque em fogo baixo e mexa para espalhar)",
+      "Pronto"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "VIC SCIORILI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305558-macarrao-com-brocolis-do-brayel.html"
+}

@@ -1,0 +1,22 @@
+{
+  "nome_receita": "ARROZ JÁ COZIDO TEMPERADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "Arroz parabolizado ou branco já cozido",
+      "1 cenoura",
+      "1 cebola",
+      "2 dentes de alho",
+      "1 colher (chá) de óleo, manteiga ou azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Rale todas as verduras e coloque na panela, e, com o óleo, manteiga ou azeite, refogue por alguns minutos, até perceber que as verduras estão ficando amarelinhas.",
+      "Adicione o arroz que já está cozido e misture tudo."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ANAKELLY DIAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301927-arroz-ja-cozido-temperado.html"
+}

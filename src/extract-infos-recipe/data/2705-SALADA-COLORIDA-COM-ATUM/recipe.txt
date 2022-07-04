@@ -1,0 +1,37 @@
+{
+  "nome_receita": "SALADA COLORIDA COM ATUM",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 g de pepino em conserva",
+      "100 g de azeitonas sem caroço",
+      "1 tomate médio",
+      "1 cenoura média",
+      "1 lata de atum ralado/em pedaços ao natural",
+      "1 limão",
+      "molho de gergelim a gosto (conhecido como molho de Tahine)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte o tomate e retire todas as sementes",
+      "Cozinhe um pouco a cenoura (pode ser no micro-ondas, conforme instruções ao final)",
+      "Pique o tomate, a cenoura, o pepino e a azeitona em pedaços pequenos (pode ser feito em um multiprocessador).",
+      "Coloque os ingredientes em um recipiente plástico",
+      "Drene o atum e adicione aos demais ingredientes",
+      "Adicione o suco de 1 limão",
+      "Adicione 2 colheres (sopa) de molho de gergelim (Tahine)",
+      "Misture bem",
+      "Sirva",
+      "Como cozinhar a cenoura no micro-ondas:",
+      "Corte a cenoura na metades (no sentido mais longo)",
+      "Corte no meio cada uma das metades",
+      "Coloque em um saco plástico e feche-o com um nó",
+      "Crave um garfo uma vez no saco para criar furos",
+      "Coloque no micro-ondas por 1 minuto e 30 segundos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOÃO TEXTOR",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304610-salada-colorida-com-atum.html"
+}

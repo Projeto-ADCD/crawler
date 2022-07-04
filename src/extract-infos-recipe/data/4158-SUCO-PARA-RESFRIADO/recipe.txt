@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUCO PARA RESFRIADO",
+  "ingredientes": {
+    "DEFAULT": [
+      "250ml de água",
+      "Fatias de abacaxi a gosto",
+      "1 limão"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue o seu liquidificador e lá coloque as fatias de abacaxi a gosto, 1 limão descascado e a água.",
+      "Bata e depois coloque em um recipiente.",
+      "Lá, coloque o açúcar a gosto e depois mexa."
+    ]
+  },
+  "tempo_de_preparo": "16 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "REGINALDO ALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301711-suco-para-resfriado.html"
+}

@@ -1,0 +1,45 @@
+{
+  "nome_receita": "CALDO CREMOSO DE ABÓBORA MORANGA E FRANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 peito de frango desfiado em pedaços grandes",
+      "1/2 abóbora moranga (casca grossa)",
+      "sal a gosto (tempero caseiro)",
+      "azeite",
+      "1 cebola grande",
+      "1 dente de alho inteiro",
+      "2 cenouras médias",
+      "2 batatas inglesas",
+      "1/2 caixinha de creme de leite",
+      "1 cubo caldo de galinha",
+      "cheiro-verde (salsinha, cebolinha, oregano etc)",
+      "torradas ou fatias de pão para acompanhar "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro descasque as batatas e cenouras",
+      "Corte as batatas, as cenouras e a abóbora em cubos grandes, reserve.",
+      "Deixe a abóbora com casca e coloque na àgua em fogo alto.",
+      "Assim que levantar fervura, desligue o fogo e tire as cascas dos pedaços (dessa forma é mais fácil e não deixa ter desperdício da abóbora)",
+      "Aqueça um caneco de água",
+      "Em uma panela média, coloque um fio de azeite, 1 colher de tempero caseiro e refogue a abóbora com a cenoura e as batatas",
+      "Adicione àgua morna até cobrir tudo",
+      "Acrescente a cebola picada grosseiramente, o alho inteiro e o caldo de galinha",
+      "Deixe cozinhar em fogo médio por 15 minutos (quando estiver com as batatas em ponto de conseguir amassar facilmente com um garfo, desligue o fogo)",
+      "Com auxilio de uma concha, bata no liquidificador aos poucos todo o caldo da panela",
+      "Depois de bater tudo, a textura do caldo de abóbora deve estar cremosa.",
+      "Acrescente o creme de leite.",
+      "Mexa até dissolver completamente.",
+      "Deixe cozinhar o creme por mais 2 minutinhos, sempre mexendo para não agarrar ao fundo",
+      "Adicione o frango desfiado",
+      "Se necessário adicione mais sal a gosto",
+      "Acrescente por fim a cebolinha e salsinha",
+      "Sirva com pão ou torradinhas."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "3 PORÇÕES",
+  "autor": "LAVINIA OLIVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301405-caldo-cremoso-de-abobora-moranga-e-frango.html"
+}

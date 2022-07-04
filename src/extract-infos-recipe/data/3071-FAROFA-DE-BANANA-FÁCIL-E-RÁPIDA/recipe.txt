@@ -1,0 +1,30 @@
+{
+  "nome_receita": "FAROFA DE BANANA FÁCIL E RÁPIDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 bananas prata cortadas em meia lua",
+      "100 g de passas branca",
+      "200grs de bacon",
+      "1 cebola média picada",
+      "1 dente de olho amassado",
+      "3 ovos",
+      "1 pacote de farofa temperada",
+      "1 colher cheia de manteiga",
+      "1 colher de azeite",
+      "sal e pimenta a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Aqueça a panela com o azeite, coloque o bacon para fritar e doure a cebola e o alho",
+      "Após, acrescente os ovos com uma pitada de sal e pimenta-do-reino",
+      "Com os ovos fritos, acrescente as passas, as bananas e a manteiga.",
+      "Após derreter a manteiga desligue o fogo e acrescente a farinha aos poucos ",
+      "Bom apetite."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "LARISSA DE SOUZA DOMINGOS TAVEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303921-farofa-de-banana-facil-e-rapida.html"
+}

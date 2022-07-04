@@ -1,0 +1,27 @@
+{
+  "nome_receita": "CACHORRO-QUENTE GOURMET INDIANO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 pacote de salsichas com 10 unidades",
+      "10 g de curry indiano",
+      "1/2 cebola média ",
+      "3 dentes de alho grandes ",
+      "pimenta-do-reino em pó ",
+      "1 pacote de molho de tomate"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Ferva o pacote de salsichas e deixe por aproximadamente 3 minutos",
+      "Pique a cebola, amasse o alho e deixe dourar",
+      "Em seguida, acrescente o alho e misture com as salsichas já fervidas, para que fique o sabor do tempero",
+      "Acrescentar o curry indiano e a pimenta-do-reino a gosto",
+      "Em seguida, coloque o pacote de molho e deixe ferver",
+      "Deixe mais 2 minutos para misturar bem e pronto "
+    ]
+  },
+  "tempo_de_preparo": "45 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FERNANDA MOTA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302068-cachorro-quente-gourmet-indiano.html"
+}

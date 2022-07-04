@@ -1,0 +1,28 @@
+{
+  "nome_receita": "TAPIOCA BODYBUILDER",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 colheres cheias de farinha fina de aveia",
+      "2 ovos",
+      "sal light a gosto",
+      "1 colher de requeijão cremoso light",
+      "frango desfiado a gosto (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Se sua aveia não for bem fina, bata ela no liquidificador até ficar bem fininha.",
+      "Bata os 2 ovos em uma vasilha com a farinha de aveia e o sal, até que fique homogêneo.",
+      "Preaqueça uma frigideira antiaderente com um fio de azeite ou manteiga de leite, no fogo bem baixo",
+      "Após aquecida, coloque a mistura e espalhe em toda a frigideira espere desgrudar vire a tapioca e frite o lado que falta.",
+      "Misture o frango desfiado com uma ou duas colheres de requeijão light e coloque na tapioca pronta, dobre ao meio, e bom apetite."
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs.: A quantidade de frango fica a seu critério.\nObs 2: A quantidade de aveia pode ser um pouco mais dependendo do tamanho dos ovos "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "EDUARDO DANTAS TORRES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305839-tapioca-bodybuilder.html"
+}

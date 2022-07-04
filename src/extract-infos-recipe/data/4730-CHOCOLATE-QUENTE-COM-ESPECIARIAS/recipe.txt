@@ -1,0 +1,25 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE COM ESPECIARIAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara (chá) de leite desnatado",
+      "1 barrinha de 30 g de chocolate",
+      "1 pau de canela",
+      "2 anises-estrelados",
+      "3 cravos",
+      "2 sementes de cardamomo",
+      "1 fava de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Junte o leite, a canela, os anises-estrelados, os cravos, as sementes de cardamomo e a fava de baunilha em uma panela e deixe ferver.",
+      "Coloque o chocolate em uma caneca e despeje o leite fervendo por cima.",
+      "Deixe derreter e sirva."
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "PAMELA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300344-chocolate-quente-com-especiarias.html"
+}

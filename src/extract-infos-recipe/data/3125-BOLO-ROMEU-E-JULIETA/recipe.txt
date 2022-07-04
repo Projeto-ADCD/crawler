@@ -1,0 +1,39 @@
+{
+  "nome_receita": "BOLO ROMEU E JULIETA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 colheres (sopa) de manteiga Président",
+      "1 copo de leite (250 ml)",
+      "2 copos (mesma medida do leite) de açúcar",
+      "1 colher (sobremesa) de essência de baunilha",
+      "2 copos (mesma medida do leite) de farinha de trigo",
+      "1 colher (sopa) de fermento",
+      "100 gramas de queijo parmesão Président",
+      "400 g de goiabada em pedaço "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador os ovos, a margarina e o leite",
+      "Acrescentar açúcar e baunilha, bata bem",
+      "Acrescente a farinha de trigo",
+      "Retire, coloque em uma vasilha e misturar o fermento",
+      "Em uma forma untada e enfarinhada (capriche neste processo), coloque cerca de 3/4 da massa",
+      "Coloque o queijo parmesão Président de forma que forre a massa criando uma barreira para não descer o doce de goiabada",
+      "Coloque o doce de goiabada em cima deste queijo",
+      "Coloque o restante da massa para cobrir o doce",
+      "Dê umas 3 batidas na forma contra a mesa para retirar as bolhas do bolo",
+      "Aqueça forno a 180ºC por 10 minutos",
+      "Asse por cerca de 35 a 45 minutos a 230ºC até que fique dourado e sequinho",
+      "Desenforme o bolo e sirva"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Aparecida Aramaki Dantas"
+    ]
+  },
+  "tempo_de_preparo": "70 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303843-bolo-romeu-e-julieta.html"
+}

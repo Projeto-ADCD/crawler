@@ -1,0 +1,23 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 litro de leite desnatado",
+      "1 lata de leite condensado",
+      "4 colheres (sopa) de chocolate em pó",
+      "2 colheres (sopa) de amido de milho",
+      "canela em pó para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador, menos a canela",
+      "Levar ao fogo médio e não deixe ferver",
+      "Sirva em xícaras e polvilhe a canela"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "JOÃO CARLOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305450-chocolate-quente.html"
+}

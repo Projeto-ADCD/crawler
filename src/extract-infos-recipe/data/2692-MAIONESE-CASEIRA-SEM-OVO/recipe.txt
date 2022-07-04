@@ -1,0 +1,28 @@
+{
+  "nome_receita": "MAIONESE CASEIRA SEM OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "100 ml de leite bem gelado (saquinho ou caixinha)",
+      "1 cubo de caldo de galinha ou tempero em pó de sua preferência",
+      "1 dente de alho pequeno",
+      "1 colher (sopa) de cebolinha verde",
+      "1 garrafa de óleo de soja",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione todos os ingredientes num liquidificador seco (a água pode prejudicar a consistência)",
+      "Em seguida bater em velocidade média acrescentando um fio de óleo (use a abertura central da tampa para acrescentar o óleo).",
+      "Bata até que fique bem firme (o liquidificador apresentará dificuldade para girar).",
+      "Desligue e leve à geladeira por alguns minutos.",
+      "Sirva como desejar",
+      "Dura por quatro dias.",
+      "Bom apetite"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "LUANA MACHADO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304639-maionese-caseira-sem-ovo.html"
+}

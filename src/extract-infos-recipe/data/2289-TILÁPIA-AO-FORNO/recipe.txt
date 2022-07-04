@@ -1,0 +1,34 @@
+{
+  "nome_receita": "TILÁPIA AO FORNO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de tilápia",
+      "2 cebolas",
+      "2 tomates grandes",
+      "6 batatas médias",
+      "azeitonas",
+      "2 cremes de leite",
+      "1 limão",
+      "tempero a gosto",
+      "azeite",
+      "orégano"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Tempere a tilápia a gosto e coloque o suco do limão, reserve.",
+      "Descasque as batatas e corte em rodelas, cozinhe com sal e deixe-as al dente.",
+      "Corte as cebolas em rodelas e os tomates",
+      "Coloque a cebola em uma frigideira, leve ao fogo e dê uma murchada nelas com um pouco de azeite.",
+      "Em um refratário grande ou forma, unte com um pouco de azeite, faça camadas na seguinte ordem: cebola, tilápia, batatas, tomates e as azeitonas.",
+      "Despeje o creme de leite, salpique sal e orégano e regue com azeite.",
+      "Cubra com papel-alumínio e leve ao forno por aproximadamente 30 a 40 minutos",
+      "Quando o peixe estiver cozido, tire o papel-alumínio e deixe dar um dourada.",
+      "Sirva com arroz e saladas!"
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "EDMARA GARGARO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305556-tilapia-ao-forno.html"
+}

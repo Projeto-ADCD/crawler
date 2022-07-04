@@ -1,0 +1,33 @@
+{
+  "nome_receita": "TORTA SALGADA GELADA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 linguiças defumadas cozidas e fritas",
+      "pimentões um de cada cor (tipo 1/4 de cada)",
+      "1 cebola inteira picada",
+      "4 tomates sem semente picados",
+      "tempero verde a gosto",
+      "1 lata de milho",
+      "Massa",
+      "12 colheres de farinha de trigo",
+      "1 colher de sopa de fermento Royal",
+      "3 ovos",
+      "2 copos de leite",
+      "1/2 copo de azeite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata tudo no liquidificador e misture nos ingredientes picados.",
+      "Forma untada e enfarinhada, forno médio por 1 hora, aproximadamente",
+      "Coma fria"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Eu acrescentei um pouco de bacon frito, sache de tempero, alecrim, alho seco e pimenta."
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "18 PORÇÕES",
+  "autor": "EVELISE SCHENKEL",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305020-torta-salgada-gelada.html"
+}

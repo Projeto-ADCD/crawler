@@ -1,0 +1,23 @@
+{
+  "nome_receita": "PÉ DE MOLEQUE",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g amendoim cru",
+      "500 g de açúcar refinado",
+      "2 colheres de manteiga",
+      "2 colheres de achocolatado",
+      "1 lata de leite condensado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque na panela todos os ingredientes, menos o leite condensado",
+      "Na hora que estiver derretido desligue o fogo",
+      "Misture o leite condensado e está pronto"
+    ]
+  },
+  "tempo_de_preparo": "15 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "EDIMARA CRISTINA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305468-pe-de-moleque.html"
+}

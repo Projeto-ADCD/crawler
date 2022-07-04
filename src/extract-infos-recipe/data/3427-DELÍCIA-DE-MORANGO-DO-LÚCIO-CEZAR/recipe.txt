@@ -1,0 +1,32 @@
+{
+  "nome_receita": "DELÍCIA DE MORANGO DO LÚCIO CEZAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "1/2 litro de água filtrada fervida",
+      "1/2 litro de água filtrada gelada",
+      "4 caixinhas de gelatina sabor morango",
+      "2 xícaras bem cheias de leite em pó",
+      "1 lata de leite condensado",
+      "morangos a gosto pra fazer com calda e colocar por cima (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador a água fervente, a gelatina em pó, o leite em pó e a metade do leite condensado",
+      "Bata bem",
+      "Coloque num recipiente grande e misture a água gelada mexendo bem",
+      "Unte uma forma de pudim com óleo e coloque no fundo o restante do leite condensado",
+      "Por cima coloque o conteúdo do recipiente",
+      "Leve a geladeira por aproximadamente 4 horas",
+      "Desenforme e se tiver feito a calda com morangos coloque por cima",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "A calda com morangos é opcional. A sobremesa sem a calda também fica gostosa."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LUCIO CEZAR.",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303385-delicia-de-morango-do-lucio-cezar.html"
+}

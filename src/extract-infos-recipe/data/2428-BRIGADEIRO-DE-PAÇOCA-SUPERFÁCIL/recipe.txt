@@ -1,0 +1,25 @@
+{
+  "nome_receita": "BRIGADEIRO DE PAÇOCA SUPERFÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "5 blocos de paçoca",
+      "500 ml de leite",
+      "2 colheres de manteiga"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque a manteiga na panela e espere até derreter",
+      "Esfaréle os 5 blocos de paçoca e coloque o leite ",
+      "Mexa até ferver",
+      "Quando começar a desgrudar da panela desligue o fogo, espere esfriar e sirva.",
+      "OPCIONAL",
+      "Coloque na geladeira por 3 horas (depende da rapidez da sua geladeira)",
+      "Passe manteiga nas mãos, enrole, passe na paçoca esfarelada e sirva."
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "BLOG DA KAH",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305243-brigadeiro-de-pacoca-superfacil.html"
+}

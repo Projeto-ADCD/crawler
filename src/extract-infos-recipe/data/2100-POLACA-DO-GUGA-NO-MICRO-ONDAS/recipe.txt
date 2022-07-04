@@ -1,0 +1,46 @@
+{
+  "nome_receita": "POLACA DO GUGA NO MICRO-ONDAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 xícaras grandes de arroz",
+      "500 g de polaca do alasca ou 5 filés de polaca do alasca",
+      "5 batatas inglesas pequenas",
+      "1 cebola branca média",
+      "2 tomates",
+      "1/2 pimentão verde",
+      "coentro com folha e talo",
+      "cebolinha",
+      "2 molhos de tomate prontos",
+      "2 colheres de requeijão",
+      "1 pitada de sal",
+      "1 sachê de tempero em pó para legumes"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe o peixe descongelar em um recipiente a parte",
+      "Prepare o arroz da maneira tradicional",
+      "Descasque e coloque as batatas para cozinhar",
+      "Depois de cozidas, reserve",
+      "Coloque os filés descongelados, lado a lado, em um refratário próprio para micro-ondas",
+      "Sobre ele, espalhe o tempero em pó e a pitada de sal",
+      "Procure temperar dos dois lados de cada filé",
+      "Reserve",
+      "Deixe apurar enquanto cuida dos complementos da receita",
+      "Corte os tomates, cebola e pimentão em pedaços médios, grosseiros",
+      "Pique coentro e cebolinha com folhas e talos, em pedaços miúdos",
+      "Espalhe tudo sobre os filés de peixe no refratário",
+      "Em uma vasilha, com uma colher, misture os 2 molhos de tomate e as 2 colheres de requeijão até obter um molho homogêneo",
+      "Derrame o molho sobre os filés e a verdura",
+      "Não mexa",
+      "Coloque o refratário no micro-ondas com a tampa semiaberta ou seguindo orientações do fabricante",
+      "Cozinhe no micro-ondas, na potência média, por 10 minutos",
+      "Pronto",
+      "Sirva com arroz e batata"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "GUGA GUSTAVO MAGNO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/306009-polaca-do-guga-no-micro-ondas.html"
+}

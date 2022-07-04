@@ -1,0 +1,43 @@
+{
+  "nome_receita": "TORTA DE NOZES",
+  "ingredientes": {
+    "DEFAULT": [
+      "Massa",
+      "5 ovos",
+      "2 xícaras de leite",
+      "3 xícaras de farinha",
+      "1 colher (sopa) de essência de baunilha",
+      "3 colheres (sopa) de margarina/manteiga",
+      "2 xícaras de açúcar",
+      "2 colheres (sopa) rasas de fermento em pó",
+      "Recheio",
+      "1 caixa de leite condensado",
+      "2 medidas (da caixa de leite condensado) de leite",
+      "2 gemas",
+      "2 colheres (sopa) de amido de milho",
+      "100 g de nozes picadas",
+      "Cobertura ",
+      "1 caixa de preparo para chantili"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Massa",
+      "Bata os ovos, juntamente com a margarina e o açúcar.",
+      "Acrescente a essência de baunilha e aos poucos o leite e a farinha.",
+      "Quando a massa estiver homogênea, acrescente o fermento e misture levemente.",
+      "Coloque a massa em uma forma untada e leve ao forno preaquecido, em temperatura média por 40 minutos, ou até dourar.",
+      "Recheio",
+      "Coloque todos os ingredientes em uma panela, mexa bem e coloque em fogo baixo",
+      "Mexa sem parar até que forme um creme consistente.",
+      "Montagem",
+      "Após o bolo esfriar, corte-o ao meio e umedeça uma das partes com leite.",
+      "Espalhe o recheio e depois cubra com a outra metade do bolo, umedeça.",
+      "Bata o chantili, cubra o bolo e decore com nozes."
+    ]
+  },
+  "tempo_de_preparo": "120 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CLÁUDIA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299909-torta-de-nozes.html"
+}

@@ -1,0 +1,27 @@
+{
+  "nome_receita": "FRANGO EMPANADO COM FAROFA PRONTA",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 filés de peito de frango sem pele e sem osso, temperados a gosto",
+      "1 ovo levemente batido",
+      "1/2 pacote de farofa pronta de sua preferência",
+      "óleo para fritar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Pegue os filés de peito de frango já cortados e temperados a gosto, passe no ovo ligeiramente batido e logo após na farofa",
+      "Repita o processo.",
+      "Em uma panela, esquente o óleo",
+      "Coloque óleo suficiente para cobrir os filés",
+      "Deixe bem quente e frite os filés.",
+      "Pronto!",
+      "O filé empanado está pronto.",
+      "Sirva com arroz branco, salada de maionese ou purê de batatas, como também saladas de sua preferência."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "ANDRESSA T C PESSIMILIO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303908-frango-empanado-com-farofa-pronta.html"
+}

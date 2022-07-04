@@ -1,0 +1,24 @@
+{
+  "nome_receita": "CREPE FRANCÊS",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 ovos",
+      "1 copo de farinha de trigo",
+      "1 copo de leite",
+      "1 colher (sobremesa) de essência de baunilha"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Primeiro bata a farinha com o leite na mão ",
+      "Quando estiver bem misturado, coloque no liquidificador com os outros ingredientes e bata bem por uns 3 minutos",
+      "Em uma frigideira untada com azeite, despeje um pouco da massa, lembrando que a massa de crepe deve ser o mais fina possível",
+      "Com a ajuda de uma espátula, tipo a de fritar ovos, vire a massa",
+      "Quando já estiver assada o lado de baixo, recheie a seu gosto"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "VITORIA BANDEIRA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305956-crepe-frances.html"
+}

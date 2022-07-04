@@ -1,0 +1,24 @@
+{
+  "nome_receita": "MOUSSE DE MANGA FÁCIL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 mangas",
+      "1 lata de leite condensado",
+      "1 e 1/2 lata de creme de leite"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte as mangas em pedaço",
+      "Bata no liquidificador",
+      "Acrescente o leite condensado e o creme de leite",
+      "Bata até virar um creme",
+      "Coloque no congelador até criar consistência",
+      "Pronto, é só servir"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "JADY CAVALCANTE CARVALHO GONÇALVES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303241-mousse-de-manga-facil.html"
+}

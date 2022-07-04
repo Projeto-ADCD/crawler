@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SOPA DE FEIJÃO COM LINGUIÇA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 linguiça calabresa",
+      "1 cenoura",
+      "2 batatas médias",
+      "macarrão de sua preferência",
+      "2 xícaras de feijão cozido",
+      "2 xícara de água",
+      "1/2 cebola",
+      "3 colheres de molho ou extrato de tomate",
+      "1/2 pimentão pequeno",
+      "1 alho",
+      "1 colher de óleo",
+      "pimenta-do-reino ou orégano a gosto",
+      "coentro a gosto",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata no liquidificador o feijão com a água e reserve (caso queira peneirar pode)",
+      "Em uma panela acrescente o óleo, alho picado, cebola picada e pimentão, refogue.",
+      "Acrescente a linguiça calabresa picada e frite",
+      "Coloque o molho de tomate, orégano ou pimenta do reino, e coentro e mexa.",
+      "Acrescente a batata e cenoura picadas ou em cubo e mexa",
+      "Despeje o caldo do feijão na panela e o macarrão, mexa por mais ou menos 2 minutos .",
+      "Depois coloque 1 xícara e meia de água e deixe cozinhar o macarrão e os legumes."
+    ]
+  },
+  "tempo_de_preparo": "2 MIN",
+  "rendimento": "5 PORÇÕES",
+  "autor": "ANA PAULA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304607-sopa-de-feijao-com-linguica.html"
+}

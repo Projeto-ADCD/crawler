@@ -1,0 +1,22 @@
+{
+  "nome_receita": "BANANA COM CANELA PRÁTICA E GOSTOSA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 banana madura",
+      "1 colher (sopa) de canela",
+      "1 colher (sopa) de açúcar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture a canela com o açúcar",
+      "Polvilhe a canela e açucar sobre a banana",
+      "Coloque a banana com a mistura no micro-ondas por um minuto",
+      "Pronto é só servir"
+    ]
+  },
+  "tempo_de_preparo": "1 MIN",
+  "rendimento": "2 PORÇÕES",
+  "autor": "MARI",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302115-banana-com-canela-pratica-e-gostosa.html"
+}

@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SORVETE DE MORANGO PROTEICO",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de morango congelado",
+      "2 potinhos de iogurte desnatado",
+      "2 scoops de whey protein"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Misture tudo muito bem no liquidificador",
+      "Colocar no freezer",
+      "Deixe por aproximadamente 1 hora"
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MARCELA OKUMURA RAMON MARTINS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/302437-sorvete-de-morango-proteico.html"
+}

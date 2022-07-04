@@ -1,0 +1,28 @@
+{
+  "nome_receita": "BOLO MOLE DE LEITE CONDENSADO COM COCO",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "1 colher (chá) de açúcar",
+      "4 xícaras de leite",
+      "1 lata de leite condensado",
+      "100g de coco ralado",
+      "500ml de leite de coco",
+      "2 xícaras de farinha de trigo"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Unte a forma com manteiga e farinha.",
+      "coloque o leite e o leite condensado no liquidificador.",
+      "Acrescente os ingredientes aos poucos.",
+      "Bata bem.",
+      "Coloque no forno preaquecido 180º.",
+      "Retire depois de cerca de 40 minutos."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "FABIANA MENDES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/300088-bolo-mole-de-leite-condensado-com-coco.html"
+}

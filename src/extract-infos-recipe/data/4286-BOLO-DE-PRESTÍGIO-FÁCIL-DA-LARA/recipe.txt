@@ -1,0 +1,35 @@
+{
+  "nome_receita": "BOLO DE PRESTÍGIO FÁCIL DA LARA",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de farinha",
+      "5 colheres (sopa) de manteiga",
+      "3 ovos",
+      "200 ml de leite",
+      "1 colher (chá) de fermento",
+      "2 xícaras de chocolate em pó (não é achocolatado)",
+      "1 caixa de creme de leite",
+      "1 barra de chocolate",
+      "1/5 de xícara de açúcar",
+      "4 latas de leite condensado",
+      "2 sacos de coco ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras de ovos em um recipiente até virar clara em neve",
+      "Em outro recipiente, misture bem a farinha de trigo, o chocolate em pó e o açúcar ",
+      "Em seguida, misture as claras batidas, as gemas, a manteiga e o leite",
+      "Preaqueça o forno em 180° C",
+      "Unte a forma com chocolate em pó e manteiga, despeje a massa na forma e logo leve ao forno por 40 minutos",
+      "Para a cobertura, misture o leite condensado e o creme de leite e leve ao fogo para derreter o chocolate em banho-maria",
+      "Após feito isso, deixe de lado e vamos para o recheio",
+      "Pegue as 3 latas de leite condensado, os 2 sacos de coco ralado e a manteiga e leve ao fogão para dar ponto de beijinho",
+      "Agora é só montar o bolo e se deliciar "
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "LARA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301460-bolo-de-prestigio-facil-da-lara.html"
+}

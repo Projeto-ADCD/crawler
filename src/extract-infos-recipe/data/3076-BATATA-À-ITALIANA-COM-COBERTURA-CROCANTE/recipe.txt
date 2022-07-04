@@ -1,0 +1,54 @@
+{
+  "nome_receita": "BATATA À ITALIANA COM COBERTURA CROCANTE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 kg de batatas",
+      "400 ml de creme de leite",
+      "700 ml de leite (aproximadamente)",
+      "sal a gosto",
+      "orégano a gosto",
+      "manjericão seco a gosto",
+      "Recheio 1",
+      "2 cebolas cortada em rodelas",
+      "2 tomates sem pele e sem sementes picados",
+      "sal a gosto",
+      "Recheio 2",
+      "300 g de salame tipo italiano cortado em rodelas finas",
+      "50 g de azeitonas pretas picadas",
+      "Cobertura",
+      "100 g de farofa com tempero suave",
+      "50 g de queijo parmesão ralado"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque e corte as batatas em rodelas bem finas, reserve.",
+      "Em uma panela coloque o creme de leite, o leite e os temperos a gosto.",
+      "Mexa muito bem.",
+      "Adicione as batatas reservadas.",
+      "Cozinhe em fogo baixo, mexendo de vez em quando, para não grudar no fundo da panela, até que as batatas fiquem macias e bem cozidas.",
+      "Se necessário, acrescente mais leite para o perfeito cozimento.",
+      "Recheio",
+      "Em uma panela, coloque um fio de azeite e as cebolas e refogue",
+      "Adicione os tomates picados e o sal a gosto.",
+      "Mexa e refogue, reserve.",
+      "Cobertura",
+      "Misture a farofa com tempero suave, com o queijo parmesão ralado e reserve.",
+      "Montagem do Prato",
+      "Unte um refratário com azeite, coloque metade da camada de batatas.",
+      "Em seguida, as fatias de salame e a de refogado de cebolas com tomates.",
+      "Salpique as azeitonas picadas.",
+      "Cubra com o restante do creme de batatas e polvilhe a cobertura.",
+      "Leve ao forno preaquecido por 20 minutos aproximadamente.",
+      "Sirva a seguir com salada verde.",
+      " "
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "MINHA DICA É:\nPreparar a receita e deixar na geladeira de um dia para o outro e somente no dia seguinte, colocar a cobertura e então levar ao forno. Pois a textura da batata fica mais consistente e ainda mais saboroso."
+    ]
+  },
+  "tempo_de_preparo": "80 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "ELAINE VILLALVA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303913-batata-a-italiana-com-cobertura-crocante.html"
+}

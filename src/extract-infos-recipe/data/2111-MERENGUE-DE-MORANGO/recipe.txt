@@ -1,0 +1,34 @@
+{
+  "nome_receita": "MERENGUE DE MORANGO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 lata leite condensado",
+      "500 ml de leite",
+      "2 colheres rasas (sopa) de amido de milho",
+      "3 gemas (retirar a pele)",
+      "350 g de geleia de morango",
+      "1 limão espremido",
+      "500 g de creme de leite fresco",
+      "150 g de suspiro",
+      "1 e 1/2 caixinha de morangos frescos"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela coloque o leite condensado, o leite, amido de milho e as gemas",
+      "Leve ao fogo e mexer bem até engrossar.",
+      "Reserve",
+      "Leve ao fogo em uma panela a geleia e dilua com o limão até ficar uma calda mais cremosa.",
+      "Reserve",
+      "Na batedeira, bata o creme de leite até o ponto de chantili.",
+      "Reserve",
+      "Pique 1 caixa de morangos, deixe a metade da outra caixa com os morangos inteiros para decorar.",
+      "Numa travessa de vidro, faça a montagem do merengue: coloque uma camada de 1/3 do chantili, depois o creme, em seguida a geleia, morangos picados, suspiros picados, finalize com o restante do chantili.",
+      "Decore com suspiros e os morangos inteiros"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CRISTIANE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305984-merengue-de-morango.html"
+}

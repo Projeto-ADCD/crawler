@@ -1,0 +1,32 @@
+{
+  "nome_receita": "FAROFA DA MAMÃE",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 2/3 de xícara de farinha de mandioca",
+      "3 colheres (sopa) de cebola picada",
+      "1 colher (sopa) cheia de manteiga de garrafa",
+      "1/2 xícara (chá) de castanhas do Pará picadas",
+      "1/2 xícara (chá) de ameixas secas sem caroço picadas",
+      "1/2 xícara (chá) de bananas em rodelas",
+      "1/2 xícara (chá) de cheiro-verde picado",
+      "1 colher (sopa) de açúcar mascavo",
+      "sal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Numa panela, esquente a manteiga de garrafa e adicione a cebola, vá mexendo até a cebola ficar transparente.",
+      "Adicione as castanhas, ameixas, bananas, cheiro-verde e o açúcar e deixe até tudo dourar levemente.",
+      "Reserve.",
+      "Em uma panela acrescente a manteiga, deixe derreter e em seguida",
+      "Coloque a farinha aos poucos e mexa.",
+      "Vá mexendo continuamente por uns 3 minutos, para \"cozinhar\" a farinha e sua farofa não ficar com gosto de crua.",
+      "Adicione o sal e mexa mais um pouco ",
+      "Acrescente o que estava reservado e mexa."
+    ]
+  },
+  "tempo_de_preparo": "-10 MIN",
+  "rendimento": "-5 PORÇÕES",
+  "autor": "MARINALVA DA CUNHA MELO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304004-farofa-da-mamae.html"
+}

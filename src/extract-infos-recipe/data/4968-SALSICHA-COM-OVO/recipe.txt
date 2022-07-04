@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SALSICHA COM OVO",
+  "ingredientes": {
+    "DEFAULT": [
+      "8 salsichas",
+      "4 ovos",
+      "1 colher de sopa de manteiga",
+      "1 colher de sopa de óleo de soja",
+      "1/2 picada",
+      "aal a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Adicione óleo e manteiga na panela, e logo acrescente as salsichas picadas e espere fritar um pouco.",
+      "Acrescente os ovos inteiros junto com a cebola picada e vá mexendo tudo até o ovo fritar tudo.",
+      "Acrescente sal à gosto e pronto."
+    ]
+  },
+  "tempo_de_preparo": "7 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "WENDY LAURA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/299835-salsicha-com-ovo.html"
+}

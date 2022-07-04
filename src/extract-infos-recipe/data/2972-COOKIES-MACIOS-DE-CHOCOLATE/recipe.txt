@@ -1,0 +1,48 @@
+{
+  "nome_receita": "COOKIES MACIOS DE CHOCOLATE",
+  "ingredientes": {
+    "DEFAULT": [
+      "200 g de manteiga sem sal",
+      "60 g de açúcar branco",
+      "180 g de açúcar mascavo",
+      "2 ovos grandes",
+      "2 colheres (chá) de extrato de baunilha",
+      "1 colher (chá) de bicarbonato de sódio",
+      "1 colher (chá) de sal",
+      "300 g de farinha de trigo",
+      "250 g de gotas/raspas de chocolate (meio amargo ou outro de sua preferência)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Este primeiro passo é opcional, mas melhora a qualidade do cookie: coloque a manteiga em uma panela pequena e a coloque em fogo médio até começar a escurecer (5 a 8 minutos).",
+      "Após isso, leve-a para a geladeira até ficar sólida novamente.",
+      "É recomendável fazer isso 1 hora antes do resto da receita.",
+      "Bata a manteiga em temperatura ambiente até virar um creme.",
+      "É recomendável usar uma batedeira.",
+      "Adicione os dois tipos de açúcar e continue batendo a massa até ficar homogênea.",
+      "Adicione os 2 ovos e a baunilha, e continue batendo a massa até ficar homogênea.",
+      "Em uma vasilha separada, misture a farinha, o bicarbonato e o sal.",
+      "Abandone a batedeira e junte as duas misturas.",
+      "Agora, você deve misturar suavemente as duas misturas (com as mãos ou com uma batedeira orbital).",
+      "É essencial que você misture pouco, apenas o suficiente para as duas misturas se juntarem.",
+      "Adicione o chocolate à mistura e o distribua pela massa.",
+      "Leve a mistura pra descansar na geladeira, coberta com um papel filme.",
+      "Idealmente, a mistura deve descansar por 24 horas, mas pode ficar 2 horas (se você não resistir).",
+      "Após a mistura descansar, você pode assá-la.",
+      "Deixe a massa uns 10 minutos fora da geladeira antes de começar.",
+      "Enquanto isso, preaqueça o fogo em aproximadamente 170º C.",
+      "Faça pequenas bolas com a massa (do tamanho de uma almôndega) e coloque-as numa assadeira forrada com papel manteira",
+      "Distribua de maneira a não ficarem muito próximas umas das outras (irá se espalhar no forno).",
+      "Leve a assadeira ao forno por 20 minutos.",
+      "Como cada receita varia muito de acordo com o modelo do seu forno, garanta que os cookies não fiquem com as bordas douradas.",
+      "Você tem que tirá-los do forno antes que isso aconteça.",
+      "Após remover do forno, espere-os esfriar por 10 minutos antes de remover do papel manteiga.",
+      "Agora estão prontos para serem comidos!"
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "30 PORÇÕES",
+  "autor": "SN0WTROOPER",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304055-cookies-macios-de-chocolate.html"
+}

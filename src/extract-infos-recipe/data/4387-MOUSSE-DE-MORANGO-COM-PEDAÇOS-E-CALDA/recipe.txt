@@ -1,0 +1,26 @@
+{
+  "nome_receita": "MOUSSE DE MORANGO COM PEDAÇOS E CALDA",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 caixinhas de morangos frescos",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "3 colheres (sopa) de açúcar",
+      "100 ml de água em temperatura ambiente",
+      "6 taças de sobremesa"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Limpe e tire as folhas das 2 caixas de morangos.",
+      "Bata no liquidificador uma das caixas de morango com o leite condensado e o creme de leite até ficar homogêneo (aproximadamente 5 minutos) e reserve.",
+      "Pique em pequenos pedaços os morangos da outra caixa e os coloque em uma panela com a água e o açúcar, leve ao fogo médio mexendo por aproximadamente por 15 minutos e reserve.",
+      "Na montagem, coloque o mousse nas 6 taças individuais e a cobertura em cima do mousse com a ajuda de uma colher.",
+      "Leve a geladeira por aproximadamente 8 horas ou até perceber que endureceu."
+    ]
+  },
+  "tempo_de_preparo": "40 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "CAROLINE MARQUES",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301251-mousse-de-morango-com-pedacos-e-calda.html"
+}

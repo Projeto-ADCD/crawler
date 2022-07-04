@@ -1,0 +1,24 @@
+{
+  "nome_receita": "PAÇOCA DA VÓ",
+  "ingredientes": {
+    "DEFAULT": [
+      "2 latas de leite condensado",
+      "1/2 kg de amendoim",
+      "1/2 kg de bolacha maizena"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Torrar o amendoim e tirar a casca.",
+      "Bata no liquidificador o amendoim e a bolacha.",
+      "Num recipiente, coloque o amendoim e a bolacha batidos e misture o leite condensado.",
+      "Coloque numa forma e aperte bem.",
+      "Levar à geladeira por 2 horas.",
+      "Corte em cubos."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "VANIERE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303107-pacoca-da-vo.html"
+}

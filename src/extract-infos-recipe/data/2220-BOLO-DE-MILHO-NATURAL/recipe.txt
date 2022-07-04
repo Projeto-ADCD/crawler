@@ -1,0 +1,29 @@
+{
+  "nome_receita": "BOLO DE MILHO NATURAL",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 xícaras de milho cortados da espiga",
+      "300 g de leite condensado",
+      "3 ovos",
+      "2 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 xícara de leite",
+      "1 colher (sopa) de fermento químico em pó",
+      "coco ralado a gosto"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Coloque no liquidificador o milho, o leite condensado, os ovos, o leite, a manteiga e a farinha de trigo.",
+      "Bata em alta velocidade por aproximadamente 5 minutos ou até a massa estiver homogênea.",
+      "Após, adicione o fermento químico e bata por aproximadamente 1 minuto.",
+      "Unte a assadeira com manteiga",
+      "Adicione a massa a forma e polvilhe o coco ralado",
+      "Leve ao forno médio a 200º C durante 60 minutos"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "LARISSA MURIELLE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/305689-bolo-de-milho-natural.html"
+}

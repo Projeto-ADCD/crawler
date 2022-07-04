@@ -1,0 +1,24 @@
+{
+  "nome_receita": "SUCO DE ABACAXI COM HORTELÃ DO MIGUEL",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 abacaxi maduro ",
+      "20 folhas de hortelã ",
+      "1,5 litro de água ",
+      "açúcar a gosto ou adoçante "
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Descasque o abacaxi e em seguida o corte em rodelas ",
+      "Lave bem a hortelã ",
+      "Bata no liquidificador a hortelã e o abacaxi picado ",
+      "Bata por 3 minutos ",
+      "Coe e adicione o açúcar a gosto "
+    ]
+  },
+  "tempo_de_preparo": "5 MIN",
+  "rendimento": "10 PORÇÕES",
+  "autor": "MIGUEL PORTO SOUZA",
+  "url_receita": "https://www.tudogostoso.com.br/receita/301604-suco-de-abacaxi-com-hortela-do-miguel.html"
+}

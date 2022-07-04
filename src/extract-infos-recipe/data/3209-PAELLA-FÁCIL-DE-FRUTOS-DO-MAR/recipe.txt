@@ -1,0 +1,39 @@
+{
+  "nome_receita": "PAELLA FÁCIL DE FRUTOS DO MAR",
+  "ingredientes": {
+    "DEFAULT": [
+      "500 g de camarão sem casca (tamanho opcional)",
+      "400 g de tentáculos de polvo",
+      "300 g de lagostim",
+      "300 g de anéis de lula",
+      "2 copos de arroz",
+      "2 colheres (sobremesa) de açafrão",
+      "1 tomate picado pequeno",
+      "1 cebola picada pequena",
+      "1 cebola cortada ao meio",
+      "1 pimentão cortado pequeno",
+      "sal a gosto",
+      "1 colher (sopa) de molho de pimenta (opcional)"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Cozinhe em uma panela de pressão o polvo por 15 minutos com a cebola cortada ao meio e pique em pedaços pequenos",
+      "Cozinhe por 5 minutos o lagostim e tempere a agua com o molho de pimenta (diferencial)",
+      "após o cozimento corte a casca da barriga do lagostim para facilitar na hora de comer",
+      "Tempere o camarão com sal e pimenta (opcional)",
+      "Frite o camarão com azeite e reserve",
+      "Na mesma panela da paella coloque as duas xícaras de arroz o tomate, cebola, pimentão picados e a lula deixe fritar e adicione o açafrão",
+      "Na primeira água do arroz utilize a água do polvo como base cozinhe sem fogo alto, coloque sal a gosto, após secar complete com agua e abaixe o fogo (mesmo padrão de cozimento de arroz porem deixe-o mais cremoso)",
+      "Após o ponto do arroz, adicione o camarão e o polvo",
+      "Pronto, sua paella está pronta! Porcione o lagostim por cima para decorar"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Obs: o camarão utilizei o pequeno pois preferi o lagostim, esse parte vai do gosto de cada um, mexilhão é uma opção!"
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "4 PORÇÕES",
+  "autor": "LUCAS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303734-paella-facil-de-frutos-do-mar.html"
+}

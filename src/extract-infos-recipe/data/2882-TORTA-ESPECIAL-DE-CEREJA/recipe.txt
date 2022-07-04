@@ -1,0 +1,44 @@
+{
+  "nome_receita": "TORTA ESPECIAL DE CEREJA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 e 1/2 xícara de farofa com soja Yoki",
+      "1/2 xícara de açúcar refinado",
+      "1/2 xícara de açúcar mascavo",
+      "1/2 xícara de manteiga derretida",
+      "300 g de ricota (com sal, caso use a sem sal acrescente 1 pitada de sal)",
+      "300 ml de leite integral",
+      "4 ovos",
+      "1 caixa de leite condensado",
+      "1 e 1/3 colher (sopa) de açúcar refinado",
+      "1/2 xícara de farinha de trigo",
+      "250 g de cerejas cortadas ao meio sem caroço (as cerejas podem ser substituídas pela fruta de sua preferência)",
+      "chantili Yoki para decorar"
+    ]
+  },
+  "passos": {
+    "MASSA": [
+      "Misture delicadamente a farofa, o açúcar refinado (1/2 xícara), o açúcar mascavo e a manteiga.",
+      "Forre o fundo de uma forma removível, com essa mistura",
+      "Aperte bem com o fundo de um copo ou com as mãos"
+    ],
+    "RECHEIO": [
+      "No liquidificador, bata os demais ingredientes, exceto as cerejas e o chantili.",
+      "Quando a mistura estiver bem homogênea, despeje delicadamente sobre a massa.",
+      "Acrescente as cerejas delicadamente para não afundarem, com a casca virada para cima.",
+      "Leve para assar em forno médio (180° C) até dourar a parte de cima.",
+      "O tempo varia de acordo com o forno.",
+      "Deixe esfriar completamente e leve à geladeira por pelo menos 1 hora",
+      "Na hora de servir, decore com o chantili Yoki, utilizando saco de confeitaria e algumas cerejas inteiras.",
+      "Deixe a sua imaginação comandar.",
+      "Obs: A farofa de soja pode ser substituída pela de milho"
+    ],
+    "INFORMAÇÕES ADICIONAIS": [
+      "Receita enviada por Karin Willms \n "
+    ]
+  },
+  "tempo_de_preparo": "90 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/304235-torta-especial-de-cereja.html"
+}
