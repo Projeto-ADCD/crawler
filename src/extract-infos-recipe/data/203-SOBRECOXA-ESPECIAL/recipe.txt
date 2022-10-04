@@ -40,5 +40,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314010-sobrecoxa-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314010-sobrecoxa-especial.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

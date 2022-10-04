@@ -27,5 +27,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "COZINHA CHIC",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302842-polpetone-recheado-com-queijo-prato.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302842-polpetone-recheado-com-queijo-prato.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

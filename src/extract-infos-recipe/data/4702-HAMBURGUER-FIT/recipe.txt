@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LIVIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300397-hamburguer-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300397-hamburguer-fit.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

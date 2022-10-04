@@ -22,5 +22,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "35 PORÇÕES",
   "autor": "DEYSE RAMIRO DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300791-bolacha-de-nata-sem-ovos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300791-bolacha-de-nata-sem-ovos.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

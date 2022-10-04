@@ -35,5 +35,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "NATALIA SCHWEITZER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303137-torta-de-morango-facil-e-deliciosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303137-torta-de-morango-facil-e-deliciosa.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

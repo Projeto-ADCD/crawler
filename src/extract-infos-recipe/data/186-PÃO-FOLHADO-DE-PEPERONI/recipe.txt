@@ -32,5 +32,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "COCA-COLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314039-pao-folhado-de-peperoni.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314039-pao-folhado-de-peperoni.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

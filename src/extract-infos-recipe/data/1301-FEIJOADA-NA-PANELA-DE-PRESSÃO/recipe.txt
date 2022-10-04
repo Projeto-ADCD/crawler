@@ -29,5 +29,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MARCELO AMARO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308991-feijoada-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308991-feijoada-na-panela-de-pressao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

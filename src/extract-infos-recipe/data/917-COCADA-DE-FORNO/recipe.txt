@@ -35,5 +35,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310915-cocada-de-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310915-cocada-de-forno.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -17,5 +17,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RAPHAELLA GREGO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305431-creme-de-ricota-light.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305431-creme-de-ricota-light.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

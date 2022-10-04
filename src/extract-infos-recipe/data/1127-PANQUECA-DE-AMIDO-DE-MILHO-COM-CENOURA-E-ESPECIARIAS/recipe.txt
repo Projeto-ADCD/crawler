@@ -28,5 +28,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "11 PORÇÕES",
   "autor": "ADRIANE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309738-panqueca-de-amido-de-milho-com-cenoura-e-especiarias.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309738-panqueca-de-amido-de-milho-com-cenoura-e-especiarias.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

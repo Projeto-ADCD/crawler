@@ -37,5 +37,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301506-escondidinho-saboroso-para-dias-de-frio-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301506-escondidinho-saboroso-para-dias-de-frio-de-carne-moida.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

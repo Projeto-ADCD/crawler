@@ -21,5 +21,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MANUELA BORGES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306675-surpresa-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306675-surpresa-de-morango.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

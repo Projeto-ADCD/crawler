@@ -55,5 +55,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MAJIMENA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308983-pudim-de-caneca-sem-leite-condensado-de-leite-e-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308983-pudim-de-caneca-sem-leite-condensado-de-leite-e-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

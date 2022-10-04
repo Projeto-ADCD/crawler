@@ -32,5 +32,16 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DJ SANTINO'S GOURMET",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300247-cupim-alho-e-mostarda-de-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300247-cupim-alho-e-mostarda-de-forno.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

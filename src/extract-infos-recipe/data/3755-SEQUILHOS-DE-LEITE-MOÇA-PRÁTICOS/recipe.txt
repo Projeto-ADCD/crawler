@@ -19,5 +19,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "100 PORÇÕES",
   "autor": "JÚLIA DE LUCA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302773-sequilhos-de-leite-moca-praticos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302773-sequilhos-de-leite-moca-praticos.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

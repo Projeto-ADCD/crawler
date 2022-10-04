@@ -34,5 +34,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DANI LATIFA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302984-escondidinho-de-carne-aranha-desfiada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302984-escondidinho-de-carne-aranha-desfiada.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

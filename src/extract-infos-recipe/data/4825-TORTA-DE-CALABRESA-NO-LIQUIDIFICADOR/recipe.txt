@@ -16,22 +16,10 @@
       "1/2 tomate cortado em rodelas"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela, coloque a manteiga, a cebola em cubos e a linguiça",
-      "Deixe refogar por 15 minutos em fogo baixo e reserve",
-      "Para a massa, adicione os ingredientes liquidos (ovos, leite e o óleo) ",
-      "Em seguida acrescente a farinha e o sal a gosto",
-      "Bata até formar um creme homogêneo e incorpore o fermento na massa com uma colher",
-      "Para a montagem: unte uma forma com manteiga e farinha e despeje meade da massa",
-      "Coloque o recheio por cima, a cebola em áneis e o tomate em rodelas. ",
-      "Cubra com o resto da massa, cheiro-verde e orégano a gosto",
-      "Asse em forno a 180° C preaquecido, até dourar",
-      " "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CAROL SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300148-torta-de-calabresa-no-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300148-torta-de-calabresa-no-liquidificador.html",
+  "tags": []
 }

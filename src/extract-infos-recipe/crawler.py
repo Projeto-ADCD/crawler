@@ -1,4 +1,5 @@
 import os
+import sys
 from textwrap import indent
 from typing import Dict, List
 import pandas as pd
@@ -19,7 +20,7 @@ class CrawlerSiteTudoGostosoReceita:
   def __init__(self,
     name_last_recipe_file: str = "last_recipe.txt",
     sleep_between_pages_seconds: int = 5,
-    timeout_load_page_seconds: int = 5,
+    timeout_load_page_seconds: int = 1,
     file_urls: str = "../extract-urls-tudo-gostoso/data/data_saved.csv"
   ):
     self.name_last_recipe_file = name_last_recipe_file
@@ -51,14 +52,26 @@ class CrawlerSiteTudoGostosoReceita:
         
         try:
           nome_receita = driver.find_element(By.XPATH, '//div[@class="recipe-title"]//h1').text
-        except TimeoutException:
+        except (TimeoutException, NoSuchElementException):
+          driver.close()
           continue
         
         ingredientes = self._get_json(driver,'//div[@class="col-lg-8 ingredients-card"]//*')
         passos = self._get_json(driver,'//div[@class="directions-info col-lg-8 directions-card"]//*')
         tempo_preparo = driver.find_element(By.XPATH,'//time[@class="dt-duration"]').text
         rendimento =  driver.find_element(By.XPATH,'//data[@class="p-yield num yield"]').text
-        autor = driver.find_element(By.XPATH,'//a[@class="author-name"]//span').text
+
+        try:
+          autor = driver.find_element(By.XPATH,'//a[@class="author-name"]//span').text
+        except (TimeoutException, NoSuchElementException):
+          driver.close()
+          continue
+        tags = driver.find_elements(By.XPATH,'//div[@class="recipe-categories-card card"]//a')
+        tags = [t.text for t in tags]
+
+        if set(tags) == set(['']):
+          driver.close()
+          continue
 
         try:
           url_image = driver.find_element(By.XPATH,'//img[@class="pic"]').get_attribute('src')
@@ -82,7 +95,7 @@ class CrawlerSiteTudoGostosoReceita:
           with open(f"data/{name_directory}/img.jpg", 'wb') as handler:
               handler.write(img_data)
       
-        self._transform(nome_receita, ingredientes, passos, tempo_preparo, rendimento, autor, name_directory, line['url'])
+        self._transform(nome_receita, ingredientes, passos, tempo_preparo, rendimento, autor, name_directory, line['url'],tags)
 
 
         with open(self.name_last_recipe_file,'w') as file:
@@ -99,7 +112,8 @@ class CrawlerSiteTudoGostosoReceita:
     rendimento : str, 
     autor : str,
     name_directory: str,
-    url_receita: str
+    url_receita: str,
+    tags: List[str]
   ) -> str:
     str_para_salvar = {
       "nome_receita": nome_receita,
@@ -108,7 +122,8 @@ class CrawlerSiteTudoGostosoReceita:
       "tempo_de_preparo":tempo_preparo,
       "rendimento" : rendimento,
       "autor" : autor,
-      "url_receita": url_receita
+      "url_receita": url_receita,
+      "tags":tags
     }
     str_para_salvar = json.dumps(str_para_salvar,indent = 2, ensure_ascii=False)
     self._load(str_para_salvar,name_directory)

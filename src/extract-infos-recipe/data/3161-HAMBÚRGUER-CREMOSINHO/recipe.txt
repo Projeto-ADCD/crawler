@@ -31,5 +31,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303795-hamburguer-cremosinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303795-hamburguer-cremosinho.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

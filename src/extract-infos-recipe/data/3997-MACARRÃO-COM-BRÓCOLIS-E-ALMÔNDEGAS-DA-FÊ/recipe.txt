@@ -40,5 +40,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "FERNANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302228-macarrao-com-brocolis-e-almondegas-da-fe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302228-macarrao-com-brocolis-e-almondegas-da-fe.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

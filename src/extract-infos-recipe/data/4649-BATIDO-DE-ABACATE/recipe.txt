@@ -22,5 +22,16 @@
   "tempo_de_preparo": "9 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ALANISMATIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300584-batido-de-abacate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300584-batido-de-abacate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

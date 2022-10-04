@@ -12,17 +12,10 @@
       "1 xícara de ameixa sem caroço"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "No liquidificador, bata bem a banana, os ovos, o iogurte, a maçã picada e as passas.",
-      "Em outro recipiente, coloque a aveia, as ameixas picadas,o fermento e a canela em pó, e misture bem.",
-      "Em seguida, adicione à essa mistura de sólidos os líquidos batidos no liquidificador e torne a misturar bem.",
-      "Despeje em forma untada com manteiga e farinha, salpique a canela.",
-      "Leve ao forno preaquecido a 180º C por 40 minutos ou até que, ao espetar um palito, o mesmo saia seco."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SIMONE DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309468-bolo-de-banana-funcional-fitness.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309468-bolo-de-banana-funcional-fitness.html",
+  "tags": []
 }

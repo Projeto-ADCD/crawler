@@ -19,29 +19,13 @@
       "1/2 xícara (chá) de leite ou caldo do cozimento",
       "4 colheres (sopa) de farinha de trigo",
       "50 g de queijo parmesão ralado",
-      "salsinha e cebolinha"
+      ""
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Doure a cebola e o alho no azeite e acrescente o frango desfiado, o palmito e o tomate",
-      "Junte a água do cozimento e deixe ferver",
-      "Coloque de uma vez a farinha de trigo e mexa bem",
-      "Incorpore o creme de leite ou requeijão",
-      "Desligue e junte a salsinha e a cebolinha",
-      "Deixe esfriar.",
-      "Misture os ingredientes da massa com as mãos até ficar lisinha",
-      "Leve para descansar na geladeira por 30 minutos",
-      "Para a montagem",
-      "Abra uma porção de massa, mais da metade em forma de fundo removível, não precisa untar",
-      "Coloque o recheio já frio e cubra com outra porção de massa.",
-      "Decore a gosto.",
-      "Pincele com a gema e leve ao forno preaquecido médio por 30 minutos ou até dourar",
-      "Retire e sirva quente."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "GILDA FERREIRA MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303889-torta-de-frango-com-palmito-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303889-torta-de-frango-com-palmito-cremoso.html",
+  "tags": []
 }

@@ -28,5 +28,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "13 PORÇÕES",
   "autor": "ADRIANE SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308321-rosbife.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308321-rosbife.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

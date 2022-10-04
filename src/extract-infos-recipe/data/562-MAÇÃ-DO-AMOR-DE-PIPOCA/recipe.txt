@@ -25,5 +25,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "YOKI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312497-maca-do-amor-de-pipoca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312497-maca-do-amor-de-pipoca.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

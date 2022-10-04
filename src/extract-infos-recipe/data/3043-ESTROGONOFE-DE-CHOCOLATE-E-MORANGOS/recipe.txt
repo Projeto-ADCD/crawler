@@ -25,5 +25,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "ANACELI MARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303960-estrogonofe-de-chocolate-e-morangos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303960-estrogonofe-de-chocolate-e-morangos.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

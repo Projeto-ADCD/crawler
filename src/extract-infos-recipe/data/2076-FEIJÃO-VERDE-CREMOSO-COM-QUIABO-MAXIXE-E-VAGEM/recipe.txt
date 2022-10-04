@@ -17,20 +17,10 @@
       "temperos a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Refogue a cebola e o alho primeiro.",
-      "Coloque o feijao com a água, dentro da panela com o refogado.",
-      "Adicione a vagem e o quiabo",
-      "30 minutos depois, adicione o maxixe",
-      "Coloque o coentro e a cebolinha por último.",
-      "Coloque a caixa de creme de leite.",
-      "Depois que ferver, acrescente o requeijão.",
-      "Finalize com o queijo coalho em cubo e abafe por mais 5 minutos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUIZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306085-feijao-verde-cremoso-com-quiabo-maxixe-e-vagem.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306085-feijao-verde-cremoso-com-quiabo-maxixe-e-vagem.html",
+  "tags": []
 }

@@ -36,5 +36,14 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304737-beirute-mediterraneo-com-maionese-de-castanhas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304737-beirute-mediterraneo-com-maionese-de-castanhas.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

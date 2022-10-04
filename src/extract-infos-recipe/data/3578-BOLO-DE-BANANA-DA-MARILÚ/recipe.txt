@@ -11,16 +11,10 @@
       "açúcar e canela para polvilhar"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Bata tudo no liquidificador, menos a farinha de rosca.",
-      "Coloque em um recipiente, junte a farinha de rosca e mexa bem.",
-      "Levar ao forno por cerca de 20 minutos em uma forma untada e enfarinhada.",
-      "Polvilhar açúcar e canela em pó e voltar ao forno por mais 2 a 3 min, para assentar a canela"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VANIERE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303109-bolo-de-banana-da-marilu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303109-bolo-de-banana-da-marilu.html",
+  "tags": []
 }

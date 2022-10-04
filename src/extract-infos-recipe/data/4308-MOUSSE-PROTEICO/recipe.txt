@@ -16,5 +16,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARIANA ORTEGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301395-mousse-proteico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301395-mousse-proteico.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

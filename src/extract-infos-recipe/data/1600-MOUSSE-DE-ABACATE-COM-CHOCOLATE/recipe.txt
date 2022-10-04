@@ -17,5 +17,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "FERNANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307468-mousse-de-abacate-com-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307468-mousse-de-abacate-com-chocolate.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

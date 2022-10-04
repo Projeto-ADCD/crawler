@@ -22,5 +22,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "EDUARDO PLACIDO SANTIAGO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301704-mingau-de-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301704-mingau-de-leite-ninho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

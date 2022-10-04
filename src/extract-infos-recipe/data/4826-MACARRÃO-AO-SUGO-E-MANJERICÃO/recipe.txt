@@ -28,5 +28,17 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARCOS SALVADOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300147-macarrao-ao-sugo-e-manjericao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300147-macarrao-ao-sugo-e-manjericao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -27,5 +27,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MARIA NEILIA SOARESDE ANDRADE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303261-grao-de-bico-ao-molho-de-queijo-com-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303261-grao-de-bico-ao-molho-de-queijo-com-camarao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

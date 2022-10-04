@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "ARTENIA FURTADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304534-biscoito-de-banana-aveia-e-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304534-biscoito-de-banana-aveia-e-coco.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -26,5 +26,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CRESCENDO COM ARIANE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307179-pao-de-pizza.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307179-pao-de-pizza.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

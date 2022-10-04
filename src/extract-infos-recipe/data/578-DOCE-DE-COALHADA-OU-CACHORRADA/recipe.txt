@@ -18,5 +18,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "SILVANA SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312453-doce-de-coalhada-ou-cachorrada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312453-doce-de-coalhada-ou-cachorrada.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

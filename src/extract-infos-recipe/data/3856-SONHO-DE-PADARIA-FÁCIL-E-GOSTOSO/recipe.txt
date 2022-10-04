@@ -28,5 +28,15 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "VANESSA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302509-sonho-de-padaria-facil-e-gostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302509-sonho-de-padaria-facil-e-gostoso.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

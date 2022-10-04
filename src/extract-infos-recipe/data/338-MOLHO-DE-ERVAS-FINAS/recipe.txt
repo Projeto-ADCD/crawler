@@ -25,5 +25,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CARLOS EDUARDO QUEIROZ DOMINGUÊS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313144-molho-de-ervas-finas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313144-molho-de-ervas-finas.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

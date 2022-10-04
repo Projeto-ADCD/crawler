@@ -20,25 +20,10 @@
       " "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Refogue no óleo a cebola e alho granulado junto com a moela",
-      "Coloque água até o meio da panela de pressão, quando ferver tampe e deixe cozinhar por 30 minutos",
-      "Abra a panela e, se estiver macio, caso ainda não esteja bem molinho, tampe novamente e cozinha mais 10 minutos",
-      "Desligue, abra panela e deixe reduzir sem tampa um pouco da água",
-      "Acrescente o milho, a ervilha e a azeitona",
-      "Frite o bacon na banha e reserve sem escorrer",
-      "Assim que a moela reduzir (fica tipo um refogado com pouca água) coloca a farinha milho, a farofa pronta e mexa bem",
-      "Desligue e solte a banha e o bacon por cima",
-      "Mexa para soltar bem a farofa, junte a uva passa e por último os ovos",
-      "O ponto é de uma farofa úmida e solta, se ficar seca precisar coloca mais um pouco de banha, ou se ficar úmida demais, mais um pouco de farinha amarela e coloca em recipiente com tampa e borrifa com pouquinho de água"
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Ótima para servir com aves ou carne assada, ou mesmo para acompanhamento de churrasco"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "90 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "LICA MARTIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303509-farofa-de-miudos-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303509-farofa-de-miudos-especial.html",
+  "tags": []
 }

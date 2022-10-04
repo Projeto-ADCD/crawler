@@ -19,5 +19,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "AMANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303143-molho-de-queijo-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303143-molho-de-queijo-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

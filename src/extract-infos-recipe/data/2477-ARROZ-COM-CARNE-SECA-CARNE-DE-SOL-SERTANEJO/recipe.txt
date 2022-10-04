@@ -28,5 +28,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "KAMYLLE MOURÃO CAVALCANTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305117-arroz-com-carne-seca-barra-carne-de-sol-sertanejo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305117-arroz-com-carne-seca-barra-carne-de-sol-sertanejo.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

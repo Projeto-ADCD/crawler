@@ -52,5 +52,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ADRIANO DE LAURENTIIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309597-coxinha-de-siri.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309597-coxinha-de-siri.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -26,5 +26,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LEONARDA GOULART",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312811-frango-empanado-com-creme-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312811-frango-empanado-com-creme-de-leite.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -26,6 +26,17 @@
   },
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
-  "autor": "MILLY MACEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303974-geladinho-de-tapioca-com-coco.html"
+  "autor": "MILLY MARLEY",
+  "url_receita": "https://www.tudogostoso.com.br/receita/303974-geladinho-de-tapioca-com-coco.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

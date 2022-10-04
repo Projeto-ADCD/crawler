@@ -22,5 +22,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314432-abobora-assada-na-airfryer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314432-abobora-assada-na-airfryer.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

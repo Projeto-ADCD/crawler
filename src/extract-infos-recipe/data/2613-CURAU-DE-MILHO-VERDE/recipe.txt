@@ -23,5 +23,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CARLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304809-curau-de-milho-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304809-curau-de-milho-verde.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

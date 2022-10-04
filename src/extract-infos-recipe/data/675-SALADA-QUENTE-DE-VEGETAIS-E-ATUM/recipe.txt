@@ -23,5 +23,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BECEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312054-salada-quente-de-vegetais-e-atum.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312054-salada-quente-de-vegetais-e-atum.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

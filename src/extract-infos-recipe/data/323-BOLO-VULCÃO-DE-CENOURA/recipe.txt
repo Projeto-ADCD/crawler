@@ -33,5 +33,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "MIRIAN ROSANO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313177-bolo-vulcao-de-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313177-bolo-vulcao-de-cenoura.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

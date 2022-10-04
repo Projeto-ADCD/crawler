@@ -39,5 +39,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "@CANTINHOTAMI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306869-bolo-rosa-simples-ou-bolo-de-bicho-de-pe-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306869-bolo-rosa-simples-ou-bolo-de-bicho-de-pe-simples.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

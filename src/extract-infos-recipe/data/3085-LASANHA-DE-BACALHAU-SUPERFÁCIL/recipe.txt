@@ -27,5 +27,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MÁRCIO SOUZA BEYER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303902-lasanha-de-bacalhau-superfacil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303902-lasanha-de-bacalhau-superfacil.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

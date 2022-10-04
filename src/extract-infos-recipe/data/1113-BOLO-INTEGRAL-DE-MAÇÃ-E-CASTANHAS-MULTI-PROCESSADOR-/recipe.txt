@@ -28,5 +28,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "ALLAN ANDRADE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309803-bolo-integral-de-maca-e-castanhas-multi-processador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309803-bolo-integral-de-maca-e-castanhas-multi-processador.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

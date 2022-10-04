@@ -38,5 +38,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "9 PORÇÕES",
   "autor": "GILLENE SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309056-torta-de-carne-moida-com-requeijao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309056-torta-de-carne-moida-com-requeijao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

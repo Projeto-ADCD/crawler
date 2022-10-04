@@ -44,5 +44,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307018-coxa-creme.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307018-coxa-creme.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

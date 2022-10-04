@@ -16,22 +16,10 @@
       "Sal, pimenta-do-reino e azeite a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela, refogue a cebola com o pimentão e o bacon.",
-      "Em seguida adicione a carne moida, sal e pimenta do reino a gosto, 1 envelope de sazon amarelo.",
-      "Bata os tomates em um processador com um pouco de azeite. Junte esta mistura na panela junto com a carne e acrescente o molho pronto de sua preferência.",
-      "Adicione 1 colher de manteiga e a salsinha picada",
-      "Refogue tudo em fogo baixo enquanto cozinha a massa do macarrão",
-      "Em uma panela, ferva água e cozinhe o macarrão. Vá experimentando a massa enquanto cozinha para não passar do ponto. Deve ficar \"al dente\".",
-      "Escorra o macarrão após cozido. Coloque em uma travessa e cubra com o molho. Regue com azeite e sirva."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Parmesão ralado e manjericão fresco para acompanhar fica divino.\nPara o cozimento da massa, use 1 litro de água para cada 100g de macarrão.\nEm hipótese alguma coloque óleo para cozinhar a massa. A massa deve ser cozida apenas na água com meia colher de sal."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ROBERTO REBUELTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301543-macarrao-do-betao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301543-macarrao-do-betao.html",
+  "tags": []
 }

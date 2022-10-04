@@ -32,5 +32,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "0 PORÇÕES",
   "autor": "LISIANE FROZZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300749-mondongo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300749-mondongo.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

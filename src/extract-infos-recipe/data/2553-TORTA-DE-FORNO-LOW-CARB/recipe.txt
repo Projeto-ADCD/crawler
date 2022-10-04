@@ -34,5 +34,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "DAIANE LOCATELLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304958-torta-de-forno-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304958-torta-de-forno-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

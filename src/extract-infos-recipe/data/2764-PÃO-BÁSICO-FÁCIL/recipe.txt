@@ -35,5 +35,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "PAULA FERRARI BARCAROLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304482-pao-basico-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304482-pao-basico-facil.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

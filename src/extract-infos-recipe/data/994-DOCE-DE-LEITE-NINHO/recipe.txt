@@ -19,5 +19,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MALU DALTRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310582-doce-de-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310582-doce-de-leite-ninho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

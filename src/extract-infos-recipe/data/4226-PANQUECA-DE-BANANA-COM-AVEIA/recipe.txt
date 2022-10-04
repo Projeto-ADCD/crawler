@@ -22,5 +22,17 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "LUIS FEL GAMES 51",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301548-panqueca-de-banana-com-aveia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301548-panqueca-de-banana-com-aveia.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

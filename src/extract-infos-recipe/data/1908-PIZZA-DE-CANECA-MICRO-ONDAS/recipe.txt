@@ -25,5 +25,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LETÍCIA HELLEN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306475-pizza-de-caneca-barra-micro-ondas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306475-pizza-de-caneca-barra-micro-ondas.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

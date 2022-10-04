@@ -21,5 +21,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VICTÓRIA GIROTTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303011-doce-terra-de-minhoca-feito-com-mousse-bolacha-e-bala.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303011-doce-terra-de-minhoca-feito-com-mousse-bolacha-e-bala.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

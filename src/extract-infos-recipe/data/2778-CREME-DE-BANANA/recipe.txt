@@ -23,5 +23,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MUNDO DAS MARAVILHAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304444-creme-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304444-creme-de-banana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

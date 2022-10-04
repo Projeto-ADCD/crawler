@@ -34,5 +34,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ISABEL PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302781-macarrao-com-sardinha-de-lata-da-bel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302781-macarrao-com-sardinha-de-lata-da-bel.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

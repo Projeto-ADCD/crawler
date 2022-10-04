@@ -31,5 +31,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ANDRE THEISS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300533-entrevero.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300533-entrevero.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

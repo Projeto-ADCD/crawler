@@ -44,5 +44,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304201-empanadas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304201-empanadas.html",
+  "tags": [
+    "EMPANADA",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

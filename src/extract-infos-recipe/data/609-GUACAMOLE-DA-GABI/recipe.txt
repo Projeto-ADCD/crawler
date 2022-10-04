@@ -25,5 +25,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312353-guacamole-da-gabi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312353-guacamole-da-gabi.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -29,5 +29,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ALL RECIPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305486-rocambole-prestigio-da-vo-alice.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305486-rocambole-prestigio-da-vo-alice.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

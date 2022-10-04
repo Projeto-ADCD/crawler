@@ -20,5 +20,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MALU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311558-limonada-rosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311558-limonada-rosa.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

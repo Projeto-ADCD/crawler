@@ -21,5 +21,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANNIKA LALGY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301690-panquecas-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301690-panquecas-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

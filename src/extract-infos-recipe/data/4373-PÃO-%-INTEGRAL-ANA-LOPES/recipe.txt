@@ -34,5 +34,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ANA LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301281-pao-100-porcento-integral-ana-lopes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301281-pao-100-porcento-integral-ana-lopes.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

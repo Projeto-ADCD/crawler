@@ -35,5 +35,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "VERINHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305586-bacalhoada-a-portuguesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305586-bacalhoada-a-portuguesa.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

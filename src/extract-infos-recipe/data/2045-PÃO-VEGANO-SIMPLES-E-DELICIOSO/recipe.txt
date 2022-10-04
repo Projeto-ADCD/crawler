@@ -26,5 +26,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "SILVANIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306127-pao-vegano-simples-e-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306127-pao-vegano-simples-e-delicioso.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

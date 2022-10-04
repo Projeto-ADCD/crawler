@@ -25,5 +25,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "KARLOS VINICIUS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312638-pudim-meio-chocolate-meio-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312638-pudim-meio-chocolate-meio-coco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

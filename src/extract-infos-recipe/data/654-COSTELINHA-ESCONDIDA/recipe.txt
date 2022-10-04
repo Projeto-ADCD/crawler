@@ -37,5 +37,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "EDVALDO BINDELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312142-costelinha-escondida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312142-costelinha-escondida.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -39,5 +39,16 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302858-tender-com-abacaxi-e-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302858-tender-com-abacaxi-e-laranja.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

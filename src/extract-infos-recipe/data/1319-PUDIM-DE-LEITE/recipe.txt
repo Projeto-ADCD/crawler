@@ -42,5 +42,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GABRIEL FRAZÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308895-pudim-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308895-pudim-de-leite.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

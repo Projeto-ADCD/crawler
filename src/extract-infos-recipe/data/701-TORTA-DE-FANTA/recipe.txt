@@ -13,18 +13,10 @@
       "200 g de coco ralado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Na batedeira, bata as claras em neve e depois acrescente as gemas uma a uma, batendo bem entre as adições.",
-      "Acrescente o açúcar, depois a farinha de trigo e bata bem.",
-      "Por fim, coloque um copo de fanta e depois o outro misturado com o fermento (misture em cima da vasilha da batedeira, pois o fermento irá subir e o refrigerante vai derramar).",
-      "Despeje a massa em uma assadeira untada com manteiga e farinha de trigo e leve para assar em forno pré aquecido 180º C por 40 minutos.",
-      "Bata o leite condensado e o leite de coco no liquidificador.",
-      "Com o bolo já frio, fure-o com o auxílio de um garfo e jogue a calda por cima. Polvilhe coco ralado e leve para à geladeira por 2 horas."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "120 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JESSICA SARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312008-torta-de-fanta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312008-torta-de-fanta.html",
+  "tags": []
 }

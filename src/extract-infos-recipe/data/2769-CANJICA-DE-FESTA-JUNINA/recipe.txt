@@ -40,5 +40,16 @@
   "tempo_de_preparo": "85 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "SAMANTHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304473-canjica-de-festa-junina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304473-canjica-de-festa-junina.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

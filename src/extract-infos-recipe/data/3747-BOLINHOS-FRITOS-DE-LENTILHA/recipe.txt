@@ -29,5 +29,14 @@
   "tempo_de_preparo": "-30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "GLEDIR BERNARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302791-bolinhos-fritos-de-lentilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302791-bolinhos-fritos-de-lentilha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

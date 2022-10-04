@@ -34,5 +34,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LAISA SIQUEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304017-torta-de-biscoito-com-chocolate-e-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304017-torta-de-biscoito-com-chocolate-e-coco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

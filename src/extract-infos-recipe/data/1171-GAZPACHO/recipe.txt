@@ -24,5 +24,12 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VALE FÉRTIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309502-gazpacho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309502-gazpacho.html",
+  "tags": [
+    "SOPA",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

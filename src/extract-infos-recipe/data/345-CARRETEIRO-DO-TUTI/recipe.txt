@@ -27,5 +27,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "GUILHERME POTRICH",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313128-carreteiro-do-tuti.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313128-carreteiro-do-tuti.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

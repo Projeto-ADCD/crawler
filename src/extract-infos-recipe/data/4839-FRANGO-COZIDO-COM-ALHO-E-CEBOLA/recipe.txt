@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "IGO SOARES VENTURA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300126-frango-cozido-com-alho-e-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300126-frango-cozido-com-alho-e-cebola.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

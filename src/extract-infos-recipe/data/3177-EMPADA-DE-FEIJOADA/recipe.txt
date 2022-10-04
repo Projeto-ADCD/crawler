@@ -12,18 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Aqueça o feijão",
-      "Misture a 1/2 colher de farofa até formar um tutu e reserve.",
-      "Misture a xicara de farofa com o ovo e a manteiga e forme uma massa firme.",
-      "Abra em forminhas de empada e coloque uma colher do tutu de feijão",
-      "Asse em forno médio por 15 minutos",
-      "Decore a gosto"
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Receita enviada por: John Wayne Flávia Azevedo"
+      ""
     ]
   },
   "tempo_de_preparo": "25 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303778-empada-de-feijoada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303778-empada-de-feijoada.html",
+  "tags": []
 }

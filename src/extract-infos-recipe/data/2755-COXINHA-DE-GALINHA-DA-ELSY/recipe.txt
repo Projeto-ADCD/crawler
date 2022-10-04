@@ -35,5 +35,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MARCELO ASTUTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304508-coxinha-de-galinha-da-elsy.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304508-coxinha-de-galinha-da-elsy.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

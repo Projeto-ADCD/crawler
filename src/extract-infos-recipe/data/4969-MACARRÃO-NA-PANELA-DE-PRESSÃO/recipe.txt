@@ -30,5 +30,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "TAMIRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299833-macarrao-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299833-macarrao-na-panela-de-pressao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

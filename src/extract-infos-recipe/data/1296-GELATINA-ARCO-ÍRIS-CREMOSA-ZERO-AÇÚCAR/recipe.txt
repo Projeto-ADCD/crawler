@@ -19,5 +19,8 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "SABRINS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309016-gelatina-arco-iris-cremosa-zero-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309016-gelatina-arco-iris-cremosa-zero-acucar.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

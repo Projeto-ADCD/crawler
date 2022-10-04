@@ -31,5 +31,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LETICIA CAMARGO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301532-canjiquinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301532-canjiquinha.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

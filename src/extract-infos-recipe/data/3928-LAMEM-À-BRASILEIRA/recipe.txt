@@ -46,5 +46,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "BARBARA RAMOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302354-lamem-a-brasileira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302354-lamem-a-brasileira.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

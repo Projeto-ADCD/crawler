@@ -40,5 +40,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "MARCELO BENTO BRAGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311817-quiche-de-frango-com-requeijao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311817-quiche-de-frango-com-requeijao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

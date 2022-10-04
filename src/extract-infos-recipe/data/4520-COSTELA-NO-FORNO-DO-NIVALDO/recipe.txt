@@ -24,5 +24,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "NIVALDO PEREIRA DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300946-costela-no-forno-do-nivaldo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300946-costela-no-forno-do-nivaldo.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

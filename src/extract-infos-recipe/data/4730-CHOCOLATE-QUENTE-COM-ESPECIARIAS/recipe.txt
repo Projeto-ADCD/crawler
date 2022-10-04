@@ -21,5 +21,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "PAMELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300344-chocolate-quente-com-especiarias.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300344-chocolate-quente-com-especiarias.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

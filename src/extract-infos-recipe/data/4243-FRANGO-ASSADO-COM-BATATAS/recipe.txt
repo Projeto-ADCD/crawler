@@ -27,5 +27,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BRUNO FOSSATTI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301526-frango-assado-com-batatas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301526-frango-assado-com-batatas.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ANGÉLICA MAGALHÃES FRAGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302817-lasanha-low-carb-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302817-lasanha-low-carb-de-carne-moida.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

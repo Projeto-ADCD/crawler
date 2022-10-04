@@ -38,5 +38,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "INGRID ALMEIDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300322-camarao-internacional-da-ingrid.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300322-camarao-internacional-da-ingrid.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

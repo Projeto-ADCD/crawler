@@ -35,5 +35,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "KARINE SANTANA DA SILVA FERRARI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303685-farofa-saudavel-para-churrasco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303685-farofa-saudavel-para-churrasco.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

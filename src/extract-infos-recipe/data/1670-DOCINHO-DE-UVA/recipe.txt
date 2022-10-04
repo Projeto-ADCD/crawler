@@ -23,5 +23,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "CLARINHX",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307212-docinho-de-uva.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307212-docinho-de-uva.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

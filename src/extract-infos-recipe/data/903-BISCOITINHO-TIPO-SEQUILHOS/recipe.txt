@@ -19,5 +19,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "CAROL MALTEZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310968-biscoitinho-tipo-sequilhos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310968-biscoitinho-tipo-sequilhos.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

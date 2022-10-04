@@ -19,19 +19,10 @@
       " "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela, aqueça a manteiga e refogue a cebola. ",
-      "Adicione o leite e a água e espere ferver.",
-      "Coloque o macarrão e deixe ferver por 7 minutos. ",
-      "Acrescente a couve-flor, o brócolis, o presunto, o requeijão, o ketchup e a mussarela ralada. ",
-      "Tempere com noz-moscada, sal e a pimenta-do-reino. ",
-      "Transfira para uma travessa e salpique a mussarela. ",
-      "Leve ao forno até gratinar."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303263-macarrao-ao-leite-gratinado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303263-macarrao-ao-leite-gratinado.html",
+  "tags": []
 }

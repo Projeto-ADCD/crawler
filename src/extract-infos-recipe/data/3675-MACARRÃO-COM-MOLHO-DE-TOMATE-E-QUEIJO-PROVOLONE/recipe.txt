@@ -23,5 +23,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "RAABE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302935-macarrao-com-molho-de-tomate-e-queijo-provolone.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302935-macarrao-com-molho-de-tomate-e-queijo-provolone.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

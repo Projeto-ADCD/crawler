@@ -18,5 +18,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309310-brigadeiro-de-tamaras.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309310-brigadeiro-de-tamaras.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

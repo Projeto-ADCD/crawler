@@ -19,5 +19,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ROSENALDO DOS SANTOS PANTOJA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306367-biscoito-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306367-biscoito-de-chocolate.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -22,5 +22,12 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JULIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304478-batida-de-coco-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304478-batida-de-coco-facil.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

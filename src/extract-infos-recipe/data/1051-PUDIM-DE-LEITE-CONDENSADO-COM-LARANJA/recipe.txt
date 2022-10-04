@@ -24,5 +24,16 @@
   "tempo_de_preparo": "300 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "MARIA MARCELINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310213-pudim-de-leite-condensado-com-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310213-pudim-de-leite-condensado-com-laranja.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

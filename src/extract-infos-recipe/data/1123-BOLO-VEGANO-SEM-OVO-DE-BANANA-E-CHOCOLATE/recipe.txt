@@ -26,5 +26,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DRIELLEN BRAGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309771-bolo-vegano-sem-ovo-de-banana-e-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309771-bolo-vegano-sem-ovo-de-banana-e-chocolate.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -23,5 +23,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "SERGIO GUANDALINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310000-sagu-facil-de-suco-de-uva-integral.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310000-sagu-facil-de-suco-de-uva-integral.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

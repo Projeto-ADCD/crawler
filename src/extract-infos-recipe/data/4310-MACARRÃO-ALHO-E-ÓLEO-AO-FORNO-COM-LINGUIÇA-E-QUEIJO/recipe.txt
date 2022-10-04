@@ -28,5 +28,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301391-macarrao-alho-e-oleo-ao-forno-com-linguica-e-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301391-macarrao-alho-e-oleo-ao-forno-com-linguica-e-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

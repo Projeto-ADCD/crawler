@@ -25,5 +25,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANA PAULA FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301193-bolo-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301193-bolo-de-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

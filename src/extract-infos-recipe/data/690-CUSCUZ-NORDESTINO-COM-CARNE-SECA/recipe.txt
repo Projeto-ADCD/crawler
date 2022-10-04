@@ -26,5 +26,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "PRIMOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312034-cuscuz-nordestino-com-carne-seca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312034-cuscuz-nordestino-com-carne-seca.html",
+  "tags": [
+    "CUSCUZ",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

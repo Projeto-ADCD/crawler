@@ -24,5 +24,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309214-cookie-de-aveia-e-cacau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309214-cookie-de-aveia-e-cacau.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

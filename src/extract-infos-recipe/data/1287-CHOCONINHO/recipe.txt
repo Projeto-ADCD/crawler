@@ -12,13 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Em um pote coloque às 2 colheres de leite ninho após isso coloque às 3 colheres de chocolate.",
-      "Depois acrescente a água pouco a pouco mexendo os ingredientes do pote.",
-      "Depois da mistura ficar homogénea coloque a pitada de açúcar e de preferência coloque confete ou pedaços de barra de chocolate.",
-      "E só comer e bom apetite."
+      ""
     ]
   },
   "tempo_de_preparo": "6 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "GUI GAMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309074-choconinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309074-choconinho.html",
+  "tags": []
 }

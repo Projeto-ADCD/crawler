@@ -21,5 +21,14 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "MARCELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303039-mousse-de-limao-light.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303039-mousse-de-limao-light.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

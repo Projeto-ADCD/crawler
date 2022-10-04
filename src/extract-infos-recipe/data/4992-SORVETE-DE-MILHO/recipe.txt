@@ -27,5 +27,16 @@
   "tempo_de_preparo": "600 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DIOVANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299761-sorvete-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299761-sorvete-de-milho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

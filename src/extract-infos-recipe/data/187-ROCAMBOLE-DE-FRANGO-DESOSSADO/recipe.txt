@@ -28,5 +28,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "COPACOL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314035-rocambole-de-frango-desossado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314035-rocambole-de-frango-desossado.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

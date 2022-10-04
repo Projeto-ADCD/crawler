@@ -22,5 +22,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310814-bolo-cremoso-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310814-bolo-cremoso-de-queijo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -43,5 +43,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "PRIMOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312040-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312040-tapioca.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

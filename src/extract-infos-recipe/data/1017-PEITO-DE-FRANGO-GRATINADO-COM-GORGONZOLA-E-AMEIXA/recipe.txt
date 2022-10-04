@@ -22,5 +22,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GALLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310437-peito-de-frango-gratinado-com-gorgonzola-e-ameixa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310437-peito-de-frango-gratinado-com-gorgonzola-e-ameixa.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

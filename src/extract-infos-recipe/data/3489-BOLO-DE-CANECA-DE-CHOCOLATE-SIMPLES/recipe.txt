@@ -27,5 +27,14 @@
   "tempo_de_preparo": "-10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CECILIA NICOLE MONTEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303258-bolo-de-caneca-de-chocolate-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303258-bolo-de-caneca-de-chocolate-simples.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

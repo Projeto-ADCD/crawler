@@ -26,5 +26,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DENISE DA SILVA LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303969-farofa-mista.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303969-farofa-mista.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

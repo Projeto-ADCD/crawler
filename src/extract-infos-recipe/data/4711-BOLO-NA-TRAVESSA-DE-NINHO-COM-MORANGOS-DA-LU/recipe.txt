@@ -24,5 +24,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LUCIANA GARCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300381-bolo-na-travessa-de-ninho-com-morangos-da-lu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300381-bolo-na-travessa-de-ninho-com-morangos-da-lu.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -26,5 +26,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "PAOLA DIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302897-panqueca-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302897-panqueca-de-carne-moida.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

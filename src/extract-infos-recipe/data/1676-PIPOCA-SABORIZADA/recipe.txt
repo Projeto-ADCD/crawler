@@ -12,12 +12,12 @@
     "DEFAULT": [
       "derreta a margarina no óleo, despeje o milho para pipoca",
       "mexa de 10 em 10 segundos para não queimar o milho, mesmo após começar estourar, continue mexendo até parar os estouros.",
-      "imediatamente após estourar, despeje o creme em pó por cima das pipocas, feche a tampa da panela, e mexa com vontade, para",
-      "espalhar o creme em pó por toda a pipoca, fica uma delícia."
+      ""
     ]
   },
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JOAO GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307191-pipoca-saborizada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307191-pipoca-saborizada.html",
+  "tags": []
 }

@@ -32,5 +32,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "GUSTAVO ALCANTARA PIEKARCZIK",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308077-bolo-sanduiche-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308077-bolo-sanduiche-de-frango.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -38,5 +38,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "GLEIDSON DE ARAUJO SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303192-bolinho-de-cenoura-e-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303192-bolinho-de-cenoura-e-carne.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

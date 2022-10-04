@@ -26,5 +26,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "DANNY ANDERSON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299903-macarrao-de-ervas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299903-macarrao-de-ervas.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

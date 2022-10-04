@@ -11,17 +11,10 @@
       "1e 1/2 colher (chá) de sal"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em um refratário, coloque as coxinhas, o vinagre e o alho e misture.",
-      "Depois coloque o lemon pepper, o glutamato, o sal e o coentro e misture bem, até que todas as coxinhas estejam com o tempero.",
-      "Deixe as coxinhas com o tempero descansarem na geladeira por pelo menos 1 hora antes de fritar.",
-      "Frite em óleo não muito quente",
-      "Sirva com arroz branco e salada."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "70 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LARISSA CAROLINE BUSSOLA LACERDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305759-frango-frito-com-lemon-pepper.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305759-frango-frito-com-lemon-pepper.html",
+  "tags": []
 }

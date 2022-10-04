@@ -28,5 +28,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "100 PORÇÕES",
   "autor": "ARY ABDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302727-pao-de-queijo-mineiro-superfacil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302727-pao-de-queijo-mineiro-superfacil.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -21,5 +21,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "EVANYCE RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307258-massa-para-salgados.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307258-massa-para-salgados.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

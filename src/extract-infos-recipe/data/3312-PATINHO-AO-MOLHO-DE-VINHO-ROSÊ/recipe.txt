@@ -34,5 +34,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MONKEY CHANNEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303576-patinho-ao-molho-de-vinho-rose.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303576-patinho-ao-molho-de-vinho-rose.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

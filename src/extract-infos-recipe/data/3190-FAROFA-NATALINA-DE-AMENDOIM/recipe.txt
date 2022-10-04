@@ -14,18 +14,10 @@
       "2 xícaras (chá) de farofa tradicional"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque a manteiga em uma panela, junte a cebola e deixe fritar até ficar levemente dourada",
-      "Acrescente o bacon, a linguiça, as passas ou damasco e deixe amolecer um pouco",
-      "Desligue o fogo, acrescente as maçãs picadas, a salsinha e a farofa tradicional, misture tudo muito bem",
-      "Volte a panela ao fogo e deixe a farofa esquentar bem, mas sempre mexendo para não queimar",
-      "Acrescente as nozes e o amendoim (opcional), desligue o fogo",
-      "Decoração: Enfeite a farofa com ramos de salsinha, nozes, tomates cereja ou da forma que você preferir. Se quiser acrescente na decoração o amendoim e as nozes para dar um toque diferente e crocante."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SANDRA M C SOUTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303759-farofa-natalina-de-amendoim.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303759-farofa-natalina-de-amendoim.html",
+  "tags": []
 }

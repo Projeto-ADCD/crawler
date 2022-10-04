@@ -58,5 +58,15 @@
   "tempo_de_preparo": "150 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "LAÍS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300201-bolo-de-cafe-e-chocolate-recheado-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300201-bolo-de-cafe-e-chocolate-recheado-especial.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

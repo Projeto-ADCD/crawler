@@ -33,5 +33,15 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "COAMO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316910-bolo-de-chocolate-com-cafe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316910-bolo-de-chocolate-com-cafe.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

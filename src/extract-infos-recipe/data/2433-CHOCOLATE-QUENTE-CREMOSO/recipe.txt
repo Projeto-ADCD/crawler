@@ -20,5 +20,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "STAR FAKE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305229-chocolate-quente-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305229-chocolate-quente-cremoso.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

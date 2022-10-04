@@ -9,21 +9,10 @@
       "2 colheres (sopa) de aveia em flocos finos  "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Comece picando as bananas.",
-      " ",
-      "Depois, junte todos os ingredientes em um liquidificador.",
-      "Bata tudo muito bem.",
-      "Unte uma frigideira com manteiga e leve ao fogo. ",
-      "Com o auxílio de uma concha, pegue um pouco da massa e despeje na frigideira.",
-      "Doure a panqueca dos dois lados. ",
-      "Retire e sirva com mel, geleia ou outro acompanhamento de sua preferência! ",
-      " "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301850-pankey-kong.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301850-pankey-kong.html",
+  "tags": []
 }

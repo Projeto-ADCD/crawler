@@ -11,25 +11,10 @@
       "100 g de goiabada"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Primeiro fazemos a base da nossa cheesecake.",
-      "No processador triture bem fino os biscoitos.",
-      "Em uma panela derreta a manteiga e misture com a farofa do biscoito.",
-      "Leve ao fogo baixo por cerca de 5 minutos para deixar torradinho.",
-      "Coloque nas taças como a primeira camada.",
-      "No liquidificador bata o leite condensado, creme de leite e o cream cheese.",
-      "Após bater os 3 primeiros ingredientes vá adicionando o suco de 1 limão aos poucos por cerca de 1 minuto.",
-      "Despeje nas taças em cima da farofa de biscoito.",
-      "Derreta a goiabada com um pouco de água no micro-ondas.",
-      "Vá colocando de 30 em 30 segundos até ficar bem derretida.",
-      "Despeja na taça sobre a parte branca.",
-      "Leve para gelar por 1 hora.",
-      "Decore com folhas de hortelã."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GLÁUCIA PEDREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306827-cheesecake-na-taca-de-limao-com-goiabada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306827-cheesecake-na-taca-de-limao-com-goiabada.html",
+  "tags": []
 }

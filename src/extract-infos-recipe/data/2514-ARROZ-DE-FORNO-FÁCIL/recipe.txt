@@ -29,5 +29,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ELOISA GARCIA DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305043-arroz-de-forno-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305043-arroz-de-forno-facil.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

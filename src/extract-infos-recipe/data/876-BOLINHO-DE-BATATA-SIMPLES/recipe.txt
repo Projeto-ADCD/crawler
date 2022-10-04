@@ -25,5 +25,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "TAISSA ARAUJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311117-bolinho-de-batata-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311117-bolinho-de-batata-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

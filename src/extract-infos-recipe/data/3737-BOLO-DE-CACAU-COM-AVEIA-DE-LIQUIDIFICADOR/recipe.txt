@@ -23,5 +23,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "TAMIRES GUEDES DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302809-bolo-de-cacau-com-aveia-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302809-bolo-de-cacau-com-aveia-de-liquidificador.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

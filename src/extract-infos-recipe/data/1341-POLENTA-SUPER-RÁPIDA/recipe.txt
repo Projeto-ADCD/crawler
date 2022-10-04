@@ -28,5 +28,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROBERT WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308811-polenta-super-rapida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308811-polenta-super-rapida.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

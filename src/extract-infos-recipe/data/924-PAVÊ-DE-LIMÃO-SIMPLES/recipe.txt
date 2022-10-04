@@ -25,5 +25,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CYNTHIA CY_HOME",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310875-pave-de-limao-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310875-pave-de-limao-simples.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

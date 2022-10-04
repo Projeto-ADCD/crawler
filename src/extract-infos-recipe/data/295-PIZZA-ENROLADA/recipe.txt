@@ -20,19 +20,10 @@
       "1 gema de ovo batida"
     ]
   },
-  "passos": {
-    "MASSA": [
-      "Em uma vasilha, dissolva o fermento com açúcar, junte o sal e o óleo.",
-      "Junte a farinha de trigo aos poucos, alternando com a água morna. Misture bem, e amasse com as pontas dos dedos até obter uma massa omogênia e lisa. Cubra e deixe crescer até dobrar de volume.",
-      "Com a ajuda de um rolo, Abra a massa em uma superfície polvilhada com farinha.",
-      "Recheio:",
-      "Cubra a superfície da massa com o requeijão.",
-      "Numa vasilha a parte, misture a linguiça, os tomates, as azeitonas, o tomilho, o sal, e regue com o azeite. Espalhe o recheio sobre o requeijão, enrole a pizza como um rodobole.",
-      "Pincele a gema. Leve para assar em uma assadeira untada com manteiga e polvilhada com farinha de trigo, por aproximadamente 25 minutos ou até dourar."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "FUNADA REFRIGERANTES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313350-pizza-enrolada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313350-pizza-enrolada.html",
+  "tags": []
 }

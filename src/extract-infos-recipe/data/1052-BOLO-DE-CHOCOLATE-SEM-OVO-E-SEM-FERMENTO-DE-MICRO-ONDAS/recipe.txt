@@ -30,5 +30,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "JENNIFER CORTEZ PEDROSO LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310212-bolo-de-chocolate-sem-ovo-e-sem-fermento-de-micro-ondas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310212-bolo-de-chocolate-sem-ovo-e-sem-fermento-de-micro-ondas.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

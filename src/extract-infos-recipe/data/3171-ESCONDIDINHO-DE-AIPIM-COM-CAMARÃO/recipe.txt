@@ -56,5 +56,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303785-escondidinho-de-aipim-com-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303785-escondidinho-de-aipim-com-camarao.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

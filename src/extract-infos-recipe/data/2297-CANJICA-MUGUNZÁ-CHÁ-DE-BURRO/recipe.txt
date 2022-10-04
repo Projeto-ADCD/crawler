@@ -27,5 +27,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "THIAGO ASSIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305541-canjica-barra-mugunza-barra-cha-de-burro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305541-canjica-barra-mugunza-barra-cha-de-burro.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

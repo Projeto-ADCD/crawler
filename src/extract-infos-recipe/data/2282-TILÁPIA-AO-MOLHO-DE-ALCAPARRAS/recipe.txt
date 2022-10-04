@@ -29,5 +29,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VANESSA WILLEMANN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305571-tilapia-ao-molho-de-alcaparras.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305571-tilapia-ao-molho-de-alcaparras.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

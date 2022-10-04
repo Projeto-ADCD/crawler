@@ -25,5 +25,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TEREZINHA MILANI RIBEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303944-farofa-de-soja-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303944-farofa-de-soja-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

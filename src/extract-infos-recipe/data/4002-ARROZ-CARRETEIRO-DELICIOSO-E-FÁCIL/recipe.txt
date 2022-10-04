@@ -36,5 +36,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TERESINHA DE JESUS GONÇALVES BITTENCOURT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302223-arroz-carreteiro-delicioso-e-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302223-arroz-carreteiro-delicioso-e-facil.html",
+  "tags": [
+    "ARROZ",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

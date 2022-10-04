@@ -22,5 +22,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JOHN WAYNE AZEVEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310264-bolinho-de-berinjela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310264-bolinho-de-berinjela.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

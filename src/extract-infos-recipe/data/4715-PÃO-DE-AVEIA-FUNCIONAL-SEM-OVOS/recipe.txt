@@ -33,5 +33,14 @@
   "tempo_de_preparo": "115 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "GRACILIA MACIEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300373-pao-de-aveia-funcional-sem-ovos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300373-pao-de-aveia-funcional-sem-ovos.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -26,5 +26,12 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SORAIA SALLES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312067-sopa-de-beterraba-soso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312067-sopa-de-beterraba-soso.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

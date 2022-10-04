@@ -26,5 +26,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "ANA AMÉLIA TANNÚS ROTUNDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302909-casadinho-de-brigadeiro-branco-e-preto.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302909-casadinho-de-brigadeiro-branco-e-preto.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

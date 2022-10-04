@@ -24,5 +24,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAMILA DA SILVA CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304015-farofa-de-couve-com-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304015-farofa-de-couve-com-banana.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

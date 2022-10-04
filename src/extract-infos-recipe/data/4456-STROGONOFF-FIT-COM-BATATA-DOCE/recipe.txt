@@ -14,26 +14,10 @@
       "alecrim a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Tempere o frango com sal e pimenta-do-reino.",
-      "Em uma panela, aqueça 1 fio de azeite e refogue a cebola. ",
-      "Adicione 1 pitada de sal e o frango. ",
-      "Deixe refogar um pouco e acrescente o tomate.",
-      "Adicione o molho de tomate e deixe cozinhar por 5 minutos. ",
-      "Em seguida, acrescente o iogurte natural.",
-      "Misture bem e desligue o fogo. ",
-      "Cozinhe uma batata-doce com casca. ",
-      "Em seguida, corte-a em rodelas. ",
-      "Tempere as rodelas com sal e alecrim.",
-      "Aqueça 1 fio de azeite e doure as rodelas de batata-doce.",
-      "Sirva o strogonoff com a batata-doce e bom apetite!",
-      " ",
-      " "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301063-strogonoff-fit-com-batata-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301063-strogonoff-fit-com-batata-doce.html",
+  "tags": []
 }

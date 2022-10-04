@@ -20,5 +20,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ROSANGELA PORTELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302580-suco-verde-detox.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302580-suco-verde-detox.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

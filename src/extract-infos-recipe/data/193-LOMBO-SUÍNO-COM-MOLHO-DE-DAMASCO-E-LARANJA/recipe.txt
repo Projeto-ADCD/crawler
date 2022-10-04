@@ -35,5 +35,16 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "FRIMESA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314029-lombo-suino-com-molho-de-damasco-e-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314029-lombo-suino-com-molho-de-damasco-e-laranja.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

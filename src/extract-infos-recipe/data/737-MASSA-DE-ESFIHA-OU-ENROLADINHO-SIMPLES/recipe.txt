@@ -19,5 +19,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "MILENA MADEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311820-massa-de-esfiha-ou-enroladinho-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311820-massa-de-esfiha-ou-enroladinho-simples.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

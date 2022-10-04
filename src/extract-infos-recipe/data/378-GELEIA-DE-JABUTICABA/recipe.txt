@@ -27,5 +27,16 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "GABRIEL_9624",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313030-geleia-de-jabuticaba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313030-geleia-de-jabuticaba.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

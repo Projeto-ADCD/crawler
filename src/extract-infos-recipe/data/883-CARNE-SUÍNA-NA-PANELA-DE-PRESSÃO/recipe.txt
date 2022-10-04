@@ -31,5 +31,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "NATALY RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311080-carne-suina-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311080-carne-suina-na-panela-de-pressao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

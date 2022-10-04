@@ -18,5 +18,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ROSA RODRIGUEZ RIVERO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306102-sagu-de-beterraba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306102-sagu-de-beterraba.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

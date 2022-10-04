@@ -16,16 +16,10 @@
       "temperos a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma vasilha grande, coloque todos os ingredientes da massa e com a batedeira, bata em velocidade máxima até ela ficar lisa e mole.",
-      "Vire o recheio na massa e misture devagar até a massa cobrir o recheio",
-      "Coloque tudo em um refratário de 28 cm e coloque 25 minutos no micro-ondas",
-      "observação: se você quiser, antes de colocar o refratário no micro-ondas ,coloque queijo parmesão por cima"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "32 PORÇÕES",
   "autor": "MATTHEUS FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306296-torta-de-salsicha-de-micro-ondas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306296-torta-de-salsicha-de-micro-ondas.html",
+  "tags": []
 }

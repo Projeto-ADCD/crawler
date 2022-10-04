@@ -11,19 +11,10 @@
       "1 vidro de palmito picado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Comece cortando a cebola, o palmito e ralando a cenoura e o provolone.",
-      "A cenoura já ralada deve ser escaldada na água quente por 30 segundos.",
-      "Reserve todos os ingredientes.",
-      "Doure a cebola na manteiga e quando ela estiver bem dourada, acrescente os copos de requeijão, o palmito picado, a cenoura ralada e o provolone.",
-      "Mexa bem e quando estiver homogêneo junte o creme de leite sem parar de mexer até ferver.",
-      "Pronto!",
-      "Sirva quente."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RENATA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305425-molho-delicia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305425-molho-delicia.html",
+  "tags": []
 }

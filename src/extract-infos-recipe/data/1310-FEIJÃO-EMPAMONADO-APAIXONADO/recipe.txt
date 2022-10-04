@@ -35,5 +35,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ALESSANDRA MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308964-feijao-empamonado-barra-apaixonado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308964-feijao-empamonado-barra-apaixonado.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

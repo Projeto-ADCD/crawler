@@ -19,5 +19,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GASPAR SERRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304294-suco-de-laranja-limao-e-abacaxi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304294-suco-de-laranja-limao-e-abacaxi.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

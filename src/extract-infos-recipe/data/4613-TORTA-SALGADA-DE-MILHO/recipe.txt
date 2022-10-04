@@ -27,5 +27,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ALICE AMARAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300726-torta-salgada-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300726-torta-salgada-de-milho.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

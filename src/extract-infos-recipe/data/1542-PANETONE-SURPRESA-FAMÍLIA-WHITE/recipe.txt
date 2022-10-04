@@ -22,5 +22,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "DOCE.CHEFE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307753-panetone-surpresa-familia-white.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307753-panetone-surpresa-familia-white.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -19,5 +19,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VANESSA SANTANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308357-mingau-de-aveia-com-farinha-lactea.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308357-mingau-de-aveia-com-farinha-lactea.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

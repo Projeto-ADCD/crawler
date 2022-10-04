@@ -20,5 +20,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MARIÂNGELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303673-farofa-de-pao-torrado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303673-farofa-de-pao-torrado.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

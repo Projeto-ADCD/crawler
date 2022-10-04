@@ -22,5 +22,16 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "NICOLLE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306603-pave-de-chocolate-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306603-pave-de-chocolate-delicioso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

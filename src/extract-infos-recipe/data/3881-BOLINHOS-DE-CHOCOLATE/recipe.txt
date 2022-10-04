@@ -37,5 +37,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "RAISSA LIMA DE ALBUQUERQUE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302441-bolinhos-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302441-bolinhos-de-chocolate.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

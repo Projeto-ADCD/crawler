@@ -27,5 +27,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "HIGOR LEONARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309277-costelinha-suina-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309277-costelinha-suina-facil.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

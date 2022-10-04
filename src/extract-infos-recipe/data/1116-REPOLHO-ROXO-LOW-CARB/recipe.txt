@@ -26,5 +26,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LILA KUHLMANN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309790-repolho-roxo-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309790-repolho-roxo-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

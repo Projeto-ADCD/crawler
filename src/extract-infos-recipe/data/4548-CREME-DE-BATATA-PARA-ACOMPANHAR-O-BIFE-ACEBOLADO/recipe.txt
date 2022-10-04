@@ -19,5 +19,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BEATRIZ MAZZI TONIOLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300879-creme-de-batata-para-acompanhar-o-bife-acebolado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300879-creme-de-batata-para-acompanhar-o-bife-acebolado.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -19,5 +19,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "HUGO FAIFE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308003-doce-de-bolacha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308003-doce-de-bolacha.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

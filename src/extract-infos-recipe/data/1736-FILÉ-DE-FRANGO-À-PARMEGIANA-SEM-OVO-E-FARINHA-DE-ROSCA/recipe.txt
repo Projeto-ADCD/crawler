@@ -23,5 +23,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306957-file-de-frango-a-parmegiana-sem-ovo-e-farinha-de-rosca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306957-file-de-frango-a-parmegiana-sem-ovo-e-farinha-de-rosca.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

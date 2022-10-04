@@ -28,5 +28,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "LARYSSA DO NASCIMENTO PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299941-brownie-perfeito-e-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299941-brownie-perfeito-e-simples.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

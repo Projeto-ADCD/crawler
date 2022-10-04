@@ -11,25 +11,10 @@
       "doce de leite a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em um bowl derreta a manteiga e misture com o ovo",
-      "Adicione os açucares e mexa até ficar homogêneo",
-      "Acrescente a essência de baunilha e mexa",
-      "Aos poucos adicione a farinha enquanto mexe (A massa vai ficando dura, se tiver difícil de mexer com a colher pode mexer com as mãos)",
-      "Faça um rolo com a massa, enrole em papel filme e deixe no congelador por 20 min",
-      "Após o tempo, pegue a massa e corte em pedações com 2 a 3 dedos de largura",
-      "Divida cada pedaço em 2 formando pares",
-      "Forme uma bolinha com cada parte e amasse fazendo um círculo de massa",
-      "Pegue uma coloque uma porção de doce de leite em cima e coloque o outro circulo de massa em cima do doce de leite (Como um sanduiche - Massa, doce de leite, massa)",
-      "Junte as bordas das duas massas e enrole o \"sanduiche\" (Fazendo uma bolinha de doce de leite",
-      "Coloque em uma assadeira untada ou com papel manteiga",
-      "Quando terminar coloque no fogo por 20 min a 170 graus",
-      "PS: O Cokkie sai mole do forno, então não confunda e deixe mais tempo no fogo por isso, tire do forno e espera uns 10 min e ele já vai estar bom!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LETÍCIA GUATIMOSIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314596-cookie-de-doce-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314596-cookie-de-doce-de-leite.html",
+  "tags": []
 }

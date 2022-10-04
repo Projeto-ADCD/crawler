@@ -1,0 +1,33 @@
+{
+  "nome_receita": "RECEITA LOW CARB VEGANA: PUDIM DE CHIA COM ESPIRULINA",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 colher (chá) de Spirulina (Espirulina)",
+      "3 gotas do extrato Concentrado de Baunilha",
+      "200ml de Leite de Coco",
+      "1 colher (chá) de Açúcar de Maçã",
+      "4 colheres (chá) de Chia",
+      "frutas vermelhas para decorar"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Mexa tudo e coloque em uma forminha de silicone.",
+      "Posteriormente, coloque-o no forno baixo por aproximadamente 10 minutos.",
+      "Se quiser fazer no micro-ondas, é só colocar em uma caneca grande untada e deixar por 2 minutos e meio."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "INGREDIENTES ONLINE",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313741-receita-low-carb-vegana-pudim-de-chia-com-espirulina.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
+}

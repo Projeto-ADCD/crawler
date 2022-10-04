@@ -26,5 +26,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LETÍCIA NAÚS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314377-molho-de-champignon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314377-molho-de-champignon.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

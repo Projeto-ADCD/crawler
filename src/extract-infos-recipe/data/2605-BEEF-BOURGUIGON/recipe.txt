@@ -30,5 +30,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUCAS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304831-beef-bourguigon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304831-beef-bourguigon.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -32,5 +32,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ALLIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314097-frango-assado-com-ratatouille-de-legumes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314097-frango-assado-com-ratatouille-de-legumes.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

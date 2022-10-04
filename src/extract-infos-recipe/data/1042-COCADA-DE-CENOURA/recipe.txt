@@ -20,5 +20,16 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JOANA V.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310274-cocada-de-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310274-cocada-de-cenoura.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

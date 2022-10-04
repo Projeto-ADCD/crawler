@@ -42,5 +42,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "MARGARIDA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306852-enroladinho-de-file-de-salmao-e-tilapia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306852-enroladinho-de-file-de-salmao-e-tilapia.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

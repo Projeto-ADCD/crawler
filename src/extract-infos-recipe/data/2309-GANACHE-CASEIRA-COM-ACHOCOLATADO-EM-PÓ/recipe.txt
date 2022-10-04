@@ -19,5 +19,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LAURA CUNHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305516-ganache-caseira-com-achocolatado-em-po.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305516-ganache-caseira-com-achocolatado-em-po.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

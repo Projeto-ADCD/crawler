@@ -11,22 +11,10 @@
       "100 g de queijo prato fatiado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Descasque e corte em pedaços grandes as batatas e as cenouras",
-      "Coloque para cozinhar na água com sal em fogo alto.",
-      "Frite o bacon cortado em cubinhos e deixe descansando.",
-      "Tempere a carne vermelha com alho, sal e pimentas a gosto",
-      "Frite juntamente à cebola picadinha ou em rodelas.",
-      "Preaqueça o forno em 180° C, coloque um fio de óleo no fundo de uma forma de vidro",
-      "Cubra o fundo com as batatas e as cenouras cozidas",
-      "Tempere com pimenta e orégano.",
-      "Espalhe por cima a carne acebolada com o bacon, a ricota em cubinhos e finalize com as fatias de queijo prato.",
-      "Asse por 10 minutos, apenas para derreter o queijo, serve até 4 pessoas."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "25 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "HEITOR ABNER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305499-batatas-rusticas-com-cenoura-assada-e-temperada-e-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305499-batatas-rusticas-com-cenoura-assada-e-temperada-e-carne.html",
+  "tags": []
 }

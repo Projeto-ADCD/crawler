@@ -27,5 +27,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROGÉRIO NÓBREGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308999-salada-shopska.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308999-salada-shopska.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

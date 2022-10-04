@@ -21,5 +21,12 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAROLINA QUEIROZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300205-creme-de-batata-da-carolina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300205-creme-de-batata-da-carolina.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

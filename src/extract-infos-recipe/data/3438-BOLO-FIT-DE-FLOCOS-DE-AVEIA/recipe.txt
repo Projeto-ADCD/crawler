@@ -28,5 +28,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA PAULA DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303368-bolo-fit-de-flocos-de-aveia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303368-bolo-fit-de-flocos-de-aveia.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

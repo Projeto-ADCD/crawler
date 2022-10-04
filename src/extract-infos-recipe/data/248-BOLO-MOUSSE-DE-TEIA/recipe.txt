@@ -28,19 +28,12 @@
     "RECHEIO ": [
       "Derreta o chocolate com o creme de leite em uma panela ",
       "Junte esse mstura em outro recipiente com o chantily",
-      "Coloque por cima da massa reservada",
-      "Leve à geladeira por 3 horas"
-    ],
-    "COBERTURA": [
-      "Derreta o chocolate com o creme de leite",
-      "Despeje a cobertura no bolo",
-      "Faça as marcações de acordo com o desenho que você desejar",
-      "Passe o chocolate branco por cima",
-      "Sirva e aproveite!"
+      ""
     ]
   },
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313730-bolo-mousse-de-teia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313730-bolo-mousse-de-teia.html",
+  "tags": []
 }

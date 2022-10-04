@@ -23,5 +23,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302722-pimentao-recheado-com-ovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302722-pimentao-recheado-com-ovo.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

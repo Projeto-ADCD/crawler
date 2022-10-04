@@ -31,5 +31,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303639-torta-cremosa-de-cebola-e-queijo-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303639-torta-cremosa-de-cebola-e-queijo-sem-gluten.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

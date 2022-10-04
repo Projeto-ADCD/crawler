@@ -32,5 +32,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "32 PORÇÕES",
   "autor": "ROBSON EUTÉRIO DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305144-massa-de-pizza-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305144-massa-de-pizza-sem-gluten.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

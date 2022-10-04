@@ -43,5 +43,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "KARIMA MOURAD",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305514-torta-de-frango-cremosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305514-torta-de-frango-cremosa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

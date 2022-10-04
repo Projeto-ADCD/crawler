@@ -25,5 +25,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "WENDERSON MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301416-sopa-de-dobradinha-com-banana-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301416-sopa-de-dobradinha-com-banana-verde.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

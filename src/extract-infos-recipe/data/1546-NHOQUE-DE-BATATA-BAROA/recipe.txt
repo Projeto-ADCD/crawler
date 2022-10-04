@@ -24,5 +24,17 @@
   "tempo_de_preparo": "150 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MAURO RAPOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307724-nhoque-de-batata-baroa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307724-nhoque-de-batata-baroa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

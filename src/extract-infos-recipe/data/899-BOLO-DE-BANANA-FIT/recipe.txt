@@ -25,5 +25,8 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ARIELA SABRINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310993-bolo-de-banana-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310993-bolo-de-banana-fit.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

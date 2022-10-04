@@ -25,5 +25,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "DENISE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306349-biscoitos-de-aveia-e-mel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306349-biscoitos-de-aveia-e-mel.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

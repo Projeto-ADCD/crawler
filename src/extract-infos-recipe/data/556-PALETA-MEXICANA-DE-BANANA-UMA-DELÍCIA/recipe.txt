@@ -12,11 +12,12 @@
     "DEFAULT": [
       "No liquidificador coloque a banana, açúcar, a colher de baunilha e o leite e bata até virar um creme.",
       "Coloque o creme nas formas de picolé, de preferência uma mais larga. Com a outra banana, corte algumas rodelas e introduza no meio do creme, para que fique decorado e com pedaços mais “vivos” da fruta.",
-      "Leve ao congelador por pelo menos 5 horas."
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARIA CLARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312510-paleta-mexicana-de-banana-uma-delicia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312510-paleta-mexicana-de-banana-uma-delicia.html",
+  "tags": []
 }

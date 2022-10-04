@@ -37,5 +37,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "DIENIFER GOLDSCHMIDT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305257-bolo-de-pudim-facil-e-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305257-bolo-de-pudim-facil-e-delicioso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

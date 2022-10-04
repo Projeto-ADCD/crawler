@@ -19,5 +19,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA CELINY MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300741-casca-de-batata-frita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300741-casca-de-batata-frita.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -30,5 +30,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "CLÁUDIA TEIXEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305692-carne-mafiosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305692-carne-mafiosa.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

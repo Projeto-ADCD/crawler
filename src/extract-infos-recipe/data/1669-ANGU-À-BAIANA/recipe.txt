@@ -45,5 +45,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307221-angu-a-baiana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307221-angu-a-baiana.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

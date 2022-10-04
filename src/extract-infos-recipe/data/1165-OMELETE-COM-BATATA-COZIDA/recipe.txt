@@ -27,5 +27,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "AMANDA M. LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309521-omelete-com-batata-cozida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309521-omelete-com-batata-cozida.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

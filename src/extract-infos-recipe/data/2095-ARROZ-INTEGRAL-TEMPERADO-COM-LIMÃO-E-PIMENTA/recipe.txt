@@ -27,5 +27,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "JORDANNA NUNES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306028-arroz-integral-temperado-com-limao-e-pimenta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306028-arroz-integral-temperado-com-limao-e-pimenta.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -26,5 +26,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CARLA SOARES JERONIMO ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302789-lasanha-de-berinjela-com-carne-e-mussarela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302789-lasanha-de-berinjela-com-carne-e-mussarela.html",
+  "tags": [
+    "LASANHA",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

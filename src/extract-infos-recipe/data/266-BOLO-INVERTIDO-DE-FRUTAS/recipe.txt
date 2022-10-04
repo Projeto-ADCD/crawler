@@ -12,23 +12,10 @@
       "20 uvas sem caroço "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Esfarele o bolo em um recipiente e reserve",
-      "Coloque em um recipiente o creme de leite e bata com uma batedeira",
-      "Junte o açúcar aos poucos ",
-      "Bata e junte o cream cheese ",
-      "Forre o recipiente com um plástico filme",
-      "Coloque os morangos e o hortelã, junte o recheio e o bolo ",
-      "Coloque as outras frutas, mais recheio e mais bolo",
-      "Repita os processos e termine com uma camada de bolo",
-      "Cubra com plástico filme",
-      "Leve à geladeira por 10 horas ",
-      "Sirva! "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313590-bolo-invertido-de-frutas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313590-bolo-invertido-de-frutas.html",
+  "tags": []
 }

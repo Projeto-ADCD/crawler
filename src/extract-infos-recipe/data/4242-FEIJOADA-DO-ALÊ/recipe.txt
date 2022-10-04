@@ -27,5 +27,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TÂNIA HIGAKI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301528-feijoada-do-ale.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301528-feijoada-do-ale.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -17,5 +17,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "MARIANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303431-molho-de-alho-caseiro-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303431-molho-de-alho-caseiro-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

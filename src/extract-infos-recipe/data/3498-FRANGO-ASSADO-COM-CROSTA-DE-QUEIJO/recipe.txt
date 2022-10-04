@@ -31,5 +31,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TON ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303247-frango-assado-com-crosta-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303247-frango-assado-com-crosta-de-queijo.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

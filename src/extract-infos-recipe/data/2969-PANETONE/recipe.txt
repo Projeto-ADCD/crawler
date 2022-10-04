@@ -17,28 +17,10 @@
       "120 g ou 1 xícara de uva passa e 120 g ou 1 xícara de frutas cristalizadas"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque 2 xícaras de farinha num recipiente alto, o fermento e a água morna para fazer a esponja.",
-      "Bata por 10 minutos com o batedor de massa pesada e deixe descansar por 30 minutos, cubra com filme pvc.",
-      "Bata num recipiente as 12 gemas, o açúcar e o emulsificante por 5 minutos com o batedor de massa leve.",
-      "Das 3 xícaras de farinha de trigo adicione 4 colheres (sopa) e reserve o restante.",
-      "Acrescente o óleo, a essência de panetone, as raspas de limão, as de laranja e o sal.",
-      "Bata por mais 5 minutos com o batedor de massa leve.",
-      "Adicione a massa das gemas na esponja, bata por 10 minutos adicionando aos poucos a farinha reservada com o batedor de massa pesada.",
-      "Cubra com um pano numa bacia grande e deixe fermentar por 3 horas, a massa cresce bastante.",
-      "Misture na massa as frutas ou chocolate com o batedor de massa pesada.",
-      "Divida a massa em 3 partes iguais ou 3 bolinhas de 500 g cada, coloque nas formas de panetone e deixe crescer por mais 2 horas sem cobrir.",
-      "Com uma faca afiada faça um corte na massa em x e coloque um cubinho de manteiga ou margarina no meio.",
-      "Asse em forno 180º C por 40 minutos + 20 minutos em 200º C.",
-      "Quando tirar do forno, fure a base do panetone com dois palitos de churrasco de 30 cm e deixe esfriar de cabeça para baixo por 2 horas antes de embalar (pode ser apoiado no encosto de duas cadeiras)."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Todo o processo demora aproximadamente 7 horas. Rende 3 panetones."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANA PAULA GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304059-panetone.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304059-panetone.html",
+  "tags": []
 }

@@ -20,5 +20,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "FERNANDA DO WAGNER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310607-linguica-recheada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310607-linguica-recheada.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -36,5 +36,17 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "JAQUELINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311646-pao-caseiro-de-milho-da-jaque.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311646-pao-caseiro-de-milho-da-jaque.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -35,5 +35,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VALE FÉRTIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309525-lasanha-de-tomate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309525-lasanha-de-tomate.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

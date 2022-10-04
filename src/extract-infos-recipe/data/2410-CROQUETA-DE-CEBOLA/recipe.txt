@@ -37,5 +37,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "24 PORÇÕES",
   "autor": "KELLEN DAYANE AMÂNCIO BARBOZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305283-croqueta-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305283-croqueta-de-cebola.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -37,5 +37,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "RODRIGO OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307921-cuscuz-paulista-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307921-cuscuz-paulista-de-frango.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

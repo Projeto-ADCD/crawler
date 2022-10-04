@@ -35,5 +35,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DIZZY CESAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300468-moqueca-de-fato-bucho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300468-moqueca-de-fato-bucho.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -19,5 +19,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ANNA GIULIA ZUCCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307482-cocada-de-corte.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307482-cocada-de-corte.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

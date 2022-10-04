@@ -36,5 +36,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LE PABLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299989-macarrao-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299989-macarrao-com-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

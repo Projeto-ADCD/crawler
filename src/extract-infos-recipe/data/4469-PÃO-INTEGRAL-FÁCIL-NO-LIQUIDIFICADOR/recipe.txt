@@ -23,5 +23,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RODRIGO VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301038-pao-integral-facil-no-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301038-pao-integral-facil-no-liquidificador.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

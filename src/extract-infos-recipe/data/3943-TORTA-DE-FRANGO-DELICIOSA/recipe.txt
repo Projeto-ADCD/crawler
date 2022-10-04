@@ -53,5 +53,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SILMARA GONCALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302326-torta-de-frango-deliciosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302326-torta-de-frango-deliciosa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

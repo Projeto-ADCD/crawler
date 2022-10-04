@@ -29,5 +29,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "PALOMA RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303582-farofa-temperada-facil-de-fazer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303582-farofa-temperada-facil-de-fazer.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

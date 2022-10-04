@@ -32,5 +32,12 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ALINE MORAES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301282-sopa-de-ervilha-perfeita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301282-sopa-de-ervilha-perfeita.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

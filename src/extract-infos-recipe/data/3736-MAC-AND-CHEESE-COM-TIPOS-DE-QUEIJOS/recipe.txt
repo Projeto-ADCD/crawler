@@ -12,15 +12,10 @@
       "sal e pimenta-do-reino a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma tigela, misture o macarrão, o creme de leite fresco, a noz-moscada, o sal, a pimenta-do-reino, a cebola picada, o queijo parmesão e a muçarela ralados.",
-      "Coloque um refratário de vrido untado com manteiga e leve para o forno preaquecido a 180º C por 25 a 30 minutos, ou até que fique totalmente gratinado (sem ficar ressecado por dentro)",
-      "Sirva imediatamente."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "NILSON FARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302810-mac-and-cheese-com-2-tipos-de-queijos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302810-mac-and-cheese-com-2-tipos-de-queijos.html",
+  "tags": []
 }

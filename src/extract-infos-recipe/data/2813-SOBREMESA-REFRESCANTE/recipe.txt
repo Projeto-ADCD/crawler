@@ -12,21 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Leve ao fogo os morangos picados e o açúcar",
-      "Deixe até amolecer levemente até formar uma caldinha.",
-      "Desligue o fogo, acrescente a gelatina de morango dissolvida com 250 ml de água quente (não coloquei água fria) e mais 1 colher (sopa) de gelatina incolor hidratada e dissolvida no micro-ondas por 10 segundos.",
-      "Esperar esfriar.",
-      "Prepare a gelatina de abacaxi conforme instrução da embalagem, junte 1 colher (sopa) de gelatina incolor hidratada e dissolvida por 10 segundos no micro-ondas.",
-      "Despeje em uma forma de cone central, untada com óleo.",
-      "Esperar esfriar, leve ao freezer ou congelador e deixe por 15 minutos ou até ficar firme.",
-      "Retire do freezer e com cuidado, despeje os morangos com a gelatina.",
-      "Freezer novamente até ficar firme.",
-      "Por último, despeje a gelatina de limão dissolvida conforme instrução da embalagem e mais 1 colher (sopa) de gelatina incolor hidratada e dissolvida.",
-      "Deixar na geladeira até ficar firme (deixei de um dia para outro)"
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARIA F. N. VECHI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304376-sobremesa-refrescante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304376-sobremesa-refrescante.html",
+  "tags": []
 }

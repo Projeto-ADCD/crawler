@@ -22,5 +22,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "DENISE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300696-molho-barbecue-para-churrasco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300696-molho-barbecue-para-churrasco.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

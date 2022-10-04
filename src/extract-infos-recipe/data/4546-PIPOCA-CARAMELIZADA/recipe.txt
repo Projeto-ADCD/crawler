@@ -19,5 +19,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "THALIA ARIADNY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300889-pipoca-caramelizada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300889-pipoca-caramelizada.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

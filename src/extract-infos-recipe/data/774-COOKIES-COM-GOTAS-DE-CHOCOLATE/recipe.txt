@@ -31,5 +31,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "18 PORÇÕES",
   "autor": "ANA LUIZA COUTINHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311631-cookies-com-gotas-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311631-cookies-com-gotas-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

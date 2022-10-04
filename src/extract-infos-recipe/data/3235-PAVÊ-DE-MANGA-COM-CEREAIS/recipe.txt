@@ -27,5 +27,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "EMELLI KAUANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303677-pave-de-manga-com-cereais.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303677-pave-de-manga-com-cereais.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

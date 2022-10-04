@@ -23,5 +23,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUCAS MAGNO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300237-cookies-cachet-lucas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300237-cookies-cachet-lucas.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

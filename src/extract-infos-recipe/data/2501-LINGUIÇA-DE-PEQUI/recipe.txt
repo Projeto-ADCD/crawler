@@ -30,5 +30,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "SERGIO CICERO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305067-linguica-de-pequi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305067-linguica-de-pequi.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

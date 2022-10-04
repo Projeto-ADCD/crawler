@@ -43,5 +43,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310300-molho-de-tomate-do-chefao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310300-molho-de-tomate-do-chefao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

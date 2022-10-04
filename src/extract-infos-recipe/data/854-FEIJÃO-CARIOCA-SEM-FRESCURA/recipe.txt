@@ -25,5 +25,14 @@
   "tempo_de_preparo": "55 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "KAELY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311240-feijao-carioca-sem-frescura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311240-feijao-carioca-sem-frescura.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -12,13 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Misture bem todos os ingredientes.",
-      "Preaqueça a airfray a 200° C por 6 minutos",
-      "Deixe 8 minutos até dourar"
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUCIANA GOES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299872-cupcake-airfray.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299872-cupcake-airfray.html",
+  "tags": []
 }

@@ -25,5 +25,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "PEIXE SC",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311524-conchiglioni-recheado-com-surimi-e-pesto-de-rucula.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311524-conchiglioni-recheado-com-surimi-e-pesto-de-rucula.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

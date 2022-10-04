@@ -19,5 +19,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "HAYSA VELOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302084-baba-de-moca-para-recheio-de-bolo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302084-baba-de-moca-para-recheio-de-bolo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

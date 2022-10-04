@@ -23,5 +23,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "VERA LUCIA GUIMARAES CASABONA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303205-batata-corada-superfacil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303205-batata-corada-superfacil.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

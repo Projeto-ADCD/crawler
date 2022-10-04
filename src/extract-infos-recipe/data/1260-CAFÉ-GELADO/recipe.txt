@@ -16,5 +16,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309212-cafe-gelado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309212-cafe-gelado.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

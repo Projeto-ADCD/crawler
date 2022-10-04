@@ -19,5 +19,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316896-queijadinha-cremosa-de-travessa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316896-queijadinha-cremosa-de-travessa.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -41,5 +41,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "-31 PORÇÕES",
   "autor": "CONCETTA DI LEO BRITTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308914-lasanha-a-bolonhesa-marinada-no-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308914-lasanha-a-bolonhesa-marinada-no-leite.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

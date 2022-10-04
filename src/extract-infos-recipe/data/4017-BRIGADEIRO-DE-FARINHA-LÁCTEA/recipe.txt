@@ -18,5 +18,16 @@
   "tempo_de_preparo": "7 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "THALIA PIMENTEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302127-brigadeiro-de-farinha-lactea.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302127-brigadeiro-de-farinha-lactea.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

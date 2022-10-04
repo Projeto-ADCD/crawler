@@ -29,5 +29,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "TATIARA RAPHAEL SOARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300526-bala-de-coco-da-tati.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300526-bala-de-coco-da-tati.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

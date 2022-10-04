@@ -22,5 +22,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANA LUÍZA LIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301536-carne-de-soja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301536-carne-de-soja.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

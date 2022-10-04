@@ -33,5 +33,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "VICTÓRIA CECÍLIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308662-macarrao-de-pressao-express-da-vivi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308662-macarrao-de-pressao-express-da-vivi.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

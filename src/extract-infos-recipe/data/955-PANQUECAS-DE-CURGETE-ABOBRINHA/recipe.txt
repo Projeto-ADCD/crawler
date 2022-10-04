@@ -27,5 +27,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "MARIANA TEIXEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310745-panquecas-de-curgete-barra-abobrinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310745-panquecas-de-curgete-barra-abobrinha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

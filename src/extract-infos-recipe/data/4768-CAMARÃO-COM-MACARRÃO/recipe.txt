@@ -42,5 +42,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LARISSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300260-camarao-com-macarrao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300260-camarao-com-macarrao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

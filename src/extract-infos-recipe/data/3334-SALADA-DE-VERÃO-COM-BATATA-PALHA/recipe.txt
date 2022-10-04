@@ -28,5 +28,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SIRLENE CELINA WEBER SINKOC",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303540-salada-de-verao-com-batata-palha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303540-salada-de-verao-com-batata-palha.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

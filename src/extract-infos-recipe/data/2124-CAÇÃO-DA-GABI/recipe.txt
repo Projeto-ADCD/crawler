@@ -29,5 +29,14 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305953-cacao-da-gabi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305953-cacao-da-gabi.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

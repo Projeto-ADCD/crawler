@@ -23,5 +23,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "35 PORÇÕES",
   "autor": "ODELICIA CHAVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301120-beslicao-de-goiabada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301120-beslicao-de-goiabada.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

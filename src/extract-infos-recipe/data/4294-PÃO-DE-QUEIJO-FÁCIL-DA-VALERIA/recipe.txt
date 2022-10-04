@@ -21,5 +21,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "VALERIA NUMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301428-pao-de-queijo-facil-da-valeria.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301428-pao-de-queijo-facil-da-valeria.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -26,5 +26,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "PRISCILA GNANN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302236-panqueca-com-banana-e-canela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302236-panqueca-com-banana-e-canela.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

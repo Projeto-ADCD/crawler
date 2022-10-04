@@ -28,5 +28,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RAFAELA MATOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303082-lasanha-de-abobrinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303082-lasanha-de-abobrinha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

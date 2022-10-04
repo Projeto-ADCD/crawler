@@ -37,5 +37,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "KARINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308641-cupcake-tropical-com-suspiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308641-cupcake-tropical-com-suspiro.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

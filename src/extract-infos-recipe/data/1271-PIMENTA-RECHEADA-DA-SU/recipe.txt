@@ -27,5 +27,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "HIGOR LEONARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309174-pimenta-recheada-da-su.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309174-pimenta-recheada-da-su.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

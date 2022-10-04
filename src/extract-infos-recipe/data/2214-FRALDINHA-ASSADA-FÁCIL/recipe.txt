@@ -12,13 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Tempere a fraldinha com sal, chimichuri e coloque em uma refratário",
-      "Em seguida coloque as batatas partidas ao redor da fraldinha",
-      "E por último, espalhe a mostarda por cima",
-      "Leve ao forno coberto por um papel-alumínio."
+      ""
     ]
   },
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "EDER MARTINS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305701-fraldinha-assada-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305701-fraldinha-assada-facil.html",
+  "tags": []
 }

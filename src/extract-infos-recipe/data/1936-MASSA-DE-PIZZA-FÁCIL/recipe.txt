@@ -23,5 +23,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306372-massa-de-pizza-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306372-massa-de-pizza-facil.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

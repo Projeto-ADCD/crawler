@@ -39,5 +39,14 @@
   "tempo_de_preparo": "250 MIN",
   "rendimento": "24 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303790-bolinho-de-arroz-feijao-e-farofa-com-batata-palha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303790-bolinho-de-arroz-feijao-e-farofa-com-batata-palha.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

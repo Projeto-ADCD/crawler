@@ -26,5 +26,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TATY TRAVASSOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303315-salada-de-maionese-deliciosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303315-salada-de-maionese-deliciosa.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

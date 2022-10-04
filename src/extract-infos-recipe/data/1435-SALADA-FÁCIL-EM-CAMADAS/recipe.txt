@@ -27,5 +27,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ROSSANA SCHNEIDER ROLLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308352-salada-facil-em-camadas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308352-salada-facil-em-camadas.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

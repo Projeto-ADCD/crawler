@@ -27,5 +27,12 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "SIMONE JABER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312703-sopa-de-mandioquinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312703-sopa-de-mandioquinha.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

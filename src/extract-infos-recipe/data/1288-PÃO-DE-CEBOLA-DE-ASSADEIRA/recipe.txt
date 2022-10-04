@@ -26,5 +26,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "JANAINA VITÓRIA LAGO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309072-pao-de-cebola-de-assadeira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309072-pao-de-cebola-de-assadeira.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

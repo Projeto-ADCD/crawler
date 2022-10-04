@@ -36,5 +36,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PRIMOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312518-bolo-pe-de-moleque-com-cobertura-de-caramelo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312518-bolo-pe-de-moleque-com-cobertura-de-caramelo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

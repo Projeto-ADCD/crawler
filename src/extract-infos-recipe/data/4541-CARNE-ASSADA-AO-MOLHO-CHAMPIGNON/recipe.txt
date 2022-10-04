@@ -27,5 +27,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARCELA UEDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300897-carne-assada-ao-molho-champignon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300897-carne-assada-ao-molho-champignon.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

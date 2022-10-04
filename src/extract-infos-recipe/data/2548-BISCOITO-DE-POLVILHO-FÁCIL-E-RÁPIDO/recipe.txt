@@ -30,5 +30,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "80 PORÇÕES",
   "autor": "ROSANGELA NEVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304968-biscoito-de-polvilho-facil-e-rapido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304968-biscoito-de-polvilho-facil-e-rapido.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

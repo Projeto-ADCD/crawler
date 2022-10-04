@@ -27,5 +27,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "BÁRBARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311935-panqueca-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311935-panqueca-de-banana.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -29,5 +29,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "REINALDO BULHÕES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304526-maminha-com-cebolas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304526-maminha-com-cebolas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

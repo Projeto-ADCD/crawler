@@ -20,5 +20,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "ANA PAULA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304646-crepioca-da-ana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304646-crepioca-da-ana.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -21,31 +21,13 @@
     "PARA MONTAGEM": [
       "500 g de filés de camarões devidamente limpos",
       "300 g de presunto em cubos",
-      "200 g de brócolis cortado em flores menores.",
-      "1 lata de milho",
-      "1 colher (sopa) da misturinha",
-      "300 g de queijo mussarela",
-      "500 g de arroz branco ou agulhinha",
-      "azeite",
-      "sal",
-      "salsinha",
-      "batata palha para finalizar"
+      "200 g de brócolis cortado em flores menores."
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "No liquidificador: bata o leite, a farinha de trigo, a cebola e o alho.",
-      "Leve ao fogo, adicione os demais ingredientes exceto o creme se leite e siga mexendo até engrossar.Coloque o creme de leite, acerte o sal e reserve.",
-      "Faça o arroz como de costume e reserve.",
-      "Para misturinha: junte todos os ingredientes num mini processador ou pilão e deixe bem picadinho.",
-      "Salgue os filés de camarões.",
-      "Aqueça uma panela grande e coloque um fio generoso de azeite.Frite os filés de camarões juntamente com os cubos de presunto, o brócolis, o milho e 1 colher cheia da misturinha.Quando o camarão estiver rosadinho agregue o arroz, o molho e 150gr. de muçarela.Misture bem.",
-      "Coloque em um refratário e espalhe o restante do queijo muçarela por cima, polvilhe salsinha e leve para gratinar.",
-      "Finalize com batata palha ao redor e um tomatinho no meio para enfeitar."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JULIANA MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312492-camarao-poseidon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312492-camarao-poseidon.html",
+  "tags": []
 }

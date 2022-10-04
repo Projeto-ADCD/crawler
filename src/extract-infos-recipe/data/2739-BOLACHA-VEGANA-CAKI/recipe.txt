@@ -22,5 +22,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "CARLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304542-bolacha-vegana-caki.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304542-bolacha-vegana-caki.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

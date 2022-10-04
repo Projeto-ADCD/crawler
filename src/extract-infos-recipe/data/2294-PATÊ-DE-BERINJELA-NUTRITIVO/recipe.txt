@@ -28,5 +28,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "FATIMA CRISTINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305547-pate-de-berinjela-nutritivo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305547-pate-de-berinjela-nutritivo.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

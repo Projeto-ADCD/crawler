@@ -38,5 +38,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "PRIMOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312024-peixe-assado-com-legumes-e-molho-de-coentro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312024-peixe-assado-com-legumes-e-molho-de-coentro.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

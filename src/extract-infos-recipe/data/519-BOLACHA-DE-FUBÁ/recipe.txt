@@ -21,5 +21,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "26 PORÇÕES",
   "autor": "MARIA DE LOURDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312616-bolacha-de-fuba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312616-bolacha-de-fuba.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

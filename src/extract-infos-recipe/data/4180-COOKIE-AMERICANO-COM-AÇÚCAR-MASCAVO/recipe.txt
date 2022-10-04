@@ -26,5 +26,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "PEDRO FELIPE PAGOTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301655-cookie-americano-com-acucar-mascavo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301655-cookie-americano-com-acucar-mascavo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

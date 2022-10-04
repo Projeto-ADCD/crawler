@@ -19,5 +19,16 @@
   "tempo_de_preparo": "150 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ELIANE BROSEGHINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302822-sorvete-caseiro-com-gelatina-e-leite-condensado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302822-sorvete-caseiro-com-gelatina-e-leite-condensado.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -12,12 +12,12 @@
     "DEFAULT": [
       "Misture tudo e leve ao fogo alto mexendo sempre",
       "Quando ferver, abaixe o fogo e continue mexendo até atingir o ponto de cobertura (quando o líquido começa a engrossar)",
-      "Tire a panela do fogo e despeje sobre o bolo",
-      "Também pode esperar até ficar fria."
+      ""
     ]
   },
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "BRUNA ROMÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303850-calda-vulcao-de-chocolate-para-bolos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303850-calda-vulcao-de-chocolate-para-bolos.html",
+  "tags": []
 }

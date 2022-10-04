@@ -12,24 +12,10 @@
       "1/4 de pacotinho de gelatina sem sabor (incolor)"
     ]
   },
-  "passos": {
-    "MASSA": [
-      "Tire todos os recheios dos biscoitos.",
-      "Triture os biscoitos (já sem recheio) em um liquidificador ou processador até que fique uma \"farofa\".",
-      "Derreta a margarina no microondas.",
-      "Junte a margarina já derretida com a \"farofa\" de biscoitos até virar uma massa homogênea.",
-      "Despeje a massa em uma forma de fundo removível.",
-      "Com as mãos, espalhe a massa no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme.",
-      "Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos."
-    ],
-    "RECHEIO": [
-      "Bata o leite condensado, o creme de leite, a gelatina e o recheio dos biscoitos no liquidificador até obter um creme liso e firme.",
-      "Recheie a massa já assada e leve à geladeira até que fique firme.",
-      "Desenforme a torta e sirva."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "BABSHKO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309589-torta-de-bono-de-doce-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309589-torta-de-bono-de-doce-de-leite.html",
+  "tags": []
 }

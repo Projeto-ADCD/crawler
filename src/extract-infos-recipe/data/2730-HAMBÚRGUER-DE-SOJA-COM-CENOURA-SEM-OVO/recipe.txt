@@ -32,5 +32,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "AMANDA CRISTINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304561-hamburguer-de-soja-com-cenoura-sem-ovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304561-hamburguer-de-soja-com-cenoura-sem-ovo.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

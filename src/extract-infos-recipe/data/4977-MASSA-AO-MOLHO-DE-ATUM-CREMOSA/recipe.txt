@@ -24,5 +24,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299814-massa-ao-molho-de-atum-cremosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299814-massa-ao-molho-de-atum-cremosa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

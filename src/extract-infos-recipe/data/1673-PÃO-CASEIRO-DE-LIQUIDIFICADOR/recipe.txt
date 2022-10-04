@@ -25,5 +25,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "OCTAVIO XAVIER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307198-pao-caseiro-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307198-pao-caseiro-de-liquidificador.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

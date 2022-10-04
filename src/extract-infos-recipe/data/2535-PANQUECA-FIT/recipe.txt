@@ -22,5 +22,14 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "GIANCARLO GIANNOCCARO DO PRADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305000-panqueca-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305000-panqueca-fit.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

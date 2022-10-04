@@ -28,5 +28,17 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "REGINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301757-pao-de-mandioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301757-pao-de-mandioca.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

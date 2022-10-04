@@ -33,5 +33,15 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "KARLA DOS SANTOS MAYER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303859-farofa-especial-da-karla.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303859-farofa-especial-da-karla.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

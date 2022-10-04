@@ -26,5 +26,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "ANELIZE TELLES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304252-cookie-de-aveia-com-banana-da-ane.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304252-cookie-de-aveia-com-banana-da-ane.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

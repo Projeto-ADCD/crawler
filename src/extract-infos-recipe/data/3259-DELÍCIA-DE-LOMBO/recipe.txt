@@ -29,5 +29,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JOSÉ RICARDO FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303648-delicia-de-lombo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303648-delicia-de-lombo.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -13,23 +13,10 @@
       "2 e 1/2 colheres (sopa) de óleo vegetal"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque o frango, o alho triturado (o mais triturado possível, sem passar no liquidificador), o óleo na panela e mexa até o frango ficar meio douradinho.",
-      "Adicione metade da porção de shoyu e mexa até o shoyu secar metade do volume que foi posto na panela neste momento.",
-      "Adicione a cebola cortada em tiras e refogue um pouco (o suficiente para tirar a crocancia, acredito que 5 minutos) junto com o frango, em seguida, coloque o pimentão em tiras e refogue por mais 5 minutos, sem parar de mexer.",
-      "Adicione o milho e a 1/2 xícara (chá) de água, mexa em fogo alto por 5 minutos.",
-      "Adicione o tomate em tiras e em seguida o creme de leite, mexa em fogo médio até ficar cremoso.",
-      "O ponto da cremosidade fica a seu critério.",
-      "Prove se o sal (que já possui no shoyu adicionado anteriormente) está agradável ao seu paladar, caso precise de mais sal e o molho estiver muito claro, adicione lentamente o restante do shoyo até dar uma cor marrom clara, 2 tons antes do molho madeira.",
-      "Uma dica é sempre adicionar gradativamente metade da metade, da metade, da metade",
-      "Sempre provando o sal do prato a cada adição de shoyu.",
-      "Pode ser servido com arroz e batata palha.",
-      "Para os que gostam de massas, também fica ótimo para servir de complemento para spaghetti e fusilli."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FLAVIO OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303956-frango-americanes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303956-frango-americanes.html",
+  "tags": []
 }

@@ -12,17 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Em uma vasilha, junte todos os ingredientes e misture bem, sovando a massa até desgrudar da mão.",
-      "Deixe a massa descansar por 20 minutos, até que ela cresça cerca de 50% a mais do seu volume inicial.",
-      "Sove mais um pouco e deixe descansar por mais 5 minutos.",
-      "Unte duas formas redondas com margarina.",
-      "Abra a massa, uniformemente nas formas, e asse em forno pré-aquecido a 180 °C, por cerca de 20 minutos, ou até que a borda fique dourada.",
-      "Retire do forno e acrescente o recheio de sua preferência.",
-      "Retorne a pizza ao forno e asse por mais 5 minutos, ou até o queijo derreter."
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "GIZELE ALMEIDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313595-massa-de-pizza-facil-e-gostosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313595-massa-de-pizza-facil-e-gostosa.html",
+  "tags": []
 }

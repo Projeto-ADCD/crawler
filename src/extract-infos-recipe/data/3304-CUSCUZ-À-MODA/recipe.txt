@@ -35,5 +35,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "DENIZE NAPIER PEREIRA DE OLIVEIRA SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303585-cuscuz-a-moda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303585-cuscuz-a-moda.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

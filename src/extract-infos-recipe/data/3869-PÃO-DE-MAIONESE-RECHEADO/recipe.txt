@@ -35,5 +35,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARQUES SANTOS DELASVEGAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302466-pao-de-maionese-recheado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302466-pao-de-maionese-recheado.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

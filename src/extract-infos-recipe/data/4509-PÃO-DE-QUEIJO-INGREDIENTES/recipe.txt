@@ -19,5 +19,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ALE BOLIVAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300960-pao-de-queijo-4-ingredientes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300960-pao-de-queijo-4-ingredientes.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

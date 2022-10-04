@@ -38,5 +38,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LUIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301258-caldeirada-de-tilapia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301258-caldeirada-de-tilapia.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

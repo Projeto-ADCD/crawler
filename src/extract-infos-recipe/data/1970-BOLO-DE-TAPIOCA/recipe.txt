@@ -12,12 +12,12 @@
     "DEFAULT": [
       "Misture a tapioca e o açúcar em uma refratária",
       "Ferva o leite e leite de coco, espere esfriar e adicione à tapioca misturando aos poucos",
-      "Depois de esfriar e leve á geladeira por duas horas",
-      "Sirva com coco ralado e leite condensado"
+      ""
     ]
   },
   "tempo_de_preparo": "60 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "JORGE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306311-bolo-de-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306311-bolo-de-tapioca.html",
+  "tags": []
 }

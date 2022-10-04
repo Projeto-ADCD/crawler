@@ -52,5 +52,15 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JOHANNA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299750-bolo-de-leite-em-po-com-chocolate-branco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299750-bolo-de-leite-em-po-com-chocolate-branco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

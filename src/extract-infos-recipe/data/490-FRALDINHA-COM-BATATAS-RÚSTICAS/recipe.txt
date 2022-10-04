@@ -25,5 +25,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LAMARCK DIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312690-fraldinha-com-batatas-rusticas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312690-fraldinha-com-batatas-rusticas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "LAÍS MEDEIROS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309368-bruaca-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309368-bruaca-de-banana.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

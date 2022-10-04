@@ -24,5 +24,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CHEF JOSELY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305827-batata-recheada-no-capricho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305827-batata-recheada-no-capricho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

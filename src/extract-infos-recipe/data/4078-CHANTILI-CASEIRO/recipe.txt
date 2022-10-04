@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "INGRID MESTRINHO PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301938-chantili-caseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301938-chantili-caseiro.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -22,5 +22,14 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RECEITAS DA MAMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307552-ratatouille.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307552-ratatouille.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

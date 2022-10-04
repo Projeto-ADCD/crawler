@@ -23,5 +23,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ELAINE VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303991-farofa-tropical-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303991-farofa-tropical-doce.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

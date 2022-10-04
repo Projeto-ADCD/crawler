@@ -37,5 +37,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANDREZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300085-nhoque-facil-da-andreza.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300085-nhoque-facil-da-andreza.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

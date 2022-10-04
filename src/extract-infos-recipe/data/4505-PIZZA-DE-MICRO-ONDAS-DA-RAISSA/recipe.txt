@@ -21,5 +21,17 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "RAISSA CHINELATO MATTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300965-pizza-de-micro-ondas-da-raissa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300965-pizza-de-micro-ondas-da-raissa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -31,5 +31,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "SAMUEL SILVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313897-lagarto-na-cerveja-caracu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313897-lagarto-na-cerveja-caracu.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

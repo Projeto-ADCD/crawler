@@ -25,19 +25,12 @@
       "Leve ao forno preaquecido a 180° C por 20 minutos ",
       "Enquanto isso, coloque a goiabada cortada em pedaços em uma panela ",
       "Junte a água e misture",
-      "Deixe ferver e criar uma calda mais homogênea, desligue o fogo e reserve ",
-      "Despeje a calda por cima do pão de ló e separe 1/2 xícara para a cobertura",
-      "Com a ajuda do papel, enrole o bolo e forme um rocambole",
-      "Leve à geladeira por 15 minutos ",
-      "Enquanto isso, bata o creme de leite fresco e junte o açúcar de confeiteiro e o cream cheese",
-      "Misture tudo bem e junte a 1/2 xícara do recheio reservado ",
-      "Retire o rocambole da geladeira e corte em pedaços médios",
-      "Em uma forma forrada com papel-filme, coloque os pedaços de rocambole e despeje a cobertura por cima",
-      "Leve à geladeira e sirva!"
+      ""
     ]
   },
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310174-rocambolo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310174-rocambolo.html",
+  "tags": []
 }

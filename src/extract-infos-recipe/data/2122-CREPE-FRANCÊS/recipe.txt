@@ -20,5 +20,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "VITORIA BANDEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305956-crepe-frances.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305956-crepe-frances.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

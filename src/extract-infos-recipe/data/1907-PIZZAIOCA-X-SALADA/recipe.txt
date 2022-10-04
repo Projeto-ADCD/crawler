@@ -31,5 +31,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LIVIA ELENA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306478-pizzaioca-x-salada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306478-pizzaioca-x-salada.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

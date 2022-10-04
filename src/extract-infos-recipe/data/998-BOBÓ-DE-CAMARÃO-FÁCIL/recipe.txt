@@ -39,5 +39,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LIMBO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310557-bobo-de-camarao-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310557-bobo-de-camarao-facil.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -37,5 +37,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARCELO MENDONÇA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306453-delicia-de-berinjela-com-repolho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306453-delicia-de-berinjela-com-repolho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

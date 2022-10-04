@@ -20,5 +20,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ADRIANA MANSUR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305638-batata-gratinada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305638-batata-gratinada.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

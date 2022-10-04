@@ -32,5 +32,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LOWCUCAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303880-bolo-de-iogurte-com-cobertura-de-creme-de-avela-zero-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303880-bolo-de-iogurte-com-cobertura-de-creme-de-avela-zero-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

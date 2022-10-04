@@ -19,5 +19,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "PAMELA NAKANO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304396-sour-cream.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304396-sour-cream.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

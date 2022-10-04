@@ -23,5 +23,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "GRAZIELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303288-pao-de-alho-simples-e-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303288-pao-de-alho-simples-e-delicioso.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

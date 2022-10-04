@@ -27,5 +27,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUCIO CEZAR.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302397-farofa-de-jilo-com-bacon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302397-farofa-de-jilo-com-bacon.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

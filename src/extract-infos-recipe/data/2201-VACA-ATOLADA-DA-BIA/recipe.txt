@@ -35,5 +35,16 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BIA MACEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305729-vaca-atolada-da-bia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305729-vaca-atolada-da-bia.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

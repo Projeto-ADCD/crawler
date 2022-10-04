@@ -11,24 +11,10 @@
       "3 cenouras médias"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Cloque o peito de frango para cozinhar apenas com tempeiros seco",
-      "Depois de cozido, em uma vasilha desfie o frango, de preferência que fique desfiado bem pequeno",
-      "Rale as cenouras e a cebola em vasilhas separadas, e o coentro corte bem pequeno.",
-      "Agora chegou a hora de juntar todos os ingredientes.",
-      "Em uma vasilha média, coloque o frango desfiado, as cenouras e cebola raladas , o coentro cortado e adicione o requeijão cremoso light e a maionese light",
-      "Junte 1/2 colher de salsa.",
-      "Misture todos os ingredientes até ficar em uma consistência cremosa",
-      "Mantenha na geladeira para ficar em uma boa temperatura e está pronto para servir.",
-      "Se desejar, acrescente 1/2 colher de azeite."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "obs: o patê conservado na geladeira pode estar bom para o consumo até para 3 dias.\n "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "MARIA QUELLIANE LIMA SANTANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304628-pate-de-frango-com-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304628-pate-de-frango-com-cenoura.html",
+  "tags": []
 }

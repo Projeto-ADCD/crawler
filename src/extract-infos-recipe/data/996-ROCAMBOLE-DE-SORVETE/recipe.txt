@@ -26,5 +26,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310575-rocambole-de-sorvete.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310575-rocambole-de-sorvete.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -50,5 +50,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SEARA GOURMET",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305812-lombo-barbecue-com-farofa-de-frutas-e-espinafre-frito.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305812-lombo-barbecue-com-farofa-de-frutas-e-espinafre-frito.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

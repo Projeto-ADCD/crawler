@@ -34,5 +34,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303942-farofa-vegetariana-de-natal.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303942-farofa-vegetariana-de-natal.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

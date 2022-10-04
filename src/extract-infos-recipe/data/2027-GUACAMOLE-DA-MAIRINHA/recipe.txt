@@ -27,5 +27,14 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MAIRA ZANETTI DA FONSECA BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306168-guacamole-da-mairinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306168-guacamole-da-mairinha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

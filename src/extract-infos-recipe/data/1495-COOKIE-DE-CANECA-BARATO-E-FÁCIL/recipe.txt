@@ -27,5 +27,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MELISSA FRANÇA GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308033-cookie-de-caneca-barato-e-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308033-cookie-de-caneca-barato-e-facil.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

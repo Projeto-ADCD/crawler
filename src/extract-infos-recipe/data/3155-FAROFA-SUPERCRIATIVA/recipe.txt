@@ -26,5 +26,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "KATIA SOARES DA COSTA CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303804-farofa-supercriativa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303804-farofa-supercriativa.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

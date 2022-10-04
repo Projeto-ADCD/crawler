@@ -26,5 +26,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SERGIO COELHO RECEITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300762-carne-de-panela-com-batata-do-sergio.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300762-carne-de-panela-com-batata-do-sergio.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

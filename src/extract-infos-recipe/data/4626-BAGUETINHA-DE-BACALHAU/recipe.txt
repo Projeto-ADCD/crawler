@@ -15,20 +15,10 @@
       "100 gramas de queijo parmesão ralado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma tigela grande coloque a farinha, o fermento, o sal, o açúcar e a manteiga.",
-      "Vai colocando a água aos poucos, amassando até desgrudar da tigela.",
-      "Deixe descansar 30 minutos.",
-      "Faça umas bolinhas.",
-      "Em uma forma, coloque as bolinhas, deixe descansar 30 minutos e cubra com um pano limpo.",
-      "Com um rolo, estique a massa, coloque uma porção de bacaçhau e uma de catupiriy e enrole.",
-      "Pincele a gema e polvilhe o queijo parmesão.",
-      "Leve ao forno por 45 minutos, mais ou menos, ou até ficarem douradas."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SERGIO COELHO RECEITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300705-baguetinha-de-bacalhau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300705-baguetinha-de-bacalhau.html",
+  "tags": []
 }

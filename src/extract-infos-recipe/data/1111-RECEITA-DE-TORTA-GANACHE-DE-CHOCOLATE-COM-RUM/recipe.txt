@@ -33,5 +33,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "YAMASHITA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309828-receita-de-torta-ganache-de-chocolate-com-rum.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309828-receita-de-torta-ganache-de-chocolate-com-rum.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

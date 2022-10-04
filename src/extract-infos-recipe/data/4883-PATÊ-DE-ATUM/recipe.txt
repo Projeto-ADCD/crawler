@@ -21,5 +21,15 @@
   "tempo_de_preparo": "7 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "HEITOR_PORTIOLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300018-pate-de-atum.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300018-pate-de-atum.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

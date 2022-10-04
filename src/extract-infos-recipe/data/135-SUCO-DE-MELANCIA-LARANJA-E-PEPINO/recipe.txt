@@ -1,0 +1,21 @@
+{
+  "nome_receita": "SUCO DE MELANCIA, LARANJA E PEPINO",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 fatia M de melancia",
+      "Suco de 2 laranjas",
+      "3 rodelas P de pepino",
+      "100 ml de água ou água de coco"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata todos os ingredientes no liquidificador e consuma imediatamente."
+    ]
+  },
+  "tempo_de_preparo": "10 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314282-suco-de-melancia-laranja-e-pepino.html",
+  "tags": []
+}

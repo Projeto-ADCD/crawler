@@ -31,5 +31,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CRISTIANO GRILLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311676-moqueca-de-peixe-by-cristiano-grillo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311676-moqueca-de-peixe-by-cristiano-grillo.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

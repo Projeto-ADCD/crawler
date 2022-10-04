@@ -11,18 +11,10 @@
       "melado a gosto para regar"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Corte a banana em 4 fatias no sentido longitudinal e regue com o sumo de limão.",
-      "Em uma frigideira antiaderente, misture a Margarina Delícia e o melado.",
-      "Grelhe as fatias de banana até dourarem.",
-      "Prepare as tapiocas e na metade de cada uma, acomode 3 fatias de banana, por cima uma camada de queijo coalho e dobre.",
-      "Deixe alguns segundos ainda na frigideira para esquentar o queijo.",
-      "Por cima espalhe um pouco de Margarina Delícia e regue com o melado."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "DELÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312575-tapioca-de-banana-da-terra-com-melado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312575-tapioca-de-banana-da-terra-com-melado.html",
+  "tags": []
 }

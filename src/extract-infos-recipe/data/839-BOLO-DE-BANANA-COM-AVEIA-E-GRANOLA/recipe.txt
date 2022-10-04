@@ -22,5 +22,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "ANA CAROLINA BRANDÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311346-bolo-de-banana-com-aveia-e-granola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311346-bolo-de-banana-com-aveia-e-granola.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

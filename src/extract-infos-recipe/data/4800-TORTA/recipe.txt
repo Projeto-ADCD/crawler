@@ -35,5 +35,14 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TALITA VL ROCHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300210-torta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300210-torta.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -31,5 +31,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "MONIQUE KAPPLER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304599-hamburguer-de-brocolis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304599-hamburguer-de-brocolis.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

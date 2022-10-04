@@ -15,5 +15,14 @@
   "tempo_de_preparo": "8 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MATEUS SANTUZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304328-vitamina-de-mamao-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304328-vitamina-de-mamao-fit.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

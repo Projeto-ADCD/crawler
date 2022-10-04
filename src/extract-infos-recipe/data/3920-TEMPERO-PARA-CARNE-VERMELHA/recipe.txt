@@ -19,5 +19,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "COZINHA PRÁTICA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302375-tempero-para-carne-vermelha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302375-tempero-para-carne-vermelha.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

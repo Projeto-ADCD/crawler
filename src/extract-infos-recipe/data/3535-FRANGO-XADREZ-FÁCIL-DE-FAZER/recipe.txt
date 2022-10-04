@@ -35,5 +35,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ALINE IBAÑEZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303184-frango-xadrez-facil-de-fazer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303184-frango-xadrez-facil-de-fazer.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

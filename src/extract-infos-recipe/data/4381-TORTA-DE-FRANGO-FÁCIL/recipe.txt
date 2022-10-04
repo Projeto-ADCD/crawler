@@ -35,5 +35,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301268-torta-de-frango-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301268-torta-de-frango-facil.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

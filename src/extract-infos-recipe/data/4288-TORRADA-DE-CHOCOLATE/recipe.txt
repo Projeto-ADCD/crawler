@@ -22,5 +22,16 @@
   "tempo_de_preparo": "7 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MIRELLA MOREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301457-torrada-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301457-torrada-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

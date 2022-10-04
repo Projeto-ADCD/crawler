@@ -26,5 +26,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "BITA PARANHOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305815-bolinho-de-forno-de-batata-doce-e-proteina-de-soja-com-aveia-e-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305815-bolinho-de-forno-de-batata-doce-e-proteina-de-soja-com-aveia-e-tapioca.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

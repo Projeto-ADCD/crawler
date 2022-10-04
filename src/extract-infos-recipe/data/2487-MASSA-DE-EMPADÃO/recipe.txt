@@ -33,5 +33,17 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "O RESTAURANTE NO FIM DO UNIVERSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305092-massa-de-empadao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305092-massa-de-empadao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -33,5 +33,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "0 PORÇÕES",
   "autor": "ALINE CAZAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306335-torta-de-escarola-com-sardinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306335-torta-de-escarola-com-sardinha.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

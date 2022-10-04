@@ -16,5 +16,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "DÉBORA ROCHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313194-smoothie-proteico-de-maracuja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313194-smoothie-proteico-de-maracuja.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

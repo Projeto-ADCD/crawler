@@ -11,23 +11,10 @@
       "1 colher (sopa) de amido de milho"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Abra os dois pacotes de bolacha e separe 4 bolachas para colocar sobre o pavê no final.",
-      "Das outras bolachas, separe o recheio do biscoito, quebre grosseiramente os biscoitos e reserve.",
-      "Em uma panela, coloque o leite condensado, o amido de milho diluido no leite, as gemas, ligue o fogo e mexa até engrossar (não pare de mexer, pois e fácil grudar no fundo da panela e empelotar o creme)",
-      "Depois de ferver, adicione o recheio das bolachas e logo após a nata",
-      "Continue mexendo por mais dois minutos e coloque em um refratario",
-      "Cubra com papel-filme tocando bem a superficie e leve ao refrigerador por 20 minutos.",
-      "Enquanto isso, prepare a ganache que vai por cima: pique o chocolate em uma tigela e coloque 100 ml de creme de leite",
-      "Coloque no micro-ondas e derreta de 30 em 30 segundos.",
-      "Montagem",
-      "Coloque metade das bolachas picadas no fundo da forma, cubra com o creme brando e coloque a outra metade das bolachas trituradas",
-      "Cubra com a ganache, quebre as 4 bolachas separadas no inicio e coloque por cima."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "BRUNA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300888-pave-de-oreo-da-bruna.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300888-pave-de-oreo-da-bruna.html",
+  "tags": []
 }

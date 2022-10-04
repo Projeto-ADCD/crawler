@@ -24,5 +24,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303943-farofa-orai-por-nos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303943-farofa-orai-por-nos.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

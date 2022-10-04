@@ -23,5 +23,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "RODRIGO OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311591-nugget-cheio-de-nutrientes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311591-nugget-cheio-de-nutrientes.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -32,5 +32,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "35 PORÇÕES",
   "autor": "KAIUNE HECHT MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302324-feijao-amigo-da-marisete.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302324-feijao-amigo-da-marisete.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

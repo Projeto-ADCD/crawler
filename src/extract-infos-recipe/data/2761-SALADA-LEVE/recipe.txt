@@ -30,5 +30,15 @@
   "tempo_de_preparo": "-10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LUANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304486-salada-leve.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304486-salada-leve.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

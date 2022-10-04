@@ -28,5 +28,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUCIANA JAISON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299824-bolo-de-banana-sem-trigo-acucar-e-manteiga.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299824-bolo-de-banana-sem-trigo-acucar-e-manteiga.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

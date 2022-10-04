@@ -28,5 +28,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BEM BRASIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312869-picadinho-com-batata-frita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312869-picadinho-com-batata-frita.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

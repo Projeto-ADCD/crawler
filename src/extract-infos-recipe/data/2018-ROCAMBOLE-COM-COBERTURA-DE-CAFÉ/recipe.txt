@@ -39,5 +39,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CARINA DE SOUSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306184-rocambole-com-cobertura-de-cafe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306184-rocambole-com-cobertura-de-cafe.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -27,5 +27,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "MITIANE DORNELES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306217-violinha-a-milanesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306217-violinha-a-milanesa.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

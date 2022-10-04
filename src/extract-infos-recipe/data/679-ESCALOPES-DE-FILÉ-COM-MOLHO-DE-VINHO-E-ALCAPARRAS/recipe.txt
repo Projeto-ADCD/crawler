@@ -23,5 +23,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BECEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312050-escalopes-de-file-com-molho-de-vinho-e-alcaparras.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312050-escalopes-de-file-com-molho-de-vinho-e-alcaparras.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

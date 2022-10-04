@@ -40,5 +40,13 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303470-churros-recheado-de-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303470-churros-recheado-de-leite-ninho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO"
+  ]
 }

@@ -17,21 +17,10 @@
       "chocolate granulado a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Preaqueça o forno a 180° C",
-      "Num bowl ou recipiente grande, coloque os ovos, o açúcar, o óleo e o achocolatado e misture bem.",
-      "Adicione o leite e misture bem.",
-      "Coloque a farinha de trigo e misture bem.",
-      "Coloque o fermento e misture.",
-      "Coloque a mistura numa forma redonda ou retangular untada e enfarinhada não muito grande e leve ao forno por 35 a 40 minutos, Faça o teste do palito.",
-      "Retire do forno e corte em pedaços que serão servidos mas deixe na forma.",
-      "Faça a cobertura colocando os ingredientes numa panela e leve ao fogo baixo, mexendo sempre até ficar homogêneo.",
-      "Coloque ainda quente por cima do bolo, deixe esfriar um pouco e polvilhe o chocolate granulado."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "LUIS ROSSI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307943-bolo-de-chocolate-com-cobertura-de-morango-facil-e-sem-liquidificador-e-batedeira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307943-bolo-de-chocolate-com-cobertura-de-morango-facil-e-sem-liquidificador-e-batedeira.html",
+  "tags": []
 }

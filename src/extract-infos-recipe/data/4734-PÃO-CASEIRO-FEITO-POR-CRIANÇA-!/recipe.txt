@@ -25,5 +25,17 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "-7 PORÇÕES",
   "autor": "YASMIN LIMA MORENO DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300336-pao-caseiro-feito-por-crianca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300336-pao-caseiro-feito-por-crianca.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

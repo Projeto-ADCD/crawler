@@ -17,5 +17,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RAIANE FRANCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300264-sorvete.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300264-sorvete.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

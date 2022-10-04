@@ -23,5 +23,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "NATHALI MAYARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300917-bolo-de-kefir-e-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300917-bolo-de-kefir-e-coco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

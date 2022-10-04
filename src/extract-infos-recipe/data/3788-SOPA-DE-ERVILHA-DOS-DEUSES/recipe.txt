@@ -28,5 +28,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "PRISCILA GUIMARAES SENDAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302683-sopa-de-ervilha-dos-deuses.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302683-sopa-de-ervilha-dos-deuses.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

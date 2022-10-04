@@ -29,5 +29,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "LUIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305890-bolo-do-lu-iogurte-com-farinha-de-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305890-bolo-do-lu-iogurte-com-farinha-de-coco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

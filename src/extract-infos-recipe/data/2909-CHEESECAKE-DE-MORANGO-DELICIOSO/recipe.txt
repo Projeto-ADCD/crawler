@@ -46,5 +46,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "WILLIAMSELAU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304165-cheesecake-de-morango-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304165-cheesecake-de-morango-delicioso.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -45,5 +45,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LEUDA M.V.XAVIER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302593-sanduiche-de-travessa-de-frango-e-catupiri.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302593-sanduiche-de-travessa-de-frango-e-catupiri.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

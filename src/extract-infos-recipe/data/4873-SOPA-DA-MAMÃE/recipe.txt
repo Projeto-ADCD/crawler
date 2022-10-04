@@ -26,5 +26,12 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MICHELLI.SEIXAS@HOTMAIL.COM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300037-sopa-da-mamae.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300037-sopa-da-mamae.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

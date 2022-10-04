@@ -23,5 +23,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "WILLIAM SARZI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302549-bolinho-de-arroz-com-tomate-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302549-bolinho-de-arroz-com-tomate-facil.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

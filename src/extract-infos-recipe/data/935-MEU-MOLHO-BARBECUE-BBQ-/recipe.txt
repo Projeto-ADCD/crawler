@@ -27,5 +27,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LAURA FERNANDA DOS S.M.D",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310846-meu-molho-barbecue-bbq.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310846-meu-molho-barbecue-bbq.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

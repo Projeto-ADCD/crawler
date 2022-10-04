@@ -35,5 +35,14 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "RITA CARLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310898-pao-de-iogurte-e-graos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310898-pao-de-iogurte-e-graos.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

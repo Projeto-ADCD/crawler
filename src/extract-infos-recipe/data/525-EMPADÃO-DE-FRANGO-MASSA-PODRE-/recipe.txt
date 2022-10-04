@@ -62,5 +62,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARCOS AURÉLIO SOUZA CASTRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312606-empadao-de-frango-massa-podre.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312606-empadao-de-frango-massa-podre.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

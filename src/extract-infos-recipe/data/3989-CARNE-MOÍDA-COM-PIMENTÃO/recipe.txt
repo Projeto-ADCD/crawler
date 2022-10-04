@@ -30,5 +30,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "RAFEELA PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302242-carne-moida-com-pimentao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302242-carne-moida-com-pimentao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

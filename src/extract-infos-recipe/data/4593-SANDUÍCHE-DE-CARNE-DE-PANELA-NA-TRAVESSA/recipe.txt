@@ -31,5 +31,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VIVIAN CAROLINA PINTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300778-sanduiche-de-carne-de-panela-na-travessa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300778-sanduiche-de-carne-de-panela-na-travessa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

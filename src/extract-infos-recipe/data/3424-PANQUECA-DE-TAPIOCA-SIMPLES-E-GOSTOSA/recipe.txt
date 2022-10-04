@@ -23,5 +23,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "AMANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303393-panqueca-de-tapioca-simples-e-gostosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303393-panqueca-de-tapioca-simples-e-gostosa.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

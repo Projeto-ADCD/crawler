@@ -41,5 +41,8 @@
   "tempo_de_preparo": "265 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MANUELA VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313624-torta-leve-de-damasco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313624-torta-leve-de-damasco.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

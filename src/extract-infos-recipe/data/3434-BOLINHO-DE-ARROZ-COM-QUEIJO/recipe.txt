@@ -21,5 +21,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "JACIRA MARIA BARBOSA DA SILVA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303374-bolinho-de-arroz-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303374-bolinho-de-arroz-com-queijo.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

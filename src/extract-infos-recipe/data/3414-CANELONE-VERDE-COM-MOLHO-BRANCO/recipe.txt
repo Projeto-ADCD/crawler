@@ -16,24 +16,10 @@
       "1 cebola pequena cortada em cubos"
     ]
   },
-  "passos": {
-    "CANELONE": [
-      "No liquidificador coloque a couve levemente cortada, a ricota cortada em cubos, acrescente as ervas, a pimenta e o sal a gosto",
-      "Bata tudo até ficar uma pasta",
-      "Abra a massa de pastel, passe a pasta verde (couve com ricota) e corte em tiras de 6 cm (três dedos), formando os canelones",
-      "Faça isso com toda a massa",
-      "Coloque em um refratário de aproximadamente 35 cm"
-    ],
-    "MOLHO BRANCO": [
-      "Corte a cebola em cubos, em uma panela coloque a margarina e frite a cebola até dourar, acrescente o trigo e mexa, aos poucos coloque o leite",
-      "Coloque sal a gosto",
-      "Mexa até o molho homogeneizar, espere o ponto e desligue",
-      "Coloque o molho em cima dos canelones no refratário e leve ao fogo por média 30 a 40 minutos",
-      "Sirva quente!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PAOLA FERREIRA MASSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303413-canelone-verde-com-molho-branco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303413-canelone-verde-com-molho-branco.html",
+  "tags": []
 }

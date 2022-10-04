@@ -25,5 +25,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "CAROLINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300305-doce-trufado-de-uva-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300305-doce-trufado-de-uva-verde.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

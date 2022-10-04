@@ -37,5 +37,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "PRISCILA CARRIEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308434-bolo-de-banana-com-cobertura-de-brigadeiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308434-bolo-de-banana-com-cobertura-de-brigadeiro.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

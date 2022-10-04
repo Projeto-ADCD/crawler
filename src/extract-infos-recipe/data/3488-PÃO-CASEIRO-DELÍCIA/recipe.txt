@@ -26,5 +26,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "MACIEL GOMES SOUSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303259-pao-caseiro-delicia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303259-pao-caseiro-delicia.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

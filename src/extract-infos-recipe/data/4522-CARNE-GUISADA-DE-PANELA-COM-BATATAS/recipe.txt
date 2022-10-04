@@ -17,22 +17,10 @@
       "sal a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Corte todos os temperos em pequenos cubinhos",
-      "Corte a carne em cubos",
-      "Lave a carne com um pouco de vinagre",
-      "Em uma panela de pressão, misture todos os temperos a mão",
-      "Adicione o colorau, o óleo e o sal a gosto",
-      "Refogue por 8 minutos e coloque o caldo de carne",
-      "Adicione água até cobrir a carne e feche a panela",
-      "Deixe cozinhar por 20 minutos depois que a panela pegar pressão",
-      "Acrescente a batata e o molho shoyu",
-      "Feche a panela por mais 10 minutos e, após, deixe a quantidade de molho que desejar"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JACQUELINE PÂMELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300944-carne-guisada-de-panela-com-batatas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300944-carne-guisada-de-panela-com-batatas.html",
+  "tags": []
 }

@@ -21,5 +21,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "500 PORÇÕES",
   "autor": "EDY OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303827-pate-de-salsicha-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303827-pate-de-salsicha-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

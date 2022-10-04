@@ -25,5 +25,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DUDA ISPER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300926-arroz-de-braga.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300926-arroz-de-braga.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

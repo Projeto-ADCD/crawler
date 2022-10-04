@@ -26,5 +26,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "ADRIANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306310-pao-bolo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306310-pao-bolo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

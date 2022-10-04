@@ -36,5 +36,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "PATRICIA RANIELLY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301169-macarrao-ao-creme-de-milho-com-sardinha-e-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301169-macarrao-ao-creme-de-milho-com-sardinha-e-banana.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

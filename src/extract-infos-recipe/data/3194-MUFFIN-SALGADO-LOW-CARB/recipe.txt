@@ -15,26 +15,10 @@
       "gergelim a gosto (opcional) "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Preaqueça o forno a 180°C",
-      "Em uma tigela, misture os ingredientes secos (farinha de amêndoas, fermento em pó, sal e temperos)",
-      "Adicione o leite de amêndoas (ou o creme de ricota ou água) e os ovos, mexa bem até ficar uniforme",
-      "Em seguida, acrescente o queijo (não tudo, reserve um pouco), o peito de peru, as azeitonas e o amendoim ou castanhas, misture bem",
-      "Coloque os moldes de papel em forminhas de formato de muffin (empada)",
-      "Preencha 2/3 dos moldes com a massa",
-      "Decore com um pouco de queijo e gergelim (opcional)",
-      "Asse por 15 minutos ou até que a parte superior fique dourado",
-      "Retire do forno e deixe esfriar por 10 minutos",
-      "Caso precise, passe uma faca ao redor dos muffins para desenformar",
-      "Aproveite! "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Receita enviada por Sheila Reinaldo Sousa Rocha"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "25 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303755-muffin-salgado-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303755-muffin-salgado-low-carb.html",
+  "tags": []
 }

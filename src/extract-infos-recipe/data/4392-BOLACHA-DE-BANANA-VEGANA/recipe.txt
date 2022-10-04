@@ -23,5 +23,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "CAMILA_SILLVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301242-bolacha-de-banana-vegana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301242-bolacha-de-banana-vegana.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

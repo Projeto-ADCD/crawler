@@ -22,5 +22,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TIAGO SOARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304112-caipirinha-de-maracuja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304112-caipirinha-de-maracuja.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

@@ -27,5 +27,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FABIANA TOVANI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307276-pao-de-queijo-vegano-de-batata-doce-roxa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307276-pao-de-queijo-vegano-de-batata-doce-roxa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

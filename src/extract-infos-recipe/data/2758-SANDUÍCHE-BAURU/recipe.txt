@@ -29,5 +29,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304496-sanduiche-bauru.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304496-sanduiche-bauru.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

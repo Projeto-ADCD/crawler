@@ -39,5 +39,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CHEF JULIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308590-linguica-cuiabana-de-picanha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308590-linguica-cuiabana-de-picanha.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

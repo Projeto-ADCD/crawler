@@ -12,14 +12,12 @@
     "DEFAULT": [
       "Bata as claras até virar neve(pode ser na batedeira)",
       "Misture com o trigo e bater na mão (usar uma colher, espátula ou misturador)",
-      "Misture o açúcar e a manteiga derretida (continue batendo à mão até a massa ficar homogénea);",
-      "Coloque (com o auxílio de uma concha) várias bolinhas em uma forma virada ao contrário e espalhe para virar uma massa bem fina",
-      "Leve ao forno preaquecido a 200° C de 7a 10 minutos.",
-      "Espero que goste"
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "GEAN MIQUELASSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305731-biju-crocante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305731-biju-crocante.html",
+  "tags": []
 }

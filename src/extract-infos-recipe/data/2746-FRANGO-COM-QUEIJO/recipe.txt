@@ -25,5 +25,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JOSIANE BARROS GONCALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304533-frango-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304533-frango-com-queijo.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

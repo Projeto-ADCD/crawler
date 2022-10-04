@@ -27,5 +27,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ANA PAULA PINTO BASTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299730-quibe-recheado-com-tortilhas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299730-quibe-recheado-com-tortilhas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

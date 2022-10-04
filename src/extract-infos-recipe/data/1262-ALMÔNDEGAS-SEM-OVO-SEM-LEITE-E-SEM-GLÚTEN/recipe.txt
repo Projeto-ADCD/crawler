@@ -23,5 +23,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "PRISCILA GOULART DOS SANTOS FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309210-almondegas-sem-ovo-sem-leite-e-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309210-almondegas-sem-ovo-sem-leite-e-sem-gluten.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -30,5 +30,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "THAÍS BRAGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305773-pastel-assado-de-atum-com-massa-pronta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305773-pastel-assado-de-atum-com-massa-pronta.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

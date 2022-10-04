@@ -31,5 +31,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "RENATA DO VAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302327-hamburguer-de-feijao-azuki.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302327-hamburguer-de-feijao-azuki.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

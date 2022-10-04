@@ -19,5 +19,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "CARLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304810-pamonha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304810-pamonha.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

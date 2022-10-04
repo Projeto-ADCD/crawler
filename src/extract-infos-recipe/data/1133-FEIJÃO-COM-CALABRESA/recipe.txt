@@ -26,5 +26,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "FELIPE VITORINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309703-feijao-com-calabresa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309703-feijao-com-calabresa.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -31,5 +31,16 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "SARA VASCONCELOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302247-pave-de-morango-com-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302247-pave-de-morango-com-leite-ninho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

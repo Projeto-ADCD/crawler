@@ -17,5 +17,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JERIKOH O'CRU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304311-pina-colada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304311-pina-colada.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

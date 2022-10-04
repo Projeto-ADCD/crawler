@@ -27,5 +27,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUCAS R.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311001-carne-chop-suey.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311001-carne-chop-suey.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

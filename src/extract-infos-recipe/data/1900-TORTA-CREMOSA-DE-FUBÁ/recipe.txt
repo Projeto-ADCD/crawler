@@ -27,5 +27,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "AMANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306492-torta-cremosa-de-fuba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306492-torta-cremosa-de-fuba.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

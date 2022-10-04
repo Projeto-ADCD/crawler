@@ -19,5 +19,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "JORGE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306312-sagu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306312-sagu.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

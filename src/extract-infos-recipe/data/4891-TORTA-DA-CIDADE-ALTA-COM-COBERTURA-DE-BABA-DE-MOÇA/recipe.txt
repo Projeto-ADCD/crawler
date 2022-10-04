@@ -32,5 +32,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "CARLOS GUARCONI DE MATOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300006-torta-da-cidade-alta-com-cobertura-de-baba-de-moca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300006-torta-da-cidade-alta-com-cobertura-de-baba-de-moca.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

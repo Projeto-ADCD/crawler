@@ -36,5 +36,16 @@
   "tempo_de_preparo": "138 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LAURA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314197-torta-com-geleia-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314197-torta-com-geleia-de-morango.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

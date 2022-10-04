@@ -27,5 +27,16 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ANDREIA C",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316143-linguica-assada-com-batatas-perfeita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316143-linguica-assada-com-batatas-perfeita.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

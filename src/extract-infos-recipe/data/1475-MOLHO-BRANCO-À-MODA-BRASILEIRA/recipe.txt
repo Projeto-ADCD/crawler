@@ -24,5 +24,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LAURO DOS SANTOS RAMOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308117-molho-branco-a-moda-brasileira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308117-molho-branco-a-moda-brasileira.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

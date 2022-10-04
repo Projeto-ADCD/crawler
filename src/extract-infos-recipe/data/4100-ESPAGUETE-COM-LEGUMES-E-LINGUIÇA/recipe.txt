@@ -31,5 +31,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301871-espaguete-com-legumes-e-linguica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301871-espaguete-com-legumes-e-linguica.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

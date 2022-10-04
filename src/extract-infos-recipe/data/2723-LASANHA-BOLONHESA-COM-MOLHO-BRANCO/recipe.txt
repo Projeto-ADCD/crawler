@@ -27,5 +27,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "THAMIRIS MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304575-lasanha-bolonhesa-com-molho-branco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304575-lasanha-bolonhesa-com-molho-branco.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

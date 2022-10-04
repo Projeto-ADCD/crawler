@@ -21,5 +21,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "TRADIÇÃO CONFEITARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304036-trufas-para-presentear.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304036-trufas-para-presentear.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -17,5 +17,8 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "GII MOREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310393-mousse-de-chocolate-com-apenas-2-ingredientes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310393-mousse-de-chocolate-com-apenas-2-ingredientes.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

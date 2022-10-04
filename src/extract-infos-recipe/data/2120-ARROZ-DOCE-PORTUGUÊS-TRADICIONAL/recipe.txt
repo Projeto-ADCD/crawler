@@ -29,5 +29,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAROLINA CALHEIROS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305963-arroz-doce-portugues-tradicional.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305963-arroz-doce-portugues-tradicional.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -11,20 +11,10 @@
       "óleo"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque a farinha de trigo em uma bacia e depois coloque o ovo",
-      "Em seguida, coloque o fermento, o sal e o açúcar",
-      "Mexa bem e depois coloque a água",
-      "Misture bem até que solte na mão (caso não soltar coloque mais farinha de trigo)",
-      "Polvilhe a mesa com farinha de trigo e depois faça bolinhas com a massa",
-      "Coloque em cima da farinha e use o rolo de macarrão para abrir a massa (caso não tenha rolo, use o copo)",
-      "Use uma frigideira com óleo para fritar as ''ex-bolinhas'' ou a massa",
-      "Polvilhe com açúcar e sirva a seguir"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "25 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "MIHSAD",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300963-massa-deliciosa-de-juju.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300963-massa-deliciosa-de-juju.html",
+  "tags": []
 }

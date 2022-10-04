@@ -27,5 +27,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ANA LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301273-pao-100-porcento-integral-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301273-pao-100-porcento-integral-de-liquidificador.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -26,5 +26,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "IVANNA RAYSSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307010-baba-de-moca-sem-lactose.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307010-baba-de-moca-sem-lactose.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

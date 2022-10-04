@@ -18,5 +18,16 @@
   "tempo_de_preparo": "1 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302115-banana-com-canela-pratica-e-gostosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302115-banana-com-canela-pratica-e-gostosa.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

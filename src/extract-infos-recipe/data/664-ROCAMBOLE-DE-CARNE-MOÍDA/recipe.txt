@@ -28,5 +28,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312084-rocambole-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312084-rocambole-de-carne-moida.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

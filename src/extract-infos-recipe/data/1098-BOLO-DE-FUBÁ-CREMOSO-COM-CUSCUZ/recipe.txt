@@ -21,5 +21,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JOHN WAYNE AZEVEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309915-bolo-de-fuba-cremoso-com-cuscuz.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309915-bolo-de-fuba-cremoso-com-cuscuz.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

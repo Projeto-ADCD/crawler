@@ -22,5 +22,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CM MARIE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305567-pao-de-forma-sem-sovar-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305567-pao-de-forma-sem-sovar-de-liquidificador.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

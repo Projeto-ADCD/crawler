@@ -27,5 +27,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CARLOS HENRIQUE SÁ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308839-macarrao-com-calabresa-ao-molho-de-cheddar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308839-macarrao-com-calabresa-ao-molho-de-cheddar.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

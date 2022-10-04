@@ -35,5 +35,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LUCIANA DA SILVA ANCIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299771-chilli-com-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299771-chilli-com-carne.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

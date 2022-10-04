@@ -28,5 +28,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "AMÁLIA AMADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309453-bolinho-de-chuva-de-fuba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309453-bolinho-de-chuva-de-fuba.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

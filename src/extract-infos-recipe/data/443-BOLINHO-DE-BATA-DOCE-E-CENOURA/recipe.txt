@@ -29,5 +29,14 @@
   "tempo_de_preparo": "150 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "GIOVANNA LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312820-bolinho-de-bata-doce-e-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312820-bolinho-de-bata-doce-e-cenoura.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

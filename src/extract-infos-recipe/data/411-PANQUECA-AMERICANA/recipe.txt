@@ -28,5 +28,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ANA CECILIA SANTOS DE LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312876-panqueca-americana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312876-panqueca-americana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

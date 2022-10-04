@@ -35,5 +35,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "IRAN CARLOS STALLIVIERE CORREA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305640-pennes-ao-molho-de-queijos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305640-pennes-ao-molho-de-queijos.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

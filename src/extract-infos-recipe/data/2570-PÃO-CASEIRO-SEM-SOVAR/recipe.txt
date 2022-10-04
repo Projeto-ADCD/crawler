@@ -25,5 +25,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "JAQUELINE JAQUE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304924-pao-caseiro-sem-sovar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304924-pao-caseiro-sem-sovar.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

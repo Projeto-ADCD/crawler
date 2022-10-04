@@ -35,5 +35,14 @@
   "tempo_de_preparo": "160 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "BECEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312046-chester-recheado-com-farofa-de-castanha-portuguesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312046-chester-recheado-com-farofa-de-castanha-portuguesa.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

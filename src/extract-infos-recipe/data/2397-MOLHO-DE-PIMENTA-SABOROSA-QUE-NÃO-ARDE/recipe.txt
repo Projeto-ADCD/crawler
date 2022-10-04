@@ -29,5 +29,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARCIO DOROTEU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305316-molho-de-pimenta-saborosa-que-nao-arde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305316-molho-de-pimenta-saborosa-que-nao-arde.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

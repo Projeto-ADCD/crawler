@@ -12,11 +12,12 @@
       "Ferva a cebola com sal.",
       "Depois que a cebola cozinhar, coloque no lidificador junto com creme de leite. ",
       "Bata tudo e use como quiser.",
-      " "
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "YAGO GUIGUIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313423-creme-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313423-creme-de-cebola.html",
+  "tags": []
 }

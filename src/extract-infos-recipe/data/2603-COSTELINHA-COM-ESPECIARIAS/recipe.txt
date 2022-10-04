@@ -34,5 +34,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "CHEF AILTON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304834-costelinha-com-especiarias.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304834-costelinha-com-especiarias.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

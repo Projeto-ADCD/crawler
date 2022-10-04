@@ -47,5 +47,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "POESÍA CULINARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300007-colomba-pascal-barra-torta-colomba-di-pasqua.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300007-colomba-pascal-barra-torta-colomba-di-pasqua.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

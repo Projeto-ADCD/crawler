@@ -25,5 +25,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "NELMA CRUZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310115-canjica-dourada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310115-canjica-dourada.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -32,5 +32,12 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ANA PAULA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304607-sopa-de-feijao-com-linguica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304607-sopa-de-feijao-com-linguica.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

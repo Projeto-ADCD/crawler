@@ -26,5 +26,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SAYURI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313047-nuggets-veganos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313047-nuggets-veganos.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

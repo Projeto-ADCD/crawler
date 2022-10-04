@@ -20,5 +20,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RE SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308772-pao-falso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308772-pao-falso.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

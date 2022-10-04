@@ -25,5 +25,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "JEFERSON DA COSTA SOARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304792-pave-de-maracuja-com-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304792-pave-de-maracuja-com-chocolate.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

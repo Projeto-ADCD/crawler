@@ -33,5 +33,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "KELLY MARTINS ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303197-coxinha-facil-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303197-coxinha-facil-de-leite.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

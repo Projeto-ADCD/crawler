@@ -43,5 +43,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "THAÍS RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305628-nhoque-de-batata-doce-com-molho-de-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305628-nhoque-de-batata-doce-com-molho-de-camarao.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

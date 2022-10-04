@@ -27,5 +27,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "VIRGÍLIO CARNEIRO LEÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300350-guacamole-do-virgilio.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300350-guacamole-do-virgilio.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

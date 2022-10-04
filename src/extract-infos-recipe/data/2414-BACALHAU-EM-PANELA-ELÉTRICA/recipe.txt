@@ -14,24 +14,10 @@
       "azeitonas pretas a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Dessalgue o bacalhau",
-      "Deixe por 12 horas no óleo de oliva na geladeira",
-      "Adicione um pouco de óleo de oliva na panela elétrica e forre toda a panela com as batatas.",
-      "Coloque os pedaços de bacalhau sobre as batatas",
-      "Preencha os espaços do bacalhau com as sobras das batatas",
-      "Acrescente as cebolas cortadas em meia rodelas",
-      "Acrescente as azeitonas pretas inteira com ou sem caroço, a seu gosto",
-      "Ligue a panela elétrica na temperatura máxima até começar a ferver e dai baixe para o temperatura 3",
-      "Deixe nesta temperatura por 30 minutos",
-      "Acrescente o tomate e os pimentões picados e deixe por mais 30 minutos.",
-      "No momento de servir acrescente a salsinha a gosto",
-      "Sirva com arroz branco"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JOSÉ CARLOS MICHELOTTI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305271-bacalhau-em-panela-eletrica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305271-bacalhau-em-panela-eletrica.html",
+  "tags": []
 }

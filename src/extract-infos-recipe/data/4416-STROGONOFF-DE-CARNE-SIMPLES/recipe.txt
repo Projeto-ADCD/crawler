@@ -22,5 +22,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "HEMMANUELLY VARGAS MEISER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301175-strogonoff-de-carne-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301175-strogonoff-de-carne-simples.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

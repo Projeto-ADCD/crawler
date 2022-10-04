@@ -28,5 +28,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "SUELI BALTAZAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303567-farofa-de-chicoria.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303567-farofa-de-chicoria.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

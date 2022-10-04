@@ -22,5 +22,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JULIA KAIZER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309422-petit-gateau-de-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309422-petit-gateau-de-tapioca.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -28,5 +28,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "FERGUSON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305769-mousse-de-vinho-com-frutas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305769-mousse-de-vinho-com-frutas.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

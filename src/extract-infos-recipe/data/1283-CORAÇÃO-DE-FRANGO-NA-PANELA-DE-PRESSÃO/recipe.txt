@@ -25,12 +25,12 @@
       "Junte a cebola e o pimentão picado e deixe dourar",
       "Coloque o coração temperado e deixe dourar um pouco",
       "Feche a panela e deixe 15 minutos após pegar pressão",
-      "Retire da panela, sirva e finalize com cheiro-verde a gosto",
-      " "
+      "Retire da panela, sirva e finalize com cheiro-verde a gosto"
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309082-coracao-de-frango-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309082-coracao-de-frango-na-panela-de-pressao.html",
+  "tags": []
 }

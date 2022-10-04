@@ -32,5 +32,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "LISSA CRISTINA PIMENTEL NAZARETH",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303403-bolinhas-de-queijo-com-batata-da-tia-marly.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303403-bolinhas-de-queijo-com-batata-da-tia-marly.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

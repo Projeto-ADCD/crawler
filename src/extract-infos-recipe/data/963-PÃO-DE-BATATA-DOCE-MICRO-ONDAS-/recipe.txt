@@ -23,5 +23,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ALIM MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310702-pao-de-batata-doce-micro-ondas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310702-pao-de-batata-doce-micro-ondas.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

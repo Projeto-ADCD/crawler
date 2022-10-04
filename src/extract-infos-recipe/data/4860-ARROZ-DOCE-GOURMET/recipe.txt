@@ -27,5 +27,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "JOSEANE RUCKER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300079-arroz-doce-gourmet.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300079-arroz-doce-gourmet.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -28,5 +28,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "TERE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304000-sobras-de-churrasco-de-natal.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304000-sobras-de-churrasco-de-natal.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

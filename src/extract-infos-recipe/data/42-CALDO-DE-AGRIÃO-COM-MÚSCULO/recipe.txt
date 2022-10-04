@@ -20,5 +20,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JESSICA PAIVA DA ROSA SCHUTTER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314736-caldo-de-agriao-com-musculo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314736-caldo-de-agriao-com-musculo.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

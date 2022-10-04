@@ -25,5 +25,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MEURIL PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300327-pao-caseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300327-pao-caseiro.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

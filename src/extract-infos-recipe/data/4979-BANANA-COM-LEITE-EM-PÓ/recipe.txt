@@ -15,5 +15,16 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CAMPOS-SAN OTAKU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299808-banana-com-leite-em-po.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299808-banana-com-leite-em-po.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

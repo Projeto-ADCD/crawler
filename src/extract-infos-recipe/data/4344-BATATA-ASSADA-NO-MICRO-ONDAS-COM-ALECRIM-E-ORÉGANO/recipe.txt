@@ -11,22 +11,10 @@
       "alecrim a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Lave bem as batatas com a escovinha (não é necessário descascar).",
-      "Corte ao meio e bote em um prato.",
-      "Faça vários cortes horizontais e verticais na superfície das batatas, abrindo um pouco esses cortes.",
-      "Prepare em um potinho pequeno uma mistura com o azeite, sal, orégano e pimenta.",
-      "Espalhe a mistura nas batatas, tendo certeza que a mistura está entrando nos cortes (você pode pressionar a batata no eixo vertical e depois no eixo horizontal enquanto espalha, isso fará alguns dos cortes “abrirem” e ficará mais fácil enfiar a mistura).",
-      "Se necessário, salpique mais orégano nas batatas.",
-      "Coloque 1 colher (café) de manteiga ou margarina no centro de cada batata.",
-      "Coloque alecrim a gosto por cima.",
-      "Leve ao micro-ondas até assarem (usar potência máxima por uns 8 minutos; no meu micro-ondas foram 24 minutos na potência 100).",
-      "Ponto da batata: recheio mole e casca ressecada!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TAÍS MENEZES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301329-batata-assada-no-micro-ondas-com-alecrim-e-oregano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301329-batata-assada-no-micro-ondas-com-alecrim-e-oregano.html",
+  "tags": []
 }

@@ -21,5 +21,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "WEINY LAURA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305950-pao-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305950-pao-de-milho.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

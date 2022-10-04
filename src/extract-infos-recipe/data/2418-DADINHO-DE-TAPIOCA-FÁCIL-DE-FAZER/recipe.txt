@@ -25,5 +25,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "VANNESSA SANTOS LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305262-dadinho-de-tapioca-facil-de-fazer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305262-dadinho-de-tapioca-facil-de-fazer.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

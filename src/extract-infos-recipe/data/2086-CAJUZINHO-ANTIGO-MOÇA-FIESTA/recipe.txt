@@ -29,5 +29,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "THAÍS DA COSTA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306056-cajuzinho-antigo-moca-fiesta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306056-cajuzinho-antigo-moca-fiesta.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

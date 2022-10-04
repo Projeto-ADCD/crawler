@@ -15,19 +15,10 @@
       "150 g de queijo parmesão cortado em fatias finas"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque na panela de pressão o aipim e cozinhe por 20 minutos após dar a pressão",
-      "Refogue o camarão no alho e acrescente o tomate, a cebola e os temperos verdes.",
-      "Triture o aipim, após cozido, no liquidificador.",
-      "Coloque o aipim triturado no molho de camarão.",
-      "Mexa bem e acrescente o requeijão, o queijo mussarela e o queijo parmesão.",
-      "Após uns 5 minutos de cozimento, junte o creme de leite e mexa bem.",
-      "Está prontinho"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "REGINA VIDAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304525-aipim-cremoso-com-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304525-aipim-cremoso-com-camarao.html",
+  "tags": []
 }

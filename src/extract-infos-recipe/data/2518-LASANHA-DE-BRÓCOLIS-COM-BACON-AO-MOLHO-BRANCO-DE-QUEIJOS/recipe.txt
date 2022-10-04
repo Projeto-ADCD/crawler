@@ -49,5 +49,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RAPHAEL D'ELLA MASSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305039-lasanha-de-brocolis-com-bacon-ao-molho-branco-de-4-queijos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305039-lasanha-de-brocolis-com-bacon-ao-molho-branco-de-4-queijos.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

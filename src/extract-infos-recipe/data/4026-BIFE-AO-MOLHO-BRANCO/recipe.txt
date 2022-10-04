@@ -28,5 +28,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GABRIEL ÂNGELO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302109-bife-ao-molho-branco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302109-bife-ao-molho-branco.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

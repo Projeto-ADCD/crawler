@@ -27,5 +27,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "DOUGLAS JOSÉ BUZZETTI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300675-bobadicaco-bolo-de-banana-com-canela-e-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300675-bobadicaco-bolo-de-banana-com-canela-e-coco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

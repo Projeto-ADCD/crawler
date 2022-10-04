@@ -26,5 +26,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "EDJANE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300384-sopa-de-abobora-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300384-sopa-de-abobora-com-batata.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

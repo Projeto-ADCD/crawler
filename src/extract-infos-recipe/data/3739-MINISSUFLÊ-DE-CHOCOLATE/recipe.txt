@@ -12,16 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Derreta o chocolate em banho-maria. ",
-      "Bata as claras e vá adicionando açúcar até formar um creme.",
-      "Junte o chocolate derretido e misture bem.",
-      "Coloque a mistura em um saco de confeitar.",
-      "Preencha os copinhos de shot untados e polvilhados com açúcar mascavo.",
-      "Leve ao forno preaquecido (180° C) por cerca de 5 minutos. ",
-      "Ao servir, polvilhe cacau em pó a gosto e aproveite!"
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302803-minissufle-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302803-minissufle-de-chocolate.html",
+  "tags": []
 }

@@ -19,5 +19,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "JÚLIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305770-limonada-suica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305770-limonada-suica.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

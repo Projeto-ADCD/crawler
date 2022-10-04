@@ -27,5 +27,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "CÁTIA REGINA POLETTO DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305720-sonhos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305720-sonhos.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

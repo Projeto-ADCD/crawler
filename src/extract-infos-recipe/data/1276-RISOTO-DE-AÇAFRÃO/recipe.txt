@@ -26,5 +26,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "CAMILA B.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309125-risoto-de-acafrao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309125-risoto-de-acafrao.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

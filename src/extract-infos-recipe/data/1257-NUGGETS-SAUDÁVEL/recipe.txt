@@ -21,5 +21,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309215-nuggets-saudavel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309215-nuggets-saudavel.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

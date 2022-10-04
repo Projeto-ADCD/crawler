@@ -1,32 +1,10 @@
 {
   "nome_receita": "CREME BRULEE ORIGINAL",
-  "ingredientes": {
-    "DEFAULT": [
-      "500 ml de creme de leite fresco",
-      "5 gemas",
-      "120 g de açúcar",
-      "1 e 1/2 de extrato de baunilha"
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Preaqueça o forno",
-      "Coloca o creme de leite na panela até ferver",
-      "Quando desligar o creme de leite, acrescente a baunilha e misture",
-      "Deixe descansar",
-      "Bata o açúcar com a gema ate obter um creme claro",
-      "Misture o creme de leite ao creme com uma colher",
-      "Deixe descansar por 10 minutos",
-      "Distribua o creme nos ramequins",
-      "Coloque os ramequins numa assadeira",
-      "Coloque água fervente dentro da assadeira  eles vão assar em banho-maria)",
-      "Deixe assar por 40 minutos",
-      "Tire do forno, espere esfriar e coloque na geladeira por no minimo 6 horas",
-      "Na hora de servir, polvilhe açúcar em cima e passe o maçarico no açúcar para ficar a crocante"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "VANESSA CABRAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305525-creme-brulee-original.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305525-creme-brulee-original.html",
+  "tags": []
 }

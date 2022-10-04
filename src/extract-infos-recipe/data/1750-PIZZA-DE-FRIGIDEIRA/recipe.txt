@@ -25,5 +25,17 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GIULIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306928-pizza-de-frigideira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306928-pizza-de-frigideira.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

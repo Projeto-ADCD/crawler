@@ -12,16 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Bata todos os ingredientes no liquidificador por 3 minutos e depois adicione o fermento",
-      "Bata mais um pouco.",
-      "Unte a forma com óleo de coco e amido",
-      "Coloque numa forma de 12 muffins ou uma forma comum",
-      "Preaqueca o forno em 180° C e deixe assar por 40 minutos",
-      "Depois sirva-se a vontade."
+      ""
     ]
   },
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "BECKY LEAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306046-muffins-de-aveia-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306046-muffins-de-aveia-fit.html",
+  "tags": []
 }

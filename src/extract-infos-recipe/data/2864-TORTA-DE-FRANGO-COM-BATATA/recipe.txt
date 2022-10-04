@@ -33,5 +33,17 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "REBECCA CORRÊA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304257-torta-de-frango-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304257-torta-de-frango-com-batata.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

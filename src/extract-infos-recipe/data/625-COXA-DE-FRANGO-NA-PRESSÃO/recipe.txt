@@ -24,5 +24,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ROGER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312292-coxa-de-frango-na-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312292-coxa-de-frango-na-pressao.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

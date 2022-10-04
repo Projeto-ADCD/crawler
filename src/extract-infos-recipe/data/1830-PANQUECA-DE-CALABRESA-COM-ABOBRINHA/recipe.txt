@@ -38,5 +38,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CAMILA MEDEIROS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306682-panqueca-de-calabresa-com-abobrinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306682-panqueca-de-calabresa-com-abobrinha.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

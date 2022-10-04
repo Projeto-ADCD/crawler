@@ -27,5 +27,16 @@
   "tempo_de_preparo": "1 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "SAMILLE YUMI BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306765-churros-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306765-churros-facil.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

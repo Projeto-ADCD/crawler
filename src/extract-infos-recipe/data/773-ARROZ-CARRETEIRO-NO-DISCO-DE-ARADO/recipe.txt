@@ -28,5 +28,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "MARCELO BASSO PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311633-arroz-carreteiro-no-disco-de-arado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311633-arroz-carreteiro-no-disco-de-arado.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

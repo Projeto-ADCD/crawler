@@ -21,26 +21,10 @@
       "1,8 kg de chocolate fracionado."
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Unte todas as forminhas de 5cm de diâmetro com margarina e farinha de trigo ou cacau em pó (opcional).",
-      "Em uma vasilha, acrescente ovos e o açúcar mascavo e mexa bem.",
-      "Depois acrescentar a água, óleo e o mel, mexa bem.",
-      "Em seguida, acrescente todos os ingredientes secos: farinha de trigo, cacau em pó, noz moscada em pó, cravo em pó, canela em pó e bicarbonato de sódio, de preferência peneirados, tudo de uma vez.",
-      "Bata na mão com a espátula ou batedor fuê até formar uma massa homogênea.",
-      "Acrescente o fermento em pó e mexa levemente até estar totalmente misturado com a massa.",
-      "Colocar nas forminhas até a metade da forma ou 25 gr de massa.",
-      "Coloque para assar em forno 180° graus, por cerca de 25 a 30 minutos.",
-      "Ficar de olho, pois cada forno tem seu tempo.",
-      "Espete com um palito. Se sair seco, já esta pronto.",
-      "Tire do forno e espere esfriar para começar a desmoldar os bolinhos.",
-      "Cubra com chocolate fracionado, derretido no banho maria ou a cada 30 segundos no microondas, sempre mechendo para não queimar.",
-      "Coloque os pães de mel no papel manteiga para secar.",
-      "Caso seja um dia muito quente, coloque no freezer por 2 minutinhos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "FERNANDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300261-pao-de-mel-para-casamento.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300261-pao-de-mel-para-casamento.html",
+  "tags": []
 }

@@ -29,5 +29,17 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUCIANA FLÁVIA GARCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302964-panqueca-de-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302964-panqueca-de-forno.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

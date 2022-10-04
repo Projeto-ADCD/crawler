@@ -17,20 +17,10 @@
       "3 colheres (sopa) de margarina sem sal"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Bata os ovos na batedeira até aumentar o volume e coloque o açúcar.",
-      "Bater bem até ficar esbranquiçado.",
-      "Coloque a margarina e o leite em pó (bata).",
-      "Coloque a farinha peneirada o leite e por último o fermento em pó.",
-      "Misture tudo e coloque para assar já em um forno preaquecido a 180° C",
-      "Cobertura ou recheio",
-      "Na batedeira coloque todos os ingredientes (creme de leite, leite condensado, leite em pó e a margarina) e bata bem.",
-      "Depois é só cobrir o bolo ou usar como recheio."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GISELE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305509-bolo-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305509-bolo-leite-ninho.html",
+  "tags": []
 }

@@ -25,5 +25,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "EDZA BETATRIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305969-espetinho-de-salsicha-empanada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305969-espetinho-de-salsicha-empanada.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

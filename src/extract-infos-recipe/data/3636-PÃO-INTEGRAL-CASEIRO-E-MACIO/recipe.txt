@@ -27,5 +27,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ROGER SARAIVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302995-pao-integral-caseiro-e-macio.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302995-pao-integral-caseiro-e-macio.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

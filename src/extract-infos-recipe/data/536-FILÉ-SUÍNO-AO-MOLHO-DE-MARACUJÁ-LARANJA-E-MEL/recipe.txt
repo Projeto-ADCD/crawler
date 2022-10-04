@@ -42,5 +42,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DELÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312580-file-suino-ao-molho-de-maracuja-laranja-e-mel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312580-file-suino-ao-molho-de-maracuja-laranja-e-mel.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

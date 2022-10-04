@@ -33,5 +33,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "GUSTAVO AMÉRICO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302918-sorvete-de-baunilha-supercremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302918-sorvete-de-baunilha-supercremoso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

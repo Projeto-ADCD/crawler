@@ -22,5 +22,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314388-biscoito-de-polvilho-com-batata-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314388-biscoito-de-polvilho-com-batata-doce.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

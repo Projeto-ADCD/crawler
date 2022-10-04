@@ -40,5 +40,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANTONIO SUEITT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313084-takoyaki-de-katsuobushi-com-maionese.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313084-takoyaki-de-katsuobushi-com-maionese.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

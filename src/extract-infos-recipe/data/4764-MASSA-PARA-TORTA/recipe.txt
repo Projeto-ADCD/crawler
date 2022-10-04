@@ -28,5 +28,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "KAWANE SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300268-massa-para-torta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300268-massa-para-torta.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

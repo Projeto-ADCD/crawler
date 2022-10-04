@@ -26,5 +26,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "GUGU MARÇAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312788-coxa-com-molho-de-soja-e-mostarda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312788-coxa-com-molho-de-soja-e-mostarda.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

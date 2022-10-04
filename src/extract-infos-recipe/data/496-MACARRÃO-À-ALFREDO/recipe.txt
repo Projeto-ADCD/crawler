@@ -27,5 +27,17 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ALBFNETO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312673-macarrao-a-alfredo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312673-macarrao-a-alfredo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

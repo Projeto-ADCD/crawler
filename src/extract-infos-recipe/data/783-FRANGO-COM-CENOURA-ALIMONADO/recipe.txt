@@ -28,5 +28,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JULIANA MARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311569-frango-com-cenoura-alimonado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311569-frango-com-cenoura-alimonado.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

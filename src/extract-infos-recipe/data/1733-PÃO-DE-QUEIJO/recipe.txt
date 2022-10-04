@@ -29,5 +29,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "LAURO ANDRADE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306970-pao-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306970-pao-de-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

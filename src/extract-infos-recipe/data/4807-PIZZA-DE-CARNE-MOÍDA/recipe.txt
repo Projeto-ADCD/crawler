@@ -32,5 +32,17 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARILDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300197-pizza-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300197-pizza-de-carne-moida.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

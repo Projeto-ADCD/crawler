@@ -20,5 +20,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARLENE VELOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299713-macarrao-instantaneo-da-chef-anna.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299713-macarrao-instantaneo-da-chef-anna.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

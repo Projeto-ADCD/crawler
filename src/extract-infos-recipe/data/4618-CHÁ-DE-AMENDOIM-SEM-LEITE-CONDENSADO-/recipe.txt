@@ -25,5 +25,12 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LUCIANE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300715-cha-de-amendoim-sem-leite-condensado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300715-cha-de-amendoim-sem-leite-condensado.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

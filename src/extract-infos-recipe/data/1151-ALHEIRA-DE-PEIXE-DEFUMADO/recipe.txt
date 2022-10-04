@@ -14,19 +14,10 @@
       "16 ml de água gelada"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Pique bem o alho e refogue com o azeite. Adicione o peixe branco, tampe e cozinhe",
-      "Processe o vinho, a água, a pimenta do reino, o sal e o sal de cura no liquidificador, até que fique bem batido.",
-      "Rale o pão, e adicione ao peixe.",
-      "Misture todos os ingredientes e finalize com a salsinha bem picada",
-      "Deixe descansar por meia hora antes de embutir.",
-      "Embuta em tripa bovina seca hidratada, porções de 150g.",
-      "Defume individualmente tomando cuidado para não estourar."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "ADRIANO DE LAURENTIIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309583-alheira-de-peixe-defumado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309583-alheira-de-peixe-defumado.html",
+  "tags": []
 }

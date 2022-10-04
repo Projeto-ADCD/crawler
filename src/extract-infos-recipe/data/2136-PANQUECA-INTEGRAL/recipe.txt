@@ -23,5 +23,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "KATIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305917-panqueca-integral.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305917-panqueca-integral.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

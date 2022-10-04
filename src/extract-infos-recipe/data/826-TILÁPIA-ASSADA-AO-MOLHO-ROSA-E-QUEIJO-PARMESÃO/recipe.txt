@@ -31,5 +31,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TOTONHO BORGES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311411-tilapia-assada-ao-molho-rosa-e-queijo-parmesao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311411-tilapia-assada-ao-molho-rosa-e-queijo-parmesao.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

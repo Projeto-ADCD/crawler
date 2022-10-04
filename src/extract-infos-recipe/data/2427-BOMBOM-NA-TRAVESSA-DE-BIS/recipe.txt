@@ -28,5 +28,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SUELLEN LOPES ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305244-bombom-na-travessa-de-bis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305244-bombom-na-travessa-de-bis.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -21,5 +21,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "BEATRIZ COELHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302588-o-melhor-molho-de-alho-para-churrascos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302588-o-melhor-molho-de-alho-para-churrascos.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -23,5 +23,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DANYELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299980-peixe-porquinho-frito-com-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299980-peixe-porquinho-frito-com-limao.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

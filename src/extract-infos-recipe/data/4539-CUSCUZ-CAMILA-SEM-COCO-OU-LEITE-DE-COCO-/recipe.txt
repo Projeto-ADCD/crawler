@@ -28,5 +28,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LUCIANA GAVIÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300910-cuscuz-camila-sem-coco-ou-leite-de-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300910-cuscuz-camila-sem-coco-ou-leite-de-coco.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

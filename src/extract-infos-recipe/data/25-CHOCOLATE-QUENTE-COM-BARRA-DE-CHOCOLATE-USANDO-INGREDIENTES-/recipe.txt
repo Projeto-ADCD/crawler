@@ -1,0 +1,29 @@
+{
+  "nome_receita": "CHOCOLATE QUENTE COM BARRA DE CHOCOLATE (USANDO 3 INGREDIENTES)",
+  "ingredientes": {
+    "DEFAULT": [
+      "200g de chocolate meio amargo ou 250g de chocolate ao leite",
+      "400ml de leite ",
+      "1 caixa de creme de leite."
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "O primeiro passo é cortar o chocolate meio amargo ou ao leite em pedacinhos. Em seguida, coloque-os em uma panela com água quente. Derreta-os em banho-maria. Se você preferir, coloque-os para derreter no micro-ondas.",
+      "Pegue uma tigela, misture o chocolate derretido com a caixinha de creme de leite. Dica: precisa ficar igual a uma ganache.",
+      "Pegue uma panela média, coloque a mistura e acrescente o leite. Leve ao fogo baixo. Mexa de forma constante por 15 minutos. O chocolate precisa engrossar.",
+      "Para finalizar a receita, desligue o fogo e mexa só por 2 minutinhos. Espere esfriar e sirva!"
+    ]
+  },
+  "tempo_de_preparo": "25 MIN",
+  "rendimento": "1 PORÇÃO",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/316115-chocolate-quente-com-barra-de-chocolate-usando-3-ingredientes.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
+}

@@ -36,5 +36,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "THAÍS BARCELLOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301880-gratinado-de-batata-e-brocolis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301880-gratinado-de-batata-e-brocolis.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

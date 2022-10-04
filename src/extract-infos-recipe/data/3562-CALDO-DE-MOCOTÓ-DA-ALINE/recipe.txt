@@ -29,5 +29,12 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ALINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303129-caldo-de-mocoto-da-aline.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303129-caldo-de-mocoto-da-aline.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -26,5 +26,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "CLAUDETE TELE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303550-farofa-de-couve-pratica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303550-farofa-de-couve-pratica.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -35,5 +35,14 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "LULY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310959-melhor-hummus-pasta-de-grao-de-bico-do-universo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310959-melhor-hummus-pasta-de-grao-de-bico-do-universo.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

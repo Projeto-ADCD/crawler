@@ -23,5 +23,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "COOKTOP",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312651-massa-de-pizza-com-fermento-quimico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312651-massa-de-pizza-com-fermento-quimico.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

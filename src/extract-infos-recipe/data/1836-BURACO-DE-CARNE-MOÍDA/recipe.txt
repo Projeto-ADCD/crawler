@@ -29,5 +29,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306658-buraco-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306658-buraco-de-carne-moida.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

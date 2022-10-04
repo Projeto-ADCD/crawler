@@ -29,5 +29,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAMILA RENÉ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301348-galinha-escabelada-rapida-da-camila.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301348-galinha-escabelada-rapida-da-camila.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

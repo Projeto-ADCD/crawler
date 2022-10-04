@@ -1,34 +1,10 @@
 {
   "nome_receita": "GELADINHO LISTRADO",
-  "ingredientes": {
-    "GELADINHO DE MORANGO COM LEITE EM PÓ": [
-      "1 litro de leite ",
-      "1 caixinha de leite condensado ",
-      "1 caixinha de creme de leite",
-      "5 colheres (sopa) de leite em pó",
-      "1 colher (sopa) gelatina ",
-      "1 colher de água ",
-      "200 g de morangos picados "
-    ],
-    "LISTRINHA DE CHOCOLATE ": [
-      "300 g de chocolate meio amargo picado e derretido"
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Junte todos os ingredientes do geladinho, menos os morangos, a gelatina e a água em um liquidificador. ",
-      "Em outro potinho separado, hidrate a gelatina com a água e misture bem. ",
-      "Junte a mistura na mistura do liquidificador. ",
-      "Bata tudo muito bem (você pode deixar um tempo reservado para que a espuma formada saia completamente do topo. ",
-      "Despeje tudo em um recipiente e junte os morangos picados. ",
-      "Com os saquinhos do geladinho em mãos, vá colocando o chocolate derretido aos poucos. ",
-      "Com a ajuda de uma espátula, forme pequenas listras com o chocolate. ",
-      "Depois, com um funil, junte o creme formado até encher completamente o saquinho. ",
-      "Leve ao freezer até endurecer e aproveite! "
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "240 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310850-geladinho-listrado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310850-geladinho-listrado.html",
+  "tags": []
 }

@@ -31,5 +31,12 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ANA LUIZA CARDOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305512-sopa-de-berinjela-com-grao-de-bico-e-hortela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305512-sopa-de-berinjela-com-grao-de-bico-e-hortela.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -30,5 +30,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ALINE GONSALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304898-papinha-de-carne-cenoura-e-beterraba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304898-papinha-de-carne-cenoura-e-beterraba.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

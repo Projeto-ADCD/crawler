@@ -47,5 +47,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LEUDA M.V.XAVIER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302592-torta-de-coco-com-suspiro-no-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302592-torta-de-coco-com-suspiro-no-forno.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

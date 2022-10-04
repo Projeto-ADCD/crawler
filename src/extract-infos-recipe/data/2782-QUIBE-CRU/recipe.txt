@@ -26,5 +26,16 @@
   "tempo_de_preparo": "150 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FERNANDO MONTES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304438-quibe-cru.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304438-quibe-cru.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

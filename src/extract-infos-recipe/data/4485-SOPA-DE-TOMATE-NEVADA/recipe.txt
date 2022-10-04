@@ -32,5 +32,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ESTEVAO JAEGER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301013-sopa-de-tomate-nevada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301013-sopa-de-tomate-nevada.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

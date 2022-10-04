@@ -22,5 +22,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "ADRIANE SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307884-recheio-de-panqueca-de-ricota.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307884-recheio-de-panqueca-de-ricota.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

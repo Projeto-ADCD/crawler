@@ -28,5 +28,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RENATO CEZAR FRASSINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305690-arroz-do-milagre.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305690-arroz-do-milagre.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

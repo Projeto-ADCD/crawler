@@ -27,5 +27,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303703-cacarola-mineira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303703-cacarola-mineira.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

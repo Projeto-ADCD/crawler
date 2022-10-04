@@ -36,5 +36,14 @@
   "tempo_de_preparo": "65 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "COAMO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316907-bolinho-de-carne-seca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316907-bolinho-de-carne-seca.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -31,5 +31,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LUIS CARLOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301580-strogonoff-de-frango-lcfm.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301580-strogonoff-de-frango-lcfm.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

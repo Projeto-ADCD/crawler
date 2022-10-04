@@ -39,5 +39,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LEONARDO ALVARENGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308786-picanha-a-moda-com-catupiry.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308786-picanha-a-moda-com-catupiry.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

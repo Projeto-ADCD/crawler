@@ -23,5 +23,14 @@
   "tempo_de_preparo": "55 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JOÃO VITOR LUVISON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304682-bife-natural.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304682-bife-natural.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

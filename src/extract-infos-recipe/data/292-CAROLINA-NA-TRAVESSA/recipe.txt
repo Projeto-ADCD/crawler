@@ -1,44 +1,10 @@
 {
   "nome_receita": "CAROLINA NA TRAVESSA",
-  "ingredientes": {
-    "MASSA ": [
-      "8 g de açúcar ",
-      "4 g de sal ",
-      "480 ml de água ",
-      "230 g de manteiga sem sal ",
-      "300 g farinha de trigo ",
-      "8 ovos "
-    ],
-    "RECHEIO ": [
-      "100 ml de suco de limão ",
-      "1 caixa de leite condensado "
-    ],
-    "COBERTURA": [
-      "200 g de chocolate meio amargo",
-      "1/2 caixa de creme de leite "
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Preaqueça o forno a 200° C. ",
-      "Unte uma forma com a manteiga derretida ",
-      "Em uma panela, leve ao fogo: a água, a manteiga, sal e açúcar. ",
-      "Assim que o líquido atingir fervura, apague o fogo e adicione a farinha de trigo de uma vez, misturando com uma colher de pau vigorosamente para ter certeza que a mistura está homogênea. ",
-      "Leve a mistura novamente ao fogo médio e misture sem parar por 2 minutos, até que a massa solte do fundo da panela. ",
-      "Apague o fogo e transfira a massa ainda quente para a batedeira. ",
-      "Ligue a batedeira na menor velocidade e bata a massa por 3 minutos para que todo o vapor saia. Aumente a velocidade da batedeira e adicione um ovo de cada vez, batendo por mais 3 minutos até que a massa fique elástica.",
-      "Leve a massa para o forno em um recipiente de vidro",
-      "Deixe a 180° C por 30 minutos",
-      "Reserve e faça o recheio",
-      "Junte o leite condensado e o suco de limão ",
-      "Misture bem e reserve",
-      "Em uma panela, derreta o chocolate e junte o creme de leite ",
-      "Recheie a carolina e coloque a cobertura de chocolate por cima",
-      "Leve à geladeira por 2 horas e sirva!"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313359-carolina-na-travessa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313359-carolina-na-travessa.html",
+  "tags": []
 }

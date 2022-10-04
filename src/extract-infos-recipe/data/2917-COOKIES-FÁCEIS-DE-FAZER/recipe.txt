@@ -14,17 +14,10 @@
       "1/2 xícara de castanha ou nozes picadas grosseiramente"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Misture em uma tigela com uma colher os ingredientes na sequência,",
-      "Leve à geladeira por 15 minutos para descansar",
-      "Após esse tempo,modele e leve para assar em forno preaquecido em forma sem untar por 15 a 20 minutos",
-      "Retire e sirva com um cafezinho",
-      "No tamanho que fiz rendeu 35 deliciosos biscoitinhos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "35 PORÇÕES",
   "autor": "GILDA FERREIRA MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304141-cookies-faceis-de-fazer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304141-cookies-faceis-de-fazer.html",
+  "tags": []
 }

@@ -12,13 +12,12 @@
   "passos": {
     "DEFAULT": [
       "em um liquidificador, bata todos os ingredientes e coe utilizando uma peneira.",
-      "Obs: se fizer com água de coco, triture as cascas, gengibre e hortelã em 1/2 litro água filtrada primeiro",
-      "Coe e depois bata novamente o suco já coado com 1/2 litro de àgua de coco no liquidificador.",
-      "Sirva geladinho com um galinho de hortelã"
+      ""
     ]
   },
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "RITA MONTEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305075-suco-detox-de-casca-de-abacaxi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305075-suco-detox-de-casca-de-abacaxi.html",
+  "tags": []
 }

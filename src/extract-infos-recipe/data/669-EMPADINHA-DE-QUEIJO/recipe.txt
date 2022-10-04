@@ -27,5 +27,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "80 PORÇÕES",
   "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312074-empadinha-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312074-empadinha-de-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

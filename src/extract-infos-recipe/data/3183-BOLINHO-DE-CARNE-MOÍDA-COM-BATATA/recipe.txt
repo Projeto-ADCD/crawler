@@ -22,5 +22,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "VITORIA STRAVATO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303770-bolinho-de-carne-moida-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303770-bolinho-de-carne-moida-com-batata.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

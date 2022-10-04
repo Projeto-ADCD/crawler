@@ -16,23 +16,10 @@
       "1 canela em pau"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Comece misturando a água e o açúcar em uma panela",
-      "Deixe ferver, formar a calda e reserve",
-      "Em outra panela, junte o leite, o amido, as raspas de limão e a canela",
-      "Misture e deixe engrossar bem",
-      "Junte a calda de açúcar com cuidado e misture tudo ",
-      "Enquanto isso, em outro recipiente, coloque as gemas e uma concha da mistura anterior",
-      "Misture bem",
-      "Retire a canela em pau da primeira mistura e junte as gemas",
-      "Mexa bastante até criar um creme liso e homogêneo",
-      "Corte a massa, coloque nas formas e recheie ",
-      "Leve ao forno por 15 minutos e sirva!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "240 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311014-pastel-de-belem.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311014-pastel-de-belem.html",
+  "tags": []
 }

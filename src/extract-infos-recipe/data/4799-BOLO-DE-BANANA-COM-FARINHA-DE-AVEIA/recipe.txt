@@ -26,5 +26,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CARLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300211-bolo-de-banana-com-farinha-de-aveia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300211-bolo-de-banana-com-farinha-de-aveia.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

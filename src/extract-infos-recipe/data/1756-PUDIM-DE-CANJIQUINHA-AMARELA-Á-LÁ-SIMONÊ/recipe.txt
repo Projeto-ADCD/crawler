@@ -29,5 +29,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SIMONE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306909-pudim-de-canjiquinha-amarela-a-la-simone.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306909-pudim-de-canjiquinha-amarela-a-la-simone.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

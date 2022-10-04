@@ -50,5 +50,16 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303780-pernil-suino-a-la-vania.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303780-pernil-suino-a-la-vania.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

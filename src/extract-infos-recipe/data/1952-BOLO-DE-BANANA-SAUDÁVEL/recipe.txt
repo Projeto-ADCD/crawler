@@ -27,5 +27,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ISAH CANTON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306344-bolo-de-banana-saudavel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306344-bolo-de-banana-saudavel.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

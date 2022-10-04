@@ -29,5 +29,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "PAULO EDUARDO DA ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303132-beringela-recheada-com-cottage-e-champignons.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303132-beringela-recheada-com-cottage-e-champignons.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -20,5 +20,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "THIAGO ZIMMERMANN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300934-batida-de-vinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300934-batida-de-vinho.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

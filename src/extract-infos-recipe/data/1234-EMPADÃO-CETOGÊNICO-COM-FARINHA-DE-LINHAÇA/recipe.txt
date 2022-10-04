@@ -40,5 +40,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "FILHINHO DA SUA MÃE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309296-empadao-cetogenico-com-farinha-de-linhaca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309296-empadao-cetogenico-com-farinha-de-linhaca.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

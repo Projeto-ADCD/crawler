@@ -23,5 +23,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "BRUNO TEIXEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301183-geleia-de-buriti.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301183-geleia-de-buriti.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

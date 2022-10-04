@@ -12,16 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Descasque os alhos, a cebola e pique bem pequeno e reserve",
-      "Lave bem as folhas de ora pro nobis e fatie em tiras finas",
-      "Em uma panela média, coloque a margarina para derreter e acrescente o alho e a cebola",
-      "Quando estiver dourado, acrescente o sal e as folhas do ora pro nobis",
-      "Quando todos os ingrediente estiverem fritos e suculentos, acrescente a farinha dê uma boa misturada",
-      "Sirva fria com outros pratos "
+      ""
     ]
   },
   "tempo_de_preparo": "5 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROSÉLIA RODRIGUES DE ALMEIDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303519-farofa-de-ora-pro-nobis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303519-farofa-de-ora-pro-nobis.html",
+  "tags": []
 }

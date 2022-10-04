@@ -11,22 +11,10 @@
       "1 caixa de morango (pode ser uva também)"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Lave bem as frutas que for rechear o seu escondidinho e deixe escorrer bem.",
-      "Não corte as frutas para não sorar no doce",
-      "Em uma panela, coloque as duas latas de leite condensado, 1 creme de leite, a manteiga, o chocolate branco e o leite ninho.",
-      "Mexa sem parar em fogo médio até desgrudar da panela (ponto do brigadeiro).",
-      "Após, despeje num refratário e deixe esfriar.",
-      "Numa vasilha coloque o chocolate meio amargo com o creme de leite e leve ao micro-ondas de 30 em 30 segundos mexendo até virar uma ganache.",
-      "Quando o creme branco estiver frio, é hora de montar.",
-      "Coloque na sua vasilha de servir: o creme branco por baixo; as frutas no meio (recheie bem sem deixar espaços sem frutas); e por cima a ganache.",
-      "Leve para refrigerar por no mínimo 1 hora.",
-      "Decore como a sua imaginação deixa, e depois me conte o que achou!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "120 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "NANDA . LUASTRELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310108-escondidinho-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310108-escondidinho-de-morango.html",
+  "tags": []
 }

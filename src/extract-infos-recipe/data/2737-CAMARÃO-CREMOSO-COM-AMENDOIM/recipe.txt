@@ -41,5 +41,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "KAROK",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304545-camarao-cremoso-com-amendoim.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304545-camarao-cremoso-com-amendoim.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

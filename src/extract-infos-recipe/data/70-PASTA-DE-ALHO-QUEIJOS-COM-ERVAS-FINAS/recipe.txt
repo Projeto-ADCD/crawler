@@ -1,0 +1,32 @@
+{
+  "nome_receita": "PASTA DE ALHO 2 QUEIJOS COM ERVAS FINAS",
+  "ingredientes": {
+    "DEFAULT": [
+      "4 a 6 dentes grandes de alho",
+      "500 g de maionese ou gourmet",
+      "200 g de queijo mussarela (pedaço, sem ser fatiado)",
+      "50 g de queijo parmesão ralado",
+      "1 pacote de ervas finas",
+      "2 colheres (sopa) de azeite de oliva",
+      "1 colher (sopa) de sal",
+      "1 colher (sopa) de pimenta-do-reino e cominho em pó ou moída",
+      "1 colher (sopa) de manteiga ou margarina",
+      "pão francês"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Corte os dentes de alho e triture em liquidificador ou processador manual",
+      "Corte a mussarela em cubinhos, passe o ralador em cada cubinho e coloque para triturar em liquidificador ou processador manual",
+      "Em um recipiente coloque o alho, os queijos, maionese e mexa bem",
+      "Após mexer bem a mistura, coloque as ervas finas, azeite, sal, pimenta e cominho, manteiga (ou margarina) e novamente misture bem",
+      "Coloque na geladeira por 10 a 20 minutos, ou se quiser, sirva já pronto em pão francês cortado em 1 ou 2 partes para assar.",
+      "Bom apetite!"
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "20 PORÇÕES",
+  "autor": "VALDIR MORAIS DOS SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314604-pasta-de-alho-2-queijos-com-ervas-finas.html",
+  "tags": []
+}

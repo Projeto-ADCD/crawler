@@ -24,5 +24,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "OSMAR VALERIANO DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303737-farofa-de-sardinha-pratica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303737-farofa-de-sardinha-pratica.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

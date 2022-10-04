@@ -34,5 +34,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "BRUNA EMANUELE MULLER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306052-frango-caramelizado-com-molho-mostarda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306052-frango-caramelizado-com-molho-mostarda.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -22,5 +22,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JAQUELINE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304758-pao-de-queijo-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304758-pao-de-queijo-fit.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

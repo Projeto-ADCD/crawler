@@ -24,5 +24,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LAURA NRT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311312-arroz-integral-cozido-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311312-arroz-integral-cozido-facil.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

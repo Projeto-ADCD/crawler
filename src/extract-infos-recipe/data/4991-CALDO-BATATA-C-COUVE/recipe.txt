@@ -23,5 +23,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "JEAN RICARDO GROBE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299765-caldo-batata-c-barra-couve.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299765-caldo-batata-c-barra-couve.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

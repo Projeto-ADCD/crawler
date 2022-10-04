@@ -20,5 +20,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "FERNANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302850-salada-de-feijao-fradinho-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302850-salada-de-feijao-fradinho-simples.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

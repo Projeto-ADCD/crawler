@@ -20,5 +20,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VANIERE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303104-torta-salgada-da-tia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303104-torta-salgada-da-tia.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

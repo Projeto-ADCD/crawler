@@ -44,5 +44,16 @@
   "tempo_de_preparo": "110 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DUDA_SEGGES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301181-escondidinho-de-carne-seca-com-pure-de-batatas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301181-escondidinho-de-carne-seca-com-pure-de-batatas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

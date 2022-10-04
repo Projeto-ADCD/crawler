@@ -25,13 +25,12 @@
       "Misture tudo muito bem, e com cuidado, para que se transforme em uma base mais homogênea",
       "Junte a salsinha, o alho, o manjericão, o alecrim, o sal e a pimenta e misture de novo",
       "Em uma forma de cupcake ou própria para fazer muffins, coloque algumas colheradas da massa até encher ",
-      "Leve ao forno preaquecido a 200° C por 15 minutos ",
-      "Retire do forno e sirva!",
-      " "
+      "Leve ao forno preaquecido a 200° C por 15 minutos "
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314514-muffin-de-couve-flor-com-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314514-muffin-de-couve-flor-com-frango.html",
+  "tags": []
 }

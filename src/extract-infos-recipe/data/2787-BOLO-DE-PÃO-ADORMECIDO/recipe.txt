@@ -23,5 +23,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "NELSON BERGMANN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304428-bolo-de-pao-adormecido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304428-bolo-de-pao-adormecido.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

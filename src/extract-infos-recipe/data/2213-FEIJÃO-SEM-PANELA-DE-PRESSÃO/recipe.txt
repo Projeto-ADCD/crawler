@@ -23,5 +23,15 @@
   "tempo_de_preparo": "300 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VITORIA BANDEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305702-feijao-sem-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305702-feijao-sem-panela-de-pressao.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VANESSA ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312694-tortinha-sem-gluten-na-airfryer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312694-tortinha-sem-gluten-na-airfryer.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

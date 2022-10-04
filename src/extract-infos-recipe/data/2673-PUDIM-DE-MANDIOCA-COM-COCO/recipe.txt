@@ -18,5 +18,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JOÃO VITOR LUVISON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304683-pudim-de-mandioca-com-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304683-pudim-de-mandioca-com-coco.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

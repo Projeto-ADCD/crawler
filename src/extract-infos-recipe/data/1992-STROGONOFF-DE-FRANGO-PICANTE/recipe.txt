@@ -35,5 +35,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "SIMONE DE JESUS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306241-strogonoff-de-frango-picante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306241-strogonoff-de-frango-picante.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

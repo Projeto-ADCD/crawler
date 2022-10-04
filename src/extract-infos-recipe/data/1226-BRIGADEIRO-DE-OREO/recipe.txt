@@ -26,5 +26,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "GIGI OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309313-brigadeiro-de-oreo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309313-brigadeiro-de-oreo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

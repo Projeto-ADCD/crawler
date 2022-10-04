@@ -28,5 +28,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302565-batata-de-frigideira-com-bacon-e-ovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302565-batata-de-frigideira-com-bacon-e-ovo.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

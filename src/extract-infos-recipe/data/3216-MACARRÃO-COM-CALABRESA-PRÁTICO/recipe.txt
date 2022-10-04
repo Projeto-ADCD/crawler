@@ -13,22 +13,10 @@
       "queijo ralado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela coloque água e um fio de óleo para ferver",
-      "Quando levantar fervura, adicione o macarrão e deixe chegar ao ponto desejado"
-    ],
-    "MOLHO:": [
-      "Pique a linguiça calabresa em cubos",
-      "Fritar até chegar no ponto",
-      "Refogue no óleo os dentes de alho picados, o gengibre, 2 colheres de pimenta-do-reino, 1/2 colher de sal",
-      "Adicione o molho e uma concha de água",
-      "Mexa até ferver e adicione a linguiça já frita",
-      "Coloque tudo numa panela, adicione queijo ralado e está pronto"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "NATAN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303717-macarrao-com-calabresa-pratico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303717-macarrao-com-calabresa-pratico.html",
+  "tags": []
 }

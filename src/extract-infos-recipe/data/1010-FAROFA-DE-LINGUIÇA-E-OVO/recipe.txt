@@ -22,5 +22,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JAQUELINE ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310490-farofa-de-linguica-e-ovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310490-farofa-de-linguica-e-ovo.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

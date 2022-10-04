@@ -26,5 +26,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ARNALDO_NETTO@HOTMAIL.COM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302268-lasanha-de-abobrinha-fit-com-parmesao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302268-lasanha-de-abobrinha-fit-com-parmesao.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

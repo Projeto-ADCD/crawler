@@ -12,17 +12,10 @@
       "1 colher (chá) de sal"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Cozinhe as batatas e depois faça um purê com elas",
-      "Em uma travessa, misture o purê com os demais ingredientes",
-      "Misture até tudo ficar homogêneo",
-      "Reserve na geladeira até ficar durinho (mais ou menos de um dia pro outro)",
-      "OBS: os temperos são a gosto, eu somente usei as quantidades que eu gosto de usar"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "GATTICC",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306746-queijo-vegano-durinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306746-queijo-vegano-durinho.html",
+  "tags": []
 }

@@ -30,5 +30,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "HESTEVARD MARTIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300242-pao-caseiro-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300242-pao-caseiro-facil.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

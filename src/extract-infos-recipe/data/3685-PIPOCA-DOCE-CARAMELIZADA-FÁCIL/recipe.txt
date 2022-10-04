@@ -23,5 +23,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CAMILLA ANA JULLIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302917-pipoca-doce-caramelizada-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302917-pipoca-doce-caramelizada-facil.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -20,5 +20,12 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "YGOR MOREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305750-cappuccino-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305750-cappuccino-de-chocolate.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

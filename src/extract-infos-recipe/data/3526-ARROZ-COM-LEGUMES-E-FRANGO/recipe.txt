@@ -47,5 +47,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "VALDETE TAMARA FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303200-arroz-com-legumes-e-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303200-arroz-com-legumes-e-frango.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

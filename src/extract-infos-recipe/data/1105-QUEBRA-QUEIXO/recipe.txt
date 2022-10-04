@@ -27,5 +27,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309864-quebra-queixo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309864-quebra-queixo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -30,5 +30,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "ANA LUIZA QUEIROZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306266-panqueca-americana-com-cobertura-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306266-panqueca-americana-com-cobertura-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }
