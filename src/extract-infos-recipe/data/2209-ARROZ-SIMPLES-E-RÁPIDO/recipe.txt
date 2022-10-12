@@ -20,5 +20,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GABRIELLA BORGES DE ALBUQUERQUE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305710-arroz-simples-e-rapido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305710-arroz-simples-e-rapido.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -41,5 +41,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "RIAN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300814-nhoque-fit-de-batata-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300814-nhoque-fit-de-batata-doce.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

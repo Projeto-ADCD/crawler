@@ -23,5 +23,14 @@
   "tempo_de_preparo": "1 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JOICE FREITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304634-pao-integral.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304634-pao-integral.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -36,5 +36,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "STEFANY BUENO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303407-carne-de-panela-com-batata-e-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303407-carne-de-panela-com-batata-e-cenoura.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

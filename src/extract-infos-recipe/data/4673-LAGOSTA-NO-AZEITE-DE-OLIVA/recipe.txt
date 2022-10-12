@@ -31,5 +31,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "WANUSA SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300462-lagosta-no-azeite-de-oliva.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300462-lagosta-no-azeite-de-oliva.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -31,5 +31,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ALINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305748-caldo-de-mandioquinha-com-frango-divino.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305748-caldo-de-mandioquinha-com-frango-divino.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -32,5 +32,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "80 PORÇÕES",
   "autor": "JOJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304463-risole-facil-da-jo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304463-risole-facil-da-jo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

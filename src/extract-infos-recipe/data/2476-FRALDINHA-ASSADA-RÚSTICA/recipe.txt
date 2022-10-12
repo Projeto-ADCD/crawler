@@ -25,5 +25,16 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "BEATRIZ LENSO ROBSON GIOVANNINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305123-fraldinha-assada-rustica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305123-fraldinha-assada-rustica.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

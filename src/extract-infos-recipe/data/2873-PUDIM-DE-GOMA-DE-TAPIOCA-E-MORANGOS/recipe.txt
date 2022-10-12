@@ -30,5 +30,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "JOHN WAYNE FLÁVIA AZEVEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304244-pudim-de-goma-de-tapioca-e-morangos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304244-pudim-de-goma-de-tapioca-e-morangos.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

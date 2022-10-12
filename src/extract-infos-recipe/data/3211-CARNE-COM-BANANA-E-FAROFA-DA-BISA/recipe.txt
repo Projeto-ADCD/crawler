@@ -12,27 +12,10 @@
       "2 colheres de óleo"
     ]
   },
-  "passos": {
-    "CARNE:": [
-      "Use um fio de óleo para fritar a cebola até ficar transparente",
-      "Adicione o alho, a carne moída, o sal e a pimenta, frite junto (cuidado que a azeitona é salgada)",
-      "Depois adicione já no final a cebolinha, a salsinha e a azeitona verde",
-      "Deixe a carne não muito seca"
-    ],
-    "BANANA:": [
-      "Corte as bananas ao comprido em forma de lascas não muito finas e frite na manteiga com um pouco de óleo"
-    ],
-    "FAROFA:": [
-      "Use 1 colher manteiga, 1 colher de óleo girassol de preferência, 1 xícara de farinha  e 1 pitada de sal",
-      "Deixe em coloração dourada para marrom"
-    ],
-    "MONTAGEM DO PRATO:": [
-      "Em um prato de vidro retangular tamanho médio comece com a carne, depois a banana e a farofa",
-      "Leve ao forno por 15 minutos a 180º"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "85 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ANDRE LUIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303732-carne-com-banana-e-farofa-da-bisa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303732-carne-com-banana-e-farofa-da-bisa.html",
+  "tags": []
 }

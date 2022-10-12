@@ -31,5 +31,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RENATA TODESCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302259-arroz-de-tropa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302259-arroz-de-tropa.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

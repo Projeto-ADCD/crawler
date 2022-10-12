@@ -20,5 +20,17 @@
   "tempo_de_preparo": "3 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MATHEUS CORREIA DE SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302254-mix-de-farinhas-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302254-mix-de-farinhas-sem-gluten.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

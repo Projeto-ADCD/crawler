@@ -28,5 +28,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARCELO NOLETO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300626-caldo-de-pe-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300626-caldo-de-pe-de-frango.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -20,20 +20,10 @@
       "+2 colheres de sopa de mel ou 1/2 copo de coca cola comum ou 3 colheres de sopa de açúcar mascavo, mas se não tiver nenhum desses não deixa de fazer! Usa açúcar comum mesmo!"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "(Pode ser drumete, frango à passarinho, coxa e/ou sobrecoxa e acredito que fique bom tbm pra um frango inteiro ou até pra um Peru, etc)",
-      "Coloca para marinar um dia antes na geladeira",
-      "Quando for fazer, \"pesca\" o frango e peneira a marinada",
-      "Reservar a parte coada para o molho e o bagaço mistura com 3 colheres de maionese, azeite e 2 colheres de mel e colocar no Frango, coloca no forno ou air fryer, virando na metade do tempo em ambos.",
-      "O molho vai pra frigideira com shoyo e algo para adoçar, pode ser 2 colheres de mel, 1/2 copo de coca cola comum ou 3 colheres de sopa de açúcar mascavo, não fica muito doce, confia. Hahahah",
-      "Reduz esse molho!! Deixa ferver bem até ficar grossinho, intenso e maravilhoso! hahahah",
-      "Depois do frango pronto, despeja o molho por cima, cheiro verde fresco picado e alho torrado ou gergelim preto e branco salpicados!",
-      "Bom apetite!!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DUDA SODRÉ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313403-frango-a-passarinho-barra-drumete-barra-coxa-e-sobrecoxa-agridoce-perfeito-da-duda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313403-frango-a-passarinho-barra-drumete-barra-coxa-e-sobrecoxa-agridoce-perfeito-da-duda.html",
+  "tags": []
 }

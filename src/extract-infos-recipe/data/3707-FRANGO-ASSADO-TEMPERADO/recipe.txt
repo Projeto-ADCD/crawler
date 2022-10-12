@@ -27,5 +27,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LILIAN CRISTINA CRISTINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302865-frango-assado-temperado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302865-frango-assado-temperado.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

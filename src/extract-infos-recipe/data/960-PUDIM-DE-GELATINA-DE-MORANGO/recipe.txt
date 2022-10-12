@@ -22,5 +22,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "DAVI VENÍCIUS MINI CHEF",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310715-pudim-de-gelatina-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310715-pudim-de-gelatina-de-morango.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

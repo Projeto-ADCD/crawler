@@ -34,5 +34,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MAC VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303858-spaghetti-ao-vinho-do-chef-mac.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303858-spaghetti-ao-vinho-do-chef-mac.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

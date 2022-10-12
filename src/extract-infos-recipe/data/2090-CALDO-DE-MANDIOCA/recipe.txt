@@ -29,5 +29,12 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MAYRLA MENDONÇA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306041-caldo-de-mandioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306041-caldo-de-mandioca.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

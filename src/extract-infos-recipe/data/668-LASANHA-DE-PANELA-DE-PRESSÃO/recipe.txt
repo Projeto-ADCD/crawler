@@ -26,5 +26,17 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CRISTIANE DE ALMEIDA PIUMBINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312075-lasanha-de-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312075-lasanha-de-panela-de-pressao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

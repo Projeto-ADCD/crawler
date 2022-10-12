@@ -28,5 +28,14 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "VERINHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301257-rissole-rapido-e-gostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301257-rissole-rapido-e-gostoso.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

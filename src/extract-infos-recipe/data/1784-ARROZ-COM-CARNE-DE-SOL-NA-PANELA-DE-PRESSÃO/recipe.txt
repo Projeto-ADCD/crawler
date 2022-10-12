@@ -28,5 +28,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MARIZA MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306819-arroz-com-carne-de-sol-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306819-arroz-com-carne-de-sol-na-panela-de-pressao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

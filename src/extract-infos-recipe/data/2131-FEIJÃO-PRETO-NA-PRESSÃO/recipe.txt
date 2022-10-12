@@ -34,5 +34,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "FELIPE DE CASTRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305936-feijao-preto-na-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305936-feijao-preto-na-pressao.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

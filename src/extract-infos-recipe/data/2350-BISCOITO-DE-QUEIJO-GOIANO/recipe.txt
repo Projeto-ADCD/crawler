@@ -23,5 +23,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "MATHEUS CAIXETA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305432-biscoito-de-queijo-goiano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305432-biscoito-de-queijo-goiano.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -35,5 +35,16 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "SAWLLUS COELHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305904-pudim-de-sagu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305904-pudim-de-sagu.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

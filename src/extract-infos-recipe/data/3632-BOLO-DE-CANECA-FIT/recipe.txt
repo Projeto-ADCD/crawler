@@ -12,14 +12,10 @@
       "1 colher (café) de açúcar mascavo"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Misture todos os ingredientes em uma caneca ou uma xícara média",
-      "Em seguida, coloque no microondas por 2 minutos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "PRISCILA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303002-bolo-de-caneca-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303002-bolo-de-caneca-fit.html",
+  "tags": []
 }

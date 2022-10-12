@@ -12,13 +12,11 @@
   "passos": {
     "DEFAULT": [
       "Bata todos os ingredientes no liquidificador e adicione sal a gosto."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Essa massa é caracteristicamente mais líquida."
     ]
   },
   "tempo_de_preparo": "25 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA PAULA MARCA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300029-massa-panqueca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300029-massa-panqueca.html",
+  "tags": []
 }

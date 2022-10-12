@@ -21,5 +21,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "ANE BEATRIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312658-biscoito-amanteigado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312658-biscoito-amanteigado.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

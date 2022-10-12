@@ -29,5 +29,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303792-farofa-de-frango-pimenta-cumari-e-uvas-passas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303792-farofa-de-frango-pimenta-cumari-e-uvas-passas.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -25,5 +25,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316928-risoto-de-alcatra-suina-com-maca-verde-e-limao-siciliano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316928-risoto-de-alcatra-suina-com-maca-verde-e-limao-siciliano.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -17,28 +17,10 @@
       "800 g a 1 kg filés de tilápia"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Tilapia",
-      "Limpe e lave bem o peixe, seque-o e tempere com sal e pimenta-do-reino a gosto (ervas finas se preferir)",
-      "Numa frigideira antiaderente, quente, coloque o azeite e deixe esquentar mais um pouco.",
-      "Coloque o peixe para fritar, um por vez, até que comece a alourar, dos dois lados.",
-      "Mais ou menos de, dois a tres minutos de cada lado.",
-      "Frite todos e reserve em local aquecido.",
-      "Molho",
-      "Num processador ou liquidificador, coloque a polpa de cajamanga, o vinho, a água, o açúcar e bata até ficar homogêneo.",
-      "Limpe a sálvia e o tomilho e pique-as bem fininho ou ervas finas",
-      "Coloque uma frgideira no fogo, regue com o azeite, refogue a cebola e o alho.",
-      "Junte as ervas picadinhas, sem parar de mexer por mais 1 minuto.",
-      "Adicione a mistura de cajamanga batida, a pimenta e o sal.",
-      "Deixe cozinhar, sempre mexendo, até  atinjir a textura desejada.",
-      "Corrija os temperos se for necessário.",
-      "Obs: Eu servi com purê de batata baroa e legumes grelhados.",
-      "Bom Apetite"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JADSON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306295-tilapia-ao-molho-de-cajamanga.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306295-tilapia-ao-molho-de-cajamanga.html",
+  "tags": []
 }

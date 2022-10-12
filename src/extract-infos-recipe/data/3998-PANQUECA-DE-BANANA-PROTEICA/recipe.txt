@@ -25,5 +25,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "EVOLUINDO EM PAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302227-panqueca-de-banana-proteica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302227-panqueca-de-banana-proteica.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -21,5 +21,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ARIANE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307252-miojo-com-escarola-e-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307252-miojo-com-escarola-e-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

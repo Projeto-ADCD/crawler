@@ -24,5 +24,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "BRUNA ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304405-pipoca-doce-saudavel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304405-pipoca-doce-saudavel.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

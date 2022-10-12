@@ -25,5 +25,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "CLAUDIA GABRIELY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313110-cueca-virada-orelha-de-gato.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313110-cueca-virada-orelha-de-gato.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "NOEMI MARINHO TORQUATO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302032-frango-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302032-frango-com-batata.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

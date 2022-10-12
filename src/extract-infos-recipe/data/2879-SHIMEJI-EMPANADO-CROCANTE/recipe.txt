@@ -38,5 +38,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304238-shimeji-empanado-crocante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304238-shimeji-empanado-crocante.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

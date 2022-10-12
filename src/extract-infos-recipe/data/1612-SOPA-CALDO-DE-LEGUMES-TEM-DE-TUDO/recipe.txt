@@ -17,21 +17,10 @@
       "pimenta-do-reino a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela de pressão coloque o azeite e doure o frango em cubos grandes, quando estiver branco coloque a cebola e os temperos e mexa bem para fritar.",
-      "Cubra com água e leve em fogo médio até cozir.",
-      "Pique as batatas e a mandioquinha em cubos e reserve.",
-      "Retire o frango da panela e dê uma desfiada grosseiramente e então reserve.",
-      "Coloque todos os legumes na panela e acrescente água até cobrir, aproveitando o que restar do caldo do frango. Corrija o sal se necessário.",
-      "Leve em pressão por aprox 20 minutos ou até cozir.",
-      "Em um liquidificador coloque 2/3 da sopa e bata bem até virar um creme.",
-      "Junte de volta na panela e acrescente o frango, misture bem e pronto.",
-      "Fica muito saborosa e com gosto presente da mandioquinha."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MAYARA MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307389-sopa-caldo-de-legumes-tem-de-tudo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307389-sopa-caldo-de-legumes-tem-de-tudo.html",
+  "tags": []
 }

@@ -31,5 +31,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "MARTA CORADINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301411-bolacha-champanhe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301411-bolacha-champanhe.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

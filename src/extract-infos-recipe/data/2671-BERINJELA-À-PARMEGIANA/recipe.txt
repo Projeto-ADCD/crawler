@@ -28,5 +28,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MAIARA ENNES DA SILVEIRA PEREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304686-berinjela-a-parmegiana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304686-berinjela-a-parmegiana.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

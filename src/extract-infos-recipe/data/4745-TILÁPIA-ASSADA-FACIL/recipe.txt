@@ -12,21 +12,10 @@
       "lemon pepper a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em um recipiente, rale os 5 dentes de alho e 1/2 cebola.",
-      "Acrescente o suco dos limões, azeite, sal, pimenta-do-reino e lemon pepper.",
-      "Forre a forma com uma camada de papel alumínio.",
-      "Corte 1 e 1/2 cebola em rodelas e faça uma cama na forma.",
-      "Faça cortes diagonais no peixe e passe o tempero feito no recipiente em todo o peixe, por dentro e por fora.",
-      "Coloque o peixe sobre as rodelas de cebola e cubra a forma com duas folhas de papel alumínio.",
-      "Leve ao forno pré-aquecido a 200º por 40 minutos.",
-      "Após isso, tire as duas folhas de papel de cima e deixe o peixe por mais 20 minutos no forno a 255º.",
-      "Antes de servir, regue o peixe com o caldo que saiu do assado."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "80 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "WILLIAN COSTA BLANCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300309-tilapia-assada-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300309-tilapia-assada-facil.html",
+  "tags": []
 }

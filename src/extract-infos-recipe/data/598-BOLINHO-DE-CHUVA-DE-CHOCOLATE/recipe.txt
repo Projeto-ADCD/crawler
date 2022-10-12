@@ -14,19 +14,10 @@
       "óleo para fritar"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma tigela misture todos os ingredientes exceto o fermento em pó.",
-      "Coloque o óleo para esquentar em fogo baixo.",
-      "Após o óleo quente adicione o fermento em pó e misture.",
-      "Com o auxílio de uma colher vá colocando bolinhas de massa para fritar até ficar bem douradinha.",
-      "Após escorrer um pouco o óleo passe no açúcar com canela",
-      "E é só servir.",
-      "DICA: Sirva com um café feito na hora."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "GUILHERME SABOTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312411-bolinho-de-chuva-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312411-bolinho-de-chuva-de-chocolate.html",
+  "tags": []
 }

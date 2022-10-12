@@ -26,5 +26,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARISA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311635-coxas-de-ras-com-reducao-de-maca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311635-coxas-de-ras-com-reducao-de-maca.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

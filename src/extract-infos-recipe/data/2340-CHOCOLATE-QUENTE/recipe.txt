@@ -19,5 +19,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JOÃO CARLOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305450-chocolate-quente.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305450-chocolate-quente.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

@@ -24,5 +24,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "23 PORÇÕES",
   "autor": "GIULIA MAGNA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306551-cookie-de-chocolate-com-pedacos-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306551-cookie-de-chocolate-com-pedacos-de-chocolate.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

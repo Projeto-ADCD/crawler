@@ -28,5 +28,15 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "ROSY ARAUJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304573-arroz-de-forno-rapidinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304573-arroz-de-forno-rapidinho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

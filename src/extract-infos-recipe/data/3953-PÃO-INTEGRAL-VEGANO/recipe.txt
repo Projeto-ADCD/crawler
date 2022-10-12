@@ -33,5 +33,17 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SOFIA POMBO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302311-pao-integral-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302311-pao-integral-vegano.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

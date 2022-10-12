@@ -21,5 +21,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANDREZA COSOMANO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304300-mousse-de-framboesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304300-mousse-de-framboesa.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

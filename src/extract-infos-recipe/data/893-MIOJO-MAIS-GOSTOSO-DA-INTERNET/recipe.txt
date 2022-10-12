@@ -28,5 +28,17 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANDRÉ MATIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311011-miojo-mais-gostoso-da-internet.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311011-miojo-mais-gostoso-da-internet.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

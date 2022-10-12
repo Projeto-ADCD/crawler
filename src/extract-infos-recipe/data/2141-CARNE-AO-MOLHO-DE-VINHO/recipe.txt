@@ -29,5 +29,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "REGYS BORGES DA SILVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305908-carne-ao-molho-de-vinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305908-carne-ao-molho-de-vinho.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

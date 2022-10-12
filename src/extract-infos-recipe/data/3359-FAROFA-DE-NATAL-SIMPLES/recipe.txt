@@ -13,15 +13,10 @@
       "temperos a gosto (sal, salsinha, etc)"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela despeje oleo para fritar o bacon, depois acrescente a cebola, o pimentão e por último o alho",
-      "Acrescente os ovos picados e despeje a farinha de mandioca, depois as nozes, as castanhas e a banana",
-      "Sirva-se a vontade"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "VALÉRIA TEIXEIRA DE MORAES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303506-farofa-de-natal-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303506-farofa-de-natal-simples.html",
+  "tags": []
 }

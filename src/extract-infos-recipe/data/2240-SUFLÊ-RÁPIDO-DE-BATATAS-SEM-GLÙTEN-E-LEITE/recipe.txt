@@ -42,5 +42,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "HENRIQUE ELIMARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305645-sufle-rapido-de-batatas-sem-gluten-e-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305645-sufle-rapido-de-batatas-sem-gluten-e-leite.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

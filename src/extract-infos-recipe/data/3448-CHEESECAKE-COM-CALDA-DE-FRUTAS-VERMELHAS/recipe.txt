@@ -19,35 +19,10 @@
       "suco de 1 limão"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Base",
-      "Triture no processador a bolacha de maisena",
-      "Misture a manteiga derretida (30 segundos no micro-ondas) e forre uma forma de aro removível amassando no fundo com um copo ou colher.",
-      "Asse por 10 minutos em forno 180º C.",
-      "Reservar para esfriar.",
-      "Recheio",
-      "Deixe uns 30 minutos o creme de leite no freezer e o cream cheese fora da geladeira em temperatura ambiente.",
-      "Bata na batedeira o cream cheese com o açúcar, até formar uma massa homogênea",
-      "Misture a essência de baunilha e o suco dos limões e bata.",
-      "Misture o creme de leite e bate até misturar tudo.",
-      "Desidrate a gelatina sem sabor",
-      "Misture o conteúdo do sachê com 5 colheres (sopa) de água fria e espere 1 minuto secar",
-      "Em seguida, coloque 15 segundos de micro-ondas até derreter, sem deixar ferver",
-      "Bata novamente para misturar.",
-      "Despeje todo o creme na forma sobre a base de bolacha e coloque na geladeira.",
-      "Cobertura",
-      "Misture todos os ingredientes em uma panela e cozinhe",
-      "Mexa até virar uma calda grossa (como geleia) e reserve.",
-      "Quando esfriar, despeje por cima do creme.",
-      " "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Dica\nPara um resultado perfeito, faça com um dia de antecedência e deixe na geladeira.\nPara uma quantidade menor, só reduzir pela metade a receita."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "GABRIELA DE CAMPOS MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303342-cheesecake-com-calda-de-frutas-vermelhas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303342-cheesecake-com-calda-de-frutas-vermelhas.html",
+  "tags": []
 }

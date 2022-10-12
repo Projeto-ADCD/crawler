@@ -28,5 +28,15 @@
   "tempo_de_preparo": "65 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "VAI COMER O QUE?",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302280-quiche-de-cebola-e-queijo-gruyere.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302280-quiche-de-cebola-e-queijo-gruyere.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

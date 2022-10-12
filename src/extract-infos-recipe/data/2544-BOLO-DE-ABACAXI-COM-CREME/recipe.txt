@@ -34,5 +34,16 @@
   "tempo_de_preparo": "110 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GISLAINE KÉCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304977-bolo-de-abacaxi-com-creme.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304977-bolo-de-abacaxi-com-creme.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

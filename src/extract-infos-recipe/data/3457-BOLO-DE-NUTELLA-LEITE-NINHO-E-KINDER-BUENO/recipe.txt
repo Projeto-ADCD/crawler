@@ -47,5 +47,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MARINO NETO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303319-bolo-de-nutella-leite-ninho-e-kinder-bueno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303319-bolo-de-nutella-leite-ninho-e-kinder-bueno.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

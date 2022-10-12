@@ -12,18 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Coloque as torradas em uma forma para fazer",
-      "Coloque um pedaço de queijo branco na torrada",
-      "Coloque a pimenta-do-reino em pó",
-      "Cubra com uma fatia de mussarela",
-      "Coloque pimenta-do-reino e orégano",
-      "Coloque no forno em 180° C por 10 minutos",
-      "Retire do forno",
-      "Sirva-se",
-      "Aproveite!"
+      ""
     ]
   },
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JOÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305530-torrada-com-queijos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305530-torrada-com-queijos.html",
+  "tags": []
 }

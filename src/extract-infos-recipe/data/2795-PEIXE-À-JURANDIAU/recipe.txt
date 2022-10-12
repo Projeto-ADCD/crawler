@@ -39,5 +39,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "VERONICA APARECIDA FERNANDES SOARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304418-peixe-a-jurandiau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304418-peixe-a-jurandiau.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

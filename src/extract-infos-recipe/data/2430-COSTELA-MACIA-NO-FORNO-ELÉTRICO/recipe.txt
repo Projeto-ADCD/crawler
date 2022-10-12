@@ -30,5 +30,16 @@
   "tempo_de_preparo": "160 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MURILO EDUARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305238-costela-macia-no-forno-eletrico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305238-costela-macia-no-forno-eletrico.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

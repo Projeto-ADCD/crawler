@@ -37,5 +37,17 @@
   "tempo_de_preparo": "360 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ADRIANO DE LAURENTIIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309598-foccacia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309598-foccacia.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

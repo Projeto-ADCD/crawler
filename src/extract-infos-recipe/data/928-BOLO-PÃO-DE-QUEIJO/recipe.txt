@@ -23,5 +23,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LUCIANA DA MATA CREMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310859-bolo-pao-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310859-bolo-pao-de-queijo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

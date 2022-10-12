@@ -31,5 +31,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "LETTÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303460-torta-de-palmito-no-liquidificador-da-nonna.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303460-torta-de-palmito-no-liquidificador-da-nonna.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

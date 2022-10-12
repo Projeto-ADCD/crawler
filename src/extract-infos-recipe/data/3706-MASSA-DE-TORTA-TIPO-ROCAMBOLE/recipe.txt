@@ -24,5 +24,17 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ALEXSANDRO CHAUD",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302867-massa-de-torta-tipo-rocambole.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302867-massa-de-torta-tipo-rocambole.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

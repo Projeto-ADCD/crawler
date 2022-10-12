@@ -22,5 +22,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "VANIA CORTES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300716-maionese-de-soja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300716-maionese-de-soja.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

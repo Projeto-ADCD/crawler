@@ -19,20 +19,10 @@
       "óleo"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque o feijão carioquinha para cozinhar até ficar bem macio",
-      "Em outra panela doure o alho adicione o bacon e a calabresa",
-      "Frite em seguida tire um pouco do óleo, pois o bacon solta muita gordura ",
-      "Adicione o feijão cozido, as batatas e as cenouras também cozidas",
-      "Coloque o caldo de bacon e experimente para ver se está bom de sal",
-      "Adicione o louro (pode ser no cozimento do feijão também, eu gosto de colocar depois)",
-      "Adicione também o tomate, o pimentão e o curry ",
-      " "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "FERNANDA CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305318-feijao-carioquinha-da-fe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305318-feijao-carioquinha-da-fe.html",
+  "tags": []
 }

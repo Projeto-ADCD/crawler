@@ -36,5 +36,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "BRUNO RODRIGUES MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302601-lasanha-a-bolonhesa-de-abobrinha-na-air-fryer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302601-lasanha-a-bolonhesa-de-abobrinha-na-air-fryer.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

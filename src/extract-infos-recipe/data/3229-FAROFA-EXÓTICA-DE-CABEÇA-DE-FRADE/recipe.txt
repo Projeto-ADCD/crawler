@@ -27,5 +27,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "VIVIANE FELIX LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303691-farofa-exotica-de-cabeca-de-frade.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303691-farofa-exotica-de-cabeca-de-frade.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -26,5 +26,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "ROSANA DOMINGOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308134-bolinho-de-arroz-com-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308134-bolinho-de-arroz-com-frango.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

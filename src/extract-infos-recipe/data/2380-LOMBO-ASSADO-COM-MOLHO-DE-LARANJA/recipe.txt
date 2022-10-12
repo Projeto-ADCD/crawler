@@ -36,5 +36,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "RAFAEL CALDAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305354-lombo-assado-com-molho-de-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305354-lombo-assado-com-molho-de-laranja.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

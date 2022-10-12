@@ -11,16 +11,10 @@
       "2 colheres (sopa) de leite"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Cozinhe o macarrão instantâneo",
-      "Em outra panela, ligue o fogo e adicione o creme de leite, o requeijão, o leite, o tempero e misture bem.",
-      "Depois adicione o macarrão instantâneo no molho e adicione o presunto e o queijo",
-      "Sirva!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "BIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311576-miojo-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311576-miojo-cremoso.html",
+  "tags": []
 }

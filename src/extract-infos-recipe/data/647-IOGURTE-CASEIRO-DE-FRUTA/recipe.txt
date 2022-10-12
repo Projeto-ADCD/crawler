@@ -23,5 +23,12 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TALES DE BARROS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312174-iogurte-caseiro-de-fruta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312174-iogurte-caseiro-de-fruta.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

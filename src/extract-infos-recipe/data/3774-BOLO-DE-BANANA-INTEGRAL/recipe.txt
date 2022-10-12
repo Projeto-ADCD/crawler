@@ -16,18 +16,10 @@
       "2 colheres (sopa) de açúcar mascavo para calda"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Derreta o açucar da calda, adicione 4 bananas cortadas em rodelas e deixe caramelizar por uns 5min.",
-      "No liquidificador bata os ovos, as duas bananas restantes, o óleo e o leite.",
-      "Depois acrescente o açúcar e as ameixas e bata bem.",
-      "Enquanto isso já ligue o forno para aquecer, unte a forma com margarina e forre o fundo com as bananas caramelizadas",
-      "Em uma vasilha misture as farinhas e a aveia, adicione o conteúdo do liquidificador, misture bem e por último adicione o fermento e a canela em pó.",
-      "Despeje na forma e asse em forno médio por 40min."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "ANA LAURA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302728-bolo-de-banana-integral.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302728-bolo-de-banana-integral.html",
+  "tags": []
 }

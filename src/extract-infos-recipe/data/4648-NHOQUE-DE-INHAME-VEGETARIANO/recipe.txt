@@ -28,5 +28,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "CAMILA_SILLVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300590-nhoque-de-inhame-vegetariano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300590-nhoque-de-inhame-vegetariano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

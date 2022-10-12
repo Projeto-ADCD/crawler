@@ -32,5 +32,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ROSANA SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303316-pudim-de-creme-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303316-pudim-de-creme-de-leite.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

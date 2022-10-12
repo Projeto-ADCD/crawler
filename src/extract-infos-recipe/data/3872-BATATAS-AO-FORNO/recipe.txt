@@ -22,5 +22,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "PATRICIA KARIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302462-batatas-ao-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302462-batatas-ao-forno.html",
+  "tags": [
+    "BATATA",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

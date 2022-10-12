@@ -20,5 +20,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARIANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300796-leite-condensado-caseiro-da-mariana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300796-leite-condensado-caseiro-da-mariana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

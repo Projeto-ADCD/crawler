@@ -25,5 +25,17 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "CAMILA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307229-torta-salgada-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307229-torta-salgada-de-liquidificador.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

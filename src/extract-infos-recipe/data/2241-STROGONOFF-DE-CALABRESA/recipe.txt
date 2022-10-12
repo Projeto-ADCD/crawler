@@ -11,22 +11,10 @@
       "leite"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela, coloque óleo e a linguica calabresa (para dar uma “fritada”).",
-      "Adcione tempero a gosto (1 pitada de sal/1 pitada de cominho/ 1 pitada de curcuma/ 1 pitada de coloral)",
-      "Mexa bem",
-      "Adcione o tomate picado",
-      "Mexa por 1 minuto",
-      "Adcione o requeijão (sempre mexendo bem)",
-      "Adcione o creme de leite",
-      "Adcione uma pitada de mostarda (líquida)",
-      "Mexa bem por ate 2 minutos (caso o fundo ameace grudar, coloquei uma pitada de leite)",
-      "Basta servir"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SUELEN QUEIROZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305642-strogonoff-de-calabresa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305642-strogonoff-de-calabresa.html",
+  "tags": []
 }

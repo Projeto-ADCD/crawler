@@ -21,5 +21,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JOAO PEDRO LINDOLFO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302339-mini-pizza-de-pao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302339-mini-pizza-de-pao.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

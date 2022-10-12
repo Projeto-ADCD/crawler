@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ADRIANA NUNES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300295-arroz-com-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300295-arroz-com-cenoura.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

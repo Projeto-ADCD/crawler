@@ -22,5 +22,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "PAULO LUCIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312439-caldo-de-feijao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312439-caldo-de-feijao.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

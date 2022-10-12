@@ -32,5 +32,14 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PRI CAVALCANTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301313-bacalhau-a-ze-do-pipo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301313-bacalhau-a-ze-do-pipo.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -21,5 +21,12 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "FELIPE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301474-chocolate-quente-dos-momos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301474-chocolate-quente-dos-momos.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

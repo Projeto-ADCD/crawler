@@ -30,5 +30,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "EDMARA GARGARO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305556-tilapia-ao-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305556-tilapia-ao-forno.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

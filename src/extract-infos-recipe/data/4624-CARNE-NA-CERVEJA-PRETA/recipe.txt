@@ -28,5 +28,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "SERGIO COELHO RECEITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300707-carne-na-cerveja-preta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300707-carne-na-cerveja-preta.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

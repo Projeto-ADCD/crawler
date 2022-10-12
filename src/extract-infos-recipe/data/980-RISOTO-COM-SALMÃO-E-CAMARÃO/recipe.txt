@@ -30,5 +30,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "EDUARDO GARCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310643-risoto-com-salmao-e-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310643-risoto-com-salmao-e-camarao.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

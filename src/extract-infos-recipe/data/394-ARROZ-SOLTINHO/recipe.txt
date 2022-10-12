@@ -27,5 +27,15 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312952-arroz-soltinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312952-arroz-soltinho.html",
+  "tags": [
+    "ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

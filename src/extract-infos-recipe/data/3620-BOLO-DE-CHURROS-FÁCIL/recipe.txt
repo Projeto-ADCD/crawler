@@ -25,5 +25,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SUZANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303029-bolo-de-churros-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303029-bolo-de-churros-facil.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

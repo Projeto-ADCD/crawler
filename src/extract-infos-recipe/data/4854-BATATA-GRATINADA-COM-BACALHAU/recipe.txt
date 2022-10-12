@@ -29,5 +29,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RAQUEL SANTANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300086-batata-gratinada-com-bacalhau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300086-batata-gratinada-com-bacalhau.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -12,26 +12,10 @@
       "tempero e sal a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Corte a calabresa em cubos e frite",
-      "Prepare a carne moída",
-      "Depois que a carne moída estiver pronta, adicione a calabresa frita",
-      "Adicione o molho de tomate e mexa",
-      "Despeje 1 litro de água fervente na panela",
-      "Coloque o macarrão",
-      "Adicione o creme de leite e mexa",
-      "Feche a panela e espere-a pegar pressão",
-      "Assim que pegar pressão, conte exatos 3 minutos e desligue o fogo",
-      "Ponha o macarrão em um recipiente que vá ao forno",
-      "E, por cima, coloque a mussarela (de preferência, ralada) ou o queijo ralado",
-      "Coloque no forno até derreter o queijo por cima",
-      "Sirva",
-      "Bom apetite"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ESTER DINIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308318-macarrao-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308318-macarrao-na-panela-de-pressao.html",
+  "tags": []
 }

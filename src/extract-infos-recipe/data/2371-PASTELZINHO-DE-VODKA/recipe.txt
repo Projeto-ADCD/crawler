@@ -28,5 +28,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RACHEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305367-pastelzinho-de-vodka.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305367-pastelzinho-de-vodka.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

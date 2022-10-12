@@ -40,5 +40,14 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "WANDER CAMPANHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301164-yakissoba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301164-yakissoba.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -1,36 +1,10 @@
 {
   "nome_receita": "TORTA MIL FOLHAS",
-  "ingredientes": {
-    "DEFAULT": [
-      "1 pacote de massa folhada",
-      "2 xícaras (chá) de leite",
-      "1/3 xícara (chá) de açúcar",
-      "casca de meio limão",
-      "200 g de morangos",
-      "1/4 de xícara (chá) de amido de milho",
-      "3 gemas de ovo",
-      "1 colher (chá) de essência de baunilha",
-      "2 colheres (sopa) de açúcar de confeiteiro"
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Abra a massa em uma forma forrada com papel-manteiga ",
-      "Faça alguns furinhos nela com o auxílio de um garfo ",
-      "Leve à geladeira por 30 minutos ",
-      "Depois ao forno preaquecido a 180° C por 10 minutos ",
-      "Retire a massa do forno, deixe amornar e corte em 6 retângulos médios ",
-      "Reserve",
-      "Em uma panela junte o leite, o açúcar e o amido de milho ",
-      "Misture bem e junte as gemas batidas",
-      "Coloque a essência de baunilha e a casca do limão e misture tudo muito bem novamente ",
-      "Retire da panela e leve para esfriar com um papel-filme por cima",
-      "Monte a torta intercalando uma fatia da massa, um pouco do creme e os morangos",
-      "Quando colocar a última fatia de massa, finalize com o açúcar por cima de tudo"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309769-torta-mil-folhas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309769-torta-mil-folhas.html",
+  "tags": []
 }

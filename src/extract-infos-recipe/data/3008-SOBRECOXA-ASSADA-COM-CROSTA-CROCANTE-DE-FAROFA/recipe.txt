@@ -44,5 +44,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ÂNGELA MARIA MARSAROTTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304002-sobrecoxa-assada-com-crosta-crocante-de-farofa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304002-sobrecoxa-assada-com-crosta-crocante-de-farofa.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

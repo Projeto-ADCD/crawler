@@ -38,5 +38,12 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROMULO TORRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301723-consume-de-feijao-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301723-consume-de-feijao-verde.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

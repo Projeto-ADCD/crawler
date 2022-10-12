@@ -29,5 +29,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302766-bolinho-de-batata-supergostoso-no-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302766-bolinho-de-batata-supergostoso-no-forno.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

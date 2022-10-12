@@ -27,5 +27,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TAYLLA NEME",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309719-molho-de-pimenta-caseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309719-molho-de-pimenta-caseiro.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

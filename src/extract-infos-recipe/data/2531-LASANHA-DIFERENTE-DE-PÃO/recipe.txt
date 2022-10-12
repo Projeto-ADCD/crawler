@@ -32,5 +32,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "RITA GONZALEZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305017-lasanha-diferente-de-pao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305017-lasanha-diferente-de-pao.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

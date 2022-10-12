@@ -18,5 +18,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANGÉLICA CRUZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301933-omelete-de-aveia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301933-omelete-de-aveia.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

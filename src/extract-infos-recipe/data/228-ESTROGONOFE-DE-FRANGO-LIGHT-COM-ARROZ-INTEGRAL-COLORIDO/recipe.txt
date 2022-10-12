@@ -44,5 +44,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "AUGUSTA ESTRADA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313848-estrogonofe-de-frango-light-com-arroz-integral-colorido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313848-estrogonofe-de-frango-light-com-arroz-integral-colorido.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

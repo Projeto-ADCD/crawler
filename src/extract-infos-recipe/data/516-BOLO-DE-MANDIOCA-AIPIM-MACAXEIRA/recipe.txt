@@ -27,5 +27,15 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ALINE ROQUE DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312625-bolo-de-mandioca-aipim-macaxeira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312625-bolo-de-mandioca-aipim-macaxeira.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

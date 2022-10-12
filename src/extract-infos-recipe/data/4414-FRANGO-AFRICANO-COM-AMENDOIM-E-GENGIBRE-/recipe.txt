@@ -32,5 +32,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PÂMELA NEDER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301177-frango-africano-com-amendoim-e-gengibre.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301177-frango-africano-com-amendoim-e-gengibre.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

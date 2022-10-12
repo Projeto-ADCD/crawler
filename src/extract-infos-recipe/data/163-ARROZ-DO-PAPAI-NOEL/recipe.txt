@@ -22,5 +22,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ALLIZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314103-arroz-do-papai-noel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314103-arroz-do-papai-noel.html",
+  "tags": [
+    "ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

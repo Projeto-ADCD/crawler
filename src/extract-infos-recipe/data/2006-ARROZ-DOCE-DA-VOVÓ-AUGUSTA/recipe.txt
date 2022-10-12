@@ -31,5 +31,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "PAULO OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306208-arroz-doce-da-vovo-augusta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306208-arroz-doce-da-vovo-augusta.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -22,5 +22,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ELOISA GARCIA DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303965-sobremesa-da-vovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303965-sobremesa-da-vovo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

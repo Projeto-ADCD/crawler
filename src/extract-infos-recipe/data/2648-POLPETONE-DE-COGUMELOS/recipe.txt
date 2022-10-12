@@ -38,5 +38,16 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304742-polpetone-de-cogumelos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304742-polpetone-de-cogumelos.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

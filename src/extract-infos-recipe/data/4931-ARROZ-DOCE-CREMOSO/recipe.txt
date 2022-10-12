@@ -26,5 +26,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LILIAN & EDUARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299928-arroz-doce-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299928-arroz-doce-cremoso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

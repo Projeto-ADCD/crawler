@@ -12,15 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Coloque a batata em água fervente por 5 minutos",
-      "Escorra a batata e espere esfriar bem",
-      "Após esfriar, misture o amido de milho, a mussarela, o presunto, o sal e os temperos",
-      "Forre um tabuleiro com papel manteiga",
-      "Coloque pequenas porções no tabuleiro e leve ao congelador por no mínimo 2 hrs",
-      "Após congelado, frite em óleo bem quente"
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "GISELLE CIRINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312007-hash-brown.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312007-hash-brown.html",
+  "tags": []
 }

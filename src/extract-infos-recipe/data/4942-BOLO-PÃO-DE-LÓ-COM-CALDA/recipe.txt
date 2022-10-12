@@ -42,5 +42,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "CAMILA GALVÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299896-bolo-pao-de-lo-com-calda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299896-bolo-pao-de-lo-com-calda.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -27,5 +27,17 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "HUGO MILER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308452-pao-caseiro-do-hugo-miler.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308452-pao-caseiro-do-hugo-miler.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

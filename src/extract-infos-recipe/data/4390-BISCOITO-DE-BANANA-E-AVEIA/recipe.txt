@@ -20,5 +20,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "GIO HAMACEK",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301248-biscoito-de-banana-e-aveia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301248-biscoito-de-banana-e-aveia.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

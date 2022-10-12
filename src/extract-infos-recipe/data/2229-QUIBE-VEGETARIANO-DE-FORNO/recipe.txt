@@ -28,5 +28,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "STHEFANIA DARLING",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305662-quibe-vegetariano-de-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305662-quibe-vegetariano-de-forno.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

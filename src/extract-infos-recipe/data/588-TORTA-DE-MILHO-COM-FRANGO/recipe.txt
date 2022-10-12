@@ -40,5 +40,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DONA BENTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312433-torta-de-milho-com-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312433-torta-de-milho-com-frango.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

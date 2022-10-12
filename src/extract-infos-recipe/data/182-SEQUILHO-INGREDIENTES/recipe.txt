@@ -1,0 +1,36 @@
+{
+  "nome_receita": "SEQUILHO 3 INGREDIENTES",
+  "ingredientes": {
+    "MASSA ": [
+      "500 g de amido de milho  ",
+      "2 colheres (sopa) de margarina Claybom sabor manteiga  ",
+      "1 lata de leite condensado  "
+    ],
+    "COBERTURA ": [
+      "200 g de chocolate meio amargo derretido"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Em uma tigela, junte o amido de milho com a margarina Claybom sabor manteiga e o leite condensado. Misture sovando  levemente até obter uma massa firme e homogênea. ",
+      "Faça bolinhas, achate-as em formato de disco e disponha em uma assadeira untada e enfarinhada. ",
+      "Leve para assar em forno preaquecido a 180° C por aproximadamente 15 minutos ou até que fiquem firmes mas ainda branquinhos. ",
+      "Retire os biscoitos do forno e molhe metade de cada um deles no chocolate derretido. Deixe secar e  sirva a seguir."
+    ]
+  },
+  "tempo_de_preparo": "30 MIN",
+  "rendimento": "15 PORÇÕES",
+  "autor": "CLAYBOM",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314061-sequilho-3-ingredientes.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
+}

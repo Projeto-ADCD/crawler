@@ -21,5 +21,17 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "PRISCILA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303444-massa-de-pizza-de-frigideira-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303444-massa-de-pizza-de-frigideira-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

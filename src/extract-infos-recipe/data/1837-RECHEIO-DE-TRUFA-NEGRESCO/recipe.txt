@@ -24,5 +24,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "DUDA GALVÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306656-recheio-de-trufa-negresco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306656-recheio-de-trufa-negresco.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

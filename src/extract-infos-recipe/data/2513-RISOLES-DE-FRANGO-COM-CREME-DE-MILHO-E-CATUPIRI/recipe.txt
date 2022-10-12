@@ -42,5 +42,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "TIAKI MIZUKI ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305046-risoles-de-frango-com-creme-de-milho-e-catupiri.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305046-risoles-de-frango-com-creme-de-milho-e-catupiri.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

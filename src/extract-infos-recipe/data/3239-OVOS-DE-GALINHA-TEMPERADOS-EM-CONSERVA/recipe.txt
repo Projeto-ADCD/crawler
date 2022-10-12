@@ -27,5 +27,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "DENISE SARAIVA JARDIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303672-ovos-de-galinha-temperados-em-conserva.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303672-ovos-de-galinha-temperados-em-conserva.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

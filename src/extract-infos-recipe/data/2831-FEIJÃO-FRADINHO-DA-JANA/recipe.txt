@@ -32,5 +32,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JANAINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304319-feijao-fradinho-da-jana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304319-feijao-fradinho-da-jana.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

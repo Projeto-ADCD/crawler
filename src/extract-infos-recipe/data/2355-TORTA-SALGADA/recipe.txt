@@ -28,5 +28,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "18 PORÇÕES",
   "autor": "CAROL MENEZES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305423-torta-salgada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305423-torta-salgada.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

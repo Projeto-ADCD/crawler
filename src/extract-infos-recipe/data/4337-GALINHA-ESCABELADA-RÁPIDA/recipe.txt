@@ -27,5 +27,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAMILA RENÉ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301347-galinha-escabelada-rapida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301347-galinha-escabelada-rapida.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -35,5 +35,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "9 PORÇÕES",
   "autor": "JEAN CARLOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304883-lasanha-de-carne-de-soja-da-semana-santa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304883-lasanha-de-carne-de-soja-da-semana-santa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

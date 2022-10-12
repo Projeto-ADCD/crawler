@@ -12,18 +12,10 @@
       "4 limões"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "No liquidificador, coloque o óleo, os ovos, o iogurte, o açúcar e a farinha.",
-      "Bata bem.",
-      "Acrescente o fermento e misture delicadamente com uma colher.",
-      "Coloque em uma forma untada e enfarinhada e leve para assar em forno médio até dourar.",
-      "Enquanto o bolo está no forno, misture o leite condensado com o suco (puro) de 4 limões, misture bem e reserve na geladeira.",
-      "Depois de desenformar o bolo e esfriar, adicione a calda de leite condensado e decore com raspas de limão."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "CAROLINE PORTUGAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301470-bolo-de-iogurte.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301470-bolo-de-iogurte.html",
+  "tags": []
 }

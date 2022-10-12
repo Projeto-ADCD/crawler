@@ -23,5 +23,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "EDSON PENGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300238-brigadeiro-russo-kartoshka.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300238-brigadeiro-russo-kartoshka.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -22,5 +22,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "EDSON PEDRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307931-tomates-verdes-fritos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307931-tomates-verdes-fritos.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

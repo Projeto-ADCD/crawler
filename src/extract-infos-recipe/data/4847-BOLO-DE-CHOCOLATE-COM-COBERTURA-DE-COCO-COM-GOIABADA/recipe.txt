@@ -30,5 +30,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "RITA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300104-bolo-de-chocolate-com-cobertura-de-coco-com-goiabada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300104-bolo-de-chocolate-com-cobertura-de-coco-com-goiabada.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

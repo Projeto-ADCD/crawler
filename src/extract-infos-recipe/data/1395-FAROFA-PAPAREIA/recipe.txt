@@ -25,5 +25,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "PAOLA ANDRADE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308557-farofa-papareia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308557-farofa-papareia.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

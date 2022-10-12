@@ -12,13 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Adicione todos os ingredientes em uma tigela e misture com a ponta dos dedos",
-      "Quando a massa ficar homogênea coloque em uma forma (não precisa untar) pegue um garfo e fasa vários furinhos na massa",
-      "Coloque a massa no forno preaquecido a 180° C ou a 200° C por 10 a 15 minutos ou até dourar"
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANA JULIA FERREIRA ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306281-massa-coringa-de-torta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306281-massa-coringa-de-torta.html",
+  "tags": []
 }

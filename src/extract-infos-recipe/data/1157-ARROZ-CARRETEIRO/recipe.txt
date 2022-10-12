@@ -36,5 +36,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JOSE BREDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309561-arroz-carreteiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309561-arroz-carreteiro.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

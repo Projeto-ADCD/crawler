@@ -57,5 +57,14 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "AMANDHA ADULIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312956-orange-chicken-frango-oriental-com-molho-de-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312956-orange-chicken-frango-oriental-com-molho-de-laranja.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

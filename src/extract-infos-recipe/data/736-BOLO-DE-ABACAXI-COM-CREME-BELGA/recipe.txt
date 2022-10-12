@@ -37,5 +37,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "MATHEUS RIBEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311823-bolo-de-abacaxi-com-creme-belga.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311823-bolo-de-abacaxi-com-creme-belga.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

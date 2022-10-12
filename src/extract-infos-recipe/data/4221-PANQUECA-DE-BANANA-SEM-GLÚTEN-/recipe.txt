@@ -19,5 +19,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CHEF I.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301558-panqueca-de-banana-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301558-panqueca-de-banana-sem-gluten.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

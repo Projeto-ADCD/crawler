@@ -32,5 +32,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "BEM BRASIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312860-galinhada-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312860-galinhada-com-batata.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

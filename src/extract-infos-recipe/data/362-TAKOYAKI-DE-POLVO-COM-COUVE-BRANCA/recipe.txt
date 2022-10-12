@@ -30,5 +30,14 @@
   "tempo_de_preparo": "300 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANTONIO SUEITT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313088-takoyaki-de-polvo-com-couve-branca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313088-takoyaki-de-polvo-com-couve-branca.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

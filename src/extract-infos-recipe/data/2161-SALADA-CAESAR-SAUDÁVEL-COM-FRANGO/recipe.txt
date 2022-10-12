@@ -19,39 +19,13 @@
       "1 mostarda dijon ou comum",
       "1/2  dente de alho cru ou cozido",
       "1 colher (sopa) de molho inglês",
-      "100 g de parmesão ralado",
-      "sal e pimenta-do-reino",
-      "1 colher (sopa) de alcaparras",
-      "Tomate confit",
-      "5 tomates italianos maduros picados em quatro",
-      "100 g de açúcar de coco ou outro açúcar saudável de sua preferência",
-      "1 maço de manjericão (só as folhas)",
-      "100 ml de aceto balsâmico",
-      "100 ml de shoyo light, coco aminos (shoyo de coco) ou molho tipo tamari",
-      "100 ml de azeite extravirgem",
-      "pimenta-do-reino a gosto"
+      ""
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Prepare o filezinho de peito de frango em crosta de grãos da Seara Nature assado ou frito na airfrayer conforme as intruções na embalagem.",
-      "Salada",
-      "Pique os palmitos ao meio e coloque-os em uma frigideira.",
-      "Adicione um filete de azeite de oliva extravirgem, salpique sal e pimenta-do-reino e coloque os ramos de alecrim por cima.",
-      "Grelhe os palmitos brevemente até ficarem dourados e deixe esfriar.",
-      "Misture as folhas de alface, com os pepinos, as folhas de manjericão e as lascas de parmesão e tempere tudo com o molho abaixo.",
-      "Molho",
-      "Bata todos os ingredientes em um liquidificador.",
-      "Tomates confit",
-      "Em uma assadeira, disponha os tomates picados e adicione os demais ingredientes.",
-      "Certifique-se de que os tomates estão bem temperados e “lambuzados”.",
-      "Preaqueça o forno a 200° C e asse-os por 30 minutos.",
-      "Na metade do tempo, abra o forno e misture-os.",
-      "Junte todos os ingredientes e, para finalizar a salada, salpique sementes de abóbora e de girassol torradas, ou mix de nuts de sua preferência."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SEARA NATURE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305813-salada-caesar-saudavel-com-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305813-salada-caesar-saudavel-com-frango.html",
+  "tags": []
 }

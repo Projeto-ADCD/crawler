@@ -28,5 +28,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MAGALI OLIVEIRA LIMA VAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303968-farofa-de-feijao-fradinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303968-farofa-de-feijao-fradinho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

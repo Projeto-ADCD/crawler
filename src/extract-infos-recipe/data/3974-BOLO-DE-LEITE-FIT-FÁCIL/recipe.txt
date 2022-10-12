@@ -31,5 +31,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA KATHERINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302272-bolo-de-leite-fit-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302272-bolo-de-leite-fit-facil.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -20,5 +20,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309291-abobora-recheada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309291-abobora-recheada.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -46,5 +46,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ROBERT WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306976-yakisoba-facil-e-barato.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306976-yakisoba-facil-e-barato.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

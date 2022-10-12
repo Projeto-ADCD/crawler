@@ -37,5 +37,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "SOUDIET SOUDIET",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303647-bolo-de-coco-sem-gluten-e-sem-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303647-bolo-de-coco-sem-gluten-e-sem-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

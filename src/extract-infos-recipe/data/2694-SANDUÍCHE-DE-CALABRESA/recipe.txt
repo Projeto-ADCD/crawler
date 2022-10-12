@@ -35,5 +35,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SEAN OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304633-sanduiche-de-calabresa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304633-sanduiche-de-calabresa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

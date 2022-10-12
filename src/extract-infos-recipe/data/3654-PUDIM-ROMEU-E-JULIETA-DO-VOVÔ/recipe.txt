@@ -30,5 +30,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "ALE POLYDORO SENA MAIA CAMARGO DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302970-pudim-romeu-e-julieta-do-vovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302970-pudim-romeu-e-julieta-do-vovo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

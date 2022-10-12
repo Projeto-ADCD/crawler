@@ -26,5 +26,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SIDNEI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305500-pao-italiano-na-panela-roncelli.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305500-pao-italiano-na-panela-roncelli.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

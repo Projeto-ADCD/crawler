@@ -20,5 +20,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "CAMILA GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303821-cuscuz-com-milho-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303821-cuscuz-com-milho-verde.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

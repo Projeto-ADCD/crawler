@@ -22,5 +22,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "CARLA GOMES DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306247-brownie-de-batata-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306247-brownie-de-batata-doce.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

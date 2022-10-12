@@ -12,12 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Bata o danone e a quantidade de vodka que quiser",
-      "Em seguida corte todos os morangos eem rodela e bata com o danone e a vodka depois acrescente o leite condesanddo e o gelo e bata tudo",
-      "Depois e só se servir"
+      ""
     ]
   },
   "tempo_de_preparo": "8 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "HELLEN REGINA SOUSA AMARANTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311908-batida-de-morango-com-dadone.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311908-batida-de-morango-com-dadone.html",
+  "tags": []
 }

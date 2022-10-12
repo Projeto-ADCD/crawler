@@ -34,5 +34,8 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "-15 PORÇÕES",
   "autor": "MARIA MARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309623-bolo-organico-de-banana-com-ameixa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309623-bolo-organico-de-banana-com-ameixa.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

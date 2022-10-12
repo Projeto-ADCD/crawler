@@ -32,5 +32,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "ALINE SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303046-macarrao-delicioso-com-dois-molhos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303046-macarrao-delicioso-com-dois-molhos.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

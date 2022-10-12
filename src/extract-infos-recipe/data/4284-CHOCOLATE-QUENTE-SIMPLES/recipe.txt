@@ -12,13 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Adicione a colher de amido de milho à água. Misture bem e reserve.",
-      "Numa panela pequena, adicione o leite, o açúcar chocolate em pó e leve ao fogo baixo.",
-      "Quando levantar fervura, adicione o amigo de milho dissolvido e mexa até chegar à textura que você deseja.",
-      "Sirva numa xícara ou caneca, e adicione uma lasca de canela para dar sabor suave."
+      ""
     ]
   },
   "tempo_de_preparo": "7 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CARLOS EDUARDO NEVES GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301469-chocolate-quente-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301469-chocolate-quente-simples.html",
+  "tags": []
 }

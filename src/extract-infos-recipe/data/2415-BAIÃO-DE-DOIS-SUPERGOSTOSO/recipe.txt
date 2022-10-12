@@ -38,5 +38,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DIEGO LUCENA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305269-baiao-de-dois-supergostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305269-baiao-de-dois-supergostoso.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

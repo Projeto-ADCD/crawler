@@ -29,5 +29,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MAYELLY ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301424-misto-de-presunto-e-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301424-misto-de-presunto-e-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

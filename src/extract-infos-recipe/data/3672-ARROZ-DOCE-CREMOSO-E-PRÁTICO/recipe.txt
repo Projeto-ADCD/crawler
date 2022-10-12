@@ -24,5 +24,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "EDMAR DANY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302942-arroz-doce-cremoso-e-pratico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302942-arroz-doce-cremoso-e-pratico.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

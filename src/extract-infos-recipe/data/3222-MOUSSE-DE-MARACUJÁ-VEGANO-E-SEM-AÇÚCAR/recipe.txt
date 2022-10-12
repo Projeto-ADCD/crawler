@@ -22,5 +22,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JOHNNY BEZERRA DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303708-mousse-de-maracuja-vegano-e-sem-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303708-mousse-de-maracuja-vegano-e-sem-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

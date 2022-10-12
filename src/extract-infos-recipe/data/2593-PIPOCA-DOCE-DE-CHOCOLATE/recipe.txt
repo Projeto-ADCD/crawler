@@ -12,13 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Coloque todos os ingredientes na panela e mecha até ferver",
-      "Depois de fervido coloque a tampa é deixe lá até estourar",
-      "Depois de pronto coloque o leite ninho"
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "70 PORÇÕES",
   "autor": "ANA JULIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304861-pipoca-doce-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304861-pipoca-doce-de-chocolate.html",
+  "tags": []
 }

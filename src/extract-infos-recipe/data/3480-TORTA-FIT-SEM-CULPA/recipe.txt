@@ -25,5 +25,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LUCAS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303271-torta-fit-sem-culpa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303271-torta-fit-sem-culpa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

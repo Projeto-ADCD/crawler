@@ -23,5 +23,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BARBARA CÂMARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307384-arroz-doce-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307384-arroz-doce-simples.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

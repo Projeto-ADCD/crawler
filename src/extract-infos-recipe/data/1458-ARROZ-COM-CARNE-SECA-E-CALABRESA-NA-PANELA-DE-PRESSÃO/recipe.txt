@@ -37,5 +37,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308213-arroz-com-carne-seca-e-calabresa-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308213-arroz-com-carne-seca-e-calabresa-na-panela-de-pressao.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

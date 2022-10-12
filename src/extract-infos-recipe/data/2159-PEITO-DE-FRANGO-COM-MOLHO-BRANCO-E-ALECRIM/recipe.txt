@@ -33,5 +33,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "CLARICE RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305816-peito-de-frango-com-molho-branco-e-alecrim.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305816-peito-de-frango-com-molho-branco-e-alecrim.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

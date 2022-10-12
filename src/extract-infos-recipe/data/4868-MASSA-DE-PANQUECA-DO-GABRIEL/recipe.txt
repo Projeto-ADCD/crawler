@@ -22,5 +22,17 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIEL FORATO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300044-massa-de-panqueca-do-gabriel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300044-massa-de-panqueca-do-gabriel.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

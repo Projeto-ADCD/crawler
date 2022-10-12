@@ -33,5 +33,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JULIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307338-panqueca-de-carne-com-nozes-e-castanha-de-caju.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307338-panqueca-de-carne-com-nozes-e-castanha-de-caju.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

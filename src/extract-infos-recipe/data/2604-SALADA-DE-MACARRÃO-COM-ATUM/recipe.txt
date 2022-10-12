@@ -17,16 +17,10 @@
       "azeite a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma travessa misture a cenoura ralada, os tomates, palmito, azeitona, o atum e todos os temperos",
-      "Misture bem.",
-      "Em uma travessa coloque o macarrão aos poucos regando com azeite e misturando com os demais ingredientes",
-      "Leve para gelar e está pronta para servir"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "ROSANA APARECIDA DO NASCIMENTO WOSNIAK",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304833-salada-de-macarrao-com-atum.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304833-salada-de-macarrao-com-atum.html",
+  "tags": []
 }

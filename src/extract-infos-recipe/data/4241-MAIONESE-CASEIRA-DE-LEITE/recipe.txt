@@ -22,5 +22,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "GABRIEL AMBRÓZIO AYRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301529-maionese-caseira-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301529-maionese-caseira-de-leite.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

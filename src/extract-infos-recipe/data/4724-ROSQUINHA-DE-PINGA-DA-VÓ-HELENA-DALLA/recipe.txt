@@ -36,5 +36,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "EDILSON TORRE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300352-rosquinha-de-pinga-da-vo-helena-dalla.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300352-rosquinha-de-pinga-da-vo-helena-dalla.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

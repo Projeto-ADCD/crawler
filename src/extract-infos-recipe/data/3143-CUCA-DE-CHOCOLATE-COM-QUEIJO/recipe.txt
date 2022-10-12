@@ -46,5 +46,17 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303819-cuca-de-chocolate-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303819-cuca-de-chocolate-com-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -26,5 +26,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ROSIMEIRE MONEGATTO BALDICEROTTI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300135-sopa-de-capeletti-da-rosimeire.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300135-sopa-de-capeletti-da-rosimeire.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

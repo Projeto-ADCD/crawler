@@ -34,5 +34,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "24 PORÇÕES",
   "autor": "TYAGO BENITES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300694-torta-de-presunto-e-mussarela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300694-torta-de-presunto-e-mussarela.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

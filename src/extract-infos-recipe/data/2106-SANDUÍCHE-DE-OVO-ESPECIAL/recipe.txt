@@ -21,5 +21,14 @@
   "tempo_de_preparo": "3 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "GIOVANA FREES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305991-sanduiche-de-ovo-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305991-sanduiche-de-ovo-especial.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

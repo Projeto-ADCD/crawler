@@ -32,5 +32,12 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GILBERTO AMORIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304275-caldinho-de-feijao-preto-com-pimentao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304275-caldinho-de-feijao-preto-com-pimentao.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -30,5 +30,15 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "YASMIM T.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302303-bolinho-de-chuva-de-cenoura-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302303-bolinho-de-chuva-de-cenoura-delicioso.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

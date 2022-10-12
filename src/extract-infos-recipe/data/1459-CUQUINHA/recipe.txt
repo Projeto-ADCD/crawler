@@ -25,5 +25,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ADRIANE SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308208-cuquinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308208-cuquinha.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

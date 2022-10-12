@@ -42,5 +42,14 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "SIDNEY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310322-pao-de-calabresa-perfeito-com-linguica-fresca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310322-pao-de-calabresa-perfeito-com-linguica-fresca.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

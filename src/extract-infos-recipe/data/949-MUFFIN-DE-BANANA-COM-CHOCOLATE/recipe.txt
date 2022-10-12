@@ -22,5 +22,14 @@
   "tempo_de_preparo": "3 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "VEGETARI BELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310774-muffin-de-banana-com-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310774-muffin-de-banana-com-chocolate.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

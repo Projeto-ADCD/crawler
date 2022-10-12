@@ -12,18 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Faça um caramelo bem espesso e acrescente o creme de leite e a pitada de sal.",
-      "Coloque uma pequena porção no fundo dos recipientes onde será servido e reserve.",
-      "Ferva o leite e a pipoca por 1 minuto aproximadamente.",
-      "Amasse a pipoca levemente.",
-      "Passe por uma peneira para retirar os pedaços grandes de pipoca e acrescente a gelatina.",
-      "Coloque leite em cima do caramelo. O recipiente deve ser montado com caramelo, leite e pode ser enfeitado com pipoca.",
-      "Levar para gelar por pelo menos 2 horas.",
-      "Pode-se mudar as proporções de creme de leite no caramelo, para que fique um pouco mais firme ou mais cremoso."
+      ""
     ]
   },
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JERIKOH O'CRU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304310-caramelo-salgado-com-creme-de-pipoca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304310-caramelo-salgado-com-creme-de-pipoca.html",
+  "tags": []
 }

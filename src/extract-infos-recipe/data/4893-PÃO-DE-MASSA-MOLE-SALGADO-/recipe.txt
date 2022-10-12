@@ -23,5 +23,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "NOSSO PÃO DE CADA DIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300004-pao-de-massa-mole-salgado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300004-pao-de-massa-mole-salgado.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

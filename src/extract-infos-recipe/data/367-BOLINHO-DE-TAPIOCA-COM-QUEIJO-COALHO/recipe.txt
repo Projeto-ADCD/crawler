@@ -27,5 +27,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CHEF JOÃO DIAMANTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313079-bolinho-de-tapioca-com-queijo-coalho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313079-bolinho-de-tapioca-com-queijo-coalho.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

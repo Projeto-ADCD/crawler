@@ -32,5 +32,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RUANE TORRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305878-tacos-barra-fajitas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305878-tacos-barra-fajitas.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

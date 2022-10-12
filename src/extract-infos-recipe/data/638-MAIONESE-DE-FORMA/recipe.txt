@@ -30,5 +30,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "GISELLE CIRINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312211-maionese-de-forma.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312211-maionese-de-forma.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

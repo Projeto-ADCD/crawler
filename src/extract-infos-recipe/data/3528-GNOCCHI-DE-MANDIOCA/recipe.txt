@@ -49,5 +49,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TERTULIANOVPS FRIVOLOLVS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303195-gnocchi-de-mandioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303195-gnocchi-de-mandioca.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

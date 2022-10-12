@@ -24,5 +24,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "JOJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304219-biscoito-goiabinha-da-jo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304219-biscoito-goiabinha-da-jo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

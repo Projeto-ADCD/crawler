@@ -23,5 +23,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "NELIMAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304766-bolo-de-polvilho-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304766-bolo-de-polvilho-doce.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

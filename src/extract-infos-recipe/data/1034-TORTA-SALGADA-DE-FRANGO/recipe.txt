@@ -44,5 +44,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ANDREZA CAMPESTRINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310320-torta-salgada-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310320-torta-salgada-de-frango.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

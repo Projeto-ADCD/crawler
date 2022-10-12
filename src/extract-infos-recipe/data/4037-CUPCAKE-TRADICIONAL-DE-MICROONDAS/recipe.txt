@@ -19,5 +19,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "ROZICLEIA SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302088-cupcake-tradicional-de-microondas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302088-cupcake-tradicional-de-microondas.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

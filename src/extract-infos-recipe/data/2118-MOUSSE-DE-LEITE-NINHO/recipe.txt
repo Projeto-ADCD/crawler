@@ -24,5 +24,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "CARLA RORIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305968-mousse-de-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305968-mousse-de-leite-ninho.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

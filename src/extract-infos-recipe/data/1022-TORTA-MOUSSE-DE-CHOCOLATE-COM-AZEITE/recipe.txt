@@ -43,5 +43,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GALLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310414-torta-mousse-de-chocolate-com-azeite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310414-torta-mousse-de-chocolate-com-azeite.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

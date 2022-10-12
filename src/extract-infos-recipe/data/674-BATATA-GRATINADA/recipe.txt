@@ -12,17 +12,10 @@
       "1 kg de batata descascada e fatiada em camadas muito finas (cerca de 3 mm de espessura)"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Pré-aqueça o forno a 220 ° C. Derreta a margarina Becel Amanteigado e unte a forma",
-      "Misture a margarina restante, a cebola, o sal, o manjericão, o tomilho e a pimenta numa tigela pequena e a deixe de lado. ",
-      "Coloque 1/3 das batatas na forma preparada em um padrão circular. Passe por cima margarina Becel e espalhe as cebolas. Repita essa mesma camada por mais 2 vezes. ",
-      " ",
-      "Cubra e leve ao forno por 30 minutos. Descubra e asse até que as batatas estejam macias e crocantes, por cerca de 30 minutos. Deixe repousar 10 minutos antes servindo. Corte em fatias."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "150 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "BECEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312055-batata-gratinada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312055-batata-gratinada.html",
+  "tags": []
 }

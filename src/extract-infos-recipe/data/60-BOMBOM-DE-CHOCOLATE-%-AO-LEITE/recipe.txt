@@ -1,0 +1,51 @@
+{
+  "nome_receita": "BOMBOM DE CHOCOLATE 50% AO LEITE",
+  "ingredientes": {
+    "BOMBOM": [
+      "250 g de chocolate 50% ao leite Mendoá temperado "
+    ],
+    "PARA OS PRALINÉ": [
+      "1 xícara de castanha de caju ",
+      "1 xícara de açúcar refinado ou cristal"
+    ],
+    "COCO CREMOSO": [
+      "395 g de leite condensado ",
+      "200 g de creme de leite ",
+      "100 g de coco ralado fresco"
+    ]
+  },
+  "passos": {
+    "DERRETENDO CHOCOLATE": [
+      "Utilizamos o processo de temperagem de 34 graus",
+      "Consiste em derreter o chocolate na potência quatro do micro-ondas e em vários tempos de poucos segundos (no máximo 50), sem que passe dessa temperatura. "
+    ],
+    "PRALINÉ": [
+      "Em uma panela, derreta o açúcar completamente em fogo médio e após isso adicione as castanha e mexa até que fique completamente envolvida no açúcar. ",
+      "Disponha em uma tapete de silicone e deixe esfriar completamente para só então cortar ou triturar."
+    ],
+    "COCO CREMOSO": [
+      "Em uma panela adicione os ingredientes e mexa bem, após levantar a fervura conte cinco minutos e desligue o fogo. Coloque em um bowl para esfriar completamente. "
+    ],
+    "PREPARO DO BOMBOM": [
+      "Coloque o chocolate temperado em uma forma de acetato e leve à refrigeração até que a forma fique fosca, indicando assim que está na hora de desenforme. ",
+      "Tire a parte do silicone e coloque o recheio nos bombons. ",
+      "Acione o chocolate derretido e temperado para fechar e leve à geladeira até que fique fosco. ",
+      "Desenforme e o seu bombom já estará pronto!"
+    ]
+  },
+  "tempo_de_preparo": "240 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "MENDOÁ",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314635-bombom-de-chocolate-50-porcento-ao-leite.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
+}

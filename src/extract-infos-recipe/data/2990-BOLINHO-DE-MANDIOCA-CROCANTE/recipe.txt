@@ -29,5 +29,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "HELENA GOMES COELHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304023-bolinho-de-mandioca-crocante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304023-bolinho-de-mandioca-crocante.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

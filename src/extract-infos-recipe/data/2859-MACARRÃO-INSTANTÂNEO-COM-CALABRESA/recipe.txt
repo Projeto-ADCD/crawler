@@ -22,5 +22,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "SAMI DANIEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304269-macarrao-instantaneo-com-calabresa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304269-macarrao-instantaneo-com-calabresa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

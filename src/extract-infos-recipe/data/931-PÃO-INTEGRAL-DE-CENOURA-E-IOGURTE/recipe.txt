@@ -35,5 +35,14 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "RITA CARLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310853-pao-integral-de-cenoura-e-iogurte.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310853-pao-integral-de-cenoura-e-iogurte.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

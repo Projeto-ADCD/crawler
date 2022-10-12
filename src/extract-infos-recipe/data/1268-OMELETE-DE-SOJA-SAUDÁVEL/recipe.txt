@@ -28,5 +28,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "KEILA FONSECA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309182-omelete-de-soja-saudavel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309182-omelete-de-soja-saudavel.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

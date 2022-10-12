@@ -20,5 +20,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA ROCHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308722-omelete-de-talo-de-couve.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308722-omelete-de-talo-de-couve.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -17,21 +17,10 @@
       "1 alho "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Inicie pelo molho, em uma panela com fogo alto coloque o azeite, frite a cebola  picada até dourar",
-      "Logo em seguida acrescente o alho e a cenoura picada, depois a calabresa e o bacon e por fim coloque a carne, mexa por cerca de 5 minutos",
-      "Abaixe o fogo e acrescente o molho de tomate e água, mexa, depois tampe e deixe cozinhar por 15 minutos e reserve.",
-      "Unte uma forma de bolo com furo no meio com manteiga, forre com a massa da lasanha, deixando parte da massa para fora, coloque uma camada de molho",
-      "Faça uma próxima camada de mussarela, depois uma outra camada de presunto e repita as camadas, massa, molho, mussarela, presunto.",
-      "Para finalizar dobre as sobras de massa para dentro e complete com massa e acrescente o resto do molho.",
-      "Cubra com papel alumínio e leve ao forno preaquecido por 15 minutos a 160º C e retire do forno, espere esfriar uns 10 minutos e desenforme numa travessa.",
-      "Adicione queijo mussarela e parmesão ralado em cima para cobrir e leve de volta ao forno por 20 minutos a 220º C.",
-      "Retire do forno, e deixe esfriar 5 minutos e depois é só servir."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MARCELO GOBERTO AZEVEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308425-bolo-de-lasanha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308425-bolo-de-lasanha.html",
+  "tags": []
 }

@@ -27,5 +27,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FRANCIELLEN QUEDEVEZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304953-biscoito-assado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304953-biscoito-assado.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

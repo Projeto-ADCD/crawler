@@ -49,5 +49,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313829-pao-de-batata-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313829-pao-de-batata-com-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

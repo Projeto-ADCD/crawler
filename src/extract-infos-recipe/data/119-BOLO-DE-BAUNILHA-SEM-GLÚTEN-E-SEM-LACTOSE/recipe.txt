@@ -29,5 +29,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "MARIA DA GRAÇA SOARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314386-bolo-de-baunilha-sem-gluten-e-sem-lactose.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314386-bolo-de-baunilha-sem-gluten-e-sem-lactose.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

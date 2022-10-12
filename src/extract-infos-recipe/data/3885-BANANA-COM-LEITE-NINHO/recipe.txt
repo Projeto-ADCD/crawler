@@ -16,5 +16,14 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA CLARA RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302434-banana-com-leite-ninho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302434-banana-com-leite-ninho.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

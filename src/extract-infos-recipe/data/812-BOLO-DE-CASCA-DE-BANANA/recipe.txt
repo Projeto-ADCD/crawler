@@ -21,5 +21,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ANIELY ANSELMO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311466-bolo-de-casca-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311466-bolo-de-casca-de-banana.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

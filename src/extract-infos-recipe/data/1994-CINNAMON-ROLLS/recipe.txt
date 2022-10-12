@@ -36,5 +36,17 @@
   "tempo_de_preparo": "225 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "JÚLIA FRANÇA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306237-cinnamon-rolls.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306237-cinnamon-rolls.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -45,5 +45,16 @@
   "tempo_de_preparo": "70 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303838-costelinha-de-porco-com-queijo-coalho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303838-costelinha-de-porco-com-queijo-coalho.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -24,5 +24,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "LUCILIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300234-biscoito-de-polvilho-frito.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300234-biscoito-de-polvilho-frito.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

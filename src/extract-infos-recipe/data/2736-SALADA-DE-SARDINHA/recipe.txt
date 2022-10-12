@@ -28,5 +28,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "KAROK",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304546-salada-de-sardinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304546-salada-de-sardinha.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

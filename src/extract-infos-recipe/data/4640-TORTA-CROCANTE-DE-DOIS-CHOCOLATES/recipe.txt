@@ -28,5 +28,15 @@
   "tempo_de_preparo": "210 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300672-torta-crocante-de-dois-chocolates.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300672-torta-crocante-de-dois-chocolates.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

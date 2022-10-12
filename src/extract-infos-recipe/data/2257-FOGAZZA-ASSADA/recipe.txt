@@ -25,5 +25,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "DANIELE GRACIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305618-fogazza-assada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305618-fogazza-assada.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

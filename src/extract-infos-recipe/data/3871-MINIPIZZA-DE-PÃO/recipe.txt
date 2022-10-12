@@ -26,5 +26,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "PATRICIA KARIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302463-minipizza-de-pao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302463-minipizza-de-pao.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

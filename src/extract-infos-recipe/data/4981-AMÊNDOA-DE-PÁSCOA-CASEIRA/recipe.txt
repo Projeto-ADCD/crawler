@@ -20,5 +20,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MAGALI INACIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299802-amendoa-de-pascoa-caseira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299802-amendoa-de-pascoa-caseira.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

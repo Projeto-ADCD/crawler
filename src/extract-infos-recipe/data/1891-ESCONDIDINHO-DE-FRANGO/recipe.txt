@@ -39,5 +39,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JULIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306511-escondidinho-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306511-escondidinho-de-frango.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

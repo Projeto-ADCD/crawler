@@ -19,5 +19,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ITIARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300249-massa-de-pizza-sem-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300249-massa-de-pizza-sem-leite.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

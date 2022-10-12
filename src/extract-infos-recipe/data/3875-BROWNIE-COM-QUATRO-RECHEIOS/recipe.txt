@@ -67,5 +67,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "DANIELE AMORIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302455-brownie-com-quatro-recheios.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302455-brownie-com-quatro-recheios.html",
+  "tags": [
+    "BROWNIE",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

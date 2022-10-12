@@ -20,5 +20,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "CAMILA_SILLVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301394-hamburguer-de-aveia-da-camila.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301394-hamburguer-de-aveia-da-camila.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

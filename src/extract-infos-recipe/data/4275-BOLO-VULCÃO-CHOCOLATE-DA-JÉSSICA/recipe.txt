@@ -31,5 +31,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "JÉSSICA MARTINS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301481-bolo-vulcao-chocolate-da-jessica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301481-bolo-vulcao-chocolate-da-jessica.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -33,5 +33,15 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAMILA PINHEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311330-bolo-de-laranja-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311330-bolo-de-laranja-vegano.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

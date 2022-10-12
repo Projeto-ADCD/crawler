@@ -33,5 +33,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANTONIO SUEITT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313087-takoyaki-de-lula-cozida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313087-takoyaki-de-lula-cozida.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

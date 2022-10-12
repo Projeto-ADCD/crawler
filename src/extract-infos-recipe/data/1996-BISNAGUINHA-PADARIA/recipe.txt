@@ -28,5 +28,17 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JULIANO JUNIOR DE LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306231-bisnaguinha-padaria.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306231-bisnaguinha-padaria.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

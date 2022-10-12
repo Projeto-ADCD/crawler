@@ -17,33 +17,10 @@
       "1/2 xicara (chá) de azeitonas verdes picadas"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Massa",
-      "Coloque em um recipiente o fermento e o açúcar e dissolva.",
-      "Adicione o leite, os ovos, margarina e vai adicionando aos poucos a farinha de trigo até que vire uma massa que desgrude das mãos.",
-      "Sove bem a massa por aproximadamente 5 minutos, e deixe crescer até dobrar de volume, cerca de 1 hora de descanso.",
-      "Reserve.",
-      "Recheio",
-      "Coloque em uma frigideira, o bacon e a calabresa e frite.   ",
-      "Quando começar a dourar, adicione as cebolas e azeitonas.",
-      "Depois adicione a água e refogue até que a cebola fique macia",
-      "Adicione a farofa e mexa até incorporá-la ao recheio.",
-      "Transfira o recheio para outro recipiente e aguarde esfriar.",
-      "Reserve",
-      "Em uma superfície seca, polvilhe trigo e transfira a massa e comece a sovar",
-      "Adicione o recheio frio e incorpore na massa.",
-      "Sove por aproximadamente 3 minutos e divida a massa em duas partes",
-      "Coloque em formas de papel-manteiga para panetone.",
-      "Cubra e deixe descansar até que dobre de volume (cerca de 50 minutos).",
-      "Pincele com a gema e leve ao forno médio 200° C preaquecido por 40 minutos. "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Receita enviada por Erivaldo Mascarenhas da Cruz"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "120 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304240-panetone-salgado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304240-panetone-salgado.html",
+  "tags": []
 }

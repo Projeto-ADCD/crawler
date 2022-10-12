@@ -23,5 +23,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JOSY GONÇALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303100-doce-de-abacaxi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303100-doce-de-abacaxi.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -12,17 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Lave as folhas e coloque em um recipiente",
-      "Adicione os tomates",
-      "Adicione a mussarela picada",
-      "Em seguida, junte a maionese e o queijo ralado",
-      "Se for adicionar os filés de frango, tempere de sua preferência e frite antes",
-      "Junte-os em cubos por cima da salada",
-      "Bom apetite"
+      ""
     ]
   },
   "tempo_de_preparo": "5 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MICHAEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300797-salada-top-e-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300797-salada-top-e-facil.html",
+  "tags": []
 }

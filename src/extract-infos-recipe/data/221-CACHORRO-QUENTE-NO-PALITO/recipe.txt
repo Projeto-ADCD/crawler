@@ -26,13 +26,12 @@
       "Enfie as linguiças (com atenção) em palitos de churrasco",
       "Empane as linguiças com essa mistura com cuidado ",
       "Cubra tudo com o queijo ralado",
-      "Leve para fritar em uma panela com óleo",
-      "Deixe dourar e retire",
-      "Sirva com molhos a gosto"
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313886-cachorro-quente-no-palito.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313886-cachorro-quente-no-palito.html",
+  "tags": []
 }

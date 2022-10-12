@@ -21,34 +21,10 @@
       "1 ovo"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Massa",
-      "Misture o trigo e o sal num bowl com uma colher ate misturar bem.",
-      "Adicione a manteiga, misture bem com uma colher ou com as mãos.",
-      "Adicione a gema e o leite aos poucos, e misture até começar a formar a massa.",
-      "Separe a massa em dois e amasse até virarem discos e coloque na geladeira para descansar por cerca de 20 minutos.",
-      "Enquanto isso, faça o recheio.",
-      "Recheio",
-      "Coloque a carne moída, a páprica, a pimenta, o cominho e o sal numa tigela grande, misture tudo e reserve até a hora de usar.",
-      "Derreta a manteiga em uma frigideira, adicione a cebola e o sal e cozinhe até a cebola ficar macia.",
-      "Adicione a carne à cebola e cozinhe em fogo médio até a carne estar no ponto.",
-      "Deixe a carne esfriar e misture a cebolinha e o orégano.",
-      "Montagem",
-      "Em uma superfície com trigo abra a massa deixando-a bem fina e corte discos para as empanadas (pode usar um potinho como molde).",
-      "Coloque uma colher da carne no centro de cada disco e coloque as azeitonas, se desejar.",
-      "Pincele as bordas dos discos de empanadas com clara de ovo (a clara de ovo é uma cola natural que ajuda a fechar as empanadas).",
-      "Dobre os discos de empanadas e cole as bordas gentilmente usando os dedos, vire e dobre as bordas com os dedos, e como o passo final use um garfo para apertar e terminar de selar as empanadas.",
-      "Pincele as empanadas com a gema, isso dará um toque dourado quando assarem.",
-      "Deixe as empanadas descansarem na geladeira por aproximadamente 30 minutos ou até poder assar.",
-      "Asse em forno preaquecido a 200º C por 20 a 30 minutos ou até dourarem em cima."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "de 3/4 a 1 xícara de leite quente\nUse 1 ovo( clara e gema separadas batidas)\nCebolas cortadas em cubos cerca de 3 xícaras"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "JESSICA MOREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309117-empanada-argentina-de-carne-com-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309117-empanada-argentina-de-carne-com-cebola.html",
+  "tags": []
 }

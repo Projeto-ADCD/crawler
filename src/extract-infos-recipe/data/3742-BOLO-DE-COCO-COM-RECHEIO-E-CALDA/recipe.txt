@@ -43,5 +43,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MIRIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302799-bolo-de-coco-com-recheio-e-calda.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302799-bolo-de-coco-com-recheio-e-calda.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

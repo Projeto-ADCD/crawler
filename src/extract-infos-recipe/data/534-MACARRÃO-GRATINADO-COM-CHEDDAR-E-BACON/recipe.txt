@@ -31,5 +31,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DELÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312582-macarrao-gratinado-com-cheddar-e-bacon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312582-macarrao-gratinado-com-cheddar-e-bacon.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -25,5 +25,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "AMANDA SILVA NASCIMENTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305520-requeijao-cremoso-caseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305520-requeijao-cremoso-caseiro.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

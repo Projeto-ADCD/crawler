@@ -25,5 +25,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GUILHERMO MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301426-omelete-com-couve.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301426-omelete-com-couve.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

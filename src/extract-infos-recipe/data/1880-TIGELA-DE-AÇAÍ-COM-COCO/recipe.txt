@@ -27,5 +27,14 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "FROOTY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306545-tigela-de-acai-com-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306545-tigela-de-acai-com-coco.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

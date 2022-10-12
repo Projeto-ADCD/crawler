@@ -11,22 +11,10 @@
       " "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque a carne na água de limão por 10 minutos, depois descarte a água de limão em água corrente",
-      "Depois coloque na salmora a 10% (pra 1 litro de água colocar 100 g de sal), por um período mínimo de 15 minutos, podendo ser feito até um dia antes que não salga",
-      "Caso veja cristais de sal, retire e não precisa lavar",
-      "Retire da salmora e tempere como quiser, leve ao forno por 2 horas em fogo baixo, ou na churrasqueira no papel-alumínio",
-      "Após isso retire, corte em tamanhos pequenos, veja o seu ponto de sal, coloque no óleo quente até afundar ",
-      "Quando estiver no ponto da pururuca está pronto",
-      " "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Dica: sirva com uma cerveja gelada."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "150 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FABRICIO NUNES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303575-torresmo-a-pururuca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303575-torresmo-a-pururuca.html",
+  "tags": []
 }

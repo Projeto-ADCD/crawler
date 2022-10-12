@@ -12,12 +12,12 @@
     "DEFAULT": [
       "Esprema as laranjas e o limão",
       "Misture os suco das frutas com a água e leve ao fogo",
-      "Deixe no fogo até levantar fervura",
-      "Adoce o chá (caso desejar) e sirva"
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "HARU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310060-cha-de-laranja-e-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310060-cha-de-laranja-e-limao.html",
+  "tags": []
 }

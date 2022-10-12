@@ -35,5 +35,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "GILDA FERREIRA MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303897-panetone-salgado-salgatone.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303897-panetone-salgado-salgatone.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

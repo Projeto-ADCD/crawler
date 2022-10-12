@@ -29,5 +29,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CHLOE TRODEGAUFFRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310598-torta-de-atum-e-tomate-a-provencale.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310598-torta-de-atum-e-tomate-a-provencale.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

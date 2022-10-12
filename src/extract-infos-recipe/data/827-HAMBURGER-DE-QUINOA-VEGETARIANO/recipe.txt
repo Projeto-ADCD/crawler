@@ -30,5 +30,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "PABLO REIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311410-hamburger-de-quinoa-vegetariano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311410-hamburger-de-quinoa-vegetariano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

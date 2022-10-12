@@ -29,5 +29,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LEOZÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310909-contra-filet-ao-molho-de-bourbon.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310909-contra-filet-ao-molho-de-bourbon.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

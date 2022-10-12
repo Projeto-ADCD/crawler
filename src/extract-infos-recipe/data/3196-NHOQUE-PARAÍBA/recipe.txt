@@ -12,22 +12,10 @@
       "pimenta caiena a gosto "
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque azeite e 1/2 cebola bem picadinha, refogue e jogue a carne seca",
-      "Refogue mais um pouco",
-      "Cozinhe a abóbora, faça um purê e coloque a manteiga e o cottage no purê",
-      "Prepare o molho: misture o purê com a carne seca refogada, acrescente o creme de leite e a pimenta caiena (o molho não pode ficar nem mole demais nem duro)",
-      "Cozinhe o nhoque e coloque na travessa",
-      "Jogue o molho por cima e o parmesão",
-      "Sirva bem quentinho "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Receita enviada por Sônia Cristina Gomes Kuhn"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303753-nhoque-paraiba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303753-nhoque-paraiba.html",
+  "tags": []
 }

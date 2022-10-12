@@ -25,5 +25,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "GABII",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308167-bombons-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308167-bombons-de-morango.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -34,5 +34,17 @@
   "tempo_de_preparo": "175 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313802-babka-ou-pao-doce-recheado-de-goiabada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313802-babka-ou-pao-doce-recheado-de-goiabada.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

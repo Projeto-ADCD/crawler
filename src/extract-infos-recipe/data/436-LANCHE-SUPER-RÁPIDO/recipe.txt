@@ -18,20 +18,10 @@
       "orégano a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Bata todos os ingredientes",
-      "Despeje a massa em uma frigideira untada e aquecida",
-      "Espalhe a massa no fundo da frigideira",
-      "Deixe a massa dourar de um lado e vire para dourar do outro lado",
-      "Espalhe o catchup e o requeijão na massa",
-      "Coloque os outros recheios",
-      "Dobre a massa ao meio e depois dobre novamente ao meio .",
-      "Pronto só colocar no prato e saborear"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "GLAYLTON FERNANDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312838-lanche-super-rapido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312838-lanche-super-rapido.html",
+  "tags": []
 }

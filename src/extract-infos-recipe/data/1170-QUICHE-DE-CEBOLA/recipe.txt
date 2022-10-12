@@ -44,5 +44,17 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "VALE FÉRTIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309504-quiche-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309504-quiche-de-cebola.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -39,5 +39,12 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUCAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301493-caldo-de-batata-com-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301493-caldo-de-batata-com-carne.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

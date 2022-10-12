@@ -29,5 +29,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "JESSICA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302405-pao-caseiro-fofinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302405-pao-caseiro-fofinho.html",
+  "tags": [
+    "PÃO",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

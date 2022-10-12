@@ -34,5 +34,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DEIA BUDEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299877-peixe-assado-da-deia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299877-peixe-assado-da-deia.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

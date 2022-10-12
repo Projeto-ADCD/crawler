@@ -29,5 +29,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "DANUBIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306712-pao-de-queijo-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306712-pao-de-queijo-facil.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

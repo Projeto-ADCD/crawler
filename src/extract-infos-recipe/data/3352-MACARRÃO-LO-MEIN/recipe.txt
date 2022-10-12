@@ -25,5 +25,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "HILÁRIO FERNANDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303518-macarrao-lo-mein.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303518-macarrao-lo-mein.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

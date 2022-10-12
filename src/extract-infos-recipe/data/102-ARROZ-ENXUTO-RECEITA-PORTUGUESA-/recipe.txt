@@ -1,0 +1,39 @@
+{
+  "nome_receita": "ARROZ ENXUTO (RECEITA PORTUGUESA)",
+  "ingredientes": {
+    "DEFAULT": [
+      "1 cebola média picada",
+      "4 dentes de alho picados",
+      "2 xícaras de arroz",
+      "2 batatas médias",
+      "2 xícaras de água",
+      "2 xícaras da água do cozimento da costela de porco",
+      "1 maço de couve",
+      "600 g a 700 g de costela de porco salgada"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Deixe de molho a costela de um dia para o outro trocando a água de duas a três vezes para dessalgar.",
+      "Cozinhe a costela dessalgada na panela de pressão por aproximadamente 30 minutos ou até que fique cozida e fácil de desprender do osso, corte grosseiramente e reserve a água do cozimento.",
+      "Refogue o alho e a cebola, acrescente o arroz e as batatas cortadas grosseiramente, coloque 2 xícaras da água do cozimento da costela e mais 2 xícaras de água.",
+      "Tempere com sal e pimenta a gosto.",
+      "Quando as batatas estiverem quase cozidas, acrescente a couve cortada grosseiramente e misture, em seguida acrescente a costela e deixe cozinhar até quase secar a água.",
+      "Se necessário, acrescente mais água para ajudar a misturar a couve e a costela e acerte o sal.",
+      "A receita deve ficar mais úmida e não soltinho."
+    ]
+  },
+  "tempo_de_preparo": "60 MIN",
+  "rendimento": "6 PORÇÕES",
+  "autor": "FERNANDA FREITAS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/314448-arroz-enxuto-receita-portuguesa.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
+}

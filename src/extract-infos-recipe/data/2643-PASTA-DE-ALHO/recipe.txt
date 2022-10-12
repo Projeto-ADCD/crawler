@@ -24,5 +24,15 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA FLÁVIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304753-pasta-de-alho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304753-pasta-de-alho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -26,5 +26,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "THAUANA BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305160-conchiglione-de-presunto-e-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305160-conchiglione-de-presunto-e-queijo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -22,5 +22,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "146 PORÇÕES",
   "autor": "ANGELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299737-bolachinhas-de-amido-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299737-bolachinhas-de-amido-de-milho.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -12,16 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Em uma panela coloque as batatas sem casca e deixe cozinharem.",
-      "Depois de colocar as batatas para cozinhar, pique a cebola e doure-a em uma panela diferente.",
-      "Depois, junte a carne moída e deixe cozinhar até secar a água que soltou.",
-      "Quando as batatas começarem a ferver, cronometre de 7 a 10 minutos",
-      "Bata no liquidificador o tomate sem semente",
-      "Despeje o extrato de tomate e o molho triturado no liquidificador",
-      "Deixe cozinhar até ficar homogêneo e sirva"
+      ""
     ]
   },
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "EMANUELLE BISUTTI GARDINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302618-carne-moida-com-batatas-brancas-ao-molho-vermelho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302618-carne-moida-com-batatas-brancas-ao-molho-vermelho.html",
+  "tags": []
 }

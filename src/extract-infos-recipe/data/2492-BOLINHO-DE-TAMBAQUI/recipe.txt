@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "VEYDA NERY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305082-bolinho-de-tambaqui.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305082-bolinho-de-tambaqui.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

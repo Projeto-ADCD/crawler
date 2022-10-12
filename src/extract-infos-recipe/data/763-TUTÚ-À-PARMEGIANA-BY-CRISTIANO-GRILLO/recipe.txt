@@ -37,5 +37,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CRISTIANO GRILLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311665-tutu-a-parmegiana-by-cristiano-grillo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311665-tutu-a-parmegiana-by-cristiano-grillo.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

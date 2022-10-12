@@ -16,20 +16,10 @@
       "1 colher (sopa) de gengibre ralado"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Massa",
-      "Bata os ovos, o óleo, o suco de laranja e o gengibre no liquidificador por alguns minutos.",
-      "Misture a farinha e o açúcar em uma tigela e depois despeje a mistura do liquidificador na tigela e bata bem.",
-      "Em seguida, misture o fermento e bata devagar.",
-      "Por último, em uma forma redonda grande untada com manteiga e farinha despeje a massa e deixe assar em forno preaquecido na temperatura média por cerca de 30 a 40 minutos ou até dourar.",
-      "Calda",
-      "Coloque o suco de laranja, o gengibre e o açúcar em uma panela e deixe ferver por cerca de 20 minutos",
-      "Em seguida despeje em cima do bolo ainda quente."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "CHRISTINA MAGALHÃES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307906-bolo-de-laranja-com-gengibre-e-calda-de-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307906-bolo-de-laranja-com-gengibre-e-calda-de-laranja.html",
+  "tags": []
 }

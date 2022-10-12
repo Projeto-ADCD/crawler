@@ -22,5 +22,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JOAO PAULO CORDOBA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306363-maminha-ao-molho-de-cerveja-preta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306363-maminha-ao-molho-de-cerveja-preta.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

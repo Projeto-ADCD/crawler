@@ -23,5 +23,15 @@
   "tempo_de_preparo": "7 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RAFAELA RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309576-arroz-maluco-receita-super-rapida-e-nutritiva-para-o-jantar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309576-arroz-maluco-receita-super-rapida-e-nutritiva-para-o-jantar.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JÉSSICA WAZ SIMON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304429-tempero-caseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304429-tempero-caseiro.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

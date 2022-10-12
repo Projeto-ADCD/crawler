@@ -34,5 +34,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "DANIELA VOLTZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308536-risoto-simples-gostoso-sem-carne-vegetariano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308536-risoto-simples-gostoso-sem-carne-vegetariano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

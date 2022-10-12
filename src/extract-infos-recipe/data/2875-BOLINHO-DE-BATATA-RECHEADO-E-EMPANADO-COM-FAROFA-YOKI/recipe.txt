@@ -52,5 +52,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304242-bolinho-de-batata-recheado-e-empanado-com-farofa-yoki.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304242-bolinho-de-batata-recheado-e-empanado-com-farofa-yoki.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

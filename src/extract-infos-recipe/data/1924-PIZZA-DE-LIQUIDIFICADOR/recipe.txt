@@ -20,5 +20,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "KELLY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306415-pizza-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306415-pizza-de-liquidificador.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

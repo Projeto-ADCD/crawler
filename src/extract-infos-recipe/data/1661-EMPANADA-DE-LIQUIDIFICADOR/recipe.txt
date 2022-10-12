@@ -33,5 +33,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "LUNA ALMEIDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307250-empanada-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307250-empanada-de-liquidificador.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

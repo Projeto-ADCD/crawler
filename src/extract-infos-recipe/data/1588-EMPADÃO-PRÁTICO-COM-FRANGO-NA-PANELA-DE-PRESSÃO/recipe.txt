@@ -39,5 +39,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DAYANA ANDRADE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307497-empadao-pratico-com-frango-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307497-empadao-pratico-com-frango-na-panela-de-pressao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

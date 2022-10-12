@@ -21,5 +21,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CAROL DÁVILA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310255-geleia-de-casca-de-abacaxi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310255-geleia-de-casca-de-abacaxi.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

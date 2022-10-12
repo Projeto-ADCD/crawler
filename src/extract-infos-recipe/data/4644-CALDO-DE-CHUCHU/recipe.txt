@@ -28,5 +28,12 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JÚLIA PINHEIRO DE SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300598-caldo-de-chuchu.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300598-caldo-de-chuchu.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

@@ -32,5 +32,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301581-pao-de-batata-de-frigideira-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301581-pao-de-batata-de-frigideira-facil.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

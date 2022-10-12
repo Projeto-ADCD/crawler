@@ -26,5 +26,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "NILSON ANTONIO GOMES DE MATOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303270-biscoito-de-polvilho-com-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303270-biscoito-de-polvilho-com-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

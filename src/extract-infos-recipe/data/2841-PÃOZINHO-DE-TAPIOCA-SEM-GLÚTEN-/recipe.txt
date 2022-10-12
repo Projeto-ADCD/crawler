@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "NATALY LANÇA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304302-paozinho-de-tapioca-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304302-paozinho-de-tapioca-sem-gluten.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

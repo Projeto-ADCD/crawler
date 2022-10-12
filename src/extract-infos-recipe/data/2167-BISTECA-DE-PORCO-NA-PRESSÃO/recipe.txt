@@ -27,5 +27,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "JÉSSICA WAZ SIMON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305803-bisteca-de-porco-na-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305803-bisteca-de-porco-na-pressao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

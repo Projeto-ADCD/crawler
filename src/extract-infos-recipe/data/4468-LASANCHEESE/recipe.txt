@@ -52,5 +52,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CAROLINE FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301039-lasancheese.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301039-lasancheese.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

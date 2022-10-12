@@ -22,5 +22,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "GEORGE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304988-frango-grelado-com-chimichurri.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304988-frango-grelado-com-chimichurri.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

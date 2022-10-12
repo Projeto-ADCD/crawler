@@ -29,5 +29,15 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MICHELE CARLA DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304061-farofa-maravilha-de-sardinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304061-farofa-maravilha-de-sardinha.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

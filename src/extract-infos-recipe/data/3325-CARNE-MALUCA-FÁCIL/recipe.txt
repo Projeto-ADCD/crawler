@@ -33,5 +33,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ELAINE CATARINA DE SOUZA CARNEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303558-carne-maluca-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303558-carne-maluca-facil.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

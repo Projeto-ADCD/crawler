@@ -24,5 +24,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "FROOTY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306090-cheesecake-de-acai.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306090-cheesecake-de-acai.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

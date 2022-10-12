@@ -36,5 +36,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PRISCILA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304434-torta-liquidificador-salsicha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304434-torta-liquidificador-salsicha.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

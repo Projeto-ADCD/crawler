@@ -31,5 +31,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "BEATRIZ MONGE PAIVA MANCINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300822-bolo-de-cenoura-com-cobertura-de-maionese.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300822-bolo-de-cenoura-com-cobertura-de-maionese.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

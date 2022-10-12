@@ -19,5 +19,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "FRANCIELLE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303930-maionese-caseira-com-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303930-maionese-caseira-com-limao.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

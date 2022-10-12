@@ -64,5 +64,14 @@
   "tempo_de_preparo": "65 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CARLOS HENRIQUE DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300105-abadejo-ao-molho-vermelho-em-crosta-de-coco-com-pure-de-inhame.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300105-abadejo-ao-molho-vermelho-em-crosta-de-coco-com-pure-de-inhame.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -35,5 +35,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CLÁUDIO ALLEGRINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303296-berinjela-aperitivo-a-italiana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303296-berinjela-aperitivo-a-italiana.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

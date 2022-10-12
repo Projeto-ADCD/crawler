@@ -20,5 +20,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "LAURA DE CASTRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311143-compota-de-goiaba-especial-a-lorra.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311143-compota-de-goiaba-especial-a-lorra.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

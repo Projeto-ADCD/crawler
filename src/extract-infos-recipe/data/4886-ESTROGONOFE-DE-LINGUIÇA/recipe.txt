@@ -26,5 +26,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ROSEVANE RIBEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300013-estrogonofe-de-linguica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300013-estrogonofe-de-linguica.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

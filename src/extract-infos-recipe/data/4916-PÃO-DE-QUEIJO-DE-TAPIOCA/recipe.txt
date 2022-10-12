@@ -12,21 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Leve o leite para ferver, assim que levantar fervura desligue e reserve.",
-      "Em um tigela coloque a tapioca e junte o leite ainda quente",
-      "Misture bem e deixe descansar por aproximadamente 10 minutos ",
-      "Coloque o ovo, o queijo e o polvilho (adicione o polvilho aos poucos) e misture novamente",
-      "Misture tudo muito bem e com o auxílio de 2 colheres modeles os pães em uma assadeira antiaderente ou untada.",
-      "Leve ao forno preaquecido (180° C) entre 30 a 35 minutos ou até que estejam douradinhos.",
-      "Sirva em seguida.",
-      " "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Conserve fora da geladeira por até 2 dias e congele antes de assar.\nRende entre 18 a 20 pães de queijo\nDicas e substituições\n- Não dá para usar a \"goma de tapioca \" nesta receita\n- O queijo pode ser qualquer um que derreta ( dê preferência para os amarelos)\n- Pode substituir por leite de inhame ou soja\n- Se preferir pode polvilhar queijo ralado por cima antes de assar.\n "
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "18 PORÇÕES",
   "autor": "SILVIA KOTAKA \" MAMÃE VIDA SAUDÁVEL\"",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299955-pao-de-queijo-de-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299955-pao-de-queijo-de-tapioca.html",
+  "tags": []
 }

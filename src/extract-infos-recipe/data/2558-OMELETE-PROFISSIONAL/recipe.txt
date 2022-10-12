@@ -20,5 +20,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "DONA JAMIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304947-omelete-profissional.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304947-omelete-profissional.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

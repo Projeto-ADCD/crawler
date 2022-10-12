@@ -25,5 +25,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DANIELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302117-feijao-de-corda-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302117-feijao-de-corda-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

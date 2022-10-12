@@ -27,5 +27,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CINTIA & ISADORA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303252-panqueca-americana-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303252-panqueca-americana-doce.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

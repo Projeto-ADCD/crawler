@@ -24,5 +24,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "ANDRE THEISS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303013-abobora-recheada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303013-abobora-recheada.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

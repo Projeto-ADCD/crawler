@@ -20,5 +20,12 @@
   "tempo_de_preparo": "3 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JÉSSICA ANTUNES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/316925-pina-colada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/316925-pina-colada.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

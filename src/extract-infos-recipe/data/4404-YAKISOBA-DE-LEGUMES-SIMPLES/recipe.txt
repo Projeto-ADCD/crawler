@@ -31,5 +31,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "WILLIAM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301198-yakisoba-de-legumes-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301198-yakisoba-de-legumes-simples.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

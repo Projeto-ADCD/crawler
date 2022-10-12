@@ -25,5 +25,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "MONICA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304650-chipa-paraguaia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304650-chipa-paraguaia.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

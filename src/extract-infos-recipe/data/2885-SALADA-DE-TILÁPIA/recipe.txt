@@ -30,5 +30,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "IONE MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304230-salada-de-tilapia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304230-salada-de-tilapia.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

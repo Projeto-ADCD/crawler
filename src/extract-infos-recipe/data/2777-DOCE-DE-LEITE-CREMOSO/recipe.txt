@@ -17,5 +17,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MUNDO DAS MARAVILHAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304445-doce-de-leite-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304445-doce-de-leite-cremoso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

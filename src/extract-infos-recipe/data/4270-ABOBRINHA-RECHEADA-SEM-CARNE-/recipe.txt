@@ -31,5 +31,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MILENA MANTELLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301488-abobrinha-recheada-sem-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301488-abobrinha-recheada-sem-carne.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

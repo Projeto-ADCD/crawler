@@ -26,5 +26,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LARISSA DE SOUZA DOMINGOS TAVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303921-farofa-de-banana-facil-e-rapida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303921-farofa-de-banana-facil-e-rapida.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

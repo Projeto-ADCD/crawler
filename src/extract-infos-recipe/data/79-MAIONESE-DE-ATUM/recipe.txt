@@ -33,5 +33,15 @@
   "tempo_de_preparo": "65 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GOMES DA COSTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314579-maionese-de-atum.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314579-maionese-de-atum.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

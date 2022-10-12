@@ -14,20 +14,10 @@
       "2 caldos de legumes"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque a mandioca para cozinhar na panela de pressão até que esteja mole",
-      "Logo após, bata no liquidificador a mandioca com o caldo do cozimento, reserve",
-      "Em uma panela, refogue o bacon, a calabresa, o alho e a cebola.",
-      "Deixe dar uma leve refogada e logo em seguida adicione a couve",
-      "Refogue a couve até dar uma murchada",
-      "Logo em seguinda adocione a mandioca batida",
-      "Em seguida, deixe levantar fervura e adicione o sal, caso seja necessario",
-      "Não usei a óleo para fritar o bacon, usei o próprio óleo do bacon para o preparo"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "NUBIA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300938-caldo-verde-da-nubia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300938-caldo-verde-da-nubia.html",
+  "tags": []
 }

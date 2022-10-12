@@ -24,5 +24,16 @@
   "tempo_de_preparo": "0 MIN",
   "rendimento": "0 PORÇÕES",
   "autor": "BRUNO MALTEZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300413-almondegas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300413-almondegas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

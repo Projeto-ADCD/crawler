@@ -20,5 +20,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "PEDRO HENRIQUE RIOS DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301658-creme-de-milho-do-pedrao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301658-creme-de-milho-do-pedrao.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

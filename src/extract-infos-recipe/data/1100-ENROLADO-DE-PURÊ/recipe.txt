@@ -1,34 +1,10 @@
 {
   "nome_receita": "ENROLADO DE PURÊ",
-  "ingredientes": {
-    "DEFAULT": [
-      "3 batatas cozidas",
-      "2 colheres (sopa) de cheiro-verde",
-      "sal a gosto",
-      "pimenta-do-reino preta a gosto",
-      "16 tiras de bacon",
-      "200 g de queijo minas meia cura em fatias finas",
-      "150 g de presunto em fatias finas"
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Cozinhe, escorra e coloque as batatas em um recipiente",
-      "Amasse bem todas elas, até formar um purê",
-      "Junte o cheiro-verde, o sal e a pimenta",
-      "Misture tudo muito bem e reserve",
-      "Em uma tábua de madeira, acomode as fatias de bacon, intercalando uma do lado da outra",
-      "No meio, coloque um pouco do purê temperado e faça uma marca no meio ",
-      "Acomode o presunto e o queijo ",
-      "Coloque mais purê por cima e molde bem para ficar bem acomodado",
-      "Feche o purê com as fatias de bacon, intercalando e formando uma espécie de rocambole ",
-      "Amarre tudo com pedaços de barbante ",
-      "Leve ao forno a 200° C por 15 minutos",
-      "Retire os barbantes e sirva"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309892-enrolado-de-pure.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309892-enrolado-de-pure.html",
+  "tags": []
 }

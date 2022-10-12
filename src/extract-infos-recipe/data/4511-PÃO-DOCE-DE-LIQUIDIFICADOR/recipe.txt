@@ -24,5 +24,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VIVIANE FLORES FERRARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300957-pao-doce-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300957-pao-doce-de-liquidificador.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

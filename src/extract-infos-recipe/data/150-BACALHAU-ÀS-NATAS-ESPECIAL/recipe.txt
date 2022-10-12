@@ -43,5 +43,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CHEFFRANÇOIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314179-bacalhau-as-natas-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314179-bacalhau-as-natas-especial.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

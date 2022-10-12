@@ -24,5 +24,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303500-farofa-de-pinhao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303500-farofa-de-pinhao.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

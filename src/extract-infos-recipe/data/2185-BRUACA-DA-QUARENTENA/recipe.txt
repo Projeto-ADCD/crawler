@@ -24,5 +24,14 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ROSYE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305767-bruaca-da-quarentena.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305767-bruaca-da-quarentena.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

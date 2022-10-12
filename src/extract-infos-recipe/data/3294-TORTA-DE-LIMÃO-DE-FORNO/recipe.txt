@@ -21,5 +21,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JÚLIA ALVARENGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303597-torta-de-limao-de-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303597-torta-de-limao-de-forno.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -22,5 +22,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "NAYARA DELEPRANÍ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303229-bolo-de-requeijao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303229-bolo-de-requeijao.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

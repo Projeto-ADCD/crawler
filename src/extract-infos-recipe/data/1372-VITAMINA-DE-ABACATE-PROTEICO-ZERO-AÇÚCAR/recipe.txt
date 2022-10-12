@@ -16,5 +16,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JÉSSICA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308677-vitamina-de-abacate-proteico-zero-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308677-vitamina-de-abacate-proteico-zero-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

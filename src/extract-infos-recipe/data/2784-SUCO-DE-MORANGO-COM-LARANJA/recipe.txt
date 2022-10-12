@@ -19,5 +19,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LETÍCIA D'ANGELO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304431-suco-de-morango-com-laranja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304431-suco-de-morango-com-laranja.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -24,5 +24,14 @@
   "tempo_de_preparo": "8 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "AMANDA GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307114-pizza-de-caneca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307114-pizza-de-caneca.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

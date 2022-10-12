@@ -23,5 +23,15 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "BEATRIZ RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302229-bolo-de-fuba-que-nao-desfarela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302229-bolo-de-fuba-que-nao-desfarela.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

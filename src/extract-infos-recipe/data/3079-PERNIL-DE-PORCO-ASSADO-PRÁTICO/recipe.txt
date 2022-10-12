@@ -19,5 +19,16 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "MALZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303910-pernil-de-porco-assado-pratico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303910-pernil-de-porco-assado-pratico.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

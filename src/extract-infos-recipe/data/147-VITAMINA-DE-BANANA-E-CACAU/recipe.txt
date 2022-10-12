@@ -16,5 +16,14 @@
   "tempo_de_preparo": "4 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ALÍCIA R.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314192-vitamina-de-banana-e-cacau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314192-vitamina-de-banana-e-cacau.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -18,5 +18,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANAKELLY DIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301927-arroz-ja-cozido-temperado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301927-arroz-ja-cozido-temperado.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

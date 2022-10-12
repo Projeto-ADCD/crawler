@@ -45,5 +45,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "MATHEUS BORTOLETO RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306380-esfirra-aberta-facil-e-gostosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306380-esfirra-aberta-facil-e-gostosa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

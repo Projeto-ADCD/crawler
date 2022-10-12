@@ -28,5 +28,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "DANIEL DUMILE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312180-macarrao-com-queijo-vilanesco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312180-macarrao-com-queijo-vilanesco.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

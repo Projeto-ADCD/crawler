@@ -44,5 +44,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304008-cupcake-de-frango-com-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304008-cupcake-de-frango-com-milho.html",
+  "tags": [
+    "CUPCAKE",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

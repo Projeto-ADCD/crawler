@@ -20,5 +20,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "SERGIO FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304756-pure-de-batata-sem-lactose.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304756-pure-de-batata-sem-lactose.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

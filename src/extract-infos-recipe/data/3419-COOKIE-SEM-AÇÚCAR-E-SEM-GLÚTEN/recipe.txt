@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "NOSSA VIDA DE 2",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303406-cookie-sem-acucar-e-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303406-cookie-sem-acucar-e-sem-gluten.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

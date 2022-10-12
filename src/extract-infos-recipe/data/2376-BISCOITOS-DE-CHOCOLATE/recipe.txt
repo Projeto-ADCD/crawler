@@ -18,5 +18,16 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ALICE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305360-biscoitos-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305360-biscoitos-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

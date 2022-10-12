@@ -27,5 +27,8 @@
   "tempo_de_preparo": "8 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA ISABEL SANTOS MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308450-salada-rapida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308450-salada-rapida.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

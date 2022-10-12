@@ -38,5 +38,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ANA LUCIA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303830-farofa-paraense-com-caranguejo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303830-farofa-paraense-com-caranguejo.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

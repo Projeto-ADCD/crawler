@@ -44,5 +44,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "AMANDA SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303053-quiche-de-kani-e-legumes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303053-quiche-de-kani-e-legumes.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

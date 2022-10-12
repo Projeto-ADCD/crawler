@@ -34,5 +34,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "DELÍCIAS DA TIA PAULA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311534-abara-no-papel-aluminio.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311534-abara-no-papel-aluminio.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

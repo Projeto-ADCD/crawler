@@ -12,13 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Amasse o alho e o sal, até a cosistência de uma pastinha",
-      "Em um recipiente, misture o tahine, o limão e a pastinha",
-      "Adicione água aos poucos e vá misturando até chegar à uma consistência mais fluida",
-      " "
+      ""
     ]
   },
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313000-molho-de-tahine-para-salada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313000-molho-de-tahine-para-salada.html",
+  "tags": []
 }

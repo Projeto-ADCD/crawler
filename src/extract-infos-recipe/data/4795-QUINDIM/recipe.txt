@@ -21,5 +21,16 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RACHEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300216-quindim.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300216-quindim.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

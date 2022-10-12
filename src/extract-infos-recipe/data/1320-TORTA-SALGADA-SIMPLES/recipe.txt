@@ -47,5 +47,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIEL FRAZÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308893-torta-salgada-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308893-torta-salgada-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

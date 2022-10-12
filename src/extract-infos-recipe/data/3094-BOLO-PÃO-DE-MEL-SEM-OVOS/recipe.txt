@@ -34,5 +34,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "GILDA FERREIRA MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303886-bolo-pao-de-mel-sem-ovos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303886-bolo-pao-de-mel-sem-ovos.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MAIRA ZANETTI DA FONSECA BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306169-geleia-de-amoras-da-mairinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306169-geleia-de-amoras-da-mairinha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

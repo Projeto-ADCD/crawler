@@ -36,5 +36,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LIVIA RESENDE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309239-torta-de-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309239-torta-de-limao.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -23,5 +23,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ARIANNE CACERES DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312302-mousse-cremoso-de-banana-e-cacau.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312302-mousse-cremoso-de-banana-e-cacau.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

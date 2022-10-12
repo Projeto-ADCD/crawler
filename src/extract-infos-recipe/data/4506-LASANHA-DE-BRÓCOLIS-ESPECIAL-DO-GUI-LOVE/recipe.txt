@@ -53,5 +53,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GUILHERME VECCHIO GUARNIERI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300964-lasanha-de-brocolis-especial-do-gui-love.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300964-lasanha-de-brocolis-especial-do-gui-love.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -21,5 +21,17 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "RODRIGO LISBOA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300837-waffle-de-queijo-da-vovo-ro-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300837-waffle-de-queijo-da-vovo-ro-sem-gluten.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

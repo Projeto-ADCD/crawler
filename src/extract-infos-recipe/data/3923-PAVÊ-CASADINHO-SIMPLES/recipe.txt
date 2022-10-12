@@ -12,22 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Triture o biscoito de maisena e reserve.",
-      "Em uma panela, misture 1 lata de leite condensado, 1 caixa de creme de leite, 1 colher (sopa) de manteiga e o chocolate meio amargo.",
-      "Misture em fogo baixo até ponto de brigadeiro mole e deixe amornar. ",
-      "Em outra panela, misture 1 lata de leite condensado, 1 caixa de creme de leite, 1 colher (sopa) de manteiga e o chocolate branco.",
-      "Misture em fogo baixo até ponto de brigadeiro mole e deixe amornar. "
-    ],
-    "MONTAGEM:": [
-      "Unte uma travessa com manteiga. ",
-      "Comece fazendo uma camada de brigadeiro preto, em seguida , faça uma camada de biscoito triturado e outra de brigadeiro branco.",
-      "Repita os passos até preencher a travessa. ",
-      "Leve à geladeira por cerca de 1 hora e decore como desejar.",
-      " "
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302366-pave-casadinho-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302366-pave-casadinho-simples.html",
+  "tags": []
 }

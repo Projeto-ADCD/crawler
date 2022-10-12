@@ -28,15 +28,12 @@
       "Quando a mistura atingir o ponto de brigadeiro mole, desligue o fogo "
     ],
     "FINALIZAÇÃO": [
-      "Corte o brownie em pequenos pedaços ",
-      "Coloque dentro de um copo ou taça",
-      "Por cima, coloque o recheio de coco",
-      "Intercale as camadas",
-      "Finalize com as nozes e sirva!"
+      "Corte o brownie em pequenos pedaços "
     ]
   },
   "tempo_de_preparo": "40 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314643-pave-de-brownie.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314643-pave-de-brownie.html",
+  "tags": []
 }

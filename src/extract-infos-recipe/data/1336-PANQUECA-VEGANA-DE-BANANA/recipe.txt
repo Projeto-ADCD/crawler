@@ -23,5 +23,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RYAN FELIPE VITORIANO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308840-panqueca-vegana-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308840-panqueca-vegana-de-banana.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -28,5 +28,14 @@
   "tempo_de_preparo": "75 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARINA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304069-frango-hungaro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304069-frango-hungaro.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

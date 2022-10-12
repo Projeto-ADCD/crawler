@@ -27,5 +27,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "PALOMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300288-bolo-cremoso-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300288-bolo-cremoso-de-milho.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

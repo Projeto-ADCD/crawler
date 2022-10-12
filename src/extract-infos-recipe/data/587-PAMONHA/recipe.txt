@@ -30,5 +30,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "14 PORÇÕES",
   "autor": "DONA BENTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312434-pamonha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312434-pamonha.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -22,5 +22,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "ANA JULIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304768-doce-de-creme-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304768-doce-de-creme-de-leite.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

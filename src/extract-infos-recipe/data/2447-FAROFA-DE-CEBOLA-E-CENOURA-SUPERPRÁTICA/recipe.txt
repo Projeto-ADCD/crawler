@@ -20,5 +20,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LARISSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305185-farofa-de-cebola-e-cenoura-superpratica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305185-farofa-de-cebola-e-cenoura-superpratica.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -22,5 +22,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARINA BARTASSON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303047-calda-base-para-molhar-bolos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303047-calda-base-para-molhar-bolos.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

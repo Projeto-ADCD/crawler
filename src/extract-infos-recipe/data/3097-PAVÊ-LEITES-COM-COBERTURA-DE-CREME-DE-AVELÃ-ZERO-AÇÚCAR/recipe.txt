@@ -35,5 +35,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "22 PORÇÕES",
   "autor": "LOWCUCAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303879-pave-4-leites-com-cobertura-de-creme-de-avela-zero-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303879-pave-4-leites-com-cobertura-de-creme-de-avela-zero-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -38,5 +38,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "DOUGLAS BUENO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306084-nuggets-veg.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306084-nuggets-veg.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

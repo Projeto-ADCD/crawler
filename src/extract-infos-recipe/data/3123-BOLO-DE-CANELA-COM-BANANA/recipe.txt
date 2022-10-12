@@ -11,21 +11,10 @@
       "b1anana para forrar a forma"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Pegue uma vasilha",
-      "Quebre os ovos e bata mais ou menos até 5 ou 10 minutos",
-      "Depois disso coloque a margarina com o açúcar por cima",
-      "Bata de novo até a massa ficar cremosa",
-      "Depois coloque a farinha trigo com o leite pra bater de novo até a massa ficar cremosa",
-      "Adicione a canela e bata de novo",
-      "Antes de colocar a massa na forma coloque o açúcar e a banana para caramelizar na própria forma",
-      "Depois coloque a massa por cima",
-      "Deixe o bolo assar por 50 minutos"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RAFAEL SAMPAIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303845-bolo-de-canela-com-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303845-bolo-de-canela-com-banana.html",
+  "tags": []
 }

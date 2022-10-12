@@ -28,5 +28,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "SAMANTHA MATTOS PIMENTEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301987-creme-de-abobora.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301987-creme-de-abobora.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

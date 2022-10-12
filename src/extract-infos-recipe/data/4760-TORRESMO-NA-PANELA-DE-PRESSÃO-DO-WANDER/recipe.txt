@@ -22,5 +22,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "WANDERLEY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300281-torresmo-na-panela-de-pressao-do-wander.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300281-torresmo-na-panela-de-pressao-do-wander.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

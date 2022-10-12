@@ -31,5 +31,14 @@
   "tempo_de_preparo": "606 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "CIBELE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307322-arroz-com-carne-de-porco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307322-arroz-com-carne-de-porco.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

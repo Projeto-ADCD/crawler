@@ -12,11 +12,12 @@
       "Misture o grão-de-bico cozido com o azeite e temperos a gosto.",
       "Leve para assar a 200° C até ficar bem crocante.",
       "Armazene em pote de vidro e consumir em até 3 dias.",
-      "Caso fique murcho após guardado é só voltar ao forno ou airfryer por 5 minutos a 200º C."
+      ""
     ]
   },
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309293-snack-de-grao-de-bico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309293-snack-de-grao-de-bico.html",
+  "tags": []
 }

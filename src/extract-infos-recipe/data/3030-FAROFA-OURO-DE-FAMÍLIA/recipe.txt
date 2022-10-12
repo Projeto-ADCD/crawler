@@ -27,5 +27,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BEATRIZ CAMPELO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303976-farofa-ouro-de-familia.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303976-farofa-ouro-de-familia.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

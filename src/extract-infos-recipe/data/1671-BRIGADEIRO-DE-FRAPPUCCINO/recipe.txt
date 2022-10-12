@@ -19,5 +19,16 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JAMIM ALMEIDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307211-brigadeiro-de-frappuccino.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307211-brigadeiro-de-frappuccino.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

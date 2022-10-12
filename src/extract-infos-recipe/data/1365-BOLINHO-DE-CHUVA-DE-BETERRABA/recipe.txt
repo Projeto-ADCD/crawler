@@ -23,5 +23,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "PALOMA RIBEIRO GONÇALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308721-bolinho-de-chuva-de-beterraba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308721-bolinho-de-chuva-de-beterraba.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

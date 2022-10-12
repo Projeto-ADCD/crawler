@@ -23,5 +23,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "REGINA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302279-alfajor-caseiro-super-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302279-alfajor-caseiro-super-facil.html",
+  "tags": [
+    "ALFAJOR",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

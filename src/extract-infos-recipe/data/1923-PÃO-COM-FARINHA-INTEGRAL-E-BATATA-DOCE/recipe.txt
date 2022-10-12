@@ -30,5 +30,14 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FERNANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306422-pao-com-farinha-integral-e-batata-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306422-pao-com-farinha-integral-e-batata-doce.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

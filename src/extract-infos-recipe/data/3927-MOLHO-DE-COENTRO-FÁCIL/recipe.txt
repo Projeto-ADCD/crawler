@@ -24,5 +24,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BOOBLE SHOTTER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302358-molho-de-coentro-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302358-molho-de-coentro-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

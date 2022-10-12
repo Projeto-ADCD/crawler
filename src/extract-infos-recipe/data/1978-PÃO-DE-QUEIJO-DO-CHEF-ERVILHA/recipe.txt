@@ -25,5 +25,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ALEX ERVILHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306293-pao-de-queijo-do-chef-ervilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306293-pao-de-queijo-do-chef-ervilha.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

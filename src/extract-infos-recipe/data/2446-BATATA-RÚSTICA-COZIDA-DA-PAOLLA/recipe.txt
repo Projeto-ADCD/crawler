@@ -28,5 +28,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "PAOLLA RIBEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305186-batata-rustica-cozida-da-paolla.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305186-batata-rustica-cozida-da-paolla.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

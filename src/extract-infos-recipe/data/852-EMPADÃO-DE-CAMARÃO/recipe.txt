@@ -38,5 +38,17 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "13 PORÇÕES",
   "autor": "TRAYCE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311265-empadao-de-camarao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311265-empadao-de-camarao.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -21,5 +21,14 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "MARIANA CHAGAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312089-talo-de-brocolis-assado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312089-talo-de-brocolis-assado.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

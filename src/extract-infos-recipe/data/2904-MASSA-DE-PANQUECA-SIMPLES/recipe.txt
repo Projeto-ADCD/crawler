@@ -24,5 +24,17 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "TANIA CONDE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304176-massa-de-panqueca-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304176-massa-de-panqueca-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

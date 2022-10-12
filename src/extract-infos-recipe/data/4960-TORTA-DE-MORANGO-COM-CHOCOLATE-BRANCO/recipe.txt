@@ -11,24 +11,10 @@
       "1 caixa de creme de leite"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Misture na batedeira, 1 caixinha de leite condensado com a nata (para a camada de morangos).",
-      "Misture a outra caixa de leite condensado com o coco ralado (para a camada do chocolate branco)",
-      "Comece molhado as bolachas no leite e faça uma camada de bolacha no fundo da travessa",
-      "Coloque o creme de nata batido com o leite condensado e por cima coloque os morangos picados",
-      "Faça a outra camada de bolachas e coloque o coco misturado com o leite condensado",
-      "Coloque o chocolate branco picado e faça assim em todas as camadas",
-      "Chegando na última camada, coloque por cima o creme de leite e reserve morangos para decorar",
-      "Leve à geladeira por umas 3 horas e sirva em seguida.",
-      " "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Espero que gostem façam e deixe pra mim o seu comentário com sua opinião sobre a tort, obrigada "
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "45 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "BRENDA CAMPANHA DE MELLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299852-torta-de-morango-com-chocolate-branco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299852-torta-de-morango-com-chocolate-branco.html",
+  "tags": []
 }

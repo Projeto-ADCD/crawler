@@ -24,5 +24,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "JULIANA DE ANGELO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305100-pao-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305100-pao-de-queijo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

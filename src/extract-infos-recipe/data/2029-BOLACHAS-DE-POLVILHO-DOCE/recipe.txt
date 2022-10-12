@@ -22,5 +22,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "TAURIE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306165-bolachas-de-polvilho-doce.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306165-bolachas-de-polvilho-doce.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

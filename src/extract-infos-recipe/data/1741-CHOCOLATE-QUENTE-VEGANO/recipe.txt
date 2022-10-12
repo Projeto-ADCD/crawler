@@ -12,20 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Coloque as amêndoas de molho, em água filtrada, no dia anterior.",
-      "Deixe de molho de 8 hora a 12 horas",
-      "Deixe a aveia de molho, em água filtrada, por 2 horas.",
-      "Descarte toda a água do molho das amêndoas e parte da água do molho da aveia (aproximadamente 50%).",
-      "É essa água que vai engrossar seu chocolate quente.",
-      "Bata as amêndoas e a aveia no liquidificador com 1 litro de água fria ou gelada.",
-      "Coe seu leite misto de aveia e amêndoas em um coador de voal (eu estou sem, então passo por uma peneira mais graúda e depois coo novamente numa peneira mais fina).",
-      "Atenção! Não jogue fora o resíduo do seu leite vegetal misto! Você pode utilizá-lo para fazer hamburgers ou \"kibe cru\" veganos. ",
-      "Pronto! Agora é só levar ao fogo com cacau e o açúcar de sua preferência para esquentar e engrossar!",
-      "Se quiser pode acrescentar canela também.",
-      "Que aqueça o seu inverno!"
+      ""
     ]
   },
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ANA MOREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306949-chocolate-quente-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306949-chocolate-quente-vegano.html",
+  "tags": []
 }

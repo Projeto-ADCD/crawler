@@ -24,5 +24,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "VALESKA SILVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311418-paozinho-de-goiabada-super-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311418-paozinho-de-goiabada-super-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

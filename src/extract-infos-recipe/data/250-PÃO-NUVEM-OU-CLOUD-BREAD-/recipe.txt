@@ -1,0 +1,25 @@
+{
+  "nome_receita": "PÃO NUVEM (OU CLOUD BREAD)",
+  "ingredientes": {
+    "DEFAULT": [
+      "3 ovos",
+      "2 colheres (sopa) queijo cottage ou cream cheese",
+      "1/2 colher (café) de bicarbonato de sódio"
+    ]
+  },
+  "passos": {
+    "DEFAULT": [
+      "Bata as claras junto com o bicarbonato até ficar em ponto de neve bem firme.",
+      "Retire a pele das gemas e misture-as em uma tigela com o cottage até ficar um creme liso.",
+      "Incorpore a mistura de gemas às claras, mexendo delicadamente com uma colher ou espátula.",
+      "Unte uma forma antiaderente com azeite de oliva ou outro óleo e coloque a massa em forma de discos.",
+      "Leve ao forno por 15 minutos ou até dourar, na temperatura de 170º C.",
+      "Ao ficar pronto, retire da forma com a ajuda de uma espátula."
+    ]
+  },
+  "tempo_de_preparo": "20 MIN",
+  "rendimento": "8 PORÇÕES",
+  "autor": "TUDOGOSTOSO",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313724-pao-nuvem-ou-cloud-bread.html",
+  "tags": []
+}

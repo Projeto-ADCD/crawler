@@ -22,5 +22,17 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANA JÚLIA DE ABREU MENDES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301340-crepioca-com-banana-da-ana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301340-crepioca-com-banana-da-ana.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

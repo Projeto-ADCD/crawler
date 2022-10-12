@@ -24,5 +24,15 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "RAISSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300894-bolo-de-iogurte-maravilhoso-e-fofinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300894-bolo-de-iogurte-maravilhoso-e-fofinho.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

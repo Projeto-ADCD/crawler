@@ -22,5 +22,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA LUIZA DEUTRICH",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303505-farofa-natalina-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303505-farofa-natalina-facil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

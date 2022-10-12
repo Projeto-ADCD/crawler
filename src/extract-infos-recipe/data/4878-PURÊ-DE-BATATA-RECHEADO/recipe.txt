@@ -29,5 +29,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "TATHYANE GUIMARÃES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300028-pure-de-batata-recheado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300028-pure-de-batata-recheado.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

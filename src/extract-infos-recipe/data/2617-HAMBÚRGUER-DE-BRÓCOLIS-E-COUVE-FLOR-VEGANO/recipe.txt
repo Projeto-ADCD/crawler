@@ -21,5 +21,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARIA FLOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304797-hamburguer-de-brocolis-e-couve-flor-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304797-hamburguer-de-brocolis-e-couve-flor-vegano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

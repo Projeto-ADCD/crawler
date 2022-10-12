@@ -46,5 +46,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "70 PORÇÕES",
   "autor": "TERESINHA DE JESUS GONÇALVES BITTENCOURT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302031-esfirra-de-carne-moida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302031-esfirra-de-carne-moida.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

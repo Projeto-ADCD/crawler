@@ -30,5 +30,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "JESSICA ALDENI MOURA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302600-frango-ao-molho-de-extrato-de-tomate-e-suco-de-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302600-frango-ao-molho-de-extrato-de-tomate-e-suco-de-limao.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -24,5 +24,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "AUGUSTA ESTRADA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313894-caldo-de-tomate-com-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313894-caldo-de-tomate-com-cenoura.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

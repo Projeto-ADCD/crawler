@@ -35,5 +35,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CLAUDIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306466-sardinha-a-escabeche.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306466-sardinha-a-escabeche.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -31,5 +31,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "GRACIELE PADOIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305928-empadinha-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305928-empadinha-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

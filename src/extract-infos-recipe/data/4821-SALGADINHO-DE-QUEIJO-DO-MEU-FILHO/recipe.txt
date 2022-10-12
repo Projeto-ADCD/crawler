@@ -19,5 +19,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "ANDREA RIBEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300162-salgadinho-de-queijo-do-meu-filho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300162-salgadinho-de-queijo-do-meu-filho.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

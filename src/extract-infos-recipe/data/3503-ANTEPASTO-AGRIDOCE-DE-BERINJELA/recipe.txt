@@ -31,5 +31,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "PRISCILA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303237-antepasto-agridoce-de-berinjela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303237-antepasto-agridoce-de-berinjela.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

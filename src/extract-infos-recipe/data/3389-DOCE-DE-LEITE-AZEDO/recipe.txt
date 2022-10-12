@@ -22,5 +22,16 @@
   "tempo_de_preparo": "1 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "BARBARA CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303459-doce-de-leite-azedo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303459-doce-de-leite-azedo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

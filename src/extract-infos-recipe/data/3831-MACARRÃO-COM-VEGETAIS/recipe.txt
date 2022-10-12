@@ -45,5 +45,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MAC VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302575-macarrao-com-vegetais.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302575-macarrao-com-vegetais.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

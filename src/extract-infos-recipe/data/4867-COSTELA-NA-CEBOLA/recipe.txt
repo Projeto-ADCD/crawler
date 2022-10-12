@@ -31,5 +31,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JESSIKA X FRANCISCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300047-costela-na-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300047-costela-na-cebola.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

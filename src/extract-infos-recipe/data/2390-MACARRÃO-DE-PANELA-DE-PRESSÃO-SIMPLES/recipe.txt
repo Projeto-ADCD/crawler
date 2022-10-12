@@ -27,5 +27,17 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "KEYLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305327-macarrao-de-panela-de-pressao-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305327-macarrao-de-panela-de-pressao-simples.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

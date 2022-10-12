@@ -19,5 +19,8 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "@GABRIELAMARCELINO.NUTRI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309203-geleia-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309203-geleia-de-morango.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

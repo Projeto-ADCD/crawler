@@ -1,50 +1,10 @@
 {
   "nome_receita": "SOBRECOXA COM FAROFA DE BANANA",
-  "ingredientes": {
-    "FAROFA": [
-      "150 g de manteiga",
-      "1 cebola",
-      "2 bananas prata",
-      "5 ovos",
-      "sal a gosto",
-      "1 xícara de farinha de mandioca",
-      "1/2 xícara de salsinha"
-    ],
-    "FRANGO": [
-      "1 kg de sobrecoxa de frango",
-      "2 maracujás",
-      "2 colheres (sopa) de azeite",
-      "1 colher (sopa) de páprica defumada",
-      "1 colher (chá) de pimenta-do-reino",
-      "1 colher (chá) de shoyu",
-      "1 colher (sopa) de alecrim",
-      "1 colher (sopa) de tomilho",
-      "1/2 cebola",
-      "sal a gosto",
-      "2 cebolas",
-      "2 cabeças de alho"
-    ]
-  },
-  "passos": {
-    "FAROFA": [
-      "Em uma panela, junte a manteiga para derreter ",
-      "Junte a cebola, a banana, os ovos, sal e a farinha",
-      "Deixe fritar e misture tudo",
-      "Finalize com a salsinha e reserve a farofa"
-    ],
-    "FRANGO": [
-      "Em um recipiente, junte o frango e os temperos (menos as cebolas e os alhos)",
-      "Misture bem e leve para assar ",
-      "Coloque azeite no fundo de uma forma e acomode os frangos temperados ",
-      "Coloque as cebolas e os alhos juntos e mais um pouco de azeite",
-      "Feche com papel-alumínio e leve para o forno",
-      "Asse a 180° por 30 minutos e depois mais 15 minutos sem o papel para dourar",
-      "Retire do forno e sirva tudo junto",
-      " "
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314577-sobrecoxa-com-farofa-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314577-sobrecoxa-com-farofa-de-banana.html",
+  "tags": []
 }

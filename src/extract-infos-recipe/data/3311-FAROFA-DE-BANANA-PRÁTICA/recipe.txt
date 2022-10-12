@@ -27,5 +27,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VANDA SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303577-farofa-de-banana-pratica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303577-farofa-de-banana-pratica.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

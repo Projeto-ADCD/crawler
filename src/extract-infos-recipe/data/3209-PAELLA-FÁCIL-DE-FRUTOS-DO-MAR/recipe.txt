@@ -35,5 +35,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LUCAS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303734-paella-facil-de-frutos-do-mar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303734-paella-facil-de-frutos-do-mar.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

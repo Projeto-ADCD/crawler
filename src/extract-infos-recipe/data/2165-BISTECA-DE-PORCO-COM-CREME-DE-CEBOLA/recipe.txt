@@ -28,5 +28,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "JÉSSICA WAZ SIMON",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305807-bisteca-de-porco-com-creme-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305807-bisteca-de-porco-com-creme-de-cebola.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

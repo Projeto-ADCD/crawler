@@ -28,5 +28,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CAIO LUIZ RAMOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306395-arroz-de-forno-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306395-arroz-de-forno-cremoso.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "CARINE MARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301272-estrogonofe-de-frango-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301272-estrogonofe-de-frango-simples.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

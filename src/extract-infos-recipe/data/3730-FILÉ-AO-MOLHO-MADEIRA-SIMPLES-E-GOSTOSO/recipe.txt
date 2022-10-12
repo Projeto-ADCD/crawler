@@ -13,19 +13,10 @@
       "1/2 xícara (chá) de champignons em conserva fatiados"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Frite os filés, temperados apenas com sal, na manteiga e após estarem dourado, reserve-os.",
-      "Na panela em que fritou os filés, coloque o azeite e doure os cogumelos fatiados",
-      "Acrescente a manteiga até que derreta",
-      "Acrescente a farinha de trigo e mexa sem parar até a mistura ficar douradinha",
-      "Adicione o caldo de carne dissolvido na água fervente e mexa bem",
-      "Junte o vinho, misture e deixe ferver por cerca de 2 minutos",
-      "Desligue o fogo e sirva o filé com o molho"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "JOAO BATISTA NETO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302821-file-ao-molho-madeira-simples-e-gostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302821-file-ao-molho-madeira-simples-e-gostoso.html",
+  "tags": []
 }

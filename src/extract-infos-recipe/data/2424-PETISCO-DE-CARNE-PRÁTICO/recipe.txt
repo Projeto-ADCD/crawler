@@ -13,22 +13,10 @@
       "100 g Bacon"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Coloque o azeite na frigideira, sal na carne e corte a carne em cubinhos.",
-      "Deixe fritar por 5/7 minutos",
-      "Adicione os ingredientes e deixe por mais 5minutos em fogo médio",
-      "Dica: deixe a frigideira tampada até colocar os ingredientes, depois pode deixar destampada. Mexe sempre.",
-      "Farofa",
-      "Corte o bacon em pequenos pedaços",
-      "Frite o bacon",
-      "Após ele frito, coloque a farinha dentro da mesma panela e mexa.",
-      "Dica: Não use óleo para fritar o bacon, ele vai soltar sua própria gordura. Não jogue fora a gordura após frito, utilize ela para misturar com a farinha.",
-      "Bom apetite"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "10 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "JORGE LUIZ FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305251-petisco-de-carne-pratico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305251-petisco-de-carne-pratico.html",
+  "tags": []
 }

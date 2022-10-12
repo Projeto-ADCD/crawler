@@ -50,5 +50,17 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "SONIA BOCZAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312478-empadao-de-frango-e-legumes-da-vovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312478-empadao-de-frango-e-legumes-da-vovo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

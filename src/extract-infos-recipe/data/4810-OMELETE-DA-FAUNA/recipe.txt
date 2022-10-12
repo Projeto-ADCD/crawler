@@ -30,5 +30,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "FAUNA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300191-omelete-da-fauna.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300191-omelete-da-fauna.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

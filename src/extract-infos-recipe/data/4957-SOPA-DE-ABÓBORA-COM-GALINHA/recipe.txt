@@ -41,5 +41,12 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "IRAN CARLOS STALLIVIERE CORREA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299858-sopa-de-abobora-com-galinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299858-sopa-de-abobora-com-galinha.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

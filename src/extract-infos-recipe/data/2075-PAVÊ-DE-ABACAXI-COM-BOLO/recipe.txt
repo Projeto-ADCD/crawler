@@ -42,5 +42,16 @@
   "tempo_de_preparo": "-100 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "MELISSA SOBRAL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306087-pave-de-abacaxi-com-bolo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306087-pave-de-abacaxi-com-bolo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

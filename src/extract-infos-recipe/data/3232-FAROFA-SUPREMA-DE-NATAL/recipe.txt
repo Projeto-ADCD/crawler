@@ -35,5 +35,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LEO CARIOCA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303684-farofa-suprema-de-natal.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303684-farofa-suprema-de-natal.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

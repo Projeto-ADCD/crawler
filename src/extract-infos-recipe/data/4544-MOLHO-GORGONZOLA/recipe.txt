@@ -21,5 +21,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BÁRBARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300893-molho-gorgonzola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300893-molho-gorgonzola.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

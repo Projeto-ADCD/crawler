@@ -24,5 +24,8 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CAMILA CORRÊA VIEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306491-bolo-fit-de-caneca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306491-bolo-fit-de-caneca.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

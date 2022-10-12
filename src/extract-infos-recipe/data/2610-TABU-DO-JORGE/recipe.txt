@@ -23,5 +23,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JORGE ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304813-tabu-do-jorge.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304813-tabu-do-jorge.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

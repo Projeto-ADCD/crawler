@@ -24,5 +24,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DÁVILA MOARA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305447-sobremesa-gostosa-de-bolacha-barra-biscoito-recheado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305447-sobremesa-gostosa-de-bolacha-barra-biscoito-recheado.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -29,5 +29,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "VANESSA TEIXEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306089-bolo-fit-de-damasco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306089-bolo-fit-de-damasco.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

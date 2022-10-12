@@ -47,5 +47,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "KARINA DIAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313653-talharim-ao-molho-branco-com-tiras-de-mignon-a-gorgonzola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313653-talharim-ao-molho-branco-com-tiras-de-mignon-a-gorgonzola.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

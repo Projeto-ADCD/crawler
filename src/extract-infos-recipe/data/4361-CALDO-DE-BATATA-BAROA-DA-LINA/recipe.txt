@@ -28,5 +28,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LINA FRANÇA CALDEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301301-caldo-de-batata-baroa-da-lina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301301-caldo-de-batata-baroa-da-lina.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

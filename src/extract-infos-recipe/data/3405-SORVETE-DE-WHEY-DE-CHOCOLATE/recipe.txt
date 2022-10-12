@@ -21,5 +21,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "REBECA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303428-sorvete-de-whey-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303428-sorvete-de-whey-de-chocolate.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

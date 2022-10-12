@@ -45,5 +45,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "MARCOS CESAR D. FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310786-cuscuz-paulista-do-marcao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310786-cuscuz-paulista-do-marcao.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

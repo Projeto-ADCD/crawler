@@ -29,5 +29,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "EDUARDO BARRETO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307719-sopa-sartita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307719-sopa-sartita.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

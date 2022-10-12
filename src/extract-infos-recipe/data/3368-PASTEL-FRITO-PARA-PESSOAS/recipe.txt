@@ -23,5 +23,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "100 PORÇÕES",
   "autor": "HELTON CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303495-pastel-frito-para-100-pessoas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303495-pastel-frito-para-100-pessoas.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

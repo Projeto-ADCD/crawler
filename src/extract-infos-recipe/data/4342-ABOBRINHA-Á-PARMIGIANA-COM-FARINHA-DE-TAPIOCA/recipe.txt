@@ -23,5 +23,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MARIA LUÍZA MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301332-abobrinha-a-parmigiana-com-farinha-de-tapioca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301332-abobrinha-a-parmigiana-com-farinha-de-tapioca.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

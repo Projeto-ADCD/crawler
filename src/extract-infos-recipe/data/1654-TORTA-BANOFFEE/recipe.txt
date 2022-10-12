@@ -12,33 +12,10 @@
       "ovomaltine"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Pegue a bolacha maisena e coloque aos poucos no processador para triturá-las deixando em farelos bem finos",
-      "Após triturar as bolachas, coloque elas em um recipiente e adicione a margarina/manteiga espalhada por todo o recipiente e misture à mão até incorporar na massa",
-      "Perceba que ela não terá consistência (ficará esfarelando).",
-      "Então adicione o leite aos poucos para dar liga à massa.",
-      "Não precisa usar todo o leite, coloque o suficiente para não grudar nas mãos",
-      "Pegue uma forma com o fundo removível e coloque a massa deixando-a com espessura uniforme por todo o fundo e a lateral da forma",
-      "Caso queira, use a canela em pó para polvilhar sobre a massa para dar um gostinho de canela no final",
-      "P.S: preencha a lateral da forma com a massa até o limite da altura da forma, mas não deixe passar",
-      "Preaqueça o forno por 10 minutos à 160° C e depois coloque a massa para assar por 10 minutos",
-      "P.S: não precisa resfriar a massa na geladeira.",
-      "Deixe ela dentro do forno mesmo, mas não esqueça de desligá-lo",
-      "Corte as bananas com aproximadamente 1 cm de espessura e reserve-as na geladeira",
-      "Pegue o doce de leite e cubra todo o fundo e a lateral da massa com uma camada de aproximadamente 1 cm de espessura",
-      "Pegue as bananas que estavam reservadas e posicione-as uma ao lado da outra cobrindo todo o fundo com uma camada.",
-      "Na lateral, coloque-as na mesma altura da massa coberta com doce de leite com uma camada também",
-      "Pegue o chantili em pó e o bata na batedeira seguindo as instruções da embalagem dobrando as quantidades caso necessário",
-      "Depois de pronto e gelado, pegue o chantili e espalhe por cima das bananas deixando na mesma altura da massa e das bananas de maneira uniforme",
-      "Se quiser deixar o chantili com um design diferente de liso, pegue a colher que usou para espalhar o chantili e coloque as costas da colher na superfície do mesmo e puxe para cima para formar \"picos\".",
-      "Se preferir, pode usar o garfo para fazer linhas ou pode criar o seu próprio design",
-      "Pegue o ovomaltine e, com uma peneira polvilhe o ovomaltine no chantili para separar os grãos maiores e depois de cobrir o chantili com o ovomaltine, espalhe os grãos pela superfície do chantili coberto com o ovomaltine em pó",
-      "P.S.: se quiser sentir os grãos do ovomaltine, deixe para colocá-lo na hora em que for comer a torta para ele não ficar encorporado no chantili"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "FELIPE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307260-torta-banoffee.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307260-torta-banoffee.html",
+  "tags": []
 }

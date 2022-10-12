@@ -33,5 +33,14 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "THAÍS DA COSTA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305622-camarao-com-abobora.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305622-camarao-com-abobora.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

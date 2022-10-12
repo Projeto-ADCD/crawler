@@ -39,5 +39,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "REBECA BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306353-macarrao-com-frango-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306353-macarrao-com-frango-cremoso.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

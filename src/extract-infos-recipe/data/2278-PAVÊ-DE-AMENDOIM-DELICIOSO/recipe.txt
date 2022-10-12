@@ -31,5 +31,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "THAMYRES SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305577-pave-de-amendoim-delicioso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305577-pave-de-amendoim-delicioso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

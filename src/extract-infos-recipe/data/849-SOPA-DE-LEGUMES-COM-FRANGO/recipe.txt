@@ -31,5 +31,12 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LAURA NRT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311309-sopa-de-legumes-com-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311309-sopa-de-legumes-com-frango.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

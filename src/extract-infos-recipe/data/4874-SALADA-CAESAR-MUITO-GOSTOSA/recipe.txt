@@ -24,5 +24,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LIZZANDRA LUZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300035-salada-caesar-muito-gostosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300035-salada-caesar-muito-gostosa.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

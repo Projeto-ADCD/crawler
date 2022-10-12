@@ -26,5 +26,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "ALESSANDRA NUNES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300096-bolo-de-banana-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300096-bolo-de-banana-de-liquidificador.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

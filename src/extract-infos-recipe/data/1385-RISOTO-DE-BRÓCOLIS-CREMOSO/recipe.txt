@@ -26,5 +26,15 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "PAULA SLAVIERO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308602-risoto-de-brocolis-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308602-risoto-de-brocolis-cremoso.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

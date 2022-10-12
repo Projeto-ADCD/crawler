@@ -21,5 +21,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "BARBARA PERES OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305084-sobremesa-de-chocolate-feita-com-trigo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305084-sobremesa-de-chocolate-feita-com-trigo.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

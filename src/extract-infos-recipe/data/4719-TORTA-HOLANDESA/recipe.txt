@@ -35,5 +35,16 @@
   "tempo_de_preparo": "6 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "MARIANA GORNICKI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300365-torta-holandesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300365-torta-holandesa.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

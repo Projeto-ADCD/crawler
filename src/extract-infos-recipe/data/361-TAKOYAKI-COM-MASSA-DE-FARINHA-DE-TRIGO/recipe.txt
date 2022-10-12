@@ -36,5 +36,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANTONIO SUEITT",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313089-takoyaki-com-massa-de-farinha-de-trigo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313089-takoyaki-com-massa-de-farinha-de-trigo.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

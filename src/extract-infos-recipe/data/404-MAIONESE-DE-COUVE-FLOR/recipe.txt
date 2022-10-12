@@ -21,5 +21,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312926-maionese-de-couve-flor.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312926-maionese-de-couve-flor.html",
+  "tags": [
+    "MOLHOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

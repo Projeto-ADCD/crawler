@@ -30,5 +30,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "24 PORÇÕES",
   "autor": "GI CAPINAN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299825-cupcake-basiquinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299825-cupcake-basiquinho.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

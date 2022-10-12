@@ -18,5 +18,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LUCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307344-pate-de-azeitona.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307344-pate-de-azeitona.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

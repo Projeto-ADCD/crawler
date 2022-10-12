@@ -20,5 +20,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LARISSA MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304567-sobremesa-de-negresco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304567-sobremesa-de-negresco.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

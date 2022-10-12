@@ -1,47 +1,10 @@
 {
   "nome_receita": "FRANGO FRITO NA PANELA DE PRESSÃO",
-  "ingredientes": {
-    "FRANGO": [
-      "1 kg de frango à passarinho",
-      "3 dentes de alho",
-      "3 colheres (sopa) de vinagre",
-      "pimenta-do-reino a gosto",
-      "sal a gosto",
-      "2 colheres (sopa) de cheiro verde",
-      "1 colher (chá) de páprica defumada",
-      "1 colher (chá) de páprica picante",
-      "1 colher (chá) de açafrão",
-      "1 colher (chá) de colorau",
-      "1 e 1/2 xícara de óleo"
-    ],
-    "MOLHO MOSTARDA E MEL": [
-      "1/2 xícara de maionese",
-      "3 colheres (sopa) de mostarda amarela",
-      "1 colher (sopa) de mel",
-      "1 colher (chá) de azeite de oliva",
-      "sal a gosto ",
-      "pimenta-do-reino a gosto"
-    ]
-  },
-  "passos": {
-    "FRANGO": [
-      "Junte o frango com os temperos, menos o cheiro-verde",
-      "Misture tudo muito bem em um recipiente e leve para uma panela de pressão",
-      "Coloque o óleo, ligue o fogo e tampe a panela",
-      "Após pegar pressão, deixe em fogo médio por aproximadamente 15 minutos",
-      "Depois disso, retire o frango da panela e escorra em papel-toalha"
-    ],
-    "MOLHO DE MOSTARDA E MEL": [
-      "Enquanto isso, prepare o seu molho de mostarda",
-      "Junte todos os ingredientes em um recipiente",
-      "Misture muito bem com um garfo ou fouet ",
-      "Coloque em um potinho a parte e sirva com o frango",
-      "Finalize o prato do frango com o cheiro-verde por cima",
-      "Esperimente um pedacinho de frango com o molho, fica uma delícia!"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309797-frango-frito-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309797-frango-frito-na-panela-de-pressao.html",
+  "tags": []
 }

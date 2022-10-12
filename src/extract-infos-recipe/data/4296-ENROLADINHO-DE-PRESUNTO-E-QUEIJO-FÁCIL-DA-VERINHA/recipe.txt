@@ -12,15 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Em uma tigela, coloque a farinha de trigo, o fermento, o iogurte e misture bem",
-      "Assim que a massa começar a ficar pesada, acerte o ponto com um pouco de farinha até que a massa pare de grudar nas mãos.",
-      "Corte a massa em 8 partes iguais pequenas e abra com um rolo de forma que fique fino, mas sem rasgar.",
-      "Acomode farias de queijo e presunto e enrole bem como um rocambole",
-      "Feche as pontas e se necessário retire o excesso de massa com uma faca.",
-      "Acomode em uma forma untada e enfarinhada e leve para assar em forno preaquecido a 180° C por cerca de 30 minutos ou até dourar."
+      ""
     ]
   },
   "tempo_de_preparo": "25 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "VERINHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301425-enroladinho-de-presunto-e-queijo-facil-da-verinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301425-enroladinho-de-presunto-e-queijo-facil-da-verinha.html",
+  "tags": []
 }

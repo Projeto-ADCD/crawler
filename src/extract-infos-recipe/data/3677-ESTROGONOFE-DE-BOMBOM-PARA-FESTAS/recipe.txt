@@ -28,5 +28,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "MAURICIO BORBA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302929-estrogonofe-de-bombom-para-festas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302929-estrogonofe-de-bombom-para-festas.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

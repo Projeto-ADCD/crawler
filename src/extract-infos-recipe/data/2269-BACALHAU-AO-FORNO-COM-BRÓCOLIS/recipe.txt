@@ -26,5 +26,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ADRIANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305591-bacalhau-ao-forno-com-brocolis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305591-bacalhau-ao-forno-com-brocolis.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

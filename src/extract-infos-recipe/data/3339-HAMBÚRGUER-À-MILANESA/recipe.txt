@@ -40,5 +40,14 @@
   "tempo_de_preparo": "24 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "WILLIAM GOMES DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303534-hamburguer-a-milanesa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303534-hamburguer-a-milanesa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

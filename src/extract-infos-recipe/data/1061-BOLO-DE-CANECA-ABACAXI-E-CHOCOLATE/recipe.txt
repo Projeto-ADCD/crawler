@@ -25,5 +25,15 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CLARA BEZERRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310172-bolo-de-caneca-abacaxi-e-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310172-bolo-de-caneca-abacaxi-e-chocolate.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

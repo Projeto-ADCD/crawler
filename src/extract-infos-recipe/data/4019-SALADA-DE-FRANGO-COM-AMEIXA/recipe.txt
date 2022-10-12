@@ -31,5 +31,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROSERVAL DU CARMU",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302125-salada-de-frango-com-ameixa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302125-salada-de-frango-com-ameixa.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

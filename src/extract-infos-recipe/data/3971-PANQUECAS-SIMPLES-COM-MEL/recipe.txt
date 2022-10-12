@@ -12,19 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Bata a farinha junto com o creme de leite e junto com o leite com um fuê",
-      "Reserve",
-      "Pegue um pouco de manteiga com um guardanapo e passe na panela para não grudar",
-      "Se sua panela for pequena e você fizer muita massa, faça panquecas até a massa acabar",
-      "Depois monte um montinho com as panquecas",
-      "Bote um pouco de mel por cima",
-      " ",
-      " ",
-      " ",
-      " "
+      ""
     ]
   },
   "tempo_de_preparo": "50 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "KOOKIE - CHAN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302276-panquecas-simples-com-mel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302276-panquecas-simples-com-mel.html",
+  "tags": []
 }

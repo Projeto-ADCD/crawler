@@ -33,5 +33,17 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "PALOMA SOBRINHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305442-macarrao-com-carne-moida-facil-e-rapido.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305442-macarrao-com-carne-moida-facil-e-rapido.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

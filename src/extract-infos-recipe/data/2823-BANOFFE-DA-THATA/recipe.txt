@@ -30,5 +30,16 @@
   "tempo_de_preparo": "240 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "THALITA FRANÇA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304351-banoffe-da-thata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304351-banoffe-da-thata.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

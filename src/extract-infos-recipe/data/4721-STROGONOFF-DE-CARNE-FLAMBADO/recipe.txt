@@ -28,5 +28,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "RAINIER TULIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300360-strogonoff-de-carne-flambado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300360-strogonoff-de-carne-flambado.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

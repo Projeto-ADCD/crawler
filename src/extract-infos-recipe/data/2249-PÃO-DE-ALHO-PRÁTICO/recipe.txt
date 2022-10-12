@@ -26,5 +26,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "WILLIAM WEBER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305630-pao-de-alho-pratico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305630-pao-de-alho-pratico.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

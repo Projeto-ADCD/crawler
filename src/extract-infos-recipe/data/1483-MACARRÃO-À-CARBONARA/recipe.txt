@@ -30,5 +30,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "NATALYA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308082-macarrao-a-carbonara.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308082-macarrao-a-carbonara.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

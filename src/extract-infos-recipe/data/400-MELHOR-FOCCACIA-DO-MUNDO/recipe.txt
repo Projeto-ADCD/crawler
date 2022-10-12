@@ -31,5 +31,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "THALES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312941-melhor-foccacia-do-mundo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312941-melhor-foccacia-do-mundo.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

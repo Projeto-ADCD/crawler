@@ -1,0 +1,54 @@
+{
+  "nome_receita": "BAOZI(PÃO CHINÊS)",
+  "ingredientes": {
+    "RECHEIO": [
+      "300 g de carne de porco moído 1 vez",
+      "1 colher (sopa) de molho de shoyu",
+      "1 colher (sopa) de amido de milho",
+      "2 colheres (sopa) de cebolinha picada",
+      "2 colheres (chá) de gengibre picado",
+      "2 colheres (sopa) de saquê de cozinha",
+      "½ colher (sopa) de óleo de gergelim",
+      "1 colher (sopa) de molho de ostra",
+      "sal e pimenta-do-reino moída a gosto",
+      "60 ml de água"
+    ],
+    "MASSA": [
+      "½ colher (chá) de fermento biológico seco",
+      "½ xícara (chá) de água morna",
+      "1 colher (sopa) de açúcar",
+      "240 g de farinha de trigo",
+      "1 pitada de sal"
+    ]
+  },
+  "passos": {
+    "RECHEIO": [
+      "Em uma tigela misture o pernil de porco, molho de soja, amido de milho, cebolinha picada, gengibre picado, sake, óleo de gergelim, molho de ostra e tempere com sal e pimenta-do-reino moída.",
+      "Vá misturando e despejando a água aos poucos."
+    ],
+    "MASSA": [
+      "Numa tigela coloque o fermento, a água morna, o açúcar e misture. Deixe descansar por 10 minutos e reserve.",
+      "Em uma tigela coloque a farinha de trigo, a esponja, tempere com sal e sove bem com as mãos (se necessário coloque um pouco mais de água) e deixe descansar por 30 minutos.",
+      "Depois deste tempo divida a massa em 6 partes iguais de mais ou menos 50 g e faça bolinhas com as mãos. Coloque em uma assadeira, cubra com um pano umedecido e deixe descansar por mais 10 minutos.",
+      "Depois deste tempo, abra as bolinhas com o rolo, faça discos e recheie. Coloque na panela de bambu ou uma panela que possa cozinhar a vapor.",
+      "Coloque embaixo de cada bolinha um quadradinho de papel manteiga untado, de maneira que passe o vapor pela panela e o pãozinho não grude. Deixe descansar novamente por 20 minutos, coloque a panela de bambu dentro de uma outra panela com água fervente e leve ao fogo médio.",
+      "Cozinhe os pãezinhos por 15 minutos. Sirva quentinho."
+    ]
+  },
+  "tempo_de_preparo": "85 MIN",
+  "rendimento": "12 PORÇÕES",
+  "autor": "GUSTAVO SANTOS",
+  "url_receita": "https://www.tudogostoso.com.br/receita/313416-baozi-pao-chines.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "nome_receita": "PUDIM DE CANECA",
   "ingredientes": {
-    "DEFAULT": [
-      "Calda",
+    "CALDA": [
       "1 colher (sopa) de açúcar",
-      "1 colher (sopa) de água",
-      "Pudim",
+      "1 colher (sopa) de água"
+    ],
+    "PUDIM": [
       "1 ovo",
       "1/2 xícara (chá) de leite",
       "1/2 xícara (chá) de leite condensado",
@@ -29,5 +29,6 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304932-pudim-de-caneca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304932-pudim-de-caneca.html",
+  "tags": []
 }

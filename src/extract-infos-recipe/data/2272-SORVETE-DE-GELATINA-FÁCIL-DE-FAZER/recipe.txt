@@ -18,5 +18,16 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LORHAYNE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305588-sorvete-de-gelatina-facil-de-fazer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305588-sorvete-de-gelatina-facil-de-fazer.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

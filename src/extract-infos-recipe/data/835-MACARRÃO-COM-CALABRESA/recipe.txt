@@ -31,5 +31,17 @@
   "tempo_de_preparo": "35 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "XANDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311372-macarrao-com-calabresa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311372-macarrao-com-calabresa.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

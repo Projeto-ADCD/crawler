@@ -16,16 +16,10 @@
       "1/2 xícara de salsinha"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma panela, aqueça o óleo e frite a linguiça e bacon. ",
-      "Junte o louro, a cebola, o alho e o pimentão.",
-      "Acrescente os tomates e, em seguida, o arroz e o charque. Acrescente o caldo de carne para cozinhar o arroz, sem deixar secar totalmente.  ",
-      "Acrescente a salsinha e sirva."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304330-arroz-carreteiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304330-arroz-carreteiro.html",
+  "tags": []
 }

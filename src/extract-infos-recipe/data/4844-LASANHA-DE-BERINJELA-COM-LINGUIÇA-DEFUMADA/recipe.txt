@@ -24,5 +24,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PRISCILLA GAZANIGA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300113-lasanha-de-berinjela-com-linguica-defumada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300113-lasanha-de-berinjela-com-linguica-defumada.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

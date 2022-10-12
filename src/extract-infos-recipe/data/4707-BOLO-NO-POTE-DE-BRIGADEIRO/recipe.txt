@@ -18,29 +18,10 @@
       "Granulado para decorar"
     ]
   },
-  "passos": {
-    "PREPARO DA MASSA:": [
-      "Em uma batedeira, adicione o açúcar, manteiga e os ovos.",
-      "Bata bem até misturar os ingredientes.",
-      "Em seguida, adicione a farinha de trigo o chocolate em po e o leite bata novamente até obter uma massa homogênea.",
-      "Por ultimo, adicione o fermento e leve a uma forma untada com manteiga e farinha.",
-      "Leve ao forno preaquecido.",
-      "Deixe em fogo medio por 40 minutos ou até o palitinho sair limpo.",
-      "Quando esfriar, esfarele o bolo."
-    ],
-    "MODO DE PREPARO PARA O RECHEIO:": [
-      "Em uma panela média, adicione a manteiga o leite condençado e o chocolate em pó.",
-      "Leve ao fogo e mexa até desgrudar da panela. Em seguida, apague o fogo e adicione o creme de leite e deixe esfriar."
-    ],
-    "MONTAGEM DO BOLO:": [
-      "Em um potinho de plastico de 250ml, adicione o bolo esfarelado e umedeça com leite.",
-      "Em seguida, coloque uma colher de recheio.",
-      "Repita o processo para colocar 2 camadas de bolo e 2 de recheio alternadas. A última camada tem que ser de recheio.",
-      "Adicione o granulado para decorar."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "SABRINA CARDOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300388-bolo-no-pote-de-brigadeiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300388-bolo-no-pote-de-brigadeiro.html",
+  "tags": []
 }

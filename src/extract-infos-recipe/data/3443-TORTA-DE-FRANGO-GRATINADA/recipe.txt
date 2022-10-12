@@ -55,5 +55,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303358-torta-de-frango-gratinada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303358-torta-de-frango-gratinada.html",
+  "tags": [
+    "TORTA DE FRANGO",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

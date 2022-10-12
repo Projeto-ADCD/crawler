@@ -21,5 +21,12 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JEAN CARLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311814-whisky-refrescante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311814-whisky-refrescante.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

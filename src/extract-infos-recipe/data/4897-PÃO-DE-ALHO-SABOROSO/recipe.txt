@@ -23,5 +23,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "ANGELICA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299994-pao-de-alho-saboroso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299994-pao-de-alho-saboroso.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

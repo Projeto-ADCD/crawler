@@ -23,5 +23,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "ALZIRA SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300953-polenta-da-vovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300953-polenta-da-vovo.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

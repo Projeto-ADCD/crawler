@@ -25,5 +25,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "SÉRGIO GRANDI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313799-granola-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313799-granola-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

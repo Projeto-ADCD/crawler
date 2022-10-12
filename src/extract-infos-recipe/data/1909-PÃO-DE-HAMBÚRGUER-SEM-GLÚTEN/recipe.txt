@@ -27,5 +27,17 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "NATALLI GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306468-pao-de-hamburguer-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306468-pao-de-hamburguer-sem-gluten.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

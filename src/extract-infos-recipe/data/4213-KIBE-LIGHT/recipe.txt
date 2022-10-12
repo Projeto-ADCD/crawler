@@ -27,5 +27,8 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "60 PORÇÕES",
   "autor": "RECEITAS DA VOVÓ REGINA GUERREIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301570-kibe-light.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301570-kibe-light.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

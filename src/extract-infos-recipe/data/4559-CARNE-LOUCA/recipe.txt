@@ -33,5 +33,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "SOFIA DÊNIS DE SIMAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300848-carne-louca.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300848-carne-louca.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

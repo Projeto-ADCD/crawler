@@ -21,5 +21,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "VALDEMIR PENTEADO ALVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303249-baba-de-caramelo-com-nutella.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303249-baba-de-caramelo-com-nutella.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

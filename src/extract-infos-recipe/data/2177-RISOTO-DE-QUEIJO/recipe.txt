@@ -16,22 +16,10 @@
       "pimenta a gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Para fazer o caldo, aqueça 6 xícaras de água em uma panela e adicione 2 cubos de caldo do sabor a sua preferência (recomenda-se legumes ou frango).",
-      "Pique a cebola, os dentes de alho e refogue em outra panela com 2 colheres de manteiga e 1 fio de óleo até a cebola murchar (cerca de 2 minutos).",
-      "Adicione 1 xícara de arroz arbóreo à cebola e alho refogados e mexa por volta de 1 a 2 minutos.",
-      "Adicione 3/4 de uma xícara de vinho branco ao arroz e mexa constantemente até praticamente secar.",
-      "Adicione 1 concha do caldo e fique mexendo sem parar, até o arroz absorver o caldo.",
-      "Repita o processo de adicionar as conchas de caldo até o arroz chegar na textura desejada (para isso, experimente aos poucos).",
-      "Quando o arroz estiver na textura desejada, desligue o forno, adicione os queijos e continue mexendo constantemente.",
-      "Adicione sal e pimenta a gosto.",
-      "Para finalizar, coloque mais duas colheres de manteiga ao risoto e mexa mais um pouco, até ficar uniforme.",
-      "Sirva o prato."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FELIPE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305780-risoto-de-queijo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305780-risoto-de-queijo.html",
+  "tags": []
 }

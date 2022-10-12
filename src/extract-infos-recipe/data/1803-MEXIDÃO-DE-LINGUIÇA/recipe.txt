@@ -28,5 +28,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LEANDRO GOMES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306747-mexidao-de-linguica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306747-mexidao-de-linguica.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

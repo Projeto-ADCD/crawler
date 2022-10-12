@@ -19,5 +19,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "BRUNA DRIUSSI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302001-bolo-de-creme-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302001-bolo-de-creme-de-leite.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

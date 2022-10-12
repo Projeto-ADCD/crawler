@@ -24,5 +24,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ALINE RODRIGUES MARQUES ROSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299965-soverte-caseiro-tipo-chicabom.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299965-soverte-caseiro-tipo-chicabom.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

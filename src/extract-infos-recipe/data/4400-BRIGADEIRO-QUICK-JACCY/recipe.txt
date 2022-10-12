@@ -21,5 +21,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "JACCY MOSQUIAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301221-brigadeiro-quick-jaccy.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301221-brigadeiro-quick-jaccy.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

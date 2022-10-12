@@ -28,5 +28,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LEILY NEVES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304254-hamburguer-vegano-de-grao-de-bico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304254-hamburguer-vegano-de-grao-de-bico.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -49,5 +49,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "CÉSAR CASTELLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306222-ossobuco-com-macarrao-spaetlze.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306222-ossobuco-com-macarrao-spaetlze.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

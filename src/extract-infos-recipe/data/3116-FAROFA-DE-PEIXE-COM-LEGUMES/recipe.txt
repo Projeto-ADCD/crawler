@@ -31,5 +31,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "SCHEILA MARTINS DUARTE DE SOUZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303855-farofa-de-peixe-com-legumes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303855-farofa-de-peixe-com-legumes.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

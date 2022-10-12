@@ -28,5 +28,14 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "90 PORÇÕES",
   "autor": "AMANDA ARAÚJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307119-pao-delicia-bahiano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307119-pao-delicia-bahiano.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

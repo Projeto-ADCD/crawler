@@ -30,5 +30,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ANA PAULA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303996-surpresa-de-morango-com-ninho-da-ana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303996-surpresa-de-morango-com-ninho-da-ana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -20,5 +20,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MELISSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307689-pasta-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307689-pasta-de-cebola.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

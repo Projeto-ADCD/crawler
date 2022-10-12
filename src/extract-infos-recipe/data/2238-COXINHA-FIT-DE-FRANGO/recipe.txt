@@ -25,5 +25,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FRANCYANNE MORENO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305647-coxinha-fit-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305647-coxinha-fit-de-frango.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

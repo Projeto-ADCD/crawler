@@ -29,5 +29,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JOSE ANTONIO DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312338-cuscuz-peitinho-recheado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312338-cuscuz-peitinho-recheado.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

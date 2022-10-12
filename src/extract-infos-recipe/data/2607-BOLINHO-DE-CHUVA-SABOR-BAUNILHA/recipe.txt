@@ -35,5 +35,15 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "GEOVANE SANTOS DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304823-bolinho-de-chuva-sabor-baunilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304823-bolinho-de-chuva-sabor-baunilha.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

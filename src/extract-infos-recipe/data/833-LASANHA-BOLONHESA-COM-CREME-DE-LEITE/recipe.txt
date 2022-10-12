@@ -27,5 +27,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RAQUEL DE SOTTO MAYOR ROSEIRO BORGES DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311377-lasanha-bolonhesa-com-creme-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311377-lasanha-bolonhesa-com-creme-de-leite.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

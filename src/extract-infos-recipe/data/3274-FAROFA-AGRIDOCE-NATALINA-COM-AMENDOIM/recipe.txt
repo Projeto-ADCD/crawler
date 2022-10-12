@@ -28,5 +28,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "SANDRA M C SOUTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303625-farofa-agridoce-natalina-com-amendoim.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303625-farofa-agridoce-natalina-com-amendoim.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -25,5 +25,16 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "17 PORÇÕES",
   "autor": "ROSIMEIRE JACINAVICIUS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307264-cookie-de-chocolate-ou-cafe.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307264-cookie-de-chocolate-ou-cafe.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

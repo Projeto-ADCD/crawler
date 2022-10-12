@@ -27,5 +27,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "JUCELIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311607-farofa-colorida.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311607-farofa-colorida.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

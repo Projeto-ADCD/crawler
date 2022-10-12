@@ -20,5 +20,14 @@
   "tempo_de_preparo": "21600 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "JAMILE RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302235-vinagre-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302235-vinagre-de-banana.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

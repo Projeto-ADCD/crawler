@@ -26,5 +26,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "YOUR MY SUNSHINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308939-creme-de-milho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308939-creme-de-milho.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

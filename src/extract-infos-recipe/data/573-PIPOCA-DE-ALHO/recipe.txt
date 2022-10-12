@@ -21,5 +21,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "LIVIA MENEGHINI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312472-pipoca-de-alho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312472-pipoca-de-alho.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

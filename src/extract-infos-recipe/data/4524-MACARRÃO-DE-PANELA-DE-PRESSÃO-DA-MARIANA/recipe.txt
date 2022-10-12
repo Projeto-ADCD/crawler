@@ -26,5 +26,17 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "MARIANA VALENTIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300940-macarrao-de-panela-de-pressao-da-mariana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300940-macarrao-de-panela-de-pressao-da-mariana.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

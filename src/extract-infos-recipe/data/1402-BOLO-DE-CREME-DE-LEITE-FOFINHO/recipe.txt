@@ -11,18 +11,10 @@
       "1 caixa ou lata de creme de leite com soro"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Bata os ovos inteiros na batedeira por 5 minutos.",
-      "Em seguida acrescente o açúcar e manteiga (ou margarina) e bata por mais 10 minutos.",
-      "Desligue a batedeira e acrescente delicadamente aos poucos a farinha de trigo peneirada, o amido peneirado e o creme de leite.",
-      "Por último, acrescente o fermento.",
-      "Coloque em uma forma untada e leve ao forno preaquecido por 30 a  40 minutos.",
-      "Dica: Você pode transformar esse bolo em bolo de laranja, basta furar ele com um garfo e regar com suco de laranja, ou outra fruta de sua preferência, logo após tirar do forno."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "MARILIA SILVA DE MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308525-bolo-de-creme-de-leite-fofinho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308525-bolo-de-creme-de-leite-fofinho.html",
+  "tags": []
 }

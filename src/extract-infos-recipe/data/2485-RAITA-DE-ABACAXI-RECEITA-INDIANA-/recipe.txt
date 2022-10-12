@@ -26,5 +26,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "BASIC_GIRL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305096-raita-de-abacaxi-receita-indiana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305096-raita-de-abacaxi-receita-indiana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

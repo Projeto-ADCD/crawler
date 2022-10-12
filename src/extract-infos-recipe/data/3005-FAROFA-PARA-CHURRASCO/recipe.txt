@@ -25,5 +25,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "MARIA VAGNA DOS SANTOS OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304005-farofa-para-churrasco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304005-farofa-para-churrasco.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -37,5 +37,16 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "55 PORÇÕES",
   "autor": "CRISTINA RUFFATTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305460-pao-de-mel-da-cristina-ruffatto.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305460-pao-de-mel-da-cristina-ruffatto.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

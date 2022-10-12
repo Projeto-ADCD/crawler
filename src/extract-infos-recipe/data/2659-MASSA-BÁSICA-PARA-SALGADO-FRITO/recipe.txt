@@ -29,5 +29,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "40 PORÇÕES",
   "autor": "JOSELAINE DA SILVA CARDOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304724-massa-basica-para-salgado-frito.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304724-massa-basica-para-salgado-frito.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

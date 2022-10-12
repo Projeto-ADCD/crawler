@@ -30,5 +30,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MAÍRA GEANDRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306436-ra-a-provencal-com-molho-de-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306436-ra-a-provencal-com-molho-de-limao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

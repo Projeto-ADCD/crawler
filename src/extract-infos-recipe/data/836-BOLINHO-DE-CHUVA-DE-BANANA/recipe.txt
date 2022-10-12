@@ -25,5 +25,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "M&M RECEITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311354-bolinho-de-chuva-de-banana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311354-bolinho-de-chuva-de-banana.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

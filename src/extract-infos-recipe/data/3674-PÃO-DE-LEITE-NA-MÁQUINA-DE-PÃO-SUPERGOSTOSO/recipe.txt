@@ -27,5 +27,17 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "JOSIANE WEBER CARDOSO DIONISIO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302936-pao-de-leite-na-maquina-de-pao-supergostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302936-pao-de-leite-na-maquina-de-pao-supergostoso.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

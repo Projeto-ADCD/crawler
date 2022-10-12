@@ -23,5 +23,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ALINE SOBREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299891-bolinho-de-arroz-diferente.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299891-bolinho-de-arroz-diferente.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

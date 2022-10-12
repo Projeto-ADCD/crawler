@@ -42,5 +42,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "GILBERTO OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302477-paella-caipira-para-30-pessoas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302477-paella-caipira-para-30-pessoas.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

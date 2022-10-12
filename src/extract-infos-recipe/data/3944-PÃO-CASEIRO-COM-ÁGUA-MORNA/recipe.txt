@@ -28,5 +28,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "DAVID IVAN HINSCHING",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302325-pao-caseiro-com-agua-morna.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302325-pao-caseiro-com-agua-morna.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

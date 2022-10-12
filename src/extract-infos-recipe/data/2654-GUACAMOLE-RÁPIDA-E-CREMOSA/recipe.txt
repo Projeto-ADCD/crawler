@@ -35,5 +35,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "KAYLA FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304736-guacamole-rapida-e-cremosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304736-guacamole-rapida-e-cremosa.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

@@ -30,5 +30,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "CAROLINE FILADELFO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304935-bolo-de-aveia-com-banana-carol.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304935-bolo-de-aveia-com-banana-carol.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

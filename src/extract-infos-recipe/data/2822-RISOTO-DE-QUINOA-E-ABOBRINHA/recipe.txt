@@ -29,5 +29,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "RAFAELA MARCHI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304353-risoto-de-quinoa-e-abobrinha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304353-risoto-de-quinoa-e-abobrinha.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

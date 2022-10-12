@@ -20,5 +20,16 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "GENISELMA RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300316-mousse-de-gelatina-com-leite-de-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300316-mousse-de-gelatina-com-leite-de-coco.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

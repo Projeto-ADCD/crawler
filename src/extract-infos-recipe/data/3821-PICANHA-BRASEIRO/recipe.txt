@@ -22,5 +22,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARCIANO CRISTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302586-picanha-braseiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302586-picanha-braseiro.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

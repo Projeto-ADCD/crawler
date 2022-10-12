@@ -35,5 +35,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "APARECIDA GAZIOLLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299956-salmao-com-cebolas-carameladas-e-alcaparras.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299956-salmao-com-cebolas-carameladas-e-alcaparras.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

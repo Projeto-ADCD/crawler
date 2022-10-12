@@ -29,5 +29,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "45 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303817-pao-de-queijo-de-alho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303817-pao-de-queijo-de-alho.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

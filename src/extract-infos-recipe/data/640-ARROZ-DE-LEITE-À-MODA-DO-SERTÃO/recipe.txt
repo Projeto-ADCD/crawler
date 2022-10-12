@@ -26,5 +26,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BÉNISSON SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312205-arroz-de-leite-a-moda-do-sertao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312205-arroz-de-leite-a-moda-do-sertao.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

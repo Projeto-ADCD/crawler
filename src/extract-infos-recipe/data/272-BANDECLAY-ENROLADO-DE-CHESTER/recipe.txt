@@ -33,5 +33,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FERNANDA MEDEIROS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313535-bandeclay-enrolado-de-chester.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313535-bandeclay-enrolado-de-chester.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

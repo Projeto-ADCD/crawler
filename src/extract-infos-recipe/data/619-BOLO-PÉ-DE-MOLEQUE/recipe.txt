@@ -29,5 +29,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PRIMOR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312309-bolo-pe-de-moleque.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312309-bolo-pe-de-moleque.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

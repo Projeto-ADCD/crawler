@@ -12,11 +12,12 @@
       "Adicione o açúcar e bata até misturar bem",
       "Pegue uma colher (sopa) e uma forma, use a colher para colocar a quantidade desejada",
       "Leve ao forno a 180° C e espere aproximadamente 8 minutos até ficar pronto",
-      "Espere esfriar e sirva-se "
+      ""
     ]
   },
   "tempo_de_preparo": "15 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "NINAALFLEN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302131-merengues-faceis-e-rapidos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302131-merengues-faceis-e-rapidos.html",
+  "tags": []
 }

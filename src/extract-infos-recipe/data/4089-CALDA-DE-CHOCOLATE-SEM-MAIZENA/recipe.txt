@@ -15,5 +15,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "KEYLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301893-calda-de-chocolate-sem-maizena.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301893-calda-de-chocolate-sem-maizena.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -34,5 +34,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "CINTIACRISTINA GUERZONI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308957-bolo-gelado-da-vovo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308957-bolo-gelado-da-vovo.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -23,5 +23,16 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LIVIA APARECIDA GONÇALVES BENTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309600-bolacha-recheada-de-chocolate-caseira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309600-bolacha-recheada-de-chocolate-caseira.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

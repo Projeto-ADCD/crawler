@@ -24,5 +24,12 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FERNANDA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307949-caldo-maravilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307949-caldo-maravilha.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

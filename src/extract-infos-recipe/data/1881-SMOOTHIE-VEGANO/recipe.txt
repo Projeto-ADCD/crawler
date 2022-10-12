@@ -16,5 +16,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ALICE CARNEIRO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306543-smoothie-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306543-smoothie-vegano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

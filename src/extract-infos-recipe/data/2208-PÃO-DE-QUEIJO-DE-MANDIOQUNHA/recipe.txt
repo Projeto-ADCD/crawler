@@ -13,14 +13,10 @@
       "água filtrada para dar o pronto se necessário"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Misture os ingredientes e faça bolinhas",
-      "Leve para assar no forno preaquecido a 180° C por 25 a 30 minutos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "JEH VIANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305711-pao-de-queijo-de-mandioqunha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305711-pao-de-queijo-de-mandioqunha.html",
+  "tags": []
 }

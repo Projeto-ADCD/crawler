@@ -24,5 +24,16 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LAUREN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302424-brigadeiro-de-forno-facil-e-cremoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302424-brigadeiro-de-forno-facil-e-cremoso.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

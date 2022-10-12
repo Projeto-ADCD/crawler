@@ -33,5 +33,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "30 PORÇÕES",
   "autor": "KELLY FREITAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304632-antepasto-de-berinjela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304632-antepasto-de-berinjela.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

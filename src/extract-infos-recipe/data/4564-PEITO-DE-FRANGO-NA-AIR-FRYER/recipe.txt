@@ -12,12 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Tempere o frango com o sal, páprica e pimenta e deixe marinar (recomendo no mínimo 2 horas).",
-      "Arrume na Air fryer e ligue por 15 minutos a 180°c.",
-      "Vire o frango e aumente a temperatura para 200°c, e ligue a Air fryer por mais uns 5 minutos ou até dourar."
+      ""
     ]
   },
   "tempo_de_preparo": "25 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "THAYNÁ COSTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300841-peito-de-frango-na-air-fryer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300841-peito-de-frango-na-air-fryer.html",
+  "tags": []
 }

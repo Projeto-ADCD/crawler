@@ -40,5 +40,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "FERNANDA CACCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311917-torta-legumes-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311917-torta-legumes-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

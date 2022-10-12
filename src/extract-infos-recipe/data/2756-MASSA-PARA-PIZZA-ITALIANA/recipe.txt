@@ -23,5 +23,17 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "LEIDII_MARIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304507-massa-para-pizza-italiana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304507-massa-para-pizza-italiana.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

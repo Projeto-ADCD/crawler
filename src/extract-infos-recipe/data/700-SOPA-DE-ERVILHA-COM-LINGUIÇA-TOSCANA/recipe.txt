@@ -20,18 +20,10 @@
       "2 pitadas cheiro verde (opcional)"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Fritar a linguiça com todos os temperos.",
-      "Ferver a água",
-      "Quando a linguiça estiver dourada, acrescente a água fervente",
-      "Colocar todos os itens na panela de pressão e deixar por 10 minutos",
-      "Obs.: o caldo fica um pouco grosso. Se preferir um caldo mais fino, deixar a sopa na pressão por 7 min",
-      "Incluir pão torradinho para decorar"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "KELLY MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312015-sopa-de-ervilha-com-linguica-toscana.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312015-sopa-de-ervilha-com-linguica-toscana.html",
+  "tags": []
 }

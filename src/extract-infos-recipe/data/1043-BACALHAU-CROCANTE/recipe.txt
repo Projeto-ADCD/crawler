@@ -49,5 +49,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310270-bacalhau-crocante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310270-bacalhau-crocante.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

@@ -25,5 +25,15 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANGELICA SANTANA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302905-maionese-caseira-sem-ovos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302905-maionese-caseira-sem-ovos.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

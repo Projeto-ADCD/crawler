@@ -14,18 +14,10 @@
       "Sal e tempero à gosto"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Corte uma batata em pedaços menores e leve ao fogo para cozinhar até ficar bem mole.",
-      "Depois de escorrer a água e esfriar as batatas, coloque em um recipiente separado e amasse a batata com um garfo até virar purê.",
-      "Jogue 3 colheres de água (se necessário jogue mais, até virar uma massa)",
-      "Após obter o purê, coloque os legumes cortados, um pouco de sal e temperos à gosto.",
-      "Jogue um pouco de farinha de rosca em um prato separado, e pegue uma colher da massa, com as mãos cubra ela com a farinha e modele do modo que preferir.",
-      "Coloque na frigideira pré aquecida e vire após dourar, sirva em um prato e está pronto!"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "LETÍCIA LOBATO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313256-batata-empanada-com-recheio-de-legumes-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313256-batata-empanada-com-recheio-de-legumes-vegano.html",
+  "tags": []
 }

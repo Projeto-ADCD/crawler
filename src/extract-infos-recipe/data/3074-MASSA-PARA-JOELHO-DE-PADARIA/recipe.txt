@@ -34,5 +34,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "ALEXANDRE MEIER",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303915-massa-para-joelho-de-padaria.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303915-massa-para-joelho-de-padaria.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

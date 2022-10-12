@@ -37,5 +37,16 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LUIZ CLÁUDO DO NASCIMENTO CAVALCANTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308094-file-mignon-com-batatas-ao-forno.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308094-file-mignon-com-batatas-ao-forno.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

@@ -24,5 +24,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ELLEN OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306067-salpicao-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306067-salpicao-simples.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

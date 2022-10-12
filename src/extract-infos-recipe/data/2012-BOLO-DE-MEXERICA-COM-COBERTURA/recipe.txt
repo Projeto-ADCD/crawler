@@ -31,5 +31,15 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "JOSÉ DAVID",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306196-bolo-de-mexerica-com-cobertura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306196-bolo-de-mexerica-com-cobertura.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

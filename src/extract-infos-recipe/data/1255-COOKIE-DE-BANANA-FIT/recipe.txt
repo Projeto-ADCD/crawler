@@ -25,5 +25,8 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "LUIZA SILVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309219-cookie-de-banana-fit.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309219-cookie-de-banana-fit.html",
+  "tags": [
+    "LIGHT"
+  ]
 }

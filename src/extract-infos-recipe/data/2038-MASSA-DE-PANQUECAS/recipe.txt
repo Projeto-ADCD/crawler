@@ -25,5 +25,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "NATHALIA RAMOS VIEGAS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306143-massa-de-panquecas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306143-massa-de-panquecas.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

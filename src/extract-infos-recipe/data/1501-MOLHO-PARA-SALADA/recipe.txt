@@ -24,5 +24,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "VITORIA BANDEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308004-molho-para-salada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308004-molho-para-salada.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

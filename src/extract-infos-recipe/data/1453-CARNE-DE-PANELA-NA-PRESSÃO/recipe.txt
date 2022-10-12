@@ -26,5 +26,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "WILLIAN MORAIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308254-carne-de-panela-na-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308254-carne-de-panela-na-pressao.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

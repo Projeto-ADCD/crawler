@@ -25,5 +25,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "0 PORÇÕES",
   "autor": "JULIANA FÉLIX",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301132-pure-de-jerimum-vegano.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301132-pure-de-jerimum-vegano.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

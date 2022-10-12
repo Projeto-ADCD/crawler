@@ -37,5 +37,17 @@
   "tempo_de_preparo": "55 MIN",
   "rendimento": "16 PORÇÕES",
   "autor": "WILLIAM GOMES DA SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303532-croquete-de-frango-facil-e-saboroso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303532-croquete-de-frango-facil-e-saboroso.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

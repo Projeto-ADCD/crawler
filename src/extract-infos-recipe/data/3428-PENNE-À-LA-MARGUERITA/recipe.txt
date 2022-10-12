@@ -24,5 +24,17 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "CARLOS HENRIQUE DE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303384-penne-a-la-marguerita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303384-penne-a-la-marguerita.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

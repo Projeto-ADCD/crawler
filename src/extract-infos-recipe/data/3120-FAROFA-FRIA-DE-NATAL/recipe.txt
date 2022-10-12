@@ -32,5 +32,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "ALINE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303849-farofa-fria-de-natal.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303849-farofa-fria-de-natal.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

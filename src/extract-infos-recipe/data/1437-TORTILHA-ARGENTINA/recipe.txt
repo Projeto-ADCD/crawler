@@ -25,5 +25,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "FERNANDA RAMOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308340-tortilha-argentina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308340-tortilha-argentina.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

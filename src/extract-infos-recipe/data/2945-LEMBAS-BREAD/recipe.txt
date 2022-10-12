@@ -33,5 +33,15 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUIS HENRIQUE AZEVEDO MARQUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304092-lembas-bread.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304092-lembas-bread.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

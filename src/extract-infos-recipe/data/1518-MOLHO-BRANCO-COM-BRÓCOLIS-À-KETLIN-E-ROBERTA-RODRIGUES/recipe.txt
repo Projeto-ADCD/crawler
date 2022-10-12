@@ -28,5 +28,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DIENIFER RODRIGUES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307935-molho-branco-com-brocolis-a-ketlin-e-roberta-rodrigues.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307935-molho-branco-com-brocolis-a-ketlin-e-roberta-rodrigues.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

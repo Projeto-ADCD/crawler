@@ -43,5 +43,17 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "DELÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312581-lasanha-de-frango-e-brocolis.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312581-lasanha-de-frango-e-brocolis.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

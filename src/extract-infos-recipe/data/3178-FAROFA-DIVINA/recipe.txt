@@ -35,5 +35,15 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "LUCIANA RAMOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303777-farofa-divina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303777-farofa-divina.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

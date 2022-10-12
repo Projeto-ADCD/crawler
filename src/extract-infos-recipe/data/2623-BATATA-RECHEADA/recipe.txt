@@ -26,5 +26,15 @@
   "tempo_de_preparo": "130 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GABRIELLY VALENTIM",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304787-batata-recheada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304787-batata-recheada.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

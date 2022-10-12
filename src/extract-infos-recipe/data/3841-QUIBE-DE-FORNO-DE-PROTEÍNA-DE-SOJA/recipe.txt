@@ -43,5 +43,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CAROL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302556-quibe-de-forno-de-proteina-de-soja.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302556-quibe-de-forno-de-proteina-de-soja.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

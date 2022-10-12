@@ -25,5 +25,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "BIANCA LOPES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305986-pao-sem-sovar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305986-pao-sem-sovar.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

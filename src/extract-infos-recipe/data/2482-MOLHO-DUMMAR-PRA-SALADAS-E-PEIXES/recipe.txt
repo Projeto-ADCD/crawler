@@ -24,5 +24,15 @@
   "tempo_de_preparo": "12 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "MARIO MARINHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305101-molho-dummar-pra-saladas-e-peixes.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305101-molho-dummar-pra-saladas-e-peixes.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

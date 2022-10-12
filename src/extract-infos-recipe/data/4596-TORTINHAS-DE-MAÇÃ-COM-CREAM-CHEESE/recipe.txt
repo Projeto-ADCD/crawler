@@ -29,5 +29,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "VIVIAN CAROLINA PINTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300773-tortinhas-de-maca-com-cream-cheese.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300773-tortinhas-de-maca-com-cream-cheese.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

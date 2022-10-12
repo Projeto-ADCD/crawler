@@ -11,17 +11,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Corte as cebolas em rodelas finas.",
-      "Colocar o óleo em uma panela de fundo grosso adicione as cebolas e leve ao fogo baixo, com a panela tampada por 30 minutos, mexendo de vez em quando.",
-      "Abra a panela e deixe refogar por mais 5 minutos. Adicione a manteiga.",
-      "Quando a manteiga estiver completamente derretida, incorpore a farinha de mandioca e tempere com sal. Mexa constantemente até dourar levemente a farinha."
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Sugestão: servir como acompanhamento para o Lombo Frimesa."
+      "Corte as cebolas em rodelas finas."
     ]
   },
   "tempo_de_preparo": "45 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "FRIMESA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314023-farofa-crocante-de-cebola.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314023-farofa-crocante-de-cebola.html",
+  "tags": []
 }

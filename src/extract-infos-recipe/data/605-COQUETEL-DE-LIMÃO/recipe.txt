@@ -19,5 +19,12 @@
   "tempo_de_preparo": "2 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "HIGOR SILVA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312377-coquetel-de-limao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312377-coquetel-de-limao.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

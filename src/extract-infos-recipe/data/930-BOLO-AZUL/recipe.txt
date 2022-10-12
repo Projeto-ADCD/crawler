@@ -11,17 +11,10 @@
       "1 colher (sopa) de anilina em gel azul"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Bata a manteiga, os ovos e o açúcar na batedeira por 3 minutos",
-      "Acrescente a farinha com o chocolate e o leite",
-      "Junte a anilina bata por mais 4 minutos, coloque em uma forma untada",
-      "Leve ao forno por 25 minutos",
-      "Faça o teste do palito, não precisa aquecer o forno antes não."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "DEJANE REIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310856-bolo-azul.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310856-bolo-azul.html",
+  "tags": []
 }

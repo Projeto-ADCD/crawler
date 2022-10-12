@@ -35,5 +35,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "FERNANDA NUNES VICENTE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306519-polpetone-de-carne.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306519-polpetone-de-carne.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

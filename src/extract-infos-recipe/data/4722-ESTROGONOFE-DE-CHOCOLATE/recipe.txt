@@ -21,5 +21,16 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "WANNESSA AQUINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300358-estrogonofe-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300358-estrogonofe-de-chocolate.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -27,5 +27,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "NICOLE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305286-bolo-de-caneca-de-chocolate.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305286-bolo-de-caneca-de-chocolate.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

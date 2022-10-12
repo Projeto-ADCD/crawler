@@ -29,5 +29,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "CHEF PAULO CORREIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305158-pao-de-frigideira-lowcarb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305158-pao-de-frigideira-lowcarb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

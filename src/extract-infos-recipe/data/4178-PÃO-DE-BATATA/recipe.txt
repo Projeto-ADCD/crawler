@@ -24,5 +24,17 @@
   "tempo_de_preparo": "122 MIN",
   "rendimento": "52 PORÇÕES",
   "autor": "LAURA CARVALHO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301659-pao-de-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301659-pao-de-batata.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

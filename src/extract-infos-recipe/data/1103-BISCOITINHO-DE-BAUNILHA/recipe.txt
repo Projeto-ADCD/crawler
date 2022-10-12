@@ -26,5 +26,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ROSEMEIRE MACIEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309876-biscoitinho-de-baunilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309876-biscoitinho-de-baunilha.html",
+  "tags": [
+    "BISCOITO",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

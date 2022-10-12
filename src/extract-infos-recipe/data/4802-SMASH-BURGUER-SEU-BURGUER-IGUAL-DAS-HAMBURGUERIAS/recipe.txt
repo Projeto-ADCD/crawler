@@ -55,5 +55,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "RAFAEL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300206-smash-burguer-seu-burguer-igual-das-hamburguerias.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300206-smash-burguer-seu-burguer-igual-das-hamburguerias.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

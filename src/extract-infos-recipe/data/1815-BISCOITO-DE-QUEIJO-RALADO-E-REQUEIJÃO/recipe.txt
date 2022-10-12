@@ -21,5 +21,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "45 PORÇÕES",
   "autor": "MARIANA ZILLI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306721-biscoito-de-queijo-ralado-e-requeijao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306721-biscoito-de-queijo-ralado-e-requeijao.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

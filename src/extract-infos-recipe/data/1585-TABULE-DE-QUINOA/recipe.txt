@@ -24,5 +24,14 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MANUELA VIEIRA NETTO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307504-tabule-de-quinoa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307504-tabule-de-quinoa.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

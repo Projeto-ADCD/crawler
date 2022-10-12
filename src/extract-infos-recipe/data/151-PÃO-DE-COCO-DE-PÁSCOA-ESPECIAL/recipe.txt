@@ -33,5 +33,14 @@
   "tempo_de_preparo": "300 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "CHEFFRANÇOIS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/314178-pao-de-coco-de-pascoa-especial.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/314178-pao-de-coco-de-pascoa-especial.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

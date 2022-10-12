@@ -23,5 +23,15 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "AMANDA RICARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311837-tomate-seco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311837-tomate-seco.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

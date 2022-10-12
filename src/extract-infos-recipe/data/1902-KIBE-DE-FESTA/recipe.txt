@@ -31,5 +31,14 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "150 PORÇÕES",
   "autor": "BEATRIZ DOS SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306490-kibe-de-festa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306490-kibe-de-festa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

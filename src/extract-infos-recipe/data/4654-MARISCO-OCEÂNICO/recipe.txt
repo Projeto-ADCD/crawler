@@ -29,5 +29,14 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "CHEFROGERIO MALMESI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300548-marisco-oceanico.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300548-marisco-oceanico.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

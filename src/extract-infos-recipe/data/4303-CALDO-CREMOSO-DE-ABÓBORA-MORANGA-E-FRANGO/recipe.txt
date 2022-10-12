@@ -41,5 +41,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "LAVINIA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301405-caldo-cremoso-de-abobora-moranga-e-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301405-caldo-cremoso-de-abobora-moranga-e-frango.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

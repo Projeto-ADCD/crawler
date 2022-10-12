@@ -25,5 +25,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "ROSA MARIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301304-petisco-de-calabresa-sequinha-na-airfryer.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301304-petisco-de-calabresa-sequinha-na-airfryer.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

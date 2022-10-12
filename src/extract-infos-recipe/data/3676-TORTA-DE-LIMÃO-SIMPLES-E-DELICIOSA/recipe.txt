@@ -35,5 +35,15 @@
   "tempo_de_preparo": "1120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "KÁTIA MACHADO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302931-torta-de-limao-simples-e-deliciosa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302931-torta-de-limao-simples-e-deliciosa.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

@@ -30,5 +30,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "CAMILA B.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/309342-risoto-de-beterraba.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/309342-risoto-de-beterraba.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

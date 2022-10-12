@@ -44,5 +44,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "CLÁUDIA SOFIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305174-torta-facil-de-frango-com-palmito.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305174-torta-facil-de-frango-com-palmito.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -21,5 +21,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "JOJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301966-bolinho-de-arroz-com-bacon-facil-da-jo.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301966-bolinho-de-arroz-com-bacon-facil-da-jo.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -26,5 +26,16 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "WILLIAM SARZI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302548-quirerinha-com-carne-suina.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302548-quirerinha-com-carne-suina.html",
+  "tags": [
+    "PORCO",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

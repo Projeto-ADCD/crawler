@@ -21,5 +21,16 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "50 PORÇÕES",
   "autor": "MIRELA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301068-sequilhos-facil-da-mirela.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301068-sequilhos-facil-da-mirela.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

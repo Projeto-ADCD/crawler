@@ -34,5 +34,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MOISÉS COSTA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/307566-peixe-ao-creme-de-alho-poro-e-paprica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/307566-peixe-ao-creme-de-alho-poro-e-paprica.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

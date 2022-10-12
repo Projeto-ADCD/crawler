@@ -26,5 +26,14 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "MYERE MAIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303101-pao-de-queijo-de-frigideira.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303101-pao-de-queijo-de-frigideira.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

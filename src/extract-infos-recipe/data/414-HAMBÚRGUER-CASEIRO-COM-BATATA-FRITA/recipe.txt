@@ -19,5 +19,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "BEM BRASIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312870-hamburguer-caseiro-com-batata-frita.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312870-hamburguer-caseiro-com-batata-frita.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

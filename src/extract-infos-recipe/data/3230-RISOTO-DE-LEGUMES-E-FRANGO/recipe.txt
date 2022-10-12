@@ -36,5 +36,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "KARINE LACERDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303686-risoto-de-legumes-e-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303686-risoto-de-legumes-e-frango.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -30,5 +30,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "25 PORÇÕES",
   "autor": "MIRIAN ROSANO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301045-carolinas-de-doce-de-leite.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301045-carolinas-de-doce-de-leite.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

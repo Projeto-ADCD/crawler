@@ -25,5 +25,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "RAQUELI BRAG",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301560-cuscuz-mineiro.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301560-cuscuz-mineiro.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

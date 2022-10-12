@@ -23,5 +23,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "35 PORÇÕES",
   "autor": "LOWCUCAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303878-cookies-integrais-de-banana-com-aveia-zero-acucar.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303878-cookies-integrais-de-banana-com-aveia-zero-acucar.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

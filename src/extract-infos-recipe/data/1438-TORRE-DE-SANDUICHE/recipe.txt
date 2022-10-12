@@ -24,5 +24,14 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ISADORA PALILIUNAS COPPA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308338-torre-de-sanduiche.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308338-torre-de-sanduiche.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

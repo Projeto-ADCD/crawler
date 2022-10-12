@@ -24,5 +24,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "RAYSSA DOS ANJOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299809-doce-de-chocolate-crocante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299809-doce-de-chocolate-crocante.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

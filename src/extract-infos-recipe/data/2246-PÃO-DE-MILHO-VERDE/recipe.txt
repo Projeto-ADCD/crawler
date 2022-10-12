@@ -33,5 +33,17 @@
   "tempo_de_preparo": "120 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "JACKELINE ALVES VILAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305635-pao-de-milho-verde.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305635-pao-de-milho-verde.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

@@ -20,5 +20,16 @@
   "tempo_de_preparo": "0 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "DUDINHA PEQUENO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313131-brigadeiro-de-colher.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313131-brigadeiro-de-colher.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -45,5 +45,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "FRANCICLEIDE ALVES SOUSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303655-ensopado-de-bacalhau-e-farofa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303655-ensopado-de-bacalhau-e-farofa.html",
+  "tags": [
+    "PEIXES E FRUTOS DO MAR",
+    "CAMARÃO",
+    "PEIXE",
+    "BACALHAU",
+    "PAELLA",
+    "SALMÃO",
+    "SARDINHA"
+  ]
 }

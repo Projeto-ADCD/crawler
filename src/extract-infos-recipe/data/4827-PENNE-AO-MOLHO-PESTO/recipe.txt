@@ -24,5 +24,17 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "LORENA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300146-penne-ao-molho-pesto.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300146-penne-ao-molho-pesto.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

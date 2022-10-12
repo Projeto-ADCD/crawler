@@ -29,5 +29,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "LAURA GROTTI",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302415-cupcake-de-chocolate-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302415-cupcake-de-chocolate-simples.html",
+  "tags": [
+    "CUPCAKE",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

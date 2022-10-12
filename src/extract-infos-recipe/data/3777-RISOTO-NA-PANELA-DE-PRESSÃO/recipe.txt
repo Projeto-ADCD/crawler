@@ -31,5 +31,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "TAMIRES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302725-risoto-na-panela-de-pressao.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302725-risoto-na-panela-de-pressao.html",
+  "tags": [
+    "RISOTO",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

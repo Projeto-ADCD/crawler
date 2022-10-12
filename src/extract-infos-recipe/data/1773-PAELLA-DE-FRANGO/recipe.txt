@@ -35,5 +35,14 @@
   "tempo_de_preparo": "45 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "ROMULO MAXIMO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306844-paella-de-frango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306844-paella-de-frango.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

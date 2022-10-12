@@ -31,5 +31,15 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ANTONIA SOARES DA SILVA LOIOLA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303546-farofa-de-arroz-superfacil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303546-farofa-de-arroz-superfacil.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

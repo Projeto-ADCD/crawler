@@ -31,5 +31,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "SUSANA LIMA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305346-batatas-com-bacon-sududdshy.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305346-batatas-com-bacon-sududdshy.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

@@ -22,5 +22,17 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "9 PORÇÕES",
   "autor": "SILMARA JANEGITZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/311568-massa-para-panquecas-sem-gluten.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/311568-massa-para-panquecas-sem-gluten.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

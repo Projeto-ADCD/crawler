@@ -24,5 +24,15 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "DELAIR CAETANO GOMES Fº",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302470-bolinho-de-arroz-frito-com-queijo-ralado-do-delair.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302470-bolinho-de-arroz-frito-com-queijo-ralado-do-delair.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

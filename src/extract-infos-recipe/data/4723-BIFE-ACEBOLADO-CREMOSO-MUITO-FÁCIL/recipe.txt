@@ -23,5 +23,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ISA LAURINTINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300355-bife-acebolado-cremoso-muito-facil.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300355-bife-acebolado-cremoso-muito-facil.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

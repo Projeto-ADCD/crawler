@@ -25,5 +25,15 @@
   "tempo_de_preparo": "100 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "EMILY ARAUJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303131-bolo-engorda-marido-de-pernambuco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303131-bolo-engorda-marido-de-pernambuco.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

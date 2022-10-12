@@ -24,5 +24,16 @@
   "tempo_de_preparo": "5 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "SOFIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301377-sorvete-de-baunilha-com-pedacos-de-goiabada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301377-sorvete-de-baunilha-com-pedacos-de-goiabada.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

@@ -27,5 +27,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "ALBERTO AZEVEDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299759-coxa-e-sobrecoxa-de-frango-ao-forno-com-limao-e-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299759-coxa-e-sobrecoxa-de-frango-ao-forno-com-limao-e-batata.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

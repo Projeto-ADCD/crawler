@@ -43,5 +43,15 @@
   "tempo_de_preparo": "95 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LÍDIA AGUIAR",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303075-bolo-3-chocolates.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303075-bolo-3-chocolates.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

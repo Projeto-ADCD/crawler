@@ -30,5 +30,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MARCELO GAIARDO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304981-bolo-de-carne-moida-com-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304981-bolo-de-carne-moida-com-batata.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

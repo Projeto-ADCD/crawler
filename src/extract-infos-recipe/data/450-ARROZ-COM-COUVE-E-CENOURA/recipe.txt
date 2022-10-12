@@ -24,5 +24,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "GISELLE CIRINO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312807-arroz-com-couve-e-cenoura.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312807-arroz-com-couve-e-cenoura.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

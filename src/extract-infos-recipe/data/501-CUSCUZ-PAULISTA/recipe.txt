@@ -45,5 +45,14 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "12 PORÇÕES",
   "autor": "ERICA CASTRO FONCECA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312665-cuscuz-paulista.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312665-cuscuz-paulista.html",
+  "tags": [
+    "CUSCUZ",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

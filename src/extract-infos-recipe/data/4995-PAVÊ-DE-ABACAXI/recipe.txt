@@ -40,5 +40,16 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "5 PORÇÕES",
   "autor": "ANA CLAUDIA FERREIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/299756-pave-de-abacaxi.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/299756-pave-de-abacaxi.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

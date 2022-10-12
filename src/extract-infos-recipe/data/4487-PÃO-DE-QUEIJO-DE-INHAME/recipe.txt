@@ -12,19 +12,10 @@
       "1 colher (sopa) de chia"
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Em uma tigela, misture o polvilho doce, o polvilho azedo, o queijo, o sal e o óleo.",
-      "Misture bem. ",
-      "Adicione a água, o purê de inhame e a chia.",
-      "Misture bem até formar uma massa homogênea. ",
-      "Faça bolinhas com a massa. ",
-      "Coloque-as em uma forma untada com óleo.",
-      "Leve ao forno preaquecido (200° C) por cerca de 30 minutos."
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "40 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301005-pao-de-queijo-de-inhame.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301005-pao-de-queijo-de-inhame.html",
+  "tags": []
 }

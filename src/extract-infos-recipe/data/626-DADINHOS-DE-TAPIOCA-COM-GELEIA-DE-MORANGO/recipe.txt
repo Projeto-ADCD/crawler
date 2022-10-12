@@ -27,5 +27,15 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "BIG",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312272-dadinhos-de-tapioca-com-geleia-de-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312272-dadinhos-de-tapioca-com-geleia-de-morango.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

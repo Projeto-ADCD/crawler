@@ -35,5 +35,15 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "BEM BRASIL",
-  "url_receita": "https://www.tudogostoso.com.br/receita/312859-escondidinho-de-camarao-com-batata-noisette.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/312859-escondidinho-de-camarao-com-batata-noisette.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

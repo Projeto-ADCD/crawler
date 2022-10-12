@@ -20,5 +20,12 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "TIFFANY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301818-achocolatado-maravilha.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301818-achocolatado-maravilha.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

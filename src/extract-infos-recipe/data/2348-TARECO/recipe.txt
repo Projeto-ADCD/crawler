@@ -21,5 +21,14 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LETÍCIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305437-tareco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305437-tareco.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR",
+    "BOLINHO DE CHUVA"
+  ]
 }

@@ -12,15 +12,12 @@
   "passos": {
     "DEFAULT": [
       "Leve ao fogo o leite condensado, o leite de vaca e as 4 gemas, mexendo sempre, até ligeira fervura.",
-      "Reservar.",
-      "Bata as 4 claras em neve, misture com o açúcar (peneirado) e, por último, o creme de leite.",
-      "Misture então, com o creme já reservado.",
-      "Caramelize uma forma redonda (de furo no meio), polvilhe com nescau e despeje o creme.",
-      "Leve ao confgelador ou freezer por 24 horas."
+      ""
     ]
   },
   "tempo_de_preparo": "30 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "PAULA ARRUDA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305657-sorvete-da-chica.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305657-sorvete-da-chica.html",
+  "tags": []
 }

@@ -38,5 +38,14 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TATIANA SANTIAGO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306346-bolo-de-coco-low-carb.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306346-bolo-de-coco-low-carb.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

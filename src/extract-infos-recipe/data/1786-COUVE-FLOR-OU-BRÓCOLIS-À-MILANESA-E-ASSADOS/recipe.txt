@@ -26,5 +26,14 @@
   "tempo_de_preparo": "20 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ELIÉSER DA SILVA BARBOSA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306803-couve-flor-ou-brocolis-a-milanesa-e-assados.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306803-couve-flor-ou-brocolis-a-milanesa-e-assados.html",
+  "tags": [
+    "ALIMENTAÇÃO SAUDÁVEL",
+    "SEM GLÚTEN",
+    "SEM LACTOSE",
+    "LIGHT",
+    "DIET",
+    "DETOX",
+    "FITNESS"
+  ]
 }

@@ -27,5 +27,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "HILSON NERY MULETA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303967-pasta-de-alho-do-moletta.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303967-pasta-de-alho-do-moletta.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

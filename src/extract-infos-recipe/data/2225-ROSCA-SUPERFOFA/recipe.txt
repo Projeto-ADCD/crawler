@@ -25,5 +25,13 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "FABIANA OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305674-rosca-superfofa.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305674-rosca-superfofa.html",
+  "tags": [
+    "LANCHES",
+    "SALGADINHOS",
+    "COXINHA",
+    "TORTA SALGADA",
+    "EMPADÃO",
+    "TORTA SALGADA DE LIQUIDIFICADOR"
+  ]
 }

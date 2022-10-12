@@ -25,5 +25,14 @@
   "tempo_de_preparo": "90 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "LARISSA SANTOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/303663-coxa-de-frango-recheada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/303663-coxa-de-frango-recheada.html",
+  "tags": [
+    "AVES",
+    "PERU",
+    "CHESTER",
+    "FRICASSÊ",
+    "FRANGO À MILANESA",
+    "FRANGO ASSADO",
+    "FILÉ DE FRANGO"
+  ]
 }

@@ -29,5 +29,16 @@
   "tempo_de_preparo": "1440 MIN",
   "rendimento": "2000 PORÇÕES",
   "autor": "JOANA V.",
-  "url_receita": "https://www.tudogostoso.com.br/receita/310275-sorvete-de-supermercado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/310275-sorvete-de-supermercado.html",
+  "tags": [
+    "DOCES E SOBREMESAS",
+    "MOUSSES",
+    "PUDINS, FLANS",
+    "DOCINHOS E BOMBONS",
+    "PAVÊS",
+    "BRIGADEIRO",
+    "TORTA DOCE",
+    "PUDIM DE LEITE EM PÓ",
+    "LIGHT"
+  ]
 }

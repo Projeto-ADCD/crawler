@@ -22,5 +22,14 @@
   "tempo_de_preparo": "40 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "LUCIANA MELLO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301239-prato-de-batata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301239-prato-de-batata.html",
+  "tags": [
+    "PRATO ÚNICO",
+    "RISOTO",
+    "PANQUECA",
+    "YAKISOBA",
+    "ESCONDIDINHO",
+    "GALINHADA",
+    "FEIJOADA"
+  ]
 }

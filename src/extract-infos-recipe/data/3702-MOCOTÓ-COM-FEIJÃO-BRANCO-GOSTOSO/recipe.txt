@@ -27,5 +27,12 @@
   "tempo_de_preparo": "80 MIN",
   "rendimento": "20 PORÇÕES",
   "autor": "LUCAS GALVÃO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302871-mocoto-com-feijao-branco-gostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302871-mocoto-com-feijao-branco-gostoso.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

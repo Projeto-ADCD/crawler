@@ -28,5 +28,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "3 PORÇÕES",
   "autor": "OMAR FRANCO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/301687-molho-de-maionese-para-carnes-diversas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/301687-molho-de-maionese-para-carnes-diversas.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

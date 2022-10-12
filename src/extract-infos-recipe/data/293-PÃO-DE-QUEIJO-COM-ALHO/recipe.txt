@@ -1,29 +1,10 @@
 {
   "nome_receita": "PÃO DE QUEIJO COM ALHO",
-  "ingredientes": {
-    "MASSA ": [
-      "200 g de creme de leite ",
-      "200 g de polvilho azedo ",
-      "200 g de parmesāo ralado ",
-      "200 g de polvilho doce"
-    ],
-    "RECHEIO ": [
-      "2 dentes de alho picado ",
-      "100 g de mussarela ralada ",
-      "orégano a gosto "
-    ]
-  },
-  "passos": {
-    "DEFAULT": [
-      "Misture todos os ingredientes da massa",
-      "Faça bolinhas ou modele como quiser",
-      "Em outro recipiente, misture os ingredientes do recheio e reserve",
-      "Abra e coloque os ingredientes do recheio com cuidado",
-      "Leve para assar a 180° C por pelo menos 25 minutos, ou até eles estarem dourados"
-    ]
-  },
+  "ingredientes": {},
+  "passos": {},
   "tempo_de_preparo": "30 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "TUDOGOSTOSO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/313358-pao-de-queijo-com-alho.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/313358-pao-de-queijo-com-alho.html",
+  "tags": []
 }

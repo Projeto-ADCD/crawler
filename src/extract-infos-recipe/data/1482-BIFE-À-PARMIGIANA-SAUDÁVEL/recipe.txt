@@ -27,5 +27,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "JORGE SENNE",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308093-bife-a-parmigiana-saudavel.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308093-bife-a-parmigiana-saudavel.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

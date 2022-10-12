@@ -22,5 +22,17 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "MAYARA GALHEANOS",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302973-pizza-caseira-de-liquidificador.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302973-pizza-caseira-de-liquidificador.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

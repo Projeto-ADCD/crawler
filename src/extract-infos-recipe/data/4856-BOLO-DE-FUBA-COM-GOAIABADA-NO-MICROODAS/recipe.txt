@@ -32,5 +32,15 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "8 PORÇÕES",
   "autor": "ANDREZA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300084-bolo-de-fuba-com-goaiabada-no-microodas.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300084-bolo-de-fuba-com-goaiabada-no-microodas.html",
+  "tags": [
+    "BOLOS E TORTAS DOCES",
+    "BOLO DE LIQUIDIFICADOR",
+    "CUPCAKE",
+    "BOLO DE CHOCOLATE",
+    "BOLO SIMPLES",
+    "BOLO INTEGRAL",
+    "BOLO DE COCO",
+    "TORTA HOLANDESA"
+  ]
 }

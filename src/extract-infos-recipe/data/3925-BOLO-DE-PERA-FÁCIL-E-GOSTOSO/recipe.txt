@@ -12,22 +12,12 @@
   },
   "passos": {
     "DEFAULT": [
-      "Na batedeira, bata os ovos e o açúcar por 5 minutos em velocidade máxima.",
-      "Corte 3 peras em cubos, sem caroço e sem sementes.",
-      "A outra pera corte em fatias para decorar no final.",
-      "Adicione o óleo e as peras em cubos na mistura dos ovos.",
-      "Misture tudo",
-      "Misture o fermento no trigo e vá peneirando aos poucos na mistura.",
-      "Mexa com delicadeza revirando de um lado pro outro.",
-      "Leve para assar em forno preaquecido 180° C por 1 hora",
-      " "
-    ],
-    "INFORMAÇÕES ADICIONAIS": [
-      "Obs: as fatias de pera são colocadas por cima na hora de levar para assar. Se quiser pode usar uma geleia de pera, pêssego ou outra da sua preferência só para pincelar depois de assado. Bon appétit"
+      ""
     ]
   },
   "tempo_de_preparo": "20 MIN",
   "rendimento": "15 PORÇÕES",
   "autor": "JOJO",
-  "url_receita": "https://www.tudogostoso.com.br/receita/302360-bolo-de-pera-facil-e-gostoso.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/302360-bolo-de-pera-facil-e-gostoso.html",
+  "tags": []
 }

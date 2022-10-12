@@ -18,5 +18,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "FROOTY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306095-suco-de-acai-refrescante.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306095-suco-de-acai-refrescante.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

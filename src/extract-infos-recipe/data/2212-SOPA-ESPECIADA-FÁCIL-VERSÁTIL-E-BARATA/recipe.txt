@@ -25,5 +25,12 @@
   "tempo_de_preparo": "50 MIN",
   "rendimento": "4 PORÇÕES",
   "autor": "SARITA ALVARES",
-  "url_receita": "https://www.tudogostoso.com.br/receita/305703-sopa-especiada-facil-versatil-e-barata.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/305703-sopa-especiada-facil-versatil-e-barata.html",
+  "tags": [
+    "SOPAS",
+    "COZIDOS E ENSOPADOS",
+    "PANELA DE PRESSÃO",
+    "ENSOPADO",
+    "CALDO VERDE"
+  ]
 }

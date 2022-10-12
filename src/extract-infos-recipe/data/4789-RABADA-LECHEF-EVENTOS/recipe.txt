@@ -32,5 +32,16 @@
   "tempo_de_preparo": "60 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "CHEF RAFLA F",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300226-rabada-lechef-eventos.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300226-rabada-lechef-eventos.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }

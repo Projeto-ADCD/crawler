@@ -17,5 +17,12 @@
   "tempo_de_preparo": "15 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "FROOTY",
-  "url_receita": "https://www.tudogostoso.com.br/receita/306097-vitamina-de-acai-com-morango.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/306097-vitamina-de-acai-com-morango.html",
+  "tags": [
+    "BEBIDAS",
+    "DRINKS E COQUETÉIS NÃO ALCOÓLICOS",
+    "SUCO",
+    "VITAMINA",
+    "LIGHT"
+  ]
 }

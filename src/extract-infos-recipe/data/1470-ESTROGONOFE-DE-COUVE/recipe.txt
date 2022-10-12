@@ -25,5 +25,15 @@
   "tempo_de_preparo": "10 MIN",
   "rendimento": "2 PORÇÕES",
   "autor": "MARIA ROCHA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/308156-estrogonofe-de-couve.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/308156-estrogonofe-de-couve.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

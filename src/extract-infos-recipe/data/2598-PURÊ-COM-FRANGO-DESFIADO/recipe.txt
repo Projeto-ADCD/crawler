@@ -19,35 +19,13 @@
       "1 cebola grande",
       "salsinha (opcional)",
       "queijo ralado",
-      "3 fatias de musarela"
+      ""
     ]
   },
-  "passos": {
-    "DEFAULT": [
-      "Purê de batata",
-      "Descasque as batatas e as coloque inteiras em uma panela com água",
-      "Deixe conzinhar até ficar bem mole (demora uns 20 a 30 minutos em fogo alto )",
-      "Depois de retirar, esprema as batatas até não ficar mais pedaços",
-      "Acrescente manteiga e leite, e mexa até ficar liso",
-      "Reserve",
-      "Recheio",
-      "Tempere o frango com alho, salsinha e sal",
-      "Depois coloque o frango na panela com o azeite e deixe cozinhar",
-      "Obs: se o frango começar a grudar na panela coloque metade de um copo com água para melhorar o cozimento",
-      "Vire o frango de vez em quando para cozinhar dos dois lados até ficar dourado",
-      "Retire o frango da panela e desfie",
-      "Após desfiar, volte o frango para a panela e acrescente cebola bem picada, maionese, milho e requeijão",
-      "Misture tudo até ficar cremoso",
-      "Montagem",
-      "Numa travessa untada com margarina, coloque o purê de batara e espalhe",
-      "Em seguida derrame o recheio do frango e em cima coloque pedaços de musarela e queijo parmesão",
-      "Coloque no forno preaquecido a 180° C por aproximadamente 20 minutos ou até a mussarela derreter",
-      "Sirva com arroz e batata palha ",
-      "Bom apetite"
-    ]
-  },
+  "passos": {},
   "tempo_de_preparo": "60 MIN",
   "rendimento": "10 PORÇÕES",
   "autor": "LARISSA TARDIN",
-  "url_receita": "https://www.tudogostoso.com.br/receita/304849-pure-com-frango-desfiado.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/304849-pure-com-frango-desfiado.html",
+  "tags": []
 }

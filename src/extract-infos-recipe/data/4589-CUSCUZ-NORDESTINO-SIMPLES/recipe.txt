@@ -20,5 +20,15 @@
   "tempo_de_preparo": "25 MIN",
   "rendimento": "1 PORÇÃO",
   "autor": "ANA FLAVIA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300789-cuscuz-nordestino-simples.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300789-cuscuz-nordestino-simples.html",
+  "tags": [
+    "SALADAS, MOLHOS E ACOMPANHAMENTOS",
+    "MOLHOS",
+    "SALADAS",
+    "ACOMPANHAMENTOS",
+    "ARROZ",
+    "FEIJÃO",
+    "RISOTO",
+    "MOLHO BRANCO"
+  ]
 }

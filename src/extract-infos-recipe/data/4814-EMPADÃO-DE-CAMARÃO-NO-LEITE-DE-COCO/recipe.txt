@@ -62,5 +62,17 @@
   "tempo_de_preparo": "180 MIN",
   "rendimento": "7 PORÇÕES",
   "autor": "MICHAEL BRUNO GÜTZ",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300178-empadao-de-camarao-no-leite-de-coco.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300178-empadao-de-camarao-no-leite-de-coco.html",
+  "tags": [
+    "MASSAS",
+    "PIZZAS, EMPANADOS E CALZONES",
+    "MACARRÃO",
+    "LASANHAS, NHOQUES E CIA.",
+    "PÃES",
+    "PIZZA",
+    "ESPAGUETE",
+    "PANQUECA",
+    "MACARRONADA",
+    "PÃO DE QUEIJO"
+  ]
 }

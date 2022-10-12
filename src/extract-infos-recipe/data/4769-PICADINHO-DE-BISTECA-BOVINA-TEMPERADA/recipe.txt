@@ -22,5 +22,16 @@
   "tempo_de_preparo": "30 MIN",
   "rendimento": "6 PORÇÕES",
   "autor": "DAIANE OLIVEIRA",
-  "url_receita": "https://www.tudogostoso.com.br/receita/300258-picadinho-de-bisteca-bovina-temperada.html"
+  "url_receita": "https://www.tudogostoso.com.br/receita/300258-picadinho-de-bisteca-bovina-temperada.html",
+  "tags": [
+    "CARNES",
+    "ESTROGONOFE",
+    "PARMEGIANA",
+    "PICANHA",
+    "ALMÔNDEGA",
+    "FILÉ MIGNON",
+    "TENDER",
+    "FILÉ",
+    "PANELA DE PRESSÃO"
+  ]
 }
