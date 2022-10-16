@@ -5,6 +5,7 @@ import os
 from sql_code import *
 import glob
 import json
+import re
 
 conn = psycopg2.connect(
     host=os.environ['HOST'],
@@ -34,14 +35,24 @@ for dir in list_receitas:
   nome = dir.split('/')[-1]
 
   with open(dir+"/recipe.txt",'r') as file:
-    json_str = json.dumps(json.loads(file.read()),ensure_ascii=False)
-  
+    file_readed = file.read()
+    json_str = json.dumps(json.loads(file_readed),ensure_ascii=False)
+    json_receita = json.loads(file_readed)
 
-  if os.path.exists(dir+ "/img.jpg"):
-    sql_insert = build_insert(json_str, True, nome)
-  else:
-    sql_insert = build_insert(json_str, False, 'miau kiaralho')
+  try:
+    porcoes = int(re.search("[0-9]+",json_receita['rendimento'])[0])
+  except:
+    porcoes = 0
+  try:
+    tempo = int(re.search("[0-9]+",json_receita['tempo_de_preparo'])[0])
+  except:
+    porcoes = 0
   
+  if os.path.exists(dir+ "/img.jpg"):
+    sql_insert = build_insert(json_str, True, nome, tempo, porcoes)
+  else:
+    sql_insert = build_insert(json_str, False, 'miau kiaralho', tempo, porcoes)
+
   try:
     cur.execute(sql_insert) ## inserindo as receitas no db
     conn.commit()
